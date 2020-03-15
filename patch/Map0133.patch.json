@@ -1,0 +1,287 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[45,1,21,2],
+			"patch":
+			[
+				"\\c[10]Radio\\c[0]:\\s[4] Attention all Brigantian troops,",
+				"the mission has been compromised!\\.\\.\\^"
+			]
+		},
+		{
+			"path":[45,1,31,3],
+			"patch":
+			[
+				"\\c[10]Radio\\c[0]:\\s[4] Retreat immediately!\\. ",
+				"Attention all Brigantian troops,\\.",
+				"I repeat, retreat immediately!\\.\\.\\^"
+			]
+		},
+		{
+			"path":[45,1,42,1],
+			"patch":
+			[
+				"\\c[1]?????\\c[0]:\\s[9] .......\\.\\.\\^"
+			]
+		},
+		{
+			"path":[45,2,9,3],
+			"patch":
+			[
+				"\\c[10]Radio\\c[0]:\\s[4] Special-Ops Vel03!\\.",
+				"Begin your retreat immediately!\\.",
+				"Your safe return is top priority!\\.\\.\\^"
+			]
+		},
+		{
+			"path":[45,2,17,1],
+			"patch":
+			[
+				"\\c[1]Vel03\\c[0]:\\s[9] .......\\.\\.\\^"
+			]
+		},
+		{
+			"path":[45,3,9,4],
+			"patch":
+			[
+				"\\c[10]Radio\\c[0]:\\s[2] Vel03!\\. Answer!\\. Vel03!\\.",
+				"Withdraw yourself!\\. IMMEDIATELY!!\\.",
+				"Answer us!\\. Give us confirmation!!\\.\\.\\.\\^"
+			]
+		},
+		{
+			"path":[45,3,18,1],
+			"patch":
+			[
+				"\\c[1]Vel03\\c[0]:\\s[9] .......\\.\\.\\^"
+			]
+		},
+		{
+			"path":[45,4,18,2],
+			"patch":
+			[
+				"\\c[1]Seldan\\c[0]:\\s[7] AHHHHHHHHHHHHHHHHHHHHHHHH!!!",
+				"\\.\\.\\.\\.\\.\\^"
+			]
+		},
+		{
+			"path":[45,4,27,2],
+			"patch":
+			[
+				"\\c[10]Radio\\c[0]:\\s[2] VEL03!!\\. WHAT'S WRONG?!\\.",
+				"What is your status?!"
+			]
+		},
+		{
+			"path":[45,4,31,1],
+			"patch":
+			[
+				"\\c[1]Seldan\\c[0]:\\s[5] ......."
+			]
+		},
+		{
+			"path":[45,4,32,3],
+			"patch":
+			[
+				"\\c[1]Seldan\\c[0]:\\s[4] Status report:\\.",
+				"No physical injuries,\\.",
+				"no damage to the Vel-System."
+			]
+		},
+		{
+			"path":[45,4,38,2],
+			"patch":
+			[
+				"\\c[10]Radio\\c[0]:\\s[3] ...Good...\\.",
+				"Now get out of there immediately!"
+			]
+		},
+		{
+			"path":[45,4,45,1],
+			"patch":
+			[
+				"\\c[1]Seldan\\c[0]:\\s[5] ......."
+			]
+		},
+		{
+			"path":[45,4,51,2],
+			"patch":
+			[
+				"\\c[10]Radio\\c[0]:\\s[3] Vel03?\\.",
+				"Please send us confirmation!"
+			]
+		},
+		{
+			"path":[45,4,57,1],
+			"patch":
+			[
+				"\\c[1]Seldan\\c[0]:\\s[5] No."
+			]
+		},
+		{
+			"path":[45,4,61,4],
+			"patch":
+			[
+				"\\c[10]Radio\\c[0]: ...W\\. ...WHAT?!\\.",
+				"This is an ORDER!\\.",
+				"Retreat immediately from",
+				"the enemy's base!"
+			]
+		},
+		{
+			"path":[45,4,67,2],
+			"patch":
+			[
+				"\\c[1]Seldan\\c[0]:\\s[2] No,\\. I won't run",
+				"any longer."
+			]
+		},
+		{
+			"path":[45,4,72,3],
+			"patch":
+			[
+				"\\c[10]Radio\\c[0]: You know what the consequences",
+				"for disobeying orders are!\\.",
+				"What are you doing?!"
+			]
+		},
+		{
+			"path":[45,4,77,2],
+			"patch":
+			[
+				"\\c[1]Seldan\\c[0]:\\s[2] ...\\.I'm going to move deeper",
+				"into the enemy base."
+			]
+		},
+		{
+			"path":[45,4,82,4],
+			"patch":
+			[
+				"\\c[10]Radio\\c[0]: They know you're here, are you trying",
+				"to get yourself killed?!\\. This is SUICIDE!\\.",
+				"Even with the Vel-System, you won't stand a",
+				"chance against an entire army!"
+			]
+		},
+		{
+			"path":[45,4,89,1],
+			"patch":
+			[
+				"\\c[10]Enemy Soldier\\c[0]: There he is!\\. Get him!"
+			]
+		},
+		{
+			"path":[45,4,104,3],
+			"patch":
+			[
+				"\\c[10]Enemy Soldier\\c[0]: Don't move!\\.",
+				"Any resistance and we WILL fire!"
+			]
+		},
+		{
+			"path":[45,4,111,2],
+			"patch":
+			[
+				"(\\c[1]Seldan\\c[0]:\\s[2] This ends now...)"
+			]
+		},
+		{
+			"path":[45,4,162,1],
+			"patch":
+			[
+				"\\c[10]Enemy Soldier\\c[0]: W...What the...?!"
+			]
+		},
+		{
+			"path":[45,6,7,4],
+			"patch":
+			[
+				"\\c[10]Radio\\c[0]:\\s[2] Vel03!\\. Such an increase in the",
+				"power of the Vel-System will only",
+				"put strain on your body!\\.",
+				"It could kill you!"
+			]
+		},
+		{
+			"path":[45,6,13,4],
+			"patch":
+			[
+				"\\c[1]Seldan\\c[0]:\\s[2] ...Listen to me.\\. I've got",
+				"my own view of things.\\. I will no",
+				"longer obey your command."
+			]
+		},
+		{
+			"path":[45,6,18,2],
+			"patch":
+			[
+				"\\c[1]Seldan\\c[0]:\\s[2] ...this may just be",
+				"my last battle..."
+			]
+		},
+		{
+			"path":[45,6,21,3],
+			"patch":
+			[
+				"\\c[1]Seldan\\c[0]:\\s[2] ...but this is the only way",
+				"that this chaos WILL end.",
+				"This war must end."
+			]
+		},
+		{
+			"path":[45,6,27,1],
+			"patch":
+			[
+				"\\c[10]Radio\\c[0]:\\s[2] W..\\.What are you talking about?!"
+			]
+		},
+		{
+			"path":[45,6,30,2],
+			"patch":
+			[
+				"\\c[1]Seldan\\c[0]:\\s[2] I don't have time for this!"
+			]
+		},
+		{
+			"path":[45,6,38,2],
+			"patch":
+			[
+				"\\c[10]Radio\\c[0]:\\s[2] Stop this madness!\\.",
+				"IMMEDIATELY!\\. Vel03!!"
+			]
+		},
+		{
+			"path":[58,1,3,2],
+			"patch":
+			[
+				"(\\c[1]Seldan\\c[0]: No,\\. there's no",
+				"turning back for me.)"
+			]
+		},
+		{
+			"path":[59,1,3,2],
+			"patch":
+			[
+				"(\\c[1]Seldan\\c[0]: No,\\. there's no",
+				"turning back for me.)"
+			]
+		},
+		{
+			"path":[60,1,3,2],
+			"patch":
+			[
+				"(\\c[1]Seldan\\c[0]: No,\\. there's no",
+				"turning back for me.)"
+			]
+		},
+		{
+			"path":[61,1,3,2],
+			"patch":
+			[
+				"(\\c[1]Seldan\\c[0]: No,\\. there's no",
+				"turning back for me.)"
+			]
+		}
+	]
+}

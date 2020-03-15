@@ -1,0 +1,170 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[5,1,2,3],
+			"patch":
+			[
+				"Good day, sir.\\.",
+				"I have some equipment to offer here.",
+				"Interested?"
+			]
+		},
+		{
+			"path":[9,1,18,1],
+			"patch":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ah, there you are, Cibon."
+			]
+		},
+		{
+			"path":[9,1,24,2],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Oh! Are we finally awake,",
+				"\"mister early bird\"?"
+			]
+		},
+		{
+			"path":[9,1,27,4],
+			"patch":
+			[
+				"\\c[1]\\n[1]\\c[0]: Is it a crime to sleep",
+				"a little longer?\\. We were up so late",
+				"yesterday too"
+			]
+		},
+		{
+			"path":[9,1,32,2],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: It's alright, I'm just kidding."
+			]
+		},
+		{
+			"path":[9,1,39,3],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: I think we should look",
+				"for some better equipment here."
+			]
+		},
+		{
+			"path":[9,1,43,3],
+			"patch":
+			[
+				"\\c[1]\\n[1]\\c[0]: Aren't you satisfied",
+				"with the standard equipment that",
+				"the army gave us?"
+			]
+		},
+		{
+			"path":[9,1,50,3],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Oh come on!\\.",
+				"A weapon and a leather vest.\\.",
+				"It's almost the lowest quality",
+				"there is."
+			]
+		},
+		{
+			"path":[9,1,53,3],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: And you don't even",
+				"think of decent headgear and",
+				"bracelets.\\."
+			]
+		},
+		{
+			"path":[9,1,57,3],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: We also had some problems",
+				"with enemies on the way here,",
+				"right Kento?"
+			]
+		},
+		{
+			"path":[9,1,65,4],
+			"patch":
+			[
+				"\\c[1]\\n[1]\\c[0]: Yeah...\\. How could I",
+				"have known that such a green pile of",
+				"slime could create fire from magic?"
+			]
+		},
+		{
+			"path":[9,1,71,3],
+			"patch":
+			[
+				"\\c[1]\\n[1]\\c[0]: Well you're right.\\.",
+				"We should get some better equipment."
+			]
+		},
+		{
+			"path":[9,1,83,3],
+			"patch":
+			[
+				"",
+				"Buy better \\c[11]armor and weapons\\c[0] for your",
+				"characters."
+			]
+		},
+		{
+			"path":[9,1,86,3],
+			"patch":
+			[
+				"",
+				"Talk to the person behind the counter in an",
+				"equipment shop to get into the trade menu."
+			]
+		},
+		{
+			"path":[9,1,89,3],
+			"patch":
+			[
+				"",
+				"When buying new equipment, always make sure",
+				"that the purchase is worthwhile."
+			]
+		},
+		{
+			"path":[9,1,92,3],
+			"patch":
+			[
+				"",
+				"Below, you can see the differences in",
+				"value that each piece causes."
+			]
+		},
+		{
+			"path":[9,1,95,3],
+			"patch":
+			[
+				"",
+				"In addition, you can see the relationship to the",
+				"current equipment in the top right."
+			]
+		},
+		{
+			"path":[9,1,98,3],
+			"patch":
+			[
+				"",
+				"It should also be noted that the prices of",
+				"goods can vary from shop to shop."
+			]
+		},
+		{
+			"path":[9,1,101,3],
+			"patch":
+			[
+				"",
+				"Once you buy the equipment you want, you can",
+				"use them in the menu under \"Equipment\"."
+			]
+		}
+	]
+}

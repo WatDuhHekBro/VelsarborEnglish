@@ -1,0 +1,255 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[11,1,19,3],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] Lady Mensesso, please",
+				"leave this research station!\\. You aren't",
+				"safe here."
+			]
+		},
+		{
+			"path":[11,1,26,4],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]:\\s[1] How come?\\. I thought",
+				"we were prepared for this invasion.\\.",
+				"Shouldn't our soldiers be dispatching",
+				"the enemy right now?"
+			]
+		},
+		{
+			"path":[11,1,32,2],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] That's what we would've",
+				"expected,\\. if it weren't for this",
+				"Special-Ops soldier..."
+			]
+		},
+		{
+			"path":[11,1,37,3],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]:\\s[1] Brigantia's",
+				"Special-Ops?\\. So it has finally",
+				"come down to this then..."
+			]
+		},
+		{
+			"path":[11,1,42,4],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]: It's unbelievable!\\.",
+				"A single person, storming through the complex",
+				"like a berserker and can't be stopped",
+				"by anything!"
+			]
+		},
+		{
+			"path":[11,1,47,2],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]: He has already defeated",
+				"a dozen soldiers! Single-handedly!"
+			]
+		},
+		{
+			"path":[11,1,53,3],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]: I beg your pardon?!\\.",
+				"This can't be happening!\\. What kind of",
+				"soldier takes on an entire army",
+				"alone?!"
+			]
+		},
+		{
+			"path":[11,1,57,3],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] As outlandish",
+				"as it may sound,\\. it's true!\\.",
+				"I saw it with my own eyes."
+			]
+		},
+		{
+			"path":[11,1,61,3],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] Leave this base",
+				"immediately!\\. We can no longer",
+				"guarantee your safety."
+			]
+		},
+		{
+			"path":[11,1,66,1],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]:\\s[2] I see..."
+			]
+		},
+		{
+			"path":[11,1,69,3],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]:\\s[1] Go on ahead.\\. I'll",
+				"be able to leave this place safely",
+				"on my own."
+			]
+		},
+		{
+			"path":[11,1,74,3],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] My order was to",
+				"escort you safely out of here.\\.",
+				"I can't go that easy!"
+			]
+		},
+		{
+			"path":[11,1,80,4],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]:\\s[1] Hmpf...\\. Then at least",
+				"let me get one last look through the",
+				"surveillance cameras.\\. I want to",
+				"see this for myself."
+			]
+		},
+		{
+			"path":[11,1,85,2],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] ...\\.Fine,\\.",
+				"but hurry up!"
+			]
+		},
+		{
+			"path":[11,1,101,4],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Th...\\. This is",
+				"outrageous!\\. How can someone gain such",
+				"physical strength?!\\. That suit..."
+			]
+		},
+		{
+			"path":[11,1,106,2],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] He's headed",
+				"towards the core of the base..."
+			]
+		},
+		{
+			"path":[11,1,110,1],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Towards the",
+				"machine core\\..\\..\\.."
+			]
+		},
+		{
+			"path":[11,1,112,4],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]:\\s[0] It's to be",
+				"expected, what else would Brigantia",
+				"aim for?\\. But what is this soldier",
+				"trying to achieve?"
+			]
+		},
+		{
+			"path":[11,1,116,4],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Well, if he",
+				"wasn't stopped before, transporting",
+				"the core out of this base will."
+			]
+		},
+		{
+			"path":[11,1,120,4],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Superpowers or not,\\.",
+				"he won't be able to get an object of",
+				"this size out of here so quickly..."
+			]
+		},
+		{
+			"path":[11,2,12,3],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]: G...\\. Gone...\\. The FPM05",
+				"is gone!\\. Destroyed by a single person!\\.",
+				"No...\\. Th...\\. That thing,\\. whatever it is,\\.",
+				"it's not even human anymore!"
+			]
+		},
+		{
+			"path":[11,2,18,3],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]:\\s[1] Did you hear",
+				"what he said?\\. He wants to destroy",
+				"\"the source of all this power\"!"
+			]
+		},
+		{
+			"path":[11,2,23,2],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]: The source of all this",
+				"power?\\. His power too?!"
+			]
+		},
+		{
+			"path":[11,2,31,2],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]: I have to",
+				"check something for a moment!"
+			]
+		},
+		{
+			"path":[11,2,53,2],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]: N... No!\\. Why didn't",
+				"I get that that's what he meant?!"
+			]
+		},
+		{
+			"path":[11,2,55,3],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]: The machine core",
+				"has been experiencing some energy",
+				"losses!\\. So that's the source of",
+				"his power!"
+			]
+		},
+		{
+			"path":[11,2,60,2],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]: That means...\\.",
+				"he wants to destroy the core?!"
+			]
+		},
+		{
+			"path":[11,3,11,4],
+			"patch":
+			[
+				"\\c[10]Lady Mensesso\\c[0]:\\s[1] The... the",
+				"core vanished!\\. The Spec-Ops",
+				"soldier too!\\. What in the",
+				"world happened here?!"
+			]
+		}
+	]
+}

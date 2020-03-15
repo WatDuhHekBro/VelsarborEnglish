@@ -1,0 +1,1207 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[104,1,2,3],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] Nun...\\. ich geh dann mal",
+				"wieder hoch und seh mir weiterhin",
+				"die leere Landschaft an..."
+			]
+		},
+		{
+			"path":[104,1,6,1],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] Tu das."
+			]
+		},
+		{
+			"path":[104,1,18,3],
+			"patch":
+			[
+				"\\s[4]Hier steh ich nun...\\. Schon die letzten",
+				"3 Tage halte ich hier Wache, zusammen mit ",
+				"Cibon.\\|\\|\\^"
+			]
+		},
+		{
+			"path":[104,1,22,4],
+			"patch":
+			[
+				"\\s[4]Wir sollen die Kleinstadt vor einer Räuberbande",
+				"beschützen, die angeblich immer wieder hier ",
+				"zuschlagen soll.\\. ",
+				"Doch von einer Räuberbande keine Spur.\\|\\|\\^"
+			]
+		},
+		{
+			"path":[104,1,28,4],
+			"patch":
+			[
+				"\\s[4]Cibon und ich sind uns derzeit sicher, dass",
+				"die Bande uns bemerkt hat und deswegen die",
+				"Überfälle sein lässt.\\. Aber laut Befehl sollen",
+				"wir übermorgen schon wieder abziehen.\\|\\|\\^"
+			]
+		},
+		{
+			"path":[104,1,35,3],
+			"patch":
+			[
+				"\\s[4]Wahrscheinlich werden dann die Überfälle",
+				"wieder weitergehen.\\. Da fragt man sich natürlich,",
+				"wo der Sinn der Sache ist. \\|\\|\\^"
+			]
+		},
+		{
+			"path":[104,1,39,4],
+			"patch":
+			[
+				"\\s[4]Aber Befehl ist Befehl.\\. Und eigenes Handeln ",
+				"ist weder erwünscht, noch erlaubt.\\. Hätte ich ",
+				"gewusst, dass Wachehalten so langweilig ist, hätte ",
+				"ich erst gar nicht bei der Armee angefangen.\\|\\|\\^"
+			]
+		},
+		{
+			"path":[104,1,43,4],
+			"patch":
+			[
+				"\\s[4]Aber Cibon hat recht.\\. Lieber sowas, als ",
+				"etwa in einem Krieg an der Front zu stehen, um",
+				"täglich sein Leben für das Vaterland zu riskieren.",
+				"\\|\\|\\^"
+			]
+		},
+		{
+			"path":[104,1,48,2],
+			"patch":
+			[
+				"\\s[4]So würde ich höstens wie mein Vater enden,",
+				"und das will ich nicht.\\|\\^"
+			]
+		},
+		{
+			"path":[104,1,55,3],
+			"patch":
+			[
+				"\\s[4]Mein Vater.\\. Der \"Held\", der im Krieg sein ",
+				"Leben ließ.\\. ",
+				"Für das Vaterland.\\|\\^"
+			]
+		},
+		{
+			"path":[104,1,59,3],
+			"patch":
+			[
+				"\\s[4]Zurück lies er eine trauernde Familie,",
+				"im siegreichem Brigantia, wo jeder einen Grund",
+				"zum feiern hatte, da man Kelzon geschlagen hat.\\|\\|\\^"
+			]
+		},
+		{
+			"path":[104,1,65,1],
+			"patch":
+			[
+				"\\s[8]Er war alles andere als ein Held.\\|\\^"
+			]
+		},
+		{
+			"path":[104,2,45,2],
+			"patch":
+			[
+				"\\c[2]????:\\c[0] Hey Kento\\., you sleepyhead!\\.",
+				"Rise and shine!"
+			]
+		},
+		{
+			"path":[104,2,62,2],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] What is it?\\. Did you see",
+				"anything worth noting, Cibon?"
+			]
+		},
+		{
+			"path":[104,2,65,3],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] Not really.\\. I just wanted to",
+				"tear you away from your little nap!"
+			]
+		},
+		{
+			"path":[104,2,71,3],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] Oh man...\\. How can you even",
+				"stay awake with this task?\\.",
+				"That's a mystery to me."
+			]
+		},
+		{
+			"path":[104,2,77,2],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] It's actually difficult for",
+				"me to stay awake too..."
+			]
+		},
+		{
+			"path":[104,2,80,4],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] But that's the way it is, Kento.\\.",
+				"A guard's greatest enemy is not what",
+				"he has to protect against\\., but rather,\\.",
+				"getting bored of protecting at all!"
+			]
+		},
+		{
+			"path":[104,2,85,3],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] And thus, the guard must",
+				"fight hour after hour against sleep",
+				"until the bitter end..."
+			]
+		},
+		{
+			"path":[104,2,89,2],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] ...And sleep overcame me,",
+				"it seems."
+			]
+		},
+		{
+			"path":[104,2,92,1],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] Yep! You said it!"
+			]
+		},
+		{
+			"path":[104,2,97,4],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] Well. If you're a soldier in",
+				"this country, you get tasks like",
+				"this...\\ But it doesn't always have",
+				"to stay that way."
+			]
+		},
+		{
+			"path":[104,2,102,2],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] Maybe our next task will be",
+				"a little more interesting."
+			]
+		},
+		{
+			"path":[104,2,105,3],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] I hope so.\\. But we first",
+				"have to serve our 5 days here.\\.",
+				"2 more to go..."
+			]
+		},
+		{
+			"path":[104,2,110,4],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] Is the gang even coming at",
+				"all?\\. What if they gave up the place",
+				"and decided to rob cities elsewhere?"
+			]
+		},
+		{
+			"path":[104,2,115,4],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] Then we wait here",
+				"in vain, but that doesn't matter",
+				"to the Brigantine Order even",
+				"if it makes no sense."
+			]
+		},
+		{
+			"path":[104,2,121,3],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] Yeah... The main thing is that",
+				"we fulfill the task as instructed.",
+				"What a load of crap..."
+			]
+		},
+		{
+			"path":[104,2,131,4],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] Ah, forget it!\\. Let's",
+				"just take a break.\\. Just for 15",
+				"minutes!\\. It's not like anything's",
+				"gonna happen while we're at it anyway."
+			]
+		},
+		{
+			"path":[104,2,136,2],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] Good idea! I needed the break",
+				"as well."
+			]
+		},
+		{
+			"path":[104,2,143,1],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] Hm...\\. although..."
+			]
+		},
+		{
+			"path":[104,2,148,2],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] What is it now?"
+			]
+		},
+		{
+			"path":[104,2,151,2],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] Oh, nothing...\\. never mind.",
+				"It was just a thought."
+			]
+		},
+		{
+			"path":[104,2,153,1],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] Are we headed to the inn?"
+			]
+		},
+		{
+			"path":[104,2,155,1],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] Of course! Where else?"
+			]
+		},
+		{
+			"path":[104,2,186,3],
+			"patch":
+			[
+				"\\c[10]????:\\c[0] Come on!\\.",
+				"Hurry up!\\.",
+				"The path is clear!"
+			]
+		},
+		{
+			"path":[104,2,201,1],
+			"patch":
+			[
+				"\\c[10]????:\\c[0] Move it, Jorn!"
+			]
+		},
+		{
+			"path":[104,2,216,4],
+			"patch":
+			[
+				"\\c[10]????:\\c[0] Okay! Now every second",
+				"counts!\\. Who here knows how long",
+				"the two will stay in the inn?"
+			]
+		},
+		{
+			"path":[104,2,223,4],
+			"patch":
+			[
+				"\\c[10]Jorn:\\c[0] Just a question by",
+				"the way, bro.\\. Why don't we just",
+				"rob someplace else if this place is",
+				"gonna be guarded like this?"
+			]
+		},
+		{
+			"path":[104,2,230,3],
+			"patch":
+			[
+				"\\c[10]????:\\c[0] Don't you question my",
+				"plans, Jorn!\\. Need me to pinch",
+				"your ears again?!"
+			]
+		},
+		{
+			"path":[104,2,236,4],
+			"patch":
+			[
+				"\\c[10]Jorn:\\c[0] You're gonna do that",
+				"anyway.\\. This grandiose plan of yours",
+				"is gonna go wrong faster than",
+				"you can say"
+			]
+		},
+		{
+			"path":[104,2,251,2],
+			"patch":
+			[
+				"\\c[10]????:\\c[0] JUST YOU WAIT, you little...\\.",
+				"Let me through, Gurim!"
+			]
+		},
+		{
+			"path":[104,2,255,4],
+			"patch":
+			[
+				"\\c[10]Gurim:\\c[0] Break it up you two!\\.",
+				"We don't have time for this nonsense!\\.",
+				"You said it yourself that we",
+				"gotta hurry up, Saion!"
+			]
+		},
+		{
+			"path":[104,2,265,4],
+			"patch":
+			[
+				"\\c[10]Saion:\\c[0] Fine. We'll sort this",
+				"out later, Jorn!\\. Now please do what",
+				"I tell you and don't ask any",
+				"questions!"
+			]
+		},
+		{
+			"path":[104,2,270,1],
+			"patch":
+			[
+				"\\c[10]Jorn:\\c[0] Yeah, okay."
+			]
+		},
+		{
+			"path":[104,2,272,2],
+			"patch":
+			[
+				"\\c[10]Saion:\\c[0] Now grab our stuff!"
+			]
+		},
+		{
+			"path":[104,2,276,1],
+			"patch":
+			[
+				"\\c[10]Jorn:\\c[0] Yeah yeah..."
+			]
+		},
+		{
+			"path":[104,2,289,2],
+			"patch":
+			[
+				"\\c[10]Saion:\\c[0] Well what are you",
+				"waiting for? Get down here..."
+			]
+		},
+		{
+			"path":[104,2,320,2],
+			"patch":
+			[
+				"\\c[10]Saion:\\c[0] The lock pick!",
+				"I need the lock pick!"
+			]
+		},
+		{
+			"path":[104,2,323,1],
+			"patch":
+			[
+				"\\c[10]Jorn:\\c[0] I'm already looking for it!"
+			]
+		},
+		{
+			"path":[104,2,331,1],
+			"patch":
+			[
+				"\\c[10]Jorn:\\c[0] There it is!"
+			]
+		},
+		{
+			"path":[104,2,344,1],
+			"patch":
+			[
+				"\\c[10]Saion:\\c[0] Now, let's go..."
+			]
+		},
+		{
+			"path":[104,2,367,3],
+			"patch":
+			[
+				"\\c[2]Cibon:\\c[0] Man, I'm beat!\\. This is",
+				"definitely the last inn...\\.",
+				"And that beer is just one",
+				"of those reasons why!"
+			]
+		},
+		{
+			"path":[104,2,371,2],
+			"patch":
+			[
+				"\\c[1]Kento:\\c[0] The beer is probably",
+				"the only reason."
+			]
+		},
+		{
+			"path":[104,2,374,1],
+			"patch":
+			[
+				"\\c[2]Cibon:\\c[0] Argh, for all I know..."
+			]
+		},
+		{
+			"path":[104,2,376,4],
+			"patch":
+			[
+				"\\c[1]Kento:\\c[0] What did you expect from",
+				"an inn in such a small town?\\.",
+				"We're not here on vacation either."
+			]
+		},
+		{
+			"path":[104,2,381,3],
+			"patch":
+			[
+				"\\c[2]Cibon:\\c[0] Yeah, you're right.\\.",
+				"Oh well...\\. Now we've just got 5",
+				"minutes left."
+			]
+		},
+		{
+			"path":[104,2,385,3],
+			"patch":
+			[
+				"\\c[1]Kento:\\c[0] That's fine by me anyway. I've",
+				"had an uneasy feeling",
+				"all this while."
+			]
+		},
+		{
+			"path":[104,2,389,4],
+			"patch":
+			[
+				"\\c[1]Kento:\\c[0] It could be that the gang",
+				"of thieves has been waiting for",
+				"this moment to strike quickly."
+			]
+		},
+		{
+			"path":[104,2,394,2],
+			"patch":
+			[
+				"\\c[2]Cibon:\\c[0] Was that the thought of",
+				"yours then?"
+			]
+		},
+		{
+			"path":[104,2,397,1],
+			"patch":
+			[
+				"\\c[1]Kento:\\c[0] Oh...\\. yeah."
+			]
+		},
+		{
+			"path":[104,2,399,3],
+			"patch":
+			[
+				"\\c[2]Cibon:\\c[0] Oh man. No need to be",
+				"as vigilant as Ol' Vorento."
+			]
+		},
+		{
+			"path":[104,2,402,3],
+			"patch":
+			[
+				"\\c[2]Cibon:\\c[0] The gang of thieves must",
+				"be very stupid to take such a risk."
+			]
+		},
+		{
+			"path":[104,2,408,2],
+			"patch":
+			[
+				"\\c[1]Kento:\\c[0]\\s[4] Well,",
+				"don't exaggerate now.\\|\\^"
+			]
+		},
+		{
+			"path":[104,2,414,2],
+			"patch":
+			[
+				"\\c[10]Voice from the House:\\c[0]\\s[2] Alright!\\.",
+				"Enough now!\\. Just get yourselves out of here!"
+			]
+		},
+		{
+			"path":[104,2,440,1],
+			"patch":
+			[
+				"\\c[10]Saion:\\c[0] Ahhh...\\. shit!"
+			]
+		},
+		{
+			"path":[104,2,443,2],
+			"patch":
+			[
+				"\\c[10]Jorn:\\c[0] Why did you morons",
+				"use the \\s[06]FRONT ENTRANCE?!"
+			]
+		},
+		{
+			"path":[104,2,447,2],
+			"patch":
+			[
+				"\\c[10]Saion:\\c[0] Dammit, be quiet!"
+			]
+		},
+		{
+			"path":[104,2,451,1],
+			"patch":
+			[
+				"\\c[1]Kento:\\c[0] ....."
+			]
+		},
+		{
+			"path":[104,2,453,3],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] Why hello there! Do you just so",
+				"happen to be the gang of thieves that",
+				"has been plundering this town for",
+				"the past several months?"
+			]
+		},
+		{
+			"path":[104,2,461,4],
+			"patch":
+			[
+				"\\c[10]Saion:\\c[0] You're still asking?\\.",
+				"We aren't just ~any~ gang of",
+				"thieves!\\. We are the",
+				"dreaded Zinkar Brothers!"
+			]
+		},
+		{
+			"path":[104,2,470,3],
+			"patch":
+			[
+				"\\c[10]Jorn:\\c[0] ...Thanks to you, we'll",
+				"soon only be known as the \"captive",
+				"Zinkar Brothers\", you IDIOT!"
+			]
+		},
+		{
+			"path":[104,2,476,3],
+			"patch":
+			[
+				"\\c[10]Saion:\\c[0] Be quiet, Jorn!\\.",
+				"We aren't done for yet!"
+			]
+		},
+		{
+			"path":[104,2,481,4],
+			"patch":
+			[
+				"(\\c[1]\\n[1]:\\c[0] I see... So these are the",
+				"dreaded Zinkar Brothers we should",
+				"be protecting the town from...)"
+			]
+		},
+		{
+			"path":[104,2,492,2],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] Stop right there!",
+				"You are hereby arrested!"
+			]
+		},
+		{
+			"path":[104,2,495,3],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] Theft is a prison sentence",
+				"in case you weren't aware of it yet..."
+			]
+		},
+		{
+			"path":[104,2,499,4],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] You heard that right!\\.",
+				"Resistance is futile!\\. Don't try to",
+				"fight back or you'll sorely",
+				"regret it!\\."
+			]
+		},
+		{
+			"path":[104,2,503,4],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] The law stands before you\\., as",
+				"representatives of the Order!\\. Stand",
+				"against us and you stand against",
+				"Brigantia!"
+			]
+		},
+		{
+			"path":[104,2,507,4],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] Mess with us,\\. and you",
+				"mess with the Brigantine Order...\\.",
+				"You're chances of escaping are..."
+			]
+		},
+		{
+			"path":[104,2,512,1],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] CIBON!\\. That's enough!"
+			]
+		},
+		{
+			"path":[104,2,514,3],
+			"patch":
+			[
+				"\\c[10]Saion:\\c[0] Um...\\. uh..\\. Don't think",
+				"we'll surrender without a fight!\\.",
+				"I'll have you know that!"
+			]
+		},
+		{
+			"path":[104,2,519,2],
+			"patch":
+			[
+				"\\c[10]Gurim:\\c[0] He seems really",
+				"serious, Jorn!"
+			]
+		},
+		{
+			"path":[104,2,523,1],
+			"patch":
+			[
+				"\\c[10]Jorn:\\c[0] As if!"
+			]
+		},
+		{
+			"path":[104,2,526,3],
+			"patch":
+			[
+				"\\c[10]Saion:\\c[0] Now don't act like that,",
+				"you two!\\. We'll show 'em who's",
+				"boss around here!"
+			]
+		},
+		{
+			"path":[104,2,531,2],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] If it's a fight you want,\\.",
+				"then it's a fight you'll get."
+			]
+		},
+		{
+			"path":[104,4,5,1],
+			"patch":
+			[
+				"\\c[10]Saion:\\c[0] W...\\. We give up!"
+			]
+		},
+		{
+			"path":[104,4,12,3],
+			"patch":
+			[
+				"\\s[04]Two new soldiers from the Brigantine Order,\\.",
+				"who have only recently gotten their title,\\.",
+				"have just completed their first mission.\\|\\|\\^"
+			]
+		},
+		{
+			"path":[104,4,15,3],
+			"patch":
+			[
+				"\\s[04]Their success, however,\\. came at the same",
+				"time the thieves appeared,\\. which was much",
+				"later than anticipated.\\|\\|\\^"
+			]
+		},
+		{
+			"path":[104,4,57,3],
+			"patch":
+			[
+				"\\c[10]Soldier:\\c[0] Good work, you two!\\.",
+				"This gang here has been bothering",
+				"Sinkholm for several months."
+			]
+		},
+		{
+			"path":[104,4,63,4],
+			"patch":
+			[
+				"\\c[10]Jorn:\\c[0] You didn't want to listen",
+				"to me, did you, Saion?\\. I knew",
+				"we should've gone somewhere",
+				"else..."
+			]
+		},
+		{
+			"path":[104,4,72,2],
+			"patch":
+			[
+				"\\c[10]Saion:\\c[0] Shut your cheeky",
+				"mouth!"
+			]
+		},
+		{
+			"path":[104,4,77,3],
+			"patch":
+			[
+				"\\c[10]Soldier:\\c[0] Silence!\\. You can discuss this",
+				"in the peace and quiet of prison."
+			]
+		},
+		{
+			"path":[104,4,83,3],
+			"patch":
+			[
+				"\\c[10]Soldier:\\c[0] Okay, we'll handle the three",
+				"of them.\\. You can now return to \\c[11]Nomerea\\c[0]."
+			]
+		},
+		{
+			"path":[104,4,86,2],
+			"patch":
+			[
+				"\\c[10]Soldier:\\c[0] Well...\\. See you!\\.",
+				"Until next time!"
+			]
+		},
+		{
+			"path":[104,4,98,3],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] Phew!\\. We finally",
+				"got this over with!"
+			]
+		},
+		{
+			"path":[104,4,103,2],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] Yeah...\\. It was about",
+				"time..."
+			]
+		},
+		{
+			"path":[104,4,107,2],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] So?\\. when will we return",
+				"to Nomerea?"
+			]
+		},
+		{
+			"path":[104,4,110,2],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] ...\\.Soon enough...\\.",
+				"...\\.But not now..."
+			]
+		},
+		{
+			"path":[104,4,119,2],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] Hey, hey!\\. Don't collapse",
+				"on me like that, Kento!"
+			]
+		},
+		{
+			"path":[104,4,122,3],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] ...What did you expect?\\.",
+				"We've been up all night..."
+			]
+		},
+		{
+			"path":[104,4,126,3],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] What I'd really like to",
+				"know is how you're still up and",
+				"running about."
+			]
+		},
+		{
+			"path":[104,4,131,4],
+			"patch":
+			[
+				"\\c[2]\\n[2]:\\c[0] Oh?\\. Right.\\. We should",
+				"really catch up on some sleep first.\\.",
+				"Well, off to the inn."
+			]
+		},
+		{
+			"path":[139,2,3,4],
+			"patch":
+			[
+				"\\c[10]Young Man\\c[0]: According to our mayor,",
+				"Sinkholm has some financial problems.",
+				"The wall would have to be renovated",
+				"again as well as the streets."
+			]
+		},
+		{
+			"path":[139,2,7,4],
+			"patch":
+			[
+				"\\c[10]Young Man\\c[0]: Unfortunately, we don't have the",
+				"money. We can no longer borrow anything from",
+				"the district post, since a lot of",
+				"repayments are still due."
+			]
+		},
+		{
+			"path":[139,2,11,4],
+			"patch":
+			[
+				"\\c[10]Young Man\\c[0]: Life is cozy enough here.",
+				"Citizens work too little for this place though.",
+				"We don't participate enough in",
+				"Brigantia's economy."
+			]
+		},
+		{
+			"path":[139,2,15,3],
+			"patch":
+			[
+				"\\c[10]Young Man\\c[0]: If that doesn't change,",
+				"we'll soon have great difficulties here."
+			]
+		},
+		{
+			"path":[139,2,24,2],
+			"patch":
+			[
+				"\\c[10]Young Man\\c[0]: I heard you finally caught",
+				"the robbers."
+			]
+		},
+		{
+			"path":[139,2,28,1],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] Yep.\\. That's right."
+			]
+		},
+		{
+			"path":[139,2,30,2],
+			"patch":
+			[
+				"\\c[10]Young Man\\c[0]: Oh!\\. Thanks a lot! Those",
+				"three have caused more than enough trouble here!"
+			]
+		},
+		{
+			"path":[140,1,7,3],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Solln wir losgehen",
+				"oder uns noch etwas auf die Reise ",
+				"vorbereiten?"
+			]
+		},
+		{
+			"path":[140,1,14,3],
+			"patch":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich möchte keine Minute ",
+				"länger in diesem Kaff verweilen. Lass ",
+				"uns endlich weitergehen."
+			]
+		},
+		{
+			"path":[140,1,18,1],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Okay, dann mal los!"
+			]
+		},
+		{
+			"path":[140,1,29,2],
+			"patch":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich denke ein paar Sachen",
+				"haben wir hier noch zu erledigen."
+			]
+		},
+		{
+			"path":[140,1,32,1],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Na, wenn du meinst."
+			]
+		},
+		{
+			"path":[140,1,49,2],
+			"patch":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Ich sollte erstmal ",
+				"nachsehen, wo Cibon steckt.)"
+			]
+		},
+		{
+			"path":[144,2,3,4],
+			"patch":
+			[
+				"\\c[10]Old Man\\c[0]: When the first house was",
+				"built here in Sinkholm, I was only 16",
+				"years old...\\. I can hardly remember",
+				"it."
+			]
+		},
+		{
+			"path":[144,2,9,2],
+			"patch":
+			[
+				"\\c[1]\\n[1]:\\c[0] Hm...\\. this town is not",
+				"particularly old then."
+			]
+		},
+		{
+			"path":[144,2,12,2],
+			"patch":
+			[
+				"\\c[10]Old Man\\c[0]: Indeed.\\. Sinkholm was founded",
+				"around 60 years ago."
+			]
+		},
+		{
+			"path":[146,1,4,2],
+			"patch":
+			[
+				"\\c[10]Blondes Mädchen\\c[0]: Meine Güte! Ihr beide seit",
+				"wirklich albern."
+			]
+		},
+		{
+			"path":[146,1,8,2],
+			"patch":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hey, steck mich nicht mit dem ",
+				"unter einem Hut!"
+			]
+		},
+		{
+			"path":[146,1,10,4],
+			"patch":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich hab ihm schon nach ",
+				"dem 2. Versuch eingeredet, dass es ",
+				"sinnlos ist, aber er wollte nicht ",
+				"hören."
+			]
+		},
+		{
+			"path":[146,1,15,2],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wunderbar, wie du mich ",
+				"immer in Schutz nimmst Kento!"
+			]
+		},
+		{
+			"path":[146,1,24,4],
+			"patch":
+			[
+				"\\c[10]Blondes Mädchen\\c[0]: Also ich weiß nicht...\\. ",
+				"Ich habe gehört in Nomerea sollen Wohnungen sehr ",
+				"teuer sein, zurzeit... \\.",
+				"Und wovon willst du eigentlich leben?"
+			]
+		},
+		{
+			"path":[146,2,3,4],
+			"patch":
+			[
+				"\\c[10]Blondes Mädchen\\c[0]: Seit meine Freundin von hier ",
+				"weg ging, ist es noch langweiliger hier.\\. Ich ",
+				"werde auch bald woanders hinziehen...\\. Auf ",
+				"jeden Fall!"
+			]
+		},
+		{
+			"path":[146,2,11,2],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Öhm... wo is' denn deine ",
+				"Freundin hingezogen?"
+			]
+		},
+		{
+			"path":[146,2,14,2],
+			"patch":
+			[
+				"\\c[10]Blondes Mädchen\\c[0]: Oh...\\. sie hat mich extra ",
+				"darum gebeten, es dir NICHT zu sagen."
+			]
+		},
+		{
+			"path":[146,2,18,1],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ohje..."
+			]
+		},
+		{
+			"path":[147,1,3,2],
+			"patch":
+			[
+				"\\c[10]Kurzhaariges Mädchen\\c[0]: Wenn ich nicht nach ",
+				"Nomerea gehe, wohin dann?\\. Hm..."
+			]
+		},
+		{
+			"path":[147,1,12,3],
+			"patch":
+			[
+				"\\c[10]Kurzhaariges Mädchen\\c[0]: Ich sterbe hier noch ",
+				"vor Langeweile! Spätestens in 2 Monaten ",
+				"verschwinde ich von hier und ziehe nach Nomerea!"
+			]
+		},
+		{
+			"path":[147,1,40,3],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Guten Tag, verehrtes Fräulein.\\.",
+				"Sie haben vor, nach Nomerea zu ",
+				"ziehen?"
+			]
+		},
+		{
+			"path":[147,1,45,2],
+			"patch":
+			[
+				"\\c[10]Kurzhaariges Mädchen\\c[0]: Ach du schon wieder... ",
+				"Was ist denn?"
+			]
+		},
+		{
+			"path":[147,1,49,3],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Mein Kamerad und ich ",
+				"kommen von Nomerea und wollten ",
+				"heute den Rückweg antreten. "
+			]
+		},
+		{
+			"path":[147,1,52,2],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ich wollte fragen, ob es Ihnen ",
+				"recht wäre, uns zu begleiten."
+			]
+		},
+		{
+			"path":[147,1,56,1],
+			"patch":
+			[
+				"\\c[1]\\n[1]\\c[0]: ....."
+			]
+		},
+		{
+			"path":[147,1,58,4],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Auf den Weg nach Nomerea ",
+				"treibt sich so einiges Ungetüm rum,",
+				"vor dem wir Sie dann natürlich ",
+				"beschützen würden."
+			]
+		},
+		{
+			"path":[147,1,63,4],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Nicht zuletzt, da es sich um  ",
+				"eine so hübsche Dame handelt, wäre ",
+				"es uns eine große Ehre, würden Sie ",
+				"uns auf unseren Wegen begleiten."
+			]
+		},
+		{
+			"path":[147,1,68,4],
+			"patch":
+			[
+				"\\c[10]Kurzhaariges Mädchen\\c[0]: Ach weißt du, seit ich ",
+				"weiß, dass du aus Nomerea kommst, habe ich meine ",
+				"Meinung geändert.\\.",
+				"Ich bleibe doch lieber erstmal hier...."
+			]
+		},
+		{
+			"path":[147,1,74,2],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: ...Wenn das Ihnen lieber ist...",
+				"(VERDAMMT!)"
+			]
+		},
+		{
+			"path":[147,1,96,2],
+			"patch":
+			[
+				"\\c[1]\\n[1]\\c[0]: Du kannst es einfach nicht ",
+				"lassen."
+			]
+		},
+		{
+			"path":[147,1,99,4],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ich dacht' mit der etwas ",
+				"feineren Art würd's klappen, aber ",
+				"ich denk' dafür war's zu spät\\.,",
+				"oder?"
+			]
+		},
+		{
+			"path":[147,1,104,4],
+			"patch":
+			[
+				"\\c[1]\\n[1]\\c[0]: Zu spät? Das war jetzt das 5. ",
+				"Mal, wo du mit ihr rumgeflirtet hast, ",
+				"seit wir hier sind. Und vorher immer",
+				"mit altüblicher Gossensprache."
+			]
+		},
+		{
+			"path":[147,1,109,2],
+			"patch":
+			[
+				"\\c[2]\\n[2]\\c[0]: Jaja, schon gut. Es war halt ",
+				"der letzte hoffnungslose Versuch..."
+			]
+		},
+		{
+			"path":[147,1,121,3],
+			"patch":
+			[
+				"\\c[10]Kurzhaariges Mädchen\\c[0]: Ich sterbe hier noch ",
+				"vor Langeweile! Spätestens in 2 Monaten ",
+				"verschwinde ich von hier und ziehe nach Nomerea!"
+			]
+		}
+	]
+}

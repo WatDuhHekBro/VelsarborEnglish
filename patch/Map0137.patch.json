@@ -1,0 +1,52 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[17,3,9,1],
+			"patch":
+			[
+				"\\c[1]Seldan\\c[0]: Just a little further..."
+			]
+		},
+		{
+			"path":[17,3,17,3],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]: He...\\. he destroyed it!",
+				"\\c[10]Zojenish Soldier\\c[0]: ...No!\\. What do we do now?!"
+			]
+		},
+		{
+			"path":[18,1,24,2],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]: Here he comes!\\.",
+				"Start the FPM05!"
+			]
+		},
+		{
+			"path":[18,1,166,2],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]: Your little journey",
+				"ends right here!"
+			]
+		},
+		{
+			"path":[18,1,175,1],
+			"patch":
+			[
+				"\\c[1]Seldan\\c[0]:\\s[6] ......."
+			]
+		},
+		{
+			"path":[18,1,178,4],
+			"patch":
+			[
+				"\\c[1]Seldan\\c[0]: No...\\| NOTHING will",
+				"stop me now!\\. Even if I have to",
+				"take on an entire machine!"
+			]
+		}
+	]
+}

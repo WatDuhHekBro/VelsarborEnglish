@@ -1,0 +1,74 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[2,1,11,2],
+			"patch":
+			[
+				"",
+				"This is a \\c[11]save point\\c[0]."
+			]
+		},
+		{
+			"path":[2,1,13,3],
+			"patch":
+			[
+				"",
+				"When you stand on one of these, you can",
+				"\\c[11]save the game\\c[0]."
+			]
+		},
+		{
+			"path":[2,1,16,3],
+			"patch":
+			[
+				"",
+				"To do this, open the \\c[11]menu\\c[0] using \\c[11]Esc\\c[0] and",
+				"then select \\c[11]Save\\c[0]."
+			]
+		},
+		{
+			"path":[2,1,19,3],
+			"patch":
+			[
+				"",
+				"Additionally, you can always save on",
+				"the \\c[11]world map\\c[0]."
+			]
+		},
+		{
+			"path":[4,1,17,2],
+			"patch":
+			[
+				"(\\c[1]\\n[1]:\\c[0] Hm?\\. Oh! How late is it?)"
+			]
+		},
+		{
+			"path":[4,1,26,3],
+			"patch":
+			[
+				"(\\c[1]\\n[1]:\\c[0] Cibon seems to have been",
+				"up for quite a while now. Time to",
+				"see where he's hanging out.)"
+			]
+		},
+		{
+			"path":[4,1,34,3],
+			"patch":
+			[
+				"",
+				"Press the \\c[11]arrow keys\\c[0] to move.",
+				"Hold \\c[11]Enter\\c[0] to run."
+			]
+		},
+		{
+			"path":[4,1,37,3],
+			"patch":
+			[
+				"",
+				"Check the menu under \\c[11]Options\\c[0] if you",
+				"prefer to run automatically."
+			]
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[58,1,46,2],
+			"patch":
+			[
+				"\\c[10]Zojenish Soldier\\c[0]: ...Stop him now!",
+				"WITH EVERYTHING YOU HAVE!"
+			]
+		},
+		{
+			"path":[58,1,50,1],
+			"patch":
+			[
+				"(\\c[1]Seldan\\c[0]: With all my strength...)"
+			]
+		}
+	]
+}

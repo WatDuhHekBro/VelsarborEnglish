@@ -1,0 +1,100 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[6,1,49,2],
+			"patch":
+			[
+				"\\c[10]????\\c[0]:\\s[1] You signed the peace treaty."
+			]
+		},
+		{
+			"path":[6,1,57,4],
+			"patch":
+			[
+				"\\c[10]????\\c[0]:\\s[1] Well,\\. this should've put",
+				"an end to this dispute among the",
+				"power-hungry.\\. Let's just hope",
+				"we have enough time..."
+			]
+		},
+		{
+			"path":[6,1,62,4],
+			"patch":
+			[
+				"\\c[10]????\\c[0]:\\s[1] Right now, all of our hope",
+				"is in a sickly child, a fragile",
+				"figure who wallows in his own misery."
+			]
+		},
+		{
+			"path":[6,1,67,4],
+			"patch":
+			[
+				"\\c[10]????\\c[0]:\\s[1] We can only hope that",
+				"the times of peace and blessings from",
+				"Heimdall will free him from",
+				"his situation."
+			]
+		},
+		{
+			"path":[6,1,76,3],
+			"patch":
+			[
+				"\\c[10]????\\c[0]:\\s[1] Why can't we just",
+				"stay by him and worry about him",
+				"directly?"
+			]
+		},
+		{
+			"path":[6,1,85,2],
+			"patch":
+			[
+				"\\c[10]????\\c[0]:\\s[1] We cannot control fate."
+			]
+		},
+		{
+			"path":[6,1,89,4],
+			"patch":
+			[
+				"\\c[10]????\\c[0]:\\s[1] Try to control it and",
+				"it swallows you,\\. makes you its own,\\.",
+				"and finally takes control of you."
+			]
+		},
+		{
+			"path":[6,1,93,4],
+			"patch":
+			[
+				"\\c[10]????\\c[0]:\\s[1] Heimdall is above all of that.\\.",
+				"Only under his leadership can we break",
+				"the gloomy fate of this world."
+			]
+		},
+		{
+			"path":[6,1,104,2],
+			"patch":
+			[
+				"\\c[10]????\\c[0]:\\s[1] Then what should we do?\\.",
+				"Watch and wait?"
+			]
+		},
+		{
+			"path":[6,1,110,2],
+			"patch":
+			[
+				"\\c[10]????\\c[0]:\\s[1] Watch and wait.\\.",
+				"Wait for the moment to come..."
+			]
+		},
+		{
+			"path":[6,1,124,3],
+			"patch":
+			[
+				"\\c[10]????\\c[0]:\\s[1] The moment when the",
+				"twin souls reunite and give the",
+				"world their liberator."
+			]
+		}
+	]
+}
