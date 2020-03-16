@@ -9,10 +9,16 @@
 			]
 		},
 		{
-			"path":[17,3,17,3],
+			"path":[17,3,16,1],
 			"patch":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]: He...\\. he destroyed it!",
+				"\\c[10]Zojenish Soldier\\c[0]: He...\\. he destroyed it!"
+			]
+		},
+		{
+			"path":[17,3,17,2],
+			"patch":
+			[
 				"\\c[10]Zojenish Soldier\\c[0]: ...No!\\. What do we do now?!"
 			]
 		},

@@ -7,3 +7,7 @@ Images can be found along with patched map files in the `Releases` section.
 AFAIK, the people who previously worked on translations never published their progress, and it seems like they haven't worked on it since.
 
 Why am I doing this? Because Velsarbor looks exciting! Unfortunately, I can't understand German, and if I could, I wouldn't be doing this. So if I'm going to be putting everything into Google Translate to understand what's going on, I may as well go one step further and make whatever I've got public.
+
+# Pronunciations
+Cibon: Pronounced with a hard C, so basically "Key-bon". The stress is on the first syllable.
+Zojeno: The J here is pronounced as a Y, so like "Zoyeno". (And for that matter, all J's are pronounced as Y's, because German.)

@@ -6,8 +6,8 @@ Font Size: 25px (ideal) / 20px
 
 [Locations]
 FaceSet/Save_Kapitel
-Panorama/(menu)
-Picture/(text)
+Panorama/...
+Picture/...
 
 #################
 # New Game Menu #
@@ -303,3 +303,9 @@ Am nächsten Morgen... #
 ======================#
 The next morning...   #
 #######################
+
+#####################
+# Picture Directory #
+#####################
+speerkunst: Spear Ability (ie 3er Combo)
+beschreib: Ability Description

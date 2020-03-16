@@ -1,0 +1,5 @@
+Map0132: The soldiers don't show up visually. (Might be due to flag 37 not registering. Don't just add it as some flag, you have to prepare the code to deal with unknown cases.)
+Map0137: "He... he defeated it!" still bugs out. (Seems to be shifted forward by one. What happened? <-- nvm, it was a bug from a previous patch generation)
+Map0138: The message box then bugs out. (Doesn't seem like anything's wrong here. Probably due to the previous bug.)
+Map0013: Caught in an infinite loop. (And the final product can't even be re-read. Something major is wrong. With the old reader, it can be read, but somehow, a large chunk is just gone. Also, check for indents and parameters and only omit them if they're empty. At SZENE-Text-2, there's a disconnect between the reader and the writer. I think the writer is bugged out.)
+Note: For now, just JSON diffcheck everything until you get to a save point. A lot of bugs can already be detected just by the code.
