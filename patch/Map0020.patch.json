@@ -3,7 +3,7 @@
 	[
 		{
 			"path":[5,1,2,3],
-			"patch":
+			"lines":
 			[
 				"Good day, sir.\\.",
 				"I have some equipment to offer here.",
@@ -12,14 +12,14 @@
 		},
 		{
 			"path":[9,1,18,1],
-			"patch":
+			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Ah, there you are, Cibon."
 			]
 		},
 		{
 			"path":[9,1,24,2],
-			"patch":
+			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Oh! Are we finally awake,",
 				"\"mister early bird\"?"
@@ -27,7 +27,7 @@
 		},
 		{
 			"path":[9,1,27,4],
-			"patch":
+			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Is it a crime to sleep",
 				"a little longer?\\. We were up so late",
@@ -36,14 +36,14 @@
 		},
 		{
 			"path":[9,1,32,2],
-			"patch":
+			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: It's alright, I'm just kidding."
 			]
 		},
 		{
 			"path":[9,1,39,3],
-			"patch":
+			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: I think we should look",
 				"for some better equipment here."
@@ -51,7 +51,7 @@
 		},
 		{
 			"path":[9,1,43,3],
-			"patch":
+			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Aren't you satisfied",
 				"with the standard equipment that",
@@ -60,7 +60,7 @@
 		},
 		{
 			"path":[9,1,50,3],
-			"patch":
+			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Oh come on!\\.",
 				"A weapon and a leather vest.\\.",
@@ -70,7 +70,7 @@
 		},
 		{
 			"path":[9,1,53,3],
-			"patch":
+			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: And you don't even",
 				"think of decent headgear and",
@@ -79,7 +79,7 @@
 		},
 		{
 			"path":[9,1,57,3],
-			"patch":
+			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: We also had some problems",
 				"with enemies on the way here,",
@@ -88,7 +88,7 @@
 		},
 		{
 			"path":[9,1,65,4],
-			"patch":
+			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Yeah...\\. How could I",
 				"have known that such a green pile of",
@@ -97,7 +97,7 @@
 		},
 		{
 			"path":[9,1,71,3],
-			"patch":
+			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Well you're right.\\.",
 				"We should get some better equipment."
@@ -105,7 +105,7 @@
 		},
 		{
 			"path":[9,1,83,3],
-			"patch":
+			"lines":
 			[
 				"",
 				"Buy better \\c[11]armor and weapons\\c[0] for your",
@@ -114,7 +114,7 @@
 		},
 		{
 			"path":[9,1,86,3],
-			"patch":
+			"lines":
 			[
 				"",
 				"Talk to the person behind the counter in an",
@@ -123,7 +123,7 @@
 		},
 		{
 			"path":[9,1,89,3],
-			"patch":
+			"lines":
 			[
 				"",
 				"When buying new equipment, always make sure",
@@ -132,7 +132,7 @@
 		},
 		{
 			"path":[9,1,92,3],
-			"patch":
+			"lines":
 			[
 				"",
 				"Below, you can see the differences in",
@@ -141,7 +141,7 @@
 		},
 		{
 			"path":[9,1,95,3],
-			"patch":
+			"lines":
 			[
 				"",
 				"In addition, you can see the relationship to the",
@@ -150,7 +150,7 @@
 		},
 		{
 			"path":[9,1,98,3],
-			"patch":
+			"lines":
 			[
 				"",
 				"It should also be noted that the prices of",
@@ -159,7 +159,7 @@
 		},
 		{
 			"path":[9,1,101,3],
-			"patch":
+			"lines":
 			[
 				"",
 				"Once you buy the equipment you want, you can",

@@ -3,7 +3,8 @@
 	[
 		{
 			"path":[2,1,11,2],
-			"patch":
+			"indent":[1,1],
+			"lines":
 			[
 				"",
 				"This is a \\c[11]save point\\c[0]."
@@ -11,7 +12,8 @@
 		},
 		{
 			"path":[2,1,13,3],
-			"patch":
+			"indent":[1,1,1],
+			"lines":
 			[
 				"",
 				"When you stand on one of these, you can",
@@ -20,7 +22,8 @@
 		},
 		{
 			"path":[2,1,16,3],
-			"patch":
+			"indent":[1,1,1],
+			"lines":
 			[
 				"",
 				"To do this, open the \\c[11]menu\\c[0] using \\c[11]Esc\\c[0] and",
@@ -29,7 +32,8 @@
 		},
 		{
 			"path":[2,1,19,3],
-			"patch":
+			"indent":[1,1,1],
+			"lines":
 			[
 				"",
 				"Additionally, you can always save on",
@@ -38,14 +42,14 @@
 		},
 		{
 			"path":[4,1,17,2],
-			"patch":
+			"lines":
 			[
 				"(\\c[1]\\n[1]:\\c[0] Hm?\\. Oh! How late is it?)"
 			]
 		},
 		{
 			"path":[4,1,26,3],
-			"patch":
+			"lines":
 			[
 				"(\\c[1]\\n[1]:\\c[0] Cibon seems to have been",
 				"up for quite a while now. Time to",
@@ -54,7 +58,7 @@
 		},
 		{
 			"path":[4,1,34,3],
-			"patch":
+			"lines":
 			[
 				"",
 				"Press the \\c[11]arrow keys\\c[0] to move.",
@@ -63,7 +67,7 @@
 		},
 		{
 			"path":[4,1,37,3],
-			"patch":
+			"lines":
 			[
 				"",
 				"Check the menu under \\c[11]Options\\c[0] if you",

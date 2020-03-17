@@ -2,7 +2,13 @@ Font: Brock Script
 Author: Typographer Mediengestaltung
 License: Free for personal and commercial use.
 Link: https://www.1001fonts.com/brock-script-font.html
-Font Size: 25px (ideal) / 20px
+
+[Font Settings (GIMP)]
+Font Size: 24px
+Hinting: None
+Justify: Center
+Line Spacing: 13px
+Multiply (Red)
 
 [Locations]
 FaceSet/Save_Kapitel
@@ -130,7 +136,7 @@ we would've never discovered it!  #
 ###################################
 
 ###################
-# Opening Credits #
+# Opening Credits # ("Lachsen prasentiert" Offset: 58 11)
 ################################
 Lachsen presentiert            #
 Lachsen präsentiert            #
@@ -160,6 +166,9 @@ Chibi                          #
 Technik:                       #
 Lachsen                        #
 ################################
+Lachsen prezents               #
+Lachsen presents               #
+################################
 Made with                      #
 RPG Maker 2000                 #
 ===============================#
@@ -188,9 +197,6 @@ Lachsen                        #
 
 ############
 # Overture #
-################################
-Lachsen prezents               #
-Lachsen presents               #
 ################################
 Es herrscht Krieg              #
 auf dem Kontinent Tora         #
@@ -265,7 +271,7 @@ nowhere, a winner rose.                   #
 Korzojeno lost.                           #
 ==========================================#
 Brigantia's victory                       #
-ended the war                             #
+ended the war.                            #
 ==========================================#
 Nobody knew exactly                       #
 how it came about...                      #
@@ -280,7 +286,77 @@ the fighting would cease...               #
 #############
 # Nightmare #
 #############
+"In dir fließt das Blut der
+Daikons. Trage es mit Würde."
 
+Ich bin kein Daikon. Nein!
+
+"Papa?
+Wann wirst du zurückkommen?"
+
+"Schon bald! Mach dir
+keine Sorgen, Sohnemann!"
+
+Nenn mich nicht so!
+
+"Du bist der Beste, Papa!"
+
+"Dein Vater war ein talentierter
+Kämpfer. Er war ein Held!"
+
+"Siehst du das, Sohnemann?
+Sie hat es nicht besser verdient!"
+
+"Du hast das Talent geerbt.
+Nutze es und werde Soldat!"
+
+"Wenn ich wiederkomme,
+werden wir zusammen trainieren."
+
+"Was ist das für ein Gefühl
+affeine zu sein? Ganz ohne sie?"
+
+"Aus dir wird sicher ein
+ausgezeichneter Kämpfer werden!"
+
+Wieso hast du das getan?!
+
+[==================================]
+
+"The blood of the Daikons flows
+through you. Be proud of it."
+
+I'm not a Daikon. No!
+
+"Dad?
+When will you come back?"
+
+"Soon!
+Don't worry, son!"
+
+Don't call me that!
+
+"You're the best, dad!"
+
+"Your father was a talented
+man. He was a hero!"
+
+"Did you see that, son?
+She didn't deserve better!"
+
+"You inherited that talent.
+Use it and become a soldier!"
+
+"When I come back,
+we'll train together."
+
+"What is it like to feel
+kinship? Without her?"
+
+"You will surely become
+an excellent fighter!"
+
+What have you done?!
 
 #################
 # Miscellaneous #
@@ -307,5 +383,313 @@ The next morning...   #
 #####################
 # Picture Directory #
 #####################
-speerkunst: Spear Ability (ie 3er Combo)
+analyse: ???
+axttech
+band
 beschreib: Ability Description
+gefecht
+gladius
+haltung
+handel
+Handeln-Text
+hut
+Intro_Seldan-Text: Opening Text + End of Prologue
+Intro2-Text: Overture
+Intro-Text: Opening Logo + Lore?
+item: Consumables
+KAUFEN
+kugel: Elements
+lvlup_stat: (self-explanatory)
+menu
+ObjektHandel
+Pseudo_minenausruest
+Ruest
+Sieg-Menu
+sonstiges
+speerkunst: Spear Ability (ie 3er Combo)
+Spiel-Start-ID
+System
+SZENE
+tech
+turnier
+tutorial-pic
+velsystem
+VERKAUFEN
+vor_credits: Opening Credits
+Waf_Kateg
+waffe
+wahl: Battle Menu Options
+worldmap
+zielwahl: Enemies
+zubehoer
+zustand: Status Effect (shown above the affected character)
+
+[Lucislasus]
+Ein mächtiger Schlag aus schwindelnder Höhe.
+A powerful strike from a blinding height.
+
+Angriff: Attack
+Technik: Techs
+Speer-Kunst: Spear Arts
+Axt-Technik: Axe Arts
+Gladiusartis: Sword Arts (Offline)
+Scharfschuss: Crossbow?
+Gegenstand: Items
+
+GEGN: ENEM (I assume it's from Gegnerische)
+
+[Menu]
+Hauptmenu: Main Menu
+Gegenstände: Items
+Techniken: Techs
+Ausrüstung: Equipment
+Elemente: Elements
+Status: Status
+_____: ???
+_____: ???
+Optionen: Options
+Speichern: Save
+Beended: Quit
+
+[Save File]
+Kapitel #: Chapter #
+(Chapter Title)
+
+[Chapters]
+Kapitel 1: Zurück Nach Nomerea
+Kapitel 2: Ein Neuer Auftrag Beginnt
+Kapitel 3: Die Weiten Des Corine-Plateaus
+Kapitel 4: Erste Schritte Über Die Grenze
+
+Chapter 1: Back To Nomerea
+Chapter 2: A New Mission Begins
+Chapter 3: The Journey Across The Corine Plateau
+Chapter 4: The First Steps Across The Border
+
+[Axe Techs]
+Flugbeil
+Kreuzspalter
+
+[Bands]
+Armbanduhr
+Bronzegriff
+Eisenfaust
+Eisenreif
+Holzreif
+Lederband
+Minenhandschuh
+Silkenreif
+Stoffband
+
+[Descriptions]
+Ein mächtiger Schlag aus schwindelnder Höhe
+3 physische Schläge gegen ein Ziel
+Erhöht Schutz und schwächt Agilität eines Ziels
+Erhöht Agilität und schwächt Schutz eines Ziels
+Heilt jeden in der Party um ca. 250 HP
+Schaden steigt, wenn Ziel wenig MP besitzt
+Verursacht Blendung bei einem Ziel
+Zwei starke, physische Treffer gegen ein Ziel
+Leichter, feuer-elementarer Schaden
+Ein mächtiger Axtwurf auf einen Gegner
+Schaden steigt, wenn Angreifer wenig HP besitzt
+Größerer Schaden, dafür Verlust von eigenen HP
+Kuriert Vergiftung bei einem Ziel
+Ein erd-elementarer Angriff mit der Waffe
+Ein feuer-elementarer Angriff mit der Waffe
+Verursacht Vergiftung bei einem Ziel
+Ein licht-elementarer Angriff mit der Waffe
+Größerer Schaden, dafür geringere Trefferchance
+Kleinerer Schaden, dafür kürzere Wartezeit
+Ein schatten-elementarer Angriff mit der Waffe
+Kleinerer Schaden, dafür Heilung der eigenen HP
+Ein wasser-elementarer Angriff mit der Waffe
+Ein wind-elementarer Angriff mit der Waffe
+Größerer Schaden, dafür längere Wartezeit
+Leichter, erd-elementarer Schaden
+Kleinerer Schaden, dafür höhere Trefferchance
+Leichter, licht-elementarer Schaden
+Leichter, schatten-elementarer Schaden
+...
+
+[Items]
+Abwehrtrank
+Agilitätstrank
+Ambrosia
+Blitzbombe
+Dynamit
+Gegengift
+Giftbombe
+Heilessenz
+Heilextrakt
+Heilgemme
+Heilkristall
+Heilsirup
+Konfusbombe
+Kühlkraut
+Lichtschlag
+Magische Lupe
+Mentaltrank
+Mentaltropfen
+Rauchbombe
+Reflextrank
+Schallwurzel
+Schattenhauch
+Schlafbombe
+Schockmittel
+Stärketrank
+Stummbombe
+Treffertrank
+Weichpulver
+Wurfdolch
+
+[Elements]
+Erde
+Feuer
+Licht
+Schatten
+Wasser
+Wind
+
+[Stats]
+Abwehr
+Agilität
+Angriff
+
+[Techs]
+3-Klingen-Tech
+Berserkers Wut
+Blutsauger
+Dampfwolke
+Das Ende
+Flug-Beutel
+Giftwolkenflug
+Harpyienblitz
+Himmelsstroßer
+Raiken
+Raubzug
+Reißzahn
+Viaexillum
+Wohltäter-Sturm
+Wurfmesser
+Zinkar-Combo
+Funkenschwung
+Stolperstich
+Todesgemetzel
+
+[Weapons]
+Äxte
+Lanzen
+Schwerter
+Besen
+Breitschwert
+Bronzespeer
+Eisenspeer
+Ganzstahl-Axt
+Handaxt
+Kurzschwert
+Lanze
+Luftstahl-Axt
+Soporusklinge
+Spitzhacke
+Streitaxt
+Ultioslanze
+
+[Battle Menu]
+Abwehr
+Angriff
+Axt-Technik
+Gegenstand
+Gladiusartis
+Scharfschuss
+Speer-Kunst
+Technik
+Vel-System
+
+[Enemies]
+Alle Gegner
+Bergfalke
+Blauschleim
+Brocky
+Wilder Bär
+Cibon
+Eigene Party
+Fledermaus
+Freier Samurai
+Genyu
+Gittertür
+Grauschweif-Eule
+Grünschleim
+Guillian
+wütender Guillian
+rasender Guillian
+Gurim
+Harpyie
+Hornkäfer
+Jorn
+Kento
+Lagunoris
+Moskito
+Plotio-Strauch
+Räuber
+FPM05
+Saion
+Schwarzbär
+Sedric
+Seldan
+Silvanischer Wolf
+Soko
+Steinkrabbe
+Tentakel
+???? Soldat
+Wolf
+Yahenru
+Zojenko-Soldat
+
+[zubehoer]
+Agilring
+Dunkelsiegel
+Erdring
+Erdsiegel
+Feuerring
+Feuersiegel
+Furentring
+Glücksbringer
+Goldring
+Habilisring
+Hellsiegel
+Kettenschutz
+Lichtring
+Lichtsiegel
+Schattenring
+Schattensiegel
+Schlagring
+Silber Ring
+Wächterpendant
+Wasserring
+Wassersiegel
+Windring
+Windsiegel
+
+[Status Effects]
+Animoschild
+Agilität
+Angriff
+Mental
+Reflex
+Schutz
+Treffer
+Blendung
+Ferresschild
+Konter!
+Nebelgewand
+Paralyse
+Schlaf
+!Shield Break!
+Spiegelung
+Sprint
+Stand canceled
+Stummheit
+Trägheit
+Vergiftung
+Verwirrung

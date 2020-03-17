@@ -3,7 +3,8 @@
 	[
 		{
 			"path":[7,1,4,2],
-			"patch":
+			"indent":[1,1],
+			"lines":
 			[
 				"\\c[10]Waitress\\c[0]: Hm?\\. Did you just say",
 				"you want to have breakfast NOW?"
@@ -11,14 +12,16 @@
 		},
 		{
 			"path":[7,1,8,2],
-			"patch":
+			"indent":[1],
+			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Um...\\. About what time is it?"
 			]
 		},
 		{
 			"path":[7,1,11,2],
-			"patch":
+			"indent":[1,1],
+			"lines":
 			[
 				"\\c[10]Waitress\\c[0]: It's around four",
 				"in the afternoon."
@@ -26,7 +29,8 @@
 		},
 		{
 			"path":[7,1,15,2],
-			"patch":
+			"indent":[1,1,1],
+			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Oh my...\\. I already",
 				"I already slept through most of",
@@ -35,7 +39,8 @@
 		},
 		{
 			"path":[7,1,23,3],
-			"patch":
+			"indent":[1,1],
+			"lines":
 			[
 				"\\c[10]Waitress\\c[0]: If you're that hungry...\\.",
 				"I could prepare something in half an hour."
@@ -43,14 +48,15 @@
 		},
 		{
 			"path":[7,1,28,2],
-			"patch":
+			"indent":[1],
+			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] No,\\. it's fine."
 			]
 		},
 		{
 			"path":[7,2,2,4],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Waitress\\c[0]: Es ist wirklich langweilig",
 				"hier.\\. Irgendwie war es auch eine Schnaps-Idee,",
@@ -60,7 +66,8 @@
 		},
 		{
 			"path":[7,2,9,3],
-			"patch":
+			"indent":[1,1,1],
+			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Ja, stimmt.\\. Nur der ",
 				"Beruf kann einen natürlich wieder ",
@@ -69,7 +76,8 @@
 		},
 		{
 			"path":[8,1,4,2],
-			"patch":
+			"indent":[1,1],
+			"lines":
 			[
 				"\\c[10]Inn Owner\\c[0]: Good morning, sir.\\.",
 				"Did you sleep well?"
@@ -77,7 +85,8 @@
 		},
 		{
 			"path":[8,1,8,2],
-			"patch":
+			"indent":[1,1],
+			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] I have.\\. The beds were",
 				"really comfortable."
@@ -85,14 +94,16 @@
 		},
 		{
 			"path":[8,1,11,2],
-			"patch":
+			"indent":[1],
+			"lines":
 			[
 				"\\c[10]Inn Owner\\c[0]: Glad to hear that."
 			]
 		},
 		{
 			"path":[8,1,15,2],
-			"patch":
+			"indent":[1,1],
+			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Do ​​you know where",
 				"my colleague is?"
@@ -100,7 +111,8 @@
 		},
 		{
 			"path":[8,1,18,4],
-			"patch":
+			"indent":[1,1,1],
+			"lines":
 			[
 				"\\c[10]Inn Owner\\c[0]: The one with the",
 				"blue headband?\\. I don't know, but it won't",
@@ -109,14 +121,16 @@
 		},
 		{
 			"path":[8,1,24,1],
-			"patch":
+			"indent":[1],
+			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Yeah, you're right."
 			]
 		},
 		{
 			"path":[8,1,31,3],
-			"patch":
+			"indent":[1,1,1],
+			"lines":
 			[
 				"\\c[10]Inn Owner\\c[0]: We rarely have",
 				"guests here.\\. But it isn't that",
@@ -125,7 +139,8 @@
 		},
 		{
 			"path":[8,1,36,3],
-			"patch":
+			"indent":[1,1,1],
+			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] There should be people",
 				"who appreciate such a peaceful",
@@ -134,7 +149,8 @@
 		},
 		{
 			"path":[8,1,40,2],
-			"patch":
+			"indent":[1,1],
+			"lines":
 			[
 				"\\c[10]Inn Owner\\c[0]: Yeah...\\. I think so too.",
 				"But it doesn't exactly bring in a lot of profit."
@@ -142,14 +158,15 @@
 		},
 		{
 			"path":[8,2,3,1],
-			"patch":
+			"lines":
 			[
 				"Good day. Do you need a rest?"
 			]
 		},
 		{
 			"path":[8,2,7,1],
-			"patch":
+			"indent":[1],
+			"lines":
 			[
 				"Have a good night!"
 			]

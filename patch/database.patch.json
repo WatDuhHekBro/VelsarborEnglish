@@ -1,0 +1,4208 @@
+{
+	"vocabulary":
+	[
+		{
+			"path":[21,1],
+			"patch":" emerges!"
+		},
+		{
+			"path":[21,2],
+			"patch":" Pre-emptive attack"
+		},
+		{
+			"path":[21,3],
+			"patch":" You ran away safely!"
+		},
+		{
+			"path":[21,4],
+			"patch":" You Failed to escape..."
+		},
+		{
+			"path":[21,5],
+			"patch":" You won a combat!"
+		},
+		{
+			"path":[21,6],
+			"patch":" Your Party has Perished"
+		},
+		{
+			"path":[21,7],
+			"patch":" EXP"
+		},
+		{
+			"path":[21,8],
+			"patch":" You found"
+		},
+		{
+			"path":[21,9],
+			"patch":" money!"
+		},
+		{
+			"path":[21,10],
+			"patch":" recieved!"
+		},
+		{
+			"path":[21,11],
+			"patch":" attacks the enemy"
+		},
+		{
+			"path":[21,12],
+			"patch":" A critical hit!"
+		},
+		{
+			"path":[21,13],
+			"patch":" A critical blow!"
+		},
+		{
+			"path":[21,14],
+			"patch":" defends."
+		},
+		{
+			"path":[21,15],
+			"patch":" is waiting and watching."
+		},
+		{
+			"path":[21,16],
+			"patch":" is building strength."
+		},
+		{
+			"path":[21,17],
+			"patch":" pounces."
+		},
+		{
+			"path":[21,18],
+			"patch":" runs away!"
+		},
+		{
+			"path":[21,19],
+			"patch":" transforms."
+		},
+		{
+			"path":[21,20],
+			"patch":" hp is lost"
+		},
+		{
+			"path":[21,21],
+			"patch":" misses"
+		},
+		{
+			"path":[21,22],
+			"patch":" hp is lost"
+		},
+		{
+			"path":[21,23],
+			"patch":" misses"
+		},
+		{
+			"path":[21,24],
+			"patch":" Failed"
+		},
+		{
+			"path":[21,25],
+			"patch":" Failed"
+		},
+		{
+			"path":[21,26],
+			"patch":" Failed"
+		},
+		{
+			"path":[21,27],
+			"patch":" dodges"
+		},
+		{
+			"path":[21,28],
+			"patch":"uses"
+		},
+		{
+			"path":[21,29],
+			"patch":" Recovered"
+		},
+		{
+			"path":[21,30],
+			"patch":" "
+		},
+		{
+			"path":[21,31],
+			"patch":null
+		},
+		{
+			"path":[21,32],
+			"patch":null
+		},
+		{
+			"path":[21,33],
+			"patch":null
+		},
+		{
+			"path":[21,34],
+			"patch":"Defense increases!"
+		},
+		{
+			"path":[21,35],
+			"patch":"Defense Decreases!"
+		},
+		{
+			"path":[21,36],
+			"patch":"Raised a level!"
+		},
+		{
+			"path":[21,37],
+			"patch":"Acquired"
+		},
+		{
+			"path":[21,41],
+			"patch":"How can I help you?"
+		},
+		{
+			"path":[21,42],
+			"patch":"Hurry up and buy!!!"
+		},
+		{
+			"path":[21,43],
+			"patch":" Buy"
+		},
+		{
+			"path":[21,44],
+			"patch":" Sell"
+		},
+		{
+			"path":[21,45],
+			"patch":" Leave"
+		},
+		{
+			"path":[21,46],
+			"patch":" What do you want to buy?"
+		},
+		{
+			"path":[21,47],
+			"patch":" How Many"
+		},
+		{
+			"path":[21,48],
+			"patch":" Done"
+		},
+		{
+			"path":[21,49],
+			"patch":" What do you wish to sell?"
+		},
+		{
+			"path":[21,50],
+			"patch":" How many"
+		},
+		{
+			"path":[21,51],
+			"patch":" Thank you!"
+		},
+		{
+			"path":[21,54],
+			"patch":"Hurry up would you please!"
+		},
+		{
+			"path":[21,55],
+			"patch":"Hurry up already!!!"
+		},
+		{
+			"path":[21,56],
+			"patch":"Buy"
+		},
+		{
+			"path":[21,57],
+			"patch":"Sell"
+		},
+		{
+			"path":[21,58],
+			"patch":"Leave"
+		},
+		{
+			"path":[21,59],
+			"patch":"Bought"
+		},
+		{
+			"path":[21,60],
+			"patch":"How Many"
+		},
+		{
+			"path":[21,61],
+			"patch":"Done"
+		},
+		{
+			"path":[21,62],
+			"patch":"Sold"
+		},
+		{
+			"path":[21,63],
+			"patch":"How many"
+		},
+		{
+			"path":[21,64],
+			"patch":"Go now!"
+		},
+		{
+			"path":[21,67],
+			"patch":"Good day!"
+		},
+		{
+			"path":[21,68],
+			"patch":"I dont have all day you know!!!!"
+		},
+		{
+			"path":[21,69],
+			"patch":"BUY"
+		},
+		{
+			"path":[21,70],
+			"patch":"SELL"
+		},
+		{
+			"path":[21,71],
+			"patch":"GO HOME"
+		},
+		{
+			"path":[21,72],
+			"patch":"Bought"
+		},
+		{
+			"path":[21,73],
+			"patch":"How much?"
+		},
+		{
+			"path":[21,74],
+			"patch":"Done"
+		},
+		{
+			"path":[21,75],
+			"patch":"Sold"
+		},
+		{
+			"path":[21,76],
+			"patch":"How many?"
+		},
+		{
+			"path":[21,77],
+			"patch":"Thanx!"
+		},
+		{
+			"path":[21,80],
+			"patch":"Only"
+		},
+		{
+			"path":[21,81],
+			"patch":" to rest here"
+		},
+		{
+			"path":[21,82],
+			"patch":"Do you wish to rest here?"
+		},
+		{
+			"path":[21,83],
+			"patch":"Yes"
+		},
+		{
+			"path":[21,84],
+			"patch":"No"
+		},
+		{
+			"path":[21,85],
+			"patch":"Its only"
+		},
+		{
+			"path":[21,86],
+			"patch":" for the night"
+		},
+		{
+			"path":[21,87],
+			"patch":"Do you wish to stay here for the night?"
+		},
+		{
+			"path":[21,88],
+			"patch":"Yes"
+		},
+		{
+			"path":[21,89],
+			"patch":"No"
+		},
+		{
+			"path":[21,92],
+			"patch":"Owned Items"
+		},
+		{
+			"path":[21,93],
+			"patch":"Equipped Items"
+		},
+		{
+			"path":[21,95],
+			"patch":"Fejar"
+		},
+		{
+			"path":[21,101],
+			"patch":"Fight"
+		},
+		{
+			"path":[21,102],
+			"patch":"AutoBattle"
+		},
+		{
+			"path":[21,103],
+			"patch":"Run away"
+		},
+		{
+			"path":[21,104],
+			"patch":"Attack"
+		},
+		{
+			"path":[21,105],
+			"patch":"Defense"
+		},
+		{
+			"path":[21,106],
+			"patch":"Item"
+		},
+		{
+			"path":[21,107],
+			"patch":"Tech Skill"
+		},
+		{
+			"path":[21,108],
+			"patch":"Equipment"
+		},
+		{
+			"path":[21,110],
+			"patch":"Save"
+		},
+		{
+			"path":[21,112],
+			"patch":"End Game"
+		},
+		{
+			"path":[21,114],
+			"patch":"Start"
+		},
+		{
+			"path":[21,115],
+			"patch":"Load"
+		},
+		{
+			"path":[21,117],
+			"patch":"End"
+		},
+		{
+			"path":[21,123],
+			"patch":"Chapter"
+		},
+		{
+			"path":[21,124],
+			"patch":"HP"
+		},
+		{
+			"path":[21,125],
+			"patch":"MP"
+		},
+		{
+			"path":[21,126],
+			"patch":"Normal"
+		},
+		{
+			"path":[21,127],
+			"patch":"Ex"
+		},
+		{
+			"path":[21,128],
+			"patch":"ID"
+		},
+		{
+			"path":[21,129],
+			"patch":"Lv"
+		},
+		{
+			"path":[21,130],
+			"patch":"M"
+		},
+		{
+			"path":[21,131],
+			"patch":"Cost"
+		},
+		{
+			"path":[21,132],
+			"patch":"Attack"
+		},
+		{
+			"path":[21,133],
+			"patch":"Defense"
+		},
+		{
+			"path":[21,134],
+			"patch":"Mental"
+		},
+		{
+			"path":[21,135],
+			"patch":"Ability"
+		},
+		{
+			"path":[21,136],
+			"patch":"Weapon"
+		},
+		{
+			"path":[21,137],
+			"patch":"Armband"
+		},
+		{
+			"path":[21,138],
+			"patch":"Armor"
+		},
+		{
+			"path":[21,139],
+			"patch":"Helm"
+		},
+		{
+			"path":[21,140],
+			"patch":"Misc"
+		},
+		{
+			"path":[21,146],
+			"patch":"Where do you want to save?"
+		},
+		{
+			"path":[21,147],
+			"patch":"Which save file do you want to load?"
+		},
+		{
+			"path":[21,148],
+			"patch":"Save"
+		},
+		{
+			"path":[21,151],
+			"patch":"Do you want to quit the game?"
+		},
+		{
+			"path":[21,152],
+			"patch":"Yes"
+		},
+		{
+			"path":[21,153],
+			"patch":"No"
+		}
+	],
+	"dialogue":
+	[
+		{
+			"path":[25,51,1,1],
+			"indent":[1],
+			"lines":
+			[
+				"OMG!!!!!!!!111111"
+			]
+		},
+		{
+			"path":[25,51,5,1],
+			"indent":[2],
+			"lines":
+			[
+				"OMG!!!!!!!!111111"
+			]
+		},
+		{
+			"path":[25,75,0,3],
+			"lines":
+			[
+				"Common Event 75: ",
+				"Spar-Maßnahme- TEST ",
+				"wurde verwendet!"
+			]
+		},
+		{
+			"path":[25,93,3,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[10]Saion:\\c[0] Ver...\\.Verdammt!\\. ",
+				"Ich bin...\\. am Ende!"
+			]
+		},
+		{
+			"path":[25,93,10,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[10]Jorn:\\c[0] Args...\\. Es war von Anfang an",
+				"aussichtslos!"
+			]
+		},
+		{
+			"path":[25,93,17,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[10]Gurim:\\c[0] .....\\. Saion,...\\. du Trottel!"
+			]
+		},
+		{
+			"path":[25,93,64,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Verflixt und zugenäht!\\. Das Ding will ",
+				"nicht klein beigeben!"
+			]
+		},
+		{
+			"path":[25,93,66,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Was sollen wir jetzt tun?"
+			]
+		},
+		{
+			"path":[25,93,67,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Frag mich was Leichteres."
+			]
+		},
+		{
+			"path":[25,93,68,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich würde immer noch gerne wissen, ",
+				"wieso uns eine Harpyie genau HIER angreift..."
+			]
+		},
+		{
+			"path":[25,93,70,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Irgendwas ist hier faul..."
+			]
+		},
+		{
+			"path":[25,93,71,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Was könnt' das denn sein?"
+			]
+		},
+		{
+			"path":[25,93,89,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Natürlich!\\. Das ist es!"
+			]
+		},
+		{
+			"path":[25,93,90,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Was?!"
+			]
+		},
+		{
+			"path":[25,93,91,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Die Eier!\\. Hol mal die Eier und leg sie vor ",
+				"dich hin."
+			]
+		},
+		{
+			"path":[25,93,93,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Wie?\\. Unsere schönen Eier für's Omlett?!"
+			]
+		},
+		{
+			"path":[25,93,94,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Jetzt sei nicht so zimperlich!\\.",
+				"Mach schon!"
+			]
+		},
+		{
+			"path":[25,93,96,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Hmpf...\\. wenn's sein muss."
+			]
+		},
+		{
+			"path":[25,93,219,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[10]Enemy Soldier:\\c[0] Only...\\. one person...\\.",
+				"How...\\. How is this possible?!"
+			]
+		},
+		{
+			"path":[25,93,222,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[1]Seldan\\c[0]: As you said,\\. a joke."
+			]
+		},
+		{
+			"path":[25,93,223,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[1]Seldan\\c[0]: And this sword?\\. The reason for",
+				"your massive underestimation."
+			]
+		},
+		{
+			"path":[25,93,238,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[10]Seldan:\\c[0] I...\\. I won't die just yet...\\.",
+				"not like this!"
+			]
+		},
+		{
+			"path":[25,93,250,2],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[1]Seldan:\\c[0] I'll show you the fire we're playing with!"
+			]
+		},
+		{
+			"path":[25,93,255,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[1]Seldan:\\c[0] And just see me as an example for",
+				"those on their way!"
+			]
+		},
+		{
+			"path":[25,93,260,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[1]Seldan:\\c[0] As long as there are people like me,",
+				"there'll never be peace!"
+			]
+		},
+		{
+			"path":[25,93,264,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[1]Seldan:\\c[0] But I will destroy the source of all",
+				"this evil, the source of all this power!"
+			]
+		},
+		{
+			"path":[25,93,266,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[1]Seldan:\\c[0] And this laughable machine isn't",
+				"going to stop me!"
+			]
+		},
+		{
+			"path":[25,93,278,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: Ver...\\.Verdammt!"
+			]
+		},
+		{
+			"path":[25,93,287,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[10]Saion:\\c[0] NEIN!\\. Wie kann das sein?!\\. Nach all dem ",
+				"Training!\\. Alles umsonst..."
+			]
+		},
+		{
+			"path":[25,93,294,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[10]Jorn:\\c[0] Ah!\\. Ich hätte mich GLEICH tot stellen ",
+				"sollen!"
+			]
+		},
+		{
+			"path":[25,93,301,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[10]Gurim:\\c[0] Saion...\\. du konntest es nicht lassen..."
+			]
+		},
+		{
+			"path":[25,93,315,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Die Tür ist offen!"
+			]
+		},
+		{
+			"path":[25,93,382,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Kento, wie hast du es bis hierher ",
+				"geschafft?!"
+			]
+		},
+		{
+			"path":[25,93,384,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Konzentrier dich auf den Kampf!"
+			]
+		},
+		{
+			"path":[25,93,385,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ah...."
+			]
+		},
+		{
+			"path":[25,93,398,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: JA!\\. Sie geht auf!"
+			]
+		},
+		{
+			"path":[25,93,465,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Jetzt werdet ihr eure Rechnung zahlen! "
+			]
+		},
+		{
+			"path":[25,93,466,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Dafür, dass ihr mich Stunden meines Lebens ",
+				"hier eingesperrt und still gehalten zu habt!"
+			]
+		},
+		{
+			"path":[25,93,468,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[10]Soldat\\c[0]: Verdammt, die Situation gerät außer ",
+				"Kontrolle!"
+			]
+		},
+		{
+			"path":[25,93,480,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[10]Sedric\\c[0]: Argh!\\. Das ist einfach nur...\\. verdammt!!"
+			]
+		},
+		{
+			"path":[25,93,490,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Soldat\\c[0]: ...\\.Sedric,\\. du HAST den Gegner ",
+				"unterschätzt!"
+			]
+		},
+		{
+			"path":[25,93,508,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: N...\\.Nein!\\. Das kann ich nicht zulassen!\\. ",
+				"NICHT HIER! "
+			]
+		},
+		{
+			"path":[25,93,515,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Nein...\\. diese Schande! "
+			]
+		},
+		{
+			"path":[25,93,524,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Nein!\\. Das kann doch...\\. nicht sein!\\. Wir sind ",
+				"schon so weit oben gewesen...\\. und jetzt das!"
+			]
+		},
+		{
+			"path":[25,93,531,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Args...\\. Nicht ...\\. auf die Hände ...\\. ",
+				"fallen...!"
+			]
+		},
+		{
+			"path":[25,93,538,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[10]Gurim\\c[0]: Ach herrje..."
+			]
+		},
+		{
+			"path":[25,93,547,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[10]Chefv\\c[0]: Jetz' is...\\. Zappe!"
+			]
+		},
+		{
+			"path":[25,94,6,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>INFO: Soko ist in der Lage Signum-Zauber ",
+				"\\>anzuwenden."
+			]
+		},
+		{
+			"path":[25,94,9,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Signum-Zauber richten magischen Elementar-",
+				"\\>Schaden an."
+			]
+		},
+		{
+			"path":[25,94,12,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Die Höhe dieses Schadens wird durch die ",
+				"\\>Mentale Kraft des Anwenders... "
+			]
+		},
+		{
+			"path":[25,94,15,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>...und der Stufe des Zaubers bestimmt, von ",
+				"\\>denen es drei Stück gibt."
+			]
+		},
+		{
+			"path":[25,94,18,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Am Beispiel Feuer: \"Feuer\" ist 1. Stufe, \"Feures\" ",
+				"\\>ist 2. Stufe und \"Feuentus\" ist 3. Stufe."
+			]
+		},
+		{
+			"path":[25,94,21,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Magischer Schaden wird nicht mit \"Schutz\" ",
+				"\\>abgewehrt, sondern mit Mentaler Kraft."
+			]
+		},
+		{
+			"path":[25,94,24,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Deswegen können solche Zauber wirkungsvoll ",
+				"\\>gegen abwehrstarke Gegner sein."
+			]
+		},
+		{
+			"path":[25,94,27,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Du findest die Signum-Zauber unter dem 1. ",
+				"\\>Symbol im Technik-Auswahl-Menu."
+			]
+		},
+		{
+			"path":[25,94,42,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>INFO: Kento ist nun in der Lage Element-Sare- ",
+				"\\>Techniken anzuwenden"
+			]
+		},
+		{
+			"path":[25,94,45,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Element-Sare-Techniken sind physische Schläge ",
+				"\\>deren Schaden mit einem Element geprägt ist."
+			]
+		},
+		{
+			"path":[25,94,48,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Wirkungsvoll sind diese Schläge gegen Monster ",
+				"\\>mit geringem Schutz gegen physische Angriffe"
+			]
+		},
+		{
+			"path":[25,94,51,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Hat der Gegner eine Schwäche gegen das ",
+				"\\>Element der Technik, ist sie besonders effektiv."
+			]
+		},
+		{
+			"path":[25,94,54,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Du findest die Element-Sare-Techniken unter ",
+				"\\>dem 2. Symbol im Technik-Auswahl-Menu."
+			]
+		},
+		{
+			"path":[25,94,70,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>INFO: Cibon ist nun in der Lage Zustand-Sare-",
+				"\\>Techniken anzuwenden."
+			]
+		},
+		{
+			"path":[25,94,73,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Zustand-Sare-Techniken sind physische Schläge,",
+				"\\>die zudem einen bestimmten Zustand bewirken."
+			]
+		},
+		{
+			"path":[25,94,76,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Die Wahrscheinlichkeit, dass das Ziel von dem ",
+				"\\>Zustand befallen wird, hängt vom Gegner ab."
+			]
+		},
+		{
+			"path":[25,94,79,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Der Gegner kann anfällig bis immun ",
+				"\\>gegenüber dem Zustand sein."
+			]
+		},
+		{
+			"path":[25,94,82,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Kämpfer auf eigenen Seite können sich mit ",
+				"\\>bestimmter Ausrüstung vor Zuständen schützten."
+			]
+		},
+		{
+			"path":[25,94,85,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"\\>Du findest die Zustand-Sare-Techniken unter ",
+				"\\>dem 2. Symbol im Technik-Auswahl-Menu."
+			]
+		},
+		{
+			"path":[25,94,102,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Saion:\\c[0] Jetzt werdet ihr den Zorn der",
+				"Zinkar-Brüder zu spüren bekommen!"
+			]
+		},
+		{
+			"path":[25,94,104,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[10]Saion:\\c[0] Macht euch auf etwas gefasst!"
+			]
+		},
+		{
+			"path":[25,94,105,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[10]Gurim:\\c[0]\\s[8] Saion...?"
+			]
+		},
+		{
+			"path":[25,94,106,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[10]Jorn:\\c[0] Halt einfach deine Klappe!"
+			]
+		},
+		{
+			"path":[25,94,111,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"\\>",
+				"INFO: Die Leiste unten zeigt die \\c[11]Aktions-",
+				"Reihenfolge der Kampfteilnehmer\\c[0] an.\\<\\."
+			]
+		},
+		{
+			"path":[25,94,114,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"\\>",
+				"Der Kampfteilnehmer, der ganz links bei \\c[11]Aktion\\c[0] ",
+				"zu sehen ist, kann seinen Zug durchführen.\\<\\."
+			]
+		},
+		{
+			"path":[25,94,117,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"\\>",
+				"Der Kampfteilnehmer \\c[11]rechts davon\\c[0] wird ",
+				"wahrscheinlich \\c[11]als nächstes\\c[0] dran kommen..\\<\\."
+			]
+		},
+		{
+			"path":[25,94,120,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"\\>",
+				"Allerdings sei gesagt, dass es Aktionen gibt, die",
+				"die Reihenfolge beeinflussen können.\\<\\."
+			]
+		},
+		{
+			"path":[25,94,129,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Wie kann es sein, dass sich eine Harpyie ",
+				"in dieser Gegend aufhält?!"
+			]
+		},
+		{
+			"path":[25,94,131,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Harpyien leben normalerweise in ",
+				"Gebirgen und bleiben dort auch in der Regel!"
+			]
+		},
+		{
+			"path":[25,94,133,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Schön und gut, Kumpel.\\. Aber sich ",
+				"darüber zu wundern bringt jetzt auch nichts."
+			]
+		},
+		{
+			"path":[25,94,135,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Sehen wir lieber zu, dass wir den Vogel ",
+				"beseitigt bekommen!"
+			]
+		},
+		{
+			"path":[25,94,137,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Da sagst du was...\\. Wir müssen ",
+				"aufpassen!\\. Harpyien sind hartnäckige Gegner!"
+			]
+		},
+		{
+			"path":[25,94,144,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Erst eine Harpyie auf einer Brücke und ",
+				"jetzt eine Krake in einer Höhle..."
+			]
+		},
+		{
+			"path":[25,94,146,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Unglaublich auf was für Gegner wir ",
+				"treffen..."
+			]
+		},
+		{
+			"path":[25,94,148,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Okay...\\. Wer von euch weiß, wie man eine ",
+				"überdimensionale Krake beseitigt?!"
+			]
+		},
+		{
+			"path":[25,94,150,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[13]\\n[3]:\\c[0] Feuer...\\. Ich habe gehört, viele solcher ",
+				"Wasserwesen sollen dagegen empfindlich sein!"
+			]
+		},
+		{
+			"path":[25,94,152,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Wir haben noch ein Problem..."
+			]
+		},
+		{
+			"path":[25,94,153,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Wir können den Kopf der Krake nicht mit ",
+				"Nahkampf-Attacken erreichen."
+			]
+		},
+		{
+			"path":[25,94,155,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Cibon!\\. Du und ich, wir sollten uns auf die ",
+				"Tentakel konzentrieren."
+			]
+		},
+		{
+			"path":[25,94,157,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Soko!\\. Du kannst zaubern.\\. Nutze deine ",
+				"Fähigkeiten um den Kopf damit anzugreifen."
+			]
+		},
+		{
+			"path":[25,94,159,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[13]\\n[3]:\\c[0] Ah...\\. in Ordnung..."
+			]
+		},
+		{
+			"path":[25,94,160,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Cibon,\\. noch was,\\. versuch auch du den ",
+				"Kopf mit deiner Flugbeil Attacke zu treffen!"
+			]
+		},
+		{
+			"path":[25,94,162,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Geht klar!\\. Auf ins Gefecht!"
+			]
+		},
+		{
+			"path":[25,94,168,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Enemy Soldier\\c[0]: Is that the Special-Ops",
+				"force of Brigantia?"
+			]
+		},
+		{
+			"path":[25,94,170,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Enemy Soldier\\c[0]: A MELEE fighter with a",
+				"laser sword?!\\. Ha!\\. What a joke!"
+			]
+		},
+		{
+			"path":[25,94,178,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]Seldan\\c[0]: I'll show you how far this madness",
+				"has taken us!"
+			]
+		},
+		{
+			"path":[25,94,186,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[13]Soko\\c[0]: Cibon, was fällt dir ein einfach so los zu ",
+				"stürmen?!"
+			]
+		},
+		{
+			"path":[25,94,188,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[2]Cibon\\c[0]: Sag bloß, du hättest dem Spektakel nur ",
+				"zugesehen!"
+			]
+		},
+		{
+			"path":[25,94,190,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[13]Soko\\c[0]: Nein...\\. aber..."
+			]
+		},
+		{
+			"path":[25,94,191,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[2]Cibon\\c[0]: Nichts aber,\\. jetzt wird gekämpft!"
+			]
+		},
+		{
+			"path":[25,94,197,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wovon redet ihr?",
+				"Worauf wollt ihr mich vorbereiten?!"
+			]
+		},
+		{
+			"path":[25,94,203,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]????\\c[0]: Noch kannst du nichts wissen. ",
+				"Noch DARFST du nichts wissen!"
+			]
+		},
+		{
+			"path":[25,94,219,1],
+			"indent":[1],
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Was zum... Was soll ich jetzt machen?!)"
+			]
+		},
+		{
+			"path":[25,94,220,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Bei der Geschwindigkeit, mit der sie ",
+				"gekommen sind... Fliehen steht außer Frage!)"
+			]
+		},
+		{
+			"path":[25,94,222,1],
+			"indent":[1],
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Ich muss mich wehren...)"
+			]
+		},
+		{
+			"path":[25,94,223,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Die hintere Person mit Nahkampfwaffen ",
+				"anzugreifen ist sinnlos, sie wird geschützt...)"
+			]
+		},
+		{
+			"path":[25,94,230,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]Kento\\c[0]: Wie kommt es eigentlich, dass die starken ",
+				"Gegner uns immer von oben überraschen?"
+			]
+		},
+		{
+			"path":[25,94,232,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[2]Cibon\\c[0]: Joa, wir sollten in Zukunft mehr ",
+				"unterirdisch reisen,\\. nicht wahr Kumpel?"
+			]
+		},
+		{
+			"path":[25,94,234,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[13]Soko\\c[0]: Hey!\\. Wie sollen wir gegen diesen Gegner ",
+				"vorgehen?"
+			]
+		},
+		{
+			"path":[25,94,236,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[1]Kento\\c[0]: Er reitet einen fliegenden Hornkäfer..."
+			]
+		},
+		{
+			"path":[25,94,237,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]Kento\\c[0]: Er könnte also ähnliche Schwächen haben wie ",
+				"die Hornkäfer,\\. gegen die wir gekämpft haben!"
+			]
+		},
+		{
+			"path":[25,94,242,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: Freut euch nicht zu früh!\\. Rekreto ist ",
+				"kein normaler Hornkäfer,\\. wartet nur ab!"
+			]
+		},
+		{
+			"path":[25,94,249,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Ihr macht es so, wie wir besprochen haben, ",
+				"verstanden?"
+			]
+		},
+		{
+			"path":[25,94,251,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Diese dritte Person da war aber in deiner so ",
+				"genannten \"Taktik\" nicht mit einbezogen..."
+			]
+		},
+		{
+			"path":[25,94,253,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Sei's drum.\\. Sie wird keinen großen Einfluss ",
+				"haben."
+			]
+		},
+		{
+			"path":[25,94,271,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[13]Soko\\c[0]: Na wartet..."
+			]
+		},
+		{
+			"path":[25,94,280,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Was geht hier ab?!"
+			]
+		},
+		{
+			"path":[25,94,281,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wir müssen Herr Uroto beschützen!\\.",
+				"Das ist alles was zählt!"
+			]
+		},
+		{
+			"path":[25,94,289,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Verschwinde!!\\. VERSCHWINDE AUS ",
+				"MEINEN AUGEN!"
+			]
+		},
+		{
+			"path":[25,94,291,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: K...\\.Kento? "
+			]
+		},
+		{
+			"path":[25,94,297,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Verdammt!\\. Ich sollte besser eine ",
+				"Schlafbombe verwendenden und fliehen...)"
+			]
+		},
+		{
+			"path":[25,94,299,1],
+			"indent":[1],
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Kämpfen ist zu riskant!)"
+			]
+		},
+		{
+			"path":[25,94,305,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Soldat\\c[0]: Das ist der Flüchtling!\\. Er ist doch im ",
+				"Gebäude! "
+			]
+		},
+		{
+			"path":[25,94,307,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[10]Soldat\\c[0]: Sofort die Waffe fallen lassen!"
+			]
+		},
+		{
+			"path":[25,94,308,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Soko,\\. Cibon,\\. hört zu!\\. Ich werde versuchen ",
+				"die Gittertür aufzuschlagen."
+			]
+		},
+		{
+			"path":[25,94,310,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Beeil dich, Kumpel!\\. Zusammen werden wir die ",
+				"2 zusammenschlagen!"
+			]
+		},
+		{
+			"path":[25,94,312,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Kento!\\. Greife die Gitter mit Feuer-Angriffen",
+				"an, das sollte am besten funktionieren!"
+			]
+		},
+		{
+			"path":[25,94,319,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Sedric\\c[0]: Du verstärkst und heilst mich, ich kümmere ",
+				"mich um den Schaden!"
+			]
+		},
+		{
+			"path":[25,94,321,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[10]Soldat\\c[0]: ..."
+			]
+		},
+		{
+			"path":[25,94,322,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Dieser Sedric scheint mir mehr Ausdauer zu ",
+				"haben..."
+			]
+		},
+		{
+			"path":[25,94,324,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Aber sein Gehilfe steht direkt hinter ihm, ",
+				"er kann nicht im Nahkampf angegriffen werden."
+			]
+		},
+		{
+			"path":[25,94,326,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten im Verlauf des Kampfes ",
+				"erfahren, welcher zuerst besiegt werden muss."
+			]
+		},
+		{
+			"path":[25,94,334,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir dürfen uns nicht zu lange aufhalten ",
+				"lassen! "
+			]
+		},
+		{
+			"path":[25,94,336,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Die Gegner so schnell wie möglich ",
+				"überrennen! Alles klar, Kumpel!"
+			]
+		},
+		{
+			"path":[25,94,338,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Oder einschläfern bzw. paralysieren und ",
+				"dann fliehen. "
+			]
+		},
+		{
+			"path":[25,94,345,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>INFO: Die Zeit, die dir in den Kämpfen noch ",
+				"\\>bleibt, wird in \\c[11]Zügen\\c[0] dargestellt."
+			]
+		},
+		{
+			"path":[25,94,348,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Ein Zug wird verbraucht, wann immer ein beliebiger ",
+				"\\>Kampfteilnehmer angreift."
+			]
+		},
+		{
+			"path":[25,94,351,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Wenn alle Züge verbraucht sind, bist du",
+				"\\>komplett eingeholt und \\c[11]das Spiel ist verloren\\c[0]."
+			]
+		},
+		{
+			"path":[25,94,354,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Die Anzahl der Züge wird nach diesem Kampf \\c[11]NICHT",
+				"\\>zurückgesetzt\\c[0] - sie gilt für ALLE Kämpfe."
+			]
+		},
+		{
+			"path":[25,94,364,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\>- Du hast noch \\c[11]\\v[1863]\\c[0] Züge zur Verfügung -"
+			]
+		},
+		{
+			"path":[25,94,370,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Es ist ein Wurm und er ist RIESIG!"
+			]
+		},
+		{
+			"path":[25,94,371,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wenn sich das Vieh so ähnlich wie ",
+				"seine kleinen Artgenossen verhält..."
+			]
+		},
+		{
+			"path":[25,94,373,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ...dann sollten wir uns auf viele Zauber ",
+				"gefasst machen!"
+			]
+		},
+		{
+			"path":[25,94,380,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Endlich ist es soweit! "
+			]
+		},
+		{
+			"path":[25,94,381,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Kommt, Leute, wir zeigen diesem adligen ",
+				"Hornochsen, wer hier der Boss ist!"
+			]
+		},
+		{
+			"path":[25,94,388,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Zu schade, dass der adelige Hornochse nur ",
+				"seine Vertretung schickt."
+			]
+		},
+		{
+			"path":[25,94,390,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Kämpft mit allem, was ihr habt, verstanden?!\\.",
+				"Eine Niederlage ist nicht drin!"
+			]
+		},
+		{
+			"path":[25,94,411,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Endlich ist es soweit!\\. Ihr seid weit ",
+				"gekommen, doch hier ist Endstation! "
+			]
+		},
+		{
+			"path":[25,94,413,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Jetzt werden wir euch zeigen, wer hier im ",
+				"Turnier die Oberhand hat! "
+			]
+		},
+		{
+			"path":[25,94,423,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Cibon\\c[0]: Apropos Hand...\\. Was zum Henker sollen diese ",
+				"angebundenen Dolchwaffen?!"
+			]
+		},
+		{
+			"path":[25,94,431,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Glaub mir, am liebsten würde ich diese ",
+				"Waffen zur Seite schmeißen und aufgeben."
+			]
+		},
+		{
+			"path":[25,94,433,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Aber ich kann nicht!"
+			]
+		},
+		{
+			"path":[25,94,435,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Ruhe, Jorn!\\. Du machst die ganze Stimmung ",
+				"kaputt!"
+			]
+		},
+		{
+			"path":[25,94,446,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Pauamainer Schütze\\c[0]: Los, Kumpels!\\. Denen zeigen ",
+				"wir, was richtige Minenarbeiter so drauf haben!"
+			]
+		},
+		{
+			"path":[25,94,451,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Los, Kumpel, die machen wir fertig, so wahr ",
+				"wir Soldaten des Briganten-Orden sind!\\. Oder waren."
+			]
+		},
+		{
+			"path":[25,94,458,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ehm...\\. ja..."
+			]
+		},
+		{
+			"path":[25,94,464,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Chef\\c[0]: Ei, e neia Geschna!\\. Dann zescht mòòl, wòòs ",
+				"ihr so dròòf hòòbt!"
+			]
+		},
+		{
+			"path":[25,94,469,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Bitte was?"
+			]
+		},
+		{
+			"path":[25,95,18,2],
+			"indent":[5,5],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Hey!\\. Der Kleine kann sich und",
+				"seine Kameraden heilen!"
+			]
+		},
+		{
+			"path":[25,95,22,2],
+			"indent":[5,5],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Soso..\\. Der Kleine kann also",
+				"Heilitems verwenden!"
+			]
+		},
+		{
+			"path":[25,95,29,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Jorn:\\c[0] Nicht, dass ich es freiwillig tue...."
+			]
+		},
+		{
+			"path":[25,95,34,2],
+			"indent":[5,5],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich denke, es wäre am besten, ",
+				"wenn er als erstes beseitig wird!"
+			]
+		},
+		{
+			"path":[25,95,38,2],
+			"indent":[5,5],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Ich denk' dann mal er sollte zuerst",
+				"beseitigt werden."
+			]
+		},
+		{
+			"path":[25,95,45,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Jorn:\\c[0] Wie?\\. VERDAMMT!\\. ",
+				"Wieso immer ich..."
+			]
+		},
+		{
+			"path":[25,95,62,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Jorn:\\c[0] Das hast du nun davon, Bruder!"
+			]
+		},
+		{
+			"path":[25,95,70,1],
+			"indent":[6],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Jetzt nur noch einer!"
+			]
+		},
+		{
+			"path":[25,95,73,1],
+			"indent":[6],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Jetzt nur noch einer!"
+			]
+		},
+		{
+			"path":[25,95,93,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Saion:\\c[0] Verdammt! ",
+				"Ab jetzt wird es hart!"
+			]
+		},
+		{
+			"path":[25,95,102,1],
+			"indent":[6],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Jetzt nur noch einer!"
+			]
+		},
+		{
+			"path":[25,95,105,1],
+			"indent":[6],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Jetzt nur noch einer!"
+			]
+		},
+		{
+			"path":[25,95,125,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Jorn:\\c[0] Gurim!"
+			]
+		},
+		{
+			"path":[25,95,133,1],
+			"indent":[6],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Jetzt nur noch einer!"
+			]
+		},
+		{
+			"path":[25,95,136,1],
+			"indent":[6],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Jetzt nur noch einer!"
+			]
+		},
+		{
+			"path":[25,95,156,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Kento!\\. ...\\. Ich muss schnell",
+				"nen \\c[11]Lichtschlag\\c[0] verwenden!"
+			]
+		},
+		{
+			"path":[25,95,162,3],
+			"indent":[4,4,4],
+			"lines":
+			[
+				"",
+				"Kento ist kampfunfähig! Er kann keine weiteren",
+				"Aktionen ausführen.\\."
+			]
+		},
+		{
+			"path":[25,95,165,3],
+			"indent":[4,4,4],
+			"lines":
+			[
+				"",
+				"Ein \\c[11]Lichtschlag\\c[0] kann ihn wieder",
+				"kampffähig machen!\\."
+			]
+		},
+		{
+			"path":[25,95,168,3],
+			"indent":[4,4,4],
+			"lines":
+			[
+				"\\>",
+				"Du findest den \\c[11]Lichtschlag\\c[0] genau wie den",
+				"Heilsirub bei \\c[11]Gegenstände\\c[0]\\<\\."
+			]
+		},
+		{
+			"path":[25,95,182,2],
+			"indent":[5,5],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Warte Cibon! Ich werfe einen",
+				"\\c[11]Lichtschlag\"\\c[0]"
+			]
+		},
+		{
+			"path":[25,95,188,3],
+			"indent":[5,5,5],
+			"lines":
+			[
+				"\\>",
+				"Cibon ist kampfunfähig! Er kann keine weiteren",
+				"Aktionen ausführen.\\<\\."
+			]
+		},
+		{
+			"path":[25,95,191,3],
+			"indent":[5,5,5],
+			"lines":
+			[
+				"\\>",
+				"Ein \\c[11]Lichtschlag\\c[0] kann ihn wieder",
+				"kampffähig machen!\\<\\."
+			]
+		},
+		{
+			"path":[25,95,194,3],
+			"indent":[5,5,5],
+			"lines":
+			[
+				"\\>",
+				"Du findest den \\c[11]Lichtschlag\\c[0] genau wie den",
+				"Heilsirub bei \\c[11]Gegenstände\\c[0]\\<\\."
+			]
+		},
+		{
+			"path":[25,95,217,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Sieht so aus, als könnte ich einen",
+				"Heilsirup gut vertragen!"
+			]
+		},
+		{
+			"path":[25,95,223,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"Verwende einen \\c[11]Heilsirub\\c[0] um deine Kämpfer zu",
+				"heilen.\\<\\."
+			]
+		},
+		{
+			"path":[25,95,226,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"Wähle \\c[11]Gegenstand\\c[0] und dann den Heilsirub,",
+				"um diese Aktion auszuführen.\\<\\."
+			]
+		},
+		{
+			"path":[25,95,240,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Das hat ziemlich reingehauen..",
+				"Ich brauch' nen Heilsirub!"
+			]
+		},
+		{
+			"path":[25,95,246,3],
+			"indent":[4,4,4],
+			"lines":
+			[
+				"\\>",
+				"Verwende einen \\c[11]Heilsirub\\c[0] um deine Kämpfer zu",
+				"heilen.\\<\\."
+			]
+		},
+		{
+			"path":[25,95,249,3],
+			"indent":[4,4,4],
+			"lines":
+			[
+				"\\>",
+				"Wähle \\c[11]Gegenstand\\c[0] und dann den Heilsirub,",
+				"um diese Aktion auszuführen.\\<\\."
+			]
+		},
+		{
+			"path":[25,95,310,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Ohoh...\\. Was auch immer dieses Ding ",
+				"vorhat, ich sollte vorbereitet sein!"
+			]
+		},
+		{
+			"path":[25,95,316,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] ACHTUNG!\\. Die Harpyie scheint einen ",
+				"besonders starken Angriff vorzubereiten!"
+			]
+		},
+		{
+			"path":[25,95,318,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Wir sollten uns darauf gefasst machen!"
+			]
+		},
+		{
+			"path":[25,95,324,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"",
+				"Bereite dich auf einen starken Gegenangriff vor!",
+				"Heile deine Charaktere oder lass sie verteidigen."
+			]
+		},
+		{
+			"path":[25,95,327,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\>",
+				"Um zu verteidigen drücke in der Auswahl \\c[11]Esc\\c[0] ",
+				"und wähle dann \\c[11]Abwehr\\c[0].\\<\\."
+			]
+		},
+		{
+			"path":[25,95,330,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"",
+				"Verteidigt ein Charakter, erleidet er nur die ",
+				"Hälfte des eigentlichen Schadens."
+			]
+		},
+		{
+			"path":[25,95,333,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"",
+				"Die Verteidigung hält nur einen halben Zug lang.",
+				"Danach kann gleich weiter agiert werden."
+			]
+		},
+		{
+			"path":[25,95,355,2],
+			"indent":[6,6],
+			"lines":
+			[
+				"\\c[10]Enemy Soldier:\\c[0] H...\\. How is this possible?!\\.",
+				"He dodged our lasers!"
+			]
+		},
+		{
+			"path":[25,95,369,2],
+			"indent":[6,6],
+			"lines":
+			[
+				"\\c[10]Enemy Soldier:\\c[0] What kind of shield even",
+				"is that?!\\. Our shots didn't even dent the thing!"
+			]
+		},
+		{
+			"path":[25,95,406,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>INFO: Ein Kampfteilnehmer ist von dem Zustand ",
+				"\\>\"Verwirrung\" befallen."
+			]
+		},
+		{
+			"path":[25,95,409,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Verwirrung bewirkt, dass das Opfer bei seiner ",
+				"\\>Aktion unkontrolliert ein zufälliges Ziel angreift."
+			]
+		},
+		{
+			"path":[25,95,412,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Wobei die Wahrscheinlichkeit, dass sich das Ziel ",
+				"\\>auf der eigenen Seite befindet, höher ist."
+			]
+		},
+		{
+			"path":[25,95,415,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Verwirrung vergeht nach einer bestimmten ",
+				"\\>Anzahl von Zügen des Opfers."
+			]
+		},
+		{
+			"path":[25,95,418,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Ansonsten kann sie mit Zauber, Items oder ",
+				"\\>einem physischen Treffer \"geheilt\" werden."
+			]
+		},
+		{
+			"path":[25,95,430,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>INFO: Ein Kampfteilnehmer ist von dem Zustand ",
+				"\\>\"Stummheit\" befallen."
+			]
+		},
+		{
+			"path":[25,95,433,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Stummheit hindert das Opfer daran, jegliche ",
+				"\\>Signum-Technik anzuwenden."
+			]
+		},
+		{
+			"path":[25,95,436,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Das Anwenden von Spezial-Techniken ist aber ",
+				"\\>nach wie vor möglich."
+			]
+		},
+		{
+			"path":[25,95,439,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Stummheit vergeht mit der Zeit oder lässt sich ",
+				"\\>mit bestimmten Zaubern und Items heilen"
+			]
+		},
+		{
+			"path":[25,95,451,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>INFO: Ein Kampfteilnehmer ist von dem Zustand ",
+				"\\>\"Vergiftung\" befallen."
+			]
+		},
+		{
+			"path":[25,95,454,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Vergiftung bewirkt jedes Mal, wenn das Opfer",
+				"\\>eine Aktion ausführt, etwas Schaden."
+			]
+		},
+		{
+			"path":[25,95,457,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Die Höhe des Schadens richtet sich nach den ",
+				"\\>maximalen HP des Opfers."
+			]
+		},
+		{
+			"path":[25,95,460,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Dieser Schaden kann das Opfer kampfunfähig ",
+				"\\>machen, wenn die HP auf 0 sinken."
+			]
+		},
+		{
+			"path":[25,95,463,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Vergiftung vergeht mit der Zeit oder lässt sich ",
+				"\\>mit bestimmten Zaubern und Items heilen."
+			]
+		},
+		{
+			"path":[25,95,475,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>INFO: Ein Kampfteilnehmer ist von dem Zustand ",
+				"\\>\"Schlaf\" befallen."
+			]
+		},
+		{
+			"path":[25,95,478,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Schlaf bewirkt, dass das Opfer keine Aktionen ",
+				"\\>mehr ausführen kann."
+			]
+		},
+		{
+			"path":[25,95,481,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Wird das Opfer physisch getroffen, besteht eine ",
+				"\\>hohe Chance, dass der Zustand verschwindet."
+			]
+		},
+		{
+			"path":[25,95,484,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Ansonsten vergeht er mit der Zeit oder lässt sich ",
+				"\\>mit bestimmten Zaubern und Items heilen."
+			]
+		},
+		{
+			"path":[25,95,496,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>INFO: Ein Kampfteilnehmer ist von dem Zustand ",
+				"\\>\"Blendung\" befallen."
+			]
+		},
+		{
+			"path":[25,95,499,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Blendung senkt die Trefferquote des Opfers ",
+				"\\>radikal."
+			]
+		},
+		{
+			"path":[25,95,502,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Aber Achtung: Nicht alle Techniken stehen unter ",
+				"\\>dem Einfluss dieses Zustandes."
+			]
+		},
+		{
+			"path":[25,95,505,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Signum-Zauber und manche Spezial-Techniken treffen ",
+				"\\>trotz Blendung mit gleicher Wahrscheinlichkeit."
+			]
+		},
+		{
+			"path":[25,95,508,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Blendung vergeht mit der Zeit oder lässt sich ",
+				"\\>mit bestimmten Zaubern und Items heilen."
+			]
+		},
+		{
+			"path":[25,95,520,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>INFO: Ein Kampfteilnehmer ist von dem Zustand ",
+				"\\>\"Paralyse\" befallen."
+			]
+		},
+		{
+			"path":[25,95,523,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Paralyse lässt die Aktionen des Opfers mit einer ",
+				"\\>bestimmten Wahrscheinlichkeit ausfallen."
+			]
+		},
+		{
+			"path":[25,95,526,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Man kann zwar die Aktion auswählen, ob sie ",
+				"\\>aber auch ausgeführt wird, hängt vom Zufall ab."
+			]
+		},
+		{
+			"path":[25,95,529,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Wird das Opfer physisch getroffen, besteht eine ",
+				"\\>geringe Chance, dass der Zustand verschwindet."
+			]
+		},
+		{
+			"path":[25,95,532,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Paralyse vergeht mit der Zeit oder lässt sich ",
+				"\\>mit bestimmten Zaubern und Items heilen."
+			]
+		},
+		{
+			"path":[25,95,544,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>INFO: Achtung! Dieser Gegner besitzt einen",
+				"\\>Schutzschild."
+			]
+		},
+		{
+			"path":[25,95,547,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Schutzschilder können physischen und/oder ",
+				"\\>magischen Schaden stark reduzieren."
+			]
+		},
+		{
+			"path":[25,95,550,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Allerdings kann jeder Schutzschild durch einen ",
+				"\\>oder mehrere passende Treffer gebrochen werden."
+			]
+		},
+		{
+			"path":[25,95,553,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Welche Art von Treffer den Schild brechen lässt, ",
+				"\\>muss hierbei herausgefunden werden."
+			]
+		},
+		{
+			"path":[25,95,556,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\>",
+				"\\>Eine magische Lupe kann hierbei helfen!"
+			]
+		},
+		{
+			"path":[25,95,569,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[10]????:\\c[0] Gleich ist's vorüber... "
+			]
+		},
+		{
+			"path":[25,95,590,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Kumpel!\\. Pass auf, dass du dich nicht ",
+				"überanstrengst!\\. Du weißt ja..."
+			]
+		},
+		{
+			"path":[25,95,592,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Laber keinen Mist!"
+			]
+		},
+		{
+			"path":[25,95,609,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Ha, da schaut ihr,\\. nicht wahr,\\. NICHT WAHR?!"
+			]
+		},
+		{
+			"path":[25,95,614,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Beim nächsten Mal bist du weg von der ",
+				"Bildfläche, wart's nur ab!"
+			]
+		},
+		{
+			"path":[25,95,632,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Du meine Güte!\\. Es hat gewirkt."
+			]
+		},
+		{
+			"path":[25,95,633,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Was hab ich gesagt?"
+			]
+		},
+		{
+			"path":[25,95,638,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Da,\\. siehst du wie wenig es bringt?!"
+			]
+		},
+		{
+			"path":[25,95,656,2],
+			"indent":[5,5],
+			"lines":
+			[
+				"\\c[13]Soko\\c[0]: Jahaa~! Seht ihr wie unbedeutend mein ",
+				"Einfluss ist!?\\. Na?!"
+			]
+		},
+		{
+			"path":[25,95,662,1],
+			"indent":[6],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: ... \\.Die macht mir Angst."
+			]
+		},
+		{
+			"path":[25,95,695,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[1]Kento\\c[0]: Es sind so viele!\\. Macht es überhaupt Sinn ",
+				"zu kämpfen?!"
+			]
+		},
+		{
+			"path":[25,95,714,1],
+			"indent":[3],
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Nichts wie weg hier!)"
+			]
+		},
+		{
+			"path":[25,95,747,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[10]Soldat\\c[0]: Genau diese Situation hab ich kommen ",
+				"sehen, heilige Scheiße!"
+			]
+		},
+		{
+			"path":[25,95,758,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Sedric\\c[0]: Tsk,\\. der Kampf ist noch nicht entschieden!"
+			]
+		},
+		{
+			"path":[25,95,779,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"Verstärkung ist eingetroffen. ",
+				"Ihr seid umzingelt."
+			]
+		},
+		{
+			"path":[25,95,790,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\>- Du hast noch \\c[11]\\v[1863]\\c[0] Züge zur Verfügung -"
+			]
+		},
+		{
+			"path":[25,95,835,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Nichts wie weg hier!"
+			]
+		},
+		{
+			"path":[25,95,839,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Fliehen, sofort!"
+			]
+		},
+		{
+			"path":[25,95,842,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Jetzt können wir fliehen!"
+			]
+		},
+		{
+			"path":[25,95,908,2],
+			"indent":[5,5],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Einen haben wir!\\, Wie war das mit deiner ",
+				"Prognose, Robin?"
+			]
+		},
+		{
+			"path":[25,95,913,1],
+			"indent":[5],
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Noch ist der Kampf nicht vorbei!"
+			]
+		},
+		{
+			"path":[25,95,935,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: So geht das, Männer!"
+			]
+		},
+		{
+			"path":[25,95,976,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Lass dir das bitte ENDLICH MAL eine Lektion ",
+				"sein, du Dickkopf!"
+			]
+		},
+		{
+			"path":[25,96,5,2],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[1]Seldan:\\c[0] I'll show you the fire we're playing with!"
+			]
+		},
+		{
+			"path":[25,96,10,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[1]Seldan:\\c[0] And just see me as an example for",
+				"those on their way!"
+			]
+		},
+		{
+			"path":[25,96,15,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[1]Seldan:\\c[0] As long as there are people like me,",
+				"there'll never be peace!"
+			]
+		},
+		{
+			"path":[25,96,20,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[1]Seldan:\\c[0] But I will destroy the source of all",
+				"this evil, the source of all this power!"
+			]
+		},
+		{
+			"path":[25,96,22,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[1]Seldan:\\c[0] And this laughable machine isn't",
+				"going to stop me!"
+			]
+		},
+		{
+			"path":[25,96,24,1],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[1]Seldan:\\c[0] It's time to finish this,\\.",
+				"once and for all!!"
+			]
+		},
+		{
+			"path":[25,96,36,2],
+			"indent":[7],
+			"lines":
+			[
+				"\\c[1]Seldan:\\c[0] I'll show you the fire we're playing with!"
+			]
+		},
+		{
+			"path":[25,96,45,2],
+			"indent":[7,7],
+			"lines":
+			[
+				"\\c[1]Seldan:\\c[0] And just see me as an example for",
+				"those on their way!"
+			]
+		},
+		{
+			"path":[25,96,54,2],
+			"indent":[7,7],
+			"lines":
+			[
+				"\\c[1]Seldan:\\c[0] As long as there are people like me,",
+				"there'll never be peace!"
+			]
+		},
+		{
+			"path":[25,96,76,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Redet! Wer seid ihr!? Was wollt ihr!?",
+				"Und wieso greift ihr mich an?!"
+			]
+		},
+		{
+			"path":[25,96,78,1],
+			"indent":[3],
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Verdammt, wo bleiben die anderen?!)"
+			]
+		},
+		{
+			"path":[25,96,89,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[10]????\\c[0]: \\s[3]Licht in weiter Dunkelheit,\\. erhelle den Weg,\\. ",
+				"leite die Kraft\\.\\s[5] und führe sie her!"
+			]
+		},
+		{
+			"path":[25,96,105,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Jetzt werdet ihr den Preis dafür zahlen, ",
+				"dass ihr euch mit uns angelegt habt!"
+			]
+		},
+		{
+			"path":[25,96,107,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: \\s[3]ERSTE ZINKAR-RACHESCHLAG-TECHNIK!"
+			]
+		},
+		{
+			"path":[25,96,121,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Los Jorn, jetzt bist du dran!\\. Zeig's ihnen!"
+			]
+		},
+		{
+			"path":[25,96,122,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: NEIN!\\. Ich werde NICHT diese schwachsinnige ",
+				"Technik ausführen!"
+			]
+		},
+		{
+			"path":[25,96,124,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Jorn?!\\. Wenn du dich jetzt stur stellst, ..."
+			]
+		},
+		{
+			"path":[25,96,125,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: ... dann bist DU derjenige der die ",
+				"Schuld trägt, sollten wir verlieren!"
+			]
+		},
+		{
+			"path":[25,96,127,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Wir verlieren so oder so, egal ob es mache ",
+				"oder nicht!"
+			]
+		},
+		{
+			"path":[25,96,129,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Dann beweise mir das!"
+			]
+		},
+		{
+			"path":[25,96,130,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: ...\\.Wie du meinst,\\. also dann...\\^"
+			]
+		},
+		{
+			"path":[25,96,131,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: MIT DEM SPRUCH!"
+			]
+		},
+		{
+			"path":[25,96,132,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Gaa...\\. \\s[2]zweite Zink...\\^"
+			]
+		},
+		{
+			"path":[25,96,133,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: LAUTER!"
+			]
+		},
+		{
+			"path":[25,96,134,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: \\s[3]ZWEITE ZINKAR-RACHESCHLAG-TECHNIK!"
+			]
+		},
+		{
+			"path":[25,96,150,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Jetzt ist Schluss!\\. Ich hab genug gehört!\\.",
+				"Ich weiß nicht was mit dir geschehen ist..."
+			]
+		},
+		{
+			"path":[25,96,152,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Aber jetzt ist nicht der Zeitpunkt um das ",
+				"zu klären!"
+			]
+		},
+		{
+			"path":[25,96,154,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Wir werden noch reden, mein Junge!"
+			]
+		},
+		{
+			"path":[25,96,162,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[1]Kento\\c[0]: DU BIST AN ALLEM SCHULD!\\. DU ALLEINE! "
+			]
+		},
+		{
+			"path":[25,96,164,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[1]Kento\\c[0]: DU WIRST MICH NICHT UNTERKRIEGEN!\\. NIEMALS!"
+			]
+		},
+		{
+			"path":[25,96,182,2],
+			"indent":[5,5],
+			"lines":
+			[
+				"\\c[1]Kento\\c[0]: DU HAST KEIN RECHT HIER ZU ",
+				"STEHEN!\\. STIRB!\\. VERRECKE!!"
+			]
+		},
+		{
+			"path":[25,96,214,1],
+			"indent":[5],
+			"lines":
+			[
+				"(\\c[4]\\n[4]\\c[0]: Was...\\. was ist das für eine Wut in ihm?!) "
+			]
+		},
+		{
+			"path":[25,96,232,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[10]Sedric\\c[0]: Spürt meinen Zorn!"
+			]
+		},
+		{
+			"path":[25,96,248,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: So grün wie ihr noch seid habt ihr keine ",
+				"Chance gegen uns!\\. Versucht es erst gar nicht! "
+			]
+		},
+		{
+			"path":[25,96,254,2],
+			"indent":[5,5],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Aha? Frag mich nich' wieso, aber irgend wie ",
+				"seh' ich eindeutig mehr Grün auf eurer Seite."
+			]
+		},
+		{
+			"path":[25,96,259,2],
+			"indent":[5,5],
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Die dummen Sprüche werde ich euch schon ",
+				"ausschießen!"
+			]
+		},
+		{
+			"path":[25,96,279,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: SPÜRT DEN ZORN DER ZINKAR-BRÜRDER,\\.",
+				"GRAUSAMER DENN JE!"
+			]
+		},
+		{
+			"path":[25,96,281,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: ERSTE ZINKAR-RACHESCHLAG-TECHNIK!"
+			]
+		},
+		{
+			"path":[25,96,298,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Los Jorn! Mach sie fertig mit deiner neuen ",
+				"Spezialtechnik!"
+			]
+		},
+		{
+			"path":[25,96,300,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Was?\\. Diese ach so tolle Spezialtechnik ",
+				"ist mir bisher noch kein einziges Mal gelungen!"
+			]
+		},
+		{
+			"path":[25,96,303,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Vergiss es!\\. Ich werde mich hier nicht ",
+				"blamieren!"
+			]
+		},
+		{
+			"path":[25,96,305,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Stell dich nicht so an oder willst du, dass ",
+				"die Dolche heute Abend wieder dran bleiben?"
+			]
+		},
+		{
+			"path":[25,96,308,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Args! Diese verdammten Dolche... \\.",
+				"Was auch immer!"
+			]
+		},
+		{
+			"path":[25,96,310,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Mit dem Spruch, und zwar aus vollem Herzen!"
+			]
+		},
+		{
+			"path":[25,96,313,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: JAJA!\\. DRITTE,\\. VERDAMMTE \\s[2]ZINKAR-FÜR-WELCHE-",
+				"RACHE-AUCH-IMMER-RACHESCHLAG-TECHNIK!"
+			]
+		},
+		{
+			"path":[25,96,332,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[10]Chef\\c[0]: Jetz' zesch isch eisch mal, wie dòòs lewwen ",
+				"inna Grub is!"
+			]
+		},
+		{
+			"path":[25,96,346,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[10]Chef\\c[0]: So lòòngsòòm bin isch grimmelwiedisch!\\.",
+				"Jetz' kriehd ihr Fäng!"
+			]
+		},
+		{
+			"path":[25,96,360,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[10]Chef\\c[0]: Ei jòò, nesch schlescht!\\. Da holl isch wohl ",
+				"bessa mei Schdärgedrong!"
+			]
+		},
+		{
+			"path":[25,97,8,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] So!\\. ",
+				"Jetzt kommt die 3er-Combo!"
+			]
+		},
+		{
+			"path":[25,97,14,3],
+			"indent":[4,4,4],
+			"lines":
+			[
+				"\\>",
+				"Da Kento nun \\c[11]2 SP\\c[0] hat (Punkte unter dem Namen),",
+				"kann er eine \\c[11]Spezialattacke\\c[0] ausführen.\\<\\."
+			]
+		},
+		{
+			"path":[25,97,17,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\>",
+				"Du findest sie hier unter \\c[11]Speerkunst\\c[0]\\<\\."
+			]
+		},
+		{
+			"path":[25,97,19,3],
+			"indent":[4,4,4],
+			"lines":
+			[
+				"\\>",
+				"SP bekommt man jedesmal, wenn man mit einer",
+				"\\c[11]offensiven Aktion\\c[0] einen Treffer landet."
+			]
+		},
+		{
+			"path":[25,97,32,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Jetzt fliegt die Axt, Freundchen!"
+			]
+		},
+		{
+			"path":[25,97,37,3],
+			"indent":[4,4,4],
+			"lines":
+			[
+				"\\>",
+				"Da Cibon nun \\c[11]2 SP\\c[0] hat (Punkte unter dem Namen),",
+				"kann er eine \\c[11]Spezialattacke\\c[0] ausführen.\\<\\."
+			]
+		},
+		{
+			"path":[25,97,40,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\>",
+				"Du findest sie hier unter \\c[11]Axt-Technik\\c[0]\\<\\."
+			]
+		},
+		{
+			"path":[25,97,42,3],
+			"indent":[4,4,4],
+			"lines":
+			[
+				"\\>",
+				"SP bekommt man jedesmal, wenn man mit einer",
+				"\\c[11]offensiven Aktion\\c[0] einen Treffer landet."
+			]
+		},
+		{
+			"path":[25,97,70,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] 3 gegen 2\\., aber sie",
+				"scheinen unerfahren im Kampf."
+			]
+		},
+		{
+			"path":[25,97,72,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Wir konzentrieren uns auf einen",
+				"Gegner und attackieren bis er fällt."
+			]
+		},
+		{
+			"path":[25,97,74,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Also einen nach dem anderen ",
+				"ausschalten!"
+			]
+		},
+		{
+			"path":[25,97,76,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Okay. Verstanden, Kumpel."
+			]
+		},
+		{
+			"path":[25,97,81,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\>",
+				"Wähle \\c[11]Angriff\\c[0], um eine Attacke mit der Waffe ",
+				"auszuführen.\\<\\."
+			]
+		},
+		{
+			"path":[25,98,5,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[1]\\n[4]:\\c[0] Einen nach den anderen beseitigen!"
+			]
+		},
+		{
+			"path":[25,98,6,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[1]\\n[4]:\\c[0] Konzentriert euch auf ein Ziel ",
+				"und zieht die Sache durch!"
+			]
+		},
+		{
+			"path":[25,98,8,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[1]Soldaten:\\c[0] Jawohl, Sir!"
+			]
+		},
+		{
+			"path":[25,98,85,2],
+			"indent":[5,5],
+			"lines":
+			[
+				"\\c[1]\\n[4]:\\c[0] Genug jetzt!",
+				"Bereitet euch auf euer Ende vor!"
+			]
+		},
+		{
+			"path":[25,98,100,2],
+			"indent":[5,5],
+			"lines":
+			[
+				"\\c[1]\\n[4]:\\c[0] War das etwa schon alles? \\|",
+				"Lachhaft! "
+			]
+		},
+		{
+			"path":[25,98,102,2],
+			"indent":[5,5],
+			"lines":
+			[
+				"\\c[1]\\n[4]:\\c[0] Wenn ich daran denke,\\. wie wir ",
+				"uns Monate auf diese Schlacht vorbereitet haben!"
+			]
+		},
+		{
+			"path":[25,116,41,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\>                 ...Was ist das?\\<"
+			]
+		},
+		{
+			"path":[25,116,58,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\>                 Nichts zu finden.\\<"
+			]
+		},
+		{
+			"path":[25,118,42,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\^"
+			]
+		},
+		{
+			"path":[25,119,24,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\^"
+			]
+		},
+		{
+			"path":[25,145,5,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\>\\$Wollen Sie für \\v[328] \\n[19] übernachten?"
+			]
+		},
+		{
+			"path":[25,145,19,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\>\\$Wollen Sie für \\v[328] \\n[19] übernachten?"
+			]
+		},
+		{
+			"path":[25,152,100,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Du willst also handeln, ",
+				"Kumpel?"
+			]
+		},
+		{
+			"path":[25,152,103,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Brauchste eine Erklärung, ",
+				"oder weißt du schon Bescheit?"
+			]
+		},
+		{
+			"path":[25,152,108,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Okay!\\.",
+				"Also was du hier siehst, ist das ",
+				"Handel-Menu.\\. So komplex ist's nicht. "
+			]
+		},
+		{
+			"path":[25,152,111,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ganz oben sieht man das ",
+				"Item, das man hier erhalten kann."
+			]
+		},
+		{
+			"path":[25,152,113,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Darunter sind die Items ",
+				"aufgelistet, die du für das obere Item ",
+				"eintauschen musst. "
+			]
+		},
+		{
+			"path":[25,152,116,4],
+			"indent":[2,2,2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Daneben siehste noch wie oft ",
+				"du das jeweilige Item benötigst. Bis ",
+				"zu drei verschiedene Items können ",
+				"verlangt werden."
+			]
+		},
+		{
+			"path":[25,152,120,4],
+			"indent":[2,2,2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Sollteste von einem Item nicht ",
+				"genug haben, um's hier ",
+				"einzutauschen, wird es grau ",
+				"angezeigt."
+			]
+		},
+		{
+			"path":[25,152,124,4],
+			"indent":[2,2,2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Außerdem kannste mit dem ",
+				"Cursor über jedes angezeigte Item ",
+				"gehen und nachsehen, wie oft du's im ",
+				"Inventar hast."
+			]
+		},
+		{
+			"path":[25,152,128,4],
+			"indent":[2,2,2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Der Tausch kann NUR DANN ",
+				"vollzogen werden, wenn du von ",
+				"jedem Item genug Exemplare bei dir ",
+				"trägst. "
+			]
+		},
+		{
+			"path":[25,152,132,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Um nun zu tauschen musste ",
+				"\"Kaufen\" wählen. Dann ändert sich ",
+				"die Anzeige wie folgt:"
+			]
+		},
+		{
+			"path":[25,152,141,4],
+			"indent":[2,2,2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: JEDESMAL wenn du jetzt ",
+				"Enter drückst, wird der Tausch ",
+				"einmal vollzogen. Drücke Esc wenn ",
+				"du genug getauscht hast."
+			]
+		},
+		{
+			"path":[25,152,145,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Nach jedem vollzogenen ",
+				"Tausch wird zudem die Anzeige ",
+				"aktualisiert."
+			]
+		},
+		{
+			"path":[25,152,148,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: So kannste sehen, ob du ",
+				"genug Items für einen weiteren ",
+				"Tausch hast."
+			]
+		},
+		{
+			"path":[25,152,151,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Mehr gibt's dann hierzu nicht ",
+				"zu sagen..."
+			]
+		},
+		{
+			"path":[25,152,159,4],
+			"indent":[2,2,2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Aber achte bitte darauf, dass ",
+				"du unsere Handelsgegenstände nicht ",
+				"für irgend nen Mist vertauschst.",
+				"Vergleiche am besten alle Angebote!"
+			]
+		},
+		{
+			"path":[25,152,163,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Viel Spass beim Tauschen!"
+			]
+		},
+		{
+			"path":[25,152,166,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Tja, dann..."
+			]
+		},
+		{
+			"path":[25,180,52,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"ANZIEH SKRIPT INVALIDE!",
+				"Kann nur auf leere Element-Ausrüstung umändern"
+			]
+		},
+		{
+			"path":[25,183,5,4],
+			"indent":[1,1,1,1],
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Es macht nicht sonderlich ",
+				"viel Sinn, jetzt noch Erz abzubauen. ",
+				"Wir werden es eh nicht mehr abgeben ",
+				"können.)"
+			]
+		},
+		{
+			"path":[25,183,22,1],
+			"indent":[4],
+			"lines":
+			[
+				"FEHLER"
+			]
+		},
+		{
+			"path":[25,185,4,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Da sind wir..."
+			]
+		},
+		{
+			"path":[25,185,6,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...und was jetzt?"
+			]
+		},
+		{
+			"path":[25,185,8,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten uns besser nicht ",
+				"querstellen, sonst bekommen wir ",
+				"noch Ärger. "
+			]
+		},
+		{
+			"path":[25,185,12,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir werden hier schließlich ",
+				"auch beaufsichtigt, wie es scheint."
+			]
+		},
+		{
+			"path":[25,185,15,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Okay, dann mal schauen, wo ",
+				"man hier Erz findet.",
+				""
+			]
+		},
+		{
+			"path":[25,185,22,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"",
+				"Anmerkung: Die Element-Kugeln befinden sich noch ",
+				"in deinem Besitz."
+			]
+		},
+		{
+			"path":[25,185,25,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"",
+				"\\c[10]Elementlevel Steigerung ist also noch möglich."
+			]
+		},
+		{
+			"path":[25,185,35,4],
+			"indent":[2,2,2,2],
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: So und was für eine Leistung ",
+				"erwartet man jetzt hier unten von ",
+				"einem schwächlichen Adelsmann wie ",
+				"mir?"
+			]
+		},
+		{
+			"path":[25,185,40,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hartes,\\. anstrengendes,\\. ",
+				"schweiß-auftreibendes\\. Erzhacken.\\.",
+				"So etwas macht man halt in der Mine. "
+			]
+		},
+		{
+			"path":[25,185,44,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ahh...\\. Fabelhaft."
+			]
+		},
+		{
+			"path":[25,185,46,4],
+			"indent":[2,2,2,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich würde die Sache nicht auf ",
+				"die leichte Schulter nehmen. \\.Wenn ",
+				"du hier nicht arbeitest, geben sie ",
+				"dir kaum etwas zu essen."
+			]
+		},
+		{
+			"path":[25,185,51,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wäre eine gute Gelegenheit, ",
+				"mit einer Diät anzufangen."
+			]
+		},
+		{
+			"path":[25,185,63,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Seid ihr euch wirklich Sicher ",
+				"mit dieser Fluchtsache?"
+			]
+		},
+		{
+			"path":[25,185,66,4],
+			"indent":[2,2,2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Was sollen wir denn bitte ",
+				"sonst machen?\\. Auf anderem Wege ",
+				"werden wir hier wohl kaum raus ",
+				"kommen..."
+			]
+		},
+		{
+			"path":[25,185,71,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Das sehe ich genauso.\\. Ich ",
+				"hoffe nur dieser Felcis weiß auch, ",
+				"was er tut."
+			]
+		},
+		{
+			"path":[25,185,75,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ..."
+			]
+		},
+		{
+			"path":[25,185,88,2],
+			"indent":[4,4],
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Gut gefahren, Kento!\\. Wir ",
+				"sind richtig angekommen."
+			]
+		},
+		{
+			"path":[25,185,91,4],
+			"indent":[4,4,4,4],
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Jetzt gehen wir die Gleise ",
+				"zurück - bis zu der Stelle, wo die ",
+				"2. Weiche war.\\. Irgendwo dort müssen ",
+				"wir uns durchsprengen."
+			]
+		},
+		{
+			"path":[25,185,101,3],
+			"indent":[5,5,5],
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Hm, die letzte Weiche bist ",
+				"du falsch abgebogen, Kento.\\. Aber ",
+				"egal.\\. Wir sind noch nah genug dran."
+			]
+		},
+		{
+			"path":[25,185,105,4],
+			"indent":[5,5,5,5],
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Jetzt gehen wir die Gleise ",
+				"zurück - bis zu der Stelle, wo die ",
+				"2. Weiche war.\\. Irgendwo dort müssen ",
+				"wir uns durchsprengen."
+			]
+		},
+		{
+			"path":[25,185,114,4],
+			"indent":[5,5,5,5],
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Nein, nein... so geht das ",
+				"nicht, Kento...\\. Du hättest bei der ",
+				"ersten Weiche rechts abbiegen ",
+				"müssen."
+			]
+		},
+		{
+			"path":[25,185,119,4],
+			"indent":[5,5,5,5],
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Naja. Also entweder gehen ",
+				"wir jetzt zu Fuß die ganzen Gleise ",
+				"zurück\\. - oder wir versuchen es ",
+				"morgen nochmal."
+			]
+		},
+		{
+			"path":[25,186,11,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Sieh mal einer an, was hier ",
+				"alles so rumliegt."
+			]
+		},
+		{
+			"path":[25,186,14,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Sollen wir das wirklich ",
+				"einstecken?"
+			]
+		},
+		{
+			"path":[25,186,17,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Naja, wieso nicht?"
+			]
+		},
+		{
+			"path":[25,186,19,4],
+			"indent":[3,3,3,3],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich bin mir ziemlich sicher, ",
+				"dass die Wachen uns keine ",
+				"Gegenstände mit in unsere Zellen ",
+				"nehmen lassen."
+			]
+		},
+		{
+			"path":[25,186,24,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ja...\\. das heißt, falls sie ",
+				"mitbekommen, dass wir Gegenstände ",
+				"bei uns haben."
+			]
+		},
+		{
+			"path":[25,186,28,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Du willst doch nicht etwa..."
+			]
+		},
+		{
+			"path":[25,186,30,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Also ich weiß ja nich', wie ",
+				"das bei euch ist,\\. aber ich will ",
+				"nicht ewig hier gefangen bleiben."
+			]
+		},
+		{
+			"path":[25,186,34,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Und sollten wir irgendwann ",
+				"mal vorhaben zu fliehen, könnte ",
+				"jeder Gegenstand nützlich sein."
+			]
+		},
+		{
+			"path":[25,186,38,4],
+			"indent":[3,3,3,3],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja, da hast du Recht.\\. Dann ",
+				"sollten wir aber darauf achten, dass ",
+				"wir nicht zuviel einstecken, sonst ",
+				"fällt das zu sehr auf."
+			]
+		},
+		{
+			"path":[25,186,43,3],
+			"indent":[3,3,3],
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Von Soldaten des Briganten-",
+				"Orden zu Schwerverbrechern und ",
+				"Schmugglern, ganz große Klasse..."
+			]
+		},
+		{
+			"path":[25,186,52,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"",
+				"Info: Da du Gefangener bist, kannst du \\c[11]nicht ",
+				"beliebig Gegenstände\\c[0] aus der Mine mitnehmen."
+			]
+		},
+		{
+			"path":[25,186,55,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"",
+				"Du musst darauf achten, dass die \\c[11]Wächter deine ",
+				"Gegenstände nicht bemerken\\c[0]."
+			]
+		},
+		{
+			"path":[25,186,58,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"",
+				"Dies ist der Fall, wenn sich ihr \\c[11]Verdachts-",
+				"Balken\\c[0]..."
+			]
+		},
+		{
+			"path":[25,186,80,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"",
+				"...nicht mit deinen \\c[11]Auffälligkeits-Balken ",
+				"schneidet.\\c[0]"
+			]
+		},
+		{
+			"path":[25,186,97,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"",
+				"Sind die Balken etwa \\c[11]wie oben\\c[0] angezeigt, werden ",
+				"deine Gegenstände \\c[11]nicht entdeckt\\c[0]."
+			]
+		},
+		{
+			"path":[25,186,108,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"",
+				"Jetzt \\c[11]überschneiden\\c[0] sich die Balken und dein Fund ",
+				"wird höchstwahrscheinlich \\c[11]auffliegen\\c[0]."
+			]
+		},
+		{
+			"path":[25,186,111,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"",
+				"Dein Auffälligkeits-Balken \\c[11]erhöht sich mit jedem ",
+				"Gegenstand\\c[0], den du aufnimmst."
+			]
+		},
+		{
+			"path":[25,186,114,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"",
+				"Je auffälliger der Gegenstand, desto mehr steigt ",
+				"der Auffälligkeits-Balken."
+			]
+		},
+		{
+			"path":[25,186,117,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"",
+				"Der Verdachts-Balken der Wächter \\c[11]sinkt und steigt ",
+				"mit deinem Ruf in dieser Mine\\c[0]."
+			]
+		},
+		{
+			"path":[25,186,120,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"",
+				"Je \\c[11]besser\\c[0] du deine \\c[11]Arbeit\\c[0] machst, desto \\c[11]weniger\\c[0] ",
+				"werden die \\c[11]Wachen auf dich achten\\c[0]."
+			]
+		},
+		{
+			"path":[25,186,123,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"",
+				"Es gibt allerdings auch andere Ereignisse, die den ",
+				"Verdachts-Balken beeinflussen können."
+			]
+		},
+		{
+			"path":[25,186,126,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"",
+				"Sollte dein Fund entdeckt werden, verlierst du ",
+				"\\c[11]alle an diesem Tag gefundenen Gegenstände\\c[0]."
+			]
+		},
+		{
+			"path":[25,186,129,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"",
+				"\\c[0]Aufgenommenes kann nicht mehr abgelegt werden\\c[0]. ",
+				"Also überlege gut, was du mitnimmst. "
+			]
+		},
+		{
+			"path":[25,188,20,2],
+			"lines":
+			[
+				"",
+				"Feierabend - Zurück zur Loren-Haltestelle!"
+			]
+		},
+		{
+			"path":[25,188,29,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"",
+				"Info: Wartest du zu lange mit der Rückkehr, fahren ",
+				"die Minen-Arbeiter ohne dich zurück."
+			]
+		},
+		{
+			"path":[25,188,32,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"",
+				"Dies bedeutet:"
+			]
+		},
+		{
+			"path":[25,188,34,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"",
+				"Deine letzte \\c[11]Erz-Sammlung verfällt\\c[0] und du musst ",
+				"die gesamte Lorenstrecke \\c[11]selber zurücklaufen\\c[0]."
+			]
+		},
+		{
+			"path":[25,188,37,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"",
+				"Des Weiteren stehst du unter \\c[11]größerem Verdacht\\c[0], da ",
+				"du zu spät oben ankommst."
+			]
+		},
+		{
+			"path":[25,189,24,3],
+			"lines":
+			[
+				"",
+				"Der letzte Loren-Zug ist nach oben gefahren. ",
+				"Du musst den Weg alleine zurückgehen!"
+			]
+		},
+		{
+			"path":[25,189,27,2],
+			"lines":
+			[
+				"",
+				"Der Verdacht der Wächter dir gegenüber steigt."
+			]
+		},
+		{
+			"path":[25,190,21,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Wenn ihr etwas Erz gesammelt habt, bringt ",
+				"es zu mir. "
+			]
+		},
+		{
+			"path":[25,190,23,4],
+			"indent":[1,1,1,1],
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Ich notiere mir, wie viel Erz hier ",
+				"jeder Gefangene gesammelt hat.\\. Also kommt ja nicht ",
+				"auf die Idee, euch vor der Arbeit zu drücken.\\. Wir ",
+				"merken das."
+			]
+		},
+		{
+			"path":[25,190,29,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Neues Erz?"
+			]
+		},
+		{
+			"path":[25,190,39,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: \\v[1] Erz, damit hast du insgesamt schon ",
+				"\\v[1883] Erz gesammelt."
+			]
+		},
+		{
+			"path":[25,190,47,4],
+			"indent":[2,2,2,2],
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: \\v[1883] Erz?\\. Soll das ein Scherz sein?!\\. Sofort ",
+				"wieder an die Arbeit!\\. Denkt ja nicht, dass ihr ",
+				"heute irgendwas in den Magen bekommt, mit so einer ",
+				"schwachen Leistung!"
+			]
+		},
+		{
+			"path":[25,190,54,2],
+			"indent":[3,3],
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Das ist ziemlich mäßig.\\. Sofort weiter!\\.",
+				"Ihr seid noch nicht fertig, hoffe ich?"
+			]
+		},
+		{
+			"path":[25,190,59,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: In Ordnung. Weiter so."
+			]
+		},
+		{
+			"path":[25,190,65,2],
+			"indent":[6,6],
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Schön.\\. Aber denkt nicht, dass ihr ",
+				"dafür den nächsten Tag frei bekommt. "
+			]
+		},
+		{
+			"path":[25,190,69,2],
+			"indent":[6,6],
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Gut, gut.\\. Das ist aber kein Grund jetzt ",
+				"langsamer zu machen. "
+			]
+		},
+		{
+			"path":[25,190,75,4],
+			"indent":[5,5,5,5],
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Ihr hängt euch ja ziemlich rein!\\. Man ",
+				"könnte fast denken, die Arbeit würde euch Spaß ",
+				"machen.\\. Offensichtlich müssen wir euch noch etwas ",
+				"härter fordern!"
+			]
+		},
+		{
+			"path":[25,190,91,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hier etwas zur Auffrischung."
+			]
+		},
+		{
+			"path":[25,190,130,1],
+			"indent":[3],
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Und jetzt weiter!"
+			]
+		},
+		{
+			"path":[25,196,5,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\<SZENE-EVENT# NICHT ZURÜCKGESETZT!!!1"
+			]
+		},
+		{
+			"path":[25,196,13,1],
+			"indent":[4],
+			"lines":
+			[
+				"\\<SYSTEM-GRAFIK-POSITION NICHT ZURÜCKGESETZT!!!!1"
+			]
+		},
+		{
+			"path":[25,211,317,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"\\>\\c[\\v[81]]\\n[30]\\v[95]  \\c[\\v[82]]\\n[31]\\v[102]  \\c[\\v[83]]\\n[32]\\v[109]  \\c[\\v[84]]\\n[33]\\v[116]",
+				"\\>\\c[0]\\n[34]\\n[35]",
+				"\\>\\c[3](\\n[36]\\c[3]\\n[37]\\c[3]\\n[38]\\c[3]\\n[39]\\c[3]\\n[40]\\c[3]\\n[41]\\c[3]\\n[42])"
+			]
+		},
+		{
+			"path":[25,211,322,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"",
+				"\\>         - Keine weiteren Informationen -"
+			]
+		}
+	]
+}

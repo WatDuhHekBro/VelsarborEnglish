@@ -3,7 +3,7 @@
 	[
 		{
 			"path":[11,1,19,3],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] Lady Mensesso, please",
 				"leave this research station!\\. You aren't",
@@ -12,7 +12,7 @@
 		},
 		{
 			"path":[11,1,26,4],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[1] How come?\\. I thought",
 				"we were prepared for this invasion.\\.",
@@ -22,7 +22,7 @@
 		},
 		{
 			"path":[11,1,32,2],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] That's what we would've",
 				"expected,\\. if it weren't for this",
@@ -31,7 +31,7 @@
 		},
 		{
 			"path":[11,1,37,3],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[1] Brigantia's",
 				"Special-Ops?\\. So it has finally",
@@ -40,7 +40,7 @@
 		},
 		{
 			"path":[11,1,42,4],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]: It's unbelievable!\\.",
 				"A single person, storming through the complex",
@@ -50,7 +50,7 @@
 		},
 		{
 			"path":[11,1,47,2],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]: He has already defeated",
 				"a dozen soldiers! Single-handedly!"
@@ -58,7 +58,7 @@
 		},
 		{
 			"path":[11,1,53,3],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]: I beg your pardon?!\\.",
 				"This can't be happening!\\. What kind of",
@@ -68,7 +68,7 @@
 		},
 		{
 			"path":[11,1,57,3],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] As outlandish",
 				"as it may sound,\\. it's true!\\.",
@@ -77,7 +77,7 @@
 		},
 		{
 			"path":[11,1,61,3],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] Leave this base",
 				"immediately!\\. We can no longer",
@@ -86,14 +86,14 @@
 		},
 		{
 			"path":[11,1,66,1],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[2] I see..."
 			]
 		},
 		{
 			"path":[11,1,69,3],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[1] Go on ahead.\\. I'll",
 				"be able to leave this place safely",
@@ -102,7 +102,7 @@
 		},
 		{
 			"path":[11,1,74,3],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] My order was to",
 				"escort you safely out of here.\\.",
@@ -111,7 +111,7 @@
 		},
 		{
 			"path":[11,1,80,4],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[1] Hmpf...\\. Then at least",
 				"let me get one last look through the",
@@ -121,7 +121,7 @@
 		},
 		{
 			"path":[11,1,85,2],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] ...\\.Fine,\\.",
 				"but hurry up!"
@@ -129,7 +129,7 @@
 		},
 		{
 			"path":[11,1,101,4],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Th...\\. This is",
 				"outrageous!\\. How can someone gain such",
@@ -138,7 +138,7 @@
 		},
 		{
 			"path":[11,1,106,2],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] He's headed",
 				"towards the core of the base..."
@@ -146,7 +146,7 @@
 		},
 		{
 			"path":[11,1,110,1],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Towards the",
 				"machine core\\..\\..\\.."
@@ -154,7 +154,7 @@
 		},
 		{
 			"path":[11,1,112,4],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[0] It's to be",
 				"expected, what else would Brigantia",
@@ -164,7 +164,7 @@
 		},
 		{
 			"path":[11,1,116,4],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Well, if he",
 				"wasn't stopped before, transporting",
@@ -173,7 +173,7 @@
 		},
 		{
 			"path":[11,1,120,4],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Superpowers or not,\\.",
 				"he won't be able to get an object of",
@@ -182,7 +182,7 @@
 		},
 		{
 			"path":[11,2,12,3],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]: G...\\. Gone...\\. The FPM05",
 				"is gone!\\. Destroyed by a single person!\\.",
@@ -192,16 +192,16 @@
 		},
 		{
 			"path":[11,2,18,3],
-			"patch":
+			"lines":
 			[
-				"\\c[10]Lady Mensesso\\c[0]:\\s[1] Did you hear",
-				"what he said?\\. He wants to destroy",
-				"\"the source of all this power\"!"
+				"\\c[10]Lady Mensesso\\c[0]:\\s[1] He wants to destroy",
+				"\"the source of all this power\".\\.",
+				"You heard that, right?"
 			]
 		},
 		{
 			"path":[11,2,23,2],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]: The source of all this",
 				"power?\\. His power too?!"
@@ -209,7 +209,7 @@
 		},
 		{
 			"path":[11,2,31,2],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]: I have to",
 				"check something for a moment!"
@@ -217,7 +217,7 @@
 		},
 		{
 			"path":[11,2,53,2],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]: N... No!\\. Why didn't",
 				"I get that that's what he meant?!"
@@ -225,7 +225,7 @@
 		},
 		{
 			"path":[11,2,55,3],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]: The machine core",
 				"has been experiencing some energy",
@@ -235,7 +235,7 @@
 		},
 		{
 			"path":[11,2,60,2],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]: That means...\\.",
 				"he wants to destroy the core?!"
@@ -243,7 +243,7 @@
 		},
 		{
 			"path":[11,3,11,4],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[1] The... the",
 				"core vanished!\\. The Spec-Ops",

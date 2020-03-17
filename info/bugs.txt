@@ -1,0 +1,1 @@
+Map0013: Caught in an infinite loop. (And the final product can't even be re-read. Something major is wrong. With the old reader, it can be read, but somehow, a large chunk is just gone. Also, check for indents and parameters and only omit them if they're empty. At SZENE-Text-2, there's a disconnect between the reader and the writer. I think the writer is bugged out.)

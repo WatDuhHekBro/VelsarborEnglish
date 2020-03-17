@@ -3,7 +3,7 @@
 	[
 		{
 			"path":[4,3,9,3],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[1] WHAT are you trying to do?!\\.",
 				"Are you trying to take the objective from",
@@ -12,47 +12,45 @@
 		},
 		{
 			"path":[4,3,14,3],
-			"patch":
+			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[2] No...\\.",
 				"I'm not going to take it",
-				"or conquer it."
+				"or capture it."
 			]
 		},
 		{
 			"path":[4,3,18,1],
-			"patch":
+			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[1] I will DESTROY it!"
 			]
 		},
 		{
 			"path":[4,3,22,1],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[1] ...You... YOU'RE INSANE!"
 			]
 		},
 		{
 			"path":[4,3,25,2],
-			"patch":
+			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[1] I don't see any other way."
 			]
 		},
 		{
 			"path":[4,3,30,2],
-			"patch":
+			"lines":
 			[
-				"\\c[10]Radio\\c[0]:\\s[1] You... YOU...\\. YOU CAN'T DO THAT!!\\. WE NEED",
-				"IT!!\\. THIS WHOLE WAR WAS CREATED IN ORDER TO SEIZE",
-				"CONTROL OF IT!!\\. WHAT THE HELL DO YOU THINK YOU'RE",
-				"DOING?!\\. STOP THIS NOW!!"
+				"\\c[10]Radio\\c[0]:\\s[1] You... YOU...\\. YOU CAN'T DO THAT!!\\.",
+				"STOP THIS NOW!!\\. VEL03!!"
 			]
 		},
 		{
 			"path":[4,3,35,3],
-			"patch":
+			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]:\\s[2] Why do I even bother trying",
 				"to talk to you...)"
@@ -60,7 +58,7 @@
 		},
 		{
 			"path":[4,3,43,4],
-			"patch":
+			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]:\\s[1] Now!\\. According to the",
 				"information, I have to take a left",
@@ -70,7 +68,7 @@
 		},
 		{
 			"path":[39,1,15,2],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[2] If the Zojenish get a hold of the",
 				"Vel-System, it's the end for Brigantia!"
@@ -78,7 +76,7 @@
 		},
 		{
 			"path":[39,1,19,3],
-			"patch":
+			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[2] I have no intention of",
 				"backstabbing my country,\\. don't worry...\\.",
@@ -88,7 +86,7 @@
 		},
 		{
 			"path":[39,1,25,2],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[2] How can you say that?!\\.",
 				"Look at what you're doing!"
@@ -96,14 +94,14 @@
 		},
 		{
 			"path":[39,1,30,1],
-			"patch":
+			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[2] There he is! Get him!"
 			]
 		},
 		{
 			"path":[53,1,3,2],
-			"patch":
+			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]: I have to go down the",
 				"other hallway...)"
@@ -111,7 +109,7 @@
 		},
 		{
 			"path":[54,1,3,2],
-			"patch":
+			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]: I have to go down the",
 				"other hallway...)"
@@ -119,7 +117,7 @@
 		},
 		{
 			"path":[55,1,3,2],
-			"patch":
+			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]: I have to go down the",
 				"other hallway...)"
