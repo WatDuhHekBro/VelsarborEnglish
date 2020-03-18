@@ -512,8 +512,8 @@
 			"path":[104,2,399,3],
 			"lines":
 			[
-				"\\c[2]Cibon:\\c[0] Oh man. No need to be",
-				"as vigilant as Ol' Vorento."
+				"\\c[2]Cibon:\\c[0] Now now. No need",
+				"to be so vigilant."
 			]
 		},
 		{
@@ -923,9 +923,9 @@
 			"indent":[1,1,1],
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Solln wir losgehen",
-				"oder uns noch etwas auf die Reise ",
-				"vorbereiten?"
+				"\\c[2]\\n[2]\\c[0]: Should we prepare",
+				"a little before we go or",
+				"should we just go?"
 			]
 		},
 		{
@@ -933,9 +933,9 @@
 			"indent":[2,2,2],
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich möchte keine Minute ",
-				"länger in diesem Kaff verweilen. Lass ",
-				"uns endlich weitergehen."
+				"\\c[1]\\n[1]\\c[0]: I don't want to spend",
+				"a minute longer in this backwater",
+				"dump. Let's finally go."
 			]
 		},
 		{
@@ -943,7 +943,7 @@
 			"indent":[2],
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Okay, dann mal los!"
+				"\\c[2]\\n[2]\\c[0]: Okay, let's go!"
 			]
 		},
 		{
@@ -951,8 +951,8 @@
 			"indent":[2,2],
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich denke ein paar Sachen",
-				"haben wir hier noch zu erledigen."
+				"\\c[1]\\n[1]\\c[0]: I think we still have",
+				"a couple of things to do here."
 			]
 		},
 		{
@@ -960,7 +960,7 @@
 			"indent":[2],
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Na, wenn du meinst."
+				"\\c[2]\\n[2]\\c[0]: Well, if you think so."
 			]
 		},
 		{
@@ -968,8 +968,8 @@
 			"indent":[1,1],
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Ich sollte erstmal ",
-				"nachsehen, wo Cibon steckt.)"
+				"(\\c[1]\\n[1]\\c[0]: I should first",
+				"check where Cibon is.)"
 			]
 		},
 		{
@@ -1003,8 +1003,8 @@
 			"indent":[1,1],
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Meine Güte! Ihr beide seit",
-				"wirklich albern."
+				"\\c[10]Blonde Girl\\c[0]: Gosh! You two really",
+				"are ridiculous."
 			]
 		},
 		{
@@ -1012,19 +1012,18 @@
 			"indent":[1,1],
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hey, steck mich nicht mit dem ",
-				"unter einem Hut!"
+				"\\c[1]\\n[1]\\c[0]: Hey, don't lump us two",
+				"together!"
 			]
 		},
 		{
 			"path":[146,1,10,4],
-			"indent":[1,1,1,1],
+			"indent":[1,1,1],
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich hab ihm schon nach ",
-				"dem 2. Versuch eingeredet, dass es ",
-				"sinnlos ist, aber er wollte nicht ",
-				"hören."
+				"\\c[1]\\n[1]\\c[0]: I told him after the",
+				"second try that it was pointless,",
+				"but he didn't want to listen."
 			]
 		},
 		{
@@ -1032,8 +1031,8 @@
 			"indent":[1,1],
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wunderbar, wie du mich ",
-				"immer in Schutz nimmst Kento!"
+				"\\c[2]\\n[2]\\c[0]: Wonderful how you always",
+				"stand up for me, Kento!"
 			]
 		},
 		{
@@ -1041,20 +1040,19 @@
 			"indent":[1,1,1,1],
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Also ich weiß nicht...\\. ",
-				"Ich habe gehört in Nomerea sollen Wohnungen sehr ",
-				"teuer sein, zurzeit... \\.",
-				"Und wovon willst du eigentlich leben?"
+				"\\c[10]Blonde Girl\\c[0]: So I'm not sure...\\.",
+				"I heard that apartments in Nomerea are rather",
+				"expensive at the moment...\\. And what",
+				"do you actually end up getting?"
 			]
 		},
 		{
 			"path":[146,2,3,4],
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Seit meine Freundin von hier ",
-				"weg ging, ist es noch langweiliger hier.\\. Ich ",
-				"werde auch bald woanders hinziehen...\\. Auf ",
-				"jeden Fall!"
+				"\\c[10]Blonde Girl\\c[0]: It's been boring ever since",
+				"my friend left here.\\. Ich I'll move somewhere",
+				"else soon...\\. for sure!"
 			]
 		},
 		{
@@ -1062,8 +1060,8 @@
 			"indent":[2,2],
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Öhm... wo is' denn deine ",
-				"Freundin hingezogen?"
+				"\\c[2]\\n[2]\\c[0]: Um... where'd your friend",
+				"move to?"
 			]
 		},
 		{
@@ -1071,8 +1069,8 @@
 			"indent":[2,2],
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Oh...\\. sie hat mich extra ",
-				"darum gebeten, es dir NICHT zu sagen."
+				"\\c[10]Blonde Girl\\c[0]: Oh...\\. she specifically",
+				"asked me NOT to tell you."
 			]
 		},
 		{
@@ -1080,16 +1078,17 @@
 			"indent":[2],
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ohje..."
+				"\\c[2]\\n[2]\\c[0]: Right..."
 			]
 		},
 		{
 			"path":[147,1,3,2],
-			"indent":[1,1],
+			"indent":[1,1,1],
 			"lines":
 			[
-				"\\c[10]Kurzhaariges Mädchen\\c[0]: Wenn ich nicht nach ",
-				"Nomerea gehe, wohin dann?\\. Hm..."
+				"\\c[10]Short-Haired Girl\\c[0]: If I don't go to",
+				"Nomerea, where should I go to then?\\.",
+				"Hm..."
 			]
 		},
 		{
@@ -1097,9 +1096,9 @@
 			"indent":[2,2,2],
 			"lines":
 			[
-				"\\c[10]Kurzhaariges Mädchen\\c[0]: Ich sterbe hier noch ",
-				"vor Langeweile! Spätestens in 2 Monaten ",
-				"verschwinde ich von hier und ziehe nach Nomerea!"
+				"\\c[10]Short-Haired Girl\\c[0]: I'm dying of boredom",
+				"here! I'm moving to Nomerea in two months",
+				"at the latest!"
 			]
 		},
 		{
@@ -1107,9 +1106,9 @@
 			"indent":[2,2,2],
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Guten Tag, verehrtes Fräulein.\\.",
-				"Sie haben vor, nach Nomerea zu ",
-				"ziehen?"
+				"\\c[2]\\n[2]\\c[0]: Good afternoon, m'lady.\\.",
+				"You said you were planning",
+				"to move to Nomerea?"
 			]
 		},
 		{
@@ -1117,8 +1116,8 @@
 			"indent":[2,2],
 			"lines":
 			[
-				"\\c[10]Kurzhaariges Mädchen\\c[0]: Ach du schon wieder... ",
-				"Was ist denn?"
+				"\\c[10]Short-Haired Girl\\c[0]: Oh, it's you again... ",
+				"What is it this time?"
 			]
 		},
 		{
@@ -1126,18 +1125,17 @@
 			"indent":[2,2,2],
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Mein Kamerad und ich ",
-				"kommen von Nomerea und wollten ",
-				"heute den Rückweg antreten. "
+				"\\c[2]\\n[2]\\c[0]: My fellow comrade and I",
+				"hail from Nomerea and we're",
+				"returning today."
 			]
 		},
 		{
 			"path":[147,1,52,2],
-			"indent":[2,2],
+			"indent":[2],
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich wollte fragen, ob es Ihnen ",
-				"recht wäre, uns zu begleiten."
+				"\\c[2]\\n[2]\\c[0]: Care to join us?"
 			]
 		},
 		{
@@ -1150,13 +1148,12 @@
 		},
 		{
 			"path":[147,1,58,4],
-			"indent":[2,2,2,2],
+			"indent":[2,2,2],
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Auf den Weg nach Nomerea ",
-				"treibt sich so einiges Ungetüm rum,",
-				"vor dem wir Sie dann natürlich ",
-				"beschützen würden."
+				"\\c[2]\\n[2]\\c[0]: On the way to Nomerea,",
+				"there are some monsters that we'd",
+				"gladly protect you from of course!"
 			]
 		},
 		{
@@ -1164,10 +1161,10 @@
 			"indent":[2,2,2,2],
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Nicht zuletzt, da es sich um  ",
-				"eine so hübsche Dame handelt, wäre ",
-				"es uns eine große Ehre, würden Sie ",
-				"uns auf unseren Wegen begleiten."
+				"\\c[2]\\n[2]\\c[0]: And last, but certainly not",
+				"with such a fine-looking gal you are,",
+				"it'd be an honor for us if you would",
+				"accompany us along the way."
 			]
 		},
 		{
@@ -1175,10 +1172,9 @@
 			"indent":[2,2,2,2],
 			"lines":
 			[
-				"\\c[10]Kurzhaariges Mädchen\\c[0]: Ach weißt du, seit ich ",
-				"weiß, dass du aus Nomerea kommst, habe ich meine ",
-				"Meinung geändert.\\.",
-				"Ich bleibe doch lieber erstmal hier...."
+				"\\c[10]Short-Haired Girl\\c[0]: You know...\\. Since I know",
+				"that you're from Nomerea, I've changed my mind.\\.",
+				"I'd rather stay here first..."
 			]
 		},
 		{
@@ -1186,8 +1182,8 @@
 			"indent":[2,2],
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...Wenn das Ihnen lieber ist...",
-				"(VERDAMMT!)"
+				"\\c[2]\\n[2]\\c[0]: ...Well if that's what you",
+				"prefer... (DAMN!)"
 			]
 		},
 		{
@@ -1195,19 +1191,18 @@
 			"indent":[2,2],
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Du kannst es einfach nicht ",
-				"lassen."
+				"\\c[1]\\n[1]\\c[0]: You simply can't leave it",
+				"at that, can you?"
 			]
 		},
 		{
 			"path":[147,1,99,4],
-			"indent":[2,2,2,2],
+			"indent":[2,2,2],
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich dacht' mit der etwas ",
-				"feineren Art würd's klappen, aber ",
-				"ich denk' dafür war's zu spät\\.,",
-				"oder?"
+				"\\c[2]\\n[2]\\c[0]: I thought it'd work with",
+				"the more gentle one, but I think I was",
+				"too late\\., isn't that right?"
 			]
 		},
 		{
@@ -1215,10 +1210,10 @@
 			"indent":[2,2,2,2],
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Zu spät? Das war jetzt das 5. ",
-				"Mal, wo du mit ihr rumgeflirtet hast, ",
-				"seit wir hier sind. Und vorher immer",
-				"mit altüblicher Gossensprache."
+				"\\c[1]\\n[1]\\c[0]: Too late?! This is the 5th time",
+				"you've tried to flirt with her since",
+				"we got here! And always with the",
+				"usual dirty talk beforehand."
 			]
 		},
 		{
@@ -1226,8 +1221,8 @@
 			"indent":[2,2],
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Jaja, schon gut. Es war halt ",
-				"der letzte hoffnungslose Versuch..."
+				"\\c[2]\\n[2]\\c[0]: Okay, fine. It was a",
+				"last-ditch attempt anyways..."
 			]
 		},
 		{
@@ -1235,10 +1230,25 @@
 			"indent":[2,2,2],
 			"lines":
 			[
-				"\\c[10]Kurzhaariges Mädchen\\c[0]: Ich sterbe hier noch ",
-				"vor Langeweile! Spätestens in 2 Monaten ",
-				"verschwinde ich von hier und ziehe nach Nomerea!"
+				"\\c[10]Short-Haired Girl\\c[0]: I'm dying of boredom",
+				"here! I'm moving to Nomerea in two months",
+				"at the latest!"
 			]
+		}
+	],
+	"other":
+	[
+		{
+			"path":[140,1,11],
+			"patch":"Let's go./No, not yet."
+		},
+		{
+			"path":[140,1,12],
+			"patch":"Let's go."
+		},
+		{
+			"path":[140,1,27],
+			"patch":"No, not yet."
 		}
 	]
 }

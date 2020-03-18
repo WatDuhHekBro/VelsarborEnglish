@@ -58,20 +58,19 @@
 			"path":[7,2,2,4],
 			"lines":
 			[
-				"\\c[10]Waitress\\c[0]: Es ist wirklich langweilig",
-				"hier.\\. Irgendwie war es auch eine Schnaps-Idee,",
-				"ausgerechnet hier so einen Gasthof zu bauen,",
-				"wo hier doch eh kaum eine Sau sich blicken lässt."
+				"\\c[10]Waitress\\c[0]: It's rather boring around here.\\.",
+				"Somehow, he got the idea to open up an inn",
+				"here of all places. Even the ground can",
+				"hardly be sowed."
 			]
 		},
 		{
 			"path":[7,2,9,3],
-			"indent":[1,1,1],
+			"indent":[1,1],
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ja, stimmt.\\. Nur der ",
-				"Beruf kann einen natürlich wieder ",
-				"hier hin verschleppen."
+				"\\c[1]\\n[1]:\\c[0] Agreed.\\. The job is probably",
+				"the only thing keeping you here."
 			]
 		},
 		{

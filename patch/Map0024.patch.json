@@ -1,0 +1,35 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[6,1,12,2],
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: Oh, hello! What are you doing here?"
+			]
+		},
+		{
+			"path":[6,1,16,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Why are you looking out",
+				"the window all the time?"
+			]
+		},
+		{
+			"path":[6,1,19,2],
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: Why?\\. I'm looking at the city",
+				"because I have nothing else to do..."
+			]
+		},
+		{
+			"path":[6,1,23,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I see..."
+			]
+		}
+	]
+}

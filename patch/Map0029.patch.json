@@ -1,0 +1,404 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[35,1,25,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] See? Green pearls!",
+				"That's something."
+			]
+		},
+		{
+			"path":[35,1,28,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] What do these pearls bring us?"
+			]
+		},
+		{
+			"path":[35,1,34,4],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] What do they bring?\\. It's a",
+				"commodity.\\. Have you never been to the",
+				"trading market in Nomerea?"
+			]
+		},
+		{
+			"path":[35,1,39,3],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Oh?\\. I have.\\. It's just",
+				"that up until now, I wasn't interested..."
+			]
+		},
+		{
+			"path":[35,1,43,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Man, this is just like you.\\.",
+				"I tell you,\\. without me, you would've",
+				"been financially struggling a long",
+				"time ago."
+			]
+		},
+		{
+			"path":[35,1,47,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Excuse me?\\. You always borrow",
+				"money from me!"
+			]
+		},
+		{
+			"path":[35,1,50,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Gah!\\. Yeah alright.\\.",
+				"Back to the topic at hand."
+			]
+		},
+		{
+			"path":[35,1,53,4],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Such items are fairly rare",
+				"to get from some enemies once",
+				"you've defeated them."
+			]
+		},
+		{
+			"path":[35,1,57,4],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] At the trader's market,",
+				"you could exchange these items",
+				"for very practical things."
+			]
+		},
+		{
+			"path":[35,1,62,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Or you just sell them.\\.",
+				"Some of these things are damn valuable."
+			]
+		},
+		{
+			"path":[35,1,66,4],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Okay...\\. Green pearls aren't",
+				"that special,\\. but you don't just",
+				"throw them out like that."
+			]
+		},
+		{
+			"path":[35,1,71,3],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Well, now that I'm",
+				"a bit wiser,\\. let's go.\\."
+			]
+		},
+		{
+			"path":[35,1,75,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Ok."
+			]
+		},
+		{
+			"path":[40,1,5,3],
+			"lines":
+			[
+				"",
+				"Certain \\c[11]plants\\c[0] can get in your way."
+			]
+		},
+		{
+			"path":[40,1,8,3],
+			"lines":
+			[
+				"",
+				"In order to get past these plants..."
+			]
+		},
+		{
+			"path":[40,1,11,2],
+			"lines":
+			[
+				"",
+				"...the hero can cut these down with his spear."
+			]
+		},
+		{
+			"path":[40,1,13,3],
+			"lines":
+			[
+				"",
+				"Just stand \\c[11]next to the plant\\c[0] and press",
+				"\\c[11]Enter\\c[0]."
+			]
+		},
+		{
+			"path":[41,2,12,2],
+			"lines":
+			[
+				"",
+				"You're now moving into \\c[11]the wilderness\\c[0]!"
+			]
+		},
+		{
+			"path":[41,2,14,3],
+			"lines":
+			[
+				"",
+				"This is where \\c[11]random battles\\c[0] will",
+				"happen where you'll have to fight opponents."
+			]
+		},
+		{
+			"path":[41,2,17,3],
+			"lines":
+			[
+				"",
+				"Such confrontations come after",
+				"a random number of steps."
+			]
+		},
+		{
+			"path":[41,2,20,3],
+			"lines":
+			[
+				"",
+				"However, it's possible to \\c[11]avoid\\c[0] these battles."
+			]
+		},
+		{
+			"path":[41,2,23,3],
+			"lines":
+			[
+				"",
+				"Shortly before a fight starts, a \\c[11]flashing",
+				"exclamation point\\c[0] appears over the hero."
+			]
+		},
+		{
+			"path":[41,2,26,3],
+			"lines":
+			[
+				"",
+				"If you manage to \\c[11]stop and wait\\c[0] in place",
+				"until the exclamation point disappears..."
+			]
+		},
+		{
+			"path":[41,2,29,3],
+			"lines":
+			[
+				"",
+				"...you will have avoided that encounter."
+			]
+		},
+		{
+			"path":[41,2,32,3],
+			"lines":
+			[
+				"",
+				"By the way, it's easier to avoid fights",
+				"when you walk rather than when you run."
+			]
+		},
+		{
+			"path":[41,2,35,3],
+			"lines":
+			[
+				"",
+				"Nevertheless, \\c[11]you shouldn't",
+				"avoid all fights\\c[0]."
+			]
+		},
+		{
+			"path":[41,2,38,3],
+			"lines":
+			[
+				"",
+				"If the characters don't fight,",
+				"they won't get stronger..."
+			]
+		},
+		{
+			"path":[41,2,41,3],
+			"lines":
+			[
+				"",
+				"If the characters don't train, you will",
+				"find it more difficult to fight later."
+			]
+		},
+		{
+			"path":[41,2,44,3],
+			"lines":
+			[
+				"",
+				"That is why it's always recommended to",
+				"invest some time in leveling up your characters."
+			]
+		},
+		{
+			"path":[41,2,57,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Hey! Are you seeing",
+				"what I'm seeing?"
+			]
+		},
+		{
+			"path":[41,2,67,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] A sack!\\. I wonder what",
+				"could be in there..."
+			]
+		},
+		{
+			"path":[41,2,76,4],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Probably some crap",
+				"that someone couldn't use anymore",
+				"and tossed it up there..."
+			]
+		},
+		{
+			"path":[41,2,82,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Now hold on there.\\. Anyone",
+				"could've just as easily lost that bag."
+			]
+		},
+		{
+			"path":[41,2,87,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Up there on the hill?\\. Sure..."
+			]
+		},
+		{
+			"path":[41,2,91,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Damn it, let's just see",
+				"if it's something useful!"
+			]
+		},
+		{
+			"path":[41,2,95,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Alright..."
+			]
+		},
+		{
+			"path":[41,4,12,3],
+			"lines":
+			[
+				"",
+				"These orange arrows mark a \\c[11]jump point\\c[0]."
+			]
+		},
+		{
+			"path":[41,4,15,3],
+			"lines":
+			[
+				"",
+				"These markings only appear when",
+				"the hero is close to them."
+			]
+		},
+		{
+			"path":[41,4,18,3],
+			"lines":
+			[
+				"",
+				"There are two different jump points.",
+				"\\c[11]Orange and blue.\\c[0]"
+			]
+		},
+		{
+			"path":[41,4,21,3],
+			"lines":
+			[
+				"",
+				"With orange jump points you have to",
+				"stand on the marking and \\c[11]press Enter\\c[0]."
+			]
+		},
+		{
+			"path":[41,4,24,3],
+			"lines":
+			[
+				"",
+				"At blue jump points, you have to \\c[11]run\\c[0]",
+				"towards the mark with some momentum."
+			]
+		},
+		{
+			"path":[41,4,27,3],
+			"lines":
+			[
+				"",
+				"The same thing happens with both: \\c[11]If the hero",
+				"looks in the right direction, he jumps\\c[0]."
+			]
+		},
+		{
+			"path":[42,1,5,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Kento,\\.",
+				"the sack..."
+			]
+		},
+		{
+			"path":[42,1,9,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Yeah yeah..."
+			]
+		},
+		{
+			"path":[43,1,5,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Kento,\\.",
+				"the sack..."
+			]
+		},
+		{
+			"path":[43,1,9,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Yeah yeah..."
+			]
+		},
+		{
+			"path":[44,1,5,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Kento,\\.",
+				"the sack..."
+			]
+		},
+		{
+			"path":[44,1,9,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Yeah yeah..."
+			]
+		}
+	]
+}

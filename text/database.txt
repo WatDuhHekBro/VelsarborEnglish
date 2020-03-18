@@ -434,7 +434,7 @@ Saion: D... Dammit! This is... the end for me!
 Jorn: Argh... It was hopeless from the start!
 Gurim: ...Saion... you idiot!
 
-Cibon: Verflixt und zugenäht! The thing isn't letting up at all!
+Cibon: Blast! The thing isn't letting up at all!
 Cibon: What should we do now?
 Kento: Ask me something easier.
 Kento: I still want to know why a harpy attacks us HERE...
@@ -443,8 +443,8 @@ Cibon: What could that be?
 Kento: Of course! That's it!
 Cibon: What?!
 Kento: The eggs! Get the eggs and put them out in front of you.
-Cibon: Why? Unsere schönen Eier für's Omlett?!
-Kento: Jetzt sei nicht so zimperlich! Come on!
+Cibon: Why? The eggs for our omelette?!
+Kento: Now this isn't the time to fuss! Come on!
 Cibon: Hmpf... If you say so.
 
 Enemy Soldier: Only... one person... How... How is this possible?!
@@ -460,7 +460,7 @@ Seldan: And this laughable machine isn't going to stop me!
 Guillian: Ver...Verdammt!
 
 Saion: NO! How did this happen?! After all that training! All for nothing...
-Jorn: Ah! Ich hätte mich GLEICH tot stellen sollen!
+Jorn: Argh! Ich hätte mich GLEICH tot stellen sollen!
 Gurim: Saion... du konntest es nicht lassen...
 
 \n[3]: Die Tür ist offen!
@@ -502,13 +502,13 @@ Chefv: Jetz' is... Zappe!
  Du findest die Zustand-Sare-Techniken unter dem 2. Symbol im Technik-Auswahl-Menu.
 
 Saion: Now you will face the wrath of the Zinkar Brothers!
-Saion: Prepare to lose!
+Saion: Get ready for it!
 Gurim: Saion?
 Jorn: Shut up already!
  INFO: The bar at the bottom shows the order in which each combatant attacks.
  The combatant, which can be seen at the leftmost index, can make their move.
  The combatant to the right of that will be the next one to attack...
- However, it should be said that there are actions which can affected this order.
+ However, it should be said that there are actions which can disrupt this order.
 
 Kento: Wie kann es sein, dass sich eine Harpyie in dieser Gegend aufhält?!
 Kento: Harpyien leben normalerweise in Gebirgen und bleiben dort auch in der Regel!
@@ -537,12 +537,12 @@ Cibon: Sag bloß, du hättest dem Spektakel nur zugesehen!
 Soko: Nein... aber...
 Cibon: Nichts aber, jetzt wird gekämpft!
 
-Kento: Wovon redet ihr? Worauf wollt ihr mich vorbereiten?!
-????: Noch kannst du nichts wissen. Noch DARFST du nichts wissen!
-(Kento: Was zum... Was soll ich jetzt machen?!)
-(Kento: Bei der Geschwindigkeit, mit der sie gekommen sind... Fliehen steht außer Frage!)
-(Kento: Ich muss mich wehren...)
-(Kento: Die hintere Person mit Nahkampfwaffen anzugreifen ist sinnlos, sie wird geschützt...)
+Kento: What are you talking about? What do you want to prepare me for?!
+????: You still don't know anything yet. You CANNOT know anything yet!
+(Kento: What the... What should I do now?!)
+(Kento: At the speed they came... running is out of the question!)
+(Kento: I have to fight back...)
+(Kento: Attacking the person at the back with melee weapons is pointless, they're protected...)
 
 Kento: Wie kommt es eigentlich, dass die starken Gegner uns immer von oben überraschen?
 Cibon: Joa, wir sollten in Zukunft mehr unterirdisch reisen, nicht wahr Kumpel?
@@ -757,7 +757,7 @@ Kento: Alright! Now comes the 3-Hit Combo!
 
 Cibon: Now the axe is ready for a spin!
  Since Cibon now has 2 SP (the points under his name), he can use a special ability.
- You can find them under Axe Skills.
+ You can find them under Axe Arts.
  You get SP every time you land a hit with an offensive action.
 
 Kento: Three on two, but they seem inexperienced with combat.

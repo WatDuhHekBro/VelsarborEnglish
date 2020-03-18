@@ -1,0 +1,105 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[5,2,2,3],
+			"lines":
+			[
+				"\\c[10]Bürgermeister\\c[0]: Oh, hello! How are you?",
+				"When do you want to go back to Nomerea?"
+			]
+		},
+		{
+			"path":[5,2,8,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] I think we'll leave soon,",
+				"right Kento?"
+			]
+		},
+		{
+			"path":[5,2,11,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Yeah.\\. I don't think we have",
+				"anything else to do here."
+			]
+		},
+		{
+			"path":[5,2,14,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Bürgermeister\\c[0]: Okay. I wish you a good",
+				"journey!\\. Goodbye."
+			]
+		},
+		{
+			"path":[5,2,22,4],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Definitely still today.",
+				"I'm just looking for my colleague.",
+				"Do you know where he could be?"
+			]
+		},
+		{
+			"path":[5,2,27,4],
+			"indent":[1,1,1,1],
+			"lines":
+			[
+				"\\c[10]Bürgermeister\\c[0]: Sorry, I don't.",
+				"I rarely come out of the house now. I",
+				"still have a few things to do with the",
+				"district post about financial matters..."
+			]
+		},
+		{
+			"path":[5,2,31,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Bürgermeister\\c[0]: That means a lot",
+				"of paperwork and..."
+			]
+		},
+		{
+			"path":[5,2,35,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Yes...\\.",
+				"I understand..."
+			]
+		},
+		{
+			"path":[5,2,38,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Bürgermeister\\c[0]: Well, it won't be difficult",
+				"to find him here."
+			]
+		},
+		{
+			"path":[5,2,42,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ok."
+			]
+		},
+		{
+			"path":[13,1,2,3],
+			"lines":
+			[
+				"\\c[10]Bürgermeister\\c[0]: I'm sorry, but I'm very",
+				"busy right now... There are many important",
+				"things I still have to attend to."
+			]
+		}
+	]
+}

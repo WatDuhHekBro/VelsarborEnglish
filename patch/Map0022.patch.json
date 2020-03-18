@@ -1,0 +1,50 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[10,1,3,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Guests are always welcome with us",
+				"as long as they don't dirty or break anything."
+			]
+		},
+		{
+			"path":[10,1,7,1],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Oh....\\. alright."
+			]
+		},
+		{
+			"path":[10,1,14,2],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Oh, the city guard... What would you like?"
+			]
+		},
+		{
+			"path":[10,1,18,4],
+			"indent":[1,1,1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Well...\\. me and my colleague",
+				"are probably leaving today and just",
+				"wanted to take another look at the",
+				"city."
+			]
+		},
+		{
+			"path":[10,1,23,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: I see...\\. Well, please be",
+				"careful not to dirty anything here!"
+			]
+		}
+	]
+}

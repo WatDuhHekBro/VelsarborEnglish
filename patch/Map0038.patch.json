@@ -1,0 +1,282 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[53,2,19,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Finally!\\. The Lohne.\\. From",
+				"here on, the rest of the trip will be a breeze."
+			]
+		},
+		{
+			"path":[53,2,23,4],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Good...\\. Then let's move on",
+				"quickly and don't waste any time.",
+				"I'm really hungry."
+			]
+		},
+		{
+			"path":[53,2,28,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Yeah... alright."
+			]
+		},
+		{
+			"path":[53,2,65,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] W... What is a harpy",
+				"doing here?!"
+			]
+		},
+		{
+			"path":[53,2,68,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] That thing wants to attack us!"
+			]
+		},
+		{
+			"path":[53,4,7,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] ...\\. What happened there exactly?\\.",
+				"Did the\\....\\. harpy only attack",
+				"us because of these eggs?"
+			]
+		},
+		{
+			"path":[53,4,11,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Seems so, doesn't it?"
+			]
+		},
+		{
+			"path":[53,4,13,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Why is that?!"
+			]
+		},
+		{
+			"path":[53,4,15,3],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Think about it.\\.",
+				"Those were probably her eggs.\\.",
+				"And she just wanted them back."
+			]
+		},
+		{
+			"path":[53,4,21,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Her eggs?\\. You don't mean...\\.",
+				"they were..."
+			]
+		},
+		{
+			"path":[53,4,24,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] HARPY EGGS?!"
+			]
+		},
+		{
+			"path":[53,4,26,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] It's exactly so."
+			]
+		},
+		{
+			"path":[53,4,30,4],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Gah!\\. When I think that",
+				"we wanted to turn it into an omelet...\\.",
+				"That makes me sick!"
+			]
+		},
+		{
+			"path":[53,4,36,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] \\s[6]Hahahahahahahaha..."
+			]
+		},
+		{
+			"path":[53,4,39,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Don't you laugh like that!\\. I'm",
+				"serious.\\. Argh...\\. if I can get",
+				"my hands on this dealer!"
+			]
+		},
+		{
+			"path":[53,4,44,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Stay calm, Cibon."
+			]
+		},
+		{
+			"path":[53,4,47,3],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Look over there.\\. The harpy",
+				"left an egg.\\. Why is that?"
+			]
+		},
+		{
+			"path":[53,4,52,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Probably another harpy",
+				"egg!\\. Stay away from it!"
+			]
+		},
+		{
+			"path":[53,4,56,4],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] No, wait!\\. If it really was",
+				"a harpy egg, the mother would surely",
+				"not have left it so easily..."
+			]
+		},
+		{
+			"path":[53,4,61,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] ...You sure about that?\\. Then what",
+				"is that?"
+			]
+		},
+		{
+			"path":[53,4,64,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Beats me."
+			]
+		},
+		{
+			"path":[53,4,66,4],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] I don't really care now",
+				"either.\\. After this thing here, I",
+				"won't be able to see any eggs for",
+				"the next few months!"
+			]
+		},
+		{
+			"path":[53,4,71,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Well then..."
+			]
+		},
+		{
+			"path":[53,4,79,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] W...\\. what was that?"
+			]
+		},
+		{
+			"path":[53,4,81,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] The egg just moved!\\.",
+				"Look!"
+			]
+		},
+		{
+			"path":[53,4,90,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] ...Indeed!"
+			]
+		},
+		{
+			"path":[53,4,97,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Dammit!\\. Why does the",
+				"thing have to hatch now?"
+			]
+		},
+		{
+			"path":[53,4,100,3],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Look!\\. It's definitely",
+				"not a harpy, is it?"
+			]
+		},
+		{
+			"path":[53,4,104,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Well... okay... what do we",
+				"do now?"
+			]
+		},
+		{
+			"path":[53,4,112,3],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] I think we shouldn't",
+				"just leave it here, should we?"
+			]
+		},
+		{
+			"path":[53,4,116,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Yeah, you're right.\\. But what should",
+				"we do with the chick?"
+			]
+		},
+		{
+			"path":[53,4,119,4],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] We should take it to",
+				"Nomerea first.\\. Maybe someone can",
+				"take care of it there."
+			]
+		},
+		{
+			"path":[53,4,124,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] We don't have anything",
+				"else to do, right?"
+			]
+		},
+		{
+			"path":[53,4,127,3],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Then let's hurry up! The",
+				"thing is certainly hungry and who",
+				"knows what it wants to eat?"
+			]
+		},
+		{
+			"path":[53,4,131,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Go on ahead."
+			]
+		}
+	]
+}

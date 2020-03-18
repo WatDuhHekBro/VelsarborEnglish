@@ -514,8 +514,8 @@
 			"indent":[2,2],
 			"lines":
 			[
-				"\\c[10]Saion:\\c[0] Ver...\\.Verdammt!\\. ",
-				"Ich bin...\\. am Ende!"
+				"\\c[10]Saion:\\c[0] D...\\. Dammit!\\.",
+				"This is...\\. the end for me!"
 			]
 		},
 		{
@@ -523,8 +523,8 @@
 			"indent":[2,2],
 			"lines":
 			[
-				"\\c[10]Jorn:\\c[0] Args...\\. Es war von Anfang an",
-				"aussichtslos!"
+				"\\c[10]Jorn:\\c[0] Argh...\\. It was hopeless",
+				"from the start!"
 			]
 		},
 		{
@@ -532,7 +532,7 @@
 			"indent":[2],
 			"lines":
 			[
-				"\\c[10]Gurim:\\c[0] .....\\. Saion,...\\. du Trottel!"
+				"\\c[10]Gurim:\\c[0] ...\\.Saion...\\. you idiot!"
 			]
 		},
 		{
@@ -727,8 +727,8 @@
 			"indent":[2,2],
 			"lines":
 			[
-				"\\c[10]Saion:\\c[0] NEIN!\\. Wie kann das sein?!\\. Nach all dem ",
-				"Training!\\. Alles umsonst..."
+				"\\c[10]Saion:\\c[0] NO!\\. How did this happen?!\\. After all",
+				"that training!\\. All for nothing..."
 			]
 		},
 		{
@@ -736,7 +736,7 @@
 			"indent":[2,2],
 			"lines":
 			[
-				"\\c[10]Jorn:\\c[0] Ah!\\. Ich hätte mich GLEICH tot stellen ",
+				"\\c[10]Jorn:\\c[0] Argh!\\. Ich hätte mich GLEICH tot stellen ",
 				"sollen!"
 			]
 		},
@@ -1078,8 +1078,8 @@
 			"indent":[1,1],
 			"lines":
 			[
-				"\\c[10]Saion:\\c[0] Jetzt werdet ihr den Zorn der",
-				"Zinkar-Brüder zu spüren bekommen!"
+				"\\c[10]Saion:\\c[0] Now you will face the",
+				"wrath of the Zinkar Brothers!"
 			]
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"indent":[1],
 			"lines":
 			[
-				"\\c[10]Saion:\\c[0] Macht euch auf etwas gefasst!"
+				"\\c[10]Saion:\\c[0] Get ready for it!"
 			]
 		},
 		{
@@ -1103,7 +1103,7 @@
 			"indent":[1],
 			"lines":
 			[
-				"\\c[10]Jorn:\\c[0] Halt einfach deine Klappe!"
+				"\\c[10]Jorn:\\c[0] Shut up already!"
 			]
 		},
 		{
@@ -1112,8 +1112,8 @@
 			"lines":
 			[
 				"\\>",
-				"INFO: Die Leiste unten zeigt die \\c[11]Aktions-",
-				"Reihenfolge der Kampfteilnehmer\\c[0] an.\\<\\."
+				"INFO: The bar at the bottom shows \\c[11]the order",
+				"in which each combatant attacks\\c[0].\\<\\."
 			]
 		},
 		{
@@ -1122,8 +1122,8 @@
 			"lines":
 			[
 				"\\>",
-				"Der Kampfteilnehmer, der ganz links bei \\c[11]Aktion\\c[0] ",
-				"zu sehen ist, kann seinen Zug durchführen.\\<\\."
+				"The combatant, which can be seen at the",
+				"\\c[11]leftmost index\\c[0], can make their move.\\<\\."
 			]
 		},
 		{
@@ -1132,8 +1132,8 @@
 			"lines":
 			[
 				"\\>",
-				"Der Kampfteilnehmer \\c[11]rechts davon\\c[0] wird ",
-				"wahrscheinlich \\c[11]als nächstes\\c[0] dran kommen..\\<\\."
+				"The combatant \\c[11]to the right\\c[0] of that",
+				"will be the \\c[11]next one\\c[0] to attack...\\<\\."
 			]
 		},
 		{
@@ -1142,8 +1142,8 @@
 			"lines":
 			[
 				"\\>",
-				"Allerdings sei gesagt, dass es Aktionen gibt, die",
-				"die Reihenfolge beeinflussen können.\\<\\."
+				"However, it should be said that there are",
+				"actions which can disrupt this order.\\<\\."
 			]
 		},
 		{
@@ -2201,8 +2201,8 @@
 			"indent":[6,6],
 			"lines":
 			[
-				"\\c[10]Enemy Soldier:\\c[0] What kind of shield even",
-				"is that?!\\. Our shots didn't even dent the thing!"
+				"\\c[10]Enemy Soldier:\\c[0] What kind of shield is",
+				"that?!\\. Our rifles didn't even dent the thing!"
 			]
 		},
 		{

@@ -1,0 +1,44 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[37,1,11,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"",
+				"This is a \\c[11]save point\\c[0]."
+			]
+		},
+		{
+			"path":[37,1,13,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"",
+				"When you stand on one of these, you can",
+				"\\c[11]save the game\\c[0]."
+			]
+		},
+		{
+			"path":[37,1,16,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"",
+				"To do this, open the \\c[11]menu\\c[0] using \\c[11]Esc\\c[0] and",
+				"then select \\c[11]Save\\c[0]."
+			]
+		},
+		{
+			"path":[37,1,19,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"",
+				"Additionally, you can always save on",
+				"the \\c[11]world map\\c[0]."
+			]
+		}
+	]
+}

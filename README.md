@@ -16,17 +16,17 @@ Why am I doing this? Because Velsarbor looks exciting! Unfortunately, I can't un
 
 # TO-DO List (If you don't want to see any potential spoilers, stop reading.)
 *Because every project needs a to-do list!*
-- General
-	- Menus: 0%
-	- Fancy Text: 30%
-	- Database: 5%
+- Menus: 0%
+- General Text: 0%
+- Fancy Text: 30%
+- Database: 5%
 
 ## Sections/Areas
 *Based on skimming through Let's Play videos.*
 - Prologue: 100%
 - Chapter I
-	- Sinkholm: 35%
-	- Sinke-Lohne Pass: 0%
+	- Sinkholm: 75%
+	- Sinke-Lohne Pass: 60%
 	- Nomerea Pt I: 0%
 - Chapter II
 	- Nomerea Pt II: 0%

@@ -1,0 +1,235 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[8,1,2,2],
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: Psst!\\. Please be quiet!\\.",
+				"Otherwise, no fish will bite!"
+			]
+		},
+		{
+			"path":[46,2,3,2],
+			"indent":[1],
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: Hey...\\. did you find some worms?"
+			]
+		},
+		{
+			"path":[46,2,9,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Yeah.\\. There's a whole bunch",
+				"crawling around a little further down!"
+			]
+		},
+		{
+			"path":[46,2,12,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[10]Boy:\\c[0] Really?\\. Super!\\. Hold on! I'll check",
+				"it out soon!"
+			]
+		},
+		{
+			"path":[46,2,23,4],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: You were right!\\. Darn, how could I",
+				"have missed this spot?\\. Oh well.\\. Thanks for",
+				"the tip. Now I can finally start fishing."
+			]
+		},
+		{
+			"path":[46,2,29,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Oh... We always like to do",
+				"something like that, right, Kento?"
+			]
+		},
+		{
+			"path":[46,2,32,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Yeah...\\. More or less...\\."
+			]
+		},
+		{
+			"path":[46,2,34,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: I even have something to thank you for...\\.",
+				"Well,\\. it's nothing special, but",
+				"maybe you can use it."
+			]
+		},
+		{
+			"path":[46,2,45,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Nice! Another",
+				"item to trade!"
+			]
+		},
+		{
+			"path":[46,2,48,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] How? You can trade in that",
+				"thing?\\. I find that hard to believe."
+			]
+		},
+		{
+			"path":[46,2,51,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: Alright!\\. Now back to fishing again."
+			]
+		},
+		{
+			"path":[46,2,71,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Nope... Didn't see any."
+			]
+		},
+		{
+			"path":[46,2,73,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: I still don't find any...\\. strange.\\.",
+				"Usually there are plenty of them here!"
+			]
+		},
+		{
+			"path":[46,2,84,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Um..\\. hello there little one.\\.",
+				"Isn't it a little dangerous to walk",
+				"around in this area?"
+			]
+		},
+		{
+			"path":[46,2,88,4],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: Yeah,\\. I know, but this is the best",
+				"place to go fishing...\\. Well...\\. There's hardly",
+				"anything swimming around that's worth fishing..."
+			]
+		},
+		{
+			"path":[46,2,92,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: ...And the Lohne is too far away for me...\\.",
+				"This little lake is simply the best!"
+			]
+		},
+		{
+			"path":[46,2,96,3],
+			"indent":[1,1,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] You should be careful",
+				"anyway...\\. There are some dangerous",
+				"beings hanging around here."
+			]
+		},
+		{
+			"path":[46,2,100,2],
+			"indent":[1,1],
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: I know. But don't worry about that.\\.",
+				"I can run fast."
+			]
+		},
+		{
+			"path":[46,2,105,2],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] What have you caught",
+				"so far?"
+			]
+		},
+		{
+			"path":[46,2,108,4],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: Nothing yet.\\. I'm looking for some",
+				"worms, but today I somehow found none...\\.",
+				"Usually there are always some around here."
+			]
+		},
+		{
+			"path":[46,2,112,3],
+			"indent":[2,2],
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: Um...\\. If you see any worms,",
+				"could you let me know?"
+			]
+		},
+		{
+			"path":[46,2,117,1],
+			"indent":[2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Well, why not?"
+			]
+		},
+		{
+			"path":[46,2,119,3],
+			"indent":[2,2,2],
+			"lines":
+			[
+				"(\\c[1]\\n[1]:\\c[0] Oh man. We're on the way to",
+				"Nomerea and we're digging for worms",
+				"along the way...\\. Just my luck...)"
+			]
+		},
+		{
+			"path":[54,1,8,1],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Well... the worms are here."
+			]
+		},
+		{
+			"path":[54,1,10,2],
+			"lines":
+			[
+				"\\c[2]\\n[2]:\\c[0] Great. We have to",
+				"tell the boy!"
+			]
+		},
+		{
+			"path":[55,1,3,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] A fairly long fishing rod."
+			]
+		}
+	]
+}

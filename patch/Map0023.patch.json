@@ -1,0 +1,52 @@
+{
+	"dialogue":
+	[
+		{
+			"path":[6,2,2,2],
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: I'm grounded because I fought",
+				"with a friend..."
+			]
+		},
+		{
+			"path":[6,2,6,1],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] You fought?"
+			]
+		},
+		{
+			"path":[6,2,8,2],
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: Yep...\\. with wooden swords!\\.",
+				"That was great!"
+			]
+		},
+		{
+			"path":[6,2,12,2],
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Well\\., I prefer",
+				"spears and lances..."
+			]
+		},
+		{
+			"path":[6,2,15,2],
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: Oh,\\. lances are for losers!\\.",
+				"You can only fool around with them!"
+			]
+		},
+		{
+			"path":[6,2,21,2],
+			"lines":
+			[
+				"(\\c[1]\\n[1]:\\c[0] Tsk...\\. Something even",
+				"ordinary people believe...)"
+			]
+		}
+	]
+}
