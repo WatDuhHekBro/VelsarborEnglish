@@ -3,14 +3,16 @@
 	[
 		{
 			"path":[29,2,21,3],
+			"original":"Händler: Guten Tag, meine Herren. Sind Sie vielleicht an ein paar Rieseneiern interessiert?",
 			"lines":
 			[
-				"\\c[10]Händler:\\c[0] Good afternoon, gentlemen.\\.",
-				"Are you interested in some giant eggs?"
+				"\\c[10]Merchant:\\c[0] Good afternoon, gentlemen.\\.",
+				"May I interest you in some giant eggs?"
 			]
 		},
 		{
 			"path":[29,2,28,2],
+			"original":"Kento: Rieseneier? Von welchem Tier sind denn die?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Giant eggs?\\. What animal are",
@@ -19,14 +21,16 @@
 		},
 		{
 			"path":[29,2,31,2],
+			"original":"Händler: Es sind Eier von großen Raubvögeln aus dem Gebirge.",
 			"lines":
 			[
-				"\\c[10]Händler:\\c[0] They're from large, mountainous",
+				"\\c[10]Merchant:\\c[0] They're from large, mountainous",
 				"birds of prey."
 			]
 		},
 		{
 			"path":[29,2,35,3],
+			"original":"Cibon: Hui! Die Dinger sind ja wirklich riesig. Das würd' sicherlich ein großartiges Omelett geben!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Whoa! These things are",
@@ -36,6 +40,7 @@
 		},
 		{
 			"path":[29,2,40,2],
+			"original":"Kento: Ein Omelett? Woran du wieder gleich denkst, Cibon...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] An omelette?\\. What are you",
@@ -44,6 +49,7 @@
 		},
 		{
 			"path":[29,2,44,3],
+			"original":"Cibon: Was sollt' man damit denn sonst anfangen? Und ich hab wirklich Hunger, du etwa nicht?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] What else should you",
@@ -53,6 +59,7 @@
 		},
 		{
 			"path":[29,2,48,1],
+			"original":"Kento: Doch schon...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Well\\. yeah\\s[7]...\\.\\^"
@@ -60,6 +67,7 @@
 		},
 		{
 			"path":[29,2,51,3],
+			"original":"Cibon: Na bitte! Wo liegt dann das Problem? ... Wie viel kostet ein Ei denn so?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] See?\\. Then what's the big",
@@ -69,13 +77,15 @@
 		},
 		{
 			"path":[29,2,64,1],
+			"original":"Händler: Ein Ei kostet \\v[328] Fejar.",
 			"lines":
 			[
-				"\\c[10]Händler:\\c[0] An egg costs \\v[328] \\n[19]."
+				"\\c[10]Merchant:\\c[0] An egg costs \\v[328] \\n[19]."
 			]
 		},
 		{
 			"path":[29,2,67,2],
+			"original":"Kento: Na gut... dann nehmen wir eines.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Well... we'll take one."
@@ -83,6 +93,7 @@
 		},
 		{
 			"path":[29,2,70,1],
+			"original":"Cibon: Wir nehmen 3!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] We take three!"
@@ -90,6 +101,7 @@
 		},
 		{
 			"path":[29,2,74,1],
+			"original":"Kento: Wa..?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Wh..."
@@ -97,6 +109,7 @@
 		},
 		{
 			"path":[29,2,77,2],
+			"original":"Cibon: Denk' an das Omelett, Kumpel!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Think of the omelet,",
@@ -105,6 +118,7 @@
 		},
 		{
 			"path":[29,2,85,1],
+			"original":"Kento: Na schön, dann halt 3.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Okay,\\. then we'll take three."
@@ -112,22 +126,25 @@
 		},
 		{
 			"path":[29,2,88,2],
+			"original":"Händler: Okay.. 3 Eier. Das macht dann \\v[328] Fejar.",
 			"lines":
 			[
-				"\\c[10]Händler:\\c[0] \\$Okay.. three eggs.\\.",
+				"\\c[10]Merchant:\\c[0] \\$Okay.. three eggs.\\.",
 				"This comes to \\v[328] \\n[19]."
 			]
 		},
 		{
 			"path":[29,2,104,3],
+			"original":"Händler: Vielen Dank für Ihren Kauf. Einen guten Appetit wünsche ich Ihnen dann noch.",
 			"lines":
 			[
-				"\\c[10]Händler:\\c[0] Thank you for your purchase.",
+				"\\c[10]Merchant:\\c[0] Thank you for your purchase.",
 				"Enjoy your meal."
 			]
 		},
 		{
 			"path":[29,2,117,2],
+			"original":"Kento: Wir braten uns das Omelett dann in Nomerea, in Ordnung?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] We'll fry the omelet",
@@ -136,6 +153,7 @@
 		},
 		{
 			"path":[29,2,120,2],
+			"original":"Cibon: Joa. Dann lass uns mal schnell weitergehen. Ich verhungere!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Yeah. So let's move on quickly.",

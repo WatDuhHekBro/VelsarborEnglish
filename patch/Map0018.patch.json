@@ -3,7 +3,8 @@
 	[
 		{
 			"path":[7,1,4,2],
-			"indent":[1,1],
+			"indent":1,
+			"original":"Kellnerin: Hm? Sagen Sie bloß, Sie wollen JETZT noch frühstücken?",
 			"lines":
 			[
 				"\\c[10]Waitress\\c[0]: Hm?\\. Did you just say",
@@ -12,7 +13,8 @@
 		},
 		{
 			"path":[7,1,8,2],
-			"indent":[1],
+			"indent":1,
+			"original":"Kento: Öhm... Wie spät ist es denn ungefähr?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Um...\\. About what time is it?"
@@ -20,7 +22,8 @@
 		},
 		{
 			"path":[7,1,11,2],
-			"indent":[1,1],
+			"indent":1,
+			"original":"Kellnerin: Gleich haben wir 16 Uhr.",
 			"lines":
 			[
 				"\\c[10]Waitress\\c[0]: It's around four",
@@ -29,7 +32,8 @@
 		},
 		{
 			"path":[7,1,15,2],
-			"indent":[1,1,1],
+			"indent":1,
+			"original":"Kento: Oh je... Da hab ich wirklich viel vom Tag verschlafen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Oh my...\\. I already",
@@ -39,7 +43,8 @@
 		},
 		{
 			"path":[7,1,23,3],
-			"indent":[1,1],
+			"indent":1,
+			"original":"Kellnerin: Falls Sie solchen Hunger haben... In einer halben Stunde könnte ich etwas zubereiten.",
 			"lines":
 			[
 				"\\c[10]Waitress\\c[0]: If you're that hungry...\\.",
@@ -48,7 +53,8 @@
 		},
 		{
 			"path":[7,1,28,2],
-			"indent":[1],
+			"indent":1,
+			"original":"Kento: Nein, nein. Das ist nicht nötig!",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] No,\\. it's fine."
@@ -56,6 +62,7 @@
 		},
 		{
 			"path":[7,2,2,4],
+			"original":"Kellnerin: Es ist wirklich langweilig hier. Irgendwie war es auch eine Schnaps-Idee, ausgerechnet hier so einen Gasthof zu bauen, wo hier doch eh kaum eine Sau sich blicken lässt.",
 			"lines":
 			[
 				"\\c[10]Waitress\\c[0]: It's rather boring around here.\\.",
@@ -66,7 +73,8 @@
 		},
 		{
 			"path":[7,2,9,3],
-			"indent":[1,1],
+			"indent":1,
+			"original":"Kento: Ja, stimmt. Nur der Beruf kann einen natürlich wieder hier hin verschleppen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Agreed.\\. The job is probably",
@@ -75,7 +83,8 @@
 		},
 		{
 			"path":[8,1,4,2],
-			"indent":[1,1],
+			"indent":1,
+			"original":"Gasthof-Besitzer: Guten Morgen, mein Herr. Haben Sie gut geschlafen?",
 			"lines":
 			[
 				"\\c[10]Inn Owner\\c[0]: Good morning, sir.\\.",
@@ -84,7 +93,8 @@
 		},
 		{
 			"path":[8,1,8,2],
-			"indent":[1,1],
+			"indent":1,
+			"original":"Kento: Hab ich. Die Betten waren wirklich gemütlich.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] I have.\\. The beds were",
@@ -93,7 +103,8 @@
 		},
 		{
 			"path":[8,1,11,2],
-			"indent":[1],
+			"indent":1,
+			"original":"Gasthof-Besitzer: Freut mich, das zu hören.",
 			"lines":
 			[
 				"\\c[10]Inn Owner\\c[0]: Glad to hear that."
@@ -101,7 +112,8 @@
 		},
 		{
 			"path":[8,1,15,2],
-			"indent":[1,1],
+			"indent":1,
+			"original":"Kento: Wissen Sie vielleicht, wo sich mein Kollege aufhält?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Do ​​you know where",
@@ -110,7 +122,8 @@
 		},
 		{
 			"path":[8,1,18,4],
-			"indent":[1,1,1],
+			"indent":1,
+			"original":"Gasthof-Besitzer: Etwa der eine mit dem blauen Stirnband? Ich weiß es nicht, aber es wird schon nicht so schwer sein, ihn hier zu finden.",
 			"lines":
 			[
 				"\\c[10]Inn Owner\\c[0]: The one with the",
@@ -120,7 +133,8 @@
 		},
 		{
 			"path":[8,1,24,1],
-			"indent":[1],
+			"indent":1,
+			"original":"Kento: Ja, da haben Sie Recht.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Yeah, you're right."
@@ -128,7 +142,8 @@
 		},
 		{
 			"path":[8,1,31,3],
-			"indent":[1,1,1],
+			"indent":1,
+			"original":"Gasthof-Besitzer: Wir haben hier ziemlich selten Gäste. Aber wen wundert es, bei so einem Ort.",
 			"lines":
 			[
 				"\\c[10]Inn Owner\\c[0]: We rarely have",
@@ -138,7 +153,8 @@
 		},
 		{
 			"path":[8,1,36,3],
-			"indent":[1,1,1],
+			"indent":1,
+			"original":"Kento: Es soll Leute geben, die so eine friedliche und ruhige Ortschaft zu schätzen wissen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] There should be people",
@@ -148,7 +164,8 @@
 		},
 		{
 			"path":[8,1,40,2],
-			"indent":[1,1],
+			"indent":1,
+			"original":"Gasthof-Besitzer: Jaja... Das tu ich ja auch. Aber sehr viel Profit bringt es mir nicht gerade.",
 			"lines":
 			[
 				"\\c[10]Inn Owner\\c[0]: Yeah...\\. I think so too.",
@@ -157,6 +174,7 @@
 		},
 		{
 			"path":[8,2,3,1],
+			"original":"Guten Tag. Brauchen Sie eine Rast?",
 			"lines":
 			[
 				"Good day. Do you need a rest?"
@@ -164,7 +182,8 @@
 		},
 		{
 			"path":[8,2,7,1],
-			"indent":[1],
+			"indent":1,
+			"original":"Eine gute Nacht wünsche ich dann mal.",
 			"lines":
 			[
 				"Have a good night!"

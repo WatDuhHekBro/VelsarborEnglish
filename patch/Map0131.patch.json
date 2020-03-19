@@ -3,6 +3,7 @@
 	[
 		{
 			"path":[58,1,46,2],
+			"original":"Zojenische Einheit: ...Haltet ihn auf! MIT ALLEM, WAS IHR HABT!",
 			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]: ...Stop him now!",
@@ -11,6 +12,7 @@
 		},
 		{
 			"path":[58,1,50,1],
+			"original":"(Seldan: Mit letzter Kraft..!)",
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]: With all my strength...)"

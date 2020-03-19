@@ -3,7 +3,8 @@
 	[
 		{
 			"path":[10,1,3,2],
-			"indent":[1,1],
+			"indent":1,
+			"original":"Frau: Gäste sind bei uns immer willkommen, solange Sie nichts dreckig oder kaputt machen.",
 			"lines":
 			[
 				"\\c[10]Woman\\c[0]: Guests are always welcome with us",
@@ -12,7 +13,8 @@
 		},
 		{
 			"path":[10,1,7,1],
-			"indent":[1],
+			"indent":1,
+			"original":"Kento: Öh.... in Ordnung.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Oh....\\. alright."
@@ -20,7 +22,8 @@
 		},
 		{
 			"path":[10,1,14,2],
-			"indent":[1],
+			"indent":1,
+			"original":"Frau: Oh, die Stadtwache.... Was wollen Sie denn bitte in unserem Haus?",
 			"lines":
 			[
 				"\\c[10]Woman\\c[0]: Oh, the city guard... What would you like?"
@@ -28,7 +31,8 @@
 		},
 		{
 			"path":[10,1,18,4],
-			"indent":[1,1,1,1],
+			"indent":1,
+			"original":"Kento: Na ja... Ich und mein Kollege ziehen heute wahrscheinlich wieder ab und wollten uns einfach noch mal etwas die Stadt anschauen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Well...\\. me and my colleague",
@@ -39,7 +43,8 @@
 		},
 		{
 			"path":[10,1,23,2],
-			"indent":[1,1],
+			"indent":1,
+			"original":"Frau: Verstehe.... Nun gut, passen Sie bitte auf, dass Sie hier nichts dreckig machen!",
 			"lines":
 			[
 				"\\c[10]Woman\\c[0]: I see...\\. Well, please be",

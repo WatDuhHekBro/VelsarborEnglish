@@ -3,14 +3,17 @@
 	[
 		{
 			"path":[53,2,19,3],
+			"original":"Cibon: Na endlich! Die Lohne. Ab hier wird der Rest der Reise nur noch'n Spaziergang sein.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Finally!\\. The Lohne.\\. From",
-				"here on, the rest of the trip will be a breeze."
+				"here on, the rest of the trip will be",
+				"a breeze."
 			]
 		},
 		{
 			"path":[53,2,23,4],
+			"original":"Kento:  Gut... Dann lass uns schnell weitergehen und keine Zeit verschwenden. Ich hab wirklich Hunger.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Good...\\. Then let's move on",
@@ -20,6 +23,7 @@
 		},
 		{
 			"path":[53,2,28,1],
+			"original":"Cibon: Jaja... schon gut.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Yeah... alright."
@@ -27,6 +31,7 @@
 		},
 		{
 			"path":[53,2,65,2],
+			"original":"Kento:  W...Was hat eine Harpyie hier zu suchen?!",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] W... What is a harpy",
@@ -35,6 +40,7 @@
 		},
 		{
 			"path":[53,2,68,1],
+			"original":"Cibon: Das Ding will uns angreifen!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] That thing wants to attack us!"
@@ -42,15 +48,17 @@
 		},
 		{
 			"path":[53,4,7,3],
+			"original":"Cibon: ... Was war das jetzt genau? Hat uns die ... Harpyie etwa nur wegen dieser Eier angegriffen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] ...\\. What happened there exactly?\\.",
-				"Did the\\....\\. harpy only attack",
+				"\\c[2]\\n[2]:\\c[0] ...\\. What happened there",
+				"exactly?\\. Did the\\....\\. harpy only attack",
 				"us because of these eggs?"
 			]
 		},
 		{
 			"path":[53,4,11,1],
+			"original":"Kento: Scheint so, oder?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Seems so, doesn't it?"
@@ -58,6 +66,7 @@
 		},
 		{
 			"path":[53,4,13,1],
+			"original":"Cibon: Wieso das?!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Why is that?!"
@@ -65,6 +74,7 @@
 		},
 		{
 			"path":[53,4,15,3],
+			"original":"Kento: Denk doch mal nach. Wahrscheinlich waren es ihre Eier. Und sie wollte sie nur zurück haben.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Think about it.\\.",
@@ -74,6 +84,7 @@
 		},
 		{
 			"path":[53,4,21,2],
+			"original":"Cibon: Ihre Eier? ... Du meinst doch nicht etwa... das waren....",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Her eggs?\\. You don't mean...\\.",
@@ -82,6 +93,7 @@
 		},
 		{
 			"path":[53,4,24,1],
+			"original":"Cibon: HARPYIENEIER?!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] HARPY EGGS?!"
@@ -89,6 +101,7 @@
 		},
 		{
 			"path":[53,4,26,1],
+			"original":"Kento: Genauso ist es.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] It's exactly so."
@@ -96,6 +109,7 @@
 		},
 		{
 			"path":[53,4,30,4],
+			"original":"Cibon: Wah! Wenn ich daran denke, dass wir uns daraus ein Omelett machen wollten... Mir wird schlecht!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Gah!\\. When I think that",
@@ -105,6 +119,7 @@
 		},
 		{
 			"path":[53,4,36,1],
+			"original":"Kento: Hahahahahahahaha...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] \\s[6]Hahahahahahahaha..."
@@ -112,15 +127,17 @@
 		},
 		{
 			"path":[53,4,39,3],
+			"original":"Cibon: Jetzt lach nicht so! Ich mein's ernst. Args... wenn ich diesen Händler in die Finger bekomme!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Don't you laugh like that!\\. I'm",
 				"serious.\\. Argh...\\. if I can get",
-				"my hands on this dealer!"
+				"my hands on that merchant!"
 			]
 		},
 		{
 			"path":[53,4,44,1],
+			"original":"Kento: Ganz ruhig bleiben, Cibon.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Stay calm, Cibon."
@@ -128,6 +145,7 @@
 		},
 		{
 			"path":[53,4,47,3],
+			"original":"Kento: Schau mal dort. Die Harpyie hat ein Ei liegen lassen. Wieso das wohl?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Look over there.\\. The harpy",
@@ -136,6 +154,7 @@
 		},
 		{
 			"path":[53,4,52,2],
+			"original":"Cibon: Wahrscheinlich 'n weiteres Harpyienei! Bloß weg damit!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Probably another harpy",
@@ -144,6 +163,7 @@
 		},
 		{
 			"path":[53,4,56,4],
+			"original":"Kento: Nein, warte! Wenn es wirklich ein Harpyienei ist, hätte die Mutter es sicherlich nicht so einfach liegen gelassen...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] No, wait!\\. If it really was",
@@ -153,14 +173,16 @@
 		},
 		{
 			"path":[53,4,61,2],
+			"original":"Cibon: Äh...Sicher, Kumpel? Was is' es dann?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] ...You sure about that?\\. Then what",
-				"is that?"
+				"\\c[2]\\n[2]:\\c[0] ...You sure about that?\\.",
+				"Then what is that?"
 			]
 		},
 		{
 			"path":[53,4,64,1],
+			"original":"Kento: Ich hab keine Ahnung.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Beats me."
@@ -168,6 +190,7 @@
 		},
 		{
 			"path":[53,4,66,4],
+			"original":"Cibon: Is' mir jetzt letztendlich auch egal. Nach dieser Sache hier werde ich die nächsten Monate keine Eier mehr sehen können!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] I don't really care now",
@@ -178,6 +201,7 @@
 		},
 		{
 			"path":[53,4,71,1],
+			"original":"Kento: Na dann...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Well then..."
@@ -185,6 +209,7 @@
 		},
 		{
 			"path":[53,4,79,1],
+			"original":"Cibon: W...Was war das?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] W...\\. what was that?"
@@ -192,6 +217,7 @@
 		},
 		{
 			"path":[53,4,81,2],
+			"original":"Kento: Das Ei hat sich bewegt! Schau doch!",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] The egg just moved!\\.",
@@ -200,6 +226,7 @@
 		},
 		{
 			"path":[53,4,90,1],
+			"original":"Cibon: ...Tatsächlich!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] ...Indeed!"
@@ -207,6 +234,7 @@
 		},
 		{
 			"path":[53,4,97,2],
+			"original":"Cibon: Verdammt! Wieso muss das Ding ausgerechnet jetzt schlüpfen?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Dammit!\\. Why does the",
@@ -215,6 +243,7 @@
 		},
 		{
 			"path":[53,4,100,3],
+			"original":"Kento: Na siehst du! Das ist doch schon mal eindeutig keine Harpyie, oder?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Look!\\. It's definitely",
@@ -223,6 +252,7 @@
 		},
 		{
 			"path":[53,4,104,2],
+			"original":"Cibon: Na ja.. gut... Wie soll's jetzt weitergehen?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Well... okay... what do we",
@@ -231,6 +261,7 @@
 		},
 		{
 			"path":[53,4,112,3],
+			"original":"Kento: Ich denke, wir sollten es hier nicht einfach so liegen lassen, oder?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] I think we shouldn't",
@@ -239,14 +270,16 @@
 		},
 		{
 			"path":[53,4,116,2],
+			"original":"Cibon: Ja, hast Recht. Aber was sollen wir mit dem Küken anfangen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Yeah, you're right.\\. But what should",
-				"we do with the chick?"
+				"\\c[2]\\n[2]:\\c[0] Yeah, you're right.\\. But what",
+				"should we do with the chick?"
 			]
 		},
 		{
 			"path":[53,4,119,4],
+			"original":"Kento: Wir sollten es erstmal mit nach Nomerea nehmen. Vielleicht kann sich dort jemand darum kümmern.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] We should take it to",
@@ -256,6 +289,7 @@
 		},
 		{
 			"path":[53,4,124,2],
+			"original":"Cibon: Was anderes bleibt uns ja erstmal nicht übrig, nicht wahr?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] We don't have anything",
@@ -264,6 +298,7 @@
 		},
 		{
 			"path":[53,4,127,3],
+			"original":"Cibon: Dann lass uns beeilen! Das Ding hat sicherlich Hunger und weiß der Teufel, was es zu Essen will.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Then let's hurry up! The",
@@ -273,6 +308,7 @@
 		},
 		{
 			"path":[53,4,131,1],
+			"original":"Kento: Nichts wie los.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Go on ahead."

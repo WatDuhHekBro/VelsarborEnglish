@@ -3,6 +3,7 @@
 	[
 		{
 			"path":[11,1,19,3],
+			"original":"Zojenische Einheit: Frau Mensesso, bitte verlassen Sie die Forschungsbasis! Hier sind Sie nicht sicher.",
 			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] Lady Mensesso, please",
@@ -12,6 +13,7 @@
 		},
 		{
 			"path":[11,1,26,4],
+			"original":"Frau Mensesso: Wieso? Ich dachte, wir wären auf diese Invasion vorbereitet. Sollten unsere Soldaten nicht mit dem Gegner fertig werden?",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[1] How come?\\. I thought",
@@ -22,6 +24,7 @@
 		},
 		{
 			"path":[11,1,32,2],
+			"original":"Zojenische Einheit: So sollte es sein, wäre da nur nicht diese Spezialeinheit...",
 			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] That's what we would've",
@@ -31,6 +34,7 @@
 		},
 		{
 			"path":[11,1,37,3],
+			"original":"Frau Mensesso: Brigans Spezialeinheit? Also wird sie nun endlich eingesetzt...",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[1] Brigantia's",
@@ -40,6 +44,7 @@
 		},
 		{
 			"path":[11,1,42,4],
+			"original":"Zojenische Einheit: Es ist unglaublich! Eine einzelne Person stürmt durch den Komplex wie ein Berserker und lässt sich durch nichts aufhalten!",
 			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]: It's unbelievable!\\.",
@@ -50,6 +55,7 @@
 		},
 		{
 			"path":[11,1,47,2],
+			"original":"Zojenische Einheit: Dutzend von Soldaten hat sie schon besiegt! Im Alleingang!",
 			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]: He has already defeated",
@@ -58,6 +64,7 @@
 		},
 		{
 			"path":[11,1,53,3],
+			"original":"Frau Mensesso: Wie bitte?! Das kann doch nicht sein! Was für eine Spezialeinheit ist das?!",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]: I beg your pardon?!\\.",
@@ -68,6 +75,7 @@
 		},
 		{
 			"path":[11,1,57,3],
+			"original":"Zojenische Einheit: So unglaublich es klingen mag, es ist so! Ich habe es mit eigenen Augen gesehen.",
 			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] As outlandish",
@@ -77,6 +85,7 @@
 		},
 		{
 			"path":[11,1,61,3],
+			"original":"Zojenische Einheit: Verlassen Sie diese Basis sofort! Wir können nicht mehr für Ihre Sicherheit garantieren.",
 			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] Leave this base",
@@ -86,6 +95,7 @@
 		},
 		{
 			"path":[11,1,66,1],
+			"original":"Frau Mensesso: Ich verstehe...",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[2] I see..."
@@ -93,6 +103,7 @@
 		},
 		{
 			"path":[11,1,69,3],
+			"original":"Frau Mensesso: Gehen Sie vor. Ich werde diesen Ort schon alleine sicher verlassen können.",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[1] Go on ahead.\\. I'll",
@@ -102,6 +113,7 @@
 		},
 		{
 			"path":[11,1,74,3],
+			"original":"Zojenische Einheit: Mein Befehl war, Sie sicher hier raus zu begleiten. Ich kann nicht so einfach gehen!",
 			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] My order was to",
@@ -111,6 +123,7 @@
 		},
 		{
 			"path":[11,1,80,4],
+			"original":"Frau Mensesso: Hmpf... Dann erlauben Sie mir einen letzten Blick durch die Überwachungskameras. Ich möchte diese Sache mit eigenen Augen sehen.",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[1] Hmpf...\\. Then at least",
@@ -121,6 +134,7 @@
 		},
 		{
 			"path":[11,1,85,2],
+			"original":"Zojenische Einheit: ... Gut, aber beeilen Sie sich!",
 			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] ...\\.Fine,\\.",
@@ -129,6 +143,7 @@
 		},
 		{
 			"path":[11,1,101,4],
+			"original":"Frau Mensesso: D... Das ist unglaublich! Wie kann ein Mensch so eine physische Kraft erlangen?! Dieser Anzug...",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Th...\\. This is",
@@ -138,6 +153,7 @@
 		},
 		{
 			"path":[11,1,106,2],
+			"original":"Zojenische Einheit: Er bewegt sich in Richtung des Kerns der Basis...",
 			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] He's headed",
@@ -146,6 +162,7 @@
 		},
 		{
 			"path":[11,1,110,1],
+			"original":"Frau Mensesso:  Zum Maschinen-Kern...",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Towards the",
@@ -154,6 +171,7 @@
 		},
 		{
 			"path":[11,1,112,4],
+			"original":"Frau Mensesso: Das war vorauszusehen, was sollte Brigan sonst als Ziel haben? Aber was will diese Einheit denn bitte machen?",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[0] It's to be",
@@ -164,6 +182,7 @@
 		},
 		{
 			"path":[11,1,116,4],
+			"original":"Frau Mensesso: Spätestens wenn er den Kern aus der Basis transportieren will, wird er scheitern.",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Well, if he",
@@ -173,6 +192,7 @@
 		},
 		{
 			"path":[11,1,120,4],
+			"original":"Frau Mensesso: Superkräfte hin oder her. Er wird ein Objekt dieser Größe nicht so schnell hier raus befördern können...",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Superpowers or not,\\.",
@@ -182,6 +202,7 @@
 		},
 		{
 			"path":[11,2,12,3],
+			"original":"Zojenische Einheit: D... Das gibt es nicht... FPM05! Von einem Menschen besiegt! Nein... D... Das ist kein Mensch mehr!",
 			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]: G...\\. Gone...\\. The FPM05",
@@ -192,6 +213,7 @@
 		},
 		{
 			"path":[11,2,18,3],
+			"original":"Frau Mensesso: Haben Sie gehört, was er gesagt hat? Er will die \"Quelle all dieser Macht\" zerstören!",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[1] He wants to destroy",
@@ -201,6 +223,7 @@
 		},
 		{
 			"path":[11,2,23,2],
+			"original":"Zojenische Einheit: Die Quelle all dieser Macht? Auch die seiner?!",
 			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]: The source of all this",
@@ -209,6 +232,7 @@
 		},
 		{
 			"path":[11,2,31,2],
+			"original":"Frau Mensesso: Ich muss etwas nachsehen!",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]: I have to",
@@ -217,6 +241,7 @@
 		},
 		{
 			"path":[11,2,53,2],
+			"original":"Frau Mensesso: N...Nein! Wieso bin ich nicht gleich drauf gekommen?!",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]: N... No!\\. Why didn't",
@@ -225,6 +250,7 @@
 		},
 		{
 			"path":[11,2,55,3],
+			"original":"Frau Mensesso: Der Maschinenkern verzeichnet leichte Energieverluste! Er ist seine Energiequelle!",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]: The machine core",
@@ -235,6 +261,7 @@
 		},
 		{
 			"path":[11,2,60,2],
+			"original":"Zojenische Einheit: Das heißt... Er will den Kern zerstören?!",
 			"lines":
 			[
 				"\\c[10]Zojenish Soldier\\c[0]: That means...\\.",
@@ -243,6 +270,7 @@
 		},
 		{
 			"path":[11,3,11,4],
+			"original":"Frau Mensesso: Der...der Kern ist verschwunden! Die Spezialeinheit ebenfalls! Was ist hier geschehen?!",
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[1] The... the",

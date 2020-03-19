@@ -3,7 +3,8 @@
 	[
 		{
 			"path":[2,1,11,2],
-			"indent":[1,1],
+			"indent":1,
+			"original":"Dies ist ein Speicherpunkt.",
 			"lines":
 			[
 				"",
@@ -12,7 +13,8 @@
 		},
 		{
 			"path":[2,1,13,3],
-			"indent":[1,1,1],
+			"indent":1,
+			"original":"Wenn man auf solch einem steht, kann man den Spielstand speichern.",
 			"lines":
 			[
 				"",
@@ -22,7 +24,8 @@
 		},
 		{
 			"path":[2,1,16,3],
-			"indent":[1,1,1],
+			"indent":1,
+			"original":"Öffne dazu das Menu mit Esc und wähle dann Speichern.",
 			"lines":
 			[
 				"",
@@ -32,7 +35,8 @@
 		},
 		{
 			"path":[2,1,19,3],
-			"indent":[1,1,1],
+			"indent":1,
+			"original":"Auf der Weltkarte kann man übrigens immer speichern.",
 			"lines":
 			[
 				"",
@@ -42,6 +46,7 @@
 		},
 		{
 			"path":[4,1,17,2],
+			"original":"(Kento: Hm? Oh! Wie spät ist es denn schon?)",
 			"lines":
 			[
 				"(\\c[1]\\n[1]:\\c[0] Hm?\\. Oh! How late is it?)"
@@ -49,6 +54,7 @@
 		},
 		{
 			"path":[4,1,26,3],
+			"original":"(Kento: Cibon scheint schon lange auf zu sein. Mal sehen, wo er sich so rum treibt.",
 			"lines":
 			[
 				"(\\c[1]\\n[1]:\\c[0] Cibon seems to have been",
@@ -58,6 +64,7 @@
 		},
 		{
 			"path":[4,1,34,3],
+			"original":"Drücke die Pfeiltasten, um dich zu bewegen. Halte Enter gedrückt, um zu rennen.",
 			"lines":
 			[
 				"",
@@ -67,6 +74,7 @@
 		},
 		{
 			"path":[4,1,37,3],
+			"original":"Schau im Menu unter Optionen nach, wenn du lieber automatisch rennen willst.",
 			"lines":
 			[
 				"",

@@ -9,6 +9,7 @@ Hinting: None
 Justify: Center
 Line Spacing: 13px
 Multiply (Red)
+** Make sure the PNG is indexed or it'll throw an error! **
 
 [Locations]
 FaceSet/Save_Kapitel

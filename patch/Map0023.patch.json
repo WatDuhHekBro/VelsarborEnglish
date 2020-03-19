@@ -3,6 +3,7 @@
 	[
 		{
 			"path":[6,2,2,2],
+			"original":"Junge: Ich habe Stubenarrest und das nur, weil ich mit nem Freund gekämpft habe...",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: I'm grounded because I fought",
@@ -11,6 +12,7 @@
 		},
 		{
 			"path":[6,2,6,1],
+			"original":"Kento: Ihr habt gekämpft?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] You fought?"
@@ -18,6 +20,7 @@
 		},
 		{
 			"path":[6,2,8,2],
+			"original":"Junge: Ja.... Mit Holzschwertern! Das war klasse!",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: Yep...\\. with wooden swords!\\.",
@@ -26,6 +29,7 @@
 		},
 		{
 			"path":[6,2,12,2],
+			"original":"Kento: Na ja, ich bevorzuge da eher Speer und Lanzenwaffen...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Well\\., I prefer",
@@ -34,6 +38,7 @@
 		},
 		{
 			"path":[6,2,15,2],
+			"original":"Junge: Ach, Lanzen sind was für Verlierer! Mit denen kann man ja nur dämlich rumpieksen!",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: Oh,\\. lances are for losers!\\.",
@@ -42,6 +47,7 @@
 		},
 		{
 			"path":[6,2,21,2],
+			"original":"(Kento: Tsk... So was glaubt auch nur der Laie...)",
 			"lines":
 			[
 				"(\\c[1]\\n[1]:\\c[0] Tsk...\\. Something even",

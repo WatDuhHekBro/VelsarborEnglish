@@ -3,7 +3,8 @@
 	[
 		{
 			"path":[37,1,11,2],
-			"indent":[1,1],
+			"indent":1,
+			"original":"Dies ist ein Speicherpunkt.",
 			"lines":
 			[
 				"",
@@ -12,7 +13,8 @@
 		},
 		{
 			"path":[37,1,13,3],
-			"indent":[1,1,1],
+			"indent":1,
+			"original":"Wenn man auf solch einen steht, kann man den Spielstand speichern.",
 			"lines":
 			[
 				"",
@@ -22,7 +24,8 @@
 		},
 		{
 			"path":[37,1,16,3],
-			"indent":[1,1,1],
+			"indent":1,
+			"original":"Öffne dazu das Menu mit Esc und wähle dann Speichern.",
 			"lines":
 			[
 				"",
@@ -32,7 +35,8 @@
 		},
 		{
 			"path":[37,1,19,3],
-			"indent":[1,1,1],
+			"indent":1,
+			"original":"Auf der Weltkarte kann man übigens immer speichern.",
 			"lines":
 			[
 				"",
