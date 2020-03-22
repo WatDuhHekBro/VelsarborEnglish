@@ -667,7 +667,7 @@
 			"original":"Cibon: Verflixt und zugenäht! Das Ding will nicht klein beigeben!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Verflixt und zugenäht!\\. The thing isn't",
+				"\\c[2]\\n[2]:\\c[0] Dang it!\\. The thing isn't",
 				"letting up at all!"
 			]
 		},
@@ -677,7 +677,7 @@
 			"original":"Cibon: Was sollen wir jetzt tun?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Cibon: What should we do now?"
+				"\\c[2]\\n[2]:\\c[0] What should we do now?"
 			]
 		},
 		{
@@ -1347,8 +1347,8 @@
 			"original":"Kento: Wie kann es sein, dass sich eine Harpyie in dieser Gegend aufhält?!",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Wie kann es sein, dass sich eine Harpyie ",
-				"in dieser Gegend aufhält?!"
+				"\\c[1]\\n[1]:\\c[0] Why is it that a harpy is in this",
+				"area of all places?!"
 			]
 		},
 		{
@@ -1357,8 +1357,8 @@
 			"original":"Kento: Harpyien leben normalerweise in Gebirgen und bleiben dort auch in der Regel!",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Harpyien leben normalerweise in ",
-				"Gebirgen und bleiben dort auch in der Regel!"
+				"\\c[1]\\n[1]:\\c[0] Harpies live in mountains and",
+				"usually stay there!"
 			]
 		},
 		{
@@ -3751,7 +3751,7 @@
 			"original":"...Was ist das?",
 			"lines":
 			[
-				"\\>                 ...What's this?\\<"
+				"\\>                 What's this?\\<"
 			]
 		},
 		{
@@ -3760,7 +3760,7 @@
 			"original":"Nichts zu finden.",
 			"lines":
 			[
-				"\\>                 Didn't find anything.\\<"
+				"\\>             Didn't find anything.\\<"
 			]
 		},
 		{

@@ -8,285 +8,354 @@ Font Size: 24px
 Hinting: None
 Justify: Center
 Line Spacing: 13px
-Multiply (Red)
-** Make sure the PNG is indexed or it'll throw an error! **
 
 [Locations]
 FaceSet/Save_Kapitel
 Panorama/...
 Picture/...
 
+
+
 #################
 # New Game Menu #
-#####################################
-Geben sie ihrem Spiel eine ID!      #
------------------------------------ #
-Geben sie eine Nummer von 1-50 an.  #
-Diese wird im Spielstand angezeigt. #
-#####################################
-This will be your game ID!       #
--------------------------------- #
-Please enter a number from 1-50. #
-This will be indicated in-game.  #
-##################################
+#################
+Geben sie ihrem Spiel eine ID!
+
+Geben sie eine Nummer von 1-50 an.
+Diese wird im Spielstand angezeigt.
+
+[=======================================]
+
+This will be your game ID!
+
+Please enter a number from 1-50.
+This will be indicated in-game.
+
+
 
 ###############
 # Intro Scene #
-##################################
-So stand das Ende erneut bevor,  #
-so tat es ein weiterer Anfang.   #
--------------------------------- #
-Der Kreis vermochte sich         #
-aufs Neue zu schließen.          #
-=================================#
-Doch sollte auch dieser Lauf     #
-nicht für die Ewigkeit weilen.   #
-=================================#
-So soll durch jenes Ende,        #
-anders als jemals zuvor,         #
--------------------------------- #
-der Kreislauf                    #
-aus seinen Fugen geraten.        #
-=================================#
-Soll der Lauf hiermit den Anfang #
-von seinem Ende gefunden haben?  #
-##########################################
-As the end reared its unsightly head,    #
-the birth of another beginning was here. #
----------------------------------------- #
-The circle of life was able to refresh   #
-itself and begin once more.              #
-=========================================#
-As we ran hastily towards the future,    #
-we never once looked behind us.          #
-=========================================#
-When we reached the end of time,         #
-we were much different than before.      #
----------------------------------------- #
-The cycle was then complete, an          #
-effortless stride in the eyes of God.    #
-=========================================#
-But was our long journey just            #
-the beginning of a new end?              #
-##########################################
+###############
+So stand das Ende erneut bevor,
+so tat es ein weiterer Anfang.
+
+Der Kreis vermochte sich
+aufs Neue zu schließen.
+
+
+Doch sollte auch dieser Lauf
+nicht für die Ewigkeit weilen.
+
+
+So soll durch jenes Ende,
+anders als jemals zuvor,
+
+der Kreislauf
+aus seinen Fugen geraten.
+
+
+Soll der Lauf hiermit den Anfang
+von seinem Ende gefunden haben?
+
+[=======================================]
+
+As the end reared its unsightly head,
+the birth of another beginning was here.
+
+The circle of life was able to refresh
+itself and begin once more.
+
+
+As we ran hastily towards the future,
+we never once looked behind us.
+
+
+When we reached the end of time,
+we were much different than before.
+
+The cycle was then complete, an
+effortless stride in the eyes of God.
+
+
+But was our long journey just
+the beginning of a new end?
+
+
 
 ###########################
 # Mysterious Citadel Core #
-###################################
-Ich tue, wie du es mir sagtest... #
---------------------------------- #
-...und werde ein letztes Mal      #
-für diese Welt kämpfen.           #
-==================================#
-Und du hast hast recht...         #
-Diese Kriege können nicht         #
-durch Kriege beendet werden!      #
---------------------------------- #
-Es würde keinen                   #
-Unterschied machen,               #
-wenn wir gewinnen würden.         #
-==================================#
-Solange der Grund für diese       #
-Kriege fortbesteht, werden sie    #
-immer wieder kommen.              #
---------------------------------- #
-Der Grund muss zerstört           #
-werden, das, worum wir uns        #
-alle bekriegen.                   #
-==================================#
-Der Grund für all das Leiden!     #
-Der Grund                         #
-wieso du gestorben bist!!         #
---------------------------------- #
-WIESO?!                           #
-Wieso existiert diese Maschine?!  #
-==================================#
-Ich wünschte,                     #
-wir hätten sie nie entdeckt!      #
-###################################
-I'll do as you said...            #
---------------------------------- #
-...and fight for this world       #
-one last time.                    #
-==================================#
-And you're right...               #
-These wars cannot                 #
-be ended with wars!               #
---------------------------------- #
-It wouldn't                       #
-make a difference                 #
-if we won.                        #
-==================================#
-As long as the cause              #
-for these wars exists,            #
-they'll continue to happen.       #
---------------------------------- #
-The cause must be destroyed,      #
-the thing we've all been          #
-fighting for.                     #
-==================================#
-The reason for all the suffering! #
-The reason                        #
-why you died!!                    #
---------------------------------- #
-WHY?!                             #
-Why does this machine exist?!     #
-==================================#
-I wish,                           #
-we would've never discovered it!  #
-###################################
+###########################
+Ich tue, wie du es mir sagtest...
+
+...und werde ein letztes Mal
+für diese Welt kämpfen.
+
+
+Und du hast hast recht...
+Diese Kriege können nicht
+durch Kriege beendet werden!
+
+Es würde keinen
+Unterschied machen,
+wenn wir gewinnen würden.
+
+
+Solange der Grund für diese
+Kriege fortbesteht, werden sie
+immer wieder kommen.
+
+Der Grund muss zerstört
+werden, das, worum wir uns
+alle bekriegen.
+
+
+Der Grund für all das Leiden!
+Der Grund
+wieso du gestorben bist!!
+
+WIESO?!
+Wieso existiert diese Maschine?!
+
+
+Ich wünschte,
+wir hätten sie nie entdeckt!
+
+[=======================================]
+
+I'll do as you said...
+
+...and fight for this world
+one last time.
+
+
+And you're right...
+These wars cannot
+be ended with wars!
+
+It wouldn't
+make a difference
+if we won.
+
+
+As long as the cause
+for these wars exists,
+they'll continue to happen.
+
+The cause must be destroyed,
+the thing we've all been
+fighting for.
+
+
+The reason for all the suffering!
+The reason
+why you died!!
+
+WHY?!
+Why does this machine exist?!
+
+
+I wish,
+we would've never discovered it!
+
+
 
 ###################
-# Opening Credits # ("Lachsen prasentiert" Offset: 58 11)
-################################
-Lachsen presentiert            #
-Lachsen präsentiert            #
-################################
-Erstellt mit dem               #
-RPG-Maker 2000                 #
-===============================#
-Geschichte:                    #
-Lachsen                        #
------------------------------- #
-Mit Unterstützung von:         #
-Drake                          #
-GFlügel                        #
-===============================#
-Sprite-Grafiken,               #
-~Animationen und Facesets:     #
-Lachsen                        #
-===============================#
-Map-Grafiken:                  #
-Terranigma, Seiken Densetsu 3, #
-Chrono Trigger                 #
-===============================#
-Map-Gestaltung:                #
-Lachsen                        #
-Chibi                          #
-===============================#
-Technik:                       #
-Lachsen                        #
-################################
-Lachsen prezents               #
-Lachsen presents               #
-################################
-Made with                      #
-RPG Maker 2000                 #
-===============================#
-Story:                         #
-Lachsen                        #
------------------------------- #
-With the help of:              #
-Drake                          #
-GFlügel                        #
-===============================#
-Sprite Graphics,               #
-Animation, and Facesets:       #
-Lachsen                        #
-===============================#
-Map Graphics:                  #
-Terranigma, Seiken Densetsu 3, #
-Chrono Trigger                 #
-===============================#
-Map Design:                    #
-Lachsen                        #
-Chibi                          #
-===============================#
-Technical:                     #
-Lachsen                        #
-################################
+# Opening Credits #
+#####################################
+"Lachsen prasentiert" Offset: 58 11 #
+#####################################
+Lachsen presentiert
+Lachsen präsentiert
+
+
+Erstellt mit dem
+RPG-Maker 2000
+
+
+Geschichte:
+Lachsen
+
+Mit Unterstützung von:
+Drake
+GFlügel
+
+
+Sprite-Grafiken,
+~Animationen und Facesets:
+Lachsen
+
+
+Map-Grafiken:
+Terranigma, Seiken Densetsu 3,
+Chrono Trigger
+
+
+Map-Gestaltung:
+Lachsen
+Chibi
+
+
+Technik:
+Lachsen
+
+[=======================================]
+
+Lachsen prezents
+Lachsen presents
+
+
+Made with
+RPG Maker 2000
+
+
+Story:
+Lachsen
+
+With the help of:
+Drake
+GFlügel
+
+
+Sprite Graphics,
+Animation, and Facesets:
+Lachsen
+
+
+Map Graphics:
+Terranigma, Seiken Densetsu 3,
+Chrono Trigger
+
+
+Map Design:
+Lachsen
+Chibi
+
+
+Technical:
+Lachsen
+
+
 
 ############
 # Overture #
-################################
-Es herrscht Krieg              #
-auf dem Kontinent Tora         #
-===============================#
-Für zwei mächtige Staaten      #
-war dieser Kontinent zu klein. #
-===============================#
-Brigantia im Westen            #
-===============================#
-Das Zentrum für viele Händler  #
-und Heimat des starken         #
-Heeres des Briganten-Ordens... #
-===============================#
-Korzojeno im Osten             #
-===============================#
-Das Land mit der mächtigen     #
-Armee Tarenias                 #
-und seinem fleißigem Volke...  #
-===============================#
-Zwei Staaten, beide galten     #
-sie als ebenbürtig...          #
-===============================#
-Ein Krieg zwischen ihnen,      #
-so dachte man,                 #
-würde sich ewig ziehen...      #
-===============================#
-Doch erhob sich schon bald     #
-ein Sieger empor.              #
-===============================#
-Korzojeno unterlag.            #
-===============================#
-Brigantias Sieg                #
-beendete den Krieg             #
-===============================#
-Niemand wusste genau,          #
-wie es dazu kam...             #
-===============================#
-Brigantia wurde mächtiger,     #
-Korzojeno unterdrückt.         #
-===============================#
-Und so hoffte man der          #
-Kampf wäre beendet...          #
-###########################################
-War broke out                             #
-on the continent of Tora.                 #
-==========================================#
-Two powerful nations                      #
-couldn't coexist on this small continent. #
-==========================================#
-Brigantia in the west                     #
-==========================================#
-The center for many traders               #
-and home to the strong army               #
-of the Brigantine Order...                #
-==========================================#
-Korzojeno in the east                     #
-==========================================#
-The land with the mighty                  #
-army of Tarenia                           #
-and its hardworking people...             #
-==========================================#
-Two nations, both                         #
-considered equal in power...              #
-==========================================#
-A war between them                        #
-was thought                               #
-to last forever...                        #
-==========================================#
-Yet soon, out of seemingly                #
-nowhere, a winner rose.                   #
-==========================================#
-Korzojeno lost.                           #
-==========================================#
-Brigantia's victory                       #
-ended the war.                            #
-==========================================#
-Nobody knew exactly                       #
-how it came about...                      #
-==========================================#
-Brigantia grew stronger,                  #
-Korzojeno suppressed.                     #
-==========================================#
-And so they hoped that                    #
-the fighting would cease...               #
-###########################################
+############
+Es herrscht Krieg
+auf dem Kontinent Tora
 
-#############
-# Nightmare #
-#############
+
+Für zwei mächtige Staaten
+war dieser Kontinent zu klein.
+
+
+Brigantia im Westen
+
+
+Das Zentrum für viele Händler
+und Heimat des starken
+Heeres des Briganten-Ordens...
+
+
+Korzojeno im Osten
+
+
+Das Land mit der mächtigen
+Armee Tarenias
+und seinem fleißigem Volke...
+
+
+Zwei Staaten, beide galten
+sie als ebenbürtig...
+
+
+Ein Krieg zwischen ihnen,
+so dachte man,
+würde sich ewig ziehen...
+
+
+Doch erhob sich schon bald
+ein Sieger empor.
+
+
+Korzojeno unterlag.
+
+
+Brigantias Sieg
+beendete den Krieg
+
+
+Niemand wusste genau,
+wie es dazu kam...
+
+
+Brigantia wurde mächtiger,
+Korzojeno unterdrückt.
+
+
+Und so hoffte man der
+Kampf wäre beendet...
+
+[=======================================]
+
+War broke out
+on the continent of Tora.
+
+
+Two powerful nations
+couldn't coexist on this small continent.
+
+
+Brigantia in the west
+
+
+The center for many traders
+and home to the strong army
+of the Brigantine Order...
+
+
+Korzojeno in the east
+
+
+The land with the mighty
+army of Tarenia
+and its hardworking people...
+
+
+Two nations, both
+considered equal in power...
+
+
+A war between them
+was thought
+to last forever...
+
+
+Yet soon, out of seemingly
+nowhere, a winner rose.
+
+
+Korzojeno lost.
+
+
+Brigantia's victory
+ended the war.
+
+
+Nobody knew exactly
+how it came about...
+
+
+Brigantia grew stronger,
+Korzojeno suppressed.
+
+
+And so they hoped that
+the fighting would cease...
+
+
+
+###############
+# Nightmare I #
+###############
 "In dir fließt das Blut der
 Daikons. Trage es mit Würde."
 
@@ -359,27 +428,51 @@ an excellent fighter!"
 
 What have you done?!
 
+
+
 #################
 # Miscellaneous #
-######################
-Zur gleichen Zeit... #
-=====================#
-Meanwhile...         #
-#################################################
-9 Jahre später...                               #
------------------------------------------------ #
-Kleinstadt Sinkholm                             #
-~ im mittleren Westen Brigatias                 #
-================================================#
-9 Years Later...                                #
------------------------------------------------ #
-Sinkholm                                        #
-A small town in the middle of Western Brigantia #
-#################################################
-Am nächsten Morgen... #
-======================#
-The next morning...   #
-#######################
+#################
+Zur gleichen Zeit...
+
+
+Meanwhile...
+
+[=======================================]
+
+9 Jahre später...
+
+Kleinstadt Sinkholm
+~ im mittleren Westen Brigatias
+
+
+9 Years Later...
+
+Sinkholm, Western Brigantia
+A peaceful little village...
+
+[=======================================]
+
+Am nächsten Morgen...
+
+The next morning...
+
+
+
+############
+# Chapters #
+############
+Kapitel 1: Zurück Nach Nomerea
+Kapitel 2: Ein Neuer Auftrag Beginnt
+Kapitel 3: Die Weiten Des Corine-Plateaus
+Kapitel 4: Erste Schritte Über Die Grenze
+
+Chapter 1: Back To Nomerea
+Chapter 2: A New Mission Begins
+Chapter 3: The Journey Across The Corine Plateau
+Chapter 4: The First Steps Across The Border
+
+
 
 #####################
 # Picture Directory #
@@ -425,65 +518,37 @@ zielwahl: Enemies
 zubehoer
 zustand: Status Effect (shown above the affected character)
 
-[Lucislasus]
+
+
+###########
+# axttech #
+###########
+Flugbeil: Flying Axe
+Kreuzspalter: Cross Splitter
+
+
+
+########
+# Band #
+########
+Armbanduhr: Wristwatch
+Bronzegriff: Bronze Handle
+Eisenfaust: Iron Fist
+Eisenreif: Iron .
+Holzreif: 
+Lederband: 
+Minenhandschuh: 
+Silkenreif: 
+Stoffband: 
+
+
+
+#############
+# beschreib #
+#############
 Ein mächtiger Schlag aus schwindelnder Höhe.
 A powerful strike from a blinding height.
 
-Angriff: Attack
-Technik: Techs
-Speer-Kunst: Spear Arts
-Axt-Technik: Axe Arts
-Gladiusartis: Sword Arts (Offline)
-Scharfschuss: Crossbow?
-Gegenstand: Items
-
-GEGN: ENEM (I assume it's from Gegnerische)
-
-[Menu]
-Hauptmenu: Main Menu
-Gegenstände: Items
-Techniken: Techs
-Ausrüstung: Equipment
-Elemente: Elements
-Status: Status
-_____: ???
-_____: ???
-Optionen: Options
-Speichern: Save
-Beended: Quit
-
-[Save File]
-Kapitel #: Chapter #
-(Chapter Title)
-
-[Chapters]
-Kapitel 1: Zurück Nach Nomerea
-Kapitel 2: Ein Neuer Auftrag Beginnt
-Kapitel 3: Die Weiten Des Corine-Plateaus
-Kapitel 4: Erste Schritte Über Die Grenze
-
-Chapter 1: Back To Nomerea
-Chapter 2: A New Mission Begins
-Chapter 3: The Journey Across The Corine Plateau
-Chapter 4: The First Steps Across The Border
-
-[Axe Techs]
-Flugbeil
-Kreuzspalter
-
-[Bands]
-Armbanduhr
-Bronzegriff
-Eisenfaust
-Eisenreif
-Holzreif
-Lederband
-Minenhandschuh
-Silkenreif
-Stoffband
-
-[Descriptions]
-Ein mächtiger Schlag aus schwindelnder Höhe
 3 physische Schläge gegen ein Ziel
 Erhöht Schutz und schwächt Agilität eines Ziels
 Erhöht Agilität und schwächt Schutz eines Ziels
@@ -513,88 +578,248 @@ Leichter, licht-elementarer Schaden
 Leichter, schatten-elementarer Schaden
 ...
 
-[Items]
-Abwehrtrank
-Agilitätstrank
-Ambrosia
-Blitzbombe
-Dynamit
-Gegengift
-Giftbombe
-Heilessenz
-Heilextrakt
-Heilgemme
-Heilkristall
-Heilsirup
-Konfusbombe
-Kühlkraut
-Lichtschlag
-Magische Lupe
-Mentaltrank
-Mentaltropfen
-Rauchbombe
-Reflextrank
-Schallwurzel
-Schattenhauch
-Schlafbombe
-Schockmittel
-Stärketrank
-Stummbombe
-Treffertrank
-Weichpulver
-Wurfdolch
 
-[Elements]
-Erde
-Feuer
-Licht
-Schatten
-Wasser
-Wind
+
+########
+# item #
+########
+Abwehrtrank: Defense Potion
+Agilitätstrank: Agility Potion
+Ambrosia: Ambrosia
+Blitzbombe: Lightning Bomb
+Dynamit: Dynamite
+Gegengift: Antidote
+Giftbombe: Poison Bomb
+Heilessenz: Heal Essence
+Heilextrakt: Heal Extract
+Heilgemme: Heal Gem
+Heilkristall: Heal Crystal
+Heilsirup: Heal Syrup
+Konfusbombe: Confuse Bomb
+Kühlkraut: Cold Herb
+Lichtschlag: Light Strike
+Magische Lupe: Magic Lens
+Mentaltrank: Mental Potion
+Mentaltropfen: Mental Droplets
+Rauchbombe: Smoke Bomb
+Reflextrank: Reflex Potion
+Schallwurzel: Sound Root
+Schattenhauch: Shadow Breath
+Schlafbombe: Sleep Bomb
+Schockmittel: Shock Tonic
+Stärketrank: Strength Potion
+Stummbombe: Mute Bomb
+Treffertrank: Accuracy Potion
+Weichpulver: Soft Powder
+Wurfdolch: Throwing Knife
+
+
+
+#########
+# kugel #
+#########
+Erde: Earth
+Feuer: Fire
+Licht: Light
+Schatten: Shadow
+Wasser: Water
+Wind: Wind
+
+
+
+########
+# menu #
+########
+Als nächstes gelernt wird...: 
+Fehlende Level: 
+Element(e): Element(s)
+Gegenstand benutzen: Use Item
+Armbänder: Bracelets
+Sonstiges: Other
+Helme: Helmets
+Rüstungen: Armor
+Waffen: Weapons
+Zubehör: Accessories
+Spiel wirklich beenden?: Do you really want to end the game?
+Ja: Yes
+Nein: No
+Gefechts-Signum: Battle Signum
+Haltungs-Signum: Standing Signum
+Ausrüstung: Equipment
+Beenden: End
+Elemente: Elements
+Gegenstände: Items
+Optionen: Options
+Fejar: Fejar
+Speichern: Save
+Status: Status
+Techniken: Techs
+Truppe: 
+
+
+
+########
+# Tech #
+########
+3-Klingen-Tech: 3-Blade Tech
+Berserkers Wut: Berserker's Rage
+Blutsauger: Bloodsucker
+Dampfwolke: Steam Cloud
+Das Ende: The Finale
+Flug-Beutel: Flying Bags
+Giftwolkenflug: Poison Clouds
+Harpyienblitz: Harpy Thunder
+Himmelsstroßer: Divine Strike
+Raiken: Raiken
+Raubzug: Raid
+Reißzahn: Fang
+Viaexillum: Viaexillum
+Wohltäter-Sturm: Spirit Tempest
+Wurfmesser: Throwing Knife
+Zinkar-Combo: Zinkar Combo
+Funkenschwung: Static Sweep
+Stolperstich: Staggering Pierce
+Todesgemetzel: Massacre
+
+
+
+#######
+# Waf #
+#######
+Äxte: Axes
+Lanzen: Lances
+Schwerter: Swords
+
+
+
+#########
+# waffe #
+#########
+Besen: Broom
+Breitschwert: Broadsword
+Bronzespeer: Bronze Spear
+Eisenspeer: Iron Spear
+Ganzstahl-Axt: Full-Steel Axe
+Handaxt: Handaxe
+Kurzschwert: Short Sword
+Lanze: Lance
+Luftstahl-Axt: Air-Steel Axe
+Soporusklinge: Soporus' Blade
+Spitzhacke: Pickaxe
+Streitaxt: Battle Axe
+Ultioslanze: Ultimate Lance
+
+
+
+########
+# wahl #
+########
+Angriff: Attack
+Technik: Techs
+Speer-Kunst: Spear Arts
+Axt-Technik: Axe Arts
+Gladiusartis: Sword Arts (Offline)
+Scharfschuss: Crossbow?
+Gegenstand: Items
+
+
+
+############
+# zielwahl #
+############
+Alle Gegner: All Enemies
+Bergfalke: Mountain Falcon
+Blauschleim: Blue Slime
+Brocky: Brocky
+Wilder Bär: Wild Bear
+Cibon: Cibon
+Eigene Party: Own Party
+Fledermaus: Bat
+Freier Samurai: Free Samurai
+Genyu: Genyu
+Gittertür: Gridded Door
+Grauschweif-Eule: Gray-Tailed Owl
+Grünschleim: Green Slime
+Guillian: Guillian
+wütender Guillian: Angry Guillian
+rasender Guillian: Furious Guillian
+Gurim: Gurim
+Harpyie: Harpy
+Hornkäfer: Horn Beetle
+Jorn: Jorn
+Kento: Kento
+Lagunoris: Lagunoris
+Moskito: Mosquito
+Plotio-Strauch: Plotio Shrub
+Räuber: Robber
+FPM05: FPM05
+Saion: Saion
+Schwarzbär: Black Bear
+Sedric: Sedric
+Seldan: Seldan
+Silvanischer Wolf: Silvan Wolf
+Soko: Soko
+Steinkrabbe: Stone Crab
+Tentakel: Tentacle
+???? Soldat: ???? Soldier
+Wolf: Wolf
+Yahenru: Yahenru
+Zojenko-Soldat: Zojenish Soldier
+
+
+
+############
+# zubehoer #
+############
+Agilring: Agility Ring
+Dunkelsiegel: Dark Seal
+Erdring: Earth Ring
+Erdsiegel: Earth Seal
+Feuerring: Fire Ring
+Feuersiegel: Fire Seal
+Furentring: Furent Ring - something something aurora somewhere
+Glücksbringer: Lucky Charm
+Goldring: Gold Ring
+Habilisring: Habilis Ring
+Hellsiegel: Hell Seal
+Kettenschutz: Chain Shield
+Lichtring: Light Ring
+Lichtsiegel: Light Seal
+Schattenring: Shadow Ring
+Schattensiegel: Shadow Seal
+Schlagring: Brass Knuckles
+Silber Ring: Silver Ring
+Wächterpendant: Guardian Pendant
+Wasserring: Water Ring
+Wassersiegel: Water Seal
+Windring: Wind Ring
+Windsiegel: Wind Seal
+
+
+
+GEGN: ENEM (I assume it's from Gegnerische)
+
+[Menu]
+Hauptmenu: Main Menu
+Gegenstände: Items
+Techniken: Techs
+Ausrüstung: Equipment
+Elemente: Elements
+Status: Status
+_____: ???
+_____: ???
+Optionen: Options
+Speichern: Save
+Beended: Quit
+
+[Save File]
+Kapitel #: Chapter #
+(Chapter Title)
 
 [Stats]
 Abwehr
 Agilität
 Angriff
-
-[Techs]
-3-Klingen-Tech
-Berserkers Wut
-Blutsauger
-Dampfwolke
-Das Ende
-Flug-Beutel
-Giftwolkenflug
-Harpyienblitz
-Himmelsstroßer
-Raiken
-Raubzug
-Reißzahn
-Viaexillum
-Wohltäter-Sturm
-Wurfmesser
-Zinkar-Combo
-Funkenschwung
-Stolperstich
-Todesgemetzel
-
-[Weapons]
-Äxte
-Lanzen
-Schwerter
-Besen
-Breitschwert
-Bronzespeer
-Eisenspeer
-Ganzstahl-Axt
-Handaxt
-Kurzschwert
-Lanze
-Luftstahl-Axt
-Soporusklinge
-Spitzhacke
-Streitaxt
-Ultioslanze
 
 [Battle Menu]
 Abwehr
@@ -606,71 +831,6 @@ Scharfschuss
 Speer-Kunst
 Technik
 Vel-System
-
-[Enemies]
-Alle Gegner
-Bergfalke
-Blauschleim
-Brocky
-Wilder Bär
-Cibon
-Eigene Party
-Fledermaus
-Freier Samurai
-Genyu
-Gittertür
-Grauschweif-Eule
-Grünschleim
-Guillian
-wütender Guillian
-rasender Guillian
-Gurim
-Harpyie
-Hornkäfer
-Jorn
-Kento
-Lagunoris
-Moskito
-Plotio-Strauch
-Räuber
-FPM05
-Saion
-Schwarzbär
-Sedric
-Seldan
-Silvanischer Wolf
-Soko
-Steinkrabbe
-Tentakel
-???? Soldat
-Wolf
-Yahenru
-Zojenko-Soldat
-
-[zubehoer]
-Agilring
-Dunkelsiegel
-Erdring
-Erdsiegel
-Feuerring
-Feuersiegel
-Furentring
-Glücksbringer
-Goldring
-Habilisring
-Hellsiegel
-Kettenschutz
-Lichtring
-Lichtsiegel
-Schattenring
-Schattensiegel
-Schlagring
-Silber Ring
-Wächterpendant
-Wasserring
-Wassersiegel
-Windring
-Windsiegel
 
 [Status Effects]
 Animoschild

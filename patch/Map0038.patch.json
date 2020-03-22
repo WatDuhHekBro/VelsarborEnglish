@@ -157,8 +157,8 @@
 			"original":"Cibon: Wahrscheinlich 'n weiteres Harpyienei! Bloß weg damit!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Probably another harpy",
-				"egg!\\. Stay away from it!"
+				"\\c[2]\\n[2]:\\c[0] Probably another harpy egg!\\.",
+				"Let's just get rid of it!"
 			]
 		},
 		{
@@ -212,7 +212,7 @@
 			"original":"Cibon: W...Was war das?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] W...\\. what was that?"
+				"\\c[2]\\n[2]:\\c[0] W...\\. What was that?"
 			]
 		},
 		{
@@ -220,8 +220,7 @@
 			"original":"Kento: Das Ei hat sich bewegt! Schau doch!",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] The egg just moved!\\.",
-				"Look!"
+				"\\c[1]\\n[1]:\\c[0] The egg just moved!\\. Look!"
 			]
 		},
 		{
@@ -229,7 +228,7 @@
 			"original":"Cibon: ...Tatsächlich!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] ...Indeed!"
+				"\\c[2]\\n[2]:\\c[0] You don't say!"
 			]
 		},
 		{
