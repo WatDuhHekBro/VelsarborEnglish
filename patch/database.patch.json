@@ -2369,7 +2369,7 @@
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Looks like I could use some",
-				"Healsyrup about now!"
+				"Heal Syrup about now!"
 			]
 		},
 		{
@@ -2379,7 +2379,7 @@
 			"lines":
 			[
 				"\\>",
-				"Use some \\c[11]Healsyrup\\c[0] to heal your characters.\\<\\."
+				"Use some \\c[11]Heal Syrup\\c[0] to heal your characters.\\<\\."
 			]
 		},
 		{
@@ -2389,7 +2389,7 @@
 			"lines":
 			[
 				"\\>",
-				"Select \\c[11]Items\\c[0] and then Healsyrup",
+				"Select \\c[11]Items\\c[0] and then Heal Syrup",
 				"to perform this action.\\<\\."
 			]
 		},
@@ -2400,7 +2400,7 @@
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] That hurt quite a bit...",
-				"I need some Healsyrup!"
+				"I need some Heal Syrup!"
 			]
 		},
 		{
@@ -2410,7 +2410,7 @@
 			"lines":
 			[
 				"\\>",
-				"Use some \\c[11]Healsyrup\\c[0] to heal your characters.\\<\\."
+				"Use some \\c[11]Heal Syrup\\c[0] to heal your characters.\\<\\."
 			]
 		},
 		{
@@ -2420,7 +2420,7 @@
 			"lines":
 			[
 				"\\>",
-				"Select \\c[11]Items\\c[0] and then Healsyrup",
+				"Select \\c[11]Items\\c[0] and then Heal Syrup",
 				"to perform this action.\\<\\."
 			]
 		},
@@ -3562,7 +3562,7 @@
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Alright!\\.",
-				"Here comes the 3-Hit Combo!"
+				"Here comes the 3-Point Combo!"
 			]
 		},
 		{

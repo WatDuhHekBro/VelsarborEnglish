@@ -161,9 +161,9 @@ we would've never discovered it!
 
 ###################
 # Opening Credits #
-#####################################
-"Lachsen prasentiert" Offset: 58 11 #
-#####################################
+#######################################
+# "Lachsen prasentiert" Offset: 58 11 #
+#######################################
 Lachsen presentiert
 Lachsen präsentiert
 
@@ -242,54 +242,41 @@ Lachsen
 Es herrscht Krieg
 auf dem Kontinent Tora
 
-
 Für zwei mächtige Staaten
 war dieser Kontinent zu klein.
 
-
 Brigantia im Westen
-
 
 Das Zentrum für viele Händler
 und Heimat des starken
 Heeres des Briganten-Ordens...
 
-
 Korzojeno im Osten
-
 
 Das Land mit der mächtigen
 Armee Tarenias
 und seinem fleißigem Volke...
 
-
 Zwei Staaten, beide galten
 sie als ebenbürtig...
-
 
 Ein Krieg zwischen ihnen,
 so dachte man,
 würde sich ewig ziehen...
 
-
 Doch erhob sich schon bald
 ein Sieger empor.
 
-
 Korzojeno unterlag.
-
 
 Brigantias Sieg
 beendete den Krieg
 
-
 Niemand wusste genau,
 wie es dazu kam...
 
-
 Brigantia wurde mächtiger,
 Korzojeno unterdrückt.
-
 
 Und so hoffte man der
 Kampf wäre beendet...
@@ -299,54 +286,41 @@ Kampf wäre beendet...
 War broke out
 on the continent of Tora.
 
-
 Two powerful nations
 couldn't coexist on this small continent.
 
-
 Brigantia in the west
-
 
 The center for many traders
 and home to the strong army
 of the Brigantine Order...
 
-
 Korzojeno in the east
-
 
 The land with the mighty
 army of Tarenia
 and its hardworking people...
 
-
 Two nations, both
 considered equal in power...
-
 
 A war between them
 was thought
 to last forever...
 
-
 Yet soon, out of seemingly
 nowhere, a winner rose.
 
-
 Korzojeno lost.
-
 
 Brigantia's victory
 ended the war.
 
-
 Nobody knew exactly
 how it came about...
 
-
 Brigantia grew stronger,
 Korzojeno suppressed.
-
 
 And so they hoped that
 the fighting would cease...
@@ -477,10 +451,14 @@ Chapter 4: The First Steps Across The Border
 #####################
 # Picture Directory #
 #####################
+**Note** Maybe consider changing all of the text that's the same to match this more uniform system (like with the fancy text)?
 analyse: ???
+anzeige
 axttech
 band
-beschreib: Ability Description
+beschreib: Descriptions
+beschr-ruest
+credits
 gefecht
 gladius
 haltung
@@ -521,6 +499,20 @@ zustand: Status Effect (shown above the affected character)
 
 
 ###########
+# analyse #
+###########
+...
+
+
+
+###########
+# anzeige #
+###########
+...
+
+
+
+###########
 # axttech #
 ###########
 Flugbeil: Flying Axe
@@ -546,36 +538,133 @@ Stoffband:
 #############
 # beschreib #
 #############
-Ein mächtiger Schlag aus schwindelnder Höhe.
-A powerful strike from a blinding height.
+[Lucislasus] Ein mächtiger Schlag aus schwindelnder Höhe. - A powerful strike from a blinding height.
+[3ercombo] 3 physische Schläge gegen ein Ziel - 
+[abwehrtrank] Erhöht Schutz und schwächt Agilität eines Ziels - 
+[agilitytrank] Erhöht Agilität und schwächt Schutz eines Ziels - 
+[ambrosia] Heilt jeden in der Party um ca. 250 HP - 
+[A-Mentalsare] Schaden steigt, wenn Ziel wenig MP besitzt - 
+[Blinsare] Verursacht Blendung bei einem Ziel - 
+[deltast-kreuzsp] Zwei starke, physische Treffer gegen ein Ziel - 
+[Feuer] Leichter, feuer-elementarer Schaden - 
+[flugbeil] Ein mächtiger Axtwurf auf einen Gegner - 
+[Furorsare] Schaden steigt, wenn Angreifer wenig HP besitzt - 
+[G-blutsare] Größerer Schaden, dafür Verlust von eigenen HP - 
+[gegengift] Kuriert Vergiftung bei einem Ziel - 
+[G-erdsare] Ein erd-elementarer Angriff mit der Waffe - 
+[G-feusare] Ein feuer-elementarer Angriff mit der Waffe - 
+[Gifsare] Verursacht Vergiftung bei einem Ziel - 
+[G-lichtsare] Ein licht-elementarer Angriff mit der Waffe - 
+[G-listsare] Größerer Schaden, dafür geringere Trefferchance - 
+[G-schallsare] Kleinerer Schaden, dafür kürzere Wartezeit - 
+[G-schattsare] Ein schatten-elementarer Angriff mit der Waffe - 
+[G-vitalsare] Kleinerer Schaden, dafür Heilung der eigenen HP - 
+[G-wassare] Ein wasser-elementarer Angriff mit der Waffe - 
+[G-windsare] Ein wind-elementarer Angriff mit der Waffe - 
+[G-wuchtsare] Größerer Schaden, dafür längere Wartezeit - 
+[G-Z-Erde] Leichter, erd-elementarer Schaden - 
+[G-ziels] Kleinerer Schaden, dafür höhere Trefferchance - 
+[G-Z-Licht] Leichter, licht-elementarer Schaden - 
+[G-Z-Schatten] Leichter, schatten-elementarer Schaden - 
+[G-Z-Wasser] Leichter, wasser-elementarer Schaden - 
+[G-Z-Wind] Leichter, wind-elementarer Schaden - 
+[H-abwehrfok] Erhöht den Schutz eines Ziels - 
+[H-abwehrsenk] Senkt den Schutz eines Ziels - 
+[H-agilitaetfok] Erhöht die Agilität eines Ziels - 
+[H-agilitaetsenk] Senkt den Agilität eines Ziels - 
+[H-besserung] Heilt Verwirrung, Stummheit und Schlaf - 
+[H-curia] Heilt eine kleine Menge an HP von einem Ziel - 
+[Heilessenz] Heilt ca. 100 HP von einem Ziel - 
+[heilgemme] Heilt jeden in der Party um ca. 40 HP - 
+[heilkristall] Heilt jeden in der Party um ca. 120 HP - 
+[Heilsirub] Heilt ca. 50 HP von einem Ziel - 
+[H-genesung] Heilt alle negativen Zustände - 
+[H-medikation] Heilt Vergiftung, Blendung und Paralyse - 
+[H-mentalfok] Erhöht die mentale Kraft eines Ziels - 
+[H-mentalsenk] Senkt die mentale Kraft eines Ziels - 
+[H-reflexfok] Erhöht die Ausweichrate eines Ziels - 
+[H-reflexsenk] Senkt die Ausweichrate eines Ziels - 
+[H-staerkefok] Erhöht die Angriffskraft eines Ziels - 
+[H-staerkesenk] Senkt die Angriffskraft eines Ziels - 
+[H-trefffok] Erhöht die Trefferquote eines Ziels - 
+[H-treffsenk] Senkt die Trefferquote eines Ziels - 
+[Konfusare] Verursacht Verwirrung bei einem Ziel - 
+[Kuehlkraut] Kuriert Verwirrung bei einem Ziel - 
+[lichtschlag] Macht einen Gefallenen wieder kampffähig - 
+[lichtspirale] Physischer Licht-Schaden auf alle Gegner - 
+[magischlupe] Eine Lupe, die den Status eines Gegners anzeigt - 
+[mentaltrank] Erhöht Mentalität und schwächt Stärke eines Ziels - 
+[mentaltropfen] Heilt ca. 50 MP von einem Ziel - 
+[multischlagsare] Mehrere, schwächere Treffer nach dem Schlag - 
+[Option_1-1] Held rennt bei gedrückter Entertaste. - 
+[Option_1-2] Held geht bei gedrückter Entertaste. - 
+[Paralysare] Verursacht Paralyse bei einem Ziel - 
+[rauschsare] Schaden abhängig von der Anz. der SP der Party - 
+[reflextrank] Erhöht Reflex und schwächt Treffer eines Ziels - 
+[rueckschlagsare] Treffer schlägt den Gegner zeitlich etwas zurück - 
+[schallschwung] Ein schneller und kräftiger Schwerthieb - 
+[Schallwurzel] Kuriert Stummheit bei einem Ziel - 
+[Schattenhauch] Kuriert Blendung bei einem Ziel - 
+[Schlafsare] Verursacht Schlaf bei einem Ziel - 
+[schmettersare] Schaden durchdringt den Schutz des Gegners - 
+[Schockmittel] Kuriert Schlaf bei einem Ziel - 
+[sprint] Hebt die Geschwindigkeit eines Ziels - 
+[staerketrank] Erhöht Stärke und schwächt Mentalität eines Ziels - 
+[Stummsare] Verursacht Stummheit bei einem Ziel - 
+[tech_unknown] Keine Angaben - 
+[traegheit] Senkt die Geschwindigkeit eines Zeils - 
+[treffertrank] Erhöht Treffer und schwächt Reflex eines Ziels - 
+[weichpulver] Kuriert Paralyse bei einem Ziel - 
+[wurfdolch] Physischer Schaden gegen ein Ziel - 
 
-3 physische Schläge gegen ein Ziel
-Erhöht Schutz und schwächt Agilität eines Ziels
-Erhöht Agilität und schwächt Schutz eines Ziels
-Heilt jeden in der Party um ca. 250 HP
-Schaden steigt, wenn Ziel wenig MP besitzt
-Verursacht Blendung bei einem Ziel
-Zwei starke, physische Treffer gegen ein Ziel
-Leichter, feuer-elementarer Schaden
-Ein mächtiger Axtwurf auf einen Gegner
-Schaden steigt, wenn Angreifer wenig HP besitzt
-Größerer Schaden, dafür Verlust von eigenen HP
-Kuriert Vergiftung bei einem Ziel
-Ein erd-elementarer Angriff mit der Waffe
-Ein feuer-elementarer Angriff mit der Waffe
-Verursacht Vergiftung bei einem Ziel
-Ein licht-elementarer Angriff mit der Waffe
-Größerer Schaden, dafür geringere Trefferchance
-Kleinerer Schaden, dafür kürzere Wartezeit
-Ein schatten-elementarer Angriff mit der Waffe
-Kleinerer Schaden, dafür Heilung der eigenen HP
-Ein wasser-elementarer Angriff mit der Waffe
-Ein wind-elementarer Angriff mit der Waffe
-Größerer Schaden, dafür längere Wartezeit
-Leichter, erd-elementarer Schaden
-Kleinerer Schaden, dafür höhere Trefferchance
-Leichter, licht-elementarer Schaden
-Leichter, schatten-elementarer Schaden
+
+
+################
+# beschr-ruest #
+################
+...
+
+
+
+###########
+# gefecht #
+###########
+...
+
+
+
+###########
+# gladius #
+###########
+Lichtspirale: Spiral of Light
+Schallschwung: Sonar Sweep
+
+
+
+###########
+# haltung #
+###########
+...
+
+
+
+##########
+# handel #
+##########
+...
+
+
+
+################
+# Handeln-Text #
+################
+...
+
+
+
+#######
+# hut #
+#######
 ...
 
 
@@ -597,7 +686,7 @@ Heilkristall: Heal Crystal
 Heilsirup: Heal Syrup
 Konfusbombe: Confuse Bomb
 Kühlkraut: Cold Herb
-Lichtschlag: Light Strike
+Lichtschlag: Divine Light
 Magische Lupe: Magic Lens
 Mentaltrank: Mental Potion
 Mentaltropfen: Mental Droplets
@@ -615,6 +704,13 @@ Wurfdolch: Throwing Knife
 
 
 
+##########
+# KAUFEN #
+##########
+...
+
+
+
 #########
 # kugel #
 #########
@@ -624,6 +720,13 @@ Licht: Light
 Schatten: Shadow
 Wasser: Water
 Wind: Wind
+
+
+
+##############
+# lvlup_stat #
+##############
+...
 
 
 
@@ -658,11 +761,68 @@ Truppe:
 
 
 
+################
+# ObjektHandel #
+################
+...
+
+
+
+########################
+# Pseudo_minenausruest #
+########################
+...
+
+
+
+#########
+# Ruest #
+#########
+...
+
+
+
+#############
+# Sieg-Menu #
+#############
+...
+
+
+
+#############
+# sonstiges #
+#############
+...
+
+
+
+##############
+# speerkunst #
+##############
+3er Combo: 3-Point Combo
+Deltastich: Delta Strike
+
+
+
+##################
+# Spiel-Start-ID #
+##################
+...
+
+
+
+##########
+# System #
+##########
+...
+
+
+
 ########
 # Tech #
 ########
 3-Klingen-Tech: 3-Blade Tech
-Berserkers Wut: Berserker's Rage
+Berserkers Wut: Berserker Rage
 Blutsauger: Bloodsucker
 Dampfwolke: Steam Cloud
 Das Ende: The Finale
@@ -678,8 +838,29 @@ Wohltäter-Sturm: Spirit Tempest
 Wurfmesser: Throwing Knife
 Zinkar-Combo: Zinkar Combo
 Funkenschwung: Static Sweep
-Stolperstich: Staggering Pierce
+Stolperstich: Staggering Blow
 Todesgemetzel: Massacre
+
+
+
+###########
+# turnier #
+###########
+...
+
+
+
+#############
+# velsystem #
+#############
+...
+
+
+
+#############
+# VERKAUFEN #
+#############
+...
 
 
 
@@ -725,6 +906,13 @@ Gegenstand: Items
 
 
 ############
+# worldmap #
+############
+...
+
+
+
+############
 # zielwahl #
 ############
 Alle Gegner: All Enemies
@@ -745,7 +933,7 @@ wütender Guillian: Angry Guillian
 rasender Guillian: Furious Guillian
 Gurim: Gurim
 Harpyie: Harpy
-Hornkäfer: Horn Beetle
+Hornkäfer: Horned Beetle
 Jorn: Jorn
 Kento: Kento
 Lagunoris: Lagunoris
@@ -777,7 +965,7 @@ Erdring: Earth Ring
 Erdsiegel: Earth Seal
 Feuerring: Fire Ring
 Feuersiegel: Fire Seal
-Furentring: Furent Ring - something something aurora somewhere
+Furentring: Furent Ring
 Glücksbringer: Lucky Charm
 Goldring: Gold Ring
 Habilisring: Habilis Ring
@@ -789,7 +977,7 @@ Schattenring: Shadow Ring
 Schattensiegel: Shadow Seal
 Schlagring: Brass Knuckles
 Silber Ring: Silver Ring
-Wächterpendant: Guardian Pendant
+Wächterpendant: Guard Pendant
 Wasserring: Water Ring
 Wassersiegel: Water Seal
 Windring: Wind Ring
@@ -797,6 +985,36 @@ Windsiegel: Wind Seal
 
 
 
+###########
+# zustand #
+###########
+Animoschild
+Agilität
+Angriff
+Mental
+Reflex
+Schutz
+Treffer
+Blendung
+Ferresschild
+Konter!
+Nebelgewand
+Paralyse
+Schlaf
+!Shield Break!
+Spiegelung
+Sprint
+Stand canceled
+Stummheit
+Trägheit
+Vergiftung
+Verwirrung
+
+
+
+#########
+# Other #
+#########
 GEGN: ENEM (I assume it's from Gegnerische)
 
 [Menu]
@@ -831,26 +1049,3 @@ Scharfschuss
 Speer-Kunst
 Technik
 Vel-System
-
-[Status Effects]
-Animoschild
-Agilität
-Angriff
-Mental
-Reflex
-Schutz
-Treffer
-Blendung
-Ferresschild
-Konter!
-Nebelgewand
-Paralyse
-Schlaf
-!Shield Break!
-Spiegelung
-Sprint
-Stand canceled
-Stummheit
-Trägheit
-Vergiftung
-Verwirrung

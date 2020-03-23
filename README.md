@@ -16,10 +16,11 @@ Why am I doing this? Because Velsarbor looks exciting! Unfortunately, I can't un
 
 # TO-DO List (If you don't want to see any potential spoilers, stop reading.)
 *Because every project needs a to-do list!*
-- Menus: 3%
-- General Text: 0%
+- Menus: 4%
+- Picture Text: 15%
 - Fancy Text: 30%
-- Database: 6%
+- Database: 7%
+- Battle Text: 0%
 ## Sections/Areas
 *Based on skimming through Let's Play videos.*
 - Prologue: 100%
