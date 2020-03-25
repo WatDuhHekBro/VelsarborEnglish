@@ -10,6 +10,18 @@ AFAIK, the people who previously worked on translations never published their pr
 
 Why am I doing this? Because Velsarbor looks exciting! Unfortunately, I can't understand German, and if I could, I wouldn't be doing this. So if I'm going to be putting everything into Google Translate to understand what's going on, I may as well go one step further and make whatever I've got public.
 
+# Controls
+*Useful for controller usage.*
+There are only three true controls for the game. Movement, Select, and Back.
+- Movement is controlled by the `arrow keys` and is self-explanatory.
+- "Select" is the key used to select a menu option as well as to run/walk when you hold the key. This key is `Z` as well as `Enter`.
+- "Back" is the key used to cancel a menu option as well as to open/close the menu. This key is `X` as well as `Esc`.
+
+These buttons below still do unique things, but are mostly for customization.
+- `F4`: This toggles whether or not you play in fullscreen.
+- `F5`: This toggles whether the game upscales by a factor of 2 or keeps the original ratio.
+- `F12`: This brings you back to the title screen **regardless of whether or not you saved or where you are**.
+
 # Pronunciations
 - Cibon: Pronounced with a hard C, so basically "Key-bon". The stress is on the first syllable.
 - Zojeno: The J here is pronounced as a Y, so like "Zoyeno". (And for that matter, all J's are pronounced as Y's, because German.)

@@ -1,0 +1,35 @@
+-= Info =-
+Despite what you may initially think, the names of maps shown when you save is not determined by the names in the map tree.
+Instead, it's determined by the name given by each save point's code (meaning it's in the map data).
+For example, "Sink-Lohn-P." is not found anywhere in the map tree, only in Map0037 (thanks GREP).
+The only odd case is Map0010 which determines the name of the world map (because you can save anywhere on the world map).
+
+-= List =-
+Map0010: "Weltkarte" / "The Overworld"
+Map0019: "Sinkholm" / "Sinkholm"
+Map0037: "Sink-Lohn-P." / "Sink-Lohn-P."
+Map0044: "" / ""
+Map0067: "" / ""
+Map0085: "" / ""
+Map0099: "" / ""
+Map0105: "" / ""
+Map0114: "" / ""
+Map0126: "" / ""
+Map0140: "" / ""
+Map0147: "" / ""
+Map0148: "" / ""
+Map0155: "" / ""
+Map0178: "" / ""
+Map0195: "" / ""
+Map0200: "" / ""
+Map0201: "" / ""
+Map0208: "" / ""
+Map0230: "" / ""
+Map0231: "" / ""
+Map0234: "" / ""
+Map0242: "" / ""
+Map0244: "" / ""
+Map0256: "" / ""
+Map0258: "" / ""
+Map0259: "" / ""
+Map0281: "" / ""

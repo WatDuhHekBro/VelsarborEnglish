@@ -3751,8 +3751,9 @@
 			"original":"...Was ist das?",
 			"lines":
 			[
-				"\\>                 What's this?\\<"
-			]
+				"\\>                   What's this?\\<"
+			],
+			"__comment__":"The original line had an indent of 17 spaces. Overall, you want to center the text within a box of 50 chars."
 		},
 		{
 			"path":[25,116,58,1],
@@ -3760,8 +3761,9 @@
 			"original":"Nichts zu finden.",
 			"lines":
 			[
-				"\\>             Didn't find anything.\\<"
-			]
+				"\\>               Didn't find anything.\\<"
+			],
+			"__comment__":"Same as the above comment."
 		},
 		{
 			"path":[25,118,42,1],

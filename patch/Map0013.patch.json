@@ -211,7 +211,7 @@
 			[
 				"\\c[2]\\n[2]:\\c[0] Well. If you're a soldier in",
 				"this country, you get tasks like",
-				"this...\\ But it doesn't always have",
+				"this...\\. But it doesn't always have",
 				"to stay that way."
 			]
 		},
@@ -899,7 +899,7 @@
 			"original":"Cibon: Und? Wann kehrn wir nach Nomerea zurück?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] So?\\. when will we return",
+				"\\c[2]\\n[2]:\\c[0] So?\\. When will we return",
 				"to Nomerea?"
 			]
 		},

@@ -56,7 +56,7 @@
 			"original":"Cibon: Ach... So was machen wir doch immer gern, stimmt's, Kumpel?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Oh... We always like to do",
+				"\\c[2]\\n[2]:\\c[0] Well... We always like to do",
 				"something like that, right, Kento?"
 			]
 		},
@@ -96,7 +96,7 @@
 			"original":"Kento: Wie? Damit kann man auch handeln? Kaum zu glauben.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] How? You can trade in that",
+				"\\c[1]\\n[1]:\\c[0] What? You can trade in that",
 				"thing?\\. I find that hard to believe."
 			]
 		},
@@ -134,7 +134,7 @@
 			"original":"Kento: Öhm.. Hallo Kleiner.. Ist es nicht vielleicht etwas gefährlich in dieser Gegend so rum zu spazieren?",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Um..\\. hello there little one.\\.",
+				"\\c[1]\\n[1]:\\c[0] Um...\\. hey there kid.\\.",
 				"Isn't it a little dangerous to walk",
 				"around in this area?"
 			]
@@ -168,7 +168,7 @@
 			[
 				"\\c[1]\\n[1]:\\c[0] You should be careful",
 				"anyway...\\. There are some dangerous",
-				"beings hanging around here."
+				"monsters hanging around here."
 			]
 		},
 		{
@@ -247,7 +247,7 @@
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Great. We have to",
-				"tell the boy!"
+				"tell the kid!"
 			]
 		},
 		{
