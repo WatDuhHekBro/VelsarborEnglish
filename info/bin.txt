@@ -725,7 +725,7 @@ anzeige
 axttech
 band
 beschreib: Descriptions
-beschr-ruest
+beschr-ruest: Equipment Descriptions
 credits
 gefecht
 gladius
@@ -909,7 +909,89 @@ Stoffband:
 ################
 # beschr-ruest #
 ################
-... (75)
+[agilring] Anschaulich und aerodynamisch geformt - 
+[arbeitskleidung] Standardkleidung eines Minenarbeiters - 
+[armbanduhr] Beschleuningt bemerkbar - 
+[bauleSchleife] Eine knuffige, bläuliche Schleife - 
+[besen] Improvisierte Waffe für den Notfall - 
+[Breitschwert] Ein Schwert mit breiter, scharfer Klinge - 
+[Bronzegriff] Ein harter, bronzener Handschuh - 
+[Bronzehelm] Ein robuster Helm aus Bronze - 
+[Bronzepanzer] Ein stabiler Harnisch aus Bronzeplatten - 
+[Bronzespeer] Eine typische Lanzenwaffe aus Nomerea - 
+[Diebesgewand] Ein leichtes Gewand mit wenig Schutz - 
+[dunkelsiegel] Ein dunkel-schimmernder Anhänger - 
+[Eisenfaust] Ein harter Hand- und Armschutz aus Eisen - 
+[eisenharnisch] Ein stabiler Harnischaus Stahlplatten - 
+[feuerring] Ein stabiler Helm aus Eisen - 
+[Feuersiegel] Ein stabiler Armreif aus gutem Eisen - 
+[] Ein stabiler Speer aus hartem Eisen - 
+[] Ein mit Eisen verstärktes Stirnband - 
+[] Ein bräunlich schimmernder Ring - 
+[] Ein brauner Anhänger - 
+[] Ein rötlich schimmernder Ring - 
+[] Ein roter Anhänger - 
+[] Ein stabiler, mit Flügeln verzierter Helm - 
+[] Ein Ring mit einem rotem Juwel. - 
+[] Eine Axt aus besonders hartem Material - 
+[] Ein funkelnder Anhänger - 
+[] Kostbarer Ring aus hochkarätigem Gold - 
+[] Ein Ring mit einem blauen Juwel. - 
+[] Eine kleine, handliche Axt - 
+[] Handelgegenstand - extrem Wertvoll - 
+[] Handelgegenstand - geringer Wert - 
+[] Handelgegenstand - hoher Wert - 
+[] Handelgegenstand - mittlerer Wert - 
+[] Handelgegenstand - sehr hoher Wert - 
+[] Handelgegenstand - Unglaublich Wertvoll! - 
+[] Ein hell-leuchtender Anhänger - 
+[] Ein robuster Reif aus Holz - 
+[] Schützt besser als man denken würde. - 
+[] Ein zusätzlicher, jedoch schwerer Schutz - 
+[] Ein Helm, der viel vom Kopf abdeckt - 
+[] Ein ziemlich hungriges Küken - 
+[] Ein einfaches, kurzes Schwert - 
+[] Öffnet die Tür zur Lagerhalle - 
+[] Die Standard-Lanzwaffe - 
+[] Ein simples Armband aus Leder - 
+[] Eine einfache Kappe aus Leder - 
+[] Ein Harnisch aus hartem Leder - 
+[] Ein leichtes Stirnband aus Leder - 
+[] Eine einfache Weste aus Leder - 
+[] Ein weißlich schimmernder Ring - 
+[] Ein weißer Anhänger - 
+[] Eine Axt die sehr gut in der Hand liegt - 
+[] Robuste Handschuhe für Minenarbeiter - 
+[] Spezialausrüstung für Minenarbeiter - 
+[] Aus reinstem Eisenerz hergestellt! - 
+[] Ein schwerer Plattenpanzer aus Bronze - 
+[] Ein großes Ei, perfekt für Omelett - 
+[] Ein schwarzer Anhänger - 
+[] Ein schwärzlich schimmernder Ring - 
+[] Gibt Schlägertypen Kraft und Präzision - 
+[] Ein glänzender Ring aus Silber - 
+[] Ein stabiler, grünlicher Reif - 
+[] Ein grün-bläulich leuchtendes Schwert - 
+[] Breite Spitzhacke, könnte aber auch 'ne Axt sein - 
+[] Lange Spitzhacke. Einer Lanze erstaunlich ähnlich - 
+[] Mit kurzem Griff - erinnert an ein Schwert - 
+[] Ein leichtes Armband aus Stoff - 
+[] Eine leichte, gut gefederte Weste - 
+[] Eine breite Axt mit viel Durchschlagskraft - 
+[] Eine Lanze, die von Kampfeswut zeugt - 
+[] Für den Vorbildswächter - 
+[] Ein bläulich schimmernder Ring - 
+[] Ein blauer Anhänger - 
+[] Ein türkis schimmernder Ring - 
+[] Ein grüner Anhänger - 
+
+-= Meta =-
+REFLEX - 
+SCHIJACH - 
+SCHUTZ - 
+SIGNUM KONTER - 
+ANGRIFF KONTER - 
+TREFFER - 
 
 
 
@@ -1531,6 +1613,8 @@ Tech
 waffe
 wahl
 zielwahl
+
+** Reorganize parts (like beschreib) to go together with each item and also menus, common terms like elements, etc. Also, have elemental shortcuts (like "mit ___ Element"), substitutional phrases.
 
 
 

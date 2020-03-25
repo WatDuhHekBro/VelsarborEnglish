@@ -26,6 +26,9 @@ These buttons below still do unique things, but are mostly for customization.
 - Cibon: Pronounced with a hard C, so basically "Key-bon". The stress is on the first syllable.
 - Zojeno: The J here is pronounced as a Y, so like "Zoyeno". (And for that matter, all J's are pronounced as Y's, because German.)
 
+# Dev Section Below
+If you want to develop a workspace, use my [RPGMaker2kPatcher](https://github.com/WatDuhHekBro/RPGMaker2kPatcher) and then compile the JSON data files yourself. The work is all in `patch/`, so those will compile the patched binary files for use with the game.
+
 # TO-DO List (If you don't want to see any potential spoilers, stop reading.)
 *Because every project needs a to-do list!*
 - Menus: 4%
