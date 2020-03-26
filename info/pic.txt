@@ -1,0 +1,934 @@
+#####################
+# Picture Directory #
+#####################
+analyse
+anzeige
+axttech: Axe Techs
+band: Armbands
+beschreib: Descriptions (Covers: Abilities (Non-Techs), item, gefecht, haltung)
+beschr-ruest: Equipment Descriptions (Covers: waffe, Band, Ruest, hut, zubehoer, sonstiges)
+credits: Credits (at the very end)
+gefecht: Gefechts-Signum (Has a "G-" prefix in beschreib)
+gladius: Sword Arts
+haltung: Haltungs-Signum (Has a "H-" prefix in beschreib)
+handel: Tradables
+Handeln-Text: Trading Menus
+hut: Helmets
+Intro_Seldan-Text: Opening Text + End of Prologue
+Intro2-Text: Overture
+Intro-Text: Opening Logo + Lore?
+item: Consumables
+KAUFEN: Trading Menu Stats + Checkout Text
+kugel: Elements
+lvlup_stat
+menu
+ObjektHandel: Traded Messages
+Pseudo_minenausruest
+Ruest: Armor
+Sieg-Menu: Post-Battle Menu
+sonstiges: Other
+speerkunst: Spear Arts
+Spiel-Start-ID: "Enter A Number"
+System
+SZENE: Scene Fancy Text
+tech: Techs
+turnier: Enemy Groups
+tutorial-pic
+velsystem: Vel-System
+VERKAUFEN: Trading Sell Menu
+vor_credits: Opening Credits
+Waf_Kateg: Weapon Types
+waffe: Weapons
+wahl: Battle Menu Options
+worldmap: Locations
+zielwahl: Enemies
+zubehoer: Accessories
+zustand: Status Effects (shown above the affected character)
+
+
+
+##########
+# Common #
+##########
+-= Elements =-
+Erde: Earth
+Feuer: Fire
+Licht: Light
+Schatten: Shadow
+Wasser: Water
+Wind: Wind
+
+-= Stats =-
+Angriff: Attack
+Schutz/Abwehr: Defense
+Mental: 
+Agilität: Agility
+HP: HP
+MP: MP
+
+-= Equipment Types =-
+Waffe: Weapon
+Armband: Armband
+Rüstung: Armor
+Helm: Helmet
+Zubehör: Accessories
+
+-= Weapon Types =-
+Äxte: Axes
+Lanzen: Lances
+Schwerter: Swords
+
+-= Controls =-
+Movement Keys
+Select
+Back
+
+-= Status Effects =-
+Animoschild: 
+Agilität: Agility
+Angriff: Attack
+Mental: Mental
+Reflex: Reflex
+Schutz: 
+Treffer: 
+Blendung: 
+Ferresschild: 
+Konter!: Counter!
+Nebelgewand: 
+Paralyse: Paralysis
+Schlaf: 
+!Shield Break!: !Shield Break!
+Spiegelung: 
+Sprint: Sprint
+Stand canceled: 
+Stummheit: 
+Trägheit: 
+Vergiftung: Poisoning
+Verwirrung: Confusion
+
+
+
+#############
+# Abilities #
+#############
+-= Techs =-
+3-Klingen-Tech: 3-Blade Tech
+Berserkers Wut: Berserker Rage
+Blutsauger: Bloodsucker
+Dampfwolke: Steam Cloud
+Das Ende: The Finale
+Flug-Beutel: Flying Bags
+Giftwolkenflug: Poison Clouds
+Harpyienblitz: Harpy Thunder
+Himmelsstroßer: Divine Strike
+Raiken: Raiken
+Raubzug: Raid
+Reißzahn: Fang
+Viaexillum: Viaexillum
+Wohltäter-Sturm: Spirit Tempest
+Wurfmesser: Throwing Knife
+Zinkar-Combo: Zinkar Combo
+Funkenschwung: Static Sweep
+Stolperstich: Staggering Blow
+Todesgemetzel: Massacre
+
+
+-= Spear Arts =-
+3er Combo: 3-Point Combo
+3 physische Schläge gegen ein Ziel - 
+
+Deltastich: Delta Strike
+Zwei starke, physische Treffer gegen ein Ziel - 
+
+
+-= Axe Arts =-
+Flugbeil: Flying Axe
+Ein mächtiger Axtwurf auf einen Gegner - 
+
+Kreuzspalter: Cross Splitter
+**Might have the same desc as Delta Strike**
+
+
+-= Sword Arts (Offline) =-
+Schallschwung: Sonar Sweep
+Ein schneller und kräftiger Schwerthieb - 
+
+Lichtspirale: Spiral of Light
+Physischer Licht-Schaden auf alle Gegner - 
+
+
+-= Vel-System =-
+Lucislasus: Lucislasus
+Ein mächtiger Schlag aus schwindelnder Höhe. - A powerful strike from a blinding height.
+
+
+-= Gefechts-Signum =-
+Anti-Mentalsare: 
+Schaden steigt, wenn Ziel wenig MP besitzt - 
+
+Blinsare: 
+Verursacht Blendung bei einem Ziel - 
+
+Blutsare: 
+Größerer Schaden, dafür Verlust von eigenen HP - 
+
+Erde: 
+Leichter, erd-elementarer Schaden - 
+
+Erdentus: 
+
+Erdsare: 
+Ein erd-elementarer Angriff mit der Waffe - 
+
+Erdres: 
+
+Feures: Firebane
+
+Feuentus: Pyroclasm
+
+Feuer: Fire
+Leichter, feuer-elementarer Schaden - 
+
+Feusare: Inferno
+Ein feuer-elementarer Angriff mit der Waffe - 
+
+Furorsare: 
+Schaden steigt, wenn Angreifer wenig HP besitzt - 
+
+Gifsare: 
+Verursacht Vergiftung bei einem Ziel - 
+
+Konfusare: 
+Verursacht Verwirrung bei einem Ziel - 
+
+Lichtres: 
+Lichentus: 
+
+Licht: 
+Leichter, licht-elementarer Schaden - 
+
+Lichtsare: 
+Ein licht-elementarer Angriff mit der Waffe - 
+
+Listsare: 
+Größerer Schaden, dafür geringere Trefferchance - 
+
+Multischlagsare: 
+Mehrere, schwächere Treffer nach dem Schlag - 
+
+Paralysare: 
+Verursacht Paralyse bei einem Ziel - 
+
+Rauschsare: 
+Schaden abhängig von der Anz. der SP der Party - 
+
+Rückschlagsare: 
+Treffer schlägt den Gegner zeitlich etwas zurück - 
+
+Schallsare: 
+Kleinerer Schaden, dafür kürzere Wartezeit - 
+
+Schattres: 
+
+Schatten: 
+Leichter, schatten-elementarer Schaden - 
+
+Schattentus: 
+
+Schattsare: 
+Ein schatten-elementarer Angriff mit der Waffe - 
+
+Schlafsare: 
+Verursacht Schlaf bei einem Ziel - 
+
+Schmettersare: 
+Schaden durchdringt den Schutz des Gegners - 
+
+Stummsare: 
+Verursacht Stummheit bei einem Ziel - 
+
+Vitalsare: 
+Kleinerer Schaden, dafür Heilung der eigenen HP - 
+
+Wassare: 
+Ein wasser-elementarer Angriff mit der Waffe - 
+
+Wassentus: 
+
+Wassres: 
+
+Wasser: 
+Leichter, wasser-elementarer Schaden - 
+
+Wind: 
+Leichter, wind-elementarer Schaden - 
+
+Windentus: 
+
+Windsare: 
+Ein wind-elementarer Angriff mit der Waffe - 
+
+Windres: 
+
+Wuchtsare: 
+Größerer Schaden, dafür längere Wartezeit - 
+
+Zielsare: 
+Kleinerer Schaden, dafür höhere Trefferchance - 
+
+
+-= Haltungs-Signum =-
+Abwehr-Fokus: 
+Erhöht den Schutz eines Ziels - 
+
+Abwehr-Senker: 
+Senkt den Schutz eines Ziels - 
+
+Agilitäts-Fokus: 
+Erhöht die Agilität eines Ziels - 
+
+Agilitäts-Senker: 
+Senkt den Agilität eines Ziels - 
+
+Animoschild: 
+
+Besserung: 
+Heilt Verwirrung, Stummheit und Schlaf - Gets rid of .
+
+Curia: 
+Heilt eine kleine Menge an HP von einem Ziel - Heals someone for a small amount of HP.
+
+Ferresschild: 
+
+Genesung: 
+Heilt alle negativen Zustände - Gets rid of all negative status effects.
+
+Medikation: 
+Heilt Vergiftung, Blendung und Paralyse - Gets rid of .
+
+Mental-Fokus: 
+Erhöht die mentale Kraft eines Ziels - Increases the mental power of the target.
+
+Mental-Senker: 
+Senkt die mentale Kraft eines Ziels - Decreases the mental power of the target.
+
+Nebelgewand: 
+
+Reflex-Fokus: 
+Erhöht die Ausweichrate eines Ziels - 
+
+Reflex-Senker: 
+Senkt die Ausweichrate eines Ziels - 
+
+Spiegelung: 
+
+Sprint: 
+Hebt die Geschwindigkeit eines Ziels - 
+
+Stärke-Fokus: 
+Erhöht die Angriffskraft eines Ziels - 
+
+Stärke-Senker: 
+Senkt die Angriffskraft eines Ziels - 
+
+Trägheit: 
+Senkt die Geschwindigkeit eines Zeils - 
+
+Treffer-Fokus: 
+Erhöht die Trefferquote eines Ziels - 
+
+Treffer-Senker: 
+Senkt die Trefferquote eines Ziels - 
+
+
+
+#########
+# Items #
+#########
+-= Consumables =-
+Abwehrtrank: Defense Potion
+Erhöht Schutz und schwächt Agilität eines Ziels - 
+
+Agilitätstrank: Agility Potion
+Erhöht Agilität und schwächt Schutz eines Ziels - 
+
+Ambrosia: Ambrosia
+Heilt jeden in der Party um ca. 250 HP - Heals everyone in the party for around 250 HP.
+
+Blitzbombe: Lightning Bomb
+
+Dynamit: Dynamite
+
+Gegengift: Antidote
+Kuriert Vergiftung bei einem Ziel - 
+
+Giftbombe: Poison Bomb
+
+Heilessenz: Heal Essence
+Heilt ca. 100 HP von einem Ziel - Heals someone for around 100 HP.
+
+Heilextrakt: Heal Extract
+
+Heilgemme: Heal Gem
+Heilt jeden in der Party um ca. 40 HP - Heals everyone in the party for around 40 HP.
+
+Heilkristall: Heal Crystal
+Heilt jeden in der Party um ca. 120 HP - Heals everyone in the party for around 120 HP.
+
+Heilsirup: Heal Syrup
+Heilt ca. 50 HP von einem Ziel - Heals someone for around 50 HP.
+
+Konfusbombe: Confuse Bomb
+
+Kühlkraut: Cold Herb
+Kuriert Verwirrung bei einem Ziel - 
+
+Lichtschlag: Divine Light
+Macht einen Gefallenen wieder kampffähig - Revives a fallen party member.
+
+Magische Lupe: Magic Lens
+Eine Lupe, die den Status eines Gegners anzeigt - 
+
+Mentaltrank: Mental Potion
+Erhöht Mentalität und schwächt Stärke eines Ziels - 
+
+Mentaltropfen: Mental Droplets
+Heilt ca. 50 MP von einem Ziel - 
+
+Rauchbombe: Smoke Bomb
+
+Reflextrank: Reflex Potion
+Erhöht Reflex und schwächt Treffer eines Ziels - 
+
+Schallwurzel: Sound Root
+Kuriert Stummheit bei einem Ziel - 
+
+Schattenhauch: Shadow Breath
+Kuriert Blendung bei einem Ziel - 
+
+Schlafbombe: Sleep Bomb
+
+Schockmittel: Shock Tonic
+Kuriert Schlaf bei einem Ziel - 
+
+Stärketrank: Strength Potion
+Erhöht Stärke und schwächt Mentalität eines Ziels - 
+
+Stummbombe: Mute Bomb
+
+Treffertrank: Accuracy Potion
+Erhöht Treffer und schwächt Reflex eines Ziels - 
+
+Weichpulver: Soft Powder
+Kuriert Paralyse bei einem Ziel - 
+
+Wurfdolch: Throwing Knife
+Physischer Schaden gegen ein Ziel - 
+
+
+-= Tradables =-
+Blauperle: 
+Bronzetaler: 
+Derukusglanz: 
+Dicker Pelz: 
+Dünner Pelz: 
+Edles Fell: 
+Flajo-Frucht: 
+GlanzSchuppe: 
+Goldene Feder: 
+Goldperle: 
+Goldtaler: 
+Graue Feder: 
+Grünperle: 
+Lokri-Knolle: 
+Matte Schuppe: 
+Panzerschale: 
+Pfeffer: 
+Raues Fell: 
+Repsbrot: 
+Repskerne: 
+Rotperle: 
+Rubin: 
+Salz: 
+Saphir: 
+Silbertaler: 
+Suiko-Pflanze: 
+Weicher Pelz: 
+Weiches Fell: 
+Weiße Feder: 
+
+
+
+#############
+# Equipment #
+#############
+-= Weapon =-
+Besen: Broom
+Improvisierte Waffe für den Notfall - 
+
+Breitschwert: Broadsword
+Ein Schwert mit breiter, scharfer Klinge - 
+
+Bronzespeer: Bronze Spear
+Eine typische Lanzenwaffe aus Nomerea - 
+
+Eisenspeer: Iron Spear
+Ein stabiler Speer aus hartem Eisen - 
+
+Ganzstahl-Axt: Full-Steel Axe
+Eine Axt aus besonders hartem Material - 
+
+Handaxt: Handaxe
+Eine kleine, handliche Axt - 
+
+Kurzschwert: Short Sword
+Ein einfaches, kurzes Schwert - 
+
+Lanze: Lance
+Die Standard-Lanzwaffe - 
+
+Luftstahl-Axt: Air-Steel Axe
+Eine Axt die sehr gut in der Hand liegt - 
+
+Soporusklinge: Soporus' Blade
+Ein grün-bläulich leuchtendes Schwert - 
+
+Spitzhacke: Pickaxe
+[Cibon] Breite Spitzhacke, könnte aber auch 'ne Axt sein - 
+[Kento] Lange Spitzhacke. Einer Lanze erstaunlich ähnlich - 
+[Soko] Mit kurzem Griff - erinnert an ein Schwert - 
+
+Streitaxt: Battle Axe
+Eine breite Axt mit viel Durchschlagskraft - 
+
+Ultioslanze: Ultimate Lance
+Eine Lanze, die von Kampfeswut zeugt - 
+
+
+-= Armband =-
+Armbanduhr: Wristwatch
+Beschleuningt bemerkbar - 
+
+Bronzegriff: Bronze Handle
+Ein harter, bronzener Handschuh - 
+
+Eisenfaust: Iron Fist
+Ein harter Hand- und Armschutz aus Eisen - 
+
+Eisenreif: Iron .
+Ein stabiler Armreif aus gutem Eisen - 
+
+Holzreif: 
+Ein robuster Reif aus Holz - 
+
+Lederband: 
+Ein simples Armband aus Leder - 
+
+Minenhandschuh: 
+Robuste Handschuhe für Minenarbeiter - 
+
+Silkenreif: 
+Ein stabiler, grünlicher Reif - 
+
+Stoffband: 
+Ein leichtes Armband aus Stoff - 
+
+
+-= Armor =-
+Arbeitskleidung: 
+Standardkleidung eines Minenarbeiters - 
+
+Bronzeharnisch: 
+[REAL_Bronzpzr] Ein schwerer Plattenpanzer aus Bronze - 
+
+Diebesgewand: 
+Ein leichtes Gewand mit wenig Schutz - 
+
+Eisenharnisch: 
+Ein stabiler Harnischaus Stahlplatten - 
+
+Käferpanzer: 
+Schützt besser als man denken würde. - 
+
+Lederharnisch: 
+[Lederreust] Ein Harnisch aus hartem Leder - 
+
+Lederweste: 
+Eine einfache Weste aus Leder - 
+
+Bronzepanzer: 
+Ein stabiler Harnisch aus Bronzeplatten - 
+
+Federweste: 
+[Stoffumhang] Eine leichte, gut gefederte Weste - 
+
+
+-= Helmet =-
+Blaue Schleife: 
+Eine knuffige, bläuliche Schleife - 
+
+Bronzehelm: 
+Ein robuster Helm aus Bronze - 
+
+Eisenhelm: 
+Ein stabiler Helm aus Eisen - 
+
+Eisenstirnband: 
+Ein mit Eisen verstärktes Stirnband - 
+
+Flügelhelm: 
+Ein stabiler, mit Flügeln verzierter Helm - 
+
+Topfhelm: 
+[kreuzhelm] Ein Helm, der viel vom Kopf abdeckt - 
+
+Lederkappe: 
+Eine einfache Kappe aus Leder - 
+
+Lederstirnband: 
+Ein leichtes Stirnband aus Leder - 
+
+Minenhelm: 
+Spezialausrüstung für Minenarbeiter - 
+
+
+-= Accessories =-
+Agilring: Agility Ring
+Anschaulich und aerodynamisch geformt - 
+
+Dunkelsiegel: Dark Seal
+Ein dunkel-schimmernder Anhänger - 
+
+Erdring: Earth Ring
+Ein bräunlich schimmernder Ring - 
+
+Erdsiegel: Earth Seal
+Ein brauner Anhänger - 
+
+Feuerring: Fire Ring
+Ein rötlich schimmernder Ring - 
+
+Feuersiegel: Fire Seal
+Ein roter Anhänger - 
+
+Furentring: Furent Ring
+Ein Ring mit einem rotem Juwel. - 
+
+Glücksbringer: Lucky Charm
+Ein funkelnder Anhänger - 
+
+Goldring: Gold Ring
+Kostbarer Ring aus hochkarätigem Gold - 
+
+Habilisring: Habilis Ring
+Ein Ring mit einem blauen Juwel. - 
+
+Hellsiegel: Hell Seal
+Ein hell-leuchtender Anhänger - 
+
+Kettenschutz: Chain Shield
+Ein zusätzlicher, jedoch schwerer Schutz - 
+
+Lichtring: Light Ring
+Ein weißlich schimmernder Ring - 
+
+Lichtsiegel: Light Seal
+Ein weißer Anhänger - 
+
+Schattenring: Shadow Ring
+Ein schwärzlich schimmernder Ring - 
+
+Schattensiegel: Shadow Seal
+Ein schwarzer Anhänger - 
+
+Schlagring: Brass Knuckles
+Gibt Schlägertypen Kraft und Präzision - 
+
+Silber Ring: Silver Ring
+Ein glänzender Ring aus Silber - 
+
+Wächterpendant: Guard Pendant
+Für den Vorbildswächter - 
+
+Wasserring: Water Ring
+Ein bläulich schimmernder Ring - 
+
+Wassersiegel: Water Seal
+Ein blauer Anhänger - 
+
+Windring: Wind Ring
+Ein türkis schimmernder Ring - 
+
+Windsiegel: Wind Seal
+Ein grüner Anhänger - 
+
+
+-= Other =-
+Eisenerz: 
+
+Graufunkpulver: 
+
+Inanitaskugel: 
+
+Küken: 
+Ein ziemlich hungriges Küken - 
+
+Lagerschlüssel: 
+Öffnet die Tür zur Lagerhalle - 
+
+Minen-Orden: 
+Aus reinstem Eisenerz hergestellt! - 
+
+Paket: 
+
+Riesenei: 
+Ein großes Ei, perfekt für Omelett - 
+
+Turniermünze: 
+
+
+
+###########
+# Enemies #
+###########
+-= Enemies =-
+Alle Gegner: All Enemies
+Bergfalke: Mountain Falcon
+Blauschleim: Blue Slime
+Brocky: Brocky
+Wilder Bär: Wild Bear
+Cibon: Cibon
+Eigene Party: Own Party
+Fledermaus: Bat
+Freier Samurai: Free Samurai
+Genyu: Genyu
+Gittertür: Gridded Door
+Grauschweif-Eule: Gray-Tailed Owl
+Grünschleim: Green Slime
+Guillian: Guillian
+wütender Guillian: Angry Guillian
+rasender Guillian: Furious Guillian
+Gurim: Gurim
+Harpyie: Harpy
+Hornkäfer: Horned Beetle
+Jorn: Jorn
+Kento: Kento
+Lagunoris: Lagunoris
+Moskito: Mosquito
+Plotio-Strauch: Plotio Shrub
+Räuber: Robber
+FPM05: FPM05
+Saion: Saion
+Schwarzbär: Black Bear
+Sedric: Sedric
+Seldan: Seldan
+Silvanischer Wolf: Silvan Wolf
+Soko: Soko
+Steinkrabbe: Stone Crab
+Tentakel: Tentacle
+???? Soldat: ???? Soldier
+Wolf: Wolf
+Yahenru: Yahenru
+Zojenko-Soldat: Zojenish Soldier
+
+-= Enemy Groups =-
+Die Bärenbrüder: 
+Der Chef: 
+Die Exoten: 
+Die Fejarschlitzer: 
+Pauamainer Veteranen: 
+Rächer der Gerechten: 
+Die Ritter der Nacht: 
+Das Rudel: 
+Die Schattenschleicher: 
+Die Schleimigen: 
+Der Briganten-Stolz: 
+Die Repsbrot-Truppe: 
+Die Verräter: 
+Die Zinkar-Schlächter: 
+TruppeTruppeTruppe: 
+Der Untertage-Schreck: 
+Die Zinkar Brüder: 
+
+
+
+#########
+# Menus #
+#########
+-= anzeige =-
+Anzahl: Amount
+MP-Kosten: MP Cost
+SP-Kosten: SP Cost
+
+-= Handeln-Text =-
+Wie kann ich ihnen behilflich sein? - 
+Was hätten sie denn gerne? - 
+Und wie viel? - 
+Vielen Dank. - 
+Was wollen sie verkaufen? - 
+Kaufen - 
+Verkaufen - 
+
+-= KAUFEN =-
+Kosten: 
+Restvermögen: 
+
+-= menu =-
+Als nächstes gelernt wird...: You will learn...
+Fehlende Level: At Level
+Element(e): Element(s)
+Gegenstand benutzen: Use Item
+Armbänder: Bracelets
+Sonstiges: Other
+Helme: Helmets
+Rüstungen: Armor
+Waffen: Weapons
+Zubehör: Accessories
+Spiel wirklich beenden?: Do you really want to end the game?
+Ja: Yes
+Nein: No
+Gefechts-Signum: Battle Signum
+Haltungs-Signum: Standing Signum
+Ausrüstung: Equipment
+Beenden: End
+Elemente: Elements
+Gegenstände: Items
+Optionen: Options
+Fejar: Fejar
+Speichern: Save
+Status: Status
+Techniken: Techs
+Truppe: Party
+
+-= ObjektHandel =-
+Getauscht! - 
+Angebot - 
+Gegen... - 
+Für... - 
+Kaufen - 
+Gehen - 
+Genug - 
+Benötigt Im Inventar - 
+Enter für mehr Details - 
+Anzahl Im Inventar - 
+
+-= Sieg-Menu =-
+Kampf erfolgreich beendet. - 
+Erfolgreich die Flucht ergriffen. - 
+Level Up - 
+___ erlernt! - 
+
+-= tutorial_pic =-
+ANGRIFF: 
+ANGRIFF KONTER: 
+SIGNUM KONTER: 
+AUTO ANIMO: 
+AUTO FERRES: 
+AUTO SPRINT: 
+AUTO TRAGE: 
+SIGNUM STREVER: 
+
+-= VERKAUFEN =-
+Rest im Inventar: 
+Gesamtwert: 
+Vermögen: 
+
+-= wahl =-
+Abwehr: Defend
+Angriff: Attack
+Axt-Technik: Axe Arts
+Gegenstand: Items
+Gladiusartis: Sword Arts (Offline)
+Scharfschuss: Crossbow?
+Speer-Kunst: Spear Arts
+Technik: Techs
+Vel-System: Vel-System
+
+-= Panorama =-
+Hauptmenu: Main Menu
+Ausrüstung: Equipment
+Kaufen: 
+Verkaufen: 
+Verlassen: 
+Gegenstände: Items
+Im Inventar: 
+Ausgerüstet: 
+Optionen: Options
+Techniken: Techs
+Wert: 
+Gegenstände: 
+Waffen: 
+Armbänder: 
+Rüstungen: 
+Helme: 
+Zubehör: 
+Sonstiges: 
+Hinterlassene Gegenstände: 
+Gefunden: 
+Gesamt: 
+
+
+
+########
+# Misc #
+########
+-= analyse =-
+mit Erde-Element: 
+mit Feuer-Element: 
+jeden Treffer: 
+mit Licht-Element: 
+magischen Treffer: 
+einen Treffer mit Mindestschaden von: 
+physischen Treffer: 
+mit Schatten-Element: 
+Schutzschild: 
+SCHÜTZT BEI: 
+BRICHT NACHT: 
+Treffer: 
+mit Wasser-Element: 
+mit Wind-Element: 
+Verzauberungen: 
+Ziel: 
+
+-= beschreib =-
+[Option_1-1] Held rennt bei gedrückter Entertaste. - 
+[Option_1-2] Held geht bei gedrückter Entertaste. - 
+[tech_unknown] Keine Angaben - 
+
+-= beschr-ruest =-
+[Handel-extremhoch] Handelgegenstand - extrem Wertvoll - 
+[Handel-gering] Handelgegenstand - geringer Wert - 
+[Handel-hoch] Handelgegenstand - hoher Wert - 
+[Handel-mittel] Handelgegenstand - mittlerer Wert - 
+[Handel-sehrhoch] Handelgegenstand - sehr hoher Wert - 
+[Handel-unbelievable] Handelgegenstand - Unglaublich Wertvoll! - 
+
+-= beschr-ruest Meta =-
+REFLEX - 
+SCHIJACH - 
+SCHUTZ - 
+SIGNUM KONTER - 
+ANGRIFF KONTER - 
+TREFFER - 
+
+-= Pseudo_minenausruest =-
+Minen Ausrüst. - 
+
+-= System =-
+Verfolger: ___ Sek - 
+___ erhalten. - 
+Fejar erhalten. - 
+Fejar gestohlen - 
+Fejar gezahlt. - 
+___ abgegeben. - 
+Weiche vorraus! - 
+Enter drücken! - 
+Eisenerz ___ - 
+___ gefunden. - 
+Behalten Liegen lassen - 
+Verdacht Auffälligkeit - 
+Betreten - 
+Zurück - 
+Raum ist sicher - 
+Rangliste - 
+Turniermünze ___ - 
