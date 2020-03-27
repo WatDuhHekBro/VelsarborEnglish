@@ -12,7 +12,7 @@ Why am I doing this? Because Velsarbor looks exciting! Unfortunately, I can't un
 
 # Controls
 *Useful for controller usage.*
-There are only three true controls for the game. Movement, Select, and Back.
+There are only three true controls for the game. Movement, Select, and Back. In the game, these'll be referred to as `the arrow keys`, `Enter`, and `Esc` respectively.
 - Movement is controlled by the `arrow keys` and is self-explanatory.
 - "Select" is the key used to select a menu option as well as to run/walk when you hold the key. This key is `Z` as well as `Enter`.
 - "Back" is the key used to cancel a menu option as well as to open/close the menu. This key is `X` as well as `Esc`.
@@ -24,33 +24,30 @@ These buttons below still do unique things, but are mostly for customization.
 
 # Pronunciations
 - Cibon: Pronounced with a hard C, so basically "Key-bon". The stress is on the first syllable.
-- Zojeno: The J here is pronounced as a Y, so like "Zoyeno". (And for that matter, all J's are pronounced as Y's, because German.)
+- All J's are pronounced as Y's, because German.
 
 # Dev Section Below
 If you want to develop a workspace, use my [RPGMaker2kPatcher](https://github.com/WatDuhHekBro/RPGMaker2kPatcher) and then compile the JSON data files yourself. The work is all in `patch/`, so those will compile the patched binary files for use with the game.
 
 # TO-DO List (If you don't want to see any potential spoilers, stop reading.)
 *Because every project needs a to-do list!*
-- Menus: 4%
-- Picture Text: 15%
+- Picture Text: 22%
 - Fancy Text: 30%
 - Database: 7%
-- Battle Text: 0%
+- Post-Battle Text (Map0001): 0%
+- Menu Text (Map0010): 0%
 ## Sections/Areas
-*Based on skimming through Let's Play videos.*
+*It's important to note that the Helnovian Mine is an EXTREMELY enormous section of the game, and definitely the most confusing with the limited knowledge I have right now.*
 - Prologue: 100%
-- Chapter I
-	- Sinkholm: 90%
-	- Sinke-Lohne Pass: 75%
-	- Nomerea Pt I: 0%
-- Chapter II
-	- Nomerea Pt II: 0%
-	- Torasgebirge: 0%
-- Chapter III
-	- Corine Plateau: 0%
-	- Silvan Forest: 0%
-	- Prison: 0%
-- Chapter IV
-	- Castle: 0%
-	- Mineshaft: 0%
-	- Arena: 0%
+- Sinkholm: 90%
+- The Sink-Lohne Pass: 75%
+- Nomerea: 0%
+- The Lohne: 0%
+- Torasgebirge: 0%
+- Wayfarer's Inn: 0%
+- The Corine Plateau: 0%
+- Gencorin Pt I: 0%
+- The Silvan Forest: 0%
+- Mysterious Prison: 0%
+- Gencorin Pt II: 0%
+- The Helnovian Mine: 0%

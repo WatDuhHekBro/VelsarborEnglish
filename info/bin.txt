@@ -10,7 +10,13 @@ Justify: Center
 Line Spacing: 13px
 
 [Locations]
-CharSet/ctb-Bildchen
+CharSet/...
+- ctb-Bildchen
+- pos-zustand-Bildchen
+- pos-zustand-Bildchen2
+ChipSet/...
+- KS-Chipset
+- KS-Chipset2
 FaceSet/Save_Kapitel
 Panorama/...
 Picture/...
@@ -446,6 +452,7 @@ zu machen!"
 
 [==================================]
 
+https://www.youtube.com/watch?v=SbADX5dVW6U&list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN&index=12
 "Es ist hart, ich weiß, aber du musst stark sein, mein Schatz."
 Nein! Mama, tu es nicht!
 "Mama, wann wird Papa endlich zurückkommen?"
@@ -519,6 +526,7 @@ gewinnen lassen! Niemals!
 
 [==================================]
 
+https://www.youtube.com/watch?v=1PwxgeViZxw&list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN&index=18
 "Armer Junge, zuerst hat er seinen Vater verloren und dann..."
 "...wie konnte seine Mutter nur in so einer Situation verschwinden?"
 "Wie wunderbar alles geklappt hat!"
@@ -574,6 +582,7 @@ Antworte gefälligst!"
 
 [==================================]
 
+https://www.youtube.com/watch?v=IcC7GfnkSHc&list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN&index=20
 "Wahrhaftig! Das ist mein Sohn! Das ist mein Kento!"
 "Wieso..."
 "Du solltest tot sein!! Zerschmettert! Vergessen! Und nun lebst du doch?!"
@@ -616,6 +625,7 @@ Wer...?
 
 [==================================]
 
+https://www.youtube.com/watch?v=aQgDWid_niU&list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN&index=29
 "Lass... Lass mich in Ruhe!"
 "Du hast kein Recht zu leben!"
 "Es tut mir Leid Kento..."
@@ -717,10 +727,14 @@ Chapter 4: First Steps Across The Border
 
 
 
-###########
-# CharSet #
-###########
+###################
+# CharSet/ChipSet #
+###################
 GEGN: ENEM (I assume it's from Gegnerische)
+AKTION: ACTION
+...
+ChipSet
+https://www.youtube.com/watch?v=aALIoiviipQ&list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN&index=25
 
 
 
