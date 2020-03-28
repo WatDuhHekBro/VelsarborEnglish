@@ -867,7 +867,7 @@
 			"original":"Guillian: Ver...Verdammt!",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: Ver...\\.Verdammt!"
+				"\\c[10]Guillian\\c[0]: D...\\. Dammit!"
 			]
 		},
 		{
@@ -886,8 +886,8 @@
 			"original":"Jorn: Ah! Ich hätte mich GLEICH tot stellen sollen!",
 			"lines":
 			[
-				"\\c[10]Jorn:\\c[0] Argh!\\. Ich hätte mich GLEICH tot stellen ",
-				"sollen!"
+				"\\c[10]Jorn:\\c[0] Argh!\\. I should've just surrendered",
+				"RIGHT AWAY!"
 			]
 		},
 		{
@@ -906,7 +906,7 @@
 			"original":"Soko: Die Tür ist offen!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Die Tür ist offen!"
+				"\\c[13]\\n[3]\\c[0]: The door is open!"
 			]
 		},
 		{
@@ -915,8 +915,7 @@
 			"original":"Soko: Kento, wie hast du es bis hierher geschafft?!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Kento, wie hast du es bis hierher ",
-				"geschafft?!"
+				"\\c[13]\\n[3]\\c[0]: Kento, how did you make it this far?!"
 			]
 		},
 		{
@@ -925,7 +924,7 @@
 			"original":"Kento: Konzentrier dich auf den Kampf!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Konzentrier dich auf den Kampf!"
+				"\\c[1]\\n[1]\\c[0]: Focus on the battle!"
 			]
 		},
 		{
@@ -934,7 +933,7 @@
 			"original":"Soko: Ah....",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ah...."
+				"\\c[13]\\n[3]\\c[0]: Right..."
 			]
 		},
 		{
@@ -943,7 +942,7 @@
 			"original":"Cibon: JA! Sie geht auf!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: JA!\\. Sie geht auf!"
+				"\\c[2]\\n[2]\\c[0]: YES!\\. It's open!"
 			]
 		},
 		{
@@ -952,7 +951,7 @@
 			"original":"Cibon: Jetzt werdet ihr eure Rechnung zahlen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Jetzt werdet ihr eure Rechnung zahlen! "
+				"\\c[2]\\n[2]\\c[0]: Now it's time for some payback!"
 			]
 		},
 		{
@@ -961,8 +960,8 @@
 			"original":"Cibon: Dafür, dass ihr mich Stunden meines Lebens hier eingesperrt und still gehalten zu habt!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Dafür, dass ihr mich Stunden meines Lebens ",
-				"hier eingesperrt und still gehalten zu habt!"
+				"\\c[2]\\n[2]\\c[0]: For locking me up and keeping me quiet",
+				"for several hours of my life!"
 			]
 		},
 		{
@@ -971,8 +970,8 @@
 			"original":"Soldat: Verdammt, die Situation gerät außer Kontrolle!",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: Verdammt, die Situation gerät außer ",
-				"Kontrolle!"
+				"\\c[10]Soldat\\c[0]: Damn it, the situation is getting",
+				"out of control!"
 			]
 		},
 		{
@@ -981,7 +980,7 @@
 			"original":"Sedric: Argh! Das ist einfach nur... verdammt!!",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: Argh!\\. Das ist einfach nur...\\. verdammt!!"
+				"\\c[10]Sedric\\c[0]: Argh!\\. This is just...\\. damn it!!"
 			]
 		},
 		{
@@ -990,8 +989,8 @@
 			"original":"Soldat: ...Sedric, du HAST den Gegner unterschätzt!",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: ...\\.Sedric,\\. du HAST den Gegner ",
-				"unterschätzt!"
+				"\\c[10]Soldat\\c[0]: ...\\.Sedric,\\. you underestimated",
+				"your opponent!"
 			]
 		},
 		{
@@ -1367,8 +1366,8 @@
 			"original":"Cibon: Schön und gut, Kumpel. Aber sich darüber zu wundern bringt jetzt auch nichts.",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Schön und gut, Kumpel.\\. Aber sich ",
-				"darüber zu wundern bringt jetzt auch nichts."
+				"\\c[2]\\n[2]:\\c[0] All right, Kento.\\. But wondering",
+				"about it now does nothing."
 			]
 		},
 		{
@@ -1377,8 +1376,8 @@
 			"original":"Cibon: Sehen wir lieber zu, dass wir den Vogel beseitigt bekommen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Sehen wir lieber zu, dass wir den Vogel ",
-				"beseitigt bekommen!"
+				"\\c[2]\\n[2]:\\c[0] Let's see that we get the bird out",
+				"of the way first!"
 			]
 		},
 		{
@@ -1387,8 +1386,8 @@
 			"original":"Kento: Da sagst du was... Wir müssen aufpassen! Harpyien sind hartnäckige Gegner!",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Da sagst du was...\\. Wir müssen ",
-				"aufpassen!\\. Harpyien sind hartnäckige Gegner!"
+				"\\c[1]\\n[1]:\\c[0] No kidding...\\. We have to",
+				"be careful!\\. Harpies are stubborn enemies!"
 			]
 		},
 		{
@@ -1397,8 +1396,8 @@
 			"original":"Kento: Erst eine Harpyie auf einer Brücke und jetzt eine Krake in einer Höhle...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Erst eine Harpyie auf einer Brücke und ",
-				"jetzt eine Krake in einer Höhle..."
+				"\\c[1]\\n[1]:\\c[0] First, a harpy on a bridge, and",
+				"now an octopus in a cave..."
 			]
 		},
 		{
@@ -1407,8 +1406,8 @@
 			"original":"Kento: Unglaublich auf was für Gegner wir treffen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Unglaublich auf was für Gegner wir ",
-				"treffen..."
+				"\\c[1]\\n[1]:\\c[0] Unbelievable what kind of enemies",
+				"we encounter..."
 			]
 		},
 		{
@@ -1417,8 +1416,8 @@
 			"original":"Cibon: Okay... Wer von euch weiß, wie man eine überdimensionale Krake beseitigt?!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Okay...\\. Wer von euch weiß, wie man eine ",
-				"überdimensionale Krake beseitigt?!"
+				"\\c[2]\\n[2]:\\c[0] Okay...\\. Who here knows how to get rid",
+				"of an oversized octopus?!"
 			]
 		},
 		{
@@ -1427,8 +1426,8 @@
 			"original":"Soko: Feuer... Ich habe gehört, viele solcher Wasserwesen sollen dagegen empfindlich sein!",
 			"lines":
 			[
-				"\\c[13]\\n[3]:\\c[0] Feuer...\\. Ich habe gehört, viele solcher ",
-				"Wasserwesen sollen dagegen empfindlich sein!"
+				"\\c[13]\\n[3]:\\c[0] Fire.\\. I heard that many aquatic",
+				"creatures are sensitive to it!"
 			]
 		},
 		{
@@ -1437,7 +1436,7 @@
 			"original":"Kento: Wir haben noch ein Problem...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Wir haben noch ein Problem..."
+				"\\c[1]\\n[1]:\\c[0] We still have a problem..."
 			]
 		},
 		{
@@ -1446,8 +1445,7 @@
 			"original":"Kento: Wir können den Kopf der Krake nicht mit Nahkampf-Attacken erreichen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Wir können den Kopf der Krake nicht mit ",
-				"Nahkampf-Attacken erreichen."
+				"\\c[1]\\n[1]:\\c[0] We can't reach its head with melee attacks."
 			]
 		},
 		{
@@ -1456,8 +1454,8 @@
 			"original":"Kento: Cibon! Du und ich, wir sollten uns auf die Tentakel konzentrieren.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Cibon!\\. Du und ich, wir sollten uns auf die ",
-				"Tentakel konzentrieren."
+				"\\c[1]\\n[1]:\\c[0] Cibon!\\. You and I should focus on the",
+				"tentacles."
 			]
 		},
 		{
@@ -1466,8 +1464,8 @@
 			"original":"Kento: Soko! Du kannst zaubern. Nutze deine Fähigkeiten um den Kopf damit anzugreifen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Soko!\\. Du kannst zaubern.\\. Nutze deine ",
-				"Fähigkeiten um den Kopf damit anzugreifen."
+				"\\c[1]\\n[1]:\\c[0] Soko!\\. You can use magic.\\. Use that",
+				"to attack the head with it."
 			]
 		},
 		{
@@ -1476,7 +1474,7 @@
 			"original":"Soko: Ah... in Ordnung...",
 			"lines":
 			[
-				"\\c[13]\\n[3]:\\c[0] Ah...\\. in Ordnung..."
+				"\\c[13]\\n[3]:\\c[0] Ah...\\. okay..."
 			]
 		},
 		{
@@ -1485,8 +1483,8 @@
 			"original":"Kento: Cibon, noch was, versuch auch du den Kopf mit deiner Flugbeil Attacke zu treffen!",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Cibon,\\. noch was,\\. versuch auch du den ",
-				"Kopf mit deiner Flugbeil Attacke zu treffen!"
+				"\\c[1]\\n[1]:\\c[0] Cibon,\\. one more thing,\\. try to hit its",
+				"head with your flying axe too!"
 			]
 		},
 		{
@@ -1495,7 +1493,7 @@
 			"original":"Cibon: Geht klar! Auf ins Gefecht!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Geht klar!\\. Auf ins Gefecht!"
+				"\\c[2]\\n[2]:\\c[0] Got it!\\. Time to do this!"
 			]
 		},
 		{
@@ -1747,9 +1745,9 @@
 			"original":"Kento: Verschwinde!! VERSCHWINDE AUS MEINEN AUGEN!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Verschwinde!!\\. VERSCHWINDE AUS ",
-				"MEINEN AUGEN!"
-			]
+				"\\c[1]\\n[1]\\c[0]: GET OUT!\\. GET OUT OF MY SIGHT!!"
+			],
+			"__comment__":"Maybe: GET THE HELL OUT OF MY SIGHT!!"
 		},
 		{
 			"path":[25,94,291,1],
@@ -1757,7 +1755,7 @@
 			"original":"Genyu: K...Kento?",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: K...\\.Kento? "
+				"\\c[4]\\n[4]\\c[0]: K...\\. Kento?"
 			]
 		},
 		{
@@ -1766,8 +1764,8 @@
 			"original":"(Kento: Verdammt! Ich sollte besser eine Schlafbombe verwendenden und fliehen...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Verdammt!\\. Ich sollte besser eine ",
-				"Schlafbombe verwendenden und fliehen...)"
+				"(\\c[1]\\n[1]\\c[0]: Damn!\\. I better use a sleep",
+				"bomb and run away...)"
 			]
 		},
 		{
@@ -1776,7 +1774,7 @@
 			"original":"(Kento: Kämpfen ist zu riskant!)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Kämpfen ist zu riskant!)"
+				"(\\c[1]\\n[1]\\c[0]: Fighting is too risky!)"
 			]
 		},
 		{
@@ -1785,8 +1783,7 @@
 			"original":"Soldat: Das ist der Flüchtling! Er ist doch im Gebäude!",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: Das ist der Flüchtling!\\. Er ist doch im ",
-				"Gebäude! "
+				"\\c[10]Soldier\\c[0]: There's the escapee!\\. He's in this building!"
 			]
 		},
 		{
@@ -1795,7 +1792,7 @@
 			"original":"Soldat: Sofort die Waffe fallen lassen!",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: Sofort die Waffe fallen lassen!"
+				"\\c[10]Soldier\\c[0]: Drop your weapon immediately!"
 			]
 		},
 		{
@@ -1804,8 +1801,8 @@
 			"original":"Kento: Soko, Cibon, hört zu! Ich werde versuchen die Gittertür aufzuschlagen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Soko,\\. Cibon,\\. hört zu!\\. Ich werde versuchen ",
-				"die Gittertür aufzuschlagen."
+				"\\c[1]\\n[1]\\c[0]: Soko,\\. Cibon,\\. listen!\\. I'll try to",
+				"open those gates."
 			]
 		},
 		{
@@ -1814,8 +1811,8 @@
 			"original":"Cibon: Beeil dich, Kumpel! Zusammen werden wir die 2 zusammenschlagen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Beeil dich, Kumpel!\\. Zusammen werden wir die ",
-				"2 zusammenschlagen!"
+				"\\c[2]\\n[2]\\c[0]: Hurry up!\\. Together we'll beat up",
+				"those two!"
 			]
 		},
 		{
@@ -1824,8 +1821,8 @@
 			"original":"Soko: Kento! Greife die Gitter mit Feuer-Angriffen an, das sollte am besten funktionieren!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Kento!\\. Greife die Gitter mit Feuer-Angriffen",
-				"an, das sollte am besten funktionieren!"
+				"\\c[13]\\n[3]\\c[0]: Kento!\\. Attack the gates with fire attacks,",
+				"that should work best!"
 			]
 		},
 		{
@@ -2369,7 +2366,7 @@
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Looks like I could use some",
-				"Heal Syrup about now!"
+				"heal syrup about now!"
 			]
 		},
 		{
@@ -2379,7 +2376,7 @@
 			"lines":
 			[
 				"\\>",
-				"Use some \\c[11]Heal Syrup\\c[0] to heal your characters.\\<\\."
+				"Use some \\c[11]heal syrup\\c[0] to heal your characters.\\<\\."
 			]
 		},
 		{
@@ -2389,7 +2386,7 @@
 			"lines":
 			[
 				"\\>",
-				"Select \\c[11]Items\\c[0] and then Heal Syrup",
+				"Select \\c[11]Items\\c[0] and then heal syrup",
 				"to perform this action.\\<\\."
 			]
 		},
@@ -2400,7 +2397,7 @@
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] That hurt quite a bit...",
-				"I need some Heal Syrup!"
+				"I need some heal syrup!"
 			]
 		},
 		{
@@ -2410,7 +2407,7 @@
 			"lines":
 			[
 				"\\>",
-				"Use some \\c[11]Heal Syrup\\c[0] to heal your characters.\\<\\."
+				"Use some \\c[11]heal syrup\\c[0] to heal your characters.\\<\\."
 			]
 		},
 		{
@@ -2420,7 +2417,7 @@
 			"lines":
 			[
 				"\\>",
-				"Select \\c[11]Items\\c[0] and then Heal Syrup",
+				"Select \\c[11]Items\\c[0] and then heal syrup",
 				"to perform this action.\\<\\."
 			]
 		},
@@ -2471,8 +2468,8 @@
 			"lines":
 			[
 				"\\>",
-				"Um zu verteidigen drücke in der Auswahl \\c[11]Esc\\c[0] ",
-				"und wähle dann \\c[11]Abwehr\\c[0].\\<\\."
+				"To defend, press \\c[11]Esc\\c[0] while in the menu",
+				"and then select \\c[11]Defend\\c[0].\\<\\."
 			]
 		},
 		{
@@ -2885,7 +2882,7 @@
 			"original":"????: Gleich ist's vorüber...",
 			"lines":
 			[
-				"\\c[10]????:\\c[0] Gleich ist's vorüber... "
+				"\\c[10]????:\\c[0] It shall be over soon... "
 			]
 		},
 		{
@@ -3188,8 +3185,8 @@
 			"original":"Kento: Redet! Wer seid ihr!? Was wollt ihr!? Und wieso greift ihr mich an?!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Redet! Wer seid ihr!? Was wollt ihr!?",
-				"Und wieso greift ihr mich an?!"
+				"\\c[1]\\n[1]\\c[0]: Answer me! Who are you people!? What do",
+				"you want with me!? Why are you attacking me?!"
 			]
 		},
 		{
@@ -3198,7 +3195,7 @@
 			"original":"(Kento: Verdammt, wo bleiben die anderen?!)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Verdammt, wo bleiben die anderen?!)"
+				"(\\c[1]\\n[1]\\c[0]: Damn it, where are the others?!)"
 			]
 		},
 		{
@@ -3207,8 +3204,8 @@
 			"original":"????: Licht in weiter Dunkelheit, erhelle den Weg, leite die Kraft und führe sie her!",
 			"lines":
 			[
-				"\\c[10]????\\c[0]: \\s[3]Licht in weiter Dunkelheit,\\. erhelle den Weg,\\. ",
-				"leite die Kraft\\.\\s[5] und führe sie her!"
+				"\\c[10]????\\c[0]: \\s[3]From the darkest shrouds,\\. the way shall be",
+				"illuminated.\\.\\s[5] Bring that light and strike fiercely!"
 			]
 		},
 		{
@@ -3338,8 +3335,8 @@
 			"original":"Genyu: Jetzt ist Schluss! Ich hab genug gehört! Ich weiß nicht was mit dir geschehen ist...",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Jetzt ist Schluss!\\. Ich hab genug gehört!\\.",
-				"Ich weiß nicht was mit dir geschehen ist..."
+				"\\c[4]\\n[4]\\c[0]: It's over now!\\. I've heard enough!\\.",
+				"I don't know what happened to you..."
 			]
 		},
 		{
@@ -3348,8 +3345,7 @@
 			"original":"Genyu: Aber jetzt ist nicht der Zeitpunkt um das zu klären!",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Aber jetzt ist nicht der Zeitpunkt um das ",
-				"zu klären!"
+				"\\c[4]\\n[4]\\c[0]: But now's not the time to figure it out!"
 			]
 		},
 		{
@@ -3358,7 +3354,7 @@
 			"original":"Genyu: Wir werden noch reden, mein Junge!",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Wir werden noch reden, mein Junge!"
+				"\\c[4]\\n[4]\\c[0]: We'll talk again, my son!"
 			]
 		},
 		{
@@ -3367,7 +3363,8 @@
 			"original":"Kento: DU BIST AN ALLEM SCHULD! DU ALLEINE!",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: DU BIST AN ALLEM SCHULD!\\. DU ALLEINE! "
+				"\\c[1]Kento\\c[0]: YOU'RE RESPONSIBLE FOR EVERYTHING!\\.",
+				"YOU ALONE!"
 			]
 		},
 		{
@@ -3376,7 +3373,7 @@
 			"original":"Kento: DU WIRST MICH NICHT UNTERKRIEGEN! NIEMALS!",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: DU WIRST MICH NICHT UNTERKRIEGEN!\\. NIEMALS!"
+				"\\c[1]Kento\\c[0]: YOU WILL NEVER GET A HOLD OF ME!\\. NEVER!"
 			]
 		},
 		{
@@ -3385,8 +3382,8 @@
 			"original":"Kento: DU HAST KEIN RECHT HIER ZU STEHEN! STIRB! VERRECKE!!",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: DU HAST KEIN RECHT HIER ZU ",
-				"STEHEN!\\. STIRB!\\. VERRECKE!!"
+				"\\c[1]Kento\\c[0]: YOU HAVE NO RIGHT TO BE ALIVE!\\.",
+				"DIE!\\. DIE DAMN YOU!!"
 			]
 		},
 		{
@@ -3395,7 +3392,7 @@
 			"original":"(Genyu: Was... was ist das für eine Wut in ihm?!)",
 			"lines":
 			[
-				"(\\c[4]\\n[4]\\c[0]: Was...\\. was ist das für eine Wut in ihm?!) "
+				"(\\c[4]\\n[4]\\c[0]: This anger...\\. What's gotten into him?!)"
 			]
 		},
 		{
@@ -3404,7 +3401,7 @@
 			"original":"Sedric: Spürt meinen Zorn!",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: Spürt meinen Zorn!"
+				"\\c[10]Sedric\\c[0]: Feel my wrath!"
 			]
 		},
 		{
@@ -3693,7 +3690,7 @@
 			"original":"Genyu: Einen nach den anderen beseitigen!",
 			"lines":
 			[
-				"\\c[1]\\n[4]:\\c[0] Einen nach den anderen beseitigen!"
+				"\\c[1]\\n[4]:\\c[0] Eliminate them one by one!"
 			]
 		},
 		{
@@ -3702,8 +3699,8 @@
 			"original":"Genyu: Konzentriert euch auf ein Ziel und zieht die Sache durch!",
 			"lines":
 			[
-				"\\c[1]\\n[4]:\\c[0] Konzentriert euch auf ein Ziel ",
-				"und zieht die Sache durch!"
+				"\\c[1]\\n[4]:\\c[0] Concentrate on one target",
+				"at a time!"
 			]
 		},
 		{
@@ -3712,7 +3709,7 @@
 			"original":"Soldaten: Jawohl, Sir!",
 			"lines":
 			[
-				"\\c[1]Soldaten:\\c[0] Jawohl, Sir!"
+				"\\c[1]Soldaten:\\c[0] Yes, sir!"
 			]
 		},
 		{
@@ -3721,8 +3718,8 @@
 			"original":"Genyu: Genug jetzt! Bereitet euch auf euer Ende vor!",
 			"lines":
 			[
-				"\\c[1]\\n[4]:\\c[0] Genug jetzt!",
-				"Bereitet euch auf euer Ende vor!"
+				"\\c[1]\\n[4]:\\c[0] Enough now!",
+				"Prepare to meet your end!"
 			]
 		},
 		{
@@ -3731,8 +3728,8 @@
 			"original":"Genyu: War das etwa schon alles? Lachhaft!",
 			"lines":
 			[
-				"\\c[1]\\n[4]:\\c[0] War das etwa schon alles? \\|",
-				"Lachhaft! "
+				"\\c[1]\\n[4]:\\c[0] Was that all?\\|",
+				"Ridiculous!"
 			]
 		},
 		{
@@ -3741,8 +3738,8 @@
 			"original":"Genyu: Wenn ich daran denke, wie wir uns Monate auf diese Schlacht vorbereitet haben!",
 			"lines":
 			[
-				"\\c[1]\\n[4]:\\c[0] Wenn ich daran denke,\\. wie wir ",
-				"uns Monate auf diese Schlacht vorbereitet haben!"
+				"\\c[1]\\n[4]:\\c[0] And to think that we've been",
+				"preparing this battle for months!"
 			]
 		},
 		{
@@ -4732,7 +4729,8 @@
 			[
 				"",
 				"\\>         - Keine weiteren Informationen -"
-			]
+			],
+			"__comment__":"Appears in the magic lens."
 		}
 	]
 }

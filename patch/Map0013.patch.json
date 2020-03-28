@@ -9,7 +9,8 @@
 				"\\c[2]\\n[2]:\\c[0] Nun...\\. ich geh dann mal",
 				"wieder hoch und seh mir weiterhin",
 				"die leere Landschaft an..."
-			]
+			],
+			"__comment__":"Deprecated beginning it seems."
 		},
 		{
 			"path":[104,1,6,1],
@@ -127,7 +128,8 @@
 			[
 				"\\c[2]????:\\c[0] Hey Kento\\., you sleepyhead!\\.",
 				"Rise and shine!"
-			]
+			],
+			"__comment__":"The actual beginning."
 		},
 		{
 			"path":[104,2,62,2],

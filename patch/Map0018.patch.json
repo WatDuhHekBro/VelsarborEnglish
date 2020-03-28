@@ -79,7 +79,8 @@
 			[
 				"\\c[1]\\n[1]:\\c[0] Agreed.\\. The job is probably",
 				"the only thing keeping you here."
-			]
+			],
+			"__comment__":"This phrasing is rather rude. But it doesn't seem to show up in-game so oh well."
 		},
 		{
 			"path":[8,1,4,2],

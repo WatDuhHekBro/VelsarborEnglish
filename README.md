@@ -33,11 +33,11 @@ If you want to develop a workspace, use my [RPGMaker2kPatcher](https://github.co
 *Because every project needs a to-do list!*
 - Picture Text: 22%
 - Fancy Text: 30%
-- Database: 7%
+- Database: 15%
 - Post-Battle Text (Map0001): 0%
 - Menu Text (Map0010): 0%
 ## Sections/Areas
-*It's important to note that the Helnovian Mine is an EXTREMELY enormous section of the game, and definitely the most confusing with the limited knowledge I have right now.*
+*It's important to note that the Helnovian Mine is an EXTREMELY enormous section of the game.*
 - Prologue: 100%
 - Sinkholm: 90%
 - The Sink-Lohne Pass: 75%
