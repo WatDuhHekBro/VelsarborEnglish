@@ -6,8 +6,8 @@
 			"original":"Bürgermeister: Oh, hallo! Wie geht es Ihnen? Wann wollen Sie denn wieder nach Nomerea zurückkehren?",
 			"lines":
 			[
-				"\\c[10]Mayor\\c[0]: Oh, hello! How are you?",
-				"When do you want to go back to Nomerea?"
+				"\\c[10]Mayor\\c[0]: Oh, hello! How are you? When",
+				"do you want to go back to Nomerea?"
 			]
 		},
 		{

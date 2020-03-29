@@ -173,7 +173,7 @@
 			"original":"Cibon: Aber so is' das nun mal, Kento. Der wahre Feind des Wächters is' nicht der, vor den er schützen soll, sondern die Langeweile selber!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] But that's the way it is, Kento.\\.",
+				"\\c[2]\\n[2]:\\c[0] But that's the way it is Kento.\\.",
 				"A guard's greatest enemy is not what",
 				"he has to protect against\\., but rather,\\.",
 				"getting bored of protecting at all!"
@@ -601,8 +601,8 @@
 			"original":"Stimme aus dem Haus: So! Genug jetzt! Bloß schnell weg von hier!",
 			"lines":
 			[
-				"\\c[10]Voice from the House:\\c[0]\\s[2] Alright!\\.",
-				"Enough now!\\. Just get yourselves out of here!"
+				"\\c[10]Voice from the House:\\c[0]\\s[2] Alright!\\. Enough now!\\.",
+				"Just get yourselves out of here!"
 			]
 		},
 		{
@@ -1309,8 +1309,8 @@
 			"original":"Kurzhaariges Mädchen: Ach weißt du, seit ich weiß, dass du aus Nomerea kommst, habe ich meine Meinung geändert. Ich bleibe doch lieber erstmal hier....",
 			"lines":
 			[
-				"\\c[10]Short-Haired Girl\\c[0]: You know...\\. Since I know",
-				"that you're from Nomerea, I've changed my mind.\\.",
+				"\\c[10]Short-Haired Girl\\c[0]: You know...\\. Since I know that",
+				"you're from Nomerea, I've changed my mind.\\.",
 				"I'd rather stay here first..."
 			]
 		},

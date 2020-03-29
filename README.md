@@ -26,6 +26,9 @@ These buttons below still do unique things, but are mostly for customization.
 - Cibon: Pronounced with a hard C, so basically "Key-bon". The stress is on the first syllable.
 - All J's are pronounced as Y's, because German.
 
+# Double-Checking
+I'm not sure if it's feasible to double check every single line of the dialogue in-game to account for context. Revise when necessary.
+
 # Dev Section Below
 If you want to develop a workspace, use my [RPGMaker2kPatcher](https://github.com/WatDuhHekBro/RPGMaker2kPatcher) and then compile the JSON data files yourself. The work is all in `patch/`, so those will compile the patched binary files for use with the game.
 

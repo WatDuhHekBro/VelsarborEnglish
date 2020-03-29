@@ -169,8 +169,8 @@
 			"original":"Gasthof-Besitzer: Jaja... Das tu ich ja auch. Aber sehr viel Profit bringt es mir nicht gerade.",
 			"lines":
 			[
-				"\\c[10]Inn Owner\\c[0]: Yeah...\\. I think so too.",
-				"But it doesn't exactly bring in a lot of profit."
+				"\\c[10]Inn Owner\\c[0]: Yeah...\\. I think so too. But it",
+				"doesn't exactly bring in a lot of profit."
 			]
 		},
 		{
