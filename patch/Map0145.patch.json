@@ -1,18 +1,18 @@
 {
-	"__comment__":"I gotta revise this scene once I get context for who these people even are.",
+	"__comment__": "I gotta revise this scene once I get context for who these people even are.",
 	"dialogue":
 	[
 		{
-			"path":[6,1,49,2],
-			"original":"????: Sie haben den Friedensvertrag unterzeichnet.",
+			"path": [6,1,49,2],
+			"original": "????: Sie haben den Friedensvertrag unterzeichnet.",
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] You signed the peace treaty."
 			]
 		},
 		{
-			"path":[6,1,57,4],
-			"original":"????: Gut, damit sollte sich dieser Streit unter den Machthungrigen erstmal gelegt haben. Hoffen wir, dass uns genug Zeit bleibt...",
+			"path": [6,1,57,4],
+			"original": "????: Gut, damit sollte sich dieser Streit unter den Machthungrigen erstmal gelegt haben. Hoffen wir, dass uns genug Zeit bleibt...",
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] Well,\\. this should've put",
@@ -22,8 +22,8 @@
 			]
 		},
 		{
-			"path":[6,1,62,4],
-			"original":"????: Momentan liegt all unsere Hoffnung in einem Kind, einer zerbrechlichen Figur, die an ihrer eigenen Trauer zugrunde geht.",
+			"path": [6,1,62,4],
+			"original": "????: Momentan liegt all unsere Hoffnung in einem Kind, einer zerbrechlichen Figur, die an ihrer eigenen Trauer zugrunde geht.",
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] Right now, all of our hope",
@@ -32,8 +32,8 @@
 			]
 		},
 		{
-			"path":[6,1,67,4],
-			"original":"????: Wir können nur Hoffen, dass die Zeiten des Friedens und der Segen von Heimdall ihn aus seiner Lage befreien werden.",
+			"path": [6,1,67,4],
+			"original": "????: Wir können nur Hoffen, dass die Zeiten des Friedens und der Segen von Heimdall ihn aus seiner Lage befreien werden.",
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] We can only hope that",
@@ -43,8 +43,8 @@
 			]
 		},
 		{
-			"path":[6,1,76,3],
-			"original":"????: Wieso können wir ihn nicht zur Seite stehen, uns direkt um ihn sorgen?",
+			"path": [6,1,76,3],
+			"original": "????: Wieso können wir ihn nicht zur Seite stehen, uns direkt um ihn sorgen?",
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] Why can't we just",
@@ -53,16 +53,16 @@
 			]
 		},
 		{
-			"path":[6,1,85,2],
-			"original":"????: Wir können das Schicksal nicht lenken.",
+			"path": [6,1,85,2],
+			"original": "????: Wir können das Schicksal nicht lenken.",
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] We cannot control fate."
 			]
 		},
 		{
-			"path":[6,1,89,4],
-			"original":"????: Versuch es zu kontrollieren und es verschluckt dich, macht dich zu seinem Eigen und kontrolliert dich schließlich selbst.",
+			"path": [6,1,89,4],
+			"original": "????: Versuch es zu kontrollieren und es verschluckt dich, macht dich zu seinem Eigen und kontrolliert dich schließlich selbst.",
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] Try to control it and",
@@ -71,8 +71,8 @@
 			]
 		},
 		{
-			"path":[6,1,93,4],
-			"original":"????: Heimdall aber steht über all dem. Nur unter seiner Führung können wir das düstere Schicksal dieser Welt brechen.",
+			"path": [6,1,93,4],
+			"original": "????: Heimdall aber steht über all dem. Nur unter seiner Führung können wir das düstere Schicksal dieser Welt brechen.",
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] Heimdall is above all of that.\\.",
@@ -81,8 +81,8 @@
 			]
 		},
 		{
-			"path":[6,1,104,2],
-			"original":"????: Und was sollen wir dann tun? Beobachten und Warten?",
+			"path": [6,1,104,2],
+			"original": "????: Und was sollen wir dann tun? Beobachten und Warten?",
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] Then what should we do?\\.",
@@ -90,8 +90,8 @@
 			]
 		},
 		{
-			"path":[6,1,110,2],
-			"original":"????: Beobachten und Warten. Warten bis der Moment gekommen ist...",
+			"path": [6,1,110,2],
+			"original": "????: Beobachten und Warten. Warten bis der Moment gekommen ist...",
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] Watch and wait.\\.",
@@ -99,8 +99,8 @@
 			]
 		},
 		{
-			"path":[6,1,124,3],
-			"original":"????: Der Moment an dem wir die Zwillingsseelen zusammenführen und der Welt ihren Befreier schenken.",
+			"path": [6,1,124,3],
+			"original": "????: Der Moment an dem wir die Zwillingsseelen zusammenführen und der Welt ihren Befreier schenken.",
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] The moment when the",

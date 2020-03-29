@@ -2,27 +2,27 @@
 	"dialogue":
 	[
 		{
-			"path":[104,1,2,3],
-			"original":"Cibon: Nun... ich geh dann mal wieder hoch und seh mir weiterhin die leere Landschaft an...",
+			"path": [104,1,2,3],
+			"original": "Cibon: Nun... ich geh dann mal wieder hoch und seh mir weiterhin die leere Landschaft an...",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Nun...\\. ich geh dann mal",
 				"wieder hoch und seh mir weiterhin",
 				"die leere Landschaft an..."
 			],
-			"__comment__":"Deprecated beginning it seems."
+			"__comment__": "Deprecated beginning it seems."
 		},
 		{
-			"path":[104,1,6,1],
-			"original":"Kento: Tu das.",
+			"path": [104,1,6,1],
+			"original": "Kento: Tu das.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Tu das."
 			]
 		},
 		{
-			"path":[104,1,18,3],
-			"original":"Hier steh ich nun... Schon die letzten 3 Tage halte ich hier Wache, zusammen mit Cibon.",
+			"path": [104,1,18,3],
+			"original": "Hier steh ich nun... Schon die letzten 3 Tage halte ich hier Wache, zusammen mit Cibon.",
 			"lines":
 			[
 				"\\s[4]Hier steh ich nun...\\. Schon die letzten",
@@ -31,8 +31,8 @@
 			]
 		},
 		{
-			"path":[104,1,22,4],
-			"original":"Wir sollen die Kleinstadt vor einer Räuberbande beschützen, die angeblich immer wieder hier zuschlagen soll. Doch von einer Räuberbande keine Spur.",
+			"path": [104,1,22,4],
+			"original": "Wir sollen die Kleinstadt vor einer Räuberbande beschützen, die angeblich immer wieder hier zuschlagen soll. Doch von einer Räuberbande keine Spur.",
 			"lines":
 			[
 				"\\s[4]Wir sollen die Kleinstadt vor einer Räuberbande",
@@ -42,8 +42,8 @@
 			]
 		},
 		{
-			"path":[104,1,28,4],
-			"original":"Cibon und ich sind uns derzeit sicher, dass die Bande uns bemerkt hat und deswegen die Überfälle sein lässt. Aber laut Befehl sollen wir übermorgen schon wieder abziehen.",
+			"path": [104,1,28,4],
+			"original": "Cibon und ich sind uns derzeit sicher, dass die Bande uns bemerkt hat und deswegen die Überfälle sein lässt. Aber laut Befehl sollen wir übermorgen schon wieder abziehen.",
 			"lines":
 			[
 				"\\s[4]Cibon und ich sind uns derzeit sicher, dass",
@@ -53,8 +53,8 @@
 			]
 		},
 		{
-			"path":[104,1,35,3],
-			"original":"Wahrscheinlich werden dann die Überfälle wieder weitergehen. Da fragt man sich natürlich, wo der Sinn der Sache ist.",
+			"path": [104,1,35,3],
+			"original": "Wahrscheinlich werden dann die Überfälle wieder weitergehen. Da fragt man sich natürlich, wo der Sinn der Sache ist.",
 			"lines":
 			[
 				"\\s[4]Wahrscheinlich werden dann die Überfälle",
@@ -63,8 +63,8 @@
 			]
 		},
 		{
-			"path":[104,1,39,4],
-			"original":"Aber Befehl ist Befehl. Und eigenes Handeln ist weder erwünscht, noch erlaubt. Hätte ich gewusst, dass Wachehalten so langweilig ist, hätte ich erst gar nicht bei der Armee angefangen.",
+			"path": [104,1,39,4],
+			"original": "Aber Befehl ist Befehl. Und eigenes Handeln ist weder erwünscht, noch erlaubt. Hätte ich gewusst, dass Wachehalten so langweilig ist, hätte ich erst gar nicht bei der Armee angefangen.",
 			"lines":
 			[
 				"\\s[4]Aber Befehl ist Befehl.\\. Und eigenes Handeln ",
@@ -74,8 +74,8 @@
 			]
 		},
 		{
-			"path":[104,1,43,4],
-			"original":"Aber Cibon hat recht. Lieber sowas, als etwa in einem Krieg an der Front zu stehen, um täglich sein Leben für das Vaterland zu riskieren.",
+			"path": [104,1,43,4],
+			"original": "Aber Cibon hat recht. Lieber sowas, als etwa in einem Krieg an der Front zu stehen, um täglich sein Leben für das Vaterland zu riskieren.",
 			"lines":
 			[
 				"\\s[4]Aber Cibon hat recht.\\. Lieber sowas, als ",
@@ -85,8 +85,8 @@
 			]
 		},
 		{
-			"path":[104,1,48,2],
-			"original":"So würde ich höstens wie mein Vater enden, und das will ich nicht.",
+			"path": [104,1,48,2],
+			"original": "So würde ich höstens wie mein Vater enden, und das will ich nicht.",
 			"lines":
 			[
 				"\\s[4]So würde ich höstens wie mein Vater enden,",
@@ -94,8 +94,8 @@
 			]
 		},
 		{
-			"path":[104,1,55,3],
-			"original":"Mein Vater. Der \"Held\", der im Krieg sein Leben ließ. Für das Vaterland.",
+			"path": [104,1,55,3],
+			"original": "Mein Vater. Der \"Held\", der im Krieg sein Leben ließ. Für das Vaterland.",
 			"lines":
 			[
 				"\\s[4]Mein Vater.\\. Der \"Held\", der im Krieg sein ",
@@ -104,8 +104,8 @@
 			]
 		},
 		{
-			"path":[104,1,59,3],
-			"original":"Zurück lies er eine trauernde Familie, im siegreichem Brigantia, wo jeder einen Grund zum feiern hatte, da man Kelzon geschlagen hat.",
+			"path": [104,1,59,3],
+			"original": "Zurück lies er eine trauernde Familie, im siegreichem Brigantia, wo jeder einen Grund zum feiern hatte, da man Kelzon geschlagen hat.",
 			"lines":
 			[
 				"\\s[4]Zurück lies er eine trauernde Familie,",
@@ -114,26 +114,26 @@
 			]
 		},
 		{
-			"path":[104,1,65,1],
-			"original":"Er war alles andere als ein Held.",
+			"path": [104,1,65,1],
+			"original": "Er war alles andere als ein Held.",
 			"lines":
 			[
 				"\\s[8]Er war alles andere als ein Held.\\|\\^"
 			]
 		},
 		{
-			"path":[104,2,45,2],
-			"original":"????: Hey Kento, du Schlafmütze! Aufwachen!",
+			"path": [104,2,45,2],
+			"original": "????: Hey Kento, du Schlafmütze! Aufwachen!",
 			"lines":
 			[
 				"\\c[2]????:\\c[0] Hey Kento\\., you sleepyhead!\\.",
 				"Rise and shine!"
 			],
-			"__comment__":"The actual beginning."
+			"__comment__": "The actual beginning."
 		},
 		{
-			"path":[104,2,62,2],
-			"original":"Kento: Was ist los? Hast du etwas Besonderes gesehen, Cibon?",
+			"path": [104,2,62,2],
+			"original": "Kento: Was ist los? Hast du etwas Besonderes gesehen, Cibon?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] What is it?\\. Did you see",
@@ -141,8 +141,8 @@
 			]
 		},
 		{
-			"path":[104,2,65,3],
-			"original":"Cibon: Nich' wirklich. Ich wollt' dich nur aus deinem kleinen Nickerchen reißen!",
+			"path": [104,2,65,3],
+			"original": "Cibon: Nich' wirklich. Ich wollt' dich nur aus deinem kleinen Nickerchen reißen!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Not really.\\. I just wanted to",
@@ -150,8 +150,8 @@
 			]
 		},
 		{
-			"path":[104,2,71,3],
-			"original":"Kento: Ohje... Wie kannst du bei dieser Aufgabe auch nur wach bleiben? Das ist mir ein Rätsel.",
+			"path": [104,2,71,3],
+			"original": "Kento: Ohje... Wie kannst du bei dieser Aufgabe auch nur wach bleiben? Das ist mir ein Rätsel.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Oh man...\\. How can you even",
@@ -160,8 +160,8 @@
 			]
 		},
 		{
-			"path":[104,2,77,2],
-			"original":"Cibon: Mir fällt's eigentlich auch schwer, wach zu bleiben...",
+			"path": [104,2,77,2],
+			"original": "Cibon: Mir fällt's eigentlich auch schwer, wach zu bleiben...",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] It's actually difficult for",
@@ -169,8 +169,8 @@
 			]
 		},
 		{
-			"path":[104,2,80,4],
-			"original":"Cibon: Aber so is' das nun mal, Kento. Der wahre Feind des Wächters is' nicht der, vor den er schützen soll, sondern die Langeweile selber!",
+			"path": [104,2,80,4],
+			"original": "Cibon: Aber so is' das nun mal, Kento. Der wahre Feind des Wächters is' nicht der, vor den er schützen soll, sondern die Langeweile selber!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] But that's the way it is Kento.\\.",
@@ -180,8 +180,8 @@
 			]
 		},
 		{
-			"path":[104,2,85,3],
-			"original":"Cibon: So muss der Wächter Stund' um Stund' gegen den Schlaf kämpfen, bis zum bitteren Ende ...",
+			"path": [104,2,85,3],
+			"original": "Cibon: So muss der Wächter Stund' um Stund' gegen den Schlaf kämpfen, bis zum bitteren Ende ...",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] And thus, the guard must",
@@ -190,8 +190,8 @@
 			]
 		},
 		{
-			"path":[104,2,89,2],
-			"original":"Kento: ...Und mich hat der Schlaf bezwungen, wie es scheint.",
+			"path": [104,2,89,2],
+			"original": "Kento: ...Und mich hat der Schlaf bezwungen, wie es scheint.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] ...And sleep overcame me,",
@@ -199,16 +199,16 @@
 			]
 		},
 		{
-			"path":[104,2,92,1],
-			"original":"Cibon: Jau! Du sagst es, Kumpel.",
+			"path": [104,2,92,1],
+			"original": "Cibon: Jau! Du sagst es, Kumpel.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Yep! You said it!"
 			]
 		},
 		{
-			"path":[104,2,97,4],
-			"original":"Cibon: Tja. Wenn du Soldat in diesem Land bist, bekommste halt auch solch Aufgaben aufgetischt... Aber das muss ja nicht immer so bleiben.",
+			"path": [104,2,97,4],
+			"original": "Cibon: Tja. Wenn du Soldat in diesem Land bist, bekommste halt auch solch Aufgaben aufgetischt... Aber das muss ja nicht immer so bleiben.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Well. If you're a soldier in",
@@ -218,8 +218,8 @@
 			]
 		},
 		{
-			"path":[104,2,102,2],
-			"original":"Cibon: Vielleicht is' unser nächster Auftrag mal etwas interessanter.",
+			"path": [104,2,102,2],
+			"original": "Cibon: Vielleicht is' unser nächster Auftrag mal etwas interessanter.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Maybe our next task will be",
@@ -227,8 +227,8 @@
 			]
 		},
 		{
-			"path":[104,2,105,3],
-			"original":"Kento: Das hoffe ich. Aber erst mal müssen wir hier unsere 5 Tage absitzen. Also noch 2...",
+			"path": [104,2,105,3],
+			"original": "Kento: Das hoffe ich. Aber erst mal müssen wir hier unsere 5 Tage absitzen. Also noch 2...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] I hope so.\\. But we first",
@@ -237,8 +237,8 @@
 			]
 		},
 		{
-			"path":[104,2,110,4],
-			"original":"Kento: Ob die Bande überhaupt noch kommen wird? Was wäre, wenn sie den Ort aufgegeben hat und woanders Städte ausrauben würde?",
+			"path": [104,2,110,4],
+			"original": "Kento: Ob die Bande überhaupt noch kommen wird? Was wäre, wenn sie den Ort aufgegeben hat und woanders Städte ausrauben würde?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Is that gang even coming at",
@@ -247,8 +247,8 @@
 			]
 		},
 		{
-			"path":[104,2,115,4],
-			"original":"Cibon: Dann warten wir hier umsonst, aber das is' dem Briganten-Orden egal und wenn es noch so sinnlos ist.",
+			"path": [104,2,115,4],
+			"original": "Cibon: Dann warten wir hier umsonst, aber das is' dem Briganten-Orden egal und wenn es noch so sinnlos ist.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Then we wait here",
@@ -258,8 +258,8 @@
 			]
 		},
 		{
-			"path":[104,2,121,3],
-			"original":"Kento: Ja... Hauptsache wir erfüllen den Auftrag, wie es uns befohlen wurde. Ein Mist ist das....",
+			"path": [104,2,121,3],
+			"original": "Kento: Ja... Hauptsache wir erfüllen den Auftrag, wie es uns befohlen wurde. Ein Mist ist das....",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Yeah... The main thing is that",
@@ -268,8 +268,8 @@
 			]
 		},
 		{
-			"path":[104,2,131,4],
-			"original":"Cibon: Ach, Schwamm drüber! Lass uns mal ne Pause einlegen. Nur für 15 Minuten! Währenddessen wird schon nix passieren.",
+			"path": [104,2,131,4],
+			"original": "Cibon: Ach, Schwamm drüber! Lass uns mal ne Pause einlegen. Nur für 15 Minuten! Währenddessen wird schon nix passieren.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Ah, forget it!\\. Let's",
@@ -279,8 +279,8 @@
 			]
 		},
 		{
-			"path":[104,2,136,2],
-			"original":"Kento: Gute Idee! Die Pause hätte ich nötig.",
+			"path": [104,2,136,2],
+			"original": "Kento: Gute Idee! Die Pause hätte ich nötig.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Good idea! I needed the break",
@@ -288,24 +288,24 @@
 			]
 		},
 		{
-			"path":[104,2,143,1],
-			"original":"Kento: Hm...obwohl...",
+			"path": [104,2,143,1],
+			"original": "Kento: Hm...obwohl...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Hm...\\. although..."
 			]
 		},
 		{
-			"path":[104,2,148,2],
-			"original":"Cibon: Was is' denn jetzt schon wieder, Kumpel?",
+			"path": [104,2,148,2],
+			"original": "Cibon: Was is' denn jetzt schon wieder, Kumpel?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] What's the matter?"
 			]
 		},
 		{
-			"path":[104,2,151,2],
-			"original":"Kento: Ach nichts... Vergiss es einfach. War nur so ein Gedanke.",
+			"path": [104,2,151,2],
+			"original": "Kento: Ach nichts... Vergiss es einfach. War nur so ein Gedanke.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Oh, nothing...\\. never mind.",
@@ -313,24 +313,24 @@
 			]
 		},
 		{
-			"path":[104,2,153,1],
-			"original":"Kento: Gehen wir ins Gasthaus?",
+			"path": [104,2,153,1],
+			"original": "Kento: Gehen wir ins Gasthaus?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Are we headed to the inn?"
 			]
 		},
 		{
-			"path":[104,2,155,1],
-			"original":"Cibon: Natürlich, wohin denn sonst?",
+			"path": [104,2,155,1],
+			"original": "Cibon: Natürlich, wohin denn sonst?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Of course! Where else?"
 			]
 		},
 		{
-			"path":[104,2,186,3],
-			"original":"????: Los! Beeilt euch! Die Luft ist rein!",
+			"path": [104,2,186,3],
+			"original": "????: Los! Beeilt euch! Die Luft ist rein!",
 			"lines":
 			[
 				"\\c[10]????:\\c[0] Come on!\\.",
@@ -339,16 +339,16 @@
 			]
 		},
 		{
-			"path":[104,2,201,1],
-			"original":"????: Jetzt komm schon, Jorn!",
+			"path": [104,2,201,1],
+			"original": "????: Jetzt komm schon, Jorn!",
 			"lines":
 			[
 				"\\c[10]????:\\c[0] Move it, Jorn!"
 			]
 		},
 		{
-			"path":[104,2,216,4],
-			"original":"????: Okay! Ab jetzt zählt jede Sekunde! Wer weiß, wie lang die beiden noch im Gasthaus hocken werden!",
+			"path": [104,2,216,4],
+			"original": "????: Okay! Ab jetzt zählt jede Sekunde! Wer weiß, wie lang die beiden noch im Gasthaus hocken werden!",
 			"lines":
 			[
 				"\\c[10]????:\\c[0] Okay! Now every second",
@@ -357,8 +357,8 @@
 			]
 		},
 		{
-			"path":[104,2,223,4],
-			"original":"Jorn: Nur mal so ne Frage nebenbei, Bruder. Wieso rauben wir nicht einfach einen anderen Ort aus, wenn dieser doch so bewacht wird?",
+			"path": [104,2,223,4],
+			"original": "Jorn: Nur mal so ne Frage nebenbei, Bruder. Wieso rauben wir nicht einfach einen anderen Ort aus, wenn dieser doch so bewacht wird?",
 			"lines":
 			[
 				"\\c[10]Jorn:\\c[0] Just a question by",
@@ -368,8 +368,8 @@
 			]
 		},
 		{
-			"path":[104,2,230,3],
-			"original":"????: Hinterfrage nicht meine Pläne, Jorn! Soll ich dir wieder die Ohren lang ziehen?!",
+			"path": [104,2,230,3],
+			"original": "????: Hinterfrage nicht meine Pläne, Jorn! Soll ich dir wieder die Ohren lang ziehen?!",
 			"lines":
 			[
 				"\\c[10]????:\\c[0] Don't you question my",
@@ -378,8 +378,8 @@
 			]
 		},
 		{
-			"path":[104,2,236,4],
-			"original":"Jorn: Das wirst du ja sowieso tun. Spätestens wenn wieder einmal dein grandioser Plan daneben gegangen ist",
+			"path": [104,2,236,4],
+			"original": "Jorn: Das wirst du ja sowieso tun. Spätestens wenn wieder einmal dein grandioser Plan daneben gegangen ist",
 			"lines":
 			[
 				"\\c[10]Jorn:\\c[0] You're gonna do that",
@@ -389,8 +389,8 @@
 			]
 		},
 		{
-			"path":[104,2,251,2],
-			"original":"????: NA WARTE, du kleiner... Lass mich durch, Gurim!",
+			"path": [104,2,251,2],
+			"original": "????: NA WARTE, du kleiner... Lass mich durch, Gurim!",
 			"lines":
 			[
 				"\\c[10]????:\\c[0] JUST YOU WAIT, you little...\\.",
@@ -398,8 +398,8 @@
 			]
 		},
 		{
-			"path":[104,2,255,4],
-			"original":"Gurim: Vertragt euch wieder! Wir haben keine Zeit für solche Sachen! Du hast doch selbst gesagt, dass wir uns beeilen müssen, Saion!",
+			"path": [104,2,255,4],
+			"original": "Gurim: Vertragt euch wieder! Wir haben keine Zeit für solche Sachen! Du hast doch selbst gesagt, dass wir uns beeilen müssen, Saion!",
 			"lines":
 			[
 				"\\c[10]Gurim:\\c[0] Break it up you two!\\.",
@@ -409,8 +409,8 @@
 			]
 		},
 		{
-			"path":[104,2,265,4],
-			"original":"Saion: Na gut. Das klären wir später, Jorn! Jetzt tu aber auch gefälligst, was ich dir sage und stelle keine Fragen!",
+			"path": [104,2,265,4],
+			"original": "Saion: Na gut. Das klären wir später, Jorn! Jetzt tu aber auch gefälligst, was ich dir sage und stelle keine Fragen!",
 			"lines":
 			[
 				"\\c[10]Saion:\\c[0] Fine. We'll sort this",
@@ -420,32 +420,32 @@
 			]
 		},
 		{
-			"path":[104,2,270,1],
-			"original":"Jorn: Jaja, geht klar.",
+			"path": [104,2,270,1],
+			"original": "Jorn: Jaja, geht klar.",
 			"lines":
 			[
 				"\\c[10]Jorn:\\c[0] Yeah, okay."
 			]
 		},
 		{
-			"path":[104,2,272,2],
-			"original":"Saion: Dann zieh endlich die Sachen hoch!",
+			"path": [104,2,272,2],
+			"original": "Saion: Dann zieh endlich die Sachen hoch!",
 			"lines":
 			[
 				"\\c[10]Saion:\\c[0] Now grab our stuff!"
 			]
 		},
 		{
-			"path":[104,2,276,1],
-			"original":"Jorn: Achja.....",
+			"path": [104,2,276,1],
+			"original": "Jorn: Achja.....",
 			"lines":
 			[
 				"\\c[10]Jorn:\\c[0] Yeah yeah..."
 			]
 		},
 		{
-			"path":[104,2,289,2],
-			"original":"Saion: Worauf wartest du noch? Runter mit dir...",
+			"path": [104,2,289,2],
+			"original": "Saion: Worauf wartest du noch? Runter mit dir...",
 			"lines":
 			[
 				"\\c[10]Saion:\\c[0] Well what are you",
@@ -453,8 +453,8 @@
 			]
 		},
 		{
-			"path":[104,2,320,2],
-			"original":"Saion: Den Dietrich! Ich brauche den Dietrich!",
+			"path": [104,2,320,2],
+			"original": "Saion: Den Dietrich! Ich brauche den Dietrich!",
 			"lines":
 			[
 				"\\c[10]Saion:\\c[0] The lock pick!",
@@ -462,32 +462,32 @@
 			]
 		},
 		{
-			"path":[104,2,323,1],
-			"original":"Jorn: Ich such ja schon!",
+			"path": [104,2,323,1],
+			"original": "Jorn: Ich such ja schon!",
 			"lines":
 			[
 				"\\c[10]Jorn:\\c[0] I'm already looking for it!"
 			]
 		},
 		{
-			"path":[104,2,331,1],
-			"original":"Jorn: Da is' er!",
+			"path": [104,2,331,1],
+			"original": "Jorn: Da is' er!",
 			"lines":
 			[
 				"\\c[10]Jorn:\\c[0] There it is!"
 			]
 		},
 		{
-			"path":[104,2,344,1],
-			"original":"Saion: Na bitte, geht doch...",
+			"path": [104,2,344,1],
+			"original": "Saion: Na bitte, geht doch...",
 			"lines":
 			[
 				"\\c[10]Saion:\\c[0] Now, let's go..."
 			]
 		},
 		{
-			"path":[104,2,367,3],
-			"original":"Cibon: Ich krieg die Krise! Dieser Gasthof is' echt das Letzte... Allein schon wegen dem Bier!",
+			"path": [104,2,367,3],
+			"original": "Cibon: Ich krieg die Krise! Dieser Gasthof is' echt das Letzte... Allein schon wegen dem Bier!",
 			"lines":
 			[
 				"\\c[2]Cibon:\\c[0] Man, I'm beat!\\. This is",
@@ -497,8 +497,8 @@
 			]
 		},
 		{
-			"path":[104,2,371,2],
-			"original":"Kento: Wahrscheinlich nur wegen des Bieres.",
+			"path": [104,2,371,2],
+			"original": "Kento: Wahrscheinlich nur wegen des Bieres.",
 			"lines":
 			[
 				"\\c[1]Kento:\\c[0] The beer is probably",
@@ -506,16 +506,16 @@
 			]
 		},
 		{
-			"path":[104,2,374,1],
-			"original":"Cibon: Ach, was weiß ich...",
+			"path": [104,2,374,1],
+			"original": "Cibon: Ach, was weiß ich...",
 			"lines":
 			[
 				"\\c[2]Cibon:\\c[0] Gah, for all I know..."
 			]
 		},
 		{
-			"path":[104,2,376,4],
-			"original":"Kento: Was erwartest du auch von einem Gasthof in so einer Kleinstadt? Wir machen hier ja auch keinen Urlaub.",
+			"path": [104,2,376,4],
+			"original": "Kento: Was erwartest du auch von einem Gasthof in so einer Kleinstadt? Wir machen hier ja auch keinen Urlaub.",
 			"lines":
 			[
 				"\\c[1]Kento:\\c[0] What did you expect from",
@@ -524,8 +524,8 @@
 			]
 		},
 		{
-			"path":[104,2,381,3],
-			"original":"Cibon: Ja, da haste schon recht. Trotzdem... Jetzt waren wir gerade mal 5 Minuten abwesend.",
+			"path": [104,2,381,3],
+			"original": "Cibon: Ja, da haste schon recht. Trotzdem... Jetzt waren wir gerade mal 5 Minuten abwesend.",
 			"lines":
 			[
 				"\\c[2]Cibon:\\c[0] Yeah, you're right.\\.",
@@ -534,8 +534,8 @@
 			]
 		},
 		{
-			"path":[104,2,385,3],
-			"original":"Kento: Das ist mir eh recht. Ich hatte die ganze Zeit so einen beunruhigenden Gedanken.",
+			"path": [104,2,385,3],
+			"original": "Kento: Das ist mir eh recht. Ich hatte die ganze Zeit so einen beunruhigenden Gedanken.",
 			"lines":
 			[
 				"\\c[1]Kento:\\c[0] That's fine by me anyway. I've",
@@ -543,8 +543,8 @@
 			]
 		},
 		{
-			"path":[104,2,389,4],
-			"original":"Kento: Es könnte ja sein, dass die Diebesbande genau auf diesen Augenblick gewartet hat, um blitzschnell zuzuschlagen.",
+			"path": [104,2,389,4],
+			"original": "Kento: Es könnte ja sein, dass die Diebesbande genau auf diesen Augenblick gewartet hat, um blitzschnell zuzuschlagen.",
 			"lines":
 			[
 				"\\c[1]Kento:\\c[0] It could be that the gang",
@@ -553,8 +553,8 @@
 			]
 		},
 		{
-			"path":[104,2,394,2],
-			"original":"Cibon: War das der Gedanke von eben?",
+			"path": [104,2,394,2],
+			"original": "Cibon: War das der Gedanke von eben?",
 			"lines":
 			[
 				"\\c[2]Cibon:\\c[0] Was that the thought of",
@@ -562,16 +562,16 @@
 			]
 		},
 		{
-			"path":[104,2,397,1],
-			"original":"Kento: Öhm... ja.",
+			"path": [104,2,397,1],
+			"original": "Kento: Öhm... ja.",
 			"lines":
 			[
 				"\\c[1]Kento:\\c[0] Oh...\\. yeah."
 			]
 		},
 		{
-			"path":[104,2,399,3],
-			"original":"Cibon: Herrje, Kumpel. Tu doch jetzt nicht so pflichtbewusst wie der alte Vorento.",
+			"path": [104,2,399,3],
+			"original": "Cibon: Herrje, Kumpel. Tu doch jetzt nicht so pflichtbewusst wie der alte Vorento.",
 			"lines":
 			[
 				"\\c[2]Cibon:\\c[0] Now now. No need to be as",
@@ -579,8 +579,8 @@
 			]
 		},
 		{
-			"path":[104,2,402,3],
-			"original":"Cibon: Die Diebesbande müsst schon sehr verblödet sein, um so'n Risiko einzugehen.",
+			"path": [104,2,402,3],
+			"original": "Cibon: Die Diebesbande müsst schon sehr verblödet sein, um so'n Risiko einzugehen.",
 			"lines":
 			[
 				"\\c[2]Cibon:\\c[0] The gang of thieves must",
@@ -588,8 +588,8 @@
 			]
 		},
 		{
-			"path":[104,2,408,2],
-			"original":"Kento: Na, ... jetzt übertreib mal nicht.",
+			"path": [104,2,408,2],
+			"original": "Kento: Na, ... jetzt übertreib mal nicht.",
 			"lines":
 			[
 				"\\c[1]Kento:\\c[0]\\s[4] Well,",
@@ -597,8 +597,8 @@
 			]
 		},
 		{
-			"path":[104,2,414,2],
-			"original":"Stimme aus dem Haus: So! Genug jetzt! Bloß schnell weg von hier!",
+			"path": [104,2,414,2],
+			"original": "Stimme aus dem Haus: So! Genug jetzt! Bloß schnell weg von hier!",
 			"lines":
 			[
 				"\\c[10]Voice from the House:\\c[0]\\s[2] Alright!\\. Enough now!\\.",
@@ -606,16 +606,16 @@
 			]
 		},
 		{
-			"path":[104,2,440,1],
-			"original":"Saion: Ahhh... Mist!",
+			"path": [104,2,440,1],
+			"original": "Saion: Ahhh... Mist!",
 			"lines":
 			[
 				"\\c[10]Saion:\\c[0] Ahhh...\\. shit!"
 			]
 		},
 		{
-			"path":[104,2,443,2],
-			"original":"Jorn: Wieso verwendest du Trottel auch den VORDEREINGANG?!",
+			"path": [104,2,443,2],
+			"original": "Jorn: Wieso verwendest du Trottel auch den VORDEREINGANG?!",
 			"lines":
 			[
 				"\\c[10]Jorn:\\c[0] Why did you morons",
@@ -623,24 +623,24 @@
 			]
 		},
 		{
-			"path":[104,2,447,2],
-			"original":"Saion: Verdammt nochmal, sei leise!",
+			"path": [104,2,447,2],
+			"original": "Saion: Verdammt nochmal, sei leise!",
 			"lines":
 			[
 				"\\c[10]Saion:\\c[0] Dammit, be quiet!"
 			]
 		},
 		{
-			"path":[104,2,451,1],
-			"original":"Kento: .....",
+			"path": [104,2,451,1],
+			"original": "Kento: .....",
 			"lines":
 			[
 				"\\c[1]Kento:\\c[0] ....."
 			]
 		},
 		{
-			"path":[104,2,453,3],
-			"original":"Cibon: Aber Hallo! Seid ihr etwa diese Diebesbande, die schon seit Monaten dieses Städtchen ausplündert?",
+			"path": [104,2,453,3],
+			"original": "Cibon: Aber Hallo! Seid ihr etwa diese Diebesbande, die schon seit Monaten dieses Städtchen ausplündert?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Why hello there! Do you just so",
@@ -650,8 +650,8 @@
 			]
 		},
 		{
-			"path":[104,2,461,4],
-			"original":"Saion: Da fragst du noch? Wir sind nicht ~irgendeine~ Diebesbande! Wir sind die gefürchteten Zinkar-Brüder!",
+			"path": [104,2,461,4],
+			"original": "Saion: Da fragst du noch? Wir sind nicht ~irgendeine~ Diebesbande! Wir sind die gefürchteten Zinkar-Brüder!",
 			"lines":
 			[
 				"\\c[10]Saion:\\c[0] You're still asking?\\.",
@@ -661,19 +661,19 @@
 			]
 		},
 		{
-			"path":[104,2,470,3],
-			"original":"Jorn: ...Dank dir bald nur noch die \"gefangenen Zinkar-Brüder\", du VOLLTROTTEL!",
+			"path": [104,2,470,3],
+			"original": "Jorn: ...Dank dir bald nur noch die \"gefangenen Zinkar-Brüder\", du VOLLTROTTEL!",
 			"lines":
 			[
 				"\\c[10]Jorn:\\c[0] ...Thanks to you, we'll",
 				"soon only be known as the \"captive",
 				"Zinkar Brothers\", you IDIOT!"
 			],
-			"__comment__":"**Note** It seems that there was a pun here, gefürchteten (dreaded) and gefangenen (captured), but I give up trying to make a similar pun."
+			"__comment__": "**Note** It seems that there was a pun here, gefürchteten (dreaded) and gefangenen (captured), but I give up trying to make a similar pun."
 		},
 		{
-			"path":[104,2,476,3],
-			"original":"Saion: Sei still, Jorn! Das letzte Wort wurde noch nicht gesprochen!",
+			"path": [104,2,476,3],
+			"original": "Saion: Sei still, Jorn! Das letzte Wort wurde noch nicht gesprochen!",
 			"lines":
 			[
 				"\\c[10]Saion:\\c[0] Be quiet, Jorn!\\.",
@@ -681,8 +681,8 @@
 			]
 		},
 		{
-			"path":[104,2,481,4],
-			"original":"(Kento: Soso.. Dies sind also die gefürchteten Zinkar-Brüder, vor denen wir die Stadt beschützen sollten)",
+			"path": [104,2,481,4],
+			"original": "(Kento: Soso.. Dies sind also die gefürchteten Zinkar-Brüder, vor denen wir die Stadt beschützen sollten)",
 			"lines":
 			[
 				"(\\c[1]\\n[1]:\\c[0] I see... So these are the",
@@ -691,8 +691,8 @@
 			]
 		},
 		{
-			"path":[104,2,492,2],
-			"original":"Kento: Keinen Schritt weiter! Ihr seid hiermit festgenommen!",
+			"path": [104,2,492,2],
+			"original": "Kento: Keinen Schritt weiter! Ihr seid hiermit festgenommen!",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Stop right there!",
@@ -700,8 +700,8 @@
 			]
 		},
 		{
-			"path":[104,2,495,3],
-			"original":"Kento: Auf Diebstahl steht eine Gefängnisstrafe, falls ihr es noch nicht wissen solltet...",
+			"path": [104,2,495,3],
+			"original": "Kento: Auf Diebstahl steht eine Gefängnisstrafe, falls ihr es noch nicht wissen solltet...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Theft is a prison sentence",
@@ -709,8 +709,8 @@
 			]
 		},
 		{
-			"path":[104,2,499,4],
-			"original":"Cibon: Ihr hab richtig gehört! Widerstand ist zwecklos! Wagt es nich', euch zu widersetzen oder ihr werdet es bitter bereuen!",
+			"path": [104,2,499,4],
+			"original": "Cibon: Ihr hab richtig gehört! Widerstand ist zwecklos! Wagt es nich', euch zu widersetzen oder ihr werdet es bitter bereuen!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] You heard that right!\\.",
@@ -720,8 +720,8 @@
 			]
 		},
 		{
-			"path":[104,2,503,4],
-			"original":"Cibon: Vor euch steht das Gesetz, die Vertreter der Ordnung! Stellt euch gegen uns und ihr stellt euch gegen Brigantia.",
+			"path": [104,2,503,4],
+			"original": "Cibon: Vor euch steht das Gesetz, die Vertreter der Ordnung! Stellt euch gegen uns und ihr stellt euch gegen Brigantia.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] The law stands before you\\., as",
@@ -731,8 +731,8 @@
 			]
 		},
 		{
-			"path":[104,2,507,4],
-			"original":"Cibon: Legt ihr euch mit uns an, legt ihr euch mit dem Briganten-Orden an... Eure Aussichten auf Flucht sind....",
+			"path": [104,2,507,4],
+			"original": "Cibon: Legt ihr euch mit uns an, legt ihr euch mit dem Briganten-Orden an... Eure Aussichten auf Flucht sind....",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Mess with us,\\. and you",
@@ -741,16 +741,16 @@
 			]
 		},
 		{
-			"path":[104,2,512,1],
-			"original":"Kento: CIBON! Jetzt ist gut!",
+			"path": [104,2,512,1],
+			"original": "Kento: CIBON! Jetzt ist gut!",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] CIBON!\\. That's enough!"
 			]
 		},
 		{
-			"path":[104,2,514,3],
-			"original":"Saion: Ähm... öh.. Denkt nicht, dass wir uns kampflos ergeben werden! Das hättet ihr wohl gerne!",
+			"path": [104,2,514,3],
+			"original": "Saion: Ähm... öh.. Denkt nicht, dass wir uns kampflos ergeben werden! Das hättet ihr wohl gerne!",
 			"lines":
 			[
 				"\\c[10]Saion:\\c[0] Um...\\. uh..\\. Don't think",
@@ -759,8 +759,8 @@
 			]
 		},
 		{
-			"path":[104,2,519,2],
-			"original":"Gurim: Er scheint es wirklich ernst zu meinen, Jorn!",
+			"path": [104,2,519,2],
+			"original": "Gurim: Er scheint es wirklich ernst zu meinen, Jorn!",
 			"lines":
 			[
 				"\\c[10]Gurim:\\c[0] He seems really",
@@ -768,16 +768,16 @@
 			]
 		},
 		{
-			"path":[104,2,523,1],
-			"original":"Jorn: Ich glaub das nicht!",
+			"path": [104,2,523,1],
+			"original": "Jorn: Ich glaub das nicht!",
 			"lines":
 			[
 				"\\c[10]Jorn:\\c[0] As if!"
 			]
 		},
 		{
-			"path":[104,2,526,3],
-			"original":"Saion: Jetzt stellt euch nicht so an, ihr beiden! Wir werden denen schon zeigen, wo's lang geht!",
+			"path": [104,2,526,3],
+			"original": "Saion: Jetzt stellt euch nicht so an, ihr beiden! Wir werden denen schon zeigen, wo's lang geht!",
 			"lines":
 			[
 				"\\c[10]Saion:\\c[0] Now don't act like that,",
@@ -786,8 +786,8 @@
 			]
 		},
 		{
-			"path":[104,2,531,2],
-			"original":"Kento: Wenn ihr einen Kampf wollt, könnt ihr ihn haben.",
+			"path": [104,2,531,2],
+			"original": "Kento: Wenn ihr einen Kampf wollt, könnt ihr ihn haben.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] If it's a fight you want,\\.",
@@ -795,16 +795,16 @@
 			]
 		},
 		{
-			"path":[104,4,5,1],
-			"original":"Saion: Wi....Wir geben auf!",
+			"path": [104,4,5,1],
+			"original": "Saion: Wi....Wir geben auf!",
 			"lines":
 			[
 				"\\c[10]Saion:\\c[0] W...\\. We give up!"
 			]
 		},
 		{
-			"path":[104,4,12,3],
-			"original":"Zwei neue Soldaten des Briganten-Ordens, ihren Titel erst vor kurzer Zeit erlangt, haben soeben ihre erste Mission erfüllt.",
+			"path": [104,4,12,3],
+			"original": "Zwei neue Soldaten des Briganten-Ordens, ihren Titel erst vor kurzer Zeit erlangt, haben soeben ihre erste Mission erfüllt.",
 			"lines":
 			[
 				"\\s[04]Two new soldiers from the Brigantine Order,\\.",
@@ -813,8 +813,8 @@
 			]
 		},
 		{
-			"path":[104,4,15,3],
-			"original":"Ihr Erfolg kam jedoch, zeitgleich mit dem Erscheinen der Diebe, deutlich später als erwartet.",
+			"path": [104,4,15,3],
+			"original": "Ihr Erfolg kam jedoch, zeitgleich mit dem Erscheinen der Diebe, deutlich später als erwartet.",
 			"lines":
 			[
 				"\\s[04]Their success, however,\\. came at the same",
@@ -823,8 +823,8 @@
 			]
 		},
 		{
-			"path":[104,4,57,3],
-			"original":"Soldat: Gute Arbeit, ihr beiden! Die Bande hier hat Sinkholm schon seit einigen Monaten belästigt.",
+			"path": [104,4,57,3],
+			"original": "Soldat: Gute Arbeit, ihr beiden! Die Bande hier hat Sinkholm schon seit einigen Monaten belästigt.",
 			"lines":
 			[
 				"\\c[10]Soldier:\\c[0] Good work, you two!\\.",
@@ -833,8 +833,8 @@
 			]
 		},
 		{
-			"path":[104,4,63,4],
-			"original":"Jorn: Du wolltest ja nicht auf mich hören, Saion, nicht wahr? Ich hab doch gesagt, dass wir besser woanders tätig werden sollten...",
+			"path": [104,4,63,4],
+			"original": "Jorn: Du wolltest ja nicht auf mich hören, Saion, nicht wahr? Ich hab doch gesagt, dass wir besser woanders tätig werden sollten...",
 			"lines":
 			[
 				"\\c[10]Jorn:\\c[0] You didn't want to listen",
@@ -844,16 +844,16 @@
 			]
 		},
 		{
-			"path":[104,4,72,2],
-			"original":"Saion: Halt dein vorlautes Mundwerk!",
+			"path": [104,4,72,2],
+			"original": "Saion: Halt dein vorlautes Mundwerk!",
 			"lines":
 			[
 				"\\c[10]Saion:\\c[0] Shut your cheeky mouth!"
 			]
 		},
 		{
-			"path":[104,4,77,3],
-			"original":"Soldat: Jetzt seid verdammt nochmal still! Das könnt ihr alles in Ruhe im Gefängnis ausdiskutieren.",
+			"path": [104,4,77,3],
+			"original": "Soldat: Jetzt seid verdammt nochmal still! Das könnt ihr alles in Ruhe im Gefängnis ausdiskutieren.",
 			"lines":
 			[
 				"\\c[10]Soldier:\\c[0] Silence!\\. You can discuss this",
@@ -861,8 +861,8 @@
 			]
 		},
 		{
-			"path":[104,4,83,3],
-			"original":"Soldat: Okay, wir werden die 3 hier abführen. Ihr könnt dann wieder nach Nomerea zurückkehren.",
+			"path": [104,4,83,3],
+			"original": "Soldat: Okay, wir werden die 3 hier abführen. Ihr könnt dann wieder nach Nomerea zurückkehren.",
 			"lines":
 			[
 				"\\c[10]Soldier:\\c[0] Okay, we'll handle the three",
@@ -870,8 +870,8 @@
 			]
 		},
 		{
-			"path":[104,4,86,2],
-			"original":"Soldat: Nun gut... Man sieht sich! Bis dann!",
+			"path": [104,4,86,2],
+			"original": "Soldat: Nun gut... Man sieht sich! Bis dann!",
 			"lines":
 			[
 				"\\c[10]Soldier:\\c[0] Well...\\. See you!\\.",
@@ -879,8 +879,8 @@
 			]
 		},
 		{
-			"path":[104,4,98,3],
-			"original":"Cibon: Heureka! Endlich haben wir die Sache hier hinter uns gebracht!",
+			"path": [104,4,98,3],
+			"original": "Cibon: Heureka! Endlich haben wir die Sache hier hinter uns gebracht!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Phew!\\. We finally",
@@ -888,8 +888,8 @@
 			]
 		},
 		{
-			"path":[104,4,103,2],
-			"original":"Kento: Jaja... Das wurde auch langsam Zeit....",
+			"path": [104,4,103,2],
+			"original": "Kento: Jaja... Das wurde auch langsam Zeit....",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Yeah...\\. It was about",
@@ -897,8 +897,8 @@
 			]
 		},
 		{
-			"path":[104,4,107,2],
-			"original":"Cibon: Und? Wann kehrn wir nach Nomerea zurück?",
+			"path": [104,4,107,2],
+			"original": "Cibon: Und? Wann kehrn wir nach Nomerea zurück?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] So?\\. When will we return",
@@ -906,8 +906,8 @@
 			]
 		},
 		{
-			"path":[104,4,110,2],
-			"original":"Kento: ... So bald wie möglich.. ...Aber nicht jetzt....",
+			"path": [104,4,110,2],
+			"original": "Kento: ... So bald wie möglich.. ...Aber nicht jetzt....",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] ...\\.Soon enough...\\.",
@@ -915,8 +915,8 @@
 			]
 		},
 		{
-			"path":[104,4,119,2],
-			"original":"Cibon: Hey, Hey! Penn' mir hier ja nicht ein, Kento!",
+			"path": [104,4,119,2],
+			"original": "Cibon: Hey, Hey! Penn' mir hier ja nicht ein, Kento!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Hey, hey!\\. Don't collapse",
@@ -924,8 +924,8 @@
 			]
 		},
 		{
-			"path":[104,4,122,3],
-			"original":"Kento: ...Was erwartest du? Wir haben hier eben die Nacht durchgemacht...",
+			"path": [104,4,122,3],
+			"original": "Kento: ...Was erwartest du? Wir haben hier eben die Nacht durchgemacht...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] ...What did you expect?\\.",
@@ -933,8 +933,8 @@
 			]
 		},
 		{
-			"path":[104,4,126,3],
-			"original":"Kento: Was hast du bitte zu dir genommen, dass du jetzt noch aufrecht stehen kannst?",
+			"path": [104,4,126,3],
+			"original": "Kento: Was hast du bitte zu dir genommen, dass du jetzt noch aufrecht stehen kannst?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] What I'd really like to",
@@ -943,8 +943,8 @@
 			]
 		},
 		{
-			"path":[104,4,131,4],
-			"original":"Cibon: Öh? Na ja. Wir sollten wirklich erst mal 'n bisschen Schlaf nachholen. Auf zum Gasthof.",
+			"path": [104,4,131,4],
+			"original": "Cibon: Öh? Na ja. Wir sollten wirklich erst mal 'n bisschen Schlaf nachholen. Auf zum Gasthof.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Oh?\\. Right.\\. We should",
@@ -953,9 +953,9 @@
 			]
 		},
 		{
-			"path":[139,2,3,4],
-			"indent":1,
-			"original":"Junger Mann: Laut unserem Bürgermeister hat Sinkholm einige finanzielle Probleme. Die Mauer müsste mal wieder renoviert werden und die Straßen sowieso.",
+			"path": [139,2,3,4],
+			"indent": 1,
+			"original": "Junger Mann: Laut unserem Bürgermeister hat Sinkholm einige finanzielle Probleme. Die Mauer müsste mal wieder renoviert werden und die Straßen sowieso.",
 			"lines":
 			[
 				"\\c[10]Young Man\\c[0]: According to our mayor,",
@@ -965,9 +965,9 @@
 			]
 		},
 		{
-			"path":[139,2,7,4],
-			"indent":1,
-			"original":"Junger Mann: Doch leider fehlt uns dazu das Geld. Vom Bezirksposten können wir uns auch nichts mehr borgen, da noch eine Menge Rückzahlungen fällig sind.",
+			"path": [139,2,7,4],
+			"indent": 1,
+			"original": "Junger Mann: Doch leider fehlt uns dazu das Geld. Vom Bezirksposten können wir uns auch nichts mehr borgen, da noch eine Menge Rückzahlungen fällig sind.",
 			"lines":
 			[
 				"\\c[10]Young Man\\c[0]: Unfortunately, we don't have the",
@@ -977,9 +977,9 @@
 			]
 		},
 		{
-			"path":[139,2,11,4],
-			"indent":1,
-			"original":"Junger Mann: Das Leben hier ist gemütlich, stimmt. Dafür arbeiten die Bürger hier zu wenig. Wir beteiligen uns zu wenig an der Wirtschaft Brigantias.",
+			"path": [139,2,11,4],
+			"indent": 1,
+			"original": "Junger Mann: Das Leben hier ist gemütlich, stimmt. Dafür arbeiten die Bürger hier zu wenig. Wir beteiligen uns zu wenig an der Wirtschaft Brigantias.",
 			"lines":
 			[
 				"\\c[10]Young Man\\c[0]: Life is cozy enough here.",
@@ -989,9 +989,9 @@
 			]
 		},
 		{
-			"path":[139,2,15,3],
-			"indent":1,
-			"original":"Junger Mann: Wenn sich das nicht ändert, werden wir hier bald große Schwierigkeiten bekommen.",
+			"path": [139,2,15,3],
+			"indent": 1,
+			"original": "Junger Mann: Wenn sich das nicht ändert, werden wir hier bald große Schwierigkeiten bekommen.",
 			"lines":
 			[
 				"\\c[10]Young Man\\c[0]: If that doesn't change,",
@@ -999,9 +999,9 @@
 			]
 		},
 		{
-			"path":[139,2,24,2],
-			"indent":1,
-			"original":"Junger Mann: Ich habe gehört, Sie haben die Räuber endlich gefasst bekommen.",
+			"path": [139,2,24,2],
+			"indent": 1,
+			"original": "Junger Mann: Ich habe gehört, Sie haben die Räuber endlich gefasst bekommen.",
 			"lines":
 			[
 				"\\c[10]Young Man\\c[0]: I heard you finally caught",
@@ -1009,18 +1009,18 @@
 			]
 		},
 		{
-			"path":[139,2,28,1],
-			"indent":1,
-			"original":"Kento: Ja. Genauso ist es.",
+			"path": [139,2,28,1],
+			"indent": 1,
+			"original": "Kento: Ja. Genauso ist es.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Yep.\\. That's right."
 			]
 		},
 		{
-			"path":[139,2,30,2],
-			"indent":1,
-			"original":"Junger Mann: Oh! Vielen Dank! Die 3 haben hier schon mehr als genug Ärger angerichtet!",
+			"path": [139,2,30,2],
+			"indent": 1,
+			"original": "Junger Mann: Oh! Vielen Dank! Die 3 haben hier schon mehr als genug Ärger angerichtet!",
 			"lines":
 			[
 				"\\c[10]Young Man\\c[0]: Oh!\\. Thanks a lot! Those three",
@@ -1028,9 +1028,9 @@
 			]
 		},
 		{
-			"path":[140,1,7,3],
-			"indent":1,
-			"original":"Cibon: Solln wir losgehen oder uns noch etwas auf die Reise vorbereiten?",
+			"path": [140,1,7,3],
+			"indent": 1,
+			"original": "Cibon: Solln wir losgehen oder uns noch etwas auf die Reise vorbereiten?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Should we prepare",
@@ -1039,9 +1039,9 @@
 			]
 		},
 		{
-			"path":[140,1,14,3],
-			"indent":2,
-			"original":"Kento: Ich möchte keine Minute länger in diesem Kaff verweilen. Lass uns endlich weitergehen.",
+			"path": [140,1,14,3],
+			"indent": 2,
+			"original": "Kento: Ich möchte keine Minute länger in diesem Kaff verweilen. Lass uns endlich weitergehen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: I don't want to spend",
@@ -1050,18 +1050,18 @@
 			]
 		},
 		{
-			"path":[140,1,18,1],
-			"indent":2,
-			"original":"Cibon: Okay, dann mal los!",
+			"path": [140,1,18,1],
+			"indent": 2,
+			"original": "Cibon: Okay, dann mal los!",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Okay, let's go!"
 			]
 		},
 		{
-			"path":[140,1,29,2],
-			"indent":2,
-			"original":"Kento: Ich denke ein paar Sachen haben wir hier noch zu erledigen.",
+			"path": [140,1,29,2],
+			"indent": 2,
+			"original": "Kento: Ich denke ein paar Sachen haben wir hier noch zu erledigen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: I think we still have",
@@ -1069,18 +1069,18 @@
 			]
 		},
 		{
-			"path":[140,1,32,1],
-			"indent":2,
-			"original":"Cibon: Na, wenn du meinst.",
+			"path": [140,1,32,1],
+			"indent": 2,
+			"original": "Cibon: Na, wenn du meinst.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Well, if you think so."
 			]
 		},
 		{
-			"path":[140,1,49,2],
-			"indent":1,
-			"original":"(Kento: Ich sollte erstmal nachsehen, wo Cibon steckt.)",
+			"path": [140,1,49,2],
+			"indent": 1,
+			"original": "(Kento: Ich sollte erstmal nachsehen, wo Cibon steckt.)",
 			"lines":
 			[
 				"(\\c[1]\\n[1]\\c[0]: I should first",
@@ -1088,8 +1088,8 @@
 			]
 		},
 		{
-			"path":[144,2,3,4],
-			"original":"Alter Herr: Als hier in Sinkholm das erste Haus errichtet wurde, war ich gerade mal 16 Jahre alt...  Ich kann mich nur noch schwer daran erinnern.",
+			"path": [144,2,3,4],
+			"original": "Alter Herr: Als hier in Sinkholm das erste Haus errichtet wurde, war ich gerade mal 16 Jahre alt...  Ich kann mich nur noch schwer daran erinnern.",
 			"lines":
 			[
 				"\\c[10]Old Man\\c[0]: When the first house was",
@@ -1099,8 +1099,8 @@
 			]
 		},
 		{
-			"path":[144,2,9,2],
-			"original":"Kento: Hm... sonderlich alt ist dieses Städtchen ja nicht gerade.",
+			"path": [144,2,9,2],
+			"original": "Kento: Hm... sonderlich alt ist dieses Städtchen ja nicht gerade.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Hm...\\. this town isn't",
@@ -1108,8 +1108,8 @@
 			]
 		},
 		{
-			"path":[144,2,12,2],
-			"original":"Alter Herr: In der Tat. Sinkholm wurde erst vor ungefähr 60 Jahren gegründet.",
+			"path": [144,2,12,2],
+			"original": "Alter Herr: In der Tat. Sinkholm wurde erst vor ungefähr 60 Jahren gegründet.",
 			"lines":
 			[
 				"\\c[10]Old Man\\c[0]: Indeed.\\. Sinkholm was founded",
@@ -1117,9 +1117,9 @@
 			]
 		},
 		{
-			"path":[146,1,4,2],
-			"indent":1,
-			"original":"Blondes Mädchen: Meine Güte! Ihr beide seit wirklich albern.",
+			"path": [146,1,4,2],
+			"indent": 1,
+			"original": "Blondes Mädchen: Meine Güte! Ihr beide seit wirklich albern.",
 			"lines":
 			[
 				"\\c[10]Blonde Girl\\c[0]: Gosh! You two really",
@@ -1127,9 +1127,9 @@
 			]
 		},
 		{
-			"path":[146,1,8,2],
-			"indent":1,
-			"original":"Kento: Hey, steck mich nicht mit dem unter einem Hut!",
+			"path": [146,1,8,2],
+			"indent": 1,
+			"original": "Kento: Hey, steck mich nicht mit dem unter einem Hut!",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Hey, don't lump us two",
@@ -1137,9 +1137,9 @@
 			]
 		},
 		{
-			"path":[146,1,10,4],
-			"indent":1,
-			"original":"Kento: Ich hab ihm schon nach dem 2. Versuch eingeredet, dass es sinnlos ist, aber er wollte nicht hören.",
+			"path": [146,1,10,4],
+			"indent": 1,
+			"original": "Kento: Ich hab ihm schon nach dem 2. Versuch eingeredet, dass es sinnlos ist, aber er wollte nicht hören.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: I told him after the",
@@ -1148,9 +1148,9 @@
 			]
 		},
 		{
-			"path":[146,1,15,2],
-			"indent":1,
-			"original":"Cibon: Wunderbar, wie du mich immer in Schutz nimmst Kento!",
+			"path": [146,1,15,2],
+			"indent": 1,
+			"original": "Cibon: Wunderbar, wie du mich immer in Schutz nimmst Kento!",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Wonderful how you always",
@@ -1158,9 +1158,9 @@
 			]
 		},
 		{
-			"path":[146,1,24,4],
-			"indent":1,
-			"original":"Blondes Mädchen: Also ich weiß nicht... Ich habe gehört in Nomerea sollen Wohnungen sehr teuer sein, zurzeit... Und wovon willst du eigentlich leben?",
+			"path": [146,1,24,4],
+			"indent": 1,
+			"original": "Blondes Mädchen: Also ich weiß nicht... Ich habe gehört in Nomerea sollen Wohnungen sehr teuer sein, zurzeit... Und wovon willst du eigentlich leben?",
 			"lines":
 			[
 				"\\c[10]Blonde Girl\\c[0]: I don't know...\\.",
@@ -1170,8 +1170,8 @@
 			]
 		},
 		{
-			"path":[146,2,3,4],
-			"original":"Blondes Mädchen: Seit meine Freundin von hier weg ging, ist es noch langweiliger hier. Ich werde auch bald woanders hinziehen... Auf jeden Fall!",
+			"path": [146,2,3,4],
+			"original": "Blondes Mädchen: Seit meine Freundin von hier weg ging, ist es noch langweiliger hier. Ich werde auch bald woanders hinziehen... Auf jeden Fall!",
 			"lines":
 			[
 				"\\c[10]Blonde Girl\\c[0]: It's been boring ever since",
@@ -1180,9 +1180,9 @@
 			]
 		},
 		{
-			"path":[146,2,11,2],
-			"indent":2,
-			"original":"Cibon: Öhm... wo is' denn deine Freundin hingezogen?",
+			"path": [146,2,11,2],
+			"indent": 2,
+			"original": "Cibon: Öhm... wo is' denn deine Freundin hingezogen?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Um... where'd your friend",
@@ -1190,9 +1190,9 @@
 			]
 		},
 		{
-			"path":[146,2,14,2],
-			"indent":2,
-			"original":"Blondes Mädchen: Oh... sie hat mich extra darum gebeten, es dir NICHT zu sagen.",
+			"path": [146,2,14,2],
+			"indent": 2,
+			"original": "Blondes Mädchen: Oh... sie hat mich extra darum gebeten, es dir NICHT zu sagen.",
 			"lines":
 			[
 				"\\c[10]Blonde Girl\\c[0]: Oh...\\. she specifically",
@@ -1200,18 +1200,18 @@
 			]
 		},
 		{
-			"path":[146,2,18,1],
-			"indent":2,
-			"original":"Cibon: Ohje...",
+			"path": [146,2,18,1],
+			"indent": 2,
+			"original": "Cibon: Ohje...",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Right..."
 			]
 		},
 		{
-			"path":[147,1,3,2],
-			"indent":1,
-			"original":"Kurzhaariges Mädchen: Wenn ich nicht nach Nomerea gehe, wohin dann? Hm...",
+			"path": [147,1,3,2],
+			"indent": 1,
+			"original": "Kurzhaariges Mädchen: Wenn ich nicht nach Nomerea gehe, wohin dann? Hm...",
 			"lines":
 			[
 				"\\c[10]Short-Haired Girl\\c[0]: If I don't go to",
@@ -1220,9 +1220,9 @@
 			]
 		},
 		{
-			"path":[147,1,12,3],
-			"indent":2,
-			"original":"Kurzhaariges Mädchen: Ich sterbe hier noch vor Langeweile! Spätestens in 2 Monaten verschwinde ich von hier und ziehe nach Nomerea!",
+			"path": [147,1,12,3],
+			"indent": 2,
+			"original": "Kurzhaariges Mädchen: Ich sterbe hier noch vor Langeweile! Spätestens in 2 Monaten verschwinde ich von hier und ziehe nach Nomerea!",
 			"lines":
 			[
 				"\\c[10]Short-Haired Girl\\c[0]: I'm dying of boredom",
@@ -1231,9 +1231,9 @@
 			]
 		},
 		{
-			"path":[147,1,40,3],
-			"indent":2,
-			"original":"Cibon: Guten Tag, verehrtes Fräulein. Sie haben vor, nach Nomerea zu ziehen?",
+			"path": [147,1,40,3],
+			"indent": 2,
+			"original": "Cibon: Guten Tag, verehrtes Fräulein. Sie haben vor, nach Nomerea zu ziehen?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Good afternoon, m'lady.\\.",
@@ -1242,9 +1242,9 @@
 			]
 		},
 		{
-			"path":[147,1,45,2],
-			"indent":2,
-			"original":"Kurzhaariges Mädchen: Ach du schon wieder... Was ist denn?",
+			"path": [147,1,45,2],
+			"indent": 2,
+			"original": "Kurzhaariges Mädchen: Ach du schon wieder... Was ist denn?",
 			"lines":
 			[
 				"\\c[10]Short-Haired Girl\\c[0]: Oh, it's you again... ",
@@ -1252,9 +1252,9 @@
 			]
 		},
 		{
-			"path":[147,1,49,3],
-			"indent":2,
-			"original":"Cibon: Mein Kamerad und ich kommen von Nomerea und wollten heute den Rückweg antreten.",
+			"path": [147,1,49,3],
+			"indent": 2,
+			"original": "Cibon: Mein Kamerad und ich kommen von Nomerea und wollten heute den Rückweg antreten.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: My fellow comrade and I",
@@ -1263,27 +1263,27 @@
 			]
 		},
 		{
-			"path":[147,1,52,2],
-			"indent":2,
-			"original":"Cibon: Ich wollte fragen, ob es Ihnen recht wäre, uns zu begleiten.",
+			"path": [147,1,52,2],
+			"indent": 2,
+			"original": "Cibon: Ich wollte fragen, ob es Ihnen recht wäre, uns zu begleiten.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Care to join us?"
 			]
 		},
 		{
-			"path":[147,1,56,1],
-			"indent":2,
-			"original":"Kento: .....",
+			"path": [147,1,56,1],
+			"indent": 2,
+			"original": "Kento: .....",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: ....."
 			]
 		},
 		{
-			"path":[147,1,58,4],
-			"indent":2,
-			"original":"Cibon: Auf den Weg nach Nomerea treibt sich so einiges Ungetüm rum, vor dem wir Sie dann natürlich beschützen würden.",
+			"path": [147,1,58,4],
+			"indent": 2,
+			"original": "Cibon: Auf den Weg nach Nomerea treibt sich so einiges Ungetüm rum, vor dem wir Sie dann natürlich beschützen würden.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: On the way to Nomerea,",
@@ -1292,9 +1292,9 @@
 			]
 		},
 		{
-			"path":[147,1,63,4],
-			"indent":2,
-			"original":"Cibon: Nicht zuletzt, da es sich um eine so hübsche Dame handelt, wäre es uns eine große Ehre, würden Sie uns auf unseren Wegen begleiten.",
+			"path": [147,1,63,4],
+			"indent": 2,
+			"original": "Cibon: Nicht zuletzt, da es sich um eine so hübsche Dame handelt, wäre es uns eine große Ehre, würden Sie uns auf unseren Wegen begleiten.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: And last, but certainly not",
@@ -1304,9 +1304,9 @@
 			]
 		},
 		{
-			"path":[147,1,68,4],
-			"indent":2,
-			"original":"Kurzhaariges Mädchen: Ach weißt du, seit ich weiß, dass du aus Nomerea kommst, habe ich meine Meinung geändert. Ich bleibe doch lieber erstmal hier....",
+			"path": [147,1,68,4],
+			"indent": 2,
+			"original": "Kurzhaariges Mädchen: Ach weißt du, seit ich weiß, dass du aus Nomerea kommst, habe ich meine Meinung geändert. Ich bleibe doch lieber erstmal hier....",
 			"lines":
 			[
 				"\\c[10]Short-Haired Girl\\c[0]: You know...\\. Since I know that",
@@ -1315,9 +1315,9 @@
 			]
 		},
 		{
-			"path":[147,1,74,2],
-			"indent":2,
-			"original":"Cibon: ...Wenn das Ihnen lieber ist... (VERDAMMT!)",
+			"path": [147,1,74,2],
+			"indent": 2,
+			"original": "Cibon: ...Wenn das Ihnen lieber ist... (VERDAMMT!)",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: ...Well if that's what you",
@@ -1325,9 +1325,9 @@
 			]
 		},
 		{
-			"path":[147,1,96,2],
-			"indent":2,
-			"original":"Kento: Du kannst es einfach nicht lassen.",
+			"path": [147,1,96,2],
+			"indent": 2,
+			"original": "Kento: Du kannst es einfach nicht lassen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: You simply can't leave it",
@@ -1335,9 +1335,9 @@
 			]
 		},
 		{
-			"path":[147,1,99,4],
-			"indent":2,
-			"original":"Cibon: Ich dacht' mit der etwas feineren Art würd's klappen, aber ich denk' dafür war's zu spät, oder?",
+			"path": [147,1,99,4],
+			"indent": 2,
+			"original": "Cibon: Ich dacht' mit der etwas feineren Art würd's klappen, aber ich denk' dafür war's zu spät, oder?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: I thought it'd work with",
@@ -1346,9 +1346,9 @@
 			]
 		},
 		{
-			"path":[147,1,104,4],
-			"indent":2,
-			"original":"Kento: Zu spät? Das war jetzt das 5. Mal, wo du mit ihr rumgeflirtet hast, seit wir hier sind. Und vorher immer mit altüblicher Gossensprache.",
+			"path": [147,1,104,4],
+			"indent": 2,
+			"original": "Kento: Zu spät? Das war jetzt das 5. Mal, wo du mit ihr rumgeflirtet hast, seit wir hier sind. Und vorher immer mit altüblicher Gossensprache.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Too late?! This is the 5th time",
@@ -1358,9 +1358,9 @@
 			]
 		},
 		{
-			"path":[147,1,109,2],
-			"indent":2,
-			"original":"Cibon: Jaja, schon gut. Es war halt der letzte hoffnungslose Versuch...",
+			"path": [147,1,109,2],
+			"indent": 2,
+			"original": "Cibon: Jaja, schon gut. Es war halt der letzte hoffnungslose Versuch...",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Okay, fine. It was a",
@@ -1368,9 +1368,9 @@
 			]
 		},
 		{
-			"path":[147,1,121,3],
-			"indent":2,
-			"original":"Kurzhaariges Mädchen: Ich sterbe hier noch vor Langeweile! Spätestens in 2 Monaten verschwinde ich von hier und ziehe nach Nomerea!",
+			"path": [147,1,121,3],
+			"indent": 2,
+			"original": "Kurzhaariges Mädchen: Ich sterbe hier noch vor Langeweile! Spätestens in 2 Monaten verschwinde ich von hier und ziehe nach Nomerea!",
 			"lines":
 			[
 				"\\c[10]Short-Haired Girl\\c[0]: I'm dying of boredom",
@@ -1382,19 +1382,19 @@
 	"other":
 	[
 		{
-			"path":[140,1,11],
-			"original":"Lass uns losgehen./Nein, noch nicht.",
-			"patch":"Let's go./No, not yet."
+			"path": [140,1,11],
+			"original": "Lass uns losgehen./Nein, noch nicht.",
+			"patch": "Let's go./No, not yet."
 		},
 		{
-			"path":[140,1,12],
-			"original":"Lass uns losgehen.",
-			"patch":"Let's go."
+			"path": [140,1,12],
+			"original": "Lass uns losgehen.",
+			"patch": "Let's go."
 		},
 		{
-			"path":[140,1,27],
-			"original":"Nein, noch nicht.",
-			"patch":"No, not yet."
+			"path": [140,1,27],
+			"original": "Nein, noch nicht.",
+			"patch": "No, not yet."
 		}
 	]
 }

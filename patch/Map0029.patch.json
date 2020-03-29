@@ -2,8 +2,8 @@
 	"dialogue":
 	[
 		{
-			"path":[35,1,25,2],
-			"original":"Cibon: Siehste? Grünperlen! Das is' doch was.",
+			"path": [35,1,25,2],
+			"original": "Cibon: Siehste? Grünperlen! Das is' doch was.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] See? Green pearls!",
@@ -11,16 +11,16 @@
 			]
 		},
 		{
-			"path":[35,1,28,2],
-			"original":"Kento: Was sollen uns diese Perlen bitte bringen?",
+			"path": [35,1,28,2],
+			"original": "Kento: Was sollen uns diese Perlen bitte bringen?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] What do these pearls bring us?"
 			]
 		},
 		{
-			"path":[35,1,34,4],
-			"original":"Cibon: Was die bringen? Das is' eine Handelsware, Kumpel. Warst du in Nomerea etwa noch nie auf dem Handelsmarkt?",
+			"path": [35,1,34,4],
+			"original": "Cibon: Was die bringen? Das is' eine Handelsware, Kumpel. Warst du in Nomerea etwa noch nie auf dem Handelsmarkt?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] What do they bring?\\. It's a",
@@ -29,8 +29,8 @@
 			]
 		},
 		{
-			"path":[35,1,39,3],
-			"original":"Kento: Öh? Nein, nicht wirklich. Das hat mich bisher nicht interessiert...",
+			"path": [35,1,39,3],
+			"original": "Kento: Öh? Nein, nicht wirklich. Das hat mich bisher nicht interessiert...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Oh?\\. I have.\\. It's just",
@@ -39,8 +39,8 @@
 			]
 		},
 		{
-			"path":[35,1,43,3],
-			"original":"Cibon: Tja, das sieht dir ähnlich. Ich sag dir: Ohne mich wärste finanziell schon längst am Abgrund.",
+			"path": [35,1,43,3],
+			"original": "Cibon: Tja, das sieht dir ähnlich. Ich sag dir: Ohne mich wärste finanziell schon längst am Abgrund.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Man, this is just like you.\\.",
@@ -50,8 +50,8 @@
 			]
 		},
 		{
-			"path":[35,1,47,2],
-			"original":"Kento: Wie bitte? Du leihst dir doch immer Geld von mir aus!",
+			"path": [35,1,47,2],
+			"original": "Kento: Wie bitte? Du leihst dir doch immer Geld von mir aus!",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Excuse me?\\. You always borrow",
@@ -59,8 +59,8 @@
 			]
 		},
 		{
-			"path":[35,1,50,2],
-			"original":"Cibon: Args! Ja ja, schon gut. Zurück zum Thema.",
+			"path": [35,1,50,2],
+			"original": "Cibon: Args! Ja ja, schon gut. Zurück zum Thema.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Gah!\\. Yeah alright.\\.",
@@ -68,8 +68,8 @@
 			]
 		},
 		{
-			"path":[35,1,53,4],
-			"original":"Cibon: Solch Handelsgegenstände bekommste ziemlich selten von manchen Gegnern, wenn man sie besiegt hat.",
+			"path": [35,1,53,4],
+			"original": "Cibon: Solch Handelsgegenstände bekommste ziemlich selten von manchen Gegnern, wenn man sie besiegt hat.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Such items are fairly rare",
@@ -78,8 +78,8 @@
 			]
 		},
 		{
-			"path":[35,1,57,4],
-			"original":"Cibon: Auf dem Handelsmarkt kannste diese Gegenstände dann gegen recht praktische Dinge eintauschen.",
+			"path": [35,1,57,4],
+			"original": "Cibon: Auf dem Handelsmarkt kannste diese Gegenstände dann gegen recht praktische Dinge eintauschen.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] At the trader's market,",
@@ -88,8 +88,8 @@
 			]
 		},
 		{
-			"path":[35,1,62,3],
-			"original":"Cibon: Oder du verkaufst sie einfach. Manche dieser Handelswaren sind verdammt wertvoll.",
+			"path": [35,1,62,3],
+			"original": "Cibon: Oder du verkaufst sie einfach. Manche dieser Handelswaren sind verdammt wertvoll.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Or you just sell them.\\.",
@@ -98,8 +98,8 @@
 			]
 		},
 		{
-			"path":[35,1,66,4],
-			"original":"Cibon: Okay.. Grünperlen sind zwar nicht so etwas Besonderes, aber so was lässte doch trotzdem  nicht einfach  liegen.",
+			"path": [35,1,66,4],
+			"original": "Cibon: Okay.. Grünperlen sind zwar nicht so etwas Besonderes, aber so was lässte doch trotzdem  nicht einfach  liegen.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Okay...\\. Green pearls aren't",
@@ -108,8 +108,8 @@
 			]
 		},
 		{
-			"path":[35,1,71,3],
-			"original":"Kento: Gut, jetzt bin ich ein ganzes Stückchen schlauer. Lass uns endlich weitergehen.",
+			"path": [35,1,71,3],
+			"original": "Kento: Gut, jetzt bin ich ein ganzes Stückchen schlauer. Lass uns endlich weitergehen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Well, now that I'm",
@@ -117,16 +117,16 @@
 			]
 		},
 		{
-			"path":[35,1,75,1],
-			"original":"Cibon: Geht klar.",
+			"path": [35,1,75,1],
+			"original": "Cibon: Geht klar.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Ok."
 			]
 		},
 		{
-			"path":[40,1,5,3],
-			"original":"Es kann passieren, dass dir bestimmte Pflanzen im Weg stehen.",
+			"path": [40,1,5,3],
+			"original": "Es kann passieren, dass dir bestimmte Pflanzen im Weg stehen.",
 			"lines":
 			[
 				"",
@@ -134,8 +134,8 @@
 			]
 		},
 		{
-			"path":[40,1,8,3],
-			"original":"In diesem Fall sollte man wissen, dass der Held so manches Gewächs...",
+			"path": [40,1,8,3],
+			"original": "In diesem Fall sollte man wissen, dass der Held so manches Gewächs...",
 			"lines":
 			[
 				"",
@@ -143,8 +143,8 @@
 			]
 		},
 		{
-			"path":[40,1,11,2],
-			"original":"...mit einem Speerschlag beseitigen kann.",
+			"path": [40,1,11,2],
+			"original": "...mit einem Speerschlag beseitigen kann.",
 			"lines":
 			[
 				"",
@@ -152,8 +152,8 @@
 			]
 		},
 		{
-			"path":[40,1,13,3],
-			"original":"Stell dich einfach neben die Pflanze und drücke Enter.",
+			"path": [40,1,13,3],
+			"original": "Stell dich einfach neben die Pflanze und drücke Enter.",
 			"lines":
 			[
 				"",
@@ -162,8 +162,8 @@
 			]
 		},
 		{
-			"path":[41,2,12,2],
-			"original":"Du bewegst dich nun in wilden Gebieten!",
+			"path": [41,2,12,2],
+			"original": "Du bewegst dich nun in wilden Gebieten!",
 			"lines":
 			[
 				"",
@@ -171,8 +171,8 @@
 			]
 		},
 		{
-			"path":[41,2,14,3],
-			"original":"Hier kann es passieren, dass du mit Gegnern konfrontierst und dich zur Wehr setzten musst.",
+			"path": [41,2,14,3],
+			"original": "Hier kann es passieren, dass du mit Gegnern konfrontierst und dich zur Wehr setzten musst.",
 			"lines":
 			[
 				"",
@@ -181,8 +181,8 @@
 			]
 		},
 		{
-			"path":[41,2,17,3],
-			"original":"Solche Konfrontationen kommen nach einer zufälligen Anzahl von Schritten.",
+			"path": [41,2,17,3],
+			"original": "Solche Konfrontationen kommen nach einer zufälligen Anzahl von Schritten.",
 			"lines":
 			[
 				"",
@@ -191,8 +191,8 @@
 			]
 		},
 		{
-			"path":[41,2,20,3],
-			"original":"Allerdings besteht die Möglichkeit diesen Auseinandersetzungen zu entgehen.",
+			"path": [41,2,20,3],
+			"original": "Allerdings besteht die Möglichkeit diesen Auseinandersetzungen zu entgehen.",
 			"lines":
 			[
 				"",
@@ -200,8 +200,8 @@
 			]
 		},
 		{
-			"path":[41,2,23,3],
-			"original":"Kurz bevor der Kampf startet, erscheint ein blinkendes Ausrufezeichen über den Helden.",
+			"path": [41,2,23,3],
+			"original": "Kurz bevor der Kampf startet, erscheint ein blinkendes Ausrufezeichen über den Helden.",
 			"lines":
 			[
 				"",
@@ -210,8 +210,8 @@
 			]
 		},
 		{
-			"path":[41,2,26,3],
-			"original":"Wenn du es schaffst, in diesem Moment rechtzeitig stehen zu bleiben und zu warten...",
+			"path": [41,2,26,3],
+			"original": "Wenn du es schaffst, in diesem Moment rechtzeitig stehen zu bleiben und zu warten...",
 			"lines":
 			[
 				"",
@@ -220,8 +220,8 @@
 			]
 		},
 		{
-			"path":[41,2,29,3],
-			"original":"... bis das Ausrufezeichen verschwindet, bist du dieser Auseinandersetzung ausgewichen.",
+			"path": [41,2,29,3],
+			"original": "... bis das Ausrufezeichen verschwindet, bist du dieser Auseinandersetzung ausgewichen.",
 			"lines":
 			[
 				"",
@@ -229,8 +229,8 @@
 			]
 		},
 		{
-			"path":[41,2,32,3],
-			"original":"Wenn man geht, kann man Kämpfe übrigens leichter vermeiden, als wenn man rennt.",
+			"path": [41,2,32,3],
+			"original": "Wenn man geht, kann man Kämpfe übrigens leichter vermeiden, als wenn man rennt.",
 			"lines":
 			[
 				"",
@@ -239,8 +239,8 @@
 			]
 		},
 		{
-			"path":[41,2,35,3],
-			"original":"Nichtsdestotrotz sollte man nicht allen Kämpfen ausweichen.",
+			"path": [41,2,35,3],
+			"original": "Nichtsdestotrotz sollte man nicht allen Kämpfen ausweichen.",
 			"lines":
 			[
 				"",
@@ -249,8 +249,8 @@
 			]
 		},
 		{
-			"path":[41,2,38,3],
-			"original":"Wenn die Charaktere nicht kämpfen, werden sie nicht stärker...",
+			"path": [41,2,38,3],
+			"original": "Wenn die Charaktere nicht kämpfen, werden sie nicht stärker...",
 			"lines":
 			[
 				"",
@@ -259,8 +259,8 @@
 			]
 		},
 		{
-			"path":[41,2,41,3],
-			"original":"Sind die Charaktere untrainiert, werden dir spätere Kämpfe schwerer fallen.",
+			"path": [41,2,41,3],
+			"original": "Sind die Charaktere untrainiert, werden dir spätere Kämpfe schwerer fallen.",
 			"lines":
 			[
 				"",
@@ -269,8 +269,8 @@
 			]
 		},
 		{
-			"path":[41,2,44,3],
-			"original":"Deswegen ist es zu empfehlen immer wieder etwas Zeit ins Aufstufen zu investieren.",
+			"path": [41,2,44,3],
+			"original": "Deswegen ist es zu empfehlen immer wieder etwas Zeit ins Aufstufen zu investieren.",
 			"lines":
 			[
 				"",
@@ -279,8 +279,8 @@
 			]
 		},
 		{
-			"path":[41,2,57,1],
-			"original":"Cibon: Hey! Was seh'  ich denn da?",
+			"path": [41,2,57,1],
+			"original": "Cibon: Hey! Was seh'  ich denn da?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Hey! Are you seeing",
@@ -288,8 +288,8 @@
 			]
 		},
 		{
-			"path":[41,2,67,2],
-			"original":"Cibon: Ein Säckchen! Was da wohl drin sein könnte...",
+			"path": [41,2,67,2],
+			"original": "Cibon: Ein Säckchen! Was da wohl drin sein könnte...",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] A sack!\\. I wonder what",
@@ -297,8 +297,8 @@
 			]
 		},
 		{
-			"path":[41,2,76,4],
-			"original":"Kento: Wahrscheinlich irgendein Mist, den jemand nicht mehr gebrauchen konnte und ihn deswegen da oben hin schmiss...",
+			"path": [41,2,76,4],
+			"original": "Kento: Wahrscheinlich irgendein Mist, den jemand nicht mehr gebrauchen konnte und ihn deswegen da oben hin schmiss...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Probably some crap",
@@ -307,8 +307,8 @@
 			]
 		},
 		{
-			"path":[41,2,82,3],
-			"original":"Cibon: Nana, Kumpel. Genauso gut könnte jemand das Säckchen einfach nur verloren haben.",
+			"path": [41,2,82,3],
+			"original": "Cibon: Nana, Kumpel. Genauso gut könnte jemand das Säckchen einfach nur verloren haben.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Now hold on there.\\. Anyone",
@@ -316,16 +316,16 @@
 			]
 		},
 		{
-			"path":[41,2,87,2],
-			"original":"Kento: Da oben auf dem Hügel? Ja klar...",
+			"path": [41,2,87,2],
+			"original": "Kento: Da oben auf dem Hügel? Ja klar...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Up there on the hill?\\. Sure..."
 			]
 		},
 		{
-			"path":[41,2,91,3],
-			"original":"Cibon: Verdammt, jetzt lass uns einfach nachsehn' ob es was Brauchbares ist!",
+			"path": [41,2,91,3],
+			"original": "Cibon: Verdammt, jetzt lass uns einfach nachsehn' ob es was Brauchbares ist!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Dammit, let's just see",
@@ -333,16 +333,16 @@
 			]
 		},
 		{
-			"path":[41,2,95,1],
-			"original":"Kento: Na gut...",
+			"path": [41,2,95,1],
+			"original": "Kento: Na gut...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Alright..."
 			]
 		},
 		{
-			"path":[41,4,12,3],
-			"original":"Diese orangenen Pfeile markieren einen Sprungpunkt.",
+			"path": [41,4,12,3],
+			"original": "Diese orangenen Pfeile markieren einen Sprungpunkt.",
 			"lines":
 			[
 				"",
@@ -350,8 +350,8 @@
 			]
 		},
 		{
-			"path":[41,4,15,3],
-			"original":"Diese Markierungen erscheinen erst, wenn sich der Held in ihrer Nähe befindet.",
+			"path": [41,4,15,3],
+			"original": "Diese Markierungen erscheinen erst, wenn sich der Held in ihrer Nähe befindet.",
 			"lines":
 			[
 				"",
@@ -360,8 +360,8 @@
 			]
 		},
 		{
-			"path":[41,4,18,3],
-			"original":"Es gibt zwei verschiedene Sprungpunkte. Orange und blaue.",
+			"path": [41,4,18,3],
+			"original": "Es gibt zwei verschiedene Sprungpunkte. Orange und blaue.",
 			"lines":
 			[
 				"",
@@ -370,8 +370,8 @@
 			]
 		},
 		{
-			"path":[41,4,21,3],
-			"original":"Bei orangen Sprungpunkten muss man sich auf die Markierung stellen und Enter drücken.",
+			"path": [41,4,21,3],
+			"original": "Bei orangen Sprungpunkten muss man sich auf die Markierung stellen und Enter drücken.",
 			"lines":
 			[
 				"",
@@ -380,8 +380,8 @@
 			]
 		},
 		{
-			"path":[41,4,24,3],
-			"original":"Bei blauen Sprungpunkten muss man mit einem geringen Anlauf auf die Markierung rennen.",
+			"path": [41,4,24,3],
+			"original": "Bei blauen Sprungpunkten muss man mit einem geringen Anlauf auf die Markierung rennen.",
 			"lines":
 			[
 				"",
@@ -390,8 +390,8 @@
 			]
 		},
 		{
-			"path":[41,4,27,3],
-			"original":"Bei beidem geschieht so das gleiche: Schaut der Held in die richtige Richtung, springt er.",
+			"path": [41,4,27,3],
+			"original": "Bei beidem geschieht so das gleiche: Schaut der Held in die richtige Richtung, springt er.",
 			"lines":
 			[
 				"",
@@ -400,8 +400,8 @@
 			]
 		},
 		{
-			"path":[42,1,5,2],
-			"original":"Cibon: Kento... Das Säckchen...",
+			"path": [42,1,5,2],
+			"original": "Cibon: Kento... Das Säckchen...",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Kento,\\.",
@@ -409,16 +409,16 @@
 			]
 		},
 		{
-			"path":[42,1,9,1],
-			"original":"Kento: Jajaja....",
+			"path": [42,1,9,1],
+			"original": "Kento: Jajaja....",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Yeah yeah..."
 			]
 		},
 		{
-			"path":[43,1,5,2],
-			"original":"Cibon: Kento... Das Säckchen...",
+			"path": [43,1,5,2],
+			"original": "Cibon: Kento... Das Säckchen...",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Kento,\\.",
@@ -426,16 +426,16 @@
 			]
 		},
 		{
-			"path":[43,1,9,1],
-			"original":"Kento: Jajaja....",
+			"path": [43,1,9,1],
+			"original": "Kento: Jajaja....",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Yeah yeah..."
 			]
 		},
 		{
-			"path":[44,1,5,2],
-			"original":"Cibon: Kento... Das Säckchen...",
+			"path": [44,1,5,2],
+			"original": "Cibon: Kento... Das Säckchen...",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Kento,\\.",
@@ -443,8 +443,8 @@
 			]
 		},
 		{
-			"path":[44,1,9,1],
-			"original":"Kento: Jajaja....",
+			"path": [44,1,9,1],
+			"original": "Kento: Jajaja....",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Yeah yeah..."

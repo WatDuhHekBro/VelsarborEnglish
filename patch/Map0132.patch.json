@@ -2,17 +2,17 @@
 	"dialogue":
 	[
 		{
-			"path":[7,1,44,1],
-			"indent":1,
-			"original":"Zojenische Einheit: Haltet ihn auf!",
+			"path": [7,1,44,1],
+			"indent": 1,
+			"original": "Zojenische Einheit: Haltet ihn auf!",
 			"lines":
 			[
 				"\\c[10]Korzojenish Soldier\\c[0]: Stop him!"
 			]
 		},
 		{
-			"path":[23,1,9,3],
-			"original":"(Seldan: Verdammt. Wenn ich in zu viele Gegner rein renne, werd ich am Ende nicht genug Kraft haben...)",
+			"path": [23,1,9,3],
+			"original": "(Seldan: Verdammt. Wenn ich in zu viele Gegner rein renne, werd ich am Ende nicht genug Kraft haben...)",
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]:\\s[2] Damn it. If I run into",
@@ -21,8 +21,8 @@
 			]
 		},
 		{
-			"path":[34,1,3,2],
-			"original":"(Seldan: Nicht hier lang. Ich muss noch eine Eben tiefer.)",
+			"path": [34,1,3,2],
+			"original": "(Seldan: Nicht hier lang. Ich muss noch eine Eben tiefer.)",
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]: Not here either.\\. I have to",
@@ -30,8 +30,8 @@
 			]
 		},
 		{
-			"path":[35,1,3,2],
-			"original":"(Seldan: Nicht hier lang. Ich muss noch eine Eben tiefer.)",
+			"path": [35,1,3,2],
+			"original": "(Seldan: Nicht hier lang. Ich muss noch eine Eben tiefer.)",
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]: Not here either.\\. I have to",

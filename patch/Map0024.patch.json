@@ -2,16 +2,16 @@
 	"dialogue":
 	[
 		{
-			"path":[6,1,12,2],
-			"original":"Mann: Ohhh, Hallo! ... Was machen Sie denn hier?",
+			"path": [6,1,12,2],
+			"original": "Mann: Ohhh, Hallo! ... Was machen Sie denn hier?",
 			"lines":
 			[
 				"\\c[10]Man\\c[0]: Whoa, hey there! What are you doing here?"
 			]
 		},
 		{
-			"path":[6,1,16,2],
-			"original":"Kento: Wieso schauen Sie die ganze Zeit aus dem Fenster?",
+			"path": [6,1,16,2],
+			"original": "Kento: Wieso schauen Sie die ganze Zeit aus dem Fenster?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Why are you looking out",
@@ -19,8 +19,8 @@
 			]
 		},
 		{
-			"path":[6,1,19,2],
-			"original":"Mann: Wieso schon? Ich schaue mir die Stadt an, weil ich sonst nichts zu tun habe...",
+			"path": [6,1,19,2],
+			"original": "Mann: Wieso schon? Ich schaue mir die Stadt an, weil ich sonst nichts zu tun habe...",
 			"lines":
 			[
 				"\\c[10]Man\\c[0]: Why?\\. I'm looking at the city",
@@ -28,8 +28,8 @@
 			]
 		},
 		{
-			"path":[6,1,23,1],
-			"original":"Kento: Verstehe... ...",
+			"path": [6,1,23,1],
+			"original": "Kento: Verstehe... ...",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: I see..."

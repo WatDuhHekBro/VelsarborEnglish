@@ -2,8 +2,8 @@
 	"dialogue":
 	[
 		{
-			"path":[5,1,2,3],
-			"original":"Guten Tag, der Herr. Ich habe hier einiges an Ausrüstung im Angebot. Interessiert?",
+			"path": [5,1,2,3],
+			"original": "Guten Tag, der Herr. Ich habe hier einiges an Ausrüstung im Angebot. Interessiert?",
 			"lines":
 			[
 				"Good day, sir.\\.",
@@ -12,16 +12,16 @@
 			]
 		},
 		{
-			"path":[9,1,18,1],
-			"original":"Kento: Ach, da bist du ja, Cibon.",
+			"path": [9,1,18,1],
+			"original": "Kento: Ach, da bist du ja, Cibon.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Ah, there you are, Cibon."
 			]
 		},
 		{
-			"path":[9,1,24,2],
-			"original":"Cibon: Oha! Sind wir auch schon wach, \"Herr Frühaufsteher\"?",
+			"path": [9,1,24,2],
+			"original": "Cibon: Oha! Sind wir auch schon wach, \"Herr Frühaufsteher\"?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Oh! Are we finally awake,",
@@ -29,8 +29,8 @@
 			]
 		},
 		{
-			"path":[9,1,27,4],
-			"original":"Kento: Ist es gleich ein Verbrechen, wenn man mal etwas länger schläft? Wir waren Gestern auch viel zu lange auf.",
+			"path": [9,1,27,4],
+			"original": "Kento: Ist es gleich ein Verbrechen, wenn man mal etwas länger schläft? Wir waren Gestern auch viel zu lange auf.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Is it a crime to sleep",
@@ -39,16 +39,16 @@
 			]
 		},
 		{
-			"path":[9,1,32,2],
-			"original":"Cibon: Is' ja schon gut, ich mach' ja nur Spass.",
+			"path": [9,1,32,2],
+			"original": "Cibon: Is' ja schon gut, ich mach' ja nur Spass.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: It's alright, I'm just kidding."
 			]
 		},
 		{
-			"path":[9,1,39,3],
-			"original":"Cibon: Ich denk', wir sollten uns hier noch nach etwas besserer Ausrüstung umsehen.",
+			"path": [9,1,39,3],
+			"original": "Cibon: Ich denk', wir sollten uns hier noch nach etwas besserer Ausrüstung umsehen.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: I think we should look",
@@ -56,8 +56,8 @@
 			]
 		},
 		{
-			"path":[9,1,43,3],
-			"original":"Kento: Genügt dir die Standardausrüstung, die uns die Armee gegeben hat, etwa nicht?",
+			"path": [9,1,43,3],
+			"original": "Kento: Genügt dir die Standardausrüstung, die uns die Armee gegeben hat, etwa nicht?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Aren't you satisfied",
@@ -66,8 +66,8 @@
 			]
 		},
 		{
-			"path":[9,1,50,3],
-			"original":"Cibon: Also wirklich! Ne Waffe und ne Lederweste. Das is' fast unterste Klasse.",
+			"path": [9,1,50,3],
+			"original": "Cibon: Also wirklich! Ne Waffe und ne Lederweste. Das is' fast unterste Klasse.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Oh come on!\\.",
@@ -77,8 +77,8 @@
 			]
 		},
 		{
-			"path":[9,1,53,3],
-			"original":"Cibon: Und an ne anständige Kopfbedeckung und Armbänder denkt man erst gar nicht.",
+			"path": [9,1,53,3],
+			"original": "Cibon: Und an ne anständige Kopfbedeckung und Armbänder denkt man erst gar nicht.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: And you don't even",
@@ -87,8 +87,8 @@
 			]
 		},
 		{
-			"path":[9,1,57,3],
-			"original":"Cibon: Ausserdem hatten wir schon auf'n Weg hier hin einige Probleme mit Gegnern gehabt, nich' war Kento?",
+			"path": [9,1,57,3],
+			"original": "Cibon: Ausserdem hatten wir schon auf'n Weg hier hin einige Probleme mit Gegnern gehabt, nich' war Kento?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: We also had some problems",
@@ -97,8 +97,8 @@
 			]
 		},
 		{
-			"path":[9,1,65,4],
-			"original":"Kento: Jaja... Woher hätte ich auch wissen sollen, dass so ein grüner Haufen von Schleim einen Feuerzauber beherrscht?",
+			"path": [9,1,65,4],
+			"original": "Kento: Jaja... Woher hätte ich auch wissen sollen, dass so ein grüner Haufen von Schleim einen Feuerzauber beherrscht?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Yeah...\\. How should I have",
@@ -107,8 +107,8 @@
 			]
 		},
 		{
-			"path":[9,1,71,3],
-			"original":"Kento: Gut du hast Recht. Wir sollten uns etwas bessere Ausrüstung besorgen.",
+			"path": [9,1,71,3],
+			"original": "Kento: Gut du hast Recht. Wir sollten uns etwas bessere Ausrüstung besorgen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Well you're right.\\.",
@@ -116,8 +116,8 @@
 			]
 		},
 		{
-			"path":[9,1,83,3],
-			"original":"Kaufe bessere Rüstungen und Waffen für deine Charaktere.",
+			"path": [9,1,83,3],
+			"original": "Kaufe bessere Rüstungen und Waffen für deine Charaktere.",
 			"lines":
 			[
 				"",
@@ -126,8 +126,8 @@
 			]
 		},
 		{
-			"path":[9,1,86,3],
-			"original":"Rede dazu in einem Waffenladen mit der Person hinter der Theke, um in das Handel-Menu zu kommen.",
+			"path": [9,1,86,3],
+			"original": "Rede dazu in einem Waffenladen mit der Person hinter der Theke, um in das Handel-Menu zu kommen.",
 			"lines":
 			[
 				"",
@@ -136,8 +136,8 @@
 			]
 		},
 		{
-			"path":[9,1,89,3],
-			"original":"Wenn du neue Rüstungsteile kaufst, achte immer darauf, ob der Kauf sich auch lohnt.",
+			"path": [9,1,89,3],
+			"original": "Wenn du neue Rüstungsteile kaufst, achte immer darauf, ob der Kauf sich auch lohnt.",
 			"lines":
 			[
 				"",
@@ -146,8 +146,8 @@
 			]
 		},
 		{
-			"path":[9,1,92,3],
-			"original":"Unten sieht man zu jeder Rüstung die Wertesteigerungen und -senkungen, die sie bewirkt.",
+			"path": [9,1,92,3],
+			"original": "Unten sieht man zu jeder Rüstung die Wertesteigerungen und -senkungen, die sie bewirkt.",
 			"lines":
 			[
 				"",
@@ -156,8 +156,8 @@
 			]
 		},
 		{
-			"path":[9,1,95,3],
-			"original":"Ausserdem sieht man oben rechts das Verhältnis zur alten Rüstung der jeweiligen Charaktere.",
+			"path": [9,1,95,3],
+			"original": "Ausserdem sieht man oben rechts das Verhältnis zur alten Rüstung der jeweiligen Charaktere.",
 			"lines":
 			[
 				"",
@@ -166,8 +166,8 @@
 			]
 		},
 		{
-			"path":[9,1,98,3],
-			"original":"Gesagt sei noch, dass die Preise der Waren von Laden zu Laden variieren können.",
+			"path": [9,1,98,3],
+			"original": "Gesagt sei noch, dass die Preise der Waren von Laden zu Laden variieren können.",
 			"lines":
 			[
 				"",
@@ -176,8 +176,8 @@
 			]
 		},
 		{
-			"path":[9,1,101,3],
-			"original":"Sind die Rüstungsteile gekauft, kannst du sie im Menu unter \"Ausrüstung\" anlegen.",
+			"path": [9,1,101,3],
+			"original": "Sind die Rüstungsteile gekauft, kannst du sie im Menu unter \"Ausrüstung\" anlegen.",
 			"lines":
 			[
 				"",

@@ -2,8 +2,8 @@
 	"dialogue":
 	[
 		{
-			"path":[8,1,2,2],
-			"original":"Junge: Psst! Bitte leise sein! Sonst beißt kein Fisch an!",
+			"path": [8,1,2,2],
+			"original": "Junge: Psst! Bitte leise sein! Sonst beißt kein Fisch an!",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: Psst!\\. Please be quiet!\\.",
@@ -11,18 +11,18 @@
 			]
 		},
 		{
-			"path":[46,2,3,2],
-			"indent":1,
-			"original":"Junge: Hallo... Haben Sie ein paar Würmer gefunden?",
+			"path": [46,2,3,2],
+			"indent": 1,
+			"original": "Junge: Hallo... Haben Sie ein paar Würmer gefunden?",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: Hey...\\. did you find some worms?"
 			]
 		},
 		{
-			"path":[46,2,9,2],
-			"indent":2,
-			"original":"Cibon: Joa. Da etwas weiter unten treibt sich ein ganzer Haufen rum!",
+			"path": [46,2,9,2],
+			"indent": 2,
+			"original": "Cibon: Joa. Da etwas weiter unten treibt sich ein ganzer Haufen rum!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Yeah.\\. There's a whole bunch",
@@ -30,9 +30,9 @@
 			]
 		},
 		{
-			"path":[46,2,12,2],
-			"indent":2,
-			"original":"Junge: Tatsächlich? Spitze! Moment! Ich werde gleich nachsehen!",
+			"path": [46,2,12,2],
+			"indent": 2,
+			"original": "Junge: Tatsächlich? Spitze! Moment! Ich werde gleich nachsehen!",
 			"lines":
 			[
 				"\\c[10]Boy:\\c[0] Really?\\. Super!\\. Hold on! I'll check",
@@ -40,9 +40,9 @@
 			]
 		},
 		{
-			"path":[46,2,23,4],
-			"indent":2,
-			"original":"Junge: Sie hatten Recht! Verdammt, wie konnte ich diese Stelle bloß übersehen? Egal. Vielen Dank für den Tipp. Jetzt kann ich endlich mit dem Angeln beginnen.",
+			"path": [46,2,23,4],
+			"indent": 2,
+			"original": "Junge: Sie hatten Recht! Verdammt, wie konnte ich diese Stelle bloß übersehen? Egal. Vielen Dank für den Tipp. Jetzt kann ich endlich mit dem Angeln beginnen.",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: You were right!\\. Darn, how could I",
@@ -51,9 +51,9 @@
 			]
 		},
 		{
-			"path":[46,2,29,2],
-			"indent":2,
-			"original":"Cibon: Ach... So was machen wir doch immer gern, stimmt's, Kumpel?",
+			"path": [46,2,29,2],
+			"indent": 2,
+			"original": "Cibon: Ach... So was machen wir doch immer gern, stimmt's, Kumpel?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Well... We always like to do",
@@ -61,18 +61,18 @@
 			]
 		},
 		{
-			"path":[46,2,32,1],
-			"indent":2,
-			"original":"Kento: Ja... Mehr oder weniger...",
+			"path": [46,2,32,1],
+			"indent": 2,
+			"original": "Kento: Ja... Mehr oder weniger...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Yeah...\\. More or less...\\."
 			]
 		},
 		{
-			"path":[46,2,34,3],
-			"indent":2,
-			"original":"Junge: Ich hab für Sie sogar etwas zum Dank... Na ja.. Ist zwar nichts Besonderes, aber vielleicht können Sie es gebrauchen.",
+			"path": [46,2,34,3],
+			"indent": 2,
+			"original": "Junge: Ich hab für Sie sogar etwas zum Dank... Na ja.. Ist zwar nichts Besonderes, aber vielleicht können Sie es gebrauchen.",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: I even have something to thank you for...\\.",
@@ -81,9 +81,9 @@
 			]
 		},
 		{
-			"path":[46,2,45,2],
-			"indent":2,
-			"original":"Cibon: Hui! Noch'n Handelsgegenstand.",
+			"path": [46,2,45,2],
+			"indent": 2,
+			"original": "Cibon: Hui! Noch'n Handelsgegenstand.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Nice! Another",
@@ -91,9 +91,9 @@
 			]
 		},
 		{
-			"path":[46,2,48,2],
-			"indent":2,
-			"original":"Kento: Wie? Damit kann man auch handeln? Kaum zu glauben.",
+			"path": [46,2,48,2],
+			"indent": 2,
+			"original": "Kento: Wie? Damit kann man auch handeln? Kaum zu glauben.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] What? You can trade in that",
@@ -101,27 +101,27 @@
 			]
 		},
 		{
-			"path":[46,2,51,1],
-			"indent":2,
-			"original":"Junge: Gut! Dann fang ich jetzt mal wieder an.",
+			"path": [46,2,51,1],
+			"indent": 2,
+			"original": "Junge: Gut! Dann fang ich jetzt mal wieder an.",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: Alright!\\. Now back to fishing again."
 			]
 		},
 		{
-			"path":[46,2,71,1],
-			"indent":2,
-			"original":"Cibon: Nope... Hab' keine gesehen.",
+			"path": [46,2,71,1],
+			"indent": 2,
+			"original": "Cibon: Nope... Hab' keine gesehen.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Nope... Didn't see any."
 			]
 		},
 		{
-			"path":[46,2,73,2],
-			"indent":2,
-			"original":"Junge: Ich finde ebenfalls immer noch keine... Merkwürdig. Sonst gibt es die hier zu Haufen!",
+			"path": [46,2,73,2],
+			"indent": 2,
+			"original": "Junge: Ich finde ebenfalls immer noch keine... Merkwürdig. Sonst gibt es die hier zu Haufen!",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: I still don't find any...\\. strange.\\.",
@@ -129,9 +129,9 @@
 			]
 		},
 		{
-			"path":[46,2,84,3],
-			"indent":1,
-			"original":"Kento: Öhm.. Hallo Kleiner.. Ist es nicht vielleicht etwas gefährlich in dieser Gegend so rum zu spazieren?",
+			"path": [46,2,84,3],
+			"indent": 1,
+			"original": "Kento: Öhm.. Hallo Kleiner.. Ist es nicht vielleicht etwas gefährlich in dieser Gegend so rum zu spazieren?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Um...\\. hey there kid.\\.",
@@ -140,9 +140,9 @@
 			]
 		},
 		{
-			"path":[46,2,88,4],
-			"indent":1,
-			"original":"Junge: Ja, ich weiß, aber hier kann man nun mal am besten angeln... Naja...In der Sinke schwimmt so gut wie gar nichts, was sich zum Angeln lohnt...",
+			"path": [46,2,88,4],
+			"indent": 1,
+			"original": "Junge: Ja, ich weiß, aber hier kann man nun mal am besten angeln... Naja...In der Sinke schwimmt so gut wie gar nichts, was sich zum Angeln lohnt...",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: Yeah,\\. I know, but this is the best",
@@ -151,9 +151,9 @@
 			]
 		},
 		{
-			"path":[46,2,92,2],
-			"indent":1,
-			"original":"Junge: ...Und die Lohne ist mir zu weit weg... Dieser kleine See ist einfach am besten!",
+			"path": [46,2,92,2],
+			"indent": 1,
+			"original": "Junge: ...Und die Lohne ist mir zu weit weg... Dieser kleine See ist einfach am besten!",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: ...And the Lohne is too far away for me...\\.",
@@ -161,9 +161,9 @@
 			]
 		},
 		{
-			"path":[46,2,96,3],
-			"indent":1,
-			"original":"Kento: Du solltest trotzdem aufpassen... Hier treiben sich einige gefährliche Wesen rum.",
+			"path": [46,2,96,3],
+			"indent": 1,
+			"original": "Kento: Du solltest trotzdem aufpassen... Hier treiben sich einige gefährliche Wesen rum.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] You should be careful",
@@ -172,9 +172,9 @@
 			]
 		},
 		{
-			"path":[46,2,100,2],
-			"indent":1,
-			"original":"Junge: Das ist mir schon klar. Aber machen Sie sich da keine Sorgen. Ich kann schnell rennen.",
+			"path": [46,2,100,2],
+			"indent": 1,
+			"original": "Junge: Das ist mir schon klar. Aber machen Sie sich da keine Sorgen. Ich kann schnell rennen.",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: I know. But don't worry about that.\\.",
@@ -182,9 +182,9 @@
 			]
 		},
 		{
-			"path":[46,2,105,2],
-			"indent":2,
-			"original":"Cibon: Was haste denn bisher schon so alles gefangen?",
+			"path": [46,2,105,2],
+			"indent": 2,
+			"original": "Cibon: Was haste denn bisher schon so alles gefangen?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] What have you caught",
@@ -192,9 +192,9 @@
 			]
 		},
 		{
-			"path":[46,2,108,4],
-			"indent":2,
-			"original":"Junge: Bisher noch nichts. Ich bin auf der Suche nach Würmern, aber heute finde ich irgendwie keine... Sonst waren hier immer welche.",
+			"path": [46,2,108,4],
+			"indent": 2,
+			"original": "Junge: Bisher noch nichts. Ich bin auf der Suche nach Würmern, aber heute finde ich irgendwie keine... Sonst waren hier immer welche.",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: Nothing yet.\\. I'm looking for some",
@@ -203,9 +203,9 @@
 			]
 		},
 		{
-			"path":[46,2,112,3],
-			"indent":2,
-			"original":"Junge: Öhm... Wenn Sie ein paar Regenwürmer sehen sollten, könnten Sie mir dann Bescheid sagen?",
+			"path": [46,2,112,3],
+			"indent": 2,
+			"original": "Junge: Öhm... Wenn Sie ein paar Regenwürmer sehen sollten, könnten Sie mir dann Bescheid sagen?",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: Um...\\. If you see any worms,",
@@ -213,18 +213,18 @@
 			]
 		},
 		{
-			"path":[46,2,117,1],
-			"indent":2,
-			"original":"Cibon: Gut, wieso nicht?",
+			"path": [46,2,117,1],
+			"indent": 2,
+			"original": "Cibon: Gut, wieso nicht?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Well, why not?"
 			]
 		},
 		{
-			"path":[46,2,119,3],
-			"indent":2,
-			"original":"(Kento: Ohje. Wir sind auf dem Weg nach Nomerea und graben nebenbei nach Würmern... Na toll...)",
+			"path": [46,2,119,3],
+			"indent": 2,
+			"original": "(Kento: Ohje. Wir sind auf dem Weg nach Nomerea und graben nebenbei nach Würmern... Na toll...)",
 			"lines":
 			[
 				"(\\c[1]\\n[1]:\\c[0] Oh man. We're on the way to",
@@ -234,16 +234,16 @@
 			]
 		},
 		{
-			"path":[54,1,8,1],
-			"original":"Cibon: Na... da sind ja Regenwürmer.",
+			"path": [54,1,8,1],
+			"original": "Cibon: Na... da sind ja Regenwürmer.",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Well... the worms are here."
 			]
 		},
 		{
-			"path":[54,1,10,2],
-			"original":"Cibon: Klasse. Das müssn wir unbedingt dem Jungen sagen!",
+			"path": [54,1,10,2],
+			"original": "Cibon: Klasse. Das müssn wir unbedingt dem Jungen sagen!",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Great. We have to",
@@ -251,8 +251,8 @@
 			]
 		},
 		{
-			"path":[55,1,3,1],
-			"original":"Kento: Eine ziemlich lange Angelrute.",
+			"path": [55,1,3,1],
+			"original": "Kento: Eine ziemlich lange Angelrute.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] A fairly long fishing rod."

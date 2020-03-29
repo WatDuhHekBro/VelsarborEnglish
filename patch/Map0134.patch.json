@@ -2,8 +2,8 @@
 	"dialogue":
 	[
 		{
-			"path":[32,3,21,3],
-			"original":"Rothaarige Frau: S...Seldan... Glaube mir,...es ist besser so für mich...",
+			"path": [32,3,21,3],
+			"original": "Rothaarige Frau: S...Seldan... Glaube mir,...es ist besser so für mich...",
 			"lines":
 			[
 				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] S...\\.Seldan...\\.",
@@ -11,8 +11,8 @@
 			]
 		},
 		{
-			"path":[32,3,24,3],
-			"original":"Rothaarige Frau: Diese ewigen Kriege,... ich kann sie nicht mehr sehen... Das... ständige Kämpfen...",
+			"path": [32,3,24,3],
+			"original": "Rothaarige Frau: Diese ewigen Kriege,... ich kann sie nicht mehr sehen... Das... ständige Kämpfen...",
 			"lines":
 			[
 				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] This eternal war...\\.",
@@ -21,8 +21,8 @@
 			]
 		},
 		{
-			"path":[32,3,27,4],
-			"original":"Rothaarige Frau: Seldan... Denkst du wirklich... wir werden so... jemals wieder... in Frieden leben können?",
+			"path": [32,3,27,4],
+			"original": "Rothaarige Frau: Seldan... Denkst du wirklich... wir werden so... jemals wieder... in Frieden leben können?",
 			"lines":
 			[
 				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] Seldan...\\. Do you",
@@ -31,8 +31,8 @@
 			]
 		},
 		{
-			"path":[32,4,5,4],
-			"original":"Rothaarige Frau: Seldan... merkst du nicht, wie wir uns im Kreis drehen? ... merkst du nicht, wie jeder Sieg uns nur mehr Leid erbringt?",
+			"path": [32,4,5,4],
+			"original": "Rothaarige Frau: Seldan... merkst du nicht, wie wir uns im Kreis drehen? ... merkst du nicht, wie jeder Sieg uns nur mehr Leid erbringt?",
 			"lines":
 			[
 				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] Seldan...\\. Don't you",
@@ -42,8 +42,8 @@
 			]
 		},
 		{
-			"path":[32,4,9,3],
-			"original":"Rothaarige Frau: Du weißt genau was es ist... was uns... in dieser Lage hält..",
+			"path": [32,4,9,3],
+			"original": "Rothaarige Frau: Du weißt genau was es ist... was uns... in dieser Lage hält..",
 			"lines":
 			[
 				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] You know exactly what",
@@ -52,8 +52,8 @@
 			]
 		},
 		{
-			"path":[32,4,12,3],
-			"original":"Rothaarige Frau: Hör nicht auf das, ...was sie dir sagen... hör auf dich selbst, Seldan...",
+			"path": [32,4,12,3],
+			"original": "Rothaarige Frau: Hör nicht auf das, ...was sie dir sagen... hör auf dich selbst, Seldan...",
 			"lines":
 			[
 				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] Don't listen to...\\.",
@@ -62,8 +62,8 @@
 			]
 		},
 		{
-			"path":[32,4,15,3],
-			"original":"Rothaarige Frau: Du hast die Kraft dazu... Handel nach deinem eigenen Gewissen! ... Tu es für mich...",
+			"path": [32,4,15,3],
+			"original": "Rothaarige Frau: Du hast die Kraft dazu... Handel nach deinem eigenen Gewissen! ... Tu es für mich...",
 			"lines":
 			[
 				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] You have the strength",
@@ -72,8 +72,8 @@
 			]
 		},
 		{
-			"path":[32,4,18,4],
-			"original":"Rothaarige Frau: Es ist mein... letzter Wunsch an dich... Seldan... ich... ich liebe dich... Vergiss mich... bitte... nicht...",
+			"path": [32,4,18,4],
+			"original": "Rothaarige Frau: Es ist mein... letzter Wunsch an dich... Seldan... ich... ich liebe dich... Vergiss mich... bitte... nicht...",
 			"lines":
 			[
 				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] It's my...\\.",

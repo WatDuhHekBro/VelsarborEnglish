@@ -2,8 +2,8 @@
 	"dialogue":
 	[
 		{
-			"path":[4,3,9,3],
-			"original":"Funkdurchsage: WAS genau haben Sie vor?! Wollen Sie Zojeno das Zielobjekt entnehmen?! Im Alleingang?!",
+			"path": [4,3,9,3],
+			"original": "Funkdurchsage: WAS genau haben Sie vor?! Wollen Sie Zojeno das Zielobjekt entnehmen?! Im Alleingang?!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[1] WHAT are you trying to do?!\\.",
@@ -12,8 +12,8 @@
 			]
 		},
 		{
-			"path":[4,3,14,3],
-			"original":"Seldan: Nein.... Ich werde es nicht übernehmen oder erobern.",
+			"path": [4,3,14,3],
+			"original": "Seldan: Nein.... Ich werde es nicht übernehmen oder erobern.",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[2] No...\\.",
@@ -22,32 +22,32 @@
 			]
 		},
 		{
-			"path":[4,3,18,1],
-			"original":"Seldan: Ich werde es ZERSTÖREN!",
+			"path": [4,3,18,1],
+			"original": "Seldan: Ich werde es ZERSTÖREN!",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[1] I will DESTROY it!"
 			]
 		},
 		{
-			"path":[4,3,22,1],
-			"original":"Funkdurchsage: ... DAS IST NICHT IHR ERNST!",
+			"path": [4,3,22,1],
+			"original": "Funkdurchsage: ... DAS IST NICHT IHR ERNST!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[1] ...You... YOU'RE INSANE!"
 			]
 		},
 		{
-			"path":[4,3,25,2],
-			"original":"Seldan: Ich sehe keine andere Möglichkeit.",
+			"path": [4,3,25,2],
+			"original": "Seldan: Ich sehe keine andere Möglichkeit.",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[1] I don't see any other way."
 			]
 		},
 		{
-			"path":[4,3,30,2],
-			"original":"Funkdurchsage: Sie...SIE... SIE KÖNNEN DOCH NICHT...!",
+			"path": [4,3,30,2],
+			"original": "Funkdurchsage: Sie...SIE... SIE KÖNNEN DOCH NICHT...!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[1] You... YOU...\\. YOU CAN'T DO THAT!!\\.",
@@ -55,8 +55,8 @@
 			]
 		},
 		{
-			"path":[4,3,35,3],
-			"original":"(Seldan: Ich verstehe nicht, wieso ich mich überhaupt auf diese Funkgespräche einlasse....)",
+			"path": [4,3,35,3],
+			"original": "(Seldan: Ich verstehe nicht, wieso ich mich überhaupt auf diese Funkgespräche einlasse....)",
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]:\\s[2] Why do I even bother trying",
@@ -64,8 +64,8 @@
 			]
 		},
 		{
-			"path":[4,3,43,4],
-			"original":"(Seldan: Und jetzt los! Laut den Informationen muss ich jetzt links den Gang hinunter gehen, um zum Zielobjekt zu kommen...)",
+			"path": [4,3,43,4],
+			"original": "(Seldan: Und jetzt los! Laut den Informationen muss ich jetzt links den Gang hinunter gehen, um zum Zielobjekt zu kommen...)",
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]:\\s[1] Now!\\. According to the",
@@ -75,8 +75,8 @@
 			]
 		},
 		{
-			"path":[39,1,15,2],
-			"original":"Funkdurchsage: Sollte Zojeno von dem Vel- System erfahren, ist das das Ende Brigans!",
+			"path": [39,1,15,2],
+			"original": "Funkdurchsage: Sollte Zojeno von dem Vel- System erfahren, ist das das Ende Brigans!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[2] If Korzojeno gets a hold of the",
@@ -84,8 +84,8 @@
 			]
 		},
 		{
-			"path":[39,1,19,3],
-			"original":"Seldan: Ich hab nicht vor mein Land zu hintergehen, machen Sie sich keine Sorgen...",
+			"path": [39,1,19,3],
+			"original": "Seldan: Ich hab nicht vor mein Land zu hintergehen, machen Sie sich keine Sorgen...",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[2] I have no intention of",
@@ -95,8 +95,8 @@
 			]
 		},
 		{
-			"path":[39,1,25,2],
-			"original":"Funkdurchsage: Wie können Sie es dann bitte wagen so ein Risiko einzugehen?!",
+			"path": [39,1,25,2],
+			"original": "Funkdurchsage: Wie können Sie es dann bitte wagen so ein Risiko einzugehen?!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[2] How can you say that?!\\.",
@@ -104,16 +104,16 @@
 			]
 		},
 		{
-			"path":[39,1,30,1],
-			"original":"Zojenische Einheit: Da ist er! Auf ihn!",
+			"path": [39,1,30,1],
+			"original": "Zojenische Einheit: Da ist er! Auf ihn!",
 			"lines":
 			[
 				"\\c[10]Korzojenish Soldier\\c[0]:\\s[2] There he is! Get him!"
 			]
 		},
 		{
-			"path":[53,1,3,2],
-			"original":"(Seldan: Ich muss den anderen Gang entlang gehen...)",
+			"path": [53,1,3,2],
+			"original": "(Seldan: Ich muss den anderen Gang entlang gehen...)",
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]: I have to go down the",
@@ -121,8 +121,8 @@
 			]
 		},
 		{
-			"path":[54,1,3,2],
-			"original":"(Seldan: Ich muss den anderen Gang entlang gehen...)",
+			"path": [54,1,3,2],
+			"original": "(Seldan: Ich muss den anderen Gang entlang gehen...)",
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]: I have to go down the",
@@ -130,8 +130,8 @@
 			]
 		},
 		{
-			"path":[55,1,3,2],
-			"original":"(Seldan: Ich muss den anderen Gang entlang gehen...)",
+			"path": [55,1,3,2],
+			"original": "(Seldan: Ich muss den anderen Gang entlang gehen...)",
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]: I have to go down the",

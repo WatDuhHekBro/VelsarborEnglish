@@ -2,8 +2,8 @@
 	"dialogue":
 	[
 		{
-			"path":[45,1,21,2],
-			"original":"Funkdurchsage: An alle Einheiten der Birkon, die Mission ist fehlgeschlagen!",
+			"path": [45,1,21,2],
+			"original": "Funkdurchsage: An alle Einheiten der Birkon, die Mission ist fehlgeschlagen!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[4] Attention all Brigantian troops,",
@@ -11,8 +11,8 @@
 			]
 		},
 		{
-			"path":[45,1,31,3],
-			"original":"Funkdurchsage: Sofortiger Rückzug! An alle Einheiten der Birkon, umgehend den Rückzug antreten!",
+			"path": [45,1,31,3],
+			"original": "Funkdurchsage: Sofortiger Rückzug! An alle Einheiten der Birkon, umgehend den Rückzug antreten!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[4] Retreat immediately!\\. ",
@@ -21,16 +21,16 @@
 			]
 		},
 		{
-			"path":[45,1,42,1],
-			"original":"?????: .......",
+			"path": [45,1,42,1],
+			"original": "?????: .......",
 			"lines":
 			[
 				"\\c[1]?????\\c[0]:\\s[9] .......\\.\\.\\^"
 			]
 		},
 		{
-			"path":[45,2,9,3],
-			"original":"Funkdurchsage: Spezialeinheit Vel03! Treten Sie umgehend Ihren Rückzug an! Ihre Rückkehr ist von äußerster Priorität!",
+			"path": [45,2,9,3],
+			"original": "Funkdurchsage: Spezialeinheit Vel03! Treten Sie umgehend Ihren Rückzug an! Ihre Rückkehr ist von äußerster Priorität!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[4] Special-Ops Vel03!\\.",
@@ -39,16 +39,16 @@
 			]
 		},
 		{
-			"path":[45,2,17,1],
-			"original":"Vel03: .......",
+			"path": [45,2,17,1],
+			"original": "Vel03: .......",
 			"lines":
 			[
 				"\\c[1]Vel03\\c[0]:\\s[9] .......\\.\\.\\^"
 			]
 		},
 		{
-			"path":[45,3,9,4],
-			"original":"Funkdurchsage: Vel03! Antworten Sie! Vel03! Ziehen Sie sich zurück! SOFORT!! Antworten Sie! Geben Sie uns ein Zeichen!!",
+			"path": [45,3,9,4],
+			"original": "Funkdurchsage: Vel03! Antworten Sie! Vel03! Ziehen Sie sich zurück! SOFORT!! Antworten Sie! Geben Sie uns ein Zeichen!!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[2] Vel03!\\. Answer!\\. Vel03!\\.",
@@ -57,16 +57,16 @@
 			]
 		},
 		{
-			"path":[45,3,18,1],
-			"original":"Vel03: .......",
+			"path": [45,3,18,1],
+			"original": "Vel03: .......",
 			"lines":
 			[
 				"\\c[1]Vel03\\c[0]:\\s[9] .......\\.\\.\\^"
 			]
 		},
 		{
-			"path":[45,4,18,2],
-			"original":"Seldan:AHHHHHHHHHHHHHHHHHHHHHHHH!!!",
+			"path": [45,4,18,2],
+			"original": "Seldan:AHHHHHHHHHHHHHHHHHHHHHHHH!!!",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[7] AHHHHHHHHHHHHHHHHHHHHHHHH!!!",
@@ -74,8 +74,8 @@
 			]
 		},
 		{
-			"path":[45,4,27,2],
-			"original":"Funkdurchsage: VEL03!! WAS IST LOS?! Wie lautet Ihr Status?!",
+			"path": [45,4,27,2],
+			"original": "Funkdurchsage: VEL03!! WAS IST LOS?! Wie lautet Ihr Status?!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[2] VEL03!!\\. WHAT'S WRONG?!\\.",
@@ -83,16 +83,16 @@
 			]
 		},
 		{
-			"path":[45,4,31,1],
-			"original":"Seldan: .......",
+			"path": [45,4,31,1],
+			"original": "Seldan: .......",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[5] ......."
 			]
 		},
 		{
-			"path":[45,4,32,3],
-			"original":"Seldan: Statusbericht: Keine körperlichen Verletzungen, keine Beschädigung des Vel-Systems.",
+			"path": [45,4,32,3],
+			"original": "Seldan: Statusbericht: Keine körperlichen Verletzungen, keine Beschädigung des Vel-Systems.",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[4] Status report:\\.",
@@ -101,8 +101,8 @@
 			]
 		},
 		{
-			"path":[45,4,38,2],
-			"original":"Funkdurchsage: ...Gut... Treten Sie umgehend Ihren Rückzug an!",
+			"path": [45,4,38,2],
+			"original": "Funkdurchsage: ...Gut... Treten Sie umgehend Ihren Rückzug an!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[3] ...Good...\\.",
@@ -110,16 +110,16 @@
 			]
 		},
 		{
-			"path":[45,4,45,1],
-			"original":"Seldan: .......",
+			"path": [45,4,45,1],
+			"original": "Seldan: .......",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[5] ......."
 			]
 		},
 		{
-			"path":[45,4,51,2],
-			"original":"Funkdurchsage: Vel03? Geben Sie eine Bestätigung!",
+			"path": [45,4,51,2],
+			"original": "Funkdurchsage: Vel03? Geben Sie eine Bestätigung!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[3] Vel03?\\.",
@@ -127,16 +127,16 @@
 			]
 		},
 		{
-			"path":[45,4,57,1],
-			"original":"Seldan: Nein.",
+			"path": [45,4,57,1],
+			"original": "Seldan: Nein.",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[5] No."
 			]
 		},
 		{
-			"path":[45,4,61,4],
-			"original":"Funkdurchsage: ...W ...WAS?! Dies ist ein BEFEHL! Er lautet sofortiger Rückzug aus der gegnerischen Basis!",
+			"path": [45,4,61,4],
+			"original": "Funkdurchsage: ...W ...WAS?! Dies ist ein BEFEHL! Er lautet sofortiger Rückzug aus der gegnerischen Basis!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]: ...W\\. ...WHAT?!\\.",
@@ -146,8 +146,8 @@
 			]
 		},
 		{
-			"path":[45,4,67,2],
-			"original":"Seldan: Nein, ich werde nicht fliehen.",
+			"path": [45,4,67,2],
+			"original": "Seldan: Nein, ich werde nicht fliehen.",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[2] No,\\. I won't run",
@@ -155,8 +155,8 @@
 			]
 		},
 		{
-			"path":[45,4,72,3],
-			"original":"Funkdurchsage: Sie wissen, was für Konsequenzen Befehlsverweigerungen haben können! Was fällt Ihnen ein?!",
+			"path": [45,4,72,3],
+			"original": "Funkdurchsage: Sie wissen, was für Konsequenzen Befehlsverweigerungen haben können! Was fällt Ihnen ein?!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]: You know what the consequences",
@@ -165,8 +165,8 @@
 			]
 		},
 		{
-			"path":[45,4,77,2],
-			"original":"Seldan: ...Ich werde tiefer in die Basis eindringen.",
+			"path": [45,4,77,2],
+			"original": "Seldan: ...Ich werde tiefer in die Basis eindringen.",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[2] ...\\.I'm going to move deeper",
@@ -174,8 +174,8 @@
 			]
 		},
 		{
-			"path":[45,4,82,4],
-			"original":"Funkdurchsage: Ist Ihnen bewusst, was Sie da machen?! Das ist blanker SELBSTMORD! Selbst mit dem Vel-System werden Sie nicht im Alleingang gegen eine ganze Armee bestehen können!",
+			"path": [45,4,82,4],
+			"original": "Funkdurchsage: Ist Ihnen bewusst, was Sie da machen?! Das ist blanker SELBSTMORD! Selbst mit dem Vel-System werden Sie nicht im Alleingang gegen eine ganze Armee bestehen können!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]: They know you're here, are you trying",
@@ -185,16 +185,16 @@
 			]
 		},
 		{
-			"path":[45,4,89,1],
-			"original":"Gegnerische Einheit: Da ist er! Los!",
+			"path": [45,4,89,1],
+			"original": "Gegnerische Einheit: Da ist er! Los!",
 			"lines":
 			[
 				"\\c[10]Enemy Soldier\\c[0]: There he is!\\. Get him!"
 			]
 		},
 		{
-			"path":[45,4,104,3],
-			"original":"Gegnerische Einheit: Ergeben Sie sich auf der Stelle! Jeglicher Widerstand wird mit sofortiger Auslöschung entgegnet!",
+			"path": [45,4,104,3],
+			"original": "Gegnerische Einheit: Ergeben Sie sich auf der Stelle! Jeglicher Widerstand wird mit sofortiger Auslöschung entgegnet!",
 			"lines":
 			[
 				"\\c[10]Enemy Soldier\\c[0]: Don't move!\\.",
@@ -202,24 +202,24 @@
 			]
 		},
 		{
-			"path":[45,4,111,2],
-			"original":"(Seldan: Jetzt gibt es kein Zurück mehr...)",
+			"path": [45,4,111,2],
+			"original": "(Seldan: Jetzt gibt es kein Zurück mehr...)",
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]:\\s[2] This ends now...)"
 			]
 		},
 		{
-			"path":[45,4,162,1],
-			"original":"Gegnerische Einheit: W...Was zum...?!",
+			"path": [45,4,162,1],
+			"original": "Gegnerische Einheit: W...Was zum...?!",
 			"lines":
 			[
 				"\\c[10]Enemy Soldier\\c[0]: W... What the...?!"
 			]
 		},
 		{
-			"path":[45,6,7,4],
-			"original":"Funkdurchsage: Vel03! Derartige Erhöhung des Wirkungsgrades des Vel-Systems führt zur Überstrapazierung Ihres Körpers! Sie gefährden Ihr Leben!",
+			"path": [45,6,7,4],
+			"original": "Funkdurchsage: Vel03! Derartige Erhöhung des Wirkungsgrades des Vel-Systems führt zur Überstrapazierung Ihres Körpers! Sie gefährden Ihr Leben!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[2] Vel03!\\. Such an increase in the",
@@ -229,8 +229,8 @@
 			]
 		},
 		{
-			"path":[45,6,13,4],
-			"original":"Seldan: ...Hören Sie mir zu. Ich habe meine eigene Ansicht der Dinge bekommen. Ich werde ihrem Befehl nicht mehr gehorchen.",
+			"path": [45,6,13,4],
+			"original": "Seldan: ...Hören Sie mir zu. Ich habe meine eigene Ansicht der Dinge bekommen. Ich werde ihrem Befehl nicht mehr gehorchen.",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[2] ...Listen to me.\\. I've got",
@@ -239,8 +239,8 @@
 			]
 		},
 		{
-			"path":[45,6,18,2],
-			"original":"Seldan: ...Diese Aktion hier wird vielleicht meine letzte sein, ...",
+			"path": [45,6,18,2],
+			"original": "Seldan: ...Diese Aktion hier wird vielleicht meine letzte sein, ...",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[2] ...this may just be",
@@ -248,8 +248,8 @@
 			]
 		},
 		{
-			"path":[45,6,21,3],
-			"original":"Seldan: ...aber ich sehe es als die einzige Möglichkeit diesem Chaos ENDLICH ein Ende zu setzen.",
+			"path": [45,6,21,3],
+			"original": "Seldan: ...aber ich sehe es als die einzige Möglichkeit diesem Chaos ENDLICH ein Ende zu setzen.",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[2] ...but this is the only way",
@@ -258,24 +258,24 @@
 			]
 		},
 		{
-			"path":[45,6,27,1],
-			"original":"Funkdurchsage: W..Was reden Sie da?!",
+			"path": [45,6,27,1],
+			"original": "Funkdurchsage: W..Was reden Sie da?!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[2] W...\\. What are you talking about?!"
 			]
 		},
 		{
-			"path":[45,6,30,2],
-			"original":"Seldan: Ich habe jetzt keine Zeit für Diskussionen!",
+			"path": [45,6,30,2],
+			"original": "Seldan: Ich habe jetzt keine Zeit für Diskussionen!",
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[2] I don't have time for this!"
 			]
 		},
 		{
-			"path":[45,6,38,2],
-			"original":"Funkdurchsage: Beenden Sie diesen Wahnsinn! UNVERZÜGLICH! Vel03!!",
+			"path": [45,6,38,2],
+			"original": "Funkdurchsage: Beenden Sie diesen Wahnsinn! UNVERZÜGLICH! Vel03!!",
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[2] Stop this madness!\\.",
@@ -283,8 +283,8 @@
 			]
 		},
 		{
-			"path":[58,1,3,2],
-			"original":"(Seldan: Nein, für mich gibt es kein zurück mehr.)",
+			"path": [58,1,3,2],
+			"original": "(Seldan: Nein, für mich gibt es kein zurück mehr.)",
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]: No,\\. there's no",
@@ -292,8 +292,8 @@
 			]
 		},
 		{
-			"path":[59,1,3,2],
-			"original":"(Seldan: Nein, für mich gibt es kein zurück mehr.)",
+			"path": [59,1,3,2],
+			"original": "(Seldan: Nein, für mich gibt es kein zurück mehr.)",
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]: No,\\. there's no",
@@ -301,8 +301,8 @@
 			]
 		},
 		{
-			"path":[60,1,3,2],
-			"original":"(Seldan: Nein, für mich gibt es kein zurück mehr.)",
+			"path": [60,1,3,2],
+			"original": "(Seldan: Nein, für mich gibt es kein zurück mehr.)",
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]: No,\\. there's no",
@@ -310,8 +310,8 @@
 			]
 		},
 		{
-			"path":[61,1,3,2],
-			"original":"(Seldan: Nein, für mich gibt es kein zurück mehr.)",
+			"path": [61,1,3,2],
+			"original": "(Seldan: Nein, für mich gibt es kein zurück mehr.)",
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]: No,\\. there's no",

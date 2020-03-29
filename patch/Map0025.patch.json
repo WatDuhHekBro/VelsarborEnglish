@@ -2,8 +2,8 @@
 	"dialogue":
 	[
 		{
-			"path":[5,2,2,3],
-			"original":"Bürgermeister: Oh, hallo! Wie geht es Ihnen? Wann wollen Sie denn wieder nach Nomerea zurückkehren?",
+			"path": [5,2,2,3],
+			"original": "Bürgermeister: Oh, hallo! Wie geht es Ihnen? Wann wollen Sie denn wieder nach Nomerea zurückkehren?",
 			"lines":
 			[
 				"\\c[10]Mayor\\c[0]: Oh, hello! How are you? When",
@@ -11,9 +11,9 @@
 			]
 		},
 		{
-			"path":[5,2,8,2],
-			"indent":1,
-			"original":"Cibon: Ich denk', wir werden gleich abreisen, nicht wahr Kumpel?",
+			"path": [5,2,8,2],
+			"indent": 1,
+			"original": "Cibon: Ich denk', wir werden gleich abreisen, nicht wahr Kumpel?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] I think we'll leave soon,",
@@ -21,9 +21,9 @@
 			]
 		},
 		{
-			"path":[5,2,11,2],
-			"indent":1,
-			"original":"Kento: Ja. Ich denke, wir haben hier nichts mehr zu tun.",
+			"path": [5,2,11,2],
+			"indent": 1,
+			"original": "Kento: Ja. Ich denke, wir haben hier nichts mehr zu tun.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Yeah.\\. I don't think we have",
@@ -31,9 +31,9 @@
 			]
 		},
 		{
-			"path":[5,2,14,2],
-			"indent":1,
-			"original":"Bürgermeister: Okay. Ich wünsch euch dann ne gute Reise! Auf Wiedersehen.",
+			"path": [5,2,14,2],
+			"indent": 1,
+			"original": "Bürgermeister: Okay. Ich wünsch euch dann ne gute Reise! Auf Wiedersehen.",
 			"lines":
 			[
 				"\\c[10]Mayor\\c[0]: Okay. I wish you a good",
@@ -41,9 +41,9 @@
 			]
 		},
 		{
-			"path":[5,2,22,4],
-			"indent":1,
-			"original":"Kento: Sicherlich noch heute. Ich suche nur noch meinen Kollegen. Wissen Sie vielleicht, wo er sein könnte?",
+			"path": [5,2,22,4],
+			"indent": 1,
+			"original": "Kento: Sicherlich noch heute. Ich suche nur noch meinen Kollegen. Wissen Sie vielleicht, wo er sein könnte?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Definitely still today.",
@@ -52,9 +52,9 @@
 			]
 		},
 		{
-			"path":[5,2,27,4],
-			"indent":1,
-			"original":"Bürgermeister: Nein, tut mir Leid. Zurzeit komme ich selten aus dem Haus. Ich muss noch einiges mit dem Bezirksposten klären, was finanzielle Angelegenheiten angeht..",
+			"path": [5,2,27,4],
+			"indent": 1,
+			"original": "Bürgermeister: Nein, tut mir Leid. Zurzeit komme ich selten aus dem Haus. Ich muss noch einiges mit dem Bezirksposten klären, was finanzielle Angelegenheiten angeht..",
 			"lines":
 			[
 				"\\c[10]Mayor\\c[0]: Sorry, I don't.",
@@ -64,9 +64,9 @@
 			]
 		},
 		{
-			"path":[5,2,31,2],
-			"indent":1,
-			"original":"Bürgermeister: Das bedeutet viel Schreibarbeit und...",
+			"path": [5,2,31,2],
+			"indent": 1,
+			"original": "Bürgermeister: Das bedeutet viel Schreibarbeit und...",
 			"lines":
 			[
 				"\\c[10]Mayor\\c[0]: That means a lot",
@@ -74,9 +74,9 @@
 			]
 		},
 		{
-			"path":[5,2,35,2],
-			"indent":1,
-			"original":"Kento: Ja... hab' schon verstanden..",
+			"path": [5,2,35,2],
+			"indent": 1,
+			"original": "Kento: Ja... hab' schon verstanden..",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Yes...\\.",
@@ -84,9 +84,9 @@
 			]
 		},
 		{
-			"path":[5,2,38,2],
-			"indent":1,
-			"original":"Bürgermeister: Na ja, wird sicherlich nicht schwer ihn hier zu finden.",
+			"path": [5,2,38,2],
+			"indent": 1,
+			"original": "Bürgermeister: Na ja, wird sicherlich nicht schwer ihn hier zu finden.",
 			"lines":
 			[
 				"\\c[10]Mayor\\c[0]: Well, it won't be difficult",
@@ -94,17 +94,17 @@
 			]
 		},
 		{
-			"path":[5,2,42,1],
-			"indent":1,
-			"original":"Kento: Ja.....",
+			"path": [5,2,42,1],
+			"indent": 1,
+			"original": "Kento: Ja.....",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Ok."
 			]
 		},
 		{
-			"path":[13,1,2,3],
-			"original":"Bürgermeister: Tut mir Leid, aber ich bin derzeit sehr beschäftigt... Es gibt wichtige Sachen, die ich noch erledigen muss.",
+			"path": [13,1,2,3],
+			"original": "Bürgermeister: Tut mir Leid, aber ich bin derzeit sehr beschäftigt... Es gibt wichtige Sachen, die ich noch erledigen muss.",
 			"lines":
 			[
 				"\\c[10]Mayor\\c[0]: I'm sorry, but I'm very",

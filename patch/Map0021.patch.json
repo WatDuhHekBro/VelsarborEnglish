@@ -2,9 +2,9 @@
 	"dialogue":
 	[
 		{
-			"path":[10,1,3,3],
-			"indent":1,
-			"original":"Ladenbesitzerin: Hallo... Ah, wenn das nicht unsere beiden Wachleute sind, die uns von dieser Räuberbande befreit haben!",
+			"path": [10,1,3,3],
+			"indent": 1,
+			"original": "Ladenbesitzerin: Hallo... Ah, wenn das nicht unsere beiden Wachleute sind, die uns von dieser Räuberbande befreit haben!",
 			"lines":
 			[
 				"\\c[10]Shopkeeper\\c[0]: Hello...\\. Ah,",
@@ -13,9 +13,9 @@
 			]
 		},
 		{
-			"path":[10,1,8,3],
-			"indent":1,
-			"original":"Ladenbesitzerin: Hallo... Ah, Sie sind doch einer der beiden Wachleute, die hier die Räuberbande geschnappt haben, oder?",
+			"path": [10,1,8,3],
+			"indent": 1,
+			"original": "Ladenbesitzerin: Hallo... Ah, Sie sind doch einer der beiden Wachleute, die hier die Räuberbande geschnappt haben, oder?",
 			"lines":
 			[
 				"\\c[10]Shopkeeper\\c[0]: Hello...\\. Ah,",
@@ -24,18 +24,18 @@
 			]
 		},
 		{
-			"path":[10,1,16,1],
-			"indent":1,
-			"original":"Kento: Öhm... ja. Worum geht es denn?",
+			"path": [10,1,16,1],
+			"indent": 1,
+			"original": "Kento: Öhm... ja. Worum geht es denn?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Oh... yeah.\\. What's this about?"
 			]
 		},
 		{
-			"path":[10,1,18,3],
-			"indent":1,
-			"original":"Cibon: Wurde Ihnen auch alles zurückgegeben? Also das, was die Diebe gestohlen haben...",
+			"path": [10,1,18,3],
+			"indent": 1,
+			"original": "Cibon: Wurde Ihnen auch alles zurückgegeben? Also das, was die Diebe gestohlen haben...",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Was everything returned",
@@ -43,18 +43,18 @@
 			]
 		},
 		{
-			"path":[10,1,24,1],
-			"indent":1,
-			"original":"Kento: Genauso ist es.",
+			"path": [10,1,24,1],
+			"indent": 1,
+			"original": "Kento: Genauso ist es.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Yep."
 			]
 		},
 		{
-			"path":[10,1,26,3],
-			"indent":1,
-			"original":"Kento: Haben Sie auch alles zurück bekommen, was ihnen gestohlen wurde?",
+			"path": [10,1,26,3],
+			"indent": 1,
+			"original": "Kento: Haben Sie auch alles zurück bekommen, was ihnen gestohlen wurde?",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Did you get everything",
@@ -62,9 +62,8 @@
 			]
 		},
 		{
-			"path":[10,1,32,4],
-			"indent":0,
-			"original":"Ladenbesitzerin: Mir wurde glücklicherweise alles wieder zurückgegeben. Es war nicht das erste Mal, wo sie etwas aus meinem Laden gestohlen hatten.",
+			"path": [10,1,32,4],
+			"original": "Ladenbesitzerin: Mir wurde glücklicherweise alles wieder zurückgegeben. Es war nicht das erste Mal, wo sie etwas aus meinem Laden gestohlen hatten.",
 			"lines":
 			[
 				"\\c[10]Shopkeeper\\c[0]: Fortunately, everything",
@@ -74,9 +73,8 @@
 			]
 		},
 		{
-			"path":[10,1,36,4],
-			"indent":0,
-			"original":"Ladenbesitzerin: Ich bin heilfroh, dass diese Typen endlich geschnappt worden sind. Vielen Dank! ... Hier, das ist für euch.",
+			"path": [10,1,36,4],
+			"original": "Ladenbesitzerin: Ich bin heilfroh, dass diese Typen endlich geschnappt worden sind. Vielen Dank! ... Hier, das ist für euch.",
 			"lines":
 			[
 				"\\c[10]Shopkeeper\\c[0]: I'm glad that these",
@@ -86,9 +84,8 @@
 			]
 		},
 		{
-			"path":[10,1,56,2],
-			"indent":0,
-			"original":"Kento: Oh.. Vielen Dank. Sowas kann man immer gut gebrauchen.",
+			"path": [10,1,56,2],
+			"original": "Kento: Oh.. Vielen Dank. Sowas kann man immer gut gebrauchen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Oh..\\. Thank you very much.",
@@ -96,9 +93,8 @@
 			]
 		},
 		{
-			"path":[10,1,59,2],
-			"indent":0,
-			"original":"Ladenbesitzerin: Keine Ursache. Ich habe noch mehr solcher Sachen im Sortiment.",
+			"path": [10,1,59,2],
+			"original": "Ladenbesitzerin: Keine Ursache. Ich habe noch mehr solcher Sachen im Sortiment.",
 			"lines":
 			[
 				"\\c[10]Shopkeeper\\c[0]: Don't mention it.",
@@ -106,8 +102,8 @@
 			]
 		},
 		{
-			"path":[10,2,2,2],
-			"original":"Ladenbesitzerin: Guten Tag. Brauchen Sie ein paar Heilmittel?",
+			"path": [10,2,2,2],
+			"original": "Ladenbesitzerin: Guten Tag. Brauchen Sie ein paar Heilmittel?",
 			"lines":
 			[
 				"\\c[10]Shopkeeper\\c[0]: Hello.\\.",
@@ -115,8 +111,8 @@
 			]
 		},
 		{
-			"path":[10,3,2,2],
-			"original":"Ladenbesitzerin: Guten Tag. Brauchen Sie ein paar Heilmittel?",
+			"path": [10,3,2,2],
+			"original": "Ladenbesitzerin: Guten Tag. Brauchen Sie ein paar Heilmittel?",
 			"lines":
 			[
 				"\\c[10]Shopkeeper\\c[0]: Hello.\\.",
