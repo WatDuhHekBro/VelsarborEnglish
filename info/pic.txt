@@ -32,7 +32,7 @@ Spiel-Start-ID: "Enter A Number"
 System
 SZENE: Scene Fancy Text
 tech: Techs
-turnier: Enemy Groups
+turnier: Tournament Teams
 tutorial-pic: Appears during interactions with Yahenru (which I assume is a tutorial NPC).
 velsystem: Vel-System
 VERKAUFEN: Trading Sell Menu
@@ -733,7 +733,7 @@ Tentakel: Tentacle
 ???? Soldat: ???? Soldier
 Wolf: Wolf
 Yahenru: Yahenru
-Zojenko-Soldat: Zojenish Soldier
+Zojenko-Soldat: Korzojenish Soldier
 
 -= Enemy Groups =-
 Die Bärenbrüder: 

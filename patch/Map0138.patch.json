@@ -6,7 +6,7 @@
 			"original":"Zojenische Einheit: Frau Mensesso, bitte verlassen Sie die Forschungsbasis! Hier sind Sie nicht sicher.",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] Lady Mensesso, please",
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] Lady Mensesso, please",
 				"leave this research station!\\. You aren't",
 				"safe here."
 			]
@@ -27,7 +27,7 @@
 			"original":"Zojenische Einheit: So sollte es sein, wäre da nur nicht diese Spezialeinheit...",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] That's what we would've",
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] That's what we would've",
 				"expected,\\. if it weren't for this",
 				"Special-Ops soldier..."
 			]
@@ -47,7 +47,7 @@
 			"original":"Zojenische Einheit: Es ist unglaublich! Eine einzelne Person stürmt durch den Komplex wie ein Berserker und lässt sich durch nichts aufhalten!",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]: It's unbelievable!\\.",
+				"\\c[10]Korzojenish Soldier\\c[0]: It's unbelievable!\\.",
 				"A single person, storming through the complex",
 				"like a berserker and can't be stopped",
 				"by anything!"
@@ -58,7 +58,7 @@
 			"original":"Zojenische Einheit: Dutzend von Soldaten hat sie schon besiegt! Im Alleingang!",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]: He has already defeated",
+				"\\c[10]Korzojenish Soldier\\c[0]: He has already defeated",
 				"a dozen soldiers! Single-handedly!"
 			]
 		},
@@ -78,7 +78,7 @@
 			"original":"Zojenische Einheit: So unglaublich es klingen mag, es ist so! Ich habe es mit eigenen Augen gesehen.",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] As outlandish",
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] As outlandish",
 				"as it may sound,\\. it's true!\\.",
 				"I saw it with my own eyes."
 			]
@@ -88,7 +88,7 @@
 			"original":"Zojenische Einheit: Verlassen Sie diese Basis sofort! Wir können nicht mehr für Ihre Sicherheit garantieren.",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] Leave this base",
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] Leave this base",
 				"immediately!\\. We can no longer",
 				"guarantee your safety."
 			]
@@ -116,7 +116,7 @@
 			"original":"Zojenische Einheit: Mein Befehl war, Sie sicher hier raus zu begleiten. Ich kann nicht so einfach gehen!",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] My order was to",
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] My order was to",
 				"escort you safely out of here.\\.",
 				"I can't go that easy!"
 			]
@@ -137,7 +137,7 @@
 			"original":"Zojenische Einheit: ... Gut, aber beeilen Sie sich!",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] ...\\.Fine,\\.",
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] ...\\.Fine,\\.",
 				"but hurry up!"
 			]
 		},
@@ -156,7 +156,7 @@
 			"original":"Zojenische Einheit: Er bewegt sich in Richtung des Kerns der Basis...",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]:\\s[1] He's headed",
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] He's headed",
 				"towards the core of the base..."
 			]
 		},
@@ -205,7 +205,7 @@
 			"original":"Zojenische Einheit: D... Das gibt es nicht... FPM05! Von einem Menschen besiegt! Nein... D... Das ist kein Mensch mehr!",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]: G...\\. Gone...\\. The FPM05",
+				"\\c[10]Korzojenish Soldier\\c[0]: G...\\. Gone...\\. The FPM05",
 				"is gone!\\. Destroyed by a single person!\\.",
 				"No...\\. Th...\\. That thing,\\. whatever it is,\\.",
 				"it's not even human anymore!"
@@ -226,7 +226,7 @@
 			"original":"Zojenische Einheit: Die Quelle all dieser Macht? Auch die seiner?!",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]: The source of all this",
+				"\\c[10]Korzojenish Soldier\\c[0]: The source of all this",
 				"power?\\. His power too?!"
 			]
 		},
@@ -264,7 +264,7 @@
 			"original":"Zojenische Einheit: Das heißt... Er will den Kern zerstören?!",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]: That means...\\.",
+				"\\c[10]Korzojenish Soldier\\c[0]: That means...\\.",
 				"he wants to destroy the core?!"
 			]
 		},

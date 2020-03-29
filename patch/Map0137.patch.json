@@ -14,7 +14,7 @@
 			"original":"Zojenische Einheit: Er... er hat es besiegt!",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]: He...\\. he destroyed it!"
+				"\\c[10]Korzojenish Soldier\\c[0]: He...\\. he destroyed it!"
 			]
 		},
 		{
@@ -22,7 +22,7 @@
 			"original":"Zojenische Einheit: ...Nein! Was können wir jetzt noch machen?!",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]: ...No!\\. What do we do now?!"
+				"\\c[10]Korzojenish Soldier\\c[0]: ...No!\\. What do we do now?!"
 			]
 		},
 		{
@@ -30,7 +30,7 @@
 			"original":"Zojenische Einheit: Da kommt er! Startet die FPM05!",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]: Here he comes!\\.",
+				"\\c[10]Korzojenish Soldier\\c[0]: Here he comes!\\.",
 				"Start the FPM05!"
 			]
 		},
@@ -39,7 +39,7 @@
 			"original":"Zojenische Einheit: Hier wird Ihr Vorgehen ein Ende finden!",
 			"lines":
 			[
-				"\\c[10]Zojenish Soldier\\c[0]: Your little journey",
+				"\\c[10]Korzojenish Soldier\\c[0]: Your little journey",
 				"ends right here!"
 			]
 		},
