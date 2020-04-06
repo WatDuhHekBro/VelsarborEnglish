@@ -1,0 +1,30 @@
+Some pictures have a gradient background behind the text which makes it inconvenient to replace said text without messing up the overall look. This file serves to document where each gradient background can be quilted together.
+
+[analyse_fenster]
+menu_spielbeenden
+Sieg-Menu-Techfeld1
+
+[auswahl-animation]
+auswahl-animation3
+
+[auswahl-animation6]
+lvlup_stat_***+
+
+[auswahl-animation8]
+wahl_abwehr
+
+[menu_ani-schalter]
+Sieg-Menu-Level-Up
+
+[panorama-only (in addition to others)]
+menu_ani-felt
+Sieg-Menu_ani_feld1
+
+[???]
+menu_feld-nextlearn1
+nachricht_Element-weg
+ObjektHandel-BG**
+Spiel-Start-ID_info
+System-Minen-ItemGet
+tutorial_pic*
+**Panorama**

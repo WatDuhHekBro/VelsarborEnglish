@@ -115,10 +115,10 @@ Verwirrung: Confused
 #############
 -= Techs =-
 3-Klingen-Tech: 3-Blade Tech
-Berserkers Wut: Berserker Wrath
+Berserkers Wut: Berserker Rage ("Berserker's Wrath" doesn't fit.)
 Blutsauger: Bloodsucker
 Dampfwolke: Steam Cloud
-Das Ende: The Finale
+Das Ende: The Finale ("The Grand Finale" doesn't fit.)
 Flug-Beutel: Flying Bags
 Giftwolkenflug: Poison Clouds
 Harpyienblitz: Harpy Thunder
@@ -130,7 +130,7 @@ Viaexillum: Viaexillum
 Wohltäter-Sturm: Spirit Tempest
 Wurfmesser: Throwing Knife
 Zinkar-Combo: Zinkar Combo
-Funkenschwung: Volcanic Swipe (It's some sort of explosive imbuing, not electric, which would've been Hyperstatic Swing.) (Volcanic Uppercut doesn't fit in the box.)
+Funkenschwung: Volcanic Swipe (It's some sort of explosive imbuing, not electric, which would've been "Hyperstatic Swing". "Volcanic Uppercut" doesn't fit in the box.)
 Stolperstich: Staggering Blow
 Todesgemetzel: Massacre
 
@@ -670,9 +670,9 @@ Ein grüner Anhänger - A green pendant.
 -= Other =-
 Eisenerz: Iron Ore
 
-Graufunkpulver: Gray ?? Powder
+Graufunkpulver: Gray Powder
 
-Inanitaskugel: Inanita's Ball
+Inanitaskugel: Inanitas Ball
 
 Küken: Chick
 Ein ziemlich hungriges Küken - A pretty hungry chick.
@@ -688,7 +688,7 @@ Paket: Package
 Riesenei: Giant Egg
 Ein großes Ei, perfekt für Omelett - A big egg, perfect for making an omelette.
 
-Turniermünze: 
+Turniermünze: Tourney Token (because "Tournament Coin" wouldn't fit)
 
 
 
@@ -702,7 +702,7 @@ Blauschleim: Blue Slime
 Brocky: Brocky
 Wilder Bär: Wild Bear
 Cibon: Cibon
-Eigene Party: Own Party
+Eigene Party: Your Party
 Fledermaus: Bat
 Freier Samurai: Free Samurai
 Genyu: Genyu
@@ -733,26 +733,27 @@ Tentakel: Tentacle
 ???? Soldat: ???? Soldier
 Wolf: Wolf
 Yahenru: Yahenru
-Zojenko-Soldat: Korzojenish Soldier
+Zojenko-Soldat: Zojenish Soldier (because "Korzojenish Soldier" doesn't fit)
 
--= Enemy Groups =-
-Die Bärenbrüder: 
-Der Chef: 
-Die Exoten: 
-Die Fejarschlitzer: 
-Pauamainer Veteranen: 
-Rächer der Gerechten: 
-Die Ritter der Nacht: 
-Das Rudel: 
-Die Schattenschleicher: 
-Die Schleimigen: 
-Der Briganten-Stolz: 
-Die Repsbrot-Truppe: 
-Die Verräter: 
-Die Zinkar-Schlächter: 
-TruppeTruppeTruppe: 
-Der Untertage-Schreck: 
-Die Zinkar Brüder: 
+-= Tournament Teams =-
+(You choose between four team names: "Zinkar-Schlächter", "Repsbrot-Truppe", "Briganten-Stolz", or "Die Verräter")
+Die Bärenbrüder: The Bear Brothers
+Der Chef: Da Boss
+Die Exoten: The Exotics
+Die Fejarschlitzer: The Fejar Slitters
+Pauamainer Veteranen: Pauamain Veterans
+Rächer der Gerechten: Avenger of the Just
+Die Ritter der Nacht: The Knights of Night
+Das Rudel: The Pack
+Die Schattenschleicher: The Shadow Crawlers
+Die Schleimigen: The Slimealgamation
+Der Briganten-Stolz: The Brigantine Pride
+Die Repsbrot-Truppe: The Reps Bread Force
+Die Verräter: The Traitors
+Die Zinkar-Schlächter: The Zinkar Butchers
+TruppeTruppeTruppe: TroopTroopTroop
+Der Untertage-Schreck: Terror from Below
+Die Zinkar Brüder: The Zinkar Brothers
 
 
 
@@ -851,25 +852,25 @@ Vel-System: Vel-System
 -= Panorama =-
 Hauptmenu: Main Menu
 Ausrüstung: Equipment
-Kaufen: 
-Verkaufen: 
-Verlassen: 
+Kaufen: Buy
+Verkaufen: Sell
+Verlassen: Leave
 Gegenstände: Items
-Im Inventar: 
-Ausgerüstet: 
+Im Inventar: In Inventory
+Ausgerüstet: Equipped
 Optionen: Options
 Techniken: Techs
-Wert: 
-Gegenstände: 
-Waffen: 
-Armbänder: 
-Rüstungen: 
-Helme: 
-Zubehör: 
-Sonstiges: 
-Hinterlassene Gegenstände: 
-Gefunden: 
-Gesamt: 
+Wert: Value
+Gegenstände: Items
+Waffen: Weapons
+Armbänder: Armband
+Rüstungen: Armor
+Helme: Helmet
+Zubehör: Misc
+Sonstiges: Other
+Hinterlassene Gegenstände: Objects left behind
+Gefunden: Found
+Gesamt: Total
 
 
 
@@ -895,8 +896,8 @@ Verzauberungen:
 Ziel: 
 
 -= beschreib =-
-[Option_1-1] Held rennt bei gedrückter Entertaste. - The hero runs when pressing Select.
-[Option_1-2] Held geht bei gedrückter Entertaste. - The hero walks when pressing Select.
+[Option_1-1] Held rennt bei gedrückter Entertaste. - The hero runs when pressing Enter.
+[Option_1-2] Held geht bei gedrückter Entertaste. - The hero walks when pressing Enter.
 [tech_unknown] Keine Angaben - No Information
 
 -= beschr-ruest =-
@@ -920,6 +921,12 @@ SCHUTZ - DEFENSE
 SIGNUM KONTER - SIGNUM COUNTER
 ANGRIFF KONTER - ATTACK COUNTER
 TREFFER - ACCURACY
+
+-= Info Cards =-
+(Happens when you equip something with less element slots)
+Überschüssige Elementkopplung wurde abgelegt. --- 
+(New Game Menu)
+Geben sie eine Nummer von 1-50 an. Diese wird im Spielstand angezeigt. --- Please enter a number from 1-50. This will be indicated in-game.
 
 -= Pseudo_minenausruest =-
 Minen Ausrüst. - Mine Equipment.

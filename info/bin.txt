@@ -23,23 +23,6 @@ Picture/...
 
 
 
-#################
-# New Game Menu #
-#################
-Geben sie ihrem Spiel eine ID!
-
-Geben sie eine Nummer von 1-50 an.
-Diese wird im Spielstand angezeigt.
-
-[=======================================]
-
-This will be your game ID!
-
-Please enter a number from 1-50.
-This will be indicated in-game.
-
-
-
 ###############
 # Intro Scene #
 ###############
@@ -168,9 +151,7 @@ we would've never discovered it!
 
 ###################
 # Opening Credits #
-#######################################
-# "Lachsen prasentiert" Offset: 58 11 #
-#######################################
+###################
 Lachsen presentiert
 Lachsen präsentiert
 
@@ -207,6 +188,7 @@ Lachsen
 
 [=======================================]
 
+Offset: (58,11)
 Lachsen prezents
 Lachsen presents
 
@@ -467,6 +449,20 @@ Wieso hast du ihr das angetan?!
 "Du wirst nicht alleine sein..."
 "Nur um dich unglücklich zu machen!"
 
+"It's tough, I know, but you have to be strong, darling."
+No! Mom, don't do it!
+"Mom, when will Dad finally come back?"
+"He'll come back, don't worry!"
+"I'll take everything, everything that makes you happy, my son!"
+"As soon as the war is over, it will come and stay with us."
+"We all suffer from his loss"
+"But grief won't bring him back to life, honey ..."
+Why did you do this to her ?!
+"I did it for you, my son! Only for you!"
+"I'll always be there for you, don't worry ..."
+"You won't be alone ..."
+"Just to make you unhappy!"
+
 
 
 #################
@@ -546,6 +542,25 @@ Dilea, ich sage dir dies nur, damit du...
 ...Nein!
 Ich werde dich nicht gewinnen lassen! Niemals!
 
+"Poor boy, first he lost his father and then ..."
+"... how could his mother disappear in such a situation?"
+"How wonderfully everything went!"
+"How she ran straight into her doom!"
+My dearest Dilea, I made a terrifying discovery on the battlefield ...
+How ... how could you ?!
+"My son, just so that you too can put an end to your existence!"
+I beg you! Be careful who you talk to about it!
+Anyone who knows it is a danger for them to act against!
+"If your grief wins over you, I win!"
+....No....
+And yet, this secret must not remain one!
+Dilea, I'm just telling you this so that you ...
+"I divorced and I'm pulling you both!"
+... you know ...
+"You are the last one missing!"
+...No!
+I won't let you win! No way!
+
 -= Rearranged for the letter =-
 Meine allerliebste Dilea, ich habe eine erschreckende Entdeckung auf dem Schlachtfeld gemacht...
 Ich bitte dich! Sei vorsichtig mit wem du darüber redest!
@@ -553,6 +568,13 @@ Jeder, der es weiß, ist für sie eine Gefahr, gegen die sie vorgehen!
 Und trotzdem, diese Geheimnis darf ein solches nicht bleiben!
 Dilea, ich sage dir dies nur, damit du...
 ...weißt...
+
+My dearest Dilea, I made a terrifying discovery on the battlefield ...
+I beg you! Be careful who you talk to about it!
+Anyone who knows it is a danger for them to act against!
+And yet, this secret must not remain one!
+Dilea, I'm just telling you this so that you ...
+... you know ...
 
 
 
@@ -617,6 +639,18 @@ https://www.youtube.com/watch?v=IcC7GfnkSHc&list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemy
 "...oder Falle!"
 "Wofür?! Antworte! Antworte gefälligst!"
 
+"Truly! This is my son! This is my Kento!"
+"How so..."
+"You should be dead !! Shattered! Forget! Now you are alive ?!"
+"What .. what's going on here ..."
+"I am proud of you."
+"You are not dead! It never was!"
+"What are you talking about ?! For what ... What for what you say ?!"
+"For this moment."
+"Fight ..."
+"... or trap!"
+"For what ?! Answer! Please answer!"
+
 
 
 ###############
@@ -673,11 +707,29 @@ https://www.youtube.com/watch?v=aQgDWid_niU&list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemy
 "Kento... es ist gut..."
 Wer...?
 
+"Leave ... Leave me alone!"
+"You have no right to live!"
+"I'm sorry Kento ..."
+"Why do you say that?!"
+"I'm not talking to you anymore!"
+"DISAPPEAR!"
+"Stop it!"
+"STOP IT!!"
+"Kento ..."
+"Kento ... it's good ..."
+Who...?
+
 
 
 #################
 # Miscellaneous #
 #################
+Geben sie ihrem Spiel eine ID!
+
+This will be your game ID!
+
+[=======================================]
+
 Zur gleichen Zeit...
 
 Meanwhile...
@@ -736,7 +788,7 @@ Meanwhile in Silvanwald
 Einige Zeit später im
 Schloss von Domarkor
 
-Some time later in the
+Some time later in
 Domarkor Palace
 
 [=======================================]
@@ -776,15 +828,15 @@ https://www.youtube.com/watch?v=aALIoiviipQ&list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemy
 ############
 # worldmap #
 ############
-Corine-Plateau: 
-Gasthof: 
-Gencorin: 
-Nomerea: 
+Corine-Plateau: The Corine Plateau
+Gasthof: Inn
+Gencorin: Gencorin
+Nomerea: Nomerea
 Post-Versand-Stelle: 
-Silvanwald: 
-Sinke-Lohne-Pass: 
-Sinkholm: 
-Torasgebirge: 
+Silvanwald: The Silvan Forest
+Sinke-Lohne-Pass: The Sink-Lohne Pass
+Sinkholm: Sinkholm
+Torasgebirge: The Toras Mountains
 
 
 
