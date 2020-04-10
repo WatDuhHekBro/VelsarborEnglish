@@ -8,9 +8,9 @@ band: Armbands
 beschreib: Descriptions (Covers: Abilities (Non-Techs), item, gefecht, haltung)
 beschr-ruest: Equipment Descriptions (Covers: waffe, Band, Ruest, hut, zubehoer, sonstiges)
 credits: Credits (at the very end)
-gefecht: Gefechts-Signum (Has a "G-" prefix in beschreib), seems to be your typical magic spells.
+gefecht: Battle Signums (Has a "G-" prefix in beschreib), seems to be your typical magic spells. Signum spells from leveling up offensive elements.
 gladius: Sword Arts
-haltung: Haltungs-Signum (Has a "H-" prefix in beschreib), seems to be giving status effects to targets.
+haltung: Auxiliary Signums (Has a "H-" prefix in beschreib), seems to be giving status effects to targets. Signum spells from leveling up defensive elements.
 handel: Tradables
 Handeln-Text: Trading Menus
 hut: Helmets
@@ -50,11 +50,6 @@ zustand: Status Effects (shown above the affected character)
 ##########
 # Common #
 ##########
--= Controls =-
-Movement Keys
-Select
-Back
-
 -= Elements =-
 Erde: Earth
 Feuer: Fire
@@ -84,7 +79,7 @@ Lanzen: Lances
 Schwerter: Swords
 
 -= Status Effects =-
-Animoschild: 
+Animoschild: Animo Shield
 Agilität: Agility
 Angriff: Attack
 Mental: Wisdom
@@ -92,21 +87,19 @@ Reflex: Evasion
 Schutz: Defense
 Treffer: Accuracy
 Blendung: Glare
-Ferresschild: 
+Ferresschild: Ferres Shield
 Konter!: Counter!
-Nebelgewand: 
-Paralyse: Paralyzed
+Nebelgewand: Mist Robe
+Paralyse: Paralysis
 Schlaf: Sleep
 !Shield Break!: !Shield Break!
-Spiegelung: 
-Sprint: Sprint
+Spiegelung: Reflect
+Sprint: Zeal
 Stand canceled: Stand Cancelled
-Stummheit: Silenced
-Trägheit: Slowed
-Vergiftung: Poisoning
-Verwirrung: Confused
-
-**Note** I'm going to use -ing instead of -ed because both inflicting AND removing uses the same text, just different colors.
+Stummheit: Silence
+Trägheit: Torpor
+Vergiftung: Poison
+Verwirrung: Confusion
 
 
 
@@ -165,184 +158,188 @@ Ein mächtiger Schlag aus schwindelnder Höhe. - A powerful strike from a blindi
 
 
 -= Gefechts-Signum =-
-Anti-Mentalsare: 
-Schaden steigt, wenn Ziel wenig MP besitzt - 
+**Warning** All of the shadow battle signums have different backgrounds to avoid clearing part of the element ball.
+***sare - Imbue ***
+***res - Great *** / Arch***
+***entus - Grand *** / Ulti***
 
-Blinsare: 
-Verursacht Blendung bei einem Ziel - 
+Anti-Mentalsare: Imbue Chaos
+Schaden steigt, wenn Ziel wenig MP besitzt - Increases damage when the target has low MP.
 
-Blutsare: 
-Größerer Schaden, dafür Verlust von eigenen HP - 
+Blinsare: Imbue Glare
+Verursacht Blendung bei einem Ziel - Inflicts glare on a target.
 
-Erde: 
-Leichter, erd-elementarer Schaden - 
+Blutsare: Imbue Blood
+Größerer Schaden, dafür Verlust von eigenen HP - Increases damage but you sacrifice some HP.
 
-Erdentus: 
+Erde: Earth
+Leichter, erd-elementarer Schaden - Slight earth elemental damage.
 
-Erdsare: 
-Ein erd-elementarer Angriff mit der Waffe - 
+Erdentus: Grand Earth
 
-Erdres: 
+Erdsare: Imbue Earth
+Ein erd-elementarer Angriff mit der Waffe - A physical earth elemental attack.
 
-Feures: Firebane
+Erdres: Great Earth
 
-Feuentus: Pyroclasm
+Feures: Great Fire
+
+Feuentus: Grand Fire
 
 Feuer: Fire
-Leichter, feuer-elementarer Schaden - 
+Leichter, feuer-elementarer Schaden - Slight fire elemental damage.
 
-Feusare: Inferno
-Ein feuer-elementarer Angriff mit der Waffe - 
+Feusare: Imbue Fire
+Ein feuer-elementarer Angriff mit der Waffe - A physical fire elemental attack.
 
-Furorsare: 
-Schaden steigt, wenn Angreifer wenig HP besitzt - 
+Furorsare: Imbue Frenzy
+Schaden steigt, wenn Angreifer wenig HP besitzt - Increases damage when the target has low HP.
 
-Gifsare: 
-Verursacht Vergiftung bei einem Ziel - 
+Gifsare: Imbue Poison
+Verursacht Vergiftung bei einem Ziel - Inflicts poison on a target.
 
-Konfusare: 
-Verursacht Verwirrung bei einem Ziel - 
+Konfusare: Imbue Confusion
+Verursacht Verwirrung bei einem Ziel - Inflicts confusion on a target.
 
-Lichtres: 
+Lichtres: Great Light
 
-Lichentus: 
+Lichentus: Grand Light
 
-Licht: 
-Leichter, licht-elementarer Schaden - 
+Licht: Light
+Leichter, licht-elementarer Schaden - Slight light elemental damage.
 
-Lichtsare: 
-Ein licht-elementarer Angriff mit der Waffe - 
+Lichtsare: Imbue Light
+Ein licht-elementarer Angriff mit der Waffe - A physical light elemental attack.
 
-Listsare: 
-Größerer Schaden, dafür geringere Trefferchance - 
+Listsare: Imbue Overdrive
+Größerer Schaden, dafür geringere Trefferchance - Increases damage but with less accuracy.
 
-Multischlagsare: 
-Mehrere, schwächere Treffer nach dem Schlag - 
+Multischlagsare: Imbue Multihit
+Mehrere, schwächere Treffer nach dem Schlag - Multiple weaker hits after the initial strike.
 
-Paralysare: 
-Verursacht Paralyse bei einem Ziel - 
+Paralysare: Imbue Paralysis
+Verursacht Paralyse bei einem Ziel - Inflicts paralysis on a target.
 
-Rauschsare: 
-Schaden abhängig von der Anz. der SP der Party - 
+Rauschsare: Imbue Vortex
+Schaden abhängig von der Anz. der SP der Party - Damage depending on the amount of SP in the party.
 
-Rückschlagsare: 
-Treffer schlägt den Gegner zeitlich etwas zurück - 
+Rückschlagsare: Imbue Distortion
+Treffer schlägt den Gegner zeitlich etwas zurück - Slows the target in time for a bit.
 
-Schallsare: 
-Kleinerer Schaden, dafür kürzere Wartezeit - 
+Schallsare: Imbue Swiftness
+Kleinerer Schaden, dafür kürzere Wartezeit - Decreases damage but with shorter waiting times.
 
-Schattres: 
+Schattres: Great Shadow
 
-Schatten: 
-Leichter, schatten-elementarer Schaden - 
+Schatten: Shadow
+Leichter, schatten-elementarer Schaden - Slight shadow elemental damage.
 
-Schattentus: 
+Schattentus: Grand Shadow
 
-Schattsare: 
-Ein schatten-elementarer Angriff mit der Waffe - 
+Schattsare: Imbue Shadow
+Ein schatten-elementarer Angriff mit der Waffe - A physical shadow elemental attack.
 
-Schlafsare: 
-Verursacht Schlaf bei einem Ziel - 
+Schlafsare: Imbue Sleep
+Verursacht Schlaf bei einem Ziel - Inflicts sleep on a target.
 
-https://youtu.be/KTKJlUoIV9g?t=156
-Schmettersare: 
-Schaden durchdringt den Schutz des Gegners - 
+Schmettersare: Imbue Demolisher
+Schaden durchdringt den Schutz des Gegners - Damage that ignores the target's defense.
 
-Stummsare: 
-Verursacht Stummheit bei einem Ziel - 
+Stummsare: Imbue Silence
+Verursacht Stummheit bei einem Ziel - Inflicts silence on a target.
 
-Vitalsare: 
-Kleinerer Schaden, dafür Heilung der eigenen HP - 
+Vitalsare: Imbue Vitality
+Kleinerer Schaden, dafür Heilung der eigenen HP - Decreases damage but you recover some HP.
 
-Wassare: 
-Ein wasser-elementarer Angriff mit der Waffe - 
+Wassare: Imbue Water
+Ein wasser-elementarer Angriff mit der Waffe - A physical water elemental attack.
 
-Wassentus: 
+Wassentus: Grand Water
 
-Wassres: 
+Wassres: Great Water
 
-Wasser: 
-Leichter, wasser-elementarer Schaden - 
+Wasser: Water
+Leichter, wasser-elementarer Schaden - Slight water elemental damage.
 
-Wind: 
-Leichter, wind-elementarer Schaden - 
+Wind: Wind
+Leichter, wind-elementarer Schaden - Slight wind elemental damage.
 
-Windentus: 
+Windentus: Grand Wind
 
-Windsare: 
-Ein wind-elementarer Angriff mit der Waffe - 
+Windsare: Imbue Wind
+Ein wind-elementarer Angriff mit der Waffe - A physical wind elemental attack.
 
-Windres: 
+Windres: Great Wind
 
-Wuchtsare: 
-Größerer Schaden, dafür längere Wartezeit - 
+Wuchtsare: Imbue Force
+Größerer Schaden, dafür längere Wartezeit - Increases damage but with longer waiting times.
 
-Zielsare: 
-Kleinerer Schaden, dafür höhere Trefferchance - 
+Zielsare: Imbue Clarity
+Kleinerer Schaden, dafür höhere Trefferchance - Decreases damage but with greater accuracy.
 
 
 -= Haltungs-Signum =-
-Abwehr-Fokus: 
-Erhöht den Schutz eines Ziels - 
+Abwehr-Fokus: Focus Defense
+Erhöht den Schutz eines Ziels - Increases the defense of a target.
 
-Abwehr-Senker: 
-Senkt den Schutz eines Ziels - 
+Abwehr-Senker: Sap Defense
+Senkt den Schutz eines Ziels - Decreases the defense of a target.
 
-Agilitäts-Fokus: 
-Erhöht die Agilität eines Ziels - 
+Agilitäts-Fokus: Focus Agility
+Erhöht die Agilität eines Ziels - Increases the agility of a target.
 
-Agilitäts-Senker: 
-Senkt den Agilität eines Ziels - 
+Agilitäts-Senker: Sap Agility
+Senkt den Agilität eines Ziels - Decreases the agility of a target.
 
-Animoschild: 
+Animoschild: Animo Shield
 
-Besserung: 
-Heilt Verwirrung, Stummheit und Schlaf - Gets rid of .
+Besserung: Revitalize
+Heilt Verwirrung, Stummheit und Schlaf - Gets rid of confusion, silence, and sleep.
 
-Curia: 
-Heilt eine kleine Menge an HP von einem Ziel - Heals someone for a small amount of HP.
+Curia: Heal
+Heilt eine kleine Menge an HP von einem Ziel - Heals someone for some HP.
 
-Ferresschild: 
+Ferresschild: Ferres Shield
 
-Genesung: 
+Genesung: Cure
 Heilt alle negativen Zustände - Gets rid of all negative status effects.
 
-Medikation: 
-Heilt Vergiftung, Blendung und Paralyse - Gets rid of .
+Medikation: Mend
+Heilt Vergiftung, Blendung und Paralyse - Gets rid of poison, glare, and paralysis.
 
-Mental-Fokus: 
-Erhöht die mentale Kraft eines Ziels - Increases the wisdom of the target.
+Mental-Fokus: Focus Wisdom
+Erhöht die mentale Kraft eines Ziels - Increases the wisdom of a target.
 
-Mental-Senker: 
-Senkt die mentale Kraft eines Ziels - Decreases the wisdom of the target.
+Mental-Senker: Sap Wisdom
+Senkt die mentale Kraft eines Ziels - Decreases the wisdom of a target.
 
-Nebelgewand: 
+Nebelgewand: Mist Robe
 
-Reflex-Fokus: 
-Erhöht die Ausweichrate eines Ziels - 
+Reflex-Fokus: Focus Evasion
+Erhöht die Ausweichrate eines Ziels - Increases the evasion of a target.
 
-Reflex-Senker: 
-Senkt die Ausweichrate eines Ziels - 
+Reflex-Senker: Sap Evasion
+Senkt die Ausweichrate eines Ziels - Decreases the evasion of a target.
 
-Spiegelung: 
+Spiegelung: Reflect
 
-Sprint: 
-Hebt die Geschwindigkeit eines Ziels - 
+Sprint: Zeal
+Hebt die Geschwindigkeit eines Ziels - Increases the speed of a target.
 
-Stärke-Fokus: 
-Erhöht die Angriffskraft eines Ziels - 
+Stärke-Fokus: Focus Strength
+Erhöht die Angriffskraft eines Ziels - Increases the strength of a target.
 
-Stärke-Senker: 
-Senkt die Angriffskraft eines Ziels - 
+Stärke-Senker: Sap Strength
+Senkt die Angriffskraft eines Ziels - Decreases the strength of a target.
 
-Trägheit: 
-Senkt die Geschwindigkeit eines Zeils - 
+Trägheit: Torpor
+Senkt die Geschwindigkeit eines Zeils - Decreases the speed of a target.
 
-Treffer-Fokus: 
-Erhöht die Trefferquote eines Ziels - 
+Treffer-Fokus: Focus Accuracy
+Erhöht die Trefferquote eines Ziels - Increases the accuracy of a target.
 
-Treffer-Senker: 
-Senkt die Trefferquote eines Ziels - 
+Treffer-Senker: Sap Accuracy
+Senkt die Trefferquote eines Ziels - Decreases the accuracy of a target.
 
 
 
@@ -382,7 +379,7 @@ Heilt jeden in der Party um ca. 120 HP - Heals everyone in the party for around 
 Heilsirup: Heal Syrup
 Heilt ca. 50 HP von einem Ziel - Heals someone for around 50 HP.
 
-Konfusbombe: Confuse Bomb
+Konfusbombe: Confusion Bomb
 
 Kühlkraut: Cold Herb
 Kuriert Verwirrung bei einem Ziel - Cures confusion.
@@ -418,7 +415,7 @@ Kuriert Schlaf bei einem Ziel - Cures sleep.
 Stärketrank: Strength Potion
 Erhöht Stärke und schwächt Mentalität eines Ziels - Increases strength and decreases wisdom.
 
-Stummbombe: Mute Bomb
+Stummbombe: Silence Bomb
 
 Treffertrank: Accuracy Potion
 Erhöht Treffer und schwächt Reflex eines Ziels - Increases accuracy and decreases evasion.
@@ -468,103 +465,105 @@ Weiße Feder: White Feather
 #############
 -= Weapon =-
 Besen: Broom
-Improvisierte Waffe für den Notfall - 
+Improvisierte Waffe für den Notfall - Improvised weapon for emergencies.
 
 Breitschwert: Broadsword
-Ein Schwert mit breiter, scharfer Klinge - 
+Ein Schwert mit breiter, scharfer Klinge - A sword with a broad, sharp blade.
 
 Bronzespeer: Bronze Spear
-Eine typische Lanzenwaffe aus Nomerea - 
+Eine typische Lanzenwaffe aus Nomerea - A typical lance from Nomerea.
 
 Eisenspeer: Iron Spear
-Ein stabiler Speer aus hartem Eisen - 
+Ein stabiler Speer aus hartem Eisen - A sturdy spear made of hard iron.
 
 Ganzstahl-Axt: Full-Steel Axe
-Eine Axt aus besonders hartem Material - 
+Eine Axt aus besonders hartem Material - An axe made of particularly hard material.
 
 Handaxt: Handaxe
-Eine kleine, handliche Axt - 
+Eine kleine, handliche Axt - A small, maneuverable axe.
 
 Kurzschwert: Short Sword
-Ein einfaches, kurzes Schwert - 
+Ein einfaches, kurzes Schwert - A simple, short sword.
 
 Lanze: Lance
-Die Standard-Lanzwaffe - 
+Die Standard-Lanzwaffe - The standard lance.
 
 Luftstahl-Axt: Air-Steel Axe
-Eine Axt die sehr gut in der Hand liegt - 
+Eine Axt die sehr gut in der Hand liegt - An axe that fits very well in the hand.
 
 Soporusklinge: Soporus Blade
-Ein grün-bläulich leuchtendes Schwert - 
+Ein grün-bläulich leuchtendes Schwert - A turquoise, shining sword.
 
 Spitzhacke: Pickaxe
-[Cibon] Breite Spitzhacke, könnte aber auch 'ne Axt sein - 
-[Kento] Lange Spitzhacke. Einer Lanze erstaunlich ähnlich - 
-[Soko] Mit kurzem Griff - erinnert an ein Schwert - 
+[Cibon] Breite Spitzhacke, könnte aber auch 'ne Axt sein - Wide pickaxe, but could also be an axe.
+[Kento] Lange Spitzhacke. Einer Lanze erstaunlich ähnlich - Long pickaxe. Amazingly similar to a lance.
+[Soko] Mit kurzem Griff - erinnert an ein Schwert - With a short handle - reminiscent of a sword.
 
 Streitaxt: Battle Axe
-Eine breite Axt mit viel Durchschlagskraft - 
+Eine breite Axt mit viel Durchschlagskraft - A broad axe with a lot of punch.
 
-Ultioslanze: Ultimate Lance
-Eine Lanze, die von Kampfeswut zeugt - 
+Ultioslanze: Ultios Lance
+Eine Lanze, die von Kampfeswut zeugt - A lance that shows the spirit of fighting.
 
 
 -= Armband =-
 Armbanduhr: Wristwatch
-Beschleuningt bemerkbar - 
+Beschleuningt bemerkbar - Accelerates at a noticeably fast rate.
 
-Bronzegriff: Bronze Handle
-Ein harter, bronzener Handschuh - 
+Bronzegriff: Bronze Glove
+Ein harter, bronzener Handschuh - A hard, bronze glove.
 
-Eisenfaust: Iron Fist
-Ein harter Hand- und Armschutz aus Eisen - 
+Eisenfaust: Iron Cast
+Ein harter Hand- und Armschutz aus Eisen - A hard hand and arm protection made of iron.
 
-Eisenreif: Iron .
-Ein stabiler Armreif aus gutem Eisen - 
+Eisenreif: Iron Band
+Ein stabiler Armreif aus gutem Eisen - A sturdy armband made of good iron.
 
-Holzreif: 
-Ein robuster Reif aus Holz - 
+Holzreif: Wooden Strap
+Ein robuster Reif aus Holz - A tough wooden strap.
 
-Lederband: 
-Ein simples Armband aus Leder - 
+Lederband: Leather Band
+Ein simples Armband aus Leder - A simple leather armband.
 
-Minenhandschuh: 
-Robuste Handschuhe für Minenarbeiter - 
+Minenhandschuh: Miner's Gloves
+Robuste Handschuhe für Minenarbeiter - Tough gloves for miners.
 
-Silkenreif: 
-Ein stabiler, grünlicher Reif - 
+Silkenreif: Silk Strap
+Ein stabiler, grünlicher Reif - A sturdy, greenish strap.
 
-Stoffband: 
-Ein leichtes Armband aus Stoff - 
+Stoffband: Cloth Band
+Ein leichtes Armband aus Stoff - A light bracelet made of cloth.
 
 
 -= Armor =-
-Arbeitskleidung: 
-Standardkleidung eines Minenarbeiters - 
+**Note** Harnisch seems to be full-plate armor while Panzer only covers the torso (metal vest).
+
+Arbeitskleidung: Ragged Robes
+Standardkleidung eines Minenarbeiters - Miner's standard clothes.
 
 Bronzeharnisch: Bronze Armor
-[REAL_Bronzpzr] Ein schwerer Plattenpanzer aus Bronze - 
+[REAL_Bronzpzr] Ein schwerer Plattenpanzer aus Bronze - A heavy plated suit of armor made of bronze.
 
-Diebesgewand: 
-Ein leichtes Gewand mit wenig Schutz - 
+Diebesgewand: Thief's Robe
+Ein leichtes Gewand mit wenig Schutz - A light robe with little protection.
 
 Eisenharnisch: Iron Armor
-Ein stabiler Harnischaus Stahlplatten - 
+Ein stabiler Harnischaus Stahlplatten - A sturdy suit of armor made of steel plates.
 
-Käferpanzer: 
-Schützt besser als man denken würde. - 
+Käferpanzer: Beetle Vest
+Schützt besser als man denken würde. - Protects better than you'd think.
 
 Lederharnisch: Leather Armor
-[Lederreust] Ein Harnisch aus hartem Leder - 
+[Lederreust] Ein Harnisch aus hartem Leder - Armor made of hard leather.
 
 Lederweste: Leather Vest
-Eine einfache Weste aus Leder - 
+Eine einfache Weste aus Leder - A simple leather vest.
 
-Bronzepanzer: 
-Ein stabiler Harnisch aus Bronzeplatten - 
+Bronzepanzer: Bronze Cuirass
+Ein stabiler Harnisch aus Bronzeplatten - A sturdy piece made of bronze plates.
 
-Federweste: 
-[Stoffumhang] Eine leichte, gut gefederte Weste - 
+Federweste: Feather Vest
+[Stoffumhang] Eine leichte, gut gefederte Weste - A light, cushioned vest.
 
 
 -= Helmet =-
@@ -598,10 +597,10 @@ Spezialausrüstung für Minenarbeiter - Special equipment for miners.
 
 -= Accessories =-
 Agilring: Agility Ring
-Anschaulich und aerodynamisch geformt - 
+Anschaulich und aerodynamisch geformt - Translucent and aerodynamically shaped.
 
 Dunkelsiegel: Dark Seal
-Ein dunkel-schimmernder Anhänger - A dark shimmering pendant.
+Ein dunkel-schimmernder Anhänger - A dark, shimmering pendant.
 
 Erdring: Earth Ring
 Ein bräunlich schimmernder Ring - A shimmering brown ring.
@@ -610,7 +609,7 @@ Erdsiegel: Earth Seal
 Ein brauner Anhänger - A brown pendant.
 
 Feuerring: Fire Ring
-Ein rötlich schimmernder Ring - A reddish shimmering ring.
+Ein rötlich schimmernder Ring - A shimmering reddish ring.
 
 Feuersiegel: Fire Seal
 Ein roter Anhänger - A red pendant.
@@ -622,40 +621,40 @@ Glücksbringer: Lucky Charm
 Ein funkelnder Anhänger - A sparkling pendant.
 
 Goldring: Gold Ring
-Kostbarer Ring aus hochkarätigem Gold - A precious high quality gold ring.
+Kostbarer Ring aus hochkarätigem Gold - A precious, high quality gold ring.
 
 Habilisring: Habilis Ring
 Ein Ring mit einem blauen Juwel. - A ring with a blue jewel.
 
 Hellsiegel: Hell Seal
-Ein hell-leuchtender Anhänger - A bright-shining pendant.
+Ein hell-leuchtender Anhänger - A brightly shining pendant.
 
 Kettenschutz: Chain Shield
-Ein zusätzlicher, jedoch schwerer Schutz - 
+Ein zusätzlicher, jedoch schwerer Schutz - Some extra, but heavy protection.
 
 Lichtring: Light Ring
-Ein weißlich schimmernder Ring - A whitish shimmering ring.
+Ein weißlich schimmernder Ring - A shimmering whitish ring.
 
 Lichtsiegel: Light Seal
 Ein weißer Anhänger - A white pendant.
 
 Schattenring: Shadow Ring
-Ein schwärzlich schimmernder Ring - A blackish shimmering ring.
+Ein schwärzlich schimmernder Ring - A shimmering blackish ring.
 
 Schattensiegel: Shadow Seal
 Ein schwarzer Anhänger - A black pendant.
 
 Schlagring: Brass Knuckles
-Gibt Schlägertypen Kraft und Präzision - Gives (jocks?) strength and precision.
+Gibt Schlägertypen Kraft und Präzision - Gives knuckleheads strength and precision.
 
 Silber Ring: Silver Ring
 Ein glänzender Ring aus Silber - A shiny silver ring.
 
 Wächterpendant: Guard Pendant
-Für den Vorbildswächter - For the ??
+Für den Vorbildswächter - For the aspiring protector.
 
 Wasserring: Water Ring
-Ein bläulich schimmernder Ring - A bluish shimmering ring.
+Ein bläulich schimmernder Ring - A shimmering bluish ring.
 
 Wassersiegel: Water Seal
 Ein blauer Anhänger - A blue pendant.
@@ -896,8 +895,8 @@ Verzauberungen:
 Ziel: 
 
 -= beschreib =-
-[Option_1-1] Held rennt bei gedrückter Entertaste. - The hero runs when pressing Enter.
-[Option_1-2] Held geht bei gedrückter Entertaste. - The hero walks when pressing Enter.
+[Option_1-1] Held rennt bei gedrückter Entertaste. - Run by pressing Enter.
+[Option_1-2] Held geht bei gedrückter Entertaste. - Walk by pressing Enter.
 [tech_unknown] Keine Angaben - No Information
 
 -= beschr-ruest =-
@@ -915,12 +914,13 @@ Tradable - Very High Value
 Tradable - Unbelievably Valuable!
 
 -= beschr-ruest Meta =-
-REFLEX - EVASION
-SCHIJACH - 
-SCHUTZ - DEFENSE
+ANGRIFF KONTER - PHYSICAL COUNTER
+KRITISCH - CRITICAL (CRIT.)
+REFLEX - EVASION (EVADE)
+SCHWACH - VULNERABILITY (VULNER.)
+SCHUTZ - DEFENSE (DEF.)
 SIGNUM KONTER - SIGNUM COUNTER
-ANGRIFF KONTER - ATTACK COUNTER
-TREFFER - ACCURACY
+TREFFER - ACCURACY (ACCUR.)
 
 -= Info Cards =-
 (Happens when you equip something with less element slots)
@@ -949,14 +949,3 @@ Zurück -
 Raum ist sicher - 
 Rangliste - Ranking
 Turniermünze ___ - Tournament Coins: ___
-
-
-
-######################
-# To Be Used (Maybe) #
-######################
-Aurora
-Roaring Flames
-
-** berserker's wrath
-also use https://www.youtube.com/watch?v=vqOmnvl-qgA&list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN&index=24

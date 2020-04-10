@@ -21,10 +21,13 @@ menu_ani-felt
 Sieg-Menu_ani_feld1
 
 [???]
-menu_feld-nextlearn1
+menu_feld-nextlearn1 - itself?
 nachricht_Element-weg
 ObjektHandel-BG**
 Spiel-Start-ID_info
 System-Minen-ItemGet
 tutorial_pic*
 **Panorama**
+
+[hopefully you won't notice]
+KS-Chipset <-- menu_ani-felt2

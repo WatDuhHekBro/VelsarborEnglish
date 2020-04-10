@@ -1,0 +1,364 @@
+Sedric
+
+Soko: N...Nein! Das kann ich nicht zulassen! NICHT HIER!
+Robin: Nein... diese Schande!
+Saion: Nein! Das kann doch... nicht sein! Wir sind schon so weit oben gewesen... und jetzt das!
+Jorn: Args... Nicht ... auf die Hände ... fallen...!
+Gurim: Ach herrje...
+Chefv: Jetz' is... Zappe!
+
+#
+INFO: Soko ist in der Lage Signum-Zauber anzuwenden.
+Signum-Zauber richten magischen Elementar- Schaden an.
+Die Höhe dieses Schadens wird durch die Mentale Kraft des Anwenders...
+...und der Stufe des Zaubers bestimmt, von denen es drei Stück gibt.
+Am Beispiel Feuer: "Feuer" ist 1. Stufe, "Feures" ist 2. Stufe und "Feuentus" ist 3. Stufe.
+Magischer Schaden wird nicht mit "Schutz" abgewehrt, sondern mit Mentaler Kraft.
+Deswegen können solche Zauber wirkungsvoll gegen abwehrstarke Gegner sein.
+Du findest die Signum-Zauber unter dem 1. Symbol im Technik-Auswahl-Menu.
+
+INFO: Kento ist nun in der Lage Element-Sare- Techniken anzuwenden
+Element-Sare-Techniken sind physische Schläge deren Schaden mit einem Element geprägt ist.
+Wirkungsvoll sind diese Schläge gegen Monster mit geringem Schutz gegen physische Angriffe
+Hat der Gegner eine Schwäche gegen das Element der Technik, ist sie besonders effektiv.
+Du findest die Element-Sare-Techniken unter dem 2. Symbol im Technik-Auswahl-Menu.
+
+INFO: Cibon ist nun in der Lage Zustand-Sare- Techniken anzuwenden.
+Zustand-Sare-Techniken sind physische Schläge, die zudem einen bestimmten Zustand bewirken.
+Die Wahrscheinlichkeit, dass das Ziel von dem Zustand befallen wird, hängt vom Gegner ab.
+Der Gegner kann anfällig bis immun gegenüber dem Zustand sein.
+Kämpfer auf eigenen Seite können sich mit bestimmter Ausrüstung vor Zuständen schützten.
+Du findest die Zustand-Sare-Techniken unter dem 2. Symbol im Technik-Auswahl-Menu.
+#
+INFO: Soko is able to use Signum spells.
+Signum spells do magical elemental damage.
+The amount of this damage is determined by the mental strength of the user ...
+... and the level of the spell, of which there are three.
+Using the example of fire: "Fire" is 1st level, "Feures" is 2nd level and "Feuentus" is 3rd level.
+Magic damage is not warded off with "protection", but with mental power.
+Therefore, such spells can be effective against defensive opponents.
+You will find the Signum spells under the 1st symbol in the technology selection menu.
+
+INFO: Kento is now able to use element sare techniques - Imbue Element Techs
+Element sare techniques are physical strikes, the damage of which is shaped by an element.
+These strikes are effective against monsters with little protection against physical attacks
+If the opponent has a weakness against the element of technology, it is particularly effective.
+You can find the element sare techniques under the 2nd symbol in the technique selection menu.
+
+INFO: Cibon is now able to use state sare techniques. - Status Techs
+State sare techniques are physical strikes that also cause a certain state.
+The likelihood that the target will be affected by the condition depends on the opponent.
+The enemy can be vulnerable to immune to the condition.
+Fighters on their own side can protect themselves from conditions with certain equipment.
+You can find the state sare techniques under the 2nd icon in the technique selection menu.
+#
+
+Soko: Cibon, was fällt dir ein einfach so los zu stürmen?!
+Cibon: Sag bloß, du hättest dem Spektakel nur zugesehen!
+Soko: Nein... aber...
+Cibon: Nichts aber, jetzt wird gekämpft!
+
+Kento: Wie kommt es eigentlich, dass die starken Gegner uns immer von oben überraschen?
+Cibon: Joa, wir sollten in Zukunft mehr unterirdisch reisen, nicht wahr Kumpel?
+Soko: Hey! Wie sollen wir gegen diesen Gegner vorgehen?
+Kento: Er reitet einen fliegenden Hornkäfer...
+Kento: Er könnte also ähnliche Schwächen haben wie die Hornkäfer, gegen die wir gekämpft haben!
+Guillian: Freut euch nicht zu früh! Rekreto ist kein normaler Hornkäfer, wartet nur ab!
+Saion: Ihr macht es so, wie wir besprochen haben, verstanden?
+Jorn: Diese dritte Person da war aber in deiner so genannten "Taktik" nicht mit einbezogen...
+Jorn: Sei's drum. Sie wird keinen großen Einfluss haben.
+Soko: Na wartet...
+Cibon: Was geht hier ab?!
+Soko: Wir müssen Herr Uroto beschützen! Das ist alles was zählt!
+
+Sedric: Du verstärkst und heilst mich, ich kümmere mich um den Schaden!
+Soldat: ...
+Kento: Dieser Sedric scheint mir mehr Ausdauer zu haben...
+Kento: Aber sein Gehilfe steht direkt hinter ihm, er kann nicht im Nahkampf angegriffen werden.
+Kento: Wir sollten im Verlauf des Kampfes erfahren, welcher zuerst besiegt werden muss.
+
+Kento: Wir dürfen uns nicht zu lange aufhalten lassen!
+Cibon: Die Gegner so schnell wie möglich überrennen! Alles klar, Kumpel!
+Kento: Oder einschläfern bzw. paralysieren und dann fliehen.
+
+#
+INFO: Die Zeit, die dir in den Kämpfen noch bleibt, wird in Zügen dargestellt.
+Ein Zug wird verbraucht, wann immer ein beliebiger Kampfteilnehmer angreift.
+Wenn alle Züge verbraucht sind, bist du komplett eingeholt und das Spiel ist verloren.
+Die Anzahl der Züge wird nach diesem Kampf NICHT zurückgesetzt - sie gilt für ALLE Kämpfe.
+- Du hast noch \v[1863] Züge zur Verfügung -
+#
+INFO: The time you have left in the battles is shown in trains.
+A turn is consumed whenever any combat participant attacks.
+When all moves have been used up, you are completely overtaken and the game is lost.
+The number of moves is NOT reset after this fight - it applies to ALL battles.
+- You still have \ v [1863] trains available -
+#
+
+Cibon: Es ist ein Wurm und er ist RIESIG!
+Kento: Wenn sich das Vieh so ähnlich wie seine kleinen Artgenossen verhält...
+Kento: ...dann sollten wir uns auf viele Zauber gefasst machen!
+Robin: Endlich ist es soweit!
+Robin: Kommt, Leute, wir zeigen diesem adligen Hornochsen, wer hier der Boss ist!
+Cibon: Zu schade, dass der adelige Hornochse nur seine Vertretung schickt.
+Soko: Kämpft mit allem, was ihr habt, verstanden?! Eine Niederlage ist nicht drin!
+Saion: Endlich ist es soweit! Ihr seid weit gekommen, doch hier ist Endstation!
+Saion: Jetzt werden wir euch zeigen, wer hier im Turnier die Oberhand hat!
+Cibon: Apropos Hand... Was zum Henker sollen diese angebundenen Dolchwaffen?!
+Jorn: Glaub mir, am liebsten würde ich diese Waffen zur Seite schmeißen und aufgeben.
+Jorn: Aber ich kann nicht!
+Saion: Ruhe, Jorn! Du machst die ganze Stimmung kaputt!
+Pauamainer Schütze: Los, Kumpels! Denen zeigen wir, was richtige Minenarbeiter so drauf haben!
+Cibon: Los, Kumpel, die machen wir fertig, so wahr wir Soldaten des Briganten-Orden sind! Oder waren.
+Kento: Ehm... ja...
+Chef: Ei, e neia Geschna! Dann zescht mòòl, wòòs ihr so dròòf hòòbt!
+Soko: Bitte was?
+
+Cibon: Kento! ... Ich muss schnell nen Lichtschlag verwenden!
+Kento ist kampfunfähig! Er kann keine weiteren Aktionen ausführen.
+Ein Lichtschlag kann ihn wieder kampffähig machen!
+Du findest den Lichtschlag genau wie den Heilsirub bei Gegenstände
+Kento: Warte Cibon! Ich werfe einen Lichtschlag"
+Cibon ist kampfunfähig! Er kann keine weiteren Aktionen ausführen.
+Ein Lichtschlag kann ihn wieder kampffähig machen!
+Du findest den Lichtschlag genau wie den Heilsirub bei Gegenstände
+Cibon: Ohoh... Was auch immer dieses Ding vorhat, ich sollte vorbereitet sein!
+
+#
+INFO: Ein Kampfteilnehmer ist von dem Zustand "Verwirrung" befallen.
+Verwirrung bewirkt, dass das Opfer bei seiner Aktion unkontrolliert ein zufälliges Ziel angreift.
+Wobei die Wahrscheinlichkeit, dass sich das Ziel auf der eigenen Seite befindet, höher ist.
+Verwirrung vergeht nach einer bestimmten Anzahl von Zügen des Opfers.
+Ansonsten kann sie mit Zauber, Items oder einem physischen Treffer "geheilt" werden.
+
+INFO: Ein Kampfteilnehmer ist von dem Zustand "Stummheit" befallen.
+Stummheit hindert das Opfer daran, jegliche Signum-Technik anzuwenden.
+Das Anwenden von Spezial-Techniken ist aber nach wie vor möglich.
+Stummheit vergeht mit der Zeit oder lässt sich mit bestimmten Zaubern und Items heilen
+
+INFO: Ein Kampfteilnehmer ist von dem Zustand "Vergiftung" befallen.
+Vergiftung bewirkt jedes Mal, wenn das Opfer eine Aktion ausführt, etwas Schaden.
+Die Höhe des Schadens richtet sich nach den maximalen HP des Opfers.
+Dieser Schaden kann das Opfer kampfunfähig machen, wenn die HP auf 0 sinken.
+Vergiftung vergeht mit der Zeit oder lässt sich mit bestimmten Zaubern und Items heilen.
+
+INFO: Ein Kampfteilnehmer ist von dem Zustand "Schlaf" befallen.
+Schlaf bewirkt, dass das Opfer keine Aktionen mehr ausführen kann.
+Wird das Opfer physisch getroffen, besteht eine hohe Chance, dass der Zustand verschwindet.
+Ansonsten vergeht er mit der Zeit oder lässt sich mit bestimmten Zaubern und Items heilen.
+
+INFO: Ein Kampfteilnehmer ist von dem Zustand "Blendung" befallen.
+Blendung senkt die Trefferquote des Opfers radikal.
+Aber Achtung: Nicht alle Techniken stehen unter dem Einfluss dieses Zustandes.
+Signum-Zauber und manche Spezial-Techniken treffen trotz Blendung mit gleicher Wahrscheinlichkeit.
+Blendung vergeht mit der Zeit oder lässt sich mit bestimmten Zaubern und Items heilen.
+
+INFO: Ein Kampfteilnehmer ist von dem Zustand "Paralyse" befallen.
+Paralyse lässt die Aktionen des Opfers mit einer bestimmten Wahrscheinlichkeit ausfallen.
+Man kann zwar die Aktion auswählen, ob sie aber auch ausgeführt wird, hängt vom Zufall ab.
+Wird das Opfer physisch getroffen, besteht eine geringe Chance, dass der Zustand verschwindet.
+Paralyse vergeht mit der Zeit oder lässt sich mit bestimmten Zaubern und Items heilen.
+
+INFO: Achtung! Dieser Gegner besitzt einen Schutzschild.
+Schutzschilder können physischen und/oder magischen Schaden stark reduzieren.
+Allerdings kann jeder Schutzschild durch einen oder mehrere passende Treffer gebrochen werden.
+Welche Art von Treffer den Schild brechen lässt, muss hierbei herausgefunden werden.
+Eine magische Lupe kann hierbei helfen!
+#
+INFO: A combat participant is affected by the "confusion" condition.
+Confusion causes the victim to uncontrollably attack a random target.
+The likelihood that the target is on your own side is higher.
+Confusion passes after a certain number of moves by the victim.
+Otherwise it can be "healed" with spells, items or a physical hit.
+
+INFO: A combat participant is affected by the "silence" state.
+Silence prevents the victim from using any Signum technique.
+However, the use of special techniques is still possible.
+Silence fades over time or can be healed with certain spells and items
+
+INFO: A combat participant is affected by the "poisoning" condition.
+Poisoning does some damage every time the victim performs an action.
+The amount of damage depends on the victim's maximum HP.
+This damage can disable the victim if the HP drops to 0.
+Poisoning passes over time or can be healed with certain spells and items.
+
+INFO: A combat participant is affected by the "sleep" state.
+Sleep causes the victim to be unable to take any action.
+If the victim is physically hit, there is a high chance that the condition will disappear.
+Otherwise, it passes over time or can be healed with certain spells and items.
+
+INFO: A combat participant is affected by the "glare" condition.
+Glare radically lowers the victim's hit rate.
+But be careful: not all techniques are affected by this condition.
+Signum magic and some special techniques hit with the same probability despite glare.
+Glare passes over time or can be healed with certain spells and items.
+
+INFO: A combat participant is affected by the "paralysis" state.
+Paralysis makes the victim's actions unlikely.
+You can choose the action, but whether it is carried out depends on chance.
+If the victim is physically hit, there is little chance that the condition will disappear.
+Paralysis passes over time or can be healed with certain spells and items.
+
+INFO: Attention! This enemy has a protective shield.
+Shields can greatly reduce physical and / or magical damage.
+However, each protective shield can be broken by one or more matching hits.
+The type of hit that breaks the shield must be found.
+A magic magnifying glass can help!
+#
+
+Cibon: Kumpel! Pass auf, dass du dich nicht überanstrengst! Du weißt ja...
+Kento: Laber keinen Mist!
+Saion: Ha, da schaut ihr, nicht wahr, NICHT WAHR?!
+Saion: Beim nächsten Mal bist du weg von der Bildfläche, wart's nur ab!
+Jorn: Du meine Güte! Es hat gewirkt.
+Saion: Was hab ich gesagt?
+Jorn: Da, siehst du wie wenig es bringt?!
+Soko: Jahaa~! Seht ihr wie unbedeutend mein Einfluss ist!? Na?!
+Jorn: ... Die macht mir Angst.
+Kento: Es sind so viele! Macht es überhaupt Sinn zu kämpfen?!
+(Kento: Nichts wie weg hier!)
+
+#
+Soldat: Genau diese Situation hab ich kommen sehen, heilige Scheiße!
+
+Sedric: Tsk, der Kampf ist noch nicht entschieden!
+#
+Soldier: That's exactly what I saw coming, holy shit!
+
+Sedric: Tsk, the fight is not over yet!
+#
+
+Verstärkung ist eingetroffen. Ihr seid umzingelt.
+- Du hast noch \v[1863] Züge zur Verfügung -
+Cibon: Nichts wie weg hier!
+Kento: Fliehen, sofort!
+Soko: Jetzt können wir fliehen!
+Cibon: Einen haben wir! Wie war das mit deiner Prognose, Robin?
+Robin: Noch ist der Kampf nicht vorbei!
+Soko: So geht das, Männer!
+Jorn: Lass dir das bitte ENDLICH MAL eine Lektion sein, du Dickkopf!
+
+Saion: Jetzt werdet ihr den Preis dafür zahlen, dass ihr euch mit uns angelegt habt!
+Saion: ERSTE ZINKAR-RACHESCHLAG-TECHNIK!
+Saion: Los Jorn, jetzt bist du dran! Zeig's ihnen!
+Jorn: NEIN! Ich werde NICHT diese schwachsinnige Technik ausführen!
+Saion: Jorn?! Wenn du dich jetzt stur stellst, ...
+Saion: ... dann bist DU derjenige der die Schuld trägt, sollten wir verlieren!
+Jorn: Wir verlieren so oder so, egal ob es mache oder nicht!
+Saion: Dann beweise mir das!
+Jorn: ...Wie du meinst, also dann...
+Saion: MIT DEM SPRUCH!
+Jorn: Gaa... zweite Zink...
+Saion: LAUTER!
+Jorn: ZWEITE ZINKAR-RACHESCHLAG-TECHNIK!
+
+Robin: So grün wie ihr noch seid habt ihr keine Chance gegen uns! Versucht es erst gar nicht!
+Cibon: Aha? Frag mich nich' wieso, aber irgend wie seh' ich eindeutig mehr Grün auf eurer Seite.
+Robin: Die dummen Sprüche werde ich euch schon ausschießen!
+Saion: SPÜRT DEN ZORN DER ZINKAR-BRÜRDER, GRAUSAMER DENN JE!
+Saion: ERSTE ZINKAR-RACHESCHLAG-TECHNIK!
+Saion: Los Jorn! Mach sie fertig mit deiner neuen Spezialtechnik!
+Jorn: Was? Diese ach so tolle Spezialtechnik ist mir bisher noch kein einziges Mal gelungen!
+Jorn: Vergiss es! Ich werde mich hier nicht blamieren!
+Saion: Stell dich nicht so an oder willst du, dass die Dolche heute Abend wieder dran bleiben?
+Jorn: Args! Diese verdammten Dolche... Was auch immer!
+Saion: Mit dem Spruch, und zwar aus vollem Herzen!
+Jorn: JAJA! DRITTE, VERDAMMTE ZINKAR-FÜR-WELCHE- RACHE-AUCH-IMMER-RACHESCHLAG-TECHNIK!
+Chef: Jetz' zesch isch eisch mal, wie dòòs lewwen inna Grub is!
+Chef: So lòòngsòòm bin isch grimmelwiedisch! Jetz' kriehd ihr Fäng!
+Chef: Ei jòò, nesch schlescht! Da holl isch wohl bessa mei Schdärgedrong!
+
+Wollen Sie für \v[328] Fejar übernachten?
+Wollen Sie für \v[328] Fejar übernachten?
+
+Cibon: Du willst also handeln, Kumpel?
+Cibon: Brauchste eine Erklärung, oder weißt du schon Bescheit?
+Cibon: Okay! Also was du hier siehst, ist das Handel-Menu. So komplex ist's nicht.
+Cibon: Ganz oben sieht man das Item, das man hier erhalten kann.
+Cibon: Darunter sind die Items aufgelistet, die du für das obere Item eintauschen musst.
+Cibon: Daneben siehste noch wie oft du das jeweilige Item benötigst. Bis zu drei verschiedene Items können verlangt werden.
+Cibon: Sollteste von einem Item nicht genug haben, um's hier einzutauschen, wird es grau angezeigt.
+Cibon: Außerdem kannste mit dem Cursor über jedes angezeigte Item gehen und nachsehen, wie oft du's im Inventar hast.
+Cibon: Der Tausch kann NUR DANN vollzogen werden, wenn du von jedem Item genug Exemplare bei dir trägst.
+Cibon: Um nun zu tauschen musste "Kaufen" wählen. Dann ändert sich die Anzeige wie folgt:
+Cibon: JEDESMAL wenn du jetzt Enter drückst, wird der Tausch einmal vollzogen. Drücke Esc wenn du genug getauscht hast.
+Cibon: Nach jedem vollzogenen Tausch wird zudem die Anzeige aktualisiert.
+Cibon: So kannste sehen, ob du genug Items für einen weiteren Tausch hast.
+Cibon: Mehr gibt's dann hierzu nicht zu sagen...
+Cibon: Aber achte bitte darauf, dass du unsere Handelsgegenstände nicht für irgend nen Mist vertauschst. Vergleiche am besten alle Angebote!
+Cibon: Viel Spass beim Tauschen!
+Cibon: Tja, dann...
+
+ANZIEH SKRIPT INVALIDE! Kann nur auf leere Element-Ausrüstung umändern
+
+(Kento: Es macht nicht sonderlich viel Sinn, jetzt noch Erz abzubauen. Wir werden es eh nicht mehr abgeben können.)
+FEHLER
+
+Kento: Da sind wir...
+Soko: ...und was jetzt?
+Kento: Wir sollten uns besser nicht querstellen, sonst bekommen wir noch Ärger.
+Kento: Wir werden hier schließlich auch beaufsichtigt, wie es scheint.
+Cibon: Okay, dann mal schauen, wo man hier Erz findet.
+Anmerkung: Die Element-Kugeln befinden sich noch in deinem Besitz.
+Elementlevel Steigerung ist also noch möglich.
+Felcis: So und was für eine Leistung erwartet man jetzt hier unten von einem schwächlichen Adelsmann wie mir?
+Cibon: Hartes, anstrengendes, schweiß-auftreibendes Erzhacken. So etwas macht man halt in der Mine.
+Felcis: Ahh... Fabelhaft.
+Kento: Ich würde die Sache nicht auf die leichte Schulter nehmen. Wenn du hier nicht arbeitest, geben sie dir kaum etwas zu essen.
+Felcis: Wäre eine gute Gelegenheit, mit einer Diät anzufangen.
+Soko: Seid ihr euch wirklich Sicher mit dieser Fluchtsache?
+Cibon: Was sollen wir denn bitte sonst machen? Auf anderem Wege werden wir hier wohl kaum raus kommen...
+Kento: Das sehe ich genauso. Ich hoffe nur dieser Felcis weiß auch, was er tut.
+Soko: ...
+Felcis: Gut gefahren, Kento! Wir sind richtig angekommen.
+Felcis: Jetzt gehen wir die Gleise zurück - bis zu der Stelle, wo die 2. Weiche war. Irgendwo dort müssen wir uns durchsprengen.
+Felcis: Hm, die letzte Weiche bist du falsch abgebogen, Kento. Aber egal. Wir sind noch nah genug dran.
+Felcis: Jetzt gehen wir die Gleise zurück - bis zu der Stelle, wo die 2. Weiche war. Irgendwo dort müssen wir uns durchsprengen.
+Felcis: Nein, nein... so geht das nicht, Kento... Du hättest bei der ersten Weiche rechts abbiegen müssen.
+Felcis: Naja. Also entweder gehen wir jetzt zu Fuß die ganzen Gleise zurück - oder wir versuchen es morgen nochmal.
+
+Cibon: Sieh mal einer an, was hier alles so rumliegt.
+Soko: Sollen wir das wirklich einstecken?
+Cibon: Naja, wieso nicht?
+Kento: Ich bin mir ziemlich sicher, dass die Wachen uns keine Gegenstände mit in unsere Zellen nehmen lassen.
+Cibon: Ja... das heißt, falls sie mitbekommen, dass wir Gegenstände bei uns haben.
+Soko: Du willst doch nicht etwa...
+Cibon: Also ich weiß ja nich', wie das bei euch ist, aber ich will nicht ewig hier gefangen bleiben.
+Cibon: Und sollten wir irgendwann mal vorhaben zu fliehen, könnte jeder Gegenstand nützlich sein.
+Kento: Ja, da hast du Recht. Dann sollten wir aber darauf achten, dass wir nicht zuviel einstecken, sonst fällt das zu sehr auf.
+Soko: Von Soldaten des Briganten- Orden zu Schwerverbrechern und Schmugglern, ganz große Klasse...
+Info: Da du Gefangener bist, kannst du nicht beliebig Gegenstände aus der Mine mitnehmen.
+Du musst darauf achten, dass die Wächter deine Gegenstände nicht bemerken.
+Dies ist der Fall, wenn sich ihr Verdachts- Balken...
+...nicht mit deinen Auffälligkeits-Balken schneidet.
+Sind die Balken etwa wie oben angezeigt, werden deine Gegenstände nicht entdeckt.
+Jetzt überschneiden sich die Balken und dein Fund wird höchstwahrscheinlich auffliegen.
+Dein Auffälligkeits-Balken erhöht sich mit jedem Gegenstand, den du aufnimmst.
+Je auffälliger der Gegenstand, desto mehr steigt der Auffälligkeits-Balken.
+Der Verdachts-Balken der Wächter sinkt und steigt mit deinem Ruf in dieser Mine.
+Je besser du deine Arbeit machst, desto weniger werden die Wachen auf dich achten.
+Es gibt allerdings auch andere Ereignisse, die den Verdachts-Balken beeinflussen können.
+Sollte dein Fund entdeckt werden, verlierst du alle an diesem Tag gefundenen Gegenstände.
+Aufgenommenes kann nicht mehr abgelegt werden. Also überlege gut, was du mitnimmst.
+
+Feierabend - Zurück zur Loren-Haltestelle!
+Info: Wartest du zu lange mit der Rückkehr, fahren die Minen-Arbeiter ohne dich zurück.
+Dies bedeutet:
+Deine letzte Erz-Sammlung verfällt und du musst die gesamte Lorenstrecke selber zurücklaufen.
+Des Weiteren stehst du unter größerem Verdacht, da du zu spät oben ankommst.
+
+Der letzte Loren-Zug ist nach oben gefahren. Du musst den Weg alleine zurückgehen!
+Der Verdacht der Wächter dir gegenüber steigt.
+
+Wächter: Wenn ihr etwas Erz gesammelt habt, bringt es zu mir.
+Wächter: Ich notiere mir, wie viel Erz hier jeder Gefangene gesammelt hat. Also kommt ja nicht auf die Idee, euch vor der Arbeit zu drücken. Wir merken das.
+Wächter: Neues Erz?
+Wächter: \v[1] Erz, damit hast du insgesamt schon \v[1883] Erz gesammelt.
+Wächter: \v[1883] Erz? Soll das ein Scherz sein?! Sofort wieder an die Arbeit! Denkt ja nicht, dass ihr heute irgendwas in den Magen bekommt, mit so einer schwachen Leistung!
+Wächter: Das ist ziemlich mäßig. Sofort weiter! Ihr seid noch nicht fertig, hoffe ich?
+Wächter: In Ordnung. Weiter so.
+Wächter: Schön. Aber denkt nicht, dass ihr dafür den nächsten Tag frei bekommt.
+Wächter: Gut, gut. Das ist aber kein Grund jetzt langsamer zu machen.
+Wächter: Ihr hängt euch ja ziemlich rein! Man könnte fast denken, die Arbeit würde euch Spaß machen. Offensichtlich müssen wir euch noch etwas härter fordern!
+Wächter: Hier etwas zur Auffrischung.
+Wächter: Und jetzt weiter!

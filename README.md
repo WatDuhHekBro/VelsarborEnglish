@@ -1,6 +1,5 @@
-# Velsarbor English
-For now, parsed map files are not included, but may be in the future.
-Images can be found along with patched map files in the `Releases` section.
+# Velsarbor - English Version
+A battle has broken out. In the midst of a high-tech underground complex, the Brigantine Order has invaded in order to reach the machine core and tap into the power within. Blood is spilt on both sides, the chaos representing the pinnacle of both nations' immense power. Just when the battle seems to be at a permanent stalement, there's only one problem: The mission has been compromised.
 
 # Resources
 Uses the [final version of Velsarbor](https://www.multimediaxis.de/threads/137420-RM2K-Velsarbor-Die-letzte-Version) that is patched by TheDude.
@@ -30,6 +29,9 @@ These buttons below still do unique things, but are mostly for customization.
 I'm not sure if it's feasible to double check every single line of the dialogue in-game to account for context. Revise when necessary.
 
 # Dev Section Below
+For now, parsed map files are not included, but may be in the future.
+Images can be found along with patched map files in the `Releases` section.
+
 If you want to develop a workspace, use my [RPGMaker2kPatcher](https://github.com/WatDuhHekBro/RPGMaker2kPatcher) and then compile the JSON data files yourself. The work is all in `patch/`, so those will compile the patched binary files for use with the game.
 
 # Workflow
@@ -37,11 +39,9 @@ The `master` branch will correlate with each release, double-checked for line en
 
 # TO-DO List (If you don't want to see any potential spoilers, stop reading.)
 *Because every project needs a to-do list!*
-- Picture Text: 22%
-- Fancy Text: 30%
-- Database: 15%
-- Post-Battle Text (Map0001): 0%
-- Menu Text (Map0010): 0%
+- Picture Text: 75%
+- Fancy Text: 95%
+- Database: 24%
 ## Sections/Areas
 *It's important to note that the Helnovian Mine is an EXTREMELY enormous section of the game.*
 - Prologue: 100%
@@ -49,11 +49,11 @@ The `master` branch will correlate with each release, double-checked for line en
 - The Sink-Lohne Pass: 75%
 - Nomerea: 0%
 - The Lohne: 0%
-- Torasgebirge: 0%
+- Mount Toras: 0%
 - Wayfarer's Inn: 0%
 - The Corine Plateau: 0%
 - Gencorin Pt I: 0%
-- The Silvan Forest: 0%
-- Mysterious Prison: 0%
+- The Silvan Forest: 4%
+- Mysterious Fortress: 1%
 - Gencorin Pt II: 0%
 - The Helnovian Mine: 0%
