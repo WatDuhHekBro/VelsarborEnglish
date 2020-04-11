@@ -1,0 +1,1250 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [181,8,28,2],
+			"indent": 1,
+			"original": "FALSCHE AKTION-SEITE bei Nachträglich/Zusatz Seite 8",
+			"lines":
+			[
+				"FALSCHE AKTION-SEITE bei ",
+				"Nachträglich/Zusatz Seite 8"
+			]
+		},
+		{
+			"path": [188,3,5,2],
+			"indent": 1,
+			"original": "INFO: Dies ist die Status-Übersicht der magischen Lupe zum anvisierten Gegner.",
+			"lines":
+			[
+				"\\>INFO: Dies ist die Status-Übersicht der magischen ",
+				"\\>Lupe zum anvisierten Gegner."
+			]
+		},
+		{
+			"path": [188,3,7,1],
+			"indent": 1,
+			"original": "Ein paar Hinweise zu den Anzeigen rechts:",
+			"lines":
+			[
+				"\\>Ein paar Hinweise zu den Anzeigen rechts:"
+			]
+		},
+		{
+			"path": [188,3,8,2],
+			"indent": 1,
+			"original": "In jedem Fall gilt: Je höher der Balken geht, desto größer ist der Schutz.",
+			"lines":
+			[
+				"\\>In jedem Fall gilt: Je höher der Balken geht, ",
+				"\\>desto größer ist der Schutz."
+			]
+		},
+		{
+			"path": [188,3,10,2],
+			"indent": 1,
+			"original": "Sollte der Balken sich unterhalb vom einem Symbol füllen, hat der Gegner hier eine Schwäche",
+			"lines":
+			[
+				"\\>Sollte der Balken sich unterhalb vom einem Symbol ",
+				"\\>füllen, hat der Gegner hier eine Schwäche"
+			]
+		},
+		{
+			"path": [188,3,12,1],
+			"indent": 1,
+			"original": "Erläuterung der Symbole:",
+			"lines":
+			[
+				"\\>Erläuterung der Symbole:"
+			]
+		},
+		{
+			"path": [188,3,20,2],
+			"indent": 1,
+			"original": "Unter dem Punkt \"Verzauberungen\" werden momentan bestehende Verzauberungen des Gegners angezeigt.",
+			"lines":
+			[
+				"\\>Unter dem Punkt \"Verzauberungen\" werden momentan ",
+				"\\>bestehende Verzauberungen des Gegners angezeigt."
+			]
+		},
+		{
+			"path": [188,3,42,2],
+			"indent": 1,
+			"original": "Ein schwaches Schleimwesen, das gerne hinterlistig mit Feuer-Zaubern angreift.",
+			"lines":
+			[
+				"Ein schwaches Schleimwesen, das gerne ",
+				"hinterlistig mit Feuer-Zaubern angreift."
+			]
+		},
+		{
+			"path": [188,3,48,2],
+			"indent": 1,
+			"original": "Ein großer Bär, der sich auf physische Attacken konzentriert.",
+			"lines":
+			[
+				"Ein großer Bär, der sich auf physische Attacken ",
+				"konzentriert. "
+			]
+		},
+		{
+			"path": [188,3,50,2],
+			"indent": 1,
+			"original": "Zudem blendet er seine Gegner mit gezielten Schlägen...",
+			"lines":
+			[
+				"Zudem blendet er seine Gegner mit gezielten ",
+				"Schlägen..."
+			]
+		},
+		{
+			"path": [188,3,56,2],
+			"indent": 1,
+			"original": "Ein flinker Gegner, der gerne mit seiner Blutsauger Attacke den Gegnern die HP entzieht.",
+			"lines":
+			[
+				"Ein flinker Gegner, der gerne mit seiner ",
+				"Blutsauger Attacke den Gegnern die HP entzieht."
+			]
+		},
+		{
+			"path": [188,3,62,2],
+			"indent": 1,
+			"original": "Saion, der Anführer des Diebestrios, der seine ganz eigenen Vorstellungen vom Diebesdasein hat.",
+			"lines":
+			[
+				"Saion, der Anführer des Diebestrios, der seine ",
+				"ganz eigenen Vorstellungen vom Diebesdasein hat."
+			]
+		},
+		{
+			"path": [188,3,64,2],
+			"indent": 1,
+			"original": "Man sollte ihn nicht unterschätzen, seit dem letzten Mal hat er viel trainiert.",
+			"lines":
+			[
+				"Man sollte ihn nicht unterschätzen, seit dem ",
+				"letzten Mal hat er viel trainiert."
+			]
+		},
+		{
+			"path": [188,3,66,1],
+			"indent": 1,
+			"original": "Seine Aufgabe ist der offensive Angriff.",
+			"lines":
+			[
+				"Seine Aufgabe ist der offensive Angriff."
+			]
+		},
+		{
+			"path": [188,3,67,2],
+			"indent": 1,
+			"original": "Und Vorsicht: Für diesen Kampf hält Saion eine exklusive Technik bereit!",
+			"lines":
+			[
+				"Und Vorsicht: Für diesen Kampf hält Saion eine ",
+				"exklusive Technik bereit!"
+			]
+		},
+		{
+			"path": [188,3,73,2],
+			"indent": 1,
+			"original": "Gurim, der ruhigste von den Dreien, soll in diesem Kampf seine Kameraden unterstützen.",
+			"lines":
+			[
+				"Gurim, der ruhigste von den Dreien, soll in diesem ",
+				"Kampf seine Kameraden unterstützen."
+			]
+		},
+		{
+			"path": [188,3,75,2],
+			"indent": 1,
+			"original": "Vorsicht, ein Stärke-Fokus beim Gegner kann mehr ausmachen als man denken würde.",
+			"lines":
+			[
+				"Vorsicht, ein Stärke-Fokus beim Gegner kann mehr ",
+				"ausmachen als man denken würde."
+			]
+		},
+		{
+			"path": [188,3,77,2],
+			"indent": 1,
+			"original": "Auch von seiner offensiven Seite sollte man Gurim nicht unterschätzen.",
+			"lines":
+			[
+				"Auch von seiner offensiven Seite sollte man Gurim ",
+				"nicht unterschätzen."
+			]
+		},
+		{
+			"path": [188,3,83,2],
+			"indent": 1,
+			"original": "Jorn, der kleinste unter den Zinkar-Brüdern, der jedoch die größte Last tragen muss. Wörtlich.",
+			"lines":
+			[
+				"Jorn, der kleinste unter den Zinkar-Brüdern, der ",
+				"jedoch die größte Last tragen muss. Wörtlich."
+			]
+		},
+		{
+			"path": [188,3,85,2],
+			"indent": 1,
+			"original": "Seine Aufgabe ist es, seine Kameraden im Notfall zu heilen und das nicht nur bei HP-Mangel.",
+			"lines":
+			[
+				"Seine Aufgabe ist es, seine Kameraden im Notfall ",
+				"zu heilen und das nicht nur bei HP-Mangel."
+			]
+		},
+		{
+			"path": [188,3,87,2],
+			"indent": 1,
+			"original": "Auch sollte man ihn wegen seiner Waffe von seiner offensiven Seite nicht als harmlos abstempeln",
+			"lines":
+			[
+				"Auch sollte man ihn wegen seiner Waffe von seiner ",
+				"offensiven Seite nicht als harmlos abstempeln"
+			]
+		},
+		{
+			"path": [188,3,89,2],
+			"indent": 1,
+			"original": "Außerdem hält er, genauso wie Saion, eine kleine Überraschung bereit.",
+			"lines":
+			[
+				"Außerdem hält er, genauso wie Saion, eine kleine ",
+				"Überraschung bereit."
+			]
+		},
+		{
+			"path": [188,3,95,2],
+			"indent": 1,
+			"original": "Ein aggressiver Vierbeiner, der oft in Rudeln anzutreffen ist.",
+			"lines":
+			[
+				"Ein aggressiver Vierbeiner, der oft in Rudeln ",
+				"anzutreffen ist."
+			]
+		},
+		{
+			"path": [188,3,97,2],
+			"indent": 1,
+			"original": "Seine Reißzahn-Attacke kann den Schutz des Opfers verringern.",
+			"lines":
+			[
+				"Seine Reißzahn-Attacke kann den Schutz des ",
+				"Opfers verringern."
+			]
+		},
+		{
+			"path": [188,3,103,2],
+			"indent": 1,
+			"original": "Eine starkes Flugwesen aus dem hohen Gebirge des Nordens.",
+			"lines":
+			[
+				"Eine starkes Flugwesen aus dem hohen Gebirge ",
+				"des Nordens. "
+			]
+		},
+		{
+			"path": [188,3,105,2],
+			"indent": 1,
+			"original": "Greift mit Wind-Zauber und der gefährlichen Harpyienblitz-Attacke an.",
+			"lines":
+			[
+				"Greift mit Wind-Zauber und der gefährlichen ",
+				"Harpyienblitz-Attacke an."
+			]
+		},
+		{
+			"path": [188,3,107,2],
+			"indent": 1,
+			"original": "Für den Harpyienblitz muss die Harpyie sich eine Runde lang vorbereiten.",
+			"lines":
+			[
+				"Für den Harpyienblitz muss die Harpyie sich ",
+				"eine Runde lang vorbereiten. "
+			]
+		},
+		{
+			"path": [188,3,113,2],
+			"indent": 1,
+			"original": "Die Steinkrabbe scheint harmlos und hat auch wenig Durchhaltevermögen.",
+			"lines":
+			[
+				"Die Steinkrabbe scheint harmlos und hat auch ",
+				"wenig Durchhaltevermögen."
+			]
+		},
+		{
+			"path": [188,3,115,2],
+			"indent": 1,
+			"original": "Aber man sollte ihre Angriffskraft nicht unterschätzen.",
+			"lines":
+			[
+				"Aber man sollte ihre Angriffskraft nicht ",
+				"unterschätzen."
+			]
+		},
+		{
+			"path": [188,3,121,2],
+			"indent": 1,
+			"original": "Dieser Schleim hat im Gegensatz zum Grünschleim eine sehr hohe physische Abwehr.",
+			"lines":
+			[
+				"Dieser Schleim hat im Gegensatz zum ",
+				"Grünschleim eine sehr hohe physische Abwehr."
+			]
+		},
+		{
+			"path": [188,3,123,2],
+			"indent": 1,
+			"original": "Er greift mit wasser-elementaren Attacken an und ist leicht mit Zaubern zu besiegen.",
+			"lines":
+			[
+				"Er greift mit wasser-elementaren Attacken an ",
+				"und ist leicht mit Zaubern zu besiegen."
+			]
+		},
+		{
+			"path": [188,3,129,2],
+			"indent": 1,
+			"original": "Ein sehr flinker Gegner, der allerdings kein großes Durchhaltevermögen besitzt.",
+			"lines":
+			[
+				"Ein sehr flinker Gegner, der allerdings kein ",
+				"großes Durchhaltevermögen besitzt."
+			]
+		},
+		{
+			"path": [188,3,131,1],
+			"indent": 1,
+			"original": "Greift öfters mit wind-elementaren Attacken an.",
+			"lines":
+			[
+				"Greift öfters mit wind-elementaren Attacken an."
+			]
+		},
+		{
+			"path": [188,3,136,2],
+			"indent": 1,
+			"original": "Eine seltsame Pflanze, welche die Fähigkeit hat, sich durch die Erde zu bewegen.",
+			"lines":
+			[
+				"Eine seltsame Pflanze, welche die Fähigkeit hat, ",
+				"sich durch die Erde zu bewegen."
+			]
+		},
+		{
+			"path": [188,3,138,2],
+			"indent": 1,
+			"original": "Sie hat ein hohes Durchhaltevermögen, ist aber schwach gegen physische Attacken.",
+			"lines":
+			[
+				"Sie hat ein hohes Durchhaltevermögen, ist aber ",
+				"schwach gegen physische Attacken."
+			]
+		},
+		{
+			"path": [188,3,140,2],
+			"indent": 1,
+			"original": "Sie greift oft mit Erdzaubern an, was bei ihrer Magiestärke verheerend sein kann.",
+			"lines":
+			[
+				"Sie greift oft mit Erdzaubern an, was bei ihrer ",
+				"Magiestärke verheerend sein kann."
+			]
+		},
+		{
+			"path": [188,3,146,2],
+			"indent": 1,
+			"original": "Eine riesige Krake, die hauptsächlich in den Tiefen des weiten Ozeans vorzufinden ist.",
+			"lines":
+			[
+				"Eine riesige Krake, die hauptsächlich in den ",
+				"Tiefen des weiten Ozeans vorzufinden ist."
+			]
+		},
+		{
+			"path": [188,3,148,2],
+			"indent": 1,
+			"original": "Sie greift mit Wasser-Zaubern an, saugt aber meistens Luft ein und erhitzt ihren Körper.",
+			"lines":
+			[
+				"Sie greift mit Wasser-Zaubern an, saugt aber ",
+				"meistens Luft ein und erhitzt ihren Körper."
+			]
+		},
+		{
+			"path": [188,3,150,2],
+			"indent": 1,
+			"original": "Mit dieser Aktion bereitet sie eine Spezialattacke vor, die von ihren Tentakeln ausgeführt wird.",
+			"lines":
+			[
+				"Mit dieser Aktion bereitet sie eine Spezialattacke ",
+				"vor, die von ihren Tentakeln ausgeführt wird."
+			]
+		},
+		{
+			"path": [188,3,156,2],
+			"indent": 1,
+			"original": "Die Tentakeln der Krake greifen physisch an und blenden ihre Gegner.",
+			"lines":
+			[
+				"Die Tentakeln der Krake greifen physisch an und ",
+				"blenden ihre Gegner."
+			]
+		},
+		{
+			"path": [188,3,158,2],
+			"indent": 1,
+			"original": "Wenn die Krake Luft eingesaugt hat, führen sie ihre mächtige Dampfwolken-Attacke aus.",
+			"lines":
+			[
+				"Wenn die Krake Luft eingesaugt hat, führen sie",
+				"ihre mächtige Dampfwolken-Attacke aus."
+			]
+		},
+		{
+			"path": [188,3,160,2],
+			"indent": 1,
+			"original": "Diese ist besonders mächtig, also ist Vorsicht angesagt.",
+			"lines":
+			[
+				"Diese ist besonders mächtig, also ist Vorsicht ",
+				"angesagt."
+			]
+		},
+		{
+			"path": [188,3,166,2],
+			"indent": 1,
+			"original": "Ein Waffen-Fanatiker, der voll auf den magielosen Kampf setzt",
+			"lines":
+			[
+				"Ein Waffen-Fanatiker, der voll auf ",
+				"den magielosen Kampf setzt"
+			]
+		},
+		{
+			"path": [188,3,168,2],
+			"indent": 1,
+			"original": "Seine offensive Stärke ist schwer zu brechen. Seine Defensive lässt sich jedoch schwächen.",
+			"lines":
+			[
+				"Seine offensive Stärke ist schwer zu brechen.",
+				"Seine Defensive lässt sich jedoch schwächen."
+			]
+		},
+		{
+			"path": [188,3,170,1],
+			"indent": 1,
+			"original": "Ein guter Schutz ist in diesem Kampf sehr ratsam.",
+			"lines":
+			[
+				"Ein guter Schutz ist in diesem Kampf sehr ratsam."
+			]
+		},
+		{
+			"path": [188,3,175,2],
+			"indent": 1,
+			"original": "Ein großer Käfer, der stark angreift und aufgrund seiner Größe meistens auch trifft.",
+			"lines":
+			[
+				"Ein großer Käfer, der stark angreift und aufgrund ",
+				"seiner Größe meistens auch trifft."
+			]
+		},
+		{
+			"path": [188,3,177,2],
+			"indent": 1,
+			"original": "Sein Wuchtsare macht besonders viel Schaden, jedoch kommt seine nächste Aktion dadurch später",
+			"lines":
+			[
+				"Sein Wuchtsare macht besonders viel Schaden, ",
+				"jedoch kommt seine nächste Aktion dadurch später"
+			]
+		},
+		{
+			"path": [188,3,179,1],
+			"indent": 1,
+			"original": "Achtung: Dieser Gegner besitzt ein Schutzschild.",
+			"lines":
+			[
+				"Achtung: Dieser Gegner besitzt ein Schutzschild."
+			]
+		},
+		{
+			"path": [188,3,180,2],
+			"indent": 1,
+			"original": "Solange dieses Schild nicht gebrochen wurde, wird physischer Schaden größtenteils abgeblockt.",
+			"lines":
+			[
+				"Solange dieses Schild nicht gebrochen wurde, wird ",
+				"physischer Schaden größtenteils abgeblockt."
+			]
+		},
+		{
+			"path": [188,3,186,2],
+			"indent": 1,
+			"original": "Ein riesiges Fluginsekt, das in Gruppen auftretend bereits vielen Reisenden zur Last fiel.",
+			"lines":
+			[
+				"Ein riesiges Fluginsekt, das in Gruppen ",
+				"auftretend bereits vielen Reisenden zur Last fiel."
+			]
+		},
+		{
+			"path": [188,3,188,2],
+			"indent": 1,
+			"original": "Seine Angriffe sind nicht immer ganz treffsicher, es sei denn er verwendet Zielsare.",
+			"lines":
+			[
+				"Seine Angriffe sind nicht immer ganz treffsicher, ",
+				"es sei denn er verwendet Zielsare."
+			]
+		},
+		{
+			"path": [188,3,190,2],
+			"indent": 1,
+			"original": "Sollte das Wesen einmal \"Chargen\", kann man davon ausgehen, dass eine Paralysare darauf folgen wird.",
+			"lines":
+			[
+				"Sollte das Wesen einmal \"Chargen\", kann man davon ",
+				"ausgehen, dass eine Paralysare darauf folgen wird."
+			]
+		},
+		{
+			"path": [188,3,192,2],
+			"indent": 1,
+			"original": "Zauber zeigen KEINE große Wirkung gegen diesen Gegner.",
+			"lines":
+			[
+				"Zauber zeigen KEINE große Wirkung gegen diesen ",
+				"Gegner."
+			]
+		},
+		{
+			"path": [188,3,198,2],
+			"indent": 1,
+			"original": "Einer der vielen Räuber, die sich im Corine- Plateau herumtreiben um Reisende zu überfallen.",
+			"lines":
+			[
+				"Einer der vielen Räuber, die sich im Corine-",
+				"Plateau herumtreiben um Reisende zu überfallen."
+			]
+		},
+		{
+			"path": [188,3,200,2],
+			"indent": 1,
+			"original": "Abgesehen davon, dass er sein Opfer gerne um ein paar Fejar erleichtert...",
+			"lines":
+			[
+				"Abgesehen davon, dass er sein Opfer gerne um ein ",
+				"paar Fejar erleichtert..."
+			]
+		},
+		{
+			"path": [188,3,202,2],
+			"indent": 1,
+			"original": "...kann er auch ziemlich viel Schaden anrichten, sofern sein \"Listsare\" treffen sollte.",
+			"lines":
+			[
+				"...kann er auch ziemlich viel Schaden anrichten, ",
+				"sofern sein \"Listsare\" treffen sollte."
+			]
+		},
+		{
+			"path": [188,3,208,2],
+			"indent": 1,
+			"original": "Ein Dieb der einen fliegenden Hornkäfer als Reittier verwendet.",
+			"lines":
+			[
+				"Ein Dieb der einen fliegenden Hornkäfer als ",
+				"Reittier verwendet."
+			]
+		},
+		{
+			"path": [188,3,210,2],
+			"indent": 1,
+			"original": "Seine Taktik beginnt damit, seine Gegner zu vergiften....",
+			"lines":
+			[
+				"Seine Taktik beginnt damit, seine Gegner zu ",
+				"vergiften...."
+			]
+		},
+		{
+			"path": [188,3,212,2],
+			"indent": 1,
+			"original": "...und endet mit einem verheerenden Spezialangriff.",
+			"lines":
+			[
+				"...und endet mit einem verheerenden ",
+				"Spezialangriff."
+			]
+		},
+		{
+			"path": [188,3,214,2],
+			"indent": 1,
+			"original": "Guillian vertraut bei seiner Taktik auf seine reine Kraft.",
+			"lines":
+			[
+				"Guillian vertraut bei seiner Taktik auf seine ",
+				"reine Kraft."
+			]
+		},
+		{
+			"path": [188,3,216,2],
+			"indent": 1,
+			"original": "Jedoch ist es möglich den meisten seiner Attacken auszuweichen.",
+			"lines":
+			[
+				"Jedoch ist es möglich den meisten seiner Attacken ",
+				"auszuweichen."
+			]
+		},
+		{
+			"path": [188,3,222,2],
+			"indent": 1,
+			"original": "Eine Wolfart die immer häufiger im und um den Silvanwald gesichtet wird.",
+			"lines":
+			[
+				"Eine Wolfart die immer häufiger im und um den ",
+				"Silvanwald gesichtet wird."
+			]
+		},
+		{
+			"path": [188,3,224,2],
+			"indent": 1,
+			"original": "Dieser Gegner versucht mit allen Mitteln beim Gegner Schaden anzurichten.",
+			"lines":
+			[
+				"Dieser Gegner versucht mit allen Mitteln beim ",
+				"Gegner Schaden anzurichten."
+			]
+		},
+		{
+			"path": [188,3,226,2],
+			"indent": 1,
+			"original": "Wenn er Blutsare anwendet, schadet er sich sogar selber, um den Gegner besonders hart zu treffen.",
+			"lines":
+			[
+				"Wenn er Blutsare anwendet, schadet er sich sogar ",
+				"selber, um den Gegner besonders hart zu treffen."
+			]
+		},
+		{
+			"path": [188,3,232,2],
+			"indent": 1,
+			"original": "Diese Art von Bär hat ein unglaublich dickes Fell, was sie sehr widerstandsfähig gegen Waffen macht.",
+			"lines":
+			[
+				"Diese Art von Bär hat ein unglaublich dickes Fell, ",
+				"was sie sehr widerstandsfähig gegen Waffen macht."
+			]
+		},
+		{
+			"path": [188,3,234,2],
+			"indent": 1,
+			"original": "Zauber wiederum können diesem Gegner das Fürchten lehren.",
+			"lines":
+			[
+				"Zauber wiederum können diesem Gegner das Fürchten ",
+				"lehren."
+			]
+		},
+		{
+			"path": [188,3,236,1],
+			"indent": 1,
+			"original": "Vorsicht vor der Furorsare Attacke:",
+			"lines":
+			[
+				"Vorsicht vor der Furorsare Attacke: "
+			]
+		},
+		{
+			"path": [188,3,237,2],
+			"indent": 1,
+			"original": "Je stärker der Schwarzbär angeschlagen ist, desto mehr zieht diese Attacke ab.",
+			"lines":
+			[
+				"Je stärker der Schwarzbär angeschlagen ist, desto ",
+				"mehr zieht diese Attacke ab."
+			]
+		},
+		{
+			"path": [188,3,243,2],
+			"indent": 1,
+			"original": "Ein großer Raubvogel, dessen Stärke im magischen Bereich liegen.",
+			"lines":
+			[
+				"Ein großer Raubvogel, dessen Stärke im magischen ",
+				"Bereich liegen."
+			]
+		},
+		{
+			"path": [188,3,245,2],
+			"indent": 1,
+			"original": "Magische Angriffe zeigen wenig Wirkung, physische Angriffe werden dafür öfters ausgewichen.",
+			"lines":
+			[
+				"Magische Angriffe zeigen wenig Wirkung, physische ",
+				"Angriffe werden dafür öfters ausgewichen."
+			]
+		},
+		{
+			"path": [188,3,247,2],
+			"indent": 1,
+			"original": "Wer ein Mittel gegen den hohen Reflexwert der Grauschweif-Eule findet, hat leichtes Spiel.",
+			"lines":
+			[
+				"Wer ein Mittel gegen den hohen Reflexwert der ",
+				"Grauschweif-Eule findet, hat leichtes Spiel."
+			]
+		},
+		{
+			"path": [188,3,249,2],
+			"indent": 1,
+			"original": "Vorsicht: Sollte der Gegner Magie-Fokus auf sich sprechen, sind seine Zauber besonders verheerend.",
+			"lines":
+			[
+				"Vorsicht: Sollte der Gegner Magie-Fokus auf sich ",
+				"sprechen, sind seine Zauber besonders verheerend."
+			]
+		},
+		{
+			"path": [188,3,255,1],
+			"indent": 1,
+			"original": "Ein Soldat einer unbekannten Armee.",
+			"lines":
+			[
+				"Ein Soldat einer unbekannten Armee. "
+			]
+		},
+		{
+			"path": [188,3,256,2],
+			"indent": 1,
+			"original": "Auch wenn sie alle identisch aussehen, so hat doch jeder Soldat seine eigenen Stärken und Schwächen.",
+			"lines":
+			[
+				"Auch wenn sie alle identisch aussehen, so hat doch ",
+				"jeder Soldat seine eigenen Stärken und Schwächen."
+			]
+		},
+		{
+			"path": [188,3,259,2],
+			"indent": 2,
+			"original": "Dieser Soldat ist auf Zauber spezialisiert und der Abwehrschwächste unter den Soldaten.",
+			"lines":
+			[
+				"Dieser Soldat ist auf Zauber spezialisiert und der ",
+				"Abwehrschwächste unter den Soldaten."
+			]
+		},
+		{
+			"path": [188,3,261,2],
+			"indent": 2,
+			"original": "Außerdem kann er seine Kameraden vor Zuständen heilen, indem er Heilgegenstände verwendet.",
+			"lines":
+			[
+				"Außerdem kann er seine Kameraden vor Zuständen ",
+				"heilen, indem er Heilgegenstände verwendet."
+			]
+		},
+		{
+			"path": [188,3,266,2],
+			"indent": 3,
+			"original": "Dieser Soldat hat die Aufgabe seine Kameraden zu unterstützen.",
+			"lines":
+			[
+				"Dieser Soldat hat die Aufgabe seine Kameraden zu ",
+				"unterstützen."
+			]
+		},
+		{
+			"path": [188,3,268,2],
+			"indent": 3,
+			"original": "Er spricht Fokus-Zauber, um seine Kameraden zu stärken.",
+			"lines":
+			[
+				"Er spricht Fokus-Zauber, um seine Kameraden zu ",
+				"stärken."
+			]
+		},
+		{
+			"path": [188,3,270,2],
+			"indent": 3,
+			"original": "Außerdem wirft er Heilessenzen und kann Zustände mit Heilgegenständen behandeln.",
+			"lines":
+			[
+				"Außerdem wirft er Heilessenzen und kann Zustände ",
+				"mit Heilgegenständen behandeln."
+			]
+		},
+		{
+			"path": [188,3,274,2],
+			"indent": 3,
+			"original": "Dieser Soldat ist für den offensiven Kampf zuständig, er richtet den meisten Schaden an.",
+			"lines":
+			[
+				"Dieser Soldat ist für den offensiven Kampf ",
+				"zuständig, er richtet den meisten Schaden an."
+			]
+		},
+		{
+			"path": [188,3,276,2],
+			"indent": 3,
+			"original": "Vorsicht vor der Zustand-Sare, die er oft anwendet!",
+			"lines":
+			[
+				"Vorsicht vor der Zustand-Sare, die er oft ",
+				"anwendet!"
+			]
+		},
+		{
+			"path": [188,3,285,1],
+			"indent": 0,
+			"original": "Keine weiteren Informationen....",
+			"lines":
+			[
+				"Keine weiteren Informationen...."
+			]
+		},
+		{
+			"path": [191,2,4,1],
+			"indent": 2,
+			"original": "ALARMA",
+			"lines":
+			[
+				"ALARMA"
+			]
+		},
+		{
+			"path": [191,2,8,1],
+			"indent": 2,
+			"original": "ALARMA",
+			"lines":
+			[
+				"ALARMA"
+			]
+		},
+		{
+			"path": [191,2,12,1],
+			"indent": 2,
+			"original": "ALARMA",
+			"lines":
+			[
+				"ALARMA"
+			]
+		},
+		{
+			"path": [191,2,16,1],
+			"indent": 2,
+			"original": "ALARMA",
+			"lines":
+			[
+				"ALARMA"
+			]
+		},
+		{
+			"path": [191,2,20,1],
+			"indent": 2,
+			"original": "ALARMA",
+			"lines":
+			[
+				"ALARMA"
+			]
+		},
+		{
+			"path": [191,2,24,1],
+			"indent": 2,
+			"original": "ALARMA",
+			"lines":
+			[
+				"ALARMA"
+			]
+		},
+		{
+			"path": [191,2,28,1],
+			"indent": 2,
+			"original": "ALARMA",
+			"lines":
+			[
+				"ALARMA"
+			]
+		},
+		{
+			"path": [191,14,7,1],
+			"indent": 2,
+			"original": "ADDIERE!",
+			"lines":
+			[
+				"ADDIERE!"
+			]
+		},
+		{
+			"path": [196,11,59,2],
+			"indent": 4,
+			"original": "Kento: War das alles? Ich hab wirklich mehr erwartet!",
+			"lines":
+			[
+				"\\s[1]\\c[1]\\n[1]\\c[0]: Was that all?",
+				"I really expected more!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,64,1],
+			"indent": 5,
+			"original": "Kento: Siegreich!",
+			"lines":
+			[
+				"\\s[1]\\c[1]\\n[1]\\c[0]: Victory!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,67,1],
+			"indent": 5,
+			"original": "Kento: Das wäre geschafft!",
+			"lines":
+			[
+				"\\s[1]\\c[1]\\n[1]\\c[0]: And that's that!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,76,1],
+			"indent": 5,
+			"original": "Kento: Tsk... Ein Kinderspiel!",
+			"lines":
+			[
+				"\\s[1]\\c[1]\\n[1]\\c[0]: Tsk...\\. child's play!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,80,1],
+			"indent": 6,
+			"original": "Kento: Das ging ja schnell...",
+			"lines":
+			[
+				"\\s[1]\\c[1]\\n[1]\\c[0]: That was rather quick...\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,83,2],
+			"indent": 6,
+			"original": "Kento: Ohje! Zum Glück war der Kampf schnell vorbei!",
+			"lines":
+			[
+				"\\s[1]\\c[1]\\n[1]\\c[0]: Oh man!\\. Luckily that fight was",
+				"over quickly!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,93,1],
+			"indent": 6,
+			"original": "Kento: Keine Herausforderung...",
+			"lines":
+			[
+				"\\s[1]\\c[1]\\n[1]\\c[0]: No challenge...\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,97,1],
+			"indent": 7,
+			"original": "Kento: Und weg waren sie...",
+			"lines":
+			[
+				"\\s[1]\\c[1]\\n[1]\\c[0]: And like that,\\. they're gone...\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,100,2],
+			"indent": 7,
+			"original": "Kento: Ohje.... Wir müssen stärker werden.",
+			"lines":
+			[
+				"\\s[1]\\c[1]\\n[1]\\c[0]: Oh man...",
+				"We have to get stronger.\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,109,1],
+			"indent": 6,
+			"original": "Kento: Das hat aber lange gedauert...",
+			"lines":
+			[
+				"\\s[1]\\c[1]\\n[1]\\c[0]: That took a while...\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,113,2],
+			"indent": 7,
+			"original": "Kento: Nun gut... Das wäre überstanden...",
+			"lines":
+			[
+				"\\s[1]\\c[1]Kento:\\c[0] Well then... We still",
+				"got through that one...\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,117,2],
+			"indent": 7,
+			"original": "Kento: Beim nächsten mal müssen wir unbedingt besser aufpassen!",
+			"lines":
+			[
+				"\\s[1]\\c[1]Kento:\\c[0] We have to be more careful",
+				"next time!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,134,2],
+			"indent": 4,
+			"original": "Cibon: LÄCHERLICH! Und ich hab mich schon auf ne Herausforderung gefreut!",
+			"lines":
+			[
+				"\\s[1]\\c[2]\\n[2]\\c[0]: RIDICULOUS! And here I was looking",
+				"forward to a challenge!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,139,1],
+			"indent": 5,
+			"original": "Cibon: SO wird gekämpft!",
+			"lines":
+			[
+				"\\s[1]\\c[2]\\n[2]\\c[0]: THAT'S the way to fight!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,142,1],
+			"indent": 5,
+			"original": "Cibon: Da haben wir's!! Gewonnen!",
+			"lines":
+			[
+				"\\s[1]\\c[2]\\n[2]\\c[0]: There we go! We win!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,151,1],
+			"indent": 5,
+			"original": "Cibon: Haha! War das etwa schon alles?",
+			"lines":
+			[
+				"\\s[1]\\c[2]\\n[2]\\c[0]: Haha! Was that all?\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,155,1],
+			"indent": 6,
+			"original": "Cibon: Was für'n Witz von Ausdauer!",
+			"lines":
+			[
+				"\\s[1]\\c[2]\\n[2]\\c[0]: What a joke of endurance!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,158,2],
+			"indent": 6,
+			"original": "Cibon: Wie können Gegner so stark sein und gleichzeitig so schnell fallen?",
+			"lines":
+			[
+				"\\s[1]\\c[2]\\n[2]\\c[0]: How can enemies be so strong yet",
+				"fall so quickly at the same time?\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,168,1],
+			"indent": 6,
+			"original": "Cibon: Keine Chance, hehe!",
+			"lines":
+			[
+				"\\s[1]\\c[2]\\n[2]\\c[0]: Not a chance, hehe!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,172,2],
+			"indent": 7,
+			"original": "Cibon: Das kommt davon, wenn man sich uns in den Weg stellt!",
+			"lines":
+			[
+				"\\s[1]\\c[2]\\n[2]\\c[0]: That's for getting in our way!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,176,2],
+			"indent": 7,
+			"original": "Cibon: Uff, das war ziemlich anstrengend!",
+			"lines":
+			[
+				"\\s[1]\\c[2]\\n[2]\\c[0]: Phew, that was pretty",
+				"exhausting!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,185,1],
+			"indent": 6,
+			"original": "Cibon: Solche Gegner nerven mich!",
+			"lines":
+			[
+				"\\s[1]\\c[2]\\n[2]\\c[0]: Enemies like that annoy me!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,189,2],
+			"indent": 7,
+			"original": "Cibon: Na endlich! Das hättn wir hinter uns.",
+			"lines":
+			[
+				"\\s[1]\\c[2]\\n[2]\\c[0]: Finally! That's behind us now.\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,193,2],
+			"indent": 7,
+			"original": "Cibon: D...Das war jetzt wirklich ein harter Kampf...",
+			"lines":
+			[
+				"\\s[1]\\c[2]\\n[2]\\c[0]: T... That was a really tough",
+				"fight now...\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,210,2],
+			"indent": 4,
+			"original": "Soko: Lachhaft! Das Resultat eurer Unterschätzung!",
+			"lines":
+			[
+				"\\s[1]\\c[13]\\n[3]\\c[0]: Laughable! The result of",
+				"your underestimation!\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,215,1],
+			"indent": 5,
+			"original": "Soko: Ein glorreicher Sieg!",
+			"lines":
+			[
+				"\\s[1]\\c[13]\\n[3]\\c[0]: A glorious victory!",
+				"\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,218,2],
+			"indent": 5,
+			"original": "Soko: Am Ende standen wir als Sieger da!",
+			"lines":
+			[
+				"\\s[1]\\c[13]\\n[3]\\c[0]: In the end, we came out on top!",
+				"\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,228,2],
+			"indent": 5,
+			"original": "Soko: Und für so etwas ziehen wir unsere Waffen...",
+			"lines":
+			[
+				"\\s[1]\\c[13]\\n[3]\\c[0]: And to think we drew our",
+				"weapons for this...",
+				"\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,233,2],
+			"indent": 6,
+			"original": "Soko: Kurze Kämpfe sind erfolgreiche Kämpfe!",
+			"lines":
+			[
+				"\\s[1]\\c[13]\\n[3]\\c[0]: Short fights are successful fights!",
+				"\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,237,3],
+			"indent": 6,
+			"original": "Soko: Wir dürfen unsere Deckung nicht vernachlässigen...",
+			"lines":
+			[
+				"\\s[1]\\c[13]\\n[3]\\c[0]: We must not neglect our defense...",
+				"\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,248,3],
+			"indent": 6,
+			"original": "Soko: Schwächlinge... Uns herauszufordern war euer Untergang!",
+			"lines":
+			[
+				"\\s[1]\\c[13]\\n[3]\\c[0]: Weaklings... Challenging us",
+				"was your downfall!",
+				"\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,254,2],
+			"indent": 7,
+			"original": "Soko: Und ein weiterer Sieg für uns!",
+			"lines":
+			[
+				"\\s[1]\\c[13]\\n[3]\\c[0]: And another win for us!",
+				"\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,258,3],
+			"indent": 7,
+			"original": "Soko: Puh... Hoffentlich haben wir genug Heil-Utensilien dabei...",
+			"lines":
+			[
+				"\\s[1]\\c[13]\\n[3]\\c[0]: Phew... Hopefully we have enough",
+				"healing items with us...",
+				"\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,268,2],
+			"indent": 6,
+			"original": "Soko: Lästiges Gesindel...",
+			"lines":
+			[
+				"\\s[1]\\c[13]\\n[3]\\c[0]: Annoying vermin...",
+				"\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,273,3],
+			"indent": 7,
+			"original": "Soko: Wir müssen die Schwachstellen dieser Gegner herausfinden!",
+			"lines":
+			[
+				"\\s[1]\\c[13]\\n[3]\\c[0]: We have to find out the weaknesses",
+				"of these opponents!",
+				"\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [196,11,278,3],
+			"indent": 7,
+			"original": "Soko: Wir müssen stärker werden, sonst können wir diese Kämpfe nicht länger überstehen!",
+			"lines":
+			[
+				"\\s[1]\\c[13]\\n[3]\\c[0]: We have to get stronger, otherwise",
+				"we won't survive these battles!",
+				"\\|\\.\\.\\^"
+			]
+		},
+		{
+			"path": [197,3,53,4],
+			"indent": 1,
+			"original": "ALARRRRM! Theo Var-Pointer hat nen anderen Wert als Prak Var-Pointer! Theo: \\v[2014]    Prak: \\v[2015]",
+			"lines":
+			[
+				"ALARRRRM!",
+				"Theo Var-Pointer hat nen anderen Wert als ",
+				"Prak Var-Pointer!",
+				"Theo: \\v[2014]    Prak: \\v[2015]"
+			]
+		}
+	]
+}

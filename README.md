@@ -42,8 +42,8 @@ The `master` branch will correlate with each release, double-checked for line en
 ## Sections/Areas
 *It's important to note that the Helnovien Mine is an EXTREMELY enormous section of the game.*
 - Prologue: 100%
-- Sinkholm: 90%
-- The Sink-Lohne Pass: 75%
+- Sinkholm: 100%
+- The Sink-Lohne Pass: 100%
 - Nomerea: 0%
 - The Lohne: 0%
 - Mount Toras: 0%
