@@ -3,6 +3,7 @@ Some pictures have a gradient background behind the text which makes it inconven
 [analyse_fenster]
 menu_spielbeenden
 Sieg-Menu-Techfeld1
+System-Minen-ItemGet
 
 [auswahl-animation]
 auswahl-animation3
@@ -15,6 +16,7 @@ wahl_abwehr
 
 [menu_ani-schalter]
 Sieg-Menu-Level-Up
+**Panorama**
 
 [panorama-only (in addition to others)]
 menu_ani-felt

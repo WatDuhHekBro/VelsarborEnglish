@@ -3373,7 +3373,7 @@
 			"original": "Kento: DU WIRST MICH NICHT UNTERKRIEGEN! NIEMALS!",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: YOU WILL NEVER TAKE ME DOWN!\\. NEVER!"
+				"\\c[1]Kento\\c[0]: YOU WILL NEVER TAKE ME DOWN!\\. EVER!"
 			]
 		},
 		{
@@ -3569,8 +3569,8 @@
 			"lines":
 			[
 				"\\>",
-				"Since Kento now has \\c[11]2 SP\\c[0] (the points under his name),",
-				"he can use a \\c[11]special ability\\c[0].\\<\\."
+				"Since Kento now has \\c[11]2 SP\\c[0] (the points under his",
+				"name), he can use a \\c[11]special ability\\c[0].\\<\\."
 			]
 		},
 		{

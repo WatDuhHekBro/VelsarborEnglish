@@ -59,10 +59,10 @@ Wasser: Water
 Wind: Wind
 
 -= Stats =-
-Angriff: Attack
-Schutz/Abwehr: Defense
-Mental: Wisdom
-Agilität: Agility
+Angriff: Attack (ATK)
+Schutz/Abwehr: Defense (DEF)
+Mental: Wisdom (WIS)
+Agilität: Agility (AGL)
 HP: HP
 MP: MP
 
@@ -528,8 +528,8 @@ Ein simples Armband aus Leder - A simple leather armband.
 Minenhandschuh: Miner's Gloves
 Robuste Handschuhe für Minenarbeiter - Tough gloves for miners.
 
-Silkenreif: Silk Strap
-Ein stabiler, grünlicher Reif - A sturdy, greenish strap.
+Silkenreif: Silk Wrap
+Ein stabiler, grünlicher Reif - A sturdy, greenish wrap.
 
 Stoffband: Cloth Band
 Ein leichtes Armband aus Stoff - A light bracelet made of cloth.
@@ -687,7 +687,7 @@ Paket: Package
 Riesenei: Giant Egg
 Ein großes Ei, perfekt für Omelett - A big egg, perfect for making an omelette.
 
-Turniermünze: Tourney Token (because "Tournament Coin" wouldn't fit)
+Turniermünze: Tournam. Coin (because "Tournament Coin" wouldn't fit)
 
 
 
@@ -775,15 +775,15 @@ Verkaufen - Sell
 
 -= KAUFEN =-
 Kosten: Cost
-Restvermögen: Remaining
+Restvermögen: Wallet
 
 -= menu =-
-Als nächstes gelernt wird...: You will learn...
-Fehlende Level: At Level
+Als nächstes gelernt wird...: The next spell you will learn is...
+Fehlende Level: Levels Needed
 Element(e): Element(s)
 Gegenstand benutzen: Use Item
-Armbänder: Bracelets
-Sonstiges: Other
+Armbänder: Armbands
+Sonstiges: Other (Miscellaneous?)
 Helme: Helmets
 Rüstungen: Armor
 Waffen: Weapons
@@ -791,8 +791,8 @@ Zubehör: Accessories
 Spiel wirklich beenden?: Do you really want to end the game?
 Ja: Yes
 Nein: No
-Gefechts-Signum: Battle Signum
-Haltungs-Signum: Standing Signum
+Gefechts-Signum: Battle Signums
+Haltungs-Signum: Auxiliary Signums
 Ausrüstung: Equipment
 Beenden: End
 Elemente: Elements
@@ -805,16 +805,17 @@ Techniken: Techs
 Truppe: Party
 
 -= ObjektHandel =-
-Getauscht! - 
-Angebot - 
-Gegen... - 
-Für... - 
-Kaufen - 
-Gehen - 
-Genug - 
-Benötigt Im Inventar - 
-Enter für mehr Details - 
-Anzahl Im Inventar - Amount In Inventory
+Getauscht! - Traded!
+Angebot - Offering...
+Gegen... - For...
+Für... - For...
+Kaufen - Trade
+Gehen - Leave
+Genug - Enough
+Benötigt - Requires
+Anzahl - Amount
+Im Inventar - In Inventory
+Enter für mehr Details - Enter for more details
 
 -= Sieg-Menu =-
 Kampf erfolgreich beendet. - Battle ended successfully.
@@ -822,20 +823,10 @@ Erfolgreich die Flucht ergriffen. - Successfully fled.
 Level Up - Level Up
 ___ erlernt! - ___ learned!
 
--= tutorial_pic =-
-ANGRIFF: 
-ANGRIFF KONTER: 
-SIGNUM KONTER: 
-AUTO ANIMO: 
-AUTO FERRES: 
-AUTO SPRINT: 
-AUTO TRAGE: 
-SIGNUM STREVER: 
-
 -= VERKAUFEN =-
-Rest im Inventar: 
-Gesamtwert: 
-Vermögen: 
+Rest im Inventar: Remainder
+Gesamtwert: Profit
+Vermögen: Wallet
 
 -= wahl =-
 Abwehr: Defend
@@ -867,7 +858,7 @@ Rüstungen: Armor
 Helme: Helmet
 Zubehör: Misc
 Sonstiges: Other
-Hinterlassene Gegenstände: Objects left behind
+Hinterlassene Gegenstände: Items Left Behind
 Gefunden: Found
 Gesamt: Total
 
@@ -891,8 +882,28 @@ BRICHT NACHT:
 Treffer: 
 mit Wasser-Element: 
 mit Wind-Element: 
-Verzauberungen: 
-Ziel: 
+Verzauberungen: Enchants
+Ziel: Target
+Status-Abwehr: Stats Resistance
+Element-Abwehr: Elemental Resistance
+Zustand-Abwehr: Status Resistance
+
+with earth element:
+with fire element:
+every hit:
+with light element:
+magic hit:
+a hit with minimum damage of:
+physical hits:
+with shadow element:
+Protective shield:
+PROTECTS WITH:
+BREAKS NIGHT:
+Hits:
+with water element:
+with wind element:
+Enchants:
+Target:
 
 -= beschreib =-
 [Option_1-1] Held rennt bei gedrückter Entertaste. - Run by pressing Enter.
@@ -913,14 +924,20 @@ Tradable - Very High Value
 [Handel-unbelievable] Handelgegenstand - Unglaublich Wertvoll!
 Tradable - Unbelievably Valuable!
 
--= beschr-ruest Meta =-
-ANGRIFF KONTER - PHYSICAL COUNTER
+-= beschr-ruest Meta / tutorial-pic =-
+ANGRIFF KONTER - ATTACK COUNTER
 KRITISCH - CRITICAL (CRIT.)
 REFLEX - EVASION (EVADE)
 SCHWACH - VULNERABILITY (VULNER.)
 SCHUTZ - DEFENSE (DEF.)
 SIGNUM KONTER - SIGNUM COUNTER
 TREFFER - ACCURACY (ACCUR.)
+ANGRIFF - 
+AUTO ANIMO - 
+AUTO FERRES - 
+AUTO SPRINT - 
+AUTO TRAGE - 
+SIGNUM STREVER - 
 
 -= Info Cards =-
 (Happens when you equip something with less element slots)
@@ -929,23 +946,38 @@ TREFFER - ACCURACY (ACCUR.)
 Geben sie eine Nummer von 1-50 an. Diese wird im Spielstand angezeigt. --- Please enter a number from 1-50. This will be indicated in-game.
 
 -= Pseudo_minenausruest =-
-Minen Ausrüst. - Mine Equipment.
+Minen Ausrüst. - Mine Equipment
 
 -= System =-
-Verfolger: ___ Sek - 
+Verfolger: ___ Sek - Chasers: ___ sec
 ___ erhalten. - ___ received.
 Fejar erhalten. - Fejar received.
 Fejar gestohlen - Fejar stolen.
 Fejar gezahlt. - Fejar paid.
-___ abgegeben. - 
-Weiche vorraus! - 
-Enter drücken! - 
+___ abgegeben. - ___ submitted.
+Weiche vorraus! - Fork ahead!
+Enter drücken! - Press Enter!
 Eisenerz ___ - Iron Ore: ___
 ___ gefunden. - ___ found.
-Behalten Liegen lassen - 
-Verdacht Auffälligkeit - 
-Betreten - 
-Zurück - 
-Raum ist sicher - 
-Rangliste - Ranking
-Turniermünze ___ - Tournament Coins: ___
+Behalten - Keep It
+Liegen lassen - Leave It
+Verdacht - Suspicion
+Auffälligkeit - Attention
+Betreten - Enter
+Zurück - Back
+Raum ist sicher - Room is safe.
+Rangliste - Rankings
+Turniermünze ___ - Tourn. Coins: ___
+
+
+
+##################
+# Extra Panorama #
+##################
+Bewegungs-Modus - Movement Mode
+Standart-Gehen - Running
+Standart-Rennen - Walking
+Grafikdetails im Kampfsystem - Graphic details in combat system
+Infotext im Kampfsystem - Info text in combat system
+Aktiviert - Activated
+Deaktiviert - Deactivated

@@ -39,7 +39,7 @@
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Was everything returned",
-				"to you?\\. So what the thieves stole..."
+				"to you?\\. Like what the thieves stole..."
 			]
 		},
 		{
@@ -88,7 +88,7 @@
 			"original": "Kento: Oh.. Vielen Dank. Sowas kann man immer gut gebrauchen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Oh..\\. Thank you very much.",
+				"\\c[1]\\n[1]:\\c[0] Oh...\\. Thank you very much.",
 				"I can always use something like this."
 			]
 		},
