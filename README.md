@@ -36,7 +36,7 @@ The `master` branch will correlate with each release, double-checked for line en
 
 # TO-DO List (If you don't want to see any potential spoilers, stop reading.)
 *Because every project needs a to-do list!*
-- Picture Text: 92%
+- Picture Text: 97%
 - Fancy Text: 95%
 - Database: 24%
 ## Sections/Areas
