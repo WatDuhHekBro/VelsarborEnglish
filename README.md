@@ -2,12 +2,10 @@
 A battle has broken out. In the midst of a high-tech underground complex, the Brigantine Order has invaded in order to reach the machine core and tap into the power within. Blood is spilt on both sides, the chaos representing the pinnacle of both nations' immense power. Just when the battle seems to be at a permanent stalement, there's only one problem: The mission has been compromised.
 
 # Resources
-Uses the [final version of Velsarbor](https://www.multimediaxis.de/threads/137420-RM2K-Velsarbor-Die-letzte-Version) that is patched by TheDude.
-
-# Context
-AFAIK, the people who previously worked on translations never published their progress, and it seems like they haven't worked on it since.
-
-Why am I doing this? Because Velsarbor looks exciting! Unfortunately, I can't understand German, and if I could, I wouldn't be doing this. So if I'm going to be putting everything into Google Translate to understand what's going on, I may as well go one step further and make whatever I've got public.
+- The [final version of Velsarbor](https://www.multimediaxis.de/threads/137420-RM2K-Velsarbor-Die-letzte-Version), patched by TheDude.
+- An [unofficial German RTP](http://rpg2000.4players.de/index.php?inhalt=rpgmaker).
+- A [font patch](https://www.moddb.com/downloads/rpg-maker-2000-font-patch) (only if the font looks weird).
+- Set "RPG_RT.exe" to Windows 7 compatibility mode if you get "DirectDraw Error(DDERR_UNSUPPORTED)".
 
 # Controls
 *Useful for controller usage.*
@@ -25,10 +23,9 @@ These buttons below still do unique things, but are mostly for customization.
 - Cibon: Pronounced with a hard C, so basically "Key-bon". The stress is on the first syllable.
 - All J's are pronounced as Y's, because German.
 
-# Double-Checking
-I'm not sure if it's feasible to double check every single line of the dialogue in-game to account for context. Revise when necessary.
-
 # Dev Section Below
+AFAIK, the people who previously worked on translations never published their progress, and it seems like they haven't worked on it since.
+
 For now, parsed map files are not included, but may be in the future.
 Images can be found along with patched map files in the `Releases` section.
 
@@ -43,7 +40,7 @@ The `master` branch will correlate with each release, double-checked for line en
 - Fancy Text: 95%
 - Database: 24%
 ## Sections/Areas
-*It's important to note that the Helnovian Mine is an EXTREMELY enormous section of the game.*
+*It's important to note that the Helnovien Mine is an EXTREMELY enormous section of the game.*
 - Prologue: 100%
 - Sinkholm: 90%
 - The Sink-Lohne Pass: 75%
@@ -56,4 +53,4 @@ The `master` branch will correlate with each release, double-checked for line en
 - The Silvan Forest: 4%
 - Mysterious Fortress: 1%
 - Gencorin Pt II: 0%
-- The Helnovian Mine: 0%
+- The Helnovien Mine: 0%
