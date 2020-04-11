@@ -4,6 +4,7 @@ Some pictures have a gradient background behind the text which makes it inconven
 menu_spielbeenden
 Sieg-Menu-Techfeld1
 System-Minen-ItemGet
+ObjektHandel-BG**
 
 [auswahl-animation]
 auswahl-animation3
@@ -18,18 +19,20 @@ wahl_abwehr
 Sieg-Menu-Level-Up
 **Panorama**
 
+[menu_feld-nextlearn1]
+ObjektHandel-BG**
+
+[ObjektHandel-BG**]
+ObjektHandel-BG**
+
 [panorama-only (in addition to others)]
 menu_ani-felt
 Sieg-Menu_ani_feld1
 
-[???]
-menu_feld-nextlearn1 - itself?
-nachricht_Element-weg
-ObjektHandel-BG**
-Spiel-Start-ID_info
-System-Minen-ItemGet
-tutorial_pic*
-**Panorama**
-
 [hopefully you won't notice]
 KS-Chipset <-- menu_ani-felt2
+menu_feld-nextlearn1 <-- (itself, duplicated)
+tutorial_pic6 <-- panorama-VERKAUFEN (duplicated)
+nachricht_Element-weg <-- panorama-KAUFEN (duplicated)
+Spiel-Start-ID_info <-- panorama-KAUFEN (duplicated)
+**Panorama** <-- (various, duplicated)

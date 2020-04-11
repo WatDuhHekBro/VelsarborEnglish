@@ -5,7 +5,7 @@ A battle has broken out. In the midst of a high-tech underground complex, the Br
 - The [final version of Velsarbor](https://www.multimediaxis.de/threads/137420-RM2K-Velsarbor-Die-letzte-Version), patched by TheDude.
 - An [unofficial German RTP](http://rpg2000.4players.de/index.php?inhalt=rpgmaker).
 - A [font patch](https://www.moddb.com/downloads/rpg-maker-2000-font-patch) (only if the font looks weird).
-- Set "RPG_RT.exe" to Windows 7 compatibility mode if you get "DirectDraw Error(DDERR_UNSUPPORTED)".
+- Set `RPG_RT.exe` to Windows 7 compatibility mode if you get `DirectDraw Error(DDERR_UNSUPPORTED)`.
 
 # Controls
 *Useful for controller usage.*
@@ -36,7 +36,7 @@ The `master` branch will correlate with each release, double-checked for line en
 
 # TO-DO List (If you don't want to see any potential spoilers, stop reading.)
 *Because every project needs a to-do list!*
-- Picture Text: 80%
+- Picture Text: 92%
 - Fancy Text: 95%
 - Database: 24%
 ## Sections/Areas

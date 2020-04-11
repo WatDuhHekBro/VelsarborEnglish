@@ -95,7 +95,7 @@ Schlaf: Sleep
 !Shield Break!: !Shield Break!
 Spiegelung: Reflect
 Sprint: Zeal
-Stand canceled: Stand Cancelled
+Stand canceled: Stand Cancel (Stand Cancelled)
 Stummheit: Silence
 Trägheit: Torpor
 Vergiftung: Poison
@@ -868,42 +868,26 @@ Gesamt: Total
 # Misc #
 ########
 -= analyse =-
-mit Erde-Element: 
-mit Feuer-Element: 
-jeden Treffer: 
-mit Licht-Element: 
-magischen Treffer: 
-einen Treffer mit Mindestschaden von: 
-physischen Treffer: 
-mit Schatten-Element: 
-Schutzschild: 
-SCHÜTZT BEI: 
-BRICHT NACHT: 
-Treffer: 
-mit Wasser-Element: 
-mit Wind-Element: 
-Verzauberungen: Enchants
-Ziel: Target
-Status-Abwehr: Stats Resistance
-Element-Abwehr: Elemental Resistance
-Zustand-Abwehr: Status Resistance
-
-with earth element:
-with fire element:
-every hit:
-with light element:
-magic hit:
-a hit with minimum damage of:
-physical hits:
-with shadow element:
-Protective shield:
-PROTECTS WITH:
-BREAKS NIGHT:
-Hits:
-with water element:
-with wind element:
-Enchants:
-Target:
+**Note** I'm probably just going to ignore this for now. I haven't seen it anywhere yet (except analyse-anzeigen).
+mit Erde-Element: with Earth
+mit Feuer-Element: with Fire
+jeden Treffer: All Attacks
+mit Licht-Element: with Light
+magischen Treffer: Magic Attacks
+einen Treffer mit Mindestschaden von: An attack with a minimum damage of
+physischen Treffer: Physical Attacks
+mit Schatten-Element: with Shadow
+Schutzschild: Protective Shield
+SCHÜTZT BEI: PROTECTS WITH
+BRICHT NACHT: BREAKS NIGHT
+Treffer: Attacks
+mit Wasser-Element: with Water
+mit Wind-Element: with Wind
+Verzauberungen: Enchantments
+Ziel: Enem
+Status-Abwehr: Stats Resist
+Element-Abwehr: Elemental Resist
+Zustand-Abwehr: Effects Resist
 
 -= beschreib =-
 [Option_1-1] Held rennt bei gedrückter Entertaste. - Run by pressing Enter.
@@ -932,18 +916,19 @@ SCHWACH - VULNERABILITY (VULNER.)
 SCHUTZ - DEFENSE (DEF.)
 SIGNUM KONTER - SIGNUM COUNTER
 TREFFER - ACCURACY (ACCUR.)
-ANGRIFF - 
-AUTO ANIMO - 
-AUTO FERRES - 
-AUTO SPRINT - 
-AUTO TRAGE - 
-SIGNUM STREVER - 
+-=-=-=-
+ANGRIFF - ATTACK
+AUTO ANIMO - AUTO ANIMO
+AUTO FERRES - AUTO FERRES
+AUTO SPRINT - AUTO ZEAL
+AUTO TRÄGE - AUTO TORPOR
+SIGNUM STREUER - SIGNUM SCATTER
 
 -= Info Cards =-
 (Happens when you equip something with less element slots)
-Überschüssige Elementkopplung wurde abgelegt. --- 
+Überschüssige Elementkopplung wurde abgelegt. --- Excess element coupling was removed.
 (New Game Menu)
-Geben sie eine Nummer von 1-50 an. Diese wird im Spielstand angezeigt. --- Please enter a number from 1-50. This will be indicated in-game.
+Geben sie eine Nummer von 1-50 an. Diese wird im Spielstand angezeigt. --- Enter a number between 1-50. This will be indicated in-game.
 
 -= Pseudo_minenausruest =-
 Minen Ausrüst. - Mine Equipment
