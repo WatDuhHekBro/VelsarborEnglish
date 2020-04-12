@@ -34,6 +34,8 @@ If you want to develop a workspace, use my [RPGMaker2kPatcher](https://github.co
 # Workflow
 The `master` branch will correlate with each release, double-checked for line endings and line spacing. These release versions can be either a major release or a minor release (pre-release). The other main branch will be the `dev` branch, where dialogue is being added but isn't yet double-checked for differences (also differences in the picture text).
 
+The `text` directory is meant to be temporary. You work with the extracted text, then once you move it to the according patch, you delete the text file. From there, you're likely to only need to make small adjustments to the patch, so it becomes a nuisance to update the text file as well.
+
 # TO-DO List (If you don't want to see any potential spoilers, stop reading.)
 *Because every project needs a to-do list!*
 - Picture Text: 97%
