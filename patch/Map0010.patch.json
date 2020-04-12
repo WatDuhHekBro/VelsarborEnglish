@@ -1,0 +1,475 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [13,24,24,1],
+			"indent": 1,
+			"original": "meep",
+			"lines":
+			[
+				"meep"
+			]
+		},
+		{
+			"path": [140,2,6,3],
+			"indent": 1,
+			"original": "Sir Vorento: Wenn Sie etwas an ihrer Element- Kopplung ändern wollen, müssen Sie zum Menu-Punkt Elemente wechseln.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Wenn Sie etwas an ihrer Element-",
+				"Kopplung ändern wollen, müssen Sie zum ",
+				"Menu-Punkt \\c[11]Elemente\\c[0] wechseln."
+			]
+		},
+		{
+			"path": [140,2,39,2],
+			"indent": 1,
+			"original": "Sir Vorento: Nun eine Erklärung der Element-Level.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Nun eine Erklärung ",
+				"der \\c[11]Element-Level\\c[0]."
+			]
+		},
+		{
+			"path": [140,2,41,1],
+			"indent": 1,
+			"original": "Punkt 1: Was sind Element-Level?",
+			"lines":
+			[
+				"\\c[13]Punkt 1: Was sind Element-Level?"
+			]
+		},
+		{
+			"path": [140,2,42,2],
+			"indent": 1,
+			"original": "Sir Vorento: Es gibt Elemente Feuer, Wasser, Erde, Wind, Licht und Schatten.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Es gibt Elemente ",
+				"\\c[11]Feuer, Wasser, Erde, Wind, Licht und Schatten."
+			]
+		},
+		{
+			"path": [140,2,44,3],
+			"indent": 1,
+			"original": "Sir Vorento: Jedes dieser Elemente hat 2 Element-Level, welche für die Fähigkeiten mit den Umgang dieser Elemente stehen.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Jedes dieser Elemente hat ",
+				"\\c[11]2 Element-Level\\c[0], welche für die Fähigkeiten ",
+				"mit den Umgang dieser Elemente stehen."
+			]
+		},
+		{
+			"path": [140,2,58,2],
+			"indent": 1,
+			"original": "Sir Vorento: Das offensive Element-Level...",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: ",
+				"Das \\c[11]offensive\\c[0] Element-Level..."
+			]
+		},
+		{
+			"path": [140,2,70,2],
+			"indent": 1,
+			"original": "Sir Vorento: ...und das defensive Element-Level.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: ",
+				"...und das \\c[11]defensive\\c[0] Element-Level."
+			]
+		},
+		{
+			"path": [140,2,83,2],
+			"indent": 1,
+			"original": "Punkt 2: Was bewirkt das Steigern dieser Element-Level?",
+			"lines":
+			[
+				"\\c[13]Punkt 2: Was bewirkt das Steigern ",
+				"dieser Element-Level?"
+			]
+		},
+		{
+			"path": [140,2,85,3],
+			"indent": 1,
+			"original": "Sir Vorento: Durch das Steigern dieser Element- Level lernt man Signum-Techniken und verbessert den Umgang mit diesen Techniken.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Durch das Steigern dieser Element-",
+				"Level lernt man \\c[11]Signum-Techniken\\c[0] und ",
+				"\\c[11]verbessert den Umgang\\c[0] mit diesen Techniken."
+			]
+		},
+		{
+			"path": [140,2,88,3],
+			"indent": 1,
+			"original": "Sir Vorento: Das Steigern der offensiven Element- Level führt zur Meisterung von \"Gefechts-Signum\" - offensiven Signum-Techniken.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Das Steigern der offensiven Element-",
+				"Level führt zur Meisterung von \\c[11]\"Gefechts-Signum\"\\c[0] - ",
+				"offensiven Signum-Techniken."
+			]
+		},
+		{
+			"path": [140,2,91,3],
+			"indent": 1,
+			"original": "Sir Vorento: Das Steigern der defensiven Element- Level führt zur Meisterung von \"Haltungs-Signum\" - defensiven Signum-Techniken.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Das Steigern der defensiven Element-",
+				"Level führt zur Meisterung von \\c[11]\"Haltungs-Signum\"\\c[0] -",
+				"defensiven Signum-Techniken."
+			]
+		},
+		{
+			"path": [140,2,94,1],
+			"indent": 1,
+			"original": "Punkt 3: Wie werden Element-Level gesteigert?",
+			"lines":
+			[
+				"\\c[13]Punkt 3: Wie werden Element-Level gesteigert?"
+			]
+		},
+		{
+			"path": [140,2,95,2],
+			"indent": 1,
+			"original": "Sir Vorento: Durch das Einkoppeln von Element-Kugeln ...",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Durch das Einkoppeln von ",
+				"Element-Kugeln ..."
+			]
+		},
+		{
+			"path": [140,2,111,2],
+			"indent": 1,
+			"original": "Sir Vorento: ...in die Wölbungen der Waffe...",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: ...in die \\c[11]Wölbungen der ",
+				"Waffe\\c[0]..."
+			]
+		},
+		{
+			"path": [140,2,135,2],
+			"indent": 1,
+			"original": "Sir Vorento: ... oder in die Wölbungen des Armbandes.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: ... oder in die \\c[11]Wölbungen des ",
+				"Armbandes\\c[0]."
+			]
+		},
+		{
+			"path": [140,2,146,3],
+			"indent": 1,
+			"original": "Sir Vorento: Sind Element-Kugeln eingekoppelt, wird ein Teil der Erfahrung, die man am Ende des Kampfes erlangt, auf die Element-Level übertragen.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Sind Element-Kugeln eingekoppelt, ",
+				"wird ein \\c[11]Teil der Erfahrung\\c[0], die man am Ende des ",
+				"Kampfes erlangt, auf die \\c[11]Element-Level übertragen\\c[0]."
+			]
+		},
+		{
+			"path": [140,2,149,3],
+			"indent": 1,
+			"original": "Sir Vorento: Auf welches Element-Level die Erfahrung wirkt, hängt einerseits von der Element- Kugel ab und davon, wo sie eingekoppelt ist.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Auf welches Element-Level die ",
+				"Erfahrung wirkt, hängt einerseits von der Element-",
+				"Kugel ab und davon, wo sie eingekoppelt ist."
+			]
+		},
+		{
+			"path": [140,2,152,4],
+			"indent": 1,
+			"original": "Sir Vorento: Jede Element-Kugel ist einem Element zugewiesen und vermag auch dieses Element zu steigern. Feuerkugeln steigern Feuerelemente, Erdkugeln steigern Erdelemente.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Jede Element-Kugel ist einem Element ",
+				"zugewiesen und \\c[11]vermag auch dieses Element zu ",
+				"steigern\\c[0]. Feuerkugeln steigern Feuerelemente, ",
+				"Erdkugeln steigern Erdelemente."
+			]
+		},
+		{
+			"path": [140,2,156,3],
+			"indent": 1,
+			"original": "Sir Vorento: Koppelt man die Kugel in die Waffe, steigert sie das Offensiv-Level ihres Elementes.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Koppelt man die Kugel ",
+				"in die \\c[11]Waffe\\c[0], ",
+				"steigert sie das \\c[11]Offensiv-Level\\c[0] ihres Elementes."
+			]
+		},
+		{
+			"path": [140,2,159,3],
+			"indent": 1,
+			"original": "Sir Vorento: Koppelt man die Kugel in das Armband, steigert sie das Defensiv-Level ihres Elementes.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Koppelt man die Kugel ",
+				"in das \\c[11]Armband\\c[0], ",
+				"steigert sie das \\c[11]Defensiv-Level\\c[0] ihres Elementes."
+			]
+		},
+		{
+			"path": [140,2,162,3],
+			"indent": 1,
+			"original": "Sir Vorento: Koppelt man mehrere Element-Kugeln einer Sorte in die Waffe oder in das Armband, steigt das Element-Level natürlich schneller.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Koppelt man mehrere Element-Kugeln ",
+				"einer Sorte in die Waffe oder in das Armband, ",
+				"steigt das Element-Level natürlich schneller."
+			]
+		},
+		{
+			"path": [140,2,165,4],
+			"indent": 1,
+			"original": "Sir Vorento: Trotzdem sollte man dies nie mit mehr als 3 gleichen Element-Kugeln machen, da der Wirkungsgrad darüber hinaus nicht mehr proportional mit der Anzahl wächst.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Trotzdem sollte man dies nie mit ",
+				"\\c[11]mehr als 3 gleichen Element-Kugeln\\c[0] machen, da der ",
+				"Wirkungsgrad darüber hinaus nicht mehr ",
+				"proportional mit der Anzahl wächst."
+			]
+		},
+		{
+			"path": [140,2,169,3],
+			"indent": 1,
+			"original": "Sir Vorento: Beachten Sie auch, dass ein Element-Level nicht über das Charakter-Level steigen kann.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Beachten Sie auch, dass ",
+				"\\c[11]ein Element-Level nicht über das ",
+				"Charakter-Level steigen kann."
+			]
+		},
+		{
+			"path": [140,2,172,2],
+			"indent": 1,
+			"original": "Punkt 4: Welche Signum-Techniken lernt man nun genau?",
+			"lines":
+			[
+				"\\c[13]Punkt 4: Welche Signum-Techniken ",
+				"lernt man nun genau?"
+			]
+		},
+		{
+			"path": [140,2,174,3],
+			"indent": 1,
+			"original": "Sir Vorento: Welche Signum-Techniken gelernt werden und mit welcher Geschwindigkeit, ist von Person zu Person unterschiedlich.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Welche Signum-Techniken gelernt ",
+				"werden und mit welcher Geschwindigkeit,\\c[11] ist von ",
+				"Person zu Person unterschiedlich."
+			]
+		},
+		{
+			"path": [140,2,177,4],
+			"indent": 1,
+			"original": "Sir Vorento: Damit Sie die Element-Kugeln nicht auf gut Glück setzen, bietet das Element-Menu eine Vorschau, welche Signum-Techniken der Charakter als nächstes meistern könnte.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Damit Sie die Element-Kugeln nicht ",
+				"auf gut Glück setzen, bietet das Element-Menu ",
+				"\\c[11]eine Vorschau, welche Signum-Techniken der ",
+				"Charakter als nächstes meistern könnte."
+			]
+		},
+		{
+			"path": [140,2,198,2],
+			"indent": 1,
+			"original": "Sir Vorento: Diese beiden Symbole zeigen einem diese Liste an.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Diese beiden Symbole zeigen einem ",
+				"diese Liste an. "
+			]
+		},
+		{
+			"path": [140,2,208,2],
+			"indent": 1,
+			"original": "Sir Vorento: Das Obere die Liste für \"Gefechts-Signum\"...",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Das Obere \\c[11]die Liste für ",
+				"\"Gefechts-Signum\"\\c[0]..."
+			]
+		},
+		{
+			"path": [140,2,226,2],
+			"indent": 1,
+			"original": "Sir Vorento: ...das Untere die Liste für \"Haltungs-Signum\".",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: ...das Untere \\c[11]die Liste",
+				"für \"Haltungs-Signum\"\\c[0]."
+			]
+		},
+		{
+			"path": [140,2,228,4],
+			"indent": 1,
+			"original": "Sir Vorento: Beachten Sie, dass in dieser Liste nur dann Techniknamen angezeigt werden, wenn die jeweilige Technik höchstens 9 Element-Level von der Meisterung entfernt ist.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Beachten Sie, dass in dieser Liste ",
+				"nur dann Techniknamen angezeigt werden, wenn die ",
+				"jeweilige Technik höchstens 9 Element-Level von ",
+				"der Meisterung entfernt ist."
+			]
+		},
+		{
+			"path": [140,2,232,4],
+			"indent": 1,
+			"original": "Sir Vorento: Andernfalls erscheint ein Fragezeichen-Schriftzug. Sie können trotzdem das Element der Technik sehen, indem Sie die Technik mit dem Cursor auswählen.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Andernfalls erscheint ein ",
+				"Fragezeichen-Schriftzug. \\c[11]Sie können trotzdem das ",
+				"Element der Technik sehen, indem Sie die Technik ",
+				"mit dem Cursor auswählen.\\c[0]"
+			]
+		},
+		{
+			"path": [140,2,277,1],
+			"indent": 1,
+			"original": "Sir Vorento: Und zum Schluss ein paar Tipps.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Und zum Schluss ein paar Tipps."
+			]
+		},
+		{
+			"path": [140,2,278,2],
+			"indent": 1,
+			"original": "Sir Vorento: Haben Sie ihre Ausrüstung immer komplett mit Element-Kugeln zugekoppelt.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Haben Sie ihre Ausrüstung immer ",
+				"komplett mit Element-Kugeln zugekoppelt. "
+			]
+		},
+		{
+			"path": [140,2,280,4],
+			"indent": 1,
+			"original": "Sir Vorento: Denken Sie daran: Bekommen Sie kaum Erfahrung von den Gegnern, steigen auch die Element-Level sehr langsam, EGAL, wie tief sie sind.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Denken Sie daran: Bekommen Sie kaum ",
+				"Erfahrung von den Gegnern, steigen auch die ",
+				"Element-Level sehr langsam, EGAL, wie ",
+				"tief sie sind."
+			]
+		},
+		{
+			"path": [140,2,284,3],
+			"indent": 1,
+			"original": "Sir Vorento: Eine gute Methode ist immer zielstrebig die Element-Level so zu erhöhen, dass man möglichst bald an eine neue Technik ran kommt.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Eine gute Methode ist immer ",
+				"zielstrebig die Element-Level so zu erhöhen, dass ",
+				"man möglichst bald an eine neue Technik ran kommt."
+			]
+		},
+		{
+			"path": [140,2,287,1],
+			"indent": 1,
+			"original": "Sir Vorento: Damit ist die Erklärung zu Ende.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Damit ist die Erklärung zu Ende."
+			]
+		},
+		{
+			"path": [144,1,3,1],
+			"indent": 1,
+			"original": "---- KONSTANTEN FESTLEGEN -----",
+			"lines":
+			[
+				"---- KONSTANTEN FESTLEGEN -----"
+			]
+		},
+		{
+			"path": [144,1,7,1],
+			"indent": 1,
+			"original": "----ELEMENTKUGEL SYSTEM ÄNDERUNG ANPASSEN ----",
+			"lines":
+			[
+				"----ELEMENTKUGEL SYSTEM ÄNDERUNG ANPASSEN ----"
+			]
+		},
+		{
+			"path": [144,1,49,4],
+			"indent": 1,
+			"original": "Helden Status Entwicklung wurde verändert!  Helden Werte werden aktualisiert, bitte einen Moment warten...",
+			"lines":
+			[
+				"Helden Status Entwicklung wurde verändert!",
+				"",
+				"Helden Werte werden aktualisiert, ",
+				"bitte einen Moment warten..."
+			]
+		},
+		{
+			"path": [144,1,196,1],
+			"indent": 1,
+			"original": "+\\v[628]  | +\\v[629]  | +\\v[630]  | +\\v[631]  | +\\v[632]  | +\\v[633]  | +\\v[634]",
+			"lines":
+			[
+				"+\\v[628]  | +\\v[629]  | +\\v[630]  | +\\v[631]  | +\\v[632]  | +\\v[633]  | +\\v[634] "
+			]
+		},
+		{
+			"path": [144,1,215,3],
+			"indent": 1,
+			"original": "Kento: HP +(\\v[81])   MP +(\\v[82]) ATK +(\\v[83])    ABW +(\\v[84]) MTL +(\\v[85])    AGI+(\\v[86])",
+			"lines":
+			[
+				"Kento: HP +(\\v[81])   MP +(\\v[82])",
+				"ATK +(\\v[83])    ABW +(\\v[84])",
+				"MTL +(\\v[85])    AGI+(\\v[86])"
+			]
+		},
+		{
+			"path": [144,1,380,3],
+			"indent": 1,
+			"original": "Cibon: HP +(\\v[81])   MP +(\\v[82]) ATK +(\\v[83])    ABW +(\\v[84]) MTL +(\\v[85])    AGI+(\\v[86])",
+			"lines":
+			[
+				"Cibon: HP +(\\v[81])   MP +(\\v[82])",
+				"ATK +(\\v[83])    ABW +(\\v[84])",
+				"MTL +(\\v[85])    AGI+(\\v[86])"
+			]
+		},
+		{
+			"path": [144,1,545,3],
+			"indent": 1,
+			"original": "Soko: HP +(\\v[81])   MP +(\\v[82]) ATK +(\\v[83])    ABW +(\\v[84]) MTL +(\\v[85])    AGI+(\\v[86])",
+			"lines":
+			[
+				"Soko: HP +(\\v[81])   MP +(\\v[82])",
+				"ATK +(\\v[83])    ABW +(\\v[84])",
+				"MTL +(\\v[85])    AGI+(\\v[86])"
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [13,17,54],
+			"original": "Weltkarte",
+			"patch": "The Overworld"
+		}
+	]
+}

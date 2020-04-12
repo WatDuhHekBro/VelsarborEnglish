@@ -38,7 +38,8 @@ The `master` branch will correlate with each release, double-checked for line en
 *Because every project needs a to-do list!*
 - Picture Text: 97%
 - Fancy Text: 95%
-- Database: 24%
+- Database: 52%
+- Special (#1/#10/#28): 5%
 ## Sections/Areas
 *It's important to note that the Helnovien Mine is an EXTREMELY enormous section of the game.*
 - Prologue: 100%
