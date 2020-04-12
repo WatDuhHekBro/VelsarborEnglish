@@ -1,5 +1,3 @@
-Sedric
-
 Soko: N...Nein! Das kann ich nicht zulassen! NICHT HIER!
 Robin: Nein... diese Schande!
 Saion: Nein! Das kann doch... nicht sein! Wir sind schon so weit oben gewesen... und jetzt das!
@@ -7,7 +5,7 @@ Jorn: Args... Nicht ... auf die Hände ... fallen...!
 Gurim: Ach herrje...
 Chefv: Jetz' is... Zappe!
 
-#
+# !!
 INFO: Soko ist in der Lage Signum-Zauber anzuwenden.
 Signum-Zauber richten magischen Elementar- Schaden an.
 Die Höhe dieses Schadens wird durch die Mentale Kraft des Anwenders...
@@ -32,25 +30,25 @@ Du findest die Zustand-Sare-Techniken unter dem 2. Symbol im Technik-Auswahl-Men
 #
 INFO: Soko is able to use Signum spells.
 Signum spells do magical elemental damage.
-The amount of this damage is determined by the mental strength of the user ...
-... and the level of the spell, of which there are three.
-Using the example of fire: "Fire" is 1st level, "Feures" is 2nd level and "Feuentus" is 3rd level.
-Magic damage is not warded off with "protection", but with mental power.
-Therefore, such spells can be effective against defensive opponents.
-You will find the Signum spells under the 1st symbol in the technology selection menu.
+The amount of this damage is determined by the wisdom stat of the user...
+...as well as the level of the spell, of which there are three.
+Using the fire spell for example, the order is as follows: "Fire", "Great Fire", and "Grand Fire".
+Magic damage is not protected against with "defense", but with wisdom.
+Therefore, such spells can be effective against opponents with high defense.
+You will find the Signum spells under the 1st symbol in the techs menu.
 
-INFO: Kento is now able to use element sare techniques - Imbue Element Techs
-Element sare techniques are physical strikes, the damage of which is shaped by an element.
-These strikes are effective against monsters with little protection against physical attacks
-If the opponent has a weakness against the element of technology, it is particularly effective.
-You can find the element sare techniques under the 2nd symbol in the technique selection menu.
+INFO: Kento is now able to imbue elements.
+Imbue element techniques are physical strikes, the damage of which is shaped by an element.
+These strikes are effective against monsters with little protection against physical attacks.
+If the opponent has a weakness against the imbued element, it is particularly effective.
+You can find the imbue element techniques under the 2nd symbol in the techs menu.
 
-INFO: Cibon is now able to use state sare techniques. - Status Techs
-State sare techniques are physical strikes that also cause a certain state.
+INFO: Cibon is now able to imbue status effects. - Status Techs
+Imbue status techniques are physical strikes that also inflict a certain state.
 The likelihood that the target will be affected by the condition depends on the opponent.
-The enemy can be vulnerable to immune to the condition.
-Fighters on their own side can protect themselves from conditions with certain equipment.
-You can find the state sare techniques under the 2nd icon in the technique selection menu.
+The enemy can be range from being vulnerable to being immune to the condition.
+Combatants on the same side can protect each other from these conditions with certain equipment.
+You can find the imbue status techniques under the 2nd symbol in the techs menu.
 #
 
 Soko: Cibon, was fällt dir ein einfach so los zu stürmen?!
@@ -71,29 +69,41 @@ Soko: Na wartet...
 Cibon: Was geht hier ab?!
 Soko: Wir müssen Herr Uroto beschützen! Das ist alles was zählt!
 
+# !!
 Sedric: Du verstärkst und heilst mich, ich kümmere mich um den Schaden!
 Soldat: ...
 Kento: Dieser Sedric scheint mir mehr Ausdauer zu haben...
 Kento: Aber sein Gehilfe steht direkt hinter ihm, er kann nicht im Nahkampf angegriffen werden.
 Kento: Wir sollten im Verlauf des Kampfes erfahren, welcher zuerst besiegt werden muss.
+#
+Sedric: You, strengthen and heal me. I'll take care of the damage!
+Soldier: ...
+Kento: This Sedric guy seems to have more strength than the others...
+Kento: But his partner is right behind him, and he can't be attacked in close combat.
+Kento: We'll find out in the course of the battle which one has to be taken down first.
+#
 
+# !!
 Kento: Wir dürfen uns nicht zu lange aufhalten lassen!
 Cibon: Die Gegner so schnell wie möglich überrennen! Alles klar, Kumpel!
 Kento: Oder einschläfern bzw. paralysieren und dann fliehen.
 
-#
 INFO: Die Zeit, die dir in den Kämpfen noch bleibt, wird in Zügen dargestellt.
 Ein Zug wird verbraucht, wann immer ein beliebiger Kampfteilnehmer angreift.
 Wenn alle Züge verbraucht sind, bist du komplett eingeholt und das Spiel ist verloren.
 Die Anzahl der Züge wird nach diesem Kampf NICHT zurückgesetzt - sie gilt für ALLE Kämpfe.
 - Du hast noch \v[1863] Züge zur Verfügung -
-#
-INFO: The time you have left in the battles is shown in trains.
-A turn is consumed whenever any combat participant attacks.
-When all moves have been used up, you are completely overtaken and the game is lost.
-The number of moves is NOT reset after this fight - it applies to ALL battles.
-- You still have \ v [1863] trains available -
-#
+# **note** Zügen seems to be a grammatical error judging by the context and MajinSonicLP's reaction in his Let's Play.
+Kento: We can't get caught up in these battles!
+Cibon: Got it! Let's take them out as soon as possible!
+Kento: Or put them to sleep or paralyse them and then go.
+
+INFO: The time you have left in these battles is shown in turns.
+A turn is consumed whenever ANY combatant attacks.
+When all turns have been used up, you are completely overtaken and the game is lost.
+The number of turns is NOT reset after this fight - it applies to ALL battles.
+- You have \v[1863] turns left -
+# **note** While "any" isn't emphasized in the original, I think it's worth emphasizing.
 
 Cibon: Es ist ein Wurm und er ist RIESIG!
 Kento: Wenn sich das Vieh so ähnlich wie seine kleinen Artgenossen verhält...
@@ -124,7 +134,7 @@ Ein Lichtschlag kann ihn wieder kampffähig machen!
 Du findest den Lichtschlag genau wie den Heilsirub bei Gegenstände
 Cibon: Ohoh... Was auch immer dieses Ding vorhat, ich sollte vorbereitet sein!
 
-#
+# !!
 INFO: Ein Kampfteilnehmer ist von dem Zustand "Verwirrung" befallen.
 Verwirrung bewirkt, dass das Opfer bei seiner Aktion unkontrolliert ein zufälliges Ziel angreift.
 Wobei die Wahrscheinlichkeit, dass sich das Ziel auf der eigenen Seite befindet, höher ist.
@@ -165,42 +175,42 @@ Allerdings kann jeder Schutzschild durch einen oder mehrere passende Treffer geb
 Welche Art von Treffer den Schild brechen lässt, muss hierbei herausgefunden werden.
 Eine magische Lupe kann hierbei helfen!
 #
-INFO: A combat participant is affected by the "confusion" condition.
+INFO: A combatant has been inflicted with the "confusion" status effect.
 Confusion causes the victim to uncontrollably attack a random target.
-The likelihood that the target is on your own side is higher.
+The likelihood that the target attacks their own side is higher.
 Confusion passes after a certain number of moves by the victim.
-Otherwise it can be "healed" with spells, items or a physical hit.
+Otherwise, it can be cured with spells, items, or a physical hit.
 
-INFO: A combat participant is affected by the "silence" state.
+INFO: A combatant has been inflicted with the "silence" status effect.
 Silence prevents the victim from using any Signum technique.
 However, the use of special techniques is still possible.
-Silence fades over time or can be healed with certain spells and items
+Silence fades over time, but can be cured with certain spells and items.
 
-INFO: A combat participant is affected by the "poisoning" condition.
-Poisoning does some damage every time the victim performs an action.
+INFO: A combatant has been inflicted with the "poison" status effect.
+Poison does some damage every time the victim performs an action.
 The amount of damage depends on the victim's maximum HP.
-This damage can disable the victim if the HP drops to 0.
-Poisoning passes over time or can be healed with certain spells and items.
+This damage can kill the victim if their HP drops to 0.
+Poison passes over time, but can be cured with certain spells and items.
 
-INFO: A combat participant is affected by the "sleep" state.
+INFO: A combatant has been inflicted with the "sleep" status effect.
 Sleep causes the victim to be unable to take any action.
 If the victim is physically hit, there is a high chance that the condition will disappear.
-Otherwise, it passes over time or can be healed with certain spells and items.
+Otherwise, it passes over time, but can be cured with certain spells and items.
 
-INFO: A combat participant is affected by the "glare" condition.
-Glare radically lowers the victim's hit rate.
-But be careful: not all techniques are affected by this condition.
-Signum magic and some special techniques hit with the same probability despite glare.
-Glare passes over time or can be healed with certain spells and items.
+INFO: A combatant has been inflicted with the "glare" status effect.
+Glare drastically lowers the victim's accuracy.
+But be careful: Not all techniques are affected by this condition.
+Signum spells and some special techniques hit with the same accuracy despite the glare status effect.
+Glare passes over time, but can be cured with certain spells and items.
 
-INFO: A combat participant is affected by the "paralysis" state.
-Paralysis makes the victim's actions unlikely.
-You can choose the action, but whether it is carried out depends on chance.
+INFO: A combatant has been inflicted with the "paralysis" status effect.
+Paralysis makes the victim's actions unlikely to happen.
+You can choose the action, but whether or not it is carried out depends on chance.
 If the victim is physically hit, there is little chance that the condition will disappear.
-Paralysis passes over time or can be healed with certain spells and items.
+Paralysis passes over time, but can be cured with certain spells and items.
 
 INFO: Attention! This enemy has a protective shield.
-Shields can greatly reduce physical and / or magical damage.
+Shields can greatly reduce physical and/or magical damage.
 However, each protective shield can be broken by one or more matching hits.
 The type of hit that breaks the shield must be found.
 A magic magnifying glass can help!
@@ -218,21 +228,30 @@ Jorn: ... Die macht mir Angst.
 Kento: Es sind so viele! Macht es überhaupt Sinn zu kämpfen?!
 (Kento: Nichts wie weg hier!)
 
-#
+# !!
 Soldat: Genau diese Situation hab ich kommen sehen, heilige Scheiße!
 
 Sedric: Tsk, der Kampf ist noch nicht entschieden!
 #
 Soldier: That's exactly what I saw coming, holy shit!
 
-Sedric: Tsk, the fight is not over yet!
+Sedric: Tsk, the battle isn't over yet!
 #
 
+# !!
 Verstärkung ist eingetroffen. Ihr seid umzingelt.
 - Du hast noch \v[1863] Züge zur Verfügung -
 Cibon: Nichts wie weg hier!
 Kento: Fliehen, sofort!
 Soko: Jetzt können wir fliehen!
+#
+Reinforcements have arrived. You are surrounded.
+- You have \v[1863] turns left -
+Cibon: Let's get outta here!
+Kento: Run for it!
+Soko: We can escape! Now!
+#
+
 Cibon: Einen haben wir! Wie war das mit deiner Prognose, Robin?
 Robin: Noch ist der Kampf nicht vorbei!
 Soko: So geht das, Männer!
