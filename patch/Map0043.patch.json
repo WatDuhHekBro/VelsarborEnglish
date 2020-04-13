@@ -1,0 +1,199 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [7,1,3,4],
+			"original": "Gasthofbesitzerin: Guten Tag. Von Ihren anstrengenden Aufgaben als Soldat müssen Sie doch sicherlich ganz erschöpft sein. Brauchen Sie vielleicht eine Rast?",
+			"lines":
+			[
+				"\\c[10]Gasthofbesitzerin\\c[0]: Guten Tag. Von Ihren ",
+				"anstrengenden Aufgaben als Soldat müssen Sie doch ",
+				"sicherlich ganz erschöpft sein. ",
+				"Brauchen Sie vielleicht eine Rast?"
+			]
+		},
+		{
+			"path": [7,1,10,2],
+			"indent": 1,
+			"original": "Gasthofbesitzerin: Ihnen gehört das linke Zimmer. Wünsche Ihnen einen erholsamen Schlaf.",
+			"lines":
+			[
+				"\\c[10]Gasthofbesitzerin\\c[0]: Ihnen gehört das linke Zimmer.",
+				"Wünsche Ihnen einen erholsamen Schlaf."
+			]
+		},
+		{
+			"path": [9,1,2,4],
+			"original": "Gast: Seit dem Sieg über die Korzojaner lebt es sich immer besser hier in Brigantia! Wenn ich daran denke, wie groß unsere Geldsorgen früher immer gewesen sind.",
+			"lines":
+			[
+				"\\c[10]Gast\\c[0]: Seit dem Sieg über die Korzojaner lebt ",
+				"es sich immer besser hier in Brigantia!",
+				"Wenn ich daran denke, wie groß unsere ",
+				"Geldsorgen früher immer gewesen sind."
+			]
+		},
+		{
+			"path": [9,1,6,2],
+			"original": "Gast: Heute geht es uns viel besser, da bin ich mir sicher. Ein Hoch auf Brigantia!",
+			"lines":
+			[
+				"\\c[10]Gast\\c[0]: Heute geht es uns viel besser, da bin ich ",
+				"mir sicher.\\. Ein Hoch auf Brigantia!"
+			]
+		},
+		{
+			"path": [10,1,2,4],
+			"original": "Gast: Ich habe mal gehört, dass man in Korzojeno ab einem bestimmten Alter der Armee beitreten muss. Man muss zwar nicht bleiben, aber ein paar Jahre ist ein Dasein als Soldat Pflicht...",
+			"lines":
+			[
+				"\\c[10]Gast\\c[0]: Ich habe mal gehört, dass man in Korzojeno ",
+				"ab einem bestimmten Alter der Armee beitreten ",
+				"muss. Man muss zwar nicht bleiben, aber ein paar ",
+				"Jahre ist ein Dasein als Soldat Pflicht..."
+			]
+		},
+		{
+			"path": [10,1,8,3],
+			"original": "Kento: Stimmt das wirklich? Dass Korzojeno so militärisch eingestellt war, ist mir neu.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Stimmt das wirklich? Dass ",
+				"Korzojeno so militärisch eingestellt ",
+				"war, ist mir neu."
+			]
+		},
+		{
+			"path": [10,1,12,4],
+			"original": "Gast: Ich denke schon... Als wir gegen Korzojeno gekämpft haben, war das Heer des Gegners auch größer als unseres.",
+			"lines":
+			[
+				"\\c[10]Gast\\c[0]: Ich denke schon...",
+				"Als wir gegen Korzojeno gekämpft haben, ",
+				"war das Heer des Gegners auch größer als ",
+				"unseres."
+			]
+		},
+		{
+			"path": [10,1,16,4],
+			"original": "Gast: Aber unsere Soldaten müssen wohl intensiver gekämpft haben. Klar. Da bei uns nur die Soldaten wurden, die es so wollten, war ihre Motivation wohl höher.",
+			"lines":
+			[
+				"\\c[10]Gast\\c[0]: Aber unsere Soldaten müssen wohl ",
+				"intensiver gekämpft haben.\\. Klar.\\. Da bei uns nur ",
+				"die Soldaten wurden, die es so wollten, war ihre ",
+				"Motivation wohl höher."
+			]
+		},
+		{
+			"path": [10,1,20,4],
+			"original": "Gast: Wegen der Pflicht, der Armee beizutreten, gab es wahrscheinlich auf der Gegenseite viele unmotivierte Soldaten. Und das hat die Stärke Korzojenos ziemlich beeinträchtigt.",
+			"lines":
+			[
+				"\\c[10]Gast\\c[0]: Wegen der Pflicht, der Armee beizutreten, ",
+				"gab es wahrscheinlich auf der Gegenseite viele ",
+				"unmotivierte Soldaten. Und das hat die ",
+				"Stärke Korzojenos ziemlich beeinträchtigt."
+			]
+		},
+		{
+			"path": [10,1,26,1],
+			"original": "Kento: Ja, kann sein.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja, kann sein."
+			]
+		},
+		{
+			"path": [11,2,3,3],
+			"original": "Kellnerin: Guten Tag. Wenn Sie etwas bestellen wollen, setzen Sie sich bitte an einen Tisch oder an die Theke.",
+			"lines":
+			[
+				"\\c[10]Kellnerin\\c[0]: Guten Tag. Wenn Sie etwas bestellen ",
+				"wollen, setzen Sie sich bitte an einen Tisch oder ",
+				"an die Theke."
+			]
+		},
+		{
+			"path": [11,2,8,2],
+			"original": "(Kento: Letztendlich will ich sowieso nichts bestellen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]:\\c[0] Letztendlich will ich sowieso ",
+				"nichts bestellen.)"
+			]
+		},
+		{
+			"path": [13,1,3,1],
+			"original": "Gast: Kellnerin! Noch ein Bier bitte!",
+			"lines":
+			[
+				"\\c[10]Gast\\c[0]: Kellnerin!\\. Noch ein Bier bitte!"
+			]
+		},
+		{
+			"path": [14,1,3,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Wir 3 haben hier schon unseren 5. Stammtisch. Manchmal brauchen wir halt etwas Abstand von dem ganzen Training.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wir 3 haben hier ",
+				"schon unseren 5. Stammtisch.\\.",
+				"Manchmal brauchen wir halt etwas Abstand von ",
+				"dem ganzen Training."
+			]
+		},
+		{
+			"path": [14,1,11,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Oh, ihr seid das! Vielen Dank, dass ihr den anderen Bescheid gesagt habt. Hier, das ist für euch...",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Oh, ihr seid das!\\. ",
+				"Vielen Dank, dass ihr den anderen Bescheid gesagt ",
+				"habt.\\. Hier, das ist für euch..."
+			]
+		},
+		{
+			"path": [14,1,22,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Es sieht zwar kitschig aus, aber wenn ihr es tragt, gelingen euch in der Regel mehr Volltreffer. Äußerst praktisch, das Teil.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Es sieht zwar ",
+				"kitschig aus, aber wenn ihr es tragt, gelingen ",
+				"euch in der Regel mehr Volltreffer.\\.",
+				"Äußerst praktisch, das Teil."
+			]
+		},
+		{
+			"path": [14,1,26,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Na ja, ich hab viele davon, deswegen kann ich auch mal eines verschenken.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Na ja\\., ich hab ",
+				"viele davon, deswegen kann ich auch mal eines",
+				"verschenken."
+			]
+		},
+		{
+			"path": [16,1,3,2],
+			"original": "Soldat vom Briganten-Orden: Hey mein Freund, überfriss dich lieber nicht.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hey mein Freund, ",
+				"überfriss dich lieber nicht."
+			]
+		},
+		{
+			"path": [17,1,3,2],
+			"original": "Soldat vom Briganten-Orden: Juhu! Rumpsteak mit Pfeffersoße! Köstlich!",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Juhu!\\. Rumpsteak ",
+				"mit Pfeffersoße!\\. Köstlich!"
+			]
+		}
+	]
+}

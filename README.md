@@ -23,6 +23,9 @@ These buttons below still do unique things, but are mostly for customization.
 - Cibon: Pronounced with a hard C, so basically "Key-bon". The stress is on the first syllable.
 - All J's are pronounced as Y's, because German.
 
+# Videos
+I have a playlist of update videos in case you want to watch it instead of playing it, [here](https://www.youtube.com/playlist?list=PLT800wgkhxolwCulnS8bWs9LVEPnssTgy).
+
 # Dev Section Below
 AFAIK, the people who previously worked on translations never published their progress, and it seems like they haven't worked on it since.
 
@@ -56,4 +59,4 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 - The Silvan Forest: 4%
 - Mysterious Fortress: 1%
 - Gencorin Pt II: 0%
-- The Helnovien Mine: 0%
+- The Helnovien Mine: 0.01%

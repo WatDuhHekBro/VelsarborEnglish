@@ -3,6 +3,7 @@ Despite what you may initially think, the map tree has nothing to do with the na
 Instead, it's determined by the name given by each save point's code (meaning it's in the map data).
 For example, "Sink-Lohn-P." is not found anywhere in the map tree, only in Map0037 (thanks GREP).
 The only odd case is Map0010 which determines the name of the world map (because you can save anywhere on the world map).
+Seems like most of the original text was made to cap out at around 12 characters.
 
 -= List =-
 Map0010: "Weltkarte" / "The Overworld"
@@ -19,7 +20,7 @@ Map0140: "CorinePlat2" / ""
 Map0147: "CorinePlat3" / ""
 Map0148: "Gencorin1" / "North Gencorin"
 Map0155: "Gencorin1" / "Gencorin Inn"
-Map0178: "Silvanwald1" / "Silvan Forest"
+Map0178: "Silvanwald1" / "Silvan Forest" <-- Maybe add a "west" to make the plot twist more unexpected.
 Map0195: "Stützpunkt1" / ""
 Map0200: "Stützpunkt2" / ""
 Map0201: "Stützpunkt3" / ""

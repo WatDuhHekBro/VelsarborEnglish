@@ -1,0 +1,16 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [5,1,2,4],
+			"original": "Adelsfrau: Mein Mann arbeitet die ganze Zeit an seinen Projekten. Man kann nicht richtig mit ihm reden. Mit den Gedanken ist er immer woanders....",
+			"lines":
+			[
+				"\\c[10]Adelsfrau\\c[0]: Mein Mann arbeitet die ganze Zeit an ",
+				"seinen Projekten. Man kann nicht richtig mit ",
+				"ihm reden. Mit den Gedanken ist er immer ",
+				"woanders...."
+			]
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [3,1,2,4],
+			"original": "Sekretärin: Tut mir Leid, aber zurzeit findet hier eine wichtige Besprechung statt. Wir können deshalb persönlichen Anfragen im Moment nicht entgegenkommen.",
+			"lines":
+			[
+				"\\c[10]Sekretärin\\c[0]: Tut mir Leid, aber zurzeit findet hier ",
+				"eine wichtige Besprechung statt. Wir können ",
+				"deshalb persönlichen Anfragen im Moment ",
+				"nicht entgegenkommen. "
+			]
+		},
+		{
+			"path": [3,1,9,3],
+			"indent": 1,
+			"original": "Cibon: Was haben wir hier überhaupt im Bezirksposten verloren, Kumpel?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Was haben wir hier ",
+				"überhaupt im Bezirksposten ",
+				"verloren, Kumpel?"
+			]
+		},
+		{
+			"path": [3,1,13,3],
+			"indent": 1,
+			"original": "Kento: Du könntest dir hier etwas Geld leihen um deine Schulden bei mir zu zahlen, zum Beispiel.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Du könntest dir hier etwas ",
+				"Geld leihen um deine Schulden bei",
+				"mir zu zahlen,\\. zum Beispiel."
+			]
+		},
+		{
+			"path": [3,1,17,1],
+			"indent": 1,
+			"original": "Cibon: Ach, sei still!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ach, sei still!"
+			]
+		},
+		{
+			"path": [6,1,24,3],
+			"original": "Türsteher:Tut mir Leid. Derzeit wird hier eine wichtige Besprechung abgehalten. Sie dürfen den Raum nicht betreten.",
+			"lines":
+			[
+				"\\c[10]Türsteher\\c[0]:Tut mir Leid. Derzeit wird hier eine ",
+				"wichtige Besprechung abgehalten. Sie dürfen den ",
+				"Raum nicht betreten."
+			]
+		},
+		{
+			"path": [7,1,2,3],
+			"original": "Türsteher: Tut mir Leid. Derzeit wird hier eine wichtige Besprechung abgehalten. Sie dürfen den Raum nicht betreten.",
+			"lines":
+			[
+				"\\c[10]Türsteher\\c[0]: Tut mir Leid. Derzeit wird hier eine ",
+				"wichtige Besprechung abgehalten. Sie dürfen den ",
+				"Raum nicht betreten."
+			]
+		},
+		{
+			"path": [8,2,2,4],
+			"original": "Mann: Schon seit Wochen haben sie hier im Bezirksposten andauernd \"wichtige Besprechungen\". Für die kleinen Probleme bleibt anscheinend keine Zeit.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Schon seit Wochen haben sie hier im ",
+				"Bezirksposten andauernd \"wichtige ",
+				"Besprechungen\".\\. Für die kleinen Probleme ",
+				"bleibt anscheinend keine Zeit."
+			]
+		}
+	]
+}

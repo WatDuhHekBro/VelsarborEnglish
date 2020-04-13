@@ -1,0 +1,436 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [12,2,3,2],
+			"original": "Soldat vom Briganten-Orden: Mist, wo bleiben die jetzt schon wieder...",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Mist,\\. wo bleiben ",
+				"die jetzt schon wieder..."
+			]
+		},
+		{
+			"path": [12,2,5,4],
+			"original": "Soldat vom Briganten-Orden: Hey ihr. Wenn ihr etwas Zeit hättet, wäre es sehr nett, wenn ihr ein paar bestimmten Leuten sagen würdet, dass ich auf sie warte.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hey ihr.\\. ",
+				"Wenn ihr etwas Zeit hättet, wäre es sehr nett, ",
+				"wenn ihr ein paar bestimmten Leuten sagen ",
+				"würdet, dass ich auf sie warte."
+			]
+		},
+		{
+			"path": [12,2,9,2],
+			"original": "Soldat vom Briganten-Orden: Würdet ihr das tun?",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Würdet ihr das ",
+				"tun?"
+			]
+		},
+		{
+			"path": [12,2,16,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Großartig! Also es sind 3 Soldaten, die sich hier im Schloss oder auf dem Hof aufhalten müssten.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Großartig!\\. Also es ",
+				"sind 3 Soldaten, die sich hier im Schloss oder ",
+				"auf dem Hof aufhalten müssten. "
+			]
+		},
+		{
+			"path": [12,2,19,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Einer von ihnen hat blaue Haare, den anderen erkennt ihr daran, dass er keine anständige Rüstung nach Vorschrift trägt, also so wie ihr...",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Einer von ihnen ",
+				"hat \\c[11]blaue Haare\\c[0],\\. den anderen erkennt ihr ",
+				"daran, dass er \\c[11]keine anständige Rüstung nach ",
+				"Vorschrift\\c[0] trägt, also so wie ihr..."
+			]
+		},
+		{
+			"path": [12,2,23,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Und der 3. ... Na ja... den werdet ihr sicher nicht so leicht finden. Er versteckt sich nämlich gerne, um sich vor dem Training zu drücken.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Und der 3. ...\\. Na ",
+				"ja...\\. den werdet ihr sicher nicht so leicht ",
+				"finden.\\. \\c[11]Er versteckt sich nämlich gerne, um ",
+				"sich vor dem Training zu drücken.\\c[0]"
+			]
+		},
+		{
+			"path": [12,2,27,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Haltet also die Augen offen. Ich würde das Ganze ja gerne selbst machen, aber wenn jemand hier auftaucht, wie abgesprochen, und ich wäre dann weg, na ja...",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Haltet also die ",
+				"Augen offen.\\. Ich würde das Ganze ja gerne selbst ",
+				"machen, aber wenn jemand hier auftaucht, wie ",
+				"abgesprochen, und ich wäre dann weg, na ja..."
+			]
+		},
+		{
+			"path": [12,2,31,2],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Dadurch würde alles nur durcheinander geraten...",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Dadurch würde ",
+				"alles nur durcheinander geraten..."
+			]
+		},
+		{
+			"path": [12,2,33,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Wenn ihr alle gefunden habt, werdet ihr uns wahrscheinlich unten im Inn von Nomerea finden.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wenn ihr alle ",
+				"gefunden habt, werdet ihr uns wahrscheinlich ",
+				"unten im \\c[11]Inn von Nomerea\\c[0] finden. "
+			]
+		},
+		{
+			"path": [12,2,36,2],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Jo, dann viel Erfolg beim Suchen.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Jo,\\. dann viel ",
+				"Erfolg beim Suchen."
+			]
+		},
+		{
+			"path": [12,2,42,2],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Hm, na ja auch egal. Dann muss ich hier wohl weiter warten...",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hm, na ja auch ",
+				"egal.\\. Dann muss ich hier wohl weiter warten..."
+			]
+		},
+		{
+			"path": [12,3,3,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Bisher habt ihr noch keinen gefunden? Irgendwo müssen sie doch stecken.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Bisher habt ihr ",
+				"noch keinen gefunden?\\. Irgendwo müssen sie ",
+				"doch stecken."
+			]
+		},
+		{
+			"path": [12,3,9,2],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Gut. Nur zwei meiner Kollegen fehlen noch.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Gut.\\.",
+				"Nur zwei meiner Kollegen fehlen noch."
+			]
+		},
+		{
+			"path": [12,3,14,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Klasse, jetzt fehlt nur noch einer. Aber langsam müssen wir auch los. Beeilt euch also.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Klasse, jetzt fehlt ",
+				"nur noch einer.\\. Aber langsam müssen wir auch ",
+				"los.\\. Beeilt euch also."
+			]
+		},
+		{
+			"path": [12,3,20,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Der Typ mit den blauen Haaren... ich weiß nicht wo er hier im Schloss sein könnte. Aber er ist der einzige mit blauen Haaren, soweit ich weiß.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Der Typ mit den ",
+				"\\c[11]blauen Haaren\\c[0]...\\. ich weiß nicht wo er hier im ",
+				"Schloss sein könnte. Aber er ist der \\c[11]einzige mit ",
+				"blauen Haaren\\c[0], soweit ich weiß."
+			]
+		},
+		{
+			"path": [12,3,27,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Der, der keine Rüstung nach Vorschrift hat, sollte ins Auge fallen. Es gibt nur sehr wenige derzeit, die noch keine richtige Rüstung bekommen haben.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Der, der \\c[11]keine ",
+				"Rüstung nach Vorschrift hat\\c[0], sollte ins Auge ",
+				"fallen. Es gibt nur sehr wenige derzeit, die ",
+				"noch keine richtige Rüstung bekommen haben."
+			]
+		},
+		{
+			"path": [12,3,34,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Unser Faulenzer, der sich immer versteckt... hm... nun, soweit ich weiß, sollte er im Moment Training haben. Er müsste sich irgendwo auf dem Hof verstecken.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Unser Faulenzer, ",
+				"\\c[11]der sich immer versteckt\\c[0]...\\. hm... nun\\., soweit ",
+				"ich weiß, sollte er im Moment Training haben. Er ",
+				"müsste sich \\c[11]irgendwo auf dem Hof\\c[0] verstecken."
+			]
+		},
+		{
+			"path": [12,3,40,4],
+			"original": "Soldat vom Briganten-Orden: Und vergesst nicht: Wenn ihr alle gefunden habt, werdet ihr uns zusammen im Inn dieser Stadt finden. Eine kleine Belohnung wird es auch geben.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Und vergesst ",
+				"nicht: Wenn ihr alle gefunden habt, werdet ihr ",
+				"uns zusammen im \\c[11]Inn dieser Stadt\\c[0] finden.\\.",
+				"Eine kleine Belohnung wird es auch geben."
+			]
+		},
+		{
+			"path": [13,3,2,3],
+			"original": "Soldat vom Briganten-Orden: Hehe, ich freu mich schon auf das Essen im Inn. Das ist wirklich erstklassig, weißt du...",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hehe, ich freu ",
+				"mich schon auf das Essen im Inn. Das ist ",
+				"wirklich erstklassig, weißt du..."
+			]
+		},
+		{
+			"path": [14,3,3,4],
+			"original": "Soldat vom Briganten-Orden: Mensch, macht mal schnell und findet die anderen. Wenn ich hier noch länger warte, sieht mein Vorgesetzter, dass ich mein Training schwänze!",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Mensch, macht mal ",
+				"schnell und findet die anderen.\\. Wenn ich hier ",
+				"noch länger warte, sieht mein Vorgesetzter, dass ",
+				"ich mein Training schwänze!"
+			]
+		},
+		{
+			"path": [15,3,2,3],
+			"original": "Soldat vom Briganten-Orden: Kaum zu glauben, dass alle bis auf einen das Treffen vergessen haben!",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Kaum zu glauben, ",
+				"dass alle bis auf einen das Treffen vergessen ",
+				"haben!"
+			]
+		},
+		{
+			"path": [16,1,2,4],
+			"original": "Soldat vom Briganten-Orden: Vor wenigen Monaten war der Boden von dieser Eingangshalle noch so gründlich geputzt, dass jeder 5. Soldat auf ihm ausgerutscht ist.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Vor wenigen ",
+				"Monaten war der Boden von dieser Eingangshalle ",
+				"noch so gründlich geputzt, dass jeder 5. Soldat ",
+				"auf ihm ausgerutscht ist."
+			]
+		},
+		{
+			"path": [16,1,6,4],
+			"original": "Soldat vom Briganten-Orden: Irgendwann wurde dagegen was gemacht, als sogar die obersten Herren des Schlosses sich hier flach gelegt haben.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Irgendwann ",
+				"wurde dagegen was gemacht, als sogar die ",
+				"obersten Herren des Schlosses sich hier ",
+				"flach gelegt haben."
+			]
+		},
+		{
+			"path": [16,1,13,3],
+			"indent": 1,
+			"original": "\\n[2]: Na ja ich fand' es immer klasse, den Weg hier entlang zu schlittern.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Na ja ich fand' es immer ",
+				"klasse, den Weg hier entlang zu ",
+				"schlittern. "
+			]
+		},
+		{
+			"path": [17,1,16,1],
+			"original": "\\n[2]: Alles okay, Kumpel?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Alles okay, Kumpel?"
+			]
+		},
+		{
+			"path": [17,1,18,1],
+			"original": "\\n[1]: Ja, ja.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja, ja."
+			]
+		},
+		{
+			"path": [17,1,20,2],
+			"original": "\\n[2]: Denk dran, sie wusste von nichts. Sie ist halt neu hier.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Denk dran, sie wusste von ",
+				"nichts.\\. Sie ist halt neu hier."
+			]
+		},
+		{
+			"path": [17,1,23,1],
+			"original": "\\n[1]: Hm...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm..."
+			]
+		},
+		{
+			"path": [17,1,25,3],
+			"original": "\\n[2]: Aber das is' echt unheimlich, wie gut die aussieht. Ich hätte da alles andere erwartet, NUR das nicht.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Aber das is' echt unheimlich, ",
+				"wie gut die aussieht.\\. Ich hätte da ",
+				"alles andere erwartet, NUR das nicht."
+			]
+		},
+		{
+			"path": [17,1,29,3],
+			"original": "\\n[2]: Wie alt die wohl ist? Ich meine, sie ist eine Signum-Expertin! Wie kann die so jung sein? Na ja...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wie alt die wohl ist?\\. Ich ",
+				"meine, sie ist eine Signum-Expertin!\\.",
+				"Wie kann die so jung sein?\\. Na ja..."
+			]
+		},
+		{
+			"path": [17,1,33,3],
+			"original": "\\n[2]: Ich sollte mich auch etwas mehr mit diesem Signum- und Element-Kugel-Zeug beschäftigen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ich sollte mich auch etwas ",
+				"mehr mit diesem Signum- und ",
+				"Element-Kugel-Zeug beschäftigen."
+			]
+		},
+		{
+			"path": [17,1,38,2],
+			"original": "\\n[2]: Vielleicht hab ich dann ne Chance bei ihr.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Vielleicht hab ich dann ne ",
+				"Chance bei ihr. "
+			]
+		},
+		{
+			"path": [17,1,44,2],
+			"original": "\\n[1]: Hehe. Du denkst auch immer nur an das gleiche, Cibon.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hehe.\\. Du denkst auch immer ",
+				"nur an das gleiche, Cibon.\\. "
+			]
+		},
+		{
+			"path": [17,1,47,3],
+			"original": "\\n[1]: Aber dass du dich mehr mit dem \"Signum-Zeug\" beschäftigen willst, ist eine sehr gute Idee.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Aber dass du dich mehr mit ",
+				"dem \"Signum-Zeug\" beschäftigen ",
+				"willst, ist eine sehr gute Idee."
+			]
+		},
+		{
+			"path": [17,1,51,4],
+			"original": "\\n[1]: Ich denke für heute haben wird genug getan, lass uns in unser Quartier gehen und ne Runde schlafen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich denke für heute haben ",
+				"wird genug getan, lass uns in unser ",
+				"Quartier gehen und ne Runde ",
+				"schlafen."
+			]
+		},
+		{
+			"path": [17,1,56,4],
+			"original": "\\n[2]: Brauchste mal wieder dein Nickerchen, Kumpel? Nicht, dass du wieder bis in den Nachmittag hinein pennst.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Brauchste mal wieder dein ",
+				"Nickerchen, Kumpel?\\. Nicht, dass du ",
+				"wieder bis in den Nachmittag hinein ",
+				"pennst."
+			]
+		},
+		{
+			"path": [17,1,61,2],
+			"original": "\\n[1]: Ich gebe da mal lieber keine Garantie ab.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich gebe da mal lieber keine ",
+				"Garantie ab."
+			]
+		},
+		{
+			"path": [17,4,21,3],
+			"original": "\\n[2]: Hui, gleich heute geht's los. Wir sollten nicht mehr soviel rumtrödeln, Kumpel",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hui, gleich heute geht's los. ",
+				"Wir sollten nicht mehr soviel  ",
+				"rumtrödeln, Kumpel"
+			]
+		},
+		{
+			"path": [17,4,25,4],
+			"original": "\\n[1]: Ganz langsam. Bevor ich irgendetwas Anderes mache gehe ich erstmal zur Kantine und esse mich endlich satt.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ganz langsam.\\. Bevor ich ",
+				"irgendetwas Anderes mache gehe ich ",
+				"erstmal zur Kantine und esse mich ",
+				"endlich satt."
+			]
+		},
+		{
+			"path": [17,4,30,3],
+			"original": "\\n[2]: Na gut, mach das. Aber lass dir nicht zuviel Zeit. Ich warte dann in unserem Schlafraum.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Na gut, mach das.\\. Aber lass ",
+				"dir nicht zuviel Zeit.\\. Ich warte ",
+				"dann in unserem Schlafraum."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [12,2,13],
+			"original": "Ja, wieso nicht/Nein, wir haben keine Zeit dafür",
+			"patch": "Ja, wieso nicht/Nein, wir haben keine Zeit dafür"
+		},
+		{
+			"path": [12,2,14],
+			"original": "Ja, wieso nicht",
+			"patch": "Ja, wieso nicht"
+		},
+		{
+			"path": [12,2,40],
+			"original": "Nein, wir haben keine Zeit dafür",
+			"patch": "Nein, wir haben keine Zeit dafür"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [7,2,2,3],
+			"original": "Soldat vom Briganten-Orden: Sagt mal... Wurde euch schon das Erlernen von Signum-Techniken erlaubt?",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Sagt mal...\\. Wurde ",
+				"euch schon das Erlernen von Signum-Techniken ",
+				"erlaubt? "
+			]
+		},
+		{
+			"path": [7,2,11,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Wahnsinn! Das ist sicher äußerst effektiv, wenn man Element- Schläge ausführen kann oder gar ganze Zauber! Nicht wahr? Ich beneide euch...",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wahnsinn!\\. Das ",
+				"ist sicher äußerst effektiv, wenn man Element-",
+				"Schläge ausführen kann oder gar ganze Zauber!\\.",
+				"Nicht wahr?\\. Ich beneide euch..."
+			]
+		},
+		{
+			"path": [7,2,18,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Ja, ich bin auch noch nicht so weit, aber ich kann es kaum erwarten!",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ja, ich bin auch ",
+				"noch nicht so weit, aber ich kann es kaum ",
+				"erwarten!"
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [7,2,7],
+			"original": "Ja./Nein, noch nicht...",
+			"patch": "Ja./Nein, noch nicht..."
+		},
+		{
+			"path": [7,2,8],
+			"original": "Ja.",
+			"patch": "Ja."
+		},
+		{
+			"path": [7,2,16],
+			"original": "Nein, noch nicht...",
+			"patch": "Nein, noch nicht..."
+		}
+	]
+}

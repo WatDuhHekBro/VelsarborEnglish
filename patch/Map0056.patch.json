@@ -1,0 +1,69 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [5,1,2,3],
+			"original": "Junger Mann: Wenn ihr auch hier seid, um zu handeln, kann ich euch nur empfehlen die ganzen Angebote im Überblick zu behalten.",
+			"lines":
+			[
+				"\\c[10]Junger Mann\\c[0]: Wenn ihr auch hier seid, um zu ",
+				"handeln, kann ich euch nur empfehlen die ",
+				"ganzen Angebote im Überblick zu behalten. "
+			]
+		},
+		{
+			"path": [5,1,5,3],
+			"original": "Junger Mann: Bei mir war es letztens so... Ich habe mir etwas Salz besorgt, für ein paar Grünperlen, wovon ich nicht viel hatte.",
+			"lines":
+			[
+				"\\c[10]Junger Mann\\c[0]: Bei mir war es letztens so...\\.",
+				"Ich habe mir etwas Salz besorgt, für ein paar ",
+				"Grünperlen, wovon ich nicht viel hatte. "
+			]
+		},
+		{
+			"path": [5,1,8,4],
+			"original": "Junger Mann: Darauf sah ich dann einen Stand, wo es ebenfalls Salz gab, aber hier für raues Fell und das hatte ich in Massen! Ihr könnt euch ja vorstellen, wie ich mich da geärgert habe.",
+			"lines":
+			[
+				"\\c[10]Junger Mann\\c[0]: Darauf sah ich dann einen Stand, ",
+				"wo es ebenfalls Salz gab, aber hier für raues Fell ",
+				"und das hatte ich in Massen! Ihr könnt euch ja ",
+				"vorstellen, wie ich mich da geärgert habe."
+			]
+		},
+		{
+			"path": [8,1,3,4],
+			"original": "Junger Mann: Args, wo ist hier das Salz? Ohje! Ich glaube, der Braten ist schon zu lange im Ofen! Huh? Verflucht, wieso geht das Ding nicht aus?!",
+			"lines":
+			[
+				"\\c[10]Junger Mann\\c[0]: Args, wo ist hier das Salz?\\. ",
+				"Ohje!\\. Ich glaube, der Braten ist schon zu lange ",
+				"im Ofen!\\.\\s[11] Huh?\\s[0]\\. Verflucht, wieso geht das Ding ",
+				"nicht aus?!"
+			]
+		},
+		{
+			"path": [8,1,12,3],
+			"indent": 1,
+			"original": "Cibon: Kumpel, wir sollten schnellstens abhauen! Hier scheint es mir nicht ganz so sicher zu sein.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Kumpel, wir sollten ",
+				"schnellstens abhauen! Hier scheint ",
+				"es mir nicht ganz so sicher zu sein."
+			]
+		},
+		{
+			"path": [9,1,3,4],
+			"original": "Junge Frau: Jeden Tag muss ich das Essen zubereiten. Jetzt hab ich es mal geschafft, ihn zu überreden, dass er es macht, und schon geht alles schief.",
+			"lines":
+			[
+				"\\c[10]Junge Frau\\c[0]: Jeden Tag muss ich das Essen ",
+				"zubereiten.\\. Jetzt hab ich es mal geschafft, ihn zu ",
+				"überreden, dass er es macht, und schon geht ",
+				"alles schief."
+			]
+		}
+	]
+}

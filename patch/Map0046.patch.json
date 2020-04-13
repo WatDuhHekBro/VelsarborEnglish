@@ -1,0 +1,15 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [4,2,2,3],
+			"original": "Kleines Mädchen: Das ist doof... Meine Eltern erlauben mir nicht, das Hotelzimmer zu verlassen. Mir ist langweilig.",
+			"lines":
+			[
+				"\\c[10]Kleines Mädchen\\c[0]: Das ist doof... Meine Eltern ",
+				"erlauben mir nicht, das Hotelzimmer zu verlassen. ",
+				"Mir ist langweilig."
+			]
+		}
+	]
+}

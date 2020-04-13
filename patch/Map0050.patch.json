@@ -1,0 +1,127 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [3,2,2,3],
+			"original": "Adelsmann: Guten Tag, die Herren. Was würden Sie von einer Schiffsroute entlang der Lohne halten?",
+			"lines":
+			[
+				"\\c[10]Adelsmann\\c[0]: Guten Tag, die Herren.",
+				"Was würden Sie von einer Schiffsroute entlang ",
+				"der Lohne halten?"
+			]
+		},
+		{
+			"path": [3,2,7,1],
+			"original": "Kento: Hm?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm?"
+			]
+		},
+		{
+			"path": [3,2,9,4],
+			"original": "Adelsmann: Nun... Seit wir den Handel mit den östlichen Städten Brigantias verstärkt haben, läuft es auf finanzieller Ebene wieder erstklassig.",
+			"lines":
+			[
+				"\\c[10]Adelsmann\\c[0]: Nun... Seit wir den Handel mit den ",
+				"östlichen Städten Brigantias verstärkt haben, ",
+				"läuft es auf finanzieller Ebene wieder ",
+				"erstklassig."
+			]
+		},
+		{
+			"path": [3,2,13,4],
+			"original": "Adelsmann: Trotzdem stellt das Torasgebirge südöstlich von hier noch eine Blockade für uns dar. Es ist ziemlich mühselig, die Handelswaren durch dieses Gebiet zu schleppen...",
+			"lines":
+			[
+				"\\c[10]Adelsmann\\c[0]: Trotzdem stellt das Torasgebirge ",
+				"südöstlich von hier noch eine Blockade für uns ",
+				"dar. Es ist ziemlich mühselig, die Handelswaren ",
+				"durch dieses Gebiet zu schleppen..."
+			]
+		},
+		{
+			"path": [3,2,17,4],
+			"original": "Adelsmann: Ich setze mich nun dafür ein, Schiffsrouten über die Lohne zu erstellen. Über Wasser würde man weitaus einfacher in den Osten des Landes gelangen.",
+			"lines":
+			[
+				"\\c[10]Adelsmann\\c[0]: Ich setze mich nun dafür ein, ",
+				"Schiffsrouten über die Lohne zu erstellen. Über ",
+				"Wasser würde man weitaus einfacher in den ",
+				"Osten des Landes gelangen."
+			]
+		},
+		{
+			"path": [3,2,23,2],
+			"original": "Kento: Interessant. Wäre sicherlich keine schlechte Idee.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Interessant.\\.",
+				"Wäre sicherlich keine schlechte Idee."
+			]
+		},
+		{
+			"path": [3,2,27,3],
+			"indent": 1,
+			"original": "Cibon: Wenn's soweit ist, würd's dann auch stinknormale Passagierschiffe geben?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wenn's soweit ist, würd's ",
+				"dann auch stinknormale ",
+				"Passagierschiffe geben? "
+			]
+		},
+		{
+			"path": [3,2,31,3],
+			"indent": 1,
+			"original": "Adelsmann: Ja, das wäre gut möglich. Man muss abwarten, ob genug Fejar dafür übrig bleiben.",
+			"lines":
+			[
+				"\\c[10]Adelsmann\\c[0]: Ja, das wäre gut möglich.",
+				"Man muss abwarten, ob genug \\n[19] dafür übrig ",
+				"bleiben."
+			]
+		},
+		{
+			"path": [5,1,2,3],
+			"original": "Ingenieur: Die Problematik an der ganzen Sache ist die, dass ein permanenter, starker Wind entlang der Lohne weht, von Korzojeno Richtung Brigantia.",
+			"lines":
+			[
+				"\\c[10]Ingenieur\\c[0]: Die Problematik an der ganzen Sache ist ",
+				"die, dass ein permanenter, starker Wind entlang ",
+				"der Lohne weht, von Korzojeno Richtung Brigantia."
+			]
+		},
+		{
+			"path": [5,1,5,2],
+			"original": "Ingenieur: Segelschiffe stehen deswegen außer Frage.",
+			"lines":
+			[
+				"\\c[10]Ingenieur\\c[0]: Segelschiffe stehen deswegen außer ",
+				"Frage. "
+			]
+		},
+		{
+			"path": [6,1,2,3],
+			"original": "Ingenieur: Wenn wir keine Segelschiffe verwenden können, was dann? Ruderboote wären sicherlich eine Möglichkeit.",
+			"lines":
+			[
+				"\\c[10]Ingenieur\\c[0]: Wenn wir keine Segelschiffe verwenden ",
+				"können, was dann?\\. Ruderboote wären sicherlich eine ",
+				"Möglichkeit. "
+			]
+		},
+		{
+			"path": [6,1,5,4],
+			"original": "Ingenieur: Aber auch hier hätte man mit dem Gegenwind zu kämpfen. Sehr viel einfacher als der Wanderweg durch das Torasgebirge wäre es jedenfalls nicht.",
+			"lines":
+			[
+				"\\c[10]Ingenieur\\c[0]: Aber auch hier hätte man mit dem ",
+				"Gegenwind zu kämpfen.\\. Sehr viel einfacher als der ",
+				"Wanderweg durch das Torasgebirge wäre es ",
+				"jedenfalls nicht."
+			]
+		}
+	]
+}

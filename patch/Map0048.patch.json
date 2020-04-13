@@ -1,0 +1,90 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [5,1,3,4],
+			"original": "Grünhaarige Frau: Das ist ja nicht zum Aushalten... Als ich letztens im Geschäft war, hatten sie doch tatsächlich keine Repskerne mehr.",
+			"lines":
+			[
+				"\\c[10]Grünhaarige Frau\\c[0]: Das ist ja nicht zum ",
+				"Aushalten... Als ich letztens im Geschäft war, ",
+				"hatten sie doch tatsächlich keine Repskerne ",
+				"mehr. "
+			]
+		},
+		{
+			"path": [5,1,7,2],
+			"original": "Grünhaarige Frau: Angeblich soll erst in ein paar Monaten eine Nachlieferung eintreffen.",
+			"lines":
+			[
+				"\\c[10]Grünhaarige Frau\\c[0]: Angeblich soll erst in ein ",
+				"paar Monaten eine Nachlieferung eintreffen."
+			]
+		},
+		{
+			"path": [5,1,9,4],
+			"original": "Lilahaarige Frau: Das liegt sicher an den Schwierigkeiten, die sie unten bei den Häfen an der Südküste haben. Die See muss derzeit richtige Probleme da unten bereiten.",
+			"lines":
+			[
+				"\\c[10]Lilahaarige Frau\\c[0]: Das liegt sicher an den ",
+				"Schwierigkeiten, die sie unten bei den Häfen an ",
+				"der Südküste haben. Die See muss derzeit ",
+				"richtige Probleme da unten bereiten."
+			]
+		},
+		{
+			"path": [5,1,14,2],
+			"original": "Grünhaarige Frau: Ach wirklich? Und deswegen haben wir keine Repskerne hier?",
+			"lines":
+			[
+				"\\c[10]Grünhaarige Frau\\c[0]: Ach wirklich? Und deswegen ",
+				"haben wir keine Repskerne hier?"
+			]
+		},
+		{
+			"path": [5,1,16,3],
+			"original": "Lilahaarige Frau: Ich glaube schon. Repskerne kommen aus dem Süden und werden mit Schiffen zu uns nach Norden verfrachtet.",
+			"lines":
+			[
+				"\\c[10]Lilahaarige Frau\\c[0]: Ich glaube schon. Repskerne ",
+				"kommen aus dem Süden und werden mit ",
+				"Schiffen zu uns nach Norden verfrachtet."
+			]
+		},
+		{
+			"path": [5,1,19,2],
+			"original": "Blauhaarige Frau: Doch wegen den Problemen läuft das wohl nicht so gut im Moment.",
+			"lines":
+			[
+				"\\c[10]Blauhaarige Frau\\c[0]: Doch wegen den Problemen",
+				"läuft das wohl nicht so gut im Moment."
+			]
+		},
+		{
+			"path": [5,1,21,2],
+			"original": "Grünhaarige Frau: So ist das also. Was du so alles weißt...",
+			"lines":
+			[
+				"\\c[10]Grünhaarige Frau\\c[0]: So ist das also. ",
+				"Was du so alles weißt..."
+			]
+		},
+		{
+			"path": [5,1,24,2],
+			"original": "Lilahaarige Frau: Ach, mein Mann erzählt mir ständig davon. Das ist sein Fachgebiet.",
+			"lines":
+			[
+				"\\c[10]Lilahaarige Frau\\c[0]: Ach,\\. mein Mann erzählt mir ",
+				"ständig davon. Das ist sein Fachgebiet."
+			]
+		},
+		{
+			"path": [5,1,26,1],
+			"original": "Grünhaarige Frau: Ach so....",
+			"lines":
+			[
+				"\\c[10]Grünhaarige Frau\\c[0]: Ach so...."
+			]
+		}
+	]
+}
