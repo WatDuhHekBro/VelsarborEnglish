@@ -40,7 +40,7 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 *Because every project needs a to-do list!*
 - Picture Text: 97%
 - Fancy Text: 95%
-- Database: 52%
+- Database: 53%
 - Special (#1/#10/#28): 40%
 ## Sections/Areas
 *It's important to note that the Helnovien Mine is an EXTREMELY enormous section of the game.*
@@ -48,7 +48,7 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 - Sinkholm: 100%
 - The Sink-Lohne Pass: 100%
 - Nomerea: 0%
-- The Lohne: 0%
+- The Lohne: 33%
 - Mount Toras: 0%
 - Wayfarer's Inn: 0%
 - The Corine Plateau: 0%

@@ -1,607 +1,4 @@
 {
-	"vocabulary":
-	[
-		{
-			"path": [21,1],
-			"original": " emerges!",
-			"patch": " emerges!"
-		},
-		{
-			"path": [21,2],
-			"original": " Pre-emptive attack",
-			"patch": " Pre-emptive attack"
-		},
-		{
-			"path": [21,3],
-			"original": " You ran away safely!",
-			"patch": " You ran away safely!"
-		},
-		{
-			"path": [21,4],
-			"original": " You Failed to escape...",
-			"patch": " You Failed to escape..."
-		},
-		{
-			"path": [21,5],
-			"original": " You won a combat!",
-			"patch": " You won a combat!"
-		},
-		{
-			"path": [21,6],
-			"original": " Your Party has Perished",
-			"patch": " Your Party has Perished"
-		},
-		{
-			"path": [21,7],
-			"original": " EXP",
-			"patch": " EXP"
-		},
-		{
-			"path": [21,8],
-			"original": " You found",
-			"patch": " You found"
-		},
-		{
-			"path": [21,9],
-			"original": " money!",
-			"patch": " money!"
-		},
-		{
-			"path": [21,10],
-			"original": " recieved!",
-			"patch": " recieved!"
-		},
-		{
-			"path": [21,11],
-			"original": " attacks the enemy",
-			"patch": " attacks the enemy"
-		},
-		{
-			"path": [21,12],
-			"original": " A critical hit!",
-			"patch": " A critical hit!"
-		},
-		{
-			"path": [21,13],
-			"original": " A critical blow!",
-			"patch": " A critical blow!"
-		},
-		{
-			"path": [21,14],
-			"original": " defends.",
-			"patch": " defends."
-		},
-		{
-			"path": [21,15],
-			"original": " is waiting and watching.",
-			"patch": " is waiting and watching."
-		},
-		{
-			"path": [21,16],
-			"original": " is building strength.",
-			"patch": " is building strength."
-		},
-		{
-			"path": [21,17],
-			"original": " pounces.",
-			"patch": " pounces."
-		},
-		{
-			"path": [21,18],
-			"original": " runs away!",
-			"patch": " runs away!"
-		},
-		{
-			"path": [21,19],
-			"original": " transforms.",
-			"patch": " transforms."
-		},
-		{
-			"path": [21,20],
-			"original": " hp is lost",
-			"patch": " hp is lost"
-		},
-		{
-			"path": [21,21],
-			"original": " misses",
-			"patch": " misses"
-		},
-		{
-			"path": [21,22],
-			"original": " hp is lost",
-			"patch": " hp is lost"
-		},
-		{
-			"path": [21,23],
-			"original": " misses",
-			"patch": " misses"
-		},
-		{
-			"path": [21,24],
-			"original": " Failed",
-			"patch": " Failed"
-		},
-		{
-			"path": [21,25],
-			"original": " Failed",
-			"patch": " Failed"
-		},
-		{
-			"path": [21,26],
-			"original": " Failed",
-			"patch": " Failed"
-		},
-		{
-			"path": [21,27],
-			"original": " dodges",
-			"patch": " dodges"
-		},
-		{
-			"path": [21,28],
-			"original": "uses",
-			"patch": "uses"
-		},
-		{
-			"path": [21,29],
-			"original": " Recovered",
-			"patch": " Recovered"
-		},
-		{
-			"path": [21,30],
-			"original": " ",
-			"patch": " "
-		},
-		{
-			"path": [21,31],
-			"original": null,
-			"patch": null
-		},
-		{
-			"path": [21,32],
-			"original": null,
-			"patch": null
-		},
-		{
-			"path": [21,33],
-			"original": null,
-			"patch": null
-		},
-		{
-			"path": [21,34],
-			"original": "Defense increases!",
-			"patch": "Defense increases!"
-		},
-		{
-			"path": [21,35],
-			"original": "Defense Decreases!",
-			"patch": "Defense Decreases!"
-		},
-		{
-			"path": [21,36],
-			"original": "Raised a level!",
-			"patch": "Raised a level!"
-		},
-		{
-			"path": [21,37],
-			"original": "Acquired",
-			"patch": "Acquired"
-		},
-		{
-			"path": [21,41],
-			"original": "How can I help you?",
-			"patch": "How can I help you?"
-		},
-		{
-			"path": [21,42],
-			"original": "Hurry up and buy!!!",
-			"patch": "Hurry up and buy!!!"
-		},
-		{
-			"path": [21,43],
-			"original": " Buy",
-			"patch": " Buy"
-		},
-		{
-			"path": [21,44],
-			"original": " Sell",
-			"patch": " Sell"
-		},
-		{
-			"path": [21,45],
-			"original": " Leave",
-			"patch": " Leave"
-		},
-		{
-			"path": [21,46],
-			"original": " What do you want to buy?",
-			"patch": " What do you want to buy?"
-		},
-		{
-			"path": [21,47],
-			"original": " How Many",
-			"patch": " How Many"
-		},
-		{
-			"path": [21,48],
-			"original": " Done",
-			"patch": " Done"
-		},
-		{
-			"path": [21,49],
-			"original": " What do you wish to sell?",
-			"patch": " What do you wish to sell?"
-		},
-		{
-			"path": [21,50],
-			"original": " How many",
-			"patch": " How many"
-		},
-		{
-			"path": [21,51],
-			"original": " Thank you!",
-			"patch": " Thank you!"
-		},
-		{
-			"path": [21,54],
-			"original": "Hurry up would you please!",
-			"patch": "Hurry up would you please!"
-		},
-		{
-			"path": [21,55],
-			"original": "Hurry up already!!!",
-			"patch": "Hurry up already!!!"
-		},
-		{
-			"path": [21,56],
-			"original": "Buy",
-			"patch": "Buy"
-		},
-		{
-			"path": [21,57],
-			"original": "Sell",
-			"patch": "Sell"
-		},
-		{
-			"path": [21,58],
-			"original": "Leave",
-			"patch": "Leave"
-		},
-		{
-			"path": [21,59],
-			"original": "Bought",
-			"patch": "Bought"
-		},
-		{
-			"path": [21,60],
-			"original": "How Many",
-			"patch": "How Many"
-		},
-		{
-			"path": [21,61],
-			"original": "Done",
-			"patch": "Done"
-		},
-		{
-			"path": [21,62],
-			"original": "Sold",
-			"patch": "Sold"
-		},
-		{
-			"path": [21,63],
-			"original": "How many",
-			"patch": "How many"
-		},
-		{
-			"path": [21,64],
-			"original": "Go now!",
-			"patch": "Go now!"
-		},
-		{
-			"path": [21,67],
-			"original": "Good day!",
-			"patch": "Good day!"
-		},
-		{
-			"path": [21,68],
-			"original": "I dont have all day you know!!!!",
-			"patch": "I dont have all day you know!!!!"
-		},
-		{
-			"path": [21,69],
-			"original": "BUY",
-			"patch": "BUY"
-		},
-		{
-			"path": [21,70],
-			"original": "SELL",
-			"patch": "SELL"
-		},
-		{
-			"path": [21,71],
-			"original": "GO HOME",
-			"patch": "GO HOME"
-		},
-		{
-			"path": [21,72],
-			"original": "Bought",
-			"patch": "Bought"
-		},
-		{
-			"path": [21,73],
-			"original": "How much?",
-			"patch": "How much?"
-		},
-		{
-			"path": [21,74],
-			"original": "Done",
-			"patch": "Done"
-		},
-		{
-			"path": [21,75],
-			"original": "Sold",
-			"patch": "Sold"
-		},
-		{
-			"path": [21,76],
-			"original": "How many?",
-			"patch": "How many?"
-		},
-		{
-			"path": [21,77],
-			"original": "Thanx!",
-			"patch": "Thanx!"
-		},
-		{
-			"path": [21,80],
-			"original": "Only",
-			"patch": "Only"
-		},
-		{
-			"path": [21,81],
-			"original": " to rest here",
-			"patch": " to rest here"
-		},
-		{
-			"path": [21,82],
-			"original": "Do you wish to rest here?",
-			"patch": "Do you wish to rest here?"
-		},
-		{
-			"path": [21,83],
-			"original": "Yes",
-			"patch": "Yes"
-		},
-		{
-			"path": [21,84],
-			"original": "No",
-			"patch": "No"
-		},
-		{
-			"path": [21,85],
-			"original": "Its only",
-			"patch": "Its only"
-		},
-		{
-			"path": [21,86],
-			"original": " for the night",
-			"patch": " for the night"
-		},
-		{
-			"path": [21,87],
-			"original": "Do you wish to stay here for the night?",
-			"patch": "Do you wish to stay here for the night?"
-		},
-		{
-			"path": [21,88],
-			"original": "Yes",
-			"patch": "Yes"
-		},
-		{
-			"path": [21,89],
-			"original": "No",
-			"patch": "No"
-		},
-		{
-			"path": [21,92],
-			"original": "Owned Items",
-			"patch": "Owned Items"
-		},
-		{
-			"path": [21,93],
-			"original": "Equipped Items",
-			"patch": "Equipped Items"
-		},
-		{
-			"path": [21,95],
-			"original": "Fejar",
-			"patch": "Fejar"
-		},
-		{
-			"path": [21,101],
-			"original": "Fight",
-			"patch": "Fight"
-		},
-		{
-			"path": [21,102],
-			"original": "AutoBattle",
-			"patch": "AutoBattle"
-		},
-		{
-			"path": [21,103],
-			"original": "Run away",
-			"patch": "Run away"
-		},
-		{
-			"path": [21,104],
-			"original": "Attack",
-			"patch": "Attack"
-		},
-		{
-			"path": [21,105],
-			"original": "Defense",
-			"patch": "Defense"
-		},
-		{
-			"path": [21,106],
-			"original": "Item",
-			"patch": "Item"
-		},
-		{
-			"path": [21,107],
-			"original": "Tech Skill",
-			"patch": "Tech Skill"
-		},
-		{
-			"path": [21,108],
-			"original": "Equipment",
-			"patch": "Equipment"
-		},
-		{
-			"path": [21,110],
-			"original": "Save",
-			"patch": "Save"
-		},
-		{
-			"path": [21,112],
-			"original": "End Game",
-			"patch": "End Game"
-		},
-		{
-			"path": [21,114],
-			"original": "Start",
-			"patch": "Start"
-		},
-		{
-			"path": [21,115],
-			"original": "Laden",
-			"patch": "Load"
-		},
-		{
-			"path": [21,117],
-			"original": "Ende",
-			"patch": "End"
-		},
-		{
-			"path": [21,123],
-			"original": "Kapitel",
-			"patch": "Chapter"
-		},
-		{
-			"path": [21,124],
-			"original": "HP",
-			"patch": "HP"
-		},
-		{
-			"path": [21,125],
-			"original": "MP",
-			"patch": "MP"
-		},
-		{
-			"path": [21,126],
-			"original": "Normal",
-			"patch": "Normal"
-		},
-		{
-			"path": [21,127],
-			"original": "Ex",
-			"patch": "Ex"
-		},
-		{
-			"path": [21,128],
-			"original": "ID",
-			"patch": "ID"
-		},
-		{
-			"path": [21,129],
-			"original": "Lv",
-			"patch": "Lv"
-		},
-		{
-			"path": [21,130],
-			"original": "M",
-			"patch": "M"
-		},
-		{
-			"path": [21,131],
-			"original": "Cost",
-			"patch": "Cost"
-		},
-		{
-			"path": [21,132],
-			"original": "Attack",
-			"patch": "Attack"
-		},
-		{
-			"path": [21,133],
-			"original": "Defence",
-			"patch": "Defense"
-		},
-		{
-			"path": [21,134],
-			"original": "Mental",
-			"patch": "Mental"
-		},
-		{
-			"path": [21,135],
-			"original": "Ability",
-			"patch": "Ability"
-		},
-		{
-			"path": [21,136],
-			"original": "Waffe",
-			"patch": "Weapon"
-		},
-		{
-			"path": [21,137],
-			"original": "Armband",
-			"patch": "Armband"
-		},
-		{
-			"path": [21,138],
-			"original": "Rüstung",
-			"patch": "Armor"
-		},
-		{
-			"path": [21,139],
-			"original": "Helm",
-			"patch": "Helm"
-		},
-		{
-			"path": [21,140],
-			"original": "Zusatz",
-			"patch": "Misc"
-		},
-		{
-			"path": [21,146],
-			"original": "Wo soll gespeichert werden?",
-			"patch": "Which file do you want to save to?"
-		},
-		{
-			"path": [21,147],
-			"original": "Welcher Spielstand soll geladen werden?",
-			"patch": "Which save file do you want to load?"
-		},
-		{
-			"path": [21,148],
-			"original": "Spielstand",
-			"patch": "Save"
-		},
-		{
-			"path": [21,151],
-			"original": "Wollen Sie das Spiel beenden?",
-			"patch": "Do you want to quit the game?"
-		},
-		{
-			"path": [21,152],
-			"original": "Ja",
-			"patch": "Yes"
-		},
-		{
-			"path": [21,153],
-			"original": "Nein",
-			"patch": "No"
-		}
-	],
 	"dialogue":
 	[
 		{
@@ -887,7 +284,7 @@
 			"lines":
 			[
 				"\\c[10]Jorn:\\c[0] Argh!\\. I should've just surrendered",
-				"RIGHT AWAY!"
+				"right away!"
 			]
 		},
 		{
@@ -896,7 +293,7 @@
 			"original": "Gurim: Saion... du konntest es nicht lassen...",
 			"lines":
 			[
-				"\\c[10]Gurim:\\c[0] Saion...\\. you just had to play",
+				"\\c[10]Gurim:\\c[0] Saion...\\. you just HAD to play",
 				"around,\\. didn't you..."
 			]
 		},
@@ -3819,7 +3216,7 @@
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Okay!\\.",
-				"So what you see here is the trade",
+				"So what you see here is the trading",
 				"menu.\\. It's not that complicated."
 			]
 		},
@@ -4720,7 +4117,668 @@
 				"",
 				"\\>         - Keine weiteren Informationen -"
 			],
-			"__comment__": "Appears in the magic lens?"
+			"__comment__": "Appears when you inspect an item in the trading menu and there's nothing special about it."
+		}
+	],
+	"other":
+	[
+		{
+			"path": [25,145,6],
+			"original": "\\>\\c[3]Ja, gerne\\c[0]/\\>Nein, danke",
+			"patch": "\\>\\c[3]Yes please\\c[0]/\\>No thanks"
+		},
+		{
+			"path": [25,145,7],
+			"original": "\\>\\c[3]Ja, gerne\\c[0]",
+			"patch": "\\>\\c[3]Yes please\\c[0]"
+		},
+		{
+			"path": [25,145,11],
+			"original": "\\>Nein, danke",
+			"patch": "\\>No thanks"
+		},
+		{
+			"path": [25,145,14],
+			"original": "",
+			"patch": ""
+		},
+		{
+			"path": [25,145,20],
+			"original": "\\>Ja, gerne/\\>Nein, danke",
+			"patch": "\\>Yes please/\\>No thanks"
+		},
+		{
+			"path": [25,145,21],
+			"original": "\\>Ja, gerne",
+			"patch": "\\>Yes please"
+		},
+		{
+			"path": [25,145,25],
+			"original": "\\>Nein, danke",
+			"patch": "\\>No thanks"
+		},
+		{
+			"path": [25,145,28],
+			"original": "",
+			"patch": ""
+		},
+		{
+			"path": [25,152,105],
+			"original": "Sag mir, wie es geht!/Nein, ich weiß schon Bescheid.",
+			"patch": "Tell me how to do it!/No, I already know how."
+		},
+		{
+			"path": [25,152,106],
+			"original": "Sag mir, wie es geht!",
+			"patch": "Tell me how to do it!"
+		},
+		{
+			"path": [25,152,165],
+			"original": "Nein, ich weiß schon Bescheid.",
+			"patch": "No, I already know how."
+		}
+	],
+	"vocabulary":
+	[
+		{
+			"path": [21,1],
+			"original": " emerges!",
+			"patch": " emerges!"
+		},
+		{
+			"path": [21,2],
+			"original": " Pre-emptive attack",
+			"patch": " Pre-emptive attack"
+		},
+		{
+			"path": [21,3],
+			"original": " You ran away safely!",
+			"patch": " You ran away safely!"
+		},
+		{
+			"path": [21,4],
+			"original": " You Failed to escape...",
+			"patch": " You Failed to escape..."
+		},
+		{
+			"path": [21,5],
+			"original": " You won a combat!",
+			"patch": " You won a combat!"
+		},
+		{
+			"path": [21,6],
+			"original": " Your Party has Perished",
+			"patch": " Your Party has Perished"
+		},
+		{
+			"path": [21,7],
+			"original": " EXP",
+			"patch": " EXP"
+		},
+		{
+			"path": [21,8],
+			"original": " You found",
+			"patch": " You found"
+		},
+		{
+			"path": [21,9],
+			"original": " money!",
+			"patch": " money!"
+		},
+		{
+			"path": [21,10],
+			"original": " recieved!",
+			"patch": " recieved!"
+		},
+		{
+			"path": [21,11],
+			"original": " attacks the enemy",
+			"patch": " attacks the enemy"
+		},
+		{
+			"path": [21,12],
+			"original": " A critical hit!",
+			"patch": " A critical hit!"
+		},
+		{
+			"path": [21,13],
+			"original": " A critical blow!",
+			"patch": " A critical blow!"
+		},
+		{
+			"path": [21,14],
+			"original": " defends.",
+			"patch": " defends."
+		},
+		{
+			"path": [21,15],
+			"original": " is waiting and watching.",
+			"patch": " is waiting and watching."
+		},
+		{
+			"path": [21,16],
+			"original": " is building strength.",
+			"patch": " is building strength."
+		},
+		{
+			"path": [21,17],
+			"original": " pounces.",
+			"patch": " pounces."
+		},
+		{
+			"path": [21,18],
+			"original": " runs away!",
+			"patch": " runs away!"
+		},
+		{
+			"path": [21,19],
+			"original": " transforms.",
+			"patch": " transforms."
+		},
+		{
+			"path": [21,20],
+			"original": " hp is lost",
+			"patch": " hp is lost"
+		},
+		{
+			"path": [21,21],
+			"original": " misses",
+			"patch": " misses"
+		},
+		{
+			"path": [21,22],
+			"original": " hp is lost",
+			"patch": " hp is lost"
+		},
+		{
+			"path": [21,23],
+			"original": " misses",
+			"patch": " misses"
+		},
+		{
+			"path": [21,24],
+			"original": " Failed",
+			"patch": " Failed"
+		},
+		{
+			"path": [21,25],
+			"original": " Failed",
+			"patch": " Failed"
+		},
+		{
+			"path": [21,26],
+			"original": " Failed",
+			"patch": " Failed"
+		},
+		{
+			"path": [21,27],
+			"original": " dodges",
+			"patch": " dodges"
+		},
+		{
+			"path": [21,28],
+			"original": "uses",
+			"patch": "uses"
+		},
+		{
+			"path": [21,29],
+			"original": " Recovered",
+			"patch": " Recovered"
+		},
+		{
+			"path": [21,30],
+			"original": " ",
+			"patch": " "
+		},
+		{
+			"path": [21,31],
+			"original": null,
+			"patch": null
+		},
+		{
+			"path": [21,32],
+			"original": null,
+			"patch": null
+		},
+		{
+			"path": [21,33],
+			"original": null,
+			"patch": null
+		},
+		{
+			"path": [21,34],
+			"original": "Defense increases!",
+			"patch": "Defense increases!"
+		},
+		{
+			"path": [21,35],
+			"original": "Defense Decreases!",
+			"patch": "Defense Decreases!"
+		},
+		{
+			"path": [21,36],
+			"original": "Raised a level!",
+			"patch": "Raised a level!"
+		},
+		{
+			"path": [21,37],
+			"original": "Acquired",
+			"patch": "Acquired"
+		},
+		{
+			"path": [21,41],
+			"original": "How can I help you?",
+			"patch": "How can I help you?"
+		},
+		{
+			"path": [21,42],
+			"original": "Hurry up and buy!!!",
+			"patch": "Hurry up and buy!!!"
+		},
+		{
+			"path": [21,43],
+			"original": " Buy",
+			"patch": " Buy"
+		},
+		{
+			"path": [21,44],
+			"original": " Sell",
+			"patch": " Sell"
+		},
+		{
+			"path": [21,45],
+			"original": " Leave",
+			"patch": " Leave"
+		},
+		{
+			"path": [21,46],
+			"original": " What do you want to buy?",
+			"patch": " What do you want to buy?"
+		},
+		{
+			"path": [21,47],
+			"original": " How Many",
+			"patch": " How Many"
+		},
+		{
+			"path": [21,48],
+			"original": " Done",
+			"patch": " Done"
+		},
+		{
+			"path": [21,49],
+			"original": " What do you wish to sell?",
+			"patch": " What do you wish to sell?"
+		},
+		{
+			"path": [21,50],
+			"original": " How many",
+			"patch": " How many"
+		},
+		{
+			"path": [21,51],
+			"original": " Thank you!",
+			"patch": " Thank you!"
+		},
+		{
+			"path": [21,54],
+			"original": "Hurry up would you please!",
+			"patch": "Hurry up would you please!"
+		},
+		{
+			"path": [21,55],
+			"original": "Hurry up already!!!",
+			"patch": "Hurry up already!!!"
+		},
+		{
+			"path": [21,56],
+			"original": "Buy",
+			"patch": "Buy"
+		},
+		{
+			"path": [21,57],
+			"original": "Sell",
+			"patch": "Sell"
+		},
+		{
+			"path": [21,58],
+			"original": "Leave",
+			"patch": "Leave"
+		},
+		{
+			"path": [21,59],
+			"original": "Bought",
+			"patch": "Bought"
+		},
+		{
+			"path": [21,60],
+			"original": "How Many",
+			"patch": "How Many"
+		},
+		{
+			"path": [21,61],
+			"original": "Done",
+			"patch": "Done"
+		},
+		{
+			"path": [21,62],
+			"original": "Sold",
+			"patch": "Sold"
+		},
+		{
+			"path": [21,63],
+			"original": "How many",
+			"patch": "How many"
+		},
+		{
+			"path": [21,64],
+			"original": "Go now!",
+			"patch": "Go now!"
+		},
+		{
+			"path": [21,67],
+			"original": "Good day!",
+			"patch": "Good day!"
+		},
+		{
+			"path": [21,68],
+			"original": "I dont have all day you know!!!!",
+			"patch": "I dont have all day you know!!!!"
+		},
+		{
+			"path": [21,69],
+			"original": "BUY",
+			"patch": "BUY"
+		},
+		{
+			"path": [21,70],
+			"original": "SELL",
+			"patch": "SELL"
+		},
+		{
+			"path": [21,71],
+			"original": "GO HOME",
+			"patch": "GO HOME"
+		},
+		{
+			"path": [21,72],
+			"original": "Bought",
+			"patch": "Bought"
+		},
+		{
+			"path": [21,73],
+			"original": "How much?",
+			"patch": "How much?"
+		},
+		{
+			"path": [21,74],
+			"original": "Done",
+			"patch": "Done"
+		},
+		{
+			"path": [21,75],
+			"original": "Sold",
+			"patch": "Sold"
+		},
+		{
+			"path": [21,76],
+			"original": "How many?",
+			"patch": "How many?"
+		},
+		{
+			"path": [21,77],
+			"original": "Thanx!",
+			"patch": "Thanx!"
+		},
+		{
+			"path": [21,80],
+			"original": "Only",
+			"patch": "Only"
+		},
+		{
+			"path": [21,81],
+			"original": " to rest here",
+			"patch": " to rest here"
+		},
+		{
+			"path": [21,82],
+			"original": "Do you wish to rest here?",
+			"patch": "Do you wish to rest here?"
+		},
+		{
+			"path": [21,83],
+			"original": "Yes",
+			"patch": "Yes"
+		},
+		{
+			"path": [21,84],
+			"original": "No",
+			"patch": "No"
+		},
+		{
+			"path": [21,85],
+			"original": "Its only",
+			"patch": "Its only"
+		},
+		{
+			"path": [21,86],
+			"original": " for the night",
+			"patch": " for the night"
+		},
+		{
+			"path": [21,87],
+			"original": "Do you wish to stay here for the night?",
+			"patch": "Do you wish to stay here for the night?"
+		},
+		{
+			"path": [21,88],
+			"original": "Yes",
+			"patch": "Yes"
+		},
+		{
+			"path": [21,89],
+			"original": "No",
+			"patch": "No"
+		},
+		{
+			"path": [21,92],
+			"original": "Owned Items",
+			"patch": "Owned Items"
+		},
+		{
+			"path": [21,93],
+			"original": "Equipped Items",
+			"patch": "Equipped Items"
+		},
+		{
+			"path": [21,95],
+			"original": "Fejar",
+			"patch": "Fejar"
+		},
+		{
+			"path": [21,101],
+			"original": "Fight",
+			"patch": "Fight"
+		},
+		{
+			"path": [21,102],
+			"original": "AutoBattle",
+			"patch": "AutoBattle"
+		},
+		{
+			"path": [21,103],
+			"original": "Run away",
+			"patch": "Run away"
+		},
+		{
+			"path": [21,104],
+			"original": "Attack",
+			"patch": "Attack"
+		},
+		{
+			"path": [21,105],
+			"original": "Defense",
+			"patch": "Defense"
+		},
+		{
+			"path": [21,106],
+			"original": "Item",
+			"patch": "Item"
+		},
+		{
+			"path": [21,107],
+			"original": "Tech Skill",
+			"patch": "Tech Skill"
+		},
+		{
+			"path": [21,108],
+			"original": "Equipment",
+			"patch": "Equipment"
+		},
+		{
+			"path": [21,110],
+			"original": "Save",
+			"patch": "Save"
+		},
+		{
+			"path": [21,112],
+			"original": "End Game",
+			"patch": "End Game"
+		},
+		{
+			"path": [21,114],
+			"original": "Start",
+			"patch": "Start"
+		},
+		{
+			"path": [21,115],
+			"original": "Laden",
+			"patch": "Load"
+		},
+		{
+			"path": [21,117],
+			"original": "Ende",
+			"patch": "End"
+		},
+		{
+			"path": [21,123],
+			"original": "Kapitel",
+			"patch": "Chapter"
+		},
+		{
+			"path": [21,124],
+			"original": "HP",
+			"patch": "HP"
+		},
+		{
+			"path": [21,125],
+			"original": "MP",
+			"patch": "MP"
+		},
+		{
+			"path": [21,126],
+			"original": "Normal",
+			"patch": "Normal"
+		},
+		{
+			"path": [21,127],
+			"original": "Ex",
+			"patch": "Ex"
+		},
+		{
+			"path": [21,128],
+			"original": "ID",
+			"patch": "ID"
+		},
+		{
+			"path": [21,129],
+			"original": "Lv",
+			"patch": "Lv"
+		},
+		{
+			"path": [21,130],
+			"original": "M",
+			"patch": "M"
+		},
+		{
+			"path": [21,131],
+			"original": "Cost",
+			"patch": "Cost"
+		},
+		{
+			"path": [21,132],
+			"original": "Attack",
+			"patch": "Attack"
+		},
+		{
+			"path": [21,133],
+			"original": "Defence",
+			"patch": "Defense"
+		},
+		{
+			"path": [21,134],
+			"original": "Mental",
+			"patch": "Mental"
+		},
+		{
+			"path": [21,135],
+			"original": "Ability",
+			"patch": "Ability"
+		},
+		{
+			"path": [21,136],
+			"original": "Waffe",
+			"patch": "Weapon"
+		},
+		{
+			"path": [21,137],
+			"original": "Armband",
+			"patch": "Armband"
+		},
+		{
+			"path": [21,138],
+			"original": "Rüstung",
+			"patch": "Armor"
+		},
+		{
+			"path": [21,139],
+			"original": "Helm",
+			"patch": "Helm"
+		},
+		{
+			"path": [21,140],
+			"original": "Zusatz",
+			"patch": "Misc"
+		},
+		{
+			"path": [21,146],
+			"original": "Wo soll gespeichert werden?",
+			"patch": "Which file do you want to save to?"
+		},
+		{
+			"path": [21,147],
+			"original": "Welcher Spielstand soll geladen werden?",
+			"patch": "Which save file do you want to load?"
+		},
+		{
+			"path": [21,148],
+			"original": "Spielstand",
+			"patch": "Save"
+		},
+		{
+			"path": [21,151],
+			"original": "Wollen Sie das Spiel beenden?",
+			"patch": "Do you want to quit the game?"
+		},
+		{
+			"path": [21,152],
+			"original": "Ja",
+			"patch": "Yes"
+		},
+		{
+			"path": [21,153],
+			"original": "Nein",
+			"patch": "No"
 		}
 	]
 }

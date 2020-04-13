@@ -1,0 +1,357 @@
+{
+	"allowManualEditing": true,
+	"dialogue":
+	[
+		{
+			"path": [6,3,3,1],
+			"indent": 1,
+			"original": "Frau: Guten Tag, wie kann ich Ihnen helfen?",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Hello, how may I help you?"
+			]
+		},
+		{
+			"path": [6,3,6,1],
+			"indent": 2,
+			"original": "Frau: Ah, okay, lassen Sie mich sehen...",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Ah, okay, let me see..."
+			]
+		},
+		{
+			"path": [6,3,13,1],
+			"indent": 4,
+			"original": "Frau: Als nächstes...",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Moving on..."
+			]
+		},
+		{
+			"path": [6,3,20,2],
+			"indent": 3,
+			"original": "Frau: Ah, ein Paket nach [Post-Ziel]. Dafür verlangen wir eine Gebühr von \\v[1838] Fejar.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Okay, a package from \\n[21].",
+				"For this, we charge a fee of \\v[1838] \\n[19]."
+			]
+		},
+		{
+			"path": [6,3,22,1],
+			"indent": 3,
+			"original": "Frau: Gehen \\v[1838] Fejar in Ordnung?",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Is \\v[1838] \\n[19] alright?\\$"
+			]
+		},
+		{
+			"path": [6,3,31,2],
+			"indent": 5,
+			"original": "Frau: In Ordnung, das Paket wird sobald wie möglich abgeschickt.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Alright, the package will be sent as",
+				"soon as possible."
+			]
+		},
+		{
+			"path": [6,3,34,2],
+			"indent": 6,
+			"original": "Frau: Hm, Sie scheinen noch keine Stempelkarte zu haben, oder?",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Hm, you don't seem to have a stamp card",
+				"yet, do you?"
+			]
+		},
+		{
+			"path": [6,3,38,1],
+			"indent": 6,
+			"original": "Kento: Eine Stempelkarte?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: A stamp card?"
+			]
+		},
+		{
+			"path": [6,3,40,3],
+			"indent": 6,
+			"original": "Frau: Ja, Sie bekommen für jedes Paket, das Sie von einer Post-Versand-Stelle  abschicken, einen Stempel.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Yes, you get a stamp for every package",
+				"you send something from a post office."
+			]
+		},
+		{
+			"path": [6,3,43,2],
+			"indent": 6,
+			"original": "Frau: Wenn Sie dann 20 Stempel gesammelt haben, bekommen Sie ein extra Geschenk von uns.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: When you have collected 20 stamps,",
+				"you will receive an extra gift from us."
+			]
+		},
+		{
+			"path": [6,3,45,1],
+			"indent": 6,
+			"original": "Frau: Hier, ich gebe Ihnen eine...",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Here, I'll give you one..."
+			]
+		},
+		{
+			"path": [6,3,49,1],
+			"indent": 6,
+			"original": "Frau: Und hier ist Ihr Stempel.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: And here is your stamp."
+			]
+		},
+		{
+			"path": [6,3,59,2],
+			"indent": 6,
+			"original": "Frau: Sie bekommen noch einen neuen Stempel auf ihre Karte. Dürfte ich Sie bitte kurz haben?",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: You will get a new stamp on your",
+				"card.\\. May I see it for a moment please?"
+			]
+		},
+		{
+			"path": [6,3,70,1],
+			"indent": 6,
+			"original": "Frau: Bitte sehr.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Here you go."
+			]
+		},
+		{
+			"path": [6,3,75,2],
+			"indent": 5,
+			"original": "Frau: Sie haben das Geld doch gar nicht. Tut mir Leid, aber da lässt sich nichts machen.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Seems you can't pay for it then.",
+				"I'm sorry, but there's nothing I can do about it."
+			]
+		},
+		{
+			"path": [6,3,81,4],
+			"indent": 4,
+			"original": "Frau: Wenn das Ihnen zu teuer ist, gehen Sie in eine Stadt, die näher an [Post-Ziel] liegt. Dort wird die Gebühr dann auch niedriger ausfallen.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: If that's too expensive for you, go to a",
+				"city closer to \\n[21].",
+				"The fee will be lower there."
+			]
+		},
+		{
+			"path": [6,3,92,4],
+			"indent": 4,
+			"original": "Frau: Oh. Sie haben ein Paket, wissen aber nicht wo es hin muss? Na so etwas... Solange Sie nicht wissen, wohin wir es senden müssen, können wir leider nichts für Sie tun.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Oh.\\. You have a package but you don't know",
+				"where to send it to?\\. Well in that case...\\. As long",
+				"as you don't know where to send it, there is",
+				"nothing we can do for you."
+			]
+		},
+		{
+			"path": [6,3,100,1],
+			"indent": 5,
+			"original": "Frau: Als nächstes...",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Moving on..."
+			]
+		},
+		{
+			"path": [6,3,101,4],
+			"indent": 5,
+			"original": "Frau: Oh. Sie haben ein Paket, wissen aber nicht wo es hin muss? Na so etwas... Solange Sie nicht wissen, wohin wir es senden müssen, können wir leider nichts für Sie tun.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Oh.\\. You have a package but you don't know",
+				"where to send it to?\\. Well in that case...\\. As long",
+				"as you don't know where to send it, there is",
+				"nothing we can do for you."
+			]
+		},
+		{
+			"path": [6,3,107,1],
+			"indent": 4,
+			"original": "Frau: Beehren Sie uns bald wieder.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Hope to see you again."
+			]
+		},
+		{
+			"path": [6,3,115,4],
+			"indent": 2,
+			"original": "Frau: Ah... In Ordnung. Sie können jederzeit vorbeikommen, wenn Sie ein Paket zu verschicken haben.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Oh...\\. Alright.\\.",
+				"You can stop by at any time if you",
+				"have a package to deliver."
+			]
+		},
+		{
+			"path": [6,3,123,1],
+			"indent": 1,
+			"original": "Frau: Guten Tag, wie kann ich ihnen helfen?",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Hello, how may I help you?"
+			]
+		},
+		{
+			"path": [6,3,126,2],
+			"indent": 1,
+			"original": "Kento: Öhm, weiß nicht. Eigentlich gibt es hier nichts zu tun für mich.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Oh, I don't know.\\. Actually,",
+				"there is nothing for me to do here."
+			]
+		},
+		{
+			"path": [8,1,6,1],
+			"original": "Frau: Hey! Zutritt nur für Befugte.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Hey!\\. Authorized personnel only."
+			]
+		},
+		{
+			"path": [9,1,6,1],
+			"original": "Frau: Hey! Zutritt nur für Befugte.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Hey!\\. Authorized personnel only."
+			]
+		},
+		{
+			"path": [11,2,2,2],
+			"original": "Mann: Wisst ihr genau über die Bedeutung der Post-Versand-Stelle Bescheid?",
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: Do you know what a FALCON post is?"
+			]
+		},
+		{
+			"path": [11,2,6,4],
+			"indent": 1,
+			"original": "Mann: Die Post-Versand-Stellen sind ein internationaler Verein, der unabhängig vom Staat Pakete und Briefe zu jedem Ort auf diesem Kontinent bringt.",
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: It is an international association",
+				"that delivers packages and letters to any",
+				"location on this continent, regardless",
+				"of the territory."
+			]
+		},
+		{
+			"path": [11,2,10,3],
+			"indent": 1,
+			"original": "Mann: Die Post-Versand-Stellen werden zwar von den Staaten unterstützt, aber trotzdem sind sie ungebunden.",
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: The FALCON posts are supported by",
+				"both nations, but they are still independent."
+			]
+		},
+		{
+			"path": [11,2,13,3],
+			"indent": 1,
+			"original": "Mann: So umgeht man die Gefahr, dass ein Teil des Kontinentes beim Post-Verkehr bevorzugt oder benachteiligt wird.",
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: This avoids the danger of having part of",
+				"the continent being preferred or discriminated",
+				"against in postal traffic."
+			]
+		},
+		{
+			"path": [11,2,18,3],
+			"indent": 1,
+			"original": "Mann: Als nächstes will man versuchen, den Post- Verkehr bis zum Südlichen Kontinent zu erweitern.",
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: The next step is to try to expand the",
+				"postal traffic to the southern continent."
+			]
+		},
+		{
+			"path": [11,2,21,4],
+			"indent": 1,
+			"original": "Mann: Dies bedeutet, dass man sich mit der Seefahrt auseinandersetzen muss, da man die Briefe wahrscheinlich über das südliche Meer verfrachten wird.",
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: This means that we'll have to deal",
+				"with seafaring since we'll probably be shipping",
+				"the letters across the southern sea."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [6,3,4],
+			"original": "Ich habe hier ein Paket.../Eigentlich nichts...",
+			"patch": "I have a package here.../Nothing really..."
+		},
+		{
+			"path": [6,3,5],
+			"original": "Ich habe hier ein Paket...",
+			"patch": "I have a package here..."
+		},
+		{
+			"path": [6,3,23],
+			"original": "Ja, ich zahle./Nein, besser doch nicht.",
+			"patch": "Yes, I'll pay./No, it's not."
+		},
+		{
+			"path": [6,3,24],
+			"original": "Ja, ich zahle.",
+			"patch": "Yes, I'll pay."
+		},
+		{
+			"path": [6,3,80],
+			"original": "Nein, besser doch nicht.",
+			"patch": "No, it's not."
+		},
+		{
+			"path": [6,3,113],
+			"original": "Eigentlich nichts...",
+			"patch": "Nothing really..."
+		},
+		{
+			"path": [11,2,4],
+			"original": "Nein, die wäre...?/Ja, weiß ich schon.",
+			"patch": "No, that would be?/Yes, I know."
+		},
+		{
+			"path": [11,2,5],
+			"original": "Nein, die wäre...?",
+			"patch": "No, that would be?"
+		},
+		{
+			"path": [11,2,17],
+			"original": "Ja, weiß ich schon.",
+			"patch": "Yes, I know."
+		}
+	]
+}
