@@ -1,0 +1,56 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [2,1,2,4],
+			"original": "Postbote: Hm... die Postboten aus Korzojeno, die hier alle 3 Tage regelmäßig ankommen, haben diesmal ziemliche Verspätung. Irgendwas stimmt da nicht.",
+			"lines":
+			[
+				"\\c[10]Postman\\c[0]: Hm...\\. the postmen from Korzojeno who",
+				"arrive here regularly every three days are",
+				"quite late this time around.\\. Something's",
+				"wrong."
+			]
+		},
+		{
+			"path": [3,1,2,4],
+			"original": "Postbote: Hmpf, als nächstes wartet auf mich ein langer Ritt in den hohen Norden von Korzojeno. Das wird sehr anstrengend werden, also muss ich mich seelisch darauf vorbereiten.",
+			"lines":
+			[
+				"\\c[10]Postman\\c[0]: Hmpf,\\. next is a long ride to the far",
+				"north of Korzojeno.\\. It'll be very exhausting,\\.",
+				"so I have to prepare myself mentally."
+			]
+		},
+		{
+			"path": [4,2,2,4],
+			"original": "Postbote: Mann, wir sind hier schon ein armer Verein. Wir Postboten können uns in den Pausen hier im Lagerraum aufhalten. Kein Geld für einen speziellen Raum dafür...",
+			"lines":
+			[
+				"\\c[10]Postman\\c[0]: Man, we're already a poor group here.\\.",
+				"We postmen can stay here in the storage room",
+				"during the breaks.\\. No money for a special",
+				"lounge for that..."
+			]
+		},
+		{
+			"path": [5,1,2,4],
+			"original": "Postbote: Ich wurde ja vor allem deswegen Postbote, weil ich unbedingt Uchikos reiten wollte. Jetzt tut mir ständig mein Hintern davon weh...",
+			"lines":
+			[
+				"\\c[10]Postman\\c[0]: I became a postman mainly because",
+				"I really wanted to ride Uchikos.\\. Now my butt",
+				"hurts all the time..."
+			]
+		},
+		{
+			"path": [5,1,6,2],
+			"original": "Postbote: Muss daran liegen, dass ich es einfach noch nicht gewohnt bin. Das wird schon.",
+			"lines":
+			[
+				"\\c[10]Postman\\c[0]: Must be because I'm just not used to it.\\.",
+				"Eh, I'll be fine."
+			]
+		}
+	]
+}

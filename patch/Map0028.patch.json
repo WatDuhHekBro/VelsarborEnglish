@@ -17,9 +17,9 @@
 			"original": "Cibon: Erst die Eskorte im Gasthof abfangen, DANN zum Torasgebirge, Kumpel.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Erst die Eskorte im Gasthof ",
-				"abfangen, DANN zum Torasgebirge, ",
-				"Kumpel."
+				"\\c[2]\\n[2]\\c[0]: First, meet up with the",
+				"ambassador in the inn, THEN",
+				"go to Mount Toras, Kento."
 			]
 		},
 		{
@@ -28,8 +28,8 @@
 			"original": "Kento: Wir sollten uns nicht zu weit von Gencorin entfernen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten uns nicht zu weit ",
-				"von Gencorin entfernen."
+				"\\c[1]\\n[1]\\c[0]: We shouldn't get too far",
+				"from Gencorin."
 			]
 		},
 		{
@@ -38,8 +38,7 @@
 			"original": "Kento: Es ist zu spät, heute nicht mehr.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es ist zu spät, heute ",
-				"nicht mehr."
+				"\\c[1]\\n[1]\\c[0]: It's too late, not today."
 			]
 		},
 		{
@@ -48,9 +47,8 @@
 			"original": "(Kento: Bin ich denn verrückt? Ich werde doch nicht alleine fortschreiten!)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Bin ich denn verrückt?\\. Ich ",
-				"werde doch nicht alleine ",
-				"fortschreiten!)"
+				"(\\c[1]\\n[1]\\c[0]: Am I crazy?\\. I'm not",
+				"going to go alone!)"
 			]
 		},
 		{
@@ -60,8 +58,8 @@
 			"lines":
 			[
 				"$s - Nomerea",
-				"$y - Sinke-Lohne-Pass, Sinkholm",
-				"$t - Torasgebirge"
+				"$y - The Sink-Lohne Pass, Sinkholm",
+				"$t - Mount Toras"
 			]
 		},
 		{
@@ -71,8 +69,8 @@
 			"lines":
 			[
 				"$z - Nomerea",
-				"$v - Sinke-Lohne-Pass, Sinkholm",
-				"$t - Torasgebirge",
+				"$v - The Sink-Lohne Pass, Sinkholm",
+				"$t - Mount Toras",
 				"$u - Southern Brigantia"
 			]
 		},
@@ -82,9 +80,9 @@
 			"original": "Soko: Unser Weg führt nach Osten. Wir müssen durch das Torasgebirge, nicht nach Süd-Brigantia.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Unser Weg führt nach Osten. ",
-				"Wir müssen durch das Torasgebirge, ",
-				"nicht nach Süd-Brigantia."
+				"\\c[13]\\n[3]\\c[0]: Our mission leads to the",
+				"east. We have to go through Mount",
+				"Toras, not to Southern Brigantia."
 			]
 		},
 		{
@@ -93,10 +91,9 @@
 			"original": "Cibon: Wir müssen doch zu den Gasthof nördlich von hier gehen, Kumpel. Wir sollten keine Zeit verschwenden.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wir müssen doch zu den ",
-				"Gasthof nördlich von hier gehen, ",
-				"Kumpel.\\. Wir sollten keine Zeit ",
-				"verschwenden."
+				"\\c[2]\\n[2]\\c[0]: We have to go to",
+				"the inn north of here, Kento.\\.",
+				"Let's not waste time."
 			]
 		},
 		{
@@ -107,7 +104,7 @@
 			[
 				"\\c[2]\\n[2]\\c[0]: I don't think Vorento would",
 				"be happy if we made a detour to",
-				"the south of Brigantia."
+				"Southern Brigantia."
 			]
 		},
 		{
@@ -126,8 +123,8 @@
 			"original": "Kento: Ich sollte im Moment besser nicht nach Süd-Brigantia gehen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich sollte im Moment besser",
-				"nicht nach Süd-Brigantia gehen."
+				"\\c[1]\\n[1]\\c[0]: I better not go to",
+				"Southern Brigantia right now."
 			]
 		},
 		{
@@ -146,9 +143,9 @@
 			"original": "Soko: Kento, hier geht es immer noch nach Helnovien, da wo wir nicht hin müssen, erinnerst du dich?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Kento,\\. hier geht es immer noch ",
-				"nach Helnovien,\\. da wo wir nicht hin ",
-				"müssen,\\. erinnerst du dich?"
+				"\\c[13]\\n[3]\\c[0]: Kento,\\. you're still going to",
+				"Helnovien,\\. where we don't have to",
+				"go.\\. Remember?"
 			]
 		},
 		{
@@ -157,10 +154,10 @@
 			"original": "Cibon: Mann, es muss ernster sein, als wir anfangs annahmen. Jetzt lässt auch schon sein Gedächnis nach... Armer Kento",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Mann, es muss ernster sein, ",
-				"als wir anfangs annahmen.\\. Jetzt ",
-				"lässt auch schon sein Gedächnis ",
-				"nach...\\. Armer Kento"
+				"\\c[2]\\n[2]\\c[0]: Man, it must be more serious",
+				"than we initially thought.\\. Now his",
+				"memory is already diminishing.\\.",
+				"Poor thing..."
 			]
 		},
 		{
@@ -169,9 +166,9 @@
 			"original": "(Kento: ...Langsam zweifle ich daran, ob diese ganze Tour überhaupt ernst gemeint ist.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: ...Langsam zweifle ich ",
-				"daran, ob diese ganze Tour überhaupt",
-				"ernst gemeint ist.)"
+				"(\\c[1]\\n[1]\\c[0]: ...I'm slowly beginning",
+				"to doubt whether this whole journey",
+				"is really serious or not.)"
 			]
 		},
 		{
@@ -180,8 +177,8 @@
 			"original": "Soko: Hier geht es nach Helnovien. Unsere Reise geht nach Osten.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Hier geht es nach Helnovien. \\.",
-				"Unsere Reise geht nach Osten."
+				"\\c[13]\\n[3]\\c[0]: Here lies Helnovien.\\.",
+				"Our journey is in the east."
 			]
 		},
 		{
@@ -199,8 +196,8 @@
 			"original": "Soko: Wir müssen nach Osten in den Silvanwald, nicht hier entlang.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wir müssen nach Osten in den ",
-				"Silvanwald, nicht hier entlang."
+				"\\c[13]\\n[3]\\c[0]: We have to go east into the",
+				"Silvan Forest, not here."
 			]
 		}
 	]

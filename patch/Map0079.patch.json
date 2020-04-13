@@ -1,0 +1,513 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [33,1,10,4],
+			"original": "Reiter: Was ich hier mache? Ich warte, bis mein Kollege endlich mit den Vorbereitungen fertig wird. Wir beide müssen Pakete nach Buronia bringen. Wird ein recht langer Weg...",
+			"lines":
+			[
+				"\\c[10]Rider\\c[0]: What am I doing here?\\. I'm waiting for",
+				"my colleague to finishes his preparations.\\.",
+				"We both have to bring packages to Buronia.\\.",
+				"Now that'll take a while..."
+			]
+		},
+		{
+			"path": [46,1,4,1],
+			"indent": 1,
+			"original": "Kento: Ein Uchiko...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: An uchiko..."
+			]
+		},
+		{
+			"path": [46,1,8,3],
+			"indent": 3,
+			"original": "Soko: Sind Sie schon mal auf einem geritten, Herr Kento? Es ist anfangs etwas gewöhnungsbedürftig.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Have you ever ridden one,",
+				"Sir Kento?\\. It takes some getting",
+				"used to at first."
+			]
+		},
+		{
+			"path": [46,1,12,2],
+			"indent": 3,
+			"original": "Soko: Aber man gewöhnt sich recht schnell daran.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: But you get used to it",
+				"pretty quickly."
+			]
+		},
+		{
+			"path": [46,1,17,3],
+			"indent": 3,
+			"original": "Soko: Bist du schon mal auf einem geritten, Kento? Es ist anfangs etwas merkwürdig...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Have you ever ridden one, Kento?\\.",
+				"It's a little strange at first..."
+			]
+		},
+		{
+			"path": [46,1,21,2],
+			"indent": 3,
+			"original": "Soko: Aber hat man sich einmal dran gewöhnt, macht es wirklich spaß.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: But once you get used to it,",
+				"it's really fun."
+			]
+		},
+		{
+			"path": [46,1,26,2],
+			"indent": 2,
+			"original": "Kento: Na ja, ich möchte es erstmal lieber nicht ausprobieren...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Well, I'd rather not try it out",
+				"right now..."
+			]
+		},
+		{
+			"path": [46,1,30,2],
+			"indent": 3,
+			"original": "Cibon: Hehe, hast du Angst vor den Viechern, Kento?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hehe, are you afraid of them,",
+				"Kento?"
+			]
+		},
+		{
+			"path": [46,1,33,1],
+			"indent": 3,
+			"original": "Kento: Das hab ich nicht gesagt!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I didn't say that!"
+			]
+		},
+		{
+			"path": [47,3,20,2],
+			"original": "Kento: Hm... die Post-Versand-Stelle. Was haben wir hier zu suchen?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm... the post office.\\.",
+				"What are we doing here?"
+			]
+		},
+		{
+			"path": [47,3,25,3],
+			"indent": 2,
+			"original": "Soko: Soweit ich mich erinnere, sollten wir doch ein Paket hier abgeben, richtig?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: If I recall correctly, we",
+				"should be leaving a package here,\\.",
+				"right?"
+			]
+		},
+		{
+			"path": [47,3,32,3],
+			"indent": 3,
+			"original": "Cibon: Seit wann biste denn so vergesslich, Kumpel? Wir sollten doch ein Paket hier abgeben.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Since when have you been",
+				"so forgetful, Kento?\\. We have to",
+				"drop off a package here."
+			]
+		},
+		{
+			"path": [47,3,43,2],
+			"indent": 1,
+			"original": "Kento: Ach so, stimmt ja. Hab ich es doch gleich wieder vergessen...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Oh, right.\\. I forgot",
+				"rather quickly..."
+			]
+		},
+		{
+			"path": [47,3,50,3],
+			"indent": 3,
+			"original": "Soko: Ich weiß nicht, du führst uns hier doch an, Kento. Schauen wir uns einfach etwas um.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: I don't know, you're leading",
+				"us here, Kento.\\. Let's just have a",
+				"look around."
+			]
+		},
+		{
+			"path": [47,3,55,3],
+			"indent": 3,
+			"original": "Soko: Ich weiß nicht, sie führen uns hier doch an, Herr Kento. Schauen wir uns einfach etwas um.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: I don't know, you're leading",
+				"us here, Sir Kento.\\. Let's just",
+				"have a look around."
+			]
+		},
+		{
+			"path": [47,3,64,3],
+			"indent": 3,
+			"original": "Cibon: Keinen blassen Schimmer, aber es kann nie schaden, sich hier mal umzusehen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Not exactly the most",
+				"beautiful place, but it couldn't hurt",
+				"to check this place out."
+			]
+		},
+		{
+			"path": [47,3,75,1],
+			"indent": 1,
+			"original": "Kento: Na gut, wieso nicht...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Well, why not..."
+			]
+		},
+		{
+			"path": [49,1,4,1],
+			"indent": 1,
+			"original": "Kento: Ein Uchiko...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: An uchiko..."
+			]
+		},
+		{
+			"path": [49,1,8,3],
+			"indent": 3,
+			"original": "Soko: Sind Sie schon mal auf einem geritten, Herr Kento? Es ist anfangs etwas gewöhnungsbedürftig.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Have you ever ridden one,",
+				"Sir Kento?\\. It takes some getting",
+				"used to at first."
+			]
+		},
+		{
+			"path": [49,1,12,2],
+			"indent": 3,
+			"original": "Soko: Aber man gewöhnt sich recht schnell daran.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: But you get used to it",
+				"pretty quickly."
+			]
+		},
+		{
+			"path": [49,1,17,3],
+			"indent": 3,
+			"original": "Soko: Bist du schon mal auf einem geritten, Kento? Es ist anfangs etwas merkwürdig...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Have you ever ridden one, Kento?\\.",
+				"It's a little strange at first..."
+			]
+		},
+		{
+			"path": [49,1,21,2],
+			"indent": 3,
+			"original": "Soko: Aber hat man sich einmal dran gewöhnt, macht es wirklich spaß.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: But once you get used to it,",
+				"it's really fun."
+			]
+		},
+		{
+			"path": [49,1,26,2],
+			"indent": 2,
+			"original": "Kento: Na ja, ich möchte es erstmal lieber nicht ausprobieren...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Well, I'd rather not try it out",
+				"right now..."
+			]
+		},
+		{
+			"path": [49,1,30,2],
+			"indent": 3,
+			"original": "Cibon: Hehe, hast du Angst vor den Viechern, Kento?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hehe, are you afraid of them,",
+				"Kento?"
+			]
+		},
+		{
+			"path": [49,1,33,1],
+			"indent": 3,
+			"original": "Kento: Das hab ich nicht gesagt!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I didn't say that!"
+			]
+		},
+		{
+			"path": [50,1,4,1],
+			"indent": 1,
+			"original": "Kento: Ein Uchiko...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: An uchiko..."
+			]
+		},
+		{
+			"path": [50,1,8,3],
+			"indent": 3,
+			"original": "Soko: Sind Sie schon mal auf einem geritten, Herr Kento? Es ist anfangs etwas gewöhnungsbedürftig.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Have you ever ridden one,",
+				"Sir Kento?\\. It takes some getting",
+				"used to at first."
+			]
+		},
+		{
+			"path": [50,1,12,2],
+			"indent": 3,
+			"original": "Soko: Aber man gewöhnt sich recht schnell daran.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: But you get used to it",
+				"pretty quickly."
+			]
+		},
+		{
+			"path": [50,1,17,3],
+			"indent": 3,
+			"original": "Soko: Bist du schon mal auf einem geritten, Kento? Es ist anfangs etwas merkwürdig...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Have you ever ridden one, Kento?\\.",
+				"It's a little strange at first..."
+			]
+		},
+		{
+			"path": [50,1,21,2],
+			"indent": 3,
+			"original": "Soko: Aber hat man sich einmal dran gewöhnt, macht es wirklich spaß.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: But once you get used to it,",
+				"it's really fun."
+			]
+		},
+		{
+			"path": [50,1,26,2],
+			"indent": 2,
+			"original": "Kento: Na ja, ich möchte es erstmal lieber nicht ausprobieren...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Well, I'd rather not try it out",
+				"right now..."
+			]
+		},
+		{
+			"path": [50,1,30,2],
+			"indent": 3,
+			"original": "Cibon: Hehe, hast du Angst vor den Viechern, Kento?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hehe, are you afraid of them,",
+				"Kento?"
+			]
+		},
+		{
+			"path": [50,1,33,1],
+			"indent": 3,
+			"original": "Kento: Das hab ich nicht gesagt!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I didn't say that!"
+			]
+		},
+		{
+			"path": [51,1,4,1],
+			"indent": 1,
+			"original": "Kento: Ein Uchiko...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: An uchiko..."
+			]
+		},
+		{
+			"path": [51,1,8,3],
+			"indent": 3,
+			"original": "Soko: Sind Sie schon mal auf einem geritten, Herr Kento? Es ist anfangs etwas gewöhnungsbedürftig.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Have you ever ridden one,",
+				"Sir Kento?\\. It takes some getting",
+				"used to at first."
+			]
+		},
+		{
+			"path": [51,1,12,2],
+			"indent": 3,
+			"original": "Soko: Aber man gewöhnt sich recht schnell daran.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: But you get used to it",
+				"pretty quickly."
+			]
+		},
+		{
+			"path": [51,1,17,3],
+			"indent": 3,
+			"original": "Soko: Bist du schon mal auf einem geritten, Kento? Es ist anfangs etwas merkwürdig...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Have you ever ridden one, Kento?\\.",
+				"It's a little strange at first..."
+			]
+		},
+		{
+			"path": [51,1,21,2],
+			"indent": 3,
+			"original": "Soko: Aber hat man sich einmal dran gewöhnt, macht es wirklich spaß.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: But once you get used to it,",
+				"it's really fun."
+			]
+		},
+		{
+			"path": [51,1,26,2],
+			"indent": 2,
+			"original": "Kento: Na ja, ich möchte es erstmal lieber nicht ausprobieren...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Well, I'd rather not try it out",
+				"right now..."
+			]
+		},
+		{
+			"path": [51,1,30,2],
+			"indent": 3,
+			"original": "Cibon: Hehe, hast du Angst vor den Viechern, Kento?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hehe, are you afraid of them,",
+				"Kento?"
+			]
+		},
+		{
+			"path": [51,1,33,1],
+			"indent": 3,
+			"original": "Kento: Das hab ich nicht gesagt!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I didn't say that!"
+			]
+		},
+		{
+			"path": [52,1,4,1],
+			"indent": 1,
+			"original": "Kento: Ein Uchiko...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: An uchiko..."
+			]
+		},
+		{
+			"path": [52,1,8,3],
+			"indent": 3,
+			"original": "Soko: Sind Sie schon mal auf einem geritten, Herr Kento? Es ist anfangs etwas gewöhnungsbedürftig.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Have you ever ridden one,",
+				"Sir Kento?\\. It takes some getting",
+				"used to at first."
+			]
+		},
+		{
+			"path": [52,1,12,2],
+			"indent": 3,
+			"original": "Soko: Aber man gewöhnt sich recht schnell daran.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: But you get used to it",
+				"pretty quickly."
+			]
+		},
+		{
+			"path": [52,1,17,3],
+			"indent": 3,
+			"original": "Soko: Bist du schon mal auf einem geritten, Kento? Es ist anfangs etwas merkwürdig...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Have you ever ridden one, Kento?\\.",
+				"It's a little strange at first..."
+			]
+		},
+		{
+			"path": [52,1,21,2],
+			"indent": 3,
+			"original": "Soko: Aber hat man sich einmal dran gewöhnt, macht es wirklich spaß.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: But once you get used to it,",
+				"it's really fun."
+			]
+		},
+		{
+			"path": [52,1,26,2],
+			"indent": 2,
+			"original": "Kento: Na ja, ich möchte es erstmal lieber nicht ausprobieren...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Well, I'd rather not try it out",
+				"right now..."
+			]
+		},
+		{
+			"path": [52,1,30,2],
+			"indent": 3,
+			"original": "Cibon: Hehe, hast du Angst vor den Viechern, Kento?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hehe, are you afraid of them,",
+				"Kento?"
+			]
+		},
+		{
+			"path": [52,1,33,1],
+			"indent": 3,
+			"original": "Kento: Das hab ich nicht gesagt!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I didn't say that!"
+			]
+		},
+		{
+			"path": [53,1,8,2],
+			"original": "Postbote: Entschuldigen Sie, ich bin in Eile. Dürfte ich kurz durch?",
+			"lines":
+			[
+				"\\c[10]Postman\\c[0]: Excuse me, I'm in a hurry.",
+				"Can you move for a bit?"
+			]
+		},
+		{
+			"path": [55,1,3,2],
+			"indent": 1,
+			"original": "$v Empfangsraum $t Lagerraum",
+			"lines":
+			[
+				"$v Receptionist",
+				"$t Storage Room"
+			]
+		}
+	]
+}

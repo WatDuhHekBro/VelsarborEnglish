@@ -1,0 +1,36 @@
+{
+	"__comment__": "Seems to be a hidden easter egg?",
+	"dialogue":
+	[
+		{
+			"path": [9,1,3,2],
+			"indent": 1,
+			"original": "Rika: Hehe, ich frag mich, ob die anderen dieses Versteck je finden werden.",
+			"lines":
+			[
+				"\\c[10]Rika\\c[0]: Hehe, I wonder if the others will",
+				"ever find this hiding spot."
+			]
+		},
+		{
+			"path": [9,1,12,3],
+			"indent": 1,
+			"original": "Rika: Hey! Ihr habt tatsächlich dieses Versteck gefunden... Bitte sagt es nicht weiter! Ich geb' euch auch das hier dafür.",
+			"lines":
+			[
+				"\\c[10]Rika\\c[0]: Hey!\\. You actually found me...\\.",
+				"Please don't tell anyone else!\\. I'll give",
+				"you this if you keep it a secret."
+			]
+		},
+		{
+			"path": [9,1,24,2],
+			"indent": 1,
+			"original": "Kento: Schon gut, wir werden nichts verraten.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Alright, we won't say anything."
+			]
+		}
+	]
+}

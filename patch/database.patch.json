@@ -1,607 +1,4 @@
 {
-	"vocabulary":
-	[
-		{
-			"path": [21,1],
-			"original": " emerges!",
-			"patch": " emerges!"
-		},
-		{
-			"path": [21,2],
-			"original": " Pre-emptive attack",
-			"patch": " Pre-emptive attack"
-		},
-		{
-			"path": [21,3],
-			"original": " You ran away safely!",
-			"patch": " You ran away safely!"
-		},
-		{
-			"path": [21,4],
-			"original": " You Failed to escape...",
-			"patch": " You Failed to escape..."
-		},
-		{
-			"path": [21,5],
-			"original": " You won a combat!",
-			"patch": " You won a combat!"
-		},
-		{
-			"path": [21,6],
-			"original": " Your Party has Perished",
-			"patch": " Your Party has Perished"
-		},
-		{
-			"path": [21,7],
-			"original": " EXP",
-			"patch": " EXP"
-		},
-		{
-			"path": [21,8],
-			"original": " You found",
-			"patch": " You found"
-		},
-		{
-			"path": [21,9],
-			"original": " money!",
-			"patch": " money!"
-		},
-		{
-			"path": [21,10],
-			"original": " recieved!",
-			"patch": " recieved!"
-		},
-		{
-			"path": [21,11],
-			"original": " attacks the enemy",
-			"patch": " attacks the enemy"
-		},
-		{
-			"path": [21,12],
-			"original": " A critical hit!",
-			"patch": " A critical hit!"
-		},
-		{
-			"path": [21,13],
-			"original": " A critical blow!",
-			"patch": " A critical blow!"
-		},
-		{
-			"path": [21,14],
-			"original": " defends.",
-			"patch": " defends."
-		},
-		{
-			"path": [21,15],
-			"original": " is waiting and watching.",
-			"patch": " is waiting and watching."
-		},
-		{
-			"path": [21,16],
-			"original": " is building strength.",
-			"patch": " is building strength."
-		},
-		{
-			"path": [21,17],
-			"original": " pounces.",
-			"patch": " pounces."
-		},
-		{
-			"path": [21,18],
-			"original": " runs away!",
-			"patch": " runs away!"
-		},
-		{
-			"path": [21,19],
-			"original": " transforms.",
-			"patch": " transforms."
-		},
-		{
-			"path": [21,20],
-			"original": " hp is lost",
-			"patch": " hp is lost"
-		},
-		{
-			"path": [21,21],
-			"original": " misses",
-			"patch": " misses"
-		},
-		{
-			"path": [21,22],
-			"original": " hp is lost",
-			"patch": " hp is lost"
-		},
-		{
-			"path": [21,23],
-			"original": " misses",
-			"patch": " misses"
-		},
-		{
-			"path": [21,24],
-			"original": " Failed",
-			"patch": " Failed"
-		},
-		{
-			"path": [21,25],
-			"original": " Failed",
-			"patch": " Failed"
-		},
-		{
-			"path": [21,26],
-			"original": " Failed",
-			"patch": " Failed"
-		},
-		{
-			"path": [21,27],
-			"original": " dodges",
-			"patch": " dodges"
-		},
-		{
-			"path": [21,28],
-			"original": "uses",
-			"patch": "uses"
-		},
-		{
-			"path": [21,29],
-			"original": " Recovered",
-			"patch": " Recovered"
-		},
-		{
-			"path": [21,30],
-			"original": " ",
-			"patch": " "
-		},
-		{
-			"path": [21,31],
-			"original": null,
-			"patch": null
-		},
-		{
-			"path": [21,32],
-			"original": null,
-			"patch": null
-		},
-		{
-			"path": [21,33],
-			"original": null,
-			"patch": null
-		},
-		{
-			"path": [21,34],
-			"original": "Defense increases!",
-			"patch": "Defense increases!"
-		},
-		{
-			"path": [21,35],
-			"original": "Defense Decreases!",
-			"patch": "Defense Decreases!"
-		},
-		{
-			"path": [21,36],
-			"original": "Raised a level!",
-			"patch": "Raised a level!"
-		},
-		{
-			"path": [21,37],
-			"original": "Acquired",
-			"patch": "Acquired"
-		},
-		{
-			"path": [21,41],
-			"original": "How can I help you?",
-			"patch": "How can I help you?"
-		},
-		{
-			"path": [21,42],
-			"original": "Hurry up and buy!!!",
-			"patch": "Hurry up and buy!!!"
-		},
-		{
-			"path": [21,43],
-			"original": " Buy",
-			"patch": " Buy"
-		},
-		{
-			"path": [21,44],
-			"original": " Sell",
-			"patch": " Sell"
-		},
-		{
-			"path": [21,45],
-			"original": " Leave",
-			"patch": " Leave"
-		},
-		{
-			"path": [21,46],
-			"original": " What do you want to buy?",
-			"patch": " What do you want to buy?"
-		},
-		{
-			"path": [21,47],
-			"original": " How Many",
-			"patch": " How Many"
-		},
-		{
-			"path": [21,48],
-			"original": " Done",
-			"patch": " Done"
-		},
-		{
-			"path": [21,49],
-			"original": " What do you wish to sell?",
-			"patch": " What do you wish to sell?"
-		},
-		{
-			"path": [21,50],
-			"original": " How many",
-			"patch": " How many"
-		},
-		{
-			"path": [21,51],
-			"original": " Thank you!",
-			"patch": " Thank you!"
-		},
-		{
-			"path": [21,54],
-			"original": "Hurry up would you please!",
-			"patch": "Hurry up would you please!"
-		},
-		{
-			"path": [21,55],
-			"original": "Hurry up already!!!",
-			"patch": "Hurry up already!!!"
-		},
-		{
-			"path": [21,56],
-			"original": "Buy",
-			"patch": "Buy"
-		},
-		{
-			"path": [21,57],
-			"original": "Sell",
-			"patch": "Sell"
-		},
-		{
-			"path": [21,58],
-			"original": "Leave",
-			"patch": "Leave"
-		},
-		{
-			"path": [21,59],
-			"original": "Bought",
-			"patch": "Bought"
-		},
-		{
-			"path": [21,60],
-			"original": "How Many",
-			"patch": "How Many"
-		},
-		{
-			"path": [21,61],
-			"original": "Done",
-			"patch": "Done"
-		},
-		{
-			"path": [21,62],
-			"original": "Sold",
-			"patch": "Sold"
-		},
-		{
-			"path": [21,63],
-			"original": "How many",
-			"patch": "How many"
-		},
-		{
-			"path": [21,64],
-			"original": "Go now!",
-			"patch": "Go now!"
-		},
-		{
-			"path": [21,67],
-			"original": "Good day!",
-			"patch": "Good day!"
-		},
-		{
-			"path": [21,68],
-			"original": "I dont have all day you know!!!!",
-			"patch": "I dont have all day you know!!!!"
-		},
-		{
-			"path": [21,69],
-			"original": "BUY",
-			"patch": "BUY"
-		},
-		{
-			"path": [21,70],
-			"original": "SELL",
-			"patch": "SELL"
-		},
-		{
-			"path": [21,71],
-			"original": "GO HOME",
-			"patch": "GO HOME"
-		},
-		{
-			"path": [21,72],
-			"original": "Bought",
-			"patch": "Bought"
-		},
-		{
-			"path": [21,73],
-			"original": "How much?",
-			"patch": "How much?"
-		},
-		{
-			"path": [21,74],
-			"original": "Done",
-			"patch": "Done"
-		},
-		{
-			"path": [21,75],
-			"original": "Sold",
-			"patch": "Sold"
-		},
-		{
-			"path": [21,76],
-			"original": "How many?",
-			"patch": "How many?"
-		},
-		{
-			"path": [21,77],
-			"original": "Thanx!",
-			"patch": "Thanx!"
-		},
-		{
-			"path": [21,80],
-			"original": "Only",
-			"patch": "Only"
-		},
-		{
-			"path": [21,81],
-			"original": " to rest here",
-			"patch": " to rest here"
-		},
-		{
-			"path": [21,82],
-			"original": "Do you wish to rest here?",
-			"patch": "Do you wish to rest here?"
-		},
-		{
-			"path": [21,83],
-			"original": "Yes",
-			"patch": "Yes"
-		},
-		{
-			"path": [21,84],
-			"original": "No",
-			"patch": "No"
-		},
-		{
-			"path": [21,85],
-			"original": "Its only",
-			"patch": "Its only"
-		},
-		{
-			"path": [21,86],
-			"original": " for the night",
-			"patch": " for the night"
-		},
-		{
-			"path": [21,87],
-			"original": "Do you wish to stay here for the night?",
-			"patch": "Do you wish to stay here for the night?"
-		},
-		{
-			"path": [21,88],
-			"original": "Yes",
-			"patch": "Yes"
-		},
-		{
-			"path": [21,89],
-			"original": "No",
-			"patch": "No"
-		},
-		{
-			"path": [21,92],
-			"original": "Owned Items",
-			"patch": "Owned Items"
-		},
-		{
-			"path": [21,93],
-			"original": "Equipped Items",
-			"patch": "Equipped Items"
-		},
-		{
-			"path": [21,95],
-			"original": "Fejar",
-			"patch": "Fejar"
-		},
-		{
-			"path": [21,101],
-			"original": "Fight",
-			"patch": "Fight"
-		},
-		{
-			"path": [21,102],
-			"original": "AutoBattle",
-			"patch": "AutoBattle"
-		},
-		{
-			"path": [21,103],
-			"original": "Run away",
-			"patch": "Run away"
-		},
-		{
-			"path": [21,104],
-			"original": "Attack",
-			"patch": "Attack"
-		},
-		{
-			"path": [21,105],
-			"original": "Defense",
-			"patch": "Defense"
-		},
-		{
-			"path": [21,106],
-			"original": "Item",
-			"patch": "Item"
-		},
-		{
-			"path": [21,107],
-			"original": "Tech Skill",
-			"patch": "Tech Skill"
-		},
-		{
-			"path": [21,108],
-			"original": "Equipment",
-			"patch": "Equipment"
-		},
-		{
-			"path": [21,110],
-			"original": "Save",
-			"patch": "Save"
-		},
-		{
-			"path": [21,112],
-			"original": "End Game",
-			"patch": "End Game"
-		},
-		{
-			"path": [21,114],
-			"original": "Start",
-			"patch": "Start"
-		},
-		{
-			"path": [21,115],
-			"original": "Laden",
-			"patch": "Load"
-		},
-		{
-			"path": [21,117],
-			"original": "Ende",
-			"patch": "End"
-		},
-		{
-			"path": [21,123],
-			"original": "Kapitel",
-			"patch": "Chapter"
-		},
-		{
-			"path": [21,124],
-			"original": "HP",
-			"patch": "HP"
-		},
-		{
-			"path": [21,125],
-			"original": "MP",
-			"patch": "MP"
-		},
-		{
-			"path": [21,126],
-			"original": "Normal",
-			"patch": "Normal"
-		},
-		{
-			"path": [21,127],
-			"original": "Ex",
-			"patch": "Ex"
-		},
-		{
-			"path": [21,128],
-			"original": "ID",
-			"patch": "ID"
-		},
-		{
-			"path": [21,129],
-			"original": "Lv",
-			"patch": "Lv"
-		},
-		{
-			"path": [21,130],
-			"original": "M",
-			"patch": "M"
-		},
-		{
-			"path": [21,131],
-			"original": "Cost",
-			"patch": "Cost"
-		},
-		{
-			"path": [21,132],
-			"original": "Attack",
-			"patch": "Attack"
-		},
-		{
-			"path": [21,133],
-			"original": "Defence",
-			"patch": "Defense"
-		},
-		{
-			"path": [21,134],
-			"original": "Mental",
-			"patch": "Mental"
-		},
-		{
-			"path": [21,135],
-			"original": "Ability",
-			"patch": "Ability"
-		},
-		{
-			"path": [21,136],
-			"original": "Waffe",
-			"patch": "Weapon"
-		},
-		{
-			"path": [21,137],
-			"original": "Armband",
-			"patch": "Armband"
-		},
-		{
-			"path": [21,138],
-			"original": "Rüstung",
-			"patch": "Armor"
-		},
-		{
-			"path": [21,139],
-			"original": "Helm",
-			"patch": "Helm"
-		},
-		{
-			"path": [21,140],
-			"original": "Zusatz",
-			"patch": "Misc"
-		},
-		{
-			"path": [21,146],
-			"original": "Wo soll gespeichert werden?",
-			"patch": "Which file do you want to save to?"
-		},
-		{
-			"path": [21,147],
-			"original": "Welcher Spielstand soll geladen werden?",
-			"patch": "Which save file do you want to load?"
-		},
-		{
-			"path": [21,148],
-			"original": "Spielstand",
-			"patch": "Save"
-		},
-		{
-			"path": [21,151],
-			"original": "Wollen Sie das Spiel beenden?",
-			"patch": "Do you want to quit the game?"
-		},
-		{
-			"path": [21,152],
-			"original": "Ja",
-			"patch": "Yes"
-		},
-		{
-			"path": [21,153],
-			"original": "Nein",
-			"patch": "No"
-		}
-	],
 	"dialogue":
 	[
 		{
@@ -887,7 +284,7 @@
 			"lines":
 			[
 				"\\c[10]Jorn:\\c[0] Argh!\\. I should've just surrendered",
-				"RIGHT AWAY!"
+				"right away!"
 			]
 		},
 		{
@@ -896,7 +293,7 @@
 			"original": "Gurim: Saion... du konntest es nicht lassen...",
 			"lines":
 			[
-				"\\c[10]Gurim:\\c[0] Saion...\\. you just had to play",
+				"\\c[10]Gurim:\\c[0] Saion...\\. you just HAD to play",
 				"around,\\. didn't you..."
 			]
 		},
@@ -970,7 +367,7 @@
 			"original": "Soldat: Verdammt, die Situation gerät außer Kontrolle!",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: Damn it, the situation is getting",
+				"\\c[10]Soldier\\c[0]: Damn it, the situation is getting",
 				"out of control!"
 			]
 		},
@@ -989,7 +386,7 @@
 			"original": "Soldat: ...Sedric, du HAST den Gegner unterschätzt!",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: ...\\.Sedric,\\. you underestimated",
+				"\\c[10]Soldier\\c[0]: ...\\.Sedric,\\. you HAVE underestimated",
 				"your opponent!"
 			]
 		},
@@ -1057,8 +454,7 @@
 			"lines":
 			[
 				"\\>",
-				"\\>INFO: Soko ist in der Lage Signum-Zauber ",
-				"\\>anzuwenden."
+				"\\>INFO: Soko is able to use Signum spells."
 			]
 		},
 		{
@@ -1068,8 +464,7 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Signum-Zauber richten magischen Elementar-",
-				"\\>Schaden an."
+				"\\>Signum spells do magical elemental damage."
 			]
 		},
 		{
@@ -1079,8 +474,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Die Höhe dieses Schadens wird durch die ",
-				"\\>Mentale Kraft des Anwenders... "
+				"\\>The amount of this damage is determined",
+				"\\>by the wisdom stat of the user..."
 			]
 		},
 		{
@@ -1090,8 +485,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>...und der Stufe des Zaubers bestimmt, von ",
-				"\\>denen es drei Stück gibt."
+				"\\>...as well as the level of the spell, of",
+				"\\>which there are three."
 			]
 		},
 		{
@@ -1101,8 +496,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Am Beispiel Feuer: \"Feuer\" ist 1. Stufe, \"Feures\" ",
-				"\\>ist 2. Stufe und \"Feuentus\" ist 3. Stufe."
+				"\\>Using the fire spell for example, the order is as",
+				"\\>follows: \"Fire\", \"Great Fire\", and \"Grand Fire\"."
 			]
 		},
 		{
@@ -1112,8 +507,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Magischer Schaden wird nicht mit \"Schutz\" ",
-				"\\>abgewehrt, sondern mit Mentaler Kraft."
+				"\\>Magic damage is not protected against with",
+				"\\>\"defense\", but with wisdom."
 			]
 		},
 		{
@@ -1123,8 +518,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Deswegen können solche Zauber wirkungsvoll ",
-				"\\>gegen abwehrstarke Gegner sein."
+				"\\>Therefore, such spells can be effective against",
+				"\\>opponents with high defense."
 			]
 		},
 		{
@@ -1134,8 +529,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Du findest die Signum-Zauber unter dem 1. ",
-				"\\>Symbol im Technik-Auswahl-Menu."
+				"\\>You can find the Signum spells under the",
+				"\\>1st symbol in the techs menu."
 			]
 		},
 		{
@@ -1145,8 +540,7 @@
 			"lines":
 			[
 				"\\>",
-				"\\>INFO: Kento ist nun in der Lage Element-Sare- ",
-				"\\>Techniken anzuwenden"
+				"\\>INFO: Kento is now able to imbue elements."
 			]
 		},
 		{
@@ -1156,8 +550,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Element-Sare-Techniken sind physische Schläge ",
-				"\\>deren Schaden mit einem Element geprägt ist."
+				"\\>Imbue element techniques are physical strikes,",
+				"\\>the damage of which is shaped by an element."
 			]
 		},
 		{
@@ -1167,8 +561,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Wirkungsvoll sind diese Schläge gegen Monster ",
-				"\\>mit geringem Schutz gegen physische Angriffe"
+				"\\>These strikes are effective against monsters",
+				"\\>with little protection against physical attacks."
 			]
 		},
 		{
@@ -1178,8 +572,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Hat der Gegner eine Schwäche gegen das ",
-				"\\>Element der Technik, ist sie besonders effektiv."
+				"\\>If the opponent has a weakness against the",
+				"\\>imbued element, it is particularly effective."
 			]
 		},
 		{
@@ -1189,8 +583,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Du findest die Element-Sare-Techniken unter ",
-				"\\>dem 2. Symbol im Technik-Auswahl-Menu."
+				"\\>You can find the imbue element techniques",
+				"\\>under the 2nd symbol in the techs menu."
 			]
 		},
 		{
@@ -1200,8 +594,7 @@
 			"lines":
 			[
 				"\\>",
-				"\\>INFO: Cibon ist nun in der Lage Zustand-Sare-",
-				"\\>Techniken anzuwenden."
+				"\\>INFO: Cibon is now able to imbue status effects."
 			]
 		},
 		{
@@ -1211,8 +604,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Zustand-Sare-Techniken sind physische Schläge,",
-				"\\>die zudem einen bestimmten Zustand bewirken."
+				"\\>Imbue status techniques are physical strikes",
+				"\\>that also inflict a certain state."
 			]
 		},
 		{
@@ -1222,8 +615,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Die Wahrscheinlichkeit, dass das Ziel von dem ",
-				"\\>Zustand befallen wird, hängt vom Gegner ab."
+				"\\>The likelihood that the target will be affected",
+				"\\>by the condition depends on the opponent."
 			]
 		},
 		{
@@ -1233,8 +626,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Der Gegner kann anfällig bis immun ",
-				"\\>gegenüber dem Zustand sein."
+				"\\>The enemy can be range from being vulnerable",
+				"\\>to being immune to the condition."
 			]
 		},
 		{
@@ -1244,8 +637,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Kämpfer auf eigenen Seite können sich mit ",
-				"\\>bestimmter Ausrüstung vor Zuständen schützten."
+				"\\>Combatants on the same side can protect each other",
+				"\\>from these conditions with certain equipment."
 			]
 		},
 		{
@@ -1255,8 +648,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Du findest die Zustand-Sare-Techniken unter ",
-				"\\>dem 2. Symbol im Technik-Auswahl-Menu."
+				"\\>You can find the imbue status techniques",
+				"\\>under the 2nd symbol in the techs menu."
 			]
 		},
 		{
@@ -1618,8 +1011,8 @@
 			"original": "(Kento: Die hintere Person mit Nahkampfwaffen anzugreifen ist sinnlos, sie wird geschützt...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Attacking the person at the back",
-				"with melee weapons is pointless, they're protected...)"
+				"(\\c[1]\\n[1]\\c[0]: Attacking the person at the back with",
+				"melee weapons is pointless, they're protected...)"
 			]
 		},
 		{
@@ -1782,7 +1175,8 @@
 			"original": "Soldat: Das ist der Flüchtling! Er ist doch im Gebäude!",
 			"lines":
 			[
-				"\\c[10]Soldier\\c[0]: There's the escapee!\\. He's in this building!"
+				"\\c[10]Soldier\\c[0]: There's the escapee!\\. He's in this",
+				"building!"
 			]
 		},
 		{
@@ -1830,8 +1224,8 @@
 			"original": "Sedric: Du verstärkst und heilst mich, ich kümmere mich um den Schaden!",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: Du verstärkst und heilst mich, ich kümmere ",
-				"mich um den Schaden!"
+				"\\c[10]Sedric\\c[0]: You,\\. strengthen and heal me,\\.",
+				"I'll take care of the damage!"
 			]
 		},
 		{
@@ -1840,7 +1234,7 @@
 			"original": "Soldat: ...",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: ..."
+				"\\c[10]Soldier\\c[0]: ..."
 			]
 		},
 		{
@@ -1849,8 +1243,8 @@
 			"original": "Kento: Dieser Sedric scheint mir mehr Ausdauer zu haben...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Dieser Sedric scheint mir mehr Ausdauer zu ",
-				"haben..."
+				"\\c[1]\\n[1]\\c[0]: This Sedric guy seems to have more strength",
+				"than the others..."
 			]
 		},
 		{
@@ -1859,8 +1253,8 @@
 			"original": "Kento: Aber sein Gehilfe steht direkt hinter ihm, er kann nicht im Nahkampf angegriffen werden.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Aber sein Gehilfe steht direkt hinter ihm, ",
-				"er kann nicht im Nahkampf angegriffen werden."
+				"\\c[1]\\n[1]\\c[0]: But his partner is right behind him,",
+				"and he can't be attacked in close combat."
 			]
 		},
 		{
@@ -1869,8 +1263,8 @@
 			"original": "Kento: Wir sollten im Verlauf des Kampfes erfahren, welcher zuerst besiegt werden muss.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten im Verlauf des Kampfes ",
-				"erfahren, welcher zuerst besiegt werden muss."
+				"\\c[1]\\n[1]\\c[0]: We'll find out in the course of the",
+				"battle which one has to be taken down first."
 			]
 		},
 		{
@@ -1879,8 +1273,7 @@
 			"original": "Kento: Wir dürfen uns nicht zu lange aufhalten lassen!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir dürfen uns nicht zu lange aufhalten ",
-				"lassen! "
+				"\\c[1]\\n[1]\\c[0]: We can't get caught up in these battles!"
 			]
 		},
 		{
@@ -1889,8 +1282,8 @@
 			"original": "Cibon: Die Gegner so schnell wie möglich überrennen! Alles klar, Kumpel!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Die Gegner so schnell wie möglich ",
-				"überrennen! Alles klar, Kumpel!"
+				"\\c[2]\\n[2]\\c[0]: Got it! Let's take them out as",
+				"soon as possible!"
 			]
 		},
 		{
@@ -1899,8 +1292,8 @@
 			"original": "Kento: Oder einschläfern bzw. paralysieren und dann fliehen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Oder einschläfern bzw. paralysieren und ",
-				"dann fliehen. "
+				"\\c[1]\\n[1]\\c[0]: Or put them to sleep or paralyse them",
+				"and then go."
 			]
 		},
 		{
@@ -1910,9 +1303,10 @@
 			"lines":
 			[
 				"\\>",
-				"\\>INFO: Die Zeit, die dir in den Kämpfen noch ",
-				"\\>bleibt, wird in \\c[11]Zügen\\c[0] dargestellt."
-			]
+				"\\>INFO: The time you have left in these",
+				"\\>battles is shown in \\c[11]turns\\c[0]."
+			],
+			"__comment__": "Zügen seems to be a grammatical error judging by the context and MajinSonicLP's reaction in his Let's Play."
 		},
 		{
 			"path": [25,94,348,3],
@@ -1921,9 +1315,9 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Ein Zug wird verbraucht, wann immer ein beliebiger ",
-				"\\>Kampfteilnehmer angreift."
-			]
+				"\\>A turn is consumed whenever ANY combatant attacks."
+			],
+			"__comment__": "While \"any\" isn't emphasized in the original, I still think it's worth emphasizing."
 		},
 		{
 			"path": [25,94,351,3],
@@ -1932,8 +1326,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Wenn alle Züge verbraucht sind, bist du",
-				"\\>komplett eingeholt und \\c[11]das Spiel ist verloren\\c[0]."
+				"\\>When all turns have been used up, you are",
+				"\\>completely overtaken and \\c[11]the game is lost\\c[0]."
 			]
 		},
 		{
@@ -1943,8 +1337,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Die Anzahl der Züge wird nach diesem Kampf \\c[11]NICHT",
-				"\\>zurückgesetzt\\c[0] - sie gilt für ALLE Kämpfe."
+				"\\>The number of turns is \\c[11]NOT reset\\c[0] after this fight.",
+				"\\>It applies to ALL battles."
 			]
 		},
 		{
@@ -1953,7 +1347,7 @@
 			"original": "- Du hast noch \\v[1863] Züge zur Verfügung -",
 			"lines":
 			[
-				"\\>- Du hast noch \\c[11]\\v[1863]\\c[0] Züge zur Verfügung -"
+				"\\>- You have \\c[11]\\v[1863]\\c[0] turns left -"
 			]
 		},
 		{
@@ -2278,8 +1672,8 @@
 			"original": "Cibon: Kento! ... Ich muss schnell nen Lichtschlag verwenden!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Kento!\\. ...\\. Ich muss schnell",
-				"nen \\c[11]Lichtschlag\\c[0] verwenden!"
+				"\\c[2]\\n[2]:\\c[0] Kento!\\. ...\\.I have to use some",
+				"\\c[11]divine light\\c[0] quickly!"
 			]
 		},
 		{
@@ -2289,8 +1683,8 @@
 			"lines":
 			[
 				"",
-				"Kento ist kampfunfähig! Er kann keine weiteren",
-				"Aktionen ausführen.\\."
+				"Kento is unable to fight! He cannot take any",
+				"further action.\\."
 			]
 		},
 		{
@@ -2300,8 +1694,8 @@
 			"lines":
 			[
 				"",
-				"Ein \\c[11]Lichtschlag\\c[0] kann ihn wieder",
-				"kampffähig machen!\\."
+				"Some \\c[11]divine light\\c[0] can make him",
+				"fight again!\\."
 			]
 		},
 		{
@@ -2311,8 +1705,8 @@
 			"lines":
 			[
 				"\\>",
-				"Du findest den \\c[11]Lichtschlag\\c[0] genau wie den",
-				"Heilsirub bei \\c[11]Gegenstände\\c[0]\\<\\."
+				"You can find the \\c[11]divine light\\c[0] just like the",
+				"heal syrup in \\c[11]items\\c[0]\\<\\."
 			]
 		},
 		{
@@ -2321,8 +1715,8 @@
 			"original": "Kento: Warte Cibon! Ich werfe einen Lichtschlag\"",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Warte Cibon! Ich werfe einen",
-				"\\c[11]Lichtschlag\"\\c[0]"
+				"\\c[1]\\n[1]:\\c[0] Hold on Cibon! I'm throwing some",
+				"\\c[11]divine light\"\\c[0]!"
 			]
 		},
 		{
@@ -2332,8 +1726,8 @@
 			"lines":
 			[
 				"\\>",
-				"Cibon ist kampfunfähig! Er kann keine weiteren",
-				"Aktionen ausführen.\\<\\."
+				"Cibon is unable to fight! He cannot take any",
+				"further action.\\>\\."
 			]
 		},
 		{
@@ -2343,8 +1737,8 @@
 			"lines":
 			[
 				"\\>",
-				"Ein \\c[11]Lichtschlag\\c[0] kann ihn wieder",
-				"kampffähig machen!\\<\\."
+				"Some \\c[11]divine light\\c[0] can make him",
+				"fight again!\\>\\."
 			]
 		},
 		{
@@ -2354,8 +1748,8 @@
 			"lines":
 			[
 				"\\>",
-				"Du findest den \\c[11]Lichtschlag\\c[0] genau wie den",
-				"Heilsirub bei \\c[11]Gegenstände\\c[0]\\<\\."
+				"You can find the \\c[11]divine light\\c[0] just like the",
+				"heal syrup in \\c[11]items\\c[0]\\<\\."
 			]
 		},
 		{
@@ -2520,8 +1914,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>INFO: Ein Kampfteilnehmer ist von dem Zustand ",
-				"\\>\"Verwirrung\" befallen."
+				"\\>INFO: A combatant has been inflicted with the",
+				"\\>\"confusion\" status effect."
 			]
 		},
 		{
@@ -2531,8 +1925,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Verwirrung bewirkt, dass das Opfer bei seiner ",
-				"\\>Aktion unkontrolliert ein zufälliges Ziel angreift."
+				"\\>Confusion causes the victim to uncontrollably",
+				"\\>attack a random target."
 			]
 		},
 		{
@@ -2542,8 +1936,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Wobei die Wahrscheinlichkeit, dass sich das Ziel ",
-				"\\>auf der eigenen Seite befindet, höher ist."
+				"\\>The likelihood that the target attacks their",
+				"\\>own side is higher."
 			]
 		},
 		{
@@ -2553,8 +1947,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Verwirrung vergeht nach einer bestimmten ",
-				"\\>Anzahl von Zügen des Opfers."
+				"\\>Confusion passes after a certain number",
+				"\\>of moves by the victim."
 			]
 		},
 		{
@@ -2564,8 +1958,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Ansonsten kann sie mit Zauber, Items oder ",
-				"\\>einem physischen Treffer \"geheilt\" werden."
+				"\\>Otherwise, it can be cured with spells,",
+				"\\>items, or a physical hit."
 			]
 		},
 		{
@@ -2575,8 +1969,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>INFO: Ein Kampfteilnehmer ist von dem Zustand ",
-				"\\>\"Stummheit\" befallen."
+				"\\>INFO: A combatant has been inflicted with the",
+				"\\>\"silence\" status effect."
 			]
 		},
 		{
@@ -2586,8 +1980,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Stummheit hindert das Opfer daran, jegliche ",
-				"\\>Signum-Technik anzuwenden."
+				"\\>Silence prevents the victim from using",
+				"\\>any Signum technique."
 			]
 		},
 		{
@@ -2597,8 +1991,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Das Anwenden von Spezial-Techniken ist aber ",
-				"\\>nach wie vor möglich."
+				"\\>However, the use of special techniques",
+				"\\>is still possible."
 			]
 		},
 		{
@@ -2608,8 +2002,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Stummheit vergeht mit der Zeit oder lässt sich ",
-				"\\>mit bestimmten Zaubern und Items heilen"
+				"\\>Silence fades over time, but can be cured",
+				"\\>with certain spells and items."
 			]
 		},
 		{
@@ -2619,8 +2013,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>INFO: Ein Kampfteilnehmer ist von dem Zustand ",
-				"\\>\"Vergiftung\" befallen."
+				"\\>INFO: A combatant has been inflicted with the",
+				"\\>\"poison\" status effect."
 			]
 		},
 		{
@@ -2630,8 +2024,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Vergiftung bewirkt jedes Mal, wenn das Opfer",
-				"\\>eine Aktion ausführt, etwas Schaden."
+				"\\>Poison does some damage every time the",
+				"\\>victim performs an action."
 			]
 		},
 		{
@@ -2641,8 +2035,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Die Höhe des Schadens richtet sich nach den ",
-				"\\>maximalen HP des Opfers."
+				"\\>The amount of damage depends on the",
+				"\\>victim's maximum HP."
 			]
 		},
 		{
@@ -2652,8 +2046,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Dieser Schaden kann das Opfer kampfunfähig ",
-				"\\>machen, wenn die HP auf 0 sinken."
+				"\\>This damage can kill the victim if their",
+				"\\>HP drops to 0."
 			]
 		},
 		{
@@ -2663,8 +2057,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Vergiftung vergeht mit der Zeit oder lässt sich ",
-				"\\>mit bestimmten Zaubern und Items heilen."
+				"\\>Poison passes over time, but can be cured with",
+				"\\>certain spells and items."
 			]
 		},
 		{
@@ -2674,8 +2068,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>INFO: Ein Kampfteilnehmer ist von dem Zustand ",
-				"\\>\"Schlaf\" befallen."
+				"\\>INFO: A combatant has been inflicted with the",
+				"\\>\"sleep\" status effect."
 			]
 		},
 		{
@@ -2685,8 +2079,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Schlaf bewirkt, dass das Opfer keine Aktionen ",
-				"\\>mehr ausführen kann."
+				"\\>Sleep causes the victim to be unable to",
+				"\\>take any action."
 			]
 		},
 		{
@@ -2696,8 +2090,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Wird das Opfer physisch getroffen, besteht eine ",
-				"\\>hohe Chance, dass der Zustand verschwindet."
+				"\\>If the victim is physically hit, there is a high",
+				"\\>chance that the condition will disappear."
 			]
 		},
 		{
@@ -2707,8 +2101,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Ansonsten vergeht er mit der Zeit oder lässt sich ",
-				"\\>mit bestimmten Zaubern und Items heilen."
+				"\\>Otherwise, it passes over time, but can be cured",
+				"\\>with certain spells and items."
 			]
 		},
 		{
@@ -2718,8 +2112,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>INFO: Ein Kampfteilnehmer ist von dem Zustand ",
-				"\\>\"Blendung\" befallen."
+				"\\>INFO: A combatant has been inflicted with the",
+				"\\>\"glare\" status effect."
 			]
 		},
 		{
@@ -2729,8 +2123,7 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Blendung senkt die Trefferquote des Opfers ",
-				"\\>radikal."
+				"\\>Glare drastically lowers the victim's accuracy."
 			]
 		},
 		{
@@ -2740,8 +2133,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Aber Achtung: Nicht alle Techniken stehen unter ",
-				"\\>dem Einfluss dieses Zustandes."
+				"\\>But be careful: Not all techniques are affected",
+				"\\>by this condition."
 			]
 		},
 		{
@@ -2751,8 +2144,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Signum-Zauber und manche Spezial-Techniken treffen ",
-				"\\>trotz Blendung mit gleicher Wahrscheinlichkeit."
+				"\\>Signum spells and some special techniques hit with",
+				"\\>the same accuracy despite the glare status effect."
 			]
 		},
 		{
@@ -2762,8 +2155,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Blendung vergeht mit der Zeit oder lässt sich ",
-				"\\>mit bestimmten Zaubern und Items heilen."
+				"\\>Glare passes over time, but can be cured with",
+				"\\>certain spells and items."
 			]
 		},
 		{
@@ -2773,8 +2166,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>INFO: Ein Kampfteilnehmer ist von dem Zustand ",
-				"\\>\"Paralyse\" befallen."
+				"\\>INFO: A combatant has been inflicted with the",
+				"\\>\"paralysis\" status effect."
 			]
 		},
 		{
@@ -2784,8 +2177,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Paralyse lässt die Aktionen des Opfers mit einer ",
-				"\\>bestimmten Wahrscheinlichkeit ausfallen."
+				"\\>Paralysis makes the victim's actions unlikely",
+				"\\>to happen."
 			]
 		},
 		{
@@ -2795,8 +2188,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Man kann zwar die Aktion auswählen, ob sie ",
-				"\\>aber auch ausgeführt wird, hängt vom Zufall ab."
+				"\\>You can choose the action, but whether or",
+				"\\>not it is carried out depends on chance."
 			]
 		},
 		{
@@ -2806,8 +2199,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Wird das Opfer physisch getroffen, besteht eine ",
-				"\\>geringe Chance, dass der Zustand verschwindet."
+				"\\>If the victim is physically hit, there is little",
+				"\\>chance that the condition will disappear."
 			]
 		},
 		{
@@ -2817,8 +2210,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Paralyse vergeht mit der Zeit oder lässt sich ",
-				"\\>mit bestimmten Zaubern und Items heilen."
+				"\\>Paralysis passes over time, but can be cured with",
+				"\\>certain spells and items."
 			]
 		},
 		{
@@ -2828,8 +2221,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>INFO: Achtung! Dieser Gegner besitzt einen",
-				"\\>Schutzschild."
+				"\\>INFO: Attention! This enemy has a protective",
+				"\\>shield."
 			]
 		},
 		{
@@ -2839,8 +2232,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Schutzschilder können physischen und/oder ",
-				"\\>magischen Schaden stark reduzieren."
+				"\\>Shields can greatly reduce physical and/or",
+				"\\>magical damage."
 			]
 		},
 		{
@@ -2850,8 +2243,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Allerdings kann jeder Schutzschild durch einen ",
-				"\\>oder mehrere passende Treffer gebrochen werden."
+				"\\>However, each protective shield can be broken",
+				"\\>by one or more matching hits."
 			]
 		},
 		{
@@ -2861,8 +2254,8 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Welche Art von Treffer den Schild brechen lässt, ",
-				"\\>muss hierbei herausgefunden werden."
+				"\\>The type of hit that breaks the shield must",
+				"\\>be found."
 			]
 		},
 		{
@@ -2872,7 +2265,7 @@
 			"lines":
 			[
 				"\\>",
-				"\\>Eine magische Lupe kann hierbei helfen!"
+				"\\>Some magic lens can help!"
 			]
 		},
 		{
@@ -2993,8 +2386,8 @@
 			"original": "Soldat: Genau diese Situation hab ich kommen sehen, heilige Scheiße!",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: Genau diese Situation hab ich kommen ",
-				"sehen, heilige Scheiße!"
+				"\\c[10]Soldier\\c[0]: That's exactly what I saw coming,\\.",
+				"holy shit!"
 			]
 		},
 		{
@@ -3003,7 +2396,7 @@
 			"original": "Sedric: Tsk, der Kampf ist noch nicht entschieden!",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: Tsk,\\. der Kampf ist noch nicht entschieden!"
+				"\\c[10]Sedric\\c[0]: Tsk,\\. the battle isn't over yet!"
 			]
 		},
 		{
@@ -3012,8 +2405,8 @@
 			"original": "Verstärkung ist eingetroffen. Ihr seid umzingelt.",
 			"lines":
 			[
-				"Verstärkung ist eingetroffen. ",
-				"Ihr seid umzingelt."
+				"Reinforcements have arrived.\\.",
+				"You are surrounded."
 			]
 		},
 		{
@@ -3022,7 +2415,7 @@
 			"original": "- Du hast noch \\v[1863] Züge zur Verfügung -",
 			"lines":
 			[
-				"\\>- Du hast noch \\c[11]\\v[1863]\\c[0] Züge zur Verfügung -"
+				"\\>- You have \\c[11]\\v[1863]\\c[0] turns left -"
 			]
 		},
 		{
@@ -3031,7 +2424,7 @@
 			"original": "Cibon: Nichts wie weg hier!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Nichts wie weg hier!"
+				"\\c[2]\\n[2]\\c[0]: Let's get outta here!"
 			]
 		},
 		{
@@ -3040,7 +2433,7 @@
 			"original": "Kento: Fliehen, sofort!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Fliehen, sofort!"
+				"\\c[1]\\n[1]\\c[0]: Run for it!"
 			]
 		},
 		{
@@ -3049,7 +2442,7 @@
 			"original": "Soko: Jetzt können wir fliehen!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Jetzt können wir fliehen!"
+				"\\c[13]\\n[3]\\c[0]: We can escape!\\. Now!"
 			]
 		},
 		{
@@ -3353,7 +2746,7 @@
 			"original": "Genyu: Wir werden noch reden, mein Junge!",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: We'll talk again, my son!"
+				"\\c[4]\\n[4]\\c[0]: We shall meet again, my son!"
 			]
 		},
 		{
@@ -3372,7 +2765,7 @@
 			"original": "Kento: DU WIRST MICH NICHT UNTERKRIEGEN! NIEMALS!",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: YOU WILL NEVER TAKE ME DOWN!\\. EVER!"
+				"\\c[1]Kento\\c[0]: YOU WILL NEVER TAKE ME DOWN WITH YOU!\\. EVER!"
 			]
 		},
 		{
@@ -3609,8 +3002,8 @@
 			"lines":
 			[
 				"\\>",
-				"Since Cibon now has \\c[11]2 SP\\c[0] (the points under his name),",
-				"he can use a \\c[11]special ability\\c[0].\\<\\."
+				"Since Cibon now has \\c[11]2 SP\\c[0] (the points under his",
+				"name), he can use a \\c[11]special ability\\c[0].\\<\\."
 			]
 		},
 		{
@@ -3708,7 +3101,7 @@
 			"original": "Soldaten: Jawohl, Sir!",
 			"lines":
 			[
-				"\\c[1]Soldaten:\\c[0] Yes, sir!"
+				"\\c[1]Soldiers:\\c[0] Yes, sir!"
 			]
 		},
 		{
@@ -3785,7 +3178,7 @@
 			"original": "Wollen Sie für \\v[328] Fejar übernachten?",
 			"lines":
 			[
-				"\\>\\$Wollen Sie für \\v[328] \\n[19] übernachten?"
+				"\\>\\$Do you want to stay for \\v[328] \\n[19]?"
 			]
 		},
 		{
@@ -3794,7 +3187,7 @@
 			"original": "Wollen Sie für \\v[328] Fejar übernachten?",
 			"lines":
 			[
-				"\\>\\$Wollen Sie für \\v[328] \\n[19] übernachten?"
+				"\\>\\$Do you want to stay for \\v[328] \\n[19]?"
 			]
 		},
 		{
@@ -3803,8 +3196,7 @@
 			"original": "Cibon: Du willst also handeln, Kumpel?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Du willst also handeln, ",
-				"Kumpel?"
+				"\\c[2]\\n[2]\\c[0]: So you want to trade, Kento?"
 			]
 		},
 		{
@@ -3813,8 +3205,8 @@
 			"original": "Cibon: Brauchste eine Erklärung, oder weißt du schon Bescheit?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Brauchste eine Erklärung, ",
-				"oder weißt du schon Bescheit?"
+				"\\c[2]\\n[2]\\c[0]: Do you need an explanation,",
+				"or do you already know what to do?"
 			]
 		},
 		{
@@ -3824,8 +3216,8 @@
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Okay!\\.",
-				"Also was du hier siehst, ist das ",
-				"Handel-Menu.\\. So komplex ist's nicht. "
+				"So what you see here is the trading",
+				"menu.\\. It's not that complicated."
 			]
 		},
 		{
@@ -3834,8 +3226,8 @@
 			"original": "Cibon: Ganz oben sieht man das Item, das man hier erhalten kann.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ganz oben sieht man das ",
-				"Item, das man hier erhalten kann."
+				"\\c[2]\\n[2]\\c[0]: At the top you can see",
+				"the item that you can get here."
 			]
 		},
 		{
@@ -3844,9 +3236,9 @@
 			"original": "Cibon: Darunter sind die Items aufgelistet, die du für das obere Item eintauschen musst.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Darunter sind die Items ",
-				"aufgelistet, die du für das obere Item ",
-				"eintauschen musst. "
+				"\\c[2]\\n[2]\\c[0]: Below that are the items",
+				"that you have to exchange for the",
+				"item at the top."
 			]
 		},
 		{
@@ -3855,10 +3247,10 @@
 			"original": "Cibon: Daneben siehste noch wie oft du das jeweilige Item benötigst. Bis zu drei verschiedene Items können verlangt werden.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Daneben siehste noch wie oft ",
-				"du das jeweilige Item benötigst. Bis ",
-				"zu drei verschiedene Items können ",
-				"verlangt werden."
+				"\\c[2]\\n[2]\\c[0]: You can also see how",
+				"much you need of each item. Up to",
+				"three different items can be",
+				"requested."
 			]
 		},
 		{
@@ -3867,10 +3259,9 @@
 			"original": "Cibon: Sollteste von einem Item nicht genug haben, um's hier einzutauschen, wird es grau angezeigt.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Sollteste von einem Item nicht ",
-				"genug haben, um's hier ",
-				"einzutauschen, wird es grau ",
-				"angezeigt."
+				"\\c[2]\\n[2]\\c[0]: If you don't have enough",
+				"of an item to trade it here,",
+				"it will be displayed in gray."
 			]
 		},
 		{
@@ -3879,10 +3270,10 @@
 			"original": "Cibon: Außerdem kannste mit dem Cursor über jedes angezeigte Item gehen und nachsehen, wie oft du's im Inventar hast.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Außerdem kannste mit dem ",
-				"Cursor über jedes angezeigte Item ",
-				"gehen und nachsehen, wie oft du's im ",
-				"Inventar hast."
+				"\\c[2]\\n[2]\\c[0]: You can also move the",
+				"cursor over each item displayed",
+				"and see how much of each you",
+				"have in your inventory."
 			]
 		},
 		{
@@ -3891,10 +3282,9 @@
 			"original": "Cibon: Der Tausch kann NUR DANN vollzogen werden, wenn du von jedem Item genug Exemplare bei dir trägst.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Der Tausch kann NUR DANN ",
-				"vollzogen werden, wenn du von ",
-				"jedem Item genug Exemplare bei dir ",
-				"trägst. "
+				"\\c[2]\\n[2]\\c[0]: The trade can ONLY be carried",
+				"out if you have the right amount",
+				"of each item with you."
 			]
 		},
 		{
@@ -3903,9 +3293,9 @@
 			"original": "Cibon: Um nun zu tauschen musste \"Kaufen\" wählen. Dann ändert sich die Anzeige wie folgt:",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Um nun zu tauschen musste ",
-				"\"Kaufen\" wählen. Dann ändert sich ",
-				"die Anzeige wie folgt:"
+				"\\c[2]\\n[2]\\c[0]: In order to trade, you",
+				"have to select \"Trade\". Then the",
+				"display changes as follows:"
 			]
 		},
 		{
@@ -3914,10 +3304,10 @@
 			"original": "Cibon: JEDESMAL wenn du jetzt Enter drückst, wird der Tausch einmal vollzogen. Drücke Esc wenn du genug getauscht hast.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: JEDESMAL wenn du jetzt ",
-				"Enter drückst, wird der Tausch ",
-				"einmal vollzogen. Drücke Esc wenn ",
-				"du genug getauscht hast."
+				"\\c[2]\\n[2]\\c[0]: EVERY time you press",
+				"Enter, the trade will be made",
+				"once. Press Esc when you've",
+				"traded enough."
 			]
 		},
 		{
@@ -3926,9 +3316,8 @@
 			"original": "Cibon: Nach jedem vollzogenen Tausch wird zudem die Anzeige aktualisiert.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Nach jedem vollzogenen ",
-				"Tausch wird zudem die Anzeige ",
-				"aktualisiert."
+				"\\c[2]\\n[2]\\c[0]: The display is also",
+				"updated after each trade."
 			]
 		},
 		{
@@ -3937,9 +3326,9 @@
 			"original": "Cibon: So kannste sehen, ob du genug Items für einen weiteren Tausch hast.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: So kannste sehen, ob du ",
-				"genug Items für einen weiteren ",
-				"Tausch hast."
+				"\\c[2]\\n[2]\\c[0]: So you can see if you",
+				"have enough items for another",
+				"exchange."
 			]
 		},
 		{
@@ -3948,8 +3337,7 @@
 			"original": "Cibon: Mehr gibt's dann hierzu nicht zu sagen...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Mehr gibt's dann hierzu nicht ",
-				"zu sagen..."
+				"\\c[2]\\n[2]\\c[0]: There's nothing more to say..."
 			]
 		},
 		{
@@ -3958,10 +3346,10 @@
 			"original": "Cibon: Aber achte bitte darauf, dass du unsere Handelsgegenstände nicht für irgend nen Mist vertauschst. Vergleiche am besten alle Angebote!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Aber achte bitte darauf, dass ",
-				"du unsere Handelsgegenstände nicht ",
-				"für irgend nen Mist vertauschst.",
-				"Vergleiche am besten alle Angebote!"
+				"\\c[2]\\n[2]\\c[0]: But please make sure that",
+				"you don't trade our items for some",
+				"crap. Compare all offers for",
+				"the best!"
 			]
 		},
 		{
@@ -3970,7 +3358,7 @@
 			"original": "Cibon: Viel Spass beim Tauschen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Viel Spass beim Tauschen!"
+				"\\c[2]\\n[2]\\c[0]: Have fun trading!"
 			]
 		},
 		{
@@ -3979,7 +3367,7 @@
 			"original": "Cibon: Tja, dann...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Tja, dann..."
+				"\\c[2]\\n[2]\\c[0]: Well then..."
 			]
 		},
 		{
@@ -3998,10 +3386,9 @@
 			"original": "(Kento: Es macht nicht sonderlich viel Sinn, jetzt noch Erz abzubauen. Wir werden es eh nicht mehr abgeben können.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Es macht nicht sonderlich ",
-				"viel Sinn, jetzt noch Erz abzubauen. ",
-				"Wir werden es eh nicht mehr abgeben ",
-				"können.)"
+				"(\\c[1]\\n[1]\\c[0]: It doesn't make much sense",
+				"to mine ore now. We won't be able",
+				"to deliver it anyway.)"
 			]
 		},
 		{
@@ -4718,7 +4105,8 @@
 				"\\>\\c[\\v[81]]\\n[30]\\v[95]  \\c[\\v[82]]\\n[31]\\v[102]  \\c[\\v[83]]\\n[32]\\v[109]  \\c[\\v[84]]\\n[33]\\v[116]",
 				"\\>\\c[0]\\n[34]\\n[35]",
 				"\\>\\c[3](\\n[36]\\c[3]\\n[37]\\c[3]\\n[38]\\c[3]\\n[39]\\c[3]\\n[40]\\c[3]\\n[41]\\c[3]\\n[42])"
-			]
+			],
+			"__comment__": "Appears in the magic lens?"
 		},
 		{
 			"path": [25,211,322,2],
@@ -4729,7 +4117,668 @@
 				"",
 				"\\>         - Keine weiteren Informationen -"
 			],
-			"__comment__": "Appears in the magic lens."
+			"__comment__": "Appears when you inspect an item in the trading menu and there's nothing special about it."
+		}
+	],
+	"other":
+	[
+		{
+			"path": [25,145,6],
+			"original": "\\>\\c[3]Ja, gerne\\c[0]/\\>Nein, danke",
+			"patch": "\\>\\c[3]Yes please\\c[0]/\\>No thanks"
+		},
+		{
+			"path": [25,145,7],
+			"original": "\\>\\c[3]Ja, gerne\\c[0]",
+			"patch": "\\>\\c[3]Yes please\\c[0]"
+		},
+		{
+			"path": [25,145,11],
+			"original": "\\>Nein, danke",
+			"patch": "\\>No thanks"
+		},
+		{
+			"path": [25,145,14],
+			"original": "",
+			"patch": ""
+		},
+		{
+			"path": [25,145,20],
+			"original": "\\>Ja, gerne/\\>Nein, danke",
+			"patch": "\\>Yes please/\\>No thanks"
+		},
+		{
+			"path": [25,145,21],
+			"original": "\\>Ja, gerne",
+			"patch": "\\>Yes please"
+		},
+		{
+			"path": [25,145,25],
+			"original": "\\>Nein, danke",
+			"patch": "\\>No thanks"
+		},
+		{
+			"path": [25,145,28],
+			"original": "",
+			"patch": ""
+		},
+		{
+			"path": [25,152,105],
+			"original": "Sag mir, wie es geht!/Nein, ich weiß schon Bescheid.",
+			"patch": "Tell me how to do it!/No, I already know how."
+		},
+		{
+			"path": [25,152,106],
+			"original": "Sag mir, wie es geht!",
+			"patch": "Tell me how to do it!"
+		},
+		{
+			"path": [25,152,165],
+			"original": "Nein, ich weiß schon Bescheid.",
+			"patch": "No, I already know how."
+		}
+	],
+	"vocabulary":
+	[
+		{
+			"path": [21,1],
+			"original": " emerges!",
+			"patch": " emerges!"
+		},
+		{
+			"path": [21,2],
+			"original": " Pre-emptive attack",
+			"patch": " Pre-emptive attack"
+		},
+		{
+			"path": [21,3],
+			"original": " You ran away safely!",
+			"patch": " You ran away safely!"
+		},
+		{
+			"path": [21,4],
+			"original": " You Failed to escape...",
+			"patch": " You Failed to escape..."
+		},
+		{
+			"path": [21,5],
+			"original": " You won a combat!",
+			"patch": " You won a combat!"
+		},
+		{
+			"path": [21,6],
+			"original": " Your Party has Perished",
+			"patch": " Your Party has Perished"
+		},
+		{
+			"path": [21,7],
+			"original": " EXP",
+			"patch": " EXP"
+		},
+		{
+			"path": [21,8],
+			"original": " You found",
+			"patch": " You found"
+		},
+		{
+			"path": [21,9],
+			"original": " money!",
+			"patch": " money!"
+		},
+		{
+			"path": [21,10],
+			"original": " recieved!",
+			"patch": " recieved!"
+		},
+		{
+			"path": [21,11],
+			"original": " attacks the enemy",
+			"patch": " attacks the enemy"
+		},
+		{
+			"path": [21,12],
+			"original": " A critical hit!",
+			"patch": " A critical hit!"
+		},
+		{
+			"path": [21,13],
+			"original": " A critical blow!",
+			"patch": " A critical blow!"
+		},
+		{
+			"path": [21,14],
+			"original": " defends.",
+			"patch": " defends."
+		},
+		{
+			"path": [21,15],
+			"original": " is waiting and watching.",
+			"patch": " is waiting and watching."
+		},
+		{
+			"path": [21,16],
+			"original": " is building strength.",
+			"patch": " is building strength."
+		},
+		{
+			"path": [21,17],
+			"original": " pounces.",
+			"patch": " pounces."
+		},
+		{
+			"path": [21,18],
+			"original": " runs away!",
+			"patch": " runs away!"
+		},
+		{
+			"path": [21,19],
+			"original": " transforms.",
+			"patch": " transforms."
+		},
+		{
+			"path": [21,20],
+			"original": " hp is lost",
+			"patch": " hp is lost"
+		},
+		{
+			"path": [21,21],
+			"original": " misses",
+			"patch": " misses"
+		},
+		{
+			"path": [21,22],
+			"original": " hp is lost",
+			"patch": " hp is lost"
+		},
+		{
+			"path": [21,23],
+			"original": " misses",
+			"patch": " misses"
+		},
+		{
+			"path": [21,24],
+			"original": " Failed",
+			"patch": " Failed"
+		},
+		{
+			"path": [21,25],
+			"original": " Failed",
+			"patch": " Failed"
+		},
+		{
+			"path": [21,26],
+			"original": " Failed",
+			"patch": " Failed"
+		},
+		{
+			"path": [21,27],
+			"original": " dodges",
+			"patch": " dodges"
+		},
+		{
+			"path": [21,28],
+			"original": "uses",
+			"patch": "uses"
+		},
+		{
+			"path": [21,29],
+			"original": " Recovered",
+			"patch": " Recovered"
+		},
+		{
+			"path": [21,30],
+			"original": " ",
+			"patch": " "
+		},
+		{
+			"path": [21,31],
+			"original": null,
+			"patch": null
+		},
+		{
+			"path": [21,32],
+			"original": null,
+			"patch": null
+		},
+		{
+			"path": [21,33],
+			"original": null,
+			"patch": null
+		},
+		{
+			"path": [21,34],
+			"original": "Defense increases!",
+			"patch": "Defense increases!"
+		},
+		{
+			"path": [21,35],
+			"original": "Defense Decreases!",
+			"patch": "Defense Decreases!"
+		},
+		{
+			"path": [21,36],
+			"original": "Raised a level!",
+			"patch": "Raised a level!"
+		},
+		{
+			"path": [21,37],
+			"original": "Acquired",
+			"patch": "Acquired"
+		},
+		{
+			"path": [21,41],
+			"original": "How can I help you?",
+			"patch": "How can I help you?"
+		},
+		{
+			"path": [21,42],
+			"original": "Hurry up and buy!!!",
+			"patch": "Hurry up and buy!!!"
+		},
+		{
+			"path": [21,43],
+			"original": " Buy",
+			"patch": " Buy"
+		},
+		{
+			"path": [21,44],
+			"original": " Sell",
+			"patch": " Sell"
+		},
+		{
+			"path": [21,45],
+			"original": " Leave",
+			"patch": " Leave"
+		},
+		{
+			"path": [21,46],
+			"original": " What do you want to buy?",
+			"patch": " What do you want to buy?"
+		},
+		{
+			"path": [21,47],
+			"original": " How Many",
+			"patch": " How Many"
+		},
+		{
+			"path": [21,48],
+			"original": " Done",
+			"patch": " Done"
+		},
+		{
+			"path": [21,49],
+			"original": " What do you wish to sell?",
+			"patch": " What do you wish to sell?"
+		},
+		{
+			"path": [21,50],
+			"original": " How many",
+			"patch": " How many"
+		},
+		{
+			"path": [21,51],
+			"original": " Thank you!",
+			"patch": " Thank you!"
+		},
+		{
+			"path": [21,54],
+			"original": "Hurry up would you please!",
+			"patch": "Hurry up would you please!"
+		},
+		{
+			"path": [21,55],
+			"original": "Hurry up already!!!",
+			"patch": "Hurry up already!!!"
+		},
+		{
+			"path": [21,56],
+			"original": "Buy",
+			"patch": "Buy"
+		},
+		{
+			"path": [21,57],
+			"original": "Sell",
+			"patch": "Sell"
+		},
+		{
+			"path": [21,58],
+			"original": "Leave",
+			"patch": "Leave"
+		},
+		{
+			"path": [21,59],
+			"original": "Bought",
+			"patch": "Bought"
+		},
+		{
+			"path": [21,60],
+			"original": "How Many",
+			"patch": "How Many"
+		},
+		{
+			"path": [21,61],
+			"original": "Done",
+			"patch": "Done"
+		},
+		{
+			"path": [21,62],
+			"original": "Sold",
+			"patch": "Sold"
+		},
+		{
+			"path": [21,63],
+			"original": "How many",
+			"patch": "How many"
+		},
+		{
+			"path": [21,64],
+			"original": "Go now!",
+			"patch": "Go now!"
+		},
+		{
+			"path": [21,67],
+			"original": "Good day!",
+			"patch": "Good day!"
+		},
+		{
+			"path": [21,68],
+			"original": "I dont have all day you know!!!!",
+			"patch": "I dont have all day you know!!!!"
+		},
+		{
+			"path": [21,69],
+			"original": "BUY",
+			"patch": "BUY"
+		},
+		{
+			"path": [21,70],
+			"original": "SELL",
+			"patch": "SELL"
+		},
+		{
+			"path": [21,71],
+			"original": "GO HOME",
+			"patch": "GO HOME"
+		},
+		{
+			"path": [21,72],
+			"original": "Bought",
+			"patch": "Bought"
+		},
+		{
+			"path": [21,73],
+			"original": "How much?",
+			"patch": "How much?"
+		},
+		{
+			"path": [21,74],
+			"original": "Done",
+			"patch": "Done"
+		},
+		{
+			"path": [21,75],
+			"original": "Sold",
+			"patch": "Sold"
+		},
+		{
+			"path": [21,76],
+			"original": "How many?",
+			"patch": "How many?"
+		},
+		{
+			"path": [21,77],
+			"original": "Thanx!",
+			"patch": "Thanx!"
+		},
+		{
+			"path": [21,80],
+			"original": "Only",
+			"patch": "Only"
+		},
+		{
+			"path": [21,81],
+			"original": " to rest here",
+			"patch": " to rest here"
+		},
+		{
+			"path": [21,82],
+			"original": "Do you wish to rest here?",
+			"patch": "Do you wish to rest here?"
+		},
+		{
+			"path": [21,83],
+			"original": "Yes",
+			"patch": "Yes"
+		},
+		{
+			"path": [21,84],
+			"original": "No",
+			"patch": "No"
+		},
+		{
+			"path": [21,85],
+			"original": "Its only",
+			"patch": "Its only"
+		},
+		{
+			"path": [21,86],
+			"original": " for the night",
+			"patch": " for the night"
+		},
+		{
+			"path": [21,87],
+			"original": "Do you wish to stay here for the night?",
+			"patch": "Do you wish to stay here for the night?"
+		},
+		{
+			"path": [21,88],
+			"original": "Yes",
+			"patch": "Yes"
+		},
+		{
+			"path": [21,89],
+			"original": "No",
+			"patch": "No"
+		},
+		{
+			"path": [21,92],
+			"original": "Owned Items",
+			"patch": "Owned Items"
+		},
+		{
+			"path": [21,93],
+			"original": "Equipped Items",
+			"patch": "Equipped Items"
+		},
+		{
+			"path": [21,95],
+			"original": "Fejar",
+			"patch": "Fejar"
+		},
+		{
+			"path": [21,101],
+			"original": "Fight",
+			"patch": "Fight"
+		},
+		{
+			"path": [21,102],
+			"original": "AutoBattle",
+			"patch": "AutoBattle"
+		},
+		{
+			"path": [21,103],
+			"original": "Run away",
+			"patch": "Run away"
+		},
+		{
+			"path": [21,104],
+			"original": "Attack",
+			"patch": "Attack"
+		},
+		{
+			"path": [21,105],
+			"original": "Defense",
+			"patch": "Defense"
+		},
+		{
+			"path": [21,106],
+			"original": "Item",
+			"patch": "Item"
+		},
+		{
+			"path": [21,107],
+			"original": "Tech Skill",
+			"patch": "Tech Skill"
+		},
+		{
+			"path": [21,108],
+			"original": "Equipment",
+			"patch": "Equipment"
+		},
+		{
+			"path": [21,110],
+			"original": "Save",
+			"patch": "Save"
+		},
+		{
+			"path": [21,112],
+			"original": "End Game",
+			"patch": "End Game"
+		},
+		{
+			"path": [21,114],
+			"original": "Start",
+			"patch": "Start"
+		},
+		{
+			"path": [21,115],
+			"original": "Laden",
+			"patch": "Load"
+		},
+		{
+			"path": [21,117],
+			"original": "Ende",
+			"patch": "End"
+		},
+		{
+			"path": [21,123],
+			"original": "Kapitel",
+			"patch": "Chapter"
+		},
+		{
+			"path": [21,124],
+			"original": "HP",
+			"patch": "HP"
+		},
+		{
+			"path": [21,125],
+			"original": "MP",
+			"patch": "MP"
+		},
+		{
+			"path": [21,126],
+			"original": "Normal",
+			"patch": "Normal"
+		},
+		{
+			"path": [21,127],
+			"original": "Ex",
+			"patch": "Ex"
+		},
+		{
+			"path": [21,128],
+			"original": "ID",
+			"patch": "ID"
+		},
+		{
+			"path": [21,129],
+			"original": "Lv",
+			"patch": "Lv"
+		},
+		{
+			"path": [21,130],
+			"original": "M",
+			"patch": "M"
+		},
+		{
+			"path": [21,131],
+			"original": "Cost",
+			"patch": "Cost"
+		},
+		{
+			"path": [21,132],
+			"original": "Attack",
+			"patch": "Attack"
+		},
+		{
+			"path": [21,133],
+			"original": "Defence",
+			"patch": "Defense"
+		},
+		{
+			"path": [21,134],
+			"original": "Mental",
+			"patch": "Mental"
+		},
+		{
+			"path": [21,135],
+			"original": "Ability",
+			"patch": "Ability"
+		},
+		{
+			"path": [21,136],
+			"original": "Waffe",
+			"patch": "Weapon"
+		},
+		{
+			"path": [21,137],
+			"original": "Armband",
+			"patch": "Armband"
+		},
+		{
+			"path": [21,138],
+			"original": "Rüstung",
+			"patch": "Armor"
+		},
+		{
+			"path": [21,139],
+			"original": "Helm",
+			"patch": "Helm"
+		},
+		{
+			"path": [21,140],
+			"original": "Zusatz",
+			"patch": "Misc"
+		},
+		{
+			"path": [21,146],
+			"original": "Wo soll gespeichert werden?",
+			"patch": "Which file do you want to save to?"
+		},
+		{
+			"path": [21,147],
+			"original": "Welcher Spielstand soll geladen werden?",
+			"patch": "Which save file do you want to load?"
+		},
+		{
+			"path": [21,148],
+			"original": "Spielstand",
+			"patch": "Save"
+		},
+		{
+			"path": [21,151],
+			"original": "Wollen Sie das Spiel beenden?",
+			"patch": "Do you want to quit the game?"
+		},
+		{
+			"path": [21,152],
+			"original": "Ja",
+			"patch": "Yes"
+		},
+		{
+			"path": [21,153],
+			"original": "Nein",
+			"patch": "No"
 		}
 	]
 }

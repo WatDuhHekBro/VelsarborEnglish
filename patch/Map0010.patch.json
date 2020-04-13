@@ -1,0 +1,470 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [13,24,24,1],
+			"indent": 1,
+			"original": "meep",
+			"lines":
+			[
+				"meep"
+			]
+		},
+		{
+			"path": [140,2,6,3],
+			"indent": 1,
+			"original": "Sir Vorento: Wenn Sie etwas an ihrer Element- Kopplung ändern wollen, müssen Sie zum Menu-Punkt Elemente wechseln.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: If you want to change something",
+				"in your element couplings, you have to",
+				"switch to the menu option: \\c[11]Elements\\c[0]."
+			]
+		},
+		{
+			"path": [140,2,39,2],
+			"indent": 1,
+			"original": "Sir Vorento: Nun eine Erklärung der Element-Level.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Now for an explanation",
+				"of \\c[11]element levels\\c[0]."
+			]
+		},
+		{
+			"path": [140,2,41,1],
+			"indent": 1,
+			"original": "Punkt 1: Was sind Element-Level?",
+			"lines":
+			[
+				"\\c[13]Point #1: What are element levels?"
+			]
+		},
+		{
+			"path": [140,2,42,2],
+			"indent": 1,
+			"original": "Sir Vorento: Es gibt Elemente Feuer, Wasser, Erde, Wind, Licht und Schatten.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: There are six elements:",
+				"\\c[11]fire, water, earth, wind, light, and shadow."
+			]
+		},
+		{
+			"path": [140,2,44,3],
+			"indent": 1,
+			"original": "Sir Vorento: Jedes dieser Elemente hat 2 Element-Level, welche für die Fähigkeiten mit den Umgang dieser Elemente stehen.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Each of these elements has",
+				"\\c[11]two levels\\c[0], which stand for the skills",
+				"from handling these elements."
+			]
+		},
+		{
+			"path": [140,2,58,2],
+			"indent": 1,
+			"original": "Sir Vorento: Das offensive Element-Level...",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: The \\c[11]offensive\\c[0] level..."
+			]
+		},
+		{
+			"path": [140,2,70,2],
+			"indent": 1,
+			"original": "Sir Vorento: ...und das defensive Element-Level.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: ...and the \\c[11]defensive\\c[0] level."
+			]
+		},
+		{
+			"path": [140,2,83,2],
+			"indent": 1,
+			"original": "Punkt 2: Was bewirkt das Steigern dieser Element-Level?",
+			"lines":
+			[
+				"\\c[13]Point #2: What is the effect of",
+				"increasing these levels?"
+			]
+		},
+		{
+			"path": [140,2,85,3],
+			"indent": 1,
+			"original": "Sir Vorento: Durch das Steigern dieser Element- Level lernt man Signum-Techniken und verbessert den Umgang mit diesen Techniken.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: By increasing these levels, you",
+				"learn \\c[11]Signum techniques\\c[0] and \\c[11]improve",
+				"the handling\\c[0] of these techniques."
+			]
+		},
+		{
+			"path": [140,2,88,3],
+			"indent": 1,
+			"original": "Sir Vorento: Das Steigern der offensiven Element- Level führt zur Meisterung von \"Gefechts-Signum\" - offensiven Signum-Techniken.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Increasing the offensive levels",
+				"leads to mastery of the \\c[11]\"Battle Signums\"\\c[0] - ",
+				"offensive Signum techniques."
+			]
+		},
+		{
+			"path": [140,2,91,3],
+			"indent": 1,
+			"original": "Sir Vorento: Das Steigern der defensiven Element- Level führt zur Meisterung von \"Haltungs-Signum\" - defensiven Signum-Techniken.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Increasing the defensive levels",
+				"leads to mastery of the \\c[11]\"Auxiliary Signums\"\\c[0] - ",
+				"defensive Signum techniques."
+			]
+		},
+		{
+			"path": [140,2,94,1],
+			"indent": 1,
+			"original": "Punkt 3: Wie werden Element-Level gesteigert?",
+			"lines":
+			[
+				"\\c[13]Point #3: How are element levels increased?"
+			]
+		},
+		{
+			"path": [140,2,95,2],
+			"indent": 1,
+			"original": "Sir Vorento: Durch das Einkoppeln von Element-Kugeln ...",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: By coupling element orbs..."
+			]
+		},
+		{
+			"path": [140,2,111,2],
+			"indent": 1,
+			"original": "Sir Vorento: ...in die Wölbungen der Waffe...",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: ...into the \\c[11]hinges of a",
+				"weapon\\c[0]..."
+			]
+		},
+		{
+			"path": [140,2,135,2],
+			"indent": 1,
+			"original": "Sir Vorento: ... oder in die Wölbungen des Armbandes.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: ...or into the \\c[11]arches of an",
+				"armband\\c[0]."
+			]
+		},
+		{
+			"path": [140,2,146,3],
+			"indent": 1,
+			"original": "Sir Vorento: Sind Element-Kugeln eingekoppelt, wird ein Teil der Erfahrung, die man am Ende des Kampfes erlangt, auf die Element-Level übertragen.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: If these orbs are coupled in, \\c[11]part",
+				"of the experience\\c[0] gained at the end of a battle",
+				"is \\c[11]transferred to the element levels\\c[0]."
+			]
+		},
+		{
+			"path": [140,2,149,3],
+			"indent": 1,
+			"original": "Sir Vorento: Auf welches Element-Level die Erfahrung wirkt, hängt einerseits von der Element- Kugel ab und davon, wo sie eingekoppelt ist.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Which element level the",
+				"experience affects depends on the orb and",
+				"where it is coupled."
+			]
+		},
+		{
+			"path": [140,2,152,4],
+			"indent": 1,
+			"original": "Sir Vorento: Jede Element-Kugel ist einem Element zugewiesen und vermag auch dieses Element zu steigern. Feuerkugeln steigern Feuerelemente, Erdkugeln steigern Erdelemente.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Each orb is assigned to an element",
+				"and \\c[11]can also increase that element's level\\c[0].",
+				"Fire orbs increase fire levels, earth orbs",
+				"increase earth levels."
+			]
+		},
+		{
+			"path": [140,2,156,3],
+			"indent": 1,
+			"original": "Sir Vorento: Koppelt man die Kugel in die Waffe, steigert sie das Offensiv-Level ihres Elementes.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Coupling the orb into",
+				"a \\c[11]weapon\\c[0], increases the \\c[11]offensive",
+				"level\\c[0] of its element."
+			]
+		},
+		{
+			"path": [140,2,159,3],
+			"indent": 1,
+			"original": "Sir Vorento: Koppelt man die Kugel in das Armband, steigert sie das Defensiv-Level ihres Elementes.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Coupling the orb into",
+				"an \\c[11]armband\\c[0], increases the \\c[11]defensive",
+				"level\\c[0] of its element."
+			]
+		},
+		{
+			"path": [140,2,162,3],
+			"indent": 1,
+			"original": "Sir Vorento: Koppelt man mehrere Element-Kugeln einer Sorte in die Waffe oder in das Armband, steigt das Element-Level natürlich schneller.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: If you couple several orbs of the",
+				"same type into your weapon or armband, the",
+				"element level naturally increases faster."
+			]
+		},
+		{
+			"path": [140,2,165,4],
+			"indent": 1,
+			"original": "Sir Vorento: Trotzdem sollte man dies nie mit mehr als 3 gleichen Element-Kugeln machen, da der Wirkungsgrad darüber hinaus nicht mehr proportional mit der Anzahl wächst.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Nevertheless, you should never do",
+				"this with \\c[11]more than three identical orbs\\c[0],",
+				"because the efficiency no longer increases",
+				"proportionally with the amount."
+			]
+		},
+		{
+			"path": [140,2,169,3],
+			"indent": 1,
+			"original": "Sir Vorento: Beachten Sie auch, dass ein Element-Level nicht über das Charakter-Level steigen kann.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Also note that \\c[11]an element",
+				"level cannot go above the character level\\c[0]."
+			]
+		},
+		{
+			"path": [140,2,172,2],
+			"indent": 1,
+			"original": "Punkt 4: Welche Signum-Techniken lernt man nun genau?",
+			"lines":
+			[
+				"\\c[13]Point #4: Which Signum techniques",
+				"do you learn exactly?"
+			]
+		},
+		{
+			"path": [140,2,174,3],
+			"indent": 1,
+			"original": "Sir Vorento: Welche Signum-Techniken gelernt werden und mit welcher Geschwindigkeit, ist von Person zu Person unterschiedlich.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Which Signum techniques are",
+				"learned and at what speed \\c[11]varies from",
+				"person to person\\c[0]."
+			]
+		},
+		{
+			"path": [140,2,177,4],
+			"indent": 1,
+			"original": "Sir Vorento: Damit Sie die Element-Kugeln nicht auf gut Glück setzen, bietet das Element-Menu eine Vorschau, welche Signum-Techniken der Charakter als nächstes meistern könnte.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: To make sure you don't bank on",
+				"good luck with these orbs, the element menu",
+				"\\c[11]offers a preview of which Signum techniques",
+				"the character could master next\\c[0]."
+			]
+		},
+		{
+			"path": [140,2,198,2],
+			"indent": 1,
+			"original": "Sir Vorento: Diese beiden Symbole zeigen einem diese Liste an.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: These two symbols show you",
+				"this list."
+			]
+		},
+		{
+			"path": [140,2,208,2],
+			"indent": 1,
+			"original": "Sir Vorento: Das Obere die Liste für \"Gefechts-Signum\"...",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: At the top is \\c[11]the list for",
+				"\"Battle Signums\"\\c[0]..."
+			]
+		},
+		{
+			"path": [140,2,226,2],
+			"indent": 1,
+			"original": "Sir Vorento: ...das Untere die Liste für \"Haltungs-Signum\".",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: ...and at the bottom is \\c[11]the",
+				"list for \"Auxiliary Signums\"\\c[0]."
+			]
+		},
+		{
+			"path": [140,2,228,4],
+			"indent": 1,
+			"original": "Sir Vorento: Beachten Sie, dass in dieser Liste nur dann Techniknamen angezeigt werden, wenn die jeweilige Technik höchstens 9 Element-Level von der Meisterung entfernt ist.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Please note that techniques are",
+				"only shown in this list if they are at most",
+				"nine element levels from mastery."
+			]
+		},
+		{
+			"path": [140,2,232,4],
+			"indent": 1,
+			"original": "Sir Vorento: Andernfalls erscheint ein Fragezeichen-Schriftzug. Sie können trotzdem das Element der Technik sehen, indem Sie die Technik mit dem Cursor auswählen.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Otherwise, a question mark",
+				"will appear. \\c[11]You can see the element of",
+				"the technique by selecting the technique",
+				"with the cursor.\\c[0]"
+			]
+		},
+		{
+			"path": [140,2,277,1],
+			"indent": 1,
+			"original": "Sir Vorento: Und zum Schluss ein paar Tipps.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: And finally, a few tips."
+			]
+		},
+		{
+			"path": [140,2,278,2],
+			"indent": 1,
+			"original": "Sir Vorento: Haben Sie ihre Ausrüstung immer komplett mit Element-Kugeln zugekoppelt.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Always have your equipment",
+				"completely coupled with element orbs."
+			]
+		},
+		{
+			"path": [140,2,280,4],
+			"indent": 1,
+			"original": "Sir Vorento: Denken Sie daran: Bekommen Sie kaum Erfahrung von den Gegnern, steigen auch die Element-Level sehr langsam, EGAL, wie tief sie sind.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Remember: If you hardly get any",
+				"experience from enemies, the element levels",
+				"will also rise very slowly, no matter",
+				"how many you equip."
+			]
+		},
+		{
+			"path": [140,2,284,3],
+			"indent": 1,
+			"original": "Sir Vorento: Eine gute Methode ist immer zielstrebig die Element-Level so zu erhöhen, dass man möglichst bald an eine neue Technik ran kommt.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: A good method is to always",
+				"increase the element level so that you can get",
+				"to a new technique as soon as possible."
+			]
+		},
+		{
+			"path": [140,2,287,1],
+			"indent": 1,
+			"original": "Sir Vorento: Damit ist die Erklärung zu Ende.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: That concludes the explanation."
+			]
+		},
+		{
+			"path": [144,1,3,1],
+			"indent": 1,
+			"original": "---- KONSTANTEN FESTLEGEN -----",
+			"lines":
+			[
+				"---- KONSTANTEN FESTLEGEN -----"
+			]
+		},
+		{
+			"path": [144,1,7,1],
+			"indent": 1,
+			"original": "----ELEMENTKUGEL SYSTEM ÄNDERUNG ANPASSEN ----",
+			"lines":
+			[
+				"----ELEMENTKUGEL SYSTEM ÄNDERUNG ANPASSEN ----"
+			]
+		},
+		{
+			"path": [144,1,49,4],
+			"indent": 1,
+			"original": "Helden Status Entwicklung wurde verändert!  Helden Werte werden aktualisiert, bitte einen Moment warten...",
+			"lines":
+			[
+				"The hero's stats have changed!",
+				"",
+				"The hero's stats are being updated,",
+				"please wait a moment..."
+			]
+		},
+		{
+			"path": [144,1,196,1],
+			"indent": 1,
+			"original": "+\\v[628]  | +\\v[629]  | +\\v[630]  | +\\v[631]  | +\\v[632]  | +\\v[633]  | +\\v[634]",
+			"lines":
+			[
+				"+\\v[628]  | +\\v[629]  | +\\v[630]  | +\\v[631]  | +\\v[632]  | +\\v[633]  | +\\v[634] "
+			]
+		},
+		{
+			"path": [144,1,215,3],
+			"indent": 1,
+			"original": "Kento: HP +(\\v[81])   MP +(\\v[82]) ATK +(\\v[83])    ABW +(\\v[84]) MTL +(\\v[85])    AGI+(\\v[86])",
+			"lines":
+			[
+				"Kento: HP +(\\v[81])   MP +(\\v[82])",
+				"ATK +(\\v[83])    DEF +(\\v[84])",
+				"WIS +(\\v[85])    AGL+(\\v[86])"
+			]
+		},
+		{
+			"path": [144,1,380,3],
+			"indent": 1,
+			"original": "Cibon: HP +(\\v[81])   MP +(\\v[82]) ATK +(\\v[83])    ABW +(\\v[84]) MTL +(\\v[85])    AGI+(\\v[86])",
+			"lines":
+			[
+				"Cibon: HP +(\\v[81])   MP +(\\v[82])",
+				"ATK +(\\v[83])    DEF +(\\v[84])",
+				"WIS +(\\v[85])    AGL+(\\v[86])"
+			]
+		},
+		{
+			"path": [144,1,545,3],
+			"indent": 1,
+			"original": "Soko: HP +(\\v[81])   MP +(\\v[82]) ATK +(\\v[83])    ABW +(\\v[84]) MTL +(\\v[85])    AGI+(\\v[86])",
+			"lines":
+			[
+				"Soko: HP +(\\v[81])   MP +(\\v[82])",
+				"ATK +(\\v[83])    DEF +(\\v[84])",
+				"WIS +(\\v[85])    AGL+(\\v[86])"
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [13,17,54],
+			"original": "Weltkarte",
+			"patch": "The Overworld"
+		}
+	]
+}
