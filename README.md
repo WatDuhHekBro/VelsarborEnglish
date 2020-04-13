@@ -41,7 +41,7 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 - Picture Text: 97%
 - Fancy Text: 95%
 - Database: 52%
-- Special (#1/#10/#28): 5%
+- Special (#1/#10/#28): 40%
 ## Sections/Areas
 *It's important to note that the Helnovien Mine is an EXTREMELY enormous section of the game.*
 - Prologue: 100%
