@@ -26,6 +26,13 @@ These buttons below still do unique things, but are mostly for customization.
 # Videos
 I have a playlist of update videos in case you want to watch it instead of playing it, [here](https://www.youtube.com/playlist?list=PLT800wgkhxolwCulnS8bWs9LVEPnssTgy).
 
+And here are some references:
+- [TrueMG](https://www.youtube.com/playlist?list=PLEED9E15CB6E0D597) (First Demo)
+- [TrueMG](https://www.youtube.com/playlist?list=PLSgi0v-Xd3aGWEzfvjlh2gbqLF_cllSq_) (Second/Final Demo)
+- [MaijinSonicLP](https://www.youtube.com/playlist?list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN)
+- [Tsuyoshi](https://www.youtube.com/playlist?list=PLMP3JOKdupbZ-erFuW239eLVM5TasXRMi)
+- [TheBloodyMion](https://www.youtube.com/watch?v=BMwkLzGZtr8)
+
 # Dev Section Below
 AFAIK, the people who previously worked on translations never published their progress, and it seems like they haven't worked on it since.
 
