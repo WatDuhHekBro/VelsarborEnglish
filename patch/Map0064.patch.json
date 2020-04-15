@@ -1,1 +1,24 @@
-{"dialogue":[{"path":[15,2,2,3],"original":"Soldat vom Briganten-Orden: Hallo Kento... Falls du es wieder vergessen haben solltest: Dein Schlafraum ist hinter der 3. Tür von oben.","lines":["\\c[10]Soldat vom Briganten-Orden\\c[0]: Hallo Kento...","Falls du es wieder vergessen haben solltest: ","Dein Schlafraum ist hinter der 3. Tür von oben."]},{"path":[15,2,7,2],"original":"Kento: Ich kann mir das schon merken, keine Sorge...","lines":["\\c[1]\\n[1]\\c[0]: Ich kann mir das schon ","merken, keine Sorge..."]}]}
+{
+	"dialogue":
+	[
+		{
+			"path": [15,2,2,3],
+			"original": "Soldat vom Briganten-Orden: Hallo Kento... Falls du es wieder vergessen haben solltest: Dein Schlafraum ist hinter der 3. Tür von oben.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hallo Kento...",
+				"Falls du es wieder vergessen haben solltest: ",
+				"Dein Schlafraum ist hinter der 3. Tür von oben."
+			]
+		},
+		{
+			"path": [15,2,7,2],
+			"original": "Kento: Ich kann mir das schon merken, keine Sorge...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich kann mir das schon ",
+				"merken, keine Sorge..."
+			]
+		}
+	]
+}

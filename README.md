@@ -16,7 +16,7 @@ There are only three true controls for the game. Movement, Select, and Back. In 
 
 These buttons below still do unique things, but are mostly for customization.
 - `F4`: This toggles whether or not you play in fullscreen.
-- `F5`: This toggles whether the game upscales by a factor of 2 or keeps the original ratio.
+- `F5`: This toggles whether the game upscales by a factor of 2 or keeps the original ratio. 320x240 and 640x480 are the available resolutions.
 - `F12`: This brings you back to the title screen **regardless of whether or not you saved or where you are**.
 
 # Pronunciations
@@ -50,13 +50,13 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 - Prologue: 100%
 - Sinkholm: 100%
 - The Sink-Lohne Pass: 100%
-- Nomerea: 0%
+- Nomerea: 2%
 - The Lohne: 50%
 - Mount Toras: 0%
 - Wayfarer's Inn: 0%
 - The Corine Plateau: 0%
 - Gencorin Pt I: 0%
-- The Silvan Forest: 4%
+- The Silvan Forest: 2%
 - Mysterious Fortress: 1%
 - Gencorin Pt II: 0%
 - The Helnovien Mine: 0.01%

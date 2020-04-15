@@ -2,8 +2,8 @@
 	"dialogue":
 	[
 		{
-			"path":[117,1,1,2],
-			"original":"Händler: Wenn Sie handeln möchten, sprechen Sie mich bitte über den Handelstand an.",
+			"path": [117,1,1,2],
+			"original": "Händler: Wenn Sie handeln möchten, sprechen Sie mich bitte über den Handelstand an.",
 			"lines":
 			[
 				"\\c[10]Merchant\\c[0]: Wenn Sie handeln möchten, sprechen Sie ",
@@ -11,8 +11,8 @@
 			]
 		},
 		{
-			"path":[128,1,2,3],
-			"original":"Händler: Guten Tag, der Herr! Sind Sie auf der Suche nach edlen Blauperlen, sind Sie hier richtig!",
+			"path": [128,1,2,3],
+			"original": "Händler: Guten Tag, der Herr! Sind Sie auf der Suche nach edlen Blauperlen, sind Sie hier richtig!",
 			"lines":
 			[
 				"\\c[10]Merchant\\c[0]: Guten Tag, der Herr!\\.",
@@ -21,16 +21,16 @@
 			]
 		},
 		{
-			"path":[129,1,15,1],
-			"original":"Kento: Nun, da sind wir. Was jetzt?",
+			"path": [129,1,15,1],
+			"original": "Kento: Nun, da sind wir. Was jetzt?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Nun,\\. da sind wir.\\. Was jetzt?"
 			]
 		},
 		{
-			"path":[129,1,17,2],
-			"original":"Cibon: Hey! Ich hab da so ne Idee.",
+			"path": [129,1,17,2],
+			"original": "Cibon: Hey! Ich hab da so ne Idee.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Hey!\\.",
@@ -38,16 +38,16 @@
 			]
 		},
 		{
-			"path":[129,1,20,1],
-			"original":"Kento: Und die wäre?",
+			"path": [129,1,20,1],
+			"original": "Kento: Und die wäre?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Und die wäre?"
 			]
 		},
 		{
-			"path":[129,1,22,3],
-			"original":"Cibon: Mein Schwesterchen! Ich bin mir sicher, dass 'se sich um den Piepmatz kümmern würde...",
+			"path": [129,1,22,3],
+			"original": "Cibon: Mein Schwesterchen! Ich bin mir sicher, dass 'se sich um den Piepmatz kümmern würde...",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Mein Schwesterchen!",
@@ -56,8 +56,8 @@
 			]
 		},
 		{
-			"path":[129,1,26,2],
-			"original":"Kento: ... Deine große Schwester? Sicher?",
+			"path": [129,1,26,2],
+			"original": "Kento: ... Deine große Schwester? Sicher?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: ... Deine große Schwester?\\. ",
@@ -65,8 +65,8 @@
 			]
 		},
 		{
-			"path":[129,1,29,2],
-			"original":"Cibon: Ja, das passt schon. Sie weiß ne Menge über Tiere, glaub' mir.",
+			"path": [129,1,29,2],
+			"original": "Cibon: Ja, das passt schon. Sie weiß ne Menge über Tiere, glaub' mir.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Ja, das passt schon.\\. Sie weiß ",
@@ -74,16 +74,16 @@
 			]
 		},
 		{
-			"path":[129,1,32,1],
-			"original":"Kento: Wieso denn das?",
+			"path": [129,1,32,1],
+			"original": "Kento: Wieso denn das?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Wieso denn das?"
 			]
 		},
 		{
-			"path":[129,1,34,3],
-			"original":"Cibon: Ach... Sie hält sich immer in den Wäldern rund um Nomerea auf. Sie beobachtet Tiere.",
+			"path": [129,1,34,3],
+			"original": "Cibon: Ach... Sie hält sich immer in den Wäldern rund um Nomerea auf. Sie beobachtet Tiere.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Ach...\\. Sie hält sich immer ",
@@ -92,8 +92,8 @@
 			]
 		},
 		{
-			"path":[129,1,38,3],
-			"original":"Cibon: Zuhause hat' se uns dann immer mit ihren Erlebnissen zugelabert.",
+			"path": [129,1,38,3],
+			"original": "Cibon: Zuhause hat' se uns dann immer mit ihren Erlebnissen zugelabert.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Zuhause hat' se uns dann ",
@@ -102,8 +102,8 @@
 			]
 		},
 		{
-			"path":[129,1,42,4],
-			"original":"Cibon: Du kannst dir gar nicht vorstellen, wie sie immer über die Jäger herzieht. Das sind für sie die reinsten Barbaren.",
+			"path": [129,1,42,4],
+			"original": "Cibon: Du kannst dir gar nicht vorstellen, wie sie immer über die Jäger herzieht. Das sind für sie die reinsten Barbaren.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Du kannst dir gar nicht ",
@@ -113,8 +113,8 @@
 			]
 		},
 		{
-			"path":[129,1,47,4],
-			"original":"Cibon: Und jedes mal wenn 'se erfährt, dass ich gegen nen Wolf oder Bären gekämpft habe, schimpf ' se immer auf mich ein...",
+			"path": [129,1,47,4],
+			"original": "Cibon: Und jedes mal wenn 'se erfährt, dass ich gegen nen Wolf oder Bären gekämpft habe, schimpf ' se immer auf mich ein...",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Und jedes mal wenn 'se ",
@@ -124,16 +124,16 @@
 			]
 		},
 		{
-			"path":[129,1,52,1],
-			"original":"Kento: Oha....",
+			"path": [129,1,52,1],
+			"original": "Kento: Oha....",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Oha...."
 			]
 		},
 		{
-			"path":[129,1,54,4],
-			"original":"Cibon: Also pass auf, was du in ihrer Nähe sagst! Wir haben NIE irgendwelche Wölfe oder Bären getötet, is' das klar?",
+			"path": [129,1,54,4],
+			"original": "Cibon: Also pass auf, was du in ihrer Nähe sagst! Wir haben NIE irgendwelche Wölfe oder Bären getötet, is' das klar?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Also pass auf, was du in ihrer ",
@@ -143,16 +143,16 @@
 			]
 		},
 		{
-			"path":[129,1,59,1],
-			"original":"Kento: Ja... ich werde aufpassen.",
+			"path": [129,1,59,1],
+			"original": "Kento: Ja... ich werde aufpassen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Ja... ich werde aufpassen."
 			]
 		},
 		{
-			"path":[129,1,61,3],
-			"original":"Cibon: Jedenfalls wird der Vogel bei ihr in guten Händen sein, da bin ich mir sicher.",
+			"path": [129,1,61,3],
+			"original": "Cibon: Jedenfalls wird der Vogel bei ihr in guten Händen sein, da bin ich mir sicher.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Jedenfalls wird der Vogel bei ",
@@ -161,8 +161,8 @@
 			]
 		},
 		{
-			"path":[129,1,65,2],
-			"original":"Kento: Na gut, dann lass uns mal zu ihr gehen.",
+			"path": [129,1,65,2],
+			"original": "Kento: Na gut, dann lass uns mal zu ihr gehen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Na gut, dann lass uns mal zu ",
@@ -170,8 +170,8 @@
 			]
 		},
 		{
-			"path":[129,2,13,2],
-			"original":"Cibon: Phew! Das ging ja noch mal gut.",
+			"path": [129,2,13,2],
+			"original": "Cibon: Phew! Das ging ja noch mal gut.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Phew!",
@@ -179,8 +179,8 @@
 			]
 		},
 		{
-			"path":[129,2,16,2],
-			"original":"Kento:  Eines wundert mich jetzt, Cibon...",
+			"path": [129,2,16,2],
+			"original": "Kento:  Eines wundert mich jetzt, Cibon...",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]:  Eines wundert mich jetzt, ",
@@ -188,16 +188,16 @@
 			]
 		},
 		{
-			"path":[129,2,19,1],
-			"original":"Cibon: Was denn, Kumpel?",
+			"path": [129,2,19,1],
+			"original": "Cibon: Was denn, Kumpel?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Was denn, Kumpel?"
 			]
 		},
 		{
-			"path":[129,2,21,4],
-			"original":"Kento: Wie schaffst du es trotz deines Wissens über Handeln, Tauschen und Geldverdienen immer wieder knapp bei Kasse zu sein?",
+			"path": [129,2,21,4],
+			"original": "Kento: Wie schaffst du es trotz deines Wissens über Handeln, Tauschen und Geldverdienen immer wieder knapp bei Kasse zu sein?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Wie schaffst du es trotz ",
@@ -207,8 +207,8 @@
 			]
 		},
 		{
-			"path":[129,2,29,2],
-			"original":"Cibon: Ach was weiß ich! Ich geb' nun mal gern' mein Geld aus.",
+			"path": [129,2,29,2],
+			"original": "Cibon: Ach was weiß ich! Ich geb' nun mal gern' mein Geld aus.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Ach was weiß ich!\\.",
@@ -216,8 +216,8 @@
 			]
 		},
 		{
-			"path":[129,2,32,2],
-			"original":"Kento: Na ja, egal. Dann lass uns mal zur Kaserne gehen...",
+			"path": [129,2,32,2],
+			"original": "Kento: Na ja, egal. Dann lass uns mal zur Kaserne gehen...",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Na ja, egal.\\. Dann lass ",
@@ -225,8 +225,8 @@
 			]
 		},
 		{
-			"path":[129,2,35,4],
-			"original":"Cibon: Sollten wir nicht erstmal schauen, was wir für unsere Handelsgegenstände hier so eintauschen können?",
+			"path": [129,2,35,4],
+			"original": "Cibon: Sollten wir nicht erstmal schauen, was wir für unsere Handelsgegenstände hier so eintauschen können?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Sollten wir nicht erstmal ",
@@ -236,8 +236,8 @@
 			]
 		},
 		{
-			"path":[129,2,40,2],
-			"original":"Kento: Hm? Meinst du etwas für die Grünperlen?",
+			"path": [129,2,40,2],
+			"original": "Kento: Hm? Meinst du etwas für die Grünperlen?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Hm?\\. Meinst du etwas für die ",
@@ -245,8 +245,8 @@
 			]
 		},
 		{
-			"path":[129,2,43,3],
-			"original":"Cibon: Genau. Du kennst doch die ganzen Tausch-Stände hier in der Stadt, oder?",
+			"path": [129,2,43,3],
+			"original": "Cibon: Genau. Du kennst doch die ganzen Tausch-Stände hier in der Stadt, oder?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Genau.\\. Du kennst doch die ",
@@ -255,8 +255,8 @@
 			]
 		},
 		{
-			"path":[129,2,47,4],
-			"original":"Cibon: Meistens wird dir dort ein Gegenstand angeboten, den du für verschiedenen Handelswaren bekommen kannst.",
+			"path": [129,2,47,4],
+			"original": "Cibon: Meistens wird dir dort ein Gegenstand angeboten, den du für verschiedenen Handelswaren bekommen kannst.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Meistens wird dir dort ein ",
@@ -266,16 +266,16 @@
 			]
 		},
 		{
-			"path":[129,2,52,1],
-			"original":"Cibon: Schau dich einfach etwas um.",
+			"path": [129,2,52,1],
+			"original": "Cibon: Schau dich einfach etwas um.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Schau dich einfach etwas um."
 			]
 		},
 		{
-			"path":[137,2,5,3],
-			"original":"Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
+			"path": [137,2,5,3],
+			"original": "Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Kento...\\. Ich würde gern noch ",
@@ -284,16 +284,16 @@
 			]
 		},
 		{
-			"path":[137,2,9,1],
-			"original":"Kento: Meinetwegen...",
+			"path": [137,2,9,1],
+			"original": "Kento: Meinetwegen...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Meinetwegen..."
 			]
 		},
 		{
-			"path":[138,2,5,3],
-			"original":"Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
+			"path": [138,2,5,3],
+			"original": "Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Kento...\\. Ich würde gern noch ",
@@ -302,16 +302,16 @@
 			]
 		},
 		{
-			"path":[138,2,9,1],
-			"original":"Kento: Meinetwegen...",
+			"path": [138,2,9,1],
+			"original": "Kento: Meinetwegen...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Meinetwegen..."
 			]
 		},
 		{
-			"path":[139,2,5,3],
-			"original":"Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
+			"path": [139,2,5,3],
+			"original": "Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Kento...\\. Ich würde gern noch ",
@@ -320,16 +320,16 @@
 			]
 		},
 		{
-			"path":[139,2,9,1],
-			"original":"Kento: Meinetwegen...",
+			"path": [139,2,9,1],
+			"original": "Kento: Meinetwegen...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Meinetwegen..."
 			]
 		},
 		{
-			"path":[140,2,5,3],
-			"original":"Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
+			"path": [140,2,5,3],
+			"original": "Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Kento...\\. Ich würde gern noch ",
@@ -338,16 +338,16 @@
 			]
 		},
 		{
-			"path":[140,2,9,1],
-			"original":"Kento: Meinetwegen...",
+			"path": [140,2,9,1],
+			"original": "Kento: Meinetwegen...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Meinetwegen..."
 			]
 		},
 		{
-			"path":[141,2,5,3],
-			"original":"Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
+			"path": [141,2,5,3],
+			"original": "Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Kento...\\. Ich würde gern noch ",
@@ -356,16 +356,16 @@
 			]
 		},
 		{
-			"path":[141,2,9,1],
-			"original":"Kento: Meinetwegen...",
+			"path": [141,2,9,1],
+			"original": "Kento: Meinetwegen...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Meinetwegen..."
 			]
 		},
 		{
-			"path":[142,2,5,3],
-			"original":"Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
+			"path": [142,2,5,3],
+			"original": "Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Kento...\\. Ich würde gern noch ",
@@ -374,16 +374,16 @@
 			]
 		},
 		{
-			"path":[142,2,9,1],
-			"original":"Kento: Meinetwegen...",
+			"path": [142,2,9,1],
+			"original": "Kento: Meinetwegen...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Meinetwegen..."
 			]
 		},
 		{
-			"path":[143,2,5,3],
-			"original":"Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
+			"path": [143,2,5,3],
+			"original": "Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
 			"lines":
 			[
 				"\\c[2]\\n[2]:\\c[0] Kento...\\. Ich würde gern noch ",
@@ -392,16 +392,16 @@
 			]
 		},
 		{
-			"path":[143,2,9,1],
-			"original":"Kento: Meinetwegen...",
+			"path": [143,2,9,1],
+			"original": "Kento: Meinetwegen...",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Meinetwegen..."
 			]
 		},
 		{
-			"path":[149,1,1,2],
-			"original":"Händler: Hallo! Was halten sie hiervon?",
+			"path": [149,1,1,2],
+			"original": "Händler: Hallo! Was halten sie hiervon?",
 			"lines":
 			[
 				"\\c[10]Merchant\\c[0]: Hallo!\\. ",
@@ -409,8 +409,8 @@
 			]
 		},
 		{
-			"path":[157,1,2,3],
-			"original":"Händler: Guten Tag der Herr! Sind sie auf der Suche nach edlen Blauperlen, sind sie hier richtig!",
+			"path": [157,1,2,3],
+			"original": "Händler: Guten Tag der Herr! Sind sie auf der Suche nach edlen Blauperlen, sind sie hier richtig!",
 			"lines":
 			[
 				"\\c[10]Merchant\\c[0]: Guten Tag der Herr!\\.",
@@ -419,8 +419,8 @@
 			]
 		},
 		{
-			"path":[158,1,2,4],
-			"original":"Händler: Schauen Sie sich dieses Prachtexemplar von Silberring an! Dieses Angebot dürfen Sie sich nicht entgehen lassen!",
+			"path": [158,1,2,4],
+			"original": "Händler: Schauen Sie sich dieses Prachtexemplar von Silberring an! Dieses Angebot dürfen Sie sich nicht entgehen lassen!",
 			"lines":
 			[
 				"\\c[10]Merchant\\c[0]: Schauen Sie sich dieses ",
@@ -430,8 +430,8 @@
 			]
 		},
 		{
-			"path":[159,1,2,2],
-			"original":"Händlerin: Diese Lokri-Knollen machen jedes Gericht zu einem Genuss.",
+			"path": [159,1,2,2],
+			"original": "Händlerin: Diese Lokri-Knollen machen jedes Gericht zu einem Genuss.",
 			"lines":
 			[
 				"\\c[10]Merchant\\c[0]: Diese Lokri-Knollen machen jedes ",
@@ -439,8 +439,8 @@
 			]
 		},
 		{
-			"path":[160,2,2,2],
-			"original":"Mann: Seid ihr schon in der Post-Versand-Stelle hier in der Nähe gewesen?",
+			"path": [160,2,2,2],
+			"original": "Mann: Seid ihr schon in der Post-Versand-Stelle hier in der Nähe gewesen?",
 			"lines":
 			[
 				"\\c[10]Man\\c[0]: Seid ihr schon in der Post-Versand-Stelle ",
@@ -448,8 +448,8 @@
 			]
 		},
 		{
-			"path":[160,2,4,4],
-			"original":"Mann: Möchte man Briefe oder dergleichen versenden, genügt es, wenn man sie in die grünen Briefkästen am Eingang der Stadt steckt.",
+			"path": [160,2,4,4],
+			"original": "Mann: Möchte man Briefe oder dergleichen versenden, genügt es, wenn man sie in die grünen Briefkästen am Eingang der Stadt steckt.",
 			"lines":
 			[
 				"\\c[10]Man\\c[0]: Möchte man Briefe oder dergleichen ",
@@ -459,8 +459,8 @@
 			]
 		},
 		{
-			"path":[160,2,8,4],
-			"original":"Mann: Aber wenn es um ein Paket geht, dann muss man zur Post-Versand-Stelle, um es dort abzugeben. Außerdem sind dann recht hohe Gebühren fällig.",
+			"path": [160,2,8,4],
+			"original": "Mann: Aber wenn es um ein Paket geht, dann muss man zur Post-Versand-Stelle, um es dort abzugeben. Außerdem sind dann recht hohe Gebühren fällig.",
 			"lines":
 			[
 				"\\c[10]Man\\c[0]: Aber wenn es um ein Paket geht, dann ",
@@ -470,8 +470,8 @@
 			]
 		},
 		{
-			"path":[160,2,12,3],
-			"original":"Mann: Nun ja, die Arbeit, die die Post-Versender täglich leisten, ist ja auch ziemlich hart. So was muss auch entlohnt werden.",
+			"path": [160,2,12,3],
+			"original": "Mann: Nun ja, die Arbeit, die die Post-Versender täglich leisten, ist ja auch ziemlich hart. So was muss auch entlohnt werden.",
 			"lines":
 			[
 				"\\c[10]Man\\c[0]: Nun ja, die Arbeit, die die Post-Versender ",
@@ -480,8 +480,8 @@
 			]
 		},
 		{
-			"path":[165,2,3,4],
-			"original":"Alter Mann: Dieser Teil der Stadt ist ja noch relativ ruhig. Aber im nördlichen Teil, da halte ich mich bei meinem Alter nicht mehr auf. Da ist mir viel zu viel los. Viel zu laut ist es dort...",
+			"path": [165,2,3,4],
+			"original": "Alter Mann: Dieser Teil der Stadt ist ja noch relativ ruhig. Aber im nördlichen Teil, da halte ich mich bei meinem Alter nicht mehr auf. Da ist mir viel zu viel los. Viel zu laut ist es dort...",
 			"lines":
 			[
 				"\\c[10]Old Man\\c[0]: This part of the city\\. is still",
@@ -491,16 +491,16 @@
 			]
 		},
 		{
-			"path":[167,1,2,1],
-			"original":"Frau: Diese Silberringe sehen wirklich toll aus...",
+			"path": [167,1,2,1],
+			"original": "Frau: Diese Silberringe sehen wirklich toll aus...",
 			"lines":
 			[
 				"\\c[10]Woman\\c[0]: These silver rings look really pretty..."
 			]
 		},
 		{
-			"path":[168,1,2,2],
-			"original":"Junge: Psst... bitte sagt niemanden, dass ich mich hier verstecke, ja?",
+			"path": [168,1,2,2],
+			"original": "Junge: Psst... bitte sagt niemanden, dass ich mich hier verstecke, ja?",
 			"lines":
 			[
 				"\\c[10]Boy\\c[0]: Psst...\\. please don't tell anyone I'm",
@@ -508,8 +508,8 @@
 			]
 		},
 		{
-			"path":[169,2,2,3],
-			"original":"Junges Mädchen: Uchikos sind so~ süß! Habt ihr sie auch schon bei der Post-Stelle gesehen? Ich wünschte, ich hätte selber eines.",
+			"path": [169,2,2,3],
+			"original": "Junges Mädchen: Uchikos sind so~ süß! Habt ihr sie auch schon bei der Post-Stelle gesehen? Ich wünschte, ich hätte selber eines.",
 			"lines":
 			[
 				"\\c[10]Girl\\c[0]: Uchikos are so cute!\\. Have",

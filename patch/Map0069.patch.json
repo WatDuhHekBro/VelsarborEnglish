@@ -1,1 +1,16 @@
-{"dialogue":[{"path":[10,1,3,4],"original":"Soldat vom Briganten-Orden: Dies ist der Raum der Waffenkenner. Wehe, jemand wagt es auch nur eine kleine Blume hier reinzustellen! Gegen so was bin ich allergisch...","lines":["\\c[10]Soldat vom Briganten-Orden\\c[0]: Dies ist der Raum ","der Waffenkenner.\\. Wehe, jemand wagt es auch ","nur eine kleine Blume hier reinzustellen!\\.\\s[5] Gegen ","so was bin ich allergisch..."]}]}
+{
+	"dialogue":
+	[
+		{
+			"path": [10,1,3,4],
+			"original": "Soldat vom Briganten-Orden: Dies ist der Raum der Waffenkenner. Wehe, jemand wagt es auch nur eine kleine Blume hier reinzustellen! Gegen so was bin ich allergisch...",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Dies ist der Raum ",
+				"der Waffenkenner.\\. Wehe, jemand wagt es auch ",
+				"nur eine kleine Blume hier reinzustellen!\\.\\s[5] Gegen ",
+				"so was bin ich allergisch..."
+			]
+		}
+	]
+}

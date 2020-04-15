@@ -1,1 +1,97 @@
-{"dialogue":[{"path":[127,1,2,3],"original":"Soldat vom Briganten-Orden: Hey ihr. Schaut euch mal an, was ich hier gefunden habe. Nimmt es ruhig. Ich kann damit eh nichts anfangen.","lines":["\\c[10]Soldat vom Briganten-Orden\\c[0]: Hey ihr.\\. Schaut ","euch mal an, was ich hier gefunden habe.\\. Nimmt es ","ruhig.\\. Ich kann damit eh nichts anfangen."]},{"path":[127,2,2,3],"original":"Soldat vom Briganten-Orden: Man würde von hier sicherlich eine gute Aussicht haben, wenn die Mauer nicht so hoch wäre...","lines":["\\c[10]Soldat vom Briganten-Orden\\c[0]: Man würde von ","hier sicherlich eine gute Aussicht haben, wenn ","die Mauer nicht so hoch wäre..."]},{"path":[131,2,2,4],"original":"Soldat vom Briganten-Orden: Hier oben weht ein recht angenehmer Wind. Den kann man in den heißen Sommertagen hier gut gebrauchen, wenn die Sonne überall draufprallt.","lines":["\\c[10]Soldat vom Briganten-Orden\\c[0]: Hier oben weht ","ein recht angenehmer Wind. Den kann man in ","den heißen Sommertagen hier gut gebrauchen, ","wenn die Sonne überall draufprallt."]},{"path":[131,2,9,3],"indent":1,"original":"Cibon: Sag das nicht. Ich hab mir hier letzten Sommer einen starken Sonnenbrand geholt.","lines":["\\c[2]\\n[2]\\c[0]: Sag das nicht.\\. Ich hab mir ","hier letzten Sommer einen starken ","Sonnenbrand geholt. "]},{"path":[131,2,13,3],"indent":1,"original":"Cibon: Du denkst zwar es ist kühl, aber die Sonne strahlt trotzdem volle Kanne!","lines":["\\c[2]\\n[2]\\c[0]: Du denkst zwar es ist kühl, ","aber die Sonne strahlt trotzdem ","volle Kanne!"]},{"path":[131,2,17,2],"indent":1,"original":"Soldat vom Briganten-Orden: Tja, dann muss man sich halt einen Platz im Schatten suchen.","lines":["\\c[10]Soldat vom Briganten-Orden\\c[0]: Tja\\., dann muss ","man sich halt einen Platz im Schatten suchen."]},{"path":[132,1,2,3],"original":"Soldat vom Briganten-Orden: Diese Räume sind für die Ausbilder gedacht und dürfen von normalen Soldaten nicht betreten werden.","lines":["\\c[10]Soldat vom Briganten-Orden\\c[0]: Diese Räume sind ","für die Ausbilder gedacht und dürfen von ","normalen Soldaten nicht betreten werden."]},{"path":[133,1,24,2],"original":"Soldat vom Briganten-Orden: Hier dürfen keine Soldaten durch und das wisst ihr.","lines":["\\c[10]Soldat vom Briganten-Orden\\c[0]: Hier dürfen keine ","Soldaten durch und das wisst ihr. "]},{"path":[134,1,2,3],"original":"Soldat vom Briganten-Orden: Hm... dieser Ort ist am besten zum Entspannen, hier im Schatten.","lines":["\\c[10]Soldat vom Briganten-Orden\\c[0]: Hm...\\. dieser Ort ","ist am besten zum Entspannen,\\. hier im ","Schatten. "]}]}
+{
+	"dialogue":
+	[
+		{
+			"path": [127,1,2,3],
+			"original": "Soldat vom Briganten-Orden: Hey ihr. Schaut euch mal an, was ich hier gefunden habe. Nimmt es ruhig. Ich kann damit eh nichts anfangen.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hey ihr.\\. Schaut ",
+				"euch mal an, was ich hier gefunden habe.\\. Nimmt es ",
+				"ruhig.\\. Ich kann damit eh nichts anfangen."
+			]
+		},
+		{
+			"path": [127,2,2,3],
+			"original": "Soldat vom Briganten-Orden: Man würde von hier sicherlich eine gute Aussicht haben, wenn die Mauer nicht so hoch wäre...",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Man würde von ",
+				"hier sicherlich eine gute Aussicht haben, wenn ",
+				"die Mauer nicht so hoch wäre..."
+			]
+		},
+		{
+			"path": [131,2,2,4],
+			"original": "Soldat vom Briganten-Orden: Hier oben weht ein recht angenehmer Wind. Den kann man in den heißen Sommertagen hier gut gebrauchen, wenn die Sonne überall draufprallt.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hier oben weht ",
+				"ein recht angenehmer Wind. Den kann man in ",
+				"den heißen Sommertagen hier gut gebrauchen, ",
+				"wenn die Sonne überall draufprallt."
+			]
+		},
+		{
+			"path": [131,2,9,3],
+			"indent": 1,
+			"original": "Cibon: Sag das nicht. Ich hab mir hier letzten Sommer einen starken Sonnenbrand geholt.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Sag das nicht.\\. Ich hab mir ",
+				"hier letzten Sommer einen starken ",
+				"Sonnenbrand geholt. "
+			]
+		},
+		{
+			"path": [131,2,13,3],
+			"indent": 1,
+			"original": "Cibon: Du denkst zwar es ist kühl, aber die Sonne strahlt trotzdem volle Kanne!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Du denkst zwar es ist kühl, ",
+				"aber die Sonne strahlt trotzdem ",
+				"volle Kanne!"
+			]
+		},
+		{
+			"path": [131,2,17,2],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Tja, dann muss man sich halt einen Platz im Schatten suchen.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Tja\\., dann muss ",
+				"man sich halt einen Platz im Schatten suchen."
+			]
+		},
+		{
+			"path": [132,1,2,3],
+			"original": "Soldat vom Briganten-Orden: Diese Räume sind für die Ausbilder gedacht und dürfen von normalen Soldaten nicht betreten werden.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Diese Räume sind ",
+				"für die Ausbilder gedacht und dürfen von ",
+				"normalen Soldaten nicht betreten werden."
+			]
+		},
+		{
+			"path": [133,1,24,2],
+			"original": "Soldat vom Briganten-Orden: Hier dürfen keine Soldaten durch und das wisst ihr.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hier dürfen keine ",
+				"Soldaten durch und das wisst ihr. "
+			]
+		},
+		{
+			"path": [134,1,2,3],
+			"original": "Soldat vom Briganten-Orden: Hm... dieser Ort ist am besten zum Entspannen, hier im Schatten.",
+			"lines":
+			[
+				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hm...\\. dieser Ort ",
+				"ist am besten zum Entspannen,\\. hier im ",
+				"Schatten. "
+			]
+		}
+	]
+}
