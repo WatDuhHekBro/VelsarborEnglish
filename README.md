@@ -16,12 +16,15 @@ There are only three true controls for the game. Movement, Select, and Back. In 
 
 These buttons below still do unique things, but are mostly for customization.
 - `F4`: This toggles whether or not you play in fullscreen.
-- `F5`: This toggles whether the game upscales by a factor of 2 or keeps the original ratio.
+- `F5`: This toggles whether the game upscales by a factor of 2 or keeps the original ratio. 320x240 and 640x480 are the available resolutions.
 - `F12`: This brings you back to the title screen **regardless of whether or not you saved or where you are**.
 
 # Pronunciations
 - Cibon: Pronounced with a hard C, so basically "Key-bon". The stress is on the first syllable.
 - All J's are pronounced as Y's, because German.
+
+# Videos
+I have a playlist of update videos in case you want to watch it instead of playing it, [here](https://www.youtube.com/playlist?list=PLT800wgkhxolwCulnS8bWs9LVEPnssTgy).
 
 # Dev Section Below
 AFAIK, the people who previously worked on translations never published their progress, and it seems like they haven't worked on it since.
