@@ -29,7 +29,7 @@ I have a playlist of update videos in case you want to watch it instead of playi
 And here are some references:
 - [TrueMG](https://www.youtube.com/playlist?list=PLEED9E15CB6E0D597) (First Demo)
 - [TrueMG](https://www.youtube.com/playlist?list=PLSgi0v-Xd3aGWEzfvjlh2gbqLF_cllSq_) (Second/Final Demo)
-- [MaijinSonicLP](https://www.youtube.com/playlist?list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN)
+- [MajinSonicLP](https://www.youtube.com/playlist?list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN)
 - [Tsuyoshi](https://www.youtube.com/playlist?list=PLMP3JOKdupbZ-erFuW239eLVM5TasXRMi)
 - [TheBloodyMion](https://www.youtube.com/watch?v=BMwkLzGZtr8)
 
