@@ -15,7 +15,7 @@
 			"original": "Funkdurchsage: Sofortiger Rückzug! An alle Einheiten der Birkon, umgehend den Rückzug antreten!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]:\\s[4] Retreat immediately!\\. ",
+				"\\c[10]Radio\\c[0]:\\s[4] Retreat immediately!\\.",
 				"Attention all Brigantian troops,\\.",
 				"I repeat, retreat immediately!\\.\\.\\^"
 			]
