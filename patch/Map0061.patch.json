@@ -39,7 +39,7 @@
 			"original": "Soldat vom Briganten-Orden: Hat man die Rüstung einmal an, ist alles okay. Das schlimme ist das an- und ausziehen dieses Blechhaufens!",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hat man die ",
+				"\\c[10]Brigantian Soldier\\c[0]: Hat man die ",
 				"Rüstung einmal an, ist alles okay.\\. Das schlimme ",
 				"ist das an- und ausziehen dieses Blechhaufens!"
 			]
@@ -50,7 +50,7 @@
 			"original": "Soldat vom Briganten-Orden: Oi, Cibon. Du läufst immer noch in diesem Aufzug hier rum? Bist du immer noch nicht fertig ausgebildet?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Oi, Cibon.\\. Du ",
+				"\\c[10]Brigantian Soldier\\c[0]: Oi, Cibon.\\. Du ",
 				"läufst immer noch in diesem Aufzug hier rum?\\. ",
 				"Bist du immer noch nicht fertig ausgebildet?"
 			]
@@ -83,7 +83,7 @@
 			"original": "Soldat vom Briganten-Orden: Ach, das passiert immer wieder. Die Schmiede kommt einfach nicht mit der wachsenden Anzahl von Soldaten mit.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ach, das ",
+				"\\c[10]Brigantian Soldier\\c[0]: Ach, das ",
 				"passiert immer wieder.\\. Die Schmiede kommt einfach ",
 				"nicht mit der wachsenden Anzahl von Soldaten mit. "
 			]
@@ -105,7 +105,7 @@
 			"original": "Soldat vom Briganten-Orden: Sagen wir, man gewöhnt sich dran.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Sagen wir, man ",
+				"\\c[10]Brigantian Soldier\\c[0]: Sagen wir, man ",
 				"gewöhnt sich dran."
 			]
 		},
@@ -115,7 +115,7 @@
 			"original": "Soldat vom Briganten-Orden: Wache halten ist tot langweilig.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wache halten ist ",
+				"\\c[10]Brigantian Soldier\\c[0]: Wache halten ist ",
 				"tot langweilig."
 			]
 		},
@@ -133,7 +133,7 @@
 			"original": "Soldat vom Briganten-Orden: Immer diese monotonen Trainingseinheiten. Da wird man ja verrückt, allein schon vom Zusehen.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Immer diese ",
+				"\\c[10]Brigantian Soldier\\c[0]: Immer diese ",
 				"monotonen Trainingseinheiten. Da wird man ja ",
 				"verrückt, allein schon vom Zusehen."
 			]
@@ -143,7 +143,7 @@
 			"original": "Soldat vom Briganten-Orden: Ah! Sag bitte niemandem, dass ich mich hier verstecke! Ich habe echt genug von diesem Training...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ah! Sag bitte ",
+				"\\c[10]Brigantian Soldier\\c[0]: Ah! Sag bitte ",
 				"niemandem, dass ich mich hier verstecke!\\. Ich ",
 				"habe echt genug von diesem Training..."
 			]
@@ -165,7 +165,7 @@
 			"original": "Soldat vom Briganten-Orden: Wie? Wer wartet da... ARGS! Mann, das hab ich vollkommen vergessen! Ich muss weg!",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wie?\\. Wer wartet ",
+				"\\c[10]Brigantian Soldier\\c[0]: Wie?\\. Wer wartet ",
 				"da\\s[9]...\\s[0] ARGS!\\. Mann, das hab ich vollkommen ",
 				"vergessen!\\. Ich muss weg!"
 			]
@@ -184,7 +184,7 @@
 			"original": "Soldat vom Briganten-Orden: Öhm, ich schaue den anderen beim Training zu um zu sehen, was ich besser machen könnte.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Öhm, ich schaue ",
+				"\\c[10]Brigantian Soldier\\c[0]: Öhm, ich schaue ",
 				"den anderen beim Training zu um zu sehen, was ",
 				"ich besser machen könnte."
 			]
@@ -205,7 +205,7 @@
 			"original": "Soldat vom Briganten-Orden: Ja, schon klar, aber mein Training ist erst in ein paar Stunden...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ja, schon klar, ",
+				"\\c[10]Brigantian Soldier\\c[0]: Ja, schon klar, ",
 				"aber mein Training ist erst in ein paar ",
 				"Stunden..."
 			]
@@ -226,7 +226,7 @@
 			"original": "Soldat vom Briganten-Orden: Ja? Na ja, dazu hab ich mich noch nie überwunden, vielleicht ist die Idee gar nicht so schlecht. Muss dann nur einen geeigneten Ort finden.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ja? Na ja, dazu ",
+				"\\c[10]Brigantian Soldier\\c[0]: Ja? Na ja, dazu ",
 				"hab ich mich noch nie überwunden, vielleicht ist ",
 				"die Idee gar nicht so schlecht.\\. Muss dann nur ",
 				"einen geeigneten Ort finden. "
@@ -259,7 +259,7 @@
 			"original": "Soldat vom Briganten-Orden: Wo denn?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wo denn?"
+				"\\c[10]Brigantian Soldier\\c[0]: Wo denn?"
 			]
 		},
 		{
@@ -332,9 +332,9 @@
 			"original": "Soldat vom Briganten-Orden: Da seid ihr ja endlich. Ich soll euch Bescheid geben, dass ihr im 1. Lehrraum erwartet werdet, von Sir Vorento.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Da seid ihr ja ",
-				"endlich.\\. Ich soll euch Bescheid geben, dass ihr im ",
-				"1. Lehrraum erwartet werdet, von Sir Vorento."
+				"\\c[10]Brigantian Soldier\\c[0]: There you are at last.\\.",
+				"I am to let you know that you are expected",
+				"in the 1st classroom, by Sir Vorento."
 			]
 		},
 		{
@@ -342,7 +342,7 @@
 			"original": "Kento: Danke für die Information.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Danke für die Information."
+				"\\c[1]\\n[1]\\c[0]: Thanks for letting us know."
 			]
 		},
 		{
@@ -350,10 +350,10 @@
 			"original": "Cibon: Args, ein Treffen im Lehrraum. Bin mal gespannt, was fürn langweiligen Stoff er uns diesmal einhämmern will...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Args, ein Treffen im ",
-				"Lehrraum.\\. Bin mal gespannt, was ",
-				"fürn langweiligen Stoff er uns ",
-				"diesmal einhämmern will..."
+				"\\c[2]\\n[2]\\c[0]: Argh, a meeting in the",
+				"classroom.\\. Gee, I wonder what",
+				"kind of boring stuff he wants",
+				"to hammer into us this time..."
 			]
 		}
 	]
