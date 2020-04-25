@@ -6,7 +6,7 @@
 			"original": "Soldat vom Briganten-Orden: Normalerweise halten wir hier ja keine Passanten auf, aber da ihr hier so angerannt kamt, hat das einen etwas verdächtigen Eindruck erweckt.",
 			"lines":
 			[
-				"\\c[10]Brigantine Soldier\\c[0]: Usually, we don't stop",
+				"\\c[10]Brigantian Soldier\\c[0]: Usually, we don't stop",
 				"people passing through, but since you came",
 				"running here, it gave us a somewhat",
 				"suspicious impression."
@@ -17,7 +17,7 @@
 			"original": "Soldat vom Briganten-Orden: Wisst ihr, wofür diese grünen Briefkästen da sind?",
 			"lines":
 			[
-				"\\c[10]Brigantine Soldier\\c[0]: Do you know what",
+				"\\c[10]Brigantian Soldier\\c[0]: Do you know what",
 				"these green mailboxes are for?"
 			]
 		},
@@ -27,7 +27,7 @@
 			"original": "Soldat vom Briganten-Orden: Nun, hier wird die Post von den Bürgern von Nomerea eingeworfen, die dann jeden Morgen von den Post-Versendern abgeholt wird.",
 			"lines":
 			[
-				"\\c[10]Brigantine Soldier\\c[0]: Well,\\. here the mail",
+				"\\c[10]Brigantian Soldier\\c[0]: Well,\\. here the mail",
 				"is sent in by the citizens of Nomerea,",
 				"which is then picked up by the post",
 				"office every morning"
@@ -39,7 +39,7 @@
 			"original": "Soldat vom Briganten-Orden: Diese bringen dann die Post an aller Ort von diesem Kontinent, so hab ich gehört.",
 			"lines":
 			[
-				"\\c[10]Brigantine Soldier\\c[0]: They'll bring the mail",
+				"\\c[10]Brigantian Soldier\\c[0]: They'll bring the mail",
 				"anywhere on this continent,\\. I've heard."
 			]
 		},
@@ -49,7 +49,7 @@
 			"original": "Soldat vom Briganten-Orden: Vielleicht werde ich mal bald einen Brief an einen Bekannten im Osten schicken. Bin gespannt, ob der Brief ankommt. Ist ein ziemlich weites Stück...",
 			"lines":
 			[
-				"\\c[10]Brigantine Soldier\\c[0]: Maybe I'll send a",
+				"\\c[10]Brigantian Soldier\\c[0]: Maybe I'll send a",
 				"letter to a friend in the east soon.\\. I",
 				"wonder if the letter will arrive.\\. It's",
 				"quite a long way..."

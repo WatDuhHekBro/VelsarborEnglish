@@ -21,7 +21,7 @@ These buttons below still do unique things, but are mostly for customization.
 
 # Pronunciations
 - Cibon: Pronounced with a hard C, so basically "Key-bon". The stress is on the first syllable.
-- All J's are pronounced as Y's, because German.
+- All J's are pronounced as Y's, because German. The exception is with Japanese-esque names.
 
 # Videos
 I have a playlist of update videos in case you want to watch it instead of playing it, [here](https://www.youtube.com/playlist?list=PLT800wgkhxolwCulnS8bWs9LVEPnssTgy).
@@ -57,8 +57,8 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 - Prologue: 100%
 - Sinkholm: 100%
 - The Sink-Lohne Pass: 100%
-- Nomerea: 2%
-- The Lohne: 50%
+- Nomerea: 30%
+- The Lohne: 60%
 - Mount Toras: 0%
 - Wayfarer's Inn: 0%
 - The Corine Plateau: 0%

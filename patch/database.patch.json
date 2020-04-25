@@ -4115,7 +4115,7 @@
 			"lines":
 			[
 				"",
-				"\\>         - Keine weiteren Informationen -"
+				"\\>            - No further information -"
 			],
 			"__comment__": "Appears when you inspect an item in the trading menu and there's nothing special about it."
 		}

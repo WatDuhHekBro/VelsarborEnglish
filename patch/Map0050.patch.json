@@ -6,9 +6,9 @@
 			"original": "Adelsmann: Guten Tag, die Herren. Was würden Sie von einer Schiffsroute entlang der Lohne halten?",
 			"lines":
 			[
-				"\\c[10]Adelsmann\\c[0]: Guten Tag, die Herren.",
-				"Was würden Sie von einer Schiffsroute entlang ",
-				"der Lohne halten?"
+				"\\c[10]Nobleman\\c[0]: Good afternoon, gentlemen.",
+				"What would you think of a shipping",
+				"route across the Lohne?"
 			]
 		},
 		{
@@ -24,10 +24,9 @@
 			"original": "Adelsmann: Nun... Seit wir den Handel mit den östlichen Städten Brigantias verstärkt haben, läuft es auf finanzieller Ebene wieder erstklassig.",
 			"lines":
 			[
-				"\\c[10]Adelsmann\\c[0]: Nun... Seit wir den Handel mit den ",
-				"östlichen Städten Brigantias verstärkt haben, ",
-				"läuft es auf finanzieller Ebene wieder ",
-				"erstklassig."
+				"\\c[10]Nobleman\\c[0]: Well... Since we have increased trade",
+				"eastern cities of Brigantia, things have been",
+				"going well on a financial level."
 			]
 		},
 		{
@@ -35,10 +34,10 @@
 			"original": "Adelsmann: Trotzdem stellt das Torasgebirge südöstlich von hier noch eine Blockade für uns dar. Es ist ziemlich mühselig, die Handelswaren durch dieses Gebiet zu schleppen...",
 			"lines":
 			[
-				"\\c[10]Adelsmann\\c[0]: Trotzdem stellt das Torasgebirge ",
-				"südöstlich von hier noch eine Blockade für uns ",
-				"dar. Es ist ziemlich mühselig, die Handelswaren ",
-				"durch dieses Gebiet zu schleppen..."
+				"\\c[10]Nobleman\\c[0]: Nevertheless, Mount Toras southeast",
+				"of here is still an obstacle for us. It's rather",
+				"tedious to transport the supplies through this",
+				"area..."
 			]
 		},
 		{
@@ -46,10 +45,10 @@
 			"original": "Adelsmann: Ich setze mich nun dafür ein, Schiffsrouten über die Lohne zu erstellen. Über Wasser würde man weitaus einfacher in den Osten des Landes gelangen.",
 			"lines":
 			[
-				"\\c[10]Adelsmann\\c[0]: Ich setze mich nun dafür ein, ",
-				"Schiffsrouten über die Lohne zu erstellen. Über ",
-				"Wasser würde man weitaus einfacher in den ",
-				"Osten des Landes gelangen."
+				"\\c[10]Nobleman\\c[0]: I am now committed to creating",
+				"shipping routes across the Lohne. It'd be much",
+				"easier to get to the east of the country",
+				"by water."
 			]
 		},
 		{
@@ -57,8 +56,8 @@
 			"original": "Kento: Interessant. Wäre sicherlich keine schlechte Idee.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Interessant.\\.",
-				"Wäre sicherlich keine schlechte Idee."
+				"\\c[1]\\n[1]\\c[0]: Interesting.\\.",
+				"Not a bad idea."
 			]
 		},
 		{
@@ -67,9 +66,9 @@
 			"original": "Cibon: Wenn's soweit ist, würd's dann auch stinknormale Passagierschiffe geben?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wenn's soweit ist, würd's ",
-				"dann auch stinknormale ",
-				"Passagierschiffe geben? "
+				"\\c[2]\\n[2]\\c[0]: When the time comes, wouldn't",
+				"there just be regular old",
+				"passenger ships?"
 			]
 		},
 		{
@@ -78,9 +77,9 @@
 			"original": "Adelsmann: Ja, das wäre gut möglich. Man muss abwarten, ob genug Fejar dafür übrig bleiben.",
 			"lines":
 			[
-				"\\c[10]Adelsmann\\c[0]: Ja, das wäre gut möglich.",
-				"Man muss abwarten, ob genug \\n[19] dafür übrig ",
-				"bleiben."
+				"\\c[10]Nobleman\\c[0]: Yes, that might be possible.",
+				"We'll have to wait and see if there's",
+				"enough \\n[19] left."
 			]
 		},
 		{
@@ -88,9 +87,9 @@
 			"original": "Ingenieur: Die Problematik an der ganzen Sache ist die, dass ein permanenter, starker Wind entlang der Lohne weht, von Korzojeno Richtung Brigantia.",
 			"lines":
 			[
-				"\\c[10]Ingenieur\\c[0]: Die Problematik an der ganzen Sache ist ",
-				"die, dass ein permanenter, starker Wind entlang ",
-				"der Lohne weht, von Korzojeno Richtung Brigantia."
+				"\\c[10]Engineer\\c[0]: The problem with the whole thing is",
+				"that a permanent, strong wind blows along the",
+				"Lohne, from Korzojeno towards Brigantia."
 			]
 		},
 		{
@@ -98,8 +97,8 @@
 			"original": "Ingenieur: Segelschiffe stehen deswegen außer Frage.",
 			"lines":
 			[
-				"\\c[10]Ingenieur\\c[0]: Segelschiffe stehen deswegen außer ",
-				"Frage. "
+				"\\c[10]Engineer\\c[0]: Sailing is therefore out of",
+				"the question."
 			]
 		},
 		{
@@ -107,9 +106,9 @@
 			"original": "Ingenieur: Wenn wir keine Segelschiffe verwenden können, was dann? Ruderboote wären sicherlich eine Möglichkeit.",
 			"lines":
 			[
-				"\\c[10]Ingenieur\\c[0]: Wenn wir keine Segelschiffe verwenden ",
-				"können, was dann?\\. Ruderboote wären sicherlich eine ",
-				"Möglichkeit. "
+				"\\c[10]Engineer\\c[0]: If we can't use sailing ships, what",
+				"then?\\. Rowing boats certainly isn't an",
+				"option."
 			]
 		},
 		{
@@ -117,10 +116,9 @@
 			"original": "Ingenieur: Aber auch hier hätte man mit dem Gegenwind zu kämpfen. Sehr viel einfacher als der Wanderweg durch das Torasgebirge wäre es jedenfalls nicht.",
 			"lines":
 			[
-				"\\c[10]Ingenieur\\c[0]: Aber auch hier hätte man mit dem ",
-				"Gegenwind zu kämpfen.\\. Sehr viel einfacher als der ",
-				"Wanderweg durch das Torasgebirge wäre es ",
-				"jedenfalls nicht."
+				"\\c[10]Engineer\\c[0]: But here as well you'd have to fight",
+				"the headwind.\\. In any case, it wouldn't be much",
+				"easier than the trail through Mount Toras."
 			]
 		}
 	]

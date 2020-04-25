@@ -6,10 +6,9 @@
 			"original": "Grünhaarige Frau: Das ist ja nicht zum Aushalten... Als ich letztens im Geschäft war, hatten sie doch tatsächlich keine Repskerne mehr.",
 			"lines":
 			[
-				"\\c[10]Grünhaarige Frau\\c[0]: Das ist ja nicht zum ",
-				"Aushalten... Als ich letztens im Geschäft war, ",
-				"hatten sie doch tatsächlich keine Repskerne ",
-				"mehr. "
+				"\\c[10]Green-Haired Woman\\c[0]: I can't stand it...",
+				"When I was in the shop recently, they",
+				"were actually out of sunflour."
 			]
 		},
 		{
@@ -17,8 +16,8 @@
 			"original": "Grünhaarige Frau: Angeblich soll erst in ein paar Monaten eine Nachlieferung eintreffen.",
 			"lines":
 			[
-				"\\c[10]Grünhaarige Frau\\c[0]: Angeblich soll erst in ein ",
-				"paar Monaten eine Nachlieferung eintreffen."
+				"\\c[10]Green-Haired Woman\\c[0]: Apparently, a delivery",
+				"should arrive in just a couple of months."
 			]
 		},
 		{
@@ -26,10 +25,10 @@
 			"original": "Lilahaarige Frau: Das liegt sicher an den Schwierigkeiten, die sie unten bei den Häfen an der Südküste haben. Die See muss derzeit richtige Probleme da unten bereiten.",
 			"lines":
 			[
-				"\\c[10]Lilahaarige Frau\\c[0]: Das liegt sicher an den ",
-				"Schwierigkeiten, die sie unten bei den Häfen an ",
-				"der Südküste haben. Die See muss derzeit ",
-				"richtige Probleme da unten bereiten."
+				"\\c[10]Purple-Haired Woman\\c[0]: This is probably due to",
+				"the difficulties they have at the ports on the",
+				"south coast. The sea must be causing some",
+				"real problems down there at the moment."
 			]
 		},
 		{
@@ -37,8 +36,8 @@
 			"original": "Grünhaarige Frau: Ach wirklich? Und deswegen haben wir keine Repskerne hier?",
 			"lines":
 			[
-				"\\c[10]Grünhaarige Frau\\c[0]: Ach wirklich? Und deswegen ",
-				"haben wir keine Repskerne hier?"
+				"\\c[10]Green-Haired Woman\\c[0]: Really? And that's why we",
+				"don't have sunflour here?"
 			]
 		},
 		{
@@ -46,9 +45,8 @@
 			"original": "Lilahaarige Frau: Ich glaube schon. Repskerne kommen aus dem Süden und werden mit Schiffen zu uns nach Norden verfrachtet.",
 			"lines":
 			[
-				"\\c[10]Lilahaarige Frau\\c[0]: Ich glaube schon. Repskerne ",
-				"kommen aus dem Süden und werden mit ",
-				"Schiffen zu uns nach Norden verfrachtet."
+				"\\c[10]Purple-Haired Woman\\c[0]: I think so. Sunflour comes",
+				"from the south and is shipped to us north by ship."
 			]
 		},
 		{
@@ -56,8 +54,8 @@
 			"original": "Blauhaarige Frau: Doch wegen den Problemen läuft das wohl nicht so gut im Moment.",
 			"lines":
 			[
-				"\\c[10]Blauhaarige Frau\\c[0]: Doch wegen den Problemen",
-				"läuft das wohl nicht so gut im Moment."
+				"\\c[10]Blue-Haired Woman\\c[0]: But because of the problems,",
+				"it's probably not going so well at the moment."
 			]
 		},
 		{
@@ -65,8 +63,8 @@
 			"original": "Grünhaarige Frau: So ist das also. Was du so alles weißt...",
 			"lines":
 			[
-				"\\c[10]Grünhaarige Frau\\c[0]: So ist das also. ",
-				"Was du so alles weißt..."
+				"\\c[10]Green-Haired Woman\\c[0]: So that's it then.",
+				"What do you know..."
 			]
 		},
 		{
@@ -74,8 +72,8 @@
 			"original": "Lilahaarige Frau: Ach, mein Mann erzählt mir ständig davon. Das ist sein Fachgebiet.",
 			"lines":
 			[
-				"\\c[10]Lilahaarige Frau\\c[0]: Ach,\\. mein Mann erzählt mir ",
-				"ständig davon. Das ist sein Fachgebiet."
+				"\\c[10]Purple-Haired Woman\\c[0]: Oh,\\. my husband keeps telling",
+				"me about it. That's his area of expertise."
 			]
 		},
 		{
@@ -83,7 +81,7 @@
 			"original": "Grünhaarige Frau: Ach so....",
 			"lines":
 			[
-				"\\c[10]Grünhaarige Frau\\c[0]: Ach so...."
+				"\\c[10]Green-Haired Woman\\c[0]: Oh..."
 			]
 		}
 	]

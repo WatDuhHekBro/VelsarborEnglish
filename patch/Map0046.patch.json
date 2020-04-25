@@ -6,9 +6,8 @@
 			"original": "Kleines Mädchen: Das ist doof... Meine Eltern erlauben mir nicht, das Hotelzimmer zu verlassen. Mir ist langweilig.",
 			"lines":
 			[
-				"\\c[10]Kleines Mädchen\\c[0]: Das ist doof... Meine Eltern ",
-				"erlauben mir nicht, das Hotelzimmer zu verlassen. ",
-				"Mir ist langweilig."
+				"\\c[10]Little Girl\\c[0]: This is stupid... My parents won't",
+				"allow me to leave this room. I'm so bored."
 			]
 		}
 	]

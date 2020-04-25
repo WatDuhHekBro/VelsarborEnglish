@@ -103,7 +103,7 @@
 		{
 			"path": [132,2,31,4],
 			"indent": 2,
-			"original": "\\n[2]: Hallo Mama! Mir geht's gut. Wir sind gerade von unserem 1. Auftrag zurück. Es lief alles wie geschmiert!",
+			"original": "Cibon: Hallo Mama! Mir geht's gut. Wir sind gerade von unserem 1. Auftrag zurück. Es lief alles wie geschmiert!",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Hallo Mama!\\. Mir geht's gut.\\. ",
@@ -125,7 +125,7 @@
 		{
 			"path": [132,2,40,4],
 			"indent": 2,
-			"original": "\\n[2]: Es läuft sehr gut! Ich muss zwar noch viel lernen, aber ich werde mindestens so gut wie mein Vater werden.",
+			"original": "Cibon: Es läuft sehr gut! Ich muss zwar noch viel lernen, aber ich werde mindestens so gut wie mein Vater werden.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Es läuft sehr gut!\\. Ich muss ",
@@ -137,7 +137,7 @@
 		{
 			"path": [132,2,45,1],
 			"indent": 2,
-			"original": "\\n[1]: ...",
+			"original": "Kento: ...",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: ..."
@@ -156,7 +156,7 @@
 		{
 			"path": [132,2,52,3],
 			"indent": 2,
-			"original": "\\n[2]: War ja klar! Du glaubst mir nicht und musst Kento fragen, ob ich auch keinen Mist erzähle. Pah!",
+			"original": "Cibon: War ja klar! Du glaubst mir nicht und musst Kento fragen, ob ich auch keinen Mist erzähle. Pah!",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: War ja klar!\\. Du glaubst mir ",
@@ -178,7 +178,7 @@
 		{
 			"path": [132,2,61,4],
 			"indent": 2,
-			"original": "\\n[1]: Ja, er macht sich wirklich gut. Vor allem was das Kämpfen angeht. Sein Können mit der Axt wird von Mal zu Mal besser.",
+			"original": "Kento: Ja, er macht sich wirklich gut. Vor allem was das Kämpfen angeht. Sein Können mit der Axt wird von Mal zu Mal besser.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Ja, er macht sich wirklich ",
@@ -201,7 +201,7 @@
 		{
 			"path": [132,2,71,1],
 			"indent": 2,
-			"original": "\\n[2]: Danke sehr......",
+			"original": "Cibon: Danke sehr......",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Danke sehr......"
@@ -210,7 +210,7 @@
 		{
 			"path": [132,2,74,3],
 			"indent": 2,
-			"original": "(\\n[2]: Pah, da hat sich nichts geändert. Nach wie vor traut sie mir kein Stück.)",
+			"original": "(Cibon: Pah, da hat sich nichts geändert. Nach wie vor traut sie mir kein Stück.)",
 			"lines":
 			[
 				"(\\c[2]\\n[2]\\c[0]: Pah, da hat sich nichts ",
@@ -243,7 +243,7 @@
 		{
 			"path": [132,2,86,2],
 			"indent": 2,
-			"original": "\\n[2]: Okay, Mama. Wir werden euch besuchen kommen, versprochen.",
+			"original": "Cibon: Okay, Mama. Wir werden euch besuchen kommen, versprochen.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Okay, Mama.\\. Wir werden ",
@@ -263,7 +263,7 @@
 		{
 			"path": [132,2,93,1],
 			"indent": 2,
-			"original": "\\n[1]: Okay...",
+			"original": "Kento: Okay...",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Okay..."
@@ -272,7 +272,7 @@
 		{
 			"path": [132,2,96,1],
 			"indent": 2,
-			"original": "(\\n[2]: Hmpf... Ich glaub's nicht.)",
+			"original": "(Cibon: Hmpf... Ich glaub's nicht.)",
 			"lines":
 			[
 				"(\\c[2]\\n[2]\\c[0]: Hmpf... Ich glaub's nicht.)"
@@ -312,7 +312,7 @@
 		},
 		{
 			"path": [137,2,7,3],
-			"original": "\\n[1]: Hm? Wofür musst du denn diese Sachen einkaufen? Zum Kochen?",
+			"original": "Kento: Hm? Wofür musst du denn diese Sachen einkaufen? Zum Kochen?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Hm?\\. Wofür musst du denn ",
@@ -344,7 +344,7 @@
 		},
 		{
 			"path": [137,2,22,2],
-			"original": "\\n[1]: Ahhh... danke, ich hab genug gehört.",
+			"original": "Kento: Ahhh... danke, ich hab genug gehört.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Ahhh...\\. danke,\\. ich hab genug ",
@@ -354,7 +354,7 @@
 		{
 			"path": [137,2,26,2],
 			"indent": 1,
-			"original": "\\n[2]: Ach ja, die Lokri-Knollen- Stinkbombe. Ein Klassiker.",
+			"original": "Cibon: Ach ja, die Lokri-Knollen- Stinkbombe. Ein Klassiker.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Ach ja,\\. die Lokri-Knollen-",
@@ -454,7 +454,7 @@
 		{
 			"path": [148,1,44,1],
 			"indent": 2,
-			"original": "(\\n[1]: Das nenn ich mal Faulheit)",
+			"original": "(Kento: Das nenn ich mal Faulheit)",
 			"lines":
 			[
 				"(\\c[1]\\n[1]\\c[0]: Das nenn ich mal Faulheit)"

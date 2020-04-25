@@ -253,7 +253,7 @@
 		{
 			"path": [16,1,13,3],
 			"indent": 1,
-			"original": "\\n[2]: Na ja ich fand' es immer klasse, den Weg hier entlang zu schlittern.",
+			"original": "Cibon: Na ja ich fand' es immer klasse, den Weg hier entlang zu schlittern.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Na ja ich fand' es immer ",
@@ -263,7 +263,7 @@
 		},
 		{
 			"path": [17,1,16,1],
-			"original": "\\n[2]: Alles okay, Kumpel?",
+			"original": "Cibon: Alles okay, Kumpel?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Alles okay, Kumpel?"
@@ -271,7 +271,7 @@
 		},
 		{
 			"path": [17,1,18,1],
-			"original": "\\n[1]: Ja, ja.",
+			"original": "Kento: Ja, ja.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Ja, ja."
@@ -279,7 +279,7 @@
 		},
 		{
 			"path": [17,1,20,2],
-			"original": "\\n[2]: Denk dran, sie wusste von nichts. Sie ist halt neu hier.",
+			"original": "Cibon: Denk dran, sie wusste von nichts. Sie ist halt neu hier.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Denk dran, sie wusste von ",
@@ -288,7 +288,7 @@
 		},
 		{
 			"path": [17,1,23,1],
-			"original": "\\n[1]: Hm...",
+			"original": "Kento: Hm...",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Hm..."
@@ -296,7 +296,7 @@
 		},
 		{
 			"path": [17,1,25,3],
-			"original": "\\n[2]: Aber das is' echt unheimlich, wie gut die aussieht. Ich hätte da alles andere erwartet, NUR das nicht.",
+			"original": "Cibon: Aber das is' echt unheimlich, wie gut die aussieht. Ich hätte da alles andere erwartet, NUR das nicht.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Aber das is' echt unheimlich, ",
@@ -306,7 +306,7 @@
 		},
 		{
 			"path": [17,1,29,3],
-			"original": "\\n[2]: Wie alt die wohl ist? Ich meine, sie ist eine Signum-Expertin! Wie kann die so jung sein? Na ja...",
+			"original": "Cibon: Wie alt die wohl ist? Ich meine, sie ist eine Signum-Expertin! Wie kann die so jung sein? Na ja...",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Wie alt die wohl ist?\\. Ich ",
@@ -316,7 +316,7 @@
 		},
 		{
 			"path": [17,1,33,3],
-			"original": "\\n[2]: Ich sollte mich auch etwas mehr mit diesem Signum- und Element-Kugel-Zeug beschäftigen.",
+			"original": "Cibon: Ich sollte mich auch etwas mehr mit diesem Signum- und Element-Kugel-Zeug beschäftigen.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Ich sollte mich auch etwas ",
@@ -326,7 +326,7 @@
 		},
 		{
 			"path": [17,1,38,2],
-			"original": "\\n[2]: Vielleicht hab ich dann ne Chance bei ihr.",
+			"original": "Cibon: Vielleicht hab ich dann ne Chance bei ihr.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Vielleicht hab ich dann ne ",
@@ -335,7 +335,7 @@
 		},
 		{
 			"path": [17,1,44,2],
-			"original": "\\n[1]: Hehe. Du denkst auch immer nur an das gleiche, Cibon.",
+			"original": "Kento: Hehe. Du denkst auch immer nur an das gleiche, Cibon.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Hehe.\\. Du denkst auch immer ",
@@ -344,7 +344,7 @@
 		},
 		{
 			"path": [17,1,47,3],
-			"original": "\\n[1]: Aber dass du dich mehr mit dem \"Signum-Zeug\" beschäftigen willst, ist eine sehr gute Idee.",
+			"original": "Kento: Aber dass du dich mehr mit dem \"Signum-Zeug\" beschäftigen willst, ist eine sehr gute Idee.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Aber dass du dich mehr mit ",
@@ -354,7 +354,7 @@
 		},
 		{
 			"path": [17,1,51,4],
-			"original": "\\n[1]: Ich denke für heute haben wird genug getan, lass uns in unser Quartier gehen und ne Runde schlafen.",
+			"original": "Kento: Ich denke für heute haben wird genug getan, lass uns in unser Quartier gehen und ne Runde schlafen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Ich denke für heute haben ",
@@ -365,7 +365,7 @@
 		},
 		{
 			"path": [17,1,56,4],
-			"original": "\\n[2]: Brauchste mal wieder dein Nickerchen, Kumpel? Nicht, dass du wieder bis in den Nachmittag hinein pennst.",
+			"original": "Cibon: Brauchste mal wieder dein Nickerchen, Kumpel? Nicht, dass du wieder bis in den Nachmittag hinein pennst.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Brauchste mal wieder dein ",
@@ -376,7 +376,7 @@
 		},
 		{
 			"path": [17,1,61,2],
-			"original": "\\n[1]: Ich gebe da mal lieber keine Garantie ab.",
+			"original": "Kento: Ich gebe da mal lieber keine Garantie ab.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Ich gebe da mal lieber keine ",
@@ -385,7 +385,7 @@
 		},
 		{
 			"path": [17,4,21,3],
-			"original": "\\n[2]: Hui, gleich heute geht's los. Wir sollten nicht mehr soviel rumtrödeln, Kumpel",
+			"original": "Cibon: Hui, gleich heute geht's los. Wir sollten nicht mehr soviel rumtrödeln, Kumpel",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Hui, gleich heute geht's los. ",
@@ -395,7 +395,7 @@
 		},
 		{
 			"path": [17,4,25,4],
-			"original": "\\n[1]: Ganz langsam. Bevor ich irgendetwas Anderes mache gehe ich erstmal zur Kantine und esse mich endlich satt.",
+			"original": "Kento: Ganz langsam. Bevor ich irgendetwas Anderes mache gehe ich erstmal zur Kantine und esse mich endlich satt.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Ganz langsam.\\. Bevor ich ",
@@ -406,7 +406,7 @@
 		},
 		{
 			"path": [17,4,30,3],
-			"original": "\\n[2]: Na gut, mach das. Aber lass dir nicht zuviel Zeit. Ich warte dann in unserem Schlafraum.",
+			"original": "Cibon: Na gut, mach das. Aber lass dir nicht zuviel Zeit. Ich warte dann in unserem Schlafraum.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Na gut, mach das.\\. Aber lass ",

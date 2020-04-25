@@ -67,7 +67,7 @@
 		},
 		{
 			"path": [6,2,17,1],
-			"original": "\\n[1]: Hmm...",
+			"original": "Kento: Hmm...",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Hmm..."
@@ -75,7 +75,7 @@
 		},
 		{
 			"path": [6,2,22,2],
-			"original": "\\n[2]: ...Hui! Die da vorne sieht ja wirklich scharf aus!",
+			"original": "Cibon: ...Hui! Die da vorne sieht ja wirklich scharf aus!",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: ...Hui!\\. Die da vorne sieht ja ",
@@ -84,7 +84,7 @@
 		},
 		{
 			"path": [6,2,26,2],
-			"original": "\\n[1]: Cibon, bitte, komm nicht wieder auf dumme Gedanken.",
+			"original": "Kento: Cibon, bitte, komm nicht wieder auf dumme Gedanken.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Cibon,\\. bitte,\\. komm nicht ",
@@ -93,7 +93,7 @@
 		},
 		{
 			"path": [6,2,34,3],
-			"original": "\\n[2]: Guten Tag, verehrte Dame. Ich sehe Sie hier zum 1. Mal. Sind Sie neu hier?",
+			"original": "Cibon: Guten Tag, verehrte Dame. Ich sehe Sie hier zum 1. Mal. Sind Sie neu hier?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Guten Tag, verehrte Dame.\\.",
@@ -113,7 +113,7 @@
 		},
 		{
 			"path": [6,2,45,2],
-			"original": "\\n[2]: Ich bin Cibon Tirunel und mit wem habe ich das vergnügen?",
+			"original": "Cibon: Ich bin Cibon Tirunel und mit wem habe ich das vergnügen?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Ich bin Cibon Tirunel und mit ",
@@ -132,7 +132,7 @@
 		},
 		{
 			"path": [6,2,55,3],
-			"original": "\\n[2]: Ileya... öhh... etwa... Sind Sie die neue Signum-Expertin hier?!",
+			"original": "Cibon: Ileya... öhh... etwa... Sind Sie die neue Signum-Expertin hier?!",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Ileya...\\. öhh...\\. etwa...\\. ",
@@ -142,7 +142,7 @@
 		},
 		{
 			"path": [6,2,59,1],
-			"original": "\\n[6]: He he he, ja, genauso ist es.",
+			"original": "Ileya: He he he, ja, genauso ist es.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: He he he\\., ja\\., genauso ist es."
@@ -150,7 +150,7 @@
 		},
 		{
 			"path": [6,2,63,1],
-			"original": "(\\n[2]: Ach du Schreck!)",
+			"original": "(Cibon: Ach du Schreck!)",
 			"lines":
 			[
 				"(\\c[2]\\n[2]\\c[0]: Ach du Schreck!)"
@@ -158,7 +158,7 @@
 		},
 		{
 			"path": [6,2,67,3],
-			"original": "\\n[2]: Öhm... das trifft sich sehr gut. Mein Freund wollte nämlich mit ihnen sprechen.",
+			"original": "Cibon: Öhm... das trifft sich sehr gut. Mein Freund wollte nämlich mit ihnen sprechen.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Öhm...\\. das trifft sich sehr gut.\\. ",
@@ -168,7 +168,7 @@
 		},
 		{
 			"path": [6,2,73,1],
-			"original": "\\n[1]: Hm?",
+			"original": "Kento: Hm?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Hm?"
@@ -176,7 +176,7 @@
 		},
 		{
 			"path": [6,2,75,2],
-			"original": "\\n[2]: Kumpel, diese Dame hier ist Ileya, die Signum-Expertin.",
+			"original": "Cibon: Kumpel, diese Dame hier ist Ileya, die Signum-Expertin.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Kumpel, diese Dame hier ist ",
@@ -185,7 +185,7 @@
 		},
 		{
 			"path": [6,2,78,1],
-			"original": "\\n[1]: Wie, echt? Oha.",
+			"original": "Kento: Wie, echt? Oha.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Wie, echt?\\. Oha."
@@ -193,7 +193,7 @@
 		},
 		{
 			"path": [6,2,85,2],
-			"original": "\\n[6]: Nun, wieso wollten Sie denn mit mir sprechen, Herr....",
+			"original": "Ileya: Nun, wieso wollten Sie denn mit mir sprechen, Herr....",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Nun, wieso wollten Sie denn ",
@@ -202,7 +202,7 @@
 		},
 		{
 			"path": [6,2,88,1],
-			"original": "\\n[1]: Kento...",
+			"original": "Kento: Kento...",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Kento..."
@@ -210,7 +210,7 @@
 		},
 		{
 			"path": [6,2,90,1],
-			"original": "\\n[6]: Herr Kento ...?",
+			"original": "Ileya: Herr Kento ...?",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Herr Kento ...?"
@@ -218,7 +218,7 @@
 		},
 		{
 			"path": [6,2,92,4],
-			"original": "\\n[1]: Ich wollte Sie fragen, was es mit der Nebenwirkung beim Einkoppeln der Element-Kugeln auf sich hat.",
+			"original": "Kento: Ich wollte Sie fragen, was es mit der Nebenwirkung beim Einkoppeln der Element-Kugeln auf sich hat.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Ich wollte Sie fragen, was es ",
@@ -229,7 +229,7 @@
 		},
 		{
 			"path": [6,2,97,4],
-			"original": "\\n[1]: Vorento hat die Neben- wirkung erwähnt, aber keine Zeit mehr gehabt, es genauer zu erklären. Ich sollte mich an Sie wenden.",
+			"original": "Kento: Vorento hat die Neben- wirkung erwähnt, aber keine Zeit mehr gehabt, es genauer zu erklären. Ich sollte mich an Sie wenden.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Vorento hat die Neben-",
@@ -240,7 +240,7 @@
 		},
 		{
 			"path": [6,2,102,1],
-			"original": "\\n[6]: Ach, wenn das so ist...",
+			"original": "Ileya: Ach, wenn das so ist...",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Ach, wenn das so ist..."
@@ -248,7 +248,7 @@
 		},
 		{
 			"path": [6,2,103,2],
-			"original": "\\n[6]: Die Nebenwirkung ist wie folgt:",
+			"original": "Ileya: Die Nebenwirkung ist wie folgt:",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Die Nebenwirkung ist wie ",
@@ -267,7 +267,7 @@
 		{
 			"path": [6,2,118,4],
 			"indent": 1,
-			"original": "\\n[6]: Wenn man Elementkugeln in die Waffe koppelt, bekommt dann die Waffe einen Teil der Element-Kraft von der Kugel.",
+			"original": "Ileya: Wenn man Elementkugeln in die Waffe koppelt, bekommt dann die Waffe einen Teil der Element-Kraft von der Kugel.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Wenn man Elementkugeln ",
@@ -279,7 +279,7 @@
 		{
 			"path": [6,2,122,4],
 			"indent": 1,
-			"original": "\\n[6]: Koppelt man zum Beispiel nur Feuerkugeln in die Waffe, bekommt die Waffe ein kleines Feuer-Attribut.",
+			"original": "Ileya: Koppelt man zum Beispiel nur Feuerkugeln in die Waffe, bekommt die Waffe ein kleines Feuer-Attribut.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Koppelt man zum Beispiel ",
@@ -291,7 +291,7 @@
 		{
 			"path": [6,2,127,4],
 			"indent": 1,
-			"original": "\\n[6]: So bewirkt man bei Feuerempfindlichen Gegnern mehr Schaden, bei Feuer-Resistenten Gegnern weniger Schaden.",
+			"original": "Ileya: So bewirkt man bei Feuerempfindlichen Gegnern mehr Schaden, bei Feuer-Resistenten Gegnern weniger Schaden.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: So bewirkt man bei ",
@@ -303,7 +303,7 @@
 		{
 			"path": [6,2,132,2],
 			"indent": 1,
-			"original": "\\n[1]: Und wenn man die Kugeln ins Armband koppelt?",
+			"original": "Kento: Und wenn man die Kugeln ins Armband koppelt?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Und wenn man die Kugeln ins ",
@@ -313,7 +313,7 @@
 		{
 			"path": [6,2,135,2],
 			"indent": 1,
-			"original": "\\n[6]: ...In dem Fall wirkt sich das Element auf den Schutz aus.",
+			"original": "Ileya: ...In dem Fall wirkt sich das Element auf den Schutz aus.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: ...In dem Fall wirkt sich das ",
@@ -323,7 +323,7 @@
 		{
 			"path": [6,2,137,4],
 			"indent": 1,
-			"original": "\\n[6]: Wenn man Wasserkugeln in das Armband gekoppelt hat, bietet das zum Beispiel einen leichten Schutz gegen Wasser-Angriffe.",
+			"original": "Ileya: Wenn man Wasserkugeln in das Armband gekoppelt hat, bietet das zum Beispiel einen leichten Schutz gegen Wasser-Angriffe.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Wenn man Wasserkugeln ",
@@ -335,7 +335,7 @@
 		{
 			"path": [6,2,142,4],
 			"indent": 1,
-			"original": "\\n[6]: Natürlich steigt der Schutz oder das Schadensattribut, je mehr gleiche Kugeln man in die Waffe oder in das Armband koppelt.",
+			"original": "Ileya: Natürlich steigt der Schutz oder das Schadensattribut, je mehr gleiche Kugeln man in die Waffe oder in das Armband koppelt.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Natürlich steigt der Schutz ",
@@ -347,7 +347,7 @@
 		{
 			"path": [6,2,146,4],
 			"indent": 1,
-			"original": "\\n[6]: Man kann auch von jedem Element ein bisschen was haben, aber das ist dann wirklich kaum bemerkbar.",
+			"original": "Ileya: Man kann auch von jedem Element ein bisschen was haben, aber das ist dann wirklich kaum bemerkbar.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Man kann auch von jedem ",
@@ -359,7 +359,7 @@
 		{
 			"path": [6,2,151,4],
 			"indent": 1,
-			"original": "\\n[1]: Hm.. Das ist interessant. Also haben diese Element-Kugeln auch eine direkte Wirkung und dienen nicht nur zum Signum lernen...",
+			"original": "Kento: Hm.. Das ist interessant. Also haben diese Element-Kugeln auch eine direkte Wirkung und dienen nicht nur zum Signum lernen...",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Hm..\\. Das ist interessant.\\. Also ",
@@ -371,7 +371,7 @@
 		{
 			"path": [6,2,156,3],
 			"indent": 1,
-			"original": "\\n[6]: Ja, aber es gibt noch einen Nachteil bei der Schutzwirkung der ins Armband gekoppelten Kugeln.",
+			"original": "Ileya: Ja, aber es gibt noch einen Nachteil bei der Schutzwirkung der ins Armband gekoppelten Kugeln.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Ja, aber es gibt noch einen ",
@@ -382,7 +382,7 @@
 		{
 			"path": [6,2,159,3],
 			"indent": 1,
-			"original": "\\n[6]: Man wird nämlich gegen das Gegen-Element von dem, was man einkoppelt, empfindlicher.",
+			"original": "Ileya: Man wird nämlich gegen das Gegen-Element von dem, was man einkoppelt, empfindlicher.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Man wird nämlich gegen das ",
@@ -393,7 +393,7 @@
 		{
 			"path": [6,2,162,4],
 			"indent": 1,
-			"original": "\\n[6]: Hat man etwa nur Wasser- kugeln ins Armband gekoppelt, dann ziehen in diesem Fall Feuer- Elementar-Angriffe mehr ab.",
+			"original": "Ileya: Hat man etwa nur Wasser- kugeln ins Armband gekoppelt, dann ziehen in diesem Fall Feuer- Elementar-Angriffe mehr ab.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Hat man etwa nur Wasser- ",
@@ -405,7 +405,7 @@
 		{
 			"path": [6,2,167,4],
 			"indent": 1,
-			"original": "\\n[6]: Die Gegenelemente sind übrigens Feuer - Wasser, Erde - Wind und Licht - Schatten... Sollte nicht so schwer zu merken sein.",
+			"original": "Ileya: Die Gegenelemente sind übrigens Feuer - Wasser, Erde - Wind und Licht - Schatten... Sollte nicht so schwer zu merken sein.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Die Gegenelemente sind ",
@@ -417,7 +417,7 @@
 		{
 			"path": [6,2,172,2],
 			"indent": 1,
-			"original": "\\n[6]: Und zum Schluss noch eine Sache.",
+			"original": "Ileya: Und zum Schluss noch eine Sache.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Und zum Schluss noch ",
@@ -427,7 +427,7 @@
 		{
 			"path": [6,2,174,3],
 			"indent": 1,
-			"original": "\\n[6]: Erhöhte Element Level führen auch zu erhöhten Statuswerten. Die Aufteilung ist dabei wie folgt:",
+			"original": "Ileya: Erhöhte Element Level führen auch zu erhöhten Statuswerten. Die Aufteilung ist dabei wie folgt:",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Erhöhte Element Level",
@@ -438,7 +438,7 @@
 		{
 			"path": [6,2,177,4],
 			"indent": 1,
-			"original": "\\n[6]: Feuer erhöht Stärke, Wasser erhöht Mental, Erde erhöht Abwehr, Wind erhöht Agilität.",
+			"original": "Ileya: Feuer erhöht Stärke, Wasser erhöht Mental, Erde erhöht Abwehr, Wind erhöht Agilität.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Feuer erhöht Stärke,",
@@ -450,7 +450,7 @@
 		{
 			"path": [6,2,181,2],
 			"indent": 1,
-			"original": "\\n[6]: Licht erhöht HP und Schatten erhöht MP.",
+			"original": "Ileya: Licht erhöht HP und Schatten erhöht MP.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Licht erhöht HP",
@@ -459,7 +459,7 @@
 		},
 		{
 			"path": [6,2,193,2],
-			"original": "\\n[6]: Ja, mehr kann ich dazu nicht sagen.",
+			"original": "Ileya: Ja, mehr kann ich dazu nicht sagen.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Ja\\., mehr kann ich dazu nicht ",
@@ -468,7 +468,7 @@
 		},
 		{
 			"path": [6,2,199,2],
-			"original": "\\n[1]: Okay. Vielen Dank für die Information.",
+			"original": "Kento: Okay. Vielen Dank für die Information.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Okay. Vielen Dank für die ",
@@ -477,7 +477,7 @@
 		},
 		{
 			"path": [6,2,202,1],
-			"original": "\\n[2]: *gäääähn*",
+			"original": "Cibon: *gäääähn*",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: *gäääähn* "
@@ -485,7 +485,7 @@
 		},
 		{
 			"path": [6,2,204,2],
-			"original": "\\n[2]: Seid ihr beiden endlich fertig?",
+			"original": "Cibon: Seid ihr beiden endlich fertig?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Seid ihr beiden ",
@@ -494,7 +494,7 @@
 		},
 		{
 			"path": [6,2,207,3],
-			"original": "\\n[6]: Herr Kento... Ich hätte da mal eine Frage nebenbei. Ist Kento jetzt ihr Nachname?",
+			"original": "Ileya: Herr Kento... Ich hätte da mal eine Frage nebenbei. Ist Kento jetzt ihr Nachname?",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Herr Kento...\\. Ich hätte da mal ",
@@ -504,7 +504,7 @@
 		},
 		{
 			"path": [6,2,211,1],
-			"original": "\\n[1]: Nein, mein Vorname.",
+			"original": "Kento: Nein, mein Vorname.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Nein, mein Vorname."
@@ -512,7 +512,7 @@
 		},
 		{
 			"path": [6,2,213,2],
-			"original": "\\n[6]: Öhm... Sind Sie etwa... Kento Daikon?",
+			"original": "Ileya: Öhm... Sind Sie etwa... Kento Daikon?",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Öhm...\\. Sind Sie etwa...\\.",
@@ -521,7 +521,7 @@
 		},
 		{
 			"path": [6,2,216,1],
-			"original": "\\n[1]: ...ja.",
+			"original": "Kento: ...ja.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: ...\\.\\.ja."
@@ -529,7 +529,7 @@
 		},
 		{
 			"path": [6,2,218,3],
-			"original": "\\n[6]: SIE sind also der Sohn von Genyu Daikon?! Wahnsinn. Ich hätte Sie mir etwas anders vorgestellt.",
+			"original": "Ileya: SIE sind also der Sohn von Genyu Daikon?! Wahnsinn. Ich hätte Sie mir etwas anders vorgestellt.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: SIE sind also der Sohn von ",
@@ -539,7 +539,7 @@
 		},
 		{
 			"path": [6,2,221,3],
-			"original": "\\n[6]: Man sagte mir, dass Sie hier ein richtiges Talent sind, fast schon wie der Vater! Was...",
+			"original": "Ileya: Man sagte mir, dass Sie hier ein richtiges Talent sind, fast schon wie der Vater! Was...",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Man sagte mir, dass Sie hier ",
@@ -549,7 +549,7 @@
 		},
 		{
 			"path": [6,2,227,1],
-			"original": "\\n[1]: *seufz*",
+			"original": "Kento: *seufz*",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: *seufz*"
@@ -557,7 +557,7 @@
 		},
 		{
 			"path": [6,2,236,1],
-			"original": "\\n[6]: Öh... Herr Daikon! Was ist los?",
+			"original": "Ileya: Öh... Herr Daikon! Was ist los?",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Öh...\\. Herr Daikon!\\. Was ist los?"
@@ -565,7 +565,7 @@
 		},
 		{
 			"path": [6,2,243,2],
-			"original": "\\n[2]: Lassen Sie ihn! ... Man merkt wirklich, dass Sie hier neu sind.",
+			"original": "Cibon: Lassen Sie ihn! ... Man merkt wirklich, dass Sie hier neu sind.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Lassen Sie ihn!\\. ...\\. Man merkt ",
@@ -574,7 +574,7 @@
 		},
 		{
 			"path": [6,2,248,1],
-			"original": "\\n[6]: W-Wieso, was ist los?",
+			"original": "Ileya: W-Wieso, was ist los?",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: W-Wieso,\\. was ist los?"
@@ -582,7 +582,7 @@
 		},
 		{
 			"path": [6,2,250,3],
-			"original": "\\n[2]: Es stimmt, dass er der Sohn von Genyu Daikon ist. Aber er ist alles andere als Stolz darauf.",
+			"original": "Cibon: Es stimmt, dass er der Sohn von Genyu Daikon ist. Aber er ist alles andere als Stolz darauf.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Es stimmt,\\. dass er der Sohn ",
@@ -592,7 +592,7 @@
 		},
 		{
 			"path": [6,2,255,1],
-			"original": "\\n[6]: Wie bitte?",
+			"original": "Ileya: Wie bitte?",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Wie bitte?"
@@ -600,7 +600,7 @@
 		},
 		{
 			"path": [6,2,260,4],
-			"original": "\\n[2]: Er hasst seinen Vater. Er möchte nicht mit ihm in Verbindung gebracht werden. Deswegen erwähnt er auch nie seinen Nachnamen.",
+			"original": "Cibon: Er hasst seinen Vater. Er möchte nicht mit ihm in Verbindung gebracht werden. Deswegen erwähnt er auch nie seinen Nachnamen.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Er hasst seinen Vater.\\. Er ",
@@ -611,7 +611,7 @@
 		},
 		{
 			"path": [6,2,265,3],
-			"original": "\\n[6]: Aber wieso tut er das? Ich meine... sein Vater war ein Held. Er war im ganzen Land berühmt.",
+			"original": "Ileya: Aber wieso tut er das? Ich meine... sein Vater war ein Held. Er war im ganzen Land berühmt.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Aber wieso tut er das?\\. ",
@@ -621,7 +621,7 @@
 		},
 		{
 			"path": [6,2,269,3],
-			"original": "\\n[2]: Ich weiß es auch nicht genau. Sie können sich ja denken, dass er nicht sehr gerne darüber spricht.",
+			"original": "Cibon: Ich weiß es auch nicht genau. Sie können sich ja denken, dass er nicht sehr gerne darüber spricht.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Ich weiß es auch nicht genau. ",
@@ -631,7 +631,7 @@
 		},
 		{
 			"path": [6,2,273,4],
-			"original": "\\n[2]: Jedenfalls wissen fast alle hier von seiner Einstellung. Kento hat das gleich zu Anfang mehr als deutlich klar gestellt.",
+			"original": "Cibon: Jedenfalls wissen fast alle hier von seiner Einstellung. Kento hat das gleich zu Anfang mehr als deutlich klar gestellt.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Jedenfalls wissen fast alle ",
@@ -642,7 +642,7 @@
 		},
 		{
 			"path": [6,2,278,3],
-			"original": "\\n[2]: Das war zu dem Zeitpunkt, wo wir die Ausbildung zum Soldaten begannen.",
+			"original": "Cibon: Das war zu dem Zeitpunkt, wo wir die Ausbildung zum Soldaten begannen.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Das war zu dem Zeitpunkt, wo ",
@@ -652,7 +652,7 @@
 		},
 		{
 			"path": [6,2,282,3],
-			"original": "\\n[2]: Es war die erste Versammlung, wo die Grundregeln der Ausbildung geklärt wurden...",
+			"original": "Cibon: Es war die erste Versammlung, wo die Grundregeln der Ausbildung geklärt wurden...",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Es war die erste Versammlung, ",
@@ -662,7 +662,7 @@
 		},
 		{
 			"path": [6,3,12,3],
-			"original": "\\n[2]: So wurde schnell überall von Kentos Einstellung zu seinem Vater bekannt.",
+			"original": "Cibon: So wurde schnell überall von Kentos Einstellung zu seinem Vater bekannt.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: So wurde schnell überall von ",
@@ -672,7 +672,7 @@
 		},
 		{
 			"path": [6,3,17,3],
-			"original": "\\n[2]: Die meisten hielten sich seitdem von Kento fern. Zumindest die nächsten Monate.",
+			"original": "Cibon: Die meisten hielten sich seitdem von Kento fern. Zumindest die nächsten Monate.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Die meisten hielten sich ",
@@ -682,7 +682,7 @@
 		},
 		{
 			"path": [6,3,21,4],
-			"original": "\\n[2]: Ich glaube ich war einer der Wenigen, die noch normal mit ihm geredet haben. Deswegen haben wir uns schnell angefreundet.",
+			"original": "Cibon: Ich glaube ich war einer der Wenigen, die noch normal mit ihm geredet haben. Deswegen haben wir uns schnell angefreundet.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Ich glaube ich war einer der ",
@@ -693,7 +693,7 @@
 		},
 		{
 			"path": [6,3,26,4],
-			"original": "\\n[2]: Ansonsten ist Kento eigentlich ein richtig netter Kerl, nur manchmal ist er ein bisschen komisch drauf.",
+			"original": "Cibon: Ansonsten ist Kento eigentlich ein richtig netter Kerl, nur manchmal ist er ein bisschen komisch drauf.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Ansonsten ist Kento ",
@@ -704,7 +704,7 @@
 		},
 		{
 			"path": [6,3,34,4],
-			"original": "\\n[6]: Hm... Ich verstehe. Sagen sie ihm bitte, dass es mir wirklich Leid tut. Ich wusste von all dem nichts.",
+			"original": "Ileya: Hm... Ich verstehe. Sagen sie ihm bitte, dass es mir wirklich Leid tut. Ich wusste von all dem nichts.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Hm...\\. Ich verstehe. ",
@@ -715,7 +715,7 @@
 		},
 		{
 			"path": [6,3,39,3],
-			"original": "\\n[2]: Ach, machen sie sich da keinen Kopf drum! Er wird ihnen schon verzeihen.",
+			"original": "Cibon: Ach, machen sie sich da keinen Kopf drum! Er wird ihnen schon verzeihen.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Ach, machen sie sich da ",
@@ -725,7 +725,7 @@
 		},
 		{
 			"path": [7,1,3,3],
-			"original": "\\n[6]: Oh, hallo. Öhm... Haben Sie noch irgendwelche Fragen, was Signum-Zauber angeht?",
+			"original": "Ileya: Oh, hallo. Öhm... Haben Sie noch irgendwelche Fragen, was Signum-Zauber angeht?",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Oh, hallo.\\. Öhm...\\.",
@@ -736,7 +736,7 @@
 		{
 			"path": [7,1,11,4],
 			"indent": 1,
-			"original": "\\n[6]: Sie lernen Signum-Zauber, indem Sie Element-Kugeln in die Waffe oder in das Armband koppeln und damit im Kampf Exp erhalten.",
+			"original": "Ileya: Sie lernen Signum-Zauber, indem Sie Element-Kugeln in die Waffe oder in das Armband koppeln und damit im Kampf Exp erhalten.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Sie lernen Signum-Zauber, ",
@@ -748,7 +748,7 @@
 		{
 			"path": [7,1,15,4],
 			"indent": 1,
-			"original": "\\n[6]: Dadurch geht ein Teil der Erfahrung auf die Level der Elemente ein, zu denen man die passende Kugeln gekoppelt hat.",
+			"original": "Ileya: Dadurch geht ein Teil der Erfahrung auf die Level der Elemente ein, zu denen man die passende Kugeln gekoppelt hat.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Dadurch geht ein Teil der ",
@@ -760,7 +760,7 @@
 		{
 			"path": [7,1,19,3],
 			"indent": 1,
-			"original": "\\n[6]: Das Angriff-Level des Elements steigt, wenn man die Kugel in die Waffe koppelt.",
+			"original": "Ileya: Das Angriff-Level des Elements steigt, wenn man die Kugel in die Waffe koppelt.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Das Angriff-Level des Elements ",
@@ -771,7 +771,7 @@
 		{
 			"path": [7,1,22,3],
 			"indent": 1,
-			"original": "\\n[6]: Das Abwehr-Level des Elements steigt, wenn man die Kugel in das Armband koppelt.",
+			"original": "Ileya: Das Abwehr-Level des Elements steigt, wenn man die Kugel in das Armband koppelt.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Das Abwehr-Level des ",
@@ -782,7 +782,7 @@
 		{
 			"path": [7,1,25,3],
 			"indent": 1,
-			"original": "\\n[6]: Ein Beispiel: Koppeln sie eine Feuerkugel in die Waffe und ein Wasserkugel in das Armband,...",
+			"original": "Ileya: Ein Beispiel: Koppeln sie eine Feuerkugel in die Waffe und ein Wasserkugel in das Armband,...",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Ein Beispiel: Koppeln sie eine ",
@@ -793,7 +793,7 @@
 		{
 			"path": [7,1,28,3],
 			"indent": 1,
-			"original": "\\n[6]: ...dann steigt das Feuer- Angriff-Level und das Wasser- Abwehr-Level.",
+			"original": "Ileya: ...dann steigt das Feuer- Angriff-Level und das Wasser- Abwehr-Level.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: ...dann steigt das Feuer-",
@@ -804,7 +804,7 @@
 		{
 			"path": [7,1,31,4],
 			"indent": 1,
-			"original": "\\n[6]: Koppeln Sie mehrere gleiche Kugeln in die Waffe oder in das Armband, stiegt das jeweilige Element-Level natürlich schneller.",
+			"original": "Ileya: Koppeln Sie mehrere gleiche Kugeln in die Waffe oder in das Armband, stiegt das jeweilige Element-Level natürlich schneller.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Koppeln Sie mehrere gleiche ",
@@ -816,7 +816,7 @@
 		{
 			"path": [7,1,38,4],
 			"indent": 1,
-			"original": "\\n[6]: Beachten Sie, dass die Anzahl der Exp, die Sie für ein Element-Level bekommen, nicht von dem Element-Level selber abhängt.",
+			"original": "Ileya: Beachten Sie, dass die Anzahl der Exp, die Sie für ein Element-Level bekommen, nicht von dem Element-Level selber abhängt.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Beachten Sie, dass die ",
@@ -828,7 +828,7 @@
 		{
 			"path": [7,1,42,4],
 			"indent": 1,
-			"original": "\\n[6]: Die Anzahl der Exp, die Sie erhalten richten sich immer an das Level des Charakters im Vergleich zum Level der Gegner.",
+			"original": "Ileya: Die Anzahl der Exp, die Sie erhalten richten sich immer an das Level des Charakters im Vergleich zum Level der Gegner.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Die Anzahl der Exp, die Sie ",
@@ -840,7 +840,7 @@
 		{
 			"path": [7,1,46,3],
 			"indent": 1,
-			"original": "\\n[6]: Das heißt, mit steigendem Charakter-Level bekommen Sie immer weniger Exp.",
+			"original": "Ileya: Das heißt, mit steigendem Charakter-Level bekommen Sie immer weniger Exp.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Das heißt, mit steigendem ",
@@ -851,7 +851,7 @@
 		{
 			"path": [7,1,49,4],
 			"indent": 1,
-			"original": "\\n[6]: Wenn Sie also ohne Element- Kugeln in der Ausrüstung kämpfen, haben die EXP keine Wirkung auf die Element-Level.",
+			"original": "Ileya: Wenn Sie also ohne Element- Kugeln in der Ausrüstung kämpfen, haben die EXP keine Wirkung auf die Element-Level.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Wenn Sie also ohne Element-",
@@ -863,7 +863,7 @@
 		{
 			"path": [7,1,53,3],
 			"indent": 1,
-			"original": "\\n[6]: Und trotzdem bekommen Sie immer weniger Exp, wenn das Charakter-Level steigt.",
+			"original": "Ileya: Und trotzdem bekommen Sie immer weniger Exp, wenn das Charakter-Level steigt.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Und trotzdem bekommen Sie ",
@@ -874,7 +874,7 @@
 		{
 			"path": [7,1,56,3],
 			"indent": 1,
-			"original": "\\n[6]: Sie sollten also möglichst immer so viele Element-Kugeln eingekoppelt haben wie möglich.",
+			"original": "Ileya: Sie sollten also möglichst immer so viele Element-Kugeln eingekoppelt haben wie möglich.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Sie sollten also möglichst ",
@@ -885,7 +885,7 @@
 		{
 			"path": [7,1,59,4],
 			"indent": 1,
-			"original": "\\n[6]: Achten Sie auch darauf, das ein Element-Level nicht mehr steigt, wenn es genauso hoch wie das Charakter-Level ist.",
+			"original": "Ileya: Achten Sie auch darauf, das ein Element-Level nicht mehr steigt, wenn es genauso hoch wie das Charakter-Level ist.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Achten Sie auch darauf, das ein ",
@@ -897,7 +897,7 @@
 		{
 			"path": [7,1,66,4],
 			"indent": 1,
-			"original": "\\n[6]: Hat man Element-Kugeln in der Ausrüstung, zeigen die Elemente der Kugeln immer eine kleine Wirkung beim Angriff oder bei der Abwehr.",
+			"original": "Ileya: Hat man Element-Kugeln in der Ausrüstung, zeigen die Elemente der Kugeln immer eine kleine Wirkung beim Angriff oder bei der Abwehr.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Hat man Element-Kugeln in ",
@@ -909,7 +909,7 @@
 		{
 			"path": [7,1,70,4],
 			"indent": 1,
-			"original": "\\n[6]: Je mehr Kugeln eines Elementes in Waffe oder Rüstung eingekoppelt sind, desto größer ist die Wirkung dieses Elements.",
+			"original": "Ileya: Je mehr Kugeln eines Elementes in Waffe oder Rüstung eingekoppelt sind, desto größer ist die Wirkung dieses Elements.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Je mehr Kugeln eines ",
@@ -921,7 +921,7 @@
 		{
 			"path": [7,1,74,4],
 			"indent": 1,
-			"original": "\\n[6]: Koppelt man in die Waffe, zeigen die Elemente Wirkung auf den Angriff. Der Angriff bekommt die Elemente als \"Attribut\".",
+			"original": "Ileya: Koppelt man in die Waffe, zeigen die Elemente Wirkung auf den Angriff. Der Angriff bekommt die Elemente als \"Attribut\".",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Koppelt man in die Waffe, ",
@@ -933,7 +933,7 @@
 		{
 			"path": [7,1,78,4],
 			"indent": 1,
-			"original": "\\n[6]: Beispielweise hat eine Waffe mit einigen Feuer-Kugeln, ein leichtes Feuer-Attribut und zieht bei Eis-Gegnern etwas mehr ab.",
+			"original": "Ileya: Beispielweise hat eine Waffe mit einigen Feuer-Kugeln, ein leichtes Feuer-Attribut und zieht bei Eis-Gegnern etwas mehr ab.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Beispielweise hat eine Waffe  ",
@@ -945,7 +945,7 @@
 		{
 			"path": [7,1,82,4],
 			"indent": 1,
-			"original": "\\n[6]: Koppelt man in das Armband, geben die Elemente einen kleinen Schutz vor Angriffen ihres Elementes.",
+			"original": "Ileya: Koppelt man in das Armband, geben die Elemente einen kleinen Schutz vor Angriffen ihres Elementes.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Koppelt man in das Armband, ",
@@ -957,7 +957,7 @@
 		{
 			"path": [7,1,86,4],
 			"indent": 1,
-			"original": "\\n[6]: Ein Armband mit einigen Wasser-Kugeln schützt so zum Beispiel vor Techniken wie Wasser- Elementaren Angriffen.",
+			"original": "Ileya: Ein Armband mit einigen Wasser-Kugeln schützt so zum Beispiel vor Techniken wie Wasser- Elementaren Angriffen.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Ein Armband mit einigen ",
@@ -968,7 +968,7 @@
 		},
 		{
 			"path": [7,1,99,1],
-			"original": "\\n[6]: Gibt es sonst noch Fragen?",
+			"original": "Ileya: Gibt es sonst noch Fragen?",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Gibt es sonst noch Fragen?"
@@ -977,7 +977,7 @@
 		{
 			"path": [7,1,106,3],
 			"indent": 1,
-			"original": "\\n[6]: Am Anfang ist es immer Ratsam, die ersten Signum-Techniken eines jeden Elementes zu erlernen.",
+			"original": "Ileya: Am Anfang ist es immer Ratsam, die ersten Signum-Techniken eines jeden Elementes zu erlernen.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Am Anfang ist es immer ",
@@ -988,7 +988,7 @@
 		{
 			"path": [7,1,109,4],
 			"indent": 1,
-			"original": "\\n[6]: Das bedeutet: Haben sie die 1. Angriffs-Technik eines Elementes erlernt, steigern Sie als nächstes am besten ein anderes Angriffs-Level",
+			"original": "Ileya: Das bedeutet: Haben sie die 1. Angriffs-Technik eines Elementes erlernt, steigern Sie als nächstes am besten ein anderes Angriffs-Level",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Das bedeutet: Haben sie die 1. ",
@@ -1000,7 +1000,7 @@
 		{
 			"path": [7,1,113,4],
 			"indent": 1,
-			"original": "\\n[6]: Wenn Sie immer die 1. Techniken lernen habt ihr recht schnell eine kleine Auswahl von verschiedenen Signum-Techniken.",
+			"original": "Ileya: Wenn Sie immer die 1. Techniken lernen habt ihr recht schnell eine kleine Auswahl von verschiedenen Signum-Techniken.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Wenn Sie immer die 1. ",
@@ -1012,7 +1012,7 @@
 		{
 			"path": [7,1,117,4],
 			"indent": 1,
-			"original": "\\n[6]: Ansonsten sollten Sie, wenn Sie neuen Gegnern begegnen, die viel Erfahrung geben, vorzugsweise die Ausrüstung so wählen, ...",
+			"original": "Ileya: Ansonsten sollten Sie, wenn Sie neuen Gegnern begegnen, die viel Erfahrung geben, vorzugsweise die Ausrüstung so wählen, ...",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Ansonsten sollten Sie, wenn Sie ",
@@ -1024,7 +1024,7 @@
 		{
 			"path": [7,1,121,4],
 			"indent": 1,
-			"original": "\\n[6]: ...dass sie so viele Element- Kugeln wie möglich einkoppeln können. Gerade wenn man gut aufstufen kann, ist das ratsam.",
+			"original": "Ileya: ...dass sie so viele Element- Kugeln wie möglich einkoppeln können. Gerade wenn man gut aufstufen kann, ist das ratsam.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: ...dass sie so viele Element-",
@@ -1036,7 +1036,7 @@
 		{
 			"path": [7,1,128,4],
 			"indent": 1,
-			"original": "\\n[6]: Die Verwendung von Signum- Technken zerrt an ihren Mental- Punkte-Vorrat, der bei jedem Charakter unterschiedlich groß ist.",
+			"original": "Ileya: Die Verwendung von Signum- Technken zerrt an ihren Mental- Punkte-Vorrat, der bei jedem Charakter unterschiedlich groß ist.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Die Verwendung von Signum-",
@@ -1048,7 +1048,7 @@
 		{
 			"path": [7,1,132,4],
 			"indent": 1,
-			"original": "\\n[6]: Mental Punkte regenerieren sich, wenn man schläft oder Heilitems wie \"Mentaltropfen\" verwendet.",
+			"original": "Ileya: Mental Punkte regenerieren sich, wenn man schläft oder Heilitems wie \"Mentaltropfen\" verwendet.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Mental Punkte regenerieren ",
@@ -1060,7 +1060,7 @@
 		{
 			"path": [7,1,136,4],
 			"indent": 1,
-			"original": "\\n[6]: Ansonsten heilt sich auch ein kleiner Teil der Mental-Punkte, wenn man am Ende des Kampfes noch ein paar SP übrig hat.",
+			"original": "Ileya: Ansonsten heilt sich auch ein kleiner Teil der Mental-Punkte, wenn man am Ende des Kampfes noch ein paar SP übrig hat.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Ansonsten heilt sich auch ein ",
@@ -1071,7 +1071,7 @@
 		},
 		{
 			"path": [7,1,149,1],
-			"original": "\\n[6]: Gibt es sonst noch Fragen?",
+			"original": "Ileya: Gibt es sonst noch Fragen?",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Gibt es sonst noch Fragen?"
@@ -1079,7 +1079,7 @@
 		},
 		{
 			"path": [7,1,153,2],
-			"original": "\\n[6]: Ich hoffe, ich konnte behilflich sein.",
+			"original": "Ileya: Ich hoffe, ich konnte behilflich sein.",
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Ich hoffe, ich konnte ",

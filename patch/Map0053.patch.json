@@ -6,8 +6,8 @@
 			"original": "Verkäuferin: Wir führen Waffen und Rüstungen aus stabiler Bronze.",
 			"lines":
 			[
-				"\\c[10]Verkäuferin\\c[0]: Wir führen Waffen und Rüstungen ",
-				"aus stabiler Bronze. "
+				"\\c[10]Saleswoman\\c[0]: We carry weapons and armor made",
+				"from the finest bronze!"
 			]
 		},
 		{
@@ -15,9 +15,8 @@
 			"original": "Soldat des Briganten-Ordens: Ach, ihr beiden seid endlich wieder zurück? Wieso hat das so lange gedauert?",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Ordens\\c[0]: Ach, ihr beiden ",
-				"seid endlich wieder zurück?\\. Wieso hat das so ",
-				"lange gedauert?"
+				"\\c[10]Brigantian Soldier\\c[0]: Oh, you two are finally back?\\.",
+				"What took so long?"
 			]
 		},
 		{
@@ -25,10 +24,10 @@
 			"original": "Kento: Die Diebe haben uns keine Probleme gemacht, nur hat es leider ziemlich lange gedauert, bis sie sich überhaupt blicken ließen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Die Diebe haben uns keine ",
-				"Probleme gemacht, nur hat es leider ",
-				"ziemlich lange gedauert, bis sie sich ",
-				"überhaupt blicken ließen."
+				"\\c[1]\\n[1]\\c[0]: The thieves didn't cause us",
+				"any problems, but unfortunately it",
+				"took quite a long time for them to",
+				"show up."
 			]
 		},
 		{
@@ -36,10 +35,9 @@
 			"original": "Soldat des Briganten-Ordens: Ach, wenn das so ist. Ich dachte schon, ihr hättet tatsächlich Probleme mit dieser kleinen Räuberbande gehabt.",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Ordens\\c[0]: Ach, wenn das so ",
-				"ist.\\. Ich dachte schon, ihr hättet tatsächlich ",
-				"Probleme mit dieser kleinen Räuberbande ",
-				"gehabt."
+				"\\c[10]Brigantian Soldier\\c[0]: Well, if that's what you",
+				"say.\\. I thought you actually had problems",
+				"with this little band of robbers."
 			]
 		},
 		{
@@ -47,9 +45,8 @@
 			"original": "Soldat des Briganten-Ordens: Sir Vorento wartet jedenfalls schon gespannt auf eure Ankunft.",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Ordens\\c[0]: Sir Vorento ",
-				"wartet jedenfalls schon gespannt auf eure ",
-				"Ankunft."
+				"\\c[10]Brigantian Soldier\\c[0]: Sir Vorento is",
+				"looking forward to your arrival."
 			]
 		},
 		{
@@ -57,9 +54,9 @@
 			"original": "Soldat des Briganten-Ordens: Lasst ihn nicht zu lange warten. Ihr seid neu und müsst noch einen guten Eindruck hinterlassen.",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Ordens\\c[0]: Lasst ihn nicht zu ",
-				"lange warten. Ihr seid neu und müsst noch ",
-				"einen guten Eindruck hinterlassen. "
+				"\\c[10]Brigantian Soldier\\c[0]: Don't make him wait too long.",
+				"You are new here and still have to make",
+				"a good impression."
 			]
 		},
 		{
@@ -67,9 +64,9 @@
 			"original": "Mann: Hier im Norden schmelzen wir nur das beste Metall und haben so genau das richtige Material für robuste Waffen und Rüstungen.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Hier im Norden schmelzen wir nur das ",
-				"beste Metall und haben so genau das richtige ",
-				"Material für robuste Waffen und Rüstungen."
+				"\\c[10]Man\\c[0]: Here in the north, we only melt the",
+				"best metal and have just the right",
+				"material for robust weapons and armor."
 			]
 		},
 		{
@@ -77,8 +74,8 @@
 			"original": "Mann: Waffen aus Brigantia sind bekannt für ihre hohe Qualität und Stabilität.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Waffen aus Brigantia sind bekannt für ",
-				"ihre hohe Qualität und Stabilität."
+				"\\c[10]Man\\c[0]: Weapons from Brigantia are known for",
+				"their high quality and durability."
 			]
 		},
 		{
@@ -87,10 +84,9 @@
 			"original": "Cibon: Schön und gut, aber ich hab gehört, dass unsere Waffen einen ziemlich schlechten Schliff haben, im Vergleich zu denen im Ausland.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Schön und gut, aber ich hab ",
-				"gehört, dass unsere Waffen einen ",
-				"ziemlich schlechten Schliff haben, im ",
-				"Vergleich zu denen im Ausland."
+				"\\c[2]\\n[2]\\c[0]: Alright, but I've heard that our",
+				"weapons have a pretty bad polish",
+				"compared to those abroad."
 			]
 		},
 		{
@@ -99,8 +95,8 @@
 			"original": "Mann: Ähh... ja... Keine Ahnung.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Ähh...\\. ja...\\. ",
-				"Keine Ahnung."
+				"\\c[10]Man\\c[0]: Well...\\. yes...\\.",
+				"I don't know."
 			]
 		}
 	]

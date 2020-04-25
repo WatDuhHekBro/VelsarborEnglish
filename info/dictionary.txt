@@ -1,19 +1,19 @@
 ##############
 # Characters #
 ##############
-Adelsfrau: 
-Adelsmann: 
-Alte Frau: 
+Adelsfrau: Noblewoman
+Adelsmann: Nobleman
+Alte Frau: Old Woman
 Alter Herr: Old Man
-Alter Mann: 
-Anderer Soldat: 
-Angehender Soldat: 
-Ausbilder: 
-Betrunkener Mann: 
-Blauhaarige Frau: 
+Alter Mann: Old Man
+Anderer Soldat: Other Soldier
+Angehender Soldat: Budding Soldier
+Ausbilder: Instructor
+Betrunkener Mann: Drunk Man
+Blauhaarige Frau: Blue-Haired Woman
 Blondes Mädchen: Blonde Girl
 Bürgermeister: Mayor
-Chef: 
+Chef: ???
 Cibon
 Erim Akiro
 Felcis
@@ -21,74 +21,73 @@ Frau: Woman
 Frau Mensesso: Lady Mensesso
 Frau Tirunel: Mrs. Tirunel
 Funkdurchsage: Radio
-Gärtner
-Gast: 
-Gasthofbesitzer: 
-Gasthofbesitzerin: 
+Gärtner: Gardener
+Gast: Guest
+Gasthofbesitzer: Inn Owner
+Gasthofbesitzerin: Inn Owner
 Gasthof-Besitzer: Inn Owner
 Gegnerische Einheit: Enemy Soldier
 General
 Genyu
-Glatzköpfiger Händler: 
-Grünhaarige Frau: 
+Glatzköpfiger Händler: Bald Merchant
+Grünhaarige Frau: Green-Haired Woman
 Guillian
 Gurim
 Händler: Merchant
 Händlerin: Merchant
 Hausfrau: Housewife
 Heimdall
-Herr Dorim: 
-Herr in blauem Anzug: 
-Herr Kuhrehpolarkreis(?): 
-Herr Kurenporalis(?): 
-Herr Uroto: 
-Hotelbesitzer: 
+Herr Dorim: Sir Dorim
+Herr in blauem Anzug: Noble in a blue suit
+Herr Qurenporelis/Kuränporäli/Kuhrehpolarkreis/Kurenporalis: Sir Qurenporelis/Kuranporali/Kuhrehpolarkreis/Kurenporalis
+Herr Uroto: Sir Uroto
+Hotelbesitzer: Hotel Owner
 Ileya
-Ingenieur: 
+Ingenieur: Engineer
 Jorn
 Junge: Boy
-Junge Frau: 
+Junge Frau: Young Woman
 Junger Mann: Young Man
-Junges Mädchen: 
+Junges Mädchen: Young Girl
 Kellnerin: Waitress
 Kento
-Kleiner Junge: 
-Kleines Mädchen: 
-Köchin: 
+Kleiner Junge: Little Boy
+Kleines Mädchen: Little Girl
+Köchin: Cook
 Kurzhaariges Mädchen: Short-Haired Girl
-Ladenbesitzer: 
+Ladenbesitzer: Shopkeeper
 Ladenbesitzerin: Shopkeeper
-Lilahaarige Frau: 
-Mädchen: 
+Lilahaarige Frau: Purple-Haired Woman
+Mädchen: Girl
 Mann: Man
-Massen: 
-Mitglied des Rates: 
-Oberstes Ratmitglied: 
-Pauamainer Schütze: 
+Massen: The Masses/Crowd
+Mitglied des Rates: Council Member
+Oberstes Ratmitglied: Head of the Council
+Pauamainer Schütze: ???
 Percil Cotiah
 Postbote: Postman
 Putzfrau: Maid
 Reiter: Rider
 Rika
 Robin
-Rothaarige Frau: Red-Haired Girl
+Rothaarige Frau: Red-Haired Woman
 Saion
 Sedric
-Sekretärin: 
+Sekretärin: Secretary
 Seldan
 Silkia
 Sir Vorento
 Soko
 Soldat: Soldier
 Soldaten: Soldiers
-Soldat der Briganten Orden: 
-Soldat des Briganten-Ordens: 
-Soldat vom Briganten-Orden: 
-Türsteher: 
+Soldat der Briganten Orden: Brigantian Soldier
+Soldat des Briganten-Ordens: Brigantian Soldier
+Soldat vom Briganten-Orden: Brigantian Soldier
+Türsteher: Bouncer
 Vel03
-Verkäuferin: 
+Verkäuferin: Saleswoman
 Wache: Guard
-Wächter: 
+Wächter: Guard
 Zojenische Einheit: Korzojenish Soldier
 
 #################
@@ -96,11 +95,13 @@ Zojenische Einheit: Korzojenish Soldier
 #################
 **Note** It seems that the game's pretty inconsistent about Birkon/Brigantia and Zojeno/Korzojeno. The beginning of the game and the later parts of the game aren't consistent, even though it's clear that they're the same from context.
 
-(Brigantian refers to people, Brigantine refers to the military force.)
+(Brigantian refers to the people, Brigantine refers to the military force.)
 The Nation of Brigantia
 The Brigantine Order
 Brigantian Soldiers
 Brigantians live in the world.
+
+Nomerea Castle
 
 The Nation of Korzojeno
 Korzojenish Soldiers

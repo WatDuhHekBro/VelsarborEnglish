@@ -6,7 +6,7 @@
 			"original": "Rothaarige Frau: S...Seldan... Glaube mir,...es ist besser so für mich...",
 			"lines":
 			[
-				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] S...\\. Seldan...\\.",
+				"\\c[13]Red-Haired Woman\\c[0]:\\s[6] S...\\. Seldan...\\.",
 				"It's...\\. better this way...\\.\\.\\^"
 			]
 		},
@@ -15,7 +15,7 @@
 			"original": "Rothaarige Frau: Diese ewigen Kriege,... ich kann sie nicht mehr sehen... Das... ständige Kämpfen...",
 			"lines":
 			[
-				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] This eternal war...\\.",
+				"\\c[13]Red-Haired Woman\\c[0]:\\s[6] This eternal war...\\.",
 				"I can't bear to see it any longer...\\.",
 				"These...\\. endless battles...\\.\\.\\^"
 			]
@@ -25,7 +25,7 @@
 			"original": "Rothaarige Frau: Seldan... Denkst du wirklich... wir werden so... jemals wieder... in Frieden leben können?",
 			"lines":
 			[
-				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] Seldan...\\. Do you",
+				"\\c[13]Red-Haired Woman\\c[0]:\\s[6] Seldan...\\. Do you",
 				"believe...\\. we will ever...\\. ever",
 				"again...\\. see peace in the world?\\.\\.\\^"
 			]
@@ -35,7 +35,7 @@
 			"original": "Rothaarige Frau: Seldan... merkst du nicht, wie wir uns im Kreis drehen? ... merkst du nicht, wie jeder Sieg uns nur mehr Leid erbringt?",
 			"lines":
 			[
-				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] Seldan...\\. Don't you",
+				"\\c[13]Red-Haired Woman\\c[0]:\\s[6] Seldan...\\. Don't you",
 				"notice...\\. how we're walking in a",
 				"circle?\\. ...Don't you see...\\. how each",
 				"victory only causes us more suffering?\\.\\.\\^"
@@ -46,9 +46,9 @@
 			"original": "Rothaarige Frau: Du weißt genau was es ist... was uns... in dieser Lage hält..",
 			"lines":
 			[
-				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] You know exactly what",
-				"it is...\\. that this...\\. situation holds",
-				"for us and all of humanity...\\.\\.\\^"
+				"\\c[13]Red-Haired Woman\\c[0]:\\s[6] You know exactly",
+				"what it is...\\. that this...\\. situation",
+				"holds for us and all of humanity...\\.\\.\\^"
 			]
 		},
 		{
@@ -56,7 +56,7 @@
 			"original": "Rothaarige Frau: Hör nicht auf das, ...was sie dir sagen... hör auf dich selbst, Seldan...",
 			"lines":
 			[
-				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] Don't listen to...\\.",
+				"\\c[13]Red-Haired Woman\\c[0]:\\s[6] Don't listen to...\\.",
 				"...what they tell you...\\. listen to",
 				"your heart, Seldan...\\.\\.\\^"
 			]
@@ -66,9 +66,9 @@
 			"original": "Rothaarige Frau: Du hast die Kraft dazu... Handel nach deinem eigenen Gewissen! ... Tu es für mich...",
 			"lines":
 			[
-				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] You have the strength",
-				"to do it...\\. Do it for your conscience!\\.",
-				"...\\.Do it...\\. for me...\\.\\.\\^"
+				"\\c[13]Red-Haired Woman\\c[0]:\\s[6] You have the",
+				"strength to do it...\\. Do it for your",
+				"conscience!\\. ...\\.Do it...\\. for me...\\.\\.\\^"
 			]
 		},
 		{
@@ -76,7 +76,7 @@
 			"original": "Rothaarige Frau: Es ist mein... letzter Wunsch an dich... Seldan... ich... ich liebe dich... Vergiss mich... bitte... nicht...",
 			"lines":
 			[
-				"\\c[13]Red-Haired Girl\\c[0]:\\s[6] It's my...\\.",
+				"\\c[13]Red-Haired Woman\\c[0]:\\s[6] It's my...\\.",
 				"last wish for you...\\. Seldan...\\.",
 				"I...\\. I love you...\\. Please...\\.",
 				"don't...\\. forget...\\. me...\\.\\.\\^"

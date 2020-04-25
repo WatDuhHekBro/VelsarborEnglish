@@ -13,7 +13,7 @@
 		},
 		{
 			"path": [5,2,16,1],
-			"original": "\\n[1]: Öhm... Guten Tag, Sir.",
+			"original": "Kento: Öhm... Guten Tag, Sir.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Öhm...\\. Guten Tag, Sir."
@@ -41,7 +41,7 @@
 		},
 		{
 			"path": [5,2,30,1],
-			"original": "\\n[1]: Nun gut...",
+			"original": "Kento: Nun gut...",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Nun gut..."
@@ -49,7 +49,7 @@
 		},
 		{
 			"path": [5,2,35,4],
-			"original": "\\n[1]: Wir kamen ungefähr 4 Stunden nach Abreise in Sinkholm an. Wir hatten kleinere Probleme mit feindlichen Begegnungen.",
+			"original": "Kento: Wir kamen ungefähr 4 Stunden nach Abreise in Sinkholm an. Wir hatten kleinere Probleme mit feindlichen Begegnungen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Wir kamen ungefähr 4 ",
@@ -60,7 +60,7 @@
 		},
 		{
 			"path": [5,2,40,4],
-			"original": "\\n[1]: Nachdem wir in Sinkholm den Bürgermeister über unsere Ankunft und Aufgabe informiert hatten, ...",
+			"original": "Kento: Nachdem wir in Sinkholm den Bürgermeister über unsere Ankunft und Aufgabe informiert hatten, ...",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Nachdem wir in Sinkholm ",
@@ -71,7 +71,7 @@
 		},
 		{
 			"path": [5,2,44,3],
-			"original": "\\n[1]: ...bekamen wir die Aufgabe, am Stadttor von Sinkholm Wache zu halten.",
+			"original": "Kento: ...bekamen wir die Aufgabe, am Stadttor von Sinkholm Wache zu halten.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: ...bekamen wir die Aufgabe, ",
@@ -81,7 +81,7 @@
 		},
 		{
 			"path": [5,2,53,4],
-			"original": "\\n[1]: Nachdem die Räuberbande gefasst wurde, schickte man eine Nachricht nach Nomerea, um einen Trupp Soldaten vorbeizuschicken,...",
+			"original": "Kento: Nachdem die Räuberbande gefasst wurde, schickte man eine Nachricht nach Nomerea, um einen Trupp Soldaten vorbeizuschicken,...",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Nachdem die Räuberbande",
@@ -92,7 +92,7 @@
 		},
 		{
 			"path": [5,2,57,4],
-			"original": "\\n[1]: ...der die Räuberbande ins nächste Gefängnis bringen sollte. Die Ankunft des Trupps geschah innerhalb weniger Stunden.",
+			"original": "Kento: ...der die Räuberbande ins nächste Gefängnis bringen sollte. Die Ankunft des Trupps geschah innerhalb weniger Stunden.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: ...der die Räuberbande ins ",
@@ -103,7 +103,7 @@
 		},
 		{
 			"path": [5,2,62,4],
-			"original": "\\n[2]: Da wir zu diesem Zeitpunkt bereits einen ganzen Tag keinen Schlaf mehr hatten, gönnten wir uns noch eine Übernachtung im Inn.",
+			"original": "Cibon: Da wir zu diesem Zeitpunkt bereits einen ganzen Tag keinen Schlaf mehr hatten, gönnten wir uns noch eine Übernachtung im Inn.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Da wir zu diesem Zeitpunkt ",
@@ -114,7 +114,7 @@
 		},
 		{
 			"path": [5,2,66,2],
-			"original": "\\n[2]: Am Tag darauf traten wir zur Rückkehr an.",
+			"original": "Cibon: Am Tag darauf traten wir zur Rückkehr an.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Am Tag darauf traten wir ",
@@ -123,7 +123,7 @@
 		},
 		{
 			"path": [5,2,69,4],
-			"original": "\\n[2]: Feindliche Begegnungen auf dem Rückweg haben... uns weniger Probleme bereitet als auf dem Hinweg.",
+			"original": "Cibon: Feindliche Begegnungen auf dem Rückweg haben... uns weniger Probleme bereitet als auf dem Hinweg.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Feindliche Begegnungen auf ",
@@ -134,7 +134,7 @@
 		},
 		{
 			"path": [5,2,75,1],
-			"original": "\\n[2]: ... Das war alles.",
+			"original": "Cibon: ... Das war alles.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: ... Das war alles."
@@ -172,7 +172,7 @@
 		},
 		{
 			"path": [5,2,90,1],
-			"original": "\\n[2]: Sauber! ...",
+			"original": "Cibon: Sauber! ...",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Sauber! ..."
@@ -180,7 +180,7 @@
 		},
 		{
 			"path": [5,2,92,2],
-			"original": "\\n[2]: ähh... ich meine 'In Ordnung' ...",
+			"original": "Cibon: ähh... ich meine 'In Ordnung' ...",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: ähh...\\. ich meine\\. ",
@@ -316,7 +316,7 @@
 		{
 			"path": [5,3,29,1],
 			"indent": 1,
-			"original": "\\n[1]: Öhm... nein?",
+			"original": "Kento: Öhm... nein?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Öhm... nein?"
@@ -353,7 +353,7 @@
 		},
 		{
 			"path": [5,3,46,1],
-			"original": "\\n[1]: Schon wieder was Neues?",
+			"original": "Kento: Schon wieder was Neues?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Schon wieder was Neues?"
@@ -361,7 +361,7 @@
 		},
 		{
 			"path": [5,3,48,3],
-			"original": "\\n[2]: Wird es schon wieder so etwas Stinklangweiliges, wie dieser Job als Wachposten? Äh...",
+			"original": "Cibon: Wird es schon wieder so etwas Stinklangweiliges, wie dieser Job als Wachposten? Äh...",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Wird es schon wieder so ",
@@ -402,7 +402,7 @@
 		},
 		{
 			"path": [5,3,66,1],
-			"original": "\\n[2]: Wirklich?",
+			"original": "Cibon: Wirklich?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Wirklich?"
@@ -421,7 +421,7 @@
 		},
 		{
 			"path": [5,3,73,4],
-			"original": "\\n[1]: Was ist denn nun mit dem Neben-Effekt beim Koppeln der Element-Kugeln, den Sie erwähnt haben?",
+			"original": "Kento: Was ist denn nun mit dem Neben-Effekt beim Koppeln der Element-Kugeln, den Sie erwähnt haben?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Was ist denn nun mit dem ",
@@ -432,7 +432,7 @@
 		},
 		{
 			"path": [5,3,77,2],
-			"original": "\\n[1]: Ich würde sehr gerne wissen, was es damit auf sich hat.",
+			"original": "Kento: Ich würde sehr gerne wissen, was es damit auf sich hat.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Ich würde sehr gerne wissen, ",
@@ -441,7 +441,7 @@
 		},
 		{
 			"path": [5,3,81,3],
-			"original": "\\n[2]: Kumpel, sag nicht, dass du die ganze Zeit über nichts Anderes nachgedacht hast!",
+			"original": "Cibon: Kumpel, sag nicht, dass du die ganze Zeit über nichts Anderes nachgedacht hast!",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Kumpel, sag nicht, dass du",
@@ -481,7 +481,7 @@
 		},
 		{
 			"path": [5,3,108,4],
-			"original": "\\n[2]: Haste das gehört? Anscheinend hält der alte Vorento ja doch etwas von uns. ... Was das wohl für ein Auftrag sein wird...",
+			"original": "Cibon: Haste das gehört? Anscheinend hält der alte Vorento ja doch etwas von uns. ... Was das wohl für ein Auftrag sein wird...",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Haste das gehört?\\.",
@@ -492,7 +492,7 @@
 		},
 		{
 			"path": [5,3,113,1],
-			"original": "\\n[2]: Was meinste, Kumpel?",
+			"original": "Cibon: Was meinste, Kumpel?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Was meinste, Kumpel?"
@@ -500,7 +500,7 @@
 		},
 		{
 			"path": [5,3,118,4],
-			"original": "(\\n[1]: Hm... was könnte das bloß für ein Nebeneffekt sein? Ich habe noch nie davon gehört... Ob es etwas Positives oder Negatives ist?)",
+			"original": "(Kento: Hm... was könnte das bloß für ein Nebeneffekt sein? Ich habe noch nie davon gehört... Ob es etwas Positives oder Negatives ist?)",
 			"lines":
 			[
 				"(\\c[1]\\n[1]\\c[0]: \\s[4]Hm... was könnte das bloß ",
@@ -511,7 +511,7 @@
 		},
 		{
 			"path": [5,3,126,1],
-			"original": "\\n[2]: KENTO!",
+			"original": "Cibon: KENTO!",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: KENTO!"
@@ -519,7 +519,7 @@
 		},
 		{
 			"path": [5,3,128,2],
-			"original": "\\n[1]: ÖH.. was? Äh... lass uns schnell diese Ileya aufsuchen.",
+			"original": "Kento: ÖH.. was? Äh... lass uns schnell diese Ileya aufsuchen.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: ÖH.. was?\\. Äh... lass uns ",
@@ -528,7 +528,7 @@
 		},
 		{
 			"path": [5,3,131,3],
-			"original": "\\n[2]: Du denkst immer noch an diesen Nebeneffekt? Na gut! Dann suchen wir halt Frau Signum-Expertin.",
+			"original": "Cibon: Du denkst immer noch an diesen Nebeneffekt? Na gut! Dann suchen wir halt Frau Signum-Expertin.",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Du denkst immer noch an ",
@@ -538,7 +538,7 @@
 		},
 		{
 			"path": [5,3,135,3],
-			"original": "(\\n[2]: Bin mal gespannt was für'n alter Bücherwurm das wieder sein wird)",
+			"original": "(Cibon: Bin mal gespannt was für'n alter Bücherwurm das wieder sein wird)",
 			"lines":
 			[
 				"(\\c[2]\\n[2]\\c[0]: Bin mal gespannt was für'n",
@@ -557,7 +557,7 @@
 		},
 		{
 			"path": [5,5,20,1],
-			"original": "\\n[1]: Guten Tag, Sir.",
+			"original": "Kento: Guten Tag, Sir.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Guten Tag, Sir."
@@ -565,7 +565,7 @@
 		},
 		{
 			"path": [5,5,22,2],
-			"original": "\\n[2]: Weswegen haben Sie nach uns rufen lassen?",
+			"original": "Cibon: Weswegen haben Sie nach uns rufen lassen?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Weswegen haben Sie nach uns ",
@@ -584,7 +584,7 @@
 		},
 		{
 			"path": [5,5,30,2],
-			"original": "\\n[2]: Klasse! ... Was müssen wir tun?",
+			"original": "Cibon: Klasse! ... Was müssen wir tun?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Klasse!\\. ...\\.",
@@ -677,7 +677,7 @@
 		},
 		{
 			"path": [5,5,70,1],
-			"original": "\\n[2]: Oha...",
+			"original": "Cibon: Oha...",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Oha..."
@@ -695,7 +695,7 @@
 		},
 		{
 			"path": [5,5,79,2],
-			"original": "\\n[2]: Wie lang' wird dieser Auftrag ungefähr dauern?",
+			"original": "Cibon: Wie lang' wird dieser Auftrag ungefähr dauern?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Wie lang' wird dieser Auftrag ",
@@ -746,7 +746,7 @@
 		},
 		{
 			"path": [5,5,98,2],
-			"original": "\\n[2]: Mindestens 3 Wochen? ... Wie sieht es dann mit Reisevorräten aus?",
+			"original": "Cibon: Mindestens 3 Wochen? ... Wie sieht es dann mit Reisevorräten aus?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Mindestens 3 Wochen? \\....\\. Wie ",
@@ -765,7 +765,7 @@
 		},
 		{
 			"path": [5,5,108,4],
-			"original": "\\n[1]: Eine Sache finde ich merkwürdig... Wieso müssen Soldaten aus Nomerea einer Eskorte von Buronia beitreten?",
+			"original": "Kento: Eine Sache finde ich merkwürdig... Wieso müssen Soldaten aus Nomerea einer Eskorte von Buronia beitreten?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Eine Sache finde ich ",
@@ -776,7 +776,7 @@
 		},
 		{
 			"path": [5,5,112,3],
-			"original": "\\n[1]: Warum machen nicht ausschließlich Soldaten aus Buronia diese Arbeit?",
+			"original": "Kento: Warum machen nicht ausschließlich Soldaten aus Buronia diese Arbeit?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Warum machen nicht ",
@@ -849,7 +849,7 @@
 		},
 		{
 			"path": [5,5,142,3],
-			"original": "\\n[1]: Verstehe... Wie groß ist dann die Eskorte, die wir im Gasthof antreffen werden?",
+			"original": "Kento: Verstehe... Wie groß ist dann die Eskorte, die wir im Gasthof antreffen werden?",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Verstehe...\\. Wie groß ist dann ",
@@ -881,7 +881,7 @@
 		},
 		{
 			"path": [5,5,158,3],
-			"original": "\\n[2]: So, jetzt aber mal zur wichtigsten Frage: Wann geht's los?",
+			"original": "Cibon: So, jetzt aber mal zur wichtigsten Frage: Wann geht's los?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: So, jetzt aber mal zur ",
@@ -900,7 +900,7 @@
 		},
 		{
 			"path": [5,5,166,1],
-			"original": "\\n[2]: Was?! Gleich heute?",
+			"original": "Cibon: Was?! Gleich heute?",
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Was?!\\. Gleich heute?"
@@ -919,7 +919,7 @@
 		},
 		{
 			"path": [5,5,173,2],
-			"original": "\\n[1]: Das kommt aber alles ziemlich plötzlich.",
+			"original": "Kento: Das kommt aber alles ziemlich plötzlich.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Das kommt aber alles ",
@@ -949,7 +949,7 @@
 		},
 		{
 			"path": [5,5,188,1],
-			"original": "\\n[1]: Jawohl, Sir.",
+			"original": "Kento: Jawohl, Sir.",
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: Jawohl, Sir."
