@@ -6,9 +6,8 @@
 			"original": "Soldat vom Briganten-Orden: Sagt mal... Wurde euch schon das Erlernen von Signum-Techniken erlaubt?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Sagt mal...\\. Wurde ",
-				"euch schon das Erlernen von Signum-Techniken ",
-				"erlaubt? "
+				"\\c[10]Brigantian Soldier\\c[0]: Say...\\. Have you already",
+				"been allowed to learn Signum techniques?"
 			]
 		},
 		{
@@ -17,10 +16,9 @@
 			"original": "Soldat vom Briganten-Orden: Wahnsinn! Das ist sicher äußerst effektiv, wenn man Element- Schläge ausführen kann oder gar ganze Zauber! Nicht wahr? Ich beneide euch...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wahnsinn!\\. Das ",
-				"ist sicher äußerst effektiv, wenn man Element-",
-				"Schläge ausführen kann oder gar ganze Zauber!\\.",
-				"Nicht wahr?\\. Ich beneide euch..."
+				"\\c[10]Brigantian Soldier\\c[0]: No way!\\. It's extremely",
+				"effective if you can perform elemental attacks",
+				"or even whole spells!\\. Right?\\. I envy you..."
 			]
 		},
 		{
@@ -29,9 +27,8 @@
 			"original": "Soldat vom Briganten-Orden: Ja, ich bin auch noch nicht so weit, aber ich kann es kaum erwarten!",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ja, ich bin auch ",
-				"noch nicht so weit, aber ich kann es kaum ",
-				"erwarten!"
+				"\\c[10]Brigantian Soldier\\c[0]: Yeah, I'm not ready yet,",
+				"but I can't wait!"
 			]
 		}
 	],
@@ -40,17 +37,17 @@
 		{
 			"path": [7,2,7],
 			"original": "Ja./Nein, noch nicht...",
-			"patch": "Ja./Nein, noch nicht..."
+			"patch": "Yes./No, not yet..."
 		},
 		{
 			"path": [7,2,8],
 			"original": "Ja.",
-			"patch": "Ja."
+			"patch": "Yes."
 		},
 		{
 			"path": [7,2,16],
 			"original": "Nein, noch nicht...",
-			"patch": "Nein, noch nicht..."
+			"patch": "No, not yet..."
 		}
 	]
 }

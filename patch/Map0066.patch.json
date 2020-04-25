@@ -6,9 +6,9 @@
 			"original": "Soldat vom Briganten-Orden: Hey! Ihr habt ebenfalls noch keine Rüstung? Seid ihr mit der Ausbildung noch nicht fertig?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hey!\\. Ihr habt ",
-				"ebenfalls noch keine Rüstung?\\. Seid ihr mit der ",
-				"Ausbildung noch nicht fertig?"
+				"\\c[10]Brigantian Soldier\\c[0]: Hey!\\. You also don't have",
+				"any armor yet?\\. Are you finished with",
+				"the training yet?"
 			]
 		},
 		{
@@ -16,9 +16,8 @@
 			"original": "Kento: Doch, wir sind gerade fertig, aber es stehen keine Rüstungen mehr zur Verfügung.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Doch, wir sind gerade fertig, ",
-				"aber es stehen keine Rüstungen ",
-				"mehr zur Verfügung."
+				"\\c[1]\\n[1]\\c[0]: Yes, we just finished, but",
+				"they ran out of armor."
 			]
 		},
 		{
@@ -26,10 +25,9 @@
 			"original": "Soldat vom Briganten-Orden: Dann geht es euch ja genauso wie mir. Tja, man sollte diesen faulen Schmieden mal gehörig in den Hintern treten.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Dann geht es euch ",
-				"ja genauso wie mir.\\. Tja, man sollte diesen ",
-				"faulen Schmieden mal gehörig in den Hintern ",
-				"treten."
+				"\\c[10]Brigantian Soldier\\c[0]: Then you're just like me.\\.",
+				"Man, you ought to kick this lazy smith in",
+				"the ass."
 			]
 		},
 		{
@@ -38,9 +36,9 @@
 			"original": "Kento: Ach ja, ich soll dir Bescheid sagen, dass du in der Eingangshalle des Schlosses erwartet wirst.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ach ja, ich soll dir Bescheid ",
-				"sagen, dass du in der Eingangshalle ",
-				"des Schlosses erwartet wirst."
+				"\\c[1]\\n[1]\\c[0]: Oh right, I should let you know",
+				"that you're expected in the entrance",
+				"hall of the castle."
 			]
 		},
 		{
@@ -49,10 +47,10 @@
 			"original": "Soldat vom Briganten-Orden: Wirklich? Öhm.... OHJE! Das Treffen! Das hab ich ja ganz vergessen. Danke, dass du mich dran erinnert hast. Ich geh dann schnell!",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wirklich?\\. Öhm....\\. ",
-				"OHJE! Das Treffen!\\. Das hab ich ja ganz ",
-				"vergessen.\\. Danke, dass du mich dran erinnert ",
-				"hast.\\. Ich geh dann schnell!"
+				"\\c[10]Brigantian Soldier\\c[0]: Really?\\. Um...\\. OH NO!\\.",
+				"The meeting!\\. I completely forgot about that.\\.",
+				"Thanks for reminding me of it.\\.",
+				"I'll get to it then!"
 			]
 		}
 	]

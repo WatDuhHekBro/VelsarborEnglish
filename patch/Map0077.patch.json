@@ -6,8 +6,8 @@
 			"original": "(Kento: Veraltete Schwert-Waffen zum Trainieren...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Veraltete Schwert-Waffen ",
-				"zum Trainieren...)"
+				"(\\c[1]\\n[1]\\c[0]: Outdated swords for",
+				"training...)"
 			]
 		},
 		{
@@ -15,8 +15,8 @@
 			"original": "(Kento: Veraltete Lanzen-Waffen zum Trainieren...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Veraltete Lanzen-Waffen ",
-				"zum Trainieren...)"
+				"(\\c[1]\\n[1]\\c[0]: Outdated lances for",
+				"training...)"
 			]
 		},
 		{
@@ -24,8 +24,8 @@
 			"original": "(Kento: Veraltete Schwert-Waffen zum Trainieren...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Veraltete Schwert-Waffen ",
-				"zum Trainieren...)"
+				"(\\c[1]\\n[1]\\c[0]: Outdated swords for",
+				"training...)"
 			]
 		},
 		{
@@ -33,8 +33,8 @@
 			"original": "(Kento: Veraltete Lanzen-Waffen zum Trainieren...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Veraltete Lanzen-Waffen ",
-				"zum Trainieren...)"
+				"(\\c[1]\\n[1]\\c[0]: Outdated lances for",
+				"training...)"
 			]
 		},
 		{
@@ -42,8 +42,8 @@
 			"original": "(Kento: Veraltete Schwert-Waffen zum Trainieren...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Veraltete Schwert-Waffen ",
-				"zum Trainieren...)"
+				"(\\c[1]\\n[1]\\c[0]: Outdated swords for",
+				"training...)"
 			]
 		},
 		{
@@ -51,8 +51,8 @@
 			"original": "(Kento: Veraltete Lanzen-Waffen zum Trainieren...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Veraltete Lanzen-Waffen ",
-				"zum Trainieren...)"
+				"(\\c[1]\\n[1]\\c[0]: Outdated lances for",
+				"training...)"
 			]
 		},
 		{
@@ -60,9 +60,8 @@
 			"original": "Soldat vom Briganten-Orden: Diese billigen Trainings-Fässer halten höchstens ein paar Wochen aus, dann sind sie zerschrottet.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Diese billigen ",
-				"Trainings-Fässer halten höchstens ein paar ",
-				"Wochen aus, dann sind sie zerschrottet. "
+				"\\c[10]Brigantian Soldier\\c[0]: These cheap training dummies",
+				"last a few weeks at most, then they're scrapped."
 			]
 		},
 		{
@@ -70,9 +69,8 @@
 			"original": "Soldat vom Briganten-Orden: Man sollte lieber mal ein paar anständige Trainings-Geräte erstellen, als immer nur neue Trainings-Fässer.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Man sollte lieber ",
-				"mal ein paar anständige Trainings-Geräte ",
-				"erstellen, als immer nur neue Trainings-Fässer."
+				"\\c[10]Brigantian Soldier\\c[0]: It's better to create a",
+				"few decent ones than to always get new ones."
 			]
 		}
 	]

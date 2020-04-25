@@ -6,9 +6,9 @@
 			"original": "Soldat vom Briganten-Orden: Was da unten im Keller ist? Ich hab keine Ahnung. Ich darf da genauso wenig runter wie ihr.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Was da unten im ",
-				"Keller ist?\\. Ich hab keine Ahnung.\\. Ich darf da ",
-				"genauso wenig runter wie ihr."
+				"\\c[10]Brigantian Soldier\\c[0]: What's down there in the",
+				"basement, you might ask?\\. No clue.\\. I can't",
+				"go down any further than you can."
 			]
 		},
 		{
@@ -16,8 +16,8 @@
 			"original": "Soldat vom Briganten-Orden: Tut mir Leid. Soldaten dürfen hier nicht passieren.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Tut mir Leid. ",
-				"Soldaten dürfen hier nicht passieren."
+				"\\c[10]Brigantian Soldier\\c[0]: Sorry. Soldiers are not",
+				"allowed to pass through here."
 			]
 		},
 		{

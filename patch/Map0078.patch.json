@@ -6,10 +6,10 @@
 			"original": "Soldat vom Briganten-Orden: Verflucht! Zurzeit gibt es kaum Aufträge für den Briganten-Orden. Die meiste Zeit haben wir nichts zu tun und sitzen hier einfach nur rum...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Verflucht!\\. Zurzeit ",
-				"gibt es kaum Aufträge für den Briganten-Orden.\\. ",
-				"Die meiste Zeit haben wir nichts zu tun und ",
-				"sitzen hier einfach nur rum..."
+				"\\c[10]Brigantian Soldier\\c[0]: Damn!\\. At the moment, there",
+				"are hardly any orders from the Brigantine Order.\\.",
+				"Most of the time, we have nothing to do and",
+				"just sit here..."
 			]
 		},
 		{
@@ -17,8 +17,8 @@
 			"original": "Soldat vom Briganten-Orden: *seufz* Das Spiel liegt mir nicht...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: *seufz*\\. Das Spiel ",
-				"liegt mir nicht..."
+				"\\c[10]Brigantian Soldier\\c[0]: *sigh*\\. I don't like",
+				"this game..."
 			]
 		},
 		{
@@ -26,8 +26,8 @@
 			"original": "Soldat vom Briganten-Orden: Verdammt, du hast eine totale Glückssträhne!",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Verdammt, du ",
-				"hast eine totale Glückssträhne! "
+				"\\c[10]Brigantian Soldier\\c[0]: Damn, you had a",
+				"total streak of luck!"
 			]
 		},
 		{
@@ -35,8 +35,8 @@
 			"original": "Soldat vom Briganten-Orden: Full House! Und wieder gewonnen!",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: \\s[4]Full House!\\.",
-				"\\s[0]Und wieder gewonnen! "
+				"\\c[10]Brigantian Soldier\\c[0]: \\s[4]Full House!\\.",
+				"\\s[0]And I win again!"
 			]
 		},
 		{
@@ -44,10 +44,9 @@
 			"original": "Soldat vom Briganten-Orden: Hm... eigentlich ganz interessant, was man hier für Bücher findet. Man erfährt viel über die Geschichte dieses Landes.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hm... eigentlich ",
-				"ganz interessant, was man hier für Bücher ",
-				"findet. Man erfährt viel über die Geschichte ",
-				"dieses Landes."
+				"\\c[10]Brigantian Soldier\\c[0]: Hm... the books you can",
+				"find here are actually quite interesting.",
+				"You learn a lot about the history of this country."
 			]
 		},
 		{
@@ -55,10 +54,9 @@
 			"original": "Soldat vom Briganten-Orden: Wusstet ihr, dass früher, als noch ein König an der Macht war, das Schloss von Nomerea sein Stützpunkt und das Zentrum des Landes war?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wusstet ihr, dass ",
-				"früher, als noch ein König an der Macht war, ",
-				"das Schloss von Nomerea sein Stützpunkt und ",
-				"das Zentrum des Landes war?"
+				"\\c[10]Brigantian Soldier\\c[0]: Did you know that when the",
+				"king was in power, Nomerea Castle was his base",
+				"and the center of the country?"
 			]
 		},
 		{
@@ -66,9 +64,9 @@
 			"original": "Soldat vom Briganten-Orden: Erst seit die Regierung in Buronia liegt, dient das Schloss nur zur Ausbildung von Soldaten.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Erst seit die ",
-				"Regierung in Buronia liegt, dient das Schloss ",
-				"nur zur Ausbildung von Soldaten."
+				"\\c[10]Brigantian Soldier\\c[0]: The castle only started",
+				"being used to train soldiers ever since the",
+				"government moved to Buronia."
 			]
 		},
 		{
@@ -76,8 +74,8 @@
 			"original": "Soldat vom Briganten-Orden: Ohje, ich weiß nicht, wie ich die Zeit totschlagen soll...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ohje, ich weiß nicht, ",
-				"wie ich die Zeit totschlagen soll..."
+				"\\c[10]Brigantian Soldier\\c[0]: Oh man, I don't know how to",
+				"pass the time..."
 			]
 		},
 		{
@@ -86,8 +84,7 @@
 			"original": "Kento: Hm... Wie wäre es mit trainieren?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hm...\\. Wie wäre es mit ",
-				"trainieren?"
+				"\\c[1]\\n[1]\\c[0]: Hm...\\. how about training?"
 			]
 		},
 		{
@@ -96,8 +93,7 @@
 			"original": "Soldat vom Briganten-Orden: Trainieren? ... Öh?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Trainieren?\\. ",
-				"...\\. Öh?"
+				"\\c[10]Brigantian Soldier\\c[0]: Training?\\. ...\\.Huh?"
 			]
 		},
 		{
@@ -106,9 +102,9 @@
 			"original": "Cibon: Ach Kumpel, nicht jeder is' so trainingsbesessen wie du. Das musste verstehen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ach Kumpel,\\. nicht jeder is' so ",
-				"trainingsbesessen wie du.\\. Das ",
-				"musste verstehen."
+				"\\c[2]\\n[2]\\c[0]: Kento,\\. not everyone is as",
+				"obsessed with training as you are.\\.",
+				"You gotta understand."
 			]
 		},
 		{
@@ -117,7 +113,7 @@
 			"original": "Kento: \"Trainingsbesessen\"?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: \"Trainingsbesessen\"?"
+				"\\c[1]\\n[1]\\c[0]: \"Obsessed with training\"?"
 			]
 		},
 		{
@@ -126,10 +122,10 @@
 			"original": "Cibon: Wenn du in deiner Freizeit nichts Besseres zu tun hast, als mit der Waffe zu üben, bist du das, finde ich.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wenn du in deiner Freizeit ",
-				"nichts Besseres zu tun hast,\\. als mit ",
-				"der Waffe zu üben,\\. bist du das,\\. ",
-				"finde ich."
+				"\\c[2]\\n[2]\\c[0]: If you had nothing better to",
+				"do in your free time,\\. I'd find you\\.",
+				"just practicing with your weapon\\.",
+				"all day."
 			]
 		},
 		{
@@ -138,10 +134,9 @@
 			"original": "Kento: Öhm... Wenn man als Soldat was werden will muss man doch viel trainieren. Also was ist daran falsch?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Öhm... Wenn man als Soldat ",
-				"was werden will muss man doch viel ",
-				"trainieren.\\. ",
-				"Also was ist daran falsch? "
+				"\\c[1]\\n[1]\\c[0]: Well... If you want to become",
+				"a soldier, you have to train a lot.\\.",
+				"So what's wrong with that?"
 			]
 		},
 		{
@@ -150,8 +145,8 @@
 			"original": "Cibon: Ohje... vergessen wir das besser. Du wirst es nicht verstehen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ohje...\\. vergessen wir das ",
-				"besser.\\. Du wirst es nicht verstehen."
+				"\\c[2]\\n[2]\\c[0]: Oh...\\. let's just forget about",
+				"that.\\. You wouldn't understand."
 			]
 		}
 	]

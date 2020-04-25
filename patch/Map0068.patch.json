@@ -6,10 +6,9 @@
 			"original": "Soldat vom Briganten-Orden: In diesem Raum hier wollen wir keine Waffen abgestellt haben! Das sieht nicht schön aus und nachher verletzt sich noch jemand deswegen...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: In diesem Raum ",
-				"hier wollen wir keine Waffen abgestellt haben!\\. ",
-				"Das sieht nicht schön aus und nachher verletzt ",
-				"sich noch jemand deswegen..."
+				"\\c[10]Brigantian Soldier\\c[0]: We don't want any weapons in",
+				"this room!\\. It doesn't look nice and afterwards,",
+				"someone gets hurt because of it..."
 			]
 		},
 		{
@@ -18,9 +17,8 @@
 			"original": "(Cibon: Lieber würde ich auf der Straße schlafen als in diesem Flower- Power-Raum.)",
 			"lines":
 			[
-				"(\\c[2]\\n[2]\\c[0]: Lieber würde ich auf der ",
-				"Straße schlafen als in diesem Flower-",
-				"Power-Raum.)"
+				"(\\c[2]\\n[2]\\c[0]: I'd rather sleep on the street",
+				"than in this room full of flowers.)"
 			]
 		},
 		{
@@ -28,10 +26,9 @@
 			"original": "Soldat vom Briganten-Orden: Es ist immer so ne Arbeit jeden Tag die Blumen zu gießen! Wäre ich bloß in nen anderen Schlafraum gekommen...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Es ist immer so ne ",
-				"Arbeit jeden Tag die Blumen zu gießen!\\. Wäre ",
-				"ich bloß in nen anderen Schlafraum ",
-				"gekommen..."
+				"\\c[10]Brigantian Soldier\\c[0]: It's always a chore to water",
+				"the flowers every day!\\. If only I had come to a",
+				"different bedroom..."
 			]
 		}
 	]
