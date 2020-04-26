@@ -137,7 +137,7 @@
 			"lines":
 			[
 				"\\c[10]Brigantian Soldier\\c[0]: The three of us already have",
-				"our 5th regulars' table.\\. Sometimes we need a",
+				"our fifth regulars' table.\\. Sometimes we need a",
 				"little distance from training."
 			]
 		},
@@ -148,9 +148,10 @@
 			"lines":
 			[
 				"\\c[10]Brigantian Soldier\\c[0]: Oh, it's you!\\.",
-				"Thank you for letting the others know.\\.",
+				"Thanks for letting the others know.\\.",
 				"Here, this is for you..."
-			]
+			],
+			"__comment__": "Item Get: Glücksbringer"
 		},
 		{
 			"path": [14,1,22,4],
@@ -158,8 +159,8 @@
 			"original": "Soldat vom Briganten-Orden: Es sieht zwar kitschig aus, aber wenn ihr es tragt, gelingen euch in der Regel mehr Volltreffer. Äußerst praktisch, das Teil.",
 			"lines":
 			[
-				"\\c[10]Brigantian Soldier\\c[0]: It looks cheesy, but if",
-				"you wear it, you usually get more hits.\\.",
+				"\\c[10]Brigantian Soldier\\c[0]: It seems cheesy, but if",
+				"you wear it, you can usually attack more.\\.",
 				"It's extremely practical."
 			]
 		},

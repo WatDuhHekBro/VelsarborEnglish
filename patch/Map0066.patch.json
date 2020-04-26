@@ -36,9 +36,9 @@
 			"original": "Kento: Ach ja, ich soll dir Bescheid sagen, dass du in der Eingangshalle des Schlosses erwartet wirst.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Oh right, I should let you know",
-				"that you're expected in the entrance",
-				"hall of the castle."
+				"\\c[1]\\n[1]\\c[0]: Oh right, well I should let",
+				"you know that you're expected in",
+				"the entrance hall of the castle."
 			]
 		},
 		{

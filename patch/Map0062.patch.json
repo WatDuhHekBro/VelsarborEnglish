@@ -9,7 +9,8 @@
 				"\\c[10]Brigantian Soldier\\c[0]: Hey you.\\. Look at what I",
 				"found here.\\. Take it quietly.\\. I can't do",
 				"anything with it anyway."
-			]
+			],
+			"__comment__": "Item Get: 2 Blue Pearls"
 		},
 		{
 			"path": [127,2,2,3],

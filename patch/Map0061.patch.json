@@ -154,7 +154,7 @@
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: I should let you know that",
-				"they're waiting for you in the",
+				"someone's waiting for you in the",
 				"entrance hall of the castle."
 			]
 		},
@@ -164,7 +164,7 @@
 			"original": "Soldat vom Briganten-Orden: Wie? Wer wartet da... ARGS! Mann, das hab ich vollkommen vergessen! Ich muss weg!",
 			"lines":
 			[
-				"\\c[10]Brigantian Soldier\\c[0]: Why?\\. Who is waiting",
+				"\\c[10]Brigantian Soldier\\c[0]: Why?\\. Who's waiting",
 				"there\\s[9]...\\s[0] ARGH!\\. Man, I completely forgot!\\.",
 				"I have to go!"
 			]

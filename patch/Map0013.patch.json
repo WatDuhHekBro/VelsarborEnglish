@@ -488,12 +488,13 @@
 		{
 			"path": [104,2,367,3],
 			"original": "Cibon: Ich krieg die Krise! Dieser Gasthof is' echt das Letzte... Allein schon wegen dem Bier!",
+			"__comment__": "Cibon: Les nerfs! Cette taverne est vraiment une honte... Par la bière, entre autres!",
 			"lines":
 			[
-				"\\c[2]Cibon:\\c[0] Man, I'm beat!\\. This is",
-				"definitely the last inn...\\.",
+				"\\c[2]Cibon:\\c[0] What a disgrace!\\. This is",
+				"definitely the worst inn...\\.",
 				"And that beer is just one",
-				"of those reasons why!"
+				"of the reasons why!"
 			]
 		},
 		{
@@ -510,7 +511,7 @@
 			"original": "Cibon: Ach, was weiß ich...",
 			"lines":
 			[
-				"\\c[2]Cibon:\\c[0] Gah, for all I know..."
+				"\\c[2]Cibon:\\c[0] Oh, what do I know..."
 			]
 		},
 		{

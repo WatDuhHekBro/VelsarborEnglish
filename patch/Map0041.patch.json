@@ -26,7 +26,7 @@
 			"original": "Händlerin: Wollen Sie vielleicht einen edlen Bronzetaler? Sie sind heiß begehrte Handels- Gegenstände!",
 			"lines":
 			[
-				"\\c[10]Trader\\c[0]: Maybe you want a fine bronze plate?",
+				"\\c[10]Trader\\c[0]: Maybe you want a fine bronze ingot?",
 				"They're highly sought-after tradables!"
 			]
 		},

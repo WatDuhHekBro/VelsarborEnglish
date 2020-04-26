@@ -1,5 +1,4 @@
 {
-	"__comment__": "I gotta revise this scene once I get context for who these people even are.",
 	"dialogue":
 	[
 		{
@@ -7,19 +6,21 @@
 			"original": "????: Sie haben den Friedensvertrag unterzeichnet.",
 			"lines":
 			[
-				"\\c[10]????\\c[0]:\\s[1] You signed the peace treaty."
-			]
+				"\\c[10]????\\c[0]:\\s[1] They signed the peace treaty."
+			],
+			"__comment__": "Genji"
 		},
 		{
 			"path": [6,1,57,4],
 			"original": "????: Gut, damit sollte sich dieser Streit unter den Machthungrigen erstmal gelegt haben. Hoffen wir, dass uns genug Zeit bleibt...",
 			"lines":
 			[
-				"\\c[10]????\\c[0]:\\s[1] Well,\\. this should've put",
+				"\\c[10]????\\c[0]:\\s[1] Well,\\. this should put",
 				"an end to this dispute among the",
 				"power-hungry.\\. Let's just hope",
 				"we have enough time..."
-			]
+			],
+			"__comment__": "Prophet"
 		},
 		{
 			"path": [6,1,62,4],
@@ -29,7 +30,8 @@
 				"\\c[10]????\\c[0]:\\s[1] Right now, all of our hope",
 				"is in a sickly child, a fragile",
 				"figure who wallows in his own misery."
-			]
+			],
+			"__comment__": "Prophet"
 		},
 		{
 			"path": [6,1,67,4],
@@ -40,7 +42,8 @@
 				"the times of peace and blessings from",
 				"Heimdall will free him from",
 				"his situation."
-			]
+			],
+			"__comment__": "Prophet"
 		},
 		{
 			"path": [6,1,76,3],
@@ -50,7 +53,8 @@
 				"\\c[10]????\\c[0]:\\s[1] Why can't we just",
 				"stay by him and worry about him",
 				"directly?"
-			]
+			],
+			"__comment__": "Kumiko"
 		},
 		{
 			"path": [6,1,85,2],
@@ -58,7 +62,8 @@
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] We cannot control fate."
-			]
+			],
+			"__comment__": "Prophet"
 		},
 		{
 			"path": [6,1,89,4],
@@ -68,7 +73,8 @@
 				"\\c[10]????\\c[0]:\\s[1] Try to control it and",
 				"it swallows you,\\. makes you its own,\\.",
 				"and finally takes control of you."
-			]
+			],
+			"__comment__": "Prophet"
 		},
 		{
 			"path": [6,1,93,4],
@@ -76,9 +82,10 @@
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] Heimdall is above all of that.\\.",
-				"Only under his leadership can we break",
+				"Only under his Prophetship can we break",
 				"the gloomy fate of this world."
-			]
+			],
+			"__comment__": "Prophet"
 		},
 		{
 			"path": [6,1,104,2],
@@ -87,7 +94,8 @@
 			[
 				"\\c[10]????\\c[0]:\\s[1] Then what should we do?\\.",
 				"Watch and wait?"
-			]
+			],
+			"__comment__": "Genji"
 		},
 		{
 			"path": [6,1,110,2],
@@ -96,7 +104,8 @@
 			[
 				"\\c[10]????\\c[0]:\\s[1] Watch and wait.\\.",
 				"Wait for the moment to come..."
-			]
+			],
+			"__comment__": "Prophet"
 		},
 		{
 			"path": [6,1,124,3],
@@ -106,7 +115,8 @@
 				"\\c[10]????\\c[0]:\\s[1] The moment when the",
 				"twin souls reunite and give the",
 				"world their liberator."
-			]
+			],
+			"__comment__": "Prophet"
 		}
 	]
 }
