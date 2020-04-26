@@ -6,8 +6,8 @@
 			"original": "Händler: Wenn Sie handeln möchten, sprechen Sie mich bitte über den Handelstand an.",
 			"lines":
 			[
-				"\\c[10]Merchant\\c[0]: Wenn Sie handeln möchten, sprechen Sie ",
-				"mich bitte über den Handelstand an."
+				"\\c[10]Trader\\c[0]: If you want to trade,",
+				"please talk to me across the stall."
 			]
 		},
 		{
@@ -15,9 +15,9 @@
 			"original": "Händler: Guten Tag, der Herr! Sind Sie auf der Suche nach edlen Blauperlen, sind Sie hier richtig!",
 			"lines":
 			[
-				"\\c[10]Merchant\\c[0]: Guten Tag, der Herr!\\.",
-				"Sind Sie auf der Suche nach edlen Blauperlen, ",
-				"sind Sie hier richtig!"
+				"\\c[10]Trader\\c[0]: Good day, sir!\\. If you're",
+				"looking for some fine blue pearls,",
+				"then this is the place for you!"
 			]
 		},
 		{
@@ -278,9 +278,8 @@
 			"original": "Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Kento...\\. Ich würde gern noch ",
-				"mal zuhause vorbei schauen, bevor ",
-				"wir abreisen, okay?"
+				"\\c[2]\\n[2]:\\c[0] Kento...\\. I'd like to visit",
+				"home before we leave, okay?"
 			]
 		},
 		{
@@ -288,7 +287,7 @@
 			"original": "Kento: Meinetwegen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Meinetwegen..."
+				"\\c[1]\\n[1]:\\c[0] Alright..."
 			]
 		},
 		{
@@ -296,9 +295,8 @@
 			"original": "Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Kento...\\. Ich würde gern noch ",
-				"mal zuhause vorbei schauen, bevor ",
-				"wir abreisen, okay?"
+				"\\c[2]\\n[2]:\\c[0] Kento...\\. I'd like to visit",
+				"home before we leave, okay?"
 			]
 		},
 		{
@@ -306,7 +304,7 @@
 			"original": "Kento: Meinetwegen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Meinetwegen..."
+				"\\c[1]\\n[1]:\\c[0] Alright..."
 			]
 		},
 		{
@@ -314,9 +312,8 @@
 			"original": "Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Kento...\\. Ich würde gern noch ",
-				"mal zuhause vorbei schauen, bevor ",
-				"wir abreisen, okay?"
+				"\\c[2]\\n[2]:\\c[0] Kento...\\. I'd like to visit",
+				"home before we leave, okay?"
 			]
 		},
 		{
@@ -324,7 +321,7 @@
 			"original": "Kento: Meinetwegen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Meinetwegen..."
+				"\\c[1]\\n[1]:\\c[0] Alright..."
 			]
 		},
 		{
@@ -332,9 +329,8 @@
 			"original": "Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Kento...\\. Ich würde gern noch ",
-				"mal zuhause vorbei schauen, bevor ",
-				"wir abreisen, okay?"
+				"\\c[2]\\n[2]:\\c[0] Kento...\\. I'd like to visit",
+				"home before we leave, okay?"
 			]
 		},
 		{
@@ -342,7 +338,7 @@
 			"original": "Kento: Meinetwegen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Meinetwegen..."
+				"\\c[1]\\n[1]:\\c[0] Alright..."
 			]
 		},
 		{
@@ -350,9 +346,8 @@
 			"original": "Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Kento...\\. Ich würde gern noch ",
-				"mal zuhause vorbei schauen, bevor ",
-				"wir abreisen, okay?"
+				"\\c[2]\\n[2]:\\c[0] Kento...\\. I'd like to visit",
+				"home before we leave, okay?"
 			]
 		},
 		{
@@ -360,7 +355,7 @@
 			"original": "Kento: Meinetwegen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Meinetwegen..."
+				"\\c[1]\\n[1]:\\c[0] Alright..."
 			]
 		},
 		{
@@ -368,9 +363,8 @@
 			"original": "Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Kento...\\. Ich würde gern noch ",
-				"mal zuhause vorbei schauen, bevor ",
-				"wir abreisen, okay?"
+				"\\c[2]\\n[2]:\\c[0] Kento...\\. I'd like to visit",
+				"home before we leave, okay?"
 			]
 		},
 		{
@@ -378,7 +372,7 @@
 			"original": "Kento: Meinetwegen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Meinetwegen..."
+				"\\c[1]\\n[1]:\\c[0] Alright..."
 			]
 		},
 		{
@@ -386,9 +380,8 @@
 			"original": "Cibon: Kento... Ich würde gern noch mal zuhause vorbei schauen, bevor wir abreisen, okay?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Kento...\\. Ich würde gern noch ",
-				"mal zuhause vorbei schauen, bevor ",
-				"wir abreisen, okay?"
+				"\\c[2]\\n[2]:\\c[0] Kento...\\. I'd like to visit",
+				"home before we leave, okay?"
 			]
 		},
 		{
@@ -396,7 +389,7 @@
 			"original": "Kento: Meinetwegen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Meinetwegen..."
+				"\\c[1]\\n[1]:\\c[0] Alright..."
 			]
 		},
 		{
@@ -404,8 +397,8 @@
 			"original": "Händler: Hallo! Was halten sie hiervon?",
 			"lines":
 			[
-				"\\c[10]Merchant\\c[0]: Hallo!\\. ",
-				"Was halten sie hiervon?"
+				"\\c[10]Trader\\c[0]: Hello!\\. What do",
+				"you think of this?"
 			]
 		},
 		{
@@ -413,9 +406,9 @@
 			"original": "Händler: Guten Tag der Herr! Sind sie auf der Suche nach edlen Blauperlen, sind sie hier richtig!",
 			"lines":
 			[
-				"\\c[10]Merchant\\c[0]: Guten Tag der Herr!\\.",
-				"Sind sie auf der Suche nach edlen Blauperlen, ",
-				"sind sie hier richtig!"
+				"\\c[10]Trader\\c[0]: Good day, sir!\\. If you're",
+				"looking for some fine blue pearls,",
+				"then this is the place for you!"
 			]
 		},
 		{
@@ -423,10 +416,9 @@
 			"original": "Händler: Schauen Sie sich dieses Prachtexemplar von Silberring an! Dieses Angebot dürfen Sie sich nicht entgehen lassen!",
 			"lines":
 			[
-				"\\c[10]Merchant\\c[0]: Schauen Sie sich dieses ",
-				"Prachtexemplar von Silberring an!\\.",
-				"Dieses Angebot dürfen Sie sich nicht entgehen ",
-				"lassen!"
+				"\\c[10]Trader\\c[0]: Feast your eyes on these",
+				"magnificent silver rings!\\. Don't",
+				"miss out on this offer!"
 			]
 		},
 		{
@@ -434,8 +426,8 @@
 			"original": "Händlerin: Diese Lokri-Knollen machen jedes Gericht zu einem Genuss.",
 			"lines":
 			[
-				"\\c[10]Merchant\\c[0]: Diese Lokri-Knollen machen jedes ",
-				"Gericht zu einem Genuss."
+				"\\c[10]Trader\\c[0]: These Lokri potatoes make",
+				"every meal a delicious one."
 			]
 		},
 		{
@@ -443,8 +435,7 @@
 			"original": "Mann: Seid ihr schon in der Post-Versand-Stelle hier in der Nähe gewesen?",
 			"lines":
 			[
-				"\\c[10]Man\\c[0]: Seid ihr schon in der Post-Versand-Stelle ",
-				"hier in der Nähe gewesen? "
+				"\\c[10]Man\\c[0]: Have you been to the post office around here?"
 			]
 		},
 		{
@@ -452,10 +443,9 @@
 			"original": "Mann: Möchte man Briefe oder dergleichen versenden, genügt es, wenn man sie in die grünen Briefkästen am Eingang der Stadt steckt.",
 			"lines":
 			[
-				"\\c[10]Man\\c[0]: Möchte man Briefe oder dergleichen ",
-				"versenden, genügt es, wenn man sie in die ",
-				"grünen Briefkästen am Eingang der Stadt ",
-				"steckt."
+				"\\c[10]Man\\c[0]: If you want to send letters, you just have",
+				"to put them in the green mailboxes at the",
+				"entrance to this city."
 			]
 		},
 		{
@@ -463,10 +453,9 @@
 			"original": "Mann: Aber wenn es um ein Paket geht, dann muss man zur Post-Versand-Stelle, um es dort abzugeben. Außerdem sind dann recht hohe Gebühren fällig.",
 			"lines":
 			[
-				"\\c[10]Man\\c[0]: Aber wenn es um ein Paket geht, dann ",
-				"muss man zur Post-Versand-Stelle, um es dort ",
-				"abzugeben.\\. Außerdem sind dann recht hohe ",
-				"Gebühren fällig."
+				"\\c[10]Man\\c[0]: But if you want to send a package instead,",
+				"you have to go to the post office and drop it",
+				"off there.\\. In addition, the fees are quite high."
 			]
 		},
 		{
@@ -474,9 +463,9 @@
 			"original": "Mann: Nun ja, die Arbeit, die die Post-Versender täglich leisten, ist ja auch ziemlich hart. So was muss auch entlohnt werden.",
 			"lines":
 			[
-				"\\c[10]Man\\c[0]: Nun ja, die Arbeit, die die Post-Versender ",
-				"täglich leisten, ist ja auch ziemlich hart.\\. So was ",
-				"muss auch entlohnt werden."
+				"\\c[10]Man\\c[0]: Well, the work that the couriers do every day",
+				"is also pretty hard.\\. Something like that has to be",
+				"paid for."
 			]
 		},
 		{
@@ -485,8 +474,8 @@
 			"lines":
 			[
 				"\\c[10]Old Man\\c[0]: This part of the city\\. is still",
-				"pretty quiet. But in the northern area,\\. I can't",
-				"keep up at my age.\\. There is far too much\\.",
+				"pretty quiet. But in the northern area,\\.",
+				"I can't keep up at my age.\\. There is far too much\\.",
 				"going on for me.\\. It's too loud there..."
 			]
 		},
@@ -512,9 +501,9 @@
 			"original": "Junges Mädchen: Uchikos sind so~ süß! Habt ihr sie auch schon bei der Post-Stelle gesehen? Ich wünschte, ich hätte selber eines.",
 			"lines":
 			[
-				"\\c[10]Girl\\c[0]: Uchikos are so cute!\\. Have",
-				"you seen them at the post office?\\. I wish",
-				"I had one myself."
+				"\\c[10]Girl\\c[0]: Uchikos are sooo cute!\\. Have you",
+				"seen them at the post office?\\.",
+				"I wish I had one myself."
 			]
 		}
 	]

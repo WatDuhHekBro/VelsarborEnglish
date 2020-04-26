@@ -6,8 +6,8 @@
 			"original": "Soldat vom Briganten-Orden: *mampf* Diescher Nudelschalat ischt vortrefflisch! Wirklisch.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: *mampf*\\. Diescher ",
-				"Nudelschalat ischt vortrefflisch!\\. Wirklisch."
+				"\\c[10]Brigantian Soldier\\c[0]: *nom*\\. This pasta salad",
+				"is excellent!\\. Really."
 			]
 		},
 		{
@@ -16,10 +16,9 @@
 			"original": "Kento: Öhm, ich möchte dich ja ungern beim Essen stören, aber hattest du nicht zu diesem Zeitpunkt ein Treffen?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Öhm, ich möchte dich ja ",
-				"ungern beim Essen stören\\., aber ",
-				"hattest du nicht zu diesem Zeitpunkt ",
-				"ein Treffen?"
+				"\\c[1]\\n[1]\\c[0]: Um, I don't mean to disturb",
+				"you from your meal\\., but don't you",
+				"have a meeting right about now?"
 			]
 		},
 		{
@@ -28,9 +27,9 @@
 			"original": "Soldat vom Briganten-Orden: Oh ja, schtimmt... Moment... OH! ischt es schon so schpät? *schluck* Ohje, ich komme zu spät!",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Oh ja, schtimmt...\\.",
-				"Moment...\\. OH! ischt es schon so schpät?\\.",
-				"*schluck*\\. Ohje, ich komme zu spät!"
+				"\\c[10]Brigantian Soldier\\c[0]: Oh yeah, that's right...\\.",
+				"Wait...\\. OH! Is it already so late?\\.",
+				"*swallow*\\. Oh no, I'm late!"
 			]
 		},
 		{
@@ -38,8 +37,8 @@
 			"original": "Soldat vom Briganten-Orden: Hey! Wann kommt endlich mein Nachschub?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hey!\\. Wann ",
-				"kommt endlich mein Nachschub?"
+				"\\c[10]Brigantian Soldier\\c[0]: Hey!\\. When will my",
+				"order finally get here?"
 			]
 		},
 		{
@@ -47,8 +46,8 @@
 			"original": "Soldat vom Briganten-Orden: Hm? Stör mich nicht beim Essen...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hm?\\. Stör mich ",
-				"nicht beim Essen..."
+				"\\c[10]Brigantian Soldier\\c[0]: Hm?\\. Don't bother me",
+				"while I'm eating..."
 			]
 		},
 		{
@@ -56,8 +55,8 @@
 			"original": "Soldat vom Briganten-Orden: Hm... ob es heute etwas Besonderes zum Nachtisch gibt?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hm...\\. ob es heute ",
-				"etwas Besonderes zum Nachtisch gibt?"
+				"\\c[10]Brigantian Soldier\\c[0]: Hm...\\. I wonder if there's",
+				"anything special for dessert today?"
 			]
 		},
 		{
@@ -65,8 +64,8 @@
 			"original": "Soldat vom Briganten-Orden: Kein Bier... Wieso gibt es hier kein Bier zu trinken? Args!",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Kein Bier...\\. Wieso ",
-				"gibt es hier kein Bier zu trinken?\\. Args!"
+				"\\c[10]Brigantian Soldier\\c[0]: No beer...\\. Why is there no",
+				"beer to drink here?\\. Argh!"
 			]
 		},
 		{
@@ -75,8 +74,8 @@
 			"original": "Kento: Bier macht träge, wenn man es zu oft trinkt.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Bier macht träge, wenn man ",
-				"es zu oft trinkt."
+				"\\c[1]\\n[1]\\c[0]: Beer makes you sluggish if",
+				"you drink it too often."
 			]
 		},
 		{
@@ -85,9 +84,9 @@
 			"original": "Cibon: Hör nicht auf ihn, er hat keine Ahnung, wie es ist, ein kühles, frisches Bier zu trinken.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hör nicht auf ihn, er hat keine ",
-				"Ahnung, wie es ist, ein kühles, ",
-				"frisches Bier zu trinken."
+				"\\c[2]\\n[2]\\c[0]: Don't listen to him, he has",
+				"no idea what it's like to drink",
+				"a cool, fresh beer."
 			]
 		},
 		{
@@ -96,8 +95,8 @@
 			"original": "Cibon: Außerdem ist das Bier hier nur vorübergehend alle.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Außerdem ist das Bier hier ",
-				"nur vorübergehend alle."
+				"\\c[2]\\n[2]\\c[0]: Besides, the beer is only",
+				"temporarily gone here."
 			]
 		},
 		{
@@ -105,10 +104,9 @@
 			"original": "Soldat vom Briganten-Orden: In letzter Zeit haben manche Soldaten immer öfter Essens- wünsche an die Köche, die dann sogar erfüllt werden.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: In letzter Zeit ",
-				"haben manche Soldaten immer öfter Essens-",
-				"wünsche an die Köche, die dann sogar erfüllt ",
-				"werden."
+				"\\c[10]Brigantian Soldier\\c[0]: Recently, some soldiers have",
+				"made more and more requests to the cooks,",
+				"which are somehow fulfilled."
 			]
 		},
 		{
@@ -116,10 +114,10 @@
 			"original": "Soldat vom Briganten-Orden: Und es werden immer mehr hier, die ihren speziellen Wunsch als Mahlzeit haben wollen. Das halten die Köche sicher nicht mehr lange aus.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Und es werden ",
-				"immer mehr hier, die ihren speziellen Wunsch ",
-				"als Mahlzeit haben wollen.\\. Das halten die Köche ",
-				"sicher nicht mehr lange aus. "
+				"\\c[10]Brigantian Soldier\\c[0]: And there are more and more",
+				"people here who want their special request",
+				"fulfilled.\\. The cooks definitely won't be",
+				"able to keep up with this for much longer."
 			]
 		},
 		{
@@ -127,10 +125,9 @@
 			"original": "Soldat vom Briganten-Orden: In letzter Zeit haben manche Soldaten immer öfter Essens- Wünsche an die Köche, die dann sogar erfüllt werden.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: In letzter Zeit ",
-				"haben manche Soldaten immer öfter Essens-",
-				"Wünsche an die Köche, die dann sogar erfüllt ",
-				"werden."
+				"\\c[10]Brigantian Soldier\\c[0]: Recently, some soldiers have",
+				"made more and more requests to the cooks,",
+				"which are somehow fulfilled."
 			]
 		},
 		{
@@ -138,10 +135,10 @@
 			"original": "Soldat vom Briganten-Orden: Und es werden immer mehr hier, die ihre speziellen Wunsch als Mahlzeit haben wollen. Das halten die Köche sicher nicht mehr lange aus.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Und es werden ",
-				"immer mehr hier, die ihre speziellen Wunsch ",
-				"als Mahlzeit haben wollen.\\. Das halten die Köche ",
-				"sicher nicht mehr lange aus. "
+				"\\c[10]Brigantian Soldier\\c[0]: And there are more and more",
+				"people here who want their special request",
+				"fulfilled.\\. The cooks definitely won't be",
+				"able to keep up with this for much longer."
 			]
 		},
 		{
@@ -149,9 +146,9 @@
 			"original": "Köchin: Es ist noch genug zu Essen da. Bedienen Sie sich. Wenn Sie einen speziellen Wunsch haben, sagen Sie mir Bescheid.",
 			"lines":
 			[
-				"\\c[10]Köchin\\c[0]: Es ist noch genug zu Essen da.\\. Bedienen ",
-				"Sie sich.\\. Wenn Sie einen speziellen Wunsch ",
-				"haben, sagen Sie mir Bescheid."
+				"\\c[10]Cook\\c[0]: There's still enough food for everyone.\\.",
+				"Help yourself.\\. If you have a special request,",
+				"please let me know."
 			]
 		},
 		{
@@ -159,7 +156,7 @@
 			"original": "Köchin: Bier ist allerdings derzeit alle...",
 			"lines":
 			[
-				"\\c[10]Köchin\\c[0]: Bier ist allerdings derzeit alle..."
+				"\\c[10]Cook\\c[0]: However, the beer is currently all gone..."
 			]
 		},
 		{
@@ -167,8 +164,8 @@
 			"original": "Cibon: Morgen Kumpel. Haste also doch wieder so lang geschlafen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Morgen Kumpel.\\. Haste also ",
-				"doch wieder so lang geschlafen?"
+				"\\c[2]\\n[2]\\c[0]: Mornin'.\\. You slept",
+				"so long again?"
 			]
 		},
 		{
@@ -176,8 +173,8 @@
 			"original": "Kento: Ja... und jetzt verhungere ich fast.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja...\\. und jetzt verhungere ich ",
-				"fast."
+				"\\c[1]\\n[1]\\c[0]: Yeah...\\. and now I'm almost",
+				"starving."
 			]
 		},
 		{
@@ -185,10 +182,10 @@
 			"original": "Cibon: Dacht' ich mir schon. Mir ging's genauso. Ich hab schon etwas für dich bestellt, nur leider hast du länger geschlafen als ich dachte.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Dacht' ich mir schon.\\. Mir ",
-				"ging's genauso.\\. Ich hab schon etwas ",
-				"für dich bestellt, nur leider hast ",
-				"du länger geschlafen als ich dachte."
+				"\\c[2]\\n[2]\\c[0]: I thought so.\\. I felt the same",
+				"way.\\. I've already ordered something",
+				"for you, but unfortunately, you",
+				"slept longer than I expected."
 			]
 		},
 		{
@@ -196,9 +193,9 @@
 			"original": "Cibon: Deswegen steht das Zeug hier schon ne ganze Weile und ist schon kalt geworden...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Deswegen steht das Zeug hier ",
-				"schon ne ganze Weile und ist schon ",
-				"kalt geworden..."
+				"\\c[2]\\n[2]\\c[0]: That's why the stuff has been",
+				"here for quite a while and has gotten",
+				"cold..."
 			]
 		},
 		{
@@ -206,8 +203,8 @@
 			"original": "Kento: Egal, Hauptsache es ist was zu Essen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Egal,\\. Hauptsache es ist was zu ",
-				"Essen."
+				"\\c[1]\\n[1]\\c[0]: No problem,\\. as long as there's",
+				"something to eat."
 			]
 		},
 		{
@@ -215,10 +212,10 @@
 			"original": "Soldat vom Briganten-Orden: Kento, Cibon? Sir Vorento fragt nach euch. Ihr sollt bitte sofort zu ihm kommen. Er wartet wieder im 1. Lehrraum.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Kento, Cibon?\\.",
-				"Sir Vorento fragt nach euch.\\. ",
-				"Ihr sollt bitte sofort zu ihm kommen.\\. ",
-				"Er wartet wieder im 1. Lehrraum.\\."
+				"\\c[10]Brigantian Soldier\\c[0]: Kento, Cibon?\\.",
+				"Sir Vorento requests you.\\.",
+				"You should come to him immediately.\\.",
+				"He is waiting in the 1st classroom again.\\."
 			]
 		},
 		{
@@ -226,9 +223,9 @@
 			"original": "Soldat vom Briganten-Orden: Ihr solltet eure Mahlzeit lieber auf später verschieben... Ich geh dann wieder.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ihr solltet eure ",
-				"Mahlzeit lieber auf später verschieben...\\.",
-				"Ich geh dann wieder."
+				"\\c[10]Brigantian Soldier\\c[0]: You should postpone your",
+				"meal until later...\\.",
+				"Well,\\. I'm off again."
 			]
 		},
 		{
@@ -244,9 +241,8 @@
 			"original": "Cibon: Super, wahrscheinlich geht's um den neuen Auftrag. Lass uns hingehen, Kumpel!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Super, wahrscheinlich geht's ",
-				"um den neuen Auftrag.\\. Lass uns ",
-				"hingehen, Kumpel!"
+				"\\c[2]\\n[2]\\c[0]: Sweet, it's probably about",
+				"our new order.\\. Let's go!"
 			]
 		},
 		{
@@ -254,7 +250,7 @@
 			"original": "Kento: Ich esse noch.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: \\s[4]Ich esse noch."
+				"\\c[1]\\n[1]\\c[0]: \\s[4]I'm still eating."
 			]
 		},
 		{
@@ -262,8 +258,8 @@
 			"original": "Cibon: Das hat noch später Zeit! Lass uns gehen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Das hat noch später Zeit!\\. ",
-				"Lass uns gehen!"
+				"\\c[2]\\n[2]\\c[0]: There's time for that later!\\.",
+				"Let's go already!"
 			]
 		},
 		{
@@ -271,8 +267,7 @@
 			"original": "Kento: Ich hab aber noch Hunger! Och Mann...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich hab aber noch Hunger!\\. \\s[5]Och ",
-				"Mann...\\|\\^"
+				"\\c[1]\\n[1]\\c[0]: I'm still hungry!\\. \\s[5]Oh man...\\|\\^"
 			]
 		}
 	]

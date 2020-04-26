@@ -90,7 +90,7 @@
 			"original": "Soldat der Briganten Orden: Mann, Mann, Mann... Soko, ich sagte doch bereits, dass du die Sache mit dem Nachnamen nicht so ernst nehmen solltest.",
 			"lines":
 			[
-				"\\c[10]Soldat der Briganten Orden\\c[0]: Mann,\\. Mann,\\. ",
+				"\\c[10]Brigantian Soldier\\c[0]: Mann,\\. Mann,\\. ",
 				"Mann...\\. Soko, ich sagte doch bereits, dass du die ",
 				"Sache mit dem Nachnamen nicht so ernst ",
 				"nehmen solltest."
@@ -112,7 +112,7 @@
 			"original": "Herr Dorim: Aber ich versteh immer noch nicht, wieso du uns mit Nachnamen ansprichst! Wir sind doch Kameraden, wieso sprechen wir uns nicht mit Vornamen an und duzten uns?",
 			"lines":
 			[
-				"\\c[10]Herr Dorim\\c[0]: Aber ich versteh immer noch nicht,\\. ",
+				"\\c[10]Sir Dorim\\c[0]: Aber ich versteh immer noch nicht,\\. ",
 				"wieso du uns mit Nachnamen ansprichst!\\. Wir ",
 				"sind doch Kameraden, wieso sprechen wir uns nicht",
 				"mit Vornamen an und duzten uns?"
@@ -123,7 +123,7 @@
 			"original": "Herr in blauem Anzug: Ohje...",
 			"lines":
 			[
-				"\\c[10]Herr in blauem Anzug\\c[0]: Ohje..."
+				"\\c[10]Noble in a blue suit\\c[0]: Ohje..."
 			]
 		},
 		{
@@ -142,7 +142,7 @@
 			"original": "Herr Dorim: Args, Soko, ist dir nicht aufgefallen, dass du die einzige bist, die in Buronia so denkt?",
 			"lines":
 			[
-				"\\c[10]Herr Dorim\\c[0]: Args,\\. Soko,\\. ist dir nicht ",
+				"\\c[10]Sir Dorim\\c[0]: Args,\\. Soko,\\. ist dir nicht ",
 				"aufgefallen, dass du die einzige bist,\\. die in ",
 				"Buronia so denkt?"
 			]
@@ -177,7 +177,7 @@
 			"original": "Anderer Soldat: Oh! Sind die Leute aus Nomerea endlich da? Super! Endlich sind wir \"Frau Ernst\" los.",
 			"lines":
 			[
-				"\\c[10]Anderer Soldat\\c[0]: Oh!\\. Sind die Leute aus Nomerea ",
+				"\\c[10]Other Soldier\\c[0]: Oh!\\. Sind die Leute aus Nomerea ",
 				"endlich da?\\. Super!\\. Endlich sind wir \\s[4]\"Frau Ernst\" ",
 				"\\s[0]los."
 			]
@@ -208,7 +208,7 @@
 			"original": "Herr Kurenporalis(?): Ja, es ist schwachsinnig, ich weiß...",
 			"lines":
 			[
-				"\\c[10]Herr Kurenporalis(?)\\c[0]: Ja, es ist schwachsinnig, ",
+				"\\c[10]Sir Kurenporalis(?)\\c[0]: Ja, es ist schwachsinnig, ",
 				"ich weiß..."
 			]
 		},
@@ -217,7 +217,7 @@
 			"original": "Herr Dorim: Komm lass uns gehen, Kumpel. Ab jetzt können sich die beiden hier mit ihr rumschlagen. Ab nach Hause.",
 			"lines":
 			[
-				"\\c[10]Herr Dorim\\c[0]: Komm lass uns gehen, Kumpel.\\. Ab ",
+				"\\c[10]Sir Dorim\\c[0]: Komm lass uns gehen, Kumpel.\\. Ab ",
 				"jetzt können sich die beiden hier mit ihr ",
 				"rumschlagen.\\. Ab nach Hause."
 			]
@@ -227,7 +227,7 @@
 			"original": "Herr Kuhrehpolarkreis(?): Hahahaha, machts gut!",
 			"lines":
 			[
-				"\\c[10]Herr Kuhrehpolarkreis(?)\\c[0]: \\s[9]Hahahaha,\\s[0]\\. ",
+				"\\c[10]Sir Kuhrehpolarkreis(?)\\c[0]: \\s[9]Hahahaha,\\s[0]\\. ",
 				"machts gut!"
 			]
 		},
@@ -261,7 +261,7 @@
 			"original": "Herr in blauem Anzug: *räusper*",
 			"lines":
 			[
-				"\\c[10]Herr in blauem Anzug\\c[0]: *räusper*"
+				"\\c[10]Noble in a blue suit\\c[0]: *räusper*"
 			]
 		},
 		{
@@ -280,7 +280,7 @@
 			"original": "Herr Uroto: Guten Tag die Herren.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Guten Tag die Herren."
+				"\\c[10]Sir Uroto\\c[0]: Guten Tag die Herren."
 			]
 		},
 		{
@@ -343,7 +343,7 @@
 			"original": "Herr Uroto: Gut, dann weiter...",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Gut,\\. dann weiter..."
+				"\\c[10]Sir Uroto\\c[0]: Gut,\\. dann weiter..."
 			]
 		},
 		{
@@ -444,7 +444,7 @@
 			"original": "Betrunkener Mann: Heey, Süße....",
 			"lines":
 			[
-				"\\c[10]Betrunkener Mann\\c[0]: \\s[9]Heey,\\s[0] Süße...."
+				"\\c[10]Drunk Man\\c[0]: \\s[9]Heey,\\s[0] Süße...."
 			]
 		},
 		{
@@ -460,7 +460,7 @@
 			"original": "Betrunkener Mann: Wiie wärs'n mit uns beiden, huh? Glauub mir, isch wär da richtige für disch.",
 			"lines":
 			[
-				"\\c[10]Betrunkener Mann\\c[0]: Wiie\\. wärs'n mit uns beiden,\\. ",
+				"\\c[10]Drunk Man\\c[0]: Wiie\\. wärs'n mit uns beiden,\\. ",
 				"huh?\\. Glauub mir,\\. isch wär da richtige für disch. "
 			]
 		},
@@ -488,7 +488,7 @@
 			"original": "Betrunkener Mann: Komm scho, sei doch nich so schüüchtern!",
 			"lines":
 			[
-				"\\c[10]Betrunkener Mann\\c[0]: Komm scho,\\. ",
+				"\\c[10]Drunk Man\\c[0]: Komm scho,\\. ",
 				"sei doch nich so \\s[5]schüüch\\s[0]tern!"
 			]
 		},
@@ -508,7 +508,7 @@
 			"original": "Betrunkener Mann: Iiisch weiß, dass du misch willst! Gibs schon zu!",
 			"lines":
 			[
-				"\\c[10]Betrunkener Mann\\c[0]: I\\s[6]iisch\\s[0] weiß,\\. ",
+				"\\c[10]Drunk Man\\c[0]: I\\s[6]iisch\\s[0] weiß,\\. ",
 				"dass du misch willst!\\. Gibs schon zu!"
 			]
 		},
@@ -527,7 +527,7 @@
 			"original": "Betrunkener Mann: Harharhar, jetzt wird diiee Kleine auch noch wild. Hehehe....",
 			"lines":
 			[
-				"\\c[10]Betrunkener Mann\\c[0]: \\s[6]Harharhar\\s[0], ",
+				"\\c[10]Drunk Man\\c[0]: \\s[6]Harharhar\\s[0], ",
 				"jetzt wird d\\s[6]iiee\\s[0] Kleine auch noch wild. ",
 				"Hehehe...."
 			]
@@ -556,7 +556,7 @@
 			"original": "Betrunkener Mann: Urg... Aua...",
 			"lines":
 			[
-				"\\c[10]Betrunkener Mann\\c[0]: Urg...\\. Aua..."
+				"\\c[10]Drunk Man\\c[0]: Urg...\\. Aua..."
 			]
 		},
 		{
@@ -635,10 +635,10 @@
 			"original": "Junger Mann: Ich weiß nicht, ob ihr schon mal auf den Sinke-Lohne-Pass gewesen seid, aber ihr kennt doch sicher diese grünen Schleimhaufen, die einen immer angreifen müssen, oder?",
 			"lines":
 			[
-				"\\c[10]Junger Mann\\c[0]: Ich weiß nicht, ob ihr schon mal ",
-				"auf den Sinke-Lohne-Pass gewesen seid,\\. aber ihr ",
-				"kennt doch sicher diese grünen Schleimhaufen, ",
-				"die einen immer angreifen müssen,\\. oder?"
+				"\\c[10]Young Man\\c[0]: I don't know if you've ever been to",
+				"the Sink-Lohne Pass,\\. but you surely know about",
+				"these green piles of slime that always attack",
+				"you,\\. right?"
 			]
 		},
 		{
@@ -646,10 +646,10 @@
 			"original": "Junger Mann: Es kann aber auch sein, dass ihr sie schon in andere Farben gesehen habt. Hier im Torasgebirge zum Beispiel gibt solch blaue Viecher...",
 			"lines":
 			[
-				"\\c[10]Junger Mann\\c[0]: Es kann aber auch sein, dass ihr ",
-				"sie schon in andere Farben gesehen habt.\\. Hier ",
-				"im Torasgebirge zum Beispiel gibt solch blaue ",
-				"Viecher..."
+				"\\c[10]Young Man\\c[0]: It may also be that you've already",
+				"seen them in other colors.\\. Here in Mount Toras",
+				"for example, there are blue versions of this",
+				"slime..."
 			]
 		},
 		{
@@ -657,10 +657,9 @@
 			"original": "Junger Mann: Die sind ein ganzes Stück hartnäckiger als ihre grünen Verwandten. Ich hab aber gehört sie sollen gegen Feuer empfindlich sein...",
 			"lines":
 			[
-				"\\c[10]Junger Mann\\c[0]: Die sind ein ganzes Stück ",
-				"hartnäckiger als ihre grünen Verwandten.\\. Ich ",
-				"hab aber gehört sie sollen gegen ",
-				"Feuer empfindlich sein..."
+				"\\c[10]Young Man\\c[0]: They're a lot more stubborn",
+				"than their green relatives.\\. But I heard",
+				"they should be sensitive to fire..."
 			]
 		},
 		{
@@ -668,9 +667,8 @@
 			"original": "Junger Mann: Ich hab ihm ja geraten, er solle es lieber sein lassen, aber es war klar, dass ich ihn nicht davon abhalten konnte....",
 			"lines":
 			[
-				"\\c[10]Junger Mann\\c[0]: Ich hab ihm ja geraten, er solle es ",
-				"lieber sein lassen,\\. aber es war klar,\\. dass ich ihn ",
-				"nicht davon abhalten konnte...."
+				"\\c[10]Young Man\\c[0]: I told him to knock it off,\\. but",
+				"it was clear that I couldn't stop him..."
 			]
 		},
 		{
@@ -678,10 +676,10 @@
 			"original": "Mann: Ich und meine Familie sind auf der Durchreise nach Sinkholm und machen hier Pause. Wir kommen von Port Retisa. Wir haben also jetzt ungefähr die Hälfte des Weges geschafft.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Ich und meine Familie sind auf der ",
-				"Durchreise nach Sinkholm und machen hier ",
-				"Pause.\\. Wir kommen von \\n[22]. Wir haben also ",
-				"jetzt ungefähr die Hälfte des Weges geschafft."
+				"\\c[10]Man\\c[0]: My family and I are currently travelling",
+				"to Sinkholm and are taking a break here.\\.",
+				"We come from \\n[22]. And we're now",
+				"about half the way there."
 			]
 		},
 		{
@@ -690,9 +688,9 @@
 			"original": "Cibon: Was? Nach Sinkholm? Hät' nicht gedacht, dass diese Kleinstadt Besuch von weit her bekommt.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Was?\\. Nach Sinkholm?\\. Hät' ",
-				"nicht gedacht,\\. dass diese Kleinstadt ",
-				"Besuch von weit her bekommt."
+				"\\c[2]\\n[2]\\c[0]: What?\\. To Sinkholm?\\. Didn't",
+				"think that this small town would",
+				"get visitors from far away."
 			]
 		},
 		{
@@ -701,9 +699,8 @@
 			"original": "Mann: Naja, wir besuchen dort ja auch nur ein paar Verwandte... In der Stadt ist wirklich kaum was los...",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Naja, wir besuchen dort ja auch nur ein ",
-				"paar Verwandte...\\. In der Stadt ist wirklich kaum ",
-				"was los... "
+				"\\c[10]Man\\c[0]: Well, we only visit a few relatives there...\\.",
+				"There's hardly anything going on in that town..."
 			]
 		},
 		{
@@ -711,9 +708,9 @@
 			"original": "Mann: Tsk, das geschah diesem Säufer nur zu Recht. Mit seinem Gegröle ist er allen hier schon die ganze Zeit auf die Nerven gegangen....",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Tsk, das geschah diesem Säufer nur zu ",
-				"Recht.\\. Mit seinem Gegröle ist er allen hier schon ",
-				"die ganze Zeit auf die Nerven gegangen...."
+				"\\c[10]Man\\c[0]: Tsk, that drunkard got what he deserved.\\.",
+				"With his loud voice, he always annoyed",
+				"everyone here..."
 			]
 		},
 		{
@@ -721,10 +718,10 @@
 			"original": "Frau: Das wandern ist ziemlich anstrengend, vor allem da sich derzeit sehr viele Wesen in der Natur sehr aggressiv verhalten. Es ist schon sehr riskant in kleinen Gruppen zu reisen...",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Das wandern ist ziemlich anstrengend, vor ",
-				"allem da sich derzeit sehr viele Wesen in der ",
-				"Natur sehr aggressiv verhalten.\\. Es ist schon sehr ",
-				"riskant in kleinen Gruppen zu reisen..."
+				"\\c[10]Woman\\c[0]: Hiking is quite exhausting, especially",
+				"since many creatures there are very aggressive",
+				"in nature.\\. It's very risky to travel in small",
+				"groups..."
 			]
 		},
 		{
@@ -732,17 +729,18 @@
 			"original": "Kleiner Junge: Wäh... Ich will nicht nach Sinkholm. Da ist es immer so stinklangweilig.",
 			"lines":
 			[
-				"\\c[10]Kleiner Junge\\c[0]: Wäh...\\. Ich will nicht nach ",
-				"Sinkholm.\\. Da ist es immer so stinklangweilig."
-			]
+				"\\c[10]Boy\\c[0]: Ugh...\\. I don't wanna go back",
+				"to Sinkholm.\\. It's always so boring."
+			],
+			"__comment__": "If I'm not wrong, it's the same exact person, only with a different title."
 		},
 		{
 			"path": [25,2,2,2],
 			"original": "Junge: Wahnsinn! Das Fass hat keinen Schaden genommen. Was für ein stabiles Fass!",
 			"lines":
 			[
-				"\\c[10]Junge\\c[0]: Wahnsinn!\\.\\. Das Fass hat keinen Schaden ",
-				"genommen.\\. Was für ein stabiles Fass!"
+				"\\c[10]Boy\\c[0]: Wicked!\\.\\. The barrel wasn't damaged at all.\\.",
+				"What a stable barrel!"
 			]
 		},
 		{
@@ -750,10 +748,9 @@
 			"original": "Händler: Ohje... wieder durch das Torasgebirge. Ich bin diese Route schon duzend Mal entlang gereist und trotzdem ist der Weg durch das Torasgebirge jedes Mal eine Qual.",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Ohje...\\. wieder durch das Torasgebirge. ",
-				"Ich bin diese Route schon duzend Mal entlang ",
-				"gereist und trotzdem ist der Weg durch das ",
-				"Torasgebirge jedes Mal eine Qual."
+				"\\c[10]Merchant\\c[0]: Oh man...\\. Again through Mount Toras.",
+				"I've travelled this route a dozen times and yet",
+				"the path through Mount Toras is always a pain."
 			]
 		},
 		{
@@ -761,8 +758,8 @@
 			"original": "Händler: Aber es gibt bisher keine alternative Route, also bleibt mir nichts anderes übrig...",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Aber es gibt bisher keine alternative ",
-				"Route,\\. also bleibt mir nichts anderes übrig..."
+				"\\c[10]Merchant\\c[0]: But, there's no alternative route so",
+				"far,\\. so I have no other choice..."
 			]
 		},
 		{
@@ -770,10 +767,10 @@
 			"original": "Händler: Weibliche Soldaten vom Briganten- Orden sieht man nicht oft. Zwar ist es Frauen erlaubt, dem Orden beizutreten, doch ist es einfach unüblich, dass so was geschieht.",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Weibliche Soldaten vom Briganten-",
-				"Orden sieht man nicht oft. Zwar ist es Frauen ",
-				"erlaubt, dem Orden beizutreten, doch ist es ",
-				"einfach unüblich, dass so was geschieht."
+				"\\c[10]Merchant\\c[0]: Female soldiers from the Brigantine",
+				"Order aren't seen very often. Women are allowed",
+				"to join the order, but it isn't super common",
+				"for something like that to happen."
 			]
 		},
 		{
@@ -781,10 +778,10 @@
 			"original": "Händler: Ich denke Frauen erhalten einfach noch nicht genug Respekt, wenn es ums Militär geht. Ich glaube in den Kasernen werden sie wie Außenseiter behandelt. Hm... Wie ich das sehe?",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Ich denke Frauen erhalten einfach ",
-				"noch nicht genug Respekt, wenn es ums Militär ",
-				"geht.\\. Ich glaube in den Kasernen werden sie wie",
-				"Außenseiter behandelt.\\. Hm...\\. Wie ich das sehe? "
+				"\\c[10]Merchant\\c[0]: I think women just don't get enough",
+				"respect when it comes to the military.\\. I think",
+				"they're treated like outsiders in the barracks.\\.",
+				"Hm...\\. What do I think of that?"
 			]
 		},
 		{
@@ -792,9 +789,9 @@
 			"original": "Händler: Ohje, wenn ich da an meine Ehefrau denke...  Man sollte Frauen nicht unterschätzen. Glaub mir, ich sprech' aus Erfahrung.",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Ohje, wenn ich da an meine Ehefrau ",
-				"denke...  Man sollte Frauen nicht unterschätzen. ",
-				"Glaub mir, ich sprech' aus Erfahrung."
+				"\\c[10]Merchant\\c[0]: Well, when I think of my wife...",
+				"You shouldn't underestimate women. Believe me,",
+				"I speak from experience."
 			]
 		},
 		{
@@ -802,9 +799,8 @@
 			"original": "Händler: Als ich Gestern durch das Torasgebirge gewandert bin, hab ich ein leichtes Erdbeben wahrgenommen...",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Als ich Gestern durch das Torasgebirge ",
-				"gewandert bin, hab ich ein leichtes Erdbeben ",
-				"wahrgenommen... "
+				"\\c[10]Merchant\\c[0]: When I hiked through Mount Toras",
+				"yesterday, I noticed a slight earthquake..."
 			]
 		},
 		{
@@ -812,9 +808,9 @@
 			"original": "Glatzköpfiger Händler: Erdbeben? Das ist sehr ungewöhnlich. Immerhin gibt es im Torasgebirge keine Vulkane oder so was...",
 			"lines":
 			[
-				"\\c[10]Glatzköpfiger Händler\\c[0]: Erdbeben?\\. Das ist sehr ",
-				"ungewöhnlich.\\. Immerhin gibt es im ",
-				"Torasgebirge keine Vulkane oder so was..."
+				"\\c[10]Bald Merchant\\c[0]: Earthquake?\\. That's rather unusual.\\.",
+				"After all, there aren't any volcanoes or",
+				"anything in Mount Toras..."
 			]
 		},
 		{
@@ -822,8 +818,7 @@
 			"original": "Händler: Hm, vielleicht hab ich es mir auch nur eingebildet...",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Hm, vielleicht hab ich es mir auch nur ",
-				"eingebildet..."
+				"\\c[10]Merchant\\c[0]: Hm, maybe I was just hearing things..."
 			]
 		},
 		{
@@ -831,10 +826,9 @@
 			"original": "Händler: Nach Osten reisen und an der Grenze günstig Metall und Rüstungsteile kaufen und dann hier im Westen verkaufen... Das ist immer eine gute Methode um Geld zu machen.",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Nach Osten reisen und an der Grenze ",
-				"günstig Metall und Rüstungsteile kaufen und ",
-				"dann hier im Westen verkaufen...\\. Das ist immer ",
-				"eine gute Methode um Geld zu machen."
+				"\\c[10]Merchant\\c[0]: Travel east, buy cheap metal and armor",
+				"at the border, then sell it here in the west...\\.",
+				"It's always a good way to make money."
 			]
 		},
 		{
@@ -842,21 +836,21 @@
 			"original": "Händler: Im Westen kann man eventuell noch einen kleinen Umweg zur Hafenstadt Port Retisa machen, um dort kostbare, konservierte Seefische für einen recht günstigen Preis zu erwerben.",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Im Westen kann man eventuell noch einen ",
-				"kleinen Umweg zur Hafenstadt \\n[22] machen, ",
-				"um dort kostbare, konservierte Seefische für ",
-				"einen recht günstigen Preis zu erwerben."
-			]
+				"\\c[10]Merchant\\c[0]: In the west you can make a small detour",
+				"to the port town of \\n[22] to buy precious,",
+				"preserved saltwater fish for a fairly low price."
+			],
+			"__comment__": "Redundant name? - port town of Port Retisa"
 		},
 		{
 			"path": [30,1,11,4],
 			"original": "Händler: Diese Fische verkaufen sich wiederum im Osten für einen sehr guten Preis. Sie gelten dort als Delikatesse. Aber man muss schon auf genug Nachfrage stoßen...",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Diese Fische verkaufen sich wiederum ",
-				"im Osten für einen sehr guten Preis.\\. Sie gelten ",
-				"dort als Delikatesse.\\. Aber man muss schon auf ",
-				"genug Nachfrage stoßen..."
+				"\\c[10]Merchant\\c[0]: These fish in turn sell in the east",
+				"for a very good price.\\. They're considered a",
+				"delicacy there.\\. But you have to meet",
+				"enough demand..."
 			]
 		},
 		{
@@ -864,8 +858,8 @@
 			"original": "Händler: Denn sonst lohnt es sich nicht für den Umweg, den man geht.",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Denn sonst lohnt es sich nicht für den ",
-				"Umweg, den man geht."
+				"\\c[10]Merchant\\c[0]: Otherwise it's not worth the detour",
+				"that you take."
 			]
 		},
 		{
@@ -873,9 +867,8 @@
 			"original": "Händler: Immer diese Prügeleien in der Kneipe! So kann man sich hier ja nicht mal richtig entspannen.",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Immer diese Prügeleien in der Kneipe!\\.",
-				"So kann man sich hier ja nicht mal richtig ",
-				"entspannen."
+				"\\c[10]Merchant\\c[0]: Always with the fights in the pub!\\.",
+				"You really can't relax here."
 			]
 		},
 		{
@@ -883,10 +876,10 @@
 			"original": "Gasthofbesitzer: Der Geschäft boomt! Die Idee, einen Gasthof an dieser Kreuzung zu bauen, war einfach genial. Jeden Tag kommen hier hunderte von Händlern und Reisenden vorbei.",
 			"lines":
 			[
-				"\\c[10]Gasthofbesitzer\\c[0]: Der Geschäft boomt!\\. Die Idee, ",
-				"einen Gasthof an dieser Kreuzung zu bauen, war ",
-				"einfach genial.\\. Jeden Tag kommen hier hunderte  ",
-				"von Händlern und Reisenden vorbei."
+				"\\c[10]Inn Owner\\c[0]: Business is booming!\\. The idea of",
+				"building an inn at this intersection was just",
+				"brilliant.\\. Hundreds of traders and travelers",
+				"come here every day."
 			]
 		},
 		{
@@ -894,8 +887,8 @@
 			"original": "Gasthofbesitzer: Ich hoffe nur das sich hier nicht allzu bald Konkurrenz dazu gesellt...",
 			"lines":
 			[
-				"\\c[10]Gasthofbesitzer\\c[0]: Ich hoffe nur das sich hier nicht ",
-				"allzu bald Konkurrenz dazu gesellt..."
+				"\\c[10]Inn Owner\\c[0]: I just hope that a competitor",
+				"doesn't come here too soon..."
 			]
 		},
 		{
@@ -903,7 +896,7 @@
 			"original": "Gasthofbesitzer: Achja...",
 			"lines":
 			[
-				"\\c[10]Gasthofbesitzer\\c[0]: Achja... "
+				"\\c[10]Inn Owner\\c[0]: Oh right... "
 			]
 		},
 		{
@@ -912,8 +905,8 @@
 			"original": "Gasthofbesitzer: Ihnen gehört das mittlere Zimmer. Wünsche ihnen einen erholsamen Schlaf.",
 			"lines":
 			[
-				"\\c[10]Gasthofbesitzer\\c[0]: Ihnen gehört das mittlere Zimmer.",
-				"Wünsche ihnen einen erholsamen Schlaf."
+				"\\c[10]Inn Owner\\c[0]: Your room is in the middle.",
+				"Have a good night."
 			]
 		},
 		{
@@ -921,11 +914,11 @@
 			"original": "Hotelbesitzer: Na endlich ist dieser Trottel aus meinem Laden raus. Ich sah schon, wie er die einsten Kunden vertrieben hat. Er war nicht gut fürs Geschäft.",
 			"lines":
 			[
-				"\\c[10]Hotelbesitzer\\c[0]: Na endlich ist dieser Trottel aus ",
-				"meinem Laden raus.\\. Ich sah schon, wie er die ",
-				"einsten Kunden vertrieben hat.\\.",
-				"Er war nicht gut fürs Geschäft."
-			]
+				"\\c[10]Inn Owner\\c[0]: Finally, this idiot is finally out",
+				"of my shop.\\. I saw how he drove out the first",
+				"customers.\\. It wasn't good for business."
+			],
+			"__comment__": "Same reason as above."
 		}
 	]
 }

@@ -44,5 +44,13 @@
 				"the \\c[11]world map\\c[0]."
 			]
 		}
+	],
+	"other":
+	[
+		{
+			"path": [11,1,4],
+			"original": "Nomerea",
+			"patch": "Nomerea"
+		}
 	]
 }

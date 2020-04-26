@@ -6,9 +6,9 @@
 			"original": "Soldat vom Briganten-Orden: Ich hab gehört, dass man irgendwann recht interessante Haltungs-Signum erlernen können soll.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ich hab gehört, ",
-				"dass man irgendwann recht interessante ",
-				"Haltungs-Signum erlernen können soll."
+				"\\c[10]Brigantian Soldier\\c[0]: I heard that one should",
+				"be able to learn quite interesting Auxiliary",
+				"Signums at some point."
 			]
 		},
 		{
@@ -16,10 +16,9 @@
 			"original": "Soldat vom Briganten-Orden: Es handelt sich dabei um Zauber, die hauptsächlich einen starken Schutz bieten, oder den Helden sonst unterstützen.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Es handelt sich ",
-				"dabei um Zauber, die hauptsächlich einen ",
-				"starken Schutz bieten, oder den Helden sonst ",
-				"unterstützen."
+				"\\c[10]Brigantian Soldier\\c[0]: These are spells that mainly",
+				"offer strong protection or otherwise support",
+				"the party."
 			]
 		},
 		{
@@ -27,10 +26,10 @@
 			"original": "Soldat vom Briganten-Orden: Zum Beispiel Ferresschild. Dieser Zauber soll einen für eine Zeit vor physischen Attacken schützen. ... Wann ich wohl diese Zauber erlernen werde?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Zum Beispiel ",
-				"Ferresschild.\\. Dieser Zauber soll einen für eine ",
-				"Zeit vor physischen Attacken schützen. ... Wann ",
-				"ich wohl diese Zauber erlernen werde?"
+				"\\c[10]Brigantian Soldier\\c[0]: For example, Ferres Shield.\\.",
+				"This spell is supposed to protect you from",
+				"physical attacks for a while. When will I",
+				"learn these spells?"
 			]
 		},
 		{
@@ -38,9 +37,8 @@
 			"original": "Soldat vom Briganten-Orden: Alle Signum- Techniken verbrauchen MP, Mentalskraft- Punkte.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Alle Signum-",
-				"Techniken verbrauchen MP, Mentalskraft-",
-				"Punkte. "
+				"\\c[10]Brigantian Soldier\\c[0]: All Signum techniques",
+				"use MP, Magic Points."
 			]
 		},
 		{
@@ -48,10 +46,10 @@
 			"original": "Soldat vom Briganten-Orden: Sind alle MP einmal verbraucht, sind wir nicht mehr fähig, unsere mentalen Kräfte zu bündeln. Man kann sich halt nicht mehr konzentrieren.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Sind alle MP ",
-				"einmal verbraucht, sind wir nicht mehr fähig, ",
-				"unsere mentalen Kräfte zu bündeln.\\. Man kann",
-				"sich halt nicht mehr konzentrieren."
+				"\\c[10]Brigantian Soldier\\c[0]: Once all of your MP",
+				"has been used up, you are no longer able",
+				"to use your magic abilities.\\. You can't",
+				"channel your magic anymore."
 			]
 		},
 		{
@@ -59,10 +57,9 @@
 			"original": "Soldat vom Briganten-Orden: Gegenstände wie Mentaltropfen regenerieren da zum Glück eine bestimmte Anzahl von MP. Du solltest so was unbedingt mit dir tragen.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Gegenstände wie ",
-				"Mentaltropfen regenerieren da zum Glück eine ",
-				"bestimmte Anzahl von MP.\\. Du solltest so was ",
-				"unbedingt mit dir tragen."
+				"\\c[10]Brigantian Soldier\\c[0]: Fortunately, items such as",
+				"mana droplets regenerate a certain amount of MP.\\.",
+				"You should definitely carry some with you."
 			]
 		},
 		{
@@ -106,7 +103,7 @@
 			"original": "Junge Dame: ...Öh? Oh, hallo. Sie haben Recht, ich bin neu hier. Dürfte ich denn Ihren Namen erfahren?",
 			"lines":
 			[
-				"\\c[6]Junge Dame\\c[0]: ...Öh?\\. Oh, hallo.\\. Sie ",
+				"\\c[10]Young Lady\\c[0]: ...Öh?\\. Oh, hallo.\\. Sie ",
 				"haben Recht, ich bin neu hier.\\. Dürfte ",
 				"ich denn Ihren Namen erfahren?"
 			]
@@ -125,7 +122,7 @@
 			"original": "Junge Dame: Mein Name ist Ileya Reisato. Eigentlich sollten die Soldaten hier wissen, wer ich bin.",
 			"lines":
 			[
-				"\\c[6]Junge Dame\\c[0]: Mein Name ist Ileya ",
+				"\\c[10]Young Lady\\c[0]: Mein Name ist Ileya ",
 				"Reisato.\\. Eigentlich sollten die ",
 				"Soldaten hier wissen, wer ich bin. "
 			]

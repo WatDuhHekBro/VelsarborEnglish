@@ -25,10 +25,9 @@
 			"original": "(Ileya: Ein Ausbilder wie Vorento ist daran interessiert, dass einer seiner Schüler seinem Vater vergibt...?)",
 			"lines":
 			[
-				"(\\c[6]\\n[6]\\c[0]: Ein Ausbilder wie Vorento ist ",
-				"daran interessiert,\\. dass einer ",
-				"seiner Schüler seinem Vater ",
-				"vergibt...?)"
+				"(\\c[6]\\n[6]\\c[0]: An instructor like Vorento is",
+				"interested in having one of his",
+				"students forgive his father...?)"
 			]
 		},
 		{
@@ -36,10 +35,9 @@
 			"original": "(Ileya: Das hört sich für mich eher nach einer Ausrede an. Aber was würde er sonst mit dieser Entscheidung bewirken wollen?)",
 			"lines":
 			[
-				"(\\c[6]\\n[6]\\c[0]: Das hört sich für mich eher ",
-				"nach einer Ausrede an.\\. Aber was ",
-				"würde er sonst mit dieser ",
-				"Entscheidung bewirken wollen?)"
+				"(\\c[6]\\n[6]\\c[0]: Seems like more of an excuse.\\.",
+				"But why else might he want to",
+				"influence that decision?)"
 			]
 		},
 		{
@@ -47,9 +45,9 @@
 			"original": "(Ileya: Egal... Ich hätte nicht gedacht, dass sich diese Situation so schnell ergeben würde. )",
 			"lines":
 			[
-				"(\\c[6]\\n[6]\\c[0]: Egal...\\. Ich hätte nicht ",
-				"gedacht,\\. dass sich diese Situation ",
-				"so schnell ergeben würde. )"
+				"(\\c[6]\\n[6]\\c[0]: Regardless...\\. I never",
+				"thought that this situation",
+				"would arise so quickly.)"
 			]
 		}
 	]

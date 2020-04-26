@@ -6,8 +6,8 @@
 			"original": "(Kento: Ich sollte mir wirklich abgewöhnen, so lange zu schlafen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Ich sollte mir wirklich ",
-				"abgewöhnen, so lange zu schlafen.)"
+				"(\\c[1]\\n[1]\\c[0]: I should really get used to",
+				"practically hibernating like that...)"
 			]
 		},
 		{
@@ -15,7 +15,7 @@
 			"original": "(Kento: Meine Güte, bin ich hungrig.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Meine Güte, bin ich hungrig.)"
+				"(\\c[1]\\n[1]\\c[0]: Gosh, I'm hungry.)"
 			]
 		},
 		{
@@ -23,9 +23,9 @@
 			"original": "(Kento: Bei dem ganzen Theater gestern hab ich meinen leeren Magen ganz vergessen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Bei dem ganzen Theater ",
-				"gestern hab ich meinen leeren Magen ",
-				"ganz vergessen.)"
+				"(\\c[1]\\n[1]\\c[0]: In the whole drama yesterday,",
+				"I completely forgot about my empty",
+				"stomach.)"
 			]
 		},
 		{
@@ -33,9 +33,8 @@
 			"original": "(Kento: Dann mal auf zur Kantine. Vielleicht hält sich Cibon dort ja auch auf.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Dann mal auf zur Kantine.\\. ",
-				"Vielleicht hält sich Cibon dort ja ",
-				"auch auf.)"
+				"(\\c[1]\\n[1]\\c[0]: Let's go to the canteen.\\.",
+				"Maybe Cibon is there too.)"
 			]
 		},
 		{
@@ -43,7 +42,7 @@
 			"original": "Cibon: Okay, gehen wir dann?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Okay, gehen wir dann? "
+				"\\c[2]\\n[2]\\c[0]: Okay, are we going then?"
 			]
 		},
 		{
@@ -51,10 +50,9 @@
 			"original": "Kento: Wir sollten uns noch Heilmittel und bessere Ausrüstung kaufen, bevor wir die Stadt verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten uns noch ",
-				"Heilmittel und bessere Ausrüstung ",
-				"kaufen, bevor wir die Stadt ",
-				"verlassen."
+				"\\c[1]\\n[1]\\c[0]: We should buy supplies",
+				"and better equipment before we",
+				"leave Nomerea."
 			]
 		},
 		{
@@ -62,9 +60,8 @@
 			"original": "Cibon: Wir könnten uns auch noch etwas auf dem Handelsmarkt umsehen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wir könnten uns auch noch ",
-				"etwas auf dem Handelsmarkt ",
-				"umsehen."
+				"\\c[2]\\n[2]\\c[0]: We could also have a look",
+				"around the traders' market."
 			]
 		},
 		{
@@ -72,10 +69,9 @@
 			"original": "Kento: Wir sollten uns sowieso noch einmal gut die Stadt anschauen und uns verabschieden. Wir werden immerhin eine lange Zeit weg sein.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten uns sowieso noch ",
-				"einmal gut die Stadt anschauen und ",
-				"uns verabschieden.\\. Wir werden ",
-				"immerhin eine lange Zeit weg sein."
+				"\\c[1]\\n[1]\\c[0]: We should take a good look at",
+				"the city anyway and say goodbye.\\. We'll",
+				"be away for a long time after all."
 			]
 		},
 		{
@@ -83,8 +79,8 @@
 			"original": "Cibon: Genauso ist es. Also dann mal los!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Genauso ist es.\\. ",
-				"Also dann mal los!"
+				"\\c[2]\\n[2]\\c[0]: The city is exactly",
+				"the same.\\. So let's go!"
 			]
 		},
 		{
@@ -94,7 +90,7 @@
 			"lines":
 			[
 				"",
-				"Dies ist ein \\c[11]Speicherpunkt\\c[0]."
+				"This is a \\c[11]save point\\c[0]."
 			]
 		},
 		{
@@ -104,8 +100,8 @@
 			"lines":
 			[
 				"",
-				"Wenn man auf solch einen steht, kann man \\c[11]den",
-				"Spielstand speichern\\c[0]."
+				"When you stand on one of these, you can",
+				"\\c[11]save the game\\c[0]."
 			]
 		},
 		{
@@ -115,8 +111,8 @@
 			"lines":
 			[
 				"",
-				"Öffne dazu das \\c[11]Menu\\c[0] mit \\c[11]Esc\\c[0] und wähle",
-				"dann \\c[11]Speichern\\c[0]."
+				"To do this, open the \\c[11]menu\\c[0] using \\c[11]Esc\\c[0] and",
+				"then select \\c[11]Save\\c[0]."
 			]
 		},
 		{
@@ -126,9 +122,17 @@
 			"lines":
 			[
 				"",
-				"Auf der \\c[11]Weltkarte\\c[0] kann man übigens",
-				"immer speichern."
+				"Additionally, you can always save on",
+				"the \\c[11]world map\\c[0]."
 			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [15,1,4],
+			"original": "Burg Nomerea",
+			"patch": "Nomerea Castle"
 		}
 	]
 }

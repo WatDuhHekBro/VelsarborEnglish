@@ -7,10 +7,12 @@
 			"original": "Soldat vom Briganten-Orden: Hat man die Rüstung einmal an, ist alles okay. Das schlimme ist das an- und ausziehen dieses Blechhaufens!",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Hat man die ",
-				"Rüstung einmal an, ist alles okay.\\. Das schlimme ",
-				"ist das an- und ausziehen dieses Blechhaufens!"
-			]
+				"\\c[10]Brigantian Soldier\\c[0]: Once you have your armor,",
+				"everything will be just fine.\\. The tedious",
+				"part is putting this hunk of metal on",
+				"and taking it off!"
+			],
+			"__comment__": "This section is a repeat of Map0061."
 		},
 		{
 			"path": [93,1,13,3],
@@ -18,9 +20,9 @@
 			"original": "Soldat vom Briganten-Orden: Oi, Cibon. Du läufst immer noch in diesem Aufzug hier rum? Bist du immer noch nicht fertig ausgebildet?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Oi, Cibon.\\. Du ",
-				"läufst immer noch in diesem Aufzug hier rum?\\. ",
-				"Bist du immer noch nicht fertig ausgebildet?"
+				"\\c[10]Brigantian Soldier\\c[0]: Oi, Cibon.\\. Are you still",
+				"walking around in that armor?\\. You're still",
+				"not done with training?"
 			]
 		},
 		{
@@ -29,9 +31,8 @@
 			"original": "Cibon: Doch schon, aber es standen komischer Weise keine Rüstungen bereit. Für Kento ebenfalls nicht.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Doch schon, aber es standen ",
-				"komischer Weise keine Rüstungen ",
-				"bereit.\\. Für Kento ebenfalls nicht."
+				"\\c[2]\\n[2]\\c[0]: We're done, but strangely no",
+				"armor was available.\\. Neither for Kento."
 			]
 		},
 		{
@@ -40,9 +41,8 @@
 			"original": "Cibon: Man hat uns zwar ein paar andere Rüstungsteile gegeben, aber die waren wirklich mies...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Man hat uns zwar ein paar ",
-				"andere Rüstungsteile gegeben, aber ",
-				"die waren wirklich mies..."
+				"\\c[2]\\n[2]\\c[0]: We were given a few other pieces",
+				"of armor, but they were so bad..."
 			]
 		},
 		{
@@ -51,9 +51,9 @@
 			"original": "Soldat vom Briganten-Orden: Ach, das passiert immer wieder. Die Schmiede kommt einfach nicht mit der wachsenden Anzahl von Soldaten mit.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ach, das ",
-				"passiert immer wieder.\\. Die Schmiede kommt einfach ",
-				"nicht mit der wachsenden Anzahl von Soldaten mit. "
+				"\\c[10]Brigantian Soldier\\c[0]: Oh, that's been happening",
+				"again and again.\\. The blacksmith simply can't",
+				"keep up with the growing number of soldiers."
 			]
 		},
 		{
@@ -62,9 +62,9 @@
 			"original": "Cibon: Na ja, so schlimm is' es auch nicht. So eine Rüstung ist doch bestimmt sehr umständlich, oder?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Na ja, so schlimm is' es auch ",
-				"nicht. So eine Rüstung ist doch ",
-				"bestimmt sehr umständlich, oder?"
+				"\\c[2]\\n[2]\\c[0]: Well, it's not that bad either.",
+				"Your armor must be very cumbersome,",
+				"right?"
 			]
 		},
 		{
@@ -73,8 +73,8 @@
 			"original": "Soldat vom Briganten-Orden: Sagen wir, man gewöhnt sich dran.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Sagen wir, man ",
-				"gewöhnt sich dran."
+				"\\c[10]Brigantian Soldier\\c[0]: Let's say that you get",
+				"used to it."
 			]
 		},
 		{
@@ -83,8 +83,8 @@
 			"original": "Soldat vom Briganten-Orden: Wache halten ist tot langweilig.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wache halten ist ",
-				"tot langweilig."
+				"\\c[10]Brigantian Soldier\\c[0]: Keeping watch makes me bored",
+				"to the death."
 			]
 		},
 		{
@@ -93,7 +93,8 @@
 			"original": "Kento: Kann ich ein Lied von singen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Kann ich ein Lied von singen."
+				"\\c[1]\\n[1]\\c[0]: I can sing a song about it",
+				"if you want."
 			]
 		},
 		{
@@ -101,18 +102,19 @@
 			"original": "Soldat vom Briganten-Orden: Immer diese monotonen Trainingseinheiten. Da wird man ja verrückt, allein schon vom zusehen.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Immer diese ",
-				"monotonen Trainingseinheiten. Da wird man ja ",
-				"verrückt, allein schon vom zusehen."
-			]
+				"\\c[10]Brigantian Soldier\\c[0]: Always with these",
+				"monotonous training sessions. You'd go",
+				"crazy just by watching them."
+			],
+			"__comment__": "End of section."
 		},
 		{
 			"path": [101,1,7,2],
 			"original": "Ausbilder: Es ist sehr erfreulich, dass Sie alle so zahlreich erschienen sind.",
 			"lines":
 			[
-				"\\c[10]Ausbilder\\c[0]: Es ist sehr erfreulich, dass Sie alle ",
-				"so zahlreich erschienen sind. "
+				"\\c[10]Instructor\\c[0]: It is very delightful that you have",
+				"all appeared in such large numbers."
 			]
 		},
 		{
@@ -120,8 +122,8 @@
 			"original": "Ausbilder: Ab nächster Woche beginnt Ihre Ausbildung zum Soldaten des Briganten Ordens.",
 			"lines":
 			[
-				"\\c[10]Ausbilder\\c[0]: Ab nächster Woche beginnt Ihre ",
-				"Ausbildung zum Soldaten des Briganten Ordens."
+				"\\c[10]Instructor\\c[0]: Your training as a soldier in",
+				"the Brigantine Order will begin next week."
 			]
 		},
 		{
@@ -129,10 +131,9 @@
 			"original": "Ausbilder: Wie üblich muss hierzu vorher eine Wahl getroffen werden. Es geht um die Wahl der Waffe, auf der Sie sich während der Ausbildung spezialisieren wollen.",
 			"lines":
 			[
-				"\\c[10]Ausbilder\\c[0]: Wie üblich muss hierzu vorher eine ",
-				"Wahl getroffen werden.\\.\\. Es geht um die Wahl der ",
-				"Waffe, auf der Sie sich während der ",
-				"Ausbildung spezialisieren wollen."
+				"\\c[10]Instructor\\c[0]: As usual, a choice must be made",
+				"beforehand.\\.\\. It is about choosing the weapon",
+				"you want to specialize in during your training."
 			]
 		},
 		{
@@ -140,8 +141,9 @@
 			"original": "Ausbilder: Denn wir brauchen in unserer Armee keine Allround-Talente. Wir brauchen Spezialisten.",
 			"lines":
 			[
-				"\\c[10]Ausbilder\\c[0]: Denn wir brauchen in unserer Armee ",
-				"keine Allround-Talente. Wir brauchen Spezialisten. "
+				"\\c[10]Instructor\\c[0]: Because we don't need jacks of all",
+				"trades in our army. We need masters of one,",
+				"specialists!"
 			]
 		},
 		{
@@ -149,9 +151,9 @@
 			"original": "Ausbilder: Jede Waffe bringt eine spezielle Ausbildung und eine andere Rolle in der Schlacht mit sich.",
 			"lines":
 			[
-				"\\c[10]Ausbilder\\c[0]: Jede Waffe bringt eine spezielle ",
-				"Ausbildung und eine andere Rolle in der ",
-				"Schlacht mit sich."
+				"\\c[10]Instructor\\c[0]: Each weapon has their own",
+				"special training and a different role",
+				"in battle."
 			]
 		},
 		{
@@ -159,9 +161,9 @@
 			"original": "Ausbilder: Sie hatten schon vorher Zeit über diese Entscheidung nachzudenken. Also wählen Sie jetzt.",
 			"lines":
 			[
-				"\\c[10]Ausbilder\\c[0]: Sie hatten schon vorher Zeit über ",
-				"diese Entscheidung nachzudenken.",
-				"Also wählen Sie jetzt."
+				"\\c[10]Instructor\\c[0]: You've had time to think",
+				"about this decision before.",
+				"So choose wisely now."
 			]
 		},
 		{
@@ -169,8 +171,9 @@
 			"original": "Ausbilder: Zur Wahl stehen... Schwert, Axt und Lanze.",
 			"lines":
 			[
-				"\\c[10]Ausbilder\\c[0]: Zur Wahl stehen...\\. ",
-				"Schwert\\.\\., Axt\\.\\. und Lanze."
+				"\\c[10]Instructor\\c[0]: You may choose one",
+				"of the following...\\. the sword\\.\\.,",
+				"the axe\\.\\., or the lance."
 			]
 		},
 		{
@@ -178,8 +181,8 @@
 			"original": "Cibon: Jau, ich werde ganz klar die Axt nehmen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Jau, ich werde ganz klar die ",
-				"Axt nehmen."
+				"\\c[2]\\n[2]\\c[0]: Yeah, I'm definitely gonna",
+				"take the axe."
 			]
 		},
 		{
@@ -187,9 +190,8 @@
 			"original": "Kento: Die Axt? Ich hab gehört, das sei die Unbeliebteste unter den drei Waffe.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Die Axt?\\. Ich hab gehört, das ",
-				"sei die Unbeliebteste unter den ",
-				"drei Waffe."
+				"\\c[1]\\n[1]\\c[0]: The axe?\\. I heard it was the",
+				"least popular of the three."
 			]
 		},
 		{
@@ -197,10 +199,9 @@
 			"original": "Cibon: Ja, aber ich kann mit ihr nun mal am besten umgehen. Ich hab schon vorher alle drei Waffen ausprobiert.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja, aber ich kann mit ihr nun ",
-				"mal am besten umgehen.\\. Ich hab ",
-				"schon vorher alle drei Waffen ",
-				"ausprobiert."
+				"\\c[2]\\n[2]\\c[0]: Yeah, but I can wield it the",
+				"best.\\. I've tried all three weapons",
+				"before."
 			]
 		},
 		{
@@ -208,9 +209,9 @@
 			"original": "Ausbilder: Ich werde jetzt ihre Namen durchgehen. Sagen Sie mir nach Aufrufen ihres Namens ihre Entscheidung.",
 			"lines":
 			[
-				"\\c[10]Ausbilder\\c[0]: Ich werde jetzt ihre Namen ",
-				"durchgehen.\\. Sagen Sie mir nach Aufrufen ihres ",
-				"Namens ihre Entscheidung."
+				"\\c[10]Instructor\\c[0]: I'll go through your names",
+				"now.\\. Tell me your decision after I call",
+				"your name."
 			]
 		},
 		{
@@ -218,7 +219,7 @@
 			"original": "Ausbilder: ...Erim Akiro!",
 			"lines":
 			[
-				"\\c[10]Ausbilder\\c[0]: \\s[12]...\\s[3]Erim Akiro!"
+				"\\c[10]Instructor\\c[0]: \\s[12]...\\s[3]Erim Akiro!"
 			]
 		},
 		{
@@ -226,7 +227,7 @@
 			"original": "Erim Akiro: Ich nehme das Schwert!",
 			"lines":
 			[
-				"\\c[10]Erim Akiro\\c[0]: Ich nehme das Schwert!"
+				"\\c[10]Erim Akiro\\c[0]: I'll take the sword!"
 			]
 		},
 		{
@@ -234,8 +235,8 @@
 			"original": "Cibon: Was für eine Waffe wirst du nehmen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Was für eine Waffe wirst du ",
-				"nehmen? "
+				"\\c[2]\\n[2]\\c[0]: What weapon are you going",
+				"to use?"
 			]
 		},
 		{
@@ -243,7 +244,7 @@
 			"original": "Kento: Ich bin mir noch nicht sicher.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich bin mir noch nicht sicher."
+				"\\c[1]\\n[1]\\c[0]: I haven't decided yet."
 			]
 		},
 		{
@@ -251,10 +252,10 @@
 			"original": "Cibon: Langsam solltest du dich aber wirklich entscheiden. Sie rufen die Namen nach alphabetischer Reihenfolge der Nachnamen ab. Öh...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Langsam solltest du dich aber ",
-				"wirklich entscheiden.\\. Sie rufen die ",
-				"Namen nach alphabetischer ",
-				"Reihenfolge der Nachnamen ab.\\. Öh..."
+				"\\c[2]\\n[2]\\c[0]: You should really make a",
+				"decision soon.\\. We're called in",
+				"alphabetical order of our",
+				"last names.\\. Wait..."
 			]
 		},
 		{
@@ -262,8 +263,7 @@
 			"original": "Cibon: ...Wie lautet eigentlich dein Nachname?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...Wie lautet eigentlich dein ",
-				"Nachname?"
+				"\\c[2]\\n[2]\\c[0]: ...What's your last name?"
 			]
 		},
 		{
@@ -279,7 +279,7 @@
 			"original": "Percil Cotiah: Ich nehme... die Lanze!",
 			"lines":
 			[
-				"\\c[10]Percil Cotiah\\c[0]: \\s[4]Ich nehme...\\s[0] die Lanze!"
+				"\\c[10]Percil Cotiah\\c[0]: \\s[4]I will take...\\s[0] the lance!"
 			]
 		},
 		{
@@ -287,7 +287,7 @@
 			"original": "Ausbilder: Als nächstes... Kento Daikon!",
 			"lines":
 			[
-				"\\c[10]Ausbilder\\c[0]: Als nächstes\\.\\....\\.\\. Kento Daikon!"
+				"\\c[10]Instructor\\c[0]: Next\\.\\....\\.\\. Kento Daikon!"
 			]
 		},
 		{
@@ -295,7 +295,7 @@
 			"original": "Massen: Daikon?!",
 			"lines":
 			[
-				"\\c[10]Massen\\c[0]: Daikon?!"
+				"\\c[10]Crowd\\c[0]: Daikon?!"
 			]
 		},
 		{
@@ -303,7 +303,7 @@
 			"original": "Kento: ....Ja?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ....\\.\\.Ja?"
+				"\\c[1]\\n[1]\\c[0]: ...\\.\\.Yes?"
 			]
 		},
 		{
@@ -311,8 +311,8 @@
 			"original": "Cibon: Bi... Biste etwa... etwa der Sohn von DEM Genyu Daikon?!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Bi...\\. Biste etwa...\\. etwa der ",
-				"Sohn von DEM Genyu Daikon?!"
+				"\\c[2]\\n[2]\\c[0]: Y...\\. You don't mean to say...\\.",
+				"the son of THE Genyu Daikon?!"
 			]
 		},
 		{
@@ -328,10 +328,10 @@
 			"original": "Angehender Soldat: Wahnsinn! Der Sohn des legendären Helden, der die Truppen von Brigantia erfolgreich durch die Schlacht führte ist hier?",
 			"lines":
 			[
-				"\\c[10]Angehender Soldat\\c[0]: Wahnsinn!\\. Der Sohn des ",
-				"legendären Helden, der die Truppen von ",
-				"Brigantia erfolgreich durch die Schlacht führte ",
-				"ist hier?"
+				"\\c[10]Aspiring Soldier\\c[0]: No way!\\. The son of the",
+				"legendary hero who successfully led",
+				"Brigantia's troops through The Battle",
+				"is here?"
 			]
 		},
 		{
@@ -339,7 +339,7 @@
 			"original": "Angehender Soldat: Ich kann's kaum glauben!",
 			"lines":
 			[
-				"\\c[10]Angehender Soldat\\c[0]: Ich kann's kaum glauben!"
+				"\\c[10]Aspiring Soldier\\c[0]: I can hardly believe it!"
 			]
 		},
 		{
@@ -347,10 +347,9 @@
 			"original": "Ausbilder: RUHE bitte! ... Ja, es stimmt, der Sohn von Genyu Daikon tritt dieses Jahr die Ausbildung zum Soldaten des Briganten Ordens an.",
 			"lines":
 			[
-				"\\c[10]Ausbilder\\c[0]: RUHE bitte!\\. ...\\. Ja, es stimmt, der ",
-				"Sohn von Genyu Daikon tritt dieses Jahr die ",
-				"Ausbildung zum Soldaten des Briganten Ordens ",
-				"an."
+				"\\c[10]Instructor\\c[0]: Calm down, please!\\. ...\\.Yes, it is true,",
+				"the son of Genyu Daikon is starting his training",
+				"as a soldier of the Brigantine Order this year."
 			]
 		},
 		{
@@ -358,8 +357,8 @@
 			"original": "Ausbilder: Darf ich davon ausgehen, dass Sie wie der Vater das Schwert wählen werden?",
 			"lines":
 			[
-				"\\c[10]Ausbilder\\c[0]: Darf ich davon ausgehen, dass Sie",
-				"wie der Vater das Schwert wählen werden?"
+				"\\c[10]Instructor\\c[0]: Now,\\. may I assume that you will",
+				"choose the sword like your father?"
 			]
 		},
 		{
@@ -367,7 +366,7 @@
 			"original": "Kento: ... Nein!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ... Nein!"
+				"\\c[1]\\n[1]\\c[0]: ...No!"
 			]
 		},
 		{
@@ -375,8 +374,7 @@
 			"original": "Kento: Nein, nein und nochmals Nein!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Nein\\.\\., nein\\.\\. und ",
-				"nochmals Nein!"
+				"\\c[1]\\n[1]\\c[0]: No\\.\\., no\\.\\., and again\\.\\., NO!"
 			]
 		},
 		{
@@ -384,10 +382,10 @@
 			"original": "Kento: Ich bin nicht \"Herr Daikon\" oder \"Der Sohn von Genyu\" ... Mein Name ist KENTO! ALLES KLAR?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich bin nicht \\s[4]\"Herr Daikon\"\\s[0] ",
-				"oder \\s[4]\"Der Sohn von Genyu\"\\s[0] ...",
-				"Mein Name ist \\s[7]KENTO!\\s[0] ",
-				"ALLES KLAR?"
+				"\\c[1]\\n[1]\\c[0]: I'm not \\s[4]\"Sir Daikon\"\\s[0]",
+				"or \\s[4]\"The Son of Genyu\"\\s[0]...",
+				"My name is \\s[7]KENTO\\s[0]!",
+				"IS THAT CLEAR?"
 			]
 		},
 		{
@@ -395,9 +393,9 @@
 			"original": "Kento: Er mag mein Vater sein, aber nicht mein Ebenbild! Es ist mir EGAL, wie berühmt er war!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Er mag mein Vater sein,\\. aber ",
-				"nicht mein Ebenbild!\\.\\. Es ist mir ",
-				"\\s[6]EGAL\\s[0], wie berühmt er war! "
+				"\\c[1]\\n[1]\\c[0]: He may be my father,\\. but he",
+				"couldn't be further from me at all!\\.\\.",
+				"I don't care \\s[6]HOW\\s[0] famous he was!"
 			]
 		},
 		{
@@ -405,8 +403,8 @@
 			"original": "Kento: Ich BIN NICHT wie er, noch möchte ich sein wie er...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich \\s[4]BIN NICHT\\s[0] wie er,\\.\\.",
-				"noch möchte ich sein wie er..."
+				"\\c[1]\\n[1]\\c[0]: I \\s[4]AM NOT\\s[0] like him,\\.\\. nor",
+				"do I ever want to be like him..."
 			]
 		},
 		{
@@ -414,8 +412,8 @@
 			"original": "Kento: Ich nehme NICHT das Schwert! ICH NEHME DIE LANZE!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich nehme NICHT das ",
-				"Schwert!\\.\\.\\s[5] ICH NEHME DIE LANZE!"
+				"\\c[1]\\n[1]\\c[0]: I will NOT take the sword!\\.\\.",
+				"\\s[5]I WILL TAKE THE LANCE!"
 			]
 		},
 		{
@@ -423,8 +421,8 @@
 			"original": "Ausbilder: In Ordnung... Kento nimmt die Lanze.",
 			"lines":
 			[
-				"\\c[10]Ausbilder\\c[0]: \\s[4]In Ordnung...\\.\\.",
-				"Kento nimmt die Lanze."
+				"\\c[10]Instructor\\c[0]: \\s[4]Okay then...\\.\\.",
+				"Kento shall take the lance."
 			]
 		}
 	]

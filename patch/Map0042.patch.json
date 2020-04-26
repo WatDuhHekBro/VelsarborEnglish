@@ -688,7 +688,7 @@
 			"original": "Frau Tirunel: Wirklich? Stimmt das, Kento?",
 			"lines":
 			[
-				"\\c[10]Frau Tirunel\\c[0]: Wirklich?\\. Stimmt das, Kento?"
+				"\\c[10]Mrs. Tirunel\\c[0]: Wirklich?\\. Stimmt das, Kento?"
 			]
 		},
 		{
@@ -714,7 +714,7 @@
 			"original": "Frau Tirunel: Ach, das ist teilweise schon zur Gewohnheit geworden, Cibon. Davon kann ich mich nicht so schnell losreißen. Nun, wohin geht die Reise denn und wann reist ihr ab?",
 			"lines":
 			[
-				"\\c[10]Frau Tirunel\\c[0]: Ach,\\. das ist teilweise schon zur ",
+				"\\c[10]Mrs. Tirunel\\c[0]: Ach,\\. das ist teilweise schon zur ",
 				"Gewohnheit geworden, Cibon.\\. Davon kann ich ",
 				"mich nicht so schnell losreißen.\\. Nun,\\. wohin geht ",
 				"die Reise denn und wann reist ihr ab?"
@@ -735,7 +735,7 @@
 			"original": "Frau Tirunel: Nach Domarkor? So weit? Ohhh...Passt bloß gut auf euch auf. Wer weiß, was für Zustände dort herrschen... Wann geht es nun los?",
 			"lines":
 			[
-				"\\c[10]Frau Tirunel\\c[0]: Nach Domarkor?\\. So weit?\\. ",
+				"\\c[10]Mrs. Tirunel\\c[0]: Nach Domarkor?\\. So weit?\\. ",
 				"\\s[8]Ohhh...\\s[0]Passt bloß gut auf euch auf. Wer weiß, ",
 				"was für Zustände dort herrschen... ",
 				"Wann geht es nun los? "
@@ -755,7 +755,7 @@
 			"original": "Frau Tirunel: Was? Sofort? Oh... na dann wünsch ich euch viel Erfolg. Und kommt ja unversehrt zurück.",
 			"lines":
 			[
-				"\\c[10]Frau Tirunel\\c[0]: Was?\\. Sofort?\\. Oh... na dann ",
+				"\\c[10]Mrs. Tirunel\\c[0]: Was?\\. Sofort?\\. Oh... na dann ",
 				"wünsch ich euch viel Erfolg.\\. Und kommt ja ",
 				"unversehrt zurück."
 			]
@@ -773,7 +773,7 @@
 			"original": "Frau Tirunel: Ach ja und noch was...",
 			"lines":
 			[
-				"\\c[10]Frau Tirunel\\c[0]: Ach ja und noch was..."
+				"\\c[10]Mrs. Tirunel\\c[0]: Ach ja und noch was..."
 			]
 		},
 		{
@@ -789,7 +789,7 @@
 			"original": "Frau Tirunel: Jenseits des Toras-Gebirges... liegt das Corine-Plateau. Wenn ihr dort seid, besucht doch bitte das Grab deines Vaters. Es muss dort irgendwo sein.",
 			"lines":
 			[
-				"\\c[10]Frau Tirunel\\c[0]: Jenseits des Toras-Gebirges...\\. ",
+				"\\c[10]Mrs. Tirunel\\c[0]: Jenseits des Toras-Gebirges...\\. ",
 				"liegt das Corine-Plateau.\\. Wenn ihr dort seid, ",
 				"besucht doch bitte das Grab deines Vaters.\\. Es ",
 				"muss dort irgendwo sein.  "
@@ -811,7 +811,7 @@
 			"original": "Frau Tirunel: Ich traue deinem Wort diesmal. Auf Wiedersehen.",
 			"lines":
 			[
-				"\\c[10]Frau Tirunel\\c[0]: Ich traue deinem Wort diesmal.\\. ",
+				"\\c[10]Mrs. Tirunel\\c[0]: Ich traue deinem Wort diesmal.\\. ",
 				"\\s[5]Auf Wiedersehen."
 			]
 		},
@@ -836,7 +836,7 @@
 			"original": "Frau Tirunel: Hm, ich werde dich die paar Wochen sicherlich vermissen.",
 			"lines":
 			[
-				"\\c[10]Frau Tirunel\\c[0]: Hm, ich werde dich die paar ",
+				"\\c[10]Mrs. Tirunel\\c[0]: Hm, ich werde dich die paar ",
 				"Wochen sicherlich vermissen."
 			]
 		}
