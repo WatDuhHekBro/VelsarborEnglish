@@ -219,7 +219,7 @@
 			"original": "Ausbilder: ...Erim Akiro!",
 			"lines":
 			[
-				"\\c[10]Instructor\\c[0]: \\s[12]...\\s[3]Erim Akiro!"
+				"\\c[10]Instructor\\c[0]: \\s[12]... \\s[3]Erim Akiro!"
 			]
 		},
 		{
@@ -263,7 +263,7 @@
 			"original": "Cibon: ...Wie lautet eigentlich dein Nachname?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...What's your last name?"
+				"\\c[2]\\n[2]\\c[0]: What's your last name?"
 			]
 		},
 		{
@@ -303,7 +303,7 @@
 			"original": "Kento: ....Ja?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...\\.\\.Yes?"
+				"\\c[1]\\n[1]\\c[0]: ...\\.\\. Yes?"
 			]
 		},
 		{
@@ -366,7 +366,7 @@
 			"original": "Kento: ... Nein!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...No!"
+				"\\c[1]\\n[1]\\c[0]: No!"
 			]
 		},
 		{

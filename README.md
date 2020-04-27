@@ -54,7 +54,7 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 - Prologue: 100%
 - Sinkholm: 100%
 - The Sink-Lohne Pass: 100%
-- Nomerea: 75%
+- Nomerea: 78%
 - The Lohne: 100%
 - Mount Toras: 0%
 - Wayfarer's Inn: 0%

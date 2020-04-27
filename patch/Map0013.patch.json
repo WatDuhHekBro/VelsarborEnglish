@@ -194,7 +194,7 @@
 			"original": "Kento: ...Und mich hat der Schlaf bezwungen, wie es scheint.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] ...And sleep overcame me,",
+				"\\c[1]\\n[1]:\\c[0] And sleep overcame me,",
 				"it seems."
 			]
 		},
@@ -666,7 +666,7 @@
 			"original": "Jorn: ...Dank dir bald nur noch die \"gefangenen Zinkar-Brüder\", du VOLLTROTTEL!",
 			"lines":
 			[
-				"\\c[10]Jorn:\\c[0] ...Thanks to you, we'll",
+				"\\c[10]Jorn:\\c[0] Thanks to you, we'll",
 				"soon only be known as the \"captive",
 				"Zinkar Brothers\", you IDIOT!"
 			],
@@ -912,7 +912,7 @@
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] ...\\.Soon enough...\\.",
-				"...\\.But not now..."
+				"But not now..."
 			]
 		},
 		{
@@ -929,7 +929,7 @@
 			"original": "Kento: ...Was erwartest du? Wir haben hier eben die Nacht durchgemacht...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] ...What did you expect?\\.",
+				"\\c[1]\\n[1]:\\c[0] What did you expect?\\.",
 				"We've been up all night..."
 			]
 		},
@@ -1196,7 +1196,7 @@
 			"original": "Blondes Mädchen: Oh... sie hat mich extra darum gebeten, es dir NICHT zu sagen.",
 			"lines":
 			[
-				"\\c[10]Blonde Girl\\c[0]: Oh...\\. she specifically",
+				"\\c[10]Blonde Girl\\c[0]: Oh...\\. She specifically",
 				"asked me NOT to tell you."
 			]
 		},
@@ -1321,7 +1321,7 @@
 			"original": "Cibon: ...Wenn das Ihnen lieber ist... (VERDAMMT!)",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...Well if that's what you",
+				"\\c[2]\\n[2]\\c[0]: Well if that's what you",
 				"prefer... (DAMN!)"
 			]
 		},

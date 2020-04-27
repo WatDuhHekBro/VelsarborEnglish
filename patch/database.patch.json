@@ -55,7 +55,7 @@
 			"original": "Gurim: ..... Saion,... du Trottel!",
 			"lines":
 			[
-				"\\c[10]Gurim:\\c[0] ...\\.Saion...\\. you idiot!"
+				"\\c[10]Gurim:\\c[0] Saion...\\. you idiot!"
 			]
 		},
 		{
@@ -386,7 +386,7 @@
 			"original": "Soldat: ...Sedric, du HAST den Gegner unterschätzt!",
 			"lines":
 			[
-				"\\c[10]Soldier\\c[0]: ...\\.Sedric,\\. you HAVE underestimated",
+				"\\c[10]Soldier\\c[0]: Sedric,\\. you HAVE underestimated",
 				"your opponent!"
 			]
 		},
@@ -1672,7 +1672,7 @@
 			"original": "Cibon: Kento! ... Ich muss schnell nen Lichtschlag verwenden!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Kento!\\. ...\\.I have to use some",
+				"\\c[2]\\n[2]:\\c[0] Kento!\\. ...\\. I have to use some",
 				"\\c[11]divine light\\c[0] quickly!"
 			]
 		},
@@ -1716,7 +1716,7 @@
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Hold on Cibon! I'm throwing some",
-				"\\c[11]divine light\"\\c[0]!"
+				"\\c[11]divine light\\c[0] your way!"
 			]
 		},
 		{

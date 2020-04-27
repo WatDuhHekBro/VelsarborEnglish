@@ -137,8 +137,7 @@
 			"original": "Zojenische Einheit: ... Gut, aber beeilen Sie sich!",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] ...\\.Fine,\\.",
-				"but hurry up!"
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] ...\\. Fine,\\. but hurry up!"
 			]
 		},
 		{
@@ -265,7 +264,7 @@
 			"lines":
 			[
 				"\\c[10]Korzojenish Soldier\\c[0]: That means...\\.",
-				"he wants to destroy the core?!"
+				"He wants to destroy the core?!"
 			]
 		},
 		{
@@ -273,7 +272,7 @@
 			"original": "Frau Mensesso: Der...der Kern ist verschwunden! Die Spezialeinheit ebenfalls! Was ist hier geschehen?!",
 			"lines":
 			[
-				"\\c[10]Lady Mensesso\\c[0]:\\s[1] The... the",
+				"\\c[10]Lady Mensesso\\c[0]:\\s[1] The... The",
 				"core vanished!\\. The Spec-Ops",
 				"soldier too!\\. What in the",
 				"world happened here?!"

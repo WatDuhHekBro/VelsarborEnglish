@@ -4,7 +4,7 @@ Instead, it's determined by the name given by each save point's code (meaning it
 For example, "Sink-Lohn-P." is not found anywhere in the map tree, only in Map0037 (thanks GREP).
 The only odd case is Map0010 which determines the name of the world map (because you can save anywhere on the world map).
 Seems like most of the original text was made to cap out at around 12 characters.
-After some tests, it seems like 50 characters is the final limit, however, 14 is the safe limit while the 15th character, if present, is cut off a bit.
+After some tests, it seems like while 50 characters is the absolute limit, 14 is the safe limit (in bounds) while the 15th character, if present, is cut off a bit. So the limit is ultimately 14 characters.
 -- To add or not to add specifiers like cardinal directions? That is the question I'll answer when I get around to exploring the Corine Plateau. I could either just do "Corine Plateau" for every point or separate it into West, East, etc. --
 
 -= List =-
