@@ -1,0 +1,490 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [26,3,28,1],
+			"original": "Kento: Fr... Frau Filaja!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Fr...\\. Frau Filaja!"
+			]
+		},
+		{
+			"path": [26,3,30,1],
+			"original": "Soko: Oh....",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Oh...."
+			]
+		},
+		{
+			"path": [26,3,40,3],
+			"original": "Cibon: Wie? Biste uns jetzt doch gefolgt? Wieso denn das auf einmal?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wie?\\. Biste uns jetzt doch ",
+				"gefolgt?\\. Wieso denn das auf ",
+				"einmal?"
+			]
+		},
+		{
+			"path": [26,3,44,1],
+			"original": "Kento: Und was ist mit Herrn Uroto?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Und was ist mit Herrn Uroto?"
+			]
+		},
+		{
+			"path": [26,3,46,3],
+			"original": "Soko: Ähh... Der eine Soldat aus Buronia hat sich bereit erklärt, auf ihn aufzupassen...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ähh...\\. Der eine Soldat aus ",
+				"Buronia hat sich bereit erklärt, auf ",
+				"ihn aufzupassen..."
+			]
+		},
+		{
+			"path": [26,3,50,2],
+			"original": "Cibon: Und wieso bist du jetzt doch hier?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Und wieso bist du jetzt doch ",
+				"hier?"
+			]
+		},
+		{
+			"path": [26,3,57,1],
+			"original": "Cibon: Na, was ist nun?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Na, was ist nun?"
+			]
+		},
+		{
+			"path": [26,3,59,3],
+			"original": "Soko: Die Beben da oben haben weiterhin die Bauarbeiten aufgehalten...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Die Beben da oben haben ",
+				"weiterhin die Bauarbeiten ",
+				"aufgehalten... "
+			]
+		},
+		{
+			"path": [26,3,62,3],
+			"original": "Soko: Ein paar Seile der Brücke, die neu gespannt wurden, sind erneut gerissen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ein paar Seile der Brücke, ",
+				"die neu gespannt wurden, sind ",
+				"erneut gerissen."
+			]
+		},
+		{
+			"path": [26,3,66,4],
+			"original": "Soko: Sie hatten Recht, diese Beben halten uns zu viel auf. Wir sollten die Ursache finden und versuchen sie zu beseitigen...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Sie hatten Recht, diese Beben ",
+				"halten uns zu viel auf.\\. Wir sollten ",
+				"die Ursache finden und versuchen ",
+				"sie zu beseitigen..."
+			]
+		},
+		{
+			"path": [26,3,72,3],
+			"original": "Cibon: ...Aber du glaubst nicht, dass Kento und ich fähig sind, das hier alleine zu regeln?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ...Aber du glaubst nicht, dass ",
+				"Kento und ich fähig sind, das hier ",
+				"alleine zu regeln?"
+			]
+		},
+		{
+			"path": [26,3,80,4],
+			"original": "Kento: Cibon, du musst nicht gleich in diese Richtung denken. Vielleicht hat sie sich einfach nur Sorgen gemacht...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Cibon,\\. du musst nicht gleich ",
+				"in diese Richtung denken.\\. Vielleicht ",
+				"hat sie sich einfach nur Sorgen ",
+				"gemacht..."
+			]
+		},
+		{
+			"path": [26,3,86,2],
+			"original": "Cibon: Nachdem, wie sie sich da oben angestellt hat?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Nachdem, wie sie sich da oben ",
+				"angestellt hat?"
+			]
+		},
+		{
+			"path": [26,3,92,4],
+			"original": "Soko: Ah... Das verstehen Sie falsch. ... Wir sind ein Team und als dieses müssen wir so gut wie möglich zusammen arbeiten.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ah...\\. Das verstehen Sie falsch.\\. ",
+				"...\\. Wir sind ein Team\\. und als dieses ",
+				"müssen wir so gut wie möglich ",
+				"zusammen arbeiten."
+			]
+		},
+		{
+			"path": [26,3,97,3],
+			"original": "Soko: Es war falsch von mir gewesen, Sie alleine in die Höhle ziehen zu lassen, das geb ich zu....",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Es war falsch von mir gewesen, ",
+				"Sie alleine in die Höhle ziehen zu ",
+				"lassen,\\. das geb ich zu...."
+			]
+		},
+		{
+			"path": [26,3,103,2],
+			"original": "Cibon: Sie hat sich tatsächlich Sorgen gemacht, Kumpel.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Sie hat sich tatsächlich Sorgen ",
+				"gemacht, Kumpel."
+			]
+		},
+		{
+			"path": [26,3,109,4],
+			"original": "Soko: D... Das hab ich nicht gesagt! Es ging mir nicht um das Wohlbefinden von ihnen, sondern um das Prinzip von Teamarbeit!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: D...\\. Das hab ich nicht gesagt!\\. ",
+				"Es ging mir nicht um das ",
+				"Wohlbefinden von ihnen, sondern um ",
+				"das Prinzip von Teamarbeit! "
+			]
+		},
+		{
+			"path": [26,3,115,1],
+			"original": "Cibon: Ja ja, schon klar...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ja ja,\\. schon klar..."
+			]
+		},
+		{
+			"path": [26,3,122,3],
+			"original": "Kento: Hm... Cibon, wir sind hier bereits gewesen... Anscheinend laufen wir im Kreis...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm...\\. Cibon, wir sind hier ",
+				"bereits gewesen...\\. Anscheinend ",
+				"laufen wir im Kreis..."
+			]
+		},
+		{
+			"path": [26,3,127,2],
+			"original": "Cibon: Öh? ... Du hast Recht, hier waren wir schon!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Öh?\\. ...\\. Du hast Recht,\\. hier ",
+				"waren wir schon!"
+			]
+		},
+		{
+			"path": [26,3,130,2],
+			"original": "Soko: Heißt das, es gibt nichts weiter zu durchsuchen in der Höhle?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Heißt das, es gibt nichts ",
+				"weiter zu durchsuchen in der Höhle?"
+			]
+		},
+		{
+			"path": [26,3,134,3],
+			"original": "Kento: Ich glaube schon, es sei denn wir haben irgendwo einen Bereich übersehen...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich glaube schon,\\. es sei denn ",
+				"wir haben irgendwo einen Bereich ",
+				"übersehen..."
+			]
+		},
+		{
+			"path": [26,3,139,3],
+			"original": "Cibon: Gut möglich, bei der Dunkelheit hier. Wir sollten weiter suchen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Gut möglich, bei der ",
+				"Dunkelheit hier.\\. Wir sollten weiter ",
+				"suchen."
+			]
+		},
+		{
+			"path": [26,3,144,4],
+			"original": "Soko: Das denke ich auch. Die Beben sind hier eindeutig stärker. Die Ursache muss hier in der Höhle liegen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Das denke ich auch. Die Beben ",
+				"sind hier eindeutig stärker.\\. Die ",
+				"Ursache muss hier in der Höhle ",
+				"liegen. "
+			]
+		},
+		{
+			"path": [26,3,153,2],
+			"original": "Kento: Da fällt mir auf... Eine Sache ist merkwürdig...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Da fällt mir auf...\\. Eine Sache ",
+				"ist merkwürdig..."
+			]
+		},
+		{
+			"path": [26,3,158,1],
+			"original": "Cibon: Was denn, Kumpel?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Was denn, Kumpel?"
+			]
+		},
+		{
+			"path": [26,3,161,3],
+			"original": "Kento: Ist euch aufgefallen, dass das letzte Beben schon eine ganze Zeit zurück liegt?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ist euch aufgefallen, dass das ",
+				"letzte Beben schon eine ganze Zeit ",
+				"zurück liegt?"
+			]
+		},
+		{
+			"path": [26,3,165,2],
+			"original": "Soko: Sie meinen... es kommen keine Beben mehr?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Sie meinen...\\. es kommen keine ",
+				"Beben mehr?"
+			]
+		},
+		{
+			"path": [26,3,168,1],
+			"original": "Kento: Ja, ich frag mich wieso...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja, ich frag mich wieso..."
+			]
+		},
+		{
+			"path": [26,3,197,1],
+			"original": "Soko: Kento!!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Kento!!"
+			]
+		},
+		{
+			"path": [26,3,253,1],
+			"original": "Kento: Wa... Was war das?!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wa... Was war das?!"
+			]
+		},
+		{
+			"path": [26,3,255,2],
+			"original": "Cibon: Irre ich mich, oder war das ein... Tentakel?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Irre ich mich, oder war das ",
+				"ein...\\. Tentakel?"
+			]
+		},
+		{
+			"path": [26,3,258,2],
+			"original": "Soko: Da ist etwas im Wasser! Passen sie auf!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Da ist etwas im Wasser! Passen ",
+				"sie auf!"
+			]
+		},
+		{
+			"path": [26,3,320,1],
+			"original": "Cibon: Eine... riesige... Krake?!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Eine...\\.\\. riesige...\\.\\. Krake?!"
+			]
+		},
+		{
+			"path": [26,3,322,2],
+			"original": "Soko: Eine Krake? Hier? Wie kann das sein...?!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Eine Krake?\\. Hier?\\.",
+				"Wie kann das sein...?!"
+			]
+		},
+		{
+			"path": [26,3,325,3],
+			"original": "Kento: Wie kommt so ein Vieh in ein so kleines Gewässer wie in dieser Höhle?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wie kommt so ein Vieh in ein ",
+				"so kleines Gewässer wie in dieser ",
+				"Höhle?"
+			]
+		},
+		{
+			"path": [26,3,329,3],
+			"original": "Cibon: Frag nicht! Das Ding muss weg! ES macht die Erdbeben, da bin ich mir sicher!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Frag nicht!\\. Das Ding muss ",
+				"weg!\\. ES macht die Erdbeben, da bin ",
+				"ich mir sicher!"
+			]
+		},
+		{
+			"path": [26,5,6,1],
+			"original": "Soko: W... War es das?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: W...\\. War es das? "
+			]
+		},
+		{
+			"path": [26,5,9,2],
+			"original": "Cibon: JA! Wir haben das Vieh besiegt!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: JA! Wir haben das Vieh ",
+				"besiegt!"
+			]
+		},
+		{
+			"path": [26,5,13,3],
+			"original": "Kento: Ja, es scheint so... Die Erdbeben kommen auch nicht mehr... Das Problem ist gelöst.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja,\\. es scheint so...\\. Die ",
+				"Erdbeben kommen auch nicht mehr...\\. ",
+				"Das Problem ist gelöst."
+			]
+		},
+		{
+			"path": [26,5,18,3],
+			"original": "Soko: Aber... wie konnte das passieren? Wie kommt so ein Monster hier unten in die Höhle?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Aber...\\. wie konnte das ",
+				"passieren?\\. Wie kommt so ein ",
+				"Monster hier unten in die Höhle?"
+			]
+		},
+		{
+			"path": [26,5,22,3],
+			"original": "Kento: Ich bin mir nicht sicher... Vielleicht ist die Krake als Ei an diesen Ort geraten und geschlüpft...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich bin mir nicht sicher...\\. ",
+				"Vielleicht ist die Krake als Ei an ",
+				"diesen Ort geraten und geschlüpft..."
+			]
+		},
+		{
+			"path": [26,5,28,4],
+			"original": "Soko: Und dann hier aufgewachsen? ...und dann bekam sie Platzmangel und hat deswegen das Theater angerichtet. Das könnte sein...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Und dann hier aufgewachsen?\\.",
+				"...und dann bekam sie Platzmangel ",
+				"und hat deswegen das Theater ",
+				"angerichtet.\\. Das könnte sein..."
+			]
+		},
+		{
+			"path": [26,5,32,3],
+			"original": "Soko: Die Beben kamen also davon, dass sie sich ständig gegen die Felswände gerammt hat...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Die Beben kamen also davon, ",
+				"dass sie sich ständig gegen die ",
+				"Felswände gerammt hat..."
+			]
+		},
+		{
+			"path": [26,5,37,3],
+			"original": "Cibon: Ist das denn wirklich wichtig? Hauptsache wir haben das Problem mit den Beben gelöst.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ist das denn wirklich wichtig?\\.",
+				"Hauptsache wir haben das Problem ",
+				"mit den Beben gelöst."
+			]
+		},
+		{
+			"path": [26,5,43,4],
+			"original": "Soko: Ja... Sie haben Recht. Wir sollten schnellst möglich zurückkehren. Hoffentlich geht es Herrn Uroto gut...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ja...\\. Sie haben Recht.\\.",
+				"Wir sollten schnellst möglich",
+				"zurückkehren.\\. Hoffentlich ",
+				"geht es Herrn Uroto gut..."
+			]
+		},
+		{
+			"path": [35,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"Dies ist ein \\c[11]Speicherpunkt\\c[0]."
+			]
+		},
+		{
+			"path": [35,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"Wenn man auf solch einen steht, kann man \\c[11]den",
+				"Spielstand speichern\\c[0]."
+			]
+		},
+		{
+			"path": [35,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"Öffne dazu das \\c[11]Menu\\c[0] mit \\c[11]Esc\\c[0] und wähle",
+				"dann \\c[11]Speichern\\c[0]."
+			]
+		},
+		{
+			"path": [35,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Auf der \\c[11]Weltkarte\\c[0] kann man übigens",
+				"immer speichern."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [35,1,4],
+			"original": "Toras|Hoehle",
+			"patch": "Toras|Hoehle"
+		}
+	]
+}

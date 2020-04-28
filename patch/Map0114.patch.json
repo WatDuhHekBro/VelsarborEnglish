@@ -1,0 +1,109 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [7,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"Dies ist ein \\c[11]Speicherpunkt\\c[0]."
+			]
+		},
+		{
+			"path": [7,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"Wenn man auf solch einen steht, kann man \\c[11]den",
+				"Spielstand speichern\\c[0]."
+			]
+		},
+		{
+			"path": [7,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"Öffne dazu das \\c[11]Menu\\c[0] mit \\c[11]Esc\\c[0] und wähle",
+				"dann \\c[11]Speichern\\c[0]."
+			]
+		},
+		{
+			"path": [7,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Auf der \\c[11]Weltkarte\\c[0] kann man übigens",
+				"immer speichern."
+			]
+		},
+		{
+			"path": [9,2,3,4],
+			"indent": 1,
+			"original": "Frau: Hier kommen immer recht viele Reisende vorbei, es gibt immer genug zu tun. Es ist auch immer interessant zu hören, was die Leute aus all den Gegenden zu erzählen haben.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Hier kommen immer recht viele Reisende ",
+				"vorbei, es gibt immer genug zu tun.\\. Es ist auch ",
+				"immer interessant zu hören, was die Leute aus ",
+				"all den Gegenden zu erzählen haben. "
+			]
+		},
+		{
+			"path": [9,2,13,3],
+			"indent": 1,
+			"original": "Frau: Herrje, ist der Gasthof Gestern voll gewesen... Ich hab gehört  der Wanderweg war im Torasgebirge an einer Stelle behindert.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Herrje, ist der Gasthof Gestern voll ",
+				"gewesen...\\. Ich hab gehört  der Wanderweg war",
+				"im Torasgebirge an einer Stelle behindert."
+			]
+		},
+		{
+			"path": [9,2,16,3],
+			"indent": 1,
+			"original": "Frau: Es kam wohl die geballte Wanderschaft hier her, als das Problem gelöst wurde, nicht wahr?",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Es kam wohl die geballte Wanderschaft ",
+				"hier her, als das Problem gelöst wurde, nicht ",
+				"wahr?"
+			]
+		},
+		{
+			"path": [9,2,21,1],
+			"indent": 1,
+			"original": "Kento: Ja, genau so war es.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja, genau so war es."
+			]
+		},
+		{
+			"path": [9,2,23,2],
+			"indent": 1,
+			"original": "Frau: Hoffentlich kommt so was nicht noch öfters vor. Es ist mit viel Stress verbunden...",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Hoffentlich kommt so was nicht noch ",
+				"öfters vor.\\. Es ist mit viel Stress verbunden..."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [7,1,4],
+			"original": "Gasth.Corine",
+			"patch": "Gasth.Corine"
+		}
+	]
+}

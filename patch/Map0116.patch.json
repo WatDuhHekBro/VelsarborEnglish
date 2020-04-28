@@ -1,0 +1,77 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [5,2,2,2],
+			"original": "Junge Frau: Habt ihr schon mal das Corine- Plateau durchquert?",
+			"lines":
+			[
+				"\\c[10]Junge Frau\\c[0]: Habt ihr schon mal das Corine-",
+				"Plateau durchquert?"
+			]
+		},
+		{
+			"path": [5,2,4,4],
+			"original": "Junge Frau: Es ist etwas ironisch, aber trotz der kompletten Zerstörung des ehemaligen Waldes vor 9 Jahren oder gerade deswegen hat sich eine ganz außergewöhnliche Landschaft gebildet.",
+			"lines":
+			[
+				"\\c[10]Junge Frau\\c[0]: Es ist etwas ironisch, aber trotz der ",
+				"kompletten Zerstörung des ehemaligen Waldes ",
+				"vor 9 Jahren oder gerade deswegen hat sich eine ",
+				"ganz außergewöhnliche Landschaft gebildet."
+			]
+		},
+		{
+			"path": [5,2,8,4],
+			"original": "Junge Frau: Es gibt wenig große Pflanzen und Bäume, aber überall wächst meterhohes Grass. Außerdem sind die vielen flachen Klippen und Hänge interessant anzusehen.",
+			"lines":
+			[
+				"\\c[10]Junge Frau\\c[0]: Es gibt wenig große Pflanzen und ",
+				"Bäume, aber überall wächst meterhohes Grass.\\.",
+				"Außerdem sind die vielen flachen Klippen und ",
+				"Hänge interessant anzusehen."
+			]
+		},
+		{
+			"path": [5,2,12,4],
+			"original": "Junge Frau: Ihr solltet euch das mal ansehen, es ist wirklich ein Blick wert, nicht zuletzt auch wegen dem Denkmal auf halben Wege, das all die Opfer von Septoccasus gedient.",
+			"lines":
+			[
+				"\\c[10]Junge Frau\\c[0]: Ihr solltet euch das mal ansehen, es ",
+				"ist wirklich ein Blick wert, nicht zuletzt auch ",
+				"wegen dem Denkmal auf halben Wege, das",
+				"all die Opfer von Septoccasus gedient."
+			]
+		},
+		{
+			"path": [5,2,19,4],
+			"indent": 1,
+			"original": "Soko: Ja, viele tapfere Soldaten haben damals im Corine Plateau ihr Leben gelassen. Man sollte sie nicht vergessen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ja, viele tapfere Soldaten ",
+				"haben damals im Corine Plateau ihr ",
+				"Leben gelassen.\\. Man sollte sie nicht ",
+				"vergessen."
+			]
+		},
+		{
+			"path": [5,2,25,1],
+			"indent": 2,
+			"original": "Cibon: Genau...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Genau..."
+			]
+		},
+		{
+			"path": [5,2,27,1],
+			"indent": 2,
+			"original": "Kento: ...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ..."
+			]
+		}
+	]
+}

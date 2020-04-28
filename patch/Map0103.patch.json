@@ -1,0 +1,72 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [27,2,13,3],
+			"original": "Cibon: Da fällt mir ein... Soko? Du hast Kento vorhin mit Vornamen angesprochen!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Da fällt mir ein... Soko?\\. Du ",
+				"hast Kento vorhin mit Vornamen ",
+				"angesprochen!"
+			]
+		},
+		{
+			"path": [27,2,28,1],
+			"original": "Soko: Wie bitte?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wie bitte?"
+			]
+		},
+		{
+			"path": [27,2,30,4],
+			"original": "Cibon: Ja. In dem Moment, wo ein Tentakel der Krake aufgetaucht ist. Da hast du \"Kento\" gerufen um ihn zu warnen und nicht \"Herr Kento\".",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ja.\\. In dem Moment, wo ein ",
+				"Tentakel der Krake aufgetaucht ist. ",
+				"Da hast du \"Kento\" gerufen um ihn ",
+				"zu warnen und nicht \"Herr Kento\"."
+			]
+		},
+		{
+			"path": [27,2,38,4],
+			"original": "Soko: Ah... nein, nicht wirklich. Ich hab nur das \"Herr\" ausgelassen damit es schneller ging. Es sollte nur der Nachname ohne \"Herr\" sein.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ah...\\. nein, nicht wirklich.\\. Ich ",
+				"hab nur das \"Herr\" ausgelassen ",
+				"damit es schneller ging.\\. Es sollte nur ",
+				"der Nachname ohne \"Herr\" sein."
+			]
+		},
+		{
+			"path": [27,2,43,3],
+			"original": "Cibon: Sicher... Du kannst dich jetzt rausreden, da du Kentos richtigen Nachnamen nicht kennst.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Sicher...\\. Du kannst dich jetzt ",
+				"rausreden, da du Kentos richtigen ",
+				"Nachnamen nicht kennst."
+			]
+		},
+		{
+			"path": [27,2,47,1],
+			"original": "Soko: Das ist keine Ausrede!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Das ist keine Ausrede!"
+			]
+		},
+		{
+			"path": [27,2,53,2],
+			"original": "(Kento: Oh Mann, langsam wird das albern...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Oh Mann, langsam wird das ",
+				"albern...)"
+			]
+		}
+	]
+}

@@ -60,8 +60,7 @@
 			"original": "Wache: Halt! Weisen Sie sich aus.",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Halt!\\.",
-				"Identify yourselves."
+				"\\c[10]Guard\\c[0]: Halt!\\. Identify yourselves."
 			]
 		},
 		{

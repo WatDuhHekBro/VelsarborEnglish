@@ -1,0 +1,480 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [35,2,24,3],
+			"original": "Soko: So, ab hier wird es steiler. Wir befinden uns am Fuße des Torasgebirges.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: So, ab hier wird es steiler. Wir ",
+				"befinden uns am Fuße des ",
+				"Torasgebirges."
+			]
+		},
+		{
+			"path": [35,2,28,1],
+			"original": "Cibon: Ziemlich windig hier.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ziemlich windig hier. "
+			]
+		},
+		{
+			"path": [35,2,30,3],
+			"original": "Soko: Wir sollten versuchen, noch vor Einbruch der Nacht unseren Weg durch das Gebirge zu bahnen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wir sollten versuchen, noch ",
+				"vor Einbruch der Nacht unseren Weg ",
+				"durch das Gebirge zu bahnen. "
+			]
+		},
+		{
+			"path": [35,2,33,4],
+			"original": "Soko: Östlich vom Torasgebirge geht es dann weiter durch den Corine- Wald... oder besser gesagt durch das Corine-Plateau.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Östlich vom Torasgebirge geht ",
+				"es dann weiter durch den Corine-",
+				"Wald...\\. oder besser gesagt durch das ",
+				"Corine-Plateau."
+			]
+		},
+		{
+			"path": [35,2,38,3],
+			"original": "Soko: Und jenseits dieser Gegend ist dann auch schon die Grenze zu Korzojeno.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Und jenseits dieser Gegend ist ",
+				"dann auch schon die Grenze zu ",
+				"Korzojeno. "
+			]
+		},
+		{
+			"path": [35,2,41,4],
+			"original": "Soko: Soweit so gut... Herr Kento, Herr Tirunel, ich hoffe sie sind mit der Anwendung von Signum- Techniken bereits vertraut.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Soweit so gut...\\. Herr Kento,\\. ",
+				"Herr Tirunel, ich hoffe sie sind mit ",
+				"der Anwendung von Signum-",
+				"Techniken bereits vertraut. "
+			]
+		},
+		{
+			"path": [35,2,49,4],
+			"indent": 1,
+			"original": "Kento: Wir wissen lediglich wie man Signum-Techniken erlernt, aber nicht genau, was die Techniken an sich bringen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir wissen lediglich wie man ",
+				"Signum-Techniken erlernt, aber ",
+				"nicht genau, was die Techniken an ",
+				"sich bringen."
+			]
+		},
+		{
+			"path": [35,2,54,1],
+			"indent": 1,
+			"original": "Soko: So ist das...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: So ist das..."
+			]
+		},
+		{
+			"path": [35,2,56,3],
+			"indent": 1,
+			"original": "Soko: Nun, fast alle Signum- Techniken die man lernt, sind einem bestimmten Element zugewiesen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Nun, fast alle Signum-",
+				"Techniken die man lernt, sind einem ",
+				"bestimmten Element zugewiesen."
+			]
+		},
+		{
+			"path": [35,2,59,3],
+			"indent": 1,
+			"original": "Soko: Dieses bedeutet, die Technik richtet entweder Schaden mit dem Attribut des Elementes an ...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Dieses bedeutet, die Technik ",
+				"richtet entweder Schaden mit dem ",
+				"Attribut des Elementes an ..."
+			]
+		},
+		{
+			"path": [35,2,62,2],
+			"indent": 1,
+			"original": "Soko: ... oder sie bewirkt Element- Typische Nebeneffekte.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ... oder sie bewirkt Element-",
+				"Typische Nebeneffekte."
+			]
+		},
+		{
+			"path": [35,2,64,3],
+			"indent": 1,
+			"original": "Soko: Welche Nebeneffekte zu welchem Element gehören, werden Sie schon früh genug herausfinden.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Welche Nebeneffekte zu ",
+				"welchem Element gehören, werden ",
+				"Sie schon früh genug herausfinden."
+			]
+		},
+		{
+			"path": [35,2,68,2],
+			"indent": 1,
+			"original": "Soko: Nun zu der richtigen Anwendung der Techniken.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Nun zu der richtigen ",
+				"Anwendung der Techniken."
+			]
+		},
+		{
+			"path": [35,2,70,4],
+			"indent": 1,
+			"original": "Soko: Wenn Sie im Kampf überlegt Signum-Techniken anwenden, ist der Gegner in der Regel weitaus schneller besiegt.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wenn Sie im Kampf überlegt ",
+				"Signum-Techniken anwenden, ist der ",
+				"Gegner in der Regel weitaus ",
+				"schneller besiegt."
+			]
+		},
+		{
+			"path": [35,2,74,4],
+			"indent": 1,
+			"original": "Soko: Sie sollten wissen, dass die meisten Gegnern ihre Stärken und Schwächen haben, die man ausnutzen sollte.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Sie sollten wissen, dass die ",
+				"meisten Gegnern ihre Stärken und ",
+				"Schwächen haben, die man ",
+				"ausnutzen sollte."
+			]
+		},
+		{
+			"path": [35,2,78,3],
+			"indent": 1,
+			"original": "Soko: Offensichtliche Stärken und Schwächen bemerkt man meistens schon bei der Abwehr.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Offensichtliche Stärken und ",
+				"Schwächen bemerkt man meistens ",
+				"schon bei der Abwehr."
+			]
+		},
+		{
+			"path": [35,2,81,4],
+			"indent": 1,
+			"original": "Soko: Einige Monster sind z.B. ziemlich resistent gegen physische Angriffe, können  aber empfindlich gegen Magie-Schaden sein.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Einige Monster sind z.B. ",
+				"ziemlich resistent gegen physische ",
+				"Angriffe, können  aber empfindlich ",
+				"gegen Magie-Schaden sein."
+			]
+		},
+		{
+			"path": [35,2,85,3],
+			"indent": 1,
+			"original": "Soko: Dann können Gegner auch noch gegen ein bestimmtes Element immun bis empfindlich sein.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Dann können Gegner auch ",
+				"noch gegen ein bestimmtes Element ",
+				"immun bis empfindlich sein. "
+			]
+		},
+		{
+			"path": [35,2,88,4],
+			"indent": 1,
+			"original": "Soko: Grünschleime zum Beispiel sind sehr empfindlich gegen Wasser- Angriffe, absorbieren aber jede Feuerattacke",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Grünschleime zum Beispiel ",
+				"sind sehr empfindlich gegen Wasser-",
+				"Angriffe, absorbieren aber jede ",
+				"Feuerattacke"
+			]
+		},
+		{
+			"path": [35,2,92,3],
+			"indent": 1,
+			"original": "Soko: Zudem können Gegner gegen bestimmte \"Zustände\" empfindlich sein.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Zudem können Gegner gegen ",
+				"bestimmte \"Zustände\" empfindlich ",
+				"sein. "
+			]
+		},
+		{
+			"path": [35,2,95,4],
+			"indent": 1,
+			"original": "Soko: So lassen sich Grünschleime zum Beispiel sehr leicht einschläfern. Sie sind empfindlich gegen \"Schlaf\"",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: So lassen sich Grünschleime ",
+				"zum Beispiel sehr leicht ",
+				"einschläfern. Sie sind empfindlich ",
+				"gegen \"Schlaf\""
+			]
+		},
+		{
+			"path": [35,2,100,4],
+			"indent": 1,
+			"original": "Soko: Kennen Sie die Stärken und Schwächen der Gegner, fällt die Wahl der richtigen Technik nicht schwer.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Kennen Sie die Stärken und ",
+				"Schwächen der Gegner, fällt die ",
+				"Wahl der richtigen Technik nicht ",
+				"schwer."
+			]
+		},
+		{
+			"path": [35,2,104,3],
+			"indent": 1,
+			"original": "Soko: Bis man aber die Stärken und Schwächen kennt, muss man erstmal etwas ausprobieren.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Bis man aber die Stärken und ",
+				"Schwächen kennt, muss man erstmal ",
+				"etwas ausprobieren."
+			]
+		},
+		{
+			"path": [35,2,107,4],
+			"indent": 1,
+			"original": "Soko: Oder man hat ein paar \"Magische Lupen\" dabei. Wenn man sie verwendet, zeigen sie die Stärken und Schwächen eines Gegners an.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Oder man hat ein paar ",
+				"\"Magische Lupen\" dabei. Wenn man ",
+				"sie verwendet, zeigen sie die Stärken ",
+				"und Schwächen eines Gegners an."
+			]
+		},
+		{
+			"path": [35,2,111,3],
+			"indent": 1,
+			"original": "Soko: Damit Sie aber auch auf die verschiedensten Schwachpunkt eine passende Technik haben...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Damit Sie aber auch auf die ",
+				"verschiedensten Schwachpunkt eine ",
+				"passende Technik haben..."
+			]
+		},
+		{
+			"path": [35,2,114,4],
+			"indent": 1,
+			"original": "Soko: ...sollten Sie sich nicht zu sehr auf ein Element konzentrieren. Stufen sie am besten verschiedene Element-Level gleichzeitig auf.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...sollten Sie sich nicht zu ",
+				"sehr auf ein Element konzentrieren. ",
+				"Stufen sie am besten verschiedene ",
+				"Element-Level gleichzeitig auf."
+			]
+		},
+		{
+			"path": [35,2,118,2],
+			"indent": 1,
+			"original": "Soko: Mehr gibt es dazu ansonsten nicht zu sagen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Mehr gibt es dazu ansonsten ",
+				"nicht zu sagen."
+			]
+		},
+		{
+			"path": [35,2,124,3],
+			"indent": 1,
+			"original": "Cibon: Meine Güte, du weißt ja ziemlich gut bescheit, Soko, äh, ich meine Frau Filaja.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Meine Güte, du weißt ja ",
+				"ziemlich gut bescheit, Soko, äh, ich ",
+				"meine Frau Filaja."
+			]
+		},
+		{
+			"path": [35,2,128,3],
+			"indent": 1,
+			"original": "(Cibon: Oh mein Gott. Ein weiblicher \"Vorento\" als Reisegefährte... Das kann ja heiter werden...)",
+			"lines":
+			[
+				"(\\c[2]\\n[2]\\c[0]: Oh mein Gott. Ein weiblicher ",
+				"\"Vorento\" als Reisegefährte... Das ",
+				"kann ja heiter werden...) "
+			]
+		},
+		{
+			"path": [35,2,132,3],
+			"indent": 1,
+			"original": "Soko: Dieses Wissen gehört eigentlich zu der Ausbildung von Soldaten unseresgleichen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Dieses Wissen gehört ",
+				"eigentlich zu der Ausbildung von ",
+				"Soldaten unseresgleichen. "
+			]
+		},
+		{
+			"path": [35,2,136,4],
+			"indent": 1,
+			"original": "Kento: Sie sollten wissen, dass wir erst vor kurzem, um genau zu sein Gestern, in dieses Thema eingeweiht wurden.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Sie sollten wissen, dass wir ",
+				"erst vor kurzem, um genau zu sein ",
+				"Gestern, in dieses Thema eingeweiht ",
+				"wurden."
+			]
+		},
+		{
+			"path": [35,2,141,2],
+			"indent": 1,
+			"original": "Soko: Achso... Na ja, wenn das so ist.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Achso...\\.",
+				"Na ja, wenn das so ist."
+			]
+		},
+		{
+			"path": [35,2,146,1],
+			"indent": 1,
+			"original": "Soko: In Ordnung.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: In Ordnung."
+			]
+		},
+		{
+			"path": [35,2,154,3],
+			"original": "Herr Uroto: Wir sollten endlich losgehen. Wir wollen das Gebirge ja noch heute durchqueren...",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Wir sollten endlich ",
+				"losgehen.\\. Wir wollen das Gebirge ja ",
+				"noch heute durchqueren... "
+			]
+		},
+		{
+			"path": [35,2,158,1],
+			"original": "Soko: Zu Befehl, Herr Uroto.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Zu Befehl, Herr Uroto."
+			]
+		},
+		{
+			"path": [35,2,167,4],
+			"original": "Cibon: Tsk, sie tut so, als ob sie unsere Anführerin wäre! Legt einfach fest, wie wir vorgehen. Sie gibt uns regelrecht Anweisungen!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Tsk, sie tut so, als ob sie ",
+				"unsere Anführerin wäre!\\. Legt ",
+				"einfach fest, wie wir vorgehen.\\. ",
+				"Sie gibt uns regelrecht Anweisungen!"
+			]
+		},
+		{
+			"path": [35,2,172,2],
+			"original": "Kento: Wenn du was dagegen hast, wieso widersprichst du ihr nicht?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wenn du was dagegen hast, ",
+				"wieso widersprichst du ihr nicht?"
+			]
+		},
+		{
+			"path": [35,2,175,4],
+			"original": "Cibon: Bisher hab ich ja nichts gegen ihre Anweisungen einzuwenden... Aber diese Art gefällt mir ganz und gar nich', Kumpel.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Bisher hab ich ja nichts gegen ",
+				"ihre Anweisungen einzuwenden...",
+				"Aber diese Art gefällt mir ganz und",
+				"gar nich', Kumpel."
+			]
+		},
+		{
+			"path": [35,2,180,4],
+			"original": "Kento: Es kann nie schaden, wenn wir eine Person im Team haben, die uns leitet... Sie scheint ja recht motiviert an die Sache ran zu gehen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es kann nie schaden, wenn ",
+				"wir eine Person im Team haben, die ",
+				"uns leitet...\\. Sie scheint ja recht ",
+				"motiviert an die Sache ran zu gehen."
+			]
+		},
+		{
+			"path": [35,2,185,4],
+			"original": "Cibon: Sie siezt uns, sie gibt uns Anweisungen! Das ist, als ob man mit einem Ausbilder den Auftrag erledigt.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Sie siezt uns, sie gibt uns ",
+				"Anweisungen!\\. Das ist, als ob man mit ",
+				"einem Ausbilder den Auftrag ",
+				"erledigt."
+			]
+		},
+		{
+			"path": [35,2,197,2],
+			"original": "Soko: Hallo? Wo bleiben Sie denn? Trödeln Sie bitte nicht rum, ja?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: \\s[5]Hallo?\\.\\s[0] Wo bleiben Sie denn?\\. ",
+				"Trödeln Sie bitte nicht rum, ja?"
+			]
+		},
+		{
+			"path": [35,2,207,1],
+			"original": "Cibon: Hmpf....",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hmpf...."
+			]
+		},
+		{
+			"path": [35,2,209,3],
+			"original": "Kento: Komm lass uns gehen, Cibon. Das können wir nachher weiter diskutieren...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Komm lass uns gehen, Cibon.\\. ",
+				"Das können wir nachher weiter ",
+				"diskutieren..."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [35,2,46],
+			"original": "Ehrlich gesagt... Nein/Ja wir wissen bescheit.",
+			"patch": "Ehrlich gesagt... Nein/Ja wir wissen bescheit."
+		},
+		{
+			"path": [35,2,47],
+			"original": "Ehrlich gesagt... Nein",
+			"patch": "Ehrlich gesagt... Nein"
+		},
+		{
+			"path": [35,2,144],
+			"original": "Ja wir wissen bescheit.",
+			"patch": "Ja wir wissen bescheit."
+		}
+	]
+}

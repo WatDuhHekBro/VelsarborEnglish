@@ -1,0 +1,528 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [98,2,46,3],
+			"original": "Herr Uroto: Können wir eine kurze Pause machen? Das Wandern ist ja doch ziemlich anstrengend...",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Können wir eine kurze ",
+				"Pause machen?\\. Das Wandern ist ",
+				"ja doch ziemlich anstrengend..."
+			]
+		},
+		{
+			"path": [98,2,50,2],
+			"original": "Soko: Natürlich. Eine Pause von 5 Minuten kann nicht schaden...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Natürlich.\\. Eine Pause von 5 ",
+				"Minuten kann nicht schaden..."
+			]
+		},
+		{
+			"path": [98,2,60,1],
+			"original": "Cibon: Komm mal kurz mit, Kumpel.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Komm mal kurz mit, Kumpel."
+			]
+		},
+		{
+			"path": [98,2,68,1],
+			"original": "Kento: Willst du jetzt weiter reden?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Willst du jetzt weiter reden?"
+			]
+		},
+		{
+			"path": [98,2,70,3],
+			"original": "Cibon: Sag mal, geht dir das nicht auch auf den Senkel? Die Art wie Soko mit uns redet?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Sag mal,\\. geht dir das nicht ",
+				"auch auf den Senkel?\\. Die Art wie Soko ",
+				"mit uns redet? "
+			]
+		},
+		{
+			"path": [98,2,74,3],
+			"original": "Kento: Na ja, es ist ungewöhnlich, aber  wenn sie unbedingt darauf besteht, lass sie doch...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Na ja, es ist ungewöhnlich,\\. ",
+				"aber  wenn sie unbedingt darauf ",
+				"besteht,\\. lass sie doch..."
+			]
+		},
+		{
+			"path": [98,2,79,2],
+			"original": "Cibon: Hmpf, wenn Sie meinen \"Herr Kento\"",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hmpf, wenn Sie meinen \"Herr ",
+				"Kento\""
+			]
+		},
+		{
+			"path": [98,2,83,1],
+			"original": "Kento: ...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [98,2,90,2],
+			"original": "Cibon: Ich frag mich ob alle weiblichen Soldaten so sind...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ich frag mich ob alle ",
+				"weiblichen Soldaten so sind..."
+			]
+		},
+		{
+			"path": [98,2,94,1],
+			"original": "Kento: Hm?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm?"
+			]
+		},
+		{
+			"path": [98,2,97,4],
+			"original": "Cibon: Ich mein', ich hab vorher noch nie ne Soldatin genauer gekannt. In Nomerea gibt es so gut wie keine.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ich mein', ich hab vorher ",
+				"noch nie ne Soldatin genauer ",
+				"gekannt.\\. In Nomerea gibt es so gut ",
+				"wie keine."
+			]
+		},
+		{
+			"path": [98,2,102,3],
+			"original": "Kento: Das stimmt. Ich bezweifle aber, dass es in Buronia viel mehr weibliche Soldaten gibt....",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Das stimmt.\\. Ich bezweifle ",
+				"aber, dass es in Buronia viel mehr ",
+				"weibliche Soldaten gibt...."
+			]
+		},
+		{
+			"path": [98,2,106,3],
+			"original": "Cibon: Soko is' jedenfalls völlig anders als alle Soldaten die ich sonst kenne.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Soko is' jedenfalls völlig ",
+				"anders als alle Soldaten die ich sonst ",
+				"kenne."
+			]
+		},
+		{
+			"path": [98,2,110,4],
+			"original": "Cibon: Sie nimmt die ganze Sache so verdammt ernst, sie kennt den ganzen langweiligen Stoff über Signum und so...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Sie nimmt die ganze Sache so ",
+				"verdammt ernst,\\. sie kennt den ",
+				"ganzen langweiligen Stoff über ",
+				"Signum und so..."
+			]
+		},
+		{
+			"path": [98,2,115,2],
+			"original": "Cibon: Meinst du das ist üblich für Frauen?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Meinst du das ist üblich für ",
+				"Frauen?"
+			]
+		},
+		{
+			"path": [98,2,119,4],
+			"original": "Kento: Ich weiß es wirklich nicht... Aber schau, wir männlichen Soldaten sind auch nicht alle gleich, oder? Wieso sollten es dann weibliche sein?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich weiß es wirklich nicht...\\.",
+				"Aber schau,\\. wir männlichen Soldaten ",
+				"sind auch nicht alle gleich, oder?\\.",
+				"Wieso sollten es dann weibliche sein?"
+			]
+		},
+		{
+			"path": [98,2,124,1],
+			"original": "Cibon: Ja, du hast recht....",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ja, du hast recht...."
+			]
+		},
+		{
+			"path": [98,2,132,2],
+			"original": "Soko: Öhm, was bereden Sie da eigentlich die ganze Zeit?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Öhm, was bereden Sie da ",
+				"eigentlich die ganze Zeit?"
+			]
+		},
+		{
+			"path": [98,2,135,1],
+			"original": "Cibon: Nichts, nichts, Soko...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Nichts, nichts, Soko..."
+			]
+		},
+		{
+			"path": [98,2,137,3],
+			"original": "Soko: Könnten Sie sich nicht angewöhnen, mich mit \"Frau Filaja\" anzusprechen...?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Könnten Sie sich nicht ",
+				"angewöhnen, mich mit \"Frau Filaja\" ",
+				"anzusprechen...?"
+			]
+		},
+		{
+			"path": [98,2,142,1],
+			"original": "Cibon: Nö...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Nö... "
+			]
+		},
+		{
+			"path": [98,2,145,1],
+			"original": "Soko: ... Sehr freundlich.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...\\. Sehr freundlich."
+			]
+		},
+		{
+			"path": [98,2,148,4],
+			"original": "Cibon: Vielleicht würde ich's mir anders überlegen, wenn du mir nen anständigen Grund nennst, wieso ich dich mit Nachnamen anreden sollte.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Vielleicht würde ich's mir ",
+				"anders überlegen, wenn du mir nen ",
+				"anständigen Grund nennst,\\. wieso ich ",
+				"dich mit Nachnamen anreden sollte."
+			]
+		},
+		{
+			"path": [98,2,153,4],
+			"original": "Soko: Es gibt keinen besonderen Grund... Aber es gibt auch keinen Grund, wegen dem wir uns duzen sollten, oder?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Es gibt keinen besonderen ",
+				"Grund...\\. Aber es gibt auch keinen ",
+				"Grund, wegen dem wir uns duzen ",
+				"sollten, oder?"
+			]
+		},
+		{
+			"path": [98,2,159,4],
+			"original": "Cibon: Doch, natürlich gibt es den: Wir werden mehrere Tage lang zusammen arbeiten. Wir sind Kollegen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Doch, natürlich gibt es den:",
+				"Wir werden mehrere Tage lang ",
+				"zusammen arbeiten. Wir sind ",
+				"Kollegen."
+			]
+		},
+		{
+			"path": [98,2,164,2],
+			"original": "Cibon: Und Kollegen duzen sich nun mal.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Und Kollegen duzen sich nun ",
+				"mal. "
+			]
+		},
+		{
+			"path": [98,2,168,4],
+			"original": "Soko: Wir führen nur gemeinsam einen Auftrag durch, mehr nicht. Deswegen sind wir nicht gleich Kollegen, wie Sie sie sich vorstellen...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wir führen nur gemeinsam ",
+				"einen Auftrag durch, mehr nicht.\\.",
+				"Deswegen sind wir nicht gleich ",
+				"Kollegen, wie Sie sie sich vorstellen..."
+			]
+		},
+		{
+			"path": [98,2,174,1],
+			"original": "Kento: Ohje....",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ohje...."
+			]
+		},
+		{
+			"path": [98,2,177,2],
+			"original": "Cibon: Hmpf, du hast was gegen uns, kann das sein?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hmpf,\\. du hast was gegen uns, ",
+				"kann das sein? "
+			]
+		},
+		{
+			"path": [98,2,184,2],
+			"original": "Soko: Nein, das ist es nicht... Ich sehe das halt einfach so.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Nein, das ist es nicht... Ich ",
+				"sehe das halt einfach so."
+			]
+		},
+		{
+			"path": [98,2,188,3],
+			"original": "Cibon: Gibt es überhaupt jemanden mit dem du normal sprichst in deinem Leben?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Gibt es überhaupt jemanden ",
+				"mit dem du normal sprichst in ",
+				"deinem Leben?"
+			]
+		},
+		{
+			"path": [98,2,192,1],
+			"original": "Soko: Also... natürlich...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Also...\\. natürlich..."
+			]
+		},
+		{
+			"path": [98,2,195,1],
+			"original": "Cibon: Ach wirklich? Zum Beispiel?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ach wirklich?\\. Zum Beispiel?"
+			]
+		},
+		{
+			"path": [98,2,198,3],
+			"original": "Soko: Familie und... ach was rede ich überhaupt! Das geht Sie überhaupt nichts an!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Familie und...\\. ach was rede ich ",
+				"überhaupt!\\. Das geht Sie überhaupt ",
+				"nichts an!"
+			]
+		},
+		{
+			"path": [98,2,202,1],
+			"original": "Cibon: Achja?!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Achja?!"
+			]
+		},
+		{
+			"path": [98,2,204,1],
+			"original": "Kento: Cibon, beruhig dich mal.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Cibon, beruhig dich mal."
+			]
+		},
+		{
+			"path": [98,2,208,4],
+			"original": "Soko: Jetzt hören Sie mal zu! Wir haben keine Zeit für solche dämlichen Debatten. So verlieren wir nur unnötige Zeit!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Jetzt hören Sie mal zu!\\. Wir ",
+				"haben keine Zeit für solche ",
+				"dämlichen Debatten.\\. So verlieren wir ",
+				"nur unnötige Zeit!"
+			]
+		},
+		{
+			"path": [98,2,217,4],
+			"original": "Cibon: ... Ja ja, alles klar, eure Durchlaucht. Würden Sie zumindest noch die Gnädigkeit besitzen uns die letzten Minuten alleine zu lassen?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ... Ja ja, alles klar, eure ",
+				"Durchlaucht.\\. Würden Sie zumindest ",
+				"noch die Gnädigkeit besitzen uns die ",
+				"letzten Minuten alleine zu lassen?"
+			]
+		},
+		{
+			"path": [98,2,223,1],
+			"original": "Soko: Tsk.....",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Tsk....."
+			]
+		},
+		{
+			"path": [98,2,230,1],
+			"original": "Kento: Frau Filaja...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Frau Filaja..."
+			]
+		},
+		{
+			"path": [98,2,232,1],
+			"original": "Soko: ...Ja, Herr Kento?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...\\.Ja, Herr Kento?"
+			]
+		},
+		{
+			"path": [98,2,234,3],
+			"original": "Kento: Ist Ihnen aufgefallen, dass man beim Siezen in der Regel mehr Silben spricht, als beim Duzen?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ist Ihnen aufgefallen, dass ",
+				"man beim Siezen in der Regel mehr ",
+				"Silben spricht, als beim Duzen?"
+			]
+		},
+		{
+			"path": [98,2,238,1],
+			"original": "Soko: Ja, das ist klar...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ja,\\. das ist klar..."
+			]
+		},
+		{
+			"path": [98,2,240,4],
+			"original": "Kento: Sie sollten wissen, dass man den Mitkämpfern bei ernsten Gefechten oft schnelle Warnungen zurufen muss.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Sie sollten wissen, dass man ",
+				"den Mitkämpfern bei ernsten ",
+				"Gefechten oft schnelle Warnungen ",
+				"zurufen muss."
+			]
+		},
+		{
+			"path": [98,2,246,3],
+			"original": "Kento: Die paar Silben extra können dabei einen entscheide Last darstellen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Die paar Silben extra können ",
+				"dabei einen entscheide Last ",
+				"darstellen."
+			]
+		},
+		{
+			"path": [98,2,250,1],
+			"original": "Soko: Öhm...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Öhm..."
+			]
+		},
+		{
+			"path": [98,2,253,4],
+			"original": "Kento: Wenn Sie also beabsichtigen in den Kämpfen optimale Team- Arbeit zu leisten, sollten Sie sich das mit dem Siezen überlegen....",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wenn Sie also beabsichtigen ",
+				"in den Kämpfen optimale Team-",
+				"Arbeit zu leisten, sollten Sie sich das ",
+				"mit dem Siezen überlegen...."
+			]
+		},
+		{
+			"path": [98,2,261,3],
+			"original": "Soko: Wie wir in Gefechten kommunizieren ist ein ganz anderes Thema...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wie wir in Gefechten ",
+				"kommunizieren ist ein ganz anderes ",
+				"Thema..."
+			]
+		},
+		{
+			"path": [98,2,265,2],
+			"original": "Kento: Wie sie meinen, ich wollte das nur einmal anmerken...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wie sie meinen, ich wollte das ",
+				"nur einmal anmerken..."
+			]
+		},
+		{
+			"path": [98,2,271,3],
+			"original": "Soko: Aber ich bin überrascht, dass Sie auf so einen Aspekt kommen... Eine interessante Denkensweise.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Aber ich bin überrascht, dass ",
+				"Sie auf so einen Aspekt kommen...\\.",
+				"Eine interessante Denkensweise."
+			]
+		},
+		{
+			"path": [98,2,276,1],
+			"original": "Kento: Öhm, danke...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Öhm,\\. danke..."
+			]
+		},
+		{
+			"path": [98,2,281,3],
+			"original": "Soko: Nun gut. Es ist Zeit weiter zu gehen. Ich werde Herrn Uroto Bescheid geben...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Nun gut.\\. Es ist Zeit weiter zu ",
+				"gehen.\\. Ich werde Herrn Uroto ",
+				"Bescheid geben..."
+			]
+		},
+		{
+			"path": [98,2,291,3],
+			"original": "Cibon: Ohje, ich glaub's nicht. Du scheinst dich auch noch mit ihr zu verstehen, Kumpel.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ohje, ich glaub's nicht. Du ",
+				"scheinst dich auch noch mit ihr zu ",
+				"verstehen, Kumpel."
+			]
+		},
+		{
+			"path": [98,2,296,3],
+			"original": "Kento: Ich hab nur versucht sie auf eine andere Art und Weise zu überzeugen...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich hab nur versucht sie auf ",
+				"eine andere Art und Weise zu ",
+				"überzeugen..."
+			]
+		},
+		{
+			"path": [98,2,300,4],
+			"original": "Cibon: Ich glaub es ist hoffnungslos. Lass uns diesen Auftrag einfach so schnell wie möglich beenden, damit wir sie wieder los sind...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ich glaub es ist hoffnungslos.\\. ",
+				"Lass uns diesen Auftrag einfach so ",
+				"schnell wie möglich beenden, damit ",
+				"wir sie wieder los sind..."
+			]
+		},
+		{
+			"path": [98,2,313,1],
+			"original": "Soko: So, dann weiter.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: So,\\. dann weiter."
+			]
+		}
+	]
+}

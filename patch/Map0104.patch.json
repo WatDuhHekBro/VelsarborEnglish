@@ -1,0 +1,46 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [19,2,14,4],
+			"original": "Kento: Hier versperren die ganzen Steine den Weg... Aber einige von ihnen scheinen nicht fest im Boden zu sitzen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hier versperren die ganzen ",
+				"Steine den Weg... Aber einige von ",
+				"ihnen scheinen nicht fest im Boden ",
+				"zu sitzen."
+			]
+		},
+		{
+			"path": [19,2,23,3],
+			"original": "Verschiebe oder ziehe Objekte, indem du dich neben das Objekt stellst und Enter drückst.",
+			"lines":
+			[
+				"",
+				"\\c[14]Verschiebe oder ziehe Objekte\\c[0], indem du dich ",
+				"neben das Objekt stellst und \\c[14]Enter\\c[0] drückst."
+			]
+		},
+		{
+			"path": [19,2,26,3],
+			"original": "Halte Enter gedrückt und drücke die Pfeiltasten, um das Objekt zu schieben oder zu ziehen.",
+			"lines":
+			[
+				"",
+				"\\c[14]Halte Enter gedrückt und drücke die Pfeiltasten\\c[0], ",
+				"um das Objekt zu schieben oder zu ziehen."
+			]
+		},
+		{
+			"path": [19,2,29,3],
+			"original": "Lass Enter los um das Verschieben abzuschließen.",
+			"lines":
+			[
+				"",
+				"\\c[14]Lass Enter los\\c[0] um das Verschieben ",
+				"abzuschließen."
+			]
+		}
+	]
+}

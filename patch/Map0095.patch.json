@@ -1,0 +1,40 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [53,2,29,1],
+			"original": "Herr Uroto: Was war das?",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Was war das?"
+			]
+		},
+		{
+			"path": [53,2,31,1],
+			"original": "Cibon: Ein Erdbeben?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ein Erdbeben?"
+			]
+		},
+		{
+			"path": [53,2,33,3],
+			"original": "Kento: Hm... Für ein Erdbeben war die Erschütterung ein bisschen kurz...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm...\\. Für ein Erdbeben war ",
+				"die Erschütterung ein bisschen ",
+				"kurz..."
+			]
+		},
+		{
+			"path": [53,2,37,2],
+			"original": "Soko: Wir sollten uns davon nicht ablenken lassen. Gehen wir weiter.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wir sollten uns davon nicht ",
+				"ablenken lassen.\\. Gehen wir weiter."
+			]
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [127,1,34,2],
+			"original": "????: Sir? Es gibt Neuigkeiten aus Nomerea.",
+			"lines":
+			[
+				"\\c[10]????\\c[0]: Sir?\\. Es gibt Neuigkeiten aus ",
+				"Nomerea."
+			]
+		},
+		{
+			"path": [127,1,38,1],
+			"original": "????: Nomerea? Sieh' an, sieh' an...",
+			"lines":
+			[
+				"\\c[10]????\\c[0]: Nomerea?\\. Sieh' an, sieh' an..."
+			]
+		}
+	]
+}
