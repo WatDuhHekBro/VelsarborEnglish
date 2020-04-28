@@ -1,5 +1,4 @@
 {
-	"__comment__": "Revise this scene.",
 	"dialogue":
 	[
 		{
@@ -16,10 +15,10 @@
 			"original": "????: Gut, damit sollte sich dieser Streit unter den Machthungrigen erstmal gelegt haben. Hoffen wir, dass uns genug Zeit bleibt...",
 			"lines":
 			[
-				"\\c[10]????\\c[0]:\\s[1] Good,\\. this should put",
-				"an end to this dispute among the",
-				"power-hungry.\\. Let's just hope",
-				"we have enough time..."
+				"\\c[10]????\\c[0]:\\s[1] Good, this should put an end to",
+				"this dispute among the power-hungry.",
+				"Let's just hope we have",
+				"enough time..."
 			],
 			"__comment__": "Prophet"
 		},
@@ -28,9 +27,9 @@
 			"original": "????: Momentan liegt all unsere Hoffnung in einem Kind, einer zerbrechlichen Figur, die an ihrer eigenen Trauer zugrunde geht.",
 			"lines":
 			[
-				"\\c[10]????\\c[0]:\\s[1] Right now, all of our hope",
-				"is in a sickly child, a fragile",
-				"figure who wallows in his own misery."
+				"\\c[10]????\\c[0]:\\s[1] Right now, all of our hope is",
+				"in a child, a fragile figure who's",
+				"still suffering from his misery."
 			],
 			"__comment__": "Prophet"
 		},
@@ -39,10 +38,9 @@
 			"original": "????: Wir können nur Hoffen, dass die Zeiten des Friedens und der Segen von Heimdall ihn aus seiner Lage befreien werden.",
 			"lines":
 			[
-				"\\c[10]????\\c[0]:\\s[1] We can only hope that",
-				"the times of peace and blessings from",
-				"Heimdall will free him from",
-				"his situation."
+				"\\c[10]????\\c[0]:\\s[1] We can only hope that this time",
+				"of peace and Heimdall's blessings",
+				"will free him from his grief."
 			],
 			"__comment__": "Prophet"
 		},
@@ -51,9 +49,8 @@
 			"original": "????: Wieso können wir ihn nicht zur Seite stehen, uns direkt um ihn sorgen?",
 			"lines":
 			[
-				"\\c[10]????\\c[0]:\\s[1] Why can't we just",
-				"stay by him and worry about him",
-				"directly?"
+				"\\c[10]????\\c[0]:\\s[1] Why can't we just stay by his",
+				"side and help him out directly?"
 			],
 			"__comment__": "Kumiko"
 		},
@@ -71,8 +68,8 @@
 			"original": "????: Versuch es zu kontrollieren und es verschluckt dich, macht dich zu seinem Eigen und kontrolliert dich schließlich selbst.",
 			"lines":
 			[
-				"\\c[10]????\\c[0]:\\s[1] Try to control it and",
-				"it swallows you,\\. makes you its own,\\.",
+				"\\c[10]????\\c[0]:\\s[1] Try to control it and it",
+				"swallows you,\\. makes you its own,\\.",
 				"and finally takes control of you."
 			],
 			"__comment__": "Prophet"
@@ -83,8 +80,9 @@
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] Heimdall is above all of that.\\.",
-				"Only under his Prophetship can we break",
-				"the gloomy fate of this world."
+				"Only under his leadership can we",
+				"prevent the gloomy fate that",
+				"awaits this world."
 			],
 			"__comment__": "Prophet"
 		},
