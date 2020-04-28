@@ -1,0 +1,196 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [7,1,3,4],
+			"original": "Gasthofbesitzerin: Guten Tag. Von Ihren anstrengenden Aufgaben als Soldat müssen Sie doch sicherlich ganz erschöpft sein. Brauchen Sie vielleicht eine Rast?",
+			"lines":
+			[
+				"\\c[10]Inn Owner\\c[0]: Good afternoon. You must certainly",
+				"be exhausted from your strenuous tasks as a",
+				"soldier. Do you need a rest?"
+			]
+		},
+		{
+			"path": [7,1,10,2],
+			"indent": 1,
+			"original": "Gasthofbesitzerin: Ihnen gehört das linke Zimmer. Wünsche Ihnen einen erholsamen Schlaf.",
+			"lines":
+			[
+				"\\c[10]Inn Owner\\c[0]: Your room is on the left.",
+				"Sleep well!"
+			]
+		},
+		{
+			"path": [9,1,2,4],
+			"original": "Gast: Seit dem Sieg über die Korzojaner lebt es sich immer besser hier in Brigantia! Wenn ich daran denke, wie groß unsere Geldsorgen früher immer gewesen sind.",
+			"lines":
+			[
+				"\\c[10]Guest\\c[0]: Ever since the victory over Korzojeno,",
+				"life in Brigantia has been getting better!",
+				"I remember how big our economic worries",
+				"used to be."
+			]
+		},
+		{
+			"path": [9,1,6,2],
+			"original": "Gast: Heute geht es uns viel besser, da bin ich mir sicher. Ein Hoch auf Brigantia!",
+			"lines":
+			[
+				"\\c[10]Guest\\c[0]: We are much better nowadays, I'm",
+				"sure of that.\\. Cheers to Brigantia!"
+			]
+		},
+		{
+			"path": [10,1,2,4],
+			"original": "Gast: Ich habe mal gehört, dass man in Korzojeno ab einem bestimmten Alter der Armee beitreten muss. Man muss zwar nicht bleiben, aber ein paar Jahre ist ein Dasein als Soldat Pflicht...",
+			"lines":
+			[
+				"\\c[10]Guest\\c[0]: I once heard that in Korzojeno, you have",
+				"to join the army at a certain age. You don't",
+				"have to stay, but being a soldier is",
+				"mandatory for a few years..."
+			]
+		},
+		{
+			"path": [10,1,8,3],
+			"original": "Kento: Stimmt das wirklich? Dass Korzojeno so militärisch eingestellt war, ist mir neu.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Is that really true? Well it's",
+				"news to me that Korzojeno is so",
+				"militarily focused."
+			]
+		},
+		{
+			"path": [10,1,12,4],
+			"original": "Gast: Ich denke schon... Als wir gegen Korzojeno gekämpft haben, war das Heer des Gegners auch größer als unseres.",
+			"lines":
+			[
+				"\\c[10]Guest\\c[0]: I think so at least... When",
+				"we fought Korzojeno, the opponent's",
+				"army was also larger than ours."
+			]
+		},
+		{
+			"path": [10,1,16,4],
+			"original": "Gast: Aber unsere Soldaten müssen wohl intensiver gekämpft haben. Klar. Da bei uns nur die Soldaten wurden, die es so wollten, war ihre Motivation wohl höher.",
+			"lines":
+			[
+				"\\c[10]Guest\\c[0]: But our soldiers must have fought more",
+				"intensely.\\. Clearly.\\. Since we were only the",
+				"soldiers who wanted it that way, our",
+				"motivation was probably higher."
+			]
+		},
+		{
+			"path": [10,1,20,4],
+			"original": "Gast: Wegen der Pflicht, der Armee beizutreten, gab es wahrscheinlich auf der Gegenseite viele unmotivierte Soldaten. Und das hat die Stärke Korzojenos ziemlich beeinträchtigt.",
+			"lines":
+			[
+				"\\c[10]Guest\\c[0]: Because of the obligation to join the army,",
+				"there were probably many unmotivated soldiers",
+				"on the other side. And that pretty much",
+				"affected Korzojeno's strength."
+			]
+		},
+		{
+			"path": [10,1,26,1],
+			"original": "Kento: Ja, kann sein.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Yeah, I could see that",
+				"happening."
+			]
+		},
+		{
+			"path": [11,2,3,3],
+			"original": "Kellnerin: Guten Tag. Wenn Sie etwas bestellen wollen, setzen Sie sich bitte an einen Tisch oder an die Theke.",
+			"lines":
+			[
+				"\\c[10]Waitress\\c[0]: Good afternoon. If you want to order",
+				"something, please sit down at a table or at the",
+				"counter."
+			]
+		},
+		{
+			"path": [11,2,8,2],
+			"original": "(Kento: Letztendlich will ich sowieso nichts bestellen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]:\\c[0] Ultimately, I didn't want to",
+				"order anything anyway.)"
+			]
+		},
+		{
+			"path": [13,1,3,1],
+			"original": "Gast: Kellnerin! Noch ein Bier bitte!",
+			"lines":
+			[
+				"\\c[10]Guest\\c[0]: Waitress!\\. Another beer please!"
+			]
+		},
+		{
+			"path": [14,1,3,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Wir 3 haben hier schon unseren 5. Stammtisch. Manchmal brauchen wir halt etwas Abstand von dem ganzen Training.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: The three of us already have",
+				"our fifth regulars' table.\\. Sometimes we need a",
+				"little distance from training."
+			]
+		},
+		{
+			"path": [14,1,11,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Oh, ihr seid das! Vielen Dank, dass ihr den anderen Bescheid gesagt habt. Hier, das ist für euch...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Oh, it's you!\\.",
+				"Thanks for letting the others know.\\.",
+				"Here, this is for you..."
+			],
+			"__comment__": "Item Get: Glücksbringer"
+		},
+		{
+			"path": [14,1,22,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Es sieht zwar kitschig aus, aber wenn ihr es tragt, gelingen euch in der Regel mehr Volltreffer. Äußerst praktisch, das Teil.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: It seems cheesy, but if",
+				"you wear it, you can usually deal more damage.\\.",
+				"It's extremely practical."
+			]
+		},
+		{
+			"path": [14,1,26,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Na ja, ich hab viele davon, deswegen kann ich auch mal eines verschenken.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Well\\., I have a lot",
+				"of them, so I can give one away."
+			]
+		},
+		{
+			"path": [16,1,3,2],
+			"original": "Soldat vom Briganten-Orden: Hey mein Freund, überfriss dich lieber nicht.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Hey my friend,",
+				"you shouldn't overeat."
+			]
+		},
+		{
+			"path": [17,1,3,2],
+			"original": "Soldat vom Briganten-Orden: Juhu! Rumpsteak mit Pfeffersoße! Köstlich!",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Yeah!\\. Rump steak with",
+				"pepper sauce!\\. Delicious!"
+			]
+		}
+	]
+}

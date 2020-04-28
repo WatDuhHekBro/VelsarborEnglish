@@ -1,0 +1,480 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [38,1,2,4],
+			"original": "Händler: Der Wasserring schützt Sie vor Wasser- Attacken aller Art. Sie sehen mir wie ein Kämpfer aus. Sie könnten so etwas sicherlich gut gebrauchen!",
+			"lines":
+			[
+				"\\c[10]Trader\\c[0]: This water ring protects you from water",
+				"attacks of all kinds.\\. You look like a fighter",
+				"to me.\\. You could certainly use something",
+				"like this!"
+			]
+		},
+		{
+			"path": [122,1,2,2],
+			"original": "Händlerin: Ich habe hier Salz anzubieten. Salz kann man immer gebrauchen.",
+			"lines":
+			[
+				"\\c[10]Trader\\c[0]: I have some salt to offer here.",
+				"You can always use salt."
+			]
+		},
+		{
+			"path": [123,1,2,3],
+			"original": "Händlerin: Wollen Sie vielleicht einen edlen Bronzetaler? Sie sind heiß begehrte Handels- Gegenstände!",
+			"lines":
+			[
+				"\\c[10]Trader\\c[0]: Maybe you want a fine bronze ingot?",
+				"They're highly sought-after tradables!"
+			]
+		},
+		{
+			"path": [125,1,2,3],
+			"original": "Händler: Dieser Silkenreif wird Sie vor Vergiftung schützen! Äußerst praktisch, etwa gegen Grünschleim.",
+			"lines":
+			[
+				"\\c[10]Trader\\c[0]: This silk wrap will protect you from",
+				"getting poisoned! It's extremely practical",
+				"against green slimes for example."
+			]
+		},
+		{
+			"path": [126,1,2,2],
+			"original": "Händler: Wenn Sie das Lichtsiegel tragen, wird Sie so schnell keiner mehr verblenden.",
+			"lines":
+			[
+				"\\c[10]Trader\\c[0]: If you wear this light seal,",
+				"no one can blind you anymore."
+			]
+		},
+		{
+			"path": [128,1,2,4],
+			"original": "Mann: Dieses Haus ist zurzeit leer. Die Besitzer sind vor ein paar Wochen ausgezogen. Das Haus wurde aber schon verkauft, nur sind die neuen Besitzer noch nicht angekommen.",
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: This house is currently empty.\\. The owners",
+				"moved out a few weeks ago.\\. The house has",
+				"already been sold, but the new owners haven't",
+				"yet arrived."
+			]
+		},
+		{
+			"path": [129,1,2,2],
+			"original": "Händlerin: Schauen Sie sich diese großartigen Lokri-Knollen an!",
+			"lines":
+			[
+				"\\c[10]Trader\\c[0]: Check out these great Lokri potatoes!"
+			]
+		},
+		{
+			"path": [130,1,2,4],
+			"original": "Händlerin: Der Flügelhelm bietet nicht nur einen höheren Schutz als der Bronzehelm, sondern schützt auch vor Wind-Attacken! Na? Was meinen Sie?",
+			"lines":
+			[
+				"\\c[10]Trader\\c[0]: This winged helmet not only offers",
+				"greater protection compared to a bronze helmet,",
+				"but also protects against wind attacks!",
+				"So? What will it be? "
+			]
+		},
+		{
+			"path": [131,1,2,2],
+			"original": "Händler: Ich biete hier bestes Salz an, das wirklich jedes Gericht verfeinert!",
+			"lines":
+			[
+				"\\c[10]Trader\\c[0]: I offer the best salt here that really",
+				"refines every dish!"
+			]
+		},
+		{
+			"path": [132,2,27,2],
+			"indent": 2,
+			"original": "Frau Tirunel: Cibon, mein Schatz, endlich seh' ich dich wieder. Wie geht es dir?",
+			"lines":
+			[
+				"\\c[10]Mrs. Tirunel\\c[0]: Cibon, honey, I can finally",
+				"see you again.\\. How are you?"
+			]
+		},
+		{
+			"path": [132,2,31,4],
+			"indent": 2,
+			"original": "Cibon: Hallo Mama! Mir geht's gut. Wir sind gerade von unserem 1. Auftrag zurück. Es lief alles wie geschmiert!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hi mom!\\. I'm good.\\. We just",
+				"returned from our first order.\\.",
+				"Everything went like clockwork!"
+			]
+		},
+		{
+			"path": [132,2,36,2],
+			"indent": 2,
+			"original": "Frau Tirunel: Sehr schön... Wie machst du dich denn so als Soldat?",
+			"lines":
+			[
+				"\\c[10]Mrs. Tirunel\\c[0]: Very good...\\. How are you doing",
+				"as a soldier?"
+			]
+		},
+		{
+			"path": [132,2,40,4],
+			"indent": 2,
+			"original": "Cibon: Es läuft sehr gut! Ich muss zwar noch viel lernen, aber ich werde mindestens so gut wie mein Vater werden.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: It's going very well!\\. I still",
+				"have a lot to learn, but I'll at",
+				"least be as good as my father."
+			]
+		},
+		{
+			"path": [132,2,45,1],
+			"indent": 2,
+			"original": "Kento: ...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [132,2,47,2],
+			"indent": 2,
+			"original": "Frau Tirunel: Kento, was meinst du denn? Wie macht sich mein Sohn als Soldat?",
+			"lines":
+			[
+				"\\c[10]Mrs. Tirunel\\c[0]: Kento\\., what do you think?\\.",
+				"How is my son doing as a soldier?"
+			]
+		},
+		{
+			"path": [132,2,52,3],
+			"indent": 2,
+			"original": "Cibon: War ja klar! Du glaubst mir nicht und musst Kento fragen, ob ich auch keinen Mist erzähle. Pah!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Oh come on!\\. You don't believe",
+				"me so you ask Kento if I'm telling",
+				"the truth?\\. Pfft!"
+			]
+		},
+		{
+			"path": [132,2,56,3],
+			"indent": 2,
+			"original": "Frau Tirunel: Nana, Cibon. Du hast zu viele Lügen-Märchen erzählt als du noch klein warst, also kann ich dir nicht einfach so trauen.",
+			"lines":
+			[
+				"\\c[10]Mrs. Tirunel\\c[0]: Now now, Cibon.\\. You've told too",
+				"many tales of lies when you were little,\\.",
+				"so I just can't trust you."
+			]
+		},
+		{
+			"path": [132,2,61,4],
+			"indent": 2,
+			"original": "Kento: Ja, er macht sich wirklich gut. Vor allem was das Kämpfen angeht. Sein Können mit der Axt wird von Mal zu Mal besser.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Yes, he's doing really well.\\.",
+				"Especially when it comes to fighting.\\.",
+				"His skill with the axe is getting",
+				"better every time."
+			]
+		},
+		{
+			"path": [132,2,66,3],
+			"indent": 2,
+			"original": "Frau Tirunel: Das freut mich zu hören. Ich bin stolz auf dich, mein Schatz, und dein Vater wäre es ganz sicher auch.",
+			"lines":
+			[
+				"\\c[10]Mrs. Tirunel\\c[0]: I'm happy to hear that.\\. I'm proud",
+				"of you, honey, and your father would certainly",
+				"be too."
+			]
+		},
+		{
+			"path": [132,2,71,1],
+			"indent": 2,
+			"original": "Cibon: Danke sehr......",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Thank you very much......"
+			]
+		},
+		{
+			"path": [132,2,74,3],
+			"indent": 2,
+			"original": "(Cibon: Pah, da hat sich nichts geändert. Nach wie vor traut sie mir kein Stück.)",
+			"lines":
+			[
+				"(\\c[2]\\n[2]\\c[0]: Pfft, nothing changed.",
+				"She still doesn't trust me.)"
+			]
+		},
+		{
+			"path": [132,2,78,4],
+			"indent": 2,
+			"original": "Frau Tirunel: Cibon, auch wenn du als Soldat beschäftigt bist, schau doch bitte öfters bei uns zu Hause vorbei, wir würden uns wirklich freuen.",
+			"lines":
+			[
+				"\\c[10]Mrs. Tirunel\\c[0]: Cibon,\\. even though you're a soldier",
+				"now,\\. please visit us at home more often,\\.",
+				"we'd be really happy."
+			]
+		},
+		{
+			"path": [132,2,82,2],
+			"indent": 2,
+			"original": "Frau Tirunel: Und Kento ist als Gast natürlich auch immer gerne gesehen.",
+			"lines":
+			[
+				"\\c[10]Mrs. Tirunel\\c[0]: And of course,\\. Kento is always",
+				"welcome as a guest."
+			]
+		},
+		{
+			"path": [132,2,86,2],
+			"indent": 2,
+			"original": "Cibon: Okay, Mama. Wir werden euch besuchen kommen, versprochen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Okay, mom.\\. We'll come",
+				"visit you,\\. I promise."
+			]
+		},
+		{
+			"path": [132,2,89,2],
+			"indent": 2,
+			"original": "Frau Tirunel: Erinnere ihn bitte daran, ja, Kento?",
+			"lines":
+			[
+				"\\c[10]Mrs. Tirunel\\c[0]: Please remind him, okay, Kento?"
+			]
+		},
+		{
+			"path": [132,2,93,1],
+			"indent": 2,
+			"original": "Kento: Okay...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Okay..."
+			]
+		},
+		{
+			"path": [132,2,96,1],
+			"indent": 2,
+			"original": "(Cibon: Hmpf... Ich glaub's nicht.)",
+			"lines":
+			[
+				"(\\c[2]\\n[2]\\c[0]: Wow... I don't believe it.)"
+			]
+		},
+		{
+			"path": [132,2,108,2],
+			"indent": 2,
+			"original": "Frau Tirunel: Hallo Kento. Schön dich zu sehen. Wo ist denn Cibon?",
+			"lines":
+			[
+				"\\c[10]Mrs. Tirunel\\c[0]: Hello Kento.\\. Nice to see you.\\.",
+				"Where's Cibon?"
+			]
+		},
+		{
+			"path": [132,2,118,4],
+			"indent": 1,
+			"original": "Frau Tirunel: Denkt daran, dass ihr immer bei uns Willkommen seid. Und bringt ruhig Gäste mit, wenn sie gerade dabei sind. Bei uns zu Hause ist es immer so leer...",
+			"lines":
+			[
+				"\\c[10]Mrs. Tirunel\\c[0]: Well,\\. remember that you're always",
+				"welcome with us.\\. And bring guests with you when",
+				"you're there.\\. It's always so empty at home..."
+			]
+		},
+		{
+			"path": [137,2,2,3],
+			"original": "Kleiner Junge: So, die Blauperlen habe ich, Wasser auch, jetzt brauch ich nur noch eine Lokri-Knolle.",
+			"lines":
+			[
+				"\\c[10]Little Boy\\c[0]: So, I have blue pearls,\\. water",
+				"too,\\. now all I need is a Lokri potato."
+			]
+		},
+		{
+			"path": [137,2,7,3],
+			"original": "Kento: Hm? Wofür musst du denn diese Sachen einkaufen? Zum Kochen?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm?\\. What do you need to buy",
+				"these things for?\\. For cooking?"
+			]
+		},
+		{
+			"path": [137,2,11,4],
+			"original": "Kleiner Junge: Kochen? Haha, nein, ich möchte eine ultimative Lokri-Knollen-Stinkbombe basteln! Das ist ganz einfach. Man kocht die Lokri-Knolle mit den Blauperlen in heißem Wasser.",
+			"lines":
+			[
+				"\\c[10]Little Boy\\c[0]: Cooking?\\. Haha, no, I want to",
+				"make the ultimate Lokri potato stink bomb!\\.",
+				"It's really easy.\\. You cook the Lokri potato",
+				"with the blue pearls in hot water."
+			]
+		},
+		{
+			"path": [137,2,15,4],
+			"original": "Kleiner Junge: Dann tut man das Ergebnis in eine Schüssel mit kaltem Wasser und lässt es ein paar Tage lang stehen. Dann beginnt der Prozess der Verfaulung, hehehehe...",
+			"lines":
+			[
+				"\\c[10]Little Boy\\c[0]: Then put that in a bowl of cold",
+				"water and let it sit there for a few days.\\.",
+				"Then the rotting begins,\\. \\s[9]hehehehe..."
+			]
+		},
+		{
+			"path": [137,2,22,2],
+			"original": "Kento: Ahhh... danke, ich hab genug gehört.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ahhh...\\. thanks,\\.",
+				"I've heard enough."
+			]
+		},
+		{
+			"path": [137,2,26,2],
+			"indent": 1,
+			"original": "Cibon: Ach ja, die Lokri-Knollen- Stinkbombe. Ein Klassiker.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Oh yeah,\\. the Lokri potato",
+				"stink bomb.\\. A classic."
+			]
+		},
+		{
+			"path": [138,2,2,1],
+			"original": "Junge: Hm, Mist. Zwei muss ich noch finden.",
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: Hm, crap.\\. I still have to find the other two."
+			]
+		},
+		{
+			"path": [138,2,6,3],
+			"original": "Junge: Öhm...Guten Tag. Haben Sie vielleicht jemanden... äh... NEIN. Ich werde nicht schummeln.",
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: Um...\\. Good afternoon.\\. Maybe you found",
+				"someone...\\. Uh...\\. NO.\\.\\s[3] I won't cheat."
+			]
+		},
+		{
+			"path": [138,2,10,1],
+			"original": "Junge: Entschuldigen Sie, es ist nichts.",
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: Excuse me,\\. it's nothing."
+			]
+		},
+		{
+			"path": [139,1,2,4],
+			"original": "Mädchen: Wir spielen jetzt schon die 3. Runde Verstecken und bisher konnte noch niemand Rika finden. Sie muss irgendein ultimatives Versteck haben, oder so.",
+			"lines":
+			[
+				"\\c[10]Girl\\c[0]: We've been playing the third round of",
+				"hide and seek and so far, nobody has been",
+				"able to find Rika.\\. She must have some",
+				"ultimate hiding spot or something."
+			]
+		},
+		{
+			"path": [147,1,2,3],
+			"original": "Junge: Nomerea bietet wirklich viele gute Verstecke... und ich muss natürlich das schlechteste von allen aussuchen.",
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: Nomerea really has a lot of good hiding",
+				"spots...\\.\\s[2] And of course I had to choose",
+				"the worst one of 'em all."
+			]
+		},
+		{
+			"path": [148,1,3,2],
+			"indent": 1,
+			"original": "Frau: Wäre nett, wenn ihr das Paket recht bald abgeben könntet.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Would be nice if you could drop off the",
+				"package soon."
+			]
+		},
+		{
+			"path": [148,1,11,4],
+			"indent": 1,
+			"original": "Frau: Hey ihr. Würde es euch etwas ausmachen, wenn ihr ein Paket für mich zur Post-Versand- Stelle hier in der Nähe bringt? Das Ganze soll nach Buronia gehen.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Hey you.\\. Would you mind if you brought",
+				"a package to the post office nearby for me?",
+				"The whole thing should go to Buronia."
+			]
+		},
+		{
+			"path": [148,1,20,3],
+			"indent": 2,
+			"original": "Frau: Danke! Ich weiß nicht, wie hoch die Gebühren sind, aber 100 Fejar sollten ausreichen. Ihr dürft behalten, was übrig bleibt.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Thanks! I don't know what the fees are,",
+				"but 100 \\n[19] should be enough.",
+				"You can keep what's left."
+			]
+		},
+		{
+			"path": [148,1,40,2],
+			"indent": 2,
+			"original": "Frau: Ach schade. Ich hab keine Lust dort wieder selber hin zu gehen.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Oh, that's too bad.\\. I have no desire to",
+				"go there myself."
+			]
+		},
+		{
+			"path": [148,1,44,1],
+			"indent": 2,
+			"original": "(Kento: Das nenn ich mal Faulheit)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Now that's what I call",
+				"laziness.)"
+			]
+		},
+		{
+			"path": [149,1,2,4],
+			"original": "Mann: Hier liegt die Burg von Nomerea. Heutzutage dient sie als eine große Kaserne, wo neuen Soldaten des Briganten-Ordens ausgebildet werden.",
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: Here lies the castle of Nomerea.\\. Nowadays,",
+				"it serves as barracks where new soldiers",
+				"of the Brigantine Order are trained."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [148,1,17],
+			"original": "Das machen wir gerne/Wir haben leider keine Zeit...",
+			"patch": "We'll do that./We don't have the time..."
+		},
+		{
+			"path": [148,1,18],
+			"original": "Das machen wir gerne",
+			"patch": "We'll do that."
+		},
+		{
+			"path": [148,1,38],
+			"original": "Wir haben leider keine Zeit...",
+			"patch": "We don't have the time..."
+		}
+	]
+}

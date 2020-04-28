@@ -16,12 +16,21 @@ Cibon: Sag bloß, du hättest dem Spektakel nur zugesehen!
 Soko: Nein... aber...
 Cibon: Nichts aber, jetzt wird gekämpft!
 
+#
 Kento: Wie kommt es eigentlich, dass die starken Gegner uns immer von oben überraschen?
 Cibon: Joa, wir sollten in Zukunft mehr unterirdisch reisen, nicht wahr Kumpel?
 Soko: Hey! Wie sollen wir gegen diesen Gegner vorgehen?
 Kento: Er reitet einen fliegenden Hornkäfer...
 Kento: Er könnte also ähnliche Schwächen haben wie die Hornkäfer, gegen die wir gekämpft haben!
 Guillian: Freut euch nicht zu früh! Rekreto ist kein normaler Hornkäfer, wartet nur ab!
+#
+Kento: Wie kommt es eigentlich, dass die starken Gegner uns immer von oben überraschen?
+Cibon: Joa, wir sollten in Zukunft mehr unterirdisch reisen, nicht wahr Kumpel?
+Soko: Hey! Wie sollen wir gegen diesen Gegner vorgehen?
+Kento: Er reitet einen fliegenden Hornkäfer...
+Kento: Er könnte also ähnliche Schwächen haben wie die Hornkäfer, gegen die wir gekämpft haben!
+Guillian: Freut euch nicht zu früh! Rekreto ist kein normaler Hornkäfer, wartet nur ab!
+#
 #
 Saion: Ihr macht es so, wie wir besprochen haben, verstanden?
 Jorn: Diese dritte Person da war aber in deiner so genannten "Taktik" nicht mit einbezogen...
@@ -68,6 +77,11 @@ Cibon: Ohoh ... Whatever this thing is up to, I should be prepared!
 #
 Cibon: Kumpel! Pass auf, dass du dich nicht überanstrengst! Du weißt ja...
 Kento: Laber keinen Mist!
+#
+Cibon: buddy! Be careful not to overwork yourself! You know...
+Kento: Talk no crap!
+#
+#
 Saion: Ha, da schaut ihr, nicht wahr, NICHT WAHR?!
 Saion: Beim nächsten Mal bist du weg von der Bildfläche, wart's nur ab!
 Jorn: Du meine Güte! Es hat gewirkt.
@@ -78,8 +92,6 @@ Jorn: ... Die macht mir Angst.
 Kento: Es sind so viele! Macht es überhaupt Sinn zu kämpfen?!
 (Kento: Nichts wie weg hier!)
 #
-Cibon: buddy! Be careful not to overwork yourself! You know...
-Kento: Talk no crap!
 Saion: Ha, there you look, don't you, TRUE ?!
 Saion: Next time you're off the scene, just wait and see!
 Jorn: Oh my goodness! It worked.
@@ -283,7 +295,7 @@ Guard: \ v [1] Ore, you have already collected \ v [1883] ore.
 Guard: \ v [1883] ore? Are you kidding me?! Get back to work immediately! Do not think that you get anything in the stomach today with such a poor performance!
 Guard: It's pretty moderate. Continue immediately! You are not finished yet, I hope?
 Guard: All right. Keep it up.
-Guard: Fine. But don’t think you’ll get the next day off.
+Guard: Fine. But don't think you’ll get the next day off.
 Guard: Good, good. But that's no reason to slow down now.
 Guard: You hang out pretty well! One could almost think that you would enjoy the work. Obviously we have to challenge you a little harder!
 Guard: Here's something to refresh.

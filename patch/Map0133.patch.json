@@ -15,7 +15,7 @@
 			"original": "Funkdurchsage: Sofortiger Rückzug! An alle Einheiten der Birkon, umgehend den Rückzug antreten!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]:\\s[4] Retreat immediately!\\. ",
+				"\\c[10]Radio\\c[0]:\\s[4] Retreat immediately!\\.",
 				"Attention all Brigantian troops,\\.",
 				"I repeat, retreat immediately!\\.\\.\\^"
 			]
@@ -105,7 +105,7 @@
 			"original": "Funkdurchsage: ...Gut... Treten Sie umgehend Ihren Rückzug an!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]:\\s[3] ...Good...\\.",
+				"\\c[10]Radio\\c[0]:\\s[3] Good...\\.",
 				"Now get out of there immediately!"
 			]
 		},
@@ -139,7 +139,7 @@
 			"original": "Funkdurchsage: ...W ...WAS?! Dies ist ein BEFEHL! Er lautet sofortiger Rückzug aus der gegnerischen Basis!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]: ...W\\. ...WHAT?!\\.",
+				"\\c[10]Radio\\c[0]: W\\. ...WHAT?!\\.",
 				"This is an ORDER!\\.",
 				"Retreat immediately from",
 				"the enemy's base!"
@@ -169,7 +169,7 @@
 			"original": "Seldan: ...Ich werde tiefer in die Basis eindringen.",
 			"lines":
 			[
-				"\\c[1]Seldan\\c[0]:\\s[2] ...\\.I'm going to move deeper",
+				"\\c[1]Seldan\\c[0]:\\s[2] \\.I'm going to move deeper",
 				"into the enemy base."
 			]
 		},
@@ -233,7 +233,7 @@
 			"original": "Seldan: ...Hören Sie mir zu. Ich habe meine eigene Ansicht der Dinge bekommen. Ich werde ihrem Befehl nicht mehr gehorchen.",
 			"lines":
 			[
-				"\\c[1]Seldan\\c[0]:\\s[2] ...Listen to me.\\. I've got",
+				"\\c[1]Seldan\\c[0]:\\s[2] Listen to me.\\. I've got",
 				"my own view of things.\\. I will no",
 				"longer obey your command."
 			]
@@ -243,7 +243,7 @@
 			"original": "Seldan: ...Diese Aktion hier wird vielleicht meine letzte sein, ...",
 			"lines":
 			[
-				"\\c[1]Seldan\\c[0]:\\s[2] ...this may just be",
+				"\\c[1]Seldan\\c[0]:\\s[2] This may just be",
 				"my last battle..."
 			]
 		},

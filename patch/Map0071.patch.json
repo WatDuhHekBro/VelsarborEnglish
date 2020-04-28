@@ -1,0 +1,24 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [4,2,2,2],
+			"original": "Köchin: Bitte stören Sie mich nicht! Ich hab hier genug zu tun...",
+			"lines":
+			[
+				"\\c[10]Cook\\c[0]: Please don't bother me!\\. I have",
+				"enough to do here already..."
+			]
+		},
+		{
+			"path": [6,2,3,3],
+			"original": "Köchin: Seit wir Essenswünsche von den Soldaten annehmen, haben wir so viel Arbeit in der Küche. Ich halt das nicht aus.",
+			"lines":
+			[
+				"\\c[10]Cook\\c[0]: Ever since we started accepting requests",
+				"from the soldiers, we've had so much work in",
+				"the kitchen.\\. I can't take it anymore."
+			]
+		}
+	]
+}

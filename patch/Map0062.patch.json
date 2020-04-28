@@ -1,0 +1,93 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [127,1,2,3],
+			"original": "Soldat vom Briganten-Orden: Hey ihr. Schaut euch mal an, was ich hier gefunden habe. Nimmt es ruhig. Ich kann damit eh nichts anfangen.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Hey you.\\. Look at what I",
+				"found here.\\. Take it quietly.\\. I can't do",
+				"anything with it anyway."
+			],
+			"__comment__": "Item Get: 2 Blue Pearls"
+		},
+		{
+			"path": [127,2,2,3],
+			"original": "Soldat vom Briganten-Orden: Man würde von hier sicherlich eine gute Aussicht haben, wenn die Mauer nicht so hoch wäre...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: You'd certainly have a good",
+				"view from here if the wall weren't so high..."
+			]
+		},
+		{
+			"path": [131,2,2,4],
+			"original": "Soldat vom Briganten-Orden: Hier oben weht ein recht angenehmer Wind. Den kann man in den heißen Sommertagen hier gut gebrauchen, wenn die Sonne überall draufprallt.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: A very pleasant wind is",
+				"blowing up here. You can use it well in the",
+				"hot summer days when the sun's everywhere."
+			]
+		},
+		{
+			"path": [131,2,9,3],
+			"indent": 1,
+			"original": "Cibon: Sag das nicht. Ich hab mir hier letzten Sommer einen starken Sonnenbrand geholt.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Don't say that.\\. I got a bad",
+				"sunburn here last summer."
+			]
+		},
+		{
+			"path": [131,2,13,3],
+			"indent": 1,
+			"original": "Cibon: Du denkst zwar es ist kühl, aber die Sonne strahlt trotzdem volle Kanne!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: You think it'd be cool, but",
+				"the sun is still shining strong!"
+			]
+		},
+		{
+			"path": [131,2,17,2],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Tja, dann muss man sich halt einen Platz im Schatten suchen.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Well\\., then you have to",
+				"look for a place in the shade."
+			]
+		},
+		{
+			"path": [132,1,2,3],
+			"original": "Soldat vom Briganten-Orden: Diese Räume sind für die Ausbilder gedacht und dürfen von normalen Soldaten nicht betreten werden.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: These rooms are intended for",
+				"trainers and may not be entered by normal",
+				"soldiers."
+			]
+		},
+		{
+			"path": [133,1,24,2],
+			"original": "Soldat vom Briganten-Orden: Hier dürfen keine Soldaten durch und das wisst ihr.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: No soldiers are allowed",
+				"through here and you know that."
+			]
+		},
+		{
+			"path": [134,1,2,3],
+			"original": "Soldat vom Briganten-Orden: Hm... dieser Ort ist am besten zum Entspannen, hier im Schatten.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Hm...\\. this place is best",
+				"for relaxing,\\. right here in the shade."
+			]
+		}
+	]
+}

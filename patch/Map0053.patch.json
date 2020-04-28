@@ -1,0 +1,103 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [4,1,2,2],
+			"original": "Verkäuferin: Wir führen Waffen und Rüstungen aus stabiler Bronze.",
+			"lines":
+			[
+				"\\c[10]Saleswoman\\c[0]: We carry weapons and armor made",
+				"from the finest bronze!"
+			]
+		},
+		{
+			"path": [5,1,2,3],
+			"original": "Soldat des Briganten-Ordens: Ach, ihr beiden seid endlich wieder zurück? Wieso hat das so lange gedauert?",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Oh, you two are finally back?\\.",
+				"What took so long?"
+			]
+		},
+		{
+			"path": [5,1,7,4],
+			"original": "Kento: Die Diebe haben uns keine Probleme gemacht, nur hat es leider ziemlich lange gedauert, bis sie sich überhaupt blicken ließen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: The thieves didn't cause us",
+				"any problems, but unfortunately it",
+				"took quite a long time for them to",
+				"show up."
+			]
+		},
+		{
+			"path": [5,1,12,4],
+			"original": "Soldat des Briganten-Ordens: Ach, wenn das so ist. Ich dachte schon, ihr hättet tatsächlich Probleme mit dieser kleinen Räuberbande gehabt.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Well, if that's what you",
+				"say.\\. I thought you actually had problems",
+				"with this little band of robbers."
+			]
+		},
+		{
+			"path": [5,1,16,3],
+			"original": "Soldat des Briganten-Ordens: Sir Vorento wartet jedenfalls schon gespannt auf eure Ankunft.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Sir Vorento is",
+				"looking forward to your arrival."
+			]
+		},
+		{
+			"path": [5,1,19,3],
+			"original": "Soldat des Briganten-Ordens: Lasst ihn nicht zu lange warten. Ihr seid neu und müsst noch einen guten Eindruck hinterlassen.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Don't make him wait too long.",
+				"You are new here and still have to make",
+				"a good impression."
+			]
+		},
+		{
+			"path": [6,1,2,3],
+			"original": "Mann: Hier im Norden schmelzen wir nur das beste Metall und haben so genau das richtige Material für robuste Waffen und Rüstungen.",
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: Here in the north, we only melt the",
+				"best metal and have just the right",
+				"material for robust weapons and armor."
+			]
+		},
+		{
+			"path": [6,1,5,2],
+			"original": "Mann: Waffen aus Brigantia sind bekannt für ihre hohe Qualität und Stabilität.",
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: Weapons from Brigantia are known for",
+				"their high quality and durability."
+			]
+		},
+		{
+			"path": [6,1,10,4],
+			"indent": 1,
+			"original": "Cibon: Schön und gut, aber ich hab gehört, dass unsere Waffen einen ziemlich schlechten Schliff haben, im Vergleich zu denen im Ausland.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Alright, but I've heard that our",
+				"weapons have a pretty bad polish",
+				"compared to those abroad."
+			]
+		},
+		{
+			"path": [6,1,15,2],
+			"indent": 1,
+			"original": "Mann: Ähh... ja... Keine Ahnung.",
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: Well...\\. yes...\\.",
+				"I don't know."
+			]
+		}
+	]
+}

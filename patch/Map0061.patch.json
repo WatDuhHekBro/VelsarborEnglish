@@ -1,0 +1,350 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [56,1,3,4],
+			"original": "General: Uuund... Schlag.. Nein, gleichzeitig! ... Hey ihr! Ihr sollt im selben Moment wie die andern zuhauen! ... Verflucht! Konzentriert euch doch mal... ... *seufz*",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Aaand...\\. Strike...\\. No, at the same time!",
+				"\\....\\. Hey you!\\. You should strike at the same moment",
+				"as the others!\\. ... \\.Damn!\\. Just concentrate...\\.",
+				"...\\. *sigh*"
+			]
+		},
+		{
+			"path": [71,1,2,3],
+			"original": "General: Uuund... Schlag! Uuund... Schlag! Na bitte! Klappt doch prima!",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: \\s[9]Aaand...\\s[0] Strike!\\.",
+				"\\s[9]Aaand...\\s[0] Strike!\\.",
+				"There we go!\\. Works just fine!"
+			]
+		},
+		{
+			"path": [92,2,3,4],
+			"original": "Gärtner: Es ist hoffnungslos! Das ständige Training der Soldaten auf dem Hof macht den gesamten Rasen kaputt. Da gibt es nichts mehr, was ich tun kann...",
+			"lines":
+			[
+				"\\c[10]Gardener\\c[0]: It's hopeless!\\. The constant training",
+				"of the soldiers in the yard destroys the entire",
+				"garden.\\. There's nothing I can do..."
+			]
+		},
+		{
+			"path": [93,1,3,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Hat man die Rüstung einmal an, ist alles okay. Das schlimme ist das an- und ausziehen dieses Blechhaufens!",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Once you have your armor,",
+				"everything will be just fine.\\. The tedious",
+				"part is putting this hunk of metal on",
+				"and taking it off!"
+			]
+		},
+		{
+			"path": [93,1,13,3],
+			"indent": 2,
+			"original": "Soldat vom Briganten-Orden: Oi, Cibon. Du läufst immer noch in diesem Aufzug hier rum? Bist du immer noch nicht fertig ausgebildet?",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Oi, Cibon.\\. Are you still",
+				"walking around in that armor?\\. You're still",
+				"not done with training?"
+			]
+		},
+		{
+			"path": [93,1,18,3],
+			"indent": 2,
+			"original": "Cibon: Doch schon, aber es standen komischerweise keine Rüstungen bereit. Für Kento ebenfalls nicht.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: We're done, but strangely no",
+				"armor was available.\\. Neither for Kento."
+			]
+		},
+		{
+			"path": [93,1,22,3],
+			"indent": 2,
+			"original": "Cibon: Man hat uns zwar ein paar andere Rüstungsteile gegeben, aber die waren wirklich mies...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: We were given a few other pieces",
+				"of armor, but they were so bad..."
+			]
+		},
+		{
+			"path": [93,1,26,3],
+			"indent": 2,
+			"original": "Soldat vom Briganten-Orden: Ach, das passiert immer wieder. Die Schmiede kommt einfach nicht mit der wachsenden Anzahl von Soldaten mit.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Oh, that's been happening",
+				"again and again.\\. The blacksmith simply can't",
+				"keep up with the growing number of soldiers."
+			]
+		},
+		{
+			"path": [93,1,31,3],
+			"indent": 2,
+			"original": "Cibon: Na ja, so schlimm is' es auch nicht. So eine Rüstung ist doch bestimmt sehr umständlich, oder?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Well, it's not that bad either.",
+				"Your armor must be very cumbersome,",
+				"right?"
+			]
+		},
+		{
+			"path": [93,1,35,2],
+			"indent": 2,
+			"original": "Soldat vom Briganten-Orden: Sagen wir, man gewöhnt sich dran.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Let's say that you get",
+				"used to it."
+			]
+		},
+		{
+			"path": [93,1,44,2],
+			"indent": 2,
+			"original": "Soldat vom Briganten-Orden: Wache halten ist tot langweilig.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Keeping watch makes me bored",
+				"to the death."
+			]
+		},
+		{
+			"path": [93,1,48,1],
+			"indent": 2,
+			"original": "Kento: Kann ich ein Lied von singen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I can sing a song about it",
+				"if you want."
+			]
+		},
+		{
+			"path": [94,1,2,3],
+			"original": "Soldat vom Briganten-Orden: Immer diese monotonen Trainingseinheiten. Da wird man ja verrückt, allein schon vom Zusehen.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Always with these",
+				"monotonous training sessions. You'd go",
+				"crazy just by watching them."
+			]
+		},
+		{
+			"path": [95,1,3,3],
+			"original": "Soldat vom Briganten-Orden: Ah! Sag bitte niemandem, dass ich mich hier verstecke! Ich habe echt genug von diesem Training...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Ah! Please don't tell",
+				"anyone that I'm hiding here!\\. I've had",
+				"enough of this training..."
+			]
+		},
+		{
+			"path": [95,1,9,3],
+			"indent": 1,
+			"original": "Kento: Ich soll dir Bescheid sagen, dass man in der Eingangshalle vom Schloss auf dich wartet.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I should let you know that",
+				"someone's waiting for you in the",
+				"entrance hall of the castle."
+			]
+		},
+		{
+			"path": [95,1,13,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Wie? Wer wartet da... ARGS! Mann, das hab ich vollkommen vergessen! Ich muss weg!",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Why?\\. Who's waiting",
+				"there\\s[9]...\\s[0] ARGH!\\. Man, I completely forgot!\\.",
+				"I have to go!"
+			]
+		},
+		{
+			"path": [96,1,3,2],
+			"original": "Kento: Sag mal, wieso stehst du hier so allein auf dem Hof herum?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Say... Why are you standing",
+				"here alone in the yard?"
+			]
+		},
+		{
+			"path": [96,1,6,3],
+			"original": "Soldat vom Briganten-Orden: Öhm, ich schaue den anderen beim Training zu um zu sehen, was ich besser machen könnte.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Um, I watch the others",
+				"training to see what I could do better."
+			]
+		},
+		{
+			"path": [96,1,11,4],
+			"original": "Kento: Hm, vom reinen Zusehen wird man aber auch nicht besser. Man muss das Ganze schon richtig praktizieren.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm, you don't get any better",
+				"from just watching.\\. You have to do",
+				"the whole thing properly."
+			]
+		},
+		{
+			"path": [96,1,16,3],
+			"original": "Soldat vom Briganten-Orden: Ja, schon klar, aber mein Training ist erst in ein paar Stunden...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Yes, of course,",
+				"but my training is only in a few hours..."
+			]
+		},
+		{
+			"path": [96,1,21,4],
+			"original": "Kento: Man kann doch auch neben dem vorgeschriebenen Training irgendwo in einer abgelegenen Gegend üben.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: You can also practice somewhere",
+				"in a remote area in addition",
+				"to the required training."
+			]
+		},
+		{
+			"path": [96,1,26,4],
+			"original": "Soldat vom Briganten-Orden: Ja? Na ja, dazu hab ich mich noch nie überwunden, vielleicht ist die Idee gar nicht so schlecht. Muss dann nur einen geeigneten Ort finden.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Yeah? Well, I've never gotten",
+				"myself to do it, though maybe the idea isn't too",
+				"bad.\\. Then I just have to find a suitable place."
+			]
+		},
+		{
+			"path": [96,1,54,4],
+			"indent": 1,
+			"original": "Cibon: Da muss ich jetzt mal gerade daran denken, wo Kento früher seine zusätzlichen Trainingseinheiten hatte.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: I just have to think about",
+				"where Kento used to have his",
+				"additional training sessions."
+			]
+		},
+		{
+			"path": [96,1,60,1],
+			"indent": 1,
+			"original": "Kento: Ähh...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: \\s[9]Uhh...\\.\\.\\.\\^"
+			]
+		},
+		{
+			"path": [96,1,62,1],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Wo denn?",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Where?"
+			]
+		},
+		{
+			"path": [96,1,65,4],
+			"indent": 1,
+			"original": "Cibon: Mitten auf den Straßen von Nomerea! Die Leute haben ihn die ganze Zeit angestarrt, als wär' es ein Showkampf gewesen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: \\s[7]In the middle of the Nomerean",
+				"streets!\\s[0]\\. People stared at him all",
+				"the time like it was a show."
+			]
+		},
+		{
+			"path": [96,1,70,2],
+			"indent": 1,
+			"original": "Cibon: Du wolltest, dass ich sogar mitmache, stimmt's, Kumpel?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: You wanted me to join in,",
+				"right Kento?"
+			]
+		},
+		{
+			"path": [96,1,74,3],
+			"indent": 1,
+			"original": "Kento: Ich sagte ja: Such dir eine abgelegene Gegend. Am besten irgendwo im Wald.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I'll say this:\\. Find a remote",
+				"area. Somewhere in the forest is",
+				"better."
+			]
+		},
+		{
+			"path": [96,1,78,4],
+			"indent": 1,
+			"original": "Cibon: Es sei denn du willst ein paar extra Fejar verdienen, dann ist das üben unter den Menschen vielleicht ganz sinnvoll..",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Unless you want to earn a few",
+				"extra \\n[19] and it'd make sense to",
+				"practice near other people..."
+			]
+		},
+		{
+			"path": [96,1,99,2],
+			"indent": 1,
+			"original": "Kento: Wir haben beim Training in der Stadt Fejar verdient?!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: We earned Fejar practicing",
+				"in the city?!"
+			]
+		},
+		{
+			"path": [96,1,103,2],
+			"indent": 1,
+			"original": "Cibon: Ähhhh... Ich hab nichts gesagt!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: \\s[9]Uhhhh...\\s[0]\\. I didn't say anything!"
+			]
+		},
+		{
+			"path": [97,2,20,3],
+			"original": "Soldat vom Briganten-Orden: Da seid ihr ja endlich. Ich soll euch Bescheid geben, dass ihr im 1. Lehrraum erwartet werdet, von Sir Vorento.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: There you are at last.\\.",
+				"I am to let you know that you are expected",
+				"in the 1st classroom, by Sir Vorento."
+			]
+		},
+		{
+			"path": [97,2,25,1],
+			"original": "Kento: Danke für die Information.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Thanks for letting us know."
+			]
+		},
+		{
+			"path": [97,2,31,4],
+			"original": "Cibon: Args, ein Treffen im Lehrraum. Bin mal gespannt, was fürn langweiligen Stoff er uns diesmal einhämmern will...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Argh, a meeting in the",
+				"classroom.\\. Gee, I wonder what",
+				"kind of boring stuff he wants",
+				"to hammer into us this time..."
+			]
+		}
+	]
+}

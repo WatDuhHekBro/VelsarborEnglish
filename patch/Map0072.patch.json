@@ -1,0 +1,54 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [7,1,2,3],
+			"original": "Soldat vom Briganten-Orden: Was da unten im Keller ist? Ich hab keine Ahnung. Ich darf da genauso wenig runter wie ihr.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: What's down there in the",
+				"basement, you might ask?\\. No clue.\\. I can't",
+				"go down any further than you can."
+			]
+		},
+		{
+			"path": [8,1,24,2],
+			"original": "Soldat vom Briganten-Orden: Tut mir Leid. Soldaten dürfen hier nicht passieren.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Sorry. Soldiers are not",
+				"allowed to pass through here."
+			]
+		},
+		{
+			"path": [11,1,12,4],
+			"original": "(Ileya: Ein Ausbilder wie Vorento ist daran interessiert, dass einer seiner Schüler seinem Vater vergibt...?)",
+			"lines":
+			[
+				"(\\c[6]\\n[6]\\c[0]: An instructor like Vorento is",
+				"interested in having one of his",
+				"students forgive his father...?)"
+			]
+		},
+		{
+			"path": [11,1,17,4],
+			"original": "(Ileya: Das hört sich für mich eher nach einer Ausrede an. Aber was würde er sonst mit dieser Entscheidung bewirken wollen?)",
+			"lines":
+			[
+				"(\\c[6]\\n[6]\\c[0]: Seems like more of an excuse.\\.",
+				"But why else might he want to",
+				"influence that decision?)"
+			]
+		},
+		{
+			"path": [11,1,22,3],
+			"original": "(Ileya: Egal... Ich hätte nicht gedacht, dass sich diese Situation so schnell ergeben würde. )",
+			"lines":
+			[
+				"(\\c[6]\\n[6]\\c[0]: Regardless...\\. I never",
+				"thought that this situation",
+				"would arise so quickly.)"
+			]
+		}
+	]
+}

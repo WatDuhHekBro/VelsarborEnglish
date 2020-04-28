@@ -82,5 +82,13 @@
 				"prefer to run automatically."
 			]
 		}
+	],
+	"other":
+	[
+		{
+			"path": [2,1,4],
+			"original": "Sinkholm",
+			"patch": "Sinkholm"
+		}
 	]
 }

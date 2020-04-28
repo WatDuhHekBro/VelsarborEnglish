@@ -21,17 +21,15 @@ These buttons below still do unique things, but are mostly for customization.
 
 # Pronunciations
 - Cibon: Pronounced with a hard C, so basically "Key-bon". The stress is on the first syllable.
-- All J's are pronounced as Y's, because German.
+- All J's are pronounced as Y's, because German. The exception is with Japanese-esque names.
 
 # Videos
-I have a playlist of update videos in case you want to watch it instead of playing it, [here](https://www.youtube.com/playlist?list=PLT800wgkhxolwCulnS8bWs9LVEPnssTgy).
+I have a playlist of update videos in case you want to watch it instead of playing it, [here](https://www.youtube.com/playlist?list=PLT800wgkhxolwCulnS8bWs9LVEPnssTgy). Keep in mind that I'm cutting out regular battles since they're boring to watch.
 
 And here are some references:
-- [TrueMG](https://www.youtube.com/playlist?list=PLEED9E15CB6E0D597) (First Demo)
-- [TrueMG](https://www.youtube.com/playlist?list=PLSgi0v-Xd3aGWEzfvjlh2gbqLF_cllSq_) (Second/Final Demo)
-- [MajinSonicLP](https://www.youtube.com/playlist?list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN)
-- [Tsuyoshi](https://www.youtube.com/playlist?list=PLMP3JOKdupbZ-erFuW239eLVM5TasXRMi)
-- [TheBloodyMion](https://www.youtube.com/watch?v=BMwkLzGZtr8)
+- [TrueMG](https://www.youtube.com/playlist?list=PLEED9E15CB6E0D597) (First Demo, up to the end of the Silvan Forest)
+- [TrueMG](https://www.youtube.com/playlist?list=PLSgi0v-Xd3aGWEzfvjlh2gbqLF_cllSq_) (Second/Final Demo, up to the end of Nomerea)
+- [MajinSonicLP](https://www.youtube.com/playlist?list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN) (Second/Final Demo, the entire game)
 
 # Dev Section Below
 AFAIK, the people who previously worked on translations never published their progress, and it seems like they haven't worked on it since.
@@ -46,6 +44,8 @@ The `master` branch will correlate with each release, double-checked for line en
 
 The `text` directory is meant to be temporary. You work with the extracted text, then once you move it to the according patch, you delete the text file. From there, you're likely to only need to make small adjustments to the patch, so it becomes a nuisance to update the text file as well.
 
+After the first major release, the `dev` branch will still be used so there aren't a billion releases per typo.
+
 # TO-DO List (If you don't want to see any potential spoilers, stop reading.)
 *Because every project needs a to-do list!*
 - Picture Text: 97%
@@ -53,17 +53,16 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 - Database: 53%
 - Special (#1/#10/#28): 40%
 ## Sections/Areas
-*It's important to note that the Helnovien Mine is an EXTREMELY enormous section of the game.*
 - Prologue: 100%
 - Sinkholm: 100%
 - The Sink-Lohne Pass: 100%
-- Nomerea: 0%
-- The Lohne: 33%
+- Nomerea: 100%
+- The Lohne: 100%
 - Mount Toras: 0%
 - Wayfarer's Inn: 0%
 - The Corine Plateau: 0%
 - Gencorin Pt I: 0%
-- The Silvan Forest: 4%
+- The Silvan Forest: 2%
 - Mysterious Fortress: 1%
 - Gencorin Pt II: 0%
-- The Helnovien Mine: 0%
+- The Helnovien Mine: 0.01%

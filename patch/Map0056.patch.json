@@ -1,0 +1,68 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [5,1,2,3],
+			"original": "Junger Mann: Wenn ihr auch hier seid, um zu handeln, kann ich euch nur empfehlen die ganzen Angebote im Überblick zu behalten.",
+			"lines":
+			[
+				"\\c[10]Young Man\\c[0]: If you're here to trade, I can",
+				"only recommend that you keep an overview",
+				"of all the offers."
+			]
+		},
+		{
+			"path": [5,1,5,3],
+			"original": "Junger Mann: Bei mir war es letztens so... Ich habe mir etwas Salz besorgt, für ein paar Grünperlen, wovon ich nicht viel hatte.",
+			"lines":
+			[
+				"\\c[10]Young Man\\c[0]: For me, it went something like this...\\.",
+				"I got some salt for some green pearls, which I",
+				"didn't have much of."
+			]
+		},
+		{
+			"path": [5,1,8,4],
+			"original": "Junger Mann: Darauf sah ich dann einen Stand, wo es ebenfalls Salz gab, aber hier für raues Fell und das hatte ich in Massen! Ihr könnt euch ja vorstellen, wie ich mich da geärgert habe.",
+			"lines":
+			[
+				"\\c[10]Young Man\\c[0]: Then I saw a stall where there was",
+				"also salt but was traded for rough fur, and I",
+				"had it in abundance! You can imagine how",
+				"annoyed I was."
+			]
+		},
+		{
+			"path": [8,1,3,4],
+			"original": "Junger Mann: Args, wo ist hier das Salz? Ohje! Ich glaube, der Braten ist schon zu lange im Ofen! Huh? Verflucht, wieso geht das Ding nicht aus?!",
+			"lines":
+			[
+				"\\c[10]Young Man\\c[0]: Argh, where's the salt here?\\.",
+				"Oh no!\\. I think the roast has been in the",
+				"oven too long!\\.\\s[11] Huh?\\s[0]\\. Damn, why doesn't this",
+				"thing go out?!"
+			]
+		},
+		{
+			"path": [8,1,12,3],
+			"indent": 1,
+			"original": "Cibon: Kumpel, wir sollten schnellstens abhauen! Hier scheint es mir nicht ganz so sicher zu sein.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hey, we should get out",
+				"of here as soon as possible!",
+				"It doesn't seem so safe to me."
+			]
+		},
+		{
+			"path": [9,1,3,4],
+			"original": "Junge Frau: Jeden Tag muss ich das Essen zubereiten. Jetzt hab ich es mal geschafft, ihn zu überreden, dass er es macht, und schon geht alles schief.",
+			"lines":
+			[
+				"\\c[10]Young Woman\\c[0]: I have to prepare the food",
+				"every day.\\. So I managed to persuade him",
+				"to do it and everything goes wrong."
+			]
+		}
+	]
+}

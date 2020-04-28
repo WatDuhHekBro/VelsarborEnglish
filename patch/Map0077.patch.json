@@ -1,0 +1,77 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [37,1,3,2],
+			"original": "(Kento: Veraltete Schwert-Waffen zum Trainieren...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Outdated swords for",
+				"training...)"
+			]
+		},
+		{
+			"path": [38,1,3,2],
+			"original": "(Kento: Veraltete Lanzen-Waffen zum Trainieren...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Outdated lances for",
+				"training...)"
+			]
+		},
+		{
+			"path": [39,1,3,2],
+			"original": "(Kento: Veraltete Schwert-Waffen zum Trainieren...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Outdated swords for",
+				"training...)"
+			]
+		},
+		{
+			"path": [40,1,3,2],
+			"original": "(Kento: Veraltete Lanzen-Waffen zum Trainieren...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Outdated lances for",
+				"training...)"
+			]
+		},
+		{
+			"path": [41,1,3,2],
+			"original": "(Kento: Veraltete Schwert-Waffen zum Trainieren...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Outdated swords for",
+				"training...)"
+			]
+		},
+		{
+			"path": [42,1,3,2],
+			"original": "(Kento: Veraltete Lanzen-Waffen zum Trainieren...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Outdated lances for",
+				"training...)"
+			]
+		},
+		{
+			"path": [45,2,2,3],
+			"original": "Soldat vom Briganten-Orden: Diese billigen Trainings-Fässer halten höchstens ein paar Wochen aus, dann sind sie zerschrottet.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: These cheap training dummies",
+				"last a few weeks at most, then they're scrapped."
+			]
+		},
+		{
+			"path": [45,2,5,3],
+			"original": "Soldat vom Briganten-Orden: Man sollte lieber mal ein paar anständige Trainings-Geräte erstellen, als immer nur neue Trainings-Fässer.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: It's better to create a",
+				"few decent ones than to always get new ones."
+			]
+		}
+	]
+}

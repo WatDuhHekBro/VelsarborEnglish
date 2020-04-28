@@ -1,0 +1,907 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [12,1,7,3],
+			"original": "Kento: Öhm... guten Tag. Wir sind die beiden Soldaten aus Nomerea.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Good afternoon.\\. We are",
+				"the two soldiers from Nomerea."
+			]
+		},
+		{
+			"path": [12,1,12,2],
+			"original": "Soko: Na endlich... Das wurde aber auch Zeit.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Well then...\\.",
+				"it was about time."
+			]
+		},
+		{
+			"path": [12,1,22,2],
+			"original": "Soko: Guten Tag, mein Name ist Soko Filaja.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Hello, my name is Soko Filaja."
+			]
+		},
+		{
+			"path": [12,1,26,1],
+			"original": "Kento: Mein Name ist Kento.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: My name is Kento."
+			]
+		},
+		{
+			"path": [12,1,28,2],
+			"original": "Cibon: Und mich nennt man Cibon. Wann kann die Reise losgehen?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: And I'm Cibon.\\.",
+				"When are we going?"
+			]
+		},
+		{
+			"path": [12,1,34,2],
+			"original": "Soko: Dürfte ich auch Ihre Nachnamen wissen?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: May I also know your",
+				"last names?"
+			]
+		},
+		{
+			"path": [12,1,37,2],
+			"original": "Cibon: Öhm, okay, meiner ist Tirunel....",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Um, okay, mine is Tirunel..."
+			]
+		},
+		{
+			"path": [12,1,40,3],
+			"original": "Kento: Was tut der Nachname schon zur Sache?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Does it really matter?"
+			]
+		},
+		{
+			"path": [12,1,44,4],
+			"original": "Soko: ...? Wollen Sie mir etwa ihre ganzen Namen verschweigen? Das ist nicht die beste Basis um Vertrauen aufzubauen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...\\.?\\. Are you really going to",
+				"keep your last names from me?\\. This",
+				"isn't a good basis for building",
+				"trust you know."
+			]
+		},
+		{
+			"path": [12,1,51,4],
+			"original": "Soldat der Briganten Orden: Mann, Mann, Mann... Soko, ich sagte doch bereits, dass du die Sache mit dem Nachnamen nicht so ernst nehmen solltest.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Here we go again...\\.",
+				"Soko, I already told you that you shouldn't",
+				"take this last name thing so seriously."
+			]
+		},
+		{
+			"path": [12,1,58,4],
+			"original": "Soko: Herr Dorim, obgleich man nun Leute mit Nachnamen anspricht oder nicht, wissen sollte man ihn trotzdem immer.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Sir Dorim,\\. regardless of",
+				"whether you address people by",
+				"their last names or not,\\. you",
+				"should always know them."
+			]
+		},
+		{
+			"path": [12,1,63,4],
+			"original": "Herr Dorim: Aber ich versteh immer noch nicht, wieso du uns mit Nachnamen ansprichst! Wir sind doch Kameraden, wieso sprechen wir uns nicht mit Vornamen an und duzten uns?",
+			"lines":
+			[
+				"\\c[10]Sir Dorim\\c[0]: But I still don't understand why",
+				"you keep addressing us by our last names!\\. We're",
+				"teammates, why can't we address each other by",
+				"our first names and leave it at that?"
+			]
+		},
+		{
+			"path": [12,1,70,1],
+			"original": "Herr in blauem Anzug: Ohje...",
+			"lines":
+			[
+				"\\c[10]Gentleman in a blue suit\\c[0]: Oh boy..."
+			]
+		},
+		{
+			"path": [12,1,72,4],
+			"original": "Soko: Es ist meine Sache, wie ich Sie anspreche... Für mich ist die Nennung der Nachnamen einfach die ehrenvollere Methode.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: It is up to me how I address",
+				"you...\\. For me, addressing by last name",
+				"is simply the more honorable method."
+			]
+		},
+		{
+			"path": [12,1,77,3],
+			"original": "Herr Dorim: Args, Soko, ist dir nicht aufgefallen, dass du die einzige bist, die in Buronia so denkt?",
+			"lines":
+			[
+				"\\c[10]Sir Dorim\\c[0]: Ugh,\\. Soko,\\. don't you notice how you're",
+				"the only one who thinks this way in Buronia?"
+			]
+		},
+		{
+			"path": [12,1,83,2],
+			"original": "Kento: Dann nennen Sie mich doch einfach \"Herr Kento\", Fräulein Filaja.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: In that case,\\. just call me",
+				"\\s[4]\"Sir Kento\"\\s[0], Dame Filaja."
+			]
+		},
+		{
+			"path": [12,1,86,1],
+			"original": "Soko: Wenn Sie meinen, Herr Kento...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: If you say so,\\. Sir Kento..."
+			]
+		},
+		{
+			"path": [12,1,88,1],
+			"original": "Cibon: Das ist doch lächerlich...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: This is ridiculous..."
+			]
+		},
+		{
+			"path": [12,1,98,3],
+			"original": "Anderer Soldat: Oh! Sind die Leute aus Nomerea endlich da? Super! Endlich sind wir \"Frau Ernst\" los.",
+			"lines":
+			[
+				"\\c[10]Other Soldier\\c[0]: Oh!\\. Are the people from Nomerea",
+				"finally here?\\. Nice!\\. We're finally done with",
+				"\\s[4]\"Ms. Serious\" \\s[0]here."
+			]
+		},
+		{
+			"path": [12,1,107,4],
+			"original": "Soko: Ich bin auch froh, endlich nicht mehr in Ihrer Gesellschaft weilen zu müssen, vor allem in ihrer, Herr Qurenporelis...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: I'm also glad to finally no",
+				"longer have to be in your company,\\.",
+				"especially in yours,\\.",
+				"Sir Qurenporelis..."
+			]
+		},
+		{
+			"path": [12,1,112,3],
+			"original": "Cibon: Was? Herr Kuränporäli? Wie wird das denn geschrieben? Und sie nennt dich jedes Mal so?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: What?\\. Sir Kurenporeli?\\. How do",
+				"you write that?\\. And she calls",
+				"you by that every time?"
+			]
+		},
+		{
+			"path": [12,1,116,2],
+			"original": "Herr Kurenporalis(?): Ja, es ist schwachsinnig, ich weiß...",
+			"lines":
+			[
+				"\\c[10]Sir Kurenporalis(?)\\c[0]: Yeah, it's stupid, I know..."
+			]
+		},
+		{
+			"path": [12,1,127,3],
+			"original": "Herr Dorim: Komm lass uns gehen, Kumpel. Ab jetzt können sich die beiden hier mit ihr rumschlagen. Ab nach Hause.",
+			"lines":
+			[
+				"\\c[10]Sir Dorim\\c[0]: Come.\\. From now on, the two of",
+				"them can deal with her.\\. Let's go home!"
+			]
+		},
+		{
+			"path": [12,1,138,2],
+			"original": "Herr Kuhrehpolarkreis(?): Hahahaha, machts gut!",
+			"lines":
+			[
+				"\\c[10]Sir Kuhrehpolarkreis(?)\\c[0]: \\s[9]Hahahaha,\\s[0]\\. take care!"
+			]
+		},
+		{
+			"path": [12,1,158,1],
+			"original": "Soko: ........",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: \\s[5]........"
+			]
+		},
+		{
+			"path": [12,1,160,1],
+			"original": "Cibon: Öhm, auf Wiedersehen...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Um,\\. goodbye..."
+			]
+		},
+		{
+			"path": [12,1,168,2],
+			"original": "Soko: ... Ja, zu ihrer Frage, Herr Tirunel, jetzt können wir losgehen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: And yes,\\. to your question,\\. Sir",
+				"Tirunel,\\. now we can start."
+			]
+		},
+		{
+			"path": [12,1,171,1],
+			"original": "Herr in blauem Anzug: *räusper*",
+			"lines":
+			[
+				"\\c[10]Gentleman in a blue suit\\c[0]: *clears throat*"
+			]
+		},
+		{
+			"path": [12,1,179,4],
+			"original": "Soko: Hm? Oh! Tut mir Leid, ich hab ganz vergessen ihnen Herrn Uroto vorzustellen. Er ist die Person, die wir beschützen müssen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Hm?\\. Oh!\\. I'm sorry, I forgot to",
+				"introduce the two of you to Sir Uroto.\\.",
+				"He's the person we have to protect."
+			]
+		},
+		{
+			"path": [12,1,188,1],
+			"original": "Herr Uroto: Guten Tag die Herren.",
+			"lines":
+			[
+				"\\c[10]Sir Uroto\\c[0]: Hello gentlemen."
+			]
+		},
+		{
+			"path": [12,1,190,2],
+			"original": "Kento: Zu Ihren Diensten, Herr Uroto.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: At your service, Sir Uroto."
+			]
+		},
+		{
+			"path": [12,1,197,3],
+			"original": "Soko: Dann lasst uns sofort aufbrechen, solange der Tag noch jung ist.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: So let's start right away",
+				"while the sun is still strong."
+			]
+		},
+		{
+			"path": [12,1,201,4],
+			"original": "Soko: Der Weg durch das Torasgebirge wird mit Sicherheit seine Zeit brauchen. Sind Sie soweit alle bereit?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: The hike through Mount Toras",
+				"will definitely take a while.\\.",
+				"So far,\\. is everyone ready?"
+			]
+		},
+		{
+			"path": [12,1,206,2],
+			"original": "Cibon: Ja, alles klar Sok... ähh.. Frau Filaja.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Yep, we're all ready Sok...\\.",
+				"Uh...\\. Dame Filaja."
+			]
+		},
+		{
+			"path": [12,1,209,1],
+			"original": "Soko: Sie dann auch, Herr Kento?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Are you ready as well,\\.",
+				"Sir Kento?"
+			]
+		},
+		{
+			"path": [12,1,211,1],
+			"original": "Kento: Meinetwegen....",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: As ready as can be..."
+			]
+		},
+		{
+			"path": [12,1,213,1],
+			"original": "Herr Uroto: Gut, dann weiter...",
+			"lines":
+			[
+				"\\c[10]Sir Uroto\\c[0]: Good,\\. moving on..."
+			]
+		},
+		{
+			"path": [12,1,230,2],
+			"original": "Soko schließt sich deiner Party an.",
+			"lines":
+			[
+				"",
+				"Soko joins your party."
+			]
+		},
+		{
+			"path": [12,1,232,3],
+			"original": "Soko's Gegenstände und Fejar werden den aktuellen Besitztümern der Party hinzugefügt.",
+			"lines":
+			[
+				"",
+				"Soko's items and \\n[19] are added",
+				"to the party's current possessions."
+			]
+		},
+		{
+			"path": [12,1,295,3],
+			"original": "Kento: Jetzt haben wir auch Licht- und Schatten-Element-Kugeln. Wunderbar.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Now we also have light",
+				"and shadow orbs.\\. Wonderful!"
+			]
+		},
+		{
+			"path": [15,1,21,1],
+			"original": "Kento: Oha, ziemlich voll hier...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Gee, it's pretty crowded",
+				"here..."
+			]
+		},
+		{
+			"path": [15,1,23,2],
+			"original": "Cibon: Na ja, wir werden unsere Leute schon finden. ....",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Well,\\. we'll find the one",
+				"we're looking for eventually..."
+			]
+		},
+		{
+			"path": [15,1,31,4],
+			"original": "Cibon: Hui! Schau mal die da vorne! Sowas bekommt man selten zu sehen, ne Frau inner Rüstung. Sehr hübsch.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ooo!\\. Look over there!\\. You",
+				"certainly don't see something like",
+				"that every day,\\. a woman in armor.\\.",
+				"Very pretty."
+			]
+		},
+		{
+			"path": [15,1,36,2],
+			"original": "Kento: Cibon bitte, nicht vor all den Leuten hier.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Cibon please, not in front",
+				"of the children."
+			],
+			"__comment__": "Originally \"not in front of all the people here\", but I just had to though!"
+		},
+		{
+			"path": [15,1,41,1],
+			"original": "Cibon: Ach komm...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Oh come on..."
+			]
+		},
+		{
+			"path": [15,1,45,4],
+			"original": "Kento: Ich warne dich, diesmal werde ich dich hier raus zerren, wenn nötig. Komm, wir haben wichtigere Dinge zu tun.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I'm warning you,\\. this time,",
+				"I'll drag you out of here if I have",
+				"to. Come.\\. we have more important",
+				"things to do."
+			]
+		},
+		{
+			"path": [15,1,50,1],
+			"original": "Cibon: Hmpf, na gut.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hmpf,\\. fine."
+			]
+		},
+		{
+			"path": [15,1,58,1],
+			"original": "Betrunkener Mann: Heey, Süße....",
+			"lines":
+			[
+				"\\c[10]Drunk Man\\c[0]: \\s[9]Heeey\\s[0] babe..."
+			]
+		},
+		{
+			"path": [15,1,62,1],
+			"original": "Soko: Ja, was ist?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Yes, what is it?"
+			]
+		},
+		{
+			"path": [15,1,65,2],
+			"original": "Betrunkener Mann: Wiie wärs'n mit uns beiden, huh? Glauub mir, isch wär da richtige für disch.",
+			"lines":
+			[
+				"\\c[10]Drunk Man\\c[0]: \\s[6]Hooow\\s[0]\\. 'bout th' two of us,\\. eh?\\.",
+				"\\s[9]B'liiieve me\\s[0],\\. I'm th' right one for ya."
+			]
+		},
+		{
+			"path": [15,1,72,2],
+			"original": "Cibon: Kumpel, wieso darf der Typ sie anflirten und ich nicht?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hey,\\. how come that guy",
+				"can flirt with her and I can't?"
+			]
+		},
+		{
+			"path": [15,1,75,3],
+			"original": "Kento: Er ist betrunken, das ist was Anderes. Willst du dich etwa auf sein Niveau herab lassen?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: He's drunk, that's a different",
+				"story.\\. Are you gonna drop down",
+				"to his level?"
+			]
+		},
+		{
+			"path": [15,1,81,2],
+			"original": "Betrunkener Mann: Komm scho, sei doch nich so schüüchtern!",
+			"lines":
+			[
+				"\\c[10]Drunk Man\\c[0]: C'm\\s[5]ooon\\s[0] now,\\.",
+				"don' be so \\s[5]shyyy\\s[0]!"
+			]
+		},
+		{
+			"path": [15,1,85,4],
+			"original": "Soko: Tut mir Leid, aber ich hab besseres zu tun, als mich mit Leuten wie Ihnen abzugeben! Würden Sie mich jetzt bitte in Ruhe lassen?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: I'm sorry, but I have better",
+				"things to do than to deal with people",
+				"like you!\\. Can you please leave me",
+				"alone now?"
+			]
+		},
+		{
+			"path": [15,1,92,2],
+			"original": "Betrunkener Mann: Iiisch weiß, dass du misch willst! Gibs schon zu!",
+			"lines":
+			[
+				"\\c[10]Drunk Man\\c[0]: I kn\\s[6]ooooow\\s[0]\\. ya wan' me!\\. Admi' it!"
+			]
+		},
+		{
+			"path": [15,1,98,3],
+			"original": "Soko: Hören Sie auf der Stelle auf mir auf die Nerven zu gehen, oder ich werde handgreiflich!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Quit bothering me right now",
+				"or I won't hesitate to get violent!"
+			]
+		},
+		{
+			"path": [15,1,102,3],
+			"original": "Betrunkener Mann: Harharhar, jetzt wird diiee Kleine auch noch wild. Hehehe....",
+			"lines":
+			[
+				"\\c[10]Drunk Man\\c[0]: \\s[6]Harharhar\\s[0], now yer",
+				"playin' h\\s[6]aaard\\s[0] ta get.\\. Hehehe...."
+			]
+		},
+		{
+			"path": [15,1,116,1],
+			"original": "Soko: Genug jetzt!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: That's enough!"
+			]
+		},
+		{
+			"path": [15,1,136,4],
+			"original": "Soko: Leben Sie ihren Rausch gefälligst woanders aus und belästigen Sie keine Leute damit, verstanden?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Just go enjoy your intoxication",
+				"somewhere else and stop bothering",
+				"people with it,\\. understand?"
+			]
+		},
+		{
+			"path": [15,1,141,1],
+			"original": "Betrunkener Mann: Urg... Aua...",
+			"lines":
+			[
+				"\\c[10]Drunk Man\\c[0]: Urg...\\. Agh..."
+			]
+		},
+		{
+			"path": [15,1,160,1],
+			"original": "Cibon: Oh....ha....",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Oh... heh..."
+			]
+		},
+		{
+			"path": [15,1,163,2],
+			"original": "Kento: Willst du es jetzt noch mit ihr versuchen?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Still want to try your luck",
+				"with her now?"
+			]
+		},
+		{
+			"path": [15,1,167,2],
+			"original": "Cibon: Was? Hältste mich für lebensmüde?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: What?\\. Think I can't",
+				"handle a challenge?"
+			],
+			"__comment__": "\"lebensmüde\"... Yeah, no clue either. :/"
+		},
+		{
+			"path": [15,1,170,2],
+			"original": "Kento: Dir ist aufgefallen, dass sie eine Soldaten-Rüstung trägt?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Notice how she's wearing",
+				"soldier's armor?"
+			]
+		},
+		{
+			"path": [15,1,173,2],
+			"original": "Cibon: Meinste etwa, sie gehört zu der Eskorte? Ohje.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: You're not telling me she's",
+				"with the ambassador are you?\\. Oh man."
+			]
+		},
+		{
+			"path": [15,1,176,3],
+			"original": "Kento: Komm, ich werde sie ansprechen, wenn du Angst vor ihr hast.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Come,\\. I'll talk to her",
+				"if you're too scared to."
+			]
+		},
+		{
+			"path": [15,1,180,1],
+			"original": "Cibon: Hey, das hab ich nicht gesagt!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hey, I didn't say that!"
+			]
+		},
+		{
+			"path": [15,1,182,2],
+			"original": "Cibon: ... Aber mach ruhig du, sicher ist sicher.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: But do as you will,\\.",
+				"safe is safe after all."
+			]
+		},
+		{
+			"path": [22,1,2,4],
+			"original": "Junger Mann: Ich weiß nicht, ob ihr schon mal auf den Sinke-Lohne-Pass gewesen seid, aber ihr kennt doch sicher diese grünen Schleimhaufen, die einen immer angreifen müssen, oder?",
+			"lines":
+			[
+				"\\c[10]Young Man\\c[0]: I don't know if you've ever been to",
+				"the Sink-Lohne Pass,\\. but you surely know about",
+				"these green piles of slime that always attack",
+				"you,\\. right?"
+			]
+		},
+		{
+			"path": [22,1,6,4],
+			"original": "Junger Mann: Es kann aber auch sein, dass ihr sie schon in andere Farben gesehen habt. Hier im Torasgebirge zum Beispiel gibt solch blaue Viecher...",
+			"lines":
+			[
+				"\\c[10]Young Man\\c[0]: It may also be that you've already",
+				"seen them in other colors.\\. Here in Mount Toras",
+				"for example, there are blue versions of this",
+				"slime..."
+			]
+		},
+		{
+			"path": [22,1,10,4],
+			"original": "Junger Mann: Die sind ein ganzes Stück hartnäckiger als ihre grünen Verwandten. Ich hab aber gehört sie sollen gegen Feuer empfindlich sein...",
+			"lines":
+			[
+				"\\c[10]Young Man\\c[0]: They're a lot more stubborn",
+				"than their green relatives.\\. But I heard",
+				"they should be sensitive to fire..."
+			]
+		},
+		{
+			"path": [22,2,2,3],
+			"original": "Junger Mann: Ich hab ihm ja geraten, er solle es lieber sein lassen, aber es war klar, dass ich ihn nicht davon abhalten konnte....",
+			"lines":
+			[
+				"\\c[10]Young Man\\c[0]: I told him to knock it off,\\. but",
+				"it was clear that I couldn't stop him..."
+			]
+		},
+		{
+			"path": [23,1,2,4],
+			"original": "Mann: Ich und meine Familie sind auf der Durchreise nach Sinkholm und machen hier Pause. Wir kommen von Port Retisa. Wir haben also jetzt ungefähr die Hälfte des Weges geschafft.",
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: My family and I are currently travelling",
+				"to Sinkholm and are taking a break here.\\.",
+				"We come from \\n[22]. And we're now",
+				"about half the way there."
+			]
+		},
+		{
+			"path": [23,1,9,3],
+			"indent": 1,
+			"original": "Cibon: Was? Nach Sinkholm? Hät' nicht gedacht, dass diese Kleinstadt Besuch von weit her bekommt.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: What?\\. To Sinkholm?\\. Didn't",
+				"think that this small town would",
+				"get visitors from far away."
+			]
+		},
+		{
+			"path": [23,1,13,3],
+			"indent": 1,
+			"original": "Mann: Naja, wir besuchen dort ja auch nur ein paar Verwandte... In der Stadt ist wirklich kaum was los...",
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: Well, we only visit a few relatives there...\\.",
+				"There's hardly anything going on in that town..."
+			]
+		},
+		{
+			"path": [23,2,2,3],
+			"original": "Mann: Tsk, das geschah diesem Säufer nur zu Recht. Mit seinem Gegröle ist er allen hier schon die ganze Zeit auf die Nerven gegangen....",
+			"lines":
+			[
+				"\\c[10]Man\\c[0]: Tsk, that drunkard got what he deserved.\\.",
+				"With his loud voice, he always annoyed",
+				"everyone here..."
+			]
+		},
+		{
+			"path": [24,1,2,4],
+			"original": "Frau: Das wandern ist ziemlich anstrengend, vor allem da sich derzeit sehr viele Wesen in der Natur sehr aggressiv verhalten. Es ist schon sehr riskant in kleinen Gruppen zu reisen...",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Hiking is quite exhausting, especially",
+				"since many creatures there are very aggressive",
+				"in nature.\\. It's very risky to travel in small",
+				"groups..."
+			]
+		},
+		{
+			"path": [25,1,2,2],
+			"original": "Kleiner Junge: Wäh... Ich will nicht nach Sinkholm. Da ist es immer so stinklangweilig.",
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: Ugh...\\. I don't wanna go back",
+				"to Sinkholm.\\. It's always so boring."
+			],
+			"__comment__": "If I'm not wrong, it's the same exact person, only with a different title."
+		},
+		{
+			"path": [25,2,2,2],
+			"original": "Junge: Wahnsinn! Das Fass hat keinen Schaden genommen. Was für ein stabiles Fass!",
+			"lines":
+			[
+				"\\c[10]Boy\\c[0]: Wicked!\\.\\. The barrel wasn't damaged at all.\\.",
+				"What a stable barrel!"
+			]
+		},
+		{
+			"path": [26,1,3,4],
+			"original": "Händler: Ohje... wieder durch das Torasgebirge. Ich bin diese Route schon duzend Mal entlang gereist und trotzdem ist der Weg durch das Torasgebirge jedes Mal eine Qual.",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: Oh man...\\. Again through Mount Toras.",
+				"I've travelled this route a dozen times and yet",
+				"the path through Mount Toras is always a pain."
+			]
+		},
+		{
+			"path": [26,1,7,2],
+			"original": "Händler: Aber es gibt bisher keine alternative Route, also bleibt mir nichts anderes übrig...",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: But, there's no alternative route so",
+				"far,\\. so I have no other choice..."
+			]
+		},
+		{
+			"path": [26,2,2,4],
+			"original": "Händler: Weibliche Soldaten vom Briganten- Orden sieht man nicht oft. Zwar ist es Frauen erlaubt, dem Orden beizutreten, doch ist es einfach unüblich, dass so was geschieht.",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: Female soldiers from the Brigantine",
+				"Order aren't seen very often. Women are allowed",
+				"to join the order, but it isn't super common",
+				"for something like that to happen."
+			]
+		},
+		{
+			"path": [26,2,6,4],
+			"original": "Händler: Ich denke Frauen erhalten einfach noch nicht genug Respekt, wenn es ums Militär geht. Ich glaube in den Kasernen werden sie wie Außenseiter behandelt. Hm... Wie ich das sehe?",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: I think women just don't get enough",
+				"respect when it comes to the military.\\. I think",
+				"they're treated like outsiders in the barracks.\\.",
+				"Hm...\\. What do I think of that?"
+			]
+		},
+		{
+			"path": [26,2,10,3],
+			"original": "Händler: Ohje, wenn ich da an meine Ehefrau denke...  Man sollte Frauen nicht unterschätzen. Glaub mir, ich sprech' aus Erfahrung.",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: Well, when I think of my wife...",
+				"You shouldn't underestimate women. Believe me,",
+				"I speak from experience."
+			]
+		},
+		{
+			"path": [28,1,2,3],
+			"original": "Händler: Als ich Gestern durch das Torasgebirge gewandert bin, hab ich ein leichtes Erdbeben wahrgenommen...",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: When I hiked through Mount Toras",
+				"yesterday, I noticed a slight earthquake..."
+			]
+		},
+		{
+			"path": [28,1,6,3],
+			"original": "Glatzköpfiger Händler: Erdbeben? Das ist sehr ungewöhnlich. Immerhin gibt es im Torasgebirge keine Vulkane oder so was...",
+			"lines":
+			[
+				"\\c[10]Bald Merchant\\c[0]: Earthquake?\\. That's rather unusual.\\.",
+				"After all, there aren't any volcanoes or",
+				"anything in Mount Toras..."
+			]
+		},
+		{
+			"path": [28,1,9,2],
+			"original": "Händler: Hm, vielleicht hab ich es mir auch nur eingebildet...",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: Hm, maybe I was just hearing things..."
+			]
+		},
+		{
+			"path": [30,1,3,4],
+			"original": "Händler: Nach Osten reisen und an der Grenze günstig Metall und Rüstungsteile kaufen und dann hier im Westen verkaufen... Das ist immer eine gute Methode um Geld zu machen.",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: Travel east, buy cheap metal and armor",
+				"at the border, then sell it here in the west...\\.",
+				"It's always a good way to make money."
+			]
+		},
+		{
+			"path": [30,1,7,4],
+			"original": "Händler: Im Westen kann man eventuell noch einen kleinen Umweg zur Hafenstadt Port Retisa machen, um dort kostbare, konservierte Seefische für einen recht günstigen Preis zu erwerben.",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: In the west you can make a small detour",
+				"to the port town of \\n[22] to buy precious,",
+				"preserved saltwater fish for a fairly low price."
+			],
+			"__comment__": "Redundant name? - port town of Port Retisa"
+		},
+		{
+			"path": [30,1,11,4],
+			"original": "Händler: Diese Fische verkaufen sich wiederum im Osten für einen sehr guten Preis. Sie gelten dort als Delikatesse. Aber man muss schon auf genug Nachfrage stoßen...",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: These fish in turn sell in the east",
+				"for a very good price.\\. They're considered a",
+				"delicacy there.\\. But you have to meet",
+				"enough demand..."
+			]
+		},
+		{
+			"path": [30,1,15,2],
+			"original": "Händler: Denn sonst lohnt es sich nicht für den Umweg, den man geht.",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: Otherwise it's not worth the detour",
+				"that you take."
+			]
+		},
+		{
+			"path": [30,2,2,3],
+			"original": "Händler: Immer diese Prügeleien in der Kneipe! So kann man sich hier ja nicht mal richtig entspannen.",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: Always with the fights in the pub!\\.",
+				"You really can't relax here."
+			]
+		},
+		{
+			"path": [32,1,2,4],
+			"original": "Gasthofbesitzer: Der Geschäft boomt! Die Idee, einen Gasthof an dieser Kreuzung zu bauen, war einfach genial. Jeden Tag kommen hier hunderte von Händlern und Reisenden vorbei.",
+			"lines":
+			[
+				"\\c[10]Inn Owner\\c[0]: Business is booming!\\. The idea of",
+				"building an inn at this intersection was just",
+				"brilliant.\\. Hundreds of traders and travelers",
+				"come here every day."
+			]
+		},
+		{
+			"path": [32,1,6,2],
+			"original": "Gasthofbesitzer: Ich hoffe nur das sich hier nicht allzu bald Konkurrenz dazu gesellt...",
+			"lines":
+			[
+				"\\c[10]Inn Owner\\c[0]: I just hope that a competitor",
+				"doesn't come here too soon..."
+			]
+		},
+		{
+			"path": [32,1,8,1],
+			"original": "Gasthofbesitzer: Achja...",
+			"lines":
+			[
+				"\\c[10]Inn Owner\\c[0]: Oh right... "
+			]
+		},
+		{
+			"path": [32,1,13,2],
+			"indent": 1,
+			"original": "Gasthofbesitzer: Ihnen gehört das mittlere Zimmer. Wünsche ihnen einen erholsamen Schlaf.",
+			"lines":
+			[
+				"\\c[10]Inn Owner\\c[0]: Your room is in the middle.",
+				"Have a good night."
+			]
+		},
+		{
+			"path": [32,2,2,4],
+			"original": "Hotelbesitzer: Na endlich ist dieser Trottel aus meinem Laden raus. Ich sah schon, wie er die einsten Kunden vertrieben hat. Er war nicht gut fürs Geschäft.",
+			"lines":
+			[
+				"\\c[10]Inn Owner\\c[0]: Finally, this idiot is finally out",
+				"of my shop.\\. I saw how he drove out the first",
+				"customers.\\. It wasn't good for business."
+			],
+			"__comment__": "Same reason as above."
+		}
+	]
+}

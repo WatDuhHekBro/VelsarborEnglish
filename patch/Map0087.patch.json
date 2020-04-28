@@ -1,0 +1,26 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [6,2,2,4],
+			"original": "Mann: Die meisten Leute hier sehen das Torasgebirge hier nur als Hindernis für ihre Reise. Sie beachten gar nicht, was für eine faszinierende Landschaft ihnen geboten wird.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Most people here only see Mount Toras",
+				"as an obstacle to their journey.\\. They don't",
+				"pay attention to such a fascinating",
+				"landscape is offered to them."
+			]
+		},
+		{
+			"path": [6,2,6,3],
+			"original": "Mann: Ich meine, die ganzen Felswände und Hänge und die ganzen Wölbungen geben doch ein Bild ab, das man mal gesehen haben muss.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: I mean, all the rock faces and",
+				"slopes and all the arches give a very",
+				"picturesque beauty that you have to see."
+			]
+		}
+	]
+}

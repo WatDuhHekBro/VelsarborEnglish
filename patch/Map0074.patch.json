@@ -1,0 +1,1138 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [4,1,2,3],
+			"original": "Soldat vom Briganten-Orden: Ich hab gehört, dass man irgendwann recht interessante Haltungs-Signum erlernen können soll.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: I heard that one should",
+				"be able to learn quite interesting Auxiliary",
+				"Signums at some point."
+			]
+		},
+		{
+			"path": [4,1,5,4],
+			"original": "Soldat vom Briganten-Orden: Es handelt sich dabei um Zauber, die hauptsächlich einen starken Schutz bieten, oder den Helden sonst unterstützen.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: These are spells that mainly",
+				"offer strong protection or otherwise support",
+				"the party."
+			]
+		},
+		{
+			"path": [4,1,9,4],
+			"original": "Soldat vom Briganten-Orden: Zum Beispiel Ferresschild. Dieser Zauber soll einen für eine Zeit vor physischen Attacken schützen. ... Wann ich wohl diese Zauber erlernen werde?",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: For example, Ferres Shield.\\.",
+				"This spell is supposed to protect you from",
+				"physical attacks for a while. When will I",
+				"learn these spells?"
+			]
+		},
+		{
+			"path": [5,1,2,3],
+			"original": "Soldat vom Briganten-Orden: Alle Signum- Techniken verbrauchen MP, Mentalskraft- Punkte.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: All Signum techniques",
+				"use MP, Magic Points."
+			]
+		},
+		{
+			"path": [5,1,5,4],
+			"original": "Soldat vom Briganten-Orden: Sind alle MP einmal verbraucht, sind wir nicht mehr fähig, unsere mentalen Kräfte zu bündeln. Man kann sich halt nicht mehr konzentrieren.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Once all of your MP",
+				"has been used up, you are no longer able",
+				"to use your magic abilities.\\. You can't",
+				"channel your magic anymore."
+			]
+		},
+		{
+			"path": [5,1,9,4],
+			"original": "Soldat vom Briganten-Orden: Gegenstände wie Mentaltropfen regenerieren da zum Glück eine bestimmte Anzahl von MP. Du solltest so was unbedingt mit dir tragen.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Fortunately, items such as",
+				"mana droplets regenerate a certain amount of MP.\\.",
+				"You should definitely carry some with you."
+			]
+		},
+		{
+			"path": [6,2,17,1],
+			"original": "Kento: Hmm...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hmm..."
+			]
+		},
+		{
+			"path": [6,2,22,2],
+			"original": "Cibon: ...Hui! Die da vorne sieht ja wirklich scharf aus!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ooo!\\. The one in front looks",
+				"really smart!"
+			]
+		},
+		{
+			"path": [6,2,26,2],
+			"original": "Kento: Cibon, bitte, komm nicht wieder auf dumme Gedanken.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Cibon,\\. please,\\. don't come up",
+				"with stupid thoughts again."
+			]
+		},
+		{
+			"path": [6,2,34,3],
+			"original": "Cibon: Guten Tag, verehrte Dame. Ich sehe Sie hier zum 1. Mal. Sind Sie neu hier?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Good afternoon, m'lady.\\. I see",
+				"you're here for the first time.\\. Are",
+				"you new here?"
+			]
+		},
+		{
+			"path": [6,2,41,3],
+			"original": "Junge Dame: ...Öh? Oh, hallo. Sie haben Recht, ich bin neu hier. Dürfte ich denn Ihren Namen erfahren?",
+			"lines":
+			[
+				"\\c[10]Young Lady\\c[0]: Huh?\\. Oh hello.\\. You're",
+				"right, I'm new here.\\. May I get",
+				"your name?"
+			]
+		},
+		{
+			"path": [6,2,45,2],
+			"original": "Cibon: Ich bin Cibon Tirunel und mit wem habe ich das vergnügen?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: The name's Cibon Tirunel and",
+				"who am I having fun with today?"
+			]
+		},
+		{
+			"path": [6,2,48,3],
+			"original": "Junge Dame: Mein Name ist Ileya Reisato. Eigentlich sollten die Soldaten hier wissen, wer ich bin.",
+			"lines":
+			[
+				"\\c[10]Young Lady\\c[0]: My name is Ileya Reisato.\\.",
+				"The soldiers here should know who I",
+				"am actually."
+			]
+		},
+		{
+			"path": [6,2,55,3],
+			"original": "Cibon: Ileya... öhh... etwa... Sind Sie die neue Signum-Expertin hier?!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ileya...\\. Uhh...\\. About...\\. Are",
+				"you the new Signum expert here?!"
+			]
+		},
+		{
+			"path": [6,2,59,1],
+			"original": "Ileya: He he he, ja, genauso ist es.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: He he he,\\. yeah,\\. that's right."
+			]
+		},
+		{
+			"path": [6,2,63,1],
+			"original": "(Cibon: Ach du Schreck!)",
+			"lines":
+			[
+				"(\\c[2]\\n[2]\\c[0]: Oh no!)"
+			]
+		},
+		{
+			"path": [6,2,67,3],
+			"original": "Cibon: Öhm... das trifft sich sehr gut. Mein Freund wollte nämlich mit ihnen sprechen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Um...\\. Well that's actually",
+				"convenient.\\. My friend here wanted",
+				"to talk to you."
+			]
+		},
+		{
+			"path": [6,2,73,1],
+			"original": "Kento: Hm?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm?"
+			]
+		},
+		{
+			"path": [6,2,75,2],
+			"original": "Cibon: Kumpel, diese Dame hier ist Ileya, die Signum-Expertin.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Kento, this lady here is",
+				"Ileya, the Signum expert."
+			]
+		},
+		{
+			"path": [6,2,78,1],
+			"original": "Kento: Wie, echt? Oha.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wait, really?\\. Alright then."
+			]
+		},
+		{
+			"path": [6,2,85,2],
+			"original": "Ileya: Nun, wieso wollten Sie denn mit mir sprechen, Herr....",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Well, why did you want to",
+				"speak to me,\\. Sir..."
+			]
+		},
+		{
+			"path": [6,2,88,1],
+			"original": "Kento: Kento...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Kento..."
+			]
+		},
+		{
+			"path": [6,2,90,1],
+			"original": "Ileya: Herr Kento ...?",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Sir Kento...?"
+			]
+		},
+		{
+			"path": [6,2,92,4],
+			"original": "Kento: Ich wollte Sie fragen, was es mit der Nebenwirkung beim Einkoppeln der Element-Kugeln auf sich hat.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I wanted to ask you what the",
+				"side effect of coupling these",
+				"elemental orbs is."
+			]
+		},
+		{
+			"path": [6,2,97,4],
+			"original": "Kento: Vorento hat die Neben- wirkung erwähnt, aber keine Zeit mehr gehabt, es genauer zu erklären. Ich sollte mich an Sie wenden.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Vorento mentioned that there",
+				"was side effect, but didn't have any",
+				"time to explain it in more detail.",
+				"I was told to contact you."
+			]
+		},
+		{
+			"path": [6,2,102,1],
+			"original": "Ileya: Ach, wenn das so ist...",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Oh, if that's the case..."
+			]
+		},
+		{
+			"path": [6,2,103,2],
+			"original": "Ileya: Die Nebenwirkung ist wie folgt:",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: The side effect is as follows:"
+			]
+		},
+		{
+			"path": [6,2,109,2],
+			"original": "Willst du die Erläuterung zu der Nebenwirkung mitverfolgen?",
+			"lines":
+			[
+				"Do you want to hear the explanation",
+				"of the side effect?"
+			]
+		},
+		{
+			"path": [6,2,118,4],
+			"indent": 1,
+			"original": "Ileya: Wenn man Elementkugeln in die Waffe koppelt, bekommt dann die Waffe einen Teil der Element-Kraft von der Kugel.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: If you couple these orbs into",
+				"a weapon, it gets part of the",
+				"element's attribute from",
+				"its orb."
+			]
+		},
+		{
+			"path": [6,2,122,4],
+			"indent": 1,
+			"original": "Ileya: Koppelt man zum Beispiel nur Feuerkugeln in die Waffe, bekommt die Waffe ein kleines Feuer-Attribut.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: For example, if you only",
+				"couple fire orbs into your weapon,",
+				"it gets a small fire bonus."
+			]
+		},
+		{
+			"path": [6,2,127,4],
+			"indent": 1,
+			"original": "Ileya: So bewirkt man bei Feuerempfindlichen Gegnern mehr Schaden, bei Feuer-Resistenten Gegnern weniger Schaden.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: This is how you do more",
+				"damage to fire-sensitive enemies",
+				"and less damage to fire-resistant",
+				"enemies."
+			]
+		},
+		{
+			"path": [6,2,132,2],
+			"indent": 1,
+			"original": "Kento: Und wenn man die Kugeln ins Armband koppelt?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: What if you put the orbs in a",
+				"armband?"
+			]
+		},
+		{
+			"path": [6,2,135,2],
+			"indent": 1,
+			"original": "Ileya: ...In dem Fall wirkt sich das Element auf den Schutz aus.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: In that case, the element",
+				"affects protection."
+			]
+		},
+		{
+			"path": [6,2,137,4],
+			"indent": 1,
+			"original": "Ileya: Wenn man Wasserkugeln in das Armband gekoppelt hat, bietet das zum Beispiel einen leichten Schutz gegen Wasser-Angriffe.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: For example, if you have water",
+				"orbs coupled into your armband, this",
+				"offers you slight protection against",
+				"water attacks."
+			]
+		},
+		{
+			"path": [6,2,142,4],
+			"indent": 1,
+			"original": "Ileya: Natürlich steigt der Schutz oder das Schadensattribut, je mehr gleiche Kugeln man in die Waffe oder in das Armband koppelt.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Of course, the protection or",
+				"damage attribute increases the more",
+				"of the same orbs you couple into a",
+				"weapon or armband."
+			]
+		},
+		{
+			"path": [6,2,146,4],
+			"indent": 1,
+			"original": "Ileya: Man kann auch von jedem Element ein bisschen was haben, aber das ist dann wirklich kaum bemerkbar.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: You can have a little bit of",
+				"every element, but that's really",
+				"hardly noticeable."
+			]
+		},
+		{
+			"path": [6,2,151,4],
+			"indent": 1,
+			"original": "Kento: Hm.. Das ist interessant. Also haben diese Element-Kugeln auch eine direkte Wirkung und dienen nicht nur zum Signum lernen...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm...\\. That's interesting.\\. So",
+				"these elemental orbs also have a",
+				"direct effect and are not only used",
+				"to learn Signum techniques..."
+			]
+		},
+		{
+			"path": [6,2,156,3],
+			"indent": 1,
+			"original": "Ileya: Ja, aber es gibt noch einen Nachteil bei der Schutzwirkung der ins Armband gekoppelten Kugeln.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Yes, but there's another",
+				"disadvantage to the protective effect",
+				"of the orbs coupled into the armband."
+			]
+		},
+		{
+			"path": [6,2,159,3],
+			"indent": 1,
+			"original": "Ileya: Man wird nämlich gegen das Gegen-Element von dem, was man einkoppelt, empfindlicher.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: You become more sensitive to",
+				"the counter element of what you",
+				"couple in."
+			]
+		},
+		{
+			"path": [6,2,162,4],
+			"indent": 1,
+			"original": "Ileya: Hat man etwa nur Wasser- kugeln ins Armband gekoppelt, dann ziehen in diesem Fall Feuer- Elementar-Angriffe mehr ab.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: If, for example, you only",
+				"have water orbs coupled into your",
+				"armband, then fire attacks are",
+				"more effective against you."
+			]
+		},
+		{
+			"path": [6,2,167,4],
+			"indent": 1,
+			"original": "Ileya: Die Gegenelemente sind übrigens Feuer - Wasser, Erde - Wind und Licht - Schatten... Sollte nicht so schwer zu merken sein.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: By the way, the counter",
+				"elements are fire - water,",
+				"earth - wind, and light - shadow...",
+				"Shouldn't be so hard to remember."
+			]
+		},
+		{
+			"path": [6,2,172,2],
+			"indent": 1,
+			"original": "Ileya: Und zum Schluss noch eine Sache.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: And one last thing."
+			]
+		},
+		{
+			"path": [6,2,174,3],
+			"indent": 1,
+			"original": "Ileya: Erhöhte Element Level führen auch zu erhöhten Statuswerten. Die Aufteilung ist dabei wie folgt:",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Increased element levels also",
+				"lead to increased stats. The",
+				"breakdown is as follows:"
+			]
+		},
+		{
+			"path": [6,2,177,4],
+			"indent": 1,
+			"original": "Ileya: Feuer erhöht Stärke, Wasser erhöht Mental, Erde erhöht Abwehr, Wind erhöht Agilität.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Fire increases strength, water",
+				"increases wisdom, earth increases",
+				"defense, wind increases agility."
+			]
+		},
+		{
+			"path": [6,2,181,2],
+			"indent": 1,
+			"original": "Ileya: Licht erhöht HP und Schatten erhöht MP.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Light increases HP, and shadow",
+				"increases MP."
+			]
+		},
+		{
+			"path": [6,2,193,2],
+			"original": "Ileya: Ja, mehr kann ich dazu nicht sagen.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Yeah,\\. that's about it."
+			]
+		},
+		{
+			"path": [6,2,199,2],
+			"original": "Kento: Okay. Vielen Dank für die Information.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Okay. Thanks for the",
+				"information."
+			]
+		},
+		{
+			"path": [6,2,202,1],
+			"original": "Cibon: *gäääähn*",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: *yaaaawn*"
+			]
+		},
+		{
+			"path": [6,2,204,2],
+			"original": "Cibon: Seid ihr beiden endlich fertig?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Are you two finally done?"
+			]
+		},
+		{
+			"path": [6,2,207,3],
+			"original": "Ileya: Herr Kento... Ich hätte da mal eine Frage nebenbei. Ist Kento jetzt ihr Nachname?",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Sir Kento...\\. I have a question",
+				"by the way.\\. Is Kento your last name?"
+			]
+		},
+		{
+			"path": [6,2,211,1],
+			"original": "Kento: Nein, mein Vorname.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: No, my first name."
+			]
+		},
+		{
+			"path": [6,2,213,2],
+			"original": "Ileya: Öhm... Sind Sie etwa... Kento Daikon?",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Um...\\. Are you...\\. Kento Daikon?"
+			]
+		},
+		{
+			"path": [6,2,216,1],
+			"original": "Kento: ...ja.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ...\\. Yeah."
+			]
+		},
+		{
+			"path": [6,2,218,3],
+			"original": "Ileya: SIE sind also der Sohn von Genyu Daikon?! Wahnsinn. Ich hätte Sie mir etwas anders vorgestellt.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: So YOU'RE Genyu Daikon's son?!\\.",
+				"No way!\\. I would've imagined you to be",
+				"someone else."
+			]
+		},
+		{
+			"path": [6,2,221,3],
+			"original": "Ileya: Man sagte mir, dass Sie hier ein richtiges Talent sind, fast schon wie der Vater! Was...",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: I was told that you're a real",
+				"talent around here, almost like your",
+				"father!\\. What..."
+			]
+		},
+		{
+			"path": [6,2,227,1],
+			"original": "Kento: *seufz*",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: *sigh*"
+			]
+		},
+		{
+			"path": [6,2,236,1],
+			"original": "Ileya: Öh... Herr Daikon! Was ist los?",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Oh...\\. Sir Daikon!\\. What's",
+				"happening?"
+			]
+		},
+		{
+			"path": [6,2,243,2],
+			"original": "Cibon: Lassen Sie ihn! ... Man merkt wirklich, dass Sie hier neu sind.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Let him be!\\. ...\\. Notice how",
+				"you're new around here?"
+			]
+		},
+		{
+			"path": [6,2,248,1],
+			"original": "Ileya: W-Wieso, was ist los?",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: W-\\.Why,\\. what's going on?"
+			]
+		},
+		{
+			"path": [6,2,250,3],
+			"original": "Cibon: Es stimmt, dass er der Sohn von Genyu Daikon ist. Aber er ist alles andere als Stolz darauf.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: It's true that he's the son",
+				"of Genyu Daikon.\\.\\. But he's anything",
+				"but proud of it."
+			]
+		},
+		{
+			"path": [6,2,255,1],
+			"original": "Ileya: Wie bitte?",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Excuse me?"
+			]
+		},
+		{
+			"path": [6,2,260,4],
+			"original": "Cibon: Er hasst seinen Vater. Er möchte nicht mit ihm in Verbindung gebracht werden. Deswegen erwähnt er auch nie seinen Nachnamen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: He hates his father.\\. He",
+				"doesn't want to be associated",
+				"with him.\\. That's why he never",
+				"mentions his last name."
+			]
+		},
+		{
+			"path": [6,2,265,3],
+			"original": "Ileya: Aber wieso tut er das? Ich meine... sein Vater war ein Held. Er war im ganzen Land berühmt.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: But why is he doing this?\\.",
+				"I mean...\\. his father was a hero.",
+				"He's famous across the country."
+			]
+		},
+		{
+			"path": [6,2,269,3],
+			"original": "Cibon: Ich weiß es auch nicht genau. Sie können sich ja denken, dass er nicht sehr gerne darüber spricht.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: I don't really know either.",
+				"You can imagine that he doesn't like",
+				"to talk about it very much."
+			]
+		},
+		{
+			"path": [6,2,273,4],
+			"original": "Cibon: Jedenfalls wissen fast alle hier von seiner Einstellung. Kento hat das gleich zu Anfang mehr als deutlich klar gestellt.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Anyways, almost everyone here",
+				"knows about his feelings toward him.\\.",
+				"Kento made this very clear from the",
+				"start."
+			]
+		},
+		{
+			"path": [6,2,278,3],
+			"original": "Cibon: Das war zu dem Zeitpunkt, wo wir die Ausbildung zum Soldaten begannen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: That's when we started our",
+				"training as soldiers."
+			]
+		},
+		{
+			"path": [6,2,282,3],
+			"original": "Cibon: Es war die erste Versammlung, wo die Grundregeln der Ausbildung geklärt wurden...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: It was the first meeting where",
+				"the basic rules of training were",
+				"clarified..."
+			]
+		},
+		{
+			"path": [6,3,12,3],
+			"original": "Cibon: So wurde schnell überall von Kentos Einstellung zu seinem Vater bekannt.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: So Kento's feelings toward",
+				"his father quickly became known",
+				"everywhere."
+			]
+		},
+		{
+			"path": [6,3,17,3],
+			"original": "Cibon: Die meisten hielten sich seitdem von Kento fern. Zumindest die nächsten Monate.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Most just stayed away from",
+				"Kento ever since then. At least",
+				"for the next few months."
+			]
+		},
+		{
+			"path": [6,3,21,4],
+			"original": "Cibon: Ich glaube ich war einer der Wenigen, die noch normal mit ihm geredet haben. Deswegen haben wir uns schnell angefreundet.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: I think I was one of the few",
+				"people who still talked to him",
+				"normally.\\. That's why we quickly",
+				"became friends."
+			]
+		},
+		{
+			"path": [6,3,26,4],
+			"original": "Cibon: Ansonsten ist Kento eigentlich ein richtig netter Kerl, nur manchmal ist er ein bisschen komisch drauf.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Otherwise,\\. Kento is actually",
+				"a really nice guy, even if he's",
+				"sometimes a little weird."
+			]
+		},
+		{
+			"path": [6,3,34,4],
+			"original": "Ileya: Hm... Ich verstehe. Sagen sie ihm bitte, dass es mir wirklich Leid tut. Ich wusste von all dem nichts.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Hm...\\. I see.\\. Please tell him",
+				"I'm really sorry.\\. I didn't know any",
+				"of this."
+			]
+		},
+		{
+			"path": [6,3,39,3],
+			"original": "Cibon: Ach, machen sie sich da keinen Kopf drum! Er wird ihnen schon verzeihen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Oh, don't worry!\\.",
+				"He'll forgive you."
+			]
+		},
+		{
+			"path": [7,1,3,3],
+			"original": "Ileya: Oh, hallo. Öhm... Haben Sie noch irgendwelche Fragen, was Signum-Zauber angeht?",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Oh hello.\\. Um...\\. Do you have",
+				"any questions about Signum magic?"
+			]
+		},
+		{
+			"path": [7,1,11,4],
+			"indent": 1,
+			"original": "Ileya: Sie lernen Signum-Zauber, indem Sie Element-Kugeln in die Waffe oder in das Armband koppeln und damit im Kampf Exp erhalten.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: You learn Signum magic by",
+				"coupling elemental orbs into your",
+				"weapon or armband and gaining EXP",
+				"in combat."
+			],
+			"__comment__": "How do I learn Signum magic?"
+		},
+		{
+			"path": [7,1,15,4],
+			"indent": 1,
+			"original": "Ileya: Dadurch geht ein Teil der Erfahrung auf die Level der Elemente ein, zu denen man die passende Kugeln gekoppelt hat.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: This means that part of the",
+				"experience focuses on the level of",
+				"the elements you've coupled to the",
+				"orbs."
+			]
+		},
+		{
+			"path": [7,1,19,3],
+			"indent": 1,
+			"original": "Ileya: Das Angriff-Level des Elements steigt, wenn man die Kugel in die Waffe koppelt.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: The element's attack level",
+				"increases when you couple the orb",
+				"into a weapon."
+			]
+		},
+		{
+			"path": [7,1,22,3],
+			"indent": 1,
+			"original": "Ileya: Das Abwehr-Level des Elements steigt, wenn man die Kugel in das Armband koppelt.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: The element's defense level",
+				"increases when you couple the orb",
+				"into an armband."
+			]
+		},
+		{
+			"path": [7,1,25,3],
+			"indent": 1,
+			"original": "Ileya: Ein Beispiel: Koppeln sie eine Feuerkugel in die Waffe und ein Wasserkugel in das Armband,...",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: For example: Couple a fire",
+				"orb into a weapon and a water orb",
+				"into an armband..."
+			]
+		},
+		{
+			"path": [7,1,28,3],
+			"indent": 1,
+			"original": "Ileya: ...dann steigt das Feuer- Angriff-Level und das Wasser- Abwehr-Level.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: ...then the fire attack level",
+				"and the water defense level will",
+				"rise."
+			]
+		},
+		{
+			"path": [7,1,31,4],
+			"indent": 1,
+			"original": "Ileya: Koppeln Sie mehrere gleiche Kugeln in die Waffe oder in das Armband, stiegt das jeweilige Element-Level natürlich schneller.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: If you couple several orbs of",
+				"the same type into a weapon or into",
+				"an armband, the respective element",
+				"level will of course rise faster."
+			]
+		},
+		{
+			"path": [7,1,38,4],
+			"indent": 1,
+			"original": "Ileya: Beachten Sie, dass die Anzahl der Exp, die Sie für ein Element-Level bekommen, nicht von dem Element-Level selber abhängt.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Be aware that the amount of",
+				"EXP you get for an element level",
+				"doesn't depend on the element",
+				"level itself."
+			],
+			"__comment__": "What should I watch out for?"
+		},
+		{
+			"path": [7,1,42,4],
+			"indent": 1,
+			"original": "Ileya: Die Anzahl der Exp, die Sie erhalten richten sich immer an das Level des Charakters im Vergleich zum Level der Gegner.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: The amount of EXP you receive",
+				"is always based on the level of the",
+				"character along with the level of",
+				"the opponents."
+			]
+		},
+		{
+			"path": [7,1,46,3],
+			"indent": 1,
+			"original": "Ileya: Das heißt, mit steigendem Charakter-Level bekommen Sie immer weniger Exp.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: That means that as your",
+				"character level increases, you",
+				"gain less and less EXP."
+			]
+		},
+		{
+			"path": [7,1,49,4],
+			"indent": 1,
+			"original": "Ileya: Wenn Sie also ohne Element- Kugeln in der Ausrüstung kämpfen, haben die EXP keine Wirkung auf die Element-Level.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: So if you fight without",
+				"elemental orbs in the equipment,",
+				"the EXP has no effect on the",
+				"element level."
+			]
+		},
+		{
+			"path": [7,1,53,3],
+			"indent": 1,
+			"original": "Ileya: Und trotzdem bekommen Sie immer weniger Exp, wenn das Charakter-Level steigt.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: And you still get less EXP",
+				"when the character level increases."
+			]
+		},
+		{
+			"path": [7,1,56,3],
+			"indent": 1,
+			"original": "Ileya: Sie sollten also möglichst immer so viele Element-Kugeln eingekoppelt haben wie möglich.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: So you should always have as",
+				"many elemental orbs coupled in as",
+				"possible."
+			]
+		},
+		{
+			"path": [7,1,59,4],
+			"indent": 1,
+			"original": "Ileya: Achten Sie auch darauf, das ein Element-Level nicht mehr steigt, wenn es genauso hoch wie das Charakter-Level ist.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Also, be aware that an element",
+				"level no longer increases if it's",
+				"as high as the character level."
+			]
+		},
+		{
+			"path": [7,1,66,4],
+			"indent": 1,
+			"original": "Ileya: Hat man Element-Kugeln in der Ausrüstung, zeigen die Elemente der Kugeln immer eine kleine Wirkung beim Angriff oder bei der Abwehr.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: If you equip elemental orbs,",
+				"those elements will always have a",
+				"small effect on attack or defense."
+			],
+			"__comment__": "Any side effects?"
+		},
+		{
+			"path": [7,1,70,4],
+			"indent": 1,
+			"original": "Ileya: Je mehr Kugeln eines Elementes in Waffe oder Rüstung eingekoppelt sind, desto größer ist die Wirkung dieses Elements.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: The more orbs of an element",
+				"are coupled into the weapon or armor,",
+				"the greater the effect of this",
+				"element."
+			]
+		},
+		{
+			"path": [7,1,74,4],
+			"indent": 1,
+			"original": "Ileya: Koppelt man in die Waffe, zeigen die Elemente Wirkung auf den Angriff. Der Angriff bekommt die Elemente als \"Attribut\".",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Coupled into a weapon, the",
+				"elements have an effect on the",
+				"attack. The attack gets the effects",
+				"of these elements as \"attributes\"."
+			]
+		},
+		{
+			"path": [7,1,78,4],
+			"indent": 1,
+			"original": "Ileya: Beispielweise hat eine Waffe mit einigen Feuer-Kugeln, ein leichtes Feuer-Attribut und zieht bei Eis-Gegnern etwas mehr ab.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: For example, a weapon with",
+				"some fire orbs equipped has a fire",
+				"attribute and deals a little more",
+				"damage on ice-based opponents."
+			]
+		},
+		{
+			"path": [7,1,82,4],
+			"indent": 1,
+			"original": "Ileya: Koppelt man in das Armband, geben die Elemente einen kleinen Schutz vor Angriffen ihres Elementes.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Coupled into an armband, the",
+				"elements give a little protection",
+				"against attacks by that element."
+			]
+		},
+		{
+			"path": [7,1,86,4],
+			"indent": 1,
+			"original": "Ileya: Ein Armband mit einigen Wasser-Kugeln schützt so zum Beispiel vor Techniken wie Wasser- Elementaren Angriffen.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: For example, an armband with",
+				"a few water orbs protects against",
+				"techniques such as water elemental",
+				"attacks."
+			]
+		},
+		{
+			"path": [7,1,99,1],
+			"original": "Ileya: Gibt es sonst noch Fragen?",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Do you have any other",
+				"questions?"
+			],
+			"__comment__": "Other Questions"
+		},
+		{
+			"path": [7,1,106,3],
+			"indent": 1,
+			"original": "Ileya: Am Anfang ist es immer Ratsam, die ersten Signum-Techniken eines jeden Elementes zu erlernen.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: In the beginning, it's always",
+				"advisable to learn the first Signum",
+				"techniques of each element."
+			],
+			"__comment__": "Any tips?"
+		},
+		{
+			"path": [7,1,109,4],
+			"indent": 1,
+			"original": "Ileya: Das bedeutet: Haben sie die 1. Angriffs-Technik eines Elementes erlernt, steigern Sie als nächstes am besten ein anderes Angriffs-Level",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: That means: If you learned the",
+				"first technique of an element, the",
+				"next best thing to do is to raise",
+				"that element to another level."
+			]
+		},
+		{
+			"path": [7,1,113,4],
+			"indent": 1,
+			"original": "Ileya: Wenn Sie immer die 1. Techniken lernen habt ihr recht schnell eine kleine Auswahl von verschiedenen Signum-Techniken.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: If you always learn the first",
+				"techniques, you'll quickly have a",
+				"wide pool of different Signum",
+				"techniques to choose from."
+			]
+		},
+		{
+			"path": [7,1,117,4],
+			"indent": 1,
+			"original": "Ileya: Ansonsten sollten Sie, wenn Sie neuen Gegnern begegnen, die viel Erfahrung geben, vorzugsweise die Ausrüstung so wählen, ...",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Otherwise, if you're",
+				"encountering new opponents that gives",
+				"lots of experience, you should",
+				"preferably choose the equipment..."
+			]
+		},
+		{
+			"path": [7,1,121,4],
+			"indent": 1,
+			"original": "Ileya: ...dass sie so viele Element- Kugeln wie möglich einkoppeln können. Gerade wenn man gut aufstufen kann, ist das ratsam.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: ...that allows you to couple",
+				"as many elemental orbs as possible.",
+				"It's advisable if you can level up",
+				"well."
+			]
+		},
+		{
+			"path": [7,1,128,4],
+			"indent": 1,
+			"original": "Ileya: Die Verwendung von Signum- Technken zerrt an ihren Mental- Punkte-Vorrat, der bei jedem Charakter unterschiedlich groß ist.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: The use of Signum techniques",
+				"uses up your magic points (MP), and",
+				"the amount is different for each",
+				"character."
+			],
+			"__comment__": "What are magic points (MP)?"
+		},
+		{
+			"path": [7,1,132,4],
+			"indent": 1,
+			"original": "Ileya: Mental Punkte regenerieren sich, wenn man schläft oder Heilitems wie \"Mentaltropfen\" verwendet.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Magic points regenerate when",
+				"you sleep or use healing items like",
+				"\"mana droplets\"."
+			]
+		},
+		{
+			"path": [7,1,136,4],
+			"indent": 1,
+			"original": "Ileya: Ansonsten heilt sich auch ein kleiner Teil der Mental-Punkte, wenn man am Ende des Kampfes noch ein paar SP übrig hat.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Otherwise, a small part of",
+				"your magic points heals if you have",
+				"some SP left at the end of a battle."
+			]
+		},
+		{
+			"path": [7,1,149,1],
+			"original": "Ileya: Gibt es sonst noch Fragen?",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: Do you have any other",
+				"questions?"
+			],
+			"__comment__": "Other Questions"
+		},
+		{
+			"path": [7,1,153,2],
+			"original": "Ileya: Ich hoffe, ich konnte behilflich sein.",
+			"lines":
+			[
+				"\\c[6]\\n[6]\\c[0]: I hope I helped."
+			],
+			"__comment__": "Exit"
+		}
+	],
+	"other":
+	[
+		{
+			"path": [6,2,111],
+			"original": "Natürlich./Nein, ich weiß bereits alles.",
+			"patch": "Of course./No, I already know about it."
+		},
+		{
+			"path": [6,2,112],
+			"original": "Natürlich.",
+			"patch": "Of course."
+		},
+		{
+			"path": [6,2,184],
+			"original": "Nein, ich weiß bereits alles.",
+			"patch": "No, I already know about it."
+		},
+		{
+			"path": [7,1,8],
+			"original": "Wie lerne ich Signum-Magie?/Worauf muss ich aufpassen?/Nebeneffekte?/Andere Fragen (Esc=Beenden)",
+			"patch": "How do I learn Signum magic?/What should I watch out for?/Any side effects?/Other Questions (Esc = Exit)"
+		},
+		{
+			"path": [7,1,9],
+			"original": "Wie lerne ich Signum-Magie?",
+			"patch": "How do I learn Signum magic?"
+		},
+		{
+			"path": [7,1,36],
+			"original": "Worauf muss ich aufpassen?",
+			"patch": "What should I watch out for?"
+		},
+		{
+			"path": [7,1,64],
+			"original": "Nebeneffekte?",
+			"patch": "Any side effects?"
+		},
+		{
+			"path": [7,1,91],
+			"original": "Andere Fragen (Esc=Beenden)",
+			"patch": "Other Questions (Esc = Exit)"
+		},
+		{
+			"path": [7,1,103],
+			"original": "Ein paar Tipps?/Bedeutung von Mental-Punkten(MP)/Andere Fragen (Esc=Beenden)",
+			"patch": "Any tips?/What are magic points (MP)?/Other Questions (Esc = Exit)"
+		},
+		{
+			"path": [7,1,104],
+			"original": "Ein paar Tipps?",
+			"patch": "Any tips?"
+		},
+		{
+			"path": [7,1,126],
+			"original": "Bedeutung von Mental-Punkten(MP)",
+			"patch": "What are magic points (MP)?"
+		},
+		{
+			"path": [7,1,141],
+			"original": "Andere Fragen (Esc=Beenden)",
+			"patch": "Other Questions (Esc = Exit)"
+		}
+	]
+}

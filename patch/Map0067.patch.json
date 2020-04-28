@@ -1,0 +1,138 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [9,1,18,2],
+			"original": "(Kento: Ich sollte mir wirklich abgewöhnen, so lange zu schlafen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: I should really get used to",
+				"practically hibernating like that...)"
+			]
+		},
+		{
+			"path": [9,1,30,1],
+			"original": "(Kento: Meine Güte, bin ich hungrig.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Gosh, I'm hungry.)"
+			]
+		},
+		{
+			"path": [9,1,32,3],
+			"original": "(Kento: Bei dem ganzen Theater gestern hab ich meinen leeren Magen ganz vergessen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: In the whole drama yesterday,",
+				"I completely forgot about my empty",
+				"stomach.)"
+			]
+		},
+		{
+			"path": [9,1,36,3],
+			"original": "(Kento: Dann mal auf zur Kantine. Vielleicht hält sich Cibon dort ja auch auf.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Let's go to the canteen.\\.",
+				"Maybe Cibon is there too.)"
+			]
+		},
+		{
+			"path": [9,3,9,1],
+			"original": "Cibon: Okay, gehen wir dann?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Okay, are we going then?"
+			]
+		},
+		{
+			"path": [9,3,11,4],
+			"original": "Kento: Wir sollten uns noch Heilmittel und bessere Ausrüstung kaufen, bevor wir die Stadt verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: We should buy supplies",
+				"and better equipment before we",
+				"leave Nomerea."
+			]
+		},
+		{
+			"path": [9,3,16,3],
+			"original": "Cibon: Wir könnten uns auch noch etwas auf dem Handelsmarkt umsehen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: We could also have a look",
+				"around the traders' market."
+			]
+		},
+		{
+			"path": [9,3,20,4],
+			"original": "Kento: Wir sollten uns sowieso noch einmal gut die Stadt anschauen und uns verabschieden. Wir werden immerhin eine lange Zeit weg sein.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: We should take a good look at",
+				"the city anyway and say goodbye.\\. We'll",
+				"be away for a long time after all."
+			]
+		},
+		{
+			"path": [9,3,25,2],
+			"original": "Cibon: Genauso ist es. Also dann mal los!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: The city is exactly",
+				"the same.\\. So let's go!"
+			]
+		},
+		{
+			"path": [15,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"This is a \\c[11]save point\\c[0]."
+			]
+		},
+		{
+			"path": [15,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"When you stand on one of these, you can",
+				"\\c[11]save the game\\c[0]."
+			]
+		},
+		{
+			"path": [15,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"To do this, open the \\c[11]menu\\c[0] using \\c[11]Esc\\c[0] and",
+				"then select \\c[11]Save\\c[0]."
+			]
+		},
+		{
+			"path": [15,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Additionally, you can always save on",
+				"the \\c[11]world map\\c[0]."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [15,1,4],
+			"original": "Burg Nomerea",
+			"patch": "Nomerea Castle"
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [49,2,18,2],
+			"original": "Kento: So, dies müsste der Gasthof sein, wo man uns erwartet.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: So, this should be the inn",
+				"we're supposed to be looking for."
+			]
+		},
+		{
+			"path": [49,2,21,2],
+			"original": "Cibon: Na dann nichts wie rein in die gute Stube!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Alright, let's go then!"
+			]
+		},
+		{
+			"path": [68,1,2,2],
+			"original": "Händler: Hey Sie! Sie können doch sicher ein paar magische Lupen gebrauchen, oder?",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: Hey you!\\: Surely you could use some",
+				"magic lens, right?"
+			]
+		},
+		{
+			"path": [68,1,29,4],
+			"indent": 1,
+			"original": "Händler: Magische Lupen sind äußerst praktisch! Verwenden Sie eine im Kampf, bekommen Sie alle Informationen über einen ihrer Gegner.",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: Magic lens are extremely",
+				"practical!\\. If you use one in combat, you",
+				"get all sorts of information about an",
+				"opponent of your choosing."
+			]
+		},
+		{
+			"path": [68,1,33,4],
+			"indent": 1,
+			"original": "Händler: So wissen Sie, wie viele HP der Gegner noch hat, gegen was für Elemente er schwach ist, gegen welche Zustände er empfindlich ist und viel mehr!",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: So that you'll know how much HP the",
+				"opponent still has, what elements they're weak",
+				"against, what conditions they're sensitive to,",
+				"and much more!"
+			]
+		},
+		{
+			"path": [68,1,37,4],
+			"indent": 1,
+			"original": "Händler: Ein taktisch orientierter Kämpfer sollte immer ein paar magische Lupen bei sich tragen. Denn, wie sagt man? Kenne deinen Gegner und der Kampf ist so gut wie gewonnen.",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: A tactical fighter should always have\\.",
+				"Because,\\. well what's the saying?\\. Know your",
+				"enemy and you've already won the battle."
+			]
+		},
+		{
+			"path": [68,1,41,2],
+			"indent": 1,
+			"original": "Händler: Nun, was ist? Wollen Sie ein paar kaufen?",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: Now,\\. how about it?\\. Do you want to",
+				"buy some?"
+			]
+		},
+		{
+			"path": [68,1,57,2],
+			"indent": 1,
+			"original": "Händler: Glauben Sie mir, magische Lupen kann man nie genug haben.",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: Believe me, you can never have enough",
+				"magic lens."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [68,1,6],
+			"original": "Zeigen Sie mir ihr Angebot./Was sind magische Lupen?/Nein, danke...",
+			"patch": "Let's see what you've got./What are magic lens?/No thanks..."
+		},
+		{
+			"path": [68,1,7],
+			"original": "Zeigen Sie mir ihr Angebot.",
+			"patch": "Let's see what you've got."
+		},
+		{
+			"path": [68,1,27],
+			"original": "Was sind magische Lupen?",
+			"patch": "What are magic lens?"
+		},
+		{
+			"path": [68,1,45],
+			"original": "Ja, das hört sich gut an./Nein, danke...",
+			"patch": "Yes, that sounds good./No thanks..."
+		},
+		{
+			"path": [68,1,46],
+			"original": "Ja, das hört sich gut an.",
+			"patch": "Yes, that sounds good."
+		},
+		{
+			"path": [68,1,49],
+			"original": "Nein, danke...",
+			"patch": "No thanks..."
+		},
+		{
+			"path": [68,1,54],
+			"original": "Nein, danke...",
+			"patch": "No thanks..."
+		}
+	]
+}

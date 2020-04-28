@@ -1,0 +1,104 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [20,1,2,4],
+			"original": "Soldat vom Briganten-Orden: Normalerweise halten wir hier ja keine Passanten auf, aber da ihr hier so angerannt kamt, hat das einen etwas verdächtigen Eindruck erweckt.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Usually, we don't stop",
+				"people passing through, but since you came",
+				"running here, it gave us a somewhat",
+				"suspicious impression."
+			]
+		},
+		{
+			"path": [21,1,2,2],
+			"original": "Soldat vom Briganten-Orden: Wisst ihr, wofür diese grünen Briefkästen da sind?",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Do you know what",
+				"these green mailboxes are for?"
+			]
+		},
+		{
+			"path": [21,1,6,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Nun, hier wird die Post von den Bürgern von Nomerea eingeworfen, die dann jeden Morgen von den Post-Versendern abgeholt wird.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Well,\\. here the mail",
+				"is sent in by the citizens of Nomerea,",
+				"which is then picked up by the post",
+				"office every morning"
+			]
+		},
+		{
+			"path": [21,1,10,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Diese bringen dann die Post an aller Ort von diesem Kontinent, so hab ich gehört.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: They'll bring the mail",
+				"anywhere on this continent,\\. I've heard."
+			]
+		},
+		{
+			"path": [21,1,15,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Vielleicht werde ich mal bald einen Brief an einen Bekannten im Osten schicken. Bin gespannt, ob der Brief ankommt. Ist ein ziemlich weites Stück...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Maybe I'll send a",
+				"letter to a friend in the east soon.\\. I",
+				"wonder if the letter will arrive.\\. It's",
+				"quite a long way..."
+			]
+		},
+		{
+			"path": [25,2,21,2],
+			"original": "Wache: Halt! Weisen Sie sich aus.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Halt!\\.",
+				"Identify yourselves."
+			]
+		},
+		{
+			"path": [25,2,25,3],
+			"original": "\\n[1]: Wir sind es, Kento und Cibon. Wir hatten einen Auftrag in Sinkholm als Wachposten.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: It's us,\\. Kento and",
+				"Cibon.\\. We had an order in Sinkholm",
+				"as guardsmen."
+			]
+		},
+		{
+			"path": [25,2,29,1],
+			"original": "Wache: Ach ja. In Ordnung. Ihr dürft passieren.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Oh,\\. alright.\\. You two may pass."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [21,1,4],
+			"original": "Nein, wofür denn?/Ja klar, wer weiß das nicht?",
+			"patch": "No, what are they for?/Yes of course, who wouldn't know?"
+		},
+		{
+			"path": [21,1,5],
+			"original": "Nein, wofür denn?",
+			"patch": "No, what are they for?"
+		},
+		{
+			"path": [21,1,14],
+			"original": "Ja klar, wer weiß das nicht?",
+			"patch": "Yes of course, who wouldn't know?"
+		}
+	]
+}

@@ -2,7 +2,7 @@
 	"dialogue":
 	[
 		{
-			"path": [25,51,1,1],
+			"path": [51,1,1],
 			"indent": 1,
 			"original": "OMG!!!!!!!!111111",
 			"lines":
@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"path": [25,51,5,1],
+			"path": [51,5,1],
 			"indent": 2,
 			"original": "OMG!!!!!!!!111111",
 			"lines":
@@ -20,7 +20,7 @@
 			]
 		},
 		{
-			"path": [25,75,0,3],
+			"path": [75,0,3],
 			"original": "Common Event 75: Spar-Maßnahme- TEST wurde verwendet!",
 			"lines":
 			[
@@ -30,7 +30,7 @@
 			]
 		},
 		{
-			"path": [25,93,3,2],
+			"path": [93,3,2],
 			"indent": 2,
 			"original": "Saion: Ver...Verdammt! Ich bin... am Ende!",
 			"lines":
@@ -40,7 +40,7 @@
 			]
 		},
 		{
-			"path": [25,93,10,2],
+			"path": [93,10,2],
 			"indent": 2,
 			"original": "Jorn: Args... Es war von Anfang an aussichtslos!",
 			"lines":
@@ -50,16 +50,16 @@
 			]
 		},
 		{
-			"path": [25,93,17,1],
+			"path": [93,17,1],
 			"indent": 2,
 			"original": "Gurim: ..... Saion,... du Trottel!",
 			"lines":
 			[
-				"\\c[10]Gurim:\\c[0] ...\\.Saion...\\. you idiot!"
+				"\\c[10]Gurim:\\c[0] Saion...\\. you idiot!"
 			]
 		},
 		{
-			"path": [25,93,64,2],
+			"path": [93,64,2],
 			"indent": 2,
 			"original": "Cibon: Verflixt und zugenäht! Das Ding will nicht klein beigeben!",
 			"lines":
@@ -69,7 +69,7 @@
 			]
 		},
 		{
-			"path": [25,93,66,1],
+			"path": [93,66,1],
 			"indent": 2,
 			"original": "Cibon: Was sollen wir jetzt tun?",
 			"lines":
@@ -78,7 +78,7 @@
 			]
 		},
 		{
-			"path": [25,93,67,1],
+			"path": [93,67,1],
 			"indent": 2,
 			"original": "Kento: Frag mich was Leichteres.",
 			"lines":
@@ -87,7 +87,7 @@
 			]
 		},
 		{
-			"path": [25,93,68,2],
+			"path": [93,68,2],
 			"indent": 2,
 			"original": "Kento: Ich würde immer noch gerne wissen, wieso uns eine Harpyie genau HIER angreift...",
 			"lines":
@@ -97,7 +97,7 @@
 			]
 		},
 		{
-			"path": [25,93,70,1],
+			"path": [93,70,1],
 			"indent": 2,
 			"original": "Kento: Irgendwas ist hier faul...",
 			"lines":
@@ -106,7 +106,7 @@
 			]
 		},
 		{
-			"path": [25,93,71,1],
+			"path": [93,71,1],
 			"indent": 2,
 			"original": "Cibon: Was könnt' das denn sein?",
 			"lines":
@@ -115,7 +115,7 @@
 			]
 		},
 		{
-			"path": [25,93,89,1],
+			"path": [93,89,1],
 			"indent": 2,
 			"original": "Kento: Natürlich! Das ist es!",
 			"lines":
@@ -124,7 +124,7 @@
 			]
 		},
 		{
-			"path": [25,93,90,1],
+			"path": [93,90,1],
 			"indent": 2,
 			"original": "Cibon: Was?!",
 			"lines":
@@ -133,7 +133,7 @@
 			]
 		},
 		{
-			"path": [25,93,91,2],
+			"path": [93,91,2],
 			"indent": 2,
 			"original": "Kento: Die Eier! Hol mal die Eier und leg sie vor dich hin.",
 			"lines":
@@ -143,7 +143,7 @@
 			]
 		},
 		{
-			"path": [25,93,93,1],
+			"path": [93,93,1],
 			"indent": 2,
 			"original": "Cibon: Wie? Unsere schönen Eier für's Omlett?!",
 			"lines":
@@ -152,7 +152,7 @@
 			]
 		},
 		{
-			"path": [25,93,94,2],
+			"path": [93,94,2],
 			"indent": 2,
 			"original": "Kento: Jetzt sei nicht so zimperlich! Mach schon!",
 			"lines":
@@ -162,7 +162,7 @@
 			]
 		},
 		{
-			"path": [25,93,96,1],
+			"path": [93,96,1],
 			"indent": 2,
 			"original": "Cibon: Hmpf... wenn's sein muss.",
 			"lines":
@@ -171,7 +171,7 @@
 			]
 		},
 		{
-			"path": [25,93,219,2],
+			"path": [93,219,2],
 			"indent": 2,
 			"original": "Gegnerische Einheit: E...Eine einzige Person... W... Wie kann das sein?!",
 			"lines":
@@ -181,7 +181,7 @@
 			]
 		},
 		{
-			"path": [25,93,222,1],
+			"path": [93,222,1],
 			"indent": 3,
 			"original": "Seldan: Wie sagtet ihr? Ein Witz.",
 			"lines":
@@ -190,7 +190,7 @@
 			]
 		},
 		{
-			"path": [25,93,223,2],
+			"path": [93,223,2],
 			"indent": 3,
 			"original": "Seldan: Und der Säbel? Der Grund für eure maßlose Unterschätzung.",
 			"lines":
@@ -200,7 +200,7 @@
 			]
 		},
 		{
-			"path": [25,93,238,2],
+			"path": [93,238,2],
 			"indent": 2,
 			"original": "Seldan: I... Ich kann jetzt noch nicht... sterben... nicht jetzt!",
 			"lines":
@@ -210,7 +210,7 @@
 			]
 		},
 		{
-			"path": [25,93,250,2],
+			"path": [93,250,2],
 			"indent": 4,
 			"original": "Seldan: Ich werde euch zeigen mit welchem Feuer wir hier spielen!",
 			"lines":
@@ -219,7 +219,7 @@
 			]
 		},
 		{
-			"path": [25,93,255,2],
+			"path": [93,255,2],
 			"indent": 4,
 			"original": "Seldan: Und seht mich nur als ein Beispiel für viele, die kommen werden!",
 			"lines":
@@ -229,7 +229,7 @@
 			]
 		},
 		{
-			"path": [25,93,260,2],
+			"path": [93,260,2],
 			"indent": 4,
 			"original": "Seldan: Solange Leute wie ich existieren, kann kein Frieden herrschen!",
 			"lines":
@@ -239,7 +239,7 @@
 			]
 		},
 		{
-			"path": [25,93,264,2],
+			"path": [93,264,2],
 			"indent": 3,
 			"original": "Seldan: Doch ich werde die Quelle allen Übels, die Quelle all dieser Macht, zerstören!",
 			"lines":
@@ -249,7 +249,7 @@
 			]
 		},
 		{
-			"path": [25,93,266,2],
+			"path": [93,266,2],
 			"indent": 3,
 			"original": "Seldan: Und diese lächerliche Maschine wird mich nicht daran hindern!",
 			"lines":
@@ -259,7 +259,7 @@
 			]
 		},
 		{
-			"path": [25,93,278,1],
+			"path": [93,278,1],
 			"indent": 2,
 			"original": "Guillian: Ver...Verdammt!",
 			"lines":
@@ -268,7 +268,7 @@
 			]
 		},
 		{
-			"path": [25,93,287,2],
+			"path": [93,287,2],
 			"indent": 2,
 			"original": "Saion: NEIN! Wie kann das sein?! Nach all dem Training! Alles umsonst...",
 			"lines":
@@ -278,7 +278,7 @@
 			]
 		},
 		{
-			"path": [25,93,294,2],
+			"path": [93,294,2],
 			"indent": 2,
 			"original": "Jorn: Ah! Ich hätte mich GLEICH tot stellen sollen!",
 			"lines":
@@ -288,7 +288,7 @@
 			]
 		},
 		{
-			"path": [25,93,301,1],
+			"path": [93,301,1],
 			"indent": 2,
 			"original": "Gurim: Saion... du konntest es nicht lassen...",
 			"lines":
@@ -298,7 +298,7 @@
 			]
 		},
 		{
-			"path": [25,93,315,1],
+			"path": [93,315,1],
 			"indent": 2,
 			"original": "Soko: Die Tür ist offen!",
 			"lines":
@@ -307,7 +307,7 @@
 			]
 		},
 		{
-			"path": [25,93,382,2],
+			"path": [93,382,2],
 			"indent": 3,
 			"original": "Soko: Kento, wie hast du es bis hierher geschafft?!",
 			"lines":
@@ -316,7 +316,7 @@
 			]
 		},
 		{
-			"path": [25,93,384,1],
+			"path": [93,384,1],
 			"indent": 3,
 			"original": "Kento: Konzentrier dich auf den Kampf!",
 			"lines":
@@ -325,7 +325,7 @@
 			]
 		},
 		{
-			"path": [25,93,385,1],
+			"path": [93,385,1],
 			"indent": 3,
 			"original": "Soko: Ah....",
 			"lines":
@@ -334,7 +334,7 @@
 			]
 		},
 		{
-			"path": [25,93,398,1],
+			"path": [93,398,1],
 			"indent": 2,
 			"original": "Cibon: JA! Sie geht auf!",
 			"lines":
@@ -343,7 +343,7 @@
 			]
 		},
 		{
-			"path": [25,93,465,1],
+			"path": [93,465,1],
 			"indent": 3,
 			"original": "Cibon: Jetzt werdet ihr eure Rechnung zahlen!",
 			"lines":
@@ -352,7 +352,7 @@
 			]
 		},
 		{
-			"path": [25,93,466,2],
+			"path": [93,466,2],
 			"indent": 3,
 			"original": "Cibon: Dafür, dass ihr mich Stunden meines Lebens hier eingesperrt und still gehalten zu habt!",
 			"lines":
@@ -362,7 +362,7 @@
 			]
 		},
 		{
-			"path": [25,93,468,2],
+			"path": [93,468,2],
 			"indent": 3,
 			"original": "Soldat: Verdammt, die Situation gerät außer Kontrolle!",
 			"lines":
@@ -372,7 +372,7 @@
 			]
 		},
 		{
-			"path": [25,93,480,1],
+			"path": [93,480,1],
 			"indent": 2,
 			"original": "Sedric: Argh! Das ist einfach nur... verdammt!!",
 			"lines":
@@ -381,17 +381,17 @@
 			]
 		},
 		{
-			"path": [25,93,490,2],
+			"path": [93,490,2],
 			"indent": 4,
 			"original": "Soldat: ...Sedric, du HAST den Gegner unterschätzt!",
 			"lines":
 			[
-				"\\c[10]Soldier\\c[0]: ...\\.Sedric,\\. you HAVE underestimated",
+				"\\c[10]Soldier\\c[0]: Sedric,\\. you HAVE underestimated",
 				"your opponent!"
 			]
 		},
 		{
-			"path": [25,93,508,2],
+			"path": [93,508,2],
 			"indent": 2,
 			"original": "Soko: N...Nein! Das kann ich nicht zulassen! NICHT HIER!",
 			"lines":
@@ -401,7 +401,7 @@
 			]
 		},
 		{
-			"path": [25,93,515,1],
+			"path": [93,515,1],
 			"indent": 2,
 			"original": "Robin: Nein... diese Schande!",
 			"lines":
@@ -410,7 +410,7 @@
 			]
 		},
 		{
-			"path": [25,93,524,2],
+			"path": [93,524,2],
 			"indent": 2,
 			"original": "Saion: Nein! Das kann doch... nicht sein! Wir sind schon so weit oben gewesen... und jetzt das!",
 			"lines":
@@ -420,7 +420,7 @@
 			]
 		},
 		{
-			"path": [25,93,531,2],
+			"path": [93,531,2],
 			"indent": 2,
 			"original": "Jorn: Args... Nicht ... auf die Hände ... fallen...!",
 			"lines":
@@ -430,7 +430,7 @@
 			]
 		},
 		{
-			"path": [25,93,538,1],
+			"path": [93,538,1],
 			"indent": 2,
 			"original": "Gurim: Ach herrje...",
 			"lines":
@@ -439,7 +439,7 @@
 			]
 		},
 		{
-			"path": [25,93,547,1],
+			"path": [93,547,1],
 			"indent": 2,
 			"original": "Chefv: Jetz' is... Zappe!",
 			"lines":
@@ -448,7 +448,7 @@
 			]
 		},
 		{
-			"path": [25,94,6,3],
+			"path": [94,6,3],
 			"indent": 3,
 			"original": "INFO: Soko ist in der Lage Signum-Zauber anzuwenden.",
 			"lines":
@@ -458,7 +458,7 @@
 			]
 		},
 		{
-			"path": [25,94,9,3],
+			"path": [94,9,3],
 			"indent": 3,
 			"original": "Signum-Zauber richten magischen Elementar- Schaden an.",
 			"lines":
@@ -468,7 +468,7 @@
 			]
 		},
 		{
-			"path": [25,94,12,3],
+			"path": [94,12,3],
 			"indent": 3,
 			"original": "Die Höhe dieses Schadens wird durch die Mentale Kraft des Anwenders...",
 			"lines":
@@ -479,7 +479,7 @@
 			]
 		},
 		{
-			"path": [25,94,15,3],
+			"path": [94,15,3],
 			"indent": 3,
 			"original": "...und der Stufe des Zaubers bestimmt, von denen es drei Stück gibt.",
 			"lines":
@@ -490,7 +490,7 @@
 			]
 		},
 		{
-			"path": [25,94,18,3],
+			"path": [94,18,3],
 			"indent": 3,
 			"original": "Am Beispiel Feuer: \"Feuer\" ist 1. Stufe, \"Feures\" ist 2. Stufe und \"Feuentus\" ist 3. Stufe.",
 			"lines":
@@ -501,7 +501,7 @@
 			]
 		},
 		{
-			"path": [25,94,21,3],
+			"path": [94,21,3],
 			"indent": 3,
 			"original": "Magischer Schaden wird nicht mit \"Schutz\" abgewehrt, sondern mit Mentaler Kraft.",
 			"lines":
@@ -512,7 +512,7 @@
 			]
 		},
 		{
-			"path": [25,94,24,3],
+			"path": [94,24,3],
 			"indent": 3,
 			"original": "Deswegen können solche Zauber wirkungsvoll gegen abwehrstarke Gegner sein.",
 			"lines":
@@ -523,7 +523,7 @@
 			]
 		},
 		{
-			"path": [25,94,27,3],
+			"path": [94,27,3],
 			"indent": 3,
 			"original": "Du findest die Signum-Zauber unter dem 1. Symbol im Technik-Auswahl-Menu.",
 			"lines":
@@ -534,7 +534,7 @@
 			]
 		},
 		{
-			"path": [25,94,42,3],
+			"path": [94,42,3],
 			"indent": 3,
 			"original": "INFO: Kento ist nun in der Lage Element-Sare- Techniken anzuwenden",
 			"lines":
@@ -544,7 +544,7 @@
 			]
 		},
 		{
-			"path": [25,94,45,3],
+			"path": [94,45,3],
 			"indent": 3,
 			"original": "Element-Sare-Techniken sind physische Schläge deren Schaden mit einem Element geprägt ist.",
 			"lines":
@@ -555,7 +555,7 @@
 			]
 		},
 		{
-			"path": [25,94,48,3],
+			"path": [94,48,3],
 			"indent": 3,
 			"original": "Wirkungsvoll sind diese Schläge gegen Monster mit geringem Schutz gegen physische Angriffe",
 			"lines":
@@ -566,7 +566,7 @@
 			]
 		},
 		{
-			"path": [25,94,51,3],
+			"path": [94,51,3],
 			"indent": 3,
 			"original": "Hat der Gegner eine Schwäche gegen das Element der Technik, ist sie besonders effektiv.",
 			"lines":
@@ -577,7 +577,7 @@
 			]
 		},
 		{
-			"path": [25,94,54,3],
+			"path": [94,54,3],
 			"indent": 3,
 			"original": "Du findest die Element-Sare-Techniken unter dem 2. Symbol im Technik-Auswahl-Menu.",
 			"lines":
@@ -588,7 +588,7 @@
 			]
 		},
 		{
-			"path": [25,94,70,3],
+			"path": [94,70,3],
 			"indent": 3,
 			"original": "INFO: Cibon ist nun in der Lage Zustand-Sare- Techniken anzuwenden.",
 			"lines":
@@ -598,7 +598,7 @@
 			]
 		},
 		{
-			"path": [25,94,73,3],
+			"path": [94,73,3],
 			"indent": 3,
 			"original": "Zustand-Sare-Techniken sind physische Schläge, die zudem einen bestimmten Zustand bewirken.",
 			"lines":
@@ -609,7 +609,7 @@
 			]
 		},
 		{
-			"path": [25,94,76,3],
+			"path": [94,76,3],
 			"indent": 3,
 			"original": "Die Wahrscheinlichkeit, dass das Ziel von dem Zustand befallen wird, hängt vom Gegner ab.",
 			"lines":
@@ -620,7 +620,7 @@
 			]
 		},
 		{
-			"path": [25,94,79,3],
+			"path": [94,79,3],
 			"indent": 3,
 			"original": "Der Gegner kann anfällig bis immun gegenüber dem Zustand sein.",
 			"lines":
@@ -631,7 +631,7 @@
 			]
 		},
 		{
-			"path": [25,94,82,3],
+			"path": [94,82,3],
 			"indent": 3,
 			"original": "Kämpfer auf eigenen Seite können sich mit bestimmter Ausrüstung vor Zuständen schützten.",
 			"lines":
@@ -642,7 +642,7 @@
 			]
 		},
 		{
-			"path": [25,94,85,3],
+			"path": [94,85,3],
 			"indent": 3,
 			"original": "Du findest die Zustand-Sare-Techniken unter dem 2. Symbol im Technik-Auswahl-Menu.",
 			"lines":
@@ -653,7 +653,7 @@
 			]
 		},
 		{
-			"path": [25,94,102,2],
+			"path": [94,102,2],
 			"indent": 1,
 			"original": "Saion: Jetzt werdet ihr den Zorn der Zinkar-Brüder zu spüren bekommen!",
 			"lines":
@@ -663,7 +663,7 @@
 			]
 		},
 		{
-			"path": [25,94,104,1],
+			"path": [94,104,1],
 			"indent": 1,
 			"original": "Saion: Macht euch auf etwas gefasst!",
 			"lines":
@@ -672,7 +672,7 @@
 			]
 		},
 		{
-			"path": [25,94,105,1],
+			"path": [94,105,1],
 			"indent": 1,
 			"original": "Gurim: Saion...?",
 			"lines":
@@ -681,7 +681,7 @@
 			]
 		},
 		{
-			"path": [25,94,106,1],
+			"path": [94,106,1],
 			"indent": 1,
 			"original": "Jorn: Halt einfach deine Klappe!",
 			"lines":
@@ -690,7 +690,7 @@
 			]
 		},
 		{
-			"path": [25,94,111,3],
+			"path": [94,111,3],
 			"indent": 1,
 			"original": "INFO: Die Leiste unten zeigt die Aktions- Reihenfolge der Kampfteilnehmer an.",
 			"lines":
@@ -701,7 +701,7 @@
 			]
 		},
 		{
-			"path": [25,94,114,3],
+			"path": [94,114,3],
 			"indent": 1,
 			"original": "Der Kampfteilnehmer, der ganz links bei Aktion zu sehen ist, kann seinen Zug durchführen.",
 			"lines":
@@ -712,7 +712,7 @@
 			]
 		},
 		{
-			"path": [25,94,117,3],
+			"path": [94,117,3],
 			"indent": 1,
 			"original": "Der Kampfteilnehmer rechts davon wird wahrscheinlich als nächstes dran kommen..",
 			"lines":
@@ -723,7 +723,7 @@
 			]
 		},
 		{
-			"path": [25,94,120,3],
+			"path": [94,120,3],
 			"indent": 1,
 			"original": "Allerdings sei gesagt, dass es Aktionen gibt, die die Reihenfolge beeinflussen können.",
 			"lines":
@@ -734,7 +734,7 @@
 			]
 		},
 		{
-			"path": [25,94,129,2],
+			"path": [94,129,2],
 			"indent": 1,
 			"original": "Kento: Wie kann es sein, dass sich eine Harpyie in dieser Gegend aufhält?!",
 			"lines":
@@ -744,7 +744,7 @@
 			]
 		},
 		{
-			"path": [25,94,131,2],
+			"path": [94,131,2],
 			"indent": 1,
 			"original": "Kento: Harpyien leben normalerweise in Gebirgen und bleiben dort auch in der Regel!",
 			"lines":
@@ -754,7 +754,7 @@
 			]
 		},
 		{
-			"path": [25,94,133,2],
+			"path": [94,133,2],
 			"indent": 1,
 			"original": "Cibon: Schön und gut, Kumpel. Aber sich darüber zu wundern bringt jetzt auch nichts.",
 			"lines":
@@ -764,7 +764,7 @@
 			]
 		},
 		{
-			"path": [25,94,135,2],
+			"path": [94,135,2],
 			"indent": 1,
 			"original": "Cibon: Sehen wir lieber zu, dass wir den Vogel beseitigt bekommen!",
 			"lines":
@@ -774,7 +774,7 @@
 			]
 		},
 		{
-			"path": [25,94,137,2],
+			"path": [94,137,2],
 			"indent": 1,
 			"original": "Kento: Da sagst du was... Wir müssen aufpassen! Harpyien sind hartnäckige Gegner!",
 			"lines":
@@ -784,7 +784,7 @@
 			]
 		},
 		{
-			"path": [25,94,144,2],
+			"path": [94,144,2],
 			"indent": 1,
 			"original": "Kento: Erst eine Harpyie auf einer Brücke und jetzt eine Krake in einer Höhle...",
 			"lines":
@@ -794,7 +794,7 @@
 			]
 		},
 		{
-			"path": [25,94,146,2],
+			"path": [94,146,2],
 			"indent": 1,
 			"original": "Kento: Unglaublich auf was für Gegner wir treffen...",
 			"lines":
@@ -804,7 +804,7 @@
 			]
 		},
 		{
-			"path": [25,94,148,2],
+			"path": [94,148,2],
 			"indent": 1,
 			"original": "Cibon: Okay... Wer von euch weiß, wie man eine überdimensionale Krake beseitigt?!",
 			"lines":
@@ -814,7 +814,7 @@
 			]
 		},
 		{
-			"path": [25,94,150,2],
+			"path": [94,150,2],
 			"indent": 1,
 			"original": "Soko: Feuer... Ich habe gehört, viele solcher Wasserwesen sollen dagegen empfindlich sein!",
 			"lines":
@@ -824,7 +824,7 @@
 			]
 		},
 		{
-			"path": [25,94,152,1],
+			"path": [94,152,1],
 			"indent": 1,
 			"original": "Kento: Wir haben noch ein Problem...",
 			"lines":
@@ -833,7 +833,7 @@
 			]
 		},
 		{
-			"path": [25,94,153,2],
+			"path": [94,153,2],
 			"indent": 1,
 			"original": "Kento: Wir können den Kopf der Krake nicht mit Nahkampf-Attacken erreichen.",
 			"lines":
@@ -842,7 +842,7 @@
 			]
 		},
 		{
-			"path": [25,94,155,2],
+			"path": [94,155,2],
 			"indent": 1,
 			"original": "Kento: Cibon! Du und ich, wir sollten uns auf die Tentakel konzentrieren.",
 			"lines":
@@ -852,7 +852,7 @@
 			]
 		},
 		{
-			"path": [25,94,157,2],
+			"path": [94,157,2],
 			"indent": 1,
 			"original": "Kento: Soko! Du kannst zaubern. Nutze deine Fähigkeiten um den Kopf damit anzugreifen.",
 			"lines":
@@ -862,7 +862,7 @@
 			]
 		},
 		{
-			"path": [25,94,159,1],
+			"path": [94,159,1],
 			"indent": 1,
 			"original": "Soko: Ah... in Ordnung...",
 			"lines":
@@ -871,7 +871,7 @@
 			]
 		},
 		{
-			"path": [25,94,160,2],
+			"path": [94,160,2],
 			"indent": 1,
 			"original": "Kento: Cibon, noch was, versuch auch du den Kopf mit deiner Flugbeil Attacke zu treffen!",
 			"lines":
@@ -881,7 +881,7 @@
 			]
 		},
 		{
-			"path": [25,94,162,1],
+			"path": [94,162,1],
 			"indent": 1,
 			"original": "Cibon: Geht klar! Auf ins Gefecht!",
 			"lines":
@@ -890,7 +890,7 @@
 			]
 		},
 		{
-			"path": [25,94,168,2],
+			"path": [94,168,2],
 			"indent": 1,
 			"original": "Gegnerische Einheit: Ist das die Spezialeinheit von Brigan?",
 			"lines":
@@ -900,7 +900,7 @@
 			]
 		},
 		{
-			"path": [25,94,170,2],
+			"path": [94,170,2],
 			"indent": 1,
 			"original": "Gegnerische Einheit: Ein NAHKÄMPFER mit einem Lasersäbel! Soll das ein Witz sein?!",
 			"lines":
@@ -910,7 +910,7 @@
 			]
 		},
 		{
-			"path": [25,94,178,2],
+			"path": [94,178,2],
 			"indent": 1,
 			"original": "Seldan: Ich werde euch zeigen, wie weit unser Wahn uns getrieben hat!",
 			"lines":
@@ -920,7 +920,7 @@
 			]
 		},
 		{
-			"path": [25,94,186,2],
+			"path": [94,186,2],
 			"indent": 1,
 			"original": "Soko: Cibon, was fällt dir ein einfach so los zu stürmen?!",
 			"lines":
@@ -930,7 +930,7 @@
 			]
 		},
 		{
-			"path": [25,94,188,2],
+			"path": [94,188,2],
 			"indent": 1,
 			"original": "Cibon: Sag bloß, du hättest dem Spektakel nur zugesehen!",
 			"lines":
@@ -940,7 +940,7 @@
 			]
 		},
 		{
-			"path": [25,94,190,1],
+			"path": [94,190,1],
 			"indent": 1,
 			"original": "Soko: Nein... aber...",
 			"lines":
@@ -949,7 +949,7 @@
 			]
 		},
 		{
-			"path": [25,94,191,1],
+			"path": [94,191,1],
 			"indent": 1,
 			"original": "Cibon: Nichts aber, jetzt wird gekämpft!",
 			"lines":
@@ -958,7 +958,7 @@
 			]
 		},
 		{
-			"path": [25,94,197,2],
+			"path": [94,197,2],
 			"indent": 1,
 			"original": "Kento: Wovon redet ihr? Worauf wollt ihr mich vorbereiten?!",
 			"lines":
@@ -968,17 +968,17 @@
 			]
 		},
 		{
-			"path": [25,94,203,2],
+			"path": [94,203,2],
 			"indent": 1,
 			"original": "????: Noch kannst du nichts wissen. Noch DARFST du nichts wissen!",
 			"lines":
 			[
-				"\\c[10]????\\c[0]: You still don't know anything yet.",
+				"\\c[10]????\\c[0]: You do not know anything yet.",
 				"You CANNOT know anything yet!"
 			]
 		},
 		{
-			"path": [25,94,219,1],
+			"path": [94,219,1],
 			"indent": 1,
 			"original": "(Kento: Was zum... Was soll ich jetzt machen?!)",
 			"lines":
@@ -987,7 +987,7 @@
 			]
 		},
 		{
-			"path": [25,94,220,2],
+			"path": [94,220,2],
 			"indent": 1,
 			"original": "(Kento: Bei der Geschwindigkeit, mit der sie gekommen sind... Fliehen steht außer Frage!)",
 			"lines":
@@ -997,7 +997,7 @@
 			]
 		},
 		{
-			"path": [25,94,222,1],
+			"path": [94,222,1],
 			"indent": 1,
 			"original": "(Kento: Ich muss mich wehren...)",
 			"lines":
@@ -1006,7 +1006,7 @@
 			]
 		},
 		{
-			"path": [25,94,223,2],
+			"path": [94,223,2],
 			"indent": 1,
 			"original": "(Kento: Die hintere Person mit Nahkampfwaffen anzugreifen ist sinnlos, sie wird geschützt...)",
 			"lines":
@@ -1016,7 +1016,7 @@
 			]
 		},
 		{
-			"path": [25,94,230,2],
+			"path": [94,230,2],
 			"indent": 1,
 			"original": "Kento: Wie kommt es eigentlich, dass die starken Gegner uns immer von oben überraschen?",
 			"lines":
@@ -1026,7 +1026,7 @@
 			]
 		},
 		{
-			"path": [25,94,232,2],
+			"path": [94,232,2],
 			"indent": 1,
 			"original": "Cibon: Joa, wir sollten in Zukunft mehr unterirdisch reisen, nicht wahr Kumpel?",
 			"lines":
@@ -1036,7 +1036,7 @@
 			]
 		},
 		{
-			"path": [25,94,234,2],
+			"path": [94,234,2],
 			"indent": 1,
 			"original": "Soko: Hey! Wie sollen wir gegen diesen Gegner vorgehen?",
 			"lines":
@@ -1046,7 +1046,7 @@
 			]
 		},
 		{
-			"path": [25,94,236,1],
+			"path": [94,236,1],
 			"indent": 1,
 			"original": "Kento: Er reitet einen fliegenden Hornkäfer...",
 			"lines":
@@ -1055,7 +1055,7 @@
 			]
 		},
 		{
-			"path": [25,94,237,2],
+			"path": [94,237,2],
 			"indent": 1,
 			"original": "Kento: Er könnte also ähnliche Schwächen haben wie die Hornkäfer, gegen die wir gekämpft haben!",
 			"lines":
@@ -1065,7 +1065,7 @@
 			]
 		},
 		{
-			"path": [25,94,242,2],
+			"path": [94,242,2],
 			"indent": 1,
 			"original": "Guillian: Freut euch nicht zu früh! Rekreto ist kein normaler Hornkäfer, wartet nur ab!",
 			"lines":
@@ -1075,7 +1075,7 @@
 			]
 		},
 		{
-			"path": [25,94,249,2],
+			"path": [94,249,2],
 			"indent": 1,
 			"original": "Saion: Ihr macht es so, wie wir besprochen haben, verstanden?",
 			"lines":
@@ -1085,7 +1085,7 @@
 			]
 		},
 		{
-			"path": [25,94,251,2],
+			"path": [94,251,2],
 			"indent": 1,
 			"original": "Jorn: Diese dritte Person da war aber in deiner so genannten \"Taktik\" nicht mit einbezogen...",
 			"lines":
@@ -1095,7 +1095,7 @@
 			]
 		},
 		{
-			"path": [25,94,253,2],
+			"path": [94,253,2],
 			"indent": 1,
 			"original": "Jorn: Sei's drum. Sie wird keinen großen Einfluss haben.",
 			"lines":
@@ -1105,7 +1105,7 @@
 			]
 		},
 		{
-			"path": [25,94,271,1],
+			"path": [94,271,1],
 			"indent": 1,
 			"original": "Soko: Na wartet...",
 			"lines":
@@ -1114,7 +1114,7 @@
 			]
 		},
 		{
-			"path": [25,94,280,1],
+			"path": [94,280,1],
 			"indent": 1,
 			"original": "Cibon: Was geht hier ab?!",
 			"lines":
@@ -1123,7 +1123,7 @@
 			]
 		},
 		{
-			"path": [25,94,281,2],
+			"path": [94,281,2],
 			"indent": 1,
 			"original": "Soko: Wir müssen Herr Uroto beschützen! Das ist alles was zählt!",
 			"lines":
@@ -1133,7 +1133,7 @@
 			]
 		},
 		{
-			"path": [25,94,289,2],
+			"path": [94,289,2],
 			"indent": 1,
 			"original": "Kento: Verschwinde!! VERSCHWINDE AUS MEINEN AUGEN!",
 			"lines":
@@ -1142,7 +1142,7 @@
 			]
 		},
 		{
-			"path": [25,94,291,1],
+			"path": [94,291,1],
 			"indent": 1,
 			"original": "Genyu: K...Kento?",
 			"lines":
@@ -1151,7 +1151,7 @@
 			]
 		},
 		{
-			"path": [25,94,297,2],
+			"path": [94,297,2],
 			"indent": 1,
 			"original": "(Kento: Verdammt! Ich sollte besser eine Schlafbombe verwendenden und fliehen...)",
 			"lines":
@@ -1161,7 +1161,7 @@
 			]
 		},
 		{
-			"path": [25,94,299,1],
+			"path": [94,299,1],
 			"indent": 1,
 			"original": "(Kento: Kämpfen ist zu riskant!)",
 			"lines":
@@ -1170,7 +1170,7 @@
 			]
 		},
 		{
-			"path": [25,94,305,2],
+			"path": [94,305,2],
 			"indent": 1,
 			"original": "Soldat: Das ist der Flüchtling! Er ist doch im Gebäude!",
 			"lines":
@@ -1180,7 +1180,7 @@
 			]
 		},
 		{
-			"path": [25,94,307,1],
+			"path": [94,307,1],
 			"indent": 1,
 			"original": "Soldat: Sofort die Waffe fallen lassen!",
 			"lines":
@@ -1189,7 +1189,7 @@
 			]
 		},
 		{
-			"path": [25,94,308,2],
+			"path": [94,308,2],
 			"indent": 1,
 			"original": "Kento: Soko, Cibon, hört zu! Ich werde versuchen die Gittertür aufzuschlagen.",
 			"lines":
@@ -1199,7 +1199,7 @@
 			]
 		},
 		{
-			"path": [25,94,310,2],
+			"path": [94,310,2],
 			"indent": 1,
 			"original": "Cibon: Beeil dich, Kumpel! Zusammen werden wir die 2 zusammenschlagen!",
 			"lines":
@@ -1209,7 +1209,7 @@
 			]
 		},
 		{
-			"path": [25,94,312,2],
+			"path": [94,312,2],
 			"indent": 1,
 			"original": "Soko: Kento! Greife die Gitter mit Feuer-Angriffen an, das sollte am besten funktionieren!",
 			"lines":
@@ -1219,7 +1219,7 @@
 			]
 		},
 		{
-			"path": [25,94,319,2],
+			"path": [94,319,2],
 			"indent": 1,
 			"original": "Sedric: Du verstärkst und heilst mich, ich kümmere mich um den Schaden!",
 			"lines":
@@ -1229,7 +1229,7 @@
 			]
 		},
 		{
-			"path": [25,94,321,1],
+			"path": [94,321,1],
 			"indent": 1,
 			"original": "Soldat: ...",
 			"lines":
@@ -1238,7 +1238,7 @@
 			]
 		},
 		{
-			"path": [25,94,322,2],
+			"path": [94,322,2],
 			"indent": 1,
 			"original": "Kento: Dieser Sedric scheint mir mehr Ausdauer zu haben...",
 			"lines":
@@ -1248,7 +1248,7 @@
 			]
 		},
 		{
-			"path": [25,94,324,2],
+			"path": [94,324,2],
 			"indent": 1,
 			"original": "Kento: Aber sein Gehilfe steht direkt hinter ihm, er kann nicht im Nahkampf angegriffen werden.",
 			"lines":
@@ -1258,7 +1258,7 @@
 			]
 		},
 		{
-			"path": [25,94,326,2],
+			"path": [94,326,2],
 			"indent": 1,
 			"original": "Kento: Wir sollten im Verlauf des Kampfes erfahren, welcher zuerst besiegt werden muss.",
 			"lines":
@@ -1268,7 +1268,7 @@
 			]
 		},
 		{
-			"path": [25,94,334,2],
+			"path": [94,334,2],
 			"indent": 2,
 			"original": "Kento: Wir dürfen uns nicht zu lange aufhalten lassen!",
 			"lines":
@@ -1277,7 +1277,7 @@
 			]
 		},
 		{
-			"path": [25,94,336,2],
+			"path": [94,336,2],
 			"indent": 2,
 			"original": "Cibon: Die Gegner so schnell wie möglich überrennen! Alles klar, Kumpel!",
 			"lines":
@@ -1287,7 +1287,7 @@
 			]
 		},
 		{
-			"path": [25,94,338,2],
+			"path": [94,338,2],
 			"indent": 2,
 			"original": "Kento: Oder einschläfern bzw. paralysieren und dann fliehen.",
 			"lines":
@@ -1297,7 +1297,7 @@
 			]
 		},
 		{
-			"path": [25,94,345,3],
+			"path": [94,345,3],
 			"indent": 2,
 			"original": "INFO: Die Zeit, die dir in den Kämpfen noch bleibt, wird in Zügen dargestellt.",
 			"lines":
@@ -1309,7 +1309,7 @@
 			"__comment__": "Zügen seems to be a grammatical error judging by the context and MajinSonicLP's reaction in his Let's Play."
 		},
 		{
-			"path": [25,94,348,3],
+			"path": [94,348,3],
 			"indent": 2,
 			"original": "Ein Zug wird verbraucht, wann immer ein beliebiger Kampfteilnehmer angreift.",
 			"lines":
@@ -1320,7 +1320,7 @@
 			"__comment__": "While \"any\" isn't emphasized in the original, I still think it's worth emphasizing."
 		},
 		{
-			"path": [25,94,351,3],
+			"path": [94,351,3],
 			"indent": 2,
 			"original": "Wenn alle Züge verbraucht sind, bist du komplett eingeholt und das Spiel ist verloren.",
 			"lines":
@@ -1331,7 +1331,7 @@
 			]
 		},
 		{
-			"path": [25,94,354,3],
+			"path": [94,354,3],
 			"indent": 2,
 			"original": "Die Anzahl der Züge wird nach diesem Kampf NICHT zurückgesetzt - sie gilt für ALLE Kämpfe.",
 			"lines":
@@ -1342,7 +1342,7 @@
 			]
 		},
 		{
-			"path": [25,94,364,1],
+			"path": [94,364,1],
 			"indent": 1,
 			"original": "- Du hast noch \\v[1863] Züge zur Verfügung -",
 			"lines":
@@ -1351,7 +1351,7 @@
 			]
 		},
 		{
-			"path": [25,94,370,1],
+			"path": [94,370,1],
 			"indent": 1,
 			"original": "Cibon: Es ist ein Wurm und er ist RIESIG!",
 			"lines":
@@ -1360,7 +1360,7 @@
 			]
 		},
 		{
-			"path": [25,94,371,2],
+			"path": [94,371,2],
 			"indent": 1,
 			"original": "Kento: Wenn sich das Vieh so ähnlich wie seine kleinen Artgenossen verhält...",
 			"lines":
@@ -1370,7 +1370,7 @@
 			]
 		},
 		{
-			"path": [25,94,373,2],
+			"path": [94,373,2],
 			"indent": 1,
 			"original": "Kento: ...dann sollten wir uns auf viele Zauber gefasst machen!",
 			"lines":
@@ -1380,7 +1380,7 @@
 			]
 		},
 		{
-			"path": [25,94,380,1],
+			"path": [94,380,1],
 			"indent": 1,
 			"original": "Robin: Endlich ist es soweit!",
 			"lines":
@@ -1389,7 +1389,7 @@
 			]
 		},
 		{
-			"path": [25,94,381,2],
+			"path": [94,381,2],
 			"indent": 1,
 			"original": "Robin: Kommt, Leute, wir zeigen diesem adligen Hornochsen, wer hier der Boss ist!",
 			"lines":
@@ -1399,7 +1399,7 @@
 			]
 		},
 		{
-			"path": [25,94,388,2],
+			"path": [94,388,2],
 			"indent": 1,
 			"original": "Cibon: Zu schade, dass der adelige Hornochse nur seine Vertretung schickt.",
 			"lines":
@@ -1409,7 +1409,7 @@
 			]
 		},
 		{
-			"path": [25,94,390,2],
+			"path": [94,390,2],
 			"indent": 1,
 			"original": "Soko: Kämpft mit allem, was ihr habt, verstanden?! Eine Niederlage ist nicht drin!",
 			"lines":
@@ -1419,7 +1419,7 @@
 			]
 		},
 		{
-			"path": [25,94,411,2],
+			"path": [94,411,2],
 			"indent": 1,
 			"original": "Saion: Endlich ist es soweit! Ihr seid weit gekommen, doch hier ist Endstation!",
 			"lines":
@@ -1429,7 +1429,7 @@
 			]
 		},
 		{
-			"path": [25,94,413,2],
+			"path": [94,413,2],
 			"indent": 1,
 			"original": "Saion: Jetzt werden wir euch zeigen, wer hier im Turnier die Oberhand hat!",
 			"lines":
@@ -1439,7 +1439,7 @@
 			]
 		},
 		{
-			"path": [25,94,423,2],
+			"path": [94,423,2],
 			"indent": 1,
 			"original": "Cibon: Apropos Hand... Was zum Henker sollen diese angebundenen Dolchwaffen?!",
 			"lines":
@@ -1449,7 +1449,7 @@
 			]
 		},
 		{
-			"path": [25,94,431,2],
+			"path": [94,431,2],
 			"indent": 1,
 			"original": "Jorn: Glaub mir, am liebsten würde ich diese Waffen zur Seite schmeißen und aufgeben.",
 			"lines":
@@ -1459,7 +1459,7 @@
 			]
 		},
 		{
-			"path": [25,94,433,1],
+			"path": [94,433,1],
 			"indent": 1,
 			"original": "Jorn: Aber ich kann nicht!",
 			"lines":
@@ -1468,7 +1468,7 @@
 			]
 		},
 		{
-			"path": [25,94,435,2],
+			"path": [94,435,2],
 			"indent": 1,
 			"original": "Saion: Ruhe, Jorn! Du machst die ganze Stimmung kaputt!",
 			"lines":
@@ -1478,7 +1478,7 @@
 			]
 		},
 		{
-			"path": [25,94,446,2],
+			"path": [94,446,2],
 			"indent": 1,
 			"original": "Pauamainer Schütze: Los, Kumpels! Denen zeigen wir, was richtige Minenarbeiter so drauf haben!",
 			"lines":
@@ -1488,7 +1488,7 @@
 			]
 		},
 		{
-			"path": [25,94,451,2],
+			"path": [94,451,2],
 			"indent": 1,
 			"original": "Cibon: Los, Kumpel, die machen wir fertig, so wahr wir Soldaten des Briganten-Orden sind! Oder waren.",
 			"lines":
@@ -1498,7 +1498,7 @@
 			]
 		},
 		{
-			"path": [25,94,458,1],
+			"path": [94,458,1],
 			"indent": 1,
 			"original": "Kento: Ehm... ja...",
 			"lines":
@@ -1507,7 +1507,7 @@
 			]
 		},
 		{
-			"path": [25,94,464,2],
+			"path": [94,464,2],
 			"indent": 1,
 			"original": "Chef: Ei, e neia Geschna! Dann zescht mòòl, wòòs ihr so dròòf hòòbt!",
 			"lines":
@@ -1517,7 +1517,7 @@
 			]
 		},
 		{
-			"path": [25,94,469,1],
+			"path": [94,469,1],
 			"indent": 1,
 			"original": "Soko: Bitte was?",
 			"lines":
@@ -1526,7 +1526,7 @@
 			]
 		},
 		{
-			"path": [25,95,18,2],
+			"path": [95,18,2],
 			"indent": 5,
 			"original": "Cibon: Hey! Der Kleine kann sich und seine Kameraden heilen!",
 			"lines":
@@ -1536,7 +1536,7 @@
 			]
 		},
 		{
-			"path": [25,95,22,2],
+			"path": [95,22,2],
 			"indent": 5,
 			"original": "Kento: Soso.. Der Kleine kann also Heilitems verwenden!",
 			"lines":
@@ -1546,7 +1546,7 @@
 			]
 		},
 		{
-			"path": [25,95,29,1],
+			"path": [95,29,1],
 			"indent": 4,
 			"original": "Jorn: Nicht, dass ich es freiwillig tue....",
 			"lines":
@@ -1555,7 +1555,7 @@
 			]
 		},
 		{
-			"path": [25,95,34,2],
+			"path": [95,34,2],
 			"indent": 5,
 			"original": "Kento: Ich denke, es wäre am besten, wenn er als erstes beseitig wird!",
 			"lines":
@@ -1565,7 +1565,7 @@
 			]
 		},
 		{
-			"path": [25,95,38,2],
+			"path": [95,38,2],
 			"indent": 5,
 			"original": "Cibon: Ich denk' dann mal er sollte zuerst beseitigt werden.",
 			"lines":
@@ -1575,7 +1575,7 @@
 			]
 		},
 		{
-			"path": [25,95,45,2],
+			"path": [95,45,2],
 			"indent": 4,
 			"original": "Jorn: Wie? VERDAMMT! Wieso immer ich...",
 			"lines":
@@ -1585,7 +1585,7 @@
 			]
 		},
 		{
-			"path": [25,95,62,1],
+			"path": [95,62,1],
 			"indent": 4,
 			"original": "Jorn: Das hast du nun davon, Bruder!",
 			"lines":
@@ -1594,7 +1594,7 @@
 			]
 		},
 		{
-			"path": [25,95,70,1],
+			"path": [95,70,1],
 			"indent": 6,
 			"original": "Kento: Jetzt nur noch einer!",
 			"lines":
@@ -1603,7 +1603,7 @@
 			]
 		},
 		{
-			"path": [25,95,73,1],
+			"path": [95,73,1],
 			"indent": 6,
 			"original": "Cibon: Jetzt nur noch einer!",
 			"lines":
@@ -1612,7 +1612,7 @@
 			]
 		},
 		{
-			"path": [25,95,93,2],
+			"path": [95,93,2],
 			"indent": 4,
 			"original": "Saion: Verdammt! Ab jetzt wird es hart!",
 			"lines":
@@ -1622,7 +1622,7 @@
 			]
 		},
 		{
-			"path": [25,95,102,1],
+			"path": [95,102,1],
 			"indent": 6,
 			"original": "Kento: Jetzt nur noch einer!",
 			"lines":
@@ -1631,7 +1631,7 @@
 			]
 		},
 		{
-			"path": [25,95,105,1],
+			"path": [95,105,1],
 			"indent": 6,
 			"original": "Cibon: Jetzt nur noch einer!",
 			"lines":
@@ -1640,7 +1640,7 @@
 			]
 		},
 		{
-			"path": [25,95,125,1],
+			"path": [95,125,1],
 			"indent": 4,
 			"original": "Jorn: Gurim!",
 			"lines":
@@ -1649,7 +1649,7 @@
 			]
 		},
 		{
-			"path": [25,95,133,1],
+			"path": [95,133,1],
 			"indent": 6,
 			"original": "Kento: Jetzt nur noch einer!",
 			"lines":
@@ -1658,7 +1658,7 @@
 			]
 		},
 		{
-			"path": [25,95,136,1],
+			"path": [95,136,1],
 			"indent": 6,
 			"original": "Cibon: Jetzt nur noch einer!",
 			"lines":
@@ -1667,17 +1667,17 @@
 			]
 		},
 		{
-			"path": [25,95,156,2],
+			"path": [95,156,2],
 			"indent": 4,
 			"original": "Cibon: Kento! ... Ich muss schnell nen Lichtschlag verwenden!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Kento!\\. ...\\.I have to use some",
+				"\\c[2]\\n[2]:\\c[0] Kento!\\. ...\\. I have to use some",
 				"\\c[11]divine light\\c[0] quickly!"
 			]
 		},
 		{
-			"path": [25,95,162,3],
+			"path": [95,162,3],
 			"indent": 4,
 			"original": "Kento ist kampfunfähig! Er kann keine weiteren Aktionen ausführen.",
 			"lines":
@@ -1688,7 +1688,7 @@
 			]
 		},
 		{
-			"path": [25,95,165,3],
+			"path": [95,165,3],
 			"indent": 4,
 			"original": "Ein Lichtschlag kann ihn wieder kampffähig machen!",
 			"lines":
@@ -1699,7 +1699,7 @@
 			]
 		},
 		{
-			"path": [25,95,168,3],
+			"path": [95,168,3],
 			"indent": 4,
 			"original": "Du findest den Lichtschlag genau wie den Heilsirub bei Gegenstände",
 			"lines":
@@ -1710,17 +1710,17 @@
 			]
 		},
 		{
-			"path": [25,95,182,2],
+			"path": [95,182,2],
 			"indent": 5,
 			"original": "Kento: Warte Cibon! Ich werfe einen Lichtschlag\"",
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] Hold on Cibon! I'm throwing some",
-				"\\c[11]divine light\"\\c[0]!"
+				"\\c[11]divine light\\c[0] your way!"
 			]
 		},
 		{
-			"path": [25,95,188,3],
+			"path": [95,188,3],
 			"indent": 5,
 			"original": "Cibon ist kampfunfähig! Er kann keine weiteren Aktionen ausführen.",
 			"lines":
@@ -1731,7 +1731,7 @@
 			]
 		},
 		{
-			"path": [25,95,191,3],
+			"path": [95,191,3],
 			"indent": 5,
 			"original": "Ein Lichtschlag kann ihn wieder kampffähig machen!",
 			"lines":
@@ -1742,7 +1742,7 @@
 			]
 		},
 		{
-			"path": [25,95,194,3],
+			"path": [95,194,3],
 			"indent": 5,
 			"original": "Du findest den Lichtschlag genau wie den Heilsirub bei Gegenstände",
 			"lines":
@@ -1753,7 +1753,7 @@
 			]
 		},
 		{
-			"path": [25,95,217,2],
+			"path": [95,217,2],
 			"indent": 3,
 			"original": "Kento: Sieht so aus, als könnte ich einen Heilsirup gut vertragen!",
 			"lines":
@@ -1763,7 +1763,7 @@
 			]
 		},
 		{
-			"path": [25,95,223,3],
+			"path": [95,223,3],
 			"indent": 3,
 			"original": "Verwende einen Heilsirub um deine Kämpfer zu heilen.",
 			"lines":
@@ -1773,7 +1773,7 @@
 			]
 		},
 		{
-			"path": [25,95,226,3],
+			"path": [95,226,3],
 			"indent": 3,
 			"original": "Wähle Gegenstand und dann den Heilsirub, um diese Aktion auszuführen.",
 			"lines":
@@ -1784,7 +1784,7 @@
 			]
 		},
 		{
-			"path": [25,95,240,2],
+			"path": [95,240,2],
 			"indent": 4,
 			"original": "Cibon: Das hat ziemlich reingehauen.. Ich brauch' nen Heilsirub!",
 			"lines":
@@ -1794,7 +1794,7 @@
 			]
 		},
 		{
-			"path": [25,95,246,3],
+			"path": [95,246,3],
 			"indent": 4,
 			"original": "Verwende einen Heilsirub um deine Kämpfer zu heilen.",
 			"lines":
@@ -1804,7 +1804,7 @@
 			]
 		},
 		{
-			"path": [25,95,249,3],
+			"path": [95,249,3],
 			"indent": 4,
 			"original": "Wähle Gegenstand und dann den Heilsirub, um diese Aktion auszuführen.",
 			"lines":
@@ -1815,7 +1815,7 @@
 			]
 		},
 		{
-			"path": [25,95,310,2],
+			"path": [95,310,2],
 			"indent": 3,
 			"original": "Cibon: Ohoh... Was auch immer dieses Ding vorhat, ich sollte vorbereitet sein!",
 			"lines":
@@ -1825,7 +1825,7 @@
 			]
 		},
 		{
-			"path": [25,95,316,2],
+			"path": [95,316,2],
 			"indent": 3,
 			"original": "Kento: ACHTUNG! Die Harpyie scheint einen besonders starken Angriff vorzubereiten!",
 			"lines":
@@ -1835,7 +1835,7 @@
 			]
 		},
 		{
-			"path": [25,95,318,1],
+			"path": [95,318,1],
 			"indent": 3,
 			"original": "Kento: Wir sollten uns darauf gefasst machen!",
 			"lines":
@@ -1844,7 +1844,7 @@
 			]
 		},
 		{
-			"path": [25,95,324,3],
+			"path": [95,324,3],
 			"indent": 3,
 			"original": "Bereite dich auf einen starken Gegenangriff vor! Heile deine Charaktere oder lass sie verteidigen.",
 			"lines":
@@ -1855,7 +1855,7 @@
 			]
 		},
 		{
-			"path": [25,95,327,3],
+			"path": [95,327,3],
 			"indent": 3,
 			"original": "Um zu verteidigen drücke in der Auswahl Esc und wähle dann Abwehr.",
 			"lines":
@@ -1866,7 +1866,7 @@
 			]
 		},
 		{
-			"path": [25,95,330,3],
+			"path": [95,330,3],
 			"indent": 3,
 			"original": "Verteidigt ein Charakter, erleidet er nur die Hälfte des eigentlichen Schadens.",
 			"lines":
@@ -1877,7 +1877,7 @@
 			]
 		},
 		{
-			"path": [25,95,333,3],
+			"path": [95,333,3],
 			"indent": 3,
 			"original": "Die Verteidigung hält nur einen halben Zug lang. Danach kann gleich weiter agiert werden.",
 			"lines":
@@ -1888,7 +1888,7 @@
 			]
 		},
 		{
-			"path": [25,95,355,2],
+			"path": [95,355,2],
 			"indent": 6,
 			"original": "Gegnerische Einheit: W... Wie geht das?! Er ist einem Laser-Schuss ausgewichen!",
 			"lines":
@@ -1898,7 +1898,7 @@
 			]
 		},
 		{
-			"path": [25,95,369,2],
+			"path": [95,369,2],
 			"indent": 6,
 			"original": "Gegnerische Einheit: Was für ein Schutzschild ist das?! Unsere Schüsse zeigen kaum eine Wirkung!",
 			"lines":
@@ -1908,7 +1908,7 @@
 			]
 		},
 		{
-			"path": [25,95,406,3],
+			"path": [95,406,3],
 			"indent": 2,
 			"original": "INFO: Ein Kampfteilnehmer ist von dem Zustand \"Verwirrung\" befallen.",
 			"lines":
@@ -1919,7 +1919,7 @@
 			]
 		},
 		{
-			"path": [25,95,409,3],
+			"path": [95,409,3],
 			"indent": 2,
 			"original": "Verwirrung bewirkt, dass das Opfer bei seiner Aktion unkontrolliert ein zufälliges Ziel angreift.",
 			"lines":
@@ -1930,7 +1930,7 @@
 			]
 		},
 		{
-			"path": [25,95,412,3],
+			"path": [95,412,3],
 			"indent": 2,
 			"original": "Wobei die Wahrscheinlichkeit, dass sich das Ziel auf der eigenen Seite befindet, höher ist.",
 			"lines":
@@ -1941,7 +1941,7 @@
 			]
 		},
 		{
-			"path": [25,95,415,3],
+			"path": [95,415,3],
 			"indent": 2,
 			"original": "Verwirrung vergeht nach einer bestimmten Anzahl von Zügen des Opfers.",
 			"lines":
@@ -1952,7 +1952,7 @@
 			]
 		},
 		{
-			"path": [25,95,418,3],
+			"path": [95,418,3],
 			"indent": 2,
 			"original": "Ansonsten kann sie mit Zauber, Items oder einem physischen Treffer \"geheilt\" werden.",
 			"lines":
@@ -1963,7 +1963,7 @@
 			]
 		},
 		{
-			"path": [25,95,430,3],
+			"path": [95,430,3],
 			"indent": 2,
 			"original": "INFO: Ein Kampfteilnehmer ist von dem Zustand \"Stummheit\" befallen.",
 			"lines":
@@ -1974,7 +1974,7 @@
 			]
 		},
 		{
-			"path": [25,95,433,3],
+			"path": [95,433,3],
 			"indent": 2,
 			"original": "Stummheit hindert das Opfer daran, jegliche Signum-Technik anzuwenden.",
 			"lines":
@@ -1985,7 +1985,7 @@
 			]
 		},
 		{
-			"path": [25,95,436,3],
+			"path": [95,436,3],
 			"indent": 2,
 			"original": "Das Anwenden von Spezial-Techniken ist aber nach wie vor möglich.",
 			"lines":
@@ -1996,7 +1996,7 @@
 			]
 		},
 		{
-			"path": [25,95,439,3],
+			"path": [95,439,3],
 			"indent": 2,
 			"original": "Stummheit vergeht mit der Zeit oder lässt sich mit bestimmten Zaubern und Items heilen",
 			"lines":
@@ -2007,7 +2007,7 @@
 			]
 		},
 		{
-			"path": [25,95,451,3],
+			"path": [95,451,3],
 			"indent": 2,
 			"original": "INFO: Ein Kampfteilnehmer ist von dem Zustand \"Vergiftung\" befallen.",
 			"lines":
@@ -2018,7 +2018,7 @@
 			]
 		},
 		{
-			"path": [25,95,454,3],
+			"path": [95,454,3],
 			"indent": 2,
 			"original": "Vergiftung bewirkt jedes Mal, wenn das Opfer eine Aktion ausführt, etwas Schaden.",
 			"lines":
@@ -2029,7 +2029,7 @@
 			]
 		},
 		{
-			"path": [25,95,457,3],
+			"path": [95,457,3],
 			"indent": 2,
 			"original": "Die Höhe des Schadens richtet sich nach den maximalen HP des Opfers.",
 			"lines":
@@ -2040,7 +2040,7 @@
 			]
 		},
 		{
-			"path": [25,95,460,3],
+			"path": [95,460,3],
 			"indent": 2,
 			"original": "Dieser Schaden kann das Opfer kampfunfähig machen, wenn die HP auf 0 sinken.",
 			"lines":
@@ -2051,7 +2051,7 @@
 			]
 		},
 		{
-			"path": [25,95,463,3],
+			"path": [95,463,3],
 			"indent": 2,
 			"original": "Vergiftung vergeht mit der Zeit oder lässt sich mit bestimmten Zaubern und Items heilen.",
 			"lines":
@@ -2062,7 +2062,7 @@
 			]
 		},
 		{
-			"path": [25,95,475,3],
+			"path": [95,475,3],
 			"indent": 2,
 			"original": "INFO: Ein Kampfteilnehmer ist von dem Zustand \"Schlaf\" befallen.",
 			"lines":
@@ -2073,7 +2073,7 @@
 			]
 		},
 		{
-			"path": [25,95,478,3],
+			"path": [95,478,3],
 			"indent": 2,
 			"original": "Schlaf bewirkt, dass das Opfer keine Aktionen mehr ausführen kann.",
 			"lines":
@@ -2084,7 +2084,7 @@
 			]
 		},
 		{
-			"path": [25,95,481,3],
+			"path": [95,481,3],
 			"indent": 2,
 			"original": "Wird das Opfer physisch getroffen, besteht eine hohe Chance, dass der Zustand verschwindet.",
 			"lines":
@@ -2095,7 +2095,7 @@
 			]
 		},
 		{
-			"path": [25,95,484,3],
+			"path": [95,484,3],
 			"indent": 2,
 			"original": "Ansonsten vergeht er mit der Zeit oder lässt sich mit bestimmten Zaubern und Items heilen.",
 			"lines":
@@ -2106,7 +2106,7 @@
 			]
 		},
 		{
-			"path": [25,95,496,3],
+			"path": [95,496,3],
 			"indent": 2,
 			"original": "INFO: Ein Kampfteilnehmer ist von dem Zustand \"Blendung\" befallen.",
 			"lines":
@@ -2117,7 +2117,7 @@
 			]
 		},
 		{
-			"path": [25,95,499,3],
+			"path": [95,499,3],
 			"indent": 2,
 			"original": "Blendung senkt die Trefferquote des Opfers radikal.",
 			"lines":
@@ -2127,7 +2127,7 @@
 			]
 		},
 		{
-			"path": [25,95,502,3],
+			"path": [95,502,3],
 			"indent": 2,
 			"original": "Aber Achtung: Nicht alle Techniken stehen unter dem Einfluss dieses Zustandes.",
 			"lines":
@@ -2138,7 +2138,7 @@
 			]
 		},
 		{
-			"path": [25,95,505,3],
+			"path": [95,505,3],
 			"indent": 2,
 			"original": "Signum-Zauber und manche Spezial-Techniken treffen trotz Blendung mit gleicher Wahrscheinlichkeit.",
 			"lines":
@@ -2149,7 +2149,7 @@
 			]
 		},
 		{
-			"path": [25,95,508,3],
+			"path": [95,508,3],
 			"indent": 2,
 			"original": "Blendung vergeht mit der Zeit oder lässt sich mit bestimmten Zaubern und Items heilen.",
 			"lines":
@@ -2160,7 +2160,7 @@
 			]
 		},
 		{
-			"path": [25,95,520,3],
+			"path": [95,520,3],
 			"indent": 2,
 			"original": "INFO: Ein Kampfteilnehmer ist von dem Zustand \"Paralyse\" befallen.",
 			"lines":
@@ -2171,7 +2171,7 @@
 			]
 		},
 		{
-			"path": [25,95,523,3],
+			"path": [95,523,3],
 			"indent": 2,
 			"original": "Paralyse lässt die Aktionen des Opfers mit einer bestimmten Wahrscheinlichkeit ausfallen.",
 			"lines":
@@ -2182,7 +2182,7 @@
 			]
 		},
 		{
-			"path": [25,95,526,3],
+			"path": [95,526,3],
 			"indent": 2,
 			"original": "Man kann zwar die Aktion auswählen, ob sie aber auch ausgeführt wird, hängt vom Zufall ab.",
 			"lines":
@@ -2193,7 +2193,7 @@
 			]
 		},
 		{
-			"path": [25,95,529,3],
+			"path": [95,529,3],
 			"indent": 2,
 			"original": "Wird das Opfer physisch getroffen, besteht eine geringe Chance, dass der Zustand verschwindet.",
 			"lines":
@@ -2204,7 +2204,7 @@
 			]
 		},
 		{
-			"path": [25,95,532,3],
+			"path": [95,532,3],
 			"indent": 2,
 			"original": "Paralyse vergeht mit der Zeit oder lässt sich mit bestimmten Zaubern und Items heilen.",
 			"lines":
@@ -2215,7 +2215,7 @@
 			]
 		},
 		{
-			"path": [25,95,544,3],
+			"path": [95,544,3],
 			"indent": 2,
 			"original": "INFO: Achtung! Dieser Gegner besitzt einen Schutzschild.",
 			"lines":
@@ -2226,7 +2226,7 @@
 			]
 		},
 		{
-			"path": [25,95,547,3],
+			"path": [95,547,3],
 			"indent": 2,
 			"original": "Schutzschilder können physischen und/oder magischen Schaden stark reduzieren.",
 			"lines":
@@ -2237,7 +2237,7 @@
 			]
 		},
 		{
-			"path": [25,95,550,3],
+			"path": [95,550,3],
 			"indent": 2,
 			"original": "Allerdings kann jeder Schutzschild durch einen oder mehrere passende Treffer gebrochen werden.",
 			"lines":
@@ -2248,7 +2248,7 @@
 			]
 		},
 		{
-			"path": [25,95,553,3],
+			"path": [95,553,3],
 			"indent": 2,
 			"original": "Welche Art von Treffer den Schild brechen lässt, muss hierbei herausgefunden werden.",
 			"lines":
@@ -2259,7 +2259,7 @@
 			]
 		},
 		{
-			"path": [25,95,556,2],
+			"path": [95,556,2],
 			"indent": 2,
 			"original": "Eine magische Lupe kann hierbei helfen!",
 			"lines":
@@ -2269,7 +2269,7 @@
 			]
 		},
 		{
-			"path": [25,95,569,1],
+			"path": [95,569,1],
 			"indent": 3,
 			"original": "????: Gleich ist's vorüber...",
 			"lines":
@@ -2278,7 +2278,7 @@
 			]
 		},
 		{
-			"path": [25,95,590,2],
+			"path": [95,590,2],
 			"indent": 3,
 			"original": "Cibon: Kumpel! Pass auf, dass du dich nicht überanstrengst! Du weißt ja...",
 			"lines":
@@ -2288,7 +2288,7 @@
 			]
 		},
 		{
-			"path": [25,95,592,1],
+			"path": [95,592,1],
 			"indent": 3,
 			"original": "Kento: Laber keinen Mist!",
 			"lines":
@@ -2297,7 +2297,7 @@
 			]
 		},
 		{
-			"path": [25,95,609,1],
+			"path": [95,609,1],
 			"indent": 4,
 			"original": "Saion: Ha, da schaut ihr, nicht wahr, NICHT WAHR?!",
 			"lines":
@@ -2306,7 +2306,7 @@
 			]
 		},
 		{
-			"path": [25,95,614,2],
+			"path": [95,614,2],
 			"indent": 4,
 			"original": "Saion: Beim nächsten Mal bist du weg von der Bildfläche, wart's nur ab!",
 			"lines":
@@ -2316,7 +2316,7 @@
 			]
 		},
 		{
-			"path": [25,95,632,1],
+			"path": [95,632,1],
 			"indent": 4,
 			"original": "Jorn: Du meine Güte! Es hat gewirkt.",
 			"lines":
@@ -2325,7 +2325,7 @@
 			]
 		},
 		{
-			"path": [25,95,633,1],
+			"path": [95,633,1],
 			"indent": 4,
 			"original": "Saion: Was hab ich gesagt?",
 			"lines":
@@ -2334,7 +2334,7 @@
 			]
 		},
 		{
-			"path": [25,95,638,1],
+			"path": [95,638,1],
 			"indent": 4,
 			"original": "Jorn: Da, siehst du wie wenig es bringt?!",
 			"lines":
@@ -2343,7 +2343,7 @@
 			]
 		},
 		{
-			"path": [25,95,656,2],
+			"path": [95,656,2],
 			"indent": 5,
 			"original": "Soko: Jahaa~! Seht ihr wie unbedeutend mein Einfluss ist!? Na?!",
 			"lines":
@@ -2353,7 +2353,7 @@
 			]
 		},
 		{
-			"path": [25,95,662,1],
+			"path": [95,662,1],
 			"indent": 6,
 			"original": "Jorn: ... Die macht mir Angst.",
 			"lines":
@@ -2362,7 +2362,7 @@
 			]
 		},
 		{
-			"path": [25,95,695,2],
+			"path": [95,695,2],
 			"indent": 4,
 			"original": "Kento: Es sind so viele! Macht es überhaupt Sinn zu kämpfen?!",
 			"lines":
@@ -2372,7 +2372,7 @@
 			]
 		},
 		{
-			"path": [25,95,714,1],
+			"path": [95,714,1],
 			"indent": 3,
 			"original": "(Kento: Nichts wie weg hier!)",
 			"lines":
@@ -2381,7 +2381,7 @@
 			]
 		},
 		{
-			"path": [25,95,747,2],
+			"path": [95,747,2],
 			"indent": 3,
 			"original": "Soldat: Genau diese Situation hab ich kommen sehen, heilige Scheiße!",
 			"lines":
@@ -2391,7 +2391,7 @@
 			]
 		},
 		{
-			"path": [25,95,758,1],
+			"path": [95,758,1],
 			"indent": 4,
 			"original": "Sedric: Tsk, der Kampf ist noch nicht entschieden!",
 			"lines":
@@ -2400,7 +2400,7 @@
 			]
 		},
 		{
-			"path": [25,95,779,2],
+			"path": [95,779,2],
 			"indent": 2,
 			"original": "Verstärkung ist eingetroffen. Ihr seid umzingelt.",
 			"lines":
@@ -2410,7 +2410,7 @@
 			]
 		},
 		{
-			"path": [25,95,790,1],
+			"path": [95,790,1],
 			"indent": 3,
 			"original": "- Du hast noch \\v[1863] Züge zur Verfügung -",
 			"lines":
@@ -2419,7 +2419,7 @@
 			]
 		},
 		{
-			"path": [25,95,835,1],
+			"path": [95,835,1],
 			"indent": 3,
 			"original": "Cibon: Nichts wie weg hier!",
 			"lines":
@@ -2428,7 +2428,7 @@
 			]
 		},
 		{
-			"path": [25,95,839,1],
+			"path": [95,839,1],
 			"indent": 4,
 			"original": "Kento: Fliehen, sofort!",
 			"lines":
@@ -2437,7 +2437,7 @@
 			]
 		},
 		{
-			"path": [25,95,842,1],
+			"path": [95,842,1],
 			"indent": 4,
 			"original": "Soko: Jetzt können wir fliehen!",
 			"lines":
@@ -2446,7 +2446,7 @@
 			]
 		},
 		{
-			"path": [25,95,908,2],
+			"path": [95,908,2],
 			"indent": 5,
 			"original": "Cibon: Einen haben wir! Wie war das mit deiner Prognose, Robin?",
 			"lines":
@@ -2456,7 +2456,7 @@
 			]
 		},
 		{
-			"path": [25,95,913,1],
+			"path": [95,913,1],
 			"indent": 5,
 			"original": "Robin: Noch ist der Kampf nicht vorbei!",
 			"lines":
@@ -2465,7 +2465,7 @@
 			]
 		},
 		{
-			"path": [25,95,935,1],
+			"path": [95,935,1],
 			"indent": 4,
 			"original": "Soko: So geht das, Männer!",
 			"lines":
@@ -2474,7 +2474,7 @@
 			]
 		},
 		{
-			"path": [25,95,976,2],
+			"path": [95,976,2],
 			"indent": 4,
 			"original": "Jorn: Lass dir das bitte ENDLICH MAL eine Lektion sein, du Dickkopf!",
 			"lines":
@@ -2484,7 +2484,7 @@
 			]
 		},
 		{
-			"path": [25,96,5,2],
+			"path": [96,5,2],
 			"indent": 4,
 			"original": "Seldan: Ich werde euch zeigen mit welchem Feuer wir hier spielen!",
 			"lines":
@@ -2493,7 +2493,7 @@
 			]
 		},
 		{
-			"path": [25,96,10,2],
+			"path": [96,10,2],
 			"indent": 4,
 			"original": "Seldan: Und seht mich nur als ein Beispiel für viele, die kommen werden!",
 			"lines":
@@ -2503,7 +2503,7 @@
 			]
 		},
 		{
-			"path": [25,96,15,2],
+			"path": [96,15,2],
 			"indent": 4,
 			"original": "Seldan: Solange Leute wie ich existieren, kann kein Frieden herrschen!",
 			"lines":
@@ -2513,7 +2513,7 @@
 			]
 		},
 		{
-			"path": [25,96,20,2],
+			"path": [96,20,2],
 			"indent": 3,
 			"original": "Seldan: Doch ich werde die Quelle allen Übels, die Quelle all dieser Macht, zerstören!",
 			"lines":
@@ -2523,7 +2523,7 @@
 			]
 		},
 		{
-			"path": [25,96,22,2],
+			"path": [96,22,2],
 			"indent": 3,
 			"original": "Seldan: Und diese lächerliche Maschine wird mich nicht daran hindern!",
 			"lines":
@@ -2533,7 +2533,7 @@
 			]
 		},
 		{
-			"path": [25,96,24,1],
+			"path": [96,24,1],
 			"indent": 3,
 			"original": "Seldan: Zähl deine letzten Sekunden!!",
 			"lines":
@@ -2543,7 +2543,7 @@
 			]
 		},
 		{
-			"path": [25,96,36,2],
+			"path": [96,36,2],
 			"indent": 7,
 			"original": "Seldan: Ich werde euch zeigen, mit welchem Feuer wir hier spielen!",
 			"lines":
@@ -2552,7 +2552,7 @@
 			]
 		},
 		{
-			"path": [25,96,45,2],
+			"path": [96,45,2],
 			"indent": 7,
 			"original": "Seldan: Und seht mich nur als ein Beispiel für viele, die kommen werden!",
 			"lines":
@@ -2562,7 +2562,7 @@
 			]
 		},
 		{
-			"path": [25,96,54,2],
+			"path": [96,54,2],
 			"indent": 7,
 			"original": "Seldan: So lange Leute wie ich existieren, kann kein Frieden herrschen!",
 			"lines":
@@ -2572,7 +2572,7 @@
 			]
 		},
 		{
-			"path": [25,96,76,2],
+			"path": [96,76,2],
 			"indent": 3,
 			"original": "Kento: Redet! Wer seid ihr!? Was wollt ihr!? Und wieso greift ihr mich an?!",
 			"lines":
@@ -2582,7 +2582,7 @@
 			]
 		},
 		{
-			"path": [25,96,78,1],
+			"path": [96,78,1],
 			"indent": 3,
 			"original": "(Kento: Verdammt, wo bleiben die anderen?!)",
 			"lines":
@@ -2591,7 +2591,7 @@
 			]
 		},
 		{
-			"path": [25,96,89,2],
+			"path": [96,89,2],
 			"indent": 3,
 			"original": "????: Licht in weiter Dunkelheit, erhelle den Weg, leite die Kraft und führe sie her!",
 			"lines":
@@ -2601,7 +2601,7 @@
 			]
 		},
 		{
-			"path": [25,96,105,2],
+			"path": [96,105,2],
 			"indent": 3,
 			"original": "Saion: Jetzt werdet ihr den Preis dafür zahlen, dass ihr euch mit uns angelegt habt!",
 			"lines":
@@ -2611,7 +2611,7 @@
 			]
 		},
 		{
-			"path": [25,96,107,1],
+			"path": [96,107,1],
 			"indent": 3,
 			"original": "Saion: ERSTE ZINKAR-RACHESCHLAG-TECHNIK!",
 			"lines":
@@ -2620,7 +2620,7 @@
 			]
 		},
 		{
-			"path": [25,96,121,1],
+			"path": [96,121,1],
 			"indent": 4,
 			"original": "Saion: Los Jorn, jetzt bist du dran! Zeig's ihnen!",
 			"lines":
@@ -2629,7 +2629,7 @@
 			]
 		},
 		{
-			"path": [25,96,122,2],
+			"path": [96,122,2],
 			"indent": 4,
 			"original": "Jorn: NEIN! Ich werde NICHT diese schwachsinnige Technik ausführen!",
 			"lines":
@@ -2639,7 +2639,7 @@
 			]
 		},
 		{
-			"path": [25,96,124,1],
+			"path": [96,124,1],
 			"indent": 4,
 			"original": "Saion: Jorn?! Wenn du dich jetzt stur stellst, ...",
 			"lines":
@@ -2648,7 +2648,7 @@
 			]
 		},
 		{
-			"path": [25,96,125,2],
+			"path": [96,125,2],
 			"indent": 4,
 			"original": "Saion: ... dann bist DU derjenige der die Schuld trägt, sollten wir verlieren!",
 			"lines":
@@ -2658,7 +2658,7 @@
 			]
 		},
 		{
-			"path": [25,96,127,2],
+			"path": [96,127,2],
 			"indent": 4,
 			"original": "Jorn: Wir verlieren so oder so, egal ob es mache oder nicht!",
 			"lines":
@@ -2668,7 +2668,7 @@
 			]
 		},
 		{
-			"path": [25,96,129,1],
+			"path": [96,129,1],
 			"indent": 4,
 			"original": "Saion: Dann beweise mir das!",
 			"lines":
@@ -2677,7 +2677,7 @@
 			]
 		},
 		{
-			"path": [25,96,130,1],
+			"path": [96,130,1],
 			"indent": 4,
 			"original": "Jorn: ...Wie du meinst, also dann...",
 			"lines":
@@ -2686,7 +2686,7 @@
 			]
 		},
 		{
-			"path": [25,96,131,1],
+			"path": [96,131,1],
 			"indent": 4,
 			"original": "Saion: MIT DEM SPRUCH!",
 			"lines":
@@ -2695,7 +2695,7 @@
 			]
 		},
 		{
-			"path": [25,96,132,1],
+			"path": [96,132,1],
 			"indent": 4,
 			"original": "Jorn: Gaa... zweite Zink...",
 			"lines":
@@ -2704,7 +2704,7 @@
 			]
 		},
 		{
-			"path": [25,96,133,1],
+			"path": [96,133,1],
 			"indent": 4,
 			"original": "Saion: LAUTER!",
 			"lines":
@@ -2713,7 +2713,7 @@
 			]
 		},
 		{
-			"path": [25,96,134,1],
+			"path": [96,134,1],
 			"indent": 4,
 			"original": "Jorn: ZWEITE ZINKAR-RACHESCHLAG-TECHNIK!",
 			"lines":
@@ -2722,7 +2722,7 @@
 			]
 		},
 		{
-			"path": [25,96,150,2],
+			"path": [96,150,2],
 			"indent": 2,
 			"original": "Genyu: Jetzt ist Schluss! Ich hab genug gehört! Ich weiß nicht was mit dir geschehen ist...",
 			"lines":
@@ -2732,7 +2732,7 @@
 			]
 		},
 		{
-			"path": [25,96,152,2],
+			"path": [96,152,2],
 			"indent": 2,
 			"original": "Genyu: Aber jetzt ist nicht der Zeitpunkt um das zu klären!",
 			"lines":
@@ -2741,7 +2741,7 @@
 			]
 		},
 		{
-			"path": [25,96,154,1],
+			"path": [96,154,1],
 			"indent": 2,
 			"original": "Genyu: Wir werden noch reden, mein Junge!",
 			"lines":
@@ -2750,7 +2750,7 @@
 			]
 		},
 		{
-			"path": [25,96,162,1],
+			"path": [96,162,1],
 			"indent": 4,
 			"original": "Kento: DU BIST AN ALLEM SCHULD! DU ALLEINE!",
 			"lines":
@@ -2760,7 +2760,7 @@
 			]
 		},
 		{
-			"path": [25,96,164,1],
+			"path": [96,164,1],
 			"indent": 4,
 			"original": "Kento: DU WIRST MICH NICHT UNTERKRIEGEN! NIEMALS!",
 			"lines":
@@ -2769,7 +2769,7 @@
 			]
 		},
 		{
-			"path": [25,96,182,2],
+			"path": [96,182,2],
 			"indent": 5,
 			"original": "Kento: DU HAST KEIN RECHT HIER ZU STEHEN! STIRB! VERRECKE!!",
 			"lines":
@@ -2779,7 +2779,7 @@
 			]
 		},
 		{
-			"path": [25,96,214,1],
+			"path": [96,214,1],
 			"indent": 5,
 			"original": "(Genyu: Was... was ist das für eine Wut in ihm?!)",
 			"lines":
@@ -2788,7 +2788,7 @@
 			]
 		},
 		{
-			"path": [25,96,232,1],
+			"path": [96,232,1],
 			"indent": 3,
 			"original": "Sedric: Spürt meinen Zorn!",
 			"lines":
@@ -2797,7 +2797,7 @@
 			]
 		},
 		{
-			"path": [25,96,248,2],
+			"path": [96,248,2],
 			"indent": 4,
 			"original": "Robin: So grün wie ihr noch seid habt ihr keine Chance gegen uns! Versucht es erst gar nicht!",
 			"lines":
@@ -2807,7 +2807,7 @@
 			]
 		},
 		{
-			"path": [25,96,254,2],
+			"path": [96,254,2],
 			"indent": 5,
 			"original": "Cibon: Aha? Frag mich nich' wieso, aber irgend wie seh' ich eindeutig mehr Grün auf eurer Seite.",
 			"lines":
@@ -2817,7 +2817,7 @@
 			]
 		},
 		{
-			"path": [25,96,259,2],
+			"path": [96,259,2],
 			"indent": 5,
 			"original": "Robin: Die dummen Sprüche werde ich euch schon ausschießen!",
 			"lines":
@@ -2827,7 +2827,7 @@
 			]
 		},
 		{
-			"path": [25,96,279,2],
+			"path": [96,279,2],
 			"indent": 3,
 			"original": "Saion: SPÜRT DEN ZORN DER ZINKAR-BRÜRDER, GRAUSAMER DENN JE!",
 			"lines":
@@ -2837,7 +2837,7 @@
 			]
 		},
 		{
-			"path": [25,96,281,1],
+			"path": [96,281,1],
 			"indent": 3,
 			"original": "Saion: ERSTE ZINKAR-RACHESCHLAG-TECHNIK!",
 			"lines":
@@ -2846,7 +2846,7 @@
 			]
 		},
 		{
-			"path": [25,96,298,2],
+			"path": [96,298,2],
 			"indent": 4,
 			"original": "Saion: Los Jorn! Mach sie fertig mit deiner neuen Spezialtechnik!",
 			"lines":
@@ -2856,7 +2856,7 @@
 			]
 		},
 		{
-			"path": [25,96,300,2],
+			"path": [96,300,2],
 			"indent": 4,
 			"original": "Jorn: Was? Diese ach so tolle Spezialtechnik ist mir bisher noch kein einziges Mal gelungen!",
 			"lines":
@@ -2866,7 +2866,7 @@
 			]
 		},
 		{
-			"path": [25,96,303,2],
+			"path": [96,303,2],
 			"indent": 4,
 			"original": "Jorn: Vergiss es! Ich werde mich hier nicht blamieren!",
 			"lines":
@@ -2876,7 +2876,7 @@
 			]
 		},
 		{
-			"path": [25,96,305,2],
+			"path": [96,305,2],
 			"indent": 4,
 			"original": "Saion: Stell dich nicht so an oder willst du, dass die Dolche heute Abend wieder dran bleiben?",
 			"lines":
@@ -2886,7 +2886,7 @@
 			]
 		},
 		{
-			"path": [25,96,308,2],
+			"path": [96,308,2],
 			"indent": 4,
 			"original": "Jorn: Args! Diese verdammten Dolche... Was auch immer!",
 			"lines":
@@ -2896,7 +2896,7 @@
 			]
 		},
 		{
-			"path": [25,96,310,1],
+			"path": [96,310,1],
 			"indent": 4,
 			"original": "Saion: Mit dem Spruch, und zwar aus vollem Herzen!",
 			"lines":
@@ -2905,7 +2905,7 @@
 			]
 		},
 		{
-			"path": [25,96,313,2],
+			"path": [96,313,2],
 			"indent": 4,
 			"original": "Jorn: JAJA! DRITTE, VERDAMMTE ZINKAR-FÜR-WELCHE- RACHE-AUCH-IMMER-RACHESCHLAG-TECHNIK!",
 			"lines":
@@ -2915,7 +2915,7 @@
 			]
 		},
 		{
-			"path": [25,96,332,2],
+			"path": [96,332,2],
 			"indent": 3,
 			"original": "Chef: Jetz' zesch isch eisch mal, wie dòòs lewwen inna Grub is!",
 			"lines":
@@ -2925,7 +2925,7 @@
 			]
 		},
 		{
-			"path": [25,96,346,2],
+			"path": [96,346,2],
 			"indent": 3,
 			"original": "Chef: So lòòngsòòm bin isch grimmelwiedisch! Jetz' kriehd ihr Fäng!",
 			"lines":
@@ -2935,7 +2935,7 @@
 			]
 		},
 		{
-			"path": [25,96,360,2],
+			"path": [96,360,2],
 			"indent": 3,
 			"original": "Chef: Ei jòò, nesch schlescht! Da holl isch wohl bessa mei Schdärgedrong!",
 			"lines":
@@ -2945,7 +2945,7 @@
 			]
 		},
 		{
-			"path": [25,97,8,2],
+			"path": [97,8,2],
 			"indent": 4,
 			"original": "Kento: So! Jetzt kommt die 3er-Combo!",
 			"lines":
@@ -2955,7 +2955,7 @@
 			]
 		},
 		{
-			"path": [25,97,14,3],
+			"path": [97,14,3],
 			"indent": 4,
 			"original": "Da Kento nun 2 SP hat (Punkte unter dem Namen), kann er eine Spezialattacke ausführen.",
 			"lines":
@@ -2966,7 +2966,7 @@
 			]
 		},
 		{
-			"path": [25,97,17,2],
+			"path": [97,17,2],
 			"indent": 4,
 			"original": "Du findest sie hier unter Speerkunst",
 			"lines":
@@ -2976,7 +2976,7 @@
 			]
 		},
 		{
-			"path": [25,97,19,3],
+			"path": [97,19,3],
 			"indent": 4,
 			"original": "SP bekommt man jedesmal, wenn man mit einer offensiven Aktion einen Treffer landet.",
 			"lines":
@@ -2987,7 +2987,7 @@
 			]
 		},
 		{
-			"path": [25,97,32,1],
+			"path": [97,32,1],
 			"indent": 4,
 			"original": "Cibon: Jetzt fliegt die Axt, Freundchen!",
 			"lines":
@@ -2996,7 +2996,7 @@
 			]
 		},
 		{
-			"path": [25,97,37,3],
+			"path": [97,37,3],
 			"indent": 4,
 			"original": "Da Cibon nun 2 SP hat (Punkte unter dem Namen), kann er eine Spezialattacke ausführen.",
 			"lines":
@@ -3007,7 +3007,7 @@
 			]
 		},
 		{
-			"path": [25,97,40,2],
+			"path": [97,40,2],
 			"indent": 4,
 			"original": "Du findest sie hier unter Axt-Technik",
 			"lines":
@@ -3017,7 +3017,7 @@
 			]
 		},
 		{
-			"path": [25,97,42,3],
+			"path": [97,42,3],
 			"indent": 4,
 			"original": "SP bekommt man jedesmal, wenn man mit einer offensiven Aktion einen Treffer landet.",
 			"lines":
@@ -3028,7 +3028,7 @@
 			]
 		},
 		{
-			"path": [25,97,70,2],
+			"path": [97,70,2],
 			"indent": 2,
 			"original": "Kento: 3 gegen 2, aber sie scheinen unerfahren im Kampf.",
 			"lines":
@@ -3038,7 +3038,7 @@
 			]
 		},
 		{
-			"path": [25,97,72,2],
+			"path": [97,72,2],
 			"indent": 2,
 			"original": "Kento: Wir konzentrieren uns auf einen Gegner und attackieren bis er fällt.",
 			"lines":
@@ -3048,7 +3048,7 @@
 			]
 		},
 		{
-			"path": [25,97,74,2],
+			"path": [97,74,2],
 			"indent": 2,
 			"original": "Kento: Also einen nach dem anderen ausschalten!",
 			"lines":
@@ -3058,7 +3058,7 @@
 			]
 		},
 		{
-			"path": [25,97,76,1],
+			"path": [97,76,1],
 			"indent": 2,
 			"original": "Cibon: Okay. Verstanden, Kumpel.",
 			"lines":
@@ -3067,7 +3067,7 @@
 			]
 		},
 		{
-			"path": [25,97,81,3],
+			"path": [97,81,3],
 			"indent": 2,
 			"original": "Wähle Angriff, um eine Attacke mit der Waffe auszuführen.",
 			"lines":
@@ -3077,7 +3077,7 @@
 			]
 		},
 		{
-			"path": [25,98,5,1],
+			"path": [98,5,1],
 			"indent": 2,
 			"original": "Genyu: Einen nach den anderen beseitigen!",
 			"lines":
@@ -3086,7 +3086,7 @@
 			]
 		},
 		{
-			"path": [25,98,6,2],
+			"path": [98,6,2],
 			"indent": 2,
 			"original": "Genyu: Konzentriert euch auf ein Ziel und zieht die Sache durch!",
 			"lines":
@@ -3096,7 +3096,7 @@
 			]
 		},
 		{
-			"path": [25,98,8,1],
+			"path": [98,8,1],
 			"indent": 2,
 			"original": "Soldaten: Jawohl, Sir!",
 			"lines":
@@ -3105,7 +3105,7 @@
 			]
 		},
 		{
-			"path": [25,98,85,2],
+			"path": [98,85,2],
 			"indent": 5,
 			"original": "Genyu: Genug jetzt! Bereitet euch auf euer Ende vor!",
 			"lines":
@@ -3115,7 +3115,7 @@
 			]
 		},
 		{
-			"path": [25,98,100,2],
+			"path": [98,100,2],
 			"indent": 5,
 			"original": "Genyu: War das etwa schon alles? Lachhaft!",
 			"lines":
@@ -3125,7 +3125,7 @@
 			]
 		},
 		{
-			"path": [25,98,102,2],
+			"path": [98,102,2],
 			"indent": 5,
 			"original": "Genyu: Wenn ich daran denke, wie wir uns Monate auf diese Schlacht vorbereitet haben!",
 			"lines":
@@ -3135,7 +3135,7 @@
 			]
 		},
 		{
-			"path": [25,116,41,1],
+			"path": [116,41,1],
 			"indent": 1,
 			"original": "...Was ist das?",
 			"lines":
@@ -3145,7 +3145,7 @@
 			"__comment__": "The original line had an indent of 17 spaces. Overall, you want to center the text within a box of 50 chars."
 		},
 		{
-			"path": [25,116,58,1],
+			"path": [116,58,1],
 			"indent": 1,
 			"original": "Nichts zu finden.",
 			"lines":
@@ -3155,7 +3155,7 @@
 			"__comment__": "Same as the above comment."
 		},
 		{
-			"path": [25,118,42,1],
+			"path": [118,42,1],
 			"indent": 4,
 			"original": "",
 			"lines":
@@ -3164,7 +3164,7 @@
 			]
 		},
 		{
-			"path": [25,119,24,1],
+			"path": [119,24,1],
 			"indent": 3,
 			"original": "",
 			"lines":
@@ -3173,7 +3173,7 @@
 			]
 		},
 		{
-			"path": [25,145,5,1],
+			"path": [145,5,1],
 			"indent": 1,
 			"original": "Wollen Sie für \\v[328] Fejar übernachten?",
 			"lines":
@@ -3182,7 +3182,7 @@
 			]
 		},
 		{
-			"path": [25,145,19,1],
+			"path": [145,19,1],
 			"indent": 1,
 			"original": "Wollen Sie für \\v[328] Fejar übernachten?",
 			"lines":
@@ -3191,7 +3191,7 @@
 			]
 		},
 		{
-			"path": [25,152,100,2],
+			"path": [152,100,2],
 			"indent": 1,
 			"original": "Cibon: Du willst also handeln, Kumpel?",
 			"lines":
@@ -3200,7 +3200,7 @@
 			]
 		},
 		{
-			"path": [25,152,103,2],
+			"path": [152,103,2],
 			"indent": 1,
 			"original": "Cibon: Brauchste eine Erklärung, oder weißt du schon Bescheit?",
 			"lines":
@@ -3210,7 +3210,7 @@
 			]
 		},
 		{
-			"path": [25,152,108,3],
+			"path": [152,108,3],
 			"indent": 2,
 			"original": "Cibon: Okay! Also was du hier siehst, ist das Handel-Menu. So komplex ist's nicht.",
 			"lines":
@@ -3221,7 +3221,7 @@
 			]
 		},
 		{
-			"path": [25,152,111,2],
+			"path": [152,111,2],
 			"indent": 2,
 			"original": "Cibon: Ganz oben sieht man das Item, das man hier erhalten kann.",
 			"lines":
@@ -3231,7 +3231,7 @@
 			]
 		},
 		{
-			"path": [25,152,113,3],
+			"path": [152,113,3],
 			"indent": 2,
 			"original": "Cibon: Darunter sind die Items aufgelistet, die du für das obere Item eintauschen musst.",
 			"lines":
@@ -3242,7 +3242,7 @@
 			]
 		},
 		{
-			"path": [25,152,116,4],
+			"path": [152,116,4],
 			"indent": 2,
 			"original": "Cibon: Daneben siehste noch wie oft du das jeweilige Item benötigst. Bis zu drei verschiedene Items können verlangt werden.",
 			"lines":
@@ -3254,7 +3254,7 @@
 			]
 		},
 		{
-			"path": [25,152,120,4],
+			"path": [152,120,4],
 			"indent": 2,
 			"original": "Cibon: Sollteste von einem Item nicht genug haben, um's hier einzutauschen, wird es grau angezeigt.",
 			"lines":
@@ -3265,7 +3265,7 @@
 			]
 		},
 		{
-			"path": [25,152,124,4],
+			"path": [152,124,4],
 			"indent": 2,
 			"original": "Cibon: Außerdem kannste mit dem Cursor über jedes angezeigte Item gehen und nachsehen, wie oft du's im Inventar hast.",
 			"lines":
@@ -3277,7 +3277,7 @@
 			]
 		},
 		{
-			"path": [25,152,128,4],
+			"path": [152,128,4],
 			"indent": 2,
 			"original": "Cibon: Der Tausch kann NUR DANN vollzogen werden, wenn du von jedem Item genug Exemplare bei dir trägst.",
 			"lines":
@@ -3288,7 +3288,7 @@
 			]
 		},
 		{
-			"path": [25,152,132,3],
+			"path": [152,132,3],
 			"indent": 2,
 			"original": "Cibon: Um nun zu tauschen musste \"Kaufen\" wählen. Dann ändert sich die Anzeige wie folgt:",
 			"lines":
@@ -3299,7 +3299,7 @@
 			]
 		},
 		{
-			"path": [25,152,141,4],
+			"path": [152,141,4],
 			"indent": 2,
 			"original": "Cibon: JEDESMAL wenn du jetzt Enter drückst, wird der Tausch einmal vollzogen. Drücke Esc wenn du genug getauscht hast.",
 			"lines":
@@ -3311,7 +3311,7 @@
 			]
 		},
 		{
-			"path": [25,152,145,3],
+			"path": [152,145,3],
 			"indent": 2,
 			"original": "Cibon: Nach jedem vollzogenen Tausch wird zudem die Anzeige aktualisiert.",
 			"lines":
@@ -3321,7 +3321,7 @@
 			]
 		},
 		{
-			"path": [25,152,148,3],
+			"path": [152,148,3],
 			"indent": 2,
 			"original": "Cibon: So kannste sehen, ob du genug Items für einen weiteren Tausch hast.",
 			"lines":
@@ -3332,7 +3332,7 @@
 			]
 		},
 		{
-			"path": [25,152,151,2],
+			"path": [152,151,2],
 			"indent": 2,
 			"original": "Cibon: Mehr gibt's dann hierzu nicht zu sagen...",
 			"lines":
@@ -3341,7 +3341,7 @@
 			]
 		},
 		{
-			"path": [25,152,159,4],
+			"path": [152,159,4],
 			"indent": 2,
 			"original": "Cibon: Aber achte bitte darauf, dass du unsere Handelsgegenstände nicht für irgend nen Mist vertauschst. Vergleiche am besten alle Angebote!",
 			"lines":
@@ -3353,7 +3353,7 @@
 			]
 		},
 		{
-			"path": [25,152,163,1],
+			"path": [152,163,1],
 			"indent": 2,
 			"original": "Cibon: Viel Spass beim Tauschen!",
 			"lines":
@@ -3362,16 +3362,16 @@
 			]
 		},
 		{
-			"path": [25,152,166,1],
+			"path": [152,166,1],
 			"indent": 2,
 			"original": "Cibon: Tja, dann...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Well then..."
+				"\\c[2]\\n[2]\\c[0]: Well,\\. suit yourself..."
 			]
 		},
 		{
-			"path": [25,180,52,2],
+			"path": [180,52,2],
 			"indent": 3,
 			"original": "ANZIEH SKRIPT INVALIDE! Kann nur auf leere Element-Ausrüstung umändern",
 			"lines":
@@ -3381,7 +3381,7 @@
 			]
 		},
 		{
-			"path": [25,183,5,4],
+			"path": [183,5,4],
 			"indent": 1,
 			"original": "(Kento: Es macht nicht sonderlich viel Sinn, jetzt noch Erz abzubauen. Wir werden es eh nicht mehr abgeben können.)",
 			"lines":
@@ -3392,7 +3392,7 @@
 			]
 		},
 		{
-			"path": [25,183,22,1],
+			"path": [183,22,1],
 			"indent": 4,
 			"original": "FEHLER",
 			"lines":
@@ -3401,7 +3401,7 @@
 			]
 		},
 		{
-			"path": [25,185,4,1],
+			"path": [185,4,1],
 			"indent": 1,
 			"original": "Kento: Da sind wir...",
 			"lines":
@@ -3410,7 +3410,7 @@
 			]
 		},
 		{
-			"path": [25,185,6,1],
+			"path": [185,6,1],
 			"indent": 1,
 			"original": "Soko: ...und was jetzt?",
 			"lines":
@@ -3419,7 +3419,7 @@
 			]
 		},
 		{
-			"path": [25,185,8,3],
+			"path": [185,8,3],
 			"indent": 1,
 			"original": "Kento: Wir sollten uns besser nicht querstellen, sonst bekommen wir noch Ärger.",
 			"lines":
@@ -3430,7 +3430,7 @@
 			]
 		},
 		{
-			"path": [25,185,12,2],
+			"path": [185,12,2],
 			"indent": 1,
 			"original": "Kento: Wir werden hier schließlich auch beaufsichtigt, wie es scheint.",
 			"lines":
@@ -3440,7 +3440,7 @@
 			]
 		},
 		{
-			"path": [25,185,15,3],
+			"path": [185,15,3],
 			"indent": 1,
 			"original": "Cibon: Okay, dann mal schauen, wo man hier Erz findet.",
 			"lines":
@@ -3451,7 +3451,7 @@
 			]
 		},
 		{
-			"path": [25,185,22,3],
+			"path": [185,22,3],
 			"indent": 1,
 			"original": "Anmerkung: Die Element-Kugeln befinden sich noch in deinem Besitz.",
 			"lines":
@@ -3462,7 +3462,7 @@
 			]
 		},
 		{
-			"path": [25,185,25,2],
+			"path": [185,25,2],
 			"indent": 1,
 			"original": "Elementlevel Steigerung ist also noch möglich.",
 			"lines":
@@ -3472,7 +3472,7 @@
 			]
 		},
 		{
-			"path": [25,185,35,4],
+			"path": [185,35,4],
 			"indent": 2,
 			"original": "Felcis: So und was für eine Leistung erwartet man jetzt hier unten von einem schwächlichen Adelsmann wie mir?",
 			"lines":
@@ -3484,7 +3484,7 @@
 			]
 		},
 		{
-			"path": [25,185,40,3],
+			"path": [185,40,3],
 			"indent": 2,
 			"original": "Cibon: Hartes, anstrengendes, schweiß-auftreibendes Erzhacken. So etwas macht man halt in der Mine.",
 			"lines":
@@ -3495,7 +3495,7 @@
 			]
 		},
 		{
-			"path": [25,185,44,1],
+			"path": [185,44,1],
 			"indent": 2,
 			"original": "Felcis: Ahh... Fabelhaft.",
 			"lines":
@@ -3504,7 +3504,7 @@
 			]
 		},
 		{
-			"path": [25,185,46,4],
+			"path": [185,46,4],
 			"indent": 2,
 			"original": "Kento: Ich würde die Sache nicht auf die leichte Schulter nehmen. Wenn du hier nicht arbeitest, geben sie dir kaum etwas zu essen.",
 			"lines":
@@ -3516,7 +3516,7 @@
 			]
 		},
 		{
-			"path": [25,185,51,2],
+			"path": [185,51,2],
 			"indent": 2,
 			"original": "Felcis: Wäre eine gute Gelegenheit, mit einer Diät anzufangen.",
 			"lines":
@@ -3526,7 +3526,7 @@
 			]
 		},
 		{
-			"path": [25,185,63,2],
+			"path": [185,63,2],
 			"indent": 2,
 			"original": "Soko: Seid ihr euch wirklich Sicher mit dieser Fluchtsache?",
 			"lines":
@@ -3536,7 +3536,7 @@
 			]
 		},
 		{
-			"path": [25,185,66,4],
+			"path": [185,66,4],
 			"indent": 2,
 			"original": "Cibon: Was sollen wir denn bitte sonst machen? Auf anderem Wege werden wir hier wohl kaum raus kommen...",
 			"lines":
@@ -3548,7 +3548,7 @@
 			]
 		},
 		{
-			"path": [25,185,71,3],
+			"path": [185,71,3],
 			"indent": 2,
 			"original": "Kento: Das sehe ich genauso. Ich hoffe nur dieser Felcis weiß auch, was er tut.",
 			"lines":
@@ -3559,7 +3559,7 @@
 			]
 		},
 		{
-			"path": [25,185,75,1],
+			"path": [185,75,1],
 			"indent": 2,
 			"original": "Soko: ...",
 			"lines":
@@ -3568,7 +3568,7 @@
 			]
 		},
 		{
-			"path": [25,185,88,2],
+			"path": [185,88,2],
 			"indent": 4,
 			"original": "Felcis: Gut gefahren, Kento! Wir sind richtig angekommen.",
 			"lines":
@@ -3578,7 +3578,7 @@
 			]
 		},
 		{
-			"path": [25,185,91,4],
+			"path": [185,91,4],
 			"indent": 4,
 			"original": "Felcis: Jetzt gehen wir die Gleise zurück - bis zu der Stelle, wo die 2. Weiche war. Irgendwo dort müssen wir uns durchsprengen.",
 			"lines":
@@ -3590,7 +3590,7 @@
 			]
 		},
 		{
-			"path": [25,185,101,3],
+			"path": [185,101,3],
 			"indent": 5,
 			"original": "Felcis: Hm, die letzte Weiche bist du falsch abgebogen, Kento. Aber egal. Wir sind noch nah genug dran.",
 			"lines":
@@ -3601,7 +3601,7 @@
 			]
 		},
 		{
-			"path": [25,185,105,4],
+			"path": [185,105,4],
 			"indent": 5,
 			"original": "Felcis: Jetzt gehen wir die Gleise zurück - bis zu der Stelle, wo die 2. Weiche war. Irgendwo dort müssen wir uns durchsprengen.",
 			"lines":
@@ -3613,7 +3613,7 @@
 			]
 		},
 		{
-			"path": [25,185,114,4],
+			"path": [185,114,4],
 			"indent": 5,
 			"original": "Felcis: Nein, nein... so geht das nicht, Kento... Du hättest bei der ersten Weiche rechts abbiegen müssen.",
 			"lines":
@@ -3625,7 +3625,7 @@
 			]
 		},
 		{
-			"path": [25,185,119,4],
+			"path": [185,119,4],
 			"indent": 5,
 			"original": "Felcis: Naja. Also entweder gehen wir jetzt zu Fuß die ganzen Gleise zurück - oder wir versuchen es morgen nochmal.",
 			"lines":
@@ -3637,7 +3637,7 @@
 			]
 		},
 		{
-			"path": [25,186,11,2],
+			"path": [186,11,2],
 			"indent": 3,
 			"original": "Cibon: Sieh mal einer an, was hier alles so rumliegt.",
 			"lines":
@@ -3647,7 +3647,7 @@
 			]
 		},
 		{
-			"path": [25,186,14,2],
+			"path": [186,14,2],
 			"indent": 3,
 			"original": "Soko: Sollen wir das wirklich einstecken?",
 			"lines":
@@ -3657,7 +3657,7 @@
 			]
 		},
 		{
-			"path": [25,186,17,1],
+			"path": [186,17,1],
 			"indent": 3,
 			"original": "Cibon: Naja, wieso nicht?",
 			"lines":
@@ -3666,7 +3666,7 @@
 			]
 		},
 		{
-			"path": [25,186,19,4],
+			"path": [186,19,4],
 			"indent": 3,
 			"original": "Kento: Ich bin mir ziemlich sicher, dass die Wachen uns keine Gegenstände mit in unsere Zellen nehmen lassen.",
 			"lines":
@@ -3678,7 +3678,7 @@
 			]
 		},
 		{
-			"path": [25,186,24,3],
+			"path": [186,24,3],
 			"indent": 3,
 			"original": "Cibon: Ja... das heißt, falls sie mitbekommen, dass wir Gegenstände bei uns haben.",
 			"lines":
@@ -3689,7 +3689,7 @@
 			]
 		},
 		{
-			"path": [25,186,28,1],
+			"path": [186,28,1],
 			"indent": 3,
 			"original": "Soko: Du willst doch nicht etwa...",
 			"lines":
@@ -3698,7 +3698,7 @@
 			]
 		},
 		{
-			"path": [25,186,30,3],
+			"path": [186,30,3],
 			"indent": 3,
 			"original": "Cibon: Also ich weiß ja nich', wie das bei euch ist, aber ich will nicht ewig hier gefangen bleiben.",
 			"lines":
@@ -3709,7 +3709,7 @@
 			]
 		},
 		{
-			"path": [25,186,34,3],
+			"path": [186,34,3],
 			"indent": 3,
 			"original": "Cibon: Und sollten wir irgendwann mal vorhaben zu fliehen, könnte jeder Gegenstand nützlich sein.",
 			"lines":
@@ -3720,7 +3720,7 @@
 			]
 		},
 		{
-			"path": [25,186,38,4],
+			"path": [186,38,4],
 			"indent": 3,
 			"original": "Kento: Ja, da hast du Recht. Dann sollten wir aber darauf achten, dass wir nicht zuviel einstecken, sonst fällt das zu sehr auf.",
 			"lines":
@@ -3732,7 +3732,7 @@
 			]
 		},
 		{
-			"path": [25,186,43,3],
+			"path": [186,43,3],
 			"indent": 3,
 			"original": "Soko: Von Soldaten des Briganten- Orden zu Schwerverbrechern und Schmugglern, ganz große Klasse...",
 			"lines":
@@ -3743,7 +3743,7 @@
 			]
 		},
 		{
-			"path": [25,186,52,3],
+			"path": [186,52,3],
 			"indent": 2,
 			"original": "Info: Da du Gefangener bist, kannst du nicht beliebig Gegenstände aus der Mine mitnehmen.",
 			"lines":
@@ -3754,7 +3754,7 @@
 			]
 		},
 		{
-			"path": [25,186,55,3],
+			"path": [186,55,3],
 			"indent": 2,
 			"original": "Du musst darauf achten, dass die Wächter deine Gegenstände nicht bemerken.",
 			"lines":
@@ -3765,7 +3765,7 @@
 			]
 		},
 		{
-			"path": [25,186,58,3],
+			"path": [186,58,3],
 			"indent": 2,
 			"original": "Dies ist der Fall, wenn sich ihr Verdachts- Balken...",
 			"lines":
@@ -3776,7 +3776,7 @@
 			]
 		},
 		{
-			"path": [25,186,80,3],
+			"path": [186,80,3],
 			"indent": 2,
 			"original": "...nicht mit deinen Auffälligkeits-Balken schneidet.",
 			"lines":
@@ -3787,7 +3787,7 @@
 			]
 		},
 		{
-			"path": [25,186,97,3],
+			"path": [186,97,3],
 			"indent": 2,
 			"original": "Sind die Balken etwa wie oben angezeigt, werden deine Gegenstände nicht entdeckt.",
 			"lines":
@@ -3798,7 +3798,7 @@
 			]
 		},
 		{
-			"path": [25,186,108,3],
+			"path": [186,108,3],
 			"indent": 2,
 			"original": "Jetzt überschneiden sich die Balken und dein Fund wird höchstwahrscheinlich auffliegen.",
 			"lines":
@@ -3809,7 +3809,7 @@
 			]
 		},
 		{
-			"path": [25,186,111,3],
+			"path": [186,111,3],
 			"indent": 2,
 			"original": "Dein Auffälligkeits-Balken erhöht sich mit jedem Gegenstand, den du aufnimmst.",
 			"lines":
@@ -3820,7 +3820,7 @@
 			]
 		},
 		{
-			"path": [25,186,114,3],
+			"path": [186,114,3],
 			"indent": 2,
 			"original": "Je auffälliger der Gegenstand, desto mehr steigt der Auffälligkeits-Balken.",
 			"lines":
@@ -3831,7 +3831,7 @@
 			]
 		},
 		{
-			"path": [25,186,117,3],
+			"path": [186,117,3],
 			"indent": 2,
 			"original": "Der Verdachts-Balken der Wächter sinkt und steigt mit deinem Ruf in dieser Mine.",
 			"lines":
@@ -3842,7 +3842,7 @@
 			]
 		},
 		{
-			"path": [25,186,120,3],
+			"path": [186,120,3],
 			"indent": 2,
 			"original": "Je besser du deine Arbeit machst, desto weniger werden die Wachen auf dich achten.",
 			"lines":
@@ -3853,7 +3853,7 @@
 			]
 		},
 		{
-			"path": [25,186,123,3],
+			"path": [186,123,3],
 			"indent": 2,
 			"original": "Es gibt allerdings auch andere Ereignisse, die den Verdachts-Balken beeinflussen können.",
 			"lines":
@@ -3864,7 +3864,7 @@
 			]
 		},
 		{
-			"path": [25,186,126,3],
+			"path": [186,126,3],
 			"indent": 2,
 			"original": "Sollte dein Fund entdeckt werden, verlierst du alle an diesem Tag gefundenen Gegenstände.",
 			"lines":
@@ -3875,7 +3875,7 @@
 			]
 		},
 		{
-			"path": [25,186,129,3],
+			"path": [186,129,3],
 			"indent": 2,
 			"original": "Aufgenommenes kann nicht mehr abgelegt werden. Also überlege gut, was du mitnimmst.",
 			"lines":
@@ -3886,7 +3886,7 @@
 			]
 		},
 		{
-			"path": [25,188,20,2],
+			"path": [188,20,2],
 			"original": "Feierabend - Zurück zur Loren-Haltestelle!",
 			"lines":
 			[
@@ -3895,7 +3895,7 @@
 			]
 		},
 		{
-			"path": [25,188,29,3],
+			"path": [188,29,3],
 			"indent": 1,
 			"original": "Info: Wartest du zu lange mit der Rückkehr, fahren die Minen-Arbeiter ohne dich zurück.",
 			"lines":
@@ -3906,7 +3906,7 @@
 			]
 		},
 		{
-			"path": [25,188,32,2],
+			"path": [188,32,2],
 			"indent": 1,
 			"original": "Dies bedeutet:",
 			"lines":
@@ -3916,7 +3916,7 @@
 			]
 		},
 		{
-			"path": [25,188,34,3],
+			"path": [188,34,3],
 			"indent": 1,
 			"original": "Deine letzte Erz-Sammlung verfällt und du musst die gesamte Lorenstrecke selber zurücklaufen.",
 			"lines":
@@ -3927,7 +3927,7 @@
 			]
 		},
 		{
-			"path": [25,188,37,3],
+			"path": [188,37,3],
 			"indent": 1,
 			"original": "Des Weiteren stehst du unter größerem Verdacht, da du zu spät oben ankommst.",
 			"lines":
@@ -3938,7 +3938,7 @@
 			]
 		},
 		{
-			"path": [25,189,24,3],
+			"path": [189,24,3],
 			"original": "Der letzte Loren-Zug ist nach oben gefahren. Du musst den Weg alleine zurückgehen!",
 			"lines":
 			[
@@ -3948,7 +3948,7 @@
 			]
 		},
 		{
-			"path": [25,189,27,2],
+			"path": [189,27,2],
 			"original": "Der Verdacht der Wächter dir gegenüber steigt.",
 			"lines":
 			[
@@ -3957,7 +3957,7 @@
 			]
 		},
 		{
-			"path": [25,190,21,2],
+			"path": [190,21,2],
 			"indent": 1,
 			"original": "Wächter: Wenn ihr etwas Erz gesammelt habt, bringt es zu mir.",
 			"lines":
@@ -3967,7 +3967,7 @@
 			]
 		},
 		{
-			"path": [25,190,23,4],
+			"path": [190,23,4],
 			"indent": 1,
 			"original": "Wächter: Ich notiere mir, wie viel Erz hier jeder Gefangene gesammelt hat. Also kommt ja nicht auf die Idee, euch vor der Arbeit zu drücken. Wir merken das.",
 			"lines":
@@ -3979,7 +3979,7 @@
 			]
 		},
 		{
-			"path": [25,190,29,1],
+			"path": [190,29,1],
 			"indent": 1,
 			"original": "Wächter: Neues Erz?",
 			"lines":
@@ -3988,7 +3988,7 @@
 			]
 		},
 		{
-			"path": [25,190,39,2],
+			"path": [190,39,2],
 			"indent": 1,
 			"original": "Wächter: \\v[1] Erz, damit hast du insgesamt schon \\v[1883] Erz gesammelt.",
 			"lines":
@@ -3998,7 +3998,7 @@
 			]
 		},
 		{
-			"path": [25,190,47,4],
+			"path": [190,47,4],
 			"indent": 2,
 			"original": "Wächter: \\v[1883] Erz? Soll das ein Scherz sein?! Sofort wieder an die Arbeit! Denkt ja nicht, dass ihr heute irgendwas in den Magen bekommt, mit so einer schwachen Leistung!",
 			"lines":
@@ -4010,7 +4010,7 @@
 			]
 		},
 		{
-			"path": [25,190,54,2],
+			"path": [190,54,2],
 			"indent": 3,
 			"original": "Wächter: Das ist ziemlich mäßig. Sofort weiter! Ihr seid noch nicht fertig, hoffe ich?",
 			"lines":
@@ -4020,7 +4020,7 @@
 			]
 		},
 		{
-			"path": [25,190,59,1],
+			"path": [190,59,1],
 			"indent": 4,
 			"original": "Wächter: In Ordnung. Weiter so.",
 			"lines":
@@ -4029,7 +4029,7 @@
 			]
 		},
 		{
-			"path": [25,190,65,2],
+			"path": [190,65,2],
 			"indent": 6,
 			"original": "Wächter: Schön. Aber denkt nicht, dass ihr dafür den nächsten Tag frei bekommt.",
 			"lines":
@@ -4039,7 +4039,7 @@
 			]
 		},
 		{
-			"path": [25,190,69,2],
+			"path": [190,69,2],
 			"indent": 6,
 			"original": "Wächter: Gut, gut. Das ist aber kein Grund jetzt langsamer zu machen.",
 			"lines":
@@ -4049,7 +4049,7 @@
 			]
 		},
 		{
-			"path": [25,190,75,4],
+			"path": [190,75,4],
 			"indent": 5,
 			"original": "Wächter: Ihr hängt euch ja ziemlich rein! Man könnte fast denken, die Arbeit würde euch Spaß machen. Offensichtlich müssen wir euch noch etwas härter fordern!",
 			"lines":
@@ -4061,7 +4061,7 @@
 			]
 		},
 		{
-			"path": [25,190,91,1],
+			"path": [190,91,1],
 			"indent": 3,
 			"original": "Wächter: Hier etwas zur Auffrischung.",
 			"lines":
@@ -4070,7 +4070,7 @@
 			]
 		},
 		{
-			"path": [25,190,130,1],
+			"path": [190,130,1],
 			"indent": 3,
 			"original": "Wächter: Und jetzt weiter!",
 			"lines":
@@ -4079,7 +4079,7 @@
 			]
 		},
 		{
-			"path": [25,196,5,1],
+			"path": [196,5,1],
 			"indent": 4,
 			"original": "SZENE-EVENT# NICHT ZURÜCKGESETZT!!!1",
 			"lines":
@@ -4088,7 +4088,7 @@
 			]
 		},
 		{
-			"path": [25,196,13,1],
+			"path": [196,13,1],
 			"indent": 4,
 			"original": "SYSTEM-GRAFIK-POSITION NICHT ZURÜCKGESETZT!!!!1",
 			"lines":
@@ -4097,7 +4097,7 @@
 			]
 		},
 		{
-			"path": [25,211,317,3],
+			"path": [211,317,3],
 			"indent": 1,
 			"original": "[\\v[81]]TOKEN0\\v[95]  [\\v[82]]TOKEN1\\v[102]  [\\v[83]]TOKEN2\\v[109]  [\\v[84]]TOKEN3\\v[116] TOKEN4TOKEN5 (T-KENTO6T-CIBON7T-SOKO8T-GENYU9T-FELCIS10T-ILLEYA11T-JORN12)",
 			"lines":
@@ -4109,13 +4109,13 @@
 			"__comment__": "Appears in the magic lens?"
 		},
 		{
-			"path": [25,211,322,2],
+			"path": [211,322,2],
 			"indent": 1,
 			"original": "- Keine weiteren Informationen -",
 			"lines":
 			[
 				"",
-				"\\>         - Keine weiteren Informationen -"
+				"\\>            - No further information -"
 			],
 			"__comment__": "Appears when you inspect an item in the trading menu and there's nothing special about it."
 		}
@@ -4123,527 +4123,89 @@
 	"other":
 	[
 		{
-			"path": [25,145,6],
+			"path": [25,145,22,6,2],
 			"original": "\\>\\c[3]Ja, gerne\\c[0]/\\>Nein, danke",
 			"patch": "\\>\\c[3]Yes please\\c[0]/\\>No thanks"
 		},
 		{
-			"path": [25,145,7],
+			"path": [25,145,22,7,2],
 			"original": "\\>\\c[3]Ja, gerne\\c[0]",
 			"patch": "\\>\\c[3]Yes please\\c[0]"
 		},
 		{
-			"path": [25,145,11],
+			"path": [25,145,22,11,2],
 			"original": "\\>Nein, danke",
 			"patch": "\\>No thanks"
 		},
 		{
-			"path": [25,145,14],
-			"original": "",
-			"patch": ""
-		},
-		{
-			"path": [25,145,20],
+			"path": [25,145,22,20,2],
 			"original": "\\>Ja, gerne/\\>Nein, danke",
 			"patch": "\\>Yes please/\\>No thanks"
 		},
 		{
-			"path": [25,145,21],
+			"path": [25,145,22,21,2],
 			"original": "\\>Ja, gerne",
 			"patch": "\\>Yes please"
 		},
 		{
-			"path": [25,145,25],
+			"path": [25,145,22,25,2],
 			"original": "\\>Nein, danke",
 			"patch": "\\>No thanks"
 		},
 		{
-			"path": [25,145,28],
-			"original": "",
-			"patch": ""
-		},
-		{
-			"path": [25,152,105],
+			"path": [25,152,22,105,2],
 			"original": "Sag mir, wie es geht!/Nein, ich weiß schon Bescheid.",
 			"patch": "Tell me how to do it!/No, I already know how."
 		},
 		{
-			"path": [25,152,106],
+			"path": [25,152,22,106,2],
 			"original": "Sag mir, wie es geht!",
 			"patch": "Tell me how to do it!"
 		},
 		{
-			"path": [25,152,165],
+			"path": [25,152,22,165,2],
 			"original": "Nein, ich weiß schon Bescheid.",
 			"patch": "No, I already know how."
-		}
-	],
-	"vocabulary":
-	[
-		{
-			"path": [21,1],
-			"original": " emerges!",
-			"patch": " emerges!"
-		},
-		{
-			"path": [21,2],
-			"original": " Pre-emptive attack",
-			"patch": " Pre-emptive attack"
-		},
-		{
-			"path": [21,3],
-			"original": " You ran away safely!",
-			"patch": " You ran away safely!"
-		},
-		{
-			"path": [21,4],
-			"original": " You Failed to escape...",
-			"patch": " You Failed to escape..."
-		},
-		{
-			"path": [21,5],
-			"original": " You won a combat!",
-			"patch": " You won a combat!"
-		},
-		{
-			"path": [21,6],
-			"original": " Your Party has Perished",
-			"patch": " Your Party has Perished"
-		},
-		{
-			"path": [21,7],
-			"original": " EXP",
-			"patch": " EXP"
-		},
-		{
-			"path": [21,8],
-			"original": " You found",
-			"patch": " You found"
-		},
-		{
-			"path": [21,9],
-			"original": " money!",
-			"patch": " money!"
-		},
-		{
-			"path": [21,10],
-			"original": " recieved!",
-			"patch": " recieved!"
-		},
-		{
-			"path": [21,11],
-			"original": " attacks the enemy",
-			"patch": " attacks the enemy"
-		},
-		{
-			"path": [21,12],
-			"original": " A critical hit!",
-			"patch": " A critical hit!"
-		},
-		{
-			"path": [21,13],
-			"original": " A critical blow!",
-			"patch": " A critical blow!"
-		},
-		{
-			"path": [21,14],
-			"original": " defends.",
-			"patch": " defends."
-		},
-		{
-			"path": [21,15],
-			"original": " is waiting and watching.",
-			"patch": " is waiting and watching."
-		},
-		{
-			"path": [21,16],
-			"original": " is building strength.",
-			"patch": " is building strength."
-		},
-		{
-			"path": [21,17],
-			"original": " pounces.",
-			"patch": " pounces."
-		},
-		{
-			"path": [21,18],
-			"original": " runs away!",
-			"patch": " runs away!"
-		},
-		{
-			"path": [21,19],
-			"original": " transforms.",
-			"patch": " transforms."
-		},
-		{
-			"path": [21,20],
-			"original": " hp is lost",
-			"patch": " hp is lost"
-		},
-		{
-			"path": [21,21],
-			"original": " misses",
-			"patch": " misses"
-		},
-		{
-			"path": [21,22],
-			"original": " hp is lost",
-			"patch": " hp is lost"
-		},
-		{
-			"path": [21,23],
-			"original": " misses",
-			"patch": " misses"
-		},
-		{
-			"path": [21,24],
-			"original": " Failed",
-			"patch": " Failed"
-		},
-		{
-			"path": [21,25],
-			"original": " Failed",
-			"patch": " Failed"
-		},
-		{
-			"path": [21,26],
-			"original": " Failed",
-			"patch": " Failed"
-		},
-		{
-			"path": [21,27],
-			"original": " dodges",
-			"patch": " dodges"
-		},
-		{
-			"path": [21,28],
-			"original": "uses",
-			"patch": "uses"
-		},
-		{
-			"path": [21,29],
-			"original": " Recovered",
-			"patch": " Recovered"
-		},
-		{
-			"path": [21,30],
-			"original": " ",
-			"patch": " "
-		},
-		{
-			"path": [21,31],
-			"original": null,
-			"patch": null
-		},
-		{
-			"path": [21,32],
-			"original": null,
-			"patch": null
-		},
-		{
-			"path": [21,33],
-			"original": null,
-			"patch": null
-		},
-		{
-			"path": [21,34],
-			"original": "Defense increases!",
-			"patch": "Defense increases!"
-		},
-		{
-			"path": [21,35],
-			"original": "Defense Decreases!",
-			"patch": "Defense Decreases!"
-		},
-		{
-			"path": [21,36],
-			"original": "Raised a level!",
-			"patch": "Raised a level!"
-		},
-		{
-			"path": [21,37],
-			"original": "Acquired",
-			"patch": "Acquired"
-		},
-		{
-			"path": [21,41],
-			"original": "How can I help you?",
-			"patch": "How can I help you?"
-		},
-		{
-			"path": [21,42],
-			"original": "Hurry up and buy!!!",
-			"patch": "Hurry up and buy!!!"
-		},
-		{
-			"path": [21,43],
-			"original": " Buy",
-			"patch": " Buy"
-		},
-		{
-			"path": [21,44],
-			"original": " Sell",
-			"patch": " Sell"
-		},
-		{
-			"path": [21,45],
-			"original": " Leave",
-			"patch": " Leave"
-		},
-		{
-			"path": [21,46],
-			"original": " What do you want to buy?",
-			"patch": " What do you want to buy?"
-		},
-		{
-			"path": [21,47],
-			"original": " How Many",
-			"patch": " How Many"
-		},
-		{
-			"path": [21,48],
-			"original": " Done",
-			"patch": " Done"
-		},
-		{
-			"path": [21,49],
-			"original": " What do you wish to sell?",
-			"patch": " What do you wish to sell?"
-		},
-		{
-			"path": [21,50],
-			"original": " How many",
-			"patch": " How many"
-		},
-		{
-			"path": [21,51],
-			"original": " Thank you!",
-			"patch": " Thank you!"
-		},
-		{
-			"path": [21,54],
-			"original": "Hurry up would you please!",
-			"patch": "Hurry up would you please!"
-		},
-		{
-			"path": [21,55],
-			"original": "Hurry up already!!!",
-			"patch": "Hurry up already!!!"
-		},
-		{
-			"path": [21,56],
-			"original": "Buy",
-			"patch": "Buy"
-		},
-		{
-			"path": [21,57],
-			"original": "Sell",
-			"patch": "Sell"
-		},
-		{
-			"path": [21,58],
-			"original": "Leave",
-			"patch": "Leave"
-		},
-		{
-			"path": [21,59],
-			"original": "Bought",
-			"patch": "Bought"
-		},
-		{
-			"path": [21,60],
-			"original": "How Many",
-			"patch": "How Many"
-		},
-		{
-			"path": [21,61],
-			"original": "Done",
-			"patch": "Done"
-		},
-		{
-			"path": [21,62],
-			"original": "Sold",
-			"patch": "Sold"
-		},
-		{
-			"path": [21,63],
-			"original": "How many",
-			"patch": "How many"
-		},
-		{
-			"path": [21,64],
-			"original": "Go now!",
-			"patch": "Go now!"
-		},
-		{
-			"path": [21,67],
-			"original": "Good day!",
-			"patch": "Good day!"
-		},
-		{
-			"path": [21,68],
-			"original": "I dont have all day you know!!!!",
-			"patch": "I dont have all day you know!!!!"
-		},
-		{
-			"path": [21,69],
-			"original": "BUY",
-			"patch": "BUY"
-		},
-		{
-			"path": [21,70],
-			"original": "SELL",
-			"patch": "SELL"
-		},
-		{
-			"path": [21,71],
-			"original": "GO HOME",
-			"patch": "GO HOME"
-		},
-		{
-			"path": [21,72],
-			"original": "Bought",
-			"patch": "Bought"
-		},
-		{
-			"path": [21,73],
-			"original": "How much?",
-			"patch": "How much?"
-		},
-		{
-			"path": [21,74],
-			"original": "Done",
-			"patch": "Done"
-		},
-		{
-			"path": [21,75],
-			"original": "Sold",
-			"patch": "Sold"
-		},
-		{
-			"path": [21,76],
-			"original": "How many?",
-			"patch": "How many?"
-		},
-		{
-			"path": [21,77],
-			"original": "Thanx!",
-			"patch": "Thanx!"
-		},
-		{
-			"path": [21,80],
-			"original": "Only",
-			"patch": "Only"
-		},
-		{
-			"path": [21,81],
-			"original": " to rest here",
-			"patch": " to rest here"
-		},
-		{
-			"path": [21,82],
-			"original": "Do you wish to rest here?",
-			"patch": "Do you wish to rest here?"
-		},
-		{
-			"path": [21,83],
-			"original": "Yes",
-			"patch": "Yes"
-		},
-		{
-			"path": [21,84],
-			"original": "No",
-			"patch": "No"
-		},
-		{
-			"path": [21,85],
-			"original": "Its only",
-			"patch": "Its only"
-		},
-		{
-			"path": [21,86],
-			"original": " for the night",
-			"patch": " for the night"
-		},
-		{
-			"path": [21,87],
-			"original": "Do you wish to stay here for the night?",
-			"patch": "Do you wish to stay here for the night?"
-		},
-		{
-			"path": [21,88],
-			"original": "Yes",
-			"patch": "Yes"
-		},
-		{
-			"path": [21,89],
-			"original": "No",
-			"patch": "No"
-		},
-		{
-			"path": [21,92],
-			"original": "Owned Items",
-			"patch": "Owned Items"
-		},
-		{
-			"path": [21,93],
-			"original": "Equipped Items",
-			"patch": "Equipped Items"
-		},
-		{
-			"path": [21,95],
-			"original": "Fejar",
-			"patch": "Fejar"
-		},
-		{
-			"path": [21,101],
-			"original": "Fight",
-			"patch": "Fight"
-		},
-		{
-			"path": [21,102],
-			"original": "AutoBattle",
-			"patch": "AutoBattle"
 		},
 		{
-			"path": [21,103],
-			"original": "Run away",
-			"patch": "Run away"
+			"path": [25,211,22,4,2],
+			"original": "Starke ",
+			"patch": "ATK "
 		},
 		{
-			"path": [21,104],
-			"original": "Attack",
-			"patch": "Attack"
+			"path": [25,211,22,5,2],
+			"original": "Schutz ",
+			"patch": "DEF "
 		},
 		{
-			"path": [21,105],
-			"original": "Defense",
-			"patch": "Defense"
+			"path": [25,211,22,6,2],
+			"original": "Mental ",
+			"patch": "WIS "
 		},
 		{
-			"path": [21,106],
-			"original": "Item",
-			"patch": "Item"
+			"path": [25,211,22,7,2],
+			"original": "Agilität ",
+			"patch": "AGL "
 		},
 		{
-			"path": [21,107],
-			"original": "Tech Skill",
-			"patch": "Tech Skill"
+			"path": [25,211,22,9,2],
+			"original": "Starke +",
+			"patch": "ATK +"
 		},
 		{
-			"path": [21,108],
-			"original": "Equipment",
-			"patch": "Equipment"
+			"path": [25,211,22,13,2],
+			"original": "Schutz +",
+			"patch": "DEF +"
 		},
 		{
-			"path": [21,110],
-			"original": "Save",
-			"patch": "Save"
+			"path": [25,211,22,17,2],
+			"original": "Mental +",
+			"patch": "WIS +"
 		},
 		{
-			"path": [21,112],
-			"original": "End Game",
-			"patch": "End Game"
+			"path": [25,211,22,21,2],
+			"original": "Agilität +",
+			"patch": "AGL +"
 		},
 		{
 			"path": [21,114],
@@ -4666,51 +4228,6 @@
 			"patch": "Chapter"
 		},
 		{
-			"path": [21,124],
-			"original": "HP",
-			"patch": "HP"
-		},
-		{
-			"path": [21,125],
-			"original": "MP",
-			"patch": "MP"
-		},
-		{
-			"path": [21,126],
-			"original": "Normal",
-			"patch": "Normal"
-		},
-		{
-			"path": [21,127],
-			"original": "Ex",
-			"patch": "Ex"
-		},
-		{
-			"path": [21,128],
-			"original": "ID",
-			"patch": "ID"
-		},
-		{
-			"path": [21,129],
-			"original": "Lv",
-			"patch": "Lv"
-		},
-		{
-			"path": [21,130],
-			"original": "M",
-			"patch": "M"
-		},
-		{
-			"path": [21,131],
-			"original": "Cost",
-			"patch": "Cost"
-		},
-		{
-			"path": [21,132],
-			"original": "Attack",
-			"patch": "Attack"
-		},
-		{
 			"path": [21,133],
 			"original": "Defence",
 			"patch": "Defense"
@@ -4718,12 +4235,7 @@
 		{
 			"path": [21,134],
 			"original": "Mental",
-			"patch": "Mental"
-		},
-		{
-			"path": [21,135],
-			"original": "Ability",
-			"patch": "Ability"
+			"patch": "Wisdom"
 		},
 		{
 			"path": [21,136],

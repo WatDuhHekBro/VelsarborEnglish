@@ -1,0 +1,153 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [7,1,2,4],
+			"original": "Soldat vom Briganten-Orden: Verflucht! Zurzeit gibt es kaum Aufträge für den Briganten-Orden. Die meiste Zeit haben wir nichts zu tun und sitzen hier einfach nur rum...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Damn!\\. At the moment, there",
+				"are hardly any orders from the Brigantine Order.\\.",
+				"Most of the time, we have nothing to do and",
+				"just sit here..."
+			]
+		},
+		{
+			"path": [8,1,3,2],
+			"original": "Soldat vom Briganten-Orden: *seufz* Das Spiel liegt mir nicht...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: *sigh*\\. I don't like",
+				"this game..."
+			]
+		},
+		{
+			"path": [9,1,2,2],
+			"original": "Soldat vom Briganten-Orden: Verdammt, du hast eine totale Glückssträhne!",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Damn, you had a",
+				"total streak of luck!"
+			]
+		},
+		{
+			"path": [10,1,2,2],
+			"original": "Soldat vom Briganten-Orden: Full House! Und wieder gewonnen!",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: \\s[4]Full House!\\.",
+				"\\s[0]And I win again!"
+			]
+		},
+		{
+			"path": [11,2,2,4],
+			"original": "Soldat vom Briganten-Orden: Hm... eigentlich ganz interessant, was man hier für Bücher findet. Man erfährt viel über die Geschichte dieses Landes.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Hm... the books you can",
+				"find here are actually quite interesting.",
+				"You learn a lot about the history of this country."
+			]
+		},
+		{
+			"path": [11,2,6,4],
+			"original": "Soldat vom Briganten-Orden: Wusstet ihr, dass früher, als noch ein König an der Macht war, das Schloss von Nomerea sein Stützpunkt und das Zentrum des Landes war?",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Did you know that when the",
+				"king was in power, Nomerea Castle was his base",
+				"and the center of the country?"
+			]
+		},
+		{
+			"path": [11,2,10,3],
+			"original": "Soldat vom Briganten-Orden: Erst seit die Regierung in Buronia liegt, dient das Schloss nur zur Ausbildung von Soldaten.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: The castle only started",
+				"being used to train soldiers ever since the",
+				"government moved to Buronia."
+			]
+		},
+		{
+			"path": [12,2,2,2],
+			"original": "Soldat vom Briganten-Orden: Ohje, ich weiß nicht, wie ich die Zeit totschlagen soll...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Oh man, I don't know how to",
+				"pass the time..."
+			]
+		},
+		{
+			"path": [12,2,7,2],
+			"indent": 1,
+			"original": "Kento: Hm... Wie wäre es mit trainieren?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm...\\. how about training?"
+			]
+		},
+		{
+			"path": [12,2,10,2],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Trainieren? ... Öh?",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Training?\\. ...\\.Huh?"
+			]
+		},
+		{
+			"path": [12,2,14,3],
+			"indent": 1,
+			"original": "Cibon: Ach Kumpel, nicht jeder is' so trainingsbesessen wie du. Das musste verstehen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Kento,\\. not everyone is as",
+				"obsessed with training as you are.\\.",
+				"You gotta understand."
+			]
+		},
+		{
+			"path": [12,2,18,1],
+			"indent": 1,
+			"original": "Kento: \"Trainingsbesessen\"?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: \"Obsessed with training\"?"
+			]
+		},
+		{
+			"path": [12,2,20,4],
+			"indent": 1,
+			"original": "Cibon: Wenn du in deiner Freizeit nichts Besseres zu tun hast, als mit der Waffe zu üben, bist du das, finde ich.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: If you had nothing better to",
+				"do in your free time,\\. I'd find you\\.",
+				"just practicing with your weapon\\.",
+				"all day."
+			]
+		},
+		{
+			"path": [12,2,25,4],
+			"indent": 1,
+			"original": "Kento: Öhm... Wenn man als Soldat was werden will muss man doch viel trainieren. Also was ist daran falsch?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Well... If you want to become",
+				"a soldier, you have to train a lot.\\.",
+				"So what's wrong with that?"
+			]
+		},
+		{
+			"path": [12,2,30,2],
+			"indent": 1,
+			"original": "Cibon: Ohje... vergessen wir das besser. Du wirst es nicht verstehen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Oh...\\. let's just forget about",
+				"that.\\. You wouldn't understand."
+			]
+		}
+	]
+}

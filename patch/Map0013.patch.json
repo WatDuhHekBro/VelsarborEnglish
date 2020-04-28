@@ -194,7 +194,7 @@
 			"original": "Kento: ...Und mich hat der Schlaf bezwungen, wie es scheint.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] ...And sleep overcame me,",
+				"\\c[1]\\n[1]:\\c[0] And sleep overcame me,",
 				"it seems."
 			]
 		},
@@ -385,7 +385,7 @@
 				"\\c[10]Jorn:\\c[0] You're gonna do that",
 				"anyway.\\. This grandiose plan of yours",
 				"is gonna go wrong faster than",
-				"you can say"
+				"you can say\\^"
 			]
 		},
 		{
@@ -488,12 +488,13 @@
 		{
 			"path": [104,2,367,3],
 			"original": "Cibon: Ich krieg die Krise! Dieser Gasthof is' echt das Letzte... Allein schon wegen dem Bier!",
+			"__comment__": "Cibon: Les nerfs! Cette taverne est vraiment une honte... Par la bière, entre autres!",
 			"lines":
 			[
-				"\\c[2]Cibon:\\c[0] Man, I'm beat!\\. This is",
-				"definitely the last inn...\\.",
+				"\\c[2]Cibon:\\c[0] What a disgrace!\\. This is",
+				"definitely the worst inn...\\.",
 				"And that beer is just one",
-				"of those reasons why!"
+				"of the reasons why!"
 			]
 		},
 		{
@@ -510,7 +511,7 @@
 			"original": "Cibon: Ach, was weiß ich...",
 			"lines":
 			[
-				"\\c[2]Cibon:\\c[0] Gah, for all I know..."
+				"\\c[2]Cibon:\\c[0] Oh, what do I know..."
 			]
 		},
 		{
@@ -575,7 +576,7 @@
 			"lines":
 			[
 				"\\c[2]Cibon:\\c[0] Now now. No need to be as",
-				"vigilant as our old man Vorento."
+				"vigilant as the old man."
 			]
 		},
 		{
@@ -665,8 +666,8 @@
 			"original": "Jorn: ...Dank dir bald nur noch die \"gefangenen Zinkar-Brüder\", du VOLLTROTTEL!",
 			"lines":
 			[
-				"\\c[10]Jorn:\\c[0] ...Thanks to you, we'll",
-				"soon only be known as the \"captive",
+				"\\c[10]Jorn:\\c[0] Thanks to you, we'll soon",
+				"only be known as the \"captive",
 				"Zinkar Brothers\", you IDIOT!"
 			],
 			"__comment__": "**Note** It seems that there was a pun here, gefürchteten (dreaded) and gefangenen (captured), but I give up trying to make a similar pun."
@@ -911,7 +912,7 @@
 			"lines":
 			[
 				"\\c[1]\\n[1]:\\c[0] ...\\.Soon enough...\\.",
-				"...\\.But not now..."
+				"But not now..."
 			]
 		},
 		{
@@ -928,7 +929,7 @@
 			"original": "Kento: ...Was erwartest du? Wir haben hier eben die Nacht durchgemacht...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] ...What did you expect?\\.",
+				"\\c[1]\\n[1]:\\c[0] What did you expect?\\.",
 				"We've been up all night..."
 			]
 		},
@@ -1195,7 +1196,7 @@
 			"original": "Blondes Mädchen: Oh... sie hat mich extra darum gebeten, es dir NICHT zu sagen.",
 			"lines":
 			[
-				"\\c[10]Blonde Girl\\c[0]: Oh...\\. she specifically",
+				"\\c[10]Blonde Girl\\c[0]: Oh...\\. She specifically",
 				"asked me NOT to tell you."
 			]
 		},
@@ -1320,7 +1321,7 @@
 			"original": "Cibon: ...Wenn das Ihnen lieber ist... (VERDAMMT!)",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...Well if that's what you",
+				"\\c[2]\\n[2]\\c[0]: Well if that's what you",
 				"prefer... (DAMN!)"
 			]
 		},

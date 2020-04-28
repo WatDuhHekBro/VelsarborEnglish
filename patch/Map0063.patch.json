@@ -1,0 +1,422 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [12,2,3,2],
+			"original": "Soldat vom Briganten-Orden: Mist, wo bleiben die jetzt schon wieder...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Crap,\\. where are they now..."
+			]
+		},
+		{
+			"path": [12,2,5,4],
+			"original": "Soldat vom Briganten-Orden: Hey ihr. Wenn ihr etwas Zeit hättet, wäre es sehr nett, wenn ihr ein paar bestimmten Leuten sagen würdet, dass ich auf sie warte.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Hey you.\\. If you have some",
+				"time, it'd be nice if you told a few specific",
+				"people that I was waiting for them."
+			]
+		},
+		{
+			"path": [12,2,9,2],
+			"original": "Soldat vom Briganten-Orden: Würdet ihr das tun?",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Could you help me out here?"
+			]
+		},
+		{
+			"path": [12,2,16,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Großartig! Also es sind 3 Soldaten, die sich hier im Schloss oder auf dem Hof aufhalten müssten.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Great!\\. So there are three",
+				"soldiers who should be here in the castle or",
+				"in the garden."
+			]
+		},
+		{
+			"path": [12,2,19,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Einer von ihnen hat blaue Haare, den anderen erkennt ihr daran, dass er keine anständige Rüstung nach Vorschrift trägt, also so wie ihr...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: One of them has \\c[11]blue hair\\c[0],\\.",
+				"another you can tell by the fact that he \\c[11]doesn't",
+				"wear the proper armor according to the",
+				"regulations\\c[0], like you..."
+			]
+		},
+		{
+			"path": [12,2,23,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Und der 3. ... Na ja... den werdet ihr sicher nicht so leicht finden. Er versteckt sich nämlich gerne, um sich vor dem Training zu drücken.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: And the third...\\. Well...\\.",
+				"You certainly won't find him that easily.\\.",
+				"\\c[11]He likes to hide to avoid training.\\c[0]"
+			]
+		},
+		{
+			"path": [12,2,27,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Haltet also die Augen offen. Ich würde das Ganze ja gerne selbst machen, aber wenn jemand hier auftaucht, wie abgesprochen, und ich wäre dann weg, na ja...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: So keep your eyes open.\\.",
+				"I'd like to do the whole thing myself, but",
+				"if someone shows up here as agreed and I'm",
+				"gone, well..."
+			]
+		},
+		{
+			"path": [12,2,31,2],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Dadurch würde alles nur durcheinander geraten...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: This would only",
+				"lead to confusion..."
+			]
+		},
+		{
+			"path": [12,2,33,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Wenn ihr alle gefunden habt, werdet ihr uns wahrscheinlich unten im Inn von Nomerea finden.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: If you've found them all,",
+				"you'll probably find us down in the \\c[11]inn of",
+				"Nomerea\\c[0]."
+			]
+		},
+		{
+			"path": [12,2,36,2],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Jo, dann viel Erfolg beim Suchen.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Alright then,\\. good luck",
+				"with your search."
+			]
+		},
+		{
+			"path": [12,2,42,2],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Hm, na ja auch egal. Dann muss ich hier wohl weiter warten...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Hm, well, it doesn't matter.\\.",
+				"I just have to wait here..."
+			]
+		},
+		{
+			"path": [12,3,3,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Bisher habt ihr noch keinen gefunden? Irgendwo müssen sie doch stecken.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: You haven't found any of",
+				"them yet?\\. They have to be somewhere."
+			]
+		},
+		{
+			"path": [12,3,9,2],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Gut. Nur zwei meiner Kollegen fehlen noch.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Good.\\. Only two",
+				"of my colleagues are still missing."
+			]
+		},
+		{
+			"path": [12,3,14,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Klasse, jetzt fehlt nur noch einer. Aber langsam müssen wir auch los. Beeilt euch also.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Nice, now only one is missing.\\.",
+				"But we have to go soon.\\. So hurry up."
+			]
+		},
+		{
+			"path": [12,3,20,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Der Typ mit den blauen Haaren... ich weiß nicht wo er hier im Schloss sein könnte. Aber er ist der einzige mit blauen Haaren, soweit ich weiß.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: The guy with the \\c[11]blue",
+				"hair\\c[0]...\\. I don't know where he could be in",
+				"the castle. But he's the \\c[11]only one with",
+				"blue hair\\c[0], as far as I know."
+			]
+		},
+		{
+			"path": [12,3,27,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Der, der keine Rüstung nach Vorschrift hat, sollte ins Auge fallen. Es gibt nur sehr wenige derzeit, die noch keine richtige Rüstung bekommen haben.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: The one who \\c[11]has no armor",
+				"according to the regulations\\c[0] should stand out.",
+				"There are very few currently who haven't yet",
+				"received proper armor."
+			]
+		},
+		{
+			"path": [12,3,34,4],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Unser Faulenzer, der sich immer versteckt... hm... nun, soweit ich weiß, sollte er im Moment Training haben. Er müsste sich irgendwo auf dem Hof verstecken.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: The loafer, \\c[11]who is always",
+				"hiding\\c[0]...\\. Hm... Well\\., as far as I know, he",
+				"should be training at the moment. He should",
+				"be hiding \\c[11]somewhere in the garden\\c[0]."
+			]
+		},
+		{
+			"path": [12,3,40,4],
+			"original": "Soldat vom Briganten-Orden: Und vergesst nicht: Wenn ihr alle gefunden habt, werdet ihr uns zusammen im Inn dieser Stadt finden. Eine kleine Belohnung wird es auch geben.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: And don't forget:",
+				"If you've found all of them, you'll find",
+				"us together in the \\c[11]inn of this city\\c[0].\\.",
+				"There'll also be a small reward."
+			]
+		},
+		{
+			"path": [13,3,2,3],
+			"original": "Soldat vom Briganten-Orden: Hehe, ich freu mich schon auf das Essen im Inn. Das ist wirklich erstklassig, weißt du...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Heh, I'm looking forward",
+				"to eating at the inn. This actually has the",
+				"best food, you know..."
+			]
+		},
+		{
+			"path": [14,3,3,4],
+			"original": "Soldat vom Briganten-Orden: Mensch, macht mal schnell und findet die anderen. Wenn ich hier noch länger warte, sieht mein Vorgesetzter, dass ich mein Training schwänze!",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Sir, quickly go find the",
+				"others.\\. If I wait any longer here, my supervisor",
+				"will see that I'm skipping my training!"
+			]
+		},
+		{
+			"path": [15,3,2,3],
+			"original": "Soldat vom Briganten-Orden: Kaum zu glauben, dass alle bis auf einen das Treffen vergessen haben!",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: It's hard to believe that",
+				"everyone except me forgot the meeting!"
+			],
+			"__comment__": "Or maybe \"everyone except I\"?"
+		},
+		{
+			"path": [16,1,2,4],
+			"original": "Soldat vom Briganten-Orden: Vor wenigen Monaten war der Boden von dieser Eingangshalle noch so gründlich geputzt, dass jeder 5. Soldat auf ihm ausgerutscht ist.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: A few months ago, the floor",
+				"of this entrance hall was cleaned so thoroughly",
+				"that every fifth soldier slipped on it."
+			]
+		},
+		{
+			"path": [16,1,6,4],
+			"original": "Soldat vom Briganten-Orden: Irgendwann wurde dagegen was gemacht, als sogar die obersten Herren des Schlosses sich hier flach gelegt haben.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Something had to be done",
+				"about it at some point when even the nobility",
+				"of this castle fell down here."
+			]
+		},
+		{
+			"path": [16,1,13,3],
+			"indent": 1,
+			"original": "Cibon: Na ja ich fand' es immer klasse, den Weg hier entlang zu schlittern.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Well, I always thought it was",
+				"great to slide down the path here."
+			]
+		},
+		{
+			"path": [17,1,16,1],
+			"original": "Cibon: Alles okay, Kumpel?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Are you all right there?"
+			]
+		},
+		{
+			"path": [17,1,18,1],
+			"original": "Kento: Ja, ja.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Yeah yeah."
+			]
+		},
+		{
+			"path": [17,1,20,2],
+			"original": "Cibon: Denk dran, sie wusste von nichts. Sie ist halt neu hier.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Remember, she didn't know",
+				"anything.\\. She's new here."
+			]
+		},
+		{
+			"path": [17,1,23,1],
+			"original": "Kento: Hm...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm..."
+			]
+		},
+		{
+			"path": [17,1,25,3],
+			"original": "Cibon: Aber das is' echt unheimlich, wie gut die aussieht. Ich hätte da alles andere erwartet, NUR das nicht.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: But it's really strange how",
+				"good she looks.\\. I would've expected",
+				"anyone else, EXCEPT for her."
+			]
+		},
+		{
+			"path": [17,1,29,3],
+			"original": "Cibon: Wie alt die wohl ist? Ich meine, sie ist eine Signum-Expertin! Wie kann die so jung sein? Na ja...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: How old is she?\\. I mean,",
+				"she is a Signum expert after all!\\.",
+				"How can she be so young?\\. Well..."
+			]
+		},
+		{
+			"path": [17,1,33,3],
+			"original": "Cibon: Ich sollte mich auch etwas mehr mit diesem Signum- und Element-Kugel-Zeug beschäftigen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: I should also deal a little",
+				"more with this Signum and element",
+				"orb stuff."
+			]
+		},
+		{
+			"path": [17,1,38,2],
+			"original": "Cibon: Vielleicht hab ich dann ne Chance bei ihr.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Maybe I'll have a chance",
+				"with her then."
+			]
+		},
+		{
+			"path": [17,1,44,2],
+			"original": "Kento: Hehe. Du denkst auch immer nur an das gleiche, Cibon.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Heh.\\. You just have to think",
+				"about the same thing, Cibon.\\."
+			]
+		},
+		{
+			"path": [17,1,47,3],
+			"original": "Kento: Aber dass du dich mehr mit dem \"Signum-Zeug\" beschäftigen willst, ist eine sehr gute Idee.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: But wanting to deal more with",
+				"the \"Signum stuff\" is a good idea."
+			]
+		},
+		{
+			"path": [17,1,51,4],
+			"original": "Kento: Ich denke für heute haben wird genug getan, lass uns in unser Quartier gehen und ne Runde schlafen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I think enough has happened",
+				"for today, let's go to our quarters",
+				"and have a nap."
+			]
+		},
+		{
+			"path": [17,1,56,4],
+			"original": "Cibon: Brauchste mal wieder dein Nickerchen, Kumpel? Nicht, dass du wieder bis in den Nachmittag hinein pennst.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Need your beauty sleep again?\\.",
+				"Don't tell me you're gonna sleep",
+				"again until the afternoon."
+			]
+		},
+		{
+			"path": [17,1,61,2],
+			"original": "Kento: Ich gebe da mal lieber keine Garantie ab.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I prefer not to guarantee",
+				"anything."
+			]
+		},
+		{
+			"path": [17,4,21,3],
+			"original": "Cibon: Hui, gleich heute geht's los. Wir sollten nicht mehr soviel rumtrödeln, Kumpel",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Phew, we're off today.",
+				"We shouldn't sit around",
+				"that much anymore."
+			]
+		},
+		{
+			"path": [17,4,25,4],
+			"original": "Kento: Ganz langsam. Bevor ich irgendetwas Anderes mache gehe ich erstmal zur Kantine und esse mich endlich satt.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Slow down now.\\. Before I do",
+				"anything else, I'm going to the",
+				"canteen and finally eat my meal."
+			]
+		},
+		{
+			"path": [17,4,30,3],
+			"original": "Cibon: Na gut, mach das. Aber lass dir nicht zuviel Zeit. Ich warte dann in unserem Schlafraum.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Alright, do that.\\. But don't",
+				"take too much time.\\. I'll be",
+				"waiting in our bedroom."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [12,2,13],
+			"original": "Ja, wieso nicht/Nein, wir haben keine Zeit dafür",
+			"patch": "Sure, why not./No, we don't have any time for that."
+		},
+		{
+			"path": [12,2,14],
+			"original": "Ja, wieso nicht",
+			"patch": "Sure, why not."
+		},
+		{
+			"path": [12,2,40],
+			"original": "Nein, wir haben keine Zeit dafür",
+			"patch": "No, we don't have any time for that."
+		}
+	]
+}

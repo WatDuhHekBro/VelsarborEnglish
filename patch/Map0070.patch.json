@@ -1,0 +1,274 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [5,1,2,2],
+			"original": "Soldat vom Briganten-Orden: *mampf* Diescher Nudelschalat ischt vortrefflisch! Wirklisch.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: *nom*\\. This pasta salad",
+				"is delicious!"
+			]
+		},
+		{
+			"path": [5,1,7,4],
+			"indent": 1,
+			"original": "Kento: Öhm, ich möchte dich ja ungern beim Essen stören, aber hattest du nicht zu diesem Zeitpunkt ein Treffen?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Um, I don't mean to disturb",
+				"you from your meal\\., but don't you",
+				"have a meeting right about now?"
+			]
+		},
+		{
+			"path": [5,1,13,3],
+			"indent": 1,
+			"original": "Soldat vom Briganten-Orden: Oh ja, schtimmt... Moment... OH! ischt es schon so schpät? *schluck* Ohje, ich komme zu spät!",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Oh yeah, that's right...\\.",
+				"Wait...\\. OH! Is it already so late?\\.",
+				"*swallow*\\. Oh no, I'm late!"
+			]
+		},
+		{
+			"path": [6,1,3,2],
+			"original": "Soldat vom Briganten-Orden: Hey! Wann kommt endlich mein Nachschub?",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Hey!\\. When will my",
+				"order finally get here?"
+			]
+		},
+		{
+			"path": [7,1,2,2],
+			"original": "Soldat vom Briganten-Orden: Hm? Stör mich nicht beim Essen...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Hm?\\. Don't bother me",
+				"while I'm eating..."
+			]
+		},
+		{
+			"path": [8,1,2,2],
+			"original": "Soldat vom Briganten-Orden: Hm... ob es heute etwas Besonderes zum Nachtisch gibt?",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Hm...\\. I wonder if there's",
+				"anything special for dessert today?"
+			]
+		},
+		{
+			"path": [9,1,2,2],
+			"original": "Soldat vom Briganten-Orden: Kein Bier... Wieso gibt es hier kein Bier zu trinken? Args!",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: No beer...\\. Why is there no",
+				"beer to drink here?\\. Argh!"
+			]
+		},
+		{
+			"path": [9,1,7,2],
+			"indent": 1,
+			"original": "Kento: Bier macht träge, wenn man es zu oft trinkt.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Beer makes you sluggish if",
+				"you drink it too often."
+			]
+		},
+		{
+			"path": [9,1,10,3],
+			"indent": 1,
+			"original": "Cibon: Hör nicht auf ihn, er hat keine Ahnung, wie es ist, ein kühles, frisches Bier zu trinken.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Don't listen to him, he has",
+				"no idea what it's like to drink",
+				"a cool, fresh beer."
+			]
+		},
+		{
+			"path": [9,1,14,2],
+			"indent": 1,
+			"original": "Cibon: Außerdem ist das Bier hier nur vorübergehend alle.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Besides, the beer is only",
+				"temporarily gone here."
+			]
+		},
+		{
+			"path": [10,1,2,4],
+			"original": "Soldat vom Briganten-Orden: In letzter Zeit haben manche Soldaten immer öfter Essens- wünsche an die Köche, die dann sogar erfüllt werden.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Recently, some soldiers have",
+				"made more and more requests to the cooks,",
+				"which are somehow fulfilled."
+			]
+		},
+		{
+			"path": [10,1,6,4],
+			"original": "Soldat vom Briganten-Orden: Und es werden immer mehr hier, die ihren speziellen Wunsch als Mahlzeit haben wollen. Das halten die Köche sicher nicht mehr lange aus.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: And there are more and more",
+				"people here who want their special request",
+				"fulfilled.\\. The cooks definitely won't be",
+				"able to keep up with this for much longer."
+			]
+		},
+		{
+			"path": [10,3,2,4],
+			"original": "Soldat vom Briganten-Orden: In letzter Zeit haben manche Soldaten immer öfter Essens- Wünsche an die Köche, die dann sogar erfüllt werden.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Recently, some soldiers have",
+				"made more and more requests to the cooks,",
+				"which are somehow fulfilled."
+			]
+		},
+		{
+			"path": [10,3,6,4],
+			"original": "Soldat vom Briganten-Orden: Und es werden immer mehr hier, die ihre speziellen Wunsch als Mahlzeit haben wollen. Das halten die Köche sicher nicht mehr lange aus.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: And there are more and more",
+				"people here who want their special request",
+				"fulfilled.\\. The cooks definitely won't be",
+				"able to keep up with this for much longer."
+			]
+		},
+		{
+			"path": [12,2,2,3],
+			"original": "Köchin: Es ist noch genug zu Essen da. Bedienen Sie sich. Wenn Sie einen speziellen Wunsch haben, sagen Sie mir Bescheid.",
+			"lines":
+			[
+				"\\c[10]Cook\\c[0]: There's still enough food for everyone.\\.",
+				"Help yourself.\\. If you have a special request,",
+				"please let me know."
+			]
+		},
+		{
+			"path": [12,2,5,1],
+			"original": "Köchin: Bier ist allerdings derzeit alle...",
+			"lines":
+			[
+				"\\c[10]Cook\\c[0]: However, the beer is currently all gone..."
+			]
+		},
+		{
+			"path": [25,2,17,2],
+			"original": "Cibon: Morgen Kumpel. Haste also doch wieder so lang geschlafen?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Mornin'.\\. You slept",
+				"so long again?"
+			]
+		},
+		{
+			"path": [25,2,20,2],
+			"original": "Kento: Ja... und jetzt verhungere ich fast.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Yeah...\\. and now I'm almost",
+				"starving."
+			]
+		},
+		{
+			"path": [25,2,23,4],
+			"original": "Cibon: Dacht' ich mir schon. Mir ging's genauso. Ich hab schon etwas für dich bestellt, nur leider hast du länger geschlafen als ich dachte.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: I thought so.\\. I felt the same",
+				"way.\\. I've already ordered something",
+				"for you, but unfortunately, you",
+				"slept longer than I expected."
+			]
+		},
+		{
+			"path": [25,2,28,3],
+			"original": "Cibon: Deswegen steht das Zeug hier schon ne ganze Weile und ist schon kalt geworden...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: That's why the stuff has been",
+				"here for quite a while and has gotten",
+				"cold..."
+			]
+		},
+		{
+			"path": [25,2,32,2],
+			"original": "Kento: Egal, Hauptsache es ist was zu Essen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: No problem,\\. as long as there's",
+				"something to eat."
+			]
+		},
+		{
+			"path": [25,2,42,4],
+			"original": "Soldat vom Briganten-Orden: Kento, Cibon? Sir Vorento fragt nach euch. Ihr sollt bitte sofort zu ihm kommen. Er wartet wieder im 1. Lehrraum.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Kento, Cibon?\\.",
+				"Sir Vorento requests you.\\.",
+				"You should come to him immediately.\\.",
+				"He is waiting in the 1st classroom again.\\."
+			]
+		},
+		{
+			"path": [25,2,46,3],
+			"original": "Soldat vom Briganten-Orden: Ihr solltet eure Mahlzeit lieber auf später verschieben... Ich geh dann wieder.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: You should postpone your",
+				"meal until later...\\.",
+				"Well,\\. I'm off again."
+			]
+		},
+		{
+			"path": [25,2,56,1],
+			"original": "Kento: ...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [25,2,58,3],
+			"original": "Cibon: Super, wahrscheinlich geht's um den neuen Auftrag. Lass uns hingehen, Kumpel!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Sweet, it's probably about",
+				"our new order.\\. Let's go!"
+			]
+		},
+		{
+			"path": [25,2,62,1],
+			"original": "Kento: Ich esse noch.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: \\s[4]I'm still eating."
+			]
+		},
+		{
+			"path": [25,2,69,2],
+			"original": "Cibon: Das hat noch später Zeit! Lass uns gehen!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: There's time for that later!\\.",
+				"Let's go already!"
+			]
+		},
+		{
+			"path": [25,2,77,2],
+			"original": "Kento: Ich hab aber noch Hunger! Och Mann...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I'm still hungry!\\. \\s[5]Oh man...\\|\\^"
+			]
+		}
+	]
+}

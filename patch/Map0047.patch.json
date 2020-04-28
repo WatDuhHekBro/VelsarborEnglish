@@ -1,0 +1,33 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [6,1,2,2],
+			"original": "Ladenbesitzer: Sind Sie an ein paar Heil-Gegenständen interessiert?",
+			"lines":
+			[
+				"\\c[10]Shopkeeper\\c[0]: Are you interested in",
+				"some remedies?"
+			]
+		},
+		{
+			"path": [7,1,2,2],
+			"original": "Ladenbesitzer: Sind Sie an ein paar Heil-Gegenständen interessiert?",
+			"lines":
+			[
+				"\\c[10]Shopkeeper\\c[0]: Are you interested in",
+				"some remedies?"
+			]
+		},
+		{
+			"path": [8,2,2,4],
+			"original": "Alte Frau: Nein, also wirklich. Jahr für Jahr wird hier alles teurer. Früher gab es das alles noch zum halben Preis. Das muss man sich mal vorstellen.",
+			"lines":
+			[
+				"\\c[10]Old Woman\\c[0]: No. Honestly, everything is getting",
+				"more expensive here every year. It used to be",
+				"half the price. Imagine that."
+			]
+		}
+	]
+}

@@ -1,0 +1,527 @@
+{
+	"__comment__": "Revise the scene and line endings.",
+	"dialogue":
+	[
+		{
+			"path": [24,1,13,3],
+			"original": "Mitglied des Rates: Der Trupp ist nun auf dem Weg nach Domarkor. Er wird den \"Farenischen Adelsbund\" zum Thema befragen.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]:\\s[4] The troop is now on the way to",
+				"Domarkor.\\. He will question the \"Farenian",
+				"Aristocracy\" on the subject."
+			]
+		},
+		{
+			"path": [24,1,16,2],
+			"original": "Mitglied des Rates: Wir können dann in ein bis drei Wochen Rückmeldungen erwarten.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]:\\s[4] We can then expect feedback in",
+				"one to three weeks."
+			]
+		},
+		{
+			"path": [24,1,23,3],
+			"original": "Mitglied des Rates: Meinen sie nicht, dass diese Aktion etwas übertrieben ist? Wir wissen nicht, wie viel an den Gerüchten dran ist.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Do you not think that this action",
+				"is a bit exaggerated?\\. We don't know how much of",
+				"the rumors are true."
+			]
+		},
+		{
+			"path": [24,1,32,3],
+			"original": "Mitglied des Rates: Es gab mehrere Meldungen über eine Gruppe, die an der Grenze von Korzojeno gesehen wurde.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: There have been several reports",
+				"of a group seen on the Korzojenish side of the",
+				"border."
+			]
+		},
+		{
+			"path": [24,1,35,4],
+			"original": "Mitglied des Rates: Sie soll angeblich über hundert Mann umfassen und gut ausgerüstet sein. Zudem sollen einige Rüstungsteile das Wappen der korzojenischen Streitkraft tragen.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: It is said to have over a hundred",
+				"men and be well-equipped.\\. In addition, some parts",
+				"of their armor are said to bear the coat of arms",
+				"of the Korzojenish armed forces."
+			]
+		},
+		{
+			"path": [24,1,39,4],
+			"original": "Mitglied des Rates: Die Gruppe hält sich zwar im Hintergrund, wurde aber auch schon in der Nähe und teilweise sogar in Städten und Dörfern Korzojenos erspäht.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: The group remains in the shadows,\\.",
+				"but has also been spotted nearby and sometimes",
+				"even in the towns and villages of Korzojeno."
+			]
+		},
+		{
+			"path": [24,1,50,2],
+			"original": "Mitglied des Rates: Hier handelt es sich definitiv um keine größere Diebesbande oder ähnlichem.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: This is definitely not a major",
+				"gang of thieves or the like."
+			]
+		},
+		{
+			"path": [24,1,57,3],
+			"original": "Mitglied des Rates: In der Tat. es wurde nie berichtet, dass diese Gruppe die Zivilbevölkerung von Korzojeno belästigt oder gar angegriffen hat.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Indeed.\\. This group has never been",
+				"reported to have harassed or even attacked",
+				"Korzojeno's civilians."
+			]
+		},
+		{
+			"path": [24,1,65,4],
+			"original": "Mitglied des Rates: Ich bin dennoch der Meinung, dass wir erstmal warten sollten, bis uns genauere Informationen erreichen, bevor wir gleich beim Adelsbund anklopfen, wegen ein paar Gerüchten",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: I still believe that we should",
+				"wait until we get more detailed information",
+				"before knocking on the nobility's door just",
+				"because of a few rumors."
+			]
+		},
+		{
+			"path": [24,1,70,4],
+			"original": "Mitglied des Rates: Momentan gibt es einfach wichtigeres zu tun. Unsere Truppen auf dem südlichen Kontinent haben derzeit Probleme, ihr Land vor dem Gegner zu verteidigen.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: There are simply more important",
+				"things to do at the moment.\\. Our troops on the",
+				"southern continent are currently struggling to",
+				"defend their country from the enemy."
+			]
+		},
+		{
+			"path": [24,1,74,4],
+			"original": "Mitglied des Rates: Während wir hier uns über das Sorgen machen was sich Waschweiber an der Grenze erzählen, sterben unsere Männer jenseits der See, Stund' um Stund'.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: While we are worried about what",
+				"rumors are spread around at the border, our men",
+				"are dying on the other side of the sea, hour",
+				"after hour."
+			]
+		},
+		{
+			"path": [24,1,84,3],
+			"original": "Mitglied des Rates: Wir dürfen nicht vergessen, dass diese Angelegenheit im Südlichen Kontinent nur der Landerweiterung dient.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: We must not forget that this",
+				"matter in the southern continent is only for",
+				"expansion."
+			]
+		},
+		{
+			"path": [24,1,87,3],
+			"original": "Mitglied des Rates: Was sich da wiederum im Osten abspielt könnte sich zu einer Gefahr für das ganze Land entwickeln.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: What's happening in the east",
+				"could easily turn into a threat for the whole",
+				"country."
+			]
+		},
+		{
+			"path": [24,1,90,3],
+			"original": "Mitglied des Rates: Sollte Korzojeno es wagen, die Friedensverträge zu brechen und sein Heer wieder vergrößern, ist ein weiterer Krieg nicht fern.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: If Korzojeno dares to break",
+				"the peace treaties and enlarge their army",
+				"again, another war is not too far off."
+			]
+		},
+		{
+			"path": [24,1,93,2],
+			"original": "Mitglied des Rates: Wir müssen dieses Feuer ersticken, bevor es entfacht.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: We must put out this fire",
+				"before it starts."
+			]
+		},
+		{
+			"path": [24,1,95,3],
+			"original": "Mitglied des Rates: Die Ureinwohner vom Süden stellen für das Land selber momentan keine direkte Gefahr dar.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: The indigenous people from the",
+				"south currently pose no direct danger to the",
+				"country itself."
+			]
+		},
+		{
+			"path": [24,1,106,4],
+			"original": "Mitglied des Rates: Wie bitte!? Verstehe ich sie richtig? Sagen sie, es ist egal, ob da Leute im Süden sterben oder nicht, solange wir hier oben sicher sind?",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: I beg your pardon?!\\. Did I hear",
+				"you correctly?\\. You say it doesn't matter if people",
+				"die in the south as long as we're safe up here?"
+			]
+		},
+		{
+			"path": [24,1,110,1],
+			"original": "Mitglied des Rates: Das ist doch unerhört...",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: This is outrageous..."
+			]
+		},
+		{
+			"path": [24,1,118,1],
+			"original": "Oberstes Ratmitglied: Ruhe!",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: Silence!"
+			]
+		},
+		{
+			"path": [24,1,123,4],
+			"original": "Oberstes Ratmitglied: Es ist schon klar, dass wir uns auch auf das konzentrieren müssen, was im Süden passiert.",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: It is already",
+				"clear that we must also focus on",
+				"what's happening in the south."
+			]
+		},
+		{
+			"path": [24,1,127,3],
+			"original": "Oberstes Ratmitglied: Aber ein Untersuchungsauftrag, meine Herren...",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: But an inquiry,",
+				"gentlemen..."
+			]
+		},
+		{
+			"path": [24,1,130,4],
+			"original": "Oberstes Ratmitglied: ...ist keineswegs eine militärische Aktion die die gesamten Streitkräfte des Briganten-Ordens in Anspruch nimmt.",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: ...is by no",
+				"means a military action that takes",
+				"up the entire armed forces of the",
+				"Brigantine Order."
+			]
+		},
+		{
+			"path": [24,1,134,4],
+			"original": "Oberstes Ratmitglied: Wir werden das Mysterium um diese Gruppe untersuchen, diese Sache ist bereits beschlossen.",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: We will",
+				"investigate the mystery surrounding",
+				"this group,\\. this matter has already",
+				"been resolved."
+			]
+		},
+		{
+			"path": [24,1,138,4],
+			"original": "Oberstes Ratmitglied: Die Konflikte im Süden werden deshalb nicht vernachlässigt, machen sie sich diesbezüglich also keine Sorgen.",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: The conflicts in",
+				"the south are therefore not",
+				"neglected,\\. so do not worry",
+				"about them."
+			]
+		},
+		{
+			"path": [24,1,147,2],
+			"original": "Oberstes Ratmitglied: Ich erkläre die Sitzung hiermit für beendet.",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: I hereby declare",
+				"this meeting closed."
+			]
+		},
+		{
+			"path": [24,2,12,4],
+			"original": "Mitglied des Rates:...kurze Zeit später erhielten wir einen weiteren Brief von Herrn Uroto selber. Er fordert ebenfalls Verstärkung und bestätigte die Existenz der Gruppe.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]:...kurze Zeit später erhielten ",
+				"wir einen weiteren Brief von Herrn Uroto selber. \\.",
+				"Er fordert ebenfalls Verstärkung und ",
+				"bestätigte die Existenz der Gruppe."
+			]
+		},
+		{
+			"path": [24,2,16,2],
+			"original": "Mitglied des Rates: Gleichzeitig aber berichtet er uns von der Gefangennahme seiner Eskorte.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Gleichzeitig aber berichtet er ",
+				"uns von der Gefangennahme seiner Eskorte. "
+			]
+		},
+		{
+			"path": [24,2,22,3],
+			"original": "Mitglied des Rates: Laut seiner Aussage haben sie die Seiten gewechselt und waren als Spione für jene Gruppe aus dem Silvanwald tätig.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Laut seiner Aussage haben sie ",
+				"die Seiten gewechselt und waren als Spione für ",
+				"jene Gruppe aus dem Silvanwald tätig."
+			]
+		},
+		{
+			"path": [24,2,25,3],
+			"original": "Mitglied des Rates: Ihre eigentliche Aufgabe soll gewesen sein, weiteren Verdacht über die Gruppe zu beseitigen.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Ihre eigentliche Aufgabe soll ",
+				"gewesen sein, weiteren Verdacht über die Gruppe zu ",
+				"beseitigen. "
+			]
+		},
+		{
+			"path": [24,2,28,2],
+			"original": "Mitglied des Rates: Die Eskorte befindet sich im Moment auf dem Weg zum Gefängnis von Helnovien.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Die Eskorte befindet sich im ",
+				"Moment auf dem Weg zum Gefängnis von Helnovien."
+			]
+		},
+		{
+			"path": [24,2,35,3],
+			"original": "Mitglied des Rates: Heißt das etwa die Gerüchte über diese Gruppe entsprachen der Wahrheit? Wie kann so etwas sein!",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Heißt das etwa die Gerüchte ",
+				"über diese Gruppe entsprachen der Wahrheit?\\. Wie ",
+				"kann so etwas sein!"
+			]
+		},
+		{
+			"path": [24,2,45,2],
+			"original": "Mitglied des Rates: Entschuldigen Sie bitte, verstehe ich das richtig?",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Entschuldigen Sie bitte, ",
+				"verstehe ich das richtig? "
+			]
+		},
+		{
+			"path": [24,2,47,4],
+			"original": "Mitglied des Rates: Jene Eskorte hat uns von der Existenz einer Gruppe im Silvanwald berichtet, sollte aber in Wirklichkeit Gerüchte über diese Gruppe beseitigen?",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Jene Eskorte hat uns von der ",
+				"Existenz einer Gruppe im Silvanwald berichtet, ",
+				"sollte aber in Wirklichkeit Gerüchte über diese ",
+				"Gruppe beseitigen?"
+			]
+		},
+		{
+			"path": [24,2,56,3],
+			"original": "Mitglied des Rates: Herr Uroto beschreibt in seinen Brief einen recht obskuren Plan, der dies bewirken sollte.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Herr Uroto beschreibt in ",
+				"seinen Brief einen recht obskuren Plan, der ",
+				"dies bewirken sollte. "
+			]
+		},
+		{
+			"path": [24,2,59,4],
+			"original": "Mitglied des Rates: Diese Sache ist allerdings vorerst nebensächlich. Fest steht: Von jeder Seite wurde uns die Existenz der vermuteten Gruppe bestätigt.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Diese Sache ist allerdings ",
+				"vorerst nebensächlich. Fest steht: Von jeder Seite ",
+				"wurde uns die Existenz der vermuteten Gruppe ",
+				"bestätigt."
+			]
+		},
+		{
+			"path": [24,2,65,4],
+			"original": "Mitglied des Rates: Ich rate zur sofortigen Verstärkung der Streitkräfte an der Grenze, sowie das Senden von Durchsuchungstrupps, um weitere Informationen über die Gruppe zu erlangen.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Ich rate zur sofortigen ",
+				"Verstärkung der Streitkräfte an der Grenze, sowie ",
+				"das Senden von Durchsuchungstrupps, um weitere ",
+				"Informationen über die Gruppe zu erlangen."
+			]
+		},
+		{
+			"path": [24,2,75,3],
+			"original": "Mitglied des Rates: Was gibt es da noch zu durchsuchen? Ich sage wir umzingeln den Wald und ersticken das Feuer, bevor es entfacht!",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Was gibt es da noch zu ",
+				"durchsuchen? Ich sage wir umzingeln den Wald und ",
+				"ersticken das Feuer, bevor es entfacht! "
+			]
+		},
+		{
+			"path": [24,2,78,2],
+			"original": "Mitglied des Rates: Wir haben genug Belege, um einen militärischen Eingriff zu rechtfertigen!",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Wir haben genug Belege, um ",
+				"einen militärischen Eingriff zu rechtfertigen!"
+			]
+		},
+		{
+			"path": [24,2,86,4],
+			"original": "Mitglied des Rates: Was ist mit dem farenischen Adelsbund? Wurde eine Verbindung bestätigt? Gibt es irgendwelche weiteren Informationen über diese Gruppe?",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Was ist mit dem farenischen ",
+				"Adelsbund?\\. Wurde eine Verbindung bestätigt?\\. Gibt ",
+				"es irgendwelche weiteren Informationen über diese ",
+				"Gruppe?"
+			]
+		},
+		{
+			"path": [24,2,92,4],
+			"original": "Mitglied des Rates: Die Gruppe soll professionell ausgerüstet sein und einen befestigten Stützpunkt im Silvanwald haben. Eine direkte Verbindung zum Adelsbund konnte nicht nachgewiesen werden.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Die Gruppe soll professionell ",
+				"ausgerüstet sein und einen befestigten Stützpunkt ",
+				"im Silvanwald haben.\\. Eine direkte Verbindung zum ",
+				"Adelsbund konnte nicht nachgewiesen werden."
+			]
+		},
+		{
+			"path": [24,2,104,2],
+			"original": "Mitglied des Rates: Aber woher sollen sie sonst ihre Ausrüstung haben?",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Aber woher sollen sie sonst ",
+				"ihre Ausrüstung haben? "
+			]
+		},
+		{
+			"path": [24,2,112,3],
+			"original": "Mitglied des Rates: Sollte der Adelsbund tatsächlich hinter dieser Gruppe stecken, sollten wir ihm eine gehörige Lektion erteilen.",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Sollte der Adelsbund ",
+				"tatsächlich hinter dieser Gruppe stecken, sollten ",
+				"wir ihm eine gehörige Lektion erteilen."
+			]
+		},
+		{
+			"path": [24,2,115,1],
+			"original": "Mitglied des Rates: Solch eine Unverfrorenheit!",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Solch eine Unverfrorenheit!"
+			]
+		},
+		{
+			"path": [24,2,122,3],
+			"original": "Oberstes Ratmitglied: Wir sollten vermeiden in dieser Situation überstürzt zu handeln.",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: Wir sollten ",
+				"vermeiden in dieser Situation ",
+				"überstürzt zu handeln."
+			]
+		},
+		{
+			"path": [24,2,125,4],
+			"original": "Oberstes Ratmitglied: Ein unangebracht, aggressives Verhalten würde jegliche diplomatische Beziehung zum Adelsbund zerstören.",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: Ein ",
+				"unangebracht, aggressives Verhalten ",
+				"würde jegliche diplomatische ",
+				"Beziehung zum Adelsbund zerstören."
+			]
+		},
+		{
+			"path": [24,2,134,2],
+			"original": "Mitglied des Rates: Was bringen uns diplomatische Beziehungen zu einem Land, das uns angreifen will?",
+			"lines":
+			[
+				"\\c[10]Council Member\\c[0]: Was bringen uns diplomatische ",
+				"Beziehungen zu einem Land, das uns angreifen will?"
+			]
+		},
+		{
+			"path": [24,2,140,4],
+			"original": "Oberstes Ratmitglied: Ich will Sie daran erinnern, dass es keinen Beleg für die Verbindung zum Adelsbund gibt!",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: Ich will Sie ",
+				"daran erinnern, dass es keinen Beleg ",
+				"für die Verbindung zum Adelsbund ",
+				"gibt!"
+			]
+		},
+		{
+			"path": [24,2,144,4],
+			"original": "Oberstes Ratmitglied: Wir werden einen weiteren Botschafter zum farenischen Adelsbund senden, um weiteres dazu herauszufinden.",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: Wir werden ",
+				"einen weiteren Botschafter zum ",
+				"farenischen Adelsbund senden, um ",
+				"weiteres dazu herauszufinden. "
+			]
+		},
+		{
+			"path": [24,2,148,4],
+			"original": "Oberstes Ratmitglied: Ansonsten halte ich eine Verstärkung der Grenzbewachung ebenfalls für sinnvoll.",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: Ansonsten ",
+				"halte ich eine Verstärkung der ",
+				"Grenzbewachung ebenfalls für ",
+				"sinnvoll. "
+			]
+		},
+		{
+			"path": [24,2,152,3],
+			"original": "Oberstes Ratmitglied: Vorerst werden wir nur das Gebiet um den Silvanwald genauer durchsuchen.",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: Vorerst ",
+				"werden wir nur das Gebiet um den ",
+				"Silvanwald genauer durchsuchen."
+			]
+		},
+		{
+			"path": [24,2,155,3],
+			"original": "Oberstes Ratmitglied: Offensive Maßnahmen bleiben aus, bis wir genaueres wissen.",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: Offensive ",
+				"Maßnahmen bleiben aus, bis wir ",
+				"genaueres wissen."
+			]
+		},
+		{
+			"path": [24,2,158,4],
+			"original": "Oberstes Ratmitglied: Wir werden die Streitkräfte bereithalten, um sofort eingreifen zu können, sollte die Situation es verlangen.",
+			"lines":
+			[
+				"\\c[10]Head Council Member\\c[0]: Wir werden ",
+				"die Streitkräfte bereithalten, um ",
+				"sofort eingreifen zu können, sollte ",
+				"die Situation es verlangen."
+			]
+		}
+	]
+}

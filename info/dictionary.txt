@@ -1,28 +1,122 @@
-Rothaarige Frau: Red-Haired Girl
-Funkdurchsage: Radio
-Gegnerische Einheit: Enemy Soldier
-Zojenische Einheit: Korzojenish Soldier
+##############
+# Characters #
+##############
+Adelsfrau: Noblewoman
+Adelsmann: Nobleman
+Alte Frau: Old Woman
+Alter Herr: Old Man
+Alter Mann: Old Man
+Anderer Soldat: Other Soldier
+Angehender Soldat: Aspiring Soldier
+Ausbilder: Instructor
+Betrunkener Mann: Drunk Man
+Blauhaarige Frau: Blue-Haired Woman
+Blondes Mädchen: Blonde Girl
+Bürgermeister: Mayor
+Chef: ???
+Cibon
+Erim Akiro
+Felcis
+Frau: Woman
 Frau Mensesso: Lady Mensesso
+Frau Tirunel: Mrs. Tirunel
+Funkdurchsage: Radio
+Gärtner: Gardener
+Gast: Guest
+Gasthofbesitzer: Inn Owner
+Gasthofbesitzerin: Inn Owner
+Gasthof-Besitzer: Inn Owner
+Gegnerische Einheit: Enemy Soldier
+General
+Genyu
+Glatzköpfiger Händler: Bald Merchant
+Grünhaarige Frau: Green-Haired Woman
+Guillian
+Gurim
+Händler: Merchant/Trader (depending on context)
+Händlerin: Merchant/Trader (depending on context)
+Hausfrau: Housewife
+Heimdall
+Herr Dorim: Sir Dorim
+Herr in blauem Anzug: Gentleman in a blue suit
+Herr Qurenporelis/Kuränporäli/Kuhrehpolarkreis/Kurenporalis: Sir Qurenporelis/Kurenporeli/Kuhrehpolarkreis/Kurenporalis
+Herr Uroto: Sir Uroto
+Hotelbesitzer: Hotel Owner
+Ileya
+Ingenieur: Engineer
+Jorn
+Junge: Boy
+Junge Dame: Young Lady
+Junge Frau: Young Woman
+Junger Mann: Young Man
+Junges Mädchen: Young Girl
+Kellnerin: Waitress
+Kento
+Kleiner Junge: Little Boy
+Kleines Mädchen: Little Girl
+Köchin: Cook
+Kurzhaariges Mädchen: Short-Haired Girl
+Ladenbesitzer: Shopkeeper
+Ladenbesitzerin: Shopkeeper
+Lilahaarige Frau: Purple-Haired Woman
+Mädchen: Girl
+Mann: Man
+Massen: Crowd
+Mitglied des Rates: Council Member
+Oberstes Ratmitglied: Head Council Member
+Pauamainer Schütze: ???
+Percil Cotiah
+Postbote: Postman
+Putzfrau: Maid
+Reiter: Rider
+Rika
+Robin
+Rothaarige Frau: Red-Haired Woman
+Saion
+Sedric
+Sekretärin: Secretary
+Seldan
+Silkia
+Sir Vorento
+Soko
 Soldat: Soldier
+Soldaten: Soldiers
+Soldat der Briganten Orden: Brigantian Soldier
+Soldat des Briganten-Ordens: Brigantian Soldier
+Soldat vom Briganten-Orden: Brigantian Soldier
+Türsteher: Bouncer
+Vel03
+Verkäuferin: Saleswoman
+Wache: Guard
+Wächter: Guard
+Zojenische Einheit: Korzojenish Soldier
 
+#################
+# Miscellaneous #
+#################
 **Note** It seems that the game's pretty inconsistent about Birkon/Brigantia and Zojeno/Korzojeno. The beginning of the game and the later parts of the game aren't consistent, even though it's clear that they're the same from context.
 
+(Brigantian refers to the people, Brigantine refers to everything else.)
 The Nation of Brigantia
-Brigantine Soldiers
+The Brigantine Order
+Brigantian Soldiers
 Brigantians live in the world.
 
+Nomerea Castle
+
+(Zojeno is the shortened form in case you hit the limit.)
 The Nation of Korzojeno
 Korzojenish Soldiers
 The Korzojenish live in the world.
 
-The Continent of Tora
-The Great Toran Pass
-
 The Region of Farenia
+The Farenian Aristocracy
 Farenian Soldiers
 Farenians live in the world.
 
-Herr Tirunel: Sir Tirunel
-Fräulein Filaja: Dame Filaja
+The Continent of Tora
+The Great Toran Pass
 
 **Note** "Dame" is specifically for addressing knighthood, and also sounds more on par with the level of formality of "Sir". "Madam" just doesn't sound right at all, it's far too formal. Probably because it sounds like something you'd say to an old person, or someone of an affluent rank, like a political one rather than a military one.
+Herr Tirunel: Sir Tirunel
+Fräulein Filaja: Dame Filaja
