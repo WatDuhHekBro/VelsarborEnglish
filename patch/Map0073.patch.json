@@ -1406,17 +1406,17 @@
 		{
 			"path": [5,2,142],
 			"original": "Nein, erklären Sie es bitte. /Ja, ich weiß bereits Bescheid.",
-			"patch": "Nein, erklären Sie es bitte. /Ja, ich weiß bereits Bescheid."
+			"patch": "No, please explain./Yes, I already know."
 		},
 		{
 			"path": [5,2,143],
 			"original": "Nein, erklären Sie es bitte. ",
-			"patch": "Nein, erklären Sie es bitte. "
+			"patch": "No, please explain."
 		},
 		{
 			"path": [5,2,187],
 			"original": "Ja, ich weiß bereits Bescheid.",
-			"patch": "Ja, ich weiß bereits Bescheid."
+			"patch": "Yes, I already know."
 		}
 	]
 }
