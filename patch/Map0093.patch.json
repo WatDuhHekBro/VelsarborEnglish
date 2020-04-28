@@ -1,4 +1,5 @@
 {
+	"__comment__": "Revise the scene and line endings.",
 	"dialogue":
 	[
 		{
@@ -6,9 +7,9 @@
 			"original": "Mitglied des Rates: Der Trupp ist nun auf dem Weg nach Domarkor. Er wird den \"Farenischen Adelsbund\" zum Thema befragen.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]:\\s[4] Der Trupp ist nun auf dem ",
-				"Weg nach Domarkor.\\. Er wird den \"Farenischen ",
-				"Adelsbund\" zum Thema befragen."
+				"\\c[10]Council Member\\c[0]:\\s[4] The troop is now on the way to",
+				"Domarkor.\\. He will question the \"Farenian",
+				"Aristocracy\" on the subject."
 			]
 		},
 		{
@@ -16,8 +17,8 @@
 			"original": "Mitglied des Rates: Wir können dann in ein bis drei Wochen Rückmeldungen erwarten.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]:\\s[4] Wir können dann in ein ",
-				"bis drei Wochen Rückmeldungen erwarten."
+				"\\c[10]Council Member\\c[0]:\\s[4] We can then expect feedback in",
+				"one to three weeks."
 			]
 		},
 		{
@@ -25,9 +26,9 @@
 			"original": "Mitglied des Rates: Meinen sie nicht, dass diese Aktion etwas übertrieben ist? Wir wissen nicht, wie viel an den Gerüchten dran ist.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Meinen sie nicht, dass diese ",
-				"Aktion etwas übertrieben ist?\\. Wir wissen nicht, ",
-				"wie viel an den Gerüchten dran ist."
+				"\\c[10]Council Member\\c[0]: Do you not think that this action",
+				"is a bit exaggerated?\\. We don't know how much of",
+				"the rumors are true."
 			]
 		},
 		{
@@ -35,9 +36,9 @@
 			"original": "Mitglied des Rates: Es gab mehrere Meldungen über eine Gruppe, die an der Grenze von Korzojeno gesehen wurde.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Es gab mehrere Meldungen ",
-				"über eine Gruppe, die an der Grenze von ",
-				"Korzojeno gesehen wurde."
+				"\\c[10]Council Member\\c[0]: There have been several reports",
+				"of a group seen on the Korzojenish side of the",
+				"border."
 			]
 		},
 		{
@@ -45,10 +46,10 @@
 			"original": "Mitglied des Rates: Sie soll angeblich über hundert Mann umfassen und gut ausgerüstet sein. Zudem sollen einige Rüstungsteile das Wappen der korzojenischen Streitkraft tragen.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Sie soll angeblich über ",
-				"hundert Mann umfassen und gut ausgerüstet sein.\\. ",
-				"Zudem sollen einige Rüstungsteile das Wappen  ",
-				"der korzojenischen Streitkraft tragen."
+				"\\c[10]Council Member\\c[0]: It is said to have over a hundred",
+				"men and be well-equipped.\\. In addition, some parts",
+				"of their armor are said to bear the coat of arms",
+				"of the Korzojenish armed forces."
 			]
 		},
 		{
@@ -56,10 +57,9 @@
 			"original": "Mitglied des Rates: Die Gruppe hält sich zwar im Hintergrund, wurde aber auch schon in der Nähe und teilweise sogar in Städten und Dörfern Korzojenos erspäht.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Die Gruppe hält sich zwar im ",
-				"Hintergrund,\\. wurde aber auch schon in der Nähe ",
-				"und teilweise sogar in Städten und Dörfern ",
-				"Korzojenos erspäht."
+				"\\c[10]Council Member\\c[0]: The group remains in the shadows,\\.",
+				"but has also been spotted nearby and sometimes",
+				"even in the towns and villages of Korzojeno."
 			]
 		},
 		{
@@ -67,8 +67,8 @@
 			"original": "Mitglied des Rates: Hier handelt es sich definitiv um keine größere Diebesbande oder ähnlichem.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Hier handelt es sich definitiv ",
-				"um keine größere Diebesbande oder ähnlichem."
+				"\\c[10]Council Member\\c[0]: This is definitely not a major",
+				"gang of thieves or the like."
 			]
 		},
 		{
@@ -76,9 +76,9 @@
 			"original": "Mitglied des Rates: In der Tat. es wurde nie berichtet, dass diese Gruppe die Zivilbevölkerung von Korzojeno belästigt oder gar angegriffen hat.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: In der Tat.\\. es wurde nie ",
-				"berichtet,\\. dass diese Gruppe die Zivilbevölkerung ",
-				"von Korzojeno belästigt oder gar angegriffen hat."
+				"\\c[10]Council Member\\c[0]: Indeed.\\. This group has never been",
+				"reported to have harassed or even attacked",
+				"Korzojeno's civilians."
 			]
 		},
 		{
@@ -86,10 +86,10 @@
 			"original": "Mitglied des Rates: Ich bin dennoch der Meinung, dass wir erstmal warten sollten, bis uns genauere Informationen erreichen, bevor wir gleich beim Adelsbund anklopfen, wegen ein paar Gerüchten",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Ich bin dennoch der Meinung, ",
-				"dass wir erstmal warten sollten, bis uns genauere ",
-				"Informationen erreichen, bevor wir gleich beim ",
-				"Adelsbund anklopfen, \\.wegen ein paar Gerüchten"
+				"\\c[10]Council Member\\c[0]: I still believe that we should",
+				"wait until we get more detailed information",
+				"before knocking on the nobility's door just",
+				"because of a few rumors."
 			]
 		},
 		{
@@ -97,10 +97,10 @@
 			"original": "Mitglied des Rates: Momentan gibt es einfach wichtigeres zu tun. Unsere Truppen auf dem südlichen Kontinent haben derzeit Probleme, ihr Land vor dem Gegner zu verteidigen.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Momentan gibt es einfach ",
-				"wichtigeres zu tun. Unsere Truppen auf dem ",
-				"südlichen Kontinent haben derzeit Probleme, ihr ",
-				"Land vor dem Gegner zu verteidigen. "
+				"\\c[10]Council Member\\c[0]: There are simply more important",
+				"things to do at the moment.\\. Our troops on the",
+				"southern continent are currently struggling to",
+				"defend their country from the enemy."
 			]
 		},
 		{
@@ -108,10 +108,10 @@
 			"original": "Mitglied des Rates: Während wir hier uns über das Sorgen machen was sich Waschweiber an der Grenze erzählen, sterben unsere Männer jenseits der See, Stund' um Stund'.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Während wir hier uns über das ",
-				"Sorgen machen was sich Waschweiber an der Grenze ",
-				"erzählen, sterben unsere Männer jenseits der See, ",
-				"Stund' um Stund'."
+				"\\c[10]Council Member\\c[0]: While we are worried about what",
+				"rumors are spread around at the border, our men",
+				"are dying on the other side of the sea, hour",
+				"after hour."
 			]
 		},
 		{
@@ -119,9 +119,9 @@
 			"original": "Mitglied des Rates: Wir dürfen nicht vergessen, dass diese Angelegenheit im Südlichen Kontinent nur der Landerweiterung dient.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Wir dürfen nicht vergessen, ",
-				"dass diese Angelegenheit im Südlichen Kontinent ",
-				"nur der Landerweiterung dient."
+				"\\c[10]Council Member\\c[0]: We must not forget that this",
+				"matter in the southern continent is only for",
+				"expansion."
 			]
 		},
 		{
@@ -129,9 +129,9 @@
 			"original": "Mitglied des Rates: Was sich da wiederum im Osten abspielt könnte sich zu einer Gefahr für das ganze Land entwickeln.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Was sich da wiederum im Osten ",
-				"abspielt könnte sich zu einer Gefahr für das ganze ",
-				"Land entwickeln. "
+				"\\c[10]Council Member\\c[0]: What's happening in the east",
+				"could easily turn into a threat for the whole",
+				"country."
 			]
 		},
 		{
@@ -139,9 +139,9 @@
 			"original": "Mitglied des Rates: Sollte Korzojeno es wagen, die Friedensverträge zu brechen und sein Heer wieder vergrößern, ist ein weiterer Krieg nicht fern.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Sollte Korzojeno es wagen, die ",
-				"Friedensverträge zu brechen und sein Heer wieder ",
-				"vergrößern, ist ein weiterer Krieg nicht fern."
+				"\\c[10]Council Member\\c[0]: If Korzojeno dares to break",
+				"the peace treaties and enlarge their army",
+				"again, another war is not too far off."
 			]
 		},
 		{
@@ -149,8 +149,8 @@
 			"original": "Mitglied des Rates: Wir müssen dieses Feuer ersticken, bevor es entfacht.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Wir müssen dieses Feuer ",
-				"ersticken, bevor es entfacht."
+				"\\c[10]Council Member\\c[0]: We must put out this fire",
+				"before it starts."
 			]
 		},
 		{
@@ -158,9 +158,9 @@
 			"original": "Mitglied des Rates: Die Ureinwohner vom Süden stellen für das Land selber momentan keine direkte Gefahr dar.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Die Ureinwohner vom Süden ",
-				"stellen für das Land selber momentan keine direkte ",
-				"Gefahr dar."
+				"\\c[10]Council Member\\c[0]: The indigenous people from the",
+				"south currently pose no direct danger to the",
+				"country itself."
 			]
 		},
 		{
@@ -168,10 +168,9 @@
 			"original": "Mitglied des Rates: Wie bitte!? Verstehe ich sie richtig? Sagen sie, es ist egal, ob da Leute im Süden sterben oder nicht, solange wir hier oben sicher sind?",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Wie bitte!?\\. Verstehe ich sie ",
-				"richtig?\\. Sagen sie, es ist egal, ob da Leute im ",
-				"Süden sterben oder nicht, solange wir hier oben ",
-				"sicher sind?"
+				"\\c[10]Council Member\\c[0]: I beg your pardon?!\\. Did I hear",
+				"you correctly?\\. You say it doesn't matter if people",
+				"die in the south as long as we're safe up here?"
 			]
 		},
 		{
@@ -179,7 +178,7 @@
 			"original": "Mitglied des Rates: Das ist doch unerhört...",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Das ist doch unerhört..."
+				"\\c[10]Council Member\\c[0]: This is outrageous..."
 			]
 		},
 		{
@@ -187,7 +186,7 @@
 			"original": "Oberstes Ratmitglied: Ruhe!",
 			"lines":
 			[
-				"\\c[10]Head Council Member\\c[0]: Ruhe!"
+				"\\c[10]Head Council Member\\c[0]: Silence!"
 			]
 		},
 		{
@@ -195,10 +194,9 @@
 			"original": "Oberstes Ratmitglied: Es ist schon klar, dass wir uns auch auf das konzentrieren müssen, was im Süden passiert.",
 			"lines":
 			[
-				"\\c[10]Head Council Member\\c[0]: Es ist schon ",
-				"klar, dass wir uns auch auf das ",
-				"konzentrieren müssen, was im Süden ",
-				"passiert."
+				"\\c[10]Head Council Member\\c[0]: It is already",
+				"clear that we must also focus on",
+				"what's happening in the south."
 			]
 		},
 		{
@@ -206,9 +204,8 @@
 			"original": "Oberstes Ratmitglied: Aber ein Untersuchungsauftrag, meine Herren...",
 			"lines":
 			[
-				"\\c[10]Head Council Member\\c[0]: Aber ein ",
-				"Untersuchungsauftrag, meine ",
-				"Herren..."
+				"\\c[10]Head Council Member\\c[0]: But an inquiry,",
+				"gentlemen..."
 			]
 		},
 		{
@@ -216,10 +213,10 @@
 			"original": "Oberstes Ratmitglied: ...ist keineswegs eine militärische Aktion die die gesamten Streitkräfte des Briganten-Ordens in Anspruch nimmt.",
 			"lines":
 			[
-				"\\c[10]Head Council Member\\c[0]: ...ist ",
-				"keineswegs eine militärische Aktion ",
-				"die die gesamten Streitkräfte des ",
-				"Briganten-Ordens in Anspruch nimmt."
+				"\\c[10]Head Council Member\\c[0]: ...is by no",
+				"means a military action that takes",
+				"up the entire armed forces of the",
+				"Brigantine Order."
 			]
 		},
 		{
@@ -227,10 +224,10 @@
 			"original": "Oberstes Ratmitglied: Wir werden das Mysterium um diese Gruppe untersuchen, diese Sache ist bereits beschlossen.",
 			"lines":
 			[
-				"\\c[10]Head Council Member\\c[0]: Wir werden ",
-				"das Mysterium um diese Gruppe ",
-				"untersuchen, diese Sache ist bereits ",
-				"beschlossen."
+				"\\c[10]Head Council Member\\c[0]: We will",
+				"investigate the mystery surrounding",
+				"this group,\\. this matter has already",
+				"been resolved."
 			]
 		},
 		{
@@ -238,10 +235,10 @@
 			"original": "Oberstes Ratmitglied: Die Konflikte im Süden werden deshalb nicht vernachlässigt, machen sie sich diesbezüglich also keine Sorgen.",
 			"lines":
 			[
-				"\\c[10]Head Council Member\\c[0]: Die Konflikte ",
-				"im Süden werden deshalb nicht ",
-				"vernachlässigt,\\. machen sie sich ",
-				"diesbezüglich also keine Sorgen."
+				"\\c[10]Head Council Member\\c[0]: The conflicts in",
+				"the south are therefore not",
+				"neglected,\\. so do not worry",
+				"about them."
 			]
 		},
 		{
@@ -249,8 +246,8 @@
 			"original": "Oberstes Ratmitglied: Ich erkläre die Sitzung hiermit für beendet.",
 			"lines":
 			[
-				"\\c[10]Head Council Member\\c[0]: Ich erkläre ",
-				"die Sitzung hiermit für beendet."
+				"\\c[10]Head Council Member\\c[0]: I hereby declare",
+				"this meeting closed."
 			]
 		},
 		{

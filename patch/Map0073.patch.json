@@ -6,9 +6,9 @@
 			"original": "Sir Vorento: Was haben Sie hier zu suchen? Sie haben einen Auftrag und sollten keine Zeit verschwenden.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Was haben Sie hier zu ",
-				"suchen?\\. Sie haben einen Auftrag und ",
-				"sollten keine Zeit verschwenden."
+				"\\c[10]Sir Vorento\\c[0]: What are you doing here?\\.",
+				"You have an order and shouldn't",
+				"waste time."
 			]
 		},
 		{
@@ -16,7 +16,7 @@
 			"original": "Kento: Öhm... Guten Tag, Sir.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Öhm...\\. Guten Tag, Sir."
+				"\\c[1]\\n[1]\\c[0]: Um...\\. Good afternoon, sir."
 			]
 		},
 		{
@@ -24,10 +24,10 @@
 			"original": "Sir Vorento: Kento Daikon und Cibon Tirunel. Ich grüße Sie. Ich hätte Ihre Rückkehr ein paar Tage früher eingeschätzt...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Kento Daikon und ",
-				"Cibon Tirunel.\\. Ich grüße Sie.\\.",
-				"Ich hätte Ihre Rückkehr ein paar ",
-				"Tage früher eingeschätzt..."
+				"\\c[10]Sir Vorento\\c[0]: Kento Daikon and Cibon",
+				"Tirunel.\\. Welcome back.\\. I would've",
+				"estimated your return a few days",
+				"earlier..."
 			]
 		},
 		{
@@ -35,8 +35,8 @@
 			"original": "Sir Vorento: Berichten Sie bitte von Ihrem Auftrag in Sinkholm.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Berichten Sie bitte von ",
-				"Ihrem Auftrag in Sinkholm."
+				"\\c[10]Sir Vorento\\c[0]: Please report on your",
+				"assignment in Sinkholm.\\."
 			]
 		},
 		{
@@ -44,7 +44,7 @@
 			"original": "Kento: Nun gut...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Nun gut..."
+				"\\c[1]\\n[1]\\c[0]: Alright..."
 			]
 		},
 		{
@@ -52,10 +52,10 @@
 			"original": "Kento: Wir kamen ungefähr 4 Stunden nach Abreise in Sinkholm an. Wir hatten kleinere Probleme mit feindlichen Begegnungen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir kamen ungefähr 4 ",
-				"Stunden nach Abreise in Sinkholm ",
-				"an.\\. Wir hatten kleinere Probleme ",
-				"mit feindlichen Begegnungen."
+				"\\c[1]\\n[1]\\c[0]: We arrived in Sinkholm about",
+				"four hours after departure.\\. We had",
+				"few problems with enemy encounters",
+				"along the way."
 			]
 		},
 		{
@@ -63,10 +63,8 @@
 			"original": "Kento: Nachdem wir in Sinkholm den Bürgermeister über unsere Ankunft und Aufgabe informiert hatten, ...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Nachdem wir in Sinkholm ",
-				"den Bürgermeister über unsere ",
-				"Ankunft und Aufgabe informiert ",
-				"hatten, ..."
+				"\\c[1]\\n[1]\\c[0]: After we informed the mayor of",
+				"our arrival and task in Sinkholm..."
 			]
 		},
 		{
@@ -74,9 +72,9 @@
 			"original": "Kento: ...bekamen wir die Aufgabe, am Stadttor von Sinkholm Wache zu halten.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...bekamen wir die Aufgabe, ",
-				"am Stadttor von Sinkholm Wache zu ",
-				"halten. "
+				"\\c[1]\\n[1]\\c[0]: ...we were given the task of",
+				"keeping watch at the city gate of",
+				"Sinkholm."
 			]
 		},
 		{
@@ -84,10 +82,9 @@
 			"original": "Kento: Nachdem die Räuberbande gefasst wurde, schickte man eine Nachricht nach Nomerea, um einen Trupp Soldaten vorbeizuschicken,...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Nachdem die Räuberbande",
-				"gefasst wurde,\\. schickte man eine ",
-				"Nachricht nach Nomerea, um einen ",
-				"Trupp Soldaten vorbeizuschicken,..."
+				"\\c[1]\\n[1]\\c[0]: After the gang of robbers was",
+				"caught, a message was sent to Nomerea",
+				"to send a group of soldiers over..."
 			]
 		},
 		{
@@ -95,10 +92,10 @@
 			"original": "Kento: ...der die Räuberbande ins nächste Gefängnis bringen sollte. Die Ankunft des Trupps geschah innerhalb weniger Stunden.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...der die Räuberbande ins ",
-				"nächste Gefängnis bringen sollte.",
-				"Die Ankunft des Trupps geschah ",
-				"innerhalb weniger Stunden."
+				"\\c[1]\\n[1]\\c[0]: ...who should be taking the",
+				"gang of robbers to the next prison",
+				"as we speak. The troop's arrival",
+				"happened within a few hours."
 			]
 		},
 		{
@@ -106,10 +103,10 @@
 			"original": "Cibon: Da wir zu diesem Zeitpunkt bereits einen ganzen Tag keinen Schlaf mehr hatten, gönnten wir uns noch eine Übernachtung im Inn.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Da wir zu diesem Zeitpunkt ",
-				"bereits einen ganzen Tag keinen ",
-				"Schlaf mehr hatten, gönnten wir uns ",
-				"noch eine Übernachtung im Inn."
+				"\\c[2]\\n[2]\\c[0]: Since we hadn't had a full",
+				"day's sleep at the time, we treated",
+				"ourselves to an overnight stay at",
+				"the Inn."
 			]
 		},
 		{
@@ -117,8 +114,8 @@
 			"original": "Cibon: Am Tag darauf traten wir zur Rückkehr an.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Am Tag darauf traten wir ",
-				"zur Rückkehr an."
+				"\\c[2]\\n[2]\\c[0]: The next day we started to",
+				"return."
 			]
 		},
 		{
@@ -126,10 +123,9 @@
 			"original": "Cibon: Feindliche Begegnungen auf dem Rückweg haben... uns weniger Probleme bereitet als auf dem Hinweg.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Feindliche Begegnungen auf ",
-				"dem Rückweg haben\\s[12]...\\s[0] uns weniger ",
-				"Probleme bereitet als auf dem ",
-				"Hinweg."
+				"\\c[2]\\n[2]\\c[0]: Hostile encounters on the way",
+				"back\\s[12]...\\s[0] caused us less problems",
+				"than on the way there."
 			]
 		},
 		{
@@ -137,7 +133,7 @@
 			"original": "Cibon: ... Das war alles.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ... Das war alles."
+				"\\c[2]\\n[2]\\c[0]: That's all."
 			]
 		},
 		{
@@ -145,10 +141,10 @@
 			"original": "Sir Vorento: Also war die Ursache für Ihre lange Abwesenheit das späte Auftauchen der Räuberbande? Nun gut.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Also war die Ursache für",
-				"Ihre lange Abwesenheit das späte ",
-				"Auftauchen der Räuberbande?\\.\\. ",
-				"Nun gut."
+				"\\c[10]Sir Vorento\\c[0]: So the reason for your",
+				"long absence was the late",
+				"appearance of the gang of robbers?\\.\\.",
+				"Well then."
 			]
 		},
 		{
@@ -156,8 +152,8 @@
 			"original": "Sir Vorento: Sie haben gute Arbeit geleistet, fürs erste.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Sie haben gute Arbeit ",
-				"geleistet,\\. fürs erste. "
+				"\\c[10]Sir Vorento\\c[0]: You two did a good job,\\.",
+				"at least for now."
 			]
 		},
 		{
@@ -165,9 +161,9 @@
 			"original": "Sir Vorento: Ich denke Sie sind nun soweit, in die Lehren des Signums eingeführt zu werden.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Ich denke Sie sind nun ",
-				"soweit, in die Lehren des Signums ",
-				"eingeführt zu werden."
+				"\\c[10]Sir Vorento\\c[0]: I think you are now",
+				"ready to be introduced to the",
+				"teachings of the Signum."
 			]
 		},
 		{
@@ -175,7 +171,7 @@
 			"original": "Cibon: Sauber! ...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Sauber! ..."
+				"\\c[2]\\n[2]\\c[0]: Sweet!"
 			]
 		},
 		{
@@ -183,8 +179,7 @@
 			"original": "Cibon: ähh... ich meine 'In Ordnung' ...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ähh...\\. ich meine\\. ",
-				"'In Ordnung' ..."
+				"\\c[2]\\n[2]\\c[0]: Uh...\\. I mean\\. 'okay'..."
 			]
 		},
 		{
@@ -192,9 +187,9 @@
 			"original": "Sir Vorento: ... Wie dem auch sei. Als erstes werden Sie ihre Elementkugeln bekommen.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: ...\\. Wie dem auch sei.\\.",
-				"Als erstes werden Sie ihre ",
-				"Elementkugeln bekommen."
+				"\\c[10]Sir Vorento\\c[0]: Moving on.\\. The first",
+				"thing you will get is your elemental",
+				"orbs."
 			]
 		},
 		{
@@ -202,10 +197,10 @@
 			"original": "Sir Vorento: Diese Kugeln dürfen Sie weder verschenken, noch verkaufen, noch tauschen. Sie sind Eigentum des Briganten-Ordens.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Diese Kugeln dürfen Sie",
-				"weder verschenken,\\. noch verkaufen,\\.",
-				"noch tauschen.\\. Sie sind Eigentum ",
-				"des Briganten-Ordens."
+				"\\c[10]Sir Vorento\\c[0]: You may not give away,\\.",
+				"sell,\\. or exchange these orbs.\\. They",
+				"are property of the Brigantine",
+				"Order."
 			]
 		},
 		{
@@ -213,8 +208,8 @@
 			"original": "Sir Vorento: Sehen Sie es also nicht als geschenkt, sondern als geliehen.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Sehen Sie es also nicht",
-				"als geschenkt, sondern als geliehen. "
+				"\\c[10]Sir Vorento\\c[0]: So don't see it as a",
+				"gift, but as a loan."
 			]
 		},
 		{
@@ -222,9 +217,9 @@
 			"original": "Sir Vorento: Nun... Die Kugeln ermöglichen es Ihnen, verschiedene Signum-Techniken zu erlernen.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Nun...\\. Die Kugeln",
-				"ermöglichen es Ihnen, verschiedene",
-				"Signum-Techniken zu erlernen."
+				"\\c[10]Sir Vorento\\c[0]: So...\\. The orbs allow",
+				"you to learn different Signum",
+				"techniques."
 			]
 		},
 		{
@@ -232,9 +227,9 @@
 			"original": "Sir Vorento: Ich erkläre Ihnen jetzt wie man sie genau verwendet und erläutere die genaue Wirkung...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Ich erkläre Ihnen jetzt",
-				"wie man sie genau verwendet und ",
-				"erläutere die genaue Wirkung..."
+				"\\c[10]Sir Vorento\\c[0]: I will now explain",
+				"exactly how to use them and",
+				"explain the exact effect..."
 			]
 		},
 		{
@@ -242,10 +237,10 @@
 			"original": "Sir Vorento: Es sei denn Sie haben sich schon vorher über Element- Kugeln informiert und besitzen bereits das nötige Wissen dazu.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Es sei denn Sie haben",
-				"sich schon vorher über Element-",
-				"Kugeln informiert und besitzen ",
-				"bereits das nötige Wissen dazu."
+				"\\c[10]Sir Vorento\\c[0]: Unless you have",
+				"previously informed yourself",
+				"about elemental orbs and already",
+				"have the necessary knowledge."
 			]
 		},
 		{
@@ -253,7 +248,7 @@
 			"original": "Sir Vorento: Ist dem so?",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Ist dem so?"
+				"\\c[10]Sir Vorento\\c[0]: Is that so?"
 			]
 		},
 		{
@@ -262,8 +257,7 @@
 			"original": "Sir Vorento: So, dann hören Sie jetzt gut zu.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: So, dann hören Sie jetzt",
-				"gut zu."
+				"\\c[10]Sir Vorento\\c[0]: So listen carefully now."
 			]
 		},
 		{
@@ -272,10 +266,10 @@
 			"original": "Sir Vorento: Oh, wer hätte das gedacht. Ich habe Sie von ihrer Arbeitshaltung  wohl doch unterschätzt. Nun gut...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Oh, wer hätte das ",
-				"gedacht.\\. Ich habe Sie von ihrer ",
-				"Arbeitshaltung  wohl doch ",
-				"unterschätzt.\\. Nun gut..."
+				"\\c[10]Sir Vorento\\c[0]: Oh, who would've",
+				"thought.\\. I must have underestimated",
+				"your attitude towards your duties.\\.",
+				"Well then..."
 			]
 		},
 		{
@@ -284,9 +278,9 @@
 			"original": "Sir Vorento: Dies war nur das Grundwissen über den Umgang mit Element-Kugeln.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Dies war nur das ",
-				"Grundwissen über den Umgang mit ",
-				"Element-Kugeln. "
+				"\\c[10]Sir Vorento\\c[0]: This was just the basic",
+				"knowledge of dealing with elemental",
+				"orbs."
 			]
 		},
 		{
@@ -295,10 +289,9 @@
 			"original": "Sir Vorento: Ansonsten gibt es noch einen Nebeneffekt beim Koppeln dieser Kugeln. Die Wenigsten wissen darüber...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Ansonsten gibt es ",
-				"noch einen Nebeneffekt beim ",
-				"Koppeln dieser Kugeln. Die ",
-				"Wenigsten wissen darüber..."
+				"\\c[10]Sir Vorento\\c[0]: However, there's a side",
+				"effect of coupling these orbs. Few",
+				"people know about it..."
 			]
 		},
 		{
@@ -307,10 +300,9 @@
 			"original": "Sir Vorento: Es gibt übrigens noch einen Nebeneffekt beim Koppeln dieser Kugeln. Wissen Sie schon davon?",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Es gibt übrigens noch ",
-				"einen Nebeneffekt beim Koppeln ",
-				"dieser Kugeln. Wissen Sie schon ",
-				"davon?"
+				"\\c[10]Sir Vorento\\c[0]: There is also a side",
+				"effect of coupling these orbs. Do",
+				"you already know about it?"
 			]
 		},
 		{
@@ -319,7 +311,7 @@
 			"original": "Kento: Öhm... nein?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Öhm... nein?"
+				"\\c[1]\\n[1]\\c[0]: Well... no?"
 			]
 		},
 		{
@@ -327,8 +319,8 @@
 			"original": "Sir Vorento: Na ja. Das erkläre ich Ihnen ein anderes Mal.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Na ja. Das erkläre ich ",
-				"Ihnen ein anderes Mal."
+				"\\c[10]Sir Vorento\\c[0]: Well, I'll explain that",
+				"to you another time."
 			]
 		},
 		{
@@ -336,9 +328,9 @@
 			"original": "Sir Vorento: Nun denn. Sie dürfen abtreten, aber bleiben Sie die nächsten Tage bitte hier in Nomerea.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Nun denn.\\. Sie dürfen ",
-				"abtreten, aber bleiben Sie die ",
-				"nächsten Tage bitte hier in Nomerea."
+				"\\c[10]Sir Vorento\\c[0]: In any case,\\. you two",
+				"are dismissed, but please stay here",
+				"in Nomerea for the next few days."
 			]
 		},
 		{
@@ -346,9 +338,8 @@
 			"original": "Sir Vorento: Es sieht so aus, als ob Sie schon bald einen neuen Auftrag erhalten werden.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Es sieht so aus, als ob ",
-				"Sie schon bald einen neuen Auftrag ",
-				"erhalten werden."
+				"\\c[10]Sir Vorento\\c[0]: It looks like you'll",
+				"soon get a new assignment."
 			]
 		},
 		{
@@ -356,7 +347,7 @@
 			"original": "Kento: Schon wieder was Neues?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Schon wieder was Neues?"
+				"\\c[1]\\n[1]\\c[0]: Something new this time?"
 			]
 		},
 		{
@@ -364,9 +355,8 @@
 			"original": "Cibon: Wird es schon wieder so etwas Stinklangweiliges, wie dieser Job als Wachposten? Äh...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wird es schon wieder so ",
-				"etwas Stinklangweiliges, wie dieser ",
-				"Job als Wachposten?\\. Äh..."
+				"\\c[2]\\n[2]\\c[0]: Is it gonna be boring again",
+				"like that guard assignment?\\. Uh..."
 			]
 		},
 		{
@@ -374,10 +364,10 @@
 			"original": "Sir Vorento: Herr Tirunel und seine Ausdrucksweise... Ich muss gestehen - das hab ich die letzten 5 Tage doch ein bisschen vermisst.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Herr Tirunel und seine ",
-				"Ausdrucksweise...\\. Ich muss gestehen ",
-				"- das hab ich die letzten 5 Tage ",
-				"doch ein bisschen vermisst."
+				"\\c[10]Sir Vorento\\c[0]: Sir Tirunel and his way",
+				"of expressing things...\\. I have to",
+				"confess - I've missed that for the",
+				"last five days."
 			]
 		},
 		{
@@ -385,9 +375,9 @@
 			"original": "Sir Vorento: Zu Ihrer Frage: Diese Aufgabe wäre weitaus fordernder als die letzte.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Zu Ihrer Frage: Diese ",
-				"Aufgabe wäre weitaus fordernder  ",
-				"als die letzte."
+				"\\c[10]Sir Vorento\\c[0]: About your question:",
+				"This task will be far more",
+				"demanding than the last one."
 			]
 		},
 		{
@@ -395,9 +385,9 @@
 			"original": "Sir Vorento: Genaueres dazu steht noch nicht fest. Jedenfalls sehe ich Sie als geeignet für diesen Auftrag.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Genaueres dazu steht ",
-				"noch nicht fest.\\. Jedenfalls sehe ich ",
-				"Sie als geeignet für diesen Auftrag."
+				"\\c[10]Sir Vorento\\c[0]: More details have not",
+				"yet been decided.\\. In any case, I see",
+				"you two as suitable for this task."
 			]
 		},
 		{
@@ -405,7 +395,7 @@
 			"original": "Cibon: Wirklich?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wirklich?"
+				"\\c[2]\\n[2]\\c[0]: Really?"
 			]
 		},
 		{
@@ -413,10 +403,10 @@
 			"original": "Sir Vorento: Ich würde Ihnen gerne noch mehr dazu sagen, doch habe ich jetzt leider keine Zeit mehr. Eine wichtige Besprechung erwartet mich.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Ich würde Ihnen gerne ",
-				"noch mehr dazu sagen, doch habe ich ",
-				"jetzt leider keine Zeit mehr.\\. Eine ",
-				"wichtige Besprechung erwartet mich."
+				"\\c[10]Sir Vorento\\c[0]: I'd like to tell you",
+				"more about it, but unfortunately I",
+				"don't have any time right now.\\. I have",
+				"an important meeting to attend to."
 			]
 		},
 		{
@@ -424,10 +414,9 @@
 			"original": "Kento: Was ist denn nun mit dem Neben-Effekt beim Koppeln der Element-Kugeln, den Sie erwähnt haben?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Was ist denn nun mit dem ",
-				"Neben-Effekt beim Koppeln der ",
-				"Element-Kugeln, den Sie erwähnt ",
-				"haben?"
+				"\\c[1]\\n[1]\\c[0]: What about the side effect",
+				"when coupling these elemental orbs",
+				"that you mentioned earlier?"
 			]
 		},
 		{
@@ -435,8 +424,8 @@
 			"original": "Kento: Ich würde sehr gerne wissen, was es damit auf sich hat.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich würde sehr gerne wissen, ",
-				"was es damit auf sich hat."
+				"\\c[1]\\n[1]\\c[0]: I'd very much like to know",
+				"what this is about."
 			]
 		},
 		{
@@ -444,9 +433,8 @@
 			"original": "Cibon: Kumpel, sag nicht, dass du die ganze Zeit über nichts Anderes nachgedacht hast!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kumpel, sag nicht, dass du",
-				"die ganze Zeit über nichts Anderes ",
-				"nachgedacht hast!"
+				"\\c[2]\\n[2]\\c[0]: Don't tell me you didn't think",
+				"about anything else this whole time!"
 			]
 		},
 		{
@@ -454,10 +442,9 @@
 			"original": "Sir Vorento: Wenn es so dringend ist, sprechen Sie doch mit unserer neuen Signum-Expertin Ileya. Sie ist im Besprechungsraum gegenüber.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Wenn es so dringend ist, ",
-				"sprechen Sie doch mit unserer neuen ",
-				"Signum-Expertin Ileya.\\. Sie ist im ",
-				"Besprechungsraum gegenüber."
+				"\\c[10]Sir Vorento\\c[0]: If it's so urgent, talk",
+				"to our new Signum expert Ileya.\\.",
+				"She is across the hall."
 			]
 		},
 		{
@@ -465,10 +452,10 @@
 			"original": "Sir Vorento: Ich verabschiede mich dann. Ich denke morgen werden wir uns wieder hier treffen. Ich werde Sie informieren, wenn es soweit ist.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Ich verabschiede mich ",
-				"dann.\\. Ich denke morgen werden wir ",
-				"uns wieder hier treffen.\\. Ich werde Sie ",
-				"informieren, wenn es soweit ist."
+				"\\c[10]Sir Vorento\\c[0]: It's time for me to go.\\.",
+				"I think tomorrow, we'll meet here",
+				"again.\\. I will inform you when the",
+				"time comes."
 			]
 		},
 		{
@@ -476,7 +463,7 @@
 			"original": "Sir Vorento: Schönen Tag noch!",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Schönen Tag noch!"
+				"\\c[10]Sir Vorento\\c[0]: Have a nice day!"
 			]
 		},
 		{
@@ -484,10 +471,9 @@
 			"original": "Cibon: Haste das gehört? Anscheinend hält der alte Vorento ja doch etwas von uns. ... Was das wohl für ein Auftrag sein wird...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Haste das gehört?\\.",
-				"Anscheinend hält der alte Vorento ja ",
-				"doch etwas von uns.\\. ...\\. Was das ",
-				"wohl für ein Auftrag sein wird..."
+				"\\c[2]\\n[2]\\c[0]: Did you hear that?\\. Apparently,",
+				"the old man thinks something of us.\\.",
+				"...\\. What an adventure that'll be..."
 			]
 		},
 		{
@@ -495,7 +481,7 @@
 			"original": "Cibon: Was meinste, Kumpel?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Was meinste, Kumpel?"
+				"\\c[2]\\n[2]\\c[0]: What do you think?"
 			]
 		},
 		{
@@ -503,10 +489,10 @@
 			"original": "(Kento: Hm... was könnte das bloß für ein Nebeneffekt sein? Ich habe noch nie davon gehört... Ob es etwas Positives oder Negatives ist?)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: \\s[4]Hm... was könnte das bloß ",
-				"für ein Nebeneffekt sein? Ich habe ",
-				"noch nie davon gehört... Ob es etwas",
-				"Positives oder Negatives ist?)\\.\\^"
+				"(\\c[1]\\n[1]\\c[0]: \\s[4]Hm... What could that side",
+				"effect be? I've never heard of it...",
+				"Is it something positive or",
+				"negative?)\\.\\^"
 			]
 		},
 		{
@@ -522,8 +508,8 @@
 			"original": "Kento: ÖH.. was? Äh... lass uns schnell diese Ileya aufsuchen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ÖH.. was?\\. Äh... lass uns ",
-				"schnell diese Ileya aufsuchen."
+				"\\c[1]\\n[1]\\c[0]: Huh... What?\\. Uh... Let's go",
+				"find this Ileya person quickly."
 			]
 		},
 		{
@@ -531,9 +517,9 @@
 			"original": "Cibon: Du denkst immer noch an diesen Nebeneffekt? Na gut! Dann suchen wir halt Frau Signum-Expertin.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Du denkst immer noch an ",
-				"diesen Nebeneffekt? Na gut! Dann ",
-				"suchen wir halt Frau Signum-Expertin."
+				"\\c[2]\\n[2]\\c[0]: Are you still thinking about",
+				"this side effect? Alright! Then",
+				"let's look for Ms. Signum expert."
 			]
 		},
 		{
@@ -541,9 +527,8 @@
 			"original": "(Cibon: Bin mal gespannt was für'n alter Bücherwurm das wieder sein wird)",
 			"lines":
 			[
-				"(\\c[2]\\n[2]\\c[0]: Bin mal gespannt was für'n",
-				"alter Bücherwurm das wieder sein ",
-				"wird)"
+				"(\\c[2]\\n[2]\\c[0]: Gee, I wonder what an old",
+				"bookworm we'll be meeting again.)"
 			]
 		},
 		{
@@ -551,8 +536,8 @@
 			"original": "Sir Vorento: Ah, da sind Sie ja endlich.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Ah, da sind Sie ja ",
-				"endlich."
+				"\\c[10]Sir Vorento\\c[0]: Ah, there you are at",
+				"last."
 			]
 		},
 		{
@@ -560,7 +545,7 @@
 			"original": "Kento: Guten Tag, Sir.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Guten Tag, Sir."
+				"\\c[1]\\n[1]\\c[0]: Good afternoon, sir."
 			]
 		},
 		{
@@ -568,8 +553,7 @@
 			"original": "Cibon: Weswegen haben Sie nach uns rufen lassen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Weswegen haben Sie nach uns ",
-				"rufen lassen?"
+				"\\c[2]\\n[2]\\c[0]: Why did you call us here?"
 			]
 		},
 		{
@@ -577,9 +561,10 @@
 			"original": "Sir Vorento: Es geht um den Auftrag, den ich schon gestern erwähnt habe. Sie werden ihn übernehmen.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Es geht um den Auftrag, ",
-				"den ich schon gestern erwähnt habe.\\.",
-				"Sie werden ihn übernehmen."
+				"\\c[10]Sir Vorento\\c[0]: It's about the",
+				"assignment that I mentioned",
+				"yesterday.\\. You will take on",
+				"the mission."
 			]
 		},
 		{
@@ -587,8 +572,8 @@
 			"original": "Cibon: Klasse! ... Was müssen wir tun?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Klasse!\\. ...\\.",
-				"Was müssen wir tun?"
+				"\\c[2]\\n[2]\\c[0]: Great!\\. ...\\. What do we have",
+				"to do?"
 			]
 		},
 		{
@@ -596,10 +581,9 @@
 			"original": "Sir Vorento: Nun, Sie werden einer Eskorte beitreten, deren Aufgabe es ist, eine Person auf dem Weg nach Korzojeno zu beschützen.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Nun\\., Sie werden ",
-				"einer Eskorte beitreten, deren ",
-				"Aufgabe es ist, eine Person auf dem ",
-				"Weg nach Korzojeno zu beschützen."
+				"\\c[10]Sir Vorento\\c[0]: Well,\\. you'll be joining",
+				"a soldier whose job it is to protect",
+				"a person on the way to Korzojeno."
 			]
 		},
 		{
@@ -607,10 +591,9 @@
 			"original": "Sir Vorento: Bei der zu beschützende Person handelt es sich um einen Botschafter der Regierung Brigantias.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Bei der zu ",
-				"beschützende Person handelt es sich  ",
-				"um einen Botschafter der Regierung ",
-				"Brigantias."
+				"\\c[10]Sir Vorento\\c[0]: The person you'll be",
+				"protecting is an ambassador from",
+				"the Brigantine government."
 			]
 		},
 		{
@@ -618,8 +601,8 @@
 			"original": "Sir Vorento: Die Eskorte ist bereits von Buronia abgereist.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Die Eskorte ist bereits ",
-				"von Buronia abgereist."
+				"\\c[10]Sir Vorento\\c[0]: The soldier has already",
+				"left Buronia."
 			]
 		},
 		{
@@ -627,10 +610,10 @@
 			"original": "Sir Vorento: In dem Gasthof vor dem Torasgebirge werden sie der Eskorte beitreten und den Botschafter bis zum Zielort begleiten.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: In dem Gasthof vor dem ",
-				"Torasgebirge werden sie der Eskorte ",
-				"beitreten und den Botschafter bis ",
-				"zum Zielort begleiten."
+				"\\c[10]Sir Vorento\\c[0]: In the inn near Mount",
+				"Toras, you will join the soldier",
+				"and accompany the ambassador to",
+				"the destination."
 			]
 		},
 		{
@@ -638,9 +621,8 @@
 			"original": "Sir Vorento: Der Zielort ist Domarkor, die Hauptstadt Korzojenos.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Der Zielort ist ",
-				"Domarkor, die Hauptstadt ",
-				"Korzojenos."
+				"\\c[10]Sir Vorento\\c[0]: The destination is",
+				"Domarkor, the capital of Korzojeno."
 			]
 		},
 		{
@@ -648,10 +630,10 @@
 			"original": "Sir Vorento: In Domarkor wird der Botschafter an wichtigen Besprechungen teilzunehmen haben. Sie werden solange warten müssen.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: In Domarkor wird der ",
-				"Botschafter an wichtigen ",
-				"Besprechungen teilzunehmen haben.\\.",
-				"Sie werden solange warten müssen."
+				"\\c[10]Sir Vorento\\c[0]: In Domarkor, the",
+				"ambassador will have to take part",
+				"in important meetings.\\. You will",
+				"have to wait long hours."
 			]
 		},
 		{
@@ -659,9 +641,8 @@
 			"original": "Sir Vorento: Auf dem Rückweg werden Sie dann ebenfalls als Eskorte dienen.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Auf dem Rückweg ",
-				"werden Sie dann ebenfalls als ",
-				"Eskorte dienen."
+				"\\c[10]Sir Vorento\\c[0]: On the way back, you",
+				"will also protect this person."
 			]
 		},
 		{
@@ -669,10 +650,10 @@
 			"original": "Sir Vorento: Die Sicherheit des Botschafters hat äußerste Priorität, also beschützen Sie ihn mit ihrem Leben, wenn notwendig.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Die Sicherheit des ",
-				"Botschafters hat \\s[6]äußerste Priorität\\s[0],",
-				"also beschützen Sie ihn mit ihrem ",
-				"Leben, wenn notwendig."
+				"\\c[10]Sir Vorento\\c[0]: The ambassador's",
+				"security is a \\s[6]top priority\\s[0], so",
+				"protect him with your life if",
+				"necessary."
 			]
 		},
 		{
@@ -680,7 +661,7 @@
 			"original": "Cibon: Oha...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Oha..."
+				"\\c[2]\\n[2]\\c[0]: Oh..."
 			]
 		},
 		{
@@ -688,9 +669,8 @@
 			"original": "Sir Vorento: Soweit zum Inhalt des Auftrages. Gibt es irgendwelche Fragen?",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Soweit zum Inhalt des ",
-				"Auftrages.\\.",
-				"Gibt es irgendwelche Fragen?"
+				"\\c[10]Sir Vorento\\c[0]: As for the content of",
+				"the order,\\. are there any questions?"
 			]
 		},
 		{
@@ -698,8 +678,8 @@
 			"original": "Cibon: Wie lang' wird dieser Auftrag ungefähr dauern?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wie lang' wird dieser Auftrag ",
-				"ungefähr dauern?"
+				"\\c[2]\\n[2]\\c[0]: How long is this task",
+				"gonna take?"
 			]
 		},
 		{
@@ -707,9 +687,9 @@
 			"original": "Sir Vorento: Das hängt davon ab, wie schnell die Reise voran geht, also ganz von Ihnen.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Das hängt davon ab, wie ",
-				"schnell die Reise voran geht, also ",
-				"ganz von Ihnen. "
+				"\\c[10]Sir Vorento\\c[0]: It depends on how fast",
+				"the journey is going, so it's",
+				"entirely up to you."
 			]
 		},
 		{
@@ -717,10 +697,9 @@
 			"original": "Sir Vorento: Wenn wir aber nicht innerhalb von drei Wochen eine Benachrichtigung aus Domarkor bekommen, ...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Wenn wir aber nicht ",
-				"innerhalb von drei Wochen eine ",
-				"Benachrichtigung aus Domarkor ",
-				"bekommen, ..."
+				"\\c[10]Sir Vorento\\c[0]: If we don't get a",
+				"notification from Domarkor",
+				"within three weeks..."
 			]
 		},
 		{
@@ -728,9 +707,8 @@
 			"original": "Sir Vorento: ...werden wir einen weiteren Trupp nachschicken, um zu überprüfen, was geschehen ist.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: ...werden wir einen ",
-				"weiteren Trupp nachschicken, um zu ",
-				"überprüfen, was geschehen ist."
+				"\\c[10]Sir Vorento\\c[0]: ...we'll send another",
+				"group to check what happened."
 			]
 		},
 		{
@@ -738,10 +716,10 @@
 			"original": "Sir Vorento: Nun, die gesamte Dauer des Auftrages würde ich auf mindestens 3 Wochen abschätzen. Es wird also eine lange Reise.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Nun, die gesamte Dauer ",
-				"des Auftrages würde ich auf ",
-				"mindestens 3 Wochen abschätzen.\\.",
-				"Es wird also eine lange Reise."
+				"\\c[10]Sir Vorento\\c[0]: Well, I would estimate",
+				"the total duration of the assignment",
+				"to be at least three weeks.\\. So it'll",
+				"be a long journey."
 			]
 		},
 		{
@@ -749,8 +727,8 @@
 			"original": "Cibon: Mindestens 3 Wochen? ... Wie sieht es dann mit Reisevorräten aus?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Mindestens 3 Wochen? \\....\\. Wie ",
-				"sieht es dann mit Reisevorräten aus?"
+				"\\c[2]\\n[2]\\c[0]: At least three weeks?",
+				"What about travel supplies then?"
 			]
 		},
 		{
@@ -758,9 +736,9 @@
 			"original": "Sir Vorento: Die Eskorte, der Sie im Gasthof beitreten werden, wird die nötigen Vorräte dabei haben.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Die Eskorte, der Sie im ",
-				"Gasthof beitreten werden, wird die ",
-				"nötigen Vorräte dabei haben."
+				"\\c[10]Sir Vorento\\c[0]: The soldier you will be",
+				"joining at the inn will have the",
+				"necessary supplies with them."
 			]
 		},
 		{
@@ -768,10 +746,9 @@
 			"original": "Kento: Eine Sache finde ich merkwürdig... Wieso müssen Soldaten aus Nomerea einer Eskorte von Buronia beitreten?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Eine Sache finde ich ",
-				"merkwürdig...\\. Wieso müssen ",
-				"Soldaten aus Nomerea einer Eskorte ",
-				"von Buronia beitreten?"
+				"\\c[1]\\n[1]\\c[0]: One thing I find strange...\\.",
+				"Why do soldiers from Nomerea have",
+				"to join a soldier from Buronia?"
 			]
 		},
 		{
@@ -779,9 +756,8 @@
 			"original": "Kento: Warum machen nicht ausschließlich Soldaten aus Buronia diese Arbeit?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Warum machen nicht ",
-				"ausschließlich Soldaten aus Buronia ",
-				"diese Arbeit?"
+				"\\c[1]\\n[1]\\c[0]: Why don't soldiers from",
+				"Buronia just do this job?"
 			]
 		},
 		{
@@ -789,10 +765,10 @@
 			"original": "Sir Vorento: Wie Sie wissen hat Brigantia zwei Kasernen, in denen der größte Teil aller Soldaten des Briganten-Ordens rekrutiert werden",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Wie Sie wissen hat ",
-				"Brigantia zwei Kasernen, in denen ",
-				"der größte Teil aller Soldaten des ",
-				"Briganten-Ordens rekrutiert werden"
+				"\\c[10]Sir Vorento\\c[0]: As you know, Brigantia",
+				"has two barracks in which the",
+				"majority of all soldiers in the",
+				"Brigantine Order are recruited to."
 			]
 		},
 		{
@@ -800,8 +776,8 @@
 			"original": "Sir Vorento: Die Kaserne in Nomerea und in Buronia.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Die Kaserne in Nomerea ",
-				"und in Buronia."
+				"\\c[10]Sir Vorento\\c[0]: The barracks in Nomerea",
+				"and Buronia."
 			]
 		},
 		{
@@ -809,10 +785,9 @@
 			"original": "Sir Vorento: Dabei sind hauptsächlich die Soldaten aus Nomerea für militärische Missionen im Osten zuständig.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Dabei sind hauptsächlich ",
-				"die Soldaten aus Nomerea für ",
-				"militärische Missionen im Osten ",
-				"zuständig."
+				"\\c[10]Sir Vorento\\c[0]: Nomerea's soldiers are",
+				"mainly responsible for military",
+				"missions in the east."
 			]
 		},
 		{
@@ -820,9 +795,10 @@
 			"original": "Sir Vorento: Soldaten Buronias sind nur für die Bewachung des Landes und für Missionen im Süden zuständig.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Soldaten Buronias sind ",
-				"nur für die Bewachung des Landes und ",
-				"für Missionen im Süden zuständig."
+				"\\c[10]Sir Vorento\\c[0]: Buronia's soldiers are",
+				"only responsible for guarding the",
+				"country and for missions in",
+				"the south."
 			]
 		},
 		{
@@ -830,10 +806,10 @@
 			"original": "Sir Vorento: Leichte Missionen, wie Ihre letzte, stellen eine Ausnahme dar, da Sie nur zur Übung da sind.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Leichte Missionen,",
-				"wie Ihre letzte, stellen eine ",
-				"Ausnahme dar, da Sie nur zur Übung",
-				"da sind."
+				"\\c[10]Sir Vorento\\c[0]: Small missions, like",
+				"your last one, are an exception",
+				"because you are only there",
+				"to practice."
 			]
 		},
 		{
@@ -841,10 +817,10 @@
 			"original": "Sir Vorento: Gilt es, eine Eskorte für eine Reise von Buronia Richtung Osten zu bilden, wurde das immer auf diese Art geregelt.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Gilt es, eine Eskorte für ",
-				"eine Reise von Buronia Richtung ",
-				"Osten zu bilden, wurde das immer ",
-				"auf diese Art geregelt."
+				"\\c[10]Sir Vorento\\c[0]: When it comes to",
+				"escorting someone from Buronia",
+				"to the east, it was always done",
+				"this way."
 			]
 		},
 		{
@@ -852,9 +828,8 @@
 			"original": "Kento: Verstehe... Wie groß ist dann die Eskorte, die wir im Gasthof antreffen werden?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Verstehe...\\. Wie groß ist dann ",
-				"die Eskorte, die wir im Gasthof ",
-				"antreffen werden?"
+				"\\c[1]\\n[1]\\c[0]: I see...\\. How big is the",
+				"group we'll find in the inn?"
 			]
 		},
 		{
@@ -862,10 +837,10 @@
 			"original": "Sir Vorento: Sie besteht aus 3 Soldaten, wobei 2 Soldaten vom Treffpunkt aus wieder den Rückweg nach Buronia angehen werden.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Sie besteht aus 3 ",
-				"Soldaten, wobei 2 Soldaten vom ",
-				"Treffpunkt aus wieder den Rückweg ",
-				"nach Buronia angehen werden."
+				"\\c[10]Sir Vorento\\c[0]: It consists of three",
+				"soldiers, with two soldiers going",
+				"back to Buronia after the you",
+				"join forces with them."
 			]
 		},
 		{
@@ -873,10 +848,10 @@
 			"original": "Sir Vorento: Ein Soldat ist dafür zuständig, nach der Rückkehr in Buronia von dem gesamten Auftrag zu berichten.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Ein Soldat ist dafür ",
-				"zuständig, nach der Rückkehr in ",
-				"Buronia von dem gesamten Auftrag zu ",
-				"berichten."
+				"\\c[10]Sir Vorento\\c[0]: One soldier is",
+				"responsible for reporting the",
+				"entire assignment after",
+				"returning to Buronia."
 			]
 		},
 		{
@@ -884,9 +859,8 @@
 			"original": "Cibon: So, jetzt aber mal zur wichtigsten Frage: Wann geht's los?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: So, jetzt aber mal zur ",
-				"wichtigsten Frage:\\.",
-				"Wann geht's los?"
+				"\\c[2]\\n[2]\\c[0]: So now for the most important",
+				"question:\\. When does it start?"
 			]
 		},
 		{
@@ -894,8 +868,8 @@
 			"original": "Sir Vorento: Die Eskorte dürfte noch heute im Gasthof ankommen.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Die Eskorte dürfte noch ",
-				"heute im Gasthof ankommen."
+				"\\c[10]Sir Vorento\\c[0]: The soldier should still",
+				"arrive at the inn today."
 			]
 		},
 		{
@@ -903,7 +877,7 @@
 			"original": "Cibon: Was?! Gleich heute?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Was?!\\. Gleich heute?"
+				"\\c[2]\\n[2]\\c[0]: What?!\\. Today already?"
 			]
 		},
 		{
@@ -911,10 +885,10 @@
 			"original": "Sir Vorento: Ja, Sie sollten sich sobald wie möglich auf den Weg machen. Treffen Sie am besten gleich alle Vorbereitungen.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Ja, Sie sollten sich ",
-				"sobald wie möglich auf den Weg ",
-				"machen.\\. Treffen Sie am besten gleich",
-				"alle Vorbereitungen."
+				"\\c[10]Sir Vorento\\c[0]: Yes, you should get",
+				"going as soon as possible. It's",
+				"best to make all the preparations",
+				"immediately."
 			]
 		},
 		{
@@ -922,8 +896,7 @@
 			"original": "Kento: Das kommt aber alles ziemlich plötzlich.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Das kommt aber alles ",
-				"ziemlich plötzlich."
+				"\\c[1]\\n[1]\\c[0]: This is all pretty sudden."
 			]
 		},
 		{
@@ -931,9 +904,9 @@
 			"original": "Sir Vorento: Wir haben derzeit leider keine Zeit für Debatten. Also, gibt es noch irgendwelche Fragen?",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Wir haben derzeit leider ",
-				"keine Zeit für Debatten.\\. Also, gibt ",
-				"es noch irgendwelche Fragen?"
+				"\\c[10]Sir Vorento\\c[0]: Unfortunately, we don't",
+				"have time for debates at the moment.\\.",
+				"So, are there any questions left?"
 			]
 		},
 		{
@@ -941,10 +914,10 @@
 			"original": "Sir Vorento: Gut, Sie dürfen abtreten. Gehen Sie sobald wie möglich zum besagten Gasthof, um die Eskorte zu treffen.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Gut, Sie dürfen abtreten.\\.",
-				"Gehen Sie sobald wie möglich zum ",
-				"besagten Gasthof, um die Eskorte zu ",
-				"treffen."
+				"\\c[10]Sir Vorento\\c[0]: In any case, you're",
+				"dismissed.\\. Go to the said inn as",
+				"soon as possible to meet",
+				"the soldier."
 			]
 		},
 		{
@@ -952,7 +925,7 @@
 			"original": "Kento: Jawohl, Sir.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Jawohl, Sir."
+				"\\c[1]\\n[1]\\c[0]: Yes, sir."
 			]
 		},
 		{

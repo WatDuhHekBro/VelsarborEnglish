@@ -6,7 +6,7 @@
 			"original": "Cibon: Tag, Silkia.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Tag, Silkia."
+				"\\c[2]\\n[2]\\c[0]: Sup, Silkia."
 			]
 		},
 		{
@@ -14,10 +14,9 @@
 			"original": "Silkia: Oh! Hallo Cibon, Hallo Kento. Seid ihr endlich wieder zurück? Wie war es denn so in Sinkholm, na?",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Oh!\\.",
-				"Hallo Cibon, Hallo Kento.\\.",
-				"Seid ihr endlich wieder zurück?\\.",
-				"Wie war es denn so in Sinkholm, na?"
+				"\\c[10]Silkia\\c[0]: Oh!\\. Hey Cibon. Hey Kento.\\.",
+				"You're finally back?\\. So how was it",
+				"in Sinkholm?"
 			]
 		},
 		{
@@ -25,9 +24,10 @@
 			"original": "Cibon: Sterbens-Langweilig war's! Wir saßen die ganze Zeit in dem Kaff fest bis die Diebe aufgetaucht sind.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Sterbens-Langweilig war's!\\.",
-				"Wir saßen die ganze Zeit in dem Kaff ",
-				"fest bis die Diebe aufgetaucht sind."
+				"\\c[2]\\n[2]\\c[0]: We were bored to death!\\.",
+				"Being stuck in that dump for so",
+				"long until the thieves finally",
+				"showed up and all."
 			]
 		},
 		{
@@ -35,7 +35,7 @@
 			"original": "Silkia: Und? Habt ihr sie gefangen?",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Und?\\. Habt ihr sie gefangen?"
+				"\\c[10]Silkia\\c[0]: And?\\. Did you catch them?"
 			]
 		},
 		{
@@ -43,8 +43,8 @@
 			"original": "Cibon: Ja... Die Trottel sind uns direkt vor die Füße gelaufen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja...\\. Die Trottel sind uns ",
-				"direkt vor die Füße gelaufen."
+				"\\c[2]\\n[2]\\c[0]: Yep...\\. The fools ran right",
+				"at our feet."
 			]
 		},
 		{
@@ -52,10 +52,9 @@
 			"original": "Silkia: Schön, das zu hören. ... So... Aber was ist nun der Grund, warum du dich hier blicken lässt, Bruderherz?",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Schön, das zu hören.\\. ",
-				"...\\. So...\\. Aber was ist nun der Grund, ",
-				"warum du dich hier blicken lässt, ",
-				"\\s[9]Bruderherz?"
+				"\\c[10]Silkia\\c[0]: Good to hear that.\\. So...\\.",
+				"What you need me to do this time,",
+				"\\s[9]dear brother?"
 			]
 		},
 		{
@@ -63,7 +62,7 @@
 			"original": "Cibon: .....Öh?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: .....\\.Öh?"
+				"\\c[2]\\n[2]\\c[0]: Huh?"
 			]
 		},
 		{
@@ -71,10 +70,10 @@
 			"original": "Silkia: Nur um mir zu erzählen, wie es in Sinkholm war, ganz sicher nicht. Na? Brauchst du wieder Geld, oder wie?",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Nur um mir zu erzählen, wie es ",
-				"in Sinkholm war, ganz sicher nicht.\\.",
-				"Na?\\. Brauchst du wieder Geld, oder ",
-				"wie?"
+				"\\c[10]Silkia\\c[0]: You're definitely not here",
+				"just to tell me about your adventure",
+				"in Sinkholm.\\. So?\\. Do you need money",
+				"again?"
 			]
 		},
 		{
@@ -82,8 +81,8 @@
 			"original": "Cibon: Ähhh... Nee... Is' nicht wegen Geld. Es geht um was anderes.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ähhh...\\. Nee...\\. Is' nicht wegen ",
-				"Geld.\\. Es geht um was anderes."
+				"\\c[2]\\n[2]\\c[0]: Uhhh...\\. No...\\. It's not about",
+				"money.\\. It's about something else."
 			]
 		},
 		{
@@ -91,9 +90,9 @@
 			"original": "Silkia: Ach stimmt ja... Für die Geldsorgen kannst du dich ja seit neustem an Kento wenden.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Ach stimmt ja...\\. Für die ",
-				"Geldsorgen kannst du dich ja seit ",
-				"neustem an Kento wenden."
+				"\\c[10]Silkia\\c[0]: Oh right...\\. You can just go",
+				"to Kento now for anything",
+				"money-related."
 			]
 		},
 		{
@@ -101,9 +100,9 @@
 			"original": "Kento: Traurig, aber wahr. Da fällt mir ein... Du schuldest mir noch 25 Fejar, Cibon.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Traurig, aber wahr.\\. Da fällt ",
-				"mir ein...\\. Du schuldest mir noch 25 ",
-				"\\n[19], Cibon."
+				"\\c[1]\\n[1]\\c[0]: Sad, but true.\\. That reminds",
+				"me...\\. You still owe me 25 \\n[19],",
+				"Cibon."
 			]
 		},
 		{
@@ -111,7 +110,7 @@
 			"original": "Cibon: Jajaja... Ich weiß, Kumpel.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Jajaja...\\. Ich weiß, Kumpel."
+				"\\c[2]\\n[2]\\c[0]: I know, I know."
 			]
 		},
 		{
@@ -119,8 +118,8 @@
 			"original": "Cibon: Danke, dass du ihn dran erinnert hast, Schwesterherz.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Danke, dass du ihn dran ",
-				"erinnert hast, \\s[9]Schwesterherz."
+				"\\c[2]\\n[2]\\c[0]: Thanks for reminding him,",
+				"\\s[9]dear sister."
 			]
 		},
 		{
@@ -128,8 +127,7 @@
 			"original": "Silkia: Na, wieso bist du denn nun gekommen?",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Na,\\. wieso bist du denn nun ",
-				"gekommen?"
+				"\\c[10]Silkia\\c[0]: So,\\. why'd you come this time?"
 			]
 		},
 		{
@@ -137,10 +135,9 @@
 			"original": "Cibon: Nun, die Sache ist die: Kento und ich haben auf unserer Rückkehr von Sinkholm ein Ei gekauf.. ähhh... gesehen...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Nun, die Sache ist die:\\. Kento ",
-				"und ich haben auf unserer Rückkehr ",
-				"von Sinkholm ein Ei gekauf..\\. ähhh...\\.",
-				"gesehen..."
+				"\\c[2]\\n[2]\\c[0]: Well, the thing is...\\. Kento",
+				"and I bought an egg on our way back",
+				"from Sinkholm...\\. Uhh...\\. Saw..."
 			]
 		},
 		{
@@ -148,9 +145,8 @@
 			"original": "Cibon: Na ja... und kaum haben wir es gesehen, ... ist ein Vogel draus geschlüpft...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Na ja\\.... und kaum haben wir es ",
-				"gesehen,\\. ...\\. ist ein Vogel draus ",
-				"geschlüpft..."
+				"\\c[2]\\n[2]\\c[0]: And um...\\. and as soon as we",
+				"saw it...\\. a bird hatched from it..."
 			]
 		},
 		{
@@ -158,7 +154,7 @@
 			"original": "Silkia: Aha. Wo ist das Problem?",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Aha.\\. Wo ist das Problem?"
+				"\\c[10]Silkia\\c[0]: Ah.\\. So what's the problem?"
 			]
 		},
 		{
@@ -166,9 +162,9 @@
 			"original": "Cibon: Öhm.... Na ja... ...Äh... das Ei lag da einfach so rum. Da war kein Nest oder so was!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Öhm....\\. Na ja...\\.",
-				"...\\.Äh... das Ei lag da einfach so ",
-				"rum.\\. Da war kein Nest oder so was!"
+				"\\c[2]\\n[2]\\c[0]: Um...\\. Well...\\. Uh...\\. The egg",
+				"was just sitting there.\\. There wasn't",
+				"any nest or anything!"
 			]
 		},
 		{
@@ -176,10 +172,9 @@
 			"original": "Cibon: Wir wollten den Piepmatz nicht einfach seinem Schicksal überlassen... und haben ihn deshalb mitgenommen...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wir wollten den Piepmatz ",
-				"nicht einfach seinem Schicksal ",
-				"überlassen...\\. und haben ihn deshalb ",
-				"mitgenommen..."
+				"\\c[2]\\n[2]\\c[0]: We didn't just want to leave",
+				"the bird to its fate...\\. So we took",
+				"it with us..."
 			]
 		},
 		{
@@ -187,7 +182,7 @@
 			"original": "Silkia: Wie bitte?! Zeig sofort her!",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Wie bitte?!\\. Zeig sofort her!"
+				"\\c[10]Silkia\\c[0]: Really?!\\. Show it to me!"
 			]
 		},
 		{
@@ -195,8 +190,8 @@
 			"original": "Cibon: Und? Haste eine Ahnung, was für'n Vogel das sein kann?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Und?\\. Haste eine Ahnung, was ",
-				"für'n Vogel das sein kann?"
+				"\\c[2]\\n[2]\\c[0]: So?\\. Do you have any idea",
+				"what type of bird it is?"
 			]
 		},
 		{
@@ -204,9 +199,9 @@
 			"original": "Silkia: Nein, ich weiß es leider nicht. Wo genau habt ihr den Vogel denn genau gefunden?",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Nein, ich weiß es leider ",
-				"nicht.\\. Wo genau habt ihr den Vogel ",
-				"denn genau gefunden?"
+				"\\c[10]Silkia\\c[0]: No, unfortunately I don't",
+				"know.\\. Where exactly did you find",
+				"the bird?"
 			]
 		},
 		{
@@ -214,7 +209,7 @@
 			"original": "Kento: Öhm, auf der Brü...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Öhm,\\. auf der Brü...\\|\\^"
+				"\\c[1]\\n[1]\\c[0]: Um,\\. on the br...\\|\\^"
 			]
 		},
 		{
@@ -222,10 +217,9 @@
 			"original": "Cibon: Auf einer WIESE im Sinke- Lohne-Pass, .... in der Nähe von diesem kleinen See, du weißt schon, oder?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Auf einer WIESE im Sinke-",
-				"Lohne-Pass,\\. ....\\. in der Nähe von ",
-				"diesem kleinen See, du weißt schon, ",
-				"oder?"
+				"\\c[2]\\n[2]\\c[0]: On a MEADOW in the Sink-Lohne",
+				"Pass,\\. ...\\.near the small lake, the",
+				"one you know about, right?"
 			]
 		},
 		{
@@ -233,10 +227,9 @@
 			"original": "Silkia: Soso... Mir fällt nur auf, dass das Küken ziemlich groß ist. Vielleicht handelt es sich um einen Raubvogel.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Soso...\\. Mir fällt nur auf, ",
-				"dass das Küken ziemlich groß ist.\\.",
-				"Vielleicht handelt es sich um einen ",
-				"Raubvogel."
+				"\\c[10]Silkia\\c[0]: Well then...\\. I just noticed",
+				"that the chick is quite big.\\. Maybe",
+				"it's a bird of prey."
 			]
 		},
 		{
@@ -244,10 +237,9 @@
 			"original": "Cibon: Ich hab keinen blassen Schimmer. Jedenfalls können wir uns nicht um den Piepmatz kümmern... Wir haben dazu einfach nicht die Zeit.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich hab keinen blassen ",
-				"Schimmer. Jedenfalls können wir uns ",
-				"nicht um den Piepmatz kümmern...",
-				"Wir haben dazu einfach nicht die Zeit."
+				"\\c[2]\\n[2]\\c[0]: I have no idea. Anyways, we",
+				"can't take care of the bird... We",
+				"just don't have the time."
 			]
 		},
 		{
@@ -255,8 +247,8 @@
 			"original": "Silkia: Und jetzt hofft ihr, dass ich mich darum kümmern könnte, na?",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Und jetzt hofft ihr, dass ich ",
-				"mich darum kümmern könnte,\\. na?"
+				"\\c[10]Silkia\\c[0]: And now you hope that I can",
+				"take care of it,\\. right?"
 			]
 		},
 		{
@@ -264,7 +256,7 @@
 			"original": "Cibon: Bitte....",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: \\s[9]Bitte...."
+				"\\c[2]\\n[2]\\c[0]: \\s[9]Please..."
 			]
 		},
 		{
@@ -272,8 +264,8 @@
 			"original": "Silkia: Hmpf... So ein Vogel kann einem eine Menge Arbeit bereiten.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Hmpf...\\. So ein Vogel kann ",
-				"einem eine Menge Arbeit bereiten."
+				"\\c[10]Silkia\\c[0]: Hmpf...\\. These kinds of birds",
+				"can be a lot of work to take care of."
 			]
 		},
 		{
@@ -281,10 +273,9 @@
 			"original": "Silkia: Außerdem wird es schwer, es so hinzubekommen, dass er später wieder in seine natürliche Umwelt zurückkehren kann.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Außerdem wird es schwer, es ",
-				"so hinzubekommen, dass er später",
-				"wieder in seine natürliche Umwelt ",
-				"zurückkehren kann."
+				"\\c[10]Silkia\\c[0]: In addition, it'll be quite",
+				"difficult to get it so that it can",
+				"later return to its natural habitat."
 			]
 		},
 		{
@@ -292,7 +283,7 @@
 			"original": "Cibon: Bitte!!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: \\s[9]Bitte!!"
+				"\\c[2]\\n[2]\\c[0]: \\s[9]Pleeease!!"
 			]
 		},
 		{
@@ -300,10 +291,9 @@
 			"original": "Silkia: Na gut... Ich denke, ich werde damit schon klar kommen. Besser das, als wenn ihr den Kleinen noch irgendwo anders abgebt.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: \\s[9]Na gut...\\s[0] Ich denke, ich ",
-				"werde damit schon klar kommen. ",
-				"\\.Besser das, als wenn ihr den Kleinen ",
-				"noch irgendwo anders abgebt."
+				"\\c[10]Silkia\\c[0]: \\s[9]Well...\\s[0] I think I'll be fine",
+				"with that.\\. Better than if you gave",
+				"it to someone else."
 			]
 		},
 		{
@@ -311,8 +301,8 @@
 			"original": "Silkia: Wer weiß, was dort mit ihm angestellt werden würde.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Wer weiß, was dort mit ihm ",
-				"angestellt werden würde."
+				"\\c[10]Silkia\\c[0]: Who knows what would've",
+				"happened to it in that case."
 			]
 		},
 		{
@@ -320,8 +310,8 @@
 			"original": "Cibon: Vielen Dank, Silkia! Dafür bin ich dir was schuldig.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Vielen Dank, Silkia!\\.",
-				"Dafür bin ich dir was schuldig."
+				"\\c[2]\\n[2]\\c[0]: Thank you so much, Silkia!\\.",
+				"I owe you one."
 			]
 		},
 		{
@@ -329,10 +319,9 @@
 			"original": "Silkia: Tu mir einfach nur den Gefallen und gewöhn dir an, besser auf dein Geld aufzupassen. Und lass dich hier mal öfters bei uns blicken.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Tu mir einfach nur den ",
-				"Gefallen und gewöhn dir an, besser ",
-				"auf dein Geld aufzupassen.\\.\\. Und lass ",
-				"dich hier mal öfters bei uns blicken."
+				"\\c[10]Silkia\\c[0]: Just do me a favor and get",
+				"used to taking better care of your",
+				"money.\\.\\. And come visit us more often."
 			]
 		},
 		{
@@ -340,7 +329,7 @@
 			"original": "Cibon: Ja. geht klar.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja. geht klar."
+				"\\c[2]\\n[2]\\c[0]: Will do."
 			]
 		},
 		{
@@ -348,8 +337,8 @@
 			"original": "Silkia: Nicht, dass ihr den Vogel hier einfach wieder vergesst.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Nicht, dass ihr den Vogel ",
-				"hier einfach wieder vergesst."
+				"\\c[10]Silkia\\c[0]: Not like you'll just forget",
+				"about the bird here."
 			]
 		},
 		{
@@ -357,8 +346,8 @@
 			"original": "Cibon: Wir werden ihn schon nicht vergessen, nicht wahr, Kumpel?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wir werden ihn schon nicht ",
-				"vergessen,\\. nicht wahr, Kumpel?"
+				"\\c[2]\\n[2]\\c[0]: We won't forget him,\\.",
+				"right Kento?"
 			]
 		},
 		{
@@ -366,7 +355,7 @@
 			"original": "Kento: D-Denke schon.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: D-\\.Denke schon."
+				"\\c[1]\\n[1]\\c[0]: I-\\.I think so."
 			]
 		},
 		{
@@ -374,8 +363,8 @@
 			"original": "Silkia: Gut... Na? Wollt ihr vielleicht noch etwas bleiben?",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Gut...\\. Na?\\. Wollt ihr ",
-				"vielleicht noch etwas bleiben?"
+				"\\c[10]Silkia\\c[0]: Good...\\. Well?\\. Do you want",
+				"to stay here a little longer?"
 			]
 		},
 		{
@@ -383,9 +372,9 @@
 			"original": "Cibon: Ähhh... Nein, wir müssen zur Kaserne, um den Bericht von unserem Auftrag abzugeben, stimmt's, Kumpel?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ähhh...\\. Nein, wir müssen zur ",
-				"Kaserne, um den Bericht von unserem ",
-				"Auftrag abzugeben, stimmt's, Kumpel?"
+				"\\c[2]\\n[2]\\c[0]: Uhhh...\\. No, we have to go",
+				"to the barracks and report on our",
+				"assignment, right Kento?"
 			]
 		},
 		{
@@ -393,7 +382,7 @@
 			"original": "Kento:  Ja? Öhm...... ja.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]:  Ja?\\. Öhm......\\. ja."
+				"\\c[1]\\n[1]\\c[0]: Huh?\\. Um......\\. yeah."
 			]
 		},
 		{
@@ -401,10 +390,9 @@
 			"original": "Silkia: Na gut... Man sieht sich dann. Ach ja, Mutter geht gerade draußen spazieren. Sie würde sich sicher mal wieder freuen, dich zu sehen.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Na gut...\\. Man sieht sich dann.",
-				"Ach ja,\\. Mutter geht gerade draußen ",
-				"spazieren.\\. Sie würde sich sicher mal ",
-				"wieder freuen, dich zu sehen."
+				"\\c[10]Silkia\\c[0]: Alright...\\. See you then.",
+				"Oh right,\\. mom's walking outside.\\.",
+				"She'd be happy to see you again."
 			]
 		},
 		{
@@ -412,10 +400,9 @@
 			"original": "Cibon: Gut... ich werd' bei Gelegenheit mal vorbei schauen. Wir gehen dann mal. Tschau!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Gut... ich werd' bei ",
-				"Gelegenheit mal vorbei schauen.\\.",
-				"Wir gehen dann mal.\\.",
-				"Tschau! "
+				"\\c[2]\\n[2]\\c[0]: Well... I'll see if I can",
+				"find her.\\. We'll be gone in the",
+				"meantime.\\. Later!"
 			]
 		},
 		{
@@ -423,10 +410,9 @@
 			"original": "Silkia: Oh, hallo. Eurem Vogel geht es gut. Er lässt sich ohne Probleme füttern. Ich denke, dass ist ein gutes Zeichen.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Oh, hallo.\\. Eurem Vogel geht ",
-				"es gut.\\. Er lässt sich ohne Probleme ",
-				"füttern.\\. Ich denke, dass ist ",
-				"ein gutes Zeichen."
+				"\\c[10]Silkia\\c[0]: Oh, hello.\\. Your bird's doing",
+				"fine.\\. It can be fed without problems.\\.",
+				"I think that's a good sign."
 			]
 		},
 		{
@@ -435,9 +421,9 @@
 			"original": "Cibon: Silkia? Die nächsten paar Wochen wirste mich leider nicht zu Gesicht bekommen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Silkia? Die nächsten paar ",
-				"Wochen wirste mich leider nicht zu ",
-				"Gesicht bekommen."
+				"\\c[2]\\n[2]\\c[0]: Silkia? For the next few",
+				"weeks, you unfortunately won't",
+				"be able to see me."
 			]
 		},
 		{
@@ -446,10 +432,9 @@
 			"original": "Silkia: Wie? Habt ihr etwa schon wieder nen Auftrag bekommen? Und diesmal zieht sich das über ganze Wochen?",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Wie? Habt ihr etwa schon ",
-				"wieder nen Auftrag bekommen?\\. Und ",
-				"diesmal zieht sich das über ganze ",
-				"Wochen?"
+				"\\c[10]Silkia\\c[0]: How come? You already got",
+				"another task?\\. And this time it",
+				"lasts for several weeks?"
 			]
 		},
 		{
@@ -458,8 +443,8 @@
 			"original": "Cibon: Ja, genau so ist es und zudem müssen wir gleich losgehen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja, genau so ist es und zudem ",
-				"müssen wir gleich losgehen."
+				"\\c[2]\\n[2]\\c[0]: Yes, you heard that right, and",
+				"we also have to start right away."
 			]
 		},
 		{
@@ -468,8 +453,8 @@
 			"original": "Silkia: Worum geht es denn diesmal? 3 Wochen lang Wache stehen?",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Worum geht es denn diesmal?\\.",
-				"3 Wochen lang Wache stehen?"
+				"\\c[10]Silkia\\c[0]: What's it about this time?\\.",
+				"Standing guard for three whole weeks?"
 			]
 		},
 		{
@@ -478,10 +463,9 @@
 			"original": "Cibon: Bloß nicht! Diesmal wartet ne anständige Aufgabe auf uns. Wir werden als Eskorte dienen um einen Politiker zu beschützen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Bloß nicht! Diesmal wartet ne ",
-				"anständige Aufgabe auf uns.\\. Wir ",
-				"werden als Eskorte dienen um einen ",
-				"Politiker zu beschützen!"
+				"\\c[2]\\n[2]\\c[0]: Oh stop! This time, we got a",
+				"decent task.\\. We'll be serving as",
+				"escorts to protect an ambassador!"
 			]
 		},
 		{
@@ -490,8 +474,8 @@
 			"original": "Silkia: Was? So eine wichtige Aufgabe habt ihr beiden bekommen?",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Was?\\. So eine wichtige ",
-				"Aufgabe habt ihr beiden bekommen?"
+				"\\c[10]Silkia\\c[0]: What?\\. You both got such",
+				"an important task?"
 			]
 		},
 		{
@@ -500,10 +484,9 @@
 			"original": "Silkia: Entweder macht ihr euch als Soldaten besser als ich dachte, oder euer Vorgesetzter hat nen... na ja...",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Entweder macht ihr euch als ",
-				"Soldaten besser als ich dachte, oder ",
-				"euer Vorgesetzter hat nen...\\. ",
-				"na ja..."
+				"\\c[10]Silkia\\c[0]: Either you're a better",
+				"soldier than I thought, or your",
+				"supervisor has a...\\. Well..."
 			]
 		},
 		{
@@ -512,10 +495,9 @@
 			"original": "Silkia: Wie auch immer. Kommt ja heil zurück, der Auftrag wird diesmal sicher nicht so einfach wie vorher.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Wie auch immer.\\. Kommt ja ",
-				"heil zurück,\\. der Auftrag wird ",
-				"diesmal sicher nicht so einfach wie ",
-				"vorher."
+				"\\c[10]Silkia\\c[0]: Anyways.\\. Come back",
+				"safely,\\. this time the assignment certainly",
+				"won't be as easy as before."
 			]
 		},
 		{
@@ -524,7 +506,7 @@
 			"original": "Cibon: Is' mir schon klar.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Is' mir schon klar."
+				"\\c[2]\\n[2]\\c[0]: I understand."
 			]
 		},
 		{
@@ -533,10 +515,9 @@
 			"original": "Silkia: Es war doch ne gute Idee von euch, mir den Vogel zu geben. Ihr würdet jetzt jedenfalls keine Zeit für ihn haben.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Es war doch ne gute Idee von ",
-				"euch, mir den Vogel zu geben. Ihr ",
-				"würdet jetzt jedenfalls keine Zeit ",
-				"für ihn haben."
+				"\\c[10]Silkia\\c[0]: It was a good idea of yours",
+				"to give me the bird. In any case,",
+				"you wouldn't have time for him now."
 			]
 		},
 		{
@@ -545,9 +526,9 @@
 			"original": "Cibon: Ja, stimmt. Wenn wir zurück sind, bin ich gespannt, was aus ihm geworden ist, unserem Piepmatz.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja, stimmt.\\. Wenn wir zurück ",
-				"sind, bin ich gespannt, was aus ihm ",
-				"geworden ist, unserem Piepmatz."
+				"\\c[2]\\n[2]\\c[0]: Yeah, that's right.\\. When we",
+				"get back, I'm excited to see what",
+				"happens to him, our little bird."
 			]
 		},
 		{
@@ -556,8 +537,7 @@
 			"original": "Silkia: Ich werd' schon gut auf ihn aufpassen.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Ich werd' schon gut auf ihn ",
-				"aufpassen."
+				"\\c[10]Silkia\\c[0]: I'll take good care of him."
 			]
 		},
 		{
@@ -566,8 +546,7 @@
 			"original": "Cibon: Na gut, man sieht sich, Schwesterherz.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Na gut,\\. man sieht sich,\\. ",
-				"Schwesterherz."
+				"\\c[2]\\n[2]\\c[0]: Alright,\\. see ya,\\. sis."
 			]
 		},
 		{
@@ -576,8 +555,8 @@
 			"original": "Silkia: Mach's gut, Cibon. Und du auch Kento.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Mach's gut, Cibon.\\. Und du ",
-				"auch Kento."
+				"\\c[10]Silkia\\c[0]: Take care, Cibon.\\. And you",
+				"too Kento."
 			]
 		},
 		{
@@ -586,7 +565,7 @@
 			"original": "Kento: Ja, auf Wiedersehen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja, auf Wiedersehen."
+				"\\c[1]\\n[1]\\c[0]: Yeah, goodbye."
 			]
 		},
 		{
@@ -595,10 +574,9 @@
 			"original": "Silkia: Da ich mich ja um den Vogel kümmere, hab ich ja auch das Recht, ihm einen Namen zu geben, nicht wahr?",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Da ich mich ja um den Vogel ",
-				"kümmere, hab ich ja auch das Recht, ",
-				"ihm einen Namen zu geben, nicht ",
-				"wahr?"
+				"\\c[10]Silkia\\c[0]: Since I'm taking care of the",
+				"bird, I have the right to give it a",
+				"name, don't I?"
 			]
 		},
 		{
@@ -607,8 +585,8 @@
 			"original": "Cibon: Hmpf, okay, meinetwegen. Haste schon einen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hmpf,\\. okay,\\. meinetwegen.\\.",
-				"Haste schon einen?"
+				"\\c[2]\\n[2]\\c[0]: Hmpf,\\. okay,\\. alright.\\. Do you",
+				"already have a name in mind?"
 			]
 		},
 		{
@@ -617,8 +595,8 @@
 			"original": "Silkia: Nein, aber mir wird schon einer einfallen, keine Sorge.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Nein, aber mir wird schon ",
-				"einer einfallen,\\. keine Sorge."
+				"\\c[10]Silkia\\c[0]: No, but I'll think of one,\\.",
+				"don't worry."
 			]
 		},
 		{
@@ -627,8 +605,9 @@
 			"original": "Cibon: Hey, wie wäre es mit \"Schwarzgefiederter Blitz\", harhar.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hey, wie wäre es mit ",
-				"\\s[4]\"Schwarzgefiederter Blitz\"\\s[0], harhar."
+				"\\c[2]\\n[2]\\c[0]: Hey, how about",
+				"\\s[4]\"Black-Feathered Lightning\"\\s[0]?",
+				"Hehehe."
 			]
 		},
 		{
@@ -637,9 +616,8 @@
 			"original": "Silkia: Bloß nicht! Überhaupt, woher willst du wissen, das er schwarze Federn haben wird?",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Bloß nicht!\\. Überhaupt, woher ",
-				"willst du wissen, das er schwarze ",
-				"Federn haben wird?"
+				"\\c[10]Silkia\\c[0]: Stop!\\. And besides, how do",
+				"you know he'll have black feathers?"
 			]
 		},
 		{
@@ -648,9 +626,8 @@
 			"original": "Cibon: Hehe, na ja es is' wohl tatsächlich besser, wenn du dir den Namen ausdenkst.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hehe,\\. na ja es is' wohl ",
-				"tatsächlich besser, wenn du dir den ",
-				"Namen ausdenkst."
+				"\\c[2]\\n[2]\\c[0]: Hehe,\\. well,\\. it's probably",
+				"better if you come up with the name."
 			]
 		},
 		{
@@ -659,8 +636,8 @@
 			"original": "Das Küken verhält sich ziemlich lebendig. Wahrscheinlich hat es wieder mal Hunger.",
 			"lines":
 			[
-				"Das Küken verhält sich ziemlich lebendig.",
-				"Wahrscheinlich hat es wieder mal Hunger."
+				"The chick is quite energetic.",
+				"It's probably hungry again."
 			]
 		},
 		{
@@ -668,10 +645,9 @@
 			"original": "Cibon: Mama, wir haben schon wieder einen Auftrag bekommen, aber diesmal einen besonders langen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Mama, wir haben schon ",
-				"wieder einen Auftrag bekommen,\\. ",
-				"aber diesmal einen besonders ",
-				"langen."
+				"\\c[2]\\n[2]\\c[0]: Mom, we've already got another",
+				"task,\\. but this time it's a",
+				"particularly long one."
 			]
 		},
 		{
@@ -679,8 +655,8 @@
 			"original": "Cibon: Wir werden wahrscheinlich länger als 3 Wochen weg sein.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wir werden wahrscheinlich ",
-				"länger als 3 Wochen weg sein. "
+				"\\c[2]\\n[2]\\c[0]: We'll probably be gone",
+				"for at least three weeks."
 			]
 		},
 		{
@@ -688,7 +664,7 @@
 			"original": "Frau Tirunel: Wirklich? Stimmt das, Kento?",
 			"lines":
 			[
-				"\\c[10]Mrs. Tirunel\\c[0]: Wirklich?\\. Stimmt das, Kento?"
+				"\\c[10]Mrs. Tirunel\\c[0]: Really?\\. Is that true, Kento?"
 			]
 		},
 		{
@@ -696,7 +672,7 @@
 			"original": "Kento: Ja...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: \\s[6]Ja...\\.\\^"
+				"\\c[1]\\n[1]\\c[0]: \\s[6]Yeah...\\.\\^"
 			]
 		},
 		{
@@ -704,9 +680,9 @@
 			"original": "Cibon: Verflucht, ich erzähl keine Lügenmärchen mehr! Ich werde auch erwachsen, versteh doch.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Verflucht, ich erzähl keine ",
-				"Lügenmärchen mehr!\\. Ich werde ",
-				"auch erwachsen,\\. versteh doch."
+				"\\c[2]\\n[2]\\c[0]: Dang it, I'm not telling",
+				"lies anymore!\\. I'm growing up",
+				"too,\\. you know."
 			]
 		},
 		{
@@ -714,10 +690,10 @@
 			"original": "Frau Tirunel: Ach, das ist teilweise schon zur Gewohnheit geworden, Cibon. Davon kann ich mich nicht so schnell losreißen. Nun, wohin geht die Reise denn und wann reist ihr ab?",
 			"lines":
 			[
-				"\\c[10]Mrs. Tirunel\\c[0]: Ach,\\. das ist teilweise schon zur ",
-				"Gewohnheit geworden, Cibon.\\. Davon kann ich ",
-				"mich nicht so schnell losreißen.\\. Nun,\\. wohin geht ",
-				"die Reise denn und wann reist ihr ab?"
+				"\\c[10]Mrs. Tirunel\\c[0]: Oh,\\. that's already a habit now,",
+				"Cibon.\\. I can't change it so quickly.\\. Now,\\.",
+				"what's this journey about and when are",
+				"you leaving?"
 			]
 		},
 		{
@@ -725,9 +701,9 @@
 			"original": "Cibon: Wir müssen als Eskorte dienen und reisen Richtung Osten, bis zur Hauptstadt von Korzojeno.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wir müssen als Eskorte ",
-				"dienen und reisen Richtung Osten, ",
-				"bis zur Hauptstadt von Korzojeno."
+				"\\c[2]\\n[2]\\c[0]: We have to escort an",
+				"ambassador and travel east to the",
+				"capital of Korzojeno."
 			]
 		},
 		{
@@ -735,10 +711,10 @@
 			"original": "Frau Tirunel: Nach Domarkor? So weit? Ohhh...Passt bloß gut auf euch auf. Wer weiß, was für Zustände dort herrschen... Wann geht es nun los?",
 			"lines":
 			[
-				"\\c[10]Mrs. Tirunel\\c[0]: Nach Domarkor?\\. So weit?\\. ",
-				"\\s[8]Ohhh...\\s[0]Passt bloß gut auf euch auf. Wer weiß, ",
-				"was für Zustände dort herrschen... ",
-				"Wann geht es nun los? "
+				"\\c[10]Mrs. Tirunel\\c[0]: To Domarkor?\\. So far away?\\. \\s[8]Ohhh...\\s[0]",
+				"Just take care of yourself. Who knows what the",
+				"conditions are like over there...",
+				"When does it start?"
 			]
 		},
 		{
@@ -746,8 +722,8 @@
 			"original": "Cibon: Na ja... sofort. Wir müssen so bald wie möglich abreisen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Na ja... sofort. Wir müssen so ",
-				"bald wie möglich abreisen."
+				"\\c[2]\\n[2]\\c[0]: Well... Immediately. We have",
+				"to leave as soon as possible."
 			]
 		},
 		{
@@ -755,9 +731,8 @@
 			"original": "Frau Tirunel: Was? Sofort? Oh... na dann wünsch ich euch viel Erfolg. Und kommt ja unversehrt zurück.",
 			"lines":
 			[
-				"\\c[10]Mrs. Tirunel\\c[0]: Was?\\. Sofort?\\. Oh... na dann ",
-				"wünsch ich euch viel Erfolg.\\. Und kommt ja ",
-				"unversehrt zurück."
+				"\\c[10]Mrs. Tirunel\\c[0]: What?\\. Already?\\. Oh... Well,\\. good",
+				"luck out there.\\. And don't die on the way."
 			]
 		},
 		{
@@ -765,7 +740,7 @@
 			"original": "Cibon: Es wird schon alles gut gehen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Es wird schon alles gut gehen."
+				"\\c[2]\\n[2]\\c[0]: Everything will be just fine."
 			]
 		},
 		{
@@ -773,7 +748,7 @@
 			"original": "Frau Tirunel: Ach ja und noch was...",
 			"lines":
 			[
-				"\\c[10]Mrs. Tirunel\\c[0]: Ach ja und noch was..."
+				"\\c[10]Mrs. Tirunel\\c[0]: Oh and one more thing..."
 			]
 		},
 		{
@@ -789,10 +764,10 @@
 			"original": "Frau Tirunel: Jenseits des Toras-Gebirges... liegt das Corine-Plateau. Wenn ihr dort seid, besucht doch bitte das Grab deines Vaters. Es muss dort irgendwo sein.",
 			"lines":
 			[
-				"\\c[10]Mrs. Tirunel\\c[0]: Jenseits des Toras-Gebirges...\\. ",
-				"liegt das Corine-Plateau.\\. Wenn ihr dort seid, ",
-				"besucht doch bitte das Grab deines Vaters.\\. Es ",
-				"muss dort irgendwo sein.  "
+				"\\c[10]Mrs. Tirunel\\c[0]: Beyond Mount Toras...\\. is the",
+				"Corine Plateau.\\. When you're there,\\. please",
+				"visit your father's grave.\\. It has to be",
+				"somewhere around there."
 			]
 		},
 		{
@@ -800,10 +775,9 @@
 			"original": "Cibon: Das Grab meines Vaters... Stimmt ja, es liegt an diesem Ort... Ich werd es nicht vergessen. Versprochen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Das Grab meines Vaters...\\.\\. ",
-				"Stimmt ja, es liegt an diesem Ort...\\. ",
-				"Ich werd es nicht vergessen. \\.",
-				"Versprochen."
+				"\\c[2]\\n[2]\\c[0]: My father's grave...\\.\\. You're",
+				"right, it's in this area...\\. I won't",
+				"forget it.\\. Promise."
 			]
 		},
 		{
@@ -811,8 +785,8 @@
 			"original": "Frau Tirunel: Ich traue deinem Wort diesmal. Auf Wiedersehen.",
 			"lines":
 			[
-				"\\c[10]Mrs. Tirunel\\c[0]: Ich traue deinem Wort diesmal.\\. ",
-				"\\s[5]Auf Wiedersehen."
+				"\\c[10]Mrs. Tirunel\\c[0]: I'll trust your word this time.\\.",
+				"\\s[5]Farewell."
 			]
 		},
 		{
@@ -820,7 +794,7 @@
 			"original": "Cibon: Bis dann!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Bis dann!"
+				"\\c[2]\\n[2]\\c[0]: Until then!"
 			]
 		},
 		{
@@ -828,7 +802,7 @@
 			"original": "Kento: Tschau...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Tschau..."
+				"\\c[1]\\n[1]\\c[0]: Bye..."
 			]
 		},
 		{
@@ -836,8 +810,8 @@
 			"original": "Frau Tirunel: Hm, ich werde dich die paar Wochen sicherlich vermissen.",
 			"lines":
 			[
-				"\\c[10]Mrs. Tirunel\\c[0]: Hm, ich werde dich die paar ",
-				"Wochen sicherlich vermissen."
+				"\\c[10]Mrs. Tirunel\\c[0]: Hm, I'll miss you for the",
+				"next couple of weeks."
 			]
 		}
 	]

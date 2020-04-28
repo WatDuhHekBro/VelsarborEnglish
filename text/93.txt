@@ -1,29 +1,3 @@
-Mitglied des Rates: Der Trupp ist nun auf dem Weg nach Domarkor. Er wird den "Farenischen Adelsbund" zum Thema befragen.
-Mitglied des Rates: Wir können dann in ein bis drei Wochen Rückmeldungen erwarten.
-Mitglied des Rates: Meinen sie nicht, dass diese Aktion etwas übertrieben ist? Wir wissen nicht, wie viel an den Gerüchten dran ist.
-Mitglied des Rates: Es gab mehrere Meldungen über eine Gruppe, die an der Grenze von Korzojeno gesehen wurde.
-Mitglied des Rates: Sie soll angeblich über hundert Mann umfassen und gut ausgerüstet sein. Zudem sollen einige Rüstungsteile das Wappen der korzojenischen Streitkraft tragen.
-Mitglied des Rates: Die Gruppe hält sich zwar im Hintergrund, wurde aber auch schon in der Nähe und teilweise sogar in Städten und Dörfern Korzojenos erspäht.
-Mitglied des Rates: Hier handelt es sich definitiv um keine größere Diebesbande oder ähnlichem.
-Mitglied des Rates: In der Tat. es wurde nie berichtet, dass diese Gruppe die Zivilbevölkerung von Korzojeno belästigt oder gar angegriffen hat.
-Mitglied des Rates: Ich bin dennoch der Meinung, dass wir erstmal warten sollten, bis uns genauere Informationen erreichen, bevor wir gleich beim Adelsbund anklopfen, wegen ein paar Gerüchten
-Mitglied des Rates: Momentan gibt es einfach wichtigeres zu tun. Unsere Truppen auf dem südlichen Kontinent haben derzeit Probleme, ihr Land vor dem Gegner zu verteidigen.
-Mitglied des Rates: Während wir hier uns über das Sorgen machen was sich Waschweiber an der Grenze erzählen, sterben unsere Männer jenseits der See, Stund' um Stund'.
-Mitglied des Rates: Wir dürfen nicht vergessen, dass diese Angelegenheit im Südlichen Kontinent nur der Landerweiterung dient.
-Mitglied des Rates: Was sich da wiederum im Osten abspielt könnte sich zu einer Gefahr für das ganze Land entwickeln.
-Mitglied des Rates: Sollte Korzojeno es wagen, die Friedensverträge zu brechen und sein Heer wieder vergrößern, ist ein weiterer Krieg nicht fern.
-Mitglied des Rates: Wir müssen dieses Feuer ersticken, bevor es entfacht.
-Mitglied des Rates: Die Ureinwohner vom Süden stellen für das Land selber momentan keine direkte Gefahr dar.
-Mitglied des Rates: Wie bitte!? Verstehe ich sie richtig? Sagen sie, es ist egal, ob da Leute im Süden sterben oder nicht, solange wir hier oben sicher sind?
-Mitglied des Rates: Das ist doch unerhört...
-Oberstes Ratmitglied: Ruhe!
-Oberstes Ratmitglied: Es ist schon klar, dass wir uns auch auf das konzentrieren müssen, was im Süden passiert.
-Oberstes Ratmitglied: Aber ein Untersuchungsauftrag, meine Herren...
-Oberstes Ratmitglied: ...ist keineswegs eine militärische Aktion die die gesamten Streitkräfte des Briganten-Ordens in Anspruch nimmt.
-Oberstes Ratmitglied: Wir werden das Mysterium um diese Gruppe untersuchen, diese Sache ist bereits beschlossen.
-Oberstes Ratmitglied: Die Konflikte im Süden werden deshalb nicht vernachlässigt, machen sie sich diesbezüglich also keine Sorgen.
-Oberstes Ratmitglied: Ich erkläre die Sitzung hiermit für beendet.
-
 Mitglied des Rates:...kurze Zeit später erhielten wir einen weiteren Brief von Herrn Uroto selber. Er fordert ebenfalls Verstärkung und bestätigte die Existenz der Gruppe.
 Mitglied des Rates: Gleichzeitig aber berichtet er uns von der Gefangennahme seiner Eskorte.
 Mitglied des Rates: Laut seiner Aussage haben sie die Seiten gewechselt und waren als Spione für jene Gruppe aus dem Silvanwald tätig.
@@ -52,59 +26,30 @@ Oberstes Ratmitglied: Vorerst werden wir nur das Gebiet um den Silvanwald genaue
 Oberstes Ratmitglied: Offensive Maßnahmen bleiben aus, bis wir genaueres wissen.
 Oberstes Ratmitglied: Wir werden die Streitkräfte bereithalten, um sofort eingreifen zu können, sollte die Situation es verlangen.
 
-
-
-
-Member of the Council: The group is now on the way to Domarkor. He will question the "Farenian Aristocracy" on the subject.
-Member of the Council: We can then expect feedback in one to three weeks.
-Member of the Council: Do you not think that this action is a bit exaggerated? We don't know how much of the rumors are. <?
-Member of the Council: There have been several reports of a group seen on the Korzojenish side of the border.
-Member of the Council: It is said to have over a hundred men and be well-equipped. In addition, some parts of their armor are said to bear the coat of arms of the Korzojenish armed forces.
-Member of the Council: The group remains in the shadows, but has also been spotted nearby and sometimes even in the towns and villages of Korzojeno.
-Member of the Council: This is definitely not a major gang of thieves or the like.
-Member of the Council: Indeed. This group has never been reported to have harassed or even attacked Korzojeno's civilians.
-Member of the Council: I still believe that we should wait until we get more detailed information before knocking on the nobility association because of a few rumors <? knocking on -->
-Member of the Council: There are simply more important things to do at the moment. Our troops on the southern continent are currently struggling to defend their country from the enemy.
-Member of the Council: While we are worried about what washing women are saying at the border, our men are dying beyond the sea, hour after hour. <?
-Member of the Council: We must not forget that this matter in the southern continent is only for enlargement. <? enlargement
-Member of the council: What's happening in the east could easily turn into a threat for the whole country.
-Member of the Council: If Korzojeno dares to break the peace treaties and enlarge their army again, another war is not too far away/off. <? !select
-Member of the Council: We must put out this fire before it starts.
-Member of the council: The indigenous people from the south currently pose no direct danger to the country itself.
-Member of the Council: I beg your pardon!? Did I hear you right? You say it doesn't matter if people die in the south as long as we're safe up here?
-Member of the Council: This is outrageous...
-Chief Councilor: Quiet!
-Chief Councilor: It is already clear that we must also focus on what's happening in the south.
-Supreme Council Member: But an inquiry, gentlemen... <? inquiry
-Supreme Council Member: ... is by no means a military action that takes up the entire armed forces of the Brigantine Order. <?
-Chief Councilor: We will investigate the mystery surrounding this group, this matter has already been resolved. <? !better wording?
-Chief Council Member: The conflicts in the south are therefore not neglected, so do not worry about them. <? not neglected
-Chief Councilor: I hereby declare this meeting closed.
-\/
-Member of the Council: A short while later, we received another letter from Sir Uroto himself. He also called for reinforcements and confirmed the existence of the group.
-Member of the Council: At the same time, however, he tells us about the capture of his escort.
-Member of the council: According to him, they changed sides and acted as spies for that group from the Silvan Forest.
-Member of the Council: Your real task should have been to remove any further suspicions about the group.
-Member of the Council: The escort is currently on her way to the Helnovien prison.
-Member of the Council: Does that mean the rumors about this group were true? How can that be!
-Member of the Council: Excuse me, do I understand that correctly?
-Member of the Council: That escort told us about the existence of a group in the Silvanwald, but should in reality eliminate rumors about this group?
-Member of the Council: Mr. Uroto describes in his letter a rather obscure plan that should do this.
-Member of the Council: However, this matter is of secondary importance for now. One thing is certain: the existence of the suspected group was confirmed to us from every side.
-Member of the Council: I advise immediate reinforcement of the border forces, as well as sending search teams to get more information about the group.
-Member of the council: what else is there to search? I say we surround the forest and smother the fire before it starts!
-Member of the Council: We have enough evidence to justify military intervention!
-Member of the council: what about the Farenian aristocracy? Has a connection been confirmed? Is there any other information about this group?
-Member of the Council: The group should be professionally equipped and have a fortified base in the Silvanwald. A direct connection to the aristocratic league could not be proven.
-Member of the Council: But where else should they get their equipment from?
-Member of the Council: If the nobility association is actually behind this group, we should teach it a proper lesson.
-Member of the Council: Such an audacity!
-Chief Council Member: We should avoid acting hastily in this situation.
-Chief Councilor: Inappropriate, aggressive behavior would destroy any diplomatic relationship with the nobility.
-Member of the Council: What do we get from diplomatic relations with a country that wants to attack us?
-Supreme Councilor: I want to remind you that there is no evidence of connection to the aristocracy!
-Chief Council Member: We will send another ambassador to the Farenian aristocracy to find out more.
-Supreme Council member: Otherwise, I think it would also make sense to strengthen border guards.
-Supreme Council member: For the time being, we will only search the area around the Silvanwald more closely.
-Chief Council Member: Offensive measures are not taken until we know more.
-Chief Councilor: We will have the armed forces ready to intervene immediately if the situation requires it.
+Council Member: A short while later, we received another letter from Sir Uroto himself. He also called for reinforcements and confirmed the existence of the group.
+Council Member: At the same time, however, he tells us about the capture of his escort.
+Council Member: According to him, they changed sides and acted as spies for that group from the Silvan Forest.
+Council Member: Your real task should have been to remove any further suspicions about the group.
+Council Member: The escort is currently on her way to the Helnovien prison.
+Council Member: Does that mean the rumors about this group were true? How can that be!
+Council Member: Excuse me, do I understand that correctly?
+Council Member: That escort told us about the existence of a group in the Silvanwald, but should in reality eliminate rumors about this group?
+Council Member: Mr. Uroto describes in his letter a rather obscure plan that should do this.
+Council Member: However, this matter is of secondary importance for now. One thing is certain: the existence of the suspected group was confirmed to us from every side.
+Council Member: I advise immediate reinforcement of the border forces, as well as sending search teams to get more information about the group.
+Council Member: what else is there to search? I say we surround the forest and smother the fire before it starts!
+Council Member: We have enough evidence to justify military intervention!
+Council Member: what about the Farenian aristocracy? Has a connection been confirmed? Is there any other information about this group?
+Council Member: The group should be professionally equipped and have a fortified base in the Silvanwald. A direct connection to the aristocratic league could not be proven.
+Council Member: But where else should they get their equipment from?
+Council Member: If the nobility association is actually behind this group, we should teach it a proper lesson.
+Council Member: Such an audacity!
+Head Council Member: We should avoid acting hastily in this situation.
+Head Council Member: Inappropriate, aggressive behavior would destroy any diplomatic relationship with the nobility.
+Council Member: What do we get from diplomatic relations with a country that wants to attack us?
+Head Council Member: I want to remind you that there is no evidence of connection to the aristocracy!
+Head Council Member: We will send another ambassador to the Farenian aristocracy to find out more.
+Head Council Member: Otherwise, I think it would also make sense to strengthen border guards.
+Head Council Member: For the time being, we will only search the area around the Silvanwald more closely.
+Head Council Member: Offensive measures are not taken until we know more.
+Head Council Member: We will have the armed forces ready to intervene immediately if the situation requires it.

@@ -385,7 +385,7 @@
 				"\\c[10]Jorn:\\c[0] You're gonna do that",
 				"anyway.\\. This grandiose plan of yours",
 				"is gonna go wrong faster than",
-				"you can say"
+				"you can say\\^"
 			]
 		},
 		{
@@ -576,7 +576,7 @@
 			"lines":
 			[
 				"\\c[2]Cibon:\\c[0] Now now. No need to be as",
-				"vigilant as our old man Vorento."
+				"vigilant as the old man."
 			]
 		},
 		{
@@ -666,8 +666,8 @@
 			"original": "Jorn: ...Dank dir bald nur noch die \"gefangenen Zinkar-Brüder\", du VOLLTROTTEL!",
 			"lines":
 			[
-				"\\c[10]Jorn:\\c[0] Thanks to you, we'll",
-				"soon only be known as the \"captive",
+				"\\c[10]Jorn:\\c[0] Thanks to you, we'll soon",
+				"only be known as the \"captive",
 				"Zinkar Brothers\", you IDIOT!"
 			],
 			"__comment__": "**Note** It seems that there was a pun here, gefürchteten (dreaded) and gefangenen (captured), but I give up trying to make a similar pun."
