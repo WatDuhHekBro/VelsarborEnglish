@@ -15,10 +15,10 @@
 			"original": "????: Gut, damit sollte sich dieser Streit unter den Machthungrigen erstmal gelegt haben. Hoffen wir, dass uns genug Zeit bleibt...",
 			"lines":
 			[
-				"\\c[10]????\\c[0]:\\s[1] Good, this should put an end to",
-				"this dispute among the power-hungry.",
-				"Let's just hope we have",
-				"enough time..."
+				"\\c[10]????\\c[0]:\\s[1] Good,\\. this should put",
+				"an end to this dispute among the",
+				"power-hungry.\\. Let's just hope",
+				"we have enough time..."
 			],
 			"__comment__": "Prophet"
 		},
