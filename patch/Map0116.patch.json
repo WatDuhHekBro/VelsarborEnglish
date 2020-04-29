@@ -6,8 +6,8 @@
 			"original": "Junge Frau: Habt ihr schon mal das Corine- Plateau durchquert?",
 			"lines":
 			[
-				"\\c[10]Junge Frau\\c[0]: Habt ihr schon mal das Corine-",
-				"Plateau durchquert?"
+				"\\c[10]Young Woman\\c[0]: Have you ever crossed",
+				"the Corine Plateau?"
 			]
 		},
 		{
@@ -15,10 +15,10 @@
 			"original": "Junge Frau: Es ist etwas ironisch, aber trotz der kompletten Zerstörung des ehemaligen Waldes vor 9 Jahren oder gerade deswegen hat sich eine ganz außergewöhnliche Landschaft gebildet.",
 			"lines":
 			[
-				"\\c[10]Junge Frau\\c[0]: Es ist etwas ironisch, aber trotz der ",
-				"kompletten Zerstörung des ehemaligen Waldes ",
-				"vor 9 Jahren oder gerade deswegen hat sich eine ",
-				"ganz außergewöhnliche Landschaft gebildet."
+				"\\c[10]Young Woman\\c[0]: It's a little ironic, but despite",
+				"the complete destruction of the former forest",
+				"nine years ago or because of it, a very",
+				"unusual landscape has formed."
 			]
 		},
 		{
@@ -26,10 +26,10 @@
 			"original": "Junge Frau: Es gibt wenig große Pflanzen und Bäume, aber überall wächst meterhohes Grass. Außerdem sind die vielen flachen Klippen und Hänge interessant anzusehen.",
 			"lines":
 			[
-				"\\c[10]Junge Frau\\c[0]: Es gibt wenig große Pflanzen und ",
-				"Bäume, aber überall wächst meterhohes Grass.\\.",
-				"Außerdem sind die vielen flachen Klippen und ",
-				"Hänge interessant anzusehen."
+				"\\c[10]Young Woman\\c[0]: There aren't that many large plants",
+				"and trees left, but the grass is several meters",
+				"high and grows everywhere.\\. In addition, the many",
+				"flat cliffs and slopes are interesting to see."
 			]
 		},
 		{
@@ -37,10 +37,10 @@
 			"original": "Junge Frau: Ihr solltet euch das mal ansehen, es ist wirklich ein Blick wert, nicht zuletzt auch wegen dem Denkmal auf halben Wege, das all die Opfer von Septoccasus gedient.",
 			"lines":
 			[
-				"\\c[10]Junge Frau\\c[0]: Ihr solltet euch das mal ansehen, es ",
-				"ist wirklich ein Blick wert, nicht zuletzt auch ",
-				"wegen dem Denkmal auf halben Wege, das",
-				"all die Opfer von Septoccasus gedient."
+				"\\c[10]Young Woman\\c[0]: You should take a look at it",
+				"sometime, it's really worth a look, not",
+				"just because of the memorial for all",
+				"of the victims of Septoccasus."
 			]
 		},
 		{
@@ -49,10 +49,9 @@
 			"original": "Soko: Ja, viele tapfere Soldaten haben damals im Corine Plateau ihr Leben gelassen. Man sollte sie nicht vergessen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ja, viele tapfere Soldaten ",
-				"haben damals im Corine Plateau ihr ",
-				"Leben gelassen.\\. Man sollte sie nicht ",
-				"vergessen."
+				"\\c[13]\\n[3]\\c[0]: Yes, many brave soldiers lost",
+				"their lives in the Corine Plateau.\\.",
+				"They shouldn't be forgetten."
 			]
 		},
 		{
@@ -61,7 +60,7 @@
 			"original": "Cibon: Genau...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Genau..."
+				"\\c[2]\\n[2]\\c[0]: Yeah..."
 			]
 		},
 		{

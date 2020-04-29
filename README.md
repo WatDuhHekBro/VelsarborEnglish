@@ -58,8 +58,8 @@ After the first major release, the `dev` branch will still be used so there aren
 - The Sink-Lohne Pass: 100%
 - Nomerea: 100%
 - The Lohne: 100%
-- Mount Toras: 0%
-- Wayfarer's Inn: 0%
+- Mount Toras: 15%
+- Wayfarer's Inn: 10%
 - The Corine Plateau: 0%
 - Gencorin Pt I: 0%
 - The Silvan Forest: 2%

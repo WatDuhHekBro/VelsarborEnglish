@@ -6,7 +6,7 @@
 			"original": "Cibon: Ziemlich düster hier...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ziemlich düster hier..."
+				"\\c[2]\\n[2]\\c[0]: It's pretty dark here..."
 			]
 		},
 		{
@@ -14,8 +14,8 @@
 			"original": "Kento: Mal sehen wie weit wir hier kommen. Auf geht's!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Mal sehen wie weit wir hier ",
-				"kommen.\\. Auf geht's!"
+				"\\c[1]\\n[1]\\c[0]: Let's see how far we can",
+				"get down here.\\. Here goes!"
 			]
 		},
 		{
@@ -23,8 +23,8 @@
 			"original": "Cibon: Pass auf, dass du über keine Steine stolperst, Kumpel.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Pass auf, dass du über keine ",
-				"Steine stolperst, Kumpel."
+				"\\c[2]\\n[2]\\c[0]: Careful not to trip over",
+				"any rocks here."
 			]
 		}
 	]

@@ -6,9 +6,8 @@
 			"original": "Cibon: Da fällt mir ein... Soko? Du hast Kento vorhin mit Vornamen angesprochen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Da fällt mir ein... Soko?\\. Du ",
-				"hast Kento vorhin mit Vornamen ",
-				"angesprochen!"
+				"\\c[2]\\n[2]\\c[0]: Come to think of it... Soko?\\.",
+				"You addressed Kento by his first name!"
 			]
 		},
 		{
@@ -16,7 +15,7 @@
 			"original": "Soko: Wie bitte?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wie bitte?"
+				"\\c[13]\\n[3]\\c[0]: Excuse me?"
 			]
 		},
 		{
@@ -24,10 +23,9 @@
 			"original": "Cibon: Ja. In dem Moment, wo ein Tentakel der Krake aufgetaucht ist. Da hast du \"Kento\" gerufen um ihn zu warnen und nicht \"Herr Kento\".",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja.\\. In dem Moment, wo ein ",
-				"Tentakel der Krake aufgetaucht ist. ",
-				"Da hast du \"Kento\" gerufen um ihn ",
-				"zu warnen und nicht \"Herr Kento\"."
+				"\\c[2]\\n[2]\\c[0]: Yeah.\\. Right when the octopus'",
+				"tentacle popped up. You said \"Kento\"",
+				"to warn him and not \"Sir Kento\"."
 			]
 		},
 		{
@@ -35,10 +33,10 @@
 			"original": "Soko: Ah... nein, nicht wirklich. Ich hab nur das \"Herr\" ausgelassen damit es schneller ging. Es sollte nur der Nachname ohne \"Herr\" sein.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ah...\\. nein, nicht wirklich.\\. Ich ",
-				"hab nur das \"Herr\" ausgelassen ",
-				"damit es schneller ging.\\. Es sollte nur ",
-				"der Nachname ohne \"Herr\" sein."
+				"\\c[13]\\n[3]\\c[0]: Ah...\\. No, not really.\\. I just",
+				"left out the \"Sir\" part because it",
+				"was faster.\\. It should've been just",
+				"his last name without \"Sir\"."
 			]
 		},
 		{
@@ -46,9 +44,9 @@
 			"original": "Cibon: Sicher... Du kannst dich jetzt rausreden, da du Kentos richtigen Nachnamen nicht kennst.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Sicher...\\. Du kannst dich jetzt ",
-				"rausreden, da du Kentos richtigen ",
-				"Nachnamen nicht kennst."
+				"\\c[2]\\n[2]\\c[0]: \\s[7]Suuure...\\s[0]\\. You're just making",
+				"excuses because you don't know",
+				"Kento's actual last name."
 			]
 		},
 		{
@@ -56,7 +54,7 @@
 			"original": "Soko: Das ist keine Ausrede!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Das ist keine Ausrede!"
+				"\\c[13]\\n[3]\\c[0]: I'm not making excuses!"
 			]
 		},
 		{
@@ -64,8 +62,8 @@
 			"original": "(Kento: Oh Mann, langsam wird das albern...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Oh Mann, langsam wird das ",
-				"albern...)"
+				"(\\c[1]\\n[1]\\c[0]: Oh man, this is getting",
+				"quite silly...)"
 			]
 		}
 	]

@@ -6,10 +6,9 @@
 			"original": "Cibon: ...War ja klar. Natürlich bekam Uroto ein Bett und weil wir einen auf Gentleman machen mussten, bekam Soko das zweite.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...War ja klar.\\. Natürlich ",
-				"bekam Uroto ein Bett und weil wir ",
-				"einen auf Gentleman machen ",
-				"mussten, bekam Soko das zweite."
+				"\\c[2]\\n[2]\\c[0]: Just my luck.\\. Of course Uroto",
+				"got a bed, and because we had to be",
+				"gentlemen, Soko got the second."
 			]
 		},
 		{
@@ -17,10 +16,9 @@
 			"original": "Cibon: Aber dann gewinnt auch noch dieser Glückspilz Royko das dritte Bett für sich, bei der Auslosung... Das Leben ist nicht fair.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Aber dann gewinnt auch noch ",
-				"dieser Glückspilz Royko das dritte ",
-				"Bett für sich, bei der Auslosung... ",
-				"Das Leben ist nicht fair."
+				"\\c[2]\\n[2]\\c[0]: But then that lucky Royko guy",
+				"also wins the third bed in the",
+				"draw... Life isn't fair."
 			]
 		},
 		{
@@ -28,8 +26,8 @@
 			"original": "Kento:  Komm, es ist ja nur für diese Nacht...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]:  Komm,\\. es ist ja nur für diese ",
-				"Nacht..."
+				"\\c[1]\\n[1]\\c[0]: Now now,\\. it's only for this",
+				"night..."
 			]
 		},
 		{
@@ -37,7 +35,7 @@
 			"original": "(Kento: ... )",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: ... )"
+				"(\\c[1]\\n[1]\\c[0]: ...)"
 			]
 		},
 		{
@@ -45,7 +43,7 @@
 			"original": "(Kento: ....Und wieder verschlafen...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: ....Und wieder verschlafen...)"
+				"(\\c[1]\\n[1]\\c[0]: ...and I overslept again...)"
 			]
 		}
 	]

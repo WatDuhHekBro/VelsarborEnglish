@@ -7,8 +7,8 @@
 			"original": "(Kento: Der Abstand ist hier zu groß, um rüber zu springen...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Der Abstand ist hier zu groß, ",
-				"um rüber zu springen...)"
+				"(\\c[1]\\n[1]\\c[0]: The distance here is",
+				"too large to jump over...)"
 			]
 		},
 		{
@@ -17,9 +17,8 @@
 			"original": "(Kento: Hm... hier unten ist das Wasser seicht... Vielleicht kann man ja...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Hm...\\. hier unten ist das ",
-				"Wasser seicht...\\. Vielleicht kann man ",
-				"ja...)"
+				"(\\c[1]\\n[1]\\c[0]: Hm...\\. The water here",
+				"is shallow...\\. Maybe I can...)"
 			]
 		}
 	]

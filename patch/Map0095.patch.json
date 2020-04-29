@@ -6,7 +6,7 @@
 			"original": "Herr Uroto: Was war das?",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Was war das?"
+				"\\c[10]Sir Uroto\\c[0]: What was that?"
 			]
 		},
 		{
@@ -14,7 +14,7 @@
 			"original": "Cibon: Ein Erdbeben?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ein Erdbeben?"
+				"\\c[2]\\n[2]\\c[0]: An earthquake?"
 			]
 		},
 		{
@@ -22,9 +22,8 @@
 			"original": "Kento: Hm... Für ein Erdbeben war die Erschütterung ein bisschen kurz...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hm...\\. Für ein Erdbeben war ",
-				"die Erschütterung ein bisschen ",
-				"kurz..."
+				"\\c[1]\\n[1]\\c[0]: Hm...\\. The tremor was",
+				"rather short for earthquake..."
 			]
 		},
 		{
@@ -32,8 +31,8 @@
 			"original": "Soko: Wir sollten uns davon nicht ablenken lassen. Gehen wir weiter.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wir sollten uns davon nicht ",
-				"ablenken lassen.\\. Gehen wir weiter."
+				"\\c[13]\\n[3]\\c[0]: We shouldn't get distracted",
+				"by it.\\. Let's just move on."
 			]
 		}
 	]

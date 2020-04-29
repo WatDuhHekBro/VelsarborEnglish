@@ -6,10 +6,10 @@
 			"original": "Kento: Hier versperren die ganzen Steine den Weg... Aber einige von ihnen scheinen nicht fest im Boden zu sitzen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hier versperren die ganzen ",
-				"Steine den Weg... Aber einige von ",
-				"ihnen scheinen nicht fest im Boden ",
-				"zu sitzen."
+				"\\c[1]\\n[1]\\c[0]: All of these rocks are",
+				"blocking the way... But some of",
+				"them seem to be loose enough",
+				"to move around."
 			]
 		},
 		{
@@ -18,8 +18,8 @@
 			"lines":
 			[
 				"",
-				"\\c[14]Verschiebe oder ziehe Objekte\\c[0], indem du dich ",
-				"neben das Objekt stellst und \\c[14]Enter\\c[0] drückst."
+				"\\c[14]Move or drag objects\\c[0] by standing next",
+				"to the object and pressing \\c[14]Enter\\c[0]."
 			]
 		},
 		{
@@ -28,8 +28,8 @@
 			"lines":
 			[
 				"",
-				"\\c[14]Halte Enter gedrückt und drücke die Pfeiltasten\\c[0], ",
-				"um das Objekt zu schieben oder zu ziehen."
+				"\\c[14]Hold Enter and press the arrow keys\\c[0]",
+				"to move or drag an object."
 			]
 		},
 		{
@@ -38,8 +38,7 @@
 			"lines":
 			[
 				"",
-				"\\c[14]Lass Enter los\\c[0] um das Verschieben ",
-				"abzuschließen."
+				"\\c[14]Release Enter\\c[0] to finish moving an object."
 			]
 		}
 	]

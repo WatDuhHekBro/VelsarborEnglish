@@ -6,8 +6,7 @@
 			"original": "????: Sir? Es gibt Neuigkeiten aus Nomerea.",
 			"lines":
 			[
-				"\\c[10]????\\c[0]: Sir?\\. Es gibt Neuigkeiten aus ",
-				"Nomerea."
+				"\\c[10]????\\c[0]: Sir?\\. There's news from Nomerea."
 			]
 		},
 		{
@@ -15,7 +14,7 @@
 			"original": "????: Nomerea? Sieh' an, sieh' an...",
 			"lines":
 			[
-				"\\c[10]????\\c[0]: Nomerea?\\. Sieh' an, sieh' an..."
+				"\\c[10]????\\c[0]: Nomerea?\\. Well, well..."
 			]
 		}
 	]
