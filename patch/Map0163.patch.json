@@ -1,0 +1,80 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [6,1,3,2],
+			"original": "Blonder Typ: Nana, gehandelt wird hier über der Theke.",
+			"lines":
+			[
+				"\\c[10]Blonder Typ\\c[0]: Nana, gehandelt wird ",
+				"hier über der Theke. "
+			]
+		},
+		{
+			"path": [7,1,3,2],
+			"original": "Blonder Typ: Oh, ein Kunde! Ha! Wie kann ich behilflich sein?",
+			"lines":
+			[
+				"\\c[10]Blonder Typ\\c[0]: Oh, ein Kunde! Ha! Wie ",
+				"kann ich behilflich sein?"
+			]
+		},
+		{
+			"path": [8,1,4,2],
+			"original": "Kento: Was sind das denn bitte für Preise?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Was sind das denn bitte für ",
+				"Preise?"
+			]
+		},
+		{
+			"path": [8,1,7,2],
+			"original": "Blonder Typ: Das ist meine Erfolgsstrategie!",
+			"lines":
+			[
+				"\\c[10]Blonder Typ\\c[0]: Das ist meine ",
+				"Erfolgsstrategie!"
+			]
+		},
+		{
+			"path": [8,1,9,3],
+			"original": "Blonder Typ: Wenn ich die Waren zu einem höheren Preis verkaufe, wird der Erlös automatisch steigen!",
+			"lines":
+			[
+				"\\c[10]Blonder Typ\\c[0]: Wenn ich die Waren zu ",
+				"einem höheren Preis verkaufe, wird ",
+				"der Erlös automatisch steigen!"
+			]
+		},
+		{
+			"path": [8,1,12,4],
+			"original": "Blonder Typ: Selbst wenn ich weniger verkaufen sollte, verdiene ich im Endeffekt mehr als andere Mischwaren-Läden.",
+			"lines":
+			[
+				"\\c[10]Blonder Typ\\c[0]: Selbst wenn ich weniger ",
+				"verkaufen sollte, verdiene ich im ",
+				"Endeffekt mehr als andere ",
+				"Mischwaren-Läden."
+			]
+		},
+		{
+			"path": [8,1,17,2],
+			"original": "Blonder Typ: Ziemlich gerissen, nicht wahr?",
+			"lines":
+			[
+				"\\c[10]Blonder Typ\\c[0]: Ziemlich gerissen, ",
+				"nicht wahr?"
+			]
+		},
+		{
+			"path": [8,1,21,2],
+			"original": "Kento: ... Ich bin mir nicht so sicher, ob das funktioniert.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ... Ich bin mir nicht so ",
+				"sicher, ob das funktioniert."
+			]
+		}
+	]
+}

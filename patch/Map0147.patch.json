@@ -1,0 +1,479 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [65,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"Dies ist ein \\c[11]Speicherpunkt\\c[0]."
+			]
+		},
+		{
+			"path": [65,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"Wenn man auf solch einen steht, kann man \\c[11]den",
+				"Spielstand speichern\\c[0]."
+			]
+		},
+		{
+			"path": [65,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"Öffne dazu das \\c[11]Menu\\c[0] mit \\c[11]Esc\\c[0] und wähle",
+				"dann \\c[11]Speichern\\c[0]."
+			]
+		},
+		{
+			"path": [65,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Auf der \\c[11]Weltkarte\\c[0] kann man übigens",
+				"immer speichern."
+			]
+		},
+		{
+			"path": [66,2,53,1],
+			"original": "?????: Hab ich euch!",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]:\\s[3] Hab ich euch!"
+			]
+		},
+		{
+			"path": [66,2,66,2],
+			"original": "Kento: Was denn jetzt schon wieder...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Was denn jetzt schon ",
+				"wieder..."
+			]
+		},
+		{
+			"path": [66,2,126,1],
+			"original": "Soko: W...Wer seid ihr?!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: W...\\.Wer seid ihr?!"
+			]
+		},
+		{
+			"path": [66,2,128,4],
+			"original": "Guillian: Mein Name ist Guillian der Fliegende. Ich bin gekommen um euch eins auszuwischen und um euch um eure Besitztümer zu erleichtern!",
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: Mein Name ist Guillian der ",
+				"Fliegende.\\. Ich bin gekommen um euch ",
+				"eins auszuwischen und um euch um ",
+				"eure Besitztümer zu erleichtern!"
+			]
+		},
+		{
+			"path": [66,2,136,1],
+			"original": "Kento: ...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: \\s[8]..."
+			]
+		},
+		{
+			"path": [66,2,138,2],
+			"original": "Cibon: Verstehe, also nur ein weiterer Dieb...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Verstehe,\\. also nur ein ",
+				"weiterer Dieb..."
+			]
+		},
+		{
+			"path": [66,2,141,2],
+			"original": "Soko: Und ein ziemlich gesprächiger noch dazu...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Und ein ziemlich gesprächiger ",
+				"noch dazu..."
+			]
+		},
+		{
+			"path": [66,2,147,3],
+			"original": "Guillian: Genau, macht euch nur lustig. Umso schmerzvoller wird euer Fall sein!",
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: Genau,\\. macht euch nur ",
+				"lustig.\\. Umso schmerzvoller wird euer ",
+				"Fall sein!"
+			]
+		},
+		{
+			"path": [66,2,150,3],
+			"original": "Guillian: \\v[1848] meiner Kameraden habt ihr bereits auf dem Gewissen! Glaubt nicht, dass ihr damit davon kommt.",
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: \\v[1848] meiner Kameraden habt ",
+				"ihr bereits auf dem Gewissen!\\. Glaubt ",
+				"nicht, dass ihr damit davon kommt."
+			]
+		},
+		{
+			"path": [66,2,153,2],
+			"original": "Guillian: Los Rekreto! Auf zum Angriff!",
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: Los Rekreto!\\.",
+				"Auf zum Angriff!"
+			]
+		},
+		{
+			"path": [66,4,4,4],
+			"original": "Guillian: Gut, ich hab euch unterschätz. Wer hätte auch gedacht, dass 3 junge Soldaten zu soviel fähig sind!",
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: Gut, ich hab euch ",
+				"unterschätz.\\. Wer hätte auch gedacht, ",
+				"dass 3 junge Soldaten zu soviel ",
+				"fähig sind!"
+			]
+		},
+		{
+			"path": [66,4,8,3],
+			"original": "Guillian: Aber wartet ab. Das nächste Mal wenn ihr hier aufkreuzt werd ich euch kriegen!",
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: Aber wartet ab.\\. Das ",
+				"nächste Mal wenn ihr hier aufkreuzt ",
+				"werd ich euch kriegen! "
+			]
+		},
+		{
+			"path": [66,4,11,2],
+			"original": "Guillian: Meine Kameraden werden ihre Rache bekommen!",
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: Meine Kameraden werden ",
+				"ihre Rache bekommen!"
+			]
+		},
+		{
+			"path": [66,4,15,4],
+			"original": "Soko: Du sprichst von uns als ob wir wahllos deinen \"Kameraden\" ins Kreuz gefallen sind, dabei waren sie es, die uns angriffen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Du sprichst von uns als ob wir ",
+				"wahllos deinen \"Kameraden\" ins Kreuz",
+				"gefallen sind, dabei waren sie ",
+				"es, die uns angriffen."
+			]
+		},
+		{
+			"path": [66,4,20,3],
+			"original": "Soko: Also was soll diese Rede von Rache? Wenn ihr Leute angreift müsst ihr die Konsequenzen dazu tragen!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Also was soll diese Rede von ",
+				"Rache?\\. Wenn ihr Leute angreift müsst ",
+				"ihr die Konsequenzen dazu tragen!"
+			]
+		},
+		{
+			"path": [66,4,28,4],
+			"original": "Guillian: Hahahahaha, weißt du was? DU sprichst von uns als ob wir wahllos aus Boshaftigkeit Leute umnieten und ihnen Geld stehlen.",
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: \\s[5]Hahahahaha,\\.\\s[0] weißt du was?\\.",
+				"DU sprichst von uns als ob wir ",
+				"wahllos aus Boshaftigkeit Leute ",
+				"umnieten und ihnen Geld stehlen."
+			]
+		},
+		{
+			"path": [66,4,32,4],
+			"original": "Guillian: Wir Diebe sind kein Verderben, das aus der Unterwelt ans Tageslicht gekrochen ist, wusstest du das?",
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: Wir Diebe sind kein ",
+				"Verderben, das aus der Unterwelt ans ",
+				"Tageslicht gekrochen ist,\\. wusstest ",
+				"du das?"
+			]
+		},
+		{
+			"path": [66,4,36,4],
+			"original": "Guillian: Wir haben hier gelebt, ihr aus Brigantia habt uns unsere Heimat weggenommen, habt uns von hier vertrieben.",
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: Wir haben hier gelebt,\\. ihr ",
+				"aus Brigantia habt uns unsere",
+				"Heimat weggenommen,\\. habt uns von",
+				"hier vertrieben."
+			]
+		},
+		{
+			"path": [66,4,42,4],
+			"original": "Cibon: Eure Heimat? Das Corine Plateau? Aber es war doch Korzojenos Zug, der diese Landschaft hier verwüsten ließ!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Eure Heimat?\\. Das Corine ",
+				"Plateau?\\. Aber es war doch ",
+				"Korzojenos Zug, der diese ",
+				"Landschaft hier verwüsten ließ!"
+			]
+		},
+		{
+			"path": [66,4,47,4],
+			"original": "Guillian: Ich rede von der Grenzenverschiebung. Von den Leuten oben aus Helnovien und Gencorin im Osten.",
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: Ich rede von der ",
+				"Grenzenverschiebung. Von den Leuten ",
+				"oben aus Helnovien und Gencorin im ",
+				"Osten. "
+			]
+		},
+		{
+			"path": [66,4,51,4],
+			"original": "Guillian: So zerstört unsere Heimat vom Krieg auch gewesen sein mag, wir verbrachten hier unser Leben... und dann nahmt ihr sie uns weg!",
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: So zerstört unsere Heimat ",
+				"vom Krieg auch gewesen sein mag,\\. wir ",
+				"verbrachten hier unser Leben...\\.",
+				"und dann nahmt ihr sie uns weg!"
+			]
+		},
+		{
+			"path": [66,4,55,3],
+			"original": "Guillian: Ihr seid hier die Diebe! Wir kämpfen nur um das, was ihr uns bereits gestohlen habt!",
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: Ihr seid hier die Diebe!\\. ",
+				"Wir kämpfen nur um das,\\. was ihr uns ",
+				"bereits gestohlen habt!"
+			]
+		},
+		{
+			"path": [66,4,58,2],
+			"original": "Guillian: Wir werden uns wieder sehen!",
+			"lines":
+			[
+				"\\c[10]Guillian\\c[0]: Wir werden uns wieder ",
+				"sehen!"
+			]
+		},
+		{
+			"path": [66,4,101,1],
+			"original": "Soko: ...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [66,4,111,3],
+			"original": "Herr Uroto: Die Dinge sind meistens nicht immer so einfach wie sie scheinen.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Die Dinge sind meistens ",
+				"nicht immer so einfach wie sie ",
+				"scheinen."
+			]
+		},
+		{
+			"path": [66,4,115,1],
+			"original": "Soko: Huh?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Huh?"
+			]
+		},
+		{
+			"path": [66,4,117,4],
+			"original": "Herr Uroto: Der farenische Adelsbund hat vor 9 Jahren die Niederlage im Krieg und deren Konsequenzen akzeptiert.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Der farenische Adelsbund ",
+				"hat vor 9 Jahren die Niederlage im ",
+				"Krieg und deren Konsequenzen ",
+				"akzeptiert. "
+			]
+		},
+		{
+			"path": [66,4,121,3],
+			"original": "Herr Uroto: Aber Teile des korzojenischen Volkes tun dies selbst heute noch nicht.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Aber Teile des ",
+				"korzojenischen Volkes tun dies ",
+				"selbst heute noch nicht."
+			]
+		},
+		{
+			"path": [66,4,126,3],
+			"original": "Cibon: Wo liegt das Problem? Sie haben den Krieg verloren, also sollen sie still sein!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wo liegt das Problem?\\. Sie ",
+				"haben den Krieg verloren,\\. also ",
+				"sollen sie still sein!"
+			]
+		},
+		{
+			"path": [66,4,130,4],
+			"original": "Herr Uroto: Herr Tirunel, würden Sie eine Niederlage akzeptieren, wenn Sie im Glauben sind, das Sie Opfer eines Angriffes waren?",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Herr Tirunel, würden Sie ",
+				"eine Niederlage akzeptieren,\\. wenn ",
+				"Sie im Glauben sind,\\. das Sie Opfer ",
+				"eines Angriffes waren?"
+			]
+		},
+		{
+			"path": [66,4,135,1],
+			"original": "Cibon: Wie... nunja...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wie... nunja..."
+			]
+		},
+		{
+			"path": [66,4,137,3],
+			"original": "Herr Uroto: In Korzojeno ist die Auffassung verbreitet, dass Brigantia den Krieg angefangen hat.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: In Korzojeno ist die ",
+				"Auffassung verbreitet,\\. dass ",
+				"Brigantia den Krieg angefangen hat."
+			]
+		},
+		{
+			"path": [66,4,141,3],
+			"original": "Soko: Moment, das stimmt nicht. Korzojeno hat doch den ersten Schlag gemacht, in Buronia.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Moment,\\. das stimmt nicht.\\. ",
+				"Korzojeno hat doch den ersten Schlag ",
+				"gemacht, in Buronia."
+			]
+		},
+		{
+			"path": [66,4,145,4],
+			"original": "Herr Uroto: Dieser Schlag war ein geheimer Kleinangriff von etwa 12 bis 20 Soldaten, der gescheitert ist.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Dieser Schlag war ein ",
+				"geheimer Kleinangriff von etwa 12 ",
+				"bis 20 Soldaten,\\. der gescheitert ",
+				"ist. "
+			]
+		},
+		{
+			"path": [66,4,149,4],
+			"original": "Herr Uroto: Bis heute weiß man nicht, was das Ziel dieses Anschlages war, vermutlich ein Attentat auf jemand Bestimmten.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Bis heute weiß man ",
+				"nicht, was das Ziel dieses ",
+				"Anschlages war,\\. vermutlich ein ",
+				"Attentat auf jemand Bestimmten."
+			]
+		},
+		{
+			"path": [66,4,153,3],
+			"original": "Herr Uroto: Jedenfalls weiß die Mehrheit des korzojenischen Volkes nichts von diesem Angriff.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Jedenfalls weiß die ",
+				"Mehrheit des korzojenischen Volkes ",
+				"nichts von diesem Angriff. "
+			]
+		},
+		{
+			"path": [66,4,156,4],
+			"original": "Herr Uroto: Sie erinnern sich nur an den Konterschlag von Brigantia, der darauf kam. Von daher halten sie uns für die Unfriedenstifter.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Sie erinnern sich nur an ",
+				"den Konterschlag von Brigantia, der ",
+				"darauf kam. \\.Von daher halten sie uns ",
+				"für die Unfriedenstifter."
+			]
+		},
+		{
+			"path": [66,4,168,2],
+			"original": "Kento: Können wir langsam weiter gehen? Wir waren doch in Eile.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Können wir langsam weiter ",
+				"gehen?\\. Wir waren doch in Eile."
+			]
+		},
+		{
+			"path": [66,4,174,4],
+			"original": "Cibon: Stimmt! Wir dürfen nicht vergessen, was unserem Kento passiert ist! Wer weiß, er könnte jeden Moment umfallen!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Stimmt!\\. Wir dürfen nicht ",
+				"vergessen, was unserem Kento ",
+				"passiert ist!\\. Wer weiß, er könnte ",
+				"jeden Moment umfallen!"
+			]
+		},
+		{
+			"path": [66,4,179,2],
+			"original": "Cibon: Wir müssen schnell zum nächsten Gasthof...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wir müssen schnell zum ",
+				"nächsten Gasthof..."
+			]
+		},
+		{
+			"path": [66,4,182,1],
+			"original": "Kento: Cibon, du übertreibst...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Cibon, du übertreibst..."
+			]
+		},
+		{
+			"path": [66,4,184,4],
+			"original": "Soko: Naja, Kento, wir wissen immer noch nicht, was es mit diesem Zauber auf sich hatte. Wir wollen lieber vorsichtig sein.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Naja, Kento,\\. wir wissen immer ",
+				"noch nicht, was es mit diesem Zauber ",
+				"auf sich hatte.\\. Wir wollen lieber ",
+				"vorsichtig sein."
+			]
+		},
+		{
+			"path": [66,4,193,2],
+			"original": "Kento: ... Lasst uns einfach weiter gehen, dann sehen wir weiter.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: .\\..\\..\\. Lasst uns einfach weiter ",
+				"gehen,\\. dann sehen wir weiter."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [65,1,4],
+			"original": "CorinePlat3",
+			"patch": "CorinePlat3"
+		}
+	]
+}

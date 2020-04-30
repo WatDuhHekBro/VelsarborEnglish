@@ -1,0 +1,481 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [73,2,41,2],
+			"original": "Cibon: Schaut, da oben ist das Grabdenkmal.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Schaut,\\. da oben ist das ",
+				"Grabdenkmal."
+			]
+		},
+		{
+			"path": [73,2,49,1],
+			"original": "Kento: ...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [73,2,51,3],
+			"original": "Cibon: Kommt, gebt mir 5 Minuten. Ich hab versprochen, dass ich es besuche.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Kommt, gebt mir 5 Minuten. ",
+				"Ich hab versprochen, dass ich es ",
+				"besuche."
+			]
+		},
+		{
+			"path": [73,2,59,1],
+			"original": "Soko: Herr Uroto...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Herr Uroto..."
+			]
+		},
+		{
+			"path": [73,2,62,4],
+			"original": "Herr Uroto: Meinetwegen, solange es nicht zulange dauert. Und gegen eine kleine Pause hab ich selber auch nichts.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Meinetwegen, solange es ",
+				"nicht zulange dauert.\\. Und gegen eine ",
+				"kleine Pause hab ich selber auch ",
+				"nichts."
+			]
+		},
+		{
+			"path": [73,2,67,1],
+			"original": "(Cibon: War ja klar...)",
+			"lines":
+			[
+				"(\\c[2]\\n[2]\\c[0]: War ja klar...)"
+			]
+		},
+		{
+			"path": [73,2,89,1],
+			"original": "Soko: Kento...?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Kento...?"
+			]
+		},
+		{
+			"path": [73,2,91,1],
+			"original": "Kento: Ich warte hier auf euch...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich warte hier auf euch..."
+			]
+		},
+		{
+			"path": [73,2,93,1],
+			"original": "Soko: ...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [73,2,95,2],
+			"original": "Cibon: Okay, wir kommen gleich wieder, Kumpel.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Okay, wir kommen gleich ",
+				"wieder, Kumpel."
+			]
+		},
+		{
+			"path": [73,3,19,1],
+			"original": "(Kento: ...Das dauert...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: ...\\.Das dauert...)"
+			]
+		},
+		{
+			"path": [73,3,24,1],
+			"original": "????: Okay, jetzt!",
+			"lines":
+			[
+				"\\c[10]????\\c[0]: Okay,\\.\\. jetzt!"
+			]
+		},
+		{
+			"path": [73,3,34,1],
+			"original": "Kento: W... Was ist hier los?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: W... Was ist hier los?"
+			]
+		},
+		{
+			"path": [73,3,151,1],
+			"original": "Kento: W... Wer seid ihr?!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: W...\\. Wer seid ihr?!"
+			]
+		},
+		{
+			"path": [73,3,159,2],
+			"original": "????: Wir sind diejenigen, die dich vorbereiten!",
+			"lines":
+			[
+				"\\c[10]????\\c[0]: Wir sind diejenigen, die dich ",
+				"vorbereiten!"
+			]
+		},
+		{
+			"path": [73,5,7,2],
+			"original": "????: Gut, das war alles. Lass uns verschwinden!",
+			"lines":
+			[
+				"\\c[10]????\\c[0]: Gut, das war alles.\\. Lass uns",
+				"verschwinden!"
+			]
+		},
+		{
+			"path": [73,5,10,1],
+			"original": "????: Warte...",
+			"lines":
+			[
+				"\\c[10]????\\c[0]: Warte..."
+			]
+		},
+		{
+			"path": [73,5,24,1],
+			"original": "????: Nur um sicher zu gehen.",
+			"lines":
+			[
+				"\\c[10]????\\c[0]: Nur um sicher zu gehen."
+			]
+		},
+		{
+			"path": [73,5,39,2],
+			"original": "Cibon: HEY! Wer seid ihr! Was war das eben!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: HEY!\\. Wer seid ihr!\\. Was war ",
+				"das eben!"
+			]
+		},
+		{
+			"path": [73,5,42,1],
+			"original": "????: KENTO!",
+			"lines":
+			[
+				"\\c[10]????\\c[0]: KENTO!"
+			]
+		},
+		{
+			"path": [73,5,54,1],
+			"original": "????: Schnell!",
+			"lines":
+			[
+				"\\c[10]????\\c[0]: Schnell!\\.\\.\\^"
+			]
+		},
+		{
+			"path": [73,5,143,1],
+			"original": "Cibon: BLEIBT IHR WOHL HIER!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: BLEIBT IHR WOHL HIER!"
+			]
+		},
+		{
+			"path": [73,5,151,1],
+			"original": "Soko: Kento...!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Kento...!"
+			]
+		},
+		{
+			"path": [73,5,159,1],
+			"original": "Cibon: ...Er is nur bewusstlos...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ...Er is nur bewusstlos... "
+			]
+		},
+		{
+			"path": [73,5,161,3],
+			"original": "Soko: Und das nach diesem Spektakel. Du hast doch auch diese Lichtsäule gesehen, oder?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Und das nach diesem Spektakel. \\.",
+				"Du hast doch auch diese Lichtsäule ",
+				"gesehen, oder?"
+			]
+		},
+		{
+			"path": [73,5,165,2],
+			"original": "Herr Uroto: W...Was waren das für Leute?",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: W...\\.Was waren das für ",
+				"Leute?"
+			]
+		},
+		{
+			"path": [73,5,173,2],
+			"original": "Cibon: Hey, zuallererst sollt'n wir uns um Kento kümmern, oder?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hey, zuallererst sollt'n wir ",
+				"uns um Kento kümmern, oder?"
+			]
+		},
+		{
+			"path": [73,5,178,1],
+			"original": "Soko: Richtig!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Richtig!"
+			]
+		},
+		{
+			"path": [73,5,189,2],
+			"original": "Cibon: Oh... was is das hier? Ein.... Lichtschlag?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Oh...\\. was is das hier?\\.",
+				"Ein....\\. Lichtschlag?"
+			]
+		},
+		{
+			"path": [73,5,196,2],
+			"original": "Soko: ...? Wieso liegt das hier? Die beiden haben doch nicht etwa...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...?\\. Wieso liegt das hier?\\. ",
+				"Die beiden haben doch nicht etwa..."
+			]
+		},
+		{
+			"path": [73,5,205,1],
+			"original": ".....?",
+			"lines":
+			[
+				"\\>                    \\<\\s[2]...\\...?\\^"
+			]
+		},
+		{
+			"path": [73,5,226,1],
+			"original": "Kento: Hah!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hah!"
+			]
+		},
+		{
+			"path": [73,5,228,1],
+			"original": "Soko: Kento...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Kento..."
+			]
+		},
+		{
+			"path": [73,5,230,1],
+			"original": "Cibon: Kumpel, ist noch alles dran?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Kumpel,\\. ist noch alles dran?"
+			]
+		},
+		{
+			"path": [73,5,236,1],
+			"original": "Kento: ...mehr... oder weniger",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ...mehr\\....\\. oder weniger"
+			]
+		},
+		{
+			"path": [73,5,242,2],
+			"original": "Soko: Kento, was ist hier passiert?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Kento,\\. was ist hier ",
+				"passiert?"
+			]
+		},
+		{
+			"path": [73,5,248,2],
+			"original": "Kento: ... Ich... Ich weiß es nicht...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ...\\. Ich...\\. Ich weiß es ",
+				"nicht..."
+			]
+		},
+		{
+			"path": [73,5,251,1],
+			"original": "Cibon: Wie..?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wie..?"
+			]
+		},
+		{
+			"path": [73,5,254,4],
+			"original": "Kento: Diese Leute kamen aus heiterem Himmel... sprichwörtlich... und griffen mich an, ohne einen Grund zu nennen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Diese Leute kamen aus ",
+				"heiterem Himmel...\\. sprichwörtlich...\\.",
+				"und griffen mich an, ohne einen ",
+				"Grund zu nennen."
+			]
+		},
+		{
+			"path": [73,5,260,4],
+			"original": "Soko: Sie wollten ganz gezielt dich angreifen? Wieso ausgerechnet dich? Ich hätte Leute erwartet, die hinter Herrn Uroto her sind, aber das...?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Sie wollten ganz gezielt dich ",
+				"angreifen?\\. Wieso ausgerechnet dich?\\. ",
+				"Ich hätte Leute erwartet, die hinter ",
+				"Herrn Uroto her sind,\\.\\. aber das...?"
+			]
+		},
+		{
+			"path": [73,5,265,3],
+			"original": "Kento: Sie sagten, sie wollten mich vorbereiten, aber das war es auch schon...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Sie sagten, sie wollten mich ",
+				"vorbereiten,\\. aber das war es auch ",
+				"schon..."
+			]
+		},
+		{
+			"path": [73,5,272,3],
+			"original": "Cibon: \"Vorbereiten\"? Indem sie dich bewusstlos schlagen? Was für Vögel sind das denn?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: \"Vorbereiten\"?\\. Indem sie dich ",
+				"bewusstlos schlagen?\\. Was für Vögel ",
+				"sind das denn?"
+			]
+		},
+		{
+			"path": [73,5,276,4],
+			"original": "Soko: Sie konnten fliegen... Sie sind vor unseren Augen davon geflogen! Und dann dieser Zauber...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Sie konnten fliegen...\\. Sie ",
+				"sind vor unseren Augen davon ",
+				"geflogen!\\.",
+				"Und dann dieser Zauber..."
+			]
+		},
+		{
+			"path": [73,5,283,4],
+			"original": "Soko: Was ist dieses Licht überhaupt gewesen? Ich hab noch nie von so einer Signum-Technik gehört oder gelesen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Was ist dieses Licht überhaupt ",
+				"gewesen?\\. Ich hab noch nie von so ",
+				"einer Signum-Technik gehört oder ",
+				"gelesen."
+			]
+		},
+		{
+			"path": [73,5,288,4],
+			"original": "Kento: Es war auch anders... es hat nicht gebrannt wie Feuer oder Licht, war nicht kalt wie Eis oder Schatten...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es war auch anders...\\. es hat ",
+				"nicht gebrannt wie Feuer oder Licht,\\. ",
+				"war nicht kalt wie Eis oder ",
+				"Schatten..."
+			]
+		},
+		{
+			"path": [73,5,293,4],
+			"original": "Kento: Zu Beginn war es sogar angenehm, ein leichtes Kribbeln, das dann aber so stark wurde, dass es wie ein Schock gewirkt haben muss...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Zu Beginn war es sogar ",
+				"angenehm,\\. ein leichtes Kribbeln, das ",
+				"dann aber so stark wurde,\\. dass es ",
+				"wie ein Schock gewirkt haben muss..."
+			]
+		},
+		{
+			"path": [73,5,302,4],
+			"original": "Cibon: Wie bitte? Die haben dich doch nicht etwa verzaubert, oder so was? Bist du sicher, dass alles okay ist?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wie bitte?\\. Die haben dich ",
+				"doch nicht etwa verzaubert, oder so ",
+				"was?\\. Bist du sicher, dass alles okay ",
+				"ist?"
+			]
+		},
+		{
+			"path": [73,5,312,4],
+			"original": "Kento: Abgesehen von leichten Schmerzen am Kopf, die wohl vom Sturz kommen, fühl ich mich eigentlich... in Ordnung...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Abgesehen von leichten ",
+				"Schmerzen am Kopf,\\. die wohl vom ",
+				"Sturz kommen,\\. fühl ich mich ",
+				"eigentlich...\\. in Ordnung..."
+			]
+		},
+		{
+			"path": [73,5,321,4],
+			"original": "Soko: Du solltest dennoch aufpassen, Kento... Wir beeilen uns besser, damit wir schnell zum nächsten Gasthof kommen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Du solltest dennoch aufpassen, ",
+				"Kento...\\. Wir beeilen uns besser, ",
+				"damit wir schnell zum nächsten ",
+				"Gasthof kommen."
+			]
+		},
+		{
+			"path": [73,5,329,2],
+			"original": "Herr Uroto: Beeilen müssen wir uns sowieso.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Beeilen müssen wir uns ",
+				"sowieso."
+			]
+		},
+		{
+			"path": [73,5,332,1],
+			"original": "Cibon: Jaja...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Jaja..."
+			]
+		},
+		{
+			"path": [73,5,334,3],
+			"original": "Soko: Im Gasthof ruhst du dich dann aus und wir reden weiter über das Thema...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Im Gasthof ruhst du dich dann ",
+				"aus und wir reden weiter über das ",
+				"Thema..."
+			]
+		},
+		{
+			"path": [73,5,343,1],
+			"original": "Kento: Gut...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Gut..."
+			]
+		}
+	]
+}

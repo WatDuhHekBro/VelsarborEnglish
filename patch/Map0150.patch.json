@@ -1,0 +1,95 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [9,2,2,3],
+			"original": "Alte Frau: Unglaublich was für Sachen es alle zu kaufen gibt heutzutage... Früher gab es hier Brot, Gemüse wie Lokri-Knollen und etwas Fleisch.",
+			"lines":
+			[
+				"\\c[10]Alte Frau\\c[0]: Unglaublich was für Sachen es alle zu ",
+				"kaufen gibt heutzutage...\\. Früher gab es hier Brot, ",
+				"Gemüse wie Lokri-Knollen und etwas Fleisch. "
+			]
+		},
+		{
+			"path": [9,2,5,4],
+			"original": "Alte Frau: Und heute bieten sie so merkwürdige Sachen wie \"Heilsirub\" an. Ich werde so ein Zeug niemals trinken, solange man mir nicht sagen kann, was da alles drin ist!",
+			"lines":
+			[
+				"\\c[10]Alte Frau\\c[0]: Und heute bieten sie so merkwürdige ",
+				"Sachen wie \"Heilsirub\" an.\\. Ich werde so ein Zeug ",
+				"niemals trinken, solange man mir nicht sagen kann, ",
+				"was da alles drin ist!"
+			]
+		},
+		{
+			"path": [9,2,15,2],
+			"indent": 3,
+			"original": "Cibon: Nebenbei, wisst ihr eigentlich woraus das Zeug besteht?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Nebenbei,\\. wisst ihr ",
+				"eigentlich woraus das Zeug besteht?"
+			]
+		},
+		{
+			"path": [9,2,18,1],
+			"indent": 3,
+			"original": "Kento: Heilsirubs? Hm...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Heilsirubs?\\. Hm..."
+			]
+		},
+		{
+			"path": [9,2,20,3],
+			"indent": 3,
+			"original": "Soko: Irgendeine pflanzliche Substanz, versehen mit einer Signum- Aura.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Irgendeine pflanzliche ",
+				"Substanz, versehen mit einer Signum-",
+				"Aura. "
+			]
+		},
+		{
+			"path": [9,2,23,4],
+			"indent": 3,
+			"original": "Soko: Aus welchem Pflanzen genau die Substanz besteht, weiß ich nicht, aber es gibt mehr als eine Methode so etwas zuzubreiten.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Aus welchem Pflanzen genau die ",
+				"Substanz besteht, weiß ich nicht, ",
+				"aber es gibt mehr als eine Methode ",
+				"so etwas zuzubreiten."
+			]
+		},
+		{
+			"path": [9,2,28,2],
+			"indent": 3,
+			"original": "Cibon: In den Dingern steckt also auch Signum? Unglaublich.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: In den Dingern steckt also ",
+				"auch Signum?\\. Unglaublich."
+			]
+		},
+		{
+			"path": [10,1,2,2],
+			"original": "Verkäuferin: Benötigen Sie Heilmittel? Wir haben auch praktische Blendbomben im Angebot.",
+			"lines":
+			[
+				"\\c[10]Verkäuferin\\c[0]: Benötigen Sie Heilmittel?\\. Wir haben ",
+				"auch praktische Blendbomben im Angebot."
+			]
+		},
+		{
+			"path": [11,1,2,1],
+			"original": "Verkäuferin: Verkauft wird über die Theke.",
+			"lines":
+			[
+				"\\c[10]Verkäuferin\\c[0]: Verkauft wird über die Theke."
+			]
+		}
+	]
+}

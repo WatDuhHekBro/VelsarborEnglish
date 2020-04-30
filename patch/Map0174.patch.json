@@ -1,0 +1,74 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [9,1,3,4],
+			"original": "Postboten-Neuling: Jetzt waren wir schon in Sinun, Helnovien und Gencorin und in jeder Post- Versandstelle mussten wir uns im Lager-Raum aufhalten um Pause zu machen.",
+			"lines":
+			[
+				"\\c[10]Postboten-Neuling\\c[0]: Jetzt waren wir schon in Sinun, ",
+				"Helnovien und Gencorin und in jeder Post-",
+				"Versandstelle mussten wir uns im Lager-Raum ",
+				"aufhalten um Pause zu machen."
+			]
+		},
+		{
+			"path": [9,1,7,4],
+			"original": "Postboten-Neuling: Gibt es überhaupt eine Postversandstelle wo wir uns nicht zwischen Briefen und Paketen setzen müssen, um uns auszuruhen?",
+			"lines":
+			[
+				"\\c[10]Postboten-Neuling\\c[0]: Gibt es überhaupt eine ",
+				"Postversandstelle wo wir uns nicht zwischen ",
+				"Briefen und Paketen setzen müssen, um ",
+				"uns auszuruhen?"
+			]
+		},
+		{
+			"path": [9,1,14,2],
+			"original": "Postboten: Jupp, bei der Postversandstelle an Hamsol, südlich von hier.",
+			"lines":
+			[
+				"\\c[10]Postboten\\c[0]: Jupp,\\. bei der Postversandstelle an ",
+				"Hamsol,\\. südlich von hier."
+			]
+		},
+		{
+			"path": [9,1,17,1],
+			"original": "Postboten-Neuling: Wirklich?",
+			"lines":
+			[
+				"\\c[10]Postboten-Neuling\\c[0]: Wirklich?"
+			]
+		},
+		{
+			"path": [9,1,18,4],
+			"original": "Postboten: Ja, das heißt zumindest im Sommer. Dann ist es nämlich so unerträglich heiß dort im Lagerraum, dass wir es uns draußen auf der Wiese gemütlich machen!",
+			"lines":
+			[
+				"\\c[10]Postboten\\c[0]: Ja,\\. das heißt zumindest im Sommer.\\. Dann ",
+				"ist es nämlich so unerträglich heiß dort im ",
+				"Lagerraum, dass wir es uns draußen auf der Wiese ",
+				"gemütlich machen!"
+			]
+		},
+		{
+			"path": [9,1,25,1],
+			"original": "Postboten-Neuling: ... Sehr witzig.",
+			"lines":
+			[
+				"\\c[10]Postboten-Neuling\\c[0]: ...\\. Sehr witzig."
+			]
+		},
+		{
+			"path": [10,1,2,4],
+			"original": "Postbote: So einen ordentlichen Lager- und Aufenthaltsraum findet man nur in wenigen Post- Versandstellen. Die in Ferrolholm hatte ich noch ganz ordentlich in Erinnerung.",
+			"lines":
+			[
+				"\\c[10]Postbote\\c[0]: So einen ordentlichen Lager- und ",
+				"Aufenthaltsraum findet man nur in wenigen Post-",
+				"Versandstellen.\\. Die in Ferrolholm hatte ich noch ",
+				"ganz ordentlich in Erinnerung."
+			]
+		}
+	]
+}

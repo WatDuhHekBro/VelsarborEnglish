@@ -1,0 +1,45 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [5,1,2,4],
+			"original": "Mann: Dieser Laden bietet nur Mangelware, was Rüstungsteile angeht. In Domarkor ist die Auswahl eindeutig reicher, aber was soll man auch anderes von so einer Kleinstadt erwarten.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Dieser Laden bietet nur Mangelware, was ",
+				"Rüstungsteile angeht.\\. In Domarkor ist die Auswahl ",
+				"eindeutig reicher, aber was soll man auch anderes ",
+				"von so einer Kleinstadt erwarten."
+			]
+		},
+		{
+			"path": [5,1,6,4],
+			"original": "Mann: Interessant wiederum sind die Angebote von den Händlern da draußen. Da ist auch Zeug drunter, das man selbst in den großen Städten nicht immer findet, so wie ich das sehe.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Interessant wiederum sind die Angebote von ",
+				"den Händlern da draußen.\\. Da ist auch Zeug drunter, ",
+				"das man selbst in den großen Städten nicht immer ",
+				"findet, so wie ich das sehe."
+			]
+		},
+		{
+			"path": [6,1,2,2],
+			"original": "Verkäufer: Bei all den Räubern da draußen brauchen Sie gute Ausrüstung um zu überleben!",
+			"lines":
+			[
+				"\\c[10]Verkäufer\\c[0]: Bei all den Räubern da draußen brauchen ",
+				"Sie gute Ausrüstung um zu überleben! "
+			]
+		},
+		{
+			"path": [8,1,2,2],
+			"original": "Verkäufer: Unsere Rüstungsteile werden nur über die Theke überreicht.",
+			"lines":
+			[
+				"\\c[10]Verkäufer\\c[0]: Unsere Rüstungsteile werden nur über ",
+				"die Theke überreicht."
+			]
+		}
+	]
+}

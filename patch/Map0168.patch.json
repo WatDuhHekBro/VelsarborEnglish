@@ -1,0 +1,62 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [4,1,2,2],
+			"original": "Frau: Liebling, die Gerüchte stimmen! Ich hab sie letztens selber gesehen.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Liebling, die Gerüchte stimmen!\\. Ich hab sie ",
+				"letztens selber gesehen."
+			]
+		},
+		{
+			"path": [4,1,4,1],
+			"original": "Mann: Was denn, mein Schatz?",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Was denn, mein Schatz?"
+			]
+		},
+		{
+			"path": [4,1,5,2],
+			"original": "Frau: Diese Leute in Rüstung, jenseits der Grenze...!",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Diese Leute in Rüstung,\\. jenseits der ",
+				"Grenze...!"
+			]
+		},
+		{
+			"path": [4,1,7,4],
+			"original": "Mann: Schatz, wir haben hier eine Grenze. An einer Grenze sind Soldaten, die nun mal Wache halten. Und ja: Auch in Korzojeno haben sie Soldaten dafür.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Schatz, wir haben hier eine Grenze.\\. An ",
+				"einer Grenze sind Soldaten, die nun mal Wache ",
+				"halten.\\. Und ja: Auch in Korzojeno haben sie ",
+				"Soldaten dafür."
+			]
+		},
+		{
+			"path": [4,1,12,2],
+			"original": "Frau: Sie sehen aber nicht wie normale Korzojenische Soldaten aus...!",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Sie sehen aber nicht wie normale ",
+				"Korzojenische Soldaten aus...!"
+			]
+		},
+		{
+			"path": [4,1,14,4],
+			"original": "Mann: Ach was. Vielleicht haben sie nur eine neue Ausrüstung bekommen oder so was in der Richtung. Mach doch nicht gleich aus einer Fliege einen Elefanten.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Ach was. Vielleicht haben sie nur eine neue ",
+				"Ausrüstung bekommen oder so was in der Richtung.\\.",
+				"Mach doch nicht gleich aus einer Fliege einen ",
+				"Elefanten."
+			]
+		}
+	]
+}

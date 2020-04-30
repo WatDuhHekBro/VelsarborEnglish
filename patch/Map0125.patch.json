@@ -1,0 +1,501 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [71,2,33,2],
+			"original": "Kento: Hm? Was machen diese Personen da oben?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm? Was machen diese ",
+				"Personen da oben?"
+			]
+		},
+		{
+			"path": [71,2,36,3],
+			"original": "Soko: Muss uns das interessieren? Wir sollten uns von sowas nicht ablenken lassen...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Muss uns das interessieren?\\.",
+				"Wir sollten uns von sowas nicht ",
+				"ablenken lassen..."
+			]
+		},
+		{
+			"path": [71,2,111,3],
+			"original": "Cibon: Hey! Das ist ein Hinterhalt! Da müssen wir eingreifen! Kommt, schnell!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hey!\\. Das ist ein Hinterhalt!\\. ",
+				"Da müssen wir eingreifen!\\. Kommt, ",
+				"schnell!"
+			]
+		},
+		{
+			"path": [71,2,121,1],
+			"original": "Kento: Ohje....",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ohje....\\.\\^"
+			]
+		},
+		{
+			"path": [71,2,161,1],
+			"original": "(Cibon: OHO, wen haben wir denn da!)",
+			"lines":
+			[
+				"(\\c[2]\\n[2]\\c[0]: OHO, wen haben wir denn da!)"
+			]
+		},
+		{
+			"path": [71,2,174,2],
+			"original": "Cibon: Keine Sorge, schönes Mädchen! Die Rettung naht!!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Keine Sorge, schönes ",
+				"Mädchen! Die Rettung naht!!"
+			]
+		},
+		{
+			"path": [71,2,181,1],
+			"original": "Soko: Was zum...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Was zum..."
+			]
+		},
+		{
+			"path": [71,2,189,1],
+			"original": "Räuber: Verdammt! Brigantische Soldaten!",
+			"lines":
+			[
+				"\\c[10]Räuber\\c[0]: Verdammt! Brigantische Soldaten! "
+			]
+		},
+		{
+			"path": [71,2,190,2],
+			"original": "Anderer Räuber: Kämpft! Wir sind zu Viert. Wir werden sie schon packen!",
+			"lines":
+			[
+				"\\c[10]Anderer Räuber\\c[0]: Kämpft!\\. Wir sind zu Viert.\\.",
+				"Wir werden sie schon packen!"
+			]
+		},
+		{
+			"path": [71,4,4,1],
+			"original": "Cibon: Hehe, ein Kinderspiel!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hehe,\\. ein Kinderspiel!"
+			]
+		},
+		{
+			"path": [71,4,15,2],
+			"original": "Cibon: Junge Frau, ist alles in Ordnung?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Junge Frau, ist alles in ",
+				"Ordnung?"
+			]
+		},
+		{
+			"path": [71,4,18,1],
+			"original": "Junge Frau: Öhm... ja?",
+			"lines":
+			[
+				"\\c[10]Junge Frau\\c[0]: Öhm...\\. ja?"
+			]
+		},
+		{
+			"path": [71,4,24,4],
+			"original": "Junge Frau: Danke für die Rettung! Huch, ich will nicht daran denken, was mit uns passiert wäre, wenn ihr nicht rechtzeitig gekommen wärt!",
+			"lines":
+			[
+				"\\c[10]Junge Frau\\c[0]: Danke für die Rettung!\\.",
+				"Huch,\\. ich will nicht daran denken, ",
+				"was mit uns passiert wäre,\\. wenn ihr ",
+				"nicht rechtzeitig gekommen wärt!"
+			]
+		},
+		{
+			"path": [71,4,29,4],
+			"original": "Cibon: Keine Ursache. Wie hätte man sich denn auch anders verhalten sollen, wenn solch eine Schönheit in Gefahr ist?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Keine Ursache.\\. Wie hätte man ",
+				"sich denn auch anders verhalten ",
+				"sollen, wenn solch eine Schönheit in ",
+				"Gefahr ist?"
+			]
+		},
+		{
+			"path": [71,4,35,2],
+			"original": "Junge Frau: Hehe, ihr schmeichelt mir...",
+			"lines":
+			[
+				"\\c[10]Junge Frau\\c[0]: Hehe, ihr schmeichelt ",
+				"mir..."
+			]
+		},
+		{
+			"path": [71,4,38,1],
+			"original": "Kento: Er tut es... schon wieder...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Er tut es...\\. schon wieder..."
+			]
+		},
+		{
+			"path": [71,4,41,1],
+			"original": "Soko: Cibon...?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Cibon...?"
+			]
+		},
+		{
+			"path": [71,4,43,2],
+			"original": "Cibon: Ich bin Cibon Tirunel und mit wem habe ich die Ehre?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ich bin Cibon Tirunel und mit ",
+				"wem habe ich die Ehre?"
+			]
+		},
+		{
+			"path": [71,4,49,2],
+			"original": "Junge Frau: Ich heiße Anelia Saltatio!",
+			"lines":
+			[
+				"\\c[10]Junge Frau\\c[0]: Ich heiße Anelia ",
+				"Saltatio!"
+			]
+		},
+		{
+			"path": [71,4,53,2],
+			"original": "Kleiner Junge: Ja, mir geht's auch gut, danke der Nachfrage.",
+			"lines":
+			[
+				"\\c[10]Kleiner Junge\\c[0]: Ja,\\. mir geht's auch ",
+				"gut,\\.\\s[5] danke der Nachfrage."
+			]
+		},
+		{
+			"path": [71,4,60,2],
+			"original": "Anelia: Oh, Koge, tut mir Leid. Ich bin noch ganz durcheinander...",
+			"lines":
+			[
+				"\\c[10]Anelia\\c[0]: Oh,\\. Koge,\\. tut mir Leid.\\. Ich ",
+				"bin noch ganz durcheinander..."
+			]
+		},
+		{
+			"path": [71,4,63,2],
+			"original": "Anelia: Großvater, ist alles in Ordnung?",
+			"lines":
+			[
+				"\\c[10]Anelia\\c[0]: Großvater, ist alles in ",
+				"Ordnung?"
+			]
+		},
+		{
+			"path": [71,4,70,2],
+			"original": "Großvater: Ja, mach dir keine Sorgen um mich, mein Spatz...",
+			"lines":
+			[
+				"\\c[10]Großvater\\c[0]: Ja, mach dir keine Sorgen ",
+				"um mich, mein Spatz..."
+			]
+		},
+		{
+			"path": [71,4,78,2],
+			"original": "Anelia: Das hier sind mein kleiner Bruder Koge und mein Großvater.",
+			"lines":
+			[
+				"\\c[10]Anelia\\c[0]: Das hier sind mein kleiner ",
+				"Bruder Koge und mein Großvater."
+			]
+		},
+		{
+			"path": [71,4,81,2],
+			"original": "Lesario: Nennt mich Lesario. Vielen Dank für die Rettung...",
+			"lines":
+			[
+				"\\c[10]Lesario\\c[0]: Nennt mich Lesario.\\. ",
+				"Vielen Dank für die Rettung..."
+			]
+		},
+		{
+			"path": [71,4,84,3],
+			"original": "Cibon: Keine Ursache. Schön euch kennen zu lernen. Was macht ihr eigentlich hier im Corine Plateau?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Keine Ursache.\\. Schön euch ",
+				"kennen zu lernen.\\. Was macht ihr ",
+				"eigentlich hier im Corine Plateau?"
+			]
+		},
+		{
+			"path": [71,4,88,3],
+			"original": "Anelia: Wir sind auf der Reise nach West-Brigantia. Wir wollen dort die großen Städte besuchen. Zuerst Nomerea...",
+			"lines":
+			[
+				"\\c[10]Anelia\\c[0]: Wir sind auf der Reise nach ",
+				"West-Brigantia.\\. Wir wollen dort die ",
+				"großen Städte besuchen.\\. Zuerst Nomerea..."
+			]
+		},
+		{
+			"path": [71,4,96,2],
+			"original": "Anelia: Dort werden wir dann musizieren und tanzen!",
+			"lines":
+			[
+				"\\c[10]Anelia\\c[0]: Dort werden wir dann ",
+				"musizieren und tanzen!"
+			]
+		},
+		{
+			"path": [71,4,103,2],
+			"original": "Cibon: Musizieren und tanzen? In Nomerea?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Musizieren und tanzen?\\. In ",
+				"Nomerea? "
+			]
+		},
+		{
+			"path": [71,4,106,3],
+			"original": "Cibon: Ach verdammt! Wieso muss ich ausgerechnet jetzt diesen Auftrag haben?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ach verdammt!\\. Wieso muss ",
+				"ich ausgerechnet jetzt diesen ",
+				"Auftrag haben?"
+			]
+		},
+		{
+			"path": [71,4,110,3],
+			"original": "Cibon: Es ist als würde man mir einen Teil meines Herzens entreißen und....",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[3] Es ist als würde man mir ",
+				"einen Teil meines Herzens entreißen ",
+				"und....\\.\\.\\^"
+			]
+		},
+		{
+			"path": [71,4,115,3],
+			"original": "Soko: Es ist wie es ist, Cibon. Und jetzt müssen wir weiter. Wir stehen immer noch unter Zeitdruck.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Es ist wie es ist, Cibon.\\. Und ",
+				"jetzt müssen wir weiter.\\. Wir stehen ",
+				"immer noch unter Zeitdruck."
+			]
+		},
+		{
+			"path": [71,4,120,1],
+			"original": "Cibon: Wa..?!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wa..?!"
+			]
+		},
+		{
+			"path": [71,4,124,2],
+			"original": "Anelia: Müsst ihr schon weiter? Das ist schade.",
+			"lines":
+			[
+				"\\c[10]Anelia\\c[0]: Müsst ihr schon weiter?\\. Das ",
+				"ist schade."
+			]
+		},
+		{
+			"path": [71,4,127,3],
+			"original": "Soko: Ja, wir haben einen wichtigen Auftrag, den \"Herr Tirunel\" leider sehr leicht zu vergessen scheint.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ja, wir haben einen wichtigen ",
+				"Auftrag, den \"Herr Tirunel\" leider ",
+				"sehr leicht zu vergessen scheint. "
+			]
+		},
+		{
+			"path": [71,4,132,2],
+			"original": "Cibon: Mensch, das ist doch nicht dein Ernst! Die paar Minuten!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Mensch,\\. das ist doch nicht ",
+				"dein Ernst!\\. Die paar Minuten!"
+			]
+		},
+		{
+			"path": [71,4,136,2],
+			"original": "Soko: Wer weiß, welche Ausmaße diese Konversation nehmen kann, Cibon.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wer weiß, welche Ausmaße diese ",
+				"Konversation nehmen kann, Cibon. "
+			]
+		},
+		{
+			"path": [71,4,139,3],
+			"original": "Soko: Nachher wechselst du von einem Thema zum nächsten und ihr kommt nie zum Ende...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Nachher wechselst du von einem ",
+				"Thema zum nächsten und ihr kommt nie ",
+				"zum Ende..."
+			]
+		},
+		{
+			"path": [71,4,146,3],
+			"original": "Anelia: Oh... Wenn ihr es so eilig habt, wollen wir euch auch nicht länger aufhalten.",
+			"lines":
+			[
+				"\\c[10]Anelia\\c[0]: Oh...\\. Wenn ihr es so eilig ",
+				"habt,\\. wollen wir euch auch nicht ",
+				"länger aufhalten."
+			]
+		},
+		{
+			"path": [71,4,154,2],
+			"original": "Cibon: Anelia... Ich hoffe wir sehen uns bald wieder.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Anelia...\\. Ich hoffe ",
+				"wir sehen uns bald wieder."
+			]
+		},
+		{
+			"path": [71,4,157,2],
+			"original": "Anelia: Hihi, das hoffe ich auch, mein Retter.",
+			"lines":
+			[
+				"\\c[10]Anelia\\c[0]: Hihi,\\. das hoffe ich auch,\\. ",
+				"\\s[3]mein Retter."
+			]
+		},
+		{
+			"path": [71,4,170,2],
+			"original": "Anelia: Bis dann und danke nochmals. Vor allem dir, liebster Retter.",
+			"lines":
+			[
+				"\\c[10]Anelia\\c[0]: Bis dann und danke nochmals.\\. ",
+				"Vor allem dir,\\. liebster Retter."
+			]
+		},
+		{
+			"path": [71,4,190,3],
+			"original": "(Kento: Öhm... bild ich mir das ein, oder hat Cibon diesmal mit seiner Anmache tatsächlich Erfolg gehabt?!)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Öhm... bild ich mir das ein, ",
+				"oder hat Cibon diesmal mit seiner ",
+				"Anmache tatsächlich Erfolg gehabt?!)"
+			]
+		},
+		{
+			"path": [71,4,202,3],
+			"original": "Cibon: Jaja, erst Druck machen und jetzt rum stehen. Los, wir müssen weiter, ODER?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Jaja, erst Druck machen und ",
+				"jetzt rum stehen.\\. Los,\\. wir müssen ",
+				"weiter,\\.\\s[3] ODER?"
+			]
+		},
+		{
+			"path": [71,4,221,3],
+			"original": "Soko: Meine Güte, war das peinlich! Ich hab noch nie so eine dick aufgetragene Anmache erlebt.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Meine Güte, war das peinlich!\\. ",
+				"Ich hab noch nie so eine dick ",
+				"aufgetragene Anmache erlebt."
+			]
+		},
+		{
+			"path": [71,4,225,4],
+			"original": "Kento: Wem erzählst du das. Und es kommt noch besser: Er macht das bei fast jeder Frau ähnlichen Alters, die ihm über dem Weg läuft.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wem erzählst du das.\\. Und es ",
+				"kommt noch besser:\\. Er macht das bei ",
+				"fast jeder Frau ähnlichen Alters, ",
+				"die ihm über dem Weg läuft."
+			]
+		},
+		{
+			"path": [71,4,230,1],
+			"original": "Soko: Ist nicht wahr!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ist nicht wahr!"
+			]
+		},
+		{
+			"path": [71,4,232,1],
+			"original": "Kento: Komm, lass uns weiter gehen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Komm,\\. lass uns weiter gehen."
+			]
+		},
+		{
+			"path": [71,4,241,3],
+			"original": "Soko: Eine Frage, Kento... Wieso... hat Cibon das bitte nicht bei mir gemacht?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Eine Frage, Kento...\\. Wieso...\\. ",
+				"hat Cibon das bitte nicht bei mir ",
+				"gemacht?"
+			]
+		},
+		{
+			"path": [71,4,245,2],
+			"original": "Kento: Öh? Weil er Angst vor dir hat.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Öh?\\. Weil er Angst vor dir ",
+				"hat."
+			]
+		},
+		{
+			"path": [71,4,248,2],
+			"original": "Soko: ANGST? Vor mir? Wieso denn das?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ANGST?\\. Vor mir?\\. ",
+				"Wieso denn das?"
+			]
+		},
+		{
+			"path": [71,4,251,3],
+			"original": "Kento: Hehe. Erinnere dich mal daran, was in dem Gasthof passiert ist, als wir dich getroffen haben.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hehe.\\. Erinnere dich mal ",
+				"daran, was in dem Gasthof passiert ",
+				"ist,\\. als wir dich getroffen haben."
+			]
+		},
+		{
+			"path": [71,4,254,3],
+			"original": "Kento: Und dann schließe mal daraus, wie wohl Cibons erster Eindruck von dir gewesen ist.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Und dann schließe mal daraus,\\. ",
+				"wie wohl Cibons erster Eindruck von ",
+				"dir gewesen ist."
+			]
+		},
+		{
+			"path": [71,4,263,1],
+			"original": "Soko: ...oh.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...\\.oh."
+			]
+		}
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [78,1,8,1],
+			"original": "?????: Tatsächlich...",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] Tatsächlich..."
+			]
+		},
+		{
+			"path": [78,1,27,3],
+			"original": "?????: Wer hätte je gedacht, dass der begehrte Junge ganz von selbst zu uns kommt?",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] Wer hätte je gedacht, dass ",
+				"der begehrte Junge ganz von selbst ",
+				"zu uns kommt?"
+			]
+		},
+		{
+			"path": [78,1,41,3],
+			"original": "?????: Hach ja... So wie es aussieht, wird der Stress nun bald beginnen.",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] Hach ja...\\. So wie es ",
+				"aussieht, wird der Stress nun bald ",
+				"beginnen. "
+			]
+		},
+		{
+			"path": [78,1,66,4],
+			"original": "?????: Tut mir schrecklich Leid, Cieoly, aber du wirst erneut die unendliche Last eines Briefes mit dir schleppen müssen.",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] Tut mir schrecklich Leid, ",
+				"Cieoly, aber du wirst erneut ",
+				"die unendliche Last eines Briefes ",
+				"mit dir schleppen müssen."
+			]
+		},
+		{
+			"path": [78,1,75,4],
+			"original": "?????: Ja, ich weiß, dass es unfair ist. Ich kann gemütlich durchs Leben gehen, während du von einem Punkt zum nächsten saust, nicht wahr?",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] Ja,\\. ich weiß, dass es unfair ",
+				"ist.\\. Ich kann gemütlich durchs Leben ",
+				"gehen, während du von einem Punkt ",
+				"zum nächsten saust, nicht wahr?"
+			]
+		},
+		{
+			"path": [78,1,80,3],
+			"original": "?????: Komm schon, diese Nachricht ist wichtig, stell dich nicht so stur, ja?",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] Komm schon, diese Nachricht ",
+				"ist wichtig,\\. stell dich nicht so ",
+				"stur, ja?"
+			]
+		},
+		{
+			"path": [78,1,92,3],
+			"original": "?????: Das ist meine Kleine, wie ich sie kenne. Enttäusch mich bitte nicht.",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] Das ist meine Kleine, wie ich ",
+				"sie kenne.\\.",
+				"Enttäusch mich bitte nicht."
+			]
+		},
+		{
+			"path": [78,1,108,4],
+			"original": "?????: Ich würde ja zu gerne nachschauen, was es mit diesem Licht von vorhin auf sich hatte, aber die Zeit rennt mir davon...",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] Ich würde ja zu gerne ",
+				"nachschauen, was es mit diesem Licht ",
+				"von vorhin auf sich hatte, aber die ",
+				"Zeit rennt mir davon..."
+			]
+		}
+	]
+}

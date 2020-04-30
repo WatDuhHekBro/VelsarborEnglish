@@ -1,0 +1,199 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [5,1,6,4],
+			"original": "(Kento: Hier geht es zu den Holzfällern. Ich denke wir würden dort nur bei der Arbeit stören. Wir haben dort eh nichts zu suchen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]:\\c[0] Hier geht es zu den ",
+				"Holzfällern. Ich denke wir würden ",
+				"dort nur bei der Arbeit stören.",
+				"Wir haben dort eh nichts zu suchen.)"
+			]
+		},
+		{
+			"path": [15,1,17,2],
+			"original": "Gurim: Wo bleibt Saion nun schon wieder?",
+			"lines":
+			[
+				"\\c[10]Gurim\\c[0]: Wo bleibt Saion nun schon ",
+				"wieder? "
+			]
+		},
+		{
+			"path": [15,1,26,3],
+			"original": "Jorn: Ich weiß es nicht, aber wenn er solange fort ist, kann das nichts gutes heißen...",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Ich weiß es nicht, aber wenn ",
+				"er solange fort ist, kann das nichts ",
+				"gutes heißen..."
+			]
+		},
+		{
+			"path": [15,1,30,1],
+			"original": "Gurim: Du meinst er wurde gefangen?",
+			"lines":
+			[
+				"\\c[10]Gurim\\c[0]: Du meinst er wurde gefangen?"
+			]
+		},
+		{
+			"path": [15,1,32,4],
+			"original": "Jorn: Nein, er könnte etwas entdeckt haben und einen neuen Diebstahl planen. Gleichbedeutend damit, dass wir bald alle gefangen sein werden.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Nein, er könnte etwas entdeckt ",
+				"haben und einen neuen Diebstahl ",
+				"planen.\\.\\. Gleichbedeutend damit, dass ",
+				"wir bald alle gefangen sein werden."
+			]
+		},
+		{
+			"path": [15,1,47,2],
+			"original": "Saion: Hey! Ihr werdet nicht glauben, wen ich gesehen habe!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Hey!\\. Ihr werdet nicht ",
+				"glauben, wen ich gesehen habe!"
+			]
+		},
+		{
+			"path": [15,1,49,4],
+			"original": "Saion: Sie sind hier! Die Leute, denen wir zu verdanken haben, dass wir fast eingekerkert wurden und uns nun hier in diesem Kaff verstecken!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Sie sind hier!\\. Die Leute, ",
+				"denen wir zu verdanken haben, dass ",
+				"wir fast eingekerkert wurden und uns ",
+				"nun hier in diesem Kaff verstecken!"
+			]
+		},
+		{
+			"path": [15,1,57,3],
+			"original": "Jorn: Den Verantwortlichen DAFÜR sehe ich tagtäglich und er steht gerade vor mir.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Den Verantwortlichen DAFÜR",
+				"sehe ich tagtäglich und er steht ",
+				"gerade vor mir."
+			]
+		},
+		{
+			"path": [15,1,67,3],
+			"original": "Saion: Was zum... Hör auf mit diesen Unterstellungen oder du kriegst ein paar hinter die Löffel!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Was zum...\\. Hör auf mit diesen ",
+				"Unterstellungen oder du kriegst ein ",
+				"paar hinter die Löffel!"
+			]
+		},
+		{
+			"path": [15,1,74,3],
+			"original": "Saion: Wie auch immer... Sie sind hier! Die Soldaten die uns in Sinkholm ertappt haben.",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Wie auch immer...\\. Sie sind ",
+				"hier!\\. Die Soldaten die uns in ",
+				"Sinkholm ertappt haben."
+			]
+		},
+		{
+			"path": [15,1,78,1],
+			"original": "Jorn: Joa, schön zu wissen, und?",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Joa,\\. schön zu wissen,\\. und?"
+			]
+		},
+		{
+			"path": [15,1,80,2],
+			"original": "Saion: Wie und? Wir werden endlich unsere lang ersehnte Rache bekommen!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Wie und?\\. Wir werden endlich ",
+				"unsere lang ersehnte Rache bekommen!"
+			]
+		},
+		{
+			"path": [15,1,84,2],
+			"original": "Jorn: Das ist nicht dein Ernst, oder?",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Das ist nicht dein Ernst, ",
+				"oder?"
+			]
+		},
+		{
+			"path": [15,1,87,3],
+			"original": "Saion: Jorn, wir müssen den Leuten zeigen, dass sie es bereuen werden, wenn sie sich mit uns anlegen!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Jorn, wir müssen den Leuten ",
+				"zeigen, dass sie es bereuen werden, ",
+				"wenn sie sich mit uns anlegen!"
+			]
+		},
+		{
+			"path": [15,1,92,3],
+			"original": "Jorn: Saion, das ist Wahnsinn! Wir sollten froh sein, das wir gerade auf freiem Fuß sind!",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Saion, das ist Wahnsinn!\\. Wir ",
+				"sollten froh sein, das wir gerade ",
+				"auf freiem Fuß sind!"
+			]
+		},
+		{
+			"path": [15,1,96,3],
+			"original": "Gurim: Das stimmt Saion. Der Racheakt würde nur dazu führen, dass wir wieder eingesperrt werden...",
+			"lines":
+			[
+				"\\c[10]Gurim\\c[0]: Das stimmt Saion.\\. Der ",
+				"Racheakt würde nur dazu führen, dass ",
+				"wir wieder eingesperrt werden..."
+			]
+		},
+		{
+			"path": [15,1,101,4],
+			"original": "Saion: Ich kann nicht glauben, was ich da höre! Wozu haben wir bitte die letzten Tage durchgehend trainiert? Um davon zu laufen?",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Ich kann nicht glauben, was ",
+				"ich da höre!\\. Wozu haben wir bitte ",
+				"die letzten Tage durchgehend ",
+				"trainiert?\\. Um davon zu laufen?"
+			]
+		},
+		{
+			"path": [15,1,106,2],
+			"original": "Jorn: Um uns im Notfall zu verteidigen...",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Um uns im Notfall zu ",
+				"verteidigen..."
+			]
+		},
+		{
+			"path": [15,1,109,3],
+			"original": "Saion: NEIN, um es den Leuten heimzuzahlen, die sich mit uns angelegt haben!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: NEIN, um es den Leuten ",
+				"heimzuzahlen, die sich mit uns ",
+				"angelegt haben!"
+			]
+		},
+		{
+			"path": [15,1,113,2],
+			"original": "Saion: Und jetzt hört euch meinen Plan an...",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Und jetzt hört euch meinen ",
+				"Plan an..."
+			]
+		}
+	]
+}

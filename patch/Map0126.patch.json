@@ -1,0 +1,76 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [84,1,2,3],
+			"original": "Händler: Ich habe hier erstklassige Ausrüstung aus Helnovien. Sie wurde aus hochwertigen Eisen  hergestellt.",
+			"lines":
+			[
+				"\\c[10]Händler\\c[0]: Ich habe hier erstklassige Ausrüstung ",
+				"aus Helnovien. Sie wurde aus hochwertigen ",
+				"Eisen  hergestellt. "
+			]
+		},
+		{
+			"path": [84,1,5,3],
+			"original": "Händler: Es wird noch eine Weile dauern bis diese Ware West-Brigantia erreichen wird, also zuschnappen!",
+			"lines":
+			[
+				"\\c[10]Händler\\c[0]: Es wird noch eine Weile dauern bis ",
+				"diese Ware West-Brigantia erreichen wird, also ",
+				"zuschnappen!"
+			]
+		},
+		{
+			"path": [87,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"Dies ist ein \\c[11]Speicherpunkt\\c[0]."
+			]
+		},
+		{
+			"path": [87,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"Wenn man auf solch einen steht, kann man \\c[11]den",
+				"Spielstand speichern\\c[0]."
+			]
+		},
+		{
+			"path": [87,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"Öffne dazu das \\c[11]Menu\\c[0] mit \\c[11]Esc\\c[0] und wähle",
+				"dann \\c[11]Speichern\\c[0]."
+			]
+		},
+		{
+			"path": [87,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Auf der \\c[11]Weltkarte\\c[0] kann man übigens",
+				"immer speichern."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [87,1,4],
+			"original": "CorinePlat1",
+			"patch": "CorinePlat1"
+		}
+	]
+}

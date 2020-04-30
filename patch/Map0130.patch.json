@@ -1,0 +1,265 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [49,1,20,2],
+			"original": "Cibon: Das ist es also... Ziemlich verwachsen...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Das ist es also... Ziemlich ",
+				"verwachsen..."
+			]
+		},
+		{
+			"path": [49,1,23,4],
+			"original": "Soko: Es wurde halt in dieser Gegend erbaut, zu weit entfernt von Siedlungen. So etwas gerät schnell in Vergessenheit.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Es wurde halt in dieser Gegend ",
+				"erbaut,\\. zu weit entfernt von ",
+				"Siedlungen.\\. So etwas gerät schnell ",
+				"in Vergessenheit."
+			]
+		},
+		{
+			"path": [49,1,28,2],
+			"original": "Cibon: Dabei soll doch gerade das nicht passieren...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: \\s[3]Dabei soll doch gerade das ",
+				"nicht passieren..."
+			]
+		},
+		{
+			"path": [49,1,32,1],
+			"original": "Soko: ...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [49,1,44,2],
+			"original": "Cibon: ... Ich kannte meinen Vater nie wirklich....",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ... Ich kannte meinen Vater ",
+				"nie wirklich...."
+			]
+		},
+		{
+			"path": [49,1,52,1],
+			"original": "Soko: Hm?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Hm?"
+			]
+		},
+		{
+			"path": [49,1,57,4],
+			"original": "Cibon: Ich habe nur wenige Erinnerungen an ihn aus meiner Kindheit. Er war meistens in der Kaserne oder irgendwo anders...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ich habe nur wenige ",
+				"Erinnerungen an ihn aus meiner ",
+				"Kindheit.\\. Er war meistens in der ",
+				"Kaserne oder irgendwo anders..."
+			]
+		},
+		{
+			"path": [49,1,65,2],
+			"original": "Cibon: ... Er hatte viel zu tun als Soldat.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ... Er hatte viel zu tun als ",
+				"Soldat."
+			]
+		},
+		{
+			"path": [49,1,68,2],
+			"original": "Soko: Und dann ist er hier gestorben?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Und dann ist er hier ",
+				"gestorben?"
+			]
+		},
+		{
+			"path": [49,1,71,3],
+			"original": "Cibon: Ja... Ich hatte nie die Gelegenheit ihn richtig kennen zu lernen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ja...\\. Ich hatte nie die ",
+				"Gelegenheit ihn richtig kennen zu ",
+				"lernen. "
+			]
+		},
+		{
+			"path": [49,1,75,1],
+			"original": "Soko: ...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [49,1,81,3],
+			"original": "Cibon: Was ich aber weiß, ist, dass mein Vater anscheinend ein guter Freund von Genyu Daikon gewesen ist.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Was ich aber weiß, ist,\\. dass ",
+				"mein Vater anscheinend ein guter ",
+				"Freund von Genyu Daikon gewesen ist."
+			]
+		},
+		{
+			"path": [49,1,85,1],
+			"original": "Soko: Huh? Von Genyu Daikon?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Huh?\\. Von Genyu Daikon?"
+			]
+		},
+		{
+			"path": [49,1,87,4],
+			"original": "Cibon: Ja, meine Mutter hat mir erzählt wie er früher, als ich noch sehr jung war, sogar Gast zuhause gewesen ist.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ja,\\. meine Mutter hat mir ",
+				"erzählt wie er früher,\\. als ich noch ",
+				"sehr jung war,\\. sogar Gast zuhause ",
+				"gewesen ist. "
+			]
+		},
+		{
+			"path": [49,1,95,2],
+			"original": "Soko: ... Bist du deshalb mit Kento befreundet?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...\\. Bist du deshalb mit Kento ",
+				"befreundet?"
+			]
+		},
+		{
+			"path": [49,1,103,2],
+			"original": "Cibon: ... Also weißte schon, dass Genyu sein Vater ist...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ... Also weißte schon,\\. dass ",
+				"Genyu sein Vater ist..."
+			]
+		},
+		{
+			"path": [49,1,106,3],
+			"original": "Cibon: ... Ja, kann sein, dass ich mich deshalb mit Kento angefreundet habe.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ...\\.",
+				"Ja, kann sein,\\. dass ich mich deshalb  ",
+				"mit Kento angefreundet habe."
+			]
+		},
+		{
+			"path": [49,1,111,4],
+			"original": "Cibon: Zumindest war das mein Grund zu Beginn. Ich dachte vielleicht würde Kento etwas über meinen Vater wissen, irgendwas.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Zumindest war das mein Grund ",
+				"zu Beginn.\\. Ich dachte vielleicht ",
+				"würde Kento etwas über meinen Vater ",
+				"wissen,\\.\\. irgendwas."
+			]
+		},
+		{
+			"path": [49,1,116,2],
+			"original": "Cibon: Doch es hat keinen Sinn ihn deswegen anzusprechen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Doch es hat keinen Sinn ihn ",
+				"deswegen anzusprechen. "
+			]
+		},
+		{
+			"path": [49,1,120,4],
+			"original": "Cibon: Sobald man ein Thema anschneidet, was auch nur im Entferntesten mit seinen Vater zu tun hat...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Sobald man ein Thema ",
+				"anschneidet,\\. was auch nur im ",
+				"Entferntesten mit seinen Vater zu ",
+				"tun hat..."
+			]
+		},
+		{
+			"path": [49,1,126,3],
+			"original": "Soko: Ich habe es selber gemerkt... Aber wie kommt das? Hasst Kento seinen Vater?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ich habe es selber gemerkt...\\. ",
+				"Aber wie kommt das?\\. Hasst Kento ",
+				"seinen Vater?"
+			]
+		},
+		{
+			"path": [49,1,130,4],
+			"original": "Cibon: Ja, aber frag mich nich wieso. Wie soll ich auch den Grund wissen, wenn Kento nie darüber redet.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ja,\\. aber frag mich nich ",
+				"wieso.\\. Wie soll ich auch den Grund ",
+				"wissen, wenn Kento nie darüber ",
+				"redet."
+			]
+		},
+		{
+			"path": [49,1,139,3],
+			"original": "Soko: Irgendwie bezweifle ich, dass er von der Beziehung eurer Väter wusste.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Irgendwie bezweifle ich,\\. dass ",
+				"er von der Beziehung eurer Väter ",
+				"wusste."
+			]
+		},
+		{
+			"path": [49,1,142,3],
+			"original": "Soko: Ansonsten hätte er deinen Nachnamen gemieden wie seinen eigenen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ansonsten hätte er deinen ",
+				"Nachnamen gemieden wie seinen ",
+				"eigenen."
+			]
+		},
+		{
+			"path": [49,1,151,2],
+			"original": "Cibon: Das ist schon wahr... Der Gedanke kam mir auch nach ner Weile.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Das ist schon wahr...\\. Der ",
+				"Gedanke kam mir auch nach ner Weile."
+			]
+		},
+		{
+			"path": [49,1,155,3],
+			"original": "Cibon: Aber nun ja, jetzt sind wir bereits Kumpels, also was interessiert mich das noch?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Aber nun ja,\\. jetzt sind wir ",
+				"bereits Kumpels,\\. also was ",
+				"interessiert mich das noch?"
+			]
+		},
+		{
+			"path": [49,1,160,4],
+			"original": "Cibon: Und wer weiß. Vielleicht treffe ich durch Kento ja doch noch irgendwann auf ne Person, die seinen und meinen Vater kannte.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Und wer weiß.\\. Vielleicht ",
+				"treffe ich durch Kento ja doch noch ",
+				"irgendwann auf ne Person,\\. die seinen ",
+				"und meinen Vater kannte."
+			]
+		}
+	]
+}
