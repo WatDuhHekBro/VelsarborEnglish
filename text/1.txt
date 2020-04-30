@@ -73,15 +73,7 @@ Außerdem wirft er Heilessenzen und kann Zustände mit Heilgegenständen behande
 Dieser Soldat ist für den offensiven Kampf zuständig, er richtet den meisten Schaden an.
 Vorsicht vor der Zustand-Sare, die er oft anwendet!
 
-
-
-INFO: This is the status overview of the magic lens for the targeted opponent.
-A few notes about the displays on the right:
-In all cases, the higher the bar, the greater the protection.
-If the bar is below the symbol, the opponent has a weakness there.
-Explanation of symbols:
-Current enchantments of the opponent are shown under the section "Enchantments".
---- Grünschleim
+# Grünschleim
 A weak phlegm that likes to sneakily attack with fire spells.
 # Wilder Bär
 A big bear that focuses on physical attacks.

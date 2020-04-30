@@ -472,8 +472,8 @@
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Did you hear that?\\. Apparently,",
-				"the old man thinks something of us.\\.",
-				"...\\. What an adventure that'll be..."
+				"the old man thinks something of us.\\.\\.",
+				"What an adventure that'll be..."
 			]
 		},
 		{
@@ -933,10 +933,9 @@
 			"original": "\\n[6]: Sir Vorento? Ich hab gehört, dass Sie Cibon Tirunel und Kento Daikon als Eskorte für die Reise des Ratmitgliedes gewählt haben...",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Sir Vorento?\\. Ich hab gehört, ",
-				"dass Sie Cibon Tirunel und Kento ",
-				"Daikon als Eskorte für die Reise des ",
-				"Ratmitgliedes gewählt haben..."
+				"\\c[6]\\n[6]\\c[0]: Sir Vorento?\\. I heard you chose",
+				"Cibon Tirunel and Kento Daikon to",
+				"escort the council member's trip..."
 			]
 		},
 		{
@@ -944,7 +943,7 @@
 			"original": "Sir Vorento: Ja, dem ist so...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Ja, dem ist so..."
+				"\\c[10]Sir Vorento\\c[0]: Yes, that's right..."
 			]
 		},
 		{
@@ -952,10 +951,10 @@
 			"original": "\\n[6]: Meinen Sie nicht, dass es den beiden noch etwas an Erfahrung fehlt, um ihnen so einen Auftrag zu geben?",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Meinen Sie nicht, dass es den ",
-				"beiden noch etwas an Erfahrung ",
-				"fehlt, um ihnen so einen Auftrag zu ",
-				"geben?"
+				"\\c[6]\\n[6]\\c[0]: Don't you think the two of",
+				"them still lack enough experience",
+				"for you to give them a job like",
+				"that?"
 			]
 		},
 		{
@@ -963,7 +962,7 @@
 			"original": "Sir Vorento: ... Vielleicht...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: ...\\. Vielleicht..."
+				"\\c[10]Sir Vorento\\c[0]: Maybe..."
 			]
 		},
 		{
@@ -971,7 +970,7 @@
 			"original": "\\n[6]: Wie bitte?!",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Wie bitte?!"
+				"\\c[6]\\n[6]\\c[0]: Excuse me?!"
 			]
 		},
 		{
@@ -979,10 +978,9 @@
 			"original": "Sir Vorento: Vielleicht könnte es etwas gefährlich für die beiden sein, aber ich bezweifle, dass Sie es nicht schaffen werden.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Vielleicht könnte es ",
-				"etwas gefährlich für die beiden sein, ",
-				"aber ich bezweifle, dass Sie es nicht ",
-				"schaffen werden."
+				"\\c[10]Sir Vorento\\c[0]: Maybe it'd be a little",
+				"dangerous for them, but I'm sure",
+				"they'll make it."
 			]
 		},
 		{
@@ -990,9 +988,9 @@
 			"original": "Sir Vorento: Herr Tirunel und Herr Daikon gehören zu den Besten der Neulinge hier.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Herr Tirunel und Herr ",
-				"Daikon gehören zu den Besten der",
-				"Neulinge hier."
+				"\\c[10]Sir Vorento\\c[0]: Sir Tirunel and Sir",
+				"Daikon are among the best of",
+				"the newcomers here."
 			]
 		},
 		{
@@ -1000,8 +998,8 @@
 			"original": "Sir Vorento: Sie werden der Aufgabe schon gewachsen sein...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Sie werden der Aufgabe ",
-				"schon gewachsen sein..."
+				"\\c[10]Sir Vorento\\c[0]: They'll be up to the",
+				"task..."
 			]
 		},
 		{
@@ -1009,9 +1007,8 @@
 			"original": "\\n[6]: Ja, aber wieso haben Sie ausgerechnet diese beiden losgeschickt?",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Ja, aber wieso haben Sie ",
-				"ausgerechnet diese beiden ",
-				"losgeschickt? "
+				"\\c[6]\\n[6]\\c[0]: Yeah, but why did you send off",
+				"these two of all people?"
 			]
 		},
 		{
@@ -1019,10 +1016,10 @@
 			"original": "\\n[6]: Wir haben hier genug andere Soldaten, die mehr Erfahrung haben und eher für diesen Auftrag geeignet sind...",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Wir haben hier genug andere ",
-				"Soldaten, die mehr Erfahrung haben ",
-				"und eher für diesen Auftrag geeignet ",
-				"sind..."
+				"\\c[6]\\n[6]\\c[0]: We have enough other soldiers",
+				"here who have more experience and",
+				"are more suitable for this",
+				"assignment..."
 			]
 		},
 		{
@@ -1030,8 +1027,8 @@
 			"original": "\\n[6]: Es gibt doch sicher einen speziellen Grund dafür, oder?",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Es gibt doch sicher einen ",
-				"speziellen Grund dafür, oder?"
+				"\\c[6]\\n[6]\\c[0]: Surely there's a special",
+				"reason for this, isn't there?"
 			]
 		},
 		{
@@ -1039,7 +1036,7 @@
 			"original": "Sir Vorento: So was in der Art...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: So was in der Art..."
+				"\\c[10]Sir Vorento\\c[0]: Something like that..."
 			]
 		},
 		{
@@ -1047,9 +1044,9 @@
 			"original": "Sir Vorento: Es ist aus militärischer Sicht sicherlich kein Grund, es ist was Persönliches...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Es ist aus militärischer ",
-				"Sicht sicherlich kein Grund,\\. es ist ",
-				"was Persönliches..."
+				"\\c[10]Sir Vorento\\c[0]: From a military point of",
+				"view,\\. it's certainly not a reason,\\.",
+				"it's something personal..."
 			]
 		},
 		{
@@ -1057,9 +1054,9 @@
 			"original": "Sir Vorento: Sie wissen, was gegen Ende des Krieges gegen Korzojeno geschehen ist, oder?",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Sie wissen, was gegen ",
-				"Ende des Krieges gegen Korzojeno ",
-				"geschehen ist, oder? "
+				"\\c[10]Sir Vorento\\c[0]: You know what happened",
+				"with Korzojeno towards the end of",
+				"the war, don't you?"
 			]
 		},
 		{
@@ -1067,7 +1064,7 @@
 			"original": "\\n[6]: Was meinen Sie genau?",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Was meinen Sie genau?"
+				"\\c[6]\\n[6]\\c[0]: What do you mean exactly?"
 			]
 		},
 		{
@@ -1075,8 +1072,8 @@
 			"original": "Sir Vorento: Der letzte verheerende Schlag Korzojenos...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Der letzte verheerende ",
-				"Schlag Korzojenos..."
+				"\\c[10]Sir Vorento\\c[0]: Korzojeno's last",
+				"devastating blow..."
 			]
 		},
 		{
@@ -1084,8 +1081,8 @@
 			"original": "\\n[6]: Das türkise Inferno... Sie meinen Septoccasus?",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Das türkise Inferno...\\.",
-				"Sie meinen Septoccasus?"
+				"\\c[6]\\n[6]\\c[0]: The turquoise inferno...\\. you",
+				"mean Septoccasus?"
 			]
 		},
 		{
@@ -1093,9 +1090,9 @@
 			"original": "Sir Vorento: Bis zu diesem Zeitpunkt hatte Brigantia alle Schlachten gegen Korzojeno gewonnen.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Bis zu diesem Zeitpunkt ",
-				"hatte Brigantia alle Schlachten gegen ",
-				"Korzojeno gewonnen."
+				"\\c[10]Sir Vorento\\c[0]: By that time, Brigantia",
+				"had won all the battles against",
+				"Korzojeno."
 			]
 		},
 		{
@@ -1103,10 +1100,9 @@
 			"original": "Sir Vorento: Der Gegner war bereits am Ende, hoffte aber mit dieser Attacke noch mal das Blatt wenden zu können...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Der Gegner war bereits ",
-				"am Ende,\\. hoffte aber mit dieser ",
-				"Attacke noch mal das Blatt wenden ",
-				"zu können..."
+				"\\c[10]Sir Vorento\\c[0]: The war was already",
+				"over,\\. but they hoped to turn the",
+				"tide of war with this attack..."
 			]
 		},
 		{
@@ -1114,10 +1110,10 @@
 			"original": "Sir Vorento: Man weiß nicht genau, wie man diesen \"Zauber\" zustande bekam. Man ist sich nicht mal sicher, ob es eine Signum-Technik war...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Man weiß nicht genau, ",
-				"wie man diesen \"Zauber\" zustande ",
-				"bekam. Man ist sich nicht mal sicher, ",
-				"ob es eine Signum-Technik war..."
+				"\\c[10]Sir Vorento\\c[0]: We don't know exactly",
+				"how they got this \"magic\". We're",
+				"not even sure if it was a",
+				"Signum technique..."
 			]
 		},
 		{
@@ -1125,10 +1121,10 @@
 			"original": "Sir Vorento: Einige vermuten ein 7. Element hinter dieser Technik, aber einen eindeutigen Beweiß gibt es dafür nicht.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Einige vermuten ein 7. ",
-				"Element hinter dieser Technik, aber ",
-				"einen eindeutigen Beweiß gibt es ",
-				"dafür nicht."
+				"\\c[10]Sir Vorento\\c[0]: Some suspect a 7th",
+				"element behind this technique,",
+				"but there's no clear evidence",
+				"for that."
 			]
 		},
 		{
@@ -1136,8 +1132,8 @@
 			"original": "Sir Vorento: Jedenfalls gelang Korzojeno diese Katastrophe....",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Jedenfalls gelang ",
-				"Korzojeno diese Katastrophe...."
+				"\\c[10]Sir Vorento\\c[0]: Anyways, Korzojeno",
+				"succeeded in this catastrophe..."
 			]
 		},
 		{
@@ -1145,10 +1141,10 @@
 			"original": "Sir Vorento: ...genau zu dem Zeitpunkt, als die letzten großen Reserven der Streitkräfte von Korzojeno und Brigantia...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: ...genau zu dem ",
-				"Zeitpunkt, als die letzten großen ",
-				"Reserven der Streitkräfte von ",
-				"Korzojeno und Brigantia..."
+				"\\c[10]Sir Vorento\\c[0]: ...at the very moment",
+				"when the last large reserves of",
+				"the Korzojenish and Brigantian",
+				"armed forces..."
 			]
 		},
 		{
@@ -1156,9 +1152,8 @@
 			"original": "Sir Vorento: ... im Corine-Wald ihre letzte große Schlacht ausgetragen haben...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: ... im Corine-Wald ihre ",
-				"letzte große Schlacht ausgetragen ",
-				"haben..."
+				"\\c[10]Sir Vorento\\c[0]: ...fought their last",
+				"great battle in the Corine Forest..."
 			]
 		},
 		{
@@ -1166,8 +1161,9 @@
 			"original": "Sir Vorento: Dieser Zauber war Septoccasus, das türkise Inferno...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]:\\s[5] Dieser Zauber war ",
-				"Septoccasus,\\. das türkise Inferno..."
+				"\\c[10]Sir Vorento\\c[0]:\\s[5] This magic was",
+				"Septoccasus,\\. the turquoise",
+				"inferno..."
 			]
 		},
 		{
@@ -1175,9 +1171,9 @@
 			"original": "Sir Vorento: Er hat nicht nur tausende brigantische, sondern auch korzojenische Soldaten getötet.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]:\\s[5] Er hat nicht nur ",
-				"tausende brigantische,\\. sondern auch ",
-				"korzojenische Soldaten getötet."
+				"\\c[10]Sir Vorento\\c[0]:\\s[5] It not only killed",
+				"thousands of Brigantian,\\. but thousands",
+				"of Korzojenish soldiers as well."
 			]
 		},
 		{
@@ -1185,10 +1181,10 @@
 			"original": "Sir Vorento: Nein... sie wurden nicht nur getötet... Sie wurden komplett vernichtet. Nichts als Staub blieb von ihnen übrig...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]:\\s[5] Nein...\\. sie wurden nicht ",
-				"nur getötet...\\. Sie wurden komplett ",
-				"vernichtet.\\. Nichts als Staub blieb ",
-				"von ihnen übrig..."
+				"\\c[10]Sir Vorento\\c[0]:\\s[5] No...\\. They weren't just",
+				"killed...\\. They were completely",
+				"disintegrated.\\. Nothing but",
+				"dust was left of them..."
 			]
 		},
 		{
@@ -1196,10 +1192,10 @@
 			"original": "Sir Vorento: Die gesamte Vegetation im Corine-Wald wurde vernichtet... Heute ist dieser Wald nur noch eine weite Wiesenlandschaft...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]:\\s[5] Die gesamte Vegetation ",
-				"im Corine-Wald wurde vernichtet...\\.",
-				"Heute ist dieser Wald nur noch eine ",
-				"weite Wiesenlandschaft..."
+				"\\c[10]Sir Vorento\\c[0]:\\s[5] All the vegetation in",
+				"the Corine Forest is gone now...\\.",
+				"Today, this former forest is only",
+				"a wide meadow landscape..."
 			]
 		},
 		{
@@ -1207,9 +1203,8 @@
 			"original": "Sir Vorento: Zu diesem Zeitpunkt haben wir viele, wichtige Männer verloren...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Zu diesem Zeitpunkt ",
-				"haben wir viele, wichtige Männer ",
-				"verloren..."
+				"\\c[10]Sir Vorento\\c[0]: At that point, we lost",
+				"a lot of important men..."
 			]
 		},
 		{
@@ -1225,10 +1220,10 @@
 			"original": "Sir Vorento: Unter anderem, ja... Ich habe Kento und Cibon diesen Auftrag gegeben, damit sie das Corine-Plateau durchqueren.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Unter anderem, ja...\\.",
-				"Ich habe Kento und Cibon diesen ",
-				"Auftrag gegeben, damit sie das ",
-				"Corine-Plateau durchqueren."
+				"\\c[10]Sir Vorento\\c[0]: Among other things,",
+				"yes...\\. I gave Kento and Cibon this",
+				"task for them to cross the Corine",
+				"Plateau."
 			]
 		},
 		{
@@ -1236,8 +1231,8 @@
 			"original": "Sir Vorento: Sie sollen die Gräber ihrer Väter sehen...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Sie sollen die Gräber ",
-				"ihrer Väter sehen..."
+				"\\c[10]Sir Vorento\\c[0]: They should see their",
+				"father's graves..."
 			]
 		},
 		{
@@ -1245,7 +1240,7 @@
 			"original": "\\n[6]: Wie bitte..?",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Wie bitte..?"
+				"\\c[6]\\n[6]\\c[0]: Excuse me?"
 			]
 		},
 		{
@@ -1253,10 +1248,10 @@
 			"original": "Sir Vorento: Sie beide verloren ihre Väter im Krieg, an diesem Ort. Vor allem für Kento muss es sehr schmerzvoll gewesen sein...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Sie beide verloren ihre ",
-				"Väter im Krieg, an diesem Ort.\\. Vor ",
-				"allem für Kento muss es sehr ",
-				"schmerzvoll gewesen sein..."
+				"\\c[10]Sir Vorento\\c[0]: They both lost their",
+				"fathers in the war in this place.\\.",
+				"It must've been very painful,",
+				"especially for Kento..."
 			]
 		},
 		{
@@ -1264,8 +1259,8 @@
 			"original": "\\n[6]: Aber Kento... Er hasst seinen Vater... wussten Sie das nicht?",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Aber Kento...\\. Er hasst seinen ",
-				"Vater...\\. wussten Sie das nicht?"
+				"\\c[6]\\n[6]\\c[0]: But Kento...\\. He hates his",
+				"father...\\. Don't you know?"
 			]
 		},
 		{
@@ -1273,10 +1268,10 @@
 			"original": "Sir Vorento: Doch natürlich... Der Hass entstand wohl aus der Trauer... Im Gegensatz zu Cibon, hatte Kento eine Berühmtheit als Vater...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Doch natürlich...\\. Der ",
-				"Hass entstand wohl aus der Trauer...\\.",
-				"Im Gegensatz zu Cibon, hatte Kento ",
-				"eine Berühmtheit als Vater..."
+				"\\c[10]Sir Vorento\\c[0]: Of course...\\. The hatred",
+				"arose out of grief...\\. Unlike Cibon,",
+				"Kento was famous because of his",
+				"father..."
 			]
 		},
 		{
@@ -1284,10 +1279,9 @@
 			"original": "Sir Vorento: Die Leute reden dauernd von ihm und erinnern Kento jedes Mal aufs neue an den Verlust seines Vaters...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Die Leute reden ",
-				"dauernd von ihm und erinnern ",
-				"Kento jedes Mal aufs neue an den ",
-				"Verlust seines Vaters..."
+				"\\c[10]Sir Vorento\\c[0]: People keep talking",
+				"about him and reminding Kento of"
+				"the loss of his father every time..."
 			]
 		},
 		{
@@ -1295,9 +1289,9 @@
 			"original": "Sir Vorento: Ich weiß nicht, ob das wirklich der Grund ist, wieso Kento seinen Nachnamen verflucht...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Ich weiß nicht, ob das ",
-				"wirklich der Grund ist,\\. wieso Kento ",
-				"seinen Nachnamen verflucht..."
+				"\\c[10]Sir Vorento\\c[0]: I don't know if that's",
+				"really why Kento curses his last",
+				"name..."
 			]
 		},
 		{
@@ -1305,8 +1299,8 @@
 			"original": "Sir Vorento: Aber ich weiß, dass er früher seinen Vater geliebt hat...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Aber ich weiß,\\. dass er ",
-				"früher seinen Vater geliebt hat..."
+				"\\c[10]Sir Vorento\\c[0]: But I do know that he",
+				"used to love his father..."
 			]
 		},
 		{
@@ -1314,10 +1308,10 @@
 			"original": "Sir Vorento: Ich finde es traurig, dass er im Moment so zu seinem Vater steht... Genyu hat das nicht verdient, er war ein guter Mann...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Ich finde es traurig,\\. ",
-				"dass er im Moment so zu seinem Vater ",
-				"steht...\\. Genyu hat das nicht verdient, ",
-				"er war ein guter Mann..."
+				"\\c[10]Sir Vorento\\c[0]: I find it sad the way he",
+				"currently is with his father...\\. Genyu",
+				"didn't deserve this, he was a great",
+				"man..."
 			]
 		},
 		{
@@ -1325,10 +1319,9 @@
 			"original": "Sir Vorento: Ich hoffe dass Kento seine Einstellung ändert, wenn er den Ort sieht, wo sein Vater gestorben ist...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Ich hoffe dass Kento ",
-				"seine Einstellung ändert, wenn er ",
-				"den Ort sieht, wo sein Vater ",
-				"gestorben ist..."
+				"\\c[10]Sir Vorento\\c[0]: I hope Kento changes his",
+				"mind when he sees the place where his",
+				"father died..."
 			]
 		},
 		{
@@ -1336,9 +1329,8 @@
 			"original": "Sir Vorento: Wenn er vor Augen bekommt, wie sein Vater gestorben ist...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Wenn er vor Augen ",
-				"bekommt,\\. wie sein Vater gestorben ",
-				"ist..."
+				"\\c[10]Sir Vorento\\c[0]: When he sees how his",
+				"father died..."
 			]
 		},
 		{
@@ -1346,10 +1338,10 @@
 			"original": "\\n[6]: Das ist es also... Meinen Sie diese Sache ist das Risiko wert, dass Sie zwei unerfahrene Soldaten auf so eine Mission schicken?",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Das ist es also...\\. Meinen ",
-				"Sie diese Sache ist das Risiko wert, ",
-				"dass Sie zwei unerfahrene Soldaten ",
-				"auf so eine Mission schicken?"
+				"\\c[6]\\n[6]\\c[0]: So that's it...\\. Do you think",
+				"this is worth the risk of sending",
+				"two inexperienced soldiers on a",
+				"mission like this?"
 			]
 		},
 		{
@@ -1357,10 +1349,9 @@
 			"original": "Sir Vorento: Das Risiko ist vielleicht weitaus geringer als Sie glauben, Frau Reisato. Ich kenne die beiden wirklich sehr gut...",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Das Risiko ist vielleicht ",
-				"weitaus geringer als Sie glauben, ",
-				"Frau Reisato.\\. Ich kenne die beiden ",
-				"wirklich sehr gut..."
+				"\\c[10]Sir Vorento\\c[0]: The risk may be far less",
+				"than you think,\\. Ms. Reisato.\\. I know",
+				"them very well..."
 			]
 		},
 		{
@@ -1368,8 +1359,8 @@
 			"original": "\\n[6]: Wie Sie meinen, Sir... Ich werde dann wieder gehen.",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Wie Sie meinen, Sir...\\.",
-				"Ich werde dann wieder gehen."
+				"\\c[6]\\n[6]\\c[0]: As you say, sir...\\. I'll be",
+				"going then."
 			]
 		},
 		{
@@ -1377,9 +1368,9 @@
 			"original": "Sir Vorento: Frau Reisato? Es wäre mir lieb, wenn Sie die Sache für sich behalten würden, in Ordnung?",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]: Frau Reisato?\\. Es wäre ",
-				"mir lieb, wenn Sie die Sache für sich ",
-				"behalten würden,\\. in Ordnung?"
+				"\\c[10]Sir Vorento\\c[0]: Ms. Reisato?\\. I'd like",
+				"you to keep this to yourself,\\.",
+				"alright?"
 			]
 		},
 		{
@@ -1387,8 +1378,8 @@
 			"original": "\\n[6]: Ich werde schweigen wie ein Grab...",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Ich werde schweigen wie ein ",
-				"Grab..."
+				"\\c[6]\\n[6]\\c[0]: I'll keep my mouth shut",
+				"then..."
 			]
 		},
 		{
@@ -1396,8 +1387,9 @@
 			"original": "(Sir Vorento: Kento... Hoffentlich wirst du mir die Antwort bringen...)",
 			"lines":
 			[
-				"(\\c[10]Sir Vorento\\c[0]: Kento...\\. Hoffentlich ",
-				"wirst du mir die Antwort bringen...)"
+				"(\\c[10]Sir Vorento\\c[0]: Kento...\\. Hopefully",
+				"you'll start to understand what",
+				"I'm saying...)"
 			]
 		}
 	],

@@ -6,8 +6,7 @@
 			"original": "Cibon: Oh... Was ist das?!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Oh...\\.",
-				"Was ist das?!"
+				"\\c[2]\\n[2]\\c[0]: Oh...\\. What happened?!"
 			]
 		},
 		{
@@ -15,8 +14,8 @@
 			"original": "Kento: Die Brücke ist kaputt. Das ist nicht gut...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Die Brücke ist kaputt.\\. ",
-				"Das ist nicht gut..."
+				"\\c[1]\\n[1]\\c[0]: The bridge is broken.\\. This",
+				"isn't good..."
 			]
 		},
 		{
@@ -24,7 +23,7 @@
 			"original": "Soko: Das ist in der Tat schlecht...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Das ist in der Tat schlecht..."
+				"\\c[13]\\n[3]\\c[0]: That's definitely bad...",
 			]
 		},
 		{
@@ -32,7 +31,8 @@
 			"original": "Cibon: Hmpf, was machn wir jetzt?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hmpf,\\. was machn wir jetzt?"
+				"\\c[2]\\n[2]\\c[0]: Hmpf,\\. what are we gonna do",
+				"now?"
 			]
 		},
 		{
@@ -40,8 +40,8 @@
 			"original": "Soko: Fragen wir erstmal nach, was hier genau passiert ist....",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Fragen wir erstmal nach, was ",
-				"hier genau passiert ist...."
+				"\\c[13]\\n[3]\\c[0]: Let's first figure out what",
+				"exactly happened here..."
 			]
 		},
 		{
@@ -49,10 +49,9 @@
 			"original": "Cibon: Oh Mann, jetzt habn wir schon späten Nachmittag, und die Brücke ist immer noch nicht repariert...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Oh Mann, jetzt habn wir ",
-				"schon späten Nachmittag, und die ",
-				"Brücke ist immer noch nicht ",
-				"repariert..."
+				"\\c[2]\\n[2]\\c[0]: Oh man, now it's late",
+				"afternoon and the bridge still",
+				"hasn't been repaired..."
 			]
 		},
 		{
@@ -68,8 +67,8 @@
 			"original": "Cibon: Und immer diese Beben! Zum Kotzen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Und immer diese Beben!\\.",
-				"Zum Kotzen!"
+				"\\c[2]\\n[2]\\c[0]: And always with these tremors!\\.",
+				"Disgusting!"
 			]
 		},
 		{
@@ -77,8 +76,8 @@
 			"original": "Herr Uroto: Sich darüber zu beschweren bringt doch nichts, Herr Tirunel.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Sich darüber zu beschweren ",
-				"bringt doch nichts,\\. Herr Tirunel."
+				"\\c[10]Sir Uroto\\c[0]: There's no point in",
+				"complaining about it,\\. Sir Tirunel."
 			]
 		},
 		{
@@ -86,7 +85,7 @@
 			"original": "Cibon: Ja ja, schon klar...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja ja,\\. schon klar..."
+				"\\c[2]\\n[2]\\c[0]: Yeah yeah,\\. of course..."
 			]
 		},
 		{
@@ -94,8 +93,8 @@
 			"original": "Soko: Wäre es vielleicht angebracht, dass wir etwas beim Bau helfen?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wäre es vielleicht angebracht, ",
-				"dass wir etwas beim Bau helfen?"
+				"\\c[13]\\n[3]\\c[0]: Would it be appropriate for us",
+				"to help out with the construction?"
 			]
 		},
 		{
@@ -103,7 +102,7 @@
 			"original": "Cibon: Wa....",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wa....\\.\\^"
+				"\\c[2]\\n[2]\\c[0]: Wh...\\.\\^"
 			]
 		},
 		{
@@ -111,10 +110,10 @@
 			"original": "Kento: Nein, das ist keine gute Idee... Wenn zu viele so nah an der Klippe arbeiten herrscht am Ende Platzmangel...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Nein, das ist keine gute Idee...\\. ",
-				"Wenn zu viele so nah an der Klippe ",
-				"arbeiten herrscht am Ende ",
-				"Platzmangel... "
+				"\\c[1]\\n[1]\\c[0]: No, that's not a good idea...\\.",
+				"If too many work so close to the",
+				"cliff, there'll be a lack of",
+				"space in the end..."
 			]
 		},
 		{
@@ -122,7 +121,7 @@
 			"original": "Kento: Das wäre zu riskant...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Das wäre zu riskant..."
+				"\\c[1]\\n[1]\\c[0]: That'd be too risky..."
 			]
 		},
 		{
@@ -130,7 +129,7 @@
 			"original": "Soko: Ja....",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ja...."
+				"\\c[13]\\n[3]\\c[0]: Yeah..."
 			]
 		},
 		{
@@ -146,10 +145,10 @@
 			"original": "Kento: Ich bezweifle zunehmend, dass das hier ein Erdbeben ist... Dafür bebt es viel zu kurz und viel zu oft. ... Merkwürdig...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich bezweifle zunehmend, dass ",
-				"das hier ein Erdbeben ist...\\. Dafür ",
-				"bebt es viel zu kurz und viel zu oft.\\.",
-				"...\\. Merkwürdig..."
+				"\\c[1]\\n[1]\\c[0]: I increasingly doubt that this",
+				"is an earthquake...\\. It's shaking for",
+				"far too short and far too often.\\.",
+				"Strange..."
 			]
 		},
 		{
@@ -157,8 +156,7 @@
 			"original": "Soko: Aber was könnte es ansonsten sein?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Aber was könnte es ansonsten ",
-				"sein?"
+				"\\c[13]\\n[3]\\c[0]: But what else could it be?"
 			]
 		},
 		{
@@ -166,10 +164,9 @@
 			"original": "Kento: Ich bin mir nicht sicher... Es scheint mir eher so, als ob jemand hier in der Nähe Sprengungen durchführen würde....",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich bin mir nicht sicher...\\. Es ",
-				"scheint mir eher so, als ob jemand ",
-				"hier in der Nähe Sprengungen ",
-				"durchführen würde...."
+				"\\c[1]\\n[1]\\c[0]: I'm not sure...\\. It seems to me",
+				"that someone around here is using",
+				"explosives..."
 			]
 		},
 		{
@@ -177,9 +174,8 @@
 			"original": "Soko: Aber ich hab nie davon gehört, dass sich im Torasgebirge irgendwelche Minen befinden...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Aber ich hab nie davon gehört,\\. ",
-				"dass sich im Torasgebirge ",
-				"irgendwelche Minen befinden..."
+				"\\c[13]\\n[3]\\c[0]: But I never heard of any mines",
+				"in Mount Toras..."
 			]
 		},
 		{
@@ -187,8 +183,9 @@
 			"original": "Cibon: NEIN! Jetzt auch noch so was! Verflucht...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: NEIN!\\. Jetzt auch noch so was!\\.",
-				"Verflucht..."
+				"\\c[2]\\n[2]\\c[0]: NO!\\. Now, on top of all that,",
+				"we can't do anything about it?!\\.",
+				"I swear..."
 			]
 		},
 		{
@@ -196,10 +193,9 @@
 			"original": "Kento: Ich glaube, solange diese Beben anhalten wird die Brücke auch nach der Reparatur nicht sehr lange halten...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich glaube,\\. solange diese ",
-				"Beben anhalten wird die Brücke auch ",
-				"nach der Reparatur nicht sehr lange ",
-				"halten..."
+				"\\c[1]\\n[1]\\c[0]: I think as long as these",
+				"tremors last,\\. the bridge won't",
+				"last very long after the repair..."
 			]
 		},
 		{
@@ -207,9 +203,8 @@
 			"original": "Cibon: Diese verdammten Beben halten die gesamte Reparatur an sich auf, Mensch!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Diese verdammten Beben ",
-				"halten die gesamte Reparatur an sich ",
-				"auf, Mensch!"
+				"\\c[2]\\n[2]\\c[0]: Those damn tremors are holding",
+				"up the whole repair!"
 			]
 		},
 		{
@@ -217,8 +212,8 @@
 			"original": "Herr Uroto: Ja, aber was können wir dagegen schon machen?",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Ja,\\. aber was können wir ",
-				"dagegen schon machen?"
+				"\\c[10]Sir Uroto\\c[0]: Yes,\\. but what can we do",
+				"about it?"
 			]
 		},
 		{
@@ -226,7 +221,7 @@
 			"original": "Soko: HERR TI...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: HERR TI...\\.\\^"
+				"\\c[13]\\n[3]\\c[0]: SIR TI...\\.\\^"
 			]
 		},
 		{
@@ -242,7 +237,7 @@
 			"original": "Cibon: Wuah! Das war knapp!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wuah!\\. Das war knapp!"
+				"\\c[2]\\n[2]\\c[0]: Woah!\\. That was close!"
 			]
 		},
 		{
@@ -250,9 +245,8 @@
 			"original": "Herr Uroto: Wir sollten uns besser nicht so nah am Felshang aufhalten...",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Wir sollten uns besser ",
-				"nicht so nah am Felshang ",
-				"aufhalten..."
+				"\\c[10]Sir Uroto\\c[0]: We'd better not be that",
+				"close to the cliff..."
 			]
 		},
 		{
@@ -260,10 +254,9 @@
 			"original": "Soko: Schauen Sie mal da oben! Da wo sich der Brocken gelöst hat, hat sich allen Anschein nach ein Eingang gebildet...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Schauen Sie mal da oben!\\. ",
-				"Da wo sich der Brocken gelöst hat, ",
-				"hat sich allen Anschein nach ein ",
-				"Eingang gebildet..."
+				"\\c[13]\\n[3]\\c[0]: Look up there!\\. Where the rocks",
+				"came loose, an entrance is",
+				"apparently open now..."
 			]
 		},
 		{
@@ -271,9 +264,8 @@
 			"original": "Kento: Tatsächlich... Muss wohl zu einer kleinen Höhle führen, oder so etwas...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Tatsächlich...\\. Muss wohl zu ",
-				"einer kleinen Höhle führen, oder so ",
-				"etwas..."
+				"\\c[1]\\n[1]\\c[0]: Right...\\. Must lead to a little",
+				"cave or something..."
 			]
 		},
 		{
@@ -281,8 +273,8 @@
 			"original": "Cibon: Denkt ihr, was ich auch denke?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Denkt ihr, was ich auch ",
-				"denke?"
+				"\\c[2]\\n[2]\\c[0]: Are you thinking what I'm",
+				"thinking?"
 			]
 		},
 		{
@@ -290,7 +282,7 @@
 			"original": "Kento: Was meinst du...?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Was meinst du...?"
+				"\\c[1]\\n[1]\\c[0]: What do you mean?"
 			]
 		},
 		{
@@ -298,9 +290,9 @@
 			"original": "Cibon: Denkt doch mal nach! Ich bin mir sicher, die Ursache für diese Beben liegt in DIESER Höhle!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Denkt doch mal nach!\\. Ich bin ",
-				"mir sicher, die Ursache für diese ",
-				"Beben liegt in DIESER Höhle!"
+				"\\c[2]\\n[2]\\c[0]: Think about it!\\. I'm sure the",
+				"cause of this earthquake is IN that",
+				"cave!"
 			]
 		},
 		{
@@ -308,9 +300,9 @@
 			"original": "Kento: ....Sicher.... Was genau soll das sein? Ein riesiger Drache der in der Höhle rumtobt?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ....\\.Sicher....\\. Was genau soll ",
-				"das sein?\\. Ein riesiger Drache der in ",
-				"der Höhle rumtobt?"
+				"\\c[1]\\n[1]\\c[0]: Sure...\\. What exactly is it",
+				"supposed to be?\\. A giant dragon",
+				"raging in the cave?"
 			]
 		},
 		{
@@ -318,10 +310,10 @@
 			"original": "Cibon: Keine Ahnung, was es genau ist, aber wo sollen die Beben sonst her kommen? Normale Erdbeben können das wohl kaum sein!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Keine Ahnung, was es genau ",
-				"ist,\\. aber wo sollen die Beben sonst ",
-				"her kommen?\\. Normale Erdbeben ",
-				"können das wohl kaum sein!"
+				"\\c[2]\\n[2]\\c[0]: I don't know what it is",
+				"exactly,\\. but where else would the",
+				"tremors be coming from?\\. Normal",
+				"earthquakes can hardly be that!"
 			]
 		},
 		{
@@ -329,10 +321,10 @@
 			"original": "Kento: Hm... Irgendwo hast du Recht, wenn jemand oder etwas diese Beben bewirkt, passiert das wahrscheinlich im Untergrund...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hm...\\. Irgendwo hast du ",
-				"Recht, wenn jemand oder etwas diese ",
-				"Beben bewirkt,\\. passiert das ",
-				"wahrscheinlich im Untergrund..."
+				"\\c[1]\\n[1]\\c[0]: Hm... Somehow I feel you're",
+				"right, if someone or something is",
+				"causing these tremors, it probably",
+				"would happen underground..."
 			]
 		},
 		{
@@ -340,9 +332,8 @@
 			"original": "Cibon: Komm, lass uns reingehen und nachschauen, wer oder was da so ein Theater macht!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Komm, lass uns reingehen ",
-				"und nachschauen, wer oder was da ",
-				"so ein Theater macht!"
+				"\\c[2]\\n[2]\\c[0]: Come on, let's go inside and",
+				"see who's doing that!"
 			]
 		},
 		{
@@ -350,10 +341,9 @@
 			"original": "Soko: Nein, das können wir nicht. Unsere Pflicht ist es auf Herrn Uroto aufzupassen. Eine Exkursion in die Höhle wäre zu riskant.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Nein, das können wir nicht.\\. ",
-				"Unsere Pflicht ist es auf Herrn Uroto ",
-				"aufzupassen.\\. Eine Exkursion in die ",
-				"Höhle wäre zu riskant."
+				"\\c[13]\\n[3]\\c[0]: No, we can't.\\. It is our duty to",
+				"take care of Sir Uroto.\\. A trip to the",
+				"cave would be too risky."
 			]
 		},
 		{
@@ -361,9 +351,9 @@
 			"original": "Cibon: Na und? Dann bleibt Herr Uroto eben hier, während wir in der Höhle nachsehen, was los ist.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Na und?\\. Dann bleibt Herr ",
-				"Uroto eben hier, während wir in der ",
-				"Höhle nachsehen,\\. was los ist."
+				"\\c[2]\\n[2]\\c[0]: So what?\\. Then Sir Uroto just",
+				"stays here while we look in the",
+				"cave to see what's going on."
 			]
 		},
 		{
@@ -371,8 +361,8 @@
 			"original": "Soko: Wir können Uroto doch hier nicht allein lassen!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wir können Uroto doch hier ",
-				"nicht allein lassen!"
+				"\\c[13]\\n[3]\\c[0]: We can't leave Uroto alone",
+				"here!"
 			]
 		},
 		{
@@ -380,9 +370,9 @@
 			"original": "Cibon: Na gut, dann bleibst du bei ihm und Kento und ich gehen in die Höhle, okay Kumpel?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Na gut, dann bleibst du bei ihm ",
-				"und Kento und ich gehen in die ",
-				"Höhle,\\. okay Kumpel?"
+				"\\c[2]\\n[2]\\c[0]: Well, then you stay with him",
+				"while Kento and I go to the cave,\\.",
+				"okay Kento?"
 			]
 		},
 		{
@@ -390,7 +380,7 @@
 			"original": "Kento: In Ordnung...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: In Ordnung..."
+				"\\c[1]\\n[1]\\c[0]: Alright..."
 			]
 		},
 		{
@@ -398,9 +388,8 @@
 			"original": "Soko: Vergessen Sie das! Das entzieht sich vollkommen unserem Aufgabenbereich!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Vergessen Sie das!\\. Das entzieht ",
-				"sich vollkommen unserem ",
-				"Aufgabenbereich!"
+				"\\c[13]\\n[3]\\c[0]: Forget it!\\. This is completely",
+				"beyond the scope of our task!"
 			]
 		},
 		{
@@ -408,10 +397,9 @@
 			"original": "Cibon: Überhaupt nicht! Unsere Aufgaben besteht darin, Herrn Uroto sicher und innerhalb des Zeitraums zum Zielort zu bringen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Überhaupt nicht!\\. Unsere ",
-				"Aufgaben besteht darin, Herrn Uroto ",
-				"sicher und innerhalb des Zeitraums ",
-				"zum Zielort zu bringen."
+				"\\c[2]\\n[2]\\c[0]: You're wrong!\\. Our job is to",
+				"get Sir Uroto to the destination",
+				"safely and within the timeframe."
 			]
 		},
 		{
@@ -419,10 +407,9 @@
 			"original": "Cibon: Die Beben stellen eine Gefahr für Herrn Uroto da. Außerdem halten sie die Reparatur der Brücke auf und damit unsere Reise.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Die Beben stellen eine Gefahr ",
-				"für Herrn Uroto da.\\. Außerdem halten ",
-				"sie die Reparatur der Brücke auf und ",
-				"damit unsere Reise."
+				"\\c[2]\\n[2]\\c[0]: These tremors pose a threat to",
+				"Sir Uroto.\\. They also stop the repair",
+				"of the bridge and our journey."
 			]
 		},
 		{
@@ -430,8 +417,8 @@
 			"original": "Cibon: Diese Beben zu stoppen kommt uns nur zu gute!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Diese Beben zu stoppen ",
-				"kommt uns nur zu gute!"
+				"\\c[2]\\n[2]\\c[0]: Stopping these tremors can",
+				"only be good!"
 			]
 		},
 		{
@@ -439,9 +426,9 @@
 			"original": "Soko: Aber... Aber Sie haben doch keine Ahnung, was sich in dieser Höhle befindet! Es ist zu riskant...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Aber...\\. Aber Sie haben doch ",
-				"keine Ahnung, was sich in dieser ",
-				"Höhle befindet!\\. Es ist zu riskant..."
+				"\\c[13]\\n[3]\\c[0]: But...\\. But you have no idea",
+				"what's in this cave!\\. It's too",
+				"risky..."
 			]
 		},
 		{
@@ -449,9 +436,9 @@
 			"original": "Kento: Komm, gehen wir Cibon. Lassen wir sie hier, sie hält uns nur auf.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Komm,\\. gehen wir Cibon.\\. ",
-				"Lassen wir sie hier, sie hält uns nur ",
-				"auf."
+				"\\c[1]\\n[1]\\c[0]: Come on,\\. let's go Cibon. Let's",
+				"leave it at that,\\. this is just",
+				"holding us back."
 			]
 		},
 		{
@@ -459,9 +446,9 @@
 			"original": "Soko: Wa.... Wie sie möchten! Aber ich werde nicht auf Sie warten, wenn Sie nicht zurückkehren!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wa....\\. Wie sie möchten!\\. Aber ",
-				"ich werde nicht auf Sie warten, wenn ",
-				"Sie nicht zurückkehren! "
+				"\\c[13]\\n[3]\\c[0]: Wh...\\. Have it your way!\\. But I",
+				"won't wait for you if you don't",
+				"return!"
 			]
 		},
 		{
@@ -469,8 +456,8 @@
 			"original": "Soko: Und nachsehen, was los ist, erst recht nicht!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Und nachsehen, was los ist, ",
-				"erst recht nicht!"
+				"\\c[13]\\n[3]\\c[0]: And to see what's going on,",
+				"definitely not!"
 			]
 		},
 		{
@@ -478,8 +465,8 @@
 			"original": "Cibon: Gut, wenn das geklärt wäre... Los geht's!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Gut, wenn das geklärt wäre...\\. ",
-				"Los geht's!"
+				"\\c[2]\\n[2]\\c[0]: Well, if that was any",
+				"clearer...\\. then let's go!"
 			]
 		},
 		{
@@ -487,7 +474,7 @@
 			"original": "Soko: Args!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Args!"
+				"\\c[13]\\n[3]\\c[0]: Argh!"
 			]
 		},
 		{
@@ -495,8 +482,8 @@
 			"original": "Cibon: Das gibt's ja nicht! Die Brücke ist schon repariert.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Das gibt's ja nicht!\\. Die Brücke ",
-				"ist schon repariert."
+				"\\c[2]\\n[2]\\c[0]: I can't believe it!\\. The bridge",
+				"has already been repaired."
 			]
 		},
 		{
@@ -504,7 +491,7 @@
 			"original": "Kento: Wie lange wohl schon...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wie lange wohl schon..."
+				"\\c[1]\\n[1]\\c[0]: How long ago..."
 			]
 		},
 		{
@@ -512,9 +499,9 @@
 			"original": "Soko: Herr Uroto wartet unten. Los, gehen wir. Es wird spät, wir müssen uns beeilen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Herr Uroto wartet unten.\\. Los, ",
-				"gehen wir.\\. Es wird spät, wir müssen ",
-				"uns beeilen."
+				"\\c[13]\\n[3]\\c[0]: Sir Uroto is waiting down",
+				"there.\\. Let's go.\\. It's getting",
+				"late, we have to hurry!"
 			]
 		},
 		{
@@ -530,9 +517,9 @@
 			"original": "Herr Uroto: Sie sollten lieber nichts überstürzen. Wer weiß, was sich in der Höhle befindet.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Sie sollten lieber nichts ",
-				"überstürzen.\\. Wer weiß, was sich in ",
-				"der Höhle befindet."
+				"\\c[10]Sir Uroto\\c[0]: You shouldn't rush",
+				"anything.\\. Who knows what's",
+				"in that cave?"
 			]
 		},
 		{
@@ -540,10 +527,10 @@
 			"original": "Händler: Hier sammeln sich einige Leute an. Das ist eine recht gute Gelegenheit um kurzerhand Geschäfte zu machen. Wie sieht's mit euch aus? Seid ihr an ein paar Heilmittel interessiert?",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Hier sammeln sich einige Leute an.\\. Das ",
-				"ist eine recht gute Gelegenheit um kurzerhand ",
-				"Geschäfte zu machen.\\. Wie sieht's mit euch aus?\\.",
-				"Seid ihr an ein paar Heilmittel interessiert? "
+				"\\c[10]Merchant\\c[0]: Quite some people are gathered around",
+				"here.\\. This is a pretty good opportunity to do",
+				"some business without further ado.\\. How about",
+				"you?\\. Would you be interested in some supplies?"
 			]
 		},
 		{
@@ -551,7 +538,7 @@
 			"original": "Reisende: Was für ein Mist...",
 			"lines":
 			[
-				"\\c[10]Reisende\\c[0]: Was für ein Mist..."
+				"\\c[10]Traveller\\c[0]: What a load of crap..."
 			]
 		},
 		{
@@ -559,10 +546,10 @@
 			"original": "Reisender: Ohje, hoffentlich ist dieses Problem bald behoben, damit wir noch heute das Torasgebirge schaffen... Wo sollen wir denn sonst übernachten, diese Nacht..?",
 			"lines":
 			[
-				"\\c[10]Reisender\\c[0]: Ohje, hoffentlich ist dieses Problem ",
-				"bald behoben, damit wir noch heute das ",
-				"Torasgebirge schaffen...\\. Wo sollen wir denn ",
-				"sonst übernachten, diese Nacht..?"
+				"\\c[10]Traveller\\c[0]: Oh dear, hopefully this problem will be",
+				"solved soon, so that we can still make it through",
+				"Mount Toras today...\\. Where else should we spend",
+				"the night?"
 			]
 		},
 		{
@@ -570,10 +557,9 @@
 			"original": "Händler: Das hat mir jetzt noch gefehlt... Ich kann nicht ewig hier warten, sonst wird meine Ware schlecht. Wann wird diese Brücke endlich repariert?",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Das hat mir jetzt noch gefehlt... Ich\\. ",
-				"kann nicht ewig hier warten, sonst wird meine ",
-				"Ware schlecht.\\. Wann wird diese Brücke endlich ",
-				"repariert? "
+				"\\c[10]Merchant\\c[0]: Just my luck...\\. I can't wait here",
+				"forever, otherwise my goods will spoil.\\.",
+				"When will this bridge finally be repaired?"
 			]
 		},
 		{
@@ -581,8 +567,8 @@
 			"original": "Händler: Puh, jetzt gibt es wenigstens ne Pause, während wir hier warten...",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Puh,\\. jetzt gibt es wenigstens ne ",
-				"Pause, während wir hier warten..."
+				"\\c[10]Merchant\\c[0]: Phew,\\. at least we now have a break",
+				"while we're waiting here..."
 			]
 		},
 		{
@@ -590,9 +576,9 @@
 			"original": "Händler: Hm, wenn ich hier schon nichts zu tun habe, außer zu warten... Wie haltet ihr von diesem Angebot?",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Hm, wenn ich hier schon nichts zu tun ",
-				"habe, außer zu warten...\\. Wie haltet ihr von ",
-				"diesem Angebot?"
+				"\\c[10]Merchant\\c[0]: Hm, if I already have nothing to do",
+				"here, except wait...\\. then what do you think",
+				"about this offer?"
 			]
 		},
 		{
@@ -600,9 +586,9 @@
 			"original": "Soldat vom Briganten-Orden: Oh hallo.... Öhm... Seid ihr auch vom Briganten-Orden?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Oh ",
-				"hallo....\\. Öhm...\\. Seid ihr auch vom ",
-				"Briganten-Orden?"
+				"\\c[10]Brigantian Soldier\\c[0]: Oh hello...\\. Um...\\.",
+				"Are you also from the Brigantine",
+				"Order?"
 			]
 		},
 		{
@@ -610,10 +596,9 @@
 			"original": "Soko: Ja, wir haben einen Auftrag und müssen dafür diese Brücke passieren. Können Sie uns sagen was hier passiert ist.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ja,\\. wir haben einen Auftrag ",
-				"und müssen dafür diese Brücke ",
-				"passieren.\\. Können Sie uns sagen was ",
-				"hier passiert ist."
+				"\\c[13]\\n[3]\\c[0]: Yes,\\. we have a mission and have",
+				"to cross this bridge.\\. Can you tell us",
+				"what happened here?"
 			]
 		},
 		{
@@ -621,8 +606,8 @@
 			"original": "Soldat vom Briganten-Orden: Öhm, ja... Die Brücke ist eingestürzt.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Öhm,\\. ",
-				"ja...\\. Die Brücke ist eingestürzt."
+				"\\c[10]Brigantian Soldier\\c[0]: Um, yes...\\. The",
+				"bridge collapsed."
 			]
 		},
 		{
@@ -638,8 +623,8 @@
 			"original": "Cibon: Ja Junge, das sehn wir auch. Wieso is' sie denn eingestürzt?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja Junge,\\. das sehn wir auch.\\.",
-				"Wieso is' sie denn eingestürzt?"
+				"\\c[2]\\n[2]\\c[0]: We can see that too.\\. Why did",
+				"it collapse?"
 			]
 		},
 		{
@@ -647,10 +632,9 @@
 			"original": "Soldat vom Briganten-Orden: Öh, ist es euch noch nicht aufgefallen? Hier bebt es doch schon die ganze Zeit... hin und wieder.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Öh,\\. ist ",
-				"es euch noch nicht aufgefallen?\\. Hier ",
-				"bebt es doch schon die ganze Zeit...\\. ",
-				"hin und wieder."
+				"\\c[10]Brigantian Soldier\\c[0]: Uh, haven't you",
+				"noticed yet? It's been trembling all",
+				"the time... every now and then."
 			]
 		},
 		{
@@ -658,8 +642,7 @@
 			"original": "Cibon: Stimmt, das ist uns aufgefallen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Stimmt,\\. das ist uns ",
-				"aufgefallen."
+				"\\c[2]\\n[2]\\c[0]: Right,\\. we noticed that."
 			]
 		},
 		{
@@ -667,8 +650,8 @@
 			"original": "Kento: Also ist die Brücke wegen diesen Beben zusammengebrochen?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Also ist die Brücke wegen ",
-				"diesen Beben zusammengebrochen?"
+				"\\c[1]\\n[1]\\c[0]: So the bridge collapsed",
+				"because of these tremors?"
 			]
 		},
 		{
@@ -676,10 +659,9 @@
 			"original": "Soldat vom Briganten-Orden: Ja... Irgendwie wurden die Seile wegen den ständigen Beben überstrapaziert, sie sind gerissen..",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ja...\\. ",
-				"Irgendwie wurden die Seile wegen ",
-				"den ständigen Beben überstrapaziert,\\. ",
-				"sie sind gerissen.."
+				"\\c[10]Brigantian Soldier\\c[0]: Yeah...\\. Somehow",
+				"the ropes got strained due to the",
+				"constant tremors and broke..."
 			]
 		},
 		{
@@ -687,7 +669,7 @@
 			"original": "Cibon: Hm, tja, was jetzt?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hm,\\. tja,\\. was jetzt?"
+				"\\c[2]\\n[2]\\c[0]: Hm,\\. well,\\. what now?"
 			]
 		},
 		{
@@ -695,9 +677,8 @@
 			"original": "Soko: Wurde schon etwas gemacht, um die Reparatur der Brücke in die Wege zu leiten?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wurde schon etwas gemacht, ",
-				"um die Reparatur der Brücke in die ",
-				"Wege zu leiten?"
+				"\\c[13]\\n[3]\\c[0]: Has anything been done to get",
+				"the bridge repaired?"
 			]
 		},
 		{
@@ -705,10 +686,9 @@
 			"original": "Soldat vom Briganten-Orden: Öhm.. wir warten noch auf das Material... Wir brauchen Holz um die Brücke neu aufzubauen...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Öhm..\\. ",
-				"wir warten noch auf das Material...\\. ",
-				"Wir brauchen Holz um die Brücke ",
-				"neu aufzubauen..."
+				"\\c[10]Brigantian Soldier\\c[0]: Um...\\. we're still",
+				"waiting for the materials...\\. We need",
+				"wood to rebuild the bridge..."
 			]
 		},
 		{
@@ -716,10 +696,9 @@
 			"original": "Soldat vom Briganten-Orden: Es sind schon ein paar Leute losgegangen um das Holz zu besorgen, sie sollten eigentlich bald wieder da sein...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Es sind ",
-				"schon ein paar Leute losgegangen ",
-				"um das Holz zu besorgen,\\. sie sollten ",
-				"eigentlich bald wieder da sein..."
+				"\\c[10]Brigantian Soldier\\c[0]: A few people have",
+				"already started to get the wood,\\. they",
+				"should be back soon..."
 			]
 		},
 		{
@@ -727,10 +706,10 @@
 			"original": "Soldat vom Briganten-Orden: Da... schon wieder... Diese Beben kommen immer nur sehr kurz, aber schon die ganze Zeit, und zwar regelmäßig.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Da...\\. ",
-				"schon wieder...\\. Diese Beben kommen ",
-				"immer nur sehr kurz, aber schon die ",
-				"ganze Zeit, und zwar regelmäßig."
+				"\\c[10]Brigantian Soldier\\c[0]: There...\\. There it",
+				"goes again...\\. These tremors only come",
+				"very briefly, but they've been going",
+				"on all this time."
 			]
 		},
 		{
@@ -738,9 +717,8 @@
 			"original": "Soko: Na gut, es scheint als könnten wir da nichts Anderes machen, als zu warten.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Na gut,\\. es scheint als könnten ",
-				"wir da nichts Anderes machen, als zu ",
-				"warten. "
+				"\\c[13]\\n[3]\\c[0]: Well,\\. it seems like there's",
+				"nothing we can do but wait."
 			]
 		},
 		{
@@ -748,10 +726,10 @@
 			"original": "Herrr Uroto: Hoffentlich dauern die Reparaturen nicht zu lange... Verlieren wir jetzt zuviel Zeit, müssen wir uns nachher beeilen.",
 			"lines":
 			[
-				"\\c[10]Herrr Uroto\\c[0]: Hoffentlich dauern die ",
-				"Reparaturen nicht zu lange...\\. ",
-				"Verlieren wir jetzt zuviel Zeit, ",
-				"müssen wir uns nachher beeilen."
+				"\\c[10]Sir Uroto\\c[0]: Hopefully the repairs",
+				"won't take too long...\\. If we lose",
+				"too much time now, we'll have to",
+				"hurry afterwards."
 			]
 		},
 		{
@@ -759,7 +737,7 @@
 			"original": "Soko: Das wird schon klappen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Das wird schon klappen."
+				"\\c[13]\\n[3]\\c[0]: Things'll work out."
 			]
 		},
 		{
@@ -767,8 +745,8 @@
 			"original": "Cibon: Und? Was hast du so im Osten verloren? Wie heißt du eigentlich?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Und?\\. Was hast du so im Osten ",
-				"verloren?\\. Wie heißt du eigentlich? "
+				"\\c[2]\\n[2]\\c[0]: So...\\. What do you have to do",
+				"in the east?\\. Also, what's your name?"
 			]
 		},
 		{
@@ -776,9 +754,8 @@
 			"original": "Soldat vom Briganten-Orden: Wie, ich? ...Öhm... Ich bin Royko, komme aus Buronia.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: ",
-				"Wie, ich?\\. ...Öhm...\\. Ich bin ",
-				"Royko,\\. komme aus Buronia. "
+				"\\c[10]Brigantian Soldier\\c[0]: Oh, me?\\. Um...\\.",
+				"I'm Royko,\\. from Buronia."
 			]
 		},
 		{
@@ -786,10 +763,9 @@
 			"original": "Cibon: Nett dich kennen zu lernen, Royko. Ich bin Cibon. Und das ist mein Kumpel Kento. Was machste nun in Nomerea?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Nett dich kennen zu lernen, ",
-				"Royko.\\. Ich bin Cibon.\\. Und das ist ",
-				"mein Kumpel Kento.\\. Was machste ",
-				"nun in Nomerea?"
+				"\\c[2]\\n[2]\\c[0]: Nice to meet you, Royko.\\. I'm",
+				"Cibon.\\. And that's my buddy Kento.\\.",
+				"What are you doing around Nomerea?"
 			]
 		},
 		{
@@ -797,9 +773,9 @@
 			"original": "Royko: Öhm... Na ja, ich soll in ein Gefängnis im Nord-Osten von Brigantias stationiert werden.",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Öhm...\\. Na ja, ich soll in ein ",
-				"Gefängnis im Nord-Osten von ",
-				"Brigantias stationiert werden."
+				"\\c[10]Royko\\c[0]: Um...\\. Well, I'm supposed to be",
+				"assigned to watch a prison in",
+				"northeastern Brigantia."
 			]
 		},
 		{
@@ -807,9 +783,8 @@
 			"original": "Kento: In einem Gefängnis im Nord- Osten? Also im ehemaligen Korzojeno?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: In einem Gefängnis im Nord-",
-				"Osten?\\. Also im ehemaligen ",
-				"Korzojeno? "
+				"\\c[1]\\n[1]\\c[0]: A prison in the northeast?\\. So",
+				"in former Korzojeno?"
 			]
 		},
 		{
@@ -817,7 +792,7 @@
 			"original": "Royko: Öh... ja genau.",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Öh...\\. ja genau. "
+				"\\c[10]Royko\\c[0]: Well...\\. yes."
 			]
 		},
 		{
@@ -825,8 +800,7 @@
 			"original": "Kento: Aha... welche Waffe führst du denn?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Aha...\\. welche Waffe führst du ",
-				"denn?"
+				"\\c[1]\\n[1]\\c[0]: Ah...\\. Which weapon do you use?"
 			]
 		},
 		{
@@ -834,9 +808,9 @@
 			"original": "Royko: Ich bin Bogenschütze.. Werde dann auf den Zinnen des Gefängnisses wache halten müssen..",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Ich bin Bogenschütze..\\. ",
-				"Werde dann auf den Zinnen des ",
-				"Gefängnisses wache halten müssen.."
+				"\\c[10]Royko\\c[0]: I'm an archer...\\. I'll have to",
+				"keep watch on the walls of the",
+				"prison..."
 			]
 		},
 		{
@@ -844,9 +818,9 @@
 			"original": "Cibon: Oha, da tuste mir Leid! Das ist ne stink-langweilige Arbeit. So was hatten wir auch, nicht wahr Kumpel?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Oha,\\. da tuste mir Leid!\\. Das ist ",
-				"ne stink-langweilige Arbeit.\\. So was ",
-				"hatten wir auch, nicht wahr Kumpel?"
+				"\\c[2]\\n[2]\\c[0]: Oh,\\. sorry about that!\\. It's a",
+				"really boring job.\\. We had something",
+				"like that, didn't we Kento?"
 			]
 		},
 		{
@@ -854,10 +828,9 @@
 			"original": "Royko: Öhm... Ich hab das wirklich lieber als irgendeinen gefährlichen Auftrag. Ich meine... der Krieg ist vorbei....",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Öhm...\\. Ich hab das wirklich ",
-				"lieber als irgendeinen gefährlichen ",
-				"Auftrag.\\. Ich meine...\\. der Krieg ist ",
-				"vorbei...."
+				"\\c[10]Royko\\c[0]: Um...\\. I really prefer that",
+				"to some dangerous job.\\. I mean...\\.",
+				"the war is over after all..."
 			]
 		},
 		{
@@ -865,10 +838,9 @@
 			"original": "Royko: Es gibt keine großen Schlachten mehr oder andere brisante Aufträge. Ich denke wir sollten froh darüber sein.",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Es gibt keine großen ",
-				"Schlachten mehr oder andere ",
-				"brisante Aufträge.\\. Ich denke wir ",
-				"sollten froh darüber sein."
+				"\\c[10]Royko\\c[0]: There are no longer any big",
+				"battles or other volatile orders.\\.",
+				"I think we should be happy about it."
 			]
 		},
 		{
@@ -876,7 +848,7 @@
 			"original": "Kento: Ja... da ist was dran...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja...\\. da ist was dran..."
+				"\\c[1]\\n[1]\\c[0]: Yeah...\\. You got a point..."
 			]
 		},
 		{
@@ -884,8 +856,8 @@
 			"original": "Cibon: Ja... aber Wache halten ist trotzdem zum Gähnen...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja...\\. aber Wache halten ist ",
-				"trotzdem zum Gähnen..."
+				"\\c[2]\\n[2]\\c[0]: Yeah...\\. But keeping watch is",
+				"still boring..."
 			]
 		},
 		{
@@ -893,9 +865,9 @@
 			"original": "Royko: Öhm... Tut mir Leid, die Bauarbeiten werden noch etwas dauern...",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Öhm...\\. Tut mir Leid, die ",
-				"Bauarbeiten werden noch etwas ",
-				"dauern..."
+				"\\c[10]Royko\\c[0]: Um...\\. I'm sorry, the",
+				"construction work will take",
+				"some time..."
 			]
 		},
 		{
@@ -903,10 +875,10 @@
 			"original": "Cibon: Schon klar, Royko. Während ihr hier weiter repariert werden mein Kumpel und ich uns um die Ursache für die Erdbeben kümmern.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Schon klar, Royko.\\. Während ",
-				"ihr hier weiter repariert werden ",
-				"mein Kumpel und ich uns um die ",
-				"Ursache für die Erdbeben kümmern."
+				"\\c[2]\\n[2]\\c[0]: Alright, Royko.\\. While the",
+				"bridge is being repaired, Kento",
+				"and I will take care of the",
+				"cause of the earthquake."
 			]
 		},
 		{
@@ -914,8 +886,8 @@
 			"original": "Royko: Wie? Die Ursache für die Beben?",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Wie?\\. Die Ursache für die ",
-				"Beben?"
+				"\\c[10]Royko\\c[0]: How?\\. The cause of the",
+				"earthquake?"
 			]
 		},
 		{
@@ -923,10 +895,10 @@
 			"original": "Kento: Cibon nimmt an, dass die Ursache irgendwo hier im Untergrund lauert und durch das Beben eben wurde ein Eingang frei.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Cibon nimmt an, dass die ",
-				"Ursache irgendwo hier im ",
-				"Untergrund lauert und durch das ",
-				"Beben eben wurde ein Eingang frei."
+				"\\c[1]\\n[1]\\c[0]: Cibon assumes that the cause",
+				"is lurking somewhere here in the",
+				"underground and because the quake",
+				"just opened an entrance."
 			]
 		},
 		{
@@ -934,8 +906,8 @@
 			"original": "Kento: Dieser führt zu einer Höhle. Die werden wir uns mal anschauen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Dieser führt zu einer Höhle. ",
-				"Die werden wir uns mal anschauen..."
+				"\\c[1]\\n[1]\\c[0]: This leads to a cave. We'll",
+				"have a look at it..."
 			]
 		},
 		{
@@ -943,8 +915,8 @@
 			"original": "Royko: Öhm... Ihr glaubt also nicht, dass das normale Erdbeben sind?",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Öhm...\\. Ihr glaubt also nicht, ",
-				"dass das normale Erdbeben sind?"
+				"\\c[10]Royko\\c[0]: Um...\\. So you don't think",
+				"they're normal earthquakes?"
 			]
 		},
 		{
@@ -952,10 +924,9 @@
 			"original": "Kento: Nein, dafür sind sie zur kurz. Es sind ja eher kurze Erschütterungen als richtige Erdbeben.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Nein, dafür sind sie zur kurz.\\. ",
-				"Es sind ja eher kurze ",
-				"Erschütterungen als richtige ",
-				"Erdbeben."
+				"\\c[1]\\n[1]\\c[0]: No, they are far too short for",
+				"that.\\. It's more of a brief shock than",
+				"an actual earthquake."
 			]
 		},
 		{
@@ -963,10 +934,9 @@
 			"original": "Royko: Naja... dann wünsch ich euch viel Erfolg. Würde uns sicher sehr helfen, wenn die Erdbeben aufhören würden...",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Naja...\\. dann wünsch ich euch ",
-				"viel Erfolg.\\. Würde uns sicher sehr",
-				"helfen, wenn die Erdbeben aufhören ",
-				"würden..."
+				"\\c[10]Royko\\c[0]: Well...\\. I wish you luck.\\. Would",
+				"surely help us a lot if the",
+				"earthquakes stopped..."
 			]
 		},
 		{
@@ -974,9 +944,9 @@
 			"original": "Herr Uroto: Da sind Sie ja endlich. Wurde aber auch Zeit... Und was war in der Höhle?",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Da sind Sie ja endlich.\\.  ",
-				"Wurde aber auch Zeit...\\. Und was war ",
-				"in der Höhle?"
+				"\\c[10]Sir Uroto\\c[0]: There you are at last.\\. It",
+				"was about time...\\. And what about the",
+				"cave?"
 			]
 		},
 		{
@@ -984,9 +954,8 @@
 			"original": "Soko: In der Höhle befand sich tatsächlich die Ursache für die Beben.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: In der Höhle befand sich ",
-				"tatsächlich die Ursache für die ",
-				"Beben."
+				"\\c[13]\\n[3]\\c[0]: The cause of the earthquake was",
+				"actually in the cave."
 			]
 		},
 		{
@@ -994,8 +963,8 @@
 			"original": "Cibon: Jupp, ne riesige Krake, die da unten Radau gemacht hat!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Jupp, ne riesige Krake, die da ",
-				"unten Radau gemacht hat!"
+				"\\c[2]\\n[2]\\c[0]: Yep, a giant octopus that was",
+				"scrambling down there!"
 			]
 		},
 		{
@@ -1003,8 +972,8 @@
 			"original": "Herr Uroto: Eine riesige Krake?! Erzählen Sie doch keine Märchen.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Eine riesige Krake?!\\. ",
-				"Erzählen Sie doch keine Märchen."
+				"\\c[10]Sir Uroto\\c[0]: A giant octopus?!\\. Don't",
+				"tell me fairy tales."
 			]
 		},
 		{
@@ -1012,8 +981,8 @@
 			"original": "Soko: Doch es war wirklich so... Ich konnte es selber kaum glauben.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Doch es war wirklich so...\\. Ich ",
-				"konnte es selber kaum glauben."
+				"\\c[13]\\n[3]\\c[0]: But it really was that...",
+				"I could hardly believe it myself."
 			]
 		},
 		{
@@ -1021,10 +990,10 @@
 			"original": "Royko: Öhm... \"Eine Krake\", sagt ihr? Komisch... Na ja Hauptsache die Beben wurden gestoppt. Das hat uns sehr bei der Reparatur geholfen.",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Öhm...\\. \"Eine Krake\", sagt ",
-				"ihr?\\. Komisch...\\. Na ja Hauptsache die ",
-				"Beben wurden gestoppt.\\. Das hat uns ",
-				"sehr bei der Reparatur geholfen."
+				"\\c[10]Royko\\c[0]: Um...\\. \"An octopus\", you say?\\.",
+				"Weird...\\. Well, the main thing is",
+				"that the earthquake stopped.\\. That",
+				"helped us a lot with the repair."
 			]
 		},
 		{
@@ -1032,10 +1001,9 @@
 			"original": "Royko: So, öhm... ich werde dann jetzt schnell weiter gehen, zum nächsten Gasthof. Es dämmert ja bereits...",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: So, öhm...\\. ich werde dann ",
-				"jetzt schnell weiter gehen, zum ",
-				"nächsten Gasthof.\\. Es dämmert ja ",
-				"bereits..."
+				"\\c[10]Royko\\c[0]: So,\\. um...\\. I'll go on quickly",
+				"to the next inn.\\. The sun's already",
+				"setting..."
 			]
 		},
 		{
@@ -1043,9 +1011,9 @@
 			"original": "Herr Uroto: Ja, wir sollten auch zügig voran schreiten, bevor die kalte Nacht herein bricht.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Ja, wir sollten auch ",
-				"zügig voran schreiten, bevor die ",
-				"kalte Nacht herein bricht."
+				"\\c[10]Sir Uroto\\c[0]: Yes, we should move ahead",
+				"quickly before the it gets dark and",
+				"cold."
 			]
 		},
 		{
@@ -1053,8 +1021,8 @@
 			"original": "Cibon: Royko, du kannst uns ja bis zum nächsten Gasthof begleiten.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Royko,\\. du kannst uns ja bis ",
-				"zum nächsten Gasthof begleiten."
+				"\\c[2]\\n[2]\\c[0]: Royko,\\. you can come with us to",
+				"the next inn."
 			]
 		},
 		{
@@ -1062,7 +1030,7 @@
 			"original": "Royko: Ja, wieso nicht...",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Ja,\\. wieso nicht..."
+				"\\c[10]Royko\\c[0]: Sure,\\. why not..."
 			]
 		},
 		{
@@ -1070,8 +1038,7 @@
 			"original": "Soko: Na gut, dann aber schleunigst weiter.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Na gut,\\. dann aber schleunigst ",
-				"weiter."
+				"\\c[13]\\n[3]\\c[0]: Alright,\\. but let's hurry up."
 			]
 		},
 		{
@@ -1122,10 +1089,10 @@
 			"original": "Reiter: Was ich hier mache? Ich warte, bis mein Kollege endlich mit den Vorbereitungen fertig wird. Wir beide müssen Pakete nach Buronia bringen. Wird ein recht langer Weg...",
 			"lines":
 			[
-				"\\c[10]Reiter\\c[0]: Was ich hier mache?\\. Ich warte, bis mein ",
-				"Kollege endlich mit den Vorbereitungen fertig ",
-				"wird.\\. Wir beide müssen Pakete nach Buronia ",
-				"bringen. Wird ein recht langer Weg..."
+				"\\c[10]Rider\\c[0]: What am I doing here?\\. I'm waiting for",
+				"my colleague to finishes his preparations.\\.",
+				"We both have to bring packages to Buronia.\\.",
+				"Now that'll take a while..."
 			]
 		},
 		{
@@ -1133,10 +1100,10 @@
 			"original": "Reiter: Was ich hier mache? Ich warte, bis mein Kollege endlich mit den Vorbereitungen fertig wird. Wir beide müssen Pakete nach Buronia bringen. Wird ein recht langer Weg...",
 			"lines":
 			[
-				"\\c[10]Reiter\\c[0]: Was ich hier mache?\\. Ich warte, bis mein ",
-				"Kollege endlich mit den Vorbereitungen fertig ",
-				"wird.\\. Wir beide müssen Pakete nach Buronia ",
-				"bringen. Wird ein recht langer Weg..."
+				"\\c[10]Rider\\c[0]: What am I doing here?\\. I'm waiting for",
+				"my colleague to finishes his preparations.\\.",
+				"We both have to bring packages to Buronia.\\.",
+				"Now that'll take a while..."
 			]
 		},
 		{
@@ -1144,10 +1111,10 @@
 			"original": "Reiter: Was ich hier mache? Ich warte, bis mein Kollege endlich mit den Vorbereitungen fertig wird. Wir beide müssen Pakete nach Buronia bringen. Wird ein recht langer Weg...",
 			"lines":
 			[
-				"\\c[10]Reiter\\c[0]: Was ich hier mache?\\. Ich warte, bis mein ",
-				"Kollege endlich mit den Vorbereitungen fertig ",
-				"wird.\\. Wir beide müssen Pakete nach Buronia ",
-				"bringen. Wird ein recht langer Weg..."
+				"\\c[10]Rider\\c[0]: What am I doing here?\\. I'm waiting for",
+				"my colleague to finishes his preparations.\\.",
+				"We both have to bring packages to Buronia.\\.",
+				"Now that'll take a while..."
 			]
 		}
 	],

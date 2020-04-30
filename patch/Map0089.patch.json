@@ -6,9 +6,9 @@
 			"original": "Soko: So, ab hier wird es steiler. Wir befinden uns am Fuße des Torasgebirges.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: So, ab hier wird es steiler. Wir ",
-				"befinden uns am Fuße des ",
-				"Torasgebirges."
+				"\\c[13]\\n[3]\\c[0]: Alright, it only gets steeper",
+				"from here. We're at the base",
+				"of Mount Toras."
 			]
 		},
 		{
@@ -16,7 +16,7 @@
 			"original": "Cibon: Ziemlich windig hier.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ziemlich windig hier. "
+				"\\c[2]\\n[2]\\c[0]: Pretty windy here."
 			]
 		},
 		{
@@ -24,9 +24,9 @@
 			"original": "Soko: Wir sollten versuchen, noch vor Einbruch der Nacht unseren Weg durch das Gebirge zu bahnen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wir sollten versuchen, noch ",
-				"vor Einbruch der Nacht unseren Weg ",
-				"durch das Gebirge zu bahnen. "
+				"\\c[13]\\n[3]\\c[0]: We should try to make our way",
+				"through the mountains before",
+				"nightfall."
 			]
 		},
 		{
@@ -34,10 +34,10 @@
 			"original": "Soko: Östlich vom Torasgebirge geht es dann weiter durch den Corine- Wald... oder besser gesagt durch das Corine-Plateau.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Östlich vom Torasgebirge geht ",
-				"es dann weiter durch den Corine-",
-				"Wald...\\. oder besser gesagt durch das ",
-				"Corine-Plateau."
+				"\\c[13]\\n[3]\\c[0]: To the east of Mount Toras,",
+				"we'll continue through the",
+				"Corine Forest...\\. or rather",
+				"the Corine Plateau."
 			]
 		},
 		{
@@ -45,9 +45,8 @@
 			"original": "Soko: Und jenseits dieser Gegend ist dann auch schon die Grenze zu Korzojeno.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Und jenseits dieser Gegend ist ",
-				"dann auch schon die Grenze zu ",
-				"Korzojeno. "
+				"\\c[13]\\n[3]\\c[0]: And beyond that is the border",
+				"with Korzojeno."
 			]
 		},
 		{
@@ -55,11 +54,12 @@
 			"original": "Soko: Soweit so gut... Herr Kento, Herr Tirunel, ich hoffe sie sind mit der Anwendung von Signum- Techniken bereits vertraut.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Soweit so gut...\\. Herr Kento,\\. ",
-				"Herr Tirunel, ich hoffe sie sind mit ",
-				"der Anwendung von Signum-",
-				"Techniken bereits vertraut. "
-			]
+				"\\c[13]\\n[3]\\c[0]: So far so good...\\. Sir Kento,\\.",
+				"Sir Tirunel,\\. I hope you're already",
+				"familiar with the use of Signum",
+				"techniques."
+			],
+			"__comment__": "Show choice."
 		},
 		{
 			"path": [35,2,49,4],
@@ -67,10 +67,9 @@
 			"original": "Kento: Wir wissen lediglich wie man Signum-Techniken erlernt, aber nicht genau, was die Techniken an sich bringen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir wissen lediglich wie man ",
-				"Signum-Techniken erlernt, aber ",
-				"nicht genau, was die Techniken an ",
-				"sich bringen."
+				"\\c[1]\\n[1]\\c[0]: We only know how to learn",
+				"Signum techniques, but not exactly",
+				"what those techniques involve."
 			]
 		},
 		{
@@ -79,7 +78,7 @@
 			"original": "Soko: So ist das...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: So ist das..."
+				"\\c[13]\\n[3]\\c[0]: If that's how it is..."
 			]
 		},
 		{
@@ -88,9 +87,9 @@
 			"original": "Soko: Nun, fast alle Signum- Techniken die man lernt, sind einem bestimmten Element zugewiesen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Nun, fast alle Signum-",
-				"Techniken die man lernt, sind einem ",
-				"bestimmten Element zugewiesen."
+				"\\c[13]\\n[3]\\c[0]: So, almost all Signum",
+				"techniques you learn are",
+				"assigned to a certain element."
 			]
 		},
 		{
@@ -99,9 +98,9 @@
 			"original": "Soko: Dieses bedeutet, die Technik richtet entweder Schaden mit dem Attribut des Elementes an ...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Dieses bedeutet, die Technik ",
-				"richtet entweder Schaden mit dem ",
-				"Attribut des Elementes an ..."
+				"\\c[13]\\n[3]\\c[0]: This means that these techs",
+				"either do damage with the",
+				"attribute of the element..."
 			]
 		},
 		{
@@ -110,8 +109,8 @@
 			"original": "Soko: ... oder sie bewirkt Element- Typische Nebeneffekte.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ... oder sie bewirkt Element-",
-				"Typische Nebeneffekte."
+				"\\c[13]\\n[3]\\c[0]: ...or it causes elemental side",
+				"effects."
 			]
 		},
 		{
@@ -120,9 +119,9 @@
 			"original": "Soko: Welche Nebeneffekte zu welchem Element gehören, werden Sie schon früh genug herausfinden.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Welche Nebeneffekte zu ",
-				"welchem Element gehören, werden ",
-				"Sie schon früh genug herausfinden."
+				"\\c[13]\\n[3]\\c[0]: You'll find out which side",
+				"effects belong to which element",
+				"soon enough."
 			]
 		},
 		{
@@ -131,8 +130,8 @@
 			"original": "Soko: Nun zu der richtigen Anwendung der Techniken.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Nun zu der richtigen ",
-				"Anwendung der Techniken."
+				"\\c[13]\\n[3]\\c[0]: Now for how to correctly apply",
+				"these techniques."
 			]
 		},
 		{
@@ -141,10 +140,9 @@
 			"original": "Soko: Wenn Sie im Kampf überlegt Signum-Techniken anwenden, ist der Gegner in der Regel weitaus schneller besiegt.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wenn Sie im Kampf überlegt ",
-				"Signum-Techniken anwenden, ist der ",
-				"Gegner in der Regel weitaus ",
-				"schneller besiegt."
+				"\\c[13]\\n[3]\\c[0]: If you use Signum techniques",
+				"deliberately in combat, the opponent",
+				"is usually defeated much faster."
 			]
 		},
 		{
@@ -153,10 +151,9 @@
 			"original": "Soko: Sie sollten wissen, dass die meisten Gegnern ihre Stärken und Schwächen haben, die man ausnutzen sollte.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Sie sollten wissen, dass die ",
-				"meisten Gegnern ihre Stärken und ",
-				"Schwächen haben, die man ",
-				"ausnutzen sollte."
+				"\\c[13]\\n[3]\\c[0]: You should know that most",
+				"opponents have their strengths and",
+				"weaknesses that should be exploited."
 			]
 		},
 		{
@@ -165,9 +162,9 @@
 			"original": "Soko: Offensichtliche Stärken und Schwächen bemerkt man meistens schon bei der Abwehr.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Offensichtliche Stärken und ",
-				"Schwächen bemerkt man meistens ",
-				"schon bei der Abwehr."
+				"\\c[13]\\n[3]\\c[0]: Obvious strengths and",
+				"weaknesses can usually be",
+				"seen in defense."
 			]
 		},
 		{
@@ -176,10 +173,10 @@
 			"original": "Soko: Einige Monster sind z.B. ziemlich resistent gegen physische Angriffe, können  aber empfindlich gegen Magie-Schaden sein.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Einige Monster sind z.B. ",
-				"ziemlich resistent gegen physische ",
-				"Angriffe, können  aber empfindlich ",
-				"gegen Magie-Schaden sein."
+				"\\c[13]\\n[3]\\c[0]: Some monsters are fairly",
+				"resistant to physical attacks,",
+				"but can be sensitive to magic",
+				"damage."
 			]
 		},
 		{
@@ -188,9 +185,8 @@
 			"original": "Soko: Dann können Gegner auch noch gegen ein bestimmtes Element immun bis empfindlich sein.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Dann können Gegner auch ",
-				"noch gegen ein bestimmtes Element ",
-				"immun bis empfindlich sein. "
+				"\\c[13]\\n[3]\\c[0]: Then opponents can also be",
+				"immune to a certain element."
 			]
 		},
 		{
@@ -199,10 +195,9 @@
 			"original": "Soko: Grünschleime zum Beispiel sind sehr empfindlich gegen Wasser- Angriffe, absorbieren aber jede Feuerattacke",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Grünschleime zum Beispiel ",
-				"sind sehr empfindlich gegen Wasser-",
-				"Angriffe, absorbieren aber jede ",
-				"Feuerattacke"
+				"\\c[13]\\n[3]\\c[0]: Green slimes, for example, are",
+				"very sensitive to water attacks, but",
+				"they absorb every fire attack."
 			]
 		},
 		{
@@ -211,9 +206,8 @@
 			"original": "Soko: Zudem können Gegner gegen bestimmte \"Zustände\" empfindlich sein.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Zudem können Gegner gegen ",
-				"bestimmte \"Zustände\" empfindlich ",
-				"sein. "
+				"\\c[13]\\n[3]\\c[0]: In addition, opponents can be",
+				"sensitive to certain \"conditions\"."
 			]
 		},
 		{
@@ -222,10 +216,9 @@
 			"original": "Soko: So lassen sich Grünschleime zum Beispiel sehr leicht einschläfern. Sie sind empfindlich gegen \"Schlaf\"",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: So lassen sich Grünschleime ",
-				"zum Beispiel sehr leicht ",
-				"einschläfern. Sie sind empfindlich ",
-				"gegen \"Schlaf\""
+				"\\c[13]\\n[3]\\c[0]: For example, green slimes can",
+				"be put to sleep very easily. They",
+				"are sensitive to \"sleep\"."
 			]
 		},
 		{
@@ -234,10 +227,10 @@
 			"original": "Soko: Kennen Sie die Stärken und Schwächen der Gegner, fällt die Wahl der richtigen Technik nicht schwer.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Kennen Sie die Stärken und ",
-				"Schwächen der Gegner, fällt die ",
-				"Wahl der richtigen Technik nicht ",
-				"schwer."
+				"\\c[13]\\n[3]\\c[0]: If you know the strengths and",
+				"weaknesses of your opponents,",
+				"choosing the right technique",
+				"is not difficult."
 			]
 		},
 		{
@@ -246,9 +239,9 @@
 			"original": "Soko: Bis man aber die Stärken und Schwächen kennt, muss man erstmal etwas ausprobieren.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Bis man aber die Stärken und ",
-				"Schwächen kennt, muss man erstmal ",
-				"etwas ausprobieren."
+				"\\c[13]\\n[3]\\c[0]: Until you know the strengths",
+				"and weaknesses, you have to try",
+				"something first."
 			]
 		},
 		{
@@ -257,10 +250,10 @@
 			"original": "Soko: Oder man hat ein paar \"Magische Lupen\" dabei. Wenn man sie verwendet, zeigen sie die Stärken und Schwächen eines Gegners an.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Oder man hat ein paar ",
-				"\"Magische Lupen\" dabei. Wenn man ",
-				"sie verwendet, zeigen sie die Stärken ",
-				"und Schwächen eines Gegners an."
+				"\\c[13]\\n[3]\\c[0]: Or if you have some \"magic",
+				"lens\" with you. When used, they",
+				"show an opponent's strengths",
+				"and weaknesses."
 			]
 		},
 		{
@@ -269,9 +262,9 @@
 			"original": "Soko: Damit Sie aber auch auf die verschiedensten Schwachpunkt eine passende Technik haben...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Damit Sie aber auch auf die ",
-				"verschiedensten Schwachpunkt eine ",
-				"passende Technik haben..."
+				"\\c[13]\\n[3]\\c[0]: So that you have the right",
+				"technique for a wide range of",
+				"weak points..."
 			]
 		},
 		{
@@ -280,10 +273,10 @@
 			"original": "Soko: ...sollten Sie sich nicht zu sehr auf ein Element konzentrieren. Stufen sie am besten verschiedene Element-Level gleichzeitig auf.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...sollten Sie sich nicht zu ",
-				"sehr auf ein Element konzentrieren. ",
-				"Stufen sie am besten verschiedene ",
-				"Element-Level gleichzeitig auf."
+				"\\c[13]\\n[3]\\c[0]: ...you shouldn't concentrate",
+				"too much on one element. It's best",
+				"to level up different element",
+				"levels at the same time."
 			]
 		},
 		{
@@ -292,8 +285,8 @@
 			"original": "Soko: Mehr gibt es dazu ansonsten nicht zu sagen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Mehr gibt es dazu ansonsten ",
-				"nicht zu sagen."
+				"\\c[13]\\n[3]\\c[0]: There isn't much else to say",
+				"about it."
 			]
 		},
 		{
@@ -302,9 +295,9 @@
 			"original": "Cibon: Meine Güte, du weißt ja ziemlich gut bescheit, Soko, äh, ich meine Frau Filaja.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Meine Güte, du weißt ja ",
-				"ziemlich gut bescheit, Soko, äh, ich ",
-				"meine Frau Filaja."
+				"\\c[2]\\n[2]\\c[0]: Gosh, you must be pretty",
+				"clever huh, Soko, uh, I mean",
+				"Dame Filaja."
 			]
 		},
 		{
@@ -313,9 +306,9 @@
 			"original": "(Cibon: Oh mein Gott. Ein weiblicher \"Vorento\" als Reisegefährte... Das kann ja heiter werden...)",
 			"lines":
 			[
-				"(\\c[2]\\n[2]\\c[0]: Oh mein Gott. Ein weiblicher ",
-				"\"Vorento\" als Reisegefährte... Das ",
-				"kann ja heiter werden...) "
+				"(\\c[2]\\n[2]\\c[0]: Oh god. A female \"Vorento\"",
+				"travelling with us... This'll be",
+				"so much fun...)"
 			]
 		},
 		{
@@ -324,9 +317,8 @@
 			"original": "Soko: Dieses Wissen gehört eigentlich zu der Ausbildung von Soldaten unseresgleichen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Dieses Wissen gehört ",
-				"eigentlich zu der Ausbildung von ",
-				"Soldaten unseresgleichen. "
+				"\\c[13]\\n[3]\\c[0]: This knowledge was actually",
+				"part of the our type of training."
 			]
 		},
 		{
@@ -335,10 +327,9 @@
 			"original": "Kento: Sie sollten wissen, dass wir erst vor kurzem, um genau zu sein Gestern, in dieses Thema eingeweiht wurden.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Sie sollten wissen, dass wir ",
-				"erst vor kurzem, um genau zu sein ",
-				"Gestern, in dieses Thema eingeweiht ",
-				"wurden."
+				"\\c[1]\\n[1]\\c[0]: You should know that we were",
+				"only recently introduced to this",
+				"topic, precisely yesterday."
 			]
 		},
 		{
@@ -347,8 +338,8 @@
 			"original": "Soko: Achso... Na ja, wenn das so ist.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Achso...\\.",
-				"Na ja, wenn das so ist."
+				"\\c[13]\\n[3]\\c[0]: Oh...\\. Well, if that's the",
+				"case."
 			]
 		},
 		{
@@ -357,17 +348,18 @@
 			"original": "Soko: In Ordnung.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: In Ordnung."
-			]
+				"\\c[13]\\n[3]\\c[0]: Alright."
+			],
+			"__comment__": "Skip to here."
 		},
 		{
 			"path": [35,2,154,3],
 			"original": "Herr Uroto: Wir sollten endlich losgehen. Wir wollen das Gebirge ja noch heute durchqueren...",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Wir sollten endlich ",
-				"losgehen.\\. Wir wollen das Gebirge ja ",
-				"noch heute durchqueren... "
+				"\\c[10]Sir Uroto\\c[0]: We should get going.\\. We",
+				"still want to cross the mountains",
+				"today..."
 			]
 		},
 		{
@@ -375,7 +367,7 @@
 			"original": "Soko: Zu Befehl, Herr Uroto.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Zu Befehl, Herr Uroto."
+				"\\c[13]\\n[3]\\c[0]: At your command, Sir Uroto."
 			]
 		},
 		{
@@ -383,10 +375,10 @@
 			"original": "Cibon: Tsk, sie tut so, als ob sie unsere Anführerin wäre! Legt einfach fest, wie wir vorgehen. Sie gibt uns regelrecht Anweisungen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Tsk, sie tut so, als ob sie ",
-				"unsere Anführerin wäre!\\. Legt ",
-				"einfach fest, wie wir vorgehen.\\. ",
-				"Sie gibt uns regelrecht Anweisungen!"
+				"\\c[2]\\n[2]\\c[0]: Tsk, she pretends to be our",
+				"leader!\\. Keeping track of our every",
+				"move.\\. She downright orders us",
+				"around!"
 			]
 		},
 		{
@@ -394,8 +386,8 @@
 			"original": "Kento: Wenn du was dagegen hast, wieso widersprichst du ihr nicht?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wenn du was dagegen hast, ",
-				"wieso widersprichst du ihr nicht?"
+				"\\c[1]\\n[1]\\c[0]: If you have a problem, why",
+				"don't you tell her?"
 			]
 		},
 		{
@@ -403,10 +395,10 @@
 			"original": "Cibon: Bisher hab ich ja nichts gegen ihre Anweisungen einzuwenden... Aber diese Art gefällt mir ganz und gar nich', Kumpel.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Bisher hab ich ja nichts gegen ",
-				"ihre Anweisungen einzuwenden...",
-				"Aber diese Art gefällt mir ganz und",
-				"gar nich', Kumpel."
+				"\\c[2]\\n[2]\\c[0]: So far, I haven't had any",
+				"problems with your instructions...",
+				"But I don't like that kind of",
+				"thing in general."
 			]
 		},
 		{
@@ -414,10 +406,10 @@
 			"original": "Kento: Es kann nie schaden, wenn wir eine Person im Team haben, die uns leitet... Sie scheint ja recht motiviert an die Sache ran zu gehen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es kann nie schaden, wenn ",
-				"wir eine Person im Team haben, die ",
-				"uns leitet...\\. Sie scheint ja recht ",
-				"motiviert an die Sache ran zu gehen."
+				"\\c[1]\\n[1]\\c[0]: It couldn't hurt if we have",
+				"a person in the team who's leading",
+				"us...\\. She seems to be very",
+				"motivated to do it."
 			]
 		},
 		{
@@ -425,10 +417,10 @@
 			"original": "Cibon: Sie siezt uns, sie gibt uns Anweisungen! Das ist, als ob man mit einem Ausbilder den Auftrag erledigt.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Sie siezt uns, sie gibt uns ",
-				"Anweisungen!\\. Das ist, als ob man mit ",
-				"einem Ausbilder den Auftrag ",
-				"erledigt."
+				"\\c[2]\\n[2]\\c[0]: The way she addresses us, the",
+				"way she bosses us around!\\. It's like",
+				"doing an assignment with an",
+				"instructor."
 			]
 		},
 		{
@@ -436,8 +428,9 @@
 			"original": "Soko: Hallo? Wo bleiben Sie denn? Trödeln Sie bitte nicht rum, ja?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: \\s[5]Hallo?\\.\\s[0] Wo bleiben Sie denn?\\. ",
-				"Trödeln Sie bitte nicht rum, ja?"
+				"\\c[13]\\n[3]\\c[0]: \\s[5]Hello?\\.\\s[0] Are you coming with us",
+				"or not?\\. Please don't loiter around,",
+				"okay?"
 			]
 		},
 		{
@@ -453,9 +446,8 @@
 			"original": "Kento: Komm lass uns gehen, Cibon. Das können wir nachher weiter diskutieren...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Komm lass uns gehen, Cibon.\\. ",
-				"Das können wir nachher weiter ",
-				"diskutieren..."
+				"\\c[1]\\n[1]\\c[0]: Let's go, Cibon.\\. We can",
+				"discuss this later..."
 			]
 		}
 	],
@@ -464,17 +456,17 @@
 		{
 			"path": [35,2,46],
 			"original": "Ehrlich gesagt... Nein/Ja wir wissen bescheit.",
-			"patch": "Ehrlich gesagt... Nein/Ja wir wissen bescheit."
+			"patch": "Honestly... Not really./Yeah, we already know."
 		},
 		{
 			"path": [35,2,47],
 			"original": "Ehrlich gesagt... Nein",
-			"patch": "Ehrlich gesagt... Nein"
+			"patch": "Honestly... Not really."
 		},
 		{
 			"path": [35,2,144],
 			"original": "Ja wir wissen bescheit.",
-			"patch": "Ja wir wissen bescheit."
+			"patch": "Yeah, we already know."
 		}
 	]
 }

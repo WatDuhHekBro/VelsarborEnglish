@@ -17,8 +17,8 @@
 			"original": "INFO: Dies ist die Status-Übersicht der magischen Lupe zum anvisierten Gegner.",
 			"lines":
 			[
-				"\\>INFO: Dies ist die Status-Übersicht der magischen ",
-				"\\>Lupe zum anvisierten Gegner."
+				"\\>INFO: This is the status overview of the magic",
+				"\\>lens for the targeted opponent."
 			]
 		},
 		{
@@ -27,7 +27,7 @@
 			"original": "Ein paar Hinweise zu den Anzeigen rechts:",
 			"lines":
 			[
-				"\\>Ein paar Hinweise zu den Anzeigen rechts:"
+				"\\>A few notes about the displays on the right:"
 			]
 		},
 		{
@@ -36,8 +36,8 @@
 			"original": "In jedem Fall gilt: Je höher der Balken geht, desto größer ist der Schutz.",
 			"lines":
 			[
-				"\\>In jedem Fall gilt: Je höher der Balken geht, ",
-				"\\>desto größer ist der Schutz."
+				"\\>Regardless, the higher the bar, the greater the",
+				"\\>protection."
 			]
 		},
 		{
@@ -46,8 +46,8 @@
 			"original": "Sollte der Balken sich unterhalb vom einem Symbol füllen, hat der Gegner hier eine Schwäche",
 			"lines":
 			[
-				"\\>Sollte der Balken sich unterhalb vom einem Symbol ",
-				"\\>füllen, hat der Gegner hier eine Schwäche"
+				"\\>If the bar is below the symbol, the opponent has",
+				"\\>a weakness there."
 			]
 		},
 		{
@@ -56,7 +56,7 @@
 			"original": "Erläuterung der Symbole:",
 			"lines":
 			[
-				"\\>Erläuterung der Symbole:"
+				"\\>Explanation of the symbols:"
 			]
 		},
 		{
@@ -65,8 +65,8 @@
 			"original": "Unter dem Punkt \"Verzauberungen\" werden momentan bestehende Verzauberungen des Gegners angezeigt.",
 			"lines":
 			[
-				"\\>Unter dem Punkt \"Verzauberungen\" werden momentan ",
-				"\\>bestehende Verzauberungen des Gegners angezeigt."
+				"\\>Current enchantments of the opponent are shown",
+				"\\>under the section \"Enchantments\"."
 			]
 		},
 		{
@@ -890,8 +890,7 @@
 			"original": "Kento: War das alles? Ich hab wirklich mehr erwartet!",
 			"lines":
 			[
-				"\\s[1]\\c[1]\\n[1]\\c[0]: Was that all?",
-				"I really expected more!\\|\\.\\.\\^"
+				"\\s[1]\\c[1]\\n[1]\\c[0]: Was that all? I really expected more!\\|\\.\\.\\^"
 			]
 		},
 		{
@@ -936,8 +935,8 @@
 			"original": "Kento: Ohje! Zum Glück war der Kampf schnell vorbei!",
 			"lines":
 			[
-				"\\s[1]\\c[1]\\n[1]\\c[0]: Oh man!\\. Luckily that fight was",
-				"over quickly!\\|\\.\\.\\^"
+				"\\s[1]\\c[1]\\n[1]\\c[0]: Oh man!\\. Luckily that fight was over",
+				"quickly!\\|\\.\\.\\^"
 			]
 		},
 		{
@@ -964,8 +963,7 @@
 			"original": "Kento: Ohje.... Wir müssen stärker werden.",
 			"lines":
 			[
-				"\\s[1]\\c[1]\\n[1]\\c[0]: Oh man...",
-				"We have to get stronger.\\|\\.\\.\\^"
+				"\\s[1]\\c[1]\\n[1]\\c[0]: Oh man... We have to get stronger.\\|\\.\\.\\^"
 			]
 		},
 		{
@@ -983,8 +981,8 @@
 			"original": "Kento: Nun gut... Das wäre überstanden...",
 			"lines":
 			[
-				"\\s[1]\\c[1]Kento:\\c[0] Well then... We still",
-				"got through that one...\\|\\.\\.\\^"
+				"\\s[1]\\c[1]Kento:\\c[0] Well then... We still got through",
+				"that one...\\|\\.\\.\\^"
 			]
 		},
 		{
@@ -993,8 +991,7 @@
 			"original": "Kento: Beim nächsten mal müssen wir unbedingt besser aufpassen!",
 			"lines":
 			[
-				"\\s[1]\\c[1]Kento:\\c[0] We have to be more careful",
-				"next time!\\|\\.\\.\\^"
+				"\\s[1]\\c[1]Kento:\\c[0] We have to be more careful next time!\\|\\.\\.\\^"
 			]
 		},
 		{
@@ -1003,8 +1000,8 @@
 			"original": "Cibon: LÄCHERLICH! Und ich hab mich schon auf ne Herausforderung gefreut!",
 			"lines":
 			[
-				"\\s[1]\\c[2]\\n[2]\\c[0]: RIDICULOUS! And here I was looking",
-				"forward to a challenge!\\|\\.\\.\\^"
+				"\\s[1]\\c[2]\\n[2]\\c[0]: RIDICULOUS! And here I was looking forward",
+				"to a challenge!\\|\\.\\.\\^"
 			]
 		},
 		{
@@ -1049,8 +1046,8 @@
 			"original": "Cibon: Wie können Gegner so stark sein und gleichzeitig so schnell fallen?",
 			"lines":
 			[
-				"\\s[1]\\c[2]\\n[2]\\c[0]: How can enemies be so strong yet",
-				"fall so quickly at the same time?\\|\\.\\.\\^"
+				"\\s[1]\\c[2]\\n[2]\\c[0]: How can enemies be so strong yet fall so",
+				"quickly at the same time?\\|\\.\\.\\^"
 			]
 		},
 		{
@@ -1077,8 +1074,7 @@
 			"original": "Cibon: Uff, das war ziemlich anstrengend!",
 			"lines":
 			[
-				"\\s[1]\\c[2]\\n[2]\\c[0]: Phew, that was pretty",
-				"exhausting!\\|\\.\\.\\^"
+				"\\s[1]\\c[2]\\n[2]\\c[0]: Phew, that was pretty exhausting!\\|\\.\\.\\^"
 			]
 		},
 		{
@@ -1105,8 +1101,7 @@
 			"original": "Cibon: D...Das war jetzt wirklich ein harter Kampf...",
 			"lines":
 			[
-				"\\s[1]\\c[2]\\n[2]\\c[0]: T... That was a really tough",
-				"fight now...\\|\\.\\.\\^"
+				"\\s[1]\\c[2]\\n[2]\\c[0]: T... That was a really tough fight now...\\|\\.\\.\\^"
 			]
 		},
 		{
@@ -1115,8 +1110,8 @@
 			"original": "Soko: Lachhaft! Das Resultat eurer Unterschätzung!",
 			"lines":
 			[
-				"\\s[1]\\c[13]\\n[3]\\c[0]: Laughable! The result of",
-				"your underestimation!\\|\\.\\.\\^"
+				"\\s[1]\\c[13]\\n[3]\\c[0]: Laughable! The result of your",
+				"underestimation!\\|\\.\\.\\^"
 			]
 		},
 		{
@@ -1145,8 +1140,7 @@
 			"original": "Soko: Und für so etwas ziehen wir unsere Waffen...",
 			"lines":
 			[
-				"\\s[1]\\c[13]\\n[3]\\c[0]: And to think we drew our",
-				"weapons for this...",
+				"\\s[1]\\c[13]\\n[3]\\c[0]: And to think we drew our weapons for this...",
 				"\\|\\.\\.\\^"
 			]
 		},
@@ -1176,8 +1170,8 @@
 			"original": "Soko: Schwächlinge... Uns herauszufordern war euer Untergang!",
 			"lines":
 			[
-				"\\s[1]\\c[13]\\n[3]\\c[0]: Weaklings... Challenging us",
-				"was your downfall!",
+				"\\s[1]\\c[13]\\n[3]\\c[0]: Weaklings... Challenging us was your",
+				"downfall!",
 				"\\|\\.\\.\\^"
 			]
 		},
@@ -1197,8 +1191,8 @@
 			"original": "Soko: Puh... Hoffentlich haben wir genug Heil-Utensilien dabei...",
 			"lines":
 			[
-				"\\s[1]\\c[13]\\n[3]\\c[0]: Phew... Hopefully we have enough",
-				"healing items with us...",
+				"\\s[1]\\c[13]\\n[3]\\c[0]: Phew... Hopefully we have enough healing",
+				"items with us...",
 				"\\|\\.\\.\\^"
 			]
 		},
@@ -1218,8 +1212,8 @@
 			"original": "Soko: Wir müssen die Schwachstellen dieser Gegner herausfinden!",
 			"lines":
 			[
-				"\\s[1]\\c[13]\\n[3]\\c[0]: We have to find out the weaknesses",
-				"of these opponents!",
+				"\\s[1]\\c[13]\\n[3]\\c[0]: We have to find out the weaknesses of these",
+				"opponents!",
 				"\\|\\.\\.\\^"
 			]
 		},
@@ -1229,8 +1223,8 @@
 			"original": "Soko: Wir müssen stärker werden, sonst können wir diese Kämpfe nicht länger überstehen!",
 			"lines":
 			[
-				"\\s[1]\\c[13]\\n[3]\\c[0]: We have to get stronger, otherwise",
-				"we won't survive these battles!",
+				"\\s[1]\\c[13]\\n[3]\\c[0]: We have to get stronger, otherwise we won't",
+				"survive these battles!",
 				"\\|\\.\\.\\^"
 			]
 		},
