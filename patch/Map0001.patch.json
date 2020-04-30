@@ -70,6 +70,7 @@
 			]
 		},
 		{
+			"__comment__": "Grünschleim / Green Slime",
 			"path": [188,3,42,2],
 			"indent": 1,
 			"original": "Ein schwaches Schleimwesen, das gerne hinterlistig mit Feuer-Zaubern angreift.",
@@ -80,6 +81,7 @@
 			]
 		},
 		{
+			"__comment__": "Wilder Bär / Wild Bear",
 			"path": [188,3,48,2],
 			"indent": 1,
 			"original": "Ein großer Bär, der sich auf physische Attacken konzentriert.",
@@ -100,6 +102,7 @@
 			]
 		},
 		{
+			"__comment__": "Fledermaus / Bat",
 			"path": [188,3,56,2],
 			"indent": 1,
 			"original": "Ein flinker Gegner, der gerne mit seiner Blutsauger Attacke den Gegnern die HP entzieht.",
@@ -110,6 +113,7 @@
 			]
 		},
 		{
+			"__comment__": "Saion",
 			"path": [188,3,62,2],
 			"indent": 1,
 			"original": "Saion, der Anführer des Diebestrios, der seine ganz eigenen Vorstellungen vom Diebesdasein hat.",
@@ -149,6 +153,7 @@
 			]
 		},
 		{
+			"__comment__": "Gurim",
 			"path": [188,3,73,2],
 			"indent": 1,
 			"original": "Gurim, der ruhigste von den Dreien, soll in diesem Kampf seine Kameraden unterstützen.",
@@ -179,6 +184,7 @@
 			]
 		},
 		{
+			"__comment__": "Jorn",
 			"path": [188,3,83,2],
 			"indent": 1,
 			"original": "Jorn, der kleinste unter den Zinkar-Brüdern, der jedoch die größte Last tragen muss. Wörtlich.",
@@ -219,6 +225,7 @@
 			]
 		},
 		{
+			"__comment__": "Wolf",
 			"path": [188,3,95,2],
 			"indent": 1,
 			"original": "Ein aggressiver Vierbeiner, der oft in Rudeln anzutreffen ist.",
@@ -239,6 +246,7 @@
 			]
 		},
 		{
+			"__comment__": "Harpyie / Harpy",
 			"path": [188,3,103,2],
 			"indent": 1,
 			"original": "Eine starkes Flugwesen aus dem hohen Gebirge des Nordens.",
@@ -269,6 +277,7 @@
 			]
 		},
 		{
+			"__comment__": "Steinkrabbe / Stone Crab",
 			"path": [188,3,113,2],
 			"indent": 1,
 			"original": "Die Steinkrabbe scheint harmlos und hat auch wenig Durchhaltevermögen.",
@@ -289,6 +298,7 @@
 			]
 		},
 		{
+			"__comment__": "Blauschleim / Blue Slime",
 			"path": [188,3,121,2],
 			"indent": 1,
 			"original": "Dieser Schleim hat im Gegensatz zum Grünschleim eine sehr hohe physische Abwehr.",
@@ -309,6 +319,7 @@
 			]
 		},
 		{
+			"__comment__": "Bergfalke / Mountain Falcon",
 			"path": [188,3,129,2],
 			"indent": 1,
 			"original": "Ein sehr flinker Gegner, der allerdings kein großes Durchhaltevermögen besitzt.",
@@ -328,6 +339,7 @@
 			]
 		},
 		{
+			"__comment__": "Plotio-Strauch / Plotio Shrub",
 			"path": [188,3,136,2],
 			"indent": 1,
 			"original": "Eine seltsame Pflanze, welche die Fähigkeit hat, sich durch die Erde zu bewegen.",
@@ -358,6 +370,7 @@
 			]
 		},
 		{
+			"__comment__": "Lagunoris",
 			"path": [188,3,146,2],
 			"indent": 1,
 			"original": "Eine riesige Krake, die hauptsächlich in den Tiefen des weiten Ozeans vorzufinden ist.",
@@ -388,6 +401,7 @@
 			]
 		},
 		{
+			"__comment__": "Tentakel / Tentacle",
 			"path": [188,3,156,2],
 			"indent": 1,
 			"original": "Die Tentakeln der Krake greifen physisch an und blenden ihre Gegner.",
@@ -418,6 +432,7 @@
 			]
 		},
 		{
+			"__comment__": "Yahenru",
 			"path": [188,3,166,2],
 			"indent": 1,
 			"original": "Ein Waffen-Fanatiker, der voll auf den magielosen Kampf setzt",
@@ -447,6 +462,7 @@
 			]
 		},
 		{
+			"__comment__": "Hornkäfer / Horny Beetle",
 			"path": [188,3,175,2],
 			"indent": 1,
 			"original": "Ein großer Käfer, der stark angreift und aufgrund seiner Größe meistens auch trifft.",
@@ -486,6 +502,7 @@
 			]
 		},
 		{
+			"__comment__": "Moskito / Mosquito",
 			"path": [188,3,186,2],
 			"indent": 1,
 			"original": "Ein riesiges Fluginsekt, das in Gruppen auftretend bereits vielen Reisenden zur Last fiel.",
@@ -526,6 +543,7 @@
 			]
 		},
 		{
+			"__comment__": "Räuber / Thief",
 			"path": [188,3,198,2],
 			"indent": 1,
 			"original": "Einer der vielen Räuber, die sich im Corine- Plateau herumtreiben um Reisende zu überfallen.",
@@ -556,6 +574,7 @@
 			]
 		},
 		{
+			"__comment__": "Guillian",
 			"path": [188,3,208,2],
 			"indent": 1,
 			"original": "Ein Dieb der einen fliegenden Hornkäfer als Reittier verwendet.",
@@ -606,6 +625,7 @@
 			]
 		},
 		{
+			"__comment__": "Silvanischer Wolf / Silvan Wolf",
 			"path": [188,3,222,2],
 			"indent": 1,
 			"original": "Eine Wolfart die immer häufiger im und um den Silvanwald gesichtet wird.",
@@ -636,6 +656,7 @@
 			]
 		},
 		{
+			"__comment__": "Schwarzbär / Black Bear",
 			"path": [188,3,232,2],
 			"indent": 1,
 			"original": "Diese Art von Bär hat ein unglaublich dickes Fell, was sie sehr widerstandsfähig gegen Waffen macht.",
@@ -675,6 +696,7 @@
 			]
 		},
 		{
+			"__comment__": "Grauschweif-Eule / Gray-Tailed Owl",
 			"path": [188,3,243,2],
 			"indent": 1,
 			"original": "Ein großer Raubvogel, dessen Stärke im magischen Bereich liegen.",
@@ -715,6 +737,7 @@
 			]
 		},
 		{
+			"__comment__": "???? Soldat / ???? Soldier",
 			"path": [188,3,255,1],
 			"indent": 1,
 			"original": "Ein Soldat einer unbekannten Armee.",
@@ -734,6 +757,7 @@
 			]
 		},
 		{
+			"__comment__": "???? Soldier Type 1",
 			"path": [188,3,259,2],
 			"indent": 2,
 			"original": "Dieser Soldat ist auf Zauber spezialisiert und der Abwehrschwächste unter den Soldaten.",
@@ -754,6 +778,7 @@
 			]
 		},
 		{
+			"__comment__": "???? Soldier Type 2",
 			"path": [188,3,266,2],
 			"indent": 3,
 			"original": "Dieser Soldat hat die Aufgabe seine Kameraden zu unterstützen.",
@@ -784,6 +809,7 @@
 			]
 		},
 		{
+			"__comment__": "???? Soldier Type 3",
 			"path": [188,3,274,2],
 			"indent": 3,
 			"original": "Dieser Soldat ist für den offensiven Kampf zuständig, er richtet den meisten Schaden an.",
@@ -804,6 +830,7 @@
 			]
 		},
 		{
+			"__comment__": "The catch-all case.",
 			"path": [188,3,285,1],
 			"indent": 0,
 			"original": "Keine weiteren Informationen....",

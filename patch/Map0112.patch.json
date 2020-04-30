@@ -6,7 +6,7 @@
 			"original": "Soko: Endlich sind wir da...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Endlich sind wir da..."
+				"\\c[13]\\n[3]\\c[0]: We're finally here..."
 			]
 		},
 		{
@@ -14,8 +14,8 @@
 			"original": "Royko: Ohje... ich... will nur noch schlafen...",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Ohje...\\. ich...\\. will nur noch ",
-				"schlafen..."
+				"\\c[10]Royko\\c[0]: Oh man...\\. I...\\. just want to",
+				"sleep..."
 			]
 		},
 		{
@@ -23,9 +23,9 @@
 			"original": "Herr Uroto: Ich bin auch am Ende meiner Kräfte. Schleunigst in den Gasthof!",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Ich bin auch am Ende ",
-				"meiner Kräfte.\\. Schleunigst in den ",
-				"Gasthof!"
+				"\\c[10]Sir Uroto\\c[0]: I've also used almost all",
+				"my strength for the day.\\. Let's go",
+				"to the inn!"
 			]
 		},
 		{
@@ -33,9 +33,8 @@
 			"original": "Cibon: Das war wirklich ein harter Tag. Ich hab mich noch nie so sehr aufs Bett gefreut!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Das war wirklich ein harter ",
-				"Tag. Ich hab mich noch nie so sehr ",
-				"aufs Bett gefreut!"
+				"\\c[2]\\n[2]\\c[0]: It was a really hard day. I've",
+				"never looked forward to bed so much!"
 			]
 		},
 		{
@@ -43,8 +42,8 @@
 			"original": "(Kento: ...das Corine Plateau... Ich wollte diesen Ort immer meiden...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: ...das Corine Plateau... Ich ",
-				"wollte diesen Ort immer meiden...)"
+				"(\\c[1]\\n[1]\\c[0]: The Corine Plateau... I've",
+				"always wanted to avoid this place...)"
 			]
 		},
 		{
@@ -52,7 +51,7 @@
 			"original": "Soko: Herr Kento. Was haben Sie?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Herr Kento.\\. Was haben Sie?"
+				"\\c[13]\\n[3]\\c[0]: Sir Kento.\\. Is something wrong?"
 			]
 		},
 		{
@@ -60,7 +59,7 @@
 			"original": "Kento: S.. Soko? Sie sind auch wach?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: S..\\. Soko?\\. Sie sind auch wach?"
+				"\\c[1]\\n[1]\\c[0]: S...\\. Soko?\\. Are you awake too?"
 			]
 		},
 		{
@@ -68,8 +67,8 @@
 			"original": "Soko: ... So... ist es bei Ihnen jetzt auch \"Soko\".... ?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...\\. So...\\. ist es bei Ihnen ",
-				"jetzt auch \"Soko\"....\\. ?"
+				"\\c[13]\\n[3]\\c[0]: So...\\. is it \"Soko\" you're",
+				"calling me by now?"
 			]
 		},
 		{
@@ -85,10 +84,9 @@
 			"original": "Soko: Es hat ja keinen Sinn, Sie werden ja sowieso nicht auf mich hören und mich nennen wie Sie wollen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Es hat ja keinen Sinn, Sie ",
-				"werden ja sowieso nicht auf mich ",
-				"hören und mich nennen wie Sie ",
-				"wollen."
+				"\\c[13]\\n[3]\\c[0]: Whatever. You won't listen to",
+				"me anyway and you'll just call me",
+				"whatever you want."
 			]
 		},
 		{
@@ -96,10 +94,9 @@
 			"original": "Kento: ... Es ist auch ungewöhnlich. Vor allem für Cibon. Er hielt noch nie besonders viel von hoher Ausdrucksweise...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...\\. Es ist auch ungewöhnlich.\\. ",
-				"Vor allem für Cibon.\\. Er hielt noch ",
-				"nie besonders viel von hoher ",
-				"Ausdrucksweise..."
+				"\\c[1]\\n[1]\\c[0]: It's also unusual.\\. Especially",
+				"for Cibon.\\. He never thought highly",
+				"of formality..."
 			]
 		},
 		{
@@ -107,10 +104,10 @@
 			"original": "Kento: Du weißt, wegen deiner Ausdrucksweise bekommen wir ständig das Gefühl, dass du nicht zu uns gehörst...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Du weißt, wegen deiner ",
-				"Ausdrucksweise bekommen wir ",
-				"ständig das Gefühl, dass du nicht zu ",
-				"uns gehörst..."
+				"\\c[1]\\n[1]\\c[0]: You know, because of your way",
+				"of expression, we always get the",
+				"feeling that you're not truly",
+				"one of us..."
 			]
 		},
 		{
@@ -118,9 +115,9 @@
 			"original": "Kento: Wie Cibon immer sagt: du verhältst dich uns gegenüber wie ein Ausbilder einer Kaserne.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wie Cibon immer sagt: du ",
-				"verhältst dich uns gegenüber wie ein ",
-				"Ausbilder einer Kaserne.  "
+				"\\c[1]\\n[1]\\c[0]: As Cibon puts it: You",
+				"treat us like an instructor from",
+				"the barracks."
 			]
 		},
 		{
@@ -128,9 +125,9 @@
 			"original": "Kento: Jedenfalls verhinderst du damit, dass wir dich als richtige Kameradin ansehen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Jedenfalls verhinderst du ",
-				"damit, dass wir dich als richtige",
-				"Kameradin ansehen. "
+				"\\c[1]\\n[1]\\c[0]: In any case, you prevent us",
+				"from seeing you as a real member",
+				"of the team."
 			]
 		},
 		{
@@ -138,10 +135,9 @@
 			"original": "Kento: Ich kenne nicht deine Gründe für dieses Verhalten, aber auf diese Art würde unsere Zusammenarbeit schwerer fallen, verstehst du?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich kenne nicht deine Gründe ",
-				"für dieses Verhalten,\\. aber auf diese ",
-				"Art würde unsere Zusammenarbeit ",
-				"schwerer fallen,\\. verstehst du?"
+				"\\c[1]\\n[1]\\c[0]: I don't know your reasons for",
+				"this behavior,\\. but that makes",
+				"teamwork more difficult,\\. you know?"
 			]
 		},
 		{
@@ -149,10 +145,10 @@
 			"original": "Kento: Gute Zusammenarbeit ist ein wichtiger Faktor, um erfolgreich zu sein, in Schlachten und allen anderen Dingen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Gute Zusammenarbeit ist ein ",
-				"wichtiger Faktor,\\. um erfolgreich zu ",
-				"sein,\\. in Schlachten und allen ",
-				"anderen Dingen."
+				"\\c[1]\\n[1]\\c[0]: Good cooperation is an",
+				"important factor for being",
+				"successful,\\. in battles and",
+				"everything else."
 			]
 		},
 		{
@@ -160,7 +156,7 @@
 			"original": "Soko: ...Ja, das stimmt.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...Ja,\\. das stimmt."
+				"\\c[13]\\n[3]\\c[0]: Yeah,\\. you're right."
 			]
 		},
 		{
@@ -168,10 +164,9 @@
 			"original": "Kento: Wie gesagt, ich kenn deine Gründe nicht. Du musst sie mir auch nicht sagen, wenn es dir unangenehm ist.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wie gesagt,\\. ich kenn deine ",
-				"Gründe nicht.\\. Du musst sie mir auch ",
-				"nicht sagen,\\. wenn es dir ",
-				"unangenehm ist."
+				"\\c[1]\\n[1]\\c[0]: As I said,\\. I don't know your",
+				"reasons.\\. You don't have to tell me",
+				"if you're uncomfortable."
 			]
 		},
 		{
@@ -179,10 +174,9 @@
 			"original": "Kento: Aber ich würde dich trotzdem bitten, dieses Verhalten abzulegen... So würde der Auftrag sicher weitaus leichter fallen, uns allen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Aber ich würde dich trotzdem ",
-				"bitten,\\. dieses Verhalten abzulegen...\\.",
-				"So würde der Auftrag sicher weitaus ",
-				"leichter fallen,\\. uns allen."
+				"\\c[1]\\n[1]\\c[0]: But I would still like to ask",
+				"you to end this behavior...\\. It'd",
+				"make the job much easier for us all."
 			]
 		},
 		{
@@ -190,7 +184,7 @@
 			"original": "Soko: ...In Ordnung, ... Kento.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...\\.In Ordnung,\\. ...\\. Kento."
+				"\\c[13]\\n[3]\\c[0]: Alright...\\. Kento."
 			]
 		},
 		{
@@ -198,9 +192,9 @@
 			"original": "Kento: Du wirst sehen, Cibon wird seine Einstellung dir gegenüber sehr schnell ändern...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Du wirst sehen,\\. Cibon wird ",
-				"seine Einstellung dir gegenüber sehr",
-				"schnell ändern..."
+				"\\c[1]\\n[1]\\c[0]: You'll see that Cibon will",
+				"change his attitude towards you",
+				"very quickly..."
 			]
 		},
 		{
@@ -208,10 +202,9 @@
 			"original": "Soko: Wo wir schon bei Kameradschaft und Vertrauen sind, Kento, deinen Nachnamen kenne ich immer noch nicht...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wo wir schon bei ",
-				"Kameradschaft und Vertrauen sind,\\. ",
-				"Kento,\\. deinen Nachnamen kenne ich ",
-				"immer noch nicht..."
+				"\\c[13]\\n[3]\\c[0]: Speaking of camaraderie and",
+				"trust Kento,\\. I still don't know",
+				"your last name..."
 			]
 		},
 		{
@@ -227,10 +220,10 @@
 			"original": "Soko: Irgendwas muss mit deinem Namen nicht stimmen, wenn du ihn nicht verraten willst... Hast du Dreck am Stecken, oder wie?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Irgendwas muss mit deinem ",
-				"Namen nicht stimmen,\\. wenn du ihn ",
-				"nicht verraten willst...\\. Hast du Dreck ",
-				"am Stecken,\\. oder wie?"
+				"\\c[13]\\n[3]\\c[0]: Something isn't right if you",
+				"don't want to give out your name...\\.",
+				"Is there any dirt on your name or",
+				"something?"
 			]
 		},
 		{
@@ -238,7 +231,7 @@
 			"original": "Kento: Ja, das kann man so sagen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja,\\. das kann man so sagen..."
+				"\\c[1]\\n[1]\\c[0]: Yeah,\\. you could say that..."
 			]
 		},
 		{
@@ -246,9 +239,9 @@
 			"original": "Soko: Also...? Du kannst ihn mir sagen. Mir ist egal, wie schlimm deine Verwandtschaft ist oder war.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Also...?\\. Du kannst ihn mir ",
-				"sagen.\\. Mir ist egal, wie schlimm ",
-				"deine Verwandtschaft ist oder war."
+				"\\c[13]\\n[3]\\c[0]: So?\\. You can tell me.\\. I don't",
+				"care how bad your relatives are or",
+				"were."
 			]
 		},
 		{
@@ -256,8 +249,7 @@
 			"original": "Kento: ... Es tut mir Leid, ich kann es nicht.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...\\. Es tut mir Leid,\\. ",
-				"ich kann es nicht. "
+				"\\c[1]\\n[1]\\c[0]: Sorry,\\. I can't."
 			]
 		},
 		{
@@ -265,10 +257,9 @@
 			"original": "Soko: Achso... Ich soll mit meiner Redensart aufhören, aber du kannst munter weiter den Geheimnisvollen spielen, oder wie?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Achso...\\. Ich soll mit meiner ",
-				"Redensart aufhören,\\. aber du kannst ",
-				"munter weiter den Geheimnisvollen ",
-				"spielen,\\. oder wie?"
+				"\\c[13]\\n[3]\\c[0]: Oh...\\. So I'm supposed to stop",
+				"talking while you continue to play",
+				"the mysterious,\\. am I right?"
 			]
 		},
 		{
@@ -276,7 +267,7 @@
 			"original": "Soko: So ist das also, ... nun dann",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: So ist das also,\\.\\. ...\\. nun dann\\.\\^"
+				"\\c[13]\\n[3]\\c[0]: So that's it...\\.\\. Well then\\.\\^"
 			]
 		},
 		{
@@ -292,7 +283,7 @@
 			"original": "Soko: Öh... Dai...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Öh...\\. Dai...\\.\\^"
+				"\\c[13]\\n[3]\\c[0]: Wait...\\. Dai...\\.\\^"
 			]
 		},
 		{
@@ -300,10 +291,9 @@
 			"original": "Kento: Daikon! Und wag es nicht, mich mit diesen Namen anzusprechen oder mir deshalb Fragen zu stellen!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Daikon!\\. \\s[4]Und wag es nicht,\\. ",
-				"mich mit diesen Namen ",
-				"anzusprechen oder mir deshalb ",
-				"Fragen zu stellen!"
+				"\\c[1]\\n[1]\\c[0]: Daikon!\\. \\s[4]And don't you dare",
+				"speak to me by this name or ask",
+				"me any questions about it!"
 			]
 		},
 		{
@@ -311,7 +301,7 @@
 			"original": "Soko: Daikon...? Der eine...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Daikon...?\\.\\. Der eine...\\.\\^"
+				"\\c[13]\\n[3]\\c[0]: Daikon?\\.\\. That Dai...\\.\\^"
 			]
 		},
 		{
@@ -319,8 +309,8 @@
 			"original": "Kento: Ich sagte KEINE Fragen, ist das klar?!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich sagte \\s[5]KEINE Fragen\\s[0],\\. ist ",
-				"das klar?!"
+				"\\c[1]\\n[1]\\c[0]: I said \\s[5]NO questions\\s[0],\\. is that",
+				"clear?!"
 			]
 		},
 		{
@@ -328,7 +318,7 @@
 			"original": "Soko: .... S..Schon gut...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ....\\. S..\\.Schon gut..."
+				"\\c[13]\\n[3]\\c[0]: A...\\. Alright..."
 			]
 		},
 		{
@@ -336,8 +326,8 @@
 			"original": "Kento: Am besten vergisst du, dass ich so heiße...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Am besten vergisst du,\\. dass ",
-				"ich so heiße..."
+				"\\c[1]\\n[1]\\c[0]: The best thing would be to",
+				"just forget my last name..."
 			]
 		},
 		{
@@ -345,8 +335,8 @@
 			"original": "Soko: ... Ich verstehe es zwar nicht, aber wie du willst...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...\\. Ich verstehe es zwar nicht,\\. ",
-				"aber wie du willst..."
+				"\\c[13]\\n[3]\\c[0]: I don't understand it,\\. but as",
+				"you like..."
 			]
 		},
 		{
@@ -354,9 +344,8 @@
 			"original": "Soko: Oh! Der Post-Versand Zug aus West-Brigantia kommt gerade vorbei!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Oh!\\. Der Post-Versand Zug ",
-				"aus West-Brigantia kommt gerade ",
-				"vorbei! "
+				"\\c[13]\\n[3]\\c[0]: Oh!\\. The FALCON squad from West",
+				"Brigantia is coming over now!"
 			]
 		},
 		{
@@ -364,7 +353,8 @@
 			"original": "Soko: Wahnsinn! Wie viele Reiter...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wahnsinn! Wie viele Reiter..."
+				"\\c[13]\\n[3]\\c[0]: Wicked! How many riders there",
+				"are..."
 			]
 		},
 		{
@@ -372,8 +362,8 @@
 			"original": "Kento: Oh, das sehe ich zum ersten Mal.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Oh, das sehe ich zum ersten ",
-				"Mal."
+				"\\c[1]\\n[1]\\c[0]: Oh, this is the first time I'm",
+				"seeing it."
 			]
 		},
 		{
@@ -381,7 +371,7 @@
 			"original": "Soko: Ja, ich auch...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ja,\\. ich auch..."
+				"\\c[13]\\n[3]\\c[0]: Yeah,\\. me too..."
 			]
 		},
 		{
@@ -389,9 +379,9 @@
 			"original": "Kento: ... Ich geh ins Bett, ich muss noch etwas mehr schlafen, der morgige Tag wird lang.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...\\. Ich geh ins Bett,\\. ich muss ",
-				"noch etwas mehr schlafen,\\. der ",
-				"morgige Tag wird lang."
+				"\\c[1]\\n[1]\\c[0]: I'm going back to bed,\\. I have",
+				"to sleep a little more,\\. tomorrow",
+				"will be another long day."
 			]
 		},
 		{
@@ -399,8 +389,8 @@
 			"original": "Soko: Ja, ich werde gleich auch wieder ins Bett gehen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ja,\\. ich werde gleich auch ",
-				"wieder ins Bett gehen."
+				"\\c[13]\\n[3]\\c[0]: Yeah,\\. I'll go back to bed in a",
+				"minute."
 			]
 		},
 		{
@@ -408,8 +398,8 @@
 			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
-				"nicht alleine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I better not leave the inn",
+				"without the others."
 			]
 		},
 		{
@@ -417,8 +407,8 @@
 			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
-				"nicht alleine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I better not leave the inn",
+				"without the others."
 			]
 		},
 		{
@@ -426,8 +416,8 @@
 			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
-				"nicht alleine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I better not leave the inn",
+				"without the others."
 			]
 		},
 		{
@@ -435,8 +425,8 @@
 			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
-				"nicht alleine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I better not leave the inn",
+				"without the others."
 			]
 		},
 		{
@@ -444,8 +434,8 @@
 			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
-				"nicht alleine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I better not leave the inn",
+				"without the others."
 			]
 		},
 		{
@@ -453,8 +443,8 @@
 			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
-				"nicht alleine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I better not leave the inn",
+				"without the others."
 			]
 		},
 		{
@@ -462,8 +452,8 @@
 			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
-				"nicht alleine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I better not leave the inn",
+				"without the others."
 			]
 		},
 		{
@@ -471,8 +461,8 @@
 			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
-				"nicht alleine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I better not leave the inn",
+				"without the others."
 			]
 		},
 		{
@@ -480,8 +470,8 @@
 			"original": "Yahenru: Da seid ihr ja! Nun, was ist? Werdet ihr gegen mich kämpfen?",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Da seid ihr ja!\\. Nun, was ",
-				"ist?\\. Werdet ihr gegen mich kämpfen?"
+				"\\c[10]Yahenru\\c[0]: There you are!\\. Now what will",
+				"it be?\\. Shall we battle?"
 			]
 		},
 		{
@@ -490,8 +480,8 @@
 			"original": "Yahenru: Gut! Dann auf in den Kampf!",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Gut!\\. Dann auf in den ",
-				"Kampf!"
+				"\\c[10]Yahenru\\c[0]: Good!\\. Then we shall begin",
+				"the battle!\\. En garde!"
 			]
 		},
 		{
@@ -500,8 +490,8 @@
 			"original": "Yahenru: Ach, das wollt ihr? Nun, wenn das so ist....",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Ach, das wollt ihr?\\.",
-				"Nun, wenn das so ist...."
+				"\\c[10]Yahenru\\c[0]: Oh, that's what you want?\\.",
+				"Well, if so..."
 			]
 		},
 		{
@@ -510,9 +500,8 @@
 			"original": "Yahenru: Waffen zeichnen sich nicht nur durch ihre Angriffsstärke aus.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Waffen zeichnen sich",
-				"nicht nur durch ihre Angriffsstärke ",
-				"aus."
+				"\\c[10]Yahenru\\c[0]: Weapons are not only",
+				"characterized by their attack."
 			]
 		},
 		{
@@ -521,9 +510,9 @@
 			"original": "Yahenru: Einige Waffen haben auch Einfluss auf Abwehr, mentale Kraft und Agilität. Aber nicht nur das.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Einige Waffen haben auch ",
-				"Einfluss auf Abwehr, mentale Kraft ",
-				"und Agilität. Aber nicht nur das."
+				"\\c[10]Yahenru\\c[0]: Some weapons also have an",
+				"impact on defense, wisdom, and",
+				"agility. But not only that."
 			]
 		},
 		{
@@ -532,10 +521,9 @@
 			"original": "Yahenru: Es gibt auch Waffen die ganz besondere Eigenschaften haben. Ich werde dir mal ein paar Beispiele geben.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Es gibt auch Waffen die ",
-				"ganz besondere Eigenschaften ",
-				"haben. Ich werde dir mal ein paar ",
-				"Beispiele geben."
+				"\\c[10]Yahenru\\c[0]: There are also weapons that",
+				"have very special properties.",
+				"I'll give you a few examples."
 			]
 		},
 		{
@@ -544,10 +532,10 @@
 			"original": "Yahenru: Einige Waffen machen Element-Schaden und sind damit gegen bestimmte Gegner besonders wirkungsvoll.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Einige Waffen machen ",
-				"\\c[11]Element-Schaden\\c[0] und sind damit ",
-				"gegen bestimmte Gegner besonders ",
-				"wirkungsvoll."
+				"\\c[10]Yahenru\\c[0]: Some weapons do \\c[11]element",
+				"damage\\c[0] and are particularly",
+				"effective against certain",
+				"enemies."
 			]
 		},
 		{
@@ -556,8 +544,8 @@
 			"original": "Yahenru: Solche Waffen haben diese Symbole in ihrer Beschreibung.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Solche Waffen haben ",
-				"diese Symbole in ihrer Beschreibung."
+				"\\c[10]Yahenru\\c[0]: Such weapons have these",
+				"symbols in their description."
 			]
 		},
 		{
@@ -566,9 +554,9 @@
 			"original": "Yahenru: Andere Waffen wiederum können Zustände verursachen, wenn man mit ihnen angreift.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Andere Waffen wiederum ",
-				"können \\c[11]Zustände verursachen\\c[0], wenn ",
-				"man mit ihnen angreift."
+				"\\c[10]Yahenru\\c[0]: Other weapons may \\c[11]inflict",
+				"status effects\\c[0] if you attack with",
+				"them."
 			]
 		},
 		{
@@ -577,8 +565,8 @@
 			"original": "Yahenru: Du erkennst sie an diesen Symbolen.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Du erkennst sie an diesen ",
-				"Symbolen."
+				"\\c[10]Yahenru\\c[0]: You can recognize them by",
+				"these symbols."
 			]
 		},
 		{
@@ -587,9 +575,8 @@
 			"original": "Yahenru: So ein Schwert, dass Schlaf verursacht ist schon was Feines, glaub' mir.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: So ein Schwert, dass Schlaf ",
-				"verursacht ist schon was Feines, ",
-				"glaub' mir. "
+				"\\c[10]Yahenru\\c[0]: A sword that inflicts sleep",
+				"is an excellent thing, believe me."
 			]
 		},
 		{
@@ -598,10 +585,9 @@
 			"original": "Yahenru: Ich hab auch schon Waffen gesehen, die den Träger die Fähigkeit geben sollen, einige Zauber gegen alle Ziele aussprechen zu können.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Ich hab auch schon Waffen ",
-				"gesehen, die den Träger die Fähigkeit ",
-				"geben sollen, \\c[11]einige Zauber gegen ",
-				"alle Ziele aussprechen zu können\\c[0]."
+				"\\c[10]Yahenru\\c[0]: I've also seen weapons that",
+				"should give the user \\c[11]the ability to",
+				"cast some spells against all targets\\c[0]."
 			]
 		},
 		{
@@ -610,9 +596,9 @@
 			"original": "Yahenru: Das ganze nennt sich Zauber-Streuer und ist durch solch ein Symbol gekennzeichnet.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Das ganze nennt sich ",
-				"\\c[11]Zauber-Streuer\\c[0] und ist durch solch ",
-				"ein Symbol gekennzeichnet."
+				"\\c[10]Yahenru\\c[0]: The whole thing is called",
+				"\\c[11]Signum Scatter\\c[0] and is marked by such",
+				"a symbol."
 			]
 		},
 		{
@@ -621,9 +607,9 @@
 			"original": "Yahenru: Eine meiner Lieblings- Eigenschaften von Waffen ist zweifellos der Konter!",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Eine meiner Lieblings- ",
-				"Eigenschaften von Waffen ist ",
-				"zweifellos der \\c[11]Konter\\c[0]!"
+				"\\c[10]Yahenru\\c[0]: One of my favorite features",
+				"of weapons is undoubtedly the",
+				"\\c[11]counterattack\\c[0]!"
 			]
 		},
 		{
@@ -632,10 +618,10 @@
 			"original": "Yahenru: An diesem Symbolen erkennst du Konter-Waffen. Dabei gibt es 2 verschiedene Arten von Konterangriffen.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: An diesem Symbolen ",
-				"erkennst du Konter-Waffen. ",
-				"Dabei gibt es 2 verschiedene Arten ",
-				"von Konterangriffen."
+				"\\c[10]Yahenru\\c[0]: You can recognize",
+				"counterattacking weapons by this",
+				"symbol. There are two different",
+				"types of counterattacks."
 			]
 		},
 		{
@@ -644,10 +630,10 @@
 			"original": "Yahenru: Beim Angriff-Konter wird nach einem physischen Treffer gekontert, bei Signum-Konter nach einem magischen Treffer.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Beim \\c[11]Angriff-Konter\\c[0] wird ",
-				"nach einem physischen Treffer ",
-				"gekontert, bei \\c[11]Signum-Konter\\c[0] nach ",
-				"einem magischen Treffer."
+				"\\c[10]Yahenru\\c[0]: The \\c[11]Attack Counter\\c[0]",
+				"counterattacks after a physical hit",
+				"while the \\c[11]Signum Counter\\c[0]",
+				"counterattacks after a magic hit."
 			]
 		},
 		{
@@ -656,9 +642,9 @@
 			"original": "Yahenru: Das Level (lv) gibt übrigens an, mit welcher Wahrscheinlichkeit der Konterangriff eintritt.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Das Level (lv) gibt übrigens ",
-				"an, mit welcher Wahrscheinlichkeit ",
-				"der Konterangriff eintritt."
+				"\\c[10]Yahenru\\c[0]: Furthermore, the level (lv)",
+				"indicates the probability of the",
+				"counterattack occurring."
 			]
 		},
 		{
@@ -667,9 +653,8 @@
 			"original": "Yahenru: Schließlich können Waffen noch bestimmte Verzauberungen mit sich ziehen.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Schließlich können Waffen ",
-				"noch bestimmte \\c[11]Verzauberungen\\c[0] mit ",
-				"sich ziehen."
+				"\\c[10]Yahenru\\c[0]: Finally, weapons can still",
+				"have certain \\c[11]enchantments\\c[0]."
 			]
 		},
 		{
@@ -678,10 +663,10 @@
 			"original": "Yahenru: Das ganze wird mit diesen Symbolen verdeutlicht. Eine Waffe mit Auto-Sprint oder Auto-Ferres kann äußerst praktisch sein.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Das ganze wird mit diesen ",
-				"Symbolen verdeutlicht.\\. Eine Waffe ",
-				"mit Auto-Sprint oder Auto-Ferres ",
-				"kann äußerst praktisch sein."
+				"\\c[10]Yahenru\\c[0]: They're illustrated by these",
+				"symbols.\\. A weapon with Auto Sprint or",
+				"Auto Ferres can be extremely",
+				"practical."
 			]
 		},
 		{
@@ -690,9 +675,8 @@
 			"original": "Yahenru: Das sind ein paar der Eigenschaften, die Waffen haben können.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Das sind ein paar der ",
-				"Eigenschaften, die Waffen haben ",
-				"können. "
+				"\\c[10]Yahenru\\c[0]: These are just a few of the",
+				"qualities that weapons can have."
 			]
 		},
 		{
@@ -701,9 +685,8 @@
 			"original": "Yahenru: Natürlich haben nur besondere Waffen solche Eigenschaften.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Natürlich haben nur ",
-				"besondere Waffen solche ",
-				"Eigenschaften. "
+				"\\c[10]Yahenru\\c[0]: Of course, only special",
+				"weapons have such properties."
 			]
 		},
 		{
@@ -712,9 +695,8 @@
 			"original": "Yahenru: Im Waffenladen von Nebenan findest du so was sicherlich nicht.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Im Waffenladen von ",
-				"Nebenan findest du so was sicherlich ",
-				"nicht."
+				"\\c[10]Yahenru\\c[0]: You won't find anything like",
+				"that in the weapons shop next door."
 			]
 		},
 		{
@@ -723,9 +705,8 @@
 			"original": "Yahenru: Das war's auch schon. Und nun nehmt die Herausforderung an und kämpft!",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Das war's auch schon.",
-				"Und nun nehmt die Herausforderung ",
-				"an und kämpft!"
+				"\\c[10]Yahenru\\c[0]: That's it.\\. Now take on the",
+				"challenge and let's battle!"
 			]
 		},
 		{
@@ -734,10 +715,9 @@
 			"original": "Yahenru: Seid keine Feiglinge und zeigt mir, dass ihr es drauf habt! Ich warte meinetwegen auch noch etwas...",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Seid keine Feiglinge und ",
-				"zeigt mir, dass ihr es drauf habt!\\. ",
-				"Ich warte meinetwegen auch noch ",
-				"etwas..."
+				"\\c[10]Yahenru\\c[0]: Don't be cowards and show me",
+				"you have what it takes!\\. I'm waiting",
+				"a little for my own sake..."
 			]
 		},
 		{
@@ -746,10 +726,10 @@
 			"original": "Yahenru: Na, das war wirklich enttäuschend. Ihr solltet euch nach besseren Waffen umsehen, sonst werdet ihr mich nie schlagen...",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Na, das war wirklich",
-				"enttäuschend.\\. Ihr solltet euch nach ",
-				"besseren Waffen umsehen, sonst ",
-				"werdet ihr mich nie schlagen..."
+				"\\c[10]Yahenru\\c[0]: Well, that was rather",
+				"disappointing.\\. You should look",
+				"for better weapons, otherwise",
+				"you'll never defeat me..."
 			]
 		},
 		{
@@ -758,9 +738,9 @@
 			"original": "Yahenru: Nun gut... Ich werde dann weiter ziehen. Vielleicht sehen wir uns irgendwann wieder.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Nun gut... Ich werde dann ",
-				"weiter ziehen.\\. Vielleicht sehen wir ",
-				"uns irgendwann wieder. "
+				"\\c[10]Yahenru\\c[0]: Alright... I'll be moving on",
+				"then.\\. Maybe we'll see each other",
+				"again eventually."
 			]
 		},
 		{
@@ -769,9 +749,9 @@
 			"original": "Yahenru: Ich hoffe bis dahin habt ihr euch zu ebenbürtigen Gegner aufgerüstet!",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Ich hoffe bis dahin habt ihr ",
-				"euch zu ebenbürtigen Gegner ",
-				"aufgerüstet!"
+				"\\c[10]Yahenru\\c[0]: I hope that by then you will",
+				"have upgraded yourself to match my",
+				"strength!"
 			]
 		},
 		{
@@ -780,7 +760,7 @@
 			"original": "Yahenru: Also, bis dann!",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Also, bis dann!"
+				"\\c[10]Yahenru\\c[0]: See you then!"
 			]
 		},
 		{
@@ -789,10 +769,10 @@
 			"original": "Yahenru: Sehr schön! Ihr scheint wirklich das richtige Maß an Stärke zu besitzen um die Ehre zu haben, einer meiner Waffen zu bekommen.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Sehr schön!\\. Ihr scheint ",
-				"wirklich das richtige Maß an Stärke ",
-				"zu besitzen um die Ehre zu haben, ",
-				"einer meiner Waffen zu bekommen."
+				"\\c[10]Yahenru\\c[0]: Very nice!\\. You really seem",
+				"to have the right amount of strength",
+				"to have the honor of getting one of",
+				"my weapons."
 			]
 		},
 		{
@@ -801,9 +781,9 @@
 			"original": "Yahenru: Ich gebe euch diese Lanze hier - die Ultioslanze! Ein sehr schönes Teil.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Ich gebe euch diese Lanze ",
-				"hier - \\c[11]die Ultioslanze\\c[0]!",
-				"Ein sehr schönes Teil."
+				"\\c[10]Yahenru\\c[0]: I'm giving you this lance",
+				"here - \\c[11]the ultimate lance\\c[0]! A",
+				"beautiful thing."
 			]
 		},
 		{
@@ -812,10 +792,9 @@
 			"original": "Yahenru: Zwar ist ihre Angriffskraft nicht die Allerbeste, aber für eure Verhältnisse müsste es mehr als genug sein.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Zwar ist ihre Angriffskraft ",
-				"nicht die Allerbeste, aber für eure ",
-				"Verhältnisse müsste es mehr als ",
-				"genug sein."
+				"\\c[10]Yahenru\\c[0]: Although its attack power",
+				"isn't the best, it should be more",
+				"than enough for you."
 			]
 		},
 		{
@@ -824,10 +803,10 @@
 			"original": "Yahenru: Das besondere an dieser Waffe ist aber, dass sie eine Konter-Eigenschaft hat. Und zwar\"Lv.1-Angriff-Konter\"",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Das besondere an dieser ",
-				"Waffe ist aber, dass sie eine ",
-				"Konter-Eigenschaft hat.\\. ",
-				"Und zwar\"Lv.1-Angriff-Konter\""
+				"\\c[10]Yahenru\\c[0]: The special thing about this",
+				"weapon is that it has a",
+				"counterattack. Namely, the",
+				"\"Lv.1 Attack Counter\"."
 			]
 		},
 		{
@@ -836,10 +815,9 @@
 			"original": "Yahenru: Vor allem in Verbindung mit einem erhöhten Reflex-Wert, kann diese Waffe sehr wirkungsvoll sein.",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Vor allem in Verbindung ",
-				"mit einem erhöhten Reflex-Wert, ",
-				"kann diese Waffe sehr wirkungsvoll ",
-				"sein."
+				"\\c[10]Yahenru\\c[0]: Combined with a high evasion",
+				"stat, this weapon can become an",
+				"unstoppable force."
 			]
 		},
 		{
@@ -848,10 +826,9 @@
 			"original": "Yahenru: Denn wenn man einem Angriff ausweicht, wird die Konter-Wahrscheinlichkeit verdoppelt!",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Denn wenn man",
-				"einem Angriff ausweicht, wird die ",
-				"Konter-Wahrscheinlichkeit ",
-				"verdoppelt!"
+				"\\c[10]Yahenru\\c[0]: Because if you dodge an",
+				"attack, the counterattack's",
+				"probability is doubled!"
 			]
 		},
 		{
@@ -860,8 +837,9 @@
 			"original": "Kento: Oh... Das ist in der Tat eine interessante Waffe... Vielen Dank!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Oh...\\. Das ist in der Tat eine ",
-				"interessante Waffe...\\. Vielen Dank!"
+				"\\c[1]\\n[1]\\c[0]: Ooo...\\. This is quite the",
+				"interesting weapon...\\.",
+				"Thank you very much!"
 			]
 		},
 		{
@@ -870,10 +848,9 @@
 			"original": "Yahenru: Keine Ursache, Kämpfer wie ihr habt es verdient solche Waffen zu führen! Gut, ich muss dann weiter!",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Keine Ursache, Kämpfer ",
-				"wie ihr habt es verdient solche ",
-				"Waffen zu führen!\\. ",
-				"Gut,\\. ich muss dann weiter!"
+				"\\c[10]Yahenru\\c[0]: No need,\\. fighters like you",
+				"deserve to use such weapons!\\. Well,\\.",
+				"I have to go then!"
 			]
 		},
 		{
@@ -882,9 +859,9 @@
 			"original": "Yahenru: Viele starke Waffen in dieser Welt warten auf mich. Man sieht sich!",
 			"lines":
 			[
-				"\\c[10]Yahenru\\c[0]: Viele starke Waffen in ",
-				"dieser Welt warten auf mich.\\.",
-				"Man sieht sich!"
+				"\\c[10]Yahenru\\c[0]: Many powerful weapons in",
+				"this world are waiting for me.\\.",
+				"See you!"
 			]
 		},
 		{
@@ -893,8 +870,8 @@
 			"original": "(Kento: Ein wirklich komischer Kerl, aber er ist unheimlich stark....)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Ein wirklich komischer Kerl, ",
-				"aber er ist unheimlich stark....)"
+				"(\\c[1]\\n[1]\\c[0]: A really weird guy, but he's",
+				"incredibly strong...)"
 			]
 		},
 		{
@@ -903,9 +880,9 @@
 			"original": "(Kento: Ein komischer Kerl... Schenkt uns eine Waffe, nur weil wir ihn in einem Kampf besiegt haben...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Ein komischer Kerl... ",
-				"Schenkt uns eine Waffe, nur weil wir ",
-				"ihn in einem Kampf besiegt haben...)"
+				"(\\c[1]\\n[1]\\c[0]: A weird guy... gives us a",
+				"weapon just because we beat him",
+				"in a fight...)"
 			]
 		},
 		{
@@ -913,10 +890,10 @@
 			"original": "Händler: Diese Gegend wird zunehmend von Händler und Reisenden durchquert, es ist nur eine Frage der Zeit, bis sich hier eine kleine Siedlung bilden wird.",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Diese Gegend wird zunehmend ",
-				"von Händler und Reisenden durchquert, es ist ",
-				"nur eine Frage der Zeit, bis sich hier eine kleine ",
-				"Siedlung bilden wird."
+				"\\c[10]Merchant\\c[0]: This area is increasingly being crossed",
+				"by traders and travellers alike, so it's only a",
+				"matter of time before a small settlement will",
+				"be built here."
 			]
 		},
 		{
@@ -924,10 +901,9 @@
 			"original": "Händler: Im Moment ist es einfach der perfekte Ort um mit Reisenden ein Geschäft zu machen. Wie sieht's aus? Braucht ihr ein paar Heilutensilien?",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Im Moment ist es einfach der ",
-				"perfekte Ort um mit Reisenden ein Geschäft zu ",
-				"machen.\\. Wie sieht's aus?\\. Braucht ihr ein paar ",
-				"Heilutensilien?"
+				"\\c[10]Merchant\\c[0]: Right now, it's just the perfect place",
+				"to do business with travellers.\\. How are you",
+				"doing?\\. Do you need some supplies?"
 			]
 		},
 		{
@@ -935,9 +911,9 @@
 			"original": "Händler: Ich habe hier Heilessenz im Angebot. Sie heilt doppelt so stark wie Heilsirub und ist im Moment ziemlich knapp!",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Ich habe hier Heilessenz im Angebot.\\.",
-				"Sie heilt doppelt so stark wie Heilsirub und ist ",
-				"im Moment ziemlich knapp!"
+				"\\c[10]Trader\\c[0]: I have some heal essence on offer here.\\.",
+				"It heals twice as much as some heal syrup and",
+				"is pretty scarce at the moment!"
 			]
 		},
 		{
@@ -945,9 +921,9 @@
 			"original": "Händler: Ich habe hier einen wertvolle Flügelhelm im Sonderangebot. So günstig werdet ihr ihn sonst nirgends ertauschen können!",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Ich habe hier einen wertvolle ",
-				"Flügelhelm im Sonderangebot. So günstig werdet ",
-				"ihr ihn sonst nirgends ertauschen können!"
+				"\\c[10]Trader\\c[0]: I have a valuable winged helmet on sale",
+				"here. Nowhere else will you be able to get it",
+				"so cheaply!"
 			]
 		},
 		{
@@ -955,9 +931,8 @@
 			"original": "Händlerin: Ich habe hier kostbaren Pfeffer im Angebot. Interessiert?",
 			"lines":
 			[
-				"\\c[10]Händlerin\\c[0]: Ich habe hier kostbaren Pfeffer im ",
-				"Angebot. Interessiert?",
-				""
+				"\\c[10]Trader\\c[0]: I have some precious pepper on offer",
+				"here. Interested?"
 			]
 		}
 	],
@@ -966,22 +941,22 @@
 		{
 			"path": [130,3,38],
 			"original": "Ich nehme die Herausforderung an/Erzähl uns was über Waffen./Nein, jetzt noch nicht...",
-			"patch": "Ich nehme die Herausforderung an/Erzähl uns was über Waffen./Nein, jetzt noch nicht..."
+			"patch": "I accept your challenge./Tell us about weapons./No, not yet..."
 		},
 		{
 			"path": [130,3,39],
 			"original": "Ich nehme die Herausforderung an",
-			"patch": "Ich nehme die Herausforderung an"
+			"patch": "I accept your challenge."
 		},
 		{
 			"path": [130,3,60],
 			"original": "Erzähl uns was über Waffen.",
-			"patch": "Erzähl uns was über Waffen."
+			"patch": "Tell us about weapons."
 		},
 		{
 			"path": [130,3,154],
 			"original": "Nein, jetzt noch nicht...",
-			"patch": "Nein, jetzt noch nicht..."
+			"patch": "No, not yet..."
 		}
 	]
 }

@@ -576,7 +576,7 @@
 			"original": "Händler: Hm, wenn ich hier schon nichts zu tun habe, außer zu warten... Wie haltet ihr von diesem Angebot?",
 			"lines":
 			[
-				"\\c[10]Merchant\\c[0]: Hm, if I already have nothing to do",
+				"\\c[10]Trader\\c[0]: Hm, if I already have nothing to do",
 				"here, except wait...\\. then what do you think",
 				"about this offer?"
 			]
