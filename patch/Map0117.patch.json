@@ -1,0 +1,50 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [3,1,7,4],
+			"original": "Cibon: ...War ja klar. Natürlich bekam Uroto ein Bett und weil wir einen auf Gentleman machen mussten, bekam Soko das zweite.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Just my luck.\\. Of course Uroto",
+				"got a bed, and because we had to be",
+				"gentlemen, Soko got the second."
+			]
+		},
+		{
+			"path": [3,1,12,4],
+			"original": "Cibon: Aber dann gewinnt auch noch dieser Glückspilz Royko das dritte Bett für sich, bei der Auslosung... Das Leben ist nicht fair.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: But then that lucky Royko guy",
+				"also wins the third bed in the",
+				"draw... Life isn't fair."
+			]
+		},
+		{
+			"path": [3,1,17,2],
+			"original": "Kento:  Komm, es ist ja nur für diese Nacht...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Now now,\\. it's only for this",
+				"night..."
+			]
+		},
+		{
+			"path": [3,2,13,1],
+			"original": "(Kento: ... )",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: ...)"
+			]
+		},
+		{
+			"path": [3,3,28,1],
+			"original": "(Kento: ....Und wieder verschlafen...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: ...and I overslept again...)"
+			]
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [19,2,19,1],
+			"original": "Kento: Schon wieder....",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: There it goes again..."
+			]
+		}
+	]
+}

@@ -107,7 +107,7 @@ Verwirrung: Confusion
 # Abilities #
 #############
 -= Techs =-
-3-Klingen-Tech: 3-Blade Tech
+3-Klingen-Tech: The Triblader
 Berserkers Wut: Berserker Rage ("Berserker's Wrath" doesn't fit.)
 Blutsauger: Bloodsucker
 Dampfwolke: Steam Cloud
@@ -737,7 +737,7 @@ Zojenko-Soldat: Zojenish Soldier (because "Korzojenish Soldier" doesn't fit)
 -= Tournament Teams =-
 (You choose between four team names: "Zinkar-Schlächter", "Repsbrot-Truppe", "Briganten-Stolz", or "Die Verräter")
 Die Bärenbrüder: The Bear Brothers
-Der Chef: Da Boss
+Der Chef: Da Boss (his accent will be the stereotypical mafia one, a thick Brooklyn accent, because this is a prison after all)
 Die Exoten: The Exotics
 Die Fejarschlitzer: The Fejar Slitters
 Pauamainer Veteranen: Pauamain Veterans
@@ -868,7 +868,7 @@ Gesamt: Total
 # Misc #
 ########
 -= analyse =-
-**Note** I'm probably just going to ignore this for now. I haven't seen it anywhere yet (except analyse-anzeigen).
+**Note** For some of these, I have no idea where they appear, so I'm just gonna wing it.
 mit Erde-Element: with Earth
 mit Feuer-Element: with Fire
 jeden Treffer: All Attacks
@@ -879,8 +879,8 @@ physischen Treffer: Physical Attacks
 mit Schatten-Element: with Shadow
 Schutzschild: Protective Shield
 SCHÜTZT BEI: PROTECTS WITH
-BRICHT NACHT: BREAKS NIGHT
-Treffer: Attacks
+BRICHT NACHT: BREAKS NIGHT (WITHOUT if it's actually NICHT)
+Treffer: Attack (or Attacks?)
 mit Wasser-Element: with Water
 mit Wind-Element: with Wind
 Verzauberungen: Enchantments

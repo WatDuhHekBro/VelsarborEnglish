@@ -219,7 +219,7 @@
 			"original": "Ausbilder: ...Erim Akiro!",
 			"lines":
 			[
-				"\\c[10]Instructor\\c[0]: \\s[12]... \\s[3]Erim Akiro!"
+				"\\c[10]Instructor\\c[0]: \\s[12]...\\s[3]Erim Akiro!"
 			]
 		},
 		{
@@ -303,7 +303,7 @@
 			"original": "Kento: ....Ja?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...\\.\\. Yes?"
+				"\\c[1]\\n[1]\\c[0]: \\.\\.Yes?"
 			]
 		},
 		{
@@ -347,7 +347,7 @@
 			"original": "Ausbilder: RUHE bitte! ... Ja, es stimmt, der Sohn von Genyu Daikon tritt dieses Jahr die Ausbildung zum Soldaten des Briganten Ordens an.",
 			"lines":
 			[
-				"\\c[10]Instructor\\c[0]: Calm down, please!\\. ...\\.Yes, it is true,",
+				"\\c[10]Instructor\\c[0]: Calm down, please!\\. Yes, it is true,",
 				"the son of Genyu Daikon is starting his training",
 				"as a soldier of the Brigantine Order this year."
 			]
@@ -421,7 +421,7 @@
 			"original": "Ausbilder: In Ordnung... Kento nimmt die Lanze.",
 			"lines":
 			[
-				"\\c[10]Instructor\\c[0]: \\s[4]Okay then...\\.\\.",
+				"\\c[10]Instructor\\c[0]: \\s[4]Alright then...\\.\\.",
 				"Kento shall take the lance."
 			]
 		}

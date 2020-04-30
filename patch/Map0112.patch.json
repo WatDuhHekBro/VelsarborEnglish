@@ -1,0 +1,987 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [68,2,25,1],
+			"original": "Soko: Endlich sind wir da...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Endlich sind wir da..."
+			]
+		},
+		{
+			"path": [68,2,27,2],
+			"original": "Royko: Ohje... ich... will nur noch schlafen...",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Ohje...\\. ich...\\. will nur noch ",
+				"schlafen..."
+			]
+		},
+		{
+			"path": [68,2,30,3],
+			"original": "Herr Uroto: Ich bin auch am Ende meiner Kräfte. Schleunigst in den Gasthof!",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Ich bin auch am Ende ",
+				"meiner Kräfte.\\. Schleunigst in den ",
+				"Gasthof!"
+			]
+		},
+		{
+			"path": [68,2,34,3],
+			"original": "Cibon: Das war wirklich ein harter Tag. Ich hab mich noch nie so sehr aufs Bett gefreut!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Das war wirklich ein harter ",
+				"Tag. Ich hab mich noch nie so sehr ",
+				"aufs Bett gefreut!"
+			]
+		},
+		{
+			"path": [68,4,12,2],
+			"original": "(Kento: ...das Corine Plateau... Ich wollte diesen Ort immer meiden...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: ...das Corine Plateau... Ich ",
+				"wollte diesen Ort immer meiden...)"
+			]
+		},
+		{
+			"path": [68,4,25,1],
+			"original": "Soko: Herr Kento. Was haben Sie?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Herr Kento.\\. Was haben Sie?"
+			]
+		},
+		{
+			"path": [68,4,31,1],
+			"original": "Kento: S.. Soko? Sie sind auch wach?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: S..\\. Soko?\\. Sie sind auch wach?"
+			]
+		},
+		{
+			"path": [68,4,34,2],
+			"original": "Soko: ... So... ist es bei Ihnen jetzt auch \"Soko\".... ?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...\\. So...\\. ist es bei Ihnen ",
+				"jetzt auch \"Soko\"....\\. ?"
+			]
+		},
+		{
+			"path": [68,4,39,1],
+			"original": "Kento: ....",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: .... "
+			]
+		},
+		{
+			"path": [68,4,44,4],
+			"original": "Soko: Es hat ja keinen Sinn, Sie werden ja sowieso nicht auf mich hören und mich nennen wie Sie wollen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Es hat ja keinen Sinn, Sie ",
+				"werden ja sowieso nicht auf mich ",
+				"hören und mich nennen wie Sie ",
+				"wollen."
+			]
+		},
+		{
+			"path": [68,4,50,4],
+			"original": "Kento: ... Es ist auch ungewöhnlich. Vor allem für Cibon. Er hielt noch nie besonders viel von hoher Ausdrucksweise...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ...\\. Es ist auch ungewöhnlich.\\. ",
+				"Vor allem für Cibon.\\. Er hielt noch ",
+				"nie besonders viel von hoher ",
+				"Ausdrucksweise..."
+			]
+		},
+		{
+			"path": [68,4,59,4],
+			"original": "Kento: Du weißt, wegen deiner Ausdrucksweise bekommen wir ständig das Gefühl, dass du nicht zu uns gehörst...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Du weißt, wegen deiner ",
+				"Ausdrucksweise bekommen wir ",
+				"ständig das Gefühl, dass du nicht zu ",
+				"uns gehörst..."
+			]
+		},
+		{
+			"path": [68,4,64,3],
+			"original": "Kento: Wie Cibon immer sagt: du verhältst dich uns gegenüber wie ein Ausbilder einer Kaserne.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wie Cibon immer sagt: du ",
+				"verhältst dich uns gegenüber wie ein ",
+				"Ausbilder einer Kaserne.  "
+			]
+		},
+		{
+			"path": [68,4,68,3],
+			"original": "Kento: Jedenfalls verhinderst du damit, dass wir dich als richtige Kameradin ansehen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Jedenfalls verhinderst du ",
+				"damit, dass wir dich als richtige",
+				"Kameradin ansehen. "
+			]
+		},
+		{
+			"path": [68,4,73,4],
+			"original": "Kento: Ich kenne nicht deine Gründe für dieses Verhalten, aber auf diese Art würde unsere Zusammenarbeit schwerer fallen, verstehst du?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich kenne nicht deine Gründe ",
+				"für dieses Verhalten,\\. aber auf diese ",
+				"Art würde unsere Zusammenarbeit ",
+				"schwerer fallen,\\. verstehst du?"
+			]
+		},
+		{
+			"path": [68,4,79,4],
+			"original": "Kento: Gute Zusammenarbeit ist ein wichtiger Faktor, um erfolgreich zu sein, in Schlachten und allen anderen Dingen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Gute Zusammenarbeit ist ein ",
+				"wichtiger Faktor,\\. um erfolgreich zu ",
+				"sein,\\. in Schlachten und allen ",
+				"anderen Dingen."
+			]
+		},
+		{
+			"path": [68,4,84,1],
+			"original": "Soko: ...Ja, das stimmt.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...Ja,\\. das stimmt."
+			]
+		},
+		{
+			"path": [68,4,86,4],
+			"original": "Kento: Wie gesagt, ich kenn deine Gründe nicht. Du musst sie mir auch nicht sagen, wenn es dir unangenehm ist.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wie gesagt,\\. ich kenn deine ",
+				"Gründe nicht.\\. Du musst sie mir auch ",
+				"nicht sagen,\\. wenn es dir ",
+				"unangenehm ist."
+			]
+		},
+		{
+			"path": [68,4,92,4],
+			"original": "Kento: Aber ich würde dich trotzdem bitten, dieses Verhalten abzulegen... So würde der Auftrag sicher weitaus leichter fallen, uns allen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Aber ich würde dich trotzdem ",
+				"bitten,\\. dieses Verhalten abzulegen...\\.",
+				"So würde der Auftrag sicher weitaus ",
+				"leichter fallen,\\. uns allen."
+			]
+		},
+		{
+			"path": [68,4,103,1],
+			"original": "Soko: ...In Ordnung, ... Kento.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...\\.In Ordnung,\\. ...\\. Kento."
+			]
+		},
+		{
+			"path": [68,4,105,3],
+			"original": "Kento: Du wirst sehen, Cibon wird seine Einstellung dir gegenüber sehr schnell ändern...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Du wirst sehen,\\. Cibon wird ",
+				"seine Einstellung dir gegenüber sehr",
+				"schnell ändern..."
+			]
+		},
+		{
+			"path": [68,4,112,4],
+			"original": "Soko: Wo wir schon bei Kameradschaft und Vertrauen sind, Kento, deinen Nachnamen kenne ich immer noch nicht...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wo wir schon bei ",
+				"Kameradschaft und Vertrauen sind,\\. ",
+				"Kento,\\. deinen Nachnamen kenne ich ",
+				"immer noch nicht..."
+			]
+		},
+		{
+			"path": [68,4,118,1],
+			"original": "Kento: Oh...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Oh..."
+			]
+		},
+		{
+			"path": [68,4,120,4],
+			"original": "Soko: Irgendwas muss mit deinem Namen nicht stimmen, wenn du ihn nicht verraten willst... Hast du Dreck am Stecken, oder wie?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Irgendwas muss mit deinem ",
+				"Namen nicht stimmen,\\. wenn du ihn ",
+				"nicht verraten willst...\\. Hast du Dreck ",
+				"am Stecken,\\. oder wie?"
+			]
+		},
+		{
+			"path": [68,4,125,1],
+			"original": "Kento: Ja, das kann man so sagen...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja,\\. das kann man so sagen..."
+			]
+		},
+		{
+			"path": [68,4,128,3],
+			"original": "Soko: Also...? Du kannst ihn mir sagen. Mir ist egal, wie schlimm deine Verwandtschaft ist oder war.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Also...?\\. Du kannst ihn mir ",
+				"sagen.\\. Mir ist egal, wie schlimm ",
+				"deine Verwandtschaft ist oder war."
+			]
+		},
+		{
+			"path": [68,4,135,2],
+			"original": "Kento: ... Es tut mir Leid, ich kann es nicht.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ...\\. Es tut mir Leid,\\. ",
+				"ich kann es nicht. "
+			]
+		},
+		{
+			"path": [68,4,142,4],
+			"original": "Soko: Achso... Ich soll mit meiner Redensart aufhören, aber du kannst munter weiter den Geheimnisvollen spielen, oder wie?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Achso...\\. Ich soll mit meiner ",
+				"Redensart aufhören,\\. aber du kannst ",
+				"munter weiter den Geheimnisvollen ",
+				"spielen,\\. oder wie?"
+			]
+		},
+		{
+			"path": [68,4,151,1],
+			"original": "Soko: So ist das also, ... nun dann",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: So ist das also,\\.\\. ...\\. nun dann\\.\\^"
+			]
+		},
+		{
+			"path": [68,4,153,1],
+			"original": "Kento: Daikon.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Daikon."
+			]
+		},
+		{
+			"path": [68,4,163,1],
+			"original": "Soko: Öh... Dai...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Öh...\\. Dai...\\.\\^"
+			]
+		},
+		{
+			"path": [68,4,167,4],
+			"original": "Kento: Daikon! Und wag es nicht, mich mit diesen Namen anzusprechen oder mir deshalb Fragen zu stellen!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Daikon!\\. \\s[4]Und wag es nicht,\\. ",
+				"mich mit diesen Namen ",
+				"anzusprechen oder mir deshalb ",
+				"Fragen zu stellen!"
+			]
+		},
+		{
+			"path": [68,4,177,1],
+			"original": "Soko: Daikon...? Der eine...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Daikon...?\\.\\. Der eine...\\.\\^"
+			]
+		},
+		{
+			"path": [68,4,182,2],
+			"original": "Kento: Ich sagte KEINE Fragen, ist das klar?!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich sagte \\s[5]KEINE Fragen\\s[0],\\. ist ",
+				"das klar?!"
+			]
+		},
+		{
+			"path": [68,4,189,1],
+			"original": "Soko: .... S..Schon gut...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ....\\. S..\\.Schon gut..."
+			]
+		},
+		{
+			"path": [68,4,196,2],
+			"original": "Kento: Am besten vergisst du, dass ich so heiße...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Am besten vergisst du,\\. dass ",
+				"ich so heiße..."
+			]
+		},
+		{
+			"path": [68,4,202,2],
+			"original": "Soko: ... Ich verstehe es zwar nicht, aber wie du willst...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...\\. Ich verstehe es zwar nicht,\\. ",
+				"aber wie du willst..."
+			]
+		},
+		{
+			"path": [68,5,8,3],
+			"original": "Soko: Oh! Der Post-Versand Zug aus West-Brigantia kommt gerade vorbei!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Oh!\\. Der Post-Versand Zug ",
+				"aus West-Brigantia kommt gerade ",
+				"vorbei! "
+			]
+		},
+		{
+			"path": [68,5,105,1],
+			"original": "Soko: Wahnsinn! Wie viele Reiter...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wahnsinn! Wie viele Reiter..."
+			]
+		},
+		{
+			"path": [68,5,119,2],
+			"original": "Kento: Oh, das sehe ich zum ersten Mal.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Oh, das sehe ich zum ersten ",
+				"Mal."
+			]
+		},
+		{
+			"path": [68,5,124,1],
+			"original": "Soko: Ja, ich auch...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ja,\\. ich auch..."
+			]
+		},
+		{
+			"path": [68,5,130,3],
+			"original": "Kento: ... Ich geh ins Bett, ich muss noch etwas mehr schlafen, der morgige Tag wird lang.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ...\\. Ich geh ins Bett,\\. ich muss ",
+				"noch etwas mehr schlafen,\\. der ",
+				"morgige Tag wird lang."
+			]
+		},
+		{
+			"path": [68,5,134,2],
+			"original": "Soko: Ja, ich werde gleich auch wieder ins Bett gehen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ja,\\. ich werde gleich auch ",
+				"wieder ins Bett gehen."
+			]
+		},
+		{
+			"path": [87,2,5,2],
+			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
+				"nicht alleine verlassen."
+			]
+		},
+		{
+			"path": [88,2,5,2],
+			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
+				"nicht alleine verlassen."
+			]
+		},
+		{
+			"path": [89,2,5,2],
+			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
+				"nicht alleine verlassen."
+			]
+		},
+		{
+			"path": [90,2,5,2],
+			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
+				"nicht alleine verlassen."
+			]
+		},
+		{
+			"path": [91,2,5,2],
+			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
+				"nicht alleine verlassen."
+			]
+		},
+		{
+			"path": [92,2,5,2],
+			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
+				"nicht alleine verlassen."
+			]
+		},
+		{
+			"path": [93,2,5,2],
+			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
+				"nicht alleine verlassen."
+			]
+		},
+		{
+			"path": [94,2,5,2],
+			"original": "Kento: Ich sollte den Gasthof besser nicht alleine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich sollte den Gasthof besser",
+				"nicht alleine verlassen."
+			]
+		},
+		{
+			"path": [130,3,35,2],
+			"original": "Yahenru: Da seid ihr ja! Nun, was ist? Werdet ihr gegen mich kämpfen?",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Da seid ihr ja!\\. Nun, was ",
+				"ist?\\. Werdet ihr gegen mich kämpfen?"
+			]
+		},
+		{
+			"path": [130,3,41,2],
+			"indent": 1,
+			"original": "Yahenru: Gut! Dann auf in den Kampf!",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Gut!\\. Dann auf in den ",
+				"Kampf!"
+			]
+		},
+		{
+			"path": [130,3,62,2],
+			"indent": 1,
+			"original": "Yahenru: Ach, das wollt ihr? Nun, wenn das so ist....",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Ach, das wollt ihr?\\.",
+				"Nun, wenn das so ist...."
+			]
+		},
+		{
+			"path": [130,3,64,3],
+			"indent": 1,
+			"original": "Yahenru: Waffen zeichnen sich nicht nur durch ihre Angriffsstärke aus.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Waffen zeichnen sich",
+				"nicht nur durch ihre Angriffsstärke ",
+				"aus."
+			]
+		},
+		{
+			"path": [130,3,67,3],
+			"indent": 1,
+			"original": "Yahenru: Einige Waffen haben auch Einfluss auf Abwehr, mentale Kraft und Agilität. Aber nicht nur das.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Einige Waffen haben auch ",
+				"Einfluss auf Abwehr, mentale Kraft ",
+				"und Agilität. Aber nicht nur das."
+			]
+		},
+		{
+			"path": [130,3,70,4],
+			"indent": 1,
+			"original": "Yahenru: Es gibt auch Waffen die ganz besondere Eigenschaften haben. Ich werde dir mal ein paar Beispiele geben.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Es gibt auch Waffen die ",
+				"ganz besondere Eigenschaften ",
+				"haben. Ich werde dir mal ein paar ",
+				"Beispiele geben."
+			]
+		},
+		{
+			"path": [130,3,74,4],
+			"indent": 1,
+			"original": "Yahenru: Einige Waffen machen Element-Schaden und sind damit gegen bestimmte Gegner besonders wirkungsvoll.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Einige Waffen machen ",
+				"\\c[11]Element-Schaden\\c[0] und sind damit ",
+				"gegen bestimmte Gegner besonders ",
+				"wirkungsvoll."
+			]
+		},
+		{
+			"path": [130,3,80,2],
+			"indent": 1,
+			"original": "Yahenru: Solche Waffen haben diese Symbole in ihrer Beschreibung.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Solche Waffen haben ",
+				"diese Symbole in ihrer Beschreibung."
+			]
+		},
+		{
+			"path": [130,3,83,3],
+			"indent": 1,
+			"original": "Yahenru: Andere Waffen wiederum können Zustände verursachen, wenn man mit ihnen angreift.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Andere Waffen wiederum ",
+				"können \\c[11]Zustände verursachen\\c[0], wenn ",
+				"man mit ihnen angreift."
+			]
+		},
+		{
+			"path": [130,3,88,2],
+			"indent": 1,
+			"original": "Yahenru: Du erkennst sie an diesen Symbolen.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Du erkennst sie an diesen ",
+				"Symbolen."
+			]
+		},
+		{
+			"path": [130,3,90,3],
+			"indent": 1,
+			"original": "Yahenru: So ein Schwert, dass Schlaf verursacht ist schon was Feines, glaub' mir.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: So ein Schwert, dass Schlaf ",
+				"verursacht ist schon was Feines, ",
+				"glaub' mir. "
+			]
+		},
+		{
+			"path": [130,3,94,4],
+			"indent": 1,
+			"original": "Yahenru: Ich hab auch schon Waffen gesehen, die den Träger die Fähigkeit geben sollen, einige Zauber gegen alle Ziele aussprechen zu können.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Ich hab auch schon Waffen ",
+				"gesehen, die den Träger die Fähigkeit ",
+				"geben sollen, \\c[11]einige Zauber gegen ",
+				"alle Ziele aussprechen zu können\\c[0]."
+			]
+		},
+		{
+			"path": [130,3,100,3],
+			"indent": 1,
+			"original": "Yahenru: Das ganze nennt sich Zauber-Streuer und ist durch solch ein Symbol gekennzeichnet.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Das ganze nennt sich ",
+				"\\c[11]Zauber-Streuer\\c[0] und ist durch solch ",
+				"ein Symbol gekennzeichnet."
+			]
+		},
+		{
+			"path": [130,3,104,3],
+			"indent": 1,
+			"original": "Yahenru: Eine meiner Lieblings- Eigenschaften von Waffen ist zweifellos der Konter!",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Eine meiner Lieblings- ",
+				"Eigenschaften von Waffen ist ",
+				"zweifellos der \\c[11]Konter\\c[0]!"
+			]
+		},
+		{
+			"path": [130,3,109,4],
+			"indent": 1,
+			"original": "Yahenru: An diesem Symbolen erkennst du Konter-Waffen. Dabei gibt es 2 verschiedene Arten von Konterangriffen.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: An diesem Symbolen ",
+				"erkennst du Konter-Waffen. ",
+				"Dabei gibt es 2 verschiedene Arten ",
+				"von Konterangriffen."
+			]
+		},
+		{
+			"path": [130,3,113,4],
+			"indent": 1,
+			"original": "Yahenru: Beim Angriff-Konter wird nach einem physischen Treffer gekontert, bei Signum-Konter nach einem magischen Treffer.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Beim \\c[11]Angriff-Konter\\c[0] wird ",
+				"nach einem physischen Treffer ",
+				"gekontert, bei \\c[11]Signum-Konter\\c[0] nach ",
+				"einem magischen Treffer."
+			]
+		},
+		{
+			"path": [130,3,117,3],
+			"indent": 1,
+			"original": "Yahenru: Das Level (lv) gibt übrigens an, mit welcher Wahrscheinlichkeit der Konterangriff eintritt.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Das Level (lv) gibt übrigens ",
+				"an, mit welcher Wahrscheinlichkeit ",
+				"der Konterangriff eintritt."
+			]
+		},
+		{
+			"path": [130,3,121,3],
+			"indent": 1,
+			"original": "Yahenru: Schließlich können Waffen noch bestimmte Verzauberungen mit sich ziehen.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Schließlich können Waffen ",
+				"noch bestimmte \\c[11]Verzauberungen\\c[0] mit ",
+				"sich ziehen."
+			]
+		},
+		{
+			"path": [130,3,126,4],
+			"indent": 1,
+			"original": "Yahenru: Das ganze wird mit diesen Symbolen verdeutlicht. Eine Waffe mit Auto-Sprint oder Auto-Ferres kann äußerst praktisch sein.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Das ganze wird mit diesen ",
+				"Symbolen verdeutlicht.\\. Eine Waffe ",
+				"mit Auto-Sprint oder Auto-Ferres ",
+				"kann äußerst praktisch sein."
+			]
+		},
+		{
+			"path": [130,3,131,3],
+			"indent": 1,
+			"original": "Yahenru: Das sind ein paar der Eigenschaften, die Waffen haben können.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Das sind ein paar der ",
+				"Eigenschaften, die Waffen haben ",
+				"können. "
+			]
+		},
+		{
+			"path": [130,3,134,3],
+			"indent": 1,
+			"original": "Yahenru: Natürlich haben nur besondere Waffen solche Eigenschaften.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Natürlich haben nur ",
+				"besondere Waffen solche ",
+				"Eigenschaften. "
+			]
+		},
+		{
+			"path": [130,3,137,3],
+			"indent": 1,
+			"original": "Yahenru: Im Waffenladen von Nebenan findest du so was sicherlich nicht.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Im Waffenladen von ",
+				"Nebenan findest du so was sicherlich ",
+				"nicht."
+			]
+		},
+		{
+			"path": [130,3,140,3],
+			"indent": 1,
+			"original": "Yahenru: Das war's auch schon. Und nun nehmt die Herausforderung an und kämpft!",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Das war's auch schon.",
+				"Und nun nehmt die Herausforderung ",
+				"an und kämpft!"
+			]
+		},
+		{
+			"path": [130,3,156,4],
+			"indent": 1,
+			"original": "Yahenru: Seid keine Feiglinge und zeigt mir, dass ihr es drauf habt! Ich warte meinetwegen auch noch etwas...",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Seid keine Feiglinge und ",
+				"zeigt mir, dass ihr es drauf habt!\\. ",
+				"Ich warte meinetwegen auch noch ",
+				"etwas..."
+			]
+		},
+		{
+			"path": [130,4,5,4],
+			"indent": 1,
+			"original": "Yahenru: Na, das war wirklich enttäuschend. Ihr solltet euch nach besseren Waffen umsehen, sonst werdet ihr mich nie schlagen...",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Na, das war wirklich",
+				"enttäuschend.\\. Ihr solltet euch nach ",
+				"besseren Waffen umsehen, sonst ",
+				"werdet ihr mich nie schlagen..."
+			]
+		},
+		{
+			"path": [130,4,9,3],
+			"indent": 1,
+			"original": "Yahenru: Nun gut... Ich werde dann weiter ziehen. Vielleicht sehen wir uns irgendwann wieder.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Nun gut... Ich werde dann ",
+				"weiter ziehen.\\. Vielleicht sehen wir ",
+				"uns irgendwann wieder. "
+			]
+		},
+		{
+			"path": [130,4,12,3],
+			"indent": 1,
+			"original": "Yahenru: Ich hoffe bis dahin habt ihr euch zu ebenbürtigen Gegner aufgerüstet!",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Ich hoffe bis dahin habt ihr ",
+				"euch zu ebenbürtigen Gegner ",
+				"aufgerüstet!"
+			]
+		},
+		{
+			"path": [130,4,15,1],
+			"indent": 1,
+			"original": "Yahenru: Also, bis dann!",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Also, bis dann!"
+			]
+		},
+		{
+			"path": [130,4,21,4],
+			"indent": 1,
+			"original": "Yahenru: Sehr schön! Ihr scheint wirklich das richtige Maß an Stärke zu besitzen um die Ehre zu haben, einer meiner Waffen zu bekommen.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Sehr schön!\\. Ihr scheint ",
+				"wirklich das richtige Maß an Stärke ",
+				"zu besitzen um die Ehre zu haben, ",
+				"einer meiner Waffen zu bekommen."
+			]
+		},
+		{
+			"path": [130,4,25,3],
+			"indent": 1,
+			"original": "Yahenru: Ich gebe euch diese Lanze hier - die Ultioslanze! Ein sehr schönes Teil.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Ich gebe euch diese Lanze ",
+				"hier - \\c[11]die Ultioslanze\\c[0]!",
+				"Ein sehr schönes Teil."
+			]
+		},
+		{
+			"path": [130,4,39,4],
+			"indent": 1,
+			"original": "Yahenru: Zwar ist ihre Angriffskraft nicht die Allerbeste, aber für eure Verhältnisse müsste es mehr als genug sein.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Zwar ist ihre Angriffskraft ",
+				"nicht die Allerbeste, aber für eure ",
+				"Verhältnisse müsste es mehr als ",
+				"genug sein."
+			]
+		},
+		{
+			"path": [130,4,43,4],
+			"indent": 1,
+			"original": "Yahenru: Das besondere an dieser Waffe ist aber, dass sie eine Konter-Eigenschaft hat. Und zwar\"Lv.1-Angriff-Konter\"",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Das besondere an dieser ",
+				"Waffe ist aber, dass sie eine ",
+				"Konter-Eigenschaft hat.\\. ",
+				"Und zwar\"Lv.1-Angriff-Konter\""
+			]
+		},
+		{
+			"path": [130,4,47,4],
+			"indent": 1,
+			"original": "Yahenru: Vor allem in Verbindung mit einem erhöhten Reflex-Wert, kann diese Waffe sehr wirkungsvoll sein.",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Vor allem in Verbindung ",
+				"mit einem erhöhten Reflex-Wert, ",
+				"kann diese Waffe sehr wirkungsvoll ",
+				"sein."
+			]
+		},
+		{
+			"path": [130,4,51,4],
+			"indent": 1,
+			"original": "Yahenru: Denn wenn man einem Angriff ausweicht, wird die Konter-Wahrscheinlichkeit verdoppelt!",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Denn wenn man",
+				"einem Angriff ausweicht, wird die ",
+				"Konter-Wahrscheinlichkeit ",
+				"verdoppelt!"
+			]
+		},
+		{
+			"path": [130,4,56,2],
+			"indent": 1,
+			"original": "Kento: Oh... Das ist in der Tat eine interessante Waffe... Vielen Dank!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Oh...\\. Das ist in der Tat eine ",
+				"interessante Waffe...\\. Vielen Dank!"
+			]
+		},
+		{
+			"path": [130,4,59,4],
+			"indent": 1,
+			"original": "Yahenru: Keine Ursache, Kämpfer wie ihr habt es verdient solche Waffen zu führen! Gut, ich muss dann weiter!",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Keine Ursache, Kämpfer ",
+				"wie ihr habt es verdient solche ",
+				"Waffen zu führen!\\. ",
+				"Gut,\\. ich muss dann weiter!"
+			]
+		},
+		{
+			"path": [130,4,63,3],
+			"indent": 1,
+			"original": "Yahenru: Viele starke Waffen in dieser Welt warten auf mich. Man sieht sich!",
+			"lines":
+			[
+				"\\c[10]Yahenru\\c[0]: Viele starke Waffen in ",
+				"dieser Welt warten auf mich.\\.",
+				"Man sieht sich!"
+			]
+		},
+		{
+			"path": [130,4,88,2],
+			"indent": 1,
+			"original": "(Kento: Ein wirklich komischer Kerl, aber er ist unheimlich stark....)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Ein wirklich komischer Kerl, ",
+				"aber er ist unheimlich stark....)"
+			]
+		},
+		{
+			"path": [130,4,93,3],
+			"indent": 1,
+			"original": "(Kento: Ein komischer Kerl... Schenkt uns eine Waffe, nur weil wir ihn in einem Kampf besiegt haben...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Ein komischer Kerl... ",
+				"Schenkt uns eine Waffe, nur weil wir ",
+				"ihn in einem Kampf besiegt haben...)"
+			]
+		},
+		{
+			"path": [134,1,2,4],
+			"original": "Händler: Diese Gegend wird zunehmend von Händler und Reisenden durchquert, es ist nur eine Frage der Zeit, bis sich hier eine kleine Siedlung bilden wird.",
+			"lines":
+			[
+				"\\c[10]Händler\\c[0]: Diese Gegend wird zunehmend ",
+				"von Händler und Reisenden durchquert, es ist ",
+				"nur eine Frage der Zeit, bis sich hier eine kleine ",
+				"Siedlung bilden wird."
+			]
+		},
+		{
+			"path": [134,1,6,4],
+			"original": "Händler: Im Moment ist es einfach der perfekte Ort um mit Reisenden ein Geschäft zu machen. Wie sieht's aus? Braucht ihr ein paar Heilutensilien?",
+			"lines":
+			[
+				"\\c[10]Händler\\c[0]: Im Moment ist es einfach der ",
+				"perfekte Ort um mit Reisenden ein Geschäft zu ",
+				"machen.\\. Wie sieht's aus?\\. Braucht ihr ein paar ",
+				"Heilutensilien?"
+			]
+		},
+		{
+			"path": [147,1,2,3],
+			"original": "Händler: Ich habe hier Heilessenz im Angebot. Sie heilt doppelt so stark wie Heilsirub und ist im Moment ziemlich knapp!",
+			"lines":
+			[
+				"\\c[10]Händler\\c[0]: Ich habe hier Heilessenz im Angebot.\\.",
+				"Sie heilt doppelt so stark wie Heilsirub und ist ",
+				"im Moment ziemlich knapp!"
+			]
+		},
+		{
+			"path": [150,1,2,3],
+			"original": "Händler: Ich habe hier einen wertvolle Flügelhelm im Sonderangebot. So günstig werdet ihr ihn sonst nirgends ertauschen können!",
+			"lines":
+			[
+				"\\c[10]Händler\\c[0]: Ich habe hier einen wertvolle ",
+				"Flügelhelm im Sonderangebot. So günstig werdet ",
+				"ihr ihn sonst nirgends ertauschen können!"
+			]
+		},
+		{
+			"path": [154,1,2,3],
+			"original": "Händlerin: Ich habe hier kostbaren Pfeffer im Angebot. Interessiert?",
+			"lines":
+			[
+				"\\c[10]Händlerin\\c[0]: Ich habe hier kostbaren Pfeffer im ",
+				"Angebot. Interessiert?",
+				""
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [130,3,38],
+			"original": "Ich nehme die Herausforderung an/Erzähl uns was über Waffen./Nein, jetzt noch nicht...",
+			"patch": "Ich nehme die Herausforderung an/Erzähl uns was über Waffen./Nein, jetzt noch nicht..."
+		},
+		{
+			"path": [130,3,39],
+			"original": "Ich nehme die Herausforderung an",
+			"patch": "Ich nehme die Herausforderung an"
+		},
+		{
+			"path": [130,3,60],
+			"original": "Erzähl uns was über Waffen.",
+			"patch": "Erzähl uns was über Waffen."
+		},
+		{
+			"path": [130,3,154],
+			"original": "Nein, jetzt noch nicht...",
+			"patch": "Nein, jetzt noch nicht..."
+		}
+	]
+}

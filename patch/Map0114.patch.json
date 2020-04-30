@@ -1,0 +1,108 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [7,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"This is a \\c[11]save point\\c[0]."
+			]
+		},
+		{
+			"path": [7,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"When you stand on one of these, you can",
+				"\\c[11]save the game\\c[0]."
+			]
+		},
+		{
+			"path": [7,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"To do this, open the \\c[11]menu\\c[0] using \\c[11]Esc\\c[0] and",
+				"then select \\c[11]Save\\c[0]."
+			]
+		},
+		{
+			"path": [7,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Additionally, you can always save on",
+				"the \\c[11]world map\\c[0]."
+			]
+		},
+		{
+			"path": [9,2,3,4],
+			"indent": 1,
+			"original": "Frau: Hier kommen immer recht viele Reisende vorbei, es gibt immer genug zu tun. Es ist auch immer interessant zu hören, was die Leute aus all den Gegenden zu erzählen haben.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Travellers from all walks of life pass",
+				"by here, it never gets boring.\\. It's always",
+				"interesting to hear the stories people",
+				"from all over have to tell."
+			]
+		},
+		{
+			"path": [9,2,13,3],
+			"indent": 1,
+			"original": "Frau: Herrje, ist der Gasthof Gestern voll gewesen... Ich hab gehört  der Wanderweg war im Torasgebirge an einer Stelle behindert.",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Jeez, the inn was full yesterday...\\.",
+				"I heard the hiking trail was blocked",
+				"at one point in Mount Toras."
+			]
+		},
+		{
+			"path": [9,2,16,3],
+			"indent": 1,
+			"original": "Frau: Es kam wohl die geballte Wanderschaft hier her, als das Problem gelöst wurde, nicht wahr?",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Some wandering travellers came here",
+				"when the problem was solved, right?"
+			]
+		},
+		{
+			"path": [9,2,21,1],
+			"indent": 1,
+			"original": "Kento: Ja, genau so war es.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Yep, that's how it went."
+			]
+		},
+		{
+			"path": [9,2,23,2],
+			"indent": 1,
+			"original": "Frau: Hoffentlich kommt so was nicht noch öfters vor. Es ist mit viel Stress verbunden...",
+			"lines":
+			[
+				"\\c[10]Woman\\c[0]: Hopefully, something like that doesn't",
+				"happen too often.\\. It's rather stressful..."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [7,1,4],
+			"original": "Gasth.Corine",
+			"patch": "Corine Inn"
+		}
+	]
+}
