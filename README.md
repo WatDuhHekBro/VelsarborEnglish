@@ -48,10 +48,10 @@ After the first major release, the `dev` branch will still be used so there aren
 
 # TO-DO List (If you don't want to see any potential spoilers, stop reading.)
 *Because every project needs a to-do list!*
-- Picture Text: 100%
+- Picture Text: 90%
 - Fancy Text: 95%
 - Database: 53%
-- Special (#1/#10/#28): 45%
+- Special (#1/#10/#28): 100%
 ## Sections/Areas
 - Prologue: 100%
 - Sinkholm: 100%
@@ -59,7 +59,7 @@ After the first major release, the `dev` branch will still be used so there aren
 - Nomerea: 100%
 - The Lohne: 100%
 - Mount Toras: 100%
-- Wayfarer's Inn: 10%
+- Wayfarer's Inn: 100%
 - The Corine Plateau: 0%
 - Gencorin Pt I: 0%
 - The Silvan Forest: 2%

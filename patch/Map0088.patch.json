@@ -6,7 +6,7 @@
 			"original": "Händler: Hm, wenn Sie hier schon in mein Zimmer auftauchen, schauen Sie sich doch bitte dieses Angebot an...",
 			"lines":
 			[
-				"\\c[10]Merchant\\c[0]: Hm, well if you're already in my room,",
+				"\\c[10]Trader\\c[0]: Hm, well if you're already in my room,",
 				"then please take a look at this offer..."
 			]
 		}
