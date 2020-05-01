@@ -48,8 +48,8 @@ After the first major release, the `dev` branch will still be used so there aren
 
 # TO-DO List (If you don't want to see any potential spoilers, stop reading.)
 *Because every project needs a to-do list!*
-- Picture Text: 90%
-- Fancy Text: 95%
+- Picture Text: 100%
+- Fancy Text: 100%
 - Database: 53%
 - Special (#1/#10/#28): 100%
 ## Sections/Areas
