@@ -868,23 +868,23 @@ Gesamt: Total
 # Misc #
 ########
 -= analyse =-
-**Note** For some of these, I have no idea where they appear, so I'm just gonna wing it.
-mit Erde-Element: with Earth
-mit Feuer-Element: with Fire
+**Note** These appear in the analysis menu (duh). A lot of them only appear when the enemy has a protective shield, such as the horny beetle (heh). "mit x-Element" and "x Treffer" are pushed all the way to the right.
+mit Erde-Element: using earth
+mit Feuer-Element: using fire
 jeden Treffer: All Attacks
-mit Licht-Element: with Light
+mit Licht-Element: using light
 magischen Treffer: Magic Attacks
 einen Treffer mit Mindestschaden von: An attack with a minimum damage of
 physischen Treffer: Physical Attacks
-mit Schatten-Element: with Shadow
-Schutzschild: Protective Shield
-SCHÜTZT BEI: PROTECTS WITH
-BRICHT NACHT: BREAKS NIGHT (WITHOUT if it's actually NICHT)
-Treffer: Attack (or Attacks?)
-mit Wasser-Element: with Water
-mit Wind-Element: with Wind
+mit Schatten-Element: using shadow
+Schutzschild: Magic Shield
+SCHÜTZT BEI: PROTECTS AGAINST
+BRICHT NACHT: BREAKS WITH (probably NICHT, but regardless...)
+Treffer: hit(s)
+mit Wasser-Element: using water
+mit Wind-Element: using wind
 Verzauberungen: Enchantments
-Ziel: Enem
+Ziel: Enemy
 Status-Abwehr: Stats Resist
 Element-Abwehr: Elemental Resist
 Zustand-Abwehr: Effects Resist
