@@ -1,0 +1,76 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [84,1,2,3],
+			"original": "Händler: Ich habe hier erstklassige Ausrüstung aus Helnovien. Sie wurde aus hochwertigen Eisen  hergestellt.",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: I have top-tier equipment from",
+				"Helnovien here. It was made from the",
+				"highest quality iron."
+			]
+		},
+		{
+			"path": [84,1,5,3],
+			"original": "Händler: Es wird noch eine Weile dauern bis diese Ware West-Brigantia erreichen wird, also zuschnappen!",
+			"lines":
+			[
+				"\\c[10]Merchant\\c[0]: It'll take a while until this shipment",
+				"reaches West Brigantia, so grab some while",
+				"you still can!"
+			]
+		},
+		{
+			"path": [87,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"This is a \\c[11]save point\\c[0]."
+			]
+		},
+		{
+			"path": [87,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"When you stand on one of these, you can",
+				"\\c[11]save the game\\c[0]."
+			]
+		},
+		{
+			"path": [87,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"To do this, open the \\c[11]menu\\c[0] using \\c[11]Esc\\c[0] and",
+				"then select \\c[11]Save\\c[0]."
+			]
+		},
+		{
+			"path": [87,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Additionally, you can always save on",
+				"the \\c[11]world map\\c[0]."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [87,1,4],
+			"original": "CorinePlat1",
+			"patch": "Corine Plateau"
+		}
+	]
+}

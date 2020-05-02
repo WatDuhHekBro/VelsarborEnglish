@@ -1,0 +1,26 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [4,1,2,3],
+			"original": "Alte Frau: Ihr seid von Brigantia, oder? Lasst euch lieber nicht bei meinem Mann blicken, er wird nicht gut auf euch zu sprechen sein.",
+			"lines":
+			[
+				"\\c[10]Alte Frau\\c[0]: Ihr seid von Brigantia, oder?\\. Lasst ",
+				"euch lieber nicht bei meinem Mann blicken, er wird ",
+				"nicht gut auf euch zu sprechen sein."
+			]
+		},
+		{
+			"path": [4,1,5,4],
+			"original": "Alte Frau: Es ist nicht nur weil er wie viele andere aus dem Corine Wald vertrieben wurde. Sein Bruder hat im Krieg sein Leben gelassen. Dafür hasst er Brigantia über alles.",
+			"lines":
+			[
+				"\\c[10]Alte Frau\\c[0]: Es ist nicht nur weil er wie viele ",
+				"andere aus dem Corine Wald vertrieben wurde.\\. Sein ",
+				"Bruder hat im Krieg sein Leben gelassen.\\. Dafür ",
+				"hasst er Brigantia über alles."
+			]
+		}
+	]
+}

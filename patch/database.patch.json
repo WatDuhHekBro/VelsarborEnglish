@@ -925,8 +925,8 @@
 			"original": "Soko: Cibon, was fällt dir ein einfach so los zu stürmen?!",
 			"lines":
 			[
-				"\\c[13]Soko\\c[0]: Cibon, was fällt dir ein einfach so los zu ",
-				"stürmen?!"
+				"\\c[13]Soko\\c[0]: Cibon, what were you thinking when storming",
+				"them?!"
 			]
 		},
 		{
@@ -935,8 +935,7 @@
 			"original": "Cibon: Sag bloß, du hättest dem Spektakel nur zugesehen!",
 			"lines":
 			[
-				"\\c[2]Cibon\\c[0]: Sag bloß, du hättest dem Spektakel nur ",
-				"zugesehen!"
+				"\\c[2]Cibon\\c[0]: Just say you just watched the spectacle!"
 			]
 		},
 		{
@@ -945,7 +944,7 @@
 			"original": "Soko: Nein... aber...",
 			"lines":
 			[
-				"\\c[13]Soko\\c[0]: Nein...\\. aber..."
+				"\\c[13]Soko\\c[0]: No...\\. But..."
 			]
 		},
 		{
@@ -954,7 +953,8 @@
 			"original": "Cibon: Nichts aber, jetzt wird gekämpft!",
 			"lines":
 			[
-				"\\c[2]Cibon\\c[0]: Nichts aber,\\. jetzt wird gekämpft!"
+				"\\c[2]Cibon\\c[0]: Forget it,\\. now there's a battle to attend",
+				"to!"
 			]
 		},
 		{
@@ -1021,8 +1021,8 @@
 			"original": "Kento: Wie kommt es eigentlich, dass die starken Gegner uns immer von oben überraschen?",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: Wie kommt es eigentlich, dass die starken ",
-				"Gegner uns immer von oben überraschen?"
+				"\\c[1]Kento\\c[0]: How is it that strong opponents always",
+				"surprise us from above?"
 			]
 		},
 		{
@@ -1031,8 +1031,8 @@
 			"original": "Cibon: Joa, wir sollten in Zukunft mehr unterirdisch reisen, nicht wahr Kumpel?",
 			"lines":
 			[
-				"\\c[2]Cibon\\c[0]: Joa, wir sollten in Zukunft mehr ",
-				"unterirdisch reisen,\\. nicht wahr Kumpel?"
+				"\\c[2]Cibon\\c[0]: Yeah, we should start travelling",
+				"underground more in the future,\\. shouldn't we?"
 			]
 		},
 		{
@@ -1041,8 +1041,8 @@
 			"original": "Soko: Hey! Wie sollen wir gegen diesen Gegner vorgehen?",
 			"lines":
 			[
-				"\\c[13]Soko\\c[0]: Hey!\\. Wie sollen wir gegen diesen Gegner ",
-				"vorgehen?"
+				"\\c[13]Soko\\c[0]: Hey!\\. What should we do against this",
+				"opponent?"
 			]
 		},
 		{
@@ -1051,7 +1051,7 @@
 			"original": "Kento: Er reitet einen fliegenden Hornkäfer...",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: Er reitet einen fliegenden Hornkäfer..."
+				"\\c[1]Kento\\c[0]: He rides a flying horned beetle..."
 			]
 		},
 		{
@@ -1060,8 +1060,8 @@
 			"original": "Kento: Er könnte also ähnliche Schwächen haben wie die Hornkäfer, gegen die wir gekämpft haben!",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: Er könnte also ähnliche Schwächen haben wie ",
-				"die Hornkäfer,\\. gegen die wir gekämpft haben!"
+				"\\c[1]Kento\\c[0]: It could have weaknesses similar to the",
+				"horned beetles we fought against!"
 			]
 		},
 		{
@@ -1070,8 +1070,8 @@
 			"original": "Guillian: Freut euch nicht zu früh! Rekreto ist kein normaler Hornkäfer, wartet nur ab!",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: Freut euch nicht zu früh!\\. Rekreto ist ",
-				"kein normaler Hornkäfer,\\. wartet nur ab!"
+				"\\c[10]Guillian\\c[0]: Don't rejoice too soon!\\. Rekreto isn't",
+				"just any ordinary horned beetle,\\. just you wait!"
 			]
 		},
 		{
@@ -1119,7 +1119,7 @@
 			"original": "Cibon: Was geht hier ab?!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Was geht hier ab?!"
+				"\\c[2]\\n[2]\\c[0]: What's going on here?!"
 			]
 		},
 		{
@@ -1128,8 +1128,8 @@
 			"original": "Soko: Wir müssen Herr Uroto beschützen! Das ist alles was zählt!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wir müssen Herr Uroto beschützen!\\.",
-				"Das ist alles was zählt!"
+				"\\c[13]\\n[3]\\c[0]: We have to protect Sir Uroto at all costs!\\.",
+				"That's all that matters!"
 			]
 		},
 		{
@@ -1820,8 +1820,8 @@
 			"original": "Cibon: Ohoh... Was auch immer dieses Ding vorhat, ich sollte vorbereitet sein!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Ohoh...\\. Was auch immer dieses Ding ",
-				"vorhat, ich sollte vorbereitet sein!"
+				"\\c[2]\\n[2]:\\c[0] Ohoh...\\. Whatever this thing is up to,",
+				"I should be prepared!"
 			]
 		},
 		{
@@ -2283,8 +2283,8 @@
 			"original": "Cibon: Kumpel! Pass auf, dass du dich nicht überanstrengst! Du weißt ja...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kumpel!\\. Pass auf, dass du dich nicht ",
-				"überanstrengst!\\. Du weißt ja..."
+				"\\c[2]\\n[2]\\c[0]: Kento!\\. Careful not to overwork yourself",
+				"you know..."
 			]
 		},
 		{
@@ -2293,7 +2293,7 @@
 			"original": "Kento: Laber keinen Mist!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Laber keinen Mist!"
+				"\\c[1]\\n[1]\\c[0]: No kidding!"
 			]
 		},
 		{

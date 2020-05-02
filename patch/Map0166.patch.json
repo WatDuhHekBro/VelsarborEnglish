@@ -1,0 +1,16 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [7,1,2,4],
+			"original": "Alte Mann: Soso, ihr seid also Soldaten aus Brigantia? Dürfte ich euch dann bitten schleunigst dieses Haus zu verlassen? Mit euch Leuten wollen wir NICHTS zu tun haben!",
+			"lines":
+			[
+				"\\c[10]Alte Mann\\c[0]: Soso, ihr seid also Soldaten aus ",
+				"Brigantia?\\. Dürfte ich euch dann bitten schleunigst ",
+				"dieses Haus zu verlassen?\\. Mit euch Leuten wollen ",
+				"wir NICHTS zu tun haben!"
+			]
+		}
+	]
+}

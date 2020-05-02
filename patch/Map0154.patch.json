@@ -1,0 +1,1837 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [8,1,23,2],
+			"original": "Cibon: Na wunderbar, hier is' ja noch was frei.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Na wunderbar, hier is' ja ",
+				"noch was frei. "
+			]
+		},
+		{
+			"path": [8,1,26,2],
+			"original": "Kento:  Bei der Menge an Menschen hier... Da haben wir wohl Glück gehabt.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]:  Bei der Menge an Menschen ",
+				"hier...\\. Da haben wir wohl Glück gehabt."
+			]
+		},
+		{
+			"path": [8,1,41,4],
+			"original": "Cibon: Ich habe seit wir in Sinkholm waren kein Bier mehr getrunken und seit noch viel längerer Zeit kein gutes!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ich habe seit wir in Sinkholm ",
+				"waren kein Bier mehr getrunken und ",
+				"seit noch viel längerer Zeit kein ",
+				"gutes! "
+			]
+		},
+		{
+			"path": [8,1,49,4],
+			"original": "Soko: Was habt ihr bloß immer mit eurem Bier... Es ist bitter und schmeckt sonst nach nichts, was soll daran so toll sein?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Was habt ihr bloß immer mit ",
+				"eurem Bier...\\. Es ist bitter und ",
+				"schmeckt sonst nach nichts, was soll ",
+				"daran so toll sein?"
+			]
+		},
+		{
+			"path": [8,1,55,3],
+			"original": "Cibon: Man muss genug davon getrunken haben, um es zu verstehen, Soko.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Man muss genug davon ",
+				"getrunken haben, um es zu verstehen,\\. ",
+				"Soko."
+			]
+		},
+		{
+			"path": [8,1,59,4],
+			"original": "Cibon: Komm, bestell dir auch eins. Ich wette wenn wir zurück von dieser Reise sind, wirst du Bier zu schätzen wissen!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Komm, bestell dir auch eins.\\.",
+				"Ich wette wenn wir zurück von dieser ",
+				"Reise sind, wirst du Bier zu ",
+				"schätzen wissen!"
+			]
+		},
+		{
+			"path": [8,1,67,1],
+			"original": "Soko: Nein, dank...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[4] Nein, dank...\\^"
+			]
+		},
+		{
+			"path": [8,1,69,1],
+			"original": "Cibon: Keine Widerrede!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Keine Widerrede! "
+			]
+		},
+		{
+			"path": [8,1,74,1],
+			"original": "Soko: Hmpf, meinetwegen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Hmpf,\\. meinetwegen. "
+			]
+		},
+		{
+			"path": [8,1,76,4],
+			"original": "Soko: Aber wenn es genauso schlimm ist, wie ich es in Erinnerung habe, wird das das erste und letzte Bier dieser Reise bleiben.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Aber wenn es genauso schlimm ",
+				"ist, wie ich es in Erinnerung habe, ",
+				"wird das das erste und letzte Bier ",
+				"dieser Reise bleiben."
+			]
+		},
+		{
+			"path": [8,1,84,2],
+			"original": "Cibon: Und du trinkst besser nichts Alkoholisches, Kumpel...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Und du trinkst besser nichts ",
+				"Alkoholisches,\\. Kumpel..."
+			]
+		},
+		{
+			"path": [8,1,91,3],
+			"original": "Kento: ...Jaja, bestellt mir am besten nen Tee und Zwieback und schickt mich gleich ins Bett.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ...Jaja, bestellt mir am ",
+				"besten nen Tee und Zwieback und ",
+				"schickt mich gleich ins Bett."
+			]
+		},
+		{
+			"path": [8,1,95,1],
+			"original": "Cibon: Wenn du drauf bestehst...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wenn du drauf bestehst..."
+			]
+		},
+		{
+			"path": [8,1,97,1],
+			"original": "Kento: ...Args!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ...Args!"
+			]
+		},
+		{
+			"path": [8,1,102,4],
+			"original": "Soko: Ich frage mich immer noch, wer diese merkwürdigen Personen eigentlich waren, denen wir beim Grabdenkmal begegneten...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ich frage mich immer noch, wer ",
+				"diese merkwürdigen Personen ",
+				"eigentlich waren, denen wir beim ",
+				"Grabdenkmal begegneten..."
+			]
+		},
+		{
+			"path": [8,1,108,2],
+			"original": "Soko: ... und wieso sie ausgerechnet Kento angegriffen haben.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ... und wieso sie ausgerechnet ",
+				"Kento angegriffen haben."
+			]
+		},
+		{
+			"path": [8,1,111,4],
+			"original": "Cibon: Ja, vielleicht sollten wir hier ein bisschen rumfragen, ob etwas über diese Personen bekannt ist.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ja, vielleicht sollten wir ",
+				"hier ein bisschen rumfragen, ob ",
+				"etwas über diese Personen bekannt ",
+				"ist."
+			]
+		},
+		{
+			"path": [8,1,116,3],
+			"original": "Kento: Ich bezweifle irgendwie, dass die Leute in diesem Dorf etwas über diese Personen wissen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich bezweifle irgendwie, dass ",
+				"die Leute in diesem Dorf etwas über ",
+				"diese Personen wissen. "
+			]
+		},
+		{
+			"path": [8,1,120,4],
+			"original": "Kento: Wüssten sie von ihnen, wäre es oberstes Gesprächsthema und wir hätten es bereits gemerkt, ich meine, diese Leute konnten fliegen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wüssten sie von ihnen, wäre ",
+				"es oberstes Gesprächsthema und wir ",
+				"hätten es bereits gemerkt,\\. ich ",
+				"meine,\\. diese Leute konnten fliegen."
+			]
+		},
+		{
+			"path": [8,1,125,1],
+			"original": "Soko: Das stimmt schon irgendwo...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Das stimmt schon irgendwo..."
+			]
+		},
+		{
+			"path": [8,1,130,3],
+			"original": "Herr Uroto: Das mag jetzt etwas kaltherzig klingen, aber können wir diesen Fall etwas zurückschieben?",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Das mag jetzt etwas ",
+				"kaltherzig klingen, aber können wir ",
+				"diesen Fall etwas zurückschieben? "
+			]
+		},
+		{
+			"path": [8,1,133,2],
+			"original": "Herr Uroto: Vorerst müssen Sie sich auf ihre Mission konzentrieren.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Vorerst müssen Sie sich ",
+				"auf ihre Mission konzentrieren. "
+			]
+		},
+		{
+			"path": [8,1,135,4],
+			"original": "Herr Uroto: Am ehesten können Sie in Domarkor Informationen sammeln, während ich mit anderem beschäftigt bin.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Am ehesten können Sie in ",
+				"Domarkor Informationen sammeln, ",
+				"während ich mit anderem beschäftigt ",
+				"bin."
+			]
+		},
+		{
+			"path": [8,1,140,1],
+			"original": "(Cibon: Kaltherzig, ja, wie immer.)",
+			"lines":
+			[
+				"(\\c[2]\\n[2]\\c[0]: Kaltherzig, ja, wie immer.)"
+			]
+		},
+		{
+			"path": [8,1,142,4],
+			"original": "Soko: Sie haben Recht. Es ist auch wahrscheinlicher, dass wir in Domarkor die Informationen finden die wir brauchen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Sie haben Recht.\\. Es ist auch",
+				"wahrscheinlicher, dass wir in ",
+				"Domarkor die Informationen finden ",
+				"die wir brauchen."
+			]
+		},
+		{
+			"path": [8,2,19,1],
+			"original": "Cibon: IGITT! Ekelhaft!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: IGITT! Ekelhaft! "
+			]
+		},
+		{
+			"path": [8,2,21,3],
+			"original": "Cibon: Ich hab gehofft, das sie hier im Osten etwas besseres Bier haben...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ich hab gehofft, das sie hier ",
+				"im Osten etwas besseres Bier ",
+				"haben..."
+			]
+		},
+		{
+			"path": [8,2,25,2],
+			"original": "Cibon: Aber das hier unterbietet sogar das Zeug aus Sinkholm!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Aber das hier unterbietet ",
+				"sogar das Zeug aus Sinkholm!"
+			]
+		},
+		{
+			"path": [8,2,29,3],
+			"original": "Cibon: Tut mir Leid, Soko. Das is' wirklich kein schöner Einstieg für dich...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Tut mir Leid, Soko.\\. Das is' ",
+				"wirklich kein schöner Einstieg für ",
+				"dich..."
+			]
+		},
+		{
+			"path": [8,2,38,4],
+			"original": "Soko: Was redest du da? Ich find es gar nicht schlecht... Es ist wenigstens nicht so bitter wie ich es in Erinnerung hatte.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Was redest du da?\\. Ich find es ",
+				"gar nicht schlecht...\\. Es ist ",
+				"wenigstens nicht so bitter wie ich ",
+				"es in Erinnerung hatte. "
+			]
+		},
+		{
+			"path": [8,2,45,1],
+			"original": "Cibon: ...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [8,2,54,2],
+			"original": "Soko: Hm, ich glaub ich bestellt mir gleich noch eines.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Hm, ich glaub ich bestellt mir ",
+				"gleich noch eines."
+			]
+		},
+		{
+			"path": [8,2,58,1],
+			"original": "Kento: ...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [8,2,63,3],
+			"original": "Cibon: Ohje, das kann ich nich' mit ansehen, wie du dieses Zeug trinkst. Allein davon wird mir schlecht.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ohje, das kann ich nich' mit ",
+				"ansehen, wie du dieses Zeug trinkst.\\. ",
+				"Allein davon wird mir schlecht."
+			]
+		},
+		{
+			"path": [8,2,68,3],
+			"original": "Soko: Du übertreibst vielleicht etwas, oder? Wenn dir schlecht wird, geh etwas an die frische Luft...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Du übertreibst vielleicht ",
+				"etwas, oder?\\. Wenn dir schlecht wird, ",
+				"geh etwas an die frische Luft..."
+			]
+		},
+		{
+			"path": [8,2,76,2],
+			"original": "Cibon: Ja, das is' ne gute Idee. Bin dann mal kurz draußen.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ja, das is' ne gute Idee.\\.",
+				"Bin dann mal kurz draußen."
+			]
+		},
+		{
+			"path": [8,2,87,4],
+			"original": "Soko: Herr Uroto, Sie scheinen sich ja ziemlich gut mit dem korzojenischen Volk auszukennen. Wie kommt das eigentlich?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Herr Uroto, Sie scheinen sich ",
+				"ja ziemlich gut mit dem ",
+				"korzojenischen Volk auszukennen.\\. ",
+				"Wie kommt das eigentlich?"
+			]
+		},
+		{
+			"path": [8,2,93,4],
+			"original": "Herr Uroto: Nunja, ich bin seit Kriegsende mehrmals ins Land gereist und war an den Friedensverhandlungen beteiligt.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Nunja, ich bin seit ",
+				"Kriegsende mehrmals ins Land gereist ",
+				"und war an den Friedensverhandlungen ",
+				"beteiligt."
+			]
+		},
+		{
+			"path": [8,2,97,3],
+			"original": "Herr Uroto: Auf diesem Wege hab ich oft genug die Verhältnisse zwischen den Ländern zu spüren bekommen.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Auf diesem Wege hab ich ",
+				"oft genug die Verhältnisse zwischen ",
+				"den Ländern zu spüren bekommen."
+			]
+		},
+		{
+			"path": [8,2,101,3],
+			"original": "Soko: Sie müssen ja nach Domarkor um ein Gespräch mit den farenischen Adelsbund zu halten, nicht wahr?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Sie müssen ja nach Domarkor um ",
+				"ein Gespräch mit den farenischen ",
+				"Adelsbund zu halten, nicht wahr?"
+			]
+		},
+		{
+			"path": [8,2,105,2],
+			"original": "Soko: Darf man eigentlich erfahren, worum es geht?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Darf man eigentlich erfahren, ",
+				"worum es geht?"
+			]
+		},
+		{
+			"path": [8,2,113,3],
+			"original": "Herr Uroto: Eigentlich hab ich strikte Anweisungen die Gründe nicht weiter zu geben. Aber nunja...",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Eigentlich hab ich ",
+				"strikte Anweisungen die Gründe nicht ",
+				"weiter zu geben.\\. Aber nunja..."
+			]
+		},
+		{
+			"path": [8,2,116,2],
+			"original": "Herr Uroto: Es hat mit den Friedensvertrag vor 9 Jahren zu tun.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Es hat mit den ",
+				"Friedensvertrag vor 9 Jahren zu tun. "
+			]
+		},
+		{
+			"path": [8,2,118,3],
+			"original": "Herr Uroto: Ich werde beim farenischen Adelsbund etwas nachfragen müssen.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Ich werde beim ",
+				"farenischen Adelsbund etwas ",
+				"nachfragen müssen."
+			]
+		},
+		{
+			"path": [8,2,121,3],
+			"original": "Herr Uroto: Gegebenenfalls folgt ein Durchsuchungsbefehl vom Briganten- Orden, den ich ankündigen muss.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Gegebenenfalls folgt ein ",
+				"Durchsuchungsbefehl vom Briganten-",
+				"Orden, den ich ankündigen muss."
+			]
+		},
+		{
+			"path": [8,2,124,2],
+			"original": "Herr Uroto: Mehr darf ich nicht verraten.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Mehr darf ich nicht ",
+				"verraten."
+			]
+		},
+		{
+			"path": [8,2,128,1],
+			"original": "Soko: Schade...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Schade..."
+			]
+		},
+		{
+			"path": [8,2,130,4],
+			"original": "Kento: Wir als Soldaten müssen uns auch nicht mit solchen Themen befassen. Unserer Aufgabe ist es nur, Herrn Uroto zu beschützen...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir als Soldaten müssen uns ",
+				"auch nicht mit solchen Themen ",
+				"befassen.\\. Unserer Aufgabe ist es ",
+				"nur, Herrn Uroto zu beschützen..."
+			]
+		},
+		{
+			"path": [8,2,135,1],
+			"original": "Soko: Wo du Recht hast...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wo du Recht hast..."
+			]
+		},
+		{
+			"path": [8,3,17,1],
+			"original": "Soko: Oh....",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Oh...."
+			]
+		},
+		{
+			"path": [8,3,23,1],
+			"original": "Kento: Hm, was ist los?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm, was ist los?"
+			]
+		},
+		{
+			"path": [8,3,25,3],
+			"original": "Soko: Nichts... ist nur nen merkwi..merkwä... komisches Gefühl, wenn ich den Kopf bewege...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Nichts...\\. ist nur nen ",
+				"merkwi..\\.\\.merkwä...\\.\\. komisches Gefühl, ",
+				"wenn ich den Kopf bewege..."
+			]
+		},
+		{
+			"path": [8,3,29,4],
+			"original": "Kento: Oh, und das schon nach 2 Bier... Lass dir das bloß nicht anmerken, wenn Cibon da ist. Er wird sich Wochen darüber lustig machen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Oh, und das schon nach 2 ",
+				"Bier...\\. Lass dir das bloß nicht ",
+				"anmerken, wenn Cibon da ist.\\. Er wird ",
+				"sich Wochen darüber lustig machen."
+			]
+		},
+		{
+			"path": [8,3,34,3],
+			"original": "Soko: Naja, komm, er ist hier de'jenige der an die frische Luft geht.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Naja,\\. komm,\\. er ist hier ",
+				"de'jenige der an die frische Luft ",
+				"geht."
+			]
+		},
+		{
+			"path": [8,3,45,3],
+			"original": "Cibon: Kumpel! Du wirst nicht glauben was mich gerade am Kopf getroffen hat!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Kumpel!\\. Du wirst nicht ",
+				"glauben was mich gerade am Kopf ",
+				"getroffen hat!"
+			]
+		},
+		{
+			"path": [8,3,51,2],
+			"original": "Kento: Ein Stein? Was hast du da draußen wieder angestellt?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ein Stein?\\. Was hast du da ",
+				"draußen wieder angestellt?"
+			]
+		},
+		{
+			"path": [8,3,55,2],
+			"original": "Cibon: Nein, schau' dir diese Nachricht an!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Nein, schau' dir diese ",
+				"Nachricht an!"
+			]
+		},
+		{
+			"path": [8,3,68,2],
+			"original": "Kento: Nicht wirklich, oder? Sie sind wieder auf freiem Fuß?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Nicht wirklich, oder?\\. Sie ",
+				"sind wieder auf freiem Fuß?"
+			]
+		},
+		{
+			"path": [8,3,72,1],
+			"original": "Soko: Was ist los?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Was ist los?"
+			]
+		},
+		{
+			"path": [8,3,76,3],
+			"original": "Cibon: Ein paar \"Bekannte\" von uns sind hier und wollen ein \"Duell\" mit uns...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ein paar \"Bekannte\" von uns ",
+				"sind hier und wollen ein \"Duell\" mit ",
+				"uns..."
+			]
+		},
+		{
+			"path": [8,3,80,1],
+			"original": "Soko: Bekannte? Wovon red'st du?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Bekannte?\\. Wovon red'st du?"
+			]
+		},
+		{
+			"path": [8,3,85,3],
+			"original": "Cibon: ...Soko... du klingst merkwürdig... Dein wievieltes Bier war das jetzt?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ...Soko...\\. du klingst ",
+				"merkwürdig...\\. Dein wievieltes Bier ",
+				"war das jetzt?"
+			]
+		},
+		{
+			"path": [8,3,89,2],
+			"original": "Kento: Komm Cibon, bringen wir die Sache schnell hinter uns.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Komm Cibon,\\. bringen wir die ",
+				"Sache schnell hinter uns. "
+			]
+		},
+		{
+			"path": [8,3,100,2],
+			"original": "Soko: Hey, wollt ihr mich hier ganz ausschließ'n, oder was?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Hey, wollt ihr mich hier ganz ",
+				"ausschließ'n, oder was?"
+			]
+		},
+		{
+			"path": [8,3,103,4],
+			"original": "Kento: Nimm es nicht persönlich. Sie wollen halt nur ein Duell mit uns. Genieß du lieber den Abend, du musst dich nicht darum kümmern.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Nimm es nicht persönlich.\\.",
+				"Sie wollen halt nur ein Duell mit ",
+				"uns.\\. Genieß du lieber den Abend, du ",
+				"musst dich nicht darum kümmern."
+			]
+		},
+		{
+			"path": [8,3,108,3],
+			"original": "Cibon: Mach dir keine Sorgen, Soko. Die Typen sind lächerlich.Wir werden problemlos mit denen fertig!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Mach dir keine Sorgen, Soko.\\. ",
+				"Die Typen sind lächerlich.\\ Wir ",
+				"werden problemlos mit denen fertig!"
+			]
+		},
+		{
+			"path": [8,3,112,1],
+			"original": "Kento:  Wir sind dann weg.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]:  Wir sind dann weg."
+			]
+		},
+		{
+			"path": [8,3,121,2],
+			"original": "Cibon: Schlaf du schön deinen Rausch aus!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Schlaf du schön deinen Rausch ",
+				"aus!"
+			]
+		},
+		{
+			"path": [8,3,125,1],
+			"original": "Cibon: Rausch? Wovon redeste?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Rausch?\\. Wovon redeste?"
+			]
+		},
+		{
+			"path": [8,7,21,4],
+			"original": "Hotelbesitzer: Ah, sie müssen diese Soldaten sein. Man hat mir bereit bescheid gegeben. Ihre Zimmer stehen bereit, ansonsten bedienen sie sich selber. Gute Nacht.",
+			"lines":
+			[
+				"\\c[10]Hotelbesitzer\\c[0]: Ah, sie müssen diese Soldaten sein. \\.",
+				"Man hat mir bereit bescheid gegeben.\\. Ihre Zimmer ",
+				"stehen bereit, ansonsten bedienen sie sich selber. \\.",
+				"Gute Nacht."
+			]
+		},
+		{
+			"path": [8,7,38,3],
+			"original": "Cibon: Also ich weiß nicht wie das bei euch ist, aber ich könnt' jetzt mit Sicherheit kein Auge zumachen...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Also ich weiß nicht wie das ",
+				"bei euch ist, aber ich könnt' jetzt ",
+				"mit Sicherheit kein Auge zumachen..."
+			]
+		},
+		{
+			"path": [8,7,43,2],
+			"original": "Soko: Stimmt schon, nach all der Aufregung...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Stimmt schon, nach all der ",
+				"Aufregung..."
+			]
+		},
+		{
+			"path": [8,7,46,2],
+			"original": "Kento: Lasst uns doch einfach etwas hinsetzen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Lasst uns doch einfach etwas ",
+				"hinsetzen."
+			]
+		},
+		{
+			"path": [8,7,61,3],
+			"original": "Cibon: Mensch, was ist bloß los mit diesem Land? Genehmigung von der Regierung. Was für ein Schwachsinn.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Mensch, was ist bloß los mit ",
+				"diesem Land?\\. Genehmigung von der ",
+				"Regierung.\\. Was für ein Schwachsinn."
+			]
+		},
+		{
+			"path": [8,7,65,4],
+			"original": "Soko: Ich hab schon öfters gehört, dass es einige Verwaltungsprobleme mit den neuen Teilen Brigantias gibt.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ich hab schon öfters gehört, ",
+				"dass es einige Verwaltungsprobleme ",
+				"mit den neuen Teilen Brigantias ",
+				"gibt."
+			]
+		},
+		{
+			"path": [8,7,71,4],
+			"original": "Soko: Früher war der Sitzpunkt der Herrscher dieser Gebiete in Domarkor, was eindeutig näher ist als Buronia.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Früher war der Sitzpunkt der ",
+				"Herrscher dieser Gebiete in ",
+				"Domarkor,\\. was eindeutig näher ist ",
+				"als Buronia."
+			]
+		},
+		{
+			"path": [8,7,75,4],
+			"original": "Soko: Brigantia fehlt es hier einfach an einer Hochburg, von der die Gebiete aus verwaltet werden können.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Brigantia fehlt es hier ",
+				"einfach an einer Hochburg, von der ",
+				"die Gebiete aus verwaltet werden ",
+				"können."
+			]
+		},
+		{
+			"path": [8,7,83,3],
+			"original": "Cibon: Aber wieso lassen sie den Grenzsoldaten nicht einfach etwas Eigeninitiative?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Aber wieso lassen sie den ",
+				"Grenzsoldaten nicht einfach etwas ",
+				"Eigeninitiative?"
+			]
+		},
+		{
+			"path": [8,7,87,4],
+			"original": "Soko: Ist das nicht klar? Eigeninitiative führt schnell zu Selbstjustiz und unkontrollierbaren Verhalten.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ist das nicht klar?\\.",
+				"Eigeninitiative führt schnell zu ",
+				"Selbstjustiz und unkontrollierbaren ",
+				"Verhalten."
+			]
+		},
+		{
+			"path": [8,7,92,3],
+			"original": "Soko: So entstehen schneller unnötige Konfliktsituationen als man denkt.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: So entstehen schneller ",
+				"unnötige Konfliktsituationen als man ",
+				"denkt."
+			]
+		},
+		{
+			"path": [8,7,99,1],
+			"original": "Cibon: ...Ach was auch immer...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ...Ach was auch immer..."
+			]
+		},
+		{
+			"path": [8,7,105,4],
+			"original": "Kento: Es macht doch eh keinen Unterschied, Cibon. Mit den Wachleuten alleine werden wir nicht weit kommen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es macht doch eh keinen ",
+				"Unterschied, Cibon.\\. Mit den ",
+				"Wachleuten alleine werden wir nicht ",
+				"weit kommen. "
+			]
+		},
+		{
+			"path": [8,7,109,1],
+			"original": "Kento: Wir brauchen die Verstärkung.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir brauchen die Verstärkung."
+			]
+		},
+		{
+			"path": [8,7,115,3],
+			"original": "Soko: ... Kento... und du bist sicher, dass du nicht über die Gruppe erfahren hast?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ... Kento...\\. und du bist ",
+				"sicher, dass du nicht über die ",
+				"Gruppe erfahren hast? "
+			]
+		},
+		{
+			"path": [8,7,118,3],
+			"original": "Soko: Ich meine, du bist ja anscheinend viel durch ihr Gebäude ge...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] Ich meine, du bist ja ",
+				"anscheinend viel durch ihr Gebäude ",
+				"ge...\\.\\.\\^"
+			]
+		},
+		{
+			"path": [8,7,123,3],
+			"original": "Kento: Ich sagte doch bereits, dass ich nichts weiß, oder?! Und nein, daran hat sich nichts geändert!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich sagte doch bereits, dass ",
+				"ich nichts weiß, oder?!\\. Und nein, ",
+				"daran hat sich nichts geändert!"
+			]
+		},
+		{
+			"path": [8,7,131,1],
+			"original": "Cibon: ...Kumpel?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ...Kumpel?"
+			]
+		},
+		{
+			"path": [8,7,133,2],
+			"original": "Kento: Ich geh schlafen. Weckt mich, wenn es Neuigkeiten gibt.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich geh schlafen.\\. Weckt mich, ",
+				"wenn es Neuigkeiten gibt."
+			]
+		},
+		{
+			"path": [8,7,147,1],
+			"original": "Soko: Was ist los mit ihm?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Was ist los mit ihm?"
+			]
+		},
+		{
+			"path": [8,9,18,4],
+			"original": "Kento: Soko, ich war eben bei den Grenzleuten. Wir werden heute Nacht einen Spähertrupp zu dem Stützpunkt leiten.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Soko, ich war eben bei den ",
+				"Grenzleuten.\\. Wir werden heute Nacht ",
+				"einen Spähertrupp zu dem Stützpunkt ",
+				"leiten."
+			]
+		},
+		{
+			"path": [8,9,23,2],
+			"original": "Soko: Ein Spähertrupp? Noch diese Nacht?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ein Spähertrupp?\\. Noch diese ",
+				"Nacht?"
+			]
+		},
+		{
+			"path": [8,9,26,3],
+			"original": "Kento: Ja. So können wir diese Truppe überwachen und haben mehr Zeugen für ihre Existenz.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja.\\. So können wir diese ",
+				"Truppe überwachen und haben mehr ",
+				"Zeugen für ihre Existenz."
+			]
+		},
+		{
+			"path": [8,9,30,4],
+			"original": "Soko: Das ist gut. Ich denke, das ist so ziemlich das Sinnvollste, was wir mit unserer Zeit anfangen können.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Das ist gut.\\. Ich denke, das ",
+				"ist so ziemlich das Sinnvollste, ",
+				"was wir mit unserer Zeit anfangen ",
+				"können."
+			]
+		},
+		{
+			"path": [8,9,34,2],
+			"original": "Soko: Herrn Uroto werden wir so aber nicht befreien können, nehme ich an.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Herrn Uroto werden wir so aber ",
+				"nicht befreien können, nehme ich an."
+			]
+		},
+		{
+			"path": [8,9,41,1],
+			"original": "Kento: Höchstwahrscheinlich nicht.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Höchstwahrscheinlich nicht. "
+			]
+		},
+		{
+			"path": [8,9,42,4],
+			"original": "Kento: Wir können an Herrn Urotos Situation im Moment einfach nichts ändern, mach dir keinen zu großen Kopf darum.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir können an Herrn Urotos ",
+				"Situation im Moment einfach nichts ",
+				"ändern, mach dir keinen zu großen ",
+				"Kopf darum."
+			]
+		},
+		{
+			"path": [8,9,48,4],
+			"original": "Soko: Ich kann nicht anders. Herrn Uroto zu beschützen war der Sinn unserer Mission - und wir haben versagt.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ich kann nicht anders.\\. Herrn ",
+				"Uroto zu beschützen war der Sinn ",
+				"unserer Mission - und wir haben ",
+				"versagt. "
+			]
+		},
+		{
+			"path": [8,9,53,3],
+			"original": "Soko: Das schlechte Gewissen wird bleiben, bis er wieder befreit wurde...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Das schlechte Gewissen wird ",
+				"bleiben, bis er wieder befreit ",
+				"wurde..."
+			]
+		},
+		{
+			"path": [8,9,57,2],
+			"original": "Kento: Ich finde, du verharrst dich zu sehr auf dieses Missionsziel.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich finde, du verharrst dich ",
+				"zu sehr auf dieses Missionsziel."
+			]
+		},
+		{
+			"path": [8,9,60,4],
+			"original": "Kento: Jeder Soldat hat im Grunde zu jeder Zeit die Aufgabe, sein Land zu beschützen, und wir tun nichts anderes im Moment.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Jeder Soldat hat im Grunde zu ",
+				"jeder Zeit die Aufgabe, sein Land zu ",
+				"beschützen, und wir tun nichts ",
+				"anderes im Moment."
+			]
+		},
+		{
+			"path": [8,9,68,4],
+			"original": "Soko: Nein Kento... ich mag diese Denkweise nicht. Du magst Recht haben, dass jeder Soldat sein Land beschützen sollte.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Nein Kento...\\. ich mag diese ",
+				"Denkweise nicht. \\.Du magst Recht ",
+				"haben, dass jeder Soldat sein Land ",
+				"beschützen sollte."
+			]
+		},
+		{
+			"path": [8,9,72,3],
+			"original": "Soko: Aber nicht jedem Soldaten steht das Recht zu, aus eigener Hand zu entscheiden, wie er dies tut.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Aber nicht jedem Soldaten ",
+				"steht das Recht zu, aus eigener Hand ",
+				"zu entscheiden, wie er dies tut."
+			]
+		},
+		{
+			"path": [8,9,77,2],
+			"original": "Kento: Hm... Siehst du das nicht vielleicht etwas zu eng?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm... Siehst du das nicht ",
+				"vielleicht etwas zu eng?"
+			]
+		},
+		{
+			"path": [8,9,80,2],
+			"original": "Soko: Nein, das tu ich nicht!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Nein, das tu ich ",
+				"nicht! "
+			]
+		},
+		{
+			"path": [8,9,83,4],
+			"original": "Soko: Weißt du überhaupt, wieviele Bürgerkriege und Massaker in diesem Land geschehen sind, nur weil jemand diese Denkweise hatte?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Weißt du überhaupt, wieviele ",
+				"Bürgerkriege und Massaker in diesem ",
+				"Land geschehen sind, nur weil jemand ",
+				"diese Denkweise hatte?"
+			]
+		},
+		{
+			"path": [8,9,89,3],
+			"original": "Kento: Das sind die extremen Fälle. Denkst du unsere Spionage würde zu einem Bürgerkrieg führen?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Das sind die extremen Fälle.\\.",
+				"Denkst du unsere Spionage würde zu ",
+				"einem Bürgerkrieg führen?"
+			]
+		},
+		{
+			"path": [8,9,96,3],
+			"original": "Soko: Du verstehst es nicht! In einem Fall klappt es, im anderen hast du eine Katastrophe!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Du verstehst es nicht!\\. In ",
+				"einem Fall klappt es, im anderen ",
+				"hast du eine Katastrophe! "
+			]
+		},
+		{
+			"path": [8,9,99,3],
+			"original": "Soko: Es hängt ganz von der Person ab, die entscheidet. Man nennt das Selbstjustiz.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Es hängt ganz von der Person ",
+				"ab, die entscheidet. Man nennt das ",
+				"Selbstjustiz."
+			]
+		},
+		{
+			"path": [8,9,104,1],
+			"original": "Kento: Du übertreibst es...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Du übertreibst es... "
+			]
+		},
+		{
+			"path": [8,9,106,4],
+			"original": "Kento: Es gibt Entscheidungen, die wirklich offensichtlich genug sind, um auf so eine Bestätigung verzichten zu können.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es gibt Entscheidungen, die ",
+				"wirklich offensichtlich genug sind, ",
+				"um auf so eine Bestätigung ",
+				"verzichten zu können."
+			]
+		},
+		{
+			"path": [8,9,111,3],
+			"original": "Soko: Das meinst du! Welche Entscheidung ist denn nun offensichtlich, welche nicht?!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Das meinst du!\\. Welche ",
+				"Entscheidung ist denn nun ",
+				"offensichtlich, welche nicht?! "
+			]
+		},
+		{
+			"path": [8,9,115,3],
+			"original": "Soko: Was du als offensichtlich ansiehst, mag vielleicht in etwa zutreffen!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Was du als offensichtlich ",
+				"ansiehst, mag vielleicht in etwa ",
+				"zutreffen!"
+			]
+		},
+		{
+			"path": [8,9,119,3],
+			"original": "Soko: Aber was ist mit den Entscheidungen, die dieser Rotschopf aus dem Gefängnis getroffen hat?!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Aber was ist mit den ",
+				"Entscheidungen, die dieser Rotschopf ",
+				"aus dem Gefängnis getroffen hat?! "
+			]
+		},
+		{
+			"path": [8,9,123,3],
+			"original": "Soko: War die \"offensichtlich\" korrekt!? Wer weiß? Vielleicht hat er das sogar geglaubt!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: War die \"offensichtlich\" ",
+				"korrekt!?\\. Wer weiß?\\. Vielleicht hat ",
+				"er das sogar geglaubt!"
+			]
+		},
+		{
+			"path": [8,9,130,2],
+			"original": "Kento: Nein... ich glaube eher, er hat aus reinem Egoismus gehandelt.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Nein... ich glaube eher, er ",
+				"hat aus reinem Egoismus gehandelt."
+			]
+		},
+		{
+			"path": [8,9,135,4],
+			"original": "Soko: Soso! Und wieso wollen wir die Gruppe ausspionieren!? Wollen wir damit nicht unsere Schuldgefühle lindern? Ist das nicht egoistisch?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Soso!\\. Und wieso wollen wir die ",
+				"Gruppe ausspionieren!?\\. Wollen wir ",
+				"damit nicht unsere Schuldgefühle ",
+				"lindern?\\. Ist das nicht egoistisch?"
+			]
+		},
+		{
+			"path": [8,9,145,1],
+			"original": "Kento: Also...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Also..."
+			]
+		},
+		{
+			"path": [8,9,147,3],
+			"original": "Kento: Worauf willst du überhaupt hinaus? Ich dachte du wärst mit der Aktion einverstanden.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Worauf willst du überhaupt ",
+				"hinaus?\\. Ich dachte du wärst mit der ",
+				"Aktion einverstanden."
+			]
+		},
+		{
+			"path": [8,9,154,2],
+			"original": "Soko: Ähm... das bin ich auch... Nein, es geht mir nur darum...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ähm...\\. das bin ich auch... \\.",
+				"Nein, es geht mir nur darum... \\."
+			]
+		},
+		{
+			"path": [8,9,157,3],
+			"original": "Soko: Du, und vor allem Cibon, ihr solltet mehr Respekt vor der Entscheidung von oben haben.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Du, und vor allem Cibon, ihr ",
+				"solltet mehr Respekt vor der ",
+				"Entscheidung von oben haben."
+			]
+		},
+		{
+			"path": [8,9,164,4],
+			"original": "Kento: ... Ich werde drüber nachdenken... Du solltest heute möglichst früh schlafen gehen, die heutige Nacht wird hart.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ... Ich werde drüber ",
+				"nachdenken...\\. Du solltest heute ",
+				"möglichst früh schlafen gehen, die ",
+				"heutige Nacht wird hart."
+			]
+		},
+		{
+			"path": [8,9,169,2],
+			"original": "Soko: Geht in Ordnung. Und bitte denkt wirklich darüber nach.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Geht in Ordnung.\\. Und bitte ",
+				"denkt wirklich darüber nach."
+			]
+		},
+		{
+			"path": [8,9,172,1],
+			"original": "Kento: Ja, werde ich.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja, werde ich."
+			]
+		},
+		{
+			"path": [8,12,13,1],
+			"original": "Soko: Bis du endlich wach?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Bis du endlich wach? "
+			]
+		},
+		{
+			"path": [8,12,15,1],
+			"original": "Kento: Ja, wir können los...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja, wir können los..."
+			]
+		},
+		{
+			"path": [8,12,17,3],
+			"original": "Soko: Draußen ist schon wieder so ein miserables Wetter. Wird sicher keine schöne Tour werden...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Draußen ist schon wieder so ",
+				"ein miserables Wetter.\\. Wird sicher ",
+				"keine schöne Tour werden..."
+			]
+		},
+		{
+			"path": [9,2,15,3],
+			"indent": 1,
+			"original": "Soko: Hm... Ist schon erstaunlich, was bei diesem Auftrag schon alles passiert ist.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Hm... Ist schon erstaunlich, ",
+				"was bei diesem Auftrag schon alles ",
+				"passiert ist."
+			]
+		},
+		{
+			"path": [9,2,19,4],
+			"indent": 1,
+			"original": "Soko: Nicht nur der Hinterhalt im Silvanwald, auch diese Höhlenaktion im Torasgebirge... und das was im Corine Plateau mit dir passiert ist.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Nicht nur der Hinterhalt im ",
+				"Silvanwald, auch diese Höhlenaktion ",
+				"im Torasgebirge...\\. und das was im ",
+				"Corine Plateau mit dir passiert ist."
+			]
+		},
+		{
+			"path": [9,2,24,3],
+			"indent": 1,
+			"original": "Soko: Und wir haben immer noch keinen Schimmer, was es damit auf sich hat, oder?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Und wir haben immer noch ",
+				"keinen Schimmer, was es damit auf ",
+				"sich hat, oder? "
+			]
+		},
+		{
+			"path": [9,2,28,3],
+			"indent": 1,
+			"original": "Kento: Nein... nicht wirklich. Wir müssen abwarten... Vielleicht zeigen sich diese Personen ja wieder.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Nein...\\. nicht wirklich.\\. Wir ",
+				"müssen abwarten...\\. Vielleicht zeigen ",
+				"sich diese Personen ja wieder."
+			]
+		},
+		{
+			"path": [9,2,35,4],
+			"indent": 1,
+			"original": "Soko: Übrigens... Hast du inzwischen irgendeine Wirkung an dir festgestellt, die aus diesem Zauber resultiert haben könnte?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Übrigens...\\. Hast du inzwischen",
+				"irgendeine Wirkung an dir ",
+				"festgestellt, die aus diesem Zauber ",
+				"resultiert haben könnte? "
+			]
+		},
+		{
+			"path": [9,2,44,2],
+			"indent": 1,
+			"original": "Kento: Wirkung...nein, ich fühle mich normal, so wie immer...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wirkung...\\.nein,\\. ich fühle ",
+				"mich normal, so wie immer..."
+			]
+		},
+		{
+			"path": [9,2,47,1],
+			"indent": 1,
+			"original": "Soko: Sehr merkwürdig....",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Sehr merkwürdig...."
+			]
+		},
+		{
+			"path": [9,2,58,2],
+			"indent": 1,
+			"original": "Soko: Ich hoffe die Hilfe für Herrn Uroto kommt nicht zu spät...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ich hoffe die Hilfe für Herrn ",
+				"Uroto kommt nicht zu spät..."
+			]
+		},
+		{
+			"path": [19,1,3,2],
+			"original": "Mädchen: Papa, wieso ist das Grass im Courine Plateau eigentlich länger als woanders?",
+			"lines":
+			[
+				"\\c[10]Mädchen\\c[0]: Papa, wieso ist das Grass im Courine ",
+				"Plateau eigentlich länger als woanders?"
+			]
+		},
+		{
+			"path": [19,1,8,4],
+			"original": "Vater: Uff... Gute Frage... Du kennst ja die Geschichte vom Courine Plateau. Vielleicht haben die Ereignisse den Ort verzaubert. Deshalb das lange Grass.",
+			"lines":
+			[
+				"\\c[10]Vater\\c[0]: Uff...\\. Gute Frage...\\. Du kennst ja die ",
+				"Geschichte vom Courine Plateau.\\. Vielleicht ",
+				"haben die Ereignisse den Ort verzaubert.\\. Deshalb ",
+				"das lange Grass."
+			]
+		},
+		{
+			"path": [19,1,12,1],
+			"original": "Mädchen: Und deshalb auch diese riesigen Insekten?",
+			"lines":
+			[
+				"\\c[10]Mädchen\\c[0]: Und deshalb auch diese riesigen Insekten?"
+			]
+		},
+		{
+			"path": [19,1,14,2],
+			"original": "Vater: Uh... erinnere mich bitte nicht an diese Viecher, meine Kleine.",
+			"lines":
+			[
+				"\\c[10]Vater\\c[0]: Uh... erinnere mich bitte nicht an diese ",
+				"Viecher, meine Kleine."
+			]
+		},
+		{
+			"path": [21,1,2,4],
+			"original": "Händlerin: Diese Monster in den nahe liegenden Nadelwäldern werden immer gefährlicher. Angeblich sollen viele von ihnen gut mit Erd-Signum zu besiegen sein.",
+			"lines":
+			[
+				"\\c[10]Händlerin\\c[0]: Diese Monster in den nahe liegenden ",
+				"Nadelwäldern werden immer gefährlicher. Angeblich ",
+				"sollen viele von ihnen gut mit Erd-Signum zu ",
+				"besiegen sein."
+			]
+		},
+		{
+			"path": [21,1,6,2],
+			"original": "Händlerin: Zu dumm, dass ich keinen Magier habe, der mich vor diesen Monstern beschützen kann.",
+			"lines":
+			[
+				"\\c[10]Händlerin\\c[0]: Zu dumm, dass ich keinen Magier habe, ",
+				"der mich vor diesen Monstern beschützen kann."
+			]
+		},
+		{
+			"path": [21,1,12,1],
+			"indent": 2,
+			"original": "Cibon: Also...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: \\s[3]Also...\\^"
+			]
+		},
+		{
+			"path": [21,1,14,2],
+			"indent": 2,
+			"original": "Kento: Cibon, wir sind mitten in einem Auftrag, vergiss es.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Cibon, wir sind mitten in ",
+				"einem Auftrag, vergiss es."
+			]
+		},
+		{
+			"path": [21,1,17,3],
+			"indent": 2,
+			"original": "Soko: Außerdem bin ich diejenige die hier zaubern müsste. Du könntest keinen Eindruck machen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Außerdem bin ich diejenige die ",
+				"hier zaubern müsste.\\. Du könntest ",
+				"keinen Eindruck machen."
+			]
+		},
+		{
+			"path": [21,1,21,1],
+			"indent": 2,
+			"original": "Cibon: Jaja, ich bin ja schon still.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Jaja, ich bin ja schon still."
+			]
+		},
+		{
+			"path": [23,1,6,3],
+			"indent": 2,
+			"original": "Hotelbesitzer: Das Zimmer ist immer noch für Sie reserviert. Ruhen Sie sich dort aus, wenn Sie müde sind.",
+			"lines":
+			[
+				"\\c[10]Hotelbesitzer\\c[0]: Das Zimmer ist immer noch für Sie ",
+				"reserviert.\\. Ruhen Sie sich dort aus, wenn Sie müde ",
+				"sind."
+			]
+		},
+		{
+			"path": [23,1,15,2],
+			"indent": 2,
+			"original": "Hotelbesitzer: Wollen sie hier übernachten? Sie haben Glück, wir haben ein Zimmer frei.",
+			"lines":
+			[
+				"\\c[10]Hotelbesitzer\\c[0]: Wollen sie hier übernachten? Sie ",
+				"haben Glück, wir haben ein Zimmer frei. "
+			]
+		},
+		{
+			"path": [23,1,21,2],
+			"indent": 3,
+			"original": "Gasthofbesitzer: Bitte nehmen sie das rechte Zimmer. Erholsamen Schlaf wünsche ich.",
+			"lines":
+			[
+				"\\c[10]Gasthofbesitzer\\c[0]: Bitte nehmen sie das rechte Zimmer. ",
+				"Erholsamen Schlaf wünsche ich."
+			]
+		},
+		{
+			"path": [24,1,2,4],
+			"original": "Mann: Falls ihr vorhabt den Silvanwald im Südosten zu durchqueren, tut das auf keinem Fall bei Nacht. Es ist schon schwer genug am Tag den Überblick zu halten, weil der Wald so zugewachsen ist.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Falls ihr vorhabt den Silvanwald im Südosten ",
+				"zu durchqueren, tut das auf keinem Fall bei Nacht.\\.",
+				"Es ist schon schwer genug am Tag den Überblick zu ",
+				"halten, weil der Wald so zugewachsen ist."
+			]
+		},
+		{
+			"path": [24,1,6,4],
+			"original": "Mann: In der Nacht aber ist alles stockduster, soweit, dass man sogar Probleme hat die eigene Hand zu sehen. So ist man ein leichtes Opfer für die Biester in der Gegend dort.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: In der Nacht aber ist alles stockduster, ",
+				"soweit, dass man sogar Probleme hat die eigene ",
+				"Hand zu sehen.\\. So ist man ein leichtes Opfer für ",
+				"die Biester in der Gegend dort."
+			]
+		},
+		{
+			"path": [25,1,6,2],
+			"indent": 2,
+			"original": "Kento: Da haben wir jetzt nichts zu suchen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Da haben wir jetzt nichts zu ",
+				"suchen."
+			]
+		},
+		{
+			"path": [25,1,12,2],
+			"indent": 2,
+			"original": "Hotelbesitzer: Moment! Hier ist kein Zutritt für Gäste.",
+			"lines":
+			[
+				"\\c[10]Hotelbesitzer\\c[0]: Moment!\\.",
+				"Hier ist kein Zutritt für Gäste."
+			]
+		},
+		{
+			"path": [26,1,2,1],
+			"original": "Junge: Papa, ich will auch Bier trinken, BITTE!",
+			"lines":
+			[
+				"\\c[10]Junge\\c[0]: Papa, ich will auch Bier trinken,\\. BITTE!"
+			]
+		},
+		{
+			"path": [26,1,4,1],
+			"original": "Vater: Nichts da! Dafür bist du noch zu jung.",
+			"lines":
+			[
+				"\\c[10]Vater\\c[0]: Nichts da!\\. Dafür bist du noch zu jung."
+			]
+		},
+		{
+			"path": [26,1,9,1],
+			"indent": 2,
+			"original": "Cibon: Tu es bloß nicht, Kleiner!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Tu es bloß nicht, Kleiner! "
+			]
+		},
+		{
+			"path": [26,1,10,3],
+			"indent": 2,
+			"original": "Cibon: Wenn du hier dein erstes Bier trinkst wirst du für den Rest deines Lebens das Getränk verfluchen!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wenn du hier dein erstes Bier ",
+				"trinkst wirst du für den Rest deines ",
+				"Lebens das Getränk verfluchen!"
+			]
+		},
+		{
+			"path": [26,1,14,2],
+			"indent": 2,
+			"original": "Soko: Es schmeckt immer noch gut... Finde ich...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Es schmeckt immer noch gut... \\.",
+				"Finde ich..."
+			]
+		},
+		{
+			"path": [30,1,30,2],
+			"original": "Cibon: Da seid ihr beide ja endlich, hat ja gedauert.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Da seid ihr beide ja endlich, ",
+				"hat ja gedauert."
+			]
+		},
+		{
+			"path": [30,1,33,2],
+			"original": "Soko: Ich denke mal du kennst auch den Grund dafür, Cibon.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ich denke mal du kennst auch  ",
+				"den Grund dafür, Cibon."
+			]
+		},
+		{
+			"path": [30,1,40,3],
+			"original": "Herr Uroto: Ich habe gehört Sie haben Gestern ein paar Diebe in der Stadt geschnappt?",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Ich habe gehört Sie ",
+				"haben Gestern ein paar Diebe in der ",
+				"Stadt geschnappt?"
+			]
+		},
+		{
+			"path": [30,1,47,1],
+			"original": "Soko: Ehm... ja das ist richtig.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ehm...\\. ja das ist richtig."
+			]
+		},
+		{
+			"path": [30,1,49,4],
+			"original": "Herr Uroto: Sie wissen, dass Sie sich nicht auf solche Sachen einlassen dürfen, wenn Sie bereits einen Auftrag als Eskorte haben?",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Sie wissen, dass Sie ",
+				"sich nicht auf solche Sachen ",
+				"einlassen dürfen, wenn Sie bereits ",
+				"einen Auftrag als Eskorte haben?"
+			]
+		},
+		{
+			"path": [30,1,54,3],
+			"original": "Soko: Ja das wissen wir. Es war ein Ausrutscher, es wird nicht noch mal vorkommen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ja das wissen wir.\\. Es war ein ",
+				"Ausrutscher, es wird nicht noch mal ",
+				"vorkommen."
+			]
+		},
+		{
+			"path": [30,1,59,2],
+			"original": "Cibon: Hey, was soll dieser Tadel? Wir haben doch etwas Gutes getan!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hey, was soll dieser Tadel?\\.",
+				"Wir haben doch etwas Gutes getan!"
+			]
+		},
+		{
+			"path": [30,1,63,3],
+			"original": "Herr Uroto: Es geht darum, dass Sie sich einer unnötigen Gefahr ausgesetzt haben.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Es geht darum, dass Sie ",
+				"sich einer unnötigen Gefahr ",
+				"ausgesetzt haben. "
+			]
+		},
+		{
+			"path": [30,1,66,4],
+			"original": "Herr Uroto: Hätten Sie hier versagt wäre auch der eigentliche Auftrag gescheitert. Sie haben den Auftrag unter ein unnötiges Risiko gestellt.",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Hätten Sie hier versagt ",
+				"wäre auch der eigentliche Auftrag ",
+				"gescheitert.\\. Sie haben den Auftrag ",
+				"unter ein unnötiges Risiko gestellt."
+			]
+		},
+		{
+			"path": [30,1,71,3],
+			"original": "Cibon: Die Diebe hätten genauso gut Sie angreifen können! Wir haben also eine Gefahr aus dem Weg geräumt.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Die Diebe hätten genauso gut ",
+				"Sie angreifen können!\\. Wir haben also ",
+				"eine Gefahr aus dem Weg geräumt."
+			]
+		},
+		{
+			"path": [30,1,75,4],
+			"original": "Herr Uroto: Das hätten Sie jedoch erst dann tun müssen, wenn die Diebe uns tatsächlich angegriffen hätten...",
+			"lines":
+			[
+				"\\c[10]Herr Uroto\\c[0]: Das hätten Sie jedoch ",
+				"erst dann tun müssen, wenn die Diebe ",
+				"uns tatsächlich angegriffen ",
+				"hätten..."
+			]
+		},
+		{
+			"path": [30,1,83,4],
+			"original": "Kento: Wir haben diesmal noch Glück gehabt, dass im Endeffekt alles gut ging. Ansonsten sollten wir so was in Zukunft doch besser unterlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir haben diesmal noch Glück ",
+				"gehabt, dass im Endeffekt alles gut ",
+				"ging.\\. Ansonsten sollten wir so was ",
+				"in Zukunft doch besser unterlassen."
+			]
+		},
+		{
+			"path": [30,1,88,2],
+			"original": "Cibon: Jaja, ich hab verstanden. So is' das Soldatenleben nun mal.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Jaja, ich hab verstanden.\\. So ",
+				"is' das Soldatenleben nun mal."
+			]
+		},
+		{
+			"path": [30,1,111,4],
+			"original": "Soko: Heute werden wir den Silvanwald durchqueren. Zuerst passieren wir die Grenze, dann richten wir uns nach Osten.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Heute werden wir den ",
+				"Silvanwald durchqueren. Zuerst ",
+				"passieren wir die Grenze, dann ",
+				"richten wir uns nach Osten."
+			]
+		},
+		{
+			"path": [30,1,115,3],
+			"original": "Soko: Wir sollten noch unsere Heilmittel aufstocken bevor wir aufbrechen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wir sollten noch unsere ",
+				"Heilmittel aufstocken bevor wir ",
+				"aufbrechen."
+			]
+		},
+		{
+			"path": [30,1,119,2],
+			"original": "Soko: Wenn wir uns beeilen werden wir heute noch Domarkor erreichen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wenn wir uns beeilen werden ",
+				"wir heute noch Domarkor erreichen."
+			]
+		},
+		{
+			"path": [30,1,122,3],
+			"original": "Cibon: Wunderbar! Endlich mal wieder eine größere Stadt! Ich freu mich schon.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wunderbar!\\. Endlich mal wieder ",
+				"eine größere Stadt! Ich freu mich ",
+				"schon."
+			]
+		},
+		{
+			"path": [30,1,126,1],
+			"original": "Kento: Dann mal los.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Dann mal los."
+			]
+		},
+		{
+			"path": [30,3,16,2],
+			"original": "Soko: Ah... Guten Morgen, Kento... oder eher \"Guten Mittag\"...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ah...\\. Guten Morgen, Kento...\\.",
+				"oder eher \"Guten Mittag\"..."
+			]
+		},
+		{
+			"path": [30,3,19,2],
+			"original": "Kento: Morgen. Gibt es irgendwelche Neuigkeiten?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Morgen. \\.",
+				"Gibt es irgendwelche Neuigkeiten?"
+			]
+		},
+		{
+			"path": [30,3,22,3],
+			"original": "Soko: Nicht wirklich. Die Briefe wurden versendet. Wir warten jetzt auf Antwort und Verstärkung.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Nicht wirklich.\\. Die Briefe ",
+				"wurden versendet.\\. Wir warten jetzt ",
+				"auf Antwort und Verstärkung."
+			]
+		},
+		{
+			"path": [30,3,25,2],
+			"original": "Soko: Von der Truppe im Wald keine Spur, die lassen sich nicht blicken.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Von der Truppe im Wald keine ",
+				"Spur,\\. die lassen sich nicht blicken."
+			]
+		},
+		{
+			"path": [30,3,28,4],
+			"original": "Kento: ...Anscheinend haben sie noch nicht vor direkt anzugreifen. Ansonsten wäre jegliches Zögern von Nachteil...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ...Anscheinend haben sie noch ",
+				"nicht vor direkt anzugreifen. \\.",
+				"Ansonsten wäre jegliches Zögern von ",
+				"Nachteil..."
+			]
+		},
+		{
+			"path": [30,3,37,4],
+			"original": "Soko: Was meinst du, was diese Truppe erreichen will? Glaubst du sie arbeitet mit dem farenischen Adelsbund zusammen?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Was meinst du, was diese ",
+				"Truppe erreichen will?\\. Glaubst du ",
+				"sie arbeitet mit dem farenischen ",
+				"Adelsbund zusammen?"
+			]
+		},
+		{
+			"path": [30,3,43,2],
+			"original": "Kento: Keine Ahnung, möglich ist es, die Frage ist nur wieso.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Keine Ahnung,\\. möglich ist es,\\. ",
+				"die Frage ist nur wieso."
+			]
+		},
+		{
+			"path": [30,3,48,4],
+			"original": "Soko: Wahrscheinlich hat Korzojeno tatsächlich vor noch mal die Waffen gegen Brigantia zu erheben und formt deshalb ein Militär im Untergrund.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wahrscheinlich hat Korzojeno ",
+				"tatsächlich vor noch mal die Waffen ",
+				"gegen Brigantia zu erheben und formt ",
+				"deshalb ein Militär im Untergrund."
+			]
+		},
+		{
+			"path": [30,3,53,4],
+			"original": "Soko: ...Bitte nicht schon wieder ein Krieg... Wieso müssen ausgerechnet wir in diese Sache rein geraten?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...Bitte nicht schon wieder ",
+				"ein Krieg...\\. Wieso müssen ",
+				"ausgerechnet wir in diese Sache rein ",
+				"geraten?"
+			]
+		},
+		{
+			"path": [30,3,58,4],
+			"original": "Kento: Es gibt keinen Grund jetzt gleich in Panik zu geraten. Wir müssen abwarten, wie sich die Dinge entwickeln.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es gibt keinen Grund jetzt ",
+				"gleich in Panik zu geraten.\\. Wir ",
+				"müssen abwarten, wie sich die ",
+				"Dinge entwickeln."
+			]
+		},
+		{
+			"path": [30,3,63,4],
+			"original": "Kento: Außerdem... diese Truppe ist zwar groß, aber nicht groß genug. Für ganz Brigantia sollte sie keine ernsthafte Bedrohung darstellen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Außerdem...\\. diese Truppe ist ",
+				"zwar groß, aber nicht groß genug. \\.",
+				"Für ganz Brigantia sollte sie keine ",
+				"ernsthafte Bedrohung darstellen."
+			]
+		},
+		{
+			"path": [30,3,68,1],
+			"original": "Soko: Ich hoffe du hast Recht.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ich hoffe du hast Recht."
+			]
+		},
+		{
+			"path": [30,3,77,1],
+			"original": "Kento: Hm... wo ist Cibon?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm...\\. wo ist Cibon?"
+			]
+		},
+		{
+			"path": [30,3,79,4],
+			"original": "Soko: Er vertreibt seine Zeit irgendwo in der Stadt. Er ist zu ungeduldig, als dass er sich einfach irgendwo ruhig hinsetzen könnte.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Er vertreibt seine Zeit ",
+				"irgendwo in der Stadt.\\. Er ist zu ",
+				"ungeduldig, als dass er sich einfach ",
+				"irgendwo ruhig hinsetzen könnte."
+			]
+		},
+		{
+			"path": [30,3,84,2],
+			"original": "Kento: Typisch... Na ja, ich denke ich werd ihn dann mal aufsuchen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Typisch...\\. Na ja, ich denke ",
+				"ich werd ihn dann mal aufsuchen."
+			]
+		}
+	]
+}

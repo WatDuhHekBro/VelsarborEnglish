@@ -1,0 +1,583 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [37,1,2,4],
+			"original": "Händler: Holen Sie sich den Habilisring und jeder Gegner wird es sich zweimal überlegen bevor er Sie angreift! Wieso? Weil Sie mit Sicherheit zurück schlagen werden!",
+			"lines":
+			[
+				"\\c[10]Händler\\c[0]: Holen Sie sich den Habilisring und jeder ",
+				"Gegner wird es sich zweimal überlegen bevor er Sie ",
+				"angreift! Wieso? Weil Sie mit Sicherheit zurück ",
+				"schlagen werden!"
+			]
+		},
+		{
+			"path": [106,2,8,2],
+			"original": "Kento: Verschlossen. Kein Wunder, bei der Uhrzeit.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Verschlossen.\\. Kein Wunder, ",
+				"bei der Uhrzeit."
+			]
+		},
+		{
+			"path": [107,2,8,2],
+			"original": "Kento: Verschlossen. Kein Wunder, bei der Uhrzeit.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Verschlossen.\\. Kein Wunder, ",
+				"bei der Uhrzeit."
+			]
+		},
+		{
+			"path": [108,2,8,2],
+			"original": "Kento: Verschlossen. Kein Wunder, bei der Uhrzeit.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Verschlossen.\\. Kein Wunder, ",
+				"bei der Uhrzeit."
+			]
+		},
+		{
+			"path": [122,2,3,3],
+			"original": "Frau: Morgen werde ich noch mal Flajo-Früchte in Nord-Gencorin kaufen, solange sie noch welche haben.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Morgen werde ich noch mal Flajo-Früchte in ",
+				"Nord-Gencorin kaufen, solange sie noch welche ",
+				"haben."
+			]
+		},
+		{
+			"path": [122,2,9,4],
+			"indent": 1,
+			"original": "Cibon: Müssen eigentlich alle Bewohner des Dorfes bei jeder Überschreitung der Grenze sich diese Regeln anhören und all den Kram?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Müssen eigentlich alle ",
+				"Bewohner des Dorfes bei jeder ",
+				"Überschreitung der Grenze sich diese ",
+				"Regeln anhören und all den Kram?"
+			]
+		},
+		{
+			"path": [122,2,14,4],
+			"indent": 1,
+			"original": "Frau: Hehe, nein, jeder Bewohner von Gencorin hat einen Pass mit dem er ohne große Kompromisse über die Grenze hinaus kann, solange er Gencorin nicht verlässt und vor Abenddämmerung wieder zurück ist.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Hehe, nein, jeder Bewohner von Gencorin hat ",
+				"einen Pass mit dem er ohne große Kompromisse über ",
+				"die Grenze hinaus kann, solange er Gencorin nicht ",
+				"verlässt und vor Abenddämmerung wieder zurück ist."
+			]
+		},
+		{
+			"path": [122,2,20,1],
+			"indent": 1,
+			"original": "Cibon: So ist das also...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: So ist das also..."
+			]
+		},
+		{
+			"path": [124,1,2,2],
+			"original": "Rothaariges Mädchen: Du wirst nicht glauben, wen ich Gestern wieder gesehen habe!",
+			"lines":
+			[
+				"\\c[10]Rothaariges Mädchen\\c[0]: Du wirst nicht glauben, wen ",
+				"ich Gestern wieder gesehen habe! "
+			]
+		},
+		{
+			"path": [124,1,5,1],
+			"original": "Blondes Mädchen: Wen, wen, WEN?",
+			"lines":
+			[
+				"\\c[10]Blondes Mädchen\\c[0]: Wen,\\. wen,\\. WEN?"
+			]
+		},
+		{
+			"path": [124,1,6,2],
+			"original": "Rothaariges Mädchen: Ihn... du weißt schon, der auch vorgestern hier war...!",
+			"lines":
+			[
+				"\\c[10]Rothaariges Mädchen\\c[0]: Ihn...\\. du weißt schon,\\. der ",
+				"auch vorgestern hier war...!"
+			]
+		},
+		{
+			"path": [124,1,8,1],
+			"original": "Blondes Mädchen: Nein! Hast du ihn angesprochen?",
+			"lines":
+			[
+				"\\c[10]Blondes Mädchen\\c[0]: Nein!\\. Hast du ihn angesprochen?"
+			]
+		},
+		{
+			"path": [124,1,10,3],
+			"original": "Rothaariges Mädchen: Nein... ich konnte keinen Schritt machen, ich war wie erstarrt... aber... er hat mich angeschaut!",
+			"lines":
+			[
+				"\\c[10]Rothaariges Mädchen\\c[0]: Nein...\\. ich konnte keinen ",
+				"Schritt machen,\\. ich war wie erstarrt...\\. aber...\\. er ",
+				"hat mich angeschaut!"
+			]
+		},
+		{
+			"path": [124,1,13,1],
+			"original": "Blondes Mädchen: Wie? Wie hat er dich angeschaut?",
+			"lines":
+			[
+				"\\c[10]Blondes Mädchen\\c[0]: Wie?\\. Wie hat er dich angeschaut?"
+			]
+		},
+		{
+			"path": [124,1,14,2],
+			"original": "Rothaariges Mädchen: Angelächelt hat er mich! Ich glaub ich bin richtig rot geworden...",
+			"lines":
+			[
+				"\\c[10]Rothaariges Mädchen\\c[0]: Angelächelt hat er mich!\\. Ich ",
+				"glaub ich bin richtig rot geworden..."
+			]
+		},
+		{
+			"path": [124,1,16,3],
+			"original": "Blondes Mädchen: Ohh... wie peinlich... Aber ich glaube mir wäre es nicht anders ergangen. Der Typ ist ja ein Traum.",
+			"lines":
+			[
+				"\\c[10]Blondes Mädchen\\c[0]: Ohh...\\. wie peinlich...\\.",
+				"Aber ich glaube mir wäre es nicht anders ergangen.\\.",
+				"Der Typ ist ja ein Traum."
+			]
+		},
+		{
+			"path": [124,1,19,2],
+			"original": "Rothaariges Mädchen: Ja, da kann höchstens Melanus Aureeus noch mithalten.",
+			"lines":
+			[
+				"\\c[10]Rothaariges Mädchen\\c[0]: Ja, da kann höchstens ",
+				"Melanus Aureeus noch mithalten."
+			]
+		},
+		{
+			"path": [124,1,21,2],
+			"original": "Blondes Mädchen: Hoffentlich wird er hier noch öfter vorbeikommen...",
+			"lines":
+			[
+				"\\c[10]Blondes Mädchen\\c[0]: Hoffentlich wird er hier noch ",
+				"öfter vorbeikommen..."
+			]
+		},
+		{
+			"path": [124,1,27,1],
+			"indent": 2,
+			"original": "Cibon: Von wem reden die da?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Von wem reden die da?"
+			]
+		},
+		{
+			"path": [124,1,29,1],
+			"indent": 2,
+			"original": "Kento: Mit Sicherheit nicht von dir.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Mit Sicherheit nicht von dir."
+			]
+		},
+		{
+			"path": [124,1,31,3],
+			"indent": 2,
+			"original": "Soko: Oh... Melanus Aureeus... Den Namen hab ich schon mal gehört, glaube ich...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Oh... Melanus Aureeus... ",
+				"Den Namen hab ich schon mal gehört, ",
+				"glaube ich..."
+			]
+		},
+		{
+			"path": [124,1,37,3],
+			"indent": 2,
+			"original": "Rothaariges Mädchen: WAS?! Ihr wisst nicht wer Melanus Aureeus ist?! In welchem Loch habt ihr bitte bis heute gelebt?",
+			"lines":
+			[
+				"\\c[10]Rothaariges Mädchen\\c[0]: WAS?!\\. Ihr wisst nicht wer ",
+				"Melanus Aureeus ist?!\\. In welchem Loch habt ",
+				"ihr bitte bis heute gelebt?"
+			]
+		},
+		{
+			"path": [124,1,40,4],
+			"indent": 2,
+			"original": "Blondes Mädchen: Melanus ist der Traummann schlecht hin! Ein Mitglied des farenischen Adelbundes! Ein richtiger Gentleman! Und glaube mir: Jede Frau, die ihn kennt, denkt so!",
+			"lines":
+			[
+				"\\c[10]Blondes Mädchen\\c[0]: Melanus ist der Traummann ",
+				"schlecht hin!\\. Ein Mitglied des farenischen ",
+				"Adelbundes!\\. Ein richtiger Gentleman!\\. Und glaube ",
+				"mir: Jede Frau, die ihn kennt, denkt so!"
+			]
+		},
+		{
+			"path": [124,1,46,1],
+			"indent": 2,
+			"original": "Cibon: Oho, ja, Wahnsinn.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Oho, ja, Wahnsinn."
+			]
+		},
+		{
+			"path": [124,1,48,3],
+			"indent": 2,
+			"original": "Kento: Muss toll sein, wenn man so von allen Frauen des Landes verehrt wird, oder Cibon?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Muss toll sein, wenn man so ",
+				"von allen Frauen des Landes verehrt ",
+				"wird, oder Cibon?"
+			]
+		},
+		{
+			"path": [124,1,52,2],
+			"indent": 2,
+			"original": "Cibon: Pah, keine Kunst, wenn man das Geld hat.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Pah, keine Kunst, wenn man ",
+				"das Geld hat."
+			]
+		},
+		{
+			"path": [124,1,55,1],
+			"indent": 2,
+			"original": "Kento: Da ist jemand neidisch...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Da ist jemand neidisch..."
+			]
+		},
+		{
+			"path": [124,1,57,1],
+			"indent": 2,
+			"original": "Cibon: Ich? Wo denkste hin!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ich?\\. Wo denkste hin!"
+			]
+		},
+		{
+			"path": [126,1,2,3],
+			"original": "Händlerin: Haben Sie es auch satt ständig vom Gegner eingeschläfert zu werden? Dann ist das Windsiegel genau das richtige für Sie!",
+			"lines":
+			[
+				"\\c[10]Händlerin\\c[0]: Haben Sie es auch satt ständig vom ",
+				"Gegner eingeschläfert zu werden?\\. Dann ist das ",
+				"Windsiegel genau das richtige für Sie!"
+			]
+		},
+		{
+			"path": [127,1,2,2],
+			"original": "Händlerin: Kaufen Sie Pfeffer aus dem Süden um ihrem Gerichten das gewisse Extra zu geben!",
+			"lines":
+			[
+				"\\c[10]Händlerin\\c[0]: Kaufen Sie Pfeffer aus dem Süden um ",
+				"ihrem Gerichten das gewisse Extra zu geben!"
+			]
+		},
+		{
+			"path": [129,1,2,3],
+			"original": "Mann: In letzter Zeit wurden hier zunehmen Soldaten in der Nähe der Grenze gesichtet. Ob die vom farenischen Adelsbund geschickt wurden?",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: In letzter Zeit wurden hier zunehmen ",
+				"Soldaten in der Nähe der Grenze gesichtet.\\. Ob die ",
+				"vom farenischen Adelsbund geschickt wurden?"
+			]
+		},
+		{
+			"path": [129,1,5,3],
+			"original": "Mann: Seit Ende des Krieges sieht man selten Soldaten durchs Land streifen, angesehen von den wenigen an der Grenze.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Seit Ende des Krieges sieht man selten ",
+				"Soldaten durchs Land streifen, angesehen von den ",
+				"wenigen an der Grenze."
+			]
+		},
+		{
+			"path": [129,1,8,4],
+			"original": "Mann: Hoffentlich macht der farenische Adelsbund nichts Unüberlegtes. Es ist zwar schon schlimm, was Brigantia angestellt hat, aber ich möchte keinen zweiten Krieg erleben. Alles nur das nicht",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Hoffentlich macht der farenische Adelsbund ",
+				"nichts Unüberlegtes.\\. Es ist zwar schon schlimm, ",
+				"was Brigantia angestellt hat, aber ich möchte ",
+				"keinen zweiten Krieg erleben.\\. Alles nur das nicht"
+			]
+		},
+		{
+			"path": [130,2,2,4],
+			"original": "Mann: Die verdammten Wölfe. Wart ihr schon mal im Silvanwald? Seit auf jeden fall vorbereitet, denn die Wölfe die dort rumwütend werden zunehmen aggressiver. Und es werden immer mehr.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Die verdammten Wölfe. Wart ihr schon mal im ",
+				"Silvanwald?\\. Seit auf jeden fall vorbereitet, denn ",
+				"die Wölfe die dort rumwütend werden zunehmen ",
+				"aggressiver.\\. Und es werden immer mehr."
+			]
+		},
+		{
+			"path": [130,2,6,3],
+			"original": "Mann: Wenn man nicht bald was gegen diese Plage tut gewinnt sie an Überhand. Dann kann man die Forstwirtschaft in der Gegend vergessen.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Wenn man nicht bald was gegen diese Plage ",
+				"tut gewinnt sie an Überhand.\\. Dann kann man die ",
+				"Forstwirtschaft in der Gegend vergessen."
+			]
+		},
+		{
+			"path": [131,2,5,2],
+			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
+				"besser nicht verlassen."
+			]
+		},
+		{
+			"path": [131,3,5,3],
+			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
+				"die Stadt jenseits der Grenze zu ",
+				"verlassen."
+			]
+		},
+		{
+			"path": [132,2,5,2],
+			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
+				"besser nicht verlassen."
+			]
+		},
+		{
+			"path": [132,3,5,3],
+			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
+				"die Stadt jenseits der Grenze zu ",
+				"verlassen."
+			]
+		},
+		{
+			"path": [133,2,5,2],
+			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
+				"besser nicht verlassen."
+			]
+		},
+		{
+			"path": [133,3,5,3],
+			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
+				"die Stadt jenseits der Grenze zu ",
+				"verlassen."
+			]
+		},
+		{
+			"path": [134,2,5,2],
+			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
+				"besser nicht verlassen."
+			]
+		},
+		{
+			"path": [134,3,5,3],
+			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
+				"die Stadt jenseits der Grenze zu ",
+				"verlassen."
+			]
+		},
+		{
+			"path": [135,2,5,2],
+			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
+				"besser nicht verlassen."
+			]
+		},
+		{
+			"path": [135,3,5,3],
+			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
+				"die Stadt jenseits der Grenze zu ",
+				"verlassen."
+			]
+		},
+		{
+			"path": [136,2,5,2],
+			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
+				"besser nicht verlassen."
+			]
+		},
+		{
+			"path": [136,3,5,3],
+			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
+				"die Stadt jenseits der Grenze zu ",
+				"verlassen."
+			]
+		},
+		{
+			"path": [137,2,5,2],
+			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
+				"besser nicht verlassen."
+			]
+		},
+		{
+			"path": [137,3,5,3],
+			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
+				"die Stadt jenseits der Grenze zu ",
+				"verlassen."
+			]
+		},
+		{
+			"path": [138,2,5,2],
+			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
+				"besser nicht verlassen."
+			]
+		},
+		{
+			"path": [138,3,5,3],
+			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
+				"die Stadt jenseits der Grenze zu ",
+				"verlassen."
+			]
+		},
+		{
+			"path": [139,2,5,2],
+			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
+				"besser nicht verlassen."
+			]
+		},
+		{
+			"path": [139,3,5,3],
+			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
+				"die Stadt jenseits der Grenze zu ",
+				"verlassen."
+			]
+		},
+		{
+			"path": [140,2,5,2],
+			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
+				"besser nicht verlassen."
+			]
+		},
+		{
+			"path": [140,3,5,3],
+			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
+				"die Stadt jenseits der Grenze zu ",
+				"verlassen."
+			]
+		},
+		{
+			"path": [155,1,26,2],
+			"original": "Soko: Wir... wir haben es geschafft...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wir...\\. wir haben es ",
+				"geschafft..."
+			]
+		},
+		{
+			"path": [155,1,29,1],
+			"original": "Cibon: Das war wirklich knapp.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Das war wirklich knapp."
+			]
+		},
+		{
+			"path": [155,1,32,4],
+			"original": "Kento: Wir dürfen keine Zeit verschwenden. Sofort zur Grenze! Wir müssen den Wachleuten bescheid geben.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir dürfen keine Zeit ",
+				"verschwenden.\\. Sofort zur Grenze!\\. Wir ",
+				"müssen den Wachleuten bescheid ",
+				"geben."
+			]
+		},
+		{
+			"path": [160,2,5,2],
+			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
+				"besser nicht verlassen."
+			]
+		},
+		{
+			"path": [160,3,5,3],
+			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
+				"die Stadt jenseits der Grenze zu ",
+				"verlassen."
+			]
+		}
+	]
+}

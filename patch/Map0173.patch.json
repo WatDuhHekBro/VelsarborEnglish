@@ -1,0 +1,314 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [6,3,3,1],
+			"indent": 1,
+			"original": "Frau: Guten Tag, wie kann ich Ihnen helfen?",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Guten Tag, wie kann ich Ihnen helfen?"
+			]
+		},
+		{
+			"path": [6,3,6,1],
+			"indent": 2,
+			"original": "Frau: Ah, okay, lassen Sie mich sehen...",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Ah, okay, lassen Sie mich sehen..."
+			]
+		},
+		{
+			"path": [6,3,13,1],
+			"indent": 4,
+			"original": "Frau: Als nächstes...",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Als nächstes..."
+			]
+		},
+		{
+			"path": [6,3,20,2],
+			"indent": 3,
+			"original": "Frau: Ah, ein Paket nach [Post-Ziel]. Dafür verlangen wir eine Gebühr von \\v[1838] Fejar.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Ah, ein Paket nach \\n[21]. ",
+				"Dafür verlangen wir eine Gebühr von \\v[1838] \\n[19]."
+			]
+		},
+		{
+			"path": [6,3,22,1],
+			"indent": 3,
+			"original": "Frau: Gehen \\v[1838] Fejar in Ordnung?",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Gehen \\v[1838] \\n[19] in Ordnung?\\$"
+			]
+		},
+		{
+			"path": [6,3,31,2],
+			"indent": 5,
+			"original": "Frau: In Ordnung, das Paket wird sobald wie möglich abgeschickt.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: In Ordnung, das Paket wird sobald wie ",
+				"möglich abgeschickt."
+			]
+		},
+		{
+			"path": [6,3,34,2],
+			"indent": 6,
+			"original": "Frau: Hm, Sie scheinen noch keine Stempelkarte zu haben, oder?",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Hm, Sie scheinen noch keine Stempelkarte ",
+				"zu haben, oder?"
+			]
+		},
+		{
+			"path": [6,3,38,1],
+			"indent": 6,
+			"original": "Kento: Eine Stempelkarte?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Eine Stempelkarte?"
+			]
+		},
+		{
+			"path": [6,3,40,3],
+			"indent": 6,
+			"original": "Frau: Ja, Sie bekommen für jedes Paket, das Sie von einer Post-Versand-Stelle  abschicken, einen Stempel.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Ja, Sie bekommen für jedes Paket, das Sie ",
+				"von einer Post-Versand-Stelle  abschicken, einen ",
+				"Stempel. "
+			]
+		},
+		{
+			"path": [6,3,43,2],
+			"indent": 6,
+			"original": "Frau: Wenn Sie dann 20 Stempel gesammelt haben, bekommen Sie ein extra Geschenk von uns.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Wenn Sie dann 20 Stempel gesammelt ",
+				"haben, bekommen Sie ein extra Geschenk von uns."
+			]
+		},
+		{
+			"path": [6,3,45,1],
+			"indent": 6,
+			"original": "Frau: Hier, ich gebe Ihnen eine...",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Hier, ich gebe Ihnen eine..."
+			]
+		},
+		{
+			"path": [6,3,49,1],
+			"indent": 6,
+			"original": "Frau: Und hier ist Ihr Stempel.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Und hier ist Ihr Stempel."
+			]
+		},
+		{
+			"path": [6,3,59,2],
+			"indent": 6,
+			"original": "Frau: Sie bekommen noch einen neuen Stempel auf ihre Karte. Dürfte ich Sie bitte kurz haben?",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Sie bekommen noch einen neuen Stempel ",
+				"auf ihre Karte.\\. Dürfte ich Sie bitte kurz haben?"
+			]
+		},
+		{
+			"path": [6,3,70,1],
+			"indent": 6,
+			"original": "Frau: Bitte sehr.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Bitte sehr."
+			]
+		},
+		{
+			"path": [6,3,75,2],
+			"indent": 5,
+			"original": "Frau: Sie haben das Geld doch gar nicht. Tut mir Leid, aber da lässt sich nichts machen.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Sie haben das Geld doch gar nicht.",
+				"Tut mir Leid, aber da lässt sich nichts machen."
+			]
+		},
+		{
+			"path": [6,3,81,4],
+			"indent": 4,
+			"original": "Frau: Wenn das Ihnen zu teuer ist, gehen Sie in eine Stadt, die näher an [Post-Ziel] liegt. Dort wird die Gebühr dann auch niedriger ausfallen.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Wenn das Ihnen zu teuer ist, gehen Sie in ",
+				"eine Stadt, die näher an \\n[21] liegt.",
+				"Dort wird die Gebühr dann auch niedriger ",
+				"ausfallen. "
+			]
+		},
+		{
+			"path": [6,3,92,4],
+			"indent": 4,
+			"original": "Frau: Oh. Sie haben ein Paket, wissen aber nicht wo es hin muss? Na so etwas... Solange Sie nicht wissen, wohin wir es senden müssen, können wir leider nichts für Sie tun.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Oh.\\. Sie haben ein Paket, wissen aber nicht ",
+				"wo es hin muss?\\. Na so etwas...\\. Solange Sie nicht ",
+				"wissen, wohin wir es senden müssen, können wir ",
+				"leider nichts für Sie tun."
+			]
+		},
+		{
+			"path": [6,3,100,1],
+			"indent": 5,
+			"original": "Frau: Als nächstes...",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Als nächstes..."
+			]
+		},
+		{
+			"path": [6,3,101,4],
+			"indent": 5,
+			"original": "Frau: Oh. Sie haben ein Paket, wissen aber nicht wo es hin muss? Na so etwas... Solange Sie nicht wissen, wohin wir es senden müssen, können wir leider nichts für Sie tun.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Oh.\\. Sie haben ein Paket, wissen aber nicht ",
+				"wo es hin muss?\\. Na so etwas...\\. Solange Sie nicht ",
+				"wissen, wohin wir es senden müssen, können wir ",
+				"leider nichts für Sie tun."
+			]
+		},
+		{
+			"path": [6,3,107,1],
+			"indent": 4,
+			"original": "Frau: Beehren Sie uns bald wieder.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Beehren Sie uns bald wieder."
+			]
+		},
+		{
+			"path": [6,3,115,4],
+			"indent": 2,
+			"original": "Frau: Ah... In Ordnung. Sie können jederzeit vorbeikommen, wenn Sie ein Paket zu verschicken haben.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Ah...\\. In Ordnung.\\. ",
+				"Sie können jederzeit vorbeikommen, ",
+				"wenn Sie ein Paket zu verschicken ",
+				"haben."
+			]
+		},
+		{
+			"path": [6,3,123,1],
+			"indent": 1,
+			"original": "Frau: Guten Tag, wie kann ich ihnen helfen?",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Guten Tag, wie kann ich ihnen helfen?"
+			]
+		},
+		{
+			"path": [6,3,126,2],
+			"indent": 1,
+			"original": "Kento: Öhm, weiß nicht. Eigentlich gibt es hier nichts zu tun für mich.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Öhm, weiß nicht.\\. Eigentlich ",
+				"gibt es hier nichts zu tun für mich."
+			]
+		},
+		{
+			"path": [8,1,3,1],
+			"original": "Frau: Hey! Zutritt nur für Befugte.",
+			"lines":
+			[
+				"\\c[10]Frau\\c[0]: Hey!\\. Zutritt nur für Befugte."
+			]
+		},
+		{
+			"path": [11,2,2,3],
+			"original": "Mann: Es ist schon interessant zu hören, was die Postboten so alles zu erzählen haben. In ihrem Beruf sieht man halt viel von der Welt.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Es ist schon interessant zu hören, was die ",
+				"Postboten so alles zu erzählen haben.\\. In ihrem ",
+				"Beruf sieht man halt viel von der Welt."
+			]
+		},
+		{
+			"path": [11,2,5,4],
+			"original": "Mann: Man hat mir erzählt, dass man früher die Aquilwälder durchritten hat. Das sind diese riesigen Wälder am nordöstlichen Ende dieses Kontinents.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Man hat mir erzählt, dass man früher die ",
+				"Aquilwälder durchritten hat.\\. Das sind diese ",
+				"riesigen Wälder am nordöstlichen Ende dieses ",
+				"Kontinents."
+			]
+		},
+		{
+			"path": [11,2,9,3],
+			"original": "Mann: Heute vermeidet man diesen Weg allerdings, da die Route zu gefährlich sein soll. Man hört in der Tat viel Unheimliches über die Aquilwälder.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Heute vermeidet man diesen Weg allerdings, ",
+				"da die Route zu gefährlich sein soll.\\. Man hört in ",
+				"der Tat viel Unheimliches über die Aquilwälder."
+			]
+		},
+		{
+			"path": [11,2,12,2],
+			"original": "Mann: Wobei ich nicht beurteilen kann, was von all dem wirklich wahr ist.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Wobei ich nicht beurteilen kann, was von all ",
+				"dem wirklich wahr ist."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [6,3,4],
+			"original": "Ich habe hier ein Paket.../Eigentlich nichts...",
+			"patch": "Ich habe hier ein Paket.../Eigentlich nichts..."
+		},
+		{
+			"path": [6,3,5],
+			"original": "Ich habe hier ein Paket...",
+			"patch": "Ich habe hier ein Paket..."
+		},
+		{
+			"path": [6,3,23],
+			"original": "Ja, ich zahle./Nein, besser doch nicht.",
+			"patch": "Ja, ich zahle./Nein, besser doch nicht."
+		},
+		{
+			"path": [6,3,24],
+			"original": "Ja, ich zahle.",
+			"patch": "Ja, ich zahle."
+		},
+		{
+			"path": [6,3,80],
+			"original": "Nein, besser doch nicht.",
+			"patch": "Nein, besser doch nicht."
+		},
+		{
+			"path": [6,3,113],
+			"original": "Eigentlich nichts...",
+			"patch": "Eigentlich nichts..."
+		}
+	]
+}

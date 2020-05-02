@@ -156,7 +156,7 @@
 			"original": "Soko: ...Ja, das stimmt.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Yeah,\\. you're right."
+				"\\c[13]\\n[3]\\c[0]: Yeah,\\. I guess you're right."
 			]
 		},
 		{
@@ -301,7 +301,7 @@
 			"original": "Soko: Daikon...? Der eine...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Daikon?\\.\\. That Dai...\\.\\^"
+				"\\c[13]\\n[3]\\c[0]: Daikon?\\.\\. The one...\\.\\^"
 			]
 		},
 		{
@@ -344,8 +344,8 @@
 			"original": "Soko: Oh! Der Post-Versand Zug aus West-Brigantia kommt gerade vorbei!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Oh!\\. The FALCON squad from West",
-				"Brigantia is coming over now!"
+				"\\c[13]\\n[3]\\c[0]: Oh!\\. The FALCON riders from West",
+				"Brigantia are coming over now!"
 			]
 		},
 		{
@@ -353,7 +353,7 @@
 			"original": "Soko: Wahnsinn! Wie viele Reiter...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wicked! How many riders there",
+				"\\c[13]\\n[3]\\c[0]: Amazing! How many riders there",
 				"are..."
 			]
 		},

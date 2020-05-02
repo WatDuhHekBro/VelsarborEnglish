@@ -1,0 +1,234 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [8,1,23,1],
+			"original": "(Kento: ... )",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: ... )"
+			]
+		},
+		{
+			"path": [8,1,58,1],
+			"original": "Soko: Aufwachen, Kento!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Aufwachen, Kento!"
+			]
+		},
+		{
+			"path": [8,1,64,1],
+			"original": "Kento: Hm...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm..."
+			]
+		},
+		{
+			"path": [8,1,66,2],
+			"original": "Soko: Du solltest dir unbedingt abgewöhnen so lange auszuschlafen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Du solltest dir unbedingt ",
+				"abgewöhnen so lange auszuschlafen."
+			]
+		},
+		{
+			"path": [8,1,72,3],
+			"original": "Soko: Na komm, du meintest Gestern Abend doch selber, das wir früher aufstehen sollten, oder?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Na komm, du meintest Gestern ",
+				"Abend doch selber, das wir früher ",
+				"aufstehen sollten, oder?"
+			]
+		},
+		{
+			"path": [8,1,76,1],
+			"original": "Kento: Hm...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm..."
+			]
+		},
+		{
+			"path": [8,1,79,2],
+			"original": "Soko: Den größten Teil der Hinreise haben wir ja schon, also los.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Den größten Teil der Hinreise ",
+				"haben wir ja schon,\\. also los."
+			]
+		},
+		{
+			"path": [8,1,87,1],
+			"original": "Kento: Hm...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm..."
+			]
+		},
+		{
+			"path": [8,1,96,1],
+			"original": "Soko: KENTO!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: KENTO!"
+			]
+		},
+		{
+			"path": [8,1,101,1],
+			"original": "Kento: EH?! Ähm, was? Oh...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: EH?!\\. Ähm, was?\\. Oh..."
+			]
+		},
+		{
+			"path": [8,1,104,1],
+			"original": "Soko: Auf... stehen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Auf...\\. stehen."
+			]
+		},
+		{
+			"path": [8,1,108,1],
+			"original": "Kento: Hm...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm..."
+			]
+		},
+		{
+			"path": [8,1,118,1],
+			"original": "Soko: WIRD'S BALD?!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: WIRD'S BALD?!"
+			]
+		},
+		{
+			"path": [8,1,121,1],
+			"original": "Kento: Jajaja...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Jajaja..."
+			]
+		},
+		{
+			"path": [8,1,124,4],
+			"original": "(Soko: Cibon hat recht, ihn vorzeitig aus dem Bett zu kriegen ist wirklich keine leichte Angelegenheit.)",
+			"lines":
+			[
+				"(\\c[13]\\n[3]\\c[0]: Cibon hat recht, ihn ",
+				"vorzeitig aus dem Bett zu kriegen ",
+				"ist wirklich keine leichte ",
+				"Angelegenheit.)"
+			]
+		},
+		{
+			"path": [8,3,29,3],
+			"original": "(Kento: Hm... ich wurde nicht geweckt, anscheinend hat sich nichts getan.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Hm...\\. ich wurde nicht ",
+				"geweckt, anscheinend hat sich nichts ",
+				"getan.)"
+			]
+		},
+		{
+			"path": [8,3,39,2],
+			"original": "(Kento: Am besten schau ich mal, was die anderen machen...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Am besten schau ich mal, was ",
+				"die anderen machen...)"
+			]
+		},
+		{
+			"path": [8,5,12,2],
+			"original": "(Kento: Genug für heute Nacht vorbereitet?)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Genug für heute Nacht ",
+				"vorbereitet?)"
+			]
+		},
+		{
+			"path": [8,5,38,1],
+			"indent": 1,
+			"original": "Cibon: Kumpel, wach auf, Kumpel!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Kumpel,\\. wach auf, Kumpel!"
+			]
+		},
+		{
+			"path": [8,5,40,1],
+			"indent": 1,
+			"original": "Kento: W...Was?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: W...\\.Was?"
+			]
+		},
+		{
+			"path": [8,5,43,2],
+			"indent": 1,
+			"original": "Cibon: Es wird Zeit! Die Leute warten schon auf uns.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Es wird Zeit!\\. Die Leute ",
+				"warten schon auf uns."
+			]
+		},
+		{
+			"path": [8,5,46,1],
+			"indent": 1,
+			"original": "Kento: Oh... ist es schon so spät?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Oh... ist es schon so spät?"
+			]
+		},
+		{
+			"path": [8,5,49,2],
+			"indent": 1,
+			"original": "Cibon: Diesmal bleibt wirklich keine Zeit zum Schlafen, also raus!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Diesmal bleibt wirklich keine ",
+				"Zeit zum Schlafen,\\. also raus!"
+			]
+		},
+		{
+			"path": [8,5,52,1],
+			"indent": 1,
+			"original": "Kento: Ja, ich steh ja schon auf...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja,\\. ich steh ja schon auf..."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [8,5,14],
+			"original": "Ja/Nein",
+			"patch": "Ja/Nein"
+		},
+		{
+			"path": [8,5,15],
+			"original": "Ja",
+			"patch": "Ja"
+		},
+		{
+			"path": [8,5,72],
+			"original": "Nein",
+			"patch": "Nein"
+		}
+	]
+}

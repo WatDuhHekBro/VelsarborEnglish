@@ -1,0 +1,45 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [7,2,2,3],
+			"original": "Mann: Ein Bekannter von mir aus Hamsol hat mir letztens einen Brief geschickt. Die Lage in der Stadt verschlechtert sich nur zunehmend.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Ein Bekannter von mir aus Hamsol hat mir ",
+				"letztens einen Brief geschickt. Die Lage in der ",
+				"Stadt verschlechtert sich nur zunehmend. "
+			]
+		},
+		{
+			"path": [7,2,5,4],
+			"original": "Mann: Seit die Fische in den Gewässern knapper wurden, verarmen alle Fischer in der Gegend Südwestlich von hier und Hamsol als ihre Heimat mit ihnen.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Seit die Fische in den Gewässern knapper ",
+				"wurden, verarmen alle Fischer in der Gegend ",
+				"Südwestlich von hier und Hamsol als ihre Heimat ",
+				"mit ihnen."
+			]
+		},
+		{
+			"path": [7,2,9,4],
+			"original": "Mann: Wir in Gencorin haben das Glück an einer beliebten Reiseroute zu liegen, Hamsol dagegen befindet sich an einer Küste an der kaum ein Mensch vorbei kommt.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Wir in Gencorin haben das Glück an einer ",
+				"beliebten Reiseroute zu liegen,\\. Hamsol dagegen ",
+				"befindet sich an einer Küste an der kaum ein ",
+				"Mensch vorbei kommt. "
+			]
+		},
+		{
+			"path": [7,2,13,1],
+			"original": "Mann: Was soll man da nur machen?",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Was soll man da nur machen?"
+			]
+		}
+	]
+}

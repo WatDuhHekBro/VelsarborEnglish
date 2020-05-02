@@ -1,0 +1,25 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [3,2,2,4],
+			"original": "Händler: Soldaten des Briganten-Orden? Solltet ihr vorhaben nach Korzojeno zu wandern, rechnet damit, dass viele Leute nicht gut auf euch zu sprechen sein werden.",
+			"lines":
+			[
+				"\\c[10]Händler\\c[0]: Soldaten des Briganten-Orden?\\. Solltet ihr ",
+				"vorhaben nach Korzojeno zu wandern, rechnet damit, ",
+				"dass viele Leute nicht gut auf euch zu sprechen ",
+				"sein werden."
+			]
+		},
+		{
+			"path": [3,2,6,2],
+			"original": "Händler: Der Verlauf der Geschichte hat uns zu ihren Feinden gemacht, so wie es aussieht.",
+			"lines":
+			[
+				"\\c[10]Händler\\c[0]: Der Verlauf der Geschichte hat uns zu ",
+				"ihren Feinden gemacht,\\. so wie es aussieht."
+			]
+		}
+	]
+}

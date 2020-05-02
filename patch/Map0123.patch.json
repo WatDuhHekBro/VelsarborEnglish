@@ -1,0 +1,179 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [32,2,40,2],
+			"original": "Cibon: Das is' also das Corine Plateau... 'nen komischer Ort...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: So this is the Corine",
+				"Plateau...\\. A strange place..."
+			]
+		},
+		{
+			"path": [32,2,43,4],
+			"original": "Soko: So sieht es halt aus, wenn eine Landschaft komplett zerstört wurde und sie sich daraufhin wieder erholt.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: This is what happens when a",
+				"landscape has been completely",
+				"destroyed and then recovers."
+			]
+		},
+		{
+			"path": [32,2,48,2],
+			"original": "Soko: Und das alles nur weil vor 9 Jahren...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: And all because of what",
+				"happened nine years ago...\\|\\^"
+			]
+		},
+		{
+			"path": [32,2,52,2],
+			"original": "Kento: Wir alle kennen doch die Geschichte vom türkisen Inferno...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: We all know the story of the",
+				"turquoise inferno..."
+			]
+		},
+		{
+			"path": [32,2,57,4],
+			"original": "Cibon: Wo genau liegt hier eigentlich das Grabdenkmal? Ich hab versprochen dort einmal kurz vorbei zu schauen...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Where exactly is the",
+				"gravestone here? I promised",
+				"to have a look..."
+			]
+		},
+		{
+			"path": [32,2,64,3],
+			"original": "Soko: Ich glaube etwa in der Mitte des Plateaus. Wir sollten am besten bei jemanden auf dem Weg nachfragen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: I think about halfway across",
+				"the plateau.\\. The best thing to do",
+				"is to ask someone along the way."
+			]
+		},
+		{
+			"path": [32,2,71,4],
+			"original": "Herr Uroto: Wir sollten uns nicht zuviel damit beschäftigen. Vergessen Sie bitte nicht, dass Sie einen Auftrag zu erfüllen haben.",
+			"lines":
+			[
+				"\\c[10]Sir Uroto\\c[0]: We shouldn't spend too",
+				"much time on that.\\. Please don't",
+				"forget that you have an order",
+				"to fulfill."
+			]
+		},
+		{
+			"path": [32,2,75,3],
+			"original": "Herr Uroto: Wenn wir weiter so rumtrödeln werden wir es nicht mehr rechtzeitig schaffen.",
+			"lines":
+			[
+				"\\c[10]Sir Uroto\\c[0]: If we continue to dawdle",
+				"like this, we won't make it in time."
+			]
+		},
+		{
+			"path": [32,2,79,3],
+			"original": "Cibon: Ach kommen sie, Herr Uroto! Das ganze wird höchstens 5 bis 10 Minuten dauern.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Oh come on, Sir Uroto!\\. This'll",
+				"take a maximum of 5 to 10 minutes."
+			]
+		},
+		{
+			"path": [32,2,84,2],
+			"original": "Soko: Wieso willst du eigentlich das Denkmal besuchen, Cibon?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Why do you want to visit the",
+				"memorial so badly,\\. Cibon?"
+			]
+		},
+		{
+			"path": [32,2,89,4],
+			"original": "Cibon: Naja, mein Vater ist hier im Krieg gestorben. Er ist eines der vielen Opfer, für die das Denkmal gebaut wurde.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Well, my father died here in",
+				"the war.\\. He's one of the many victims",
+				"which the memorial was built for."
+			]
+		},
+		{
+			"path": [32,2,98,3],
+			"original": "Soko: Achso, das tut mir Leid. Das muss ein schwerer Verlust gewesen sein.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Oh, I'm sorry for your loss.\\.",
+				"That must've been devestating to",
+				"bear."
+			]
+		},
+		{
+			"path": [32,2,103,4],
+			"original": "Cibon: Nun ja, ich bin froh, dass er wenigstens mutig in der Schlacht gestorben ist. So kann ich immerhin auf ihn stolz sein.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Well, I'm glad that at least",
+				"his death was a brave one.\\. So I can",
+				"be proud of him."
+			]
+		},
+		{
+			"path": [32,2,114,3],
+			"original": "Herr Uroto: Könnten wir diese Konversation bitte auf später verschieben?",
+			"lines":
+			[
+				"\\c[10]Sir Uroto\\c[0]: Could we please postpone",
+				"this conversation until later?"
+			]
+		},
+		{
+			"path": [32,2,117,3],
+			"original": "Herr Uroto: Wie oft muss ich eigentlich noch daran erinnern, dass wir unter Zeitdruck stehen?",
+			"lines":
+			[
+				"\\c[10]Sir Uroto\\c[0]: How often do I have to",
+				"remind everything that we don't",
+				"have a lot of time left?"
+			]
+		},
+		{
+			"path": [32,2,121,3],
+			"original": "Soko: Sie haben Recht, Herr Uroto. Verzeihen Sie uns bitte, wir ziehen sofort weiter...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: You're right, Sir Uroto.\\. Please",
+				"forgive us, we'll move on",
+				"immediately..."
+			]
+		},
+		{
+			"path": [32,2,128,4],
+			"original": "(Cibon: Pah, letztendlich verschwenden wir ja doch nur die meiste Zeit, weil Herr Uroto sich ständig ausruhen muss.)",
+			"lines":
+			[
+				"(\\c[2]\\n[2]\\c[0]: Pah, when it comes down to",
+				"it, we only wasted so much time",
+				"because Sir Uroto has to keep",
+				"resting all the time.)"
+			]
+		},
+		{
+			"path": [32,2,133,2],
+			"original": "Kento: Komm Cibon, wir müssen uns wirklich etwas beeilen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Come on Cibon, we really ought",
+				"to hurry up some."
+			]
+		}
+	]
+}

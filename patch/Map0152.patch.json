@@ -1,0 +1,149 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [5,2,4,4],
+			"indent": 1,
+			"original": "Mann: Verdammt, mein Paket! Wo ist es? Ich hätte schwören können, ich hätte es mitgenommen, aber als ich vorhin im Laden gegenüber war, fiel mir plötzlich auf, das es weg war!",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Verdammt, mein Paket!\\. Wo ist es?\\. Ich hätte ",
+				"schwören können, ich hätte es mitgenommen, aber ",
+				"als ich vorhin im Laden gegenüber war, fiel mir ",
+				"plötzlich auf, das es weg war!"
+			]
+		},
+		{
+			"path": [5,2,13,3],
+			"indent": 1,
+			"original": "Mann: Oh...! Mein Paket! Ihr habt es gefunden! Wunderbar! Sagt, wo war es denn?",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Oh...!\\. Mein Paket!\\.",
+				"Ihr habt es gefunden!\\. Wunderbar!\\. ",
+				"Sagt, wo war es denn?"
+			]
+		},
+		{
+			"path": [5,2,18,2],
+			"indent": 1,
+			"original": "Kento: Im Hinterhof vom Waffenladen. Dort lag es in einer Ecke.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Im Hinterhof vom Waffenladen. ",
+				"Dort lag es in einer Ecke. "
+			]
+		},
+		{
+			"path": [5,2,21,2],
+			"indent": 1,
+			"original": "Mann: Ah... Wie konnte ich Trottel es nur dort liegen lassen. Wie auch immer, viele Dank.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Ah...\\. Wie konnte ich Trottel es nur dort ",
+				"liegen lassen.\\. Wie auch immer, viele Dank."
+			]
+		},
+		{
+			"path": [5,2,23,2],
+			"indent": 1,
+			"original": "Mann: Hey, währet ihr auch so nett mir das Paket noch zur nächsten Post-Versand-Stelle zu bringen?",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Hey,\\. währet ihr auch so nett mir das Paket ",
+				"noch zur nächsten Post-Versand-Stelle zu bringen?"
+			]
+		},
+		{
+			"path": [5,2,31,3],
+			"indent": 2,
+			"original": "Mann: Vielen Dank. Das Paket geht nach Pakonia. Die Versandkosten werden wohl nicht ganz ohne sein. Nehmt das Geld hier.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Vielen Dank.\\. Das Paket geht nach Pakonia.\\. ",
+				"Die Versandkosten werden wohl nicht ganz ohne ",
+				"sein.\\. Nehmt das Geld hier."
+			]
+		},
+		{
+			"path": [5,2,41,1],
+			"indent": 2,
+			"original": "Mann: Und das hier noch extra für all eure Mühen.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Und das hier noch extra für all eure Mühen."
+			]
+		},
+		{
+			"path": [5,2,49,1],
+			"indent": 2,
+			"original": "Mann: Vielen Dank für alles im Voraus.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Vielen Dank für alles im Voraus."
+			]
+		},
+		{
+			"path": [5,2,55,2],
+			"indent": 2,
+			"original": "Mann: Ah, na ja das kann ich verstehen. Trotzdem vielen Dank. Hier, das gebe ich euch.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Ah, na ja das kann ich verstehen.\\.",
+				"Trotzdem vielen Dank.\\. Hier, das gebe ich euch."
+			]
+		},
+		{
+			"path": [5,3,3,4],
+			"indent": 1,
+			"original": "Mann: Wart ihr schon mal in Pakonia? Es ist ganz witzig mal dort zu sein. Gerade wegen der Uchiko- Zucht dort. Ihr werdet nirgendwo sonst so viele von den Viechern auf einmal zu sehen bekommen.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Wart ihr schon mal in Pakonia?\\. Es ist ganz ",
+				"witzig mal dort zu sein. \\.Gerade wegen der Uchiko- ",
+				"Zucht dort. \\.Ihr werdet nirgendwo sonst so viele ",
+				"von den Viechern auf einmal zu sehen bekommen."
+			]
+		},
+		{
+			"path": [5,3,9,3],
+			"indent": 1,
+			"original": "Mann: Das Paket enthält nichts weiter als ein paar Zutaten die sich ein paar Bekannte von mir gewünscht haben.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Das Paket enthält nichts weiter als ein ",
+				"paar Zutaten die sich ein paar Bekannte von mir ",
+				"gewünscht haben. "
+			]
+		},
+		{
+			"path": [5,3,12,3],
+			"indent": 1,
+			"original": "Mann: Ich glaube sie wollen damit wieder irgendetwas für ihre Uchikos machen, die sie in Pakonia züchten.",
+			"lines":
+			[
+				"\\c[10]Mann\\c[0]: Ich glaube sie wollen damit wieder ",
+				"irgendetwas für ihre Uchikos machen, die sie in ",
+				"Pakonia züchten."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [5,2,27],
+			"original": "Gerne doch./Dafür haben wir keine Zeit.",
+			"patch": "Gerne doch./Dafür haben wir keine Zeit."
+		},
+		{
+			"path": [5,2,28],
+			"original": "Gerne doch.",
+			"patch": "Gerne doch."
+		},
+		{
+			"path": [5,2,53],
+			"original": "Dafür haben wir keine Zeit.",
+			"patch": "Dafür haben wir keine Zeit."
+		}
+	]
+}

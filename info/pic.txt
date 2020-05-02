@@ -1,5 +1,3 @@
-**TODO** Buffs/Debuffs
-
 #####################
 # Picture Directory #
 #####################
@@ -958,9 +956,10 @@ Turniermünze ___ - Tourn. Coins: ___
 
 
 
-##################
-# Extra Panorama #
-##################
+#######################
+# Outside Picture/... #
+#######################
+-= Panorama =-
 Bewegungs-Modus - Movement Mode
 Standart-Rennen - Walking
 Standart-Gehen - Running
@@ -968,3 +967,28 @@ Grafikdetails im Kampfsystem - Graphic details in combat system
 Infotext im Kampfsystem - Info text in combat system
 Aktiviert - Activated
 Deaktiviert - Deactivated
+
+
+-= Chapters (Faceset/Save_Kapitel) =-
+Kapitel 1: Zurück Nach Nomerea
+Kapitel 2: Ein Neuer Auftrag Beginnt
+Kapitel 3: Die Weiten Des Corine-Plateaus
+Kapitel 4: Erste Schritte Über Die Grenze
+
+Chapter 1: Back To Nomerea
+Chapter 2: A New Mission Begins
+Chapter 3: Across The Corine Plateau
+Chapter 4: First Steps Across The Border
+
+
+-= CharSet =-
+GEGN: ENEM (I assume it's from Gegnerische)
+ATK|MNT|STZ|AGI|TRF|RFL: ATK|WIS|DEF|AGL|ACC|EVA
+FERRES|ANIMO|TRÄGE|SPRINT|SPIEGEL|NEBEL: FERRES|ANIMO|TORPOR|ZEAL|MIRROR|MIST
+Flucht: Flee
+
+-= Chipset =-
+AKTION: ACTION
+Flucht: Flee
+Verzauberung: Enchantments
+Status Änderung: Buffs/Debuffs

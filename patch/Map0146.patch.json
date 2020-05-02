@@ -1,0 +1,83 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [78,1,8,1],
+			"original": "?????: Tatsächlich...",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] Indeed..."
+			]
+		},
+		{
+			"path": [78,1,27,3],
+			"original": "?????: Wer hätte je gedacht, dass der begehrte Junge ganz von selbst zu uns kommt?",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] Who would have ever thought",
+				"that the boy we've been looking",
+				"for would come to us on his own?"
+			]
+		},
+		{
+			"path": [78,1,41,3],
+			"original": "?????: Hach ja... So wie es aussieht, wird der Stress nun bald beginnen.",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] Oh right...\\. It seems like",
+				"it'll be stressful once more."
+			]
+		},
+		{
+			"path": [78,1,66,4],
+			"original": "?????: Tut mir schrecklich Leid, Cieoly, aber du wirst erneut die unendliche Last eines Briefes mit dir schleppen müssen.",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] I'm terribly sorry, Cieoly,",
+				"but you'll have to carry the",
+				"infinite burden of a letter",
+				"with you again."
+			]
+		},
+		{
+			"path": [78,1,75,4],
+			"original": "?????: Ja, ich weiß, dass es unfair ist. Ich kann gemütlich durchs Leben gehen, während du von einem Punkt zum nächsten saust, nicht wahr?",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] Yes,\\. I know it's unfair.\\. I can",
+				"go through life comfortably as you",
+				"whiz from one point to the next,",
+				"can't I?"
+			]
+		},
+		{
+			"path": [78,1,80,3],
+			"original": "?????: Komm schon, diese Nachricht ist wichtig, stell dich nicht so stur, ja?",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] Come on, this message is",
+				"important,\\. don't be so stubborn,",
+				"okay?"
+			]
+		},
+		{
+			"path": [78,1,92,3],
+			"original": "?????: Das ist meine Kleine, wie ich sie kenne. Enttäusch mich bitte nicht.",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] There we go.\\. Please don't",
+				"disappoint me."
+			]
+		},
+		{
+			"path": [78,1,108,4],
+			"original": "?????: Ich würde ja zu gerne nachschauen, was es mit diesem Licht von vorhin auf sich hatte, aber die Zeit rennt mir davon...",
+			"lines":
+			[
+				"\\c[10]?????:\\c[0] I would love to see what this",
+				"light was like,\\. but time is running",
+				"out..."
+			]
+		}
+	]
+}
