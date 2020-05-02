@@ -1,0 +1,119 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [30,2,28,2],
+			"original": "Kento: Das scheint ein ziemlich dichter Wald zu sein.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: This seems to be a pretty",
+				"dense forest."
+			]
+		},
+		{
+			"path": [30,2,32,4],
+			"original": "Soko: Ja. Soviel wie ich gehört habe, soll der Silvanwald selbst heute noch seine dunklen Stellen haben...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Yeah.\\. As far as I've heard, the",
+				"Silvan Forest is said to have places",
+				"which never see the light of day,",
+				"even to this day..."
+			]
+		},
+		{
+			"path": [30,2,37,2],
+			"original": "Soko:...wo sich kaum ein Mensch hinwagt.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: \\s[3]...where hardly anyone dares",
+				"to go."
+			]
+		},
+		{
+			"path": [30,2,41,3],
+			"original": "Cibon: Heh... Soll das ein Versuch sein uns Angst einzujagen? Schwache Leistung.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Heh...\\. Is that supposed to be",
+				"an attempt to scare us?\\. Nice try."
+			]
+		},
+		{
+			"path": [30,2,49,4],
+			"original": "Soko: Idiot. Ich meine das ernst. Obwohl hier Forstwirtschaft betrieben wird gibt es Stellen an denen der Wald unberührt ist.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Idiot.\\. I'm serious.\\. Although",
+				"people sometimes go here, there",
+				"are places where the forest",
+				"remains untouched."
+			]
+		},
+		{
+			"path": [30,2,57,4],
+			"original": "Herr Uroto: Das stimmt. Der Grund dafür sind einige steile Abgründe und Klippen, die sich durch den Wald ziehen.",
+			"lines":
+			[
+				"\\c[10]Sir Uroto\\c[0]: That's right.\\. The reason",
+				"for this is because of some steep",
+				"edges and cliffs that run through",
+				"the forest."
+			]
+		},
+		{
+			"path": [30,2,61,4],
+			"original": "Herr Uroto: Dort kann man schlecht Bäume fällen. Aber das hat uns nicht zu kümmern, unsere Reiseroute ist eben.",
+			"lines":
+			[
+				"\\c[10]Sir Uroto\\c[0]: It's difficult to chop",
+				"down trees there.\\. But we don't",
+				"have to worry, our path is flat."
+			]
+		},
+		{
+			"path": [30,2,65,2],
+			"original": "Herr Uroto: Also kann es nun bitte weiter gehen?",
+			"lines":
+			[
+				"\\c[10]Sir Uroto\\c[0]: So can we continue now?"
+			]
+		},
+		{
+			"path": [30,2,68,1],
+			"original": "Soko: Jawohl.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: At once!"
+			]
+		},
+		{
+			"path": [30,2,70,4],
+			"original": "(Cibon: Wahrscheinlich wird er nie mit diesem lächerlichen Druck- machen/Pause-anfordern- Kreislauf aufhören.)",
+			"lines":
+			[
+				"(\\c[2]\\n[2]\\c[0]: He'll probably never stop",
+				"with this ridiculous \"Hurry up",
+				"already!\" and \"I need a break!\"",
+				"cycle.)"
+			]
+		},
+		{
+			"path": [30,4,34,1],
+			"original": "Cibon: Der Wald ist zu ende!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: We're at the end of the",
+				"forest!"
+			]
+		},
+		{
+			"path": [30,4,36,1],
+			"original": "Kento: Sofort zur Grenze!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: To the border!\\. Immediately!"
+			]
+		}
+	]
+}

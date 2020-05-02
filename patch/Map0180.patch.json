@@ -1,0 +1,89 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [8,1,11,3],
+			"original": "?????: Es sieht so aus, als haben die Zwillingsseelen schließlich einander berührt.",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: It looks like the twin souls",
+				"have finally touched each other."
+			],
+			"__comment__": "Prophet"
+		},
+		{
+			"path": [8,1,15,4],
+			"original": "?????: Nun ist es nur noch eine Frage der Zeit, bis er im Zenit des Konflikts das Schicksal dieser Welt wandeln wird.",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Now it's only a matter of time",
+				"before he will save the world from",
+				"its doom in the zenith of the",
+				"conflict."
+			],
+			"__comment__": "Prophet"
+		},
+		{
+			"path": [8,1,23,3],
+			"original": "?????: Ein unbeherrschtes Bündel aus Wut wie dieses soll unsere Welt ändern?",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: An uncontrollable bundle of",
+				"anger like this is supposed to",
+				"save our world?"
+			],
+			"__comment__": "Genji"
+		},
+		{
+			"path": [8,1,31,3],
+			"original": "?????: Vergiss bitte nicht, dass es diese Wut ist, die ihn bis heute unter uns weilen lässt.",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Please don't forget that it is",
+				"this very anger that keeps him on the",
+				"path to this day."
+			],
+			"__comment__": "Prophet"
+		},
+		{
+			"path": [8,1,34,4],
+			"original": "?????: Jetzt wo er mit seinem Problem konfrontiert wird, ist es an ihm selbst, diese Hürde zu überkommen.",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Now that he has been faced",
+				"with this problem, it is up to him",
+				"alone to overcome this obstacle."
+			],
+			"__comment__": "Prophet"
+		},
+		{
+			"path": [8,1,43,2],
+			"original": "?????: Möge der Segen Heimdalls bei ihm sein.",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: May Heimdall's blessings be",
+				"with him."
+			],
+			"__comment__": "Prophet"
+		},
+		{
+			"path": [8,1,49,2],
+			"original": "?????: Hoffentlich zerbricht er nicht an der ganzen Sache...",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Hopefully, he makes it through",
+				"the whole ordeal..."
+			],
+			"__comment__": "Kumiko"
+		},
+		{
+			"path": [8,1,59,1],
+			"original": "?????: Halte durch... Kento...",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Hang in there...\\. Kento..."
+			],
+			"__comment__": "Kumiko"
+		}
+	]
+}
