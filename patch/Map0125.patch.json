@@ -6,8 +6,8 @@
 			"original": "Kento: Hm? Was machen diese Personen da oben?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hm? Was machen diese ",
-				"Personen da oben?"
+				"\\c[1]\\n[1]\\c[0]: Hm? What are these people",
+				"doing up there?"
 			]
 		},
 		{
@@ -15,9 +15,8 @@
 			"original": "Soko: Muss uns das interessieren? Wir sollten uns von sowas nicht ablenken lassen...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Muss uns das interessieren?\\.",
-				"Wir sollten uns von sowas nicht ",
-				"ablenken lassen..."
+				"\\c[13]\\n[3]\\c[0]: Does that matter?\\. We shouldn't",
+				"let anything distract us..."
 			]
 		},
 		{
@@ -25,9 +24,8 @@
 			"original": "Cibon: Hey! Das ist ein Hinterhalt! Da müssen wir eingreifen! Kommt, schnell!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hey!\\. Das ist ein Hinterhalt!\\. ",
-				"Da müssen wir eingreifen!\\. Kommt, ",
-				"schnell!"
+				"\\c[2]\\n[2]\\c[0]: Hey!\\. This is an ambush! We",
+				"have to intervene!\\. Come on, quickly!"
 			]
 		},
 		{
@@ -35,7 +33,7 @@
 			"original": "Kento: Ohje....",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ohje....\\.\\^"
+				"\\c[1]\\n[1]\\c[0]: Oh boy...\\.\\^"
 			]
 		},
 		{
@@ -43,7 +41,7 @@
 			"original": "(Cibon: OHO, wen haben wir denn da!)",
 			"lines":
 			[
-				"(\\c[2]\\n[2]\\c[0]: OHO, wen haben wir denn da!)"
+				"(\\c[2]\\n[2]\\c[0]: My my, who do we have here!)"
 			]
 		},
 		{
@@ -51,8 +49,8 @@
 			"original": "Cibon: Keine Sorge, schönes Mädchen! Die Rettung naht!!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Keine Sorge, schönes ",
-				"Mädchen! Die Rettung naht!!"
+				"\\c[2]\\n[2]\\c[0]: Don't worry, beautiful girl!",
+				"Rescue is on the way!!"
 			]
 		},
 		{
@@ -60,7 +58,7 @@
 			"original": "Soko: Was zum...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Was zum..."
+				"\\c[13]\\n[3]\\c[0]: What the..."
 			]
 		},
 		{
@@ -68,7 +66,7 @@
 			"original": "Räuber: Verdammt! Brigantische Soldaten!",
 			"lines":
 			[
-				"\\c[10]Räuber\\c[0]: Verdammt! Brigantische Soldaten! "
+				"\\c[10]Robber\\c[0]: Damn it! Brigantian soldiers!"
 			]
 		},
 		{
@@ -76,8 +74,8 @@
 			"original": "Anderer Räuber: Kämpft! Wir sind zu Viert. Wir werden sie schon packen!",
 			"lines":
 			[
-				"\\c[10]Anderer Räuber\\c[0]: Kämpft!\\. Wir sind zu Viert.\\.",
-				"Wir werden sie schon packen!"
+				"\\c[10]Other Robber\\c[0]: Get 'em!\\. It's four on three.\\.",
+				"We've already got what we need!"
 			]
 		},
 		{
@@ -85,7 +83,7 @@
 			"original": "Cibon: Hehe, ein Kinderspiel!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hehe,\\. ein Kinderspiel!"
+				"\\c[2]\\n[2]\\c[0]: Hehe,\\. child's play!"
 			]
 		},
 		{
@@ -93,8 +91,7 @@
 			"original": "Cibon: Junge Frau, ist alles in Ordnung?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Junge Frau, ist alles in ",
-				"Ordnung?"
+				"\\c[2]\\n[2]\\c[0]: Hey there, you alright?"
 			]
 		},
 		{
@@ -102,7 +99,7 @@
 			"original": "Junge Frau: Öhm... ja?",
 			"lines":
 			[
-				"\\c[10]Junge Frau\\c[0]: Öhm...\\. ja?"
+				"\\c[10]Young Woman\\c[0]: Um...\\. yeah?"
 			]
 		},
 		{
@@ -110,10 +107,10 @@
 			"original": "Junge Frau: Danke für die Rettung! Huch, ich will nicht daran denken, was mit uns passiert wäre, wenn ihr nicht rechtzeitig gekommen wärt!",
 			"lines":
 			[
-				"\\c[10]Junge Frau\\c[0]: Danke für die Rettung!\\.",
-				"Huch,\\. ich will nicht daran denken, ",
-				"was mit uns passiert wäre,\\. wenn ihr ",
-				"nicht rechtzeitig gekommen wärt!"
+				"\\c[10]Young Woman\\c[0]: Thanks for the rescue!\\.",
+				"Yikes,\\. I don't want to think about",
+				"what would've happened to us if",
+				"you hadn't come in time!"
 			]
 		},
 		{
@@ -121,10 +118,9 @@
 			"original": "Cibon: Keine Ursache. Wie hätte man sich denn auch anders verhalten sollen, wenn solch eine Schönheit in Gefahr ist?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Keine Ursache.\\. Wie hätte man ",
-				"sich denn auch anders verhalten ",
-				"sollen, wenn solch eine Schönheit in ",
-				"Gefahr ist?"
+				"\\c[2]\\n[2]\\c[0]: No need.\\. How could one have",
+				"acted differently when such a",
+				"beauty is in danger?"
 			]
 		},
 		{
@@ -132,8 +128,7 @@
 			"original": "Junge Frau: Hehe, ihr schmeichelt mir...",
 			"lines":
 			[
-				"\\c[10]Junge Frau\\c[0]: Hehe, ihr schmeichelt ",
-				"mir..."
+				"\\c[10]Young Woman\\c[0]: Hehe, you flatter me..."
 			]
 		},
 		{
@@ -141,7 +136,7 @@
 			"original": "Kento: Er tut es... schon wieder...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Er tut es...\\. schon wieder..."
+				"\\c[1]\\n[1]\\c[0]: There he goes...\\. again..."
 			]
 		},
 		{
@@ -149,7 +144,7 @@
 			"original": "Soko: Cibon...?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Cibon...?"
+				"\\c[13]\\n[3]\\c[0]: Cibon?"
 			]
 		},
 		{
@@ -157,8 +152,9 @@
 			"original": "Cibon: Ich bin Cibon Tirunel und mit wem habe ich die Ehre?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich bin Cibon Tirunel und mit ",
-				"wem habe ich die Ehre?"
+				"\\c[2]\\n[2]\\c[0]: The name's Cibon Tirunel and",
+				"who do I have the honor of being",
+				"with today?"
 			]
 		},
 		{
@@ -166,7 +162,7 @@
 			"original": "Junge Frau: Ich heiße Anelia Saltatio!",
 			"lines":
 			[
-				"\\c[10]Junge Frau\\c[0]: Ich heiße Anelia ",
+				"\\c[10]Young Woman\\c[0]: My name is Anelia",
 				"Saltatio!"
 			]
 		},
@@ -175,8 +171,8 @@
 			"original": "Kleiner Junge: Ja, mir geht's auch gut, danke der Nachfrage.",
 			"lines":
 			[
-				"\\c[10]Kleiner Junge\\c[0]: Ja,\\. mir geht's auch ",
-				"gut,\\.\\s[5] danke der Nachfrage."
+				"\\c[10]Little Boy\\c[0]: Yeah,\\. I'm fine too,\\.",
+				"\\s[5]thanks for asking."
 			]
 		},
 		{
@@ -184,8 +180,8 @@
 			"original": "Anelia: Oh, Koge, tut mir Leid. Ich bin noch ganz durcheinander...",
 			"lines":
 			[
-				"\\c[10]Anelia\\c[0]: Oh,\\. Koge,\\. tut mir Leid.\\. Ich ",
-				"bin noch ganz durcheinander..."
+				"\\c[10]Anelia\\c[0]: Oh,\\. Koge,\\. I'm sorry.\\. I'm",
+				"still in a mess..."
 			]
 		},
 		{
@@ -193,8 +189,7 @@
 			"original": "Anelia: Großvater, ist alles in Ordnung?",
 			"lines":
 			[
-				"\\c[10]Anelia\\c[0]: Großvater, ist alles in ",
-				"Ordnung?"
+				"\\c[10]Anelia\\c[0]: Grandpa, are you alright?"
 			]
 		},
 		{
@@ -202,8 +197,8 @@
 			"original": "Großvater: Ja, mach dir keine Sorgen um mich, mein Spatz...",
 			"lines":
 			[
-				"\\c[10]Großvater\\c[0]: Ja, mach dir keine Sorgen ",
-				"um mich, mein Spatz..."
+				"\\c[10]Grandfather\\c[0]: Yes, don't worry about",
+				"me, my dove..."
 			]
 		},
 		{
@@ -211,8 +206,8 @@
 			"original": "Anelia: Das hier sind mein kleiner Bruder Koge und mein Großvater.",
 			"lines":
 			[
-				"\\c[10]Anelia\\c[0]: Das hier sind mein kleiner ",
-				"Bruder Koge und mein Großvater."
+				"\\c[10]Anelia\\c[0]: This is my little brother",
+				"Koge and my grandfather."
 			]
 		},
 		{
@@ -220,8 +215,8 @@
 			"original": "Lesario: Nennt mich Lesario. Vielen Dank für die Rettung...",
 			"lines":
 			[
-				"\\c[10]Lesario\\c[0]: Nennt mich Lesario.\\. ",
-				"Vielen Dank für die Rettung..."
+				"\\c[10]Lesario\\c[0]: Call me Lesario.\\. Thank you",
+				"for the rescue..."
 			]
 		},
 		{
@@ -229,9 +224,9 @@
 			"original": "Cibon: Keine Ursache. Schön euch kennen zu lernen. Was macht ihr eigentlich hier im Corine Plateau?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Keine Ursache.\\. Schön euch ",
-				"kennen zu lernen.\\. Was macht ihr ",
-				"eigentlich hier im Corine Plateau?"
+				"\\c[2]\\n[2]\\c[0]: No need.\\. Nice to meet you.\\.",
+				"What are you doing here in the",
+				"Corine Plateau?"
 			]
 		},
 		{
@@ -239,9 +234,10 @@
 			"original": "Anelia: Wir sind auf der Reise nach West-Brigantia. Wir wollen dort die großen Städte besuchen. Zuerst Nomerea...",
 			"lines":
 			[
-				"\\c[10]Anelia\\c[0]: Wir sind auf der Reise nach ",
-				"West-Brigantia.\\. Wir wollen dort die ",
-				"großen Städte besuchen.\\. Zuerst Nomerea..."
+				"\\c[10]Anelia\\c[0]: We're on our way to West",
+				"Brigantia.\\. We want to visit the",
+				"big cities there.\\. First comes",
+				"Nomerea..."
 			]
 		},
 		{
@@ -249,8 +245,8 @@
 			"original": "Anelia: Dort werden wir dann musizieren und tanzen!",
 			"lines":
 			[
-				"\\c[10]Anelia\\c[0]: Dort werden wir dann ",
-				"musizieren und tanzen!"
+				"\\c[10]Anelia\\c[0]: We'll play music and dance",
+				"there!"
 			]
 		},
 		{
@@ -258,8 +254,8 @@
 			"original": "Cibon: Musizieren und tanzen? In Nomerea?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Musizieren und tanzen?\\. In ",
-				"Nomerea? "
+				"\\c[2]\\n[2]\\c[0]: Playing music and dancing?\\.",
+				"In Nomerea?"
 			]
 		},
 		{
@@ -267,9 +263,8 @@
 			"original": "Cibon: Ach verdammt! Wieso muss ich ausgerechnet jetzt diesen Auftrag haben?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ach verdammt!\\. Wieso muss ",
-				"ich ausgerechnet jetzt diesen ",
-				"Auftrag haben?"
+				"\\c[2]\\n[2]\\c[0]: Oh dammit!\\. Why do I have to",
+				"have this order right now?"
 			]
 		},
 		{
@@ -277,9 +272,8 @@
 			"original": "Cibon: Es ist als würde man mir einen Teil meines Herzens entreißen und....",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[3] Es ist als würde man mir ",
-				"einen Teil meines Herzens entreißen ",
-				"und....\\.\\.\\^"
+				"\\c[2]\\n[2]\\c[0]:\\s[3] It's like we were made for",
+				"each other...\\.\\.\\^"
 			]
 		},
 		{
@@ -287,9 +281,9 @@
 			"original": "Soko: Es ist wie es ist, Cibon. Und jetzt müssen wir weiter. Wir stehen immer noch unter Zeitdruck.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Es ist wie es ist, Cibon.\\. Und ",
-				"jetzt müssen wir weiter.\\. Wir stehen ",
-				"immer noch unter Zeitdruck."
+				"\\c[13]\\n[3]\\c[0]: It is what it is, Cibon.\\. And",
+				"right now, we have to keep going.\\.",
+				"We're still rushed for time."
 			]
 		},
 		{
@@ -297,7 +291,7 @@
 			"original": "Cibon: Wa..?!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wa..?!"
+				"\\c[2]\\n[2]\\c[0]: What?!"
 			]
 		},
 		{
@@ -305,8 +299,8 @@
 			"original": "Anelia: Müsst ihr schon weiter? Das ist schade.",
 			"lines":
 			[
-				"\\c[10]Anelia\\c[0]: Müsst ihr schon weiter?\\. Das ",
-				"ist schade."
+				"\\c[10]Anelia\\c[0]: Do you have to leave so soon?\\.",
+				"That's a pity."
 			]
 		},
 		{
@@ -314,9 +308,10 @@
 			"original": "Soko: Ja, wir haben einen wichtigen Auftrag, den \"Herr Tirunel\" leider sehr leicht zu vergessen scheint.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ja, wir haben einen wichtigen ",
-				"Auftrag, den \"Herr Tirunel\" leider ",
-				"sehr leicht zu vergessen scheint. "
+				"\\c[13]\\n[3]\\c[0]: Yes, we have an important order",
+				"that \"Sir Tirunel\" unfortunately",
+				"seems to be forgetting about",
+				"very easily."
 			]
 		},
 		{
@@ -324,8 +319,8 @@
 			"original": "Cibon: Mensch, das ist doch nicht dein Ernst! Die paar Minuten!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Mensch,\\. das ist doch nicht ",
-				"dein Ernst!\\. Die paar Minuten!"
+				"\\c[2]\\n[2]\\c[0]: Oh you can't be serious!\\.",
+				"Just a few minutes!"
 			]
 		},
 		{
@@ -333,8 +328,8 @@
 			"original": "Soko: Wer weiß, welche Ausmaße diese Konversation nehmen kann, Cibon.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wer weiß, welche Ausmaße diese ",
-				"Konversation nehmen kann, Cibon. "
+				"\\c[13]\\n[3]\\c[0]: Who knows how long this",
+				"conversation will drag on, Cibon."
 			]
 		},
 		{
@@ -342,9 +337,9 @@
 			"original": "Soko: Nachher wechselst du von einem Thema zum nächsten und ihr kommt nie zum Ende...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Nachher wechselst du von einem ",
-				"Thema zum nächsten und ihr kommt nie ",
-				"zum Ende..."
+				"\\c[13]\\n[3]\\c[0]: Afterwards, you'll switch from",
+				"one topic to another and it'll never",
+				"come to an end..."
 			]
 		},
 		{
@@ -352,9 +347,9 @@
 			"original": "Anelia: Oh... Wenn ihr es so eilig habt, wollen wir euch auch nicht länger aufhalten.",
 			"lines":
 			[
-				"\\c[10]Anelia\\c[0]: Oh...\\. Wenn ihr es so eilig ",
-				"habt,\\. wollen wir euch auch nicht ",
-				"länger aufhalten."
+				"\\c[10]Anelia\\c[0]: Oh...\\. If you're in such a",
+				"hurry,\\. we don't want to hold you",
+				"up any longer."
 			]
 		},
 		{
@@ -362,8 +357,8 @@
 			"original": "Cibon: Anelia... Ich hoffe wir sehen uns bald wieder.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Anelia...\\. Ich hoffe ",
-				"wir sehen uns bald wieder."
+				"\\c[2]\\n[2]\\c[0]: Anelia...\\. I hope to see you",
+				"again soon."
 			]
 		},
 		{
@@ -371,8 +366,8 @@
 			"original": "Anelia: Hihi, das hoffe ich auch, mein Retter.",
 			"lines":
 			[
-				"\\c[10]Anelia\\c[0]: Hihi,\\. das hoffe ich auch,\\. ",
-				"\\s[3]mein Retter."
+				"\\c[10]Anelia\\c[0]: Hehe\\., I hope so too,\\.",
+				"\\s[3]my savior."
 			]
 		},
 		{
@@ -380,8 +375,9 @@
 			"original": "Anelia: Bis dann und danke nochmals. Vor allem dir, liebster Retter.",
 			"lines":
 			[
-				"\\c[10]Anelia\\c[0]: Bis dann und danke nochmals.\\. ",
-				"Vor allem dir,\\. liebster Retter."
+				"\\c[10]Anelia\\c[0]: See you then and thanks",
+				"again.\\. Especially you, my",
+				"dearest savior."
 			]
 		},
 		{
@@ -389,9 +385,9 @@
 			"original": "(Kento: Öhm... bild ich mir das ein, oder hat Cibon diesmal mit seiner Anmache tatsächlich Erfolg gehabt?!)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Öhm... bild ich mir das ein, ",
-				"oder hat Cibon diesmal mit seiner ",
-				"Anmache tatsächlich Erfolg gehabt?!)"
+				"(\\c[1]\\n[1]\\c[0]: Huh... Is it just me, or did",
+				"Cibon actually just have success a",
+				"girl this time?!)"
 			]
 		},
 		{
@@ -399,9 +395,10 @@
 			"original": "Cibon: Jaja, erst Druck machen und jetzt rum stehen. Los, wir müssen weiter, ODER?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Jaja, erst Druck machen und ",
-				"jetzt rum stehen.\\. Los,\\. wir müssen ",
-				"weiter,\\.\\s[3] ODER?"
+				"\\c[2]\\n[2]\\c[0]: Yeah, put the pressure on me",
+				"and loiter around now.\\. Come on",
+				"already,\\. we have an order to",
+				"fulfill,\\.\\s[3] DON'T WE?"
 			]
 		},
 		{
@@ -409,9 +406,9 @@
 			"original": "Soko: Meine Güte, war das peinlich! Ich hab noch nie so eine dick aufgetragene Anmache erlebt.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Meine Güte, war das peinlich!\\. ",
-				"Ich hab noch nie so eine dick ",
-				"aufgetragene Anmache erlebt."
+				"\\c[13]\\n[3]\\c[0]: Gosh, that was embarrassing!\\.",
+				"I've never seen such a tryhard at",
+				"picking up."
 			]
 		},
 		{
@@ -419,10 +416,10 @@
 			"original": "Kento: Wem erzählst du das. Und es kommt noch besser: Er macht das bei fast jeder Frau ähnlichen Alters, die ihm über dem Weg läuft.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wem erzählst du das.\\. Und es ",
-				"kommt noch besser:\\. Er macht das bei ",
-				"fast jeder Frau ähnlichen Alters, ",
-				"die ihm über dem Weg läuft."
+				"\\c[1]\\n[1]\\c[0]: You're telling me.\\. And it gets",
+				"better:\\. He does this for almost every",
+				"woman around his age who he runs",
+				"into."
 			]
 		},
 		{
@@ -430,7 +427,7 @@
 			"original": "Soko: Ist nicht wahr!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ist nicht wahr!"
+				"\\c[13]\\n[3]\\c[0]: You're joking!"
 			]
 		},
 		{
@@ -438,7 +435,7 @@
 			"original": "Kento: Komm, lass uns weiter gehen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Komm,\\. lass uns weiter gehen."
+				"\\c[1]\\n[1]\\c[0]: Come,\\. let's move on."
 			]
 		},
 		{
@@ -446,9 +443,8 @@
 			"original": "Soko: Eine Frage, Kento... Wieso... hat Cibon das bitte nicht bei mir gemacht?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Eine Frage, Kento...\\. Wieso...\\. ",
-				"hat Cibon das bitte nicht bei mir ",
-				"gemacht?"
+				"\\c[13]\\n[3]\\c[0]: One question, Kento...\\. Why...\\.",
+				"didn't Cibon try that on me?"
 			]
 		},
 		{
@@ -456,8 +452,8 @@
 			"original": "Kento: Öh? Weil er Angst vor dir hat.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Öh?\\. Weil er Angst vor dir ",
-				"hat."
+				"\\c[1]\\n[1]\\c[0]: Oh?\\. Because he's afraid of",
+				"you."
 			]
 		},
 		{
@@ -465,8 +461,7 @@
 			"original": "Soko: ANGST? Vor mir? Wieso denn das?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ANGST?\\. Vor mir?\\. ",
-				"Wieso denn das?"
+				"\\c[13]\\n[3]\\c[0]: AFRAID?\\. Of me?\\. Why is that?"
 			]
 		},
 		{
@@ -474,9 +469,8 @@
 			"original": "Kento: Hehe. Erinnere dich mal daran, was in dem Gasthof passiert ist, als wir dich getroffen haben.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hehe.\\. Erinnere dich mal ",
-				"daran, was in dem Gasthof passiert ",
-				"ist,\\. als wir dich getroffen haben."
+				"\\c[1]\\n[1]\\c[0]: Heh.\\. Remember what happened",
+				"in the inn when we first met you?"
 			]
 		},
 		{
@@ -484,9 +478,9 @@
 			"original": "Kento: Und dann schließe mal daraus, wie wohl Cibons erster Eindruck von dir gewesen ist.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Und dann schließe mal daraus,\\. ",
-				"wie wohl Cibons erster Eindruck von ",
-				"dir gewesen ist."
+				"\\c[1]\\n[1]\\c[0]: And then you can guess how",
+				"well Cibon's first impression of",
+				"you was."
 			]
 		},
 		{
@@ -494,7 +488,7 @@
 			"original": "Soko: ...oh.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...\\.oh."
+				"\\c[13]\\n[3]\\c[0]: Oh..."
 			]
 		}
 	]

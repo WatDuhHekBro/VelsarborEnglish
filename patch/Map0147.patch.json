@@ -49,7 +49,7 @@
 			"original": "?????: Hab ich euch!",
 			"lines":
 			[
-				"\\c[10]?????\\c[0]:\\s[3] Hab ich euch!"
+				"\\c[10]?????\\c[0]:\\s[3] I have you now!"
 			]
 		},
 		{
@@ -57,8 +57,7 @@
 			"original": "Kento: Was denn jetzt schon wieder...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Was denn jetzt schon ",
-				"wieder..."
+				"\\c[1]\\n[1]\\c[0]: What is it this time..."
 			]
 		},
 		{
@@ -66,7 +65,7 @@
 			"original": "Soko: W...Wer seid ihr?!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: W...\\.Wer seid ihr?!"
+				"\\c[13]\\n[3]\\c[0]: W...\\. Who are you?!"
 			]
 		},
 		{
@@ -74,10 +73,10 @@
 			"original": "Guillian: Mein Name ist Guillian der Fliegende. Ich bin gekommen um euch eins auszuwischen und um euch um eure Besitztümer zu erleichtern!",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: Mein Name ist Guillian der ",
-				"Fliegende.\\. Ich bin gekommen um euch ",
-				"eins auszuwischen und um euch um ",
-				"eure Besitztümer zu erleichtern!"
+				"\\c[10]Guillian\\c[0]: My name is Guillian, the",
+				"one who flies.\\. I've come to wipe",
+				"you out and relieve you of your",
+				"possessions!"
 			]
 		},
 		{
@@ -93,8 +92,7 @@
 			"original": "Cibon: Verstehe, also nur ein weiterer Dieb...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Verstehe,\\. also nur ein ",
-				"weiterer Dieb..."
+				"\\c[2]\\n[2]\\c[0]: I see,\\. just another thief..."
 			]
 		},
 		{
@@ -102,8 +100,8 @@
 			"original": "Soko: Und ein ziemlich gesprächiger noch dazu...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Und ein ziemlich gesprächiger ",
-				"noch dazu..."
+				"\\c[13]\\n[3]\\c[0]: And a pretty talkative one at",
+				"that..."
 			]
 		},
 		{
@@ -111,9 +109,9 @@
 			"original": "Guillian: Genau, macht euch nur lustig. Umso schmerzvoller wird euer Fall sein!",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: Genau,\\. macht euch nur ",
-				"lustig.\\. Umso schmerzvoller wird euer ",
-				"Fall sein!"
+				"\\c[10]Guillian\\c[0]: Keep making fun of",
+				"yourselves.\\. Your fall will",
+				"be all the more painful!"
 			]
 		},
 		{
@@ -121,9 +119,9 @@
 			"original": "Guillian: \\v[1848] meiner Kameraden habt ihr bereits auf dem Gewissen! Glaubt nicht, dass ihr damit davon kommt.",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: \\v[1848] meiner Kameraden habt ",
-				"ihr bereits auf dem Gewissen!\\. Glaubt ",
-				"nicht, dass ihr damit davon kommt."
+				"\\c[10]Guillian\\c[0]: You already have the blood",
+				"of \\v[1848] of my comrades!\\. Don't",
+				"think you can get away with it!"
 			]
 		},
 		{
@@ -131,19 +129,20 @@
 			"original": "Guillian: Los Rekreto! Auf zum Angriff!",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: Los Rekreto!\\.",
-				"Auf zum Angriff!"
-			]
+				"\\c[10]Guillian\\c[0]: Let's go, Rekreto!\\. Off to",
+				"battle!"
+			],
+			"__comment__": "Rekreto is the name of his beetle I presume."
 		},
 		{
 			"path": [66,4,4,4],
 			"original": "Guillian: Gut, ich hab euch unterschätz. Wer hätte auch gedacht, dass 3 junge Soldaten zu soviel fähig sind!",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: Gut, ich hab euch ",
-				"unterschätz.\\. Wer hätte auch gedacht, ",
-				"dass 3 junge Soldaten zu soviel ",
-				"fähig sind!"
+				"\\c[10]Guillian\\c[0]: Well, looks like I",
+				"underestimated you.\\. Who would've",
+				"thought that three young soldiers",
+				"would be capable of so much!"
 			]
 		},
 		{
@@ -151,9 +150,9 @@
 			"original": "Guillian: Aber wartet ab. Das nächste Mal wenn ihr hier aufkreuzt werd ich euch kriegen!",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: Aber wartet ab.\\. Das ",
-				"nächste Mal wenn ihr hier aufkreuzt ",
-				"werd ich euch kriegen! "
+				"\\c[10]Guillian\\c[0]: But just you wait.\\. The next",
+				"time you show up here I'll get you",
+				"for sure!"
 			]
 		},
 		{
@@ -161,8 +160,7 @@
 			"original": "Guillian: Meine Kameraden werden ihre Rache bekommen!",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: Meine Kameraden werden ",
-				"ihre Rache bekommen!"
+				"\\c[10]Guillian\\c[0]: I will avenge my comrades!"
 			]
 		},
 		{
@@ -170,10 +168,10 @@
 			"original": "Soko: Du sprichst von uns als ob wir wahllos deinen \"Kameraden\" ins Kreuz gefallen sind, dabei waren sie es, die uns angriffen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Du sprichst von uns als ob wir ",
-				"wahllos deinen \"Kameraden\" ins Kreuz",
-				"gefallen sind, dabei waren sie ",
-				"es, die uns angriffen."
+				"\\c[13]\\n[3]\\c[0]: You speak to us as if we",
+				"randomly put the crosshair onto",
+				"your \"comrades\", and it was",
+				"they who attacked us."
 			]
 		},
 		{
@@ -181,9 +179,9 @@
 			"original": "Soko: Also was soll diese Rede von Rache? Wenn ihr Leute angreift müsst ihr die Konsequenzen dazu tragen!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Also was soll diese Rede von ",
-				"Rache?\\. Wenn ihr Leute angreift müsst ",
-				"ihr die Konsequenzen dazu tragen!"
+				"\\c[13]\\n[3]\\c[0]: So what's all this talk about",
+				"revenge?\\. If you attack people, you",
+				"have to bear the consequences!"
 			]
 		},
 		{
@@ -191,10 +189,10 @@
 			"original": "Guillian: Hahahahaha, weißt du was? DU sprichst von uns als ob wir wahllos aus Boshaftigkeit Leute umnieten und ihnen Geld stehlen.",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: \\s[5]Hahahahaha,\\.\\s[0] weißt du was?\\.",
-				"DU sprichst von uns als ob wir ",
-				"wahllos aus Boshaftigkeit Leute ",
-				"umnieten und ihnen Geld stehlen."
+				"\\c[10]Guillian\\c[0]: \\s[5]Hahahahaha,\\.\\s[0] you know what?\\.",
+				"YOU speak of us as if we were",
+				"randomly targeting people and",
+				"stealing money from them."
 			]
 		},
 		{
@@ -202,10 +200,8 @@
 			"original": "Guillian: Wir Diebe sind kein Verderben, das aus der Unterwelt ans Tageslicht gekrochen ist, wusstest du das?",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: Wir Diebe sind kein ",
-				"Verderben, das aus der Unterwelt ans ",
-				"Tageslicht gekrochen ist,\\. wusstest ",
-				"du das?"
+				"\\c[10]Guillian\\c[0]: We thieves don't just come",
+				"out of nowhere,\\. you know that?"
 			]
 		},
 		{
@@ -213,10 +209,10 @@
 			"original": "Guillian: Wir haben hier gelebt, ihr aus Brigantia habt uns unsere Heimat weggenommen, habt uns von hier vertrieben.",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: Wir haben hier gelebt,\\. ihr ",
-				"aus Brigantia habt uns unsere",
-				"Heimat weggenommen,\\. habt uns von",
-				"hier vertrieben."
+				"\\c[10]Guillian\\c[0]: We lived here for",
+				"generations,\\. then you Brigantians",
+				"took our home away from us,\\.",
+				"drove us out of here."
 			]
 		},
 		{
@@ -224,10 +220,9 @@
 			"original": "Cibon: Eure Heimat? Das Corine Plateau? Aber es war doch Korzojenos Zug, der diese Landschaft hier verwüsten ließ!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Eure Heimat?\\. Das Corine ",
-				"Plateau?\\. Aber es war doch ",
-				"Korzojenos Zug, der diese ",
-				"Landschaft hier verwüsten ließ!"
+				"\\c[2]\\n[2]\\c[0]: Your home?\\. The Corine Plateau?\\.",
+				"But it was Korzojeno's fault that",
+				"this landscape was devastated!"
 			]
 		},
 		{
@@ -235,10 +230,10 @@
 			"original": "Guillian: Ich rede von der Grenzenverschiebung. Von den Leuten oben aus Helnovien und Gencorin im Osten.",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: Ich rede von der ",
-				"Grenzenverschiebung. Von den Leuten ",
-				"oben aus Helnovien und Gencorin im ",
-				"Osten. "
+				"\\c[10]Guillian\\c[0]: I'm talking about the",
+				"shifting borders. From the people",
+				"up at Helnovien and Gencorin in",
+				"the east."
 			]
 		},
 		{
@@ -246,10 +241,10 @@
 			"original": "Guillian: So zerstört unsere Heimat vom Krieg auch gewesen sein mag, wir verbrachten hier unser Leben... und dann nahmt ihr sie uns weg!",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: So zerstört unsere Heimat ",
-				"vom Krieg auch gewesen sein mag,\\. wir ",
-				"verbrachten hier unser Leben...\\.",
-				"und dann nahmt ihr sie uns weg!"
+				"\\c[10]Guillian\\c[0]: As destroyed as our",
+				"homeland from the war may have",
+				"been,\\. we spent our lives here...\\.",
+				"Then you took it away from us!"
 			]
 		},
 		{
@@ -257,9 +252,9 @@
 			"original": "Guillian: Ihr seid hier die Diebe! Wir kämpfen nur um das, was ihr uns bereits gestohlen habt!",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: Ihr seid hier die Diebe!\\. ",
-				"Wir kämpfen nur um das,\\. was ihr uns ",
-				"bereits gestohlen habt!"
+				"\\c[10]Guillian\\c[0]: YOU are the true thieves",
+				"here!\\. We're only fighting for",
+				"what's rightfully ours!"
 			]
 		},
 		{
@@ -267,8 +262,7 @@
 			"original": "Guillian: Wir werden uns wieder sehen!",
 			"lines":
 			[
-				"\\c[10]Guillian\\c[0]: Wir werden uns wieder ",
-				"sehen!"
+				"\\c[10]Guillian\\c[0]: We'll see each other again!"
 			]
 		},
 		{
@@ -284,9 +278,8 @@
 			"original": "Herr Uroto: Die Dinge sind meistens nicht immer so einfach wie sie scheinen.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Die Dinge sind meistens ",
-				"nicht immer so einfach wie sie ",
-				"scheinen."
+				"\\c[10]Sir Uroto\\c[0]: Usually, things aren't",
+				"always as simple as they may seem."
 			]
 		},
 		{
@@ -302,10 +295,9 @@
 			"original": "Herr Uroto: Der farenische Adelsbund hat vor 9 Jahren die Niederlage im Krieg und deren Konsequenzen akzeptiert.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Der farenische Adelsbund ",
-				"hat vor 9 Jahren die Niederlage im ",
-				"Krieg und deren Konsequenzen ",
-				"akzeptiert. "
+				"\\c[10]Sir Uroto\\c[0]: The Farenian Aristocracy",
+				"accepted defeat in the war and its",
+				"consequences nine years ago."
 			]
 		},
 		{
@@ -313,9 +305,9 @@
 			"original": "Herr Uroto: Aber Teile des korzojenischen Volkes tun dies selbst heute noch nicht.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Aber Teile des ",
-				"korzojenischen Volkes tun dies ",
-				"selbst heute noch nicht."
+				"\\c[10]Sir Uroto\\c[0]: But lots of Korzojenish",
+				"people don't share this sentiment",
+				"even today."
 			]
 		},
 		{
@@ -323,9 +315,9 @@
 			"original": "Cibon: Wo liegt das Problem? Sie haben den Krieg verloren, also sollen sie still sein!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wo liegt das Problem?\\. Sie ",
-				"haben den Krieg verloren,\\. also ",
-				"sollen sie still sein!"
+				"\\c[2]\\n[2]\\c[0]: What's the big deal?\\. They lost",
+				"the war,\\. so they should just accept",
+				"it already!"
 			]
 		},
 		{
@@ -333,10 +325,9 @@
 			"original": "Herr Uroto: Herr Tirunel, würden Sie eine Niederlage akzeptieren, wenn Sie im Glauben sind, das Sie Opfer eines Angriffes waren?",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Herr Tirunel, würden Sie ",
-				"eine Niederlage akzeptieren,\\. wenn ",
-				"Sie im Glauben sind,\\. das Sie Opfer ",
-				"eines Angriffes waren?"
+				"\\c[10]Sir Uroto\\c[0]: Sir Tirunel,\\. would you",
+				"just accept defeat if you believed",
+				"you were the victim of an attack?"
 			]
 		},
 		{
@@ -344,7 +335,7 @@
 			"original": "Cibon: Wie... nunja...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wie... nunja..."
+				"\\c[2]\\n[2]\\c[0]: Why...\\. Well..."
 			]
 		},
 		{
@@ -352,9 +343,9 @@
 			"original": "Herr Uroto: In Korzojeno ist die Auffassung verbreitet, dass Brigantia den Krieg angefangen hat.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: In Korzojeno ist die ",
-				"Auffassung verbreitet,\\. dass ",
-				"Brigantia den Krieg angefangen hat."
+				"\\c[10]Sir Uroto\\c[0]: There's a widespread",
+				"opinion in Korzojeno that it was",
+				"Brigantia that started the war."
 			]
 		},
 		{
@@ -362,9 +353,9 @@
 			"original": "Soko: Moment, das stimmt nicht. Korzojeno hat doch den ersten Schlag gemacht, in Buronia.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Moment,\\. das stimmt nicht.\\. ",
-				"Korzojeno hat doch den ersten Schlag ",
-				"gemacht, in Buronia."
+				"\\c[13]\\n[3]\\c[0]: Wait,\\. that's not true.\\.",
+				"Korzojeno made the first",
+				"attack in Buronia."
 			]
 		},
 		{
@@ -372,10 +363,9 @@
 			"original": "Herr Uroto: Dieser Schlag war ein geheimer Kleinangriff von etwa 12 bis 20 Soldaten, der gescheitert ist.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Dieser Schlag war ein ",
-				"geheimer Kleinangriff von etwa 12 ",
-				"bis 20 Soldaten,\\. der gescheitert ",
-				"ist. "
+				"\\c[10]Sir Uroto\\c[0]: This attack was a covert",
+				"operation by about 12 to 20 soldiers",
+				"that ended up failing."
 			]
 		},
 		{
@@ -383,10 +373,10 @@
 			"original": "Herr Uroto: Bis heute weiß man nicht, was das Ziel dieses Anschlages war, vermutlich ein Attentat auf jemand Bestimmten.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Bis heute weiß man ",
-				"nicht, was das Ziel dieses ",
-				"Anschlages war,\\. vermutlich ein ",
-				"Attentat auf jemand Bestimmten."
+				"\\c[10]Sir Uroto\\c[0]: To this day,\\. we don't know",
+				"what the aim of that attack was,",
+				"probably an assassination attempt",
+				"on someone specific."
 			]
 		},
 		{
@@ -394,9 +384,9 @@
 			"original": "Herr Uroto: Jedenfalls weiß die Mehrheit des korzojenischen Volkes nichts von diesem Angriff.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Jedenfalls weiß die ",
-				"Mehrheit des korzojenischen Volkes ",
-				"nichts von diesem Angriff. "
+				"\\c[10]Sir Uroto\\c[0]: Anyways,\\. the majority of",
+				"the Korzojenish people don't know",
+				"about this attack."
 			]
 		},
 		{
@@ -404,10 +394,10 @@
 			"original": "Herr Uroto: Sie erinnern sich nur an den Konterschlag von Brigantia, der darauf kam. Von daher halten sie uns für die Unfriedenstifter.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Sie erinnern sich nur an ",
-				"den Konterschlag von Brigantia, der ",
-				"darauf kam. \\.Von daher halten sie uns ",
-				"für die Unfriedenstifter."
+				"\\c[10]Sir Uroto\\c[0]: They only remember",
+				"Brigantia's counterattack, which came",
+				"as a result.\\. So they think we are",
+				"the ones who started it."
 			]
 		},
 		{
@@ -415,8 +405,8 @@
 			"original": "Kento: Können wir langsam weiter gehen? Wir waren doch in Eile.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Können wir langsam weiter ",
-				"gehen?\\. Wir waren doch in Eile."
+				"\\c[1]\\n[1]\\c[0]: Can we go in a bit?\\.",
+				"We're in a hurry."
 			]
 		},
 		{
@@ -424,10 +414,10 @@
 			"original": "Cibon: Stimmt! Wir dürfen nicht vergessen, was unserem Kento passiert ist! Wer weiß, er könnte jeden Moment umfallen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Stimmt!\\. Wir dürfen nicht ",
-				"vergessen, was unserem Kento ",
-				"passiert ist!\\. Wer weiß, er könnte ",
-				"jeden Moment umfallen!"
+				"\\c[2]\\n[2]\\c[0]: That's right!\\. Let's not forget",
+				"what happened to our Kento!\\. Who",
+				"knows, he could fall over any",
+				"moment!"
 			]
 		},
 		{
@@ -435,8 +425,8 @@
 			"original": "Cibon: Wir müssen schnell zum nächsten Gasthof...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wir müssen schnell zum ",
-				"nächsten Gasthof..."
+				"\\c[2]\\n[2]\\c[0]: We have to get to the next inn",
+				"quickly..."
 			]
 		},
 		{
@@ -444,7 +434,7 @@
 			"original": "Kento: Cibon, du übertreibst...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Cibon, du übertreibst..."
+				"\\c[1]\\n[1]\\c[0]: Cibon, you're exaggerating..."
 			]
 		},
 		{
@@ -452,10 +442,9 @@
 			"original": "Soko: Naja, Kento, wir wissen immer noch nicht, was es mit diesem Zauber auf sich hatte. Wir wollen lieber vorsichtig sein.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Naja, Kento,\\. wir wissen immer ",
-				"noch nicht, was es mit diesem Zauber ",
-				"auf sich hatte.\\. Wir wollen lieber ",
-				"vorsichtig sein."
+				"\\c[13]\\n[3]\\c[0]: Well, Kento,\\. we still don't",
+				"know what that magic was about.\\.",
+				"We'd rather be careful."
 			]
 		},
 		{
@@ -463,8 +452,8 @@
 			"original": "Kento: ... Lasst uns einfach weiter gehen, dann sehen wir weiter.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: .\\..\\..\\. Lasst uns einfach weiter ",
-				"gehen,\\. dann sehen wir weiter."
+				"\\c[1]\\n[1]\\c[0]: Let's just go ahead and we'll",
+				"see what happens."
 			]
 		}
 	],

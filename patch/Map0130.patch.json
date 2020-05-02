@@ -6,8 +6,8 @@
 			"original": "Cibon: Das ist es also... Ziemlich verwachsen...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Das ist es also... Ziemlich ",
-				"verwachsen..."
+				"\\c[2]\\n[2]\\c[0]: So this is it... Rather",
+				"overgrown..."
 			]
 		},
 		{
@@ -15,10 +15,9 @@
 			"original": "Soko: Es wurde halt in dieser Gegend erbaut, zu weit entfernt von Siedlungen. So etwas gerät schnell in Vergessenheit.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Es wurde halt in dieser Gegend ",
-				"erbaut,\\. zu weit entfernt von ",
-				"Siedlungen.\\. So etwas gerät schnell ",
-				"in Vergessenheit."
+				"\\c[13]\\n[3]\\c[0]: It was built in this area,\\. too",
+				"far from civilization.\\. Must've been",
+				"quickly forgotten."
 			]
 		},
 		{
@@ -26,8 +25,8 @@
 			"original": "Cibon: Dabei soll doch gerade das nicht passieren...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: \\s[3]Dabei soll doch gerade das ",
-				"nicht passieren..."
+				"\\c[2]\\n[2]\\c[0]: \\s[3]That wasn't supposed to",
+				"happen..."
 			]
 		},
 		{
@@ -43,8 +42,8 @@
 			"original": "Cibon: ... Ich kannte meinen Vater nie wirklich....",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ... Ich kannte meinen Vater ",
-				"nie wirklich...."
+				"\\c[2]\\n[2]\\c[0]: I never really knew my",
+				"father..."
 			]
 		},
 		{
@@ -60,10 +59,10 @@
 			"original": "Cibon: Ich habe nur wenige Erinnerungen an ihn aus meiner Kindheit. Er war meistens in der Kaserne oder irgendwo anders...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich habe nur wenige ",
-				"Erinnerungen an ihn aus meiner ",
-				"Kindheit.\\. Er war meistens in der ",
-				"Kaserne oder irgendwo anders..."
+				"\\c[2]\\n[2]\\c[0]: I have few memories of him",
+				"from my childhood.\\. He was mostly",
+				"in the barracks or somewhere",
+				"else..."
 			]
 		},
 		{
@@ -71,8 +70,8 @@
 			"original": "Cibon: ... Er hatte viel zu tun als Soldat.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ... Er hatte viel zu tun als ",
-				"Soldat."
+				"\\c[2]\\n[2]\\c[0]: He had a lot to do as a",
+				"soldier."
 			]
 		},
 		{
@@ -80,8 +79,7 @@
 			"original": "Soko: Und dann ist er hier gestorben?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Und dann ist er hier ",
-				"gestorben?"
+				"\\c[13]\\n[3]\\c[0]: And then he died here?"
 			]
 		},
 		{
@@ -89,9 +87,9 @@
 			"original": "Cibon: Ja... Ich hatte nie die Gelegenheit ihn richtig kennen zu lernen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja...\\. Ich hatte nie die ",
-				"Gelegenheit ihn richtig kennen zu ",
-				"lernen. "
+				"\\c[2]\\n[2]\\c[0]: Yeah...\\. I never had the",
+				"opportunity to really get to",
+				"know him."
 			]
 		},
 		{
@@ -107,9 +105,9 @@
 			"original": "Cibon: Was ich aber weiß, ist, dass mein Vater anscheinend ein guter Freund von Genyu Daikon gewesen ist.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Was ich aber weiß, ist,\\. dass ",
-				"mein Vater anscheinend ein guter ",
-				"Freund von Genyu Daikon gewesen ist."
+				"\\c[2]\\n[2]\\c[0]: What I do know is that my",
+				"father apparently was a good",
+				"friend of Genyu Daikon."
 			]
 		},
 		{
@@ -117,7 +115,7 @@
 			"original": "Soko: Huh? Von Genyu Daikon?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Huh?\\. Von Genyu Daikon?"
+				"\\c[13]\\n[3]\\c[0]: Huh?\\. Of Genyu Daikon?"
 			]
 		},
 		{
@@ -125,10 +123,9 @@
 			"original": "Cibon: Ja, meine Mutter hat mir erzählt wie er früher, als ich noch sehr jung war, sogar Gast zuhause gewesen ist.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja,\\. meine Mutter hat mir ",
-				"erzählt wie er früher,\\. als ich noch ",
-				"sehr jung war,\\. sogar Gast zuhause ",
-				"gewesen ist. "
+				"\\c[2]\\n[2]\\c[0]: Yeah,\\. my mom told me how he",
+				"used to be a guest at home when",
+				"I was very young."
 			]
 		},
 		{
@@ -136,8 +133,8 @@
 			"original": "Soko: ... Bist du deshalb mit Kento befreundet?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...\\. Bist du deshalb mit Kento ",
-				"befreundet?"
+				"\\c[13]\\n[3]\\c[0]: Is that why you're friends with",
+				"Kento?"
 			]
 		},
 		{
@@ -145,8 +142,8 @@
 			"original": "Cibon: ... Also weißte schon, dass Genyu sein Vater ist...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ... Also weißte schon,\\. dass ",
-				"Genyu sein Vater ist..."
+				"\\c[2]\\n[2]\\c[0]: Well you already know that",
+				"Genyu is his father..."
 			]
 		},
 		{
@@ -154,9 +151,8 @@
 			"original": "Cibon: ... Ja, kann sein, dass ich mich deshalb mit Kento angefreundet habe.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...\\.",
-				"Ja, kann sein,\\. dass ich mich deshalb  ",
-				"mit Kento angefreundet habe."
+				"\\c[2]\\n[2]\\c[0]: Yeah,\\. maybe that's why I",
+				"became friends with Kento."
 			]
 		},
 		{
@@ -164,10 +160,10 @@
 			"original": "Cibon: Zumindest war das mein Grund zu Beginn. Ich dachte vielleicht würde Kento etwas über meinen Vater wissen, irgendwas.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Zumindest war das mein Grund ",
-				"zu Beginn.\\. Ich dachte vielleicht ",
-				"würde Kento etwas über meinen Vater ",
-				"wissen,\\.\\. irgendwas."
+				"\\c[2]\\n[2]\\c[0]: At least, that was my reason",
+				"at the beginning.\\. I thought maybe",
+				"Kento would know something about",
+				"my father,\\.\\. anything."
 			]
 		},
 		{
@@ -175,8 +171,8 @@
 			"original": "Cibon: Doch es hat keinen Sinn ihn deswegen anzusprechen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Doch es hat keinen Sinn ihn ",
-				"deswegen anzusprechen. "
+				"\\c[2]\\n[2]\\c[0]: But there's no point in asking",
+				"him about it now."
 			]
 		},
 		{
@@ -184,10 +180,9 @@
 			"original": "Cibon: Sobald man ein Thema anschneidet, was auch nur im Entferntesten mit seinen Vater zu tun hat...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Sobald man ein Thema ",
-				"anschneidet,\\. was auch nur im ",
-				"Entferntesten mit seinen Vater zu ",
-				"tun hat..."
+				"\\c[2]\\n[2]\\c[0]: As soon as you touch a topic",
+				"that's even remotely related to his",
+				"father..."
 			]
 		},
 		{
@@ -195,9 +190,9 @@
 			"original": "Soko: Ich habe es selber gemerkt... Aber wie kommt das? Hasst Kento seinen Vater?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ich habe es selber gemerkt...\\. ",
-				"Aber wie kommt das?\\. Hasst Kento ",
-				"seinen Vater?"
+				"\\c[13]\\n[3]\\c[0]: I've noticed it myself...\\. But",
+				"how did that happen?\\. Does Kento",
+				"hate his father?"
 			]
 		},
 		{
@@ -205,10 +200,9 @@
 			"original": "Cibon: Ja, aber frag mich nich wieso. Wie soll ich auch den Grund wissen, wenn Kento nie darüber redet.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja,\\. aber frag mich nich ",
-				"wieso.\\. Wie soll ich auch den Grund ",
-				"wissen, wenn Kento nie darüber ",
-				"redet."
+				"\\c[2]\\n[2]\\c[0]: Yes,\\. but don't ask me why.\\. How",
+				"am I supposed to know if Kento never",
+				"even talks about it?"
 			]
 		},
 		{
@@ -216,9 +210,8 @@
 			"original": "Soko: Irgendwie bezweifle ich, dass er von der Beziehung eurer Väter wusste.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Irgendwie bezweifle ich,\\. dass ",
-				"er von der Beziehung eurer Väter ",
-				"wusste."
+				"\\c[13]\\n[3]\\c[0]: Somehow,\\. I doubt he knew about",
+				"your fathers' relationship."
 			]
 		},
 		{
@@ -226,9 +219,8 @@
 			"original": "Soko: Ansonsten hätte er deinen Nachnamen gemieden wie seinen eigenen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ansonsten hätte er deinen ",
-				"Nachnamen gemieden wie seinen ",
-				"eigenen."
+				"\\c[13]\\n[3]\\c[0]: Otherwise, he would've avoided",
+				"your last name like his own."
 			]
 		},
 		{
@@ -236,8 +228,8 @@
 			"original": "Cibon: Das ist schon wahr... Der Gedanke kam mir auch nach ner Weile.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Das ist schon wahr...\\. Der ",
-				"Gedanke kam mir auch nach ner Weile."
+				"\\c[2]\\n[2]\\c[0]: That's true...\\. That thought",
+				"came to me after a while."
 			]
 		},
 		{
@@ -245,9 +237,8 @@
 			"original": "Cibon: Aber nun ja, jetzt sind wir bereits Kumpels, also was interessiert mich das noch?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Aber nun ja,\\. jetzt sind wir ",
-				"bereits Kumpels,\\. also was ",
-				"interessiert mich das noch?"
+				"\\c[2]\\n[2]\\c[0]: But well,\\. since we're already",
+				"friends,\\. what else do I care?"
 			]
 		},
 		{
@@ -255,10 +246,9 @@
 			"original": "Cibon: Und wer weiß. Vielleicht treffe ich durch Kento ja doch noch irgendwann auf ne Person, die seinen und meinen Vater kannte.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Und wer weiß.\\. Vielleicht ",
-				"treffe ich durch Kento ja doch noch ",
-				"irgendwann auf ne Person,\\. die seinen ",
-				"und meinen Vater kannte."
+				"\\c[2]\\n[2]\\c[0]: And who knows?\\. Maybe I'll",
+				"eventually meet a person who knew",
+				"our fathers through Kento."
 			]
 		}
 	]

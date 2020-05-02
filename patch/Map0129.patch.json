@@ -6,8 +6,8 @@
 			"original": "Cibon: Schaut, da oben ist das Grabdenkmal.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Schaut,\\. da oben ist das ",
-				"Grabdenkmal."
+				"\\c[2]\\n[2]\\c[0]: Look,\\. there's the memorial",
+				"up ahead."
 			]
 		},
 		{
@@ -23,9 +23,8 @@
 			"original": "Cibon: Kommt, gebt mir 5 Minuten. Ich hab versprochen, dass ich es besuche.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kommt, gebt mir 5 Minuten. ",
-				"Ich hab versprochen, dass ich es ",
-				"besuche."
+				"\\c[2]\\n[2]\\c[0]: Come on, just five minutes.",
+				"I promised to visit it."
 			]
 		},
 		{
@@ -33,7 +32,7 @@
 			"original": "Soko: Herr Uroto...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Herr Uroto..."
+				"\\c[13]\\n[3]\\c[0]: Sir Uroto..."
 			]
 		},
 		{
@@ -41,10 +40,10 @@
 			"original": "Herr Uroto: Meinetwegen, solange es nicht zulange dauert. Und gegen eine kleine Pause hab ich selber auch nichts.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Meinetwegen, solange es ",
-				"nicht zulange dauert.\\. Und gegen eine ",
-				"kleine Pause hab ich selber auch ",
-				"nichts."
+				"\\c[10]Sir Uroto\\c[0]: Alright, as long as it",
+				"doesn't take too long.\\. And I don't",
+				"have anything against a little",
+				"break myself."
 			]
 		},
 		{
@@ -52,7 +51,7 @@
 			"original": "(Cibon: War ja klar...)",
 			"lines":
 			[
-				"(\\c[2]\\n[2]\\c[0]: War ja klar...)"
+				"(\\c[2]\\n[2]\\c[0]: Go figure...)"
 			]
 		},
 		{
@@ -60,7 +59,7 @@
 			"original": "Soko: Kento...?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Kento...?"
+				"\\c[13]\\n[3]\\c[0]: Kento?"
 			]
 		},
 		{
@@ -68,7 +67,8 @@
 			"original": "Kento: Ich warte hier auf euch...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich warte hier auf euch..."
+				"\\c[1]\\n[1]\\c[0]: I'll be waiting for you",
+				"here..."
 			]
 		},
 		{
@@ -84,8 +84,7 @@
 			"original": "Cibon: Okay, wir kommen gleich wieder, Kumpel.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Okay, wir kommen gleich ",
-				"wieder, Kumpel."
+				"\\c[2]\\n[2]\\c[0]: Okay, we'll be right back."
 			]
 		},
 		{
@@ -93,7 +92,7 @@
 			"original": "(Kento: ...Das dauert...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: ...\\.Das dauert...)"
+				"(\\c[1]\\n[1]\\c[0]: So much for being quick...)"
 			]
 		},
 		{
@@ -101,7 +100,7 @@
 			"original": "????: Okay, jetzt!",
 			"lines":
 			[
-				"\\c[10]????\\c[0]: Okay,\\.\\. jetzt!"
+				"\\c[10]????\\c[0]: Okay,\\.\\. now!"
 			]
 		},
 		{
@@ -109,7 +108,7 @@
 			"original": "Kento: W... Was ist hier los?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: W... Was ist hier los?"
+				"\\c[1]\\n[1]\\c[0]: W... What's going on here?"
 			]
 		},
 		{
@@ -117,7 +116,7 @@
 			"original": "Kento: W... Wer seid ihr?!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: W...\\. Wer seid ihr?!"
+				"\\c[1]\\n[1]\\c[0]: W...\\. Who are you?!"
 			]
 		},
 		{
@@ -125,8 +124,8 @@
 			"original": "????: Wir sind diejenigen, die dich vorbereiten!",
 			"lines":
 			[
-				"\\c[10]????\\c[0]: Wir sind diejenigen, die dich ",
-				"vorbereiten!"
+				"\\c[10]????\\c[0]: We are the ones who shall",
+				"prepare you!"
 			]
 		},
 		{
@@ -134,8 +133,8 @@
 			"original": "????: Gut, das war alles. Lass uns verschwinden!",
 			"lines":
 			[
-				"\\c[10]????\\c[0]: Gut, das war alles.\\. Lass uns",
-				"verschwinden!"
+				"\\c[10]????\\c[0]: Well, that was all.\\. Let's get",
+				"out of here!"
 			]
 		},
 		{
@@ -143,7 +142,7 @@
 			"original": "????: Warte...",
 			"lines":
 			[
-				"\\c[10]????\\c[0]: Warte..."
+				"\\c[10]????\\c[0]: Wait..."
 			]
 		},
 		{
@@ -151,7 +150,7 @@
 			"original": "????: Nur um sicher zu gehen.",
 			"lines":
 			[
-				"\\c[10]????\\c[0]: Nur um sicher zu gehen."
+				"\\c[10]????\\c[0]: Just to be sure."
 			]
 		},
 		{
@@ -159,8 +158,8 @@
 			"original": "Cibon: HEY! Wer seid ihr! Was war das eben!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: HEY!\\. Wer seid ihr!\\. Was war ",
-				"das eben!"
+				"\\c[2]\\n[2]\\c[0]: HEY!\\. Who are you people!\\.",
+				"What was that!"
 			]
 		},
 		{
@@ -176,7 +175,7 @@
 			"original": "????: Schnell!",
 			"lines":
 			[
-				"\\c[10]????\\c[0]: Schnell!\\.\\.\\^"
+				"\\c[10]????\\c[0]: Quickly!\\.\\.\\^"
 			]
 		},
 		{
@@ -184,7 +183,7 @@
 			"original": "Cibon: BLEIBT IHR WOHL HIER!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: BLEIBT IHR WOHL HIER!"
+				"\\c[2]\\n[2]\\c[0]: GET DOWN HERE YOU BASTARDS!"
 			]
 		},
 		{
@@ -192,7 +191,7 @@
 			"original": "Soko: Kento...!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Kento...!"
+				"\\c[13]\\n[3]\\c[0]: Kento!"
 			]
 		},
 		{
@@ -200,7 +199,7 @@
 			"original": "Cibon: ...Er is nur bewusstlos...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...Er is nur bewusstlos... "
+				"\\c[2]\\n[2]\\c[0]: He only passed out..."
 			]
 		},
 		{
@@ -208,9 +207,8 @@
 			"original": "Soko: Und das nach diesem Spektakel. Du hast doch auch diese Lichtsäule gesehen, oder?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Und das nach diesem Spektakel. \\.",
-				"Du hast doch auch diese Lichtsäule ",
-				"gesehen, oder?"
+				"\\c[13]\\n[3]\\c[0]: After all this?\\. You saw that",
+				"pillar of light too, right?"
 			]
 		},
 		{
@@ -218,8 +216,8 @@
 			"original": "Herr Uroto: W...Was waren das für Leute?",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: W...\\.Was waren das für ",
-				"Leute?"
+				"\\c[10]Sir Uroto\\c[0]: W...\\. What kind of people",
+				"were they?"
 			]
 		},
 		{
@@ -227,8 +225,8 @@
 			"original": "Cibon: Hey, zuallererst sollt'n wir uns um Kento kümmern, oder?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hey, zuallererst sollt'n wir ",
-				"uns um Kento kümmern, oder?"
+				"\\c[2]\\n[2]\\c[0]: Hey, first of all we should",
+				"take care of Kento, right?"
 			]
 		},
 		{
@@ -236,7 +234,7 @@
 			"original": "Soko: Richtig!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Richtig!"
+				"\\c[13]\\n[3]\\c[0]: Right!"
 			]
 		},
 		{
@@ -244,8 +242,8 @@
 			"original": "Cibon: Oh... was is das hier? Ein.... Lichtschlag?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Oh...\\. was is das hier?\\.",
-				"Ein....\\. Lichtschlag?"
+				"\\c[2]\\n[2]\\c[0]: Oh...\\. What's this?\\. Some...\\.",
+				"divine light?"
 			]
 		},
 		{
@@ -253,8 +251,8 @@
 			"original": "Soko: ...? Wieso liegt das hier? Die beiden haben doch nicht etwa...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...?\\. Wieso liegt das hier?\\. ",
-				"Die beiden haben doch nicht etwa..."
+				"\\c[13]\\n[3]\\c[0]: ...?\\. Why is that here?\\. The two",
+				"were about to..."
 			]
 		},
 		{
@@ -270,7 +268,7 @@
 			"original": "Kento: Hah!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hah!"
+				"\\c[1]\\n[1]\\c[0]: Gah!"
 			]
 		},
 		{
@@ -286,7 +284,7 @@
 			"original": "Cibon: Kumpel, ist noch alles dran?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kumpel,\\. ist noch alles dran?"
+				"\\c[2]\\n[2]\\c[0]: Is everything alright?"
 			]
 		},
 		{
@@ -294,7 +292,7 @@
 			"original": "Kento: ...mehr... oder weniger",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...mehr\\....\\. oder weniger"
+				"\\c[1]\\n[1]\\c[0]: ...more\\....\\. or less..."
 			]
 		},
 		{
@@ -302,8 +300,7 @@
 			"original": "Soko: Kento, was ist hier passiert?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Kento,\\. was ist hier ",
-				"passiert?"
+				"\\c[13]\\n[3]\\c[0]: Kento,\\. what happened here?"
 			]
 		},
 		{
@@ -311,8 +308,7 @@
 			"original": "Kento: ... Ich... Ich weiß es nicht...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...\\. Ich...\\. Ich weiß es ",
-				"nicht..."
+				"\\c[1]\\n[1]\\c[0]: I...\\. I don't know..."
 			]
 		},
 		{
@@ -320,7 +316,7 @@
 			"original": "Cibon: Wie..?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wie..?"
+				"\\c[2]\\n[2]\\c[0]: Why?"
 			]
 		},
 		{
@@ -328,10 +324,9 @@
 			"original": "Kento: Diese Leute kamen aus heiterem Himmel... sprichwörtlich... und griffen mich an, ohne einen Grund zu nennen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Diese Leute kamen aus ",
-				"heiterem Himmel...\\. sprichwörtlich...\\.",
-				"und griffen mich an, ohne einen ",
-				"Grund zu nennen."
+				"\\c[1]\\n[1]\\c[0]: These people came out of the",
+				"blue...\\. literally...\\. and attacked",
+				"me without giving any reason."
 			]
 		},
 		{
@@ -339,10 +334,10 @@
 			"original": "Soko: Sie wollten ganz gezielt dich angreifen? Wieso ausgerechnet dich? Ich hätte Leute erwartet, die hinter Herrn Uroto her sind, aber das...?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Sie wollten ganz gezielt dich ",
-				"angreifen?\\. Wieso ausgerechnet dich?\\. ",
-				"Ich hätte Leute erwartet, die hinter ",
-				"Herrn Uroto her sind,\\.\\. aber das...?"
+				"\\c[13]\\n[3]\\c[0]: They wanted to attack you",
+				"specifically?\\. Why you of all people?\\.",
+				"I would've expected people to go",
+				"after Sir Uroto,\\.\\. but who..."
 			]
 		},
 		{
@@ -350,9 +345,8 @@
 			"original": "Kento: Sie sagten, sie wollten mich vorbereiten, aber das war es auch schon...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Sie sagten, sie wollten mich ",
-				"vorbereiten,\\. aber das war es auch ",
-				"schon..."
+				"\\c[1]\\n[1]\\c[0]: They said they wanted to",
+				"prepare me,\\. but that's about it..."
 			]
 		},
 		{
@@ -360,9 +354,8 @@
 			"original": "Cibon: \"Vorbereiten\"? Indem sie dich bewusstlos schlagen? Was für Vögel sind das denn?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: \"Vorbereiten\"?\\. Indem sie dich ",
-				"bewusstlos schlagen?\\. Was für Vögel ",
-				"sind das denn?"
+				"\\c[2]\\n[2]\\c[0]: \"Prepare\"?\\. By knocking you",
+				"out?\\. What kind of maniacs are they?"
 			]
 		},
 		{
@@ -370,10 +363,9 @@
 			"original": "Soko: Sie konnten fliegen... Sie sind vor unseren Augen davon geflogen! Und dann dieser Zauber...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Sie konnten fliegen...\\. Sie ",
-				"sind vor unseren Augen davon ",
-				"geflogen!\\.",
-				"Und dann dieser Zauber..."
+				"\\c[13]\\n[3]\\c[0]: They could fly...\\. They flew",
+				"away before our very eyes!\\. And",
+				"then this magic..."
 			]
 		},
 		{
@@ -381,10 +373,9 @@
 			"original": "Soko: Was ist dieses Licht überhaupt gewesen? Ich hab noch nie von so einer Signum-Technik gehört oder gelesen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Was ist dieses Licht überhaupt ",
-				"gewesen?\\. Ich hab noch nie von so ",
-				"einer Signum-Technik gehört oder ",
-				"gelesen."
+				"\\c[13]\\n[3]\\c[0]: What was that light all about?\\.",
+				"I've never heard or read of such",
+				"a Signum technique."
 			]
 		},
 		{
@@ -392,10 +383,9 @@
 			"original": "Kento: Es war auch anders... es hat nicht gebrannt wie Feuer oder Licht, war nicht kalt wie Eis oder Schatten...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es war auch anders...\\. es hat ",
-				"nicht gebrannt wie Feuer oder Licht,\\. ",
-				"war nicht kalt wie Eis oder ",
-				"Schatten..."
+				"\\c[1]\\n[1]\\c[0]: It was different too...\\. It",
+				"didn't burn like fire or light,\\.",
+				"wasn't cold like ice or shadow..."
 			]
 		},
 		{
@@ -403,10 +393,10 @@
 			"original": "Kento: Zu Beginn war es sogar angenehm, ein leichtes Kribbeln, das dann aber so stark wurde, dass es wie ein Schock gewirkt haben muss...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Zu Beginn war es sogar ",
-				"angenehm,\\. ein leichtes Kribbeln, das ",
-				"dann aber so stark wurde,\\. dass es ",
-				"wie ein Schock gewirkt haben muss..."
+				"\\c[1]\\n[1]\\c[0]: In the beginning it was even",
+				"pleasant,\\. a slight tingling",
+				"sensation.\\. It then became so strong",
+				"that it must've looked shocking..."
 			]
 		},
 		{
@@ -414,10 +404,9 @@
 			"original": "Cibon: Wie bitte? Die haben dich doch nicht etwa verzaubert, oder so was? Bist du sicher, dass alles okay ist?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wie bitte?\\. Die haben dich ",
-				"doch nicht etwa verzaubert, oder so ",
-				"was?\\. Bist du sicher, dass alles okay ",
-				"ist?"
+				"\\c[2]\\n[2]\\c[0]: Excuse me?\\. They didn't enchant",
+				"you with something, did they?\\. You",
+				"sure everything's okay?"
 			]
 		},
 		{
@@ -425,10 +414,9 @@
 			"original": "Kento: Abgesehen von leichten Schmerzen am Kopf, die wohl vom Sturz kommen, fühl ich mich eigentlich... in Ordnung...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Abgesehen von leichten ",
-				"Schmerzen am Kopf,\\. die wohl vom ",
-				"Sturz kommen,\\. fühl ich mich ",
-				"eigentlich...\\. in Ordnung..."
+				"\\c[1]\\n[1]\\c[0]: Apart from a slight headache,\\.",
+				"which probably came from my fall,\\.",
+				"I actually feel...\\. okay..."
 			]
 		},
 		{
@@ -436,10 +424,9 @@
 			"original": "Soko: Du solltest dennoch aufpassen, Kento... Wir beeilen uns besser, damit wir schnell zum nächsten Gasthof kommen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Du solltest dennoch aufpassen, ",
-				"Kento...\\. Wir beeilen uns besser, ",
-				"damit wir schnell zum nächsten ",
-				"Gasthof kommen."
+				"\\c[13]\\n[3]\\c[0]: You should still be careful,",
+				"Kento...\\. We better hurry up so that",
+				"we can quickly get to the next inn."
 			]
 		},
 		{
@@ -447,8 +434,8 @@
 			"original": "Herr Uroto: Beeilen müssen wir uns sowieso.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Beeilen müssen wir uns ",
-				"sowieso."
+				"\\c[10]Sir Uroto\\c[0]: We have to hurry up",
+				"anyways."
 			]
 		},
 		{
@@ -456,7 +443,7 @@
 			"original": "Cibon: Jaja...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Jaja..."
+				"\\c[2]\\n[2]\\c[0]: Yeah yeah..."
 			]
 		},
 		{
@@ -464,9 +451,9 @@
 			"original": "Soko: Im Gasthof ruhst du dich dann aus und wir reden weiter über das Thema...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Im Gasthof ruhst du dich dann ",
-				"aus und wir reden weiter über das ",
-				"Thema..."
+				"\\c[13]\\n[3]\\c[0]: Then let's get you to an inn",
+				"and we'll continue to talk about",
+				"it afterwards..."
 			]
 		},
 		{
@@ -474,7 +461,7 @@
 			"original": "Kento: Gut...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Gut..."
+				"\\c[1]\\n[1]\\c[0]: Alright..."
 			]
 		}
 	]

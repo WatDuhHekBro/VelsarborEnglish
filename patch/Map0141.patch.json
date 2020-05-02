@@ -6,9 +6,9 @@
 			"original": "Soko: Hier lang geht es nach Helnovien, Kento. Wir müssen nach Osten, nicht hier lang.",
 			"lines":
 			[
-				"\\c[13]\\n[3]:\\c[0] Hier lang geht es nach ",
-				"Helnovien, Kento.\\. Wir müssen nach ",
-				"Osten,\\. nicht hier lang."
+				"\\c[13]\\n[3]\\c[0]: This is the way to Helnovien,",
+				"Kento.\\. We have to continue going",
+				"east,\\. not this way."
 			]
 		},
 		{
@@ -16,9 +16,9 @@
 			"original": "Cibon: Kumpel, kann's sein, dass dir die Attacke von eben etwas den Orientierungssinn genommen hat?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Kumpel, kann's sein, \\.dass ",
-				"dir die Attacke von eben etwas den ",
-				"Orientierungssinn genommen hat?"
+				"\\c[2]\\n[2]\\c[0]: Hey,\\. could it be that that",
+				"attack just took away your sense",
+				"of direction?"
 			]
 		},
 		{
@@ -26,8 +26,8 @@
 			"original": "Kento: ... Blödsinn, wie kommst du jetzt darauf?",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] ...\\. Blödsinn,\\. wie kommst du ",
-				"jetzt darauf?"
+				"\\c[1]\\n[1]\\c[0]: Nonsense,\\. how'd you get that",
+				"idea?"
 			]
 		}
 	]
