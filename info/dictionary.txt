@@ -1,6 +1,6 @@
-##############
-# Characters #
-##############
+########
+# List #
+########
 Adelsfrau: Noblewoman
 Adelsmann: Nobleman
 Alte Frau: Old Woman
@@ -14,6 +14,7 @@ Ausbilder: Instructor
 Betrunkener Mann: Drunk Man
 Blauhaarige Frau: Blue-Haired Woman
 Blondes Mädchen: Blonde Girl
+Burg Nomerea: Nomerea Castle
 Bürgermeister: Mayor
 Chef: Da Boss
 Cibon (Tirunel)
@@ -69,6 +70,7 @@ Mädchen: Girl
 Mann: Man
 Massen: Crowd
 Mitglied des Rates: Council Member
+Nebelklingen: ???
 Oberstes Ratmitglied: Head Council Member
 Pauamainer Schütze: ???
 Percil Cotiah
@@ -99,6 +101,7 @@ Türsteher: Bouncer
 Vel03
 Verkäuferin: Saleswoman
 Wache: Guard
+Wachmann: Guard
 Wächter: Guard
 Yahenru (Hartenso)
 Zojenische Einheit: Korzojenish Soldier
@@ -113,8 +116,6 @@ The Nation of Brigantia
 The Brigantine Order
 Brigantian Soldiers
 Brigantians live in the world.
-
-Nomerea Castle
 
 (Zojeno is the shortened form in case you hit the limit.)
 The Nation of Korzojeno

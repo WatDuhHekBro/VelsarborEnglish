@@ -1,0 +1,385 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [11,1,13,1],
+			"original": "Genyu: ...",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [11,2,7,3],
+			"original": "(Genyu: Kento... Wieso tust du mir das an... Brachte mein scheinbarer Tod soviel Trauer in dein Leben?)",
+			"lines":
+			[
+				"(\\c[4]\\n[4]\\c[0]: Kento... Wieso tust du mir ",
+				"das an... Brachte mein scheinbarer ",
+				"Tod soviel Trauer in dein Leben?)"
+			]
+		},
+		{
+			"path": [11,2,10,4],
+			"original": "(Genyu: Und was genau ist mit ihr geschehen? Dilea... Wieso willst du mir nicht antworten Kento?)",
+			"lines":
+			[
+				"(\\c[4]\\n[4]\\c[0]: Und was genau ist mit ihr ",
+				"geschehen?\\. Dilea...\\. ",
+				"Wieso willst du mir nicht antworten ",
+				"Kento?)"
+			]
+		},
+		{
+			"path": [11,2,22,4],
+			"original": "?????: Sir Daikon, Ex-General und Held des Briganten-Ordens, Anführer der Nebelklingen und besorgter Vater, dürfte ich Sie sprechen?",
+			"lines":
+			[
+				"\\c[5]?????\\c[0]: Sir Daikon, Ex-General und ",
+				"Held des Briganten-Ordens,\\. Anführer ",
+				"der Nebelklingen und besorgter ",
+				"Vater,\\. dürfte ich Sie sprechen?"
+			]
+		},
+		{
+			"path": [11,2,31,3],
+			"original": "Genyu: Behalt deine zynischen Kommentare bitte für dich, Felcis. Ich bin nicht in der Stimmung dafür.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Behalt deine zynischen ",
+				"Kommentare bitte für dich, Felcis.\\.",
+				"Ich bin nicht in der Stimmung dafür."
+			]
+		},
+		{
+			"path": [11,2,36,3],
+			"original": "Felcis: Verzeihung, aber du bist leider nicht der einzige, der sich hier Sorgen macht, Genyu.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Verzeihung, aber du bist ",
+				"leider nicht der einzige, der sich ",
+				"hier Sorgen macht, Genyu."
+			]
+		},
+		{
+			"path": [11,2,40,4],
+			"original": "Felcis: Durch diese Fang-den- Sohnemann-Geschichte sind uns dummerweise einige Probleme mehr mit ins Netz gegangen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Durch diese Fang-den-",
+				"Sohnemann-Geschichte sind uns ",
+				"dummerweise einige Probleme mehr mit ",
+				"ins Netz gegangen."
+			]
+		},
+		{
+			"path": [11,2,48,3],
+			"original": "Felcis: Ich rede dabei von Herrn Uroto und mit ihm die Aufmerksamkeit der alten Herren aus Buronia.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich rede dabei von Herrn ",
+				"Uroto und mit ihm die Aufmerksamkeit ",
+				"der alten Herren aus Buronia."
+			]
+		},
+		{
+			"path": [11,2,53,3],
+			"original": "Genyu: Diese Sache kam nun mal kurzfristig und unerwartet. Wie hättest du den gehandelt?",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Diese Sache kam nun mal ",
+				"kurzfristig und unerwartet.\\. Wie ",
+				"hättest du den gehandelt?"
+			]
+		},
+		{
+			"path": [11,2,58,3],
+			"original": "Felcis: Es war generell keine gute Idee Kento zusammen mit der ganzen Gruppe gefangen zu nehmen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Es war generell keine gute ",
+				"Idee Kento zusammen mit der ganzen ",
+				"Gruppe gefangen zu nehmen."
+			]
+		},
+		{
+			"path": [11,2,62,4],
+			"original": "Felcis: Hätten wir ihn von den anderen getrennt und alleine gefangen genommen, säße uns jetzt nicht Brigantia im Rücken.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Hätten wir ihn von den ",
+				"anderen getrennt und alleine ",
+				"gefangen genommen, säße uns jetzt ",
+				"nicht Brigantia im Rücken."
+			]
+		},
+		{
+			"path": [11,2,68,3],
+			"original": "Genyu: Gut, vielleicht hast du Recht, aber das tut jetzt auch nichts mehr zur Sache.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Gut,\\. vielleicht hast du ",
+				"Recht,\\. aber das tut jetzt auch ",
+				"nichts mehr zur Sache."
+			]
+		},
+		{
+			"path": [11,2,73,4],
+			"original": "Genyu: Was passiert ist, ist passiert. Jetzt müssen wir einen Weg aus dieser ungünstigen Situation finden.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Was passiert ist, ist ",
+				"passiert.\\. Jetzt müssen wir einen Weg ",
+				"aus dieser ungünstigen Situation ",
+				"finden."
+			]
+		},
+		{
+			"path": [11,2,79,4],
+			"original": "Felcis: Das ist leichter gesagt als getan. Es ist nicht mehr so, dass wir uns hier ewig vor Brigantia verstecken können.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Das ist leichter gesagt als ",
+				"getan.\\. Es ist nicht mehr so, dass ",
+				"wir uns hier ewig vor Brigantia ",
+				"verstecken können."
+			]
+		},
+		{
+			"path": [11,2,84,4],
+			"original": "Felcis: Sobald die Neuigkeiten Buronia erreichen, werden Suchtrupps folgen und ganz Korzojeno wird durchkämmt.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Sobald die Neuigkeiten ",
+				"Buronia erreichen, werden Suchtrupps ",
+				"folgen und ganz Korzojeno wird ",
+				"durchkämmt."
+			]
+		},
+		{
+			"path": [11,2,93,4],
+			"original": "Genyu: Wir können uns nicht ewig verstecken, das ist richtig, aber vielleicht lang genug um alle Vorbereitungen abzuschließen.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Wir können uns nicht ewig ",
+				"verstecken,\\. das ist richtig,\\. aber ",
+				"vielleicht lang genug um alle ",
+				"Vorbereitungen abzuschließen."
+			]
+		},
+		{
+			"path": [11,2,97,4],
+			"original": "Genyu: Ich halte es jedenfalls für keine gute Idee bereits jetzt in Aktion zu treten, es wäre zu riskant und nicht Erfolg versprechend",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Ich halte es jedenfalls für ",
+				"keine gute Idee bereits jetzt in ",
+				"Aktion zu treten,\\. es wäre zu riskant ",
+				"und nicht Erfolg versprechend"
+			]
+		},
+		{
+			"path": [11,2,105,3],
+			"original": "Felcis: Wenn wir uns weiter verstecken wollen müssen wir zumindest den Stützpunkt wechseln.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wenn wir uns weiter ",
+				"verstecken wollen müssen wir ",
+				"zumindest den Stützpunkt wechseln."
+			]
+		},
+		{
+			"path": [11,2,109,3],
+			"original": "Felcis: Das wird uns wiederum in unserem Zeitplan zurückwerfen, ich hoffe das ist dir klar.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Das wird uns wiederum in ",
+				"unserem Zeitplan zurückwerfen,\\. ich ",
+				"hoffe das ist dir klar."
+			]
+		},
+		{
+			"path": [11,2,112,2],
+			"original": "Felcis: Bist du sicher, dass uns da genug Zeit bleiben wird?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Bist du sicher, dass uns da ",
+				"genug Zeit bleiben wird?"
+			]
+		},
+		{
+			"path": [11,2,121,4],
+			"original": "Genyu: Wahrscheinlich denkst du, dass ich diese Situation unterschätze, oder Felcis? Nun ich sage dir folgendes.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Wahrscheinlich denkst du, ",
+				"dass ich diese Situation ",
+				"unterschätze,\\. oder Felcis?\\. ",
+				"Nun ich sage dir folgendes."
+			]
+		},
+		{
+			"path": [11,2,127,4],
+			"original": "Genyu: Ich glaube, dass wir in absehbarer Zeit Unterstützung bekommen könnten, die uns aus dieser Lage helfen kann.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Ich glaube, dass wir in ",
+				"absehbarer Zeit Unterstützung ",
+				"bekommen könnten,\\. die uns aus dieser ",
+				"Lage helfen kann."
+			]
+		},
+		{
+			"path": [11,2,133,1],
+			"original": "Felcis: Wovon redest du?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wovon redest du?"
+			]
+		},
+		{
+			"path": [11,2,135,4],
+			"original": "Genyu: Das Erscheinen von Kento ist für mich mehr als nur eine Gelegenheit gewesen, mich wieder mit meinem Sohn zu vereinen.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Das Erscheinen von Kento ist ",
+				"für mich mehr als nur eine ",
+				"Gelegenheit gewesen, mich wieder mit ",
+				"meinem Sohn zu vereinen."
+			]
+		},
+		{
+			"path": [11,2,139,3],
+			"original": "Genyu: Dass er und sogar Ranarions Sohn hier auftauchen ist für mich ein Zeichen.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Dass er und sogar Ranarions ",
+				"Sohn hier auftauchen ist für mich ",
+				"ein Zeichen."
+			]
+		},
+		{
+			"path": [11,2,142,3],
+			"original": "Genyu: Ein Zeichen dafür, dass ich noch auf die Hilfe eines alten Freundes hoffen kann.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Ein Zeichen dafür, dass ich ",
+				"noch auf die Hilfe eines alten ",
+				"Freundes hoffen kann."
+			]
+		},
+		{
+			"path": [11,2,152,2],
+			"original": "Genyu: Jener, der von Anfang an hätte dabei sein können.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Jener, der von Anfang an ",
+				"hätte dabei sein können."
+			]
+		},
+		{
+			"path": [11,2,172,3],
+			"indent": 1,
+			"original": "So Henne, jetzt kommt das Schleichskript. Mit Enter duckst du dich, um dich zu verstecken.",
+			"lines":
+			[
+				"So Henne, jetzt kommt das Schleichskript.",
+				"Mit Enter duckst du dich, um dich zu",
+				"verstecken."
+			]
+		},
+		{
+			"path": [11,4,17,2],
+			"original": "Soldat: Sir Daikon, Sir Kiorta! Kento ist geflohen!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Sir Daikon,\\. Sir Kiorta!\\.",
+				"Kento has escaped!"
+			]
+		},
+		{
+			"path": [11,4,24,1],
+			"original": "Genyu: Verdammt!",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Damn it!"
+			]
+		},
+		{
+			"path": [11,4,27,1],
+			"original": "Felcis: Wohin ist er geflohen?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Where did he escape to?"
+			]
+		},
+		{
+			"path": [11,4,29,2],
+			"original": "Soldat: Ein Seil hängt am Keller-Fenster! Er ist draußen!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: There's a rope on the basement window!\\.",
+				"He's outside!"
+			]
+		},
+		{
+			"path": [11,4,37,3],
+			"original": "Genyu: Sofort alle verfügbaren Einheiten ausschwärmen und draußen nach ihm suchen!",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Send out all available units",
+				"and search for him outside",
+				"immediately!"
+			]
+		},
+		{
+			"path": [11,4,42,4],
+			"original": "Felcis: Reduziert die Wachposten auf die Hälfte, vernachlässigt aber nicht zu sehr die anderen Gefangenen! Vor allem Herr Uroto!",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Reduce the guards by half,",
+				"but don't neglect the other",
+				"prisoners too much!\\,",
+				"Especially Sir Uroto!"
+			]
+		},
+		{
+			"path": [11,4,46,4],
+			"original": "Felcis: Und achtet darauf, dass die Gefangenen nichts von dieser Situation merken! Sonst brechen sie uns in der Hektik auch noch aus.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: And make sure that the",
+				"prisoners don't notice this",
+				"situation!\\. Otherwise, they'll",
+				"break out in the chaos."
+			]
+		},
+		{
+			"path": [11,4,52,1],
+			"original": "Soldat: Zu Befehl, Sir!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: At your command, sir!"
+			]
+		},
+		{
+			"path": [11,4,61,3],
+			"original": "Felcis: Ich sagte dir doch, dass es keine gute Idee ist, deinen Sohn in ein normales Zimmer einzusperren.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: I told you that locking your",
+				"son in a normal room wouldn't be",
+				"a good idea."
+			]
+		},
+		{
+			"path": [11,4,68,3],
+			"original": "Genyu: Wir müssen jetzt handeln, Felcis, Schuldzuweisungen bringen uns jetzt nicht weiter!",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: We have to act now,\\. Felcis,\\.",
+				"blaming me doesn't get us anywhere!"
+			]
+		}
+	]
+}

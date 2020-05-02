@@ -1,0 +1,266 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [17,2,19,3],
+			"indent": 1,
+			"original": "(Kento: Hier scheint eines der Gefängnisse zu sein... Mal schauen...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Hier scheint eines der ",
+				"Gefängnisse zu sein...\\. Mal ",
+				"schauen...)"
+			]
+		},
+		{
+			"path": [17,2,25,2],
+			"indent": 1,
+			"original": "(Kento: Hier müsste Herr Uroto gefangen sein...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Hier müsste Herr Uroto ",
+				"gefangen sein...)"
+			]
+		},
+		{
+			"path": [17,2,36,3],
+			"indent": 1,
+			"original": "(Kento: Zwei Wachen... Ohne Ausrüstung werde ich da nicht sehr weit kommen...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Zwei Wachen...\\.",
+				"Ohne Ausrüstung werde ich da nicht ",
+				"sehr weit kommen...)"
+			]
+		},
+		{
+			"path": [17,2,41,1],
+			"indent": 1,
+			"original": "(Kento: Zwei Wachen...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Zwei Wachen...)"
+			]
+		},
+		{
+			"path": [17,2,50,2],
+			"indent": 1,
+			"original": "(Kento: Hier kann ich noch nichts machen...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Hier kann ich noch nichts ",
+				"machen...)"
+			]
+		},
+		{
+			"path": [17,2,55,4],
+			"indent": 1,
+			"original": "(Kento: Es wäre keine gute Idee, Herrn Uroto zuerst zu befreien. Mit ihm an der Seite wird es schwerer sich durch den Komplex zu bewegen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Es wäre keine gute Idee, ",
+				"Herrn Uroto zuerst zu befreien.\\. Mit ",
+				"ihm an der Seite wird es schwerer ",
+				"sich durch den Komplex zu bewegen.)"
+			]
+		},
+		{
+			"path": [17,2,60,2],
+			"indent": 1,
+			"original": "(Kento: Ich sollte zuerst Cibon und Soko befreien...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Ich sollte zuerst Cibon und ",
+				"Soko befreien...)"
+			]
+		},
+		{
+			"path": [17,3,16,1],
+			"original": "(Kento: ...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: ...)"
+			]
+		},
+		{
+			"path": [17,4,15,3],
+			"original": "Herr Uroto: Ich wusste nicht genau wo ich war oder wieso man uns gefangen genommen hat...",
+			"lines":
+			[
+				"\\c[10]Sir Uroto\\c[0]: Ich wusste nicht genau ",
+				"wo ich war oder wieso man uns ",
+				"gefangen genommen hat..."
+			]
+		},
+		{
+			"path": [17,4,18,4],
+			"original": "Herr Uroto: Aber als ich in meiner Zelle saß, habe ich einige Unterhaltungen der Wachleute mitlauschen können...",
+			"lines":
+			[
+				"\\c[10]Sir Uroto\\c[0]: Aber als ich in meiner ",
+				"Zelle saß,\\. habe ich einige ",
+				"Unterhaltungen der Wachleute ",
+				"mitlauschen können..."
+			]
+		},
+		{
+			"path": [17,4,31,1],
+			"original": "Untere Wache: Hey, kommt mal kurz rüber.",
+			"lines":
+			[
+				"\\c[10]Untere Wache\\c[0]: Hey, kommt mal kurz rüber."
+			]
+		},
+		{
+			"path": [17,4,44,3],
+			"original": "Linke Wache: Sag mal... was haben sie nun mit den anderen Gefangenen gemacht? Ich seh' sie nicht mehr in ihren Zellen.",
+			"lines":
+			[
+				"\\c[10]Linke Wache\\c[0]: Sag mal...\\. was haben sie nun mit ",
+				"den anderen Gefangenen gemacht?\\. Ich seh' sie nicht ",
+				"mehr in ihren Zellen."
+			]
+		},
+		{
+			"path": [17,4,47,3],
+			"original": "Rechte Wache: So wie ich gehört habe, haben sich die 3 bereit erklärt, für uns jenseits der Grenze aktiv zu sein.",
+			"lines":
+			[
+				"\\c[10]Rechte Wache\\c[0]: So wie ich gehört habe, haben sich ",
+				"die 3 bereit erklärt, für uns jenseits der Grenze ",
+				"aktiv zu sein."
+			]
+		},
+		{
+			"path": [17,4,51,2],
+			"original": "LinkeWache: Ah... also 3 weitere Spione auf unserer Seite.",
+			"lines":
+			[
+				"\\c[10]LinkeWache\\c[0]: Ah...\\. also 3 weitere Spione auf ",
+				"unserer Seite."
+			]
+		},
+		{
+			"path": [17,4,53,2],
+			"original": "Rechte Wache: Ja, sie sollen die ganzen Gerüchte über uns aus der Welt schaffen.",
+			"lines":
+			[
+				"\\c[10]Rechte Wache\\c[0]: Ja, sie sollen die ganzen Gerüchte ",
+				"über uns aus der Welt schaffen."
+			]
+		},
+		{
+			"path": [17,4,56,1],
+			"original": "Linke Wache: Wie wollen sie das den schaffen.",
+			"lines":
+			[
+				"\\c[10]Linke Wache\\c[0]: Wie wollen sie das den schaffen."
+			]
+		},
+		{
+			"path": [17,4,57,2],
+			"original": "Rechte Wache: Der Plan ist eigentlich ganz interessant...",
+			"lines":
+			[
+				"\\c[10]Rechte Wache\\c[0]: Der Plan ist eigentlich ganz ",
+				"interessant..."
+			]
+		},
+		{
+			"path": [17,5,13,3],
+			"original": "Herr Uroto: Ich saß in meiner Zelle, als plötzlich irgendwas außerhalb geschah.",
+			"lines":
+			[
+				"\\c[10]Sir Uroto\\c[0]: Ich saß in meiner Zelle, ",
+				"als plötzlich irgendwas außerhalb ",
+				"geschah. "
+			]
+		},
+		{
+			"path": [17,5,44,3],
+			"original": "Herr Uroto: Dann flog irgendetwas ins Gefängnis. Es wurde Hell und ich verlor mein Bewusstsein.",
+			"lines":
+			[
+				"\\c[10]Sir Uroto\\c[0]: Dann flog irgendetwas ",
+				"ins Gefängnis.\\. Es wurde Hell und ich ",
+				"verlor mein Bewusstsein."
+			]
+		},
+		{
+			"path": [17,5,48,3],
+			"original": "Herr Uroto: Als ich wieder aufwachte, befand ich mich in einer Hütte im Wald.",
+			"lines":
+			[
+				"\\c[10]Sir Uroto\\c[0]: Als ich wieder ",
+				"aufwachte, befand ich mich in einer ",
+				"Hütte im Wald."
+			]
+		},
+		{
+			"path": [18,1,14,1],
+			"original": "(Herr Uroto: Verdammt...)",
+			"lines":
+			[
+				"(\\c[10]Sir Uroto\\c[0]: Damn...)"
+			]
+		},
+		{
+			"path": [18,1,15,3],
+			"original": "(Herr Uroto: Wer hätte Gedacht, dass die Lage bereits jetzt schon so ernst ist.)",
+			"lines":
+			[
+				"(\\c[10]Sir Uroto\\c[0]: Who would've thought that",
+				"the situation was already so",
+				"serious.)"
+			]
+		},
+		{
+			"path": [18,1,18,3],
+			"original": "(Herr Uroto: Hätte man diese ganzen Gerüchte doch bloß ernster genommen...)",
+			"lines":
+			[
+				"(\\c[10]Sir Uroto\\c[0]: If only all these rumors",
+				"had been taken more seriously...)"
+			]
+		},
+		{
+			"path": [18,1,26,3],
+			"original": "(Herr Uroto: Wenn sich diese Gruppe bereits zutraut einen politischen Gesandten gefangen zu nehmen...)",
+			"lines":
+			[
+				"(\\c[10]Sir Uroto\\c[0]: If this group already",
+				"dares to capture a political",
+				"envoy...)"
+			]
+		},
+		{
+			"path": [18,1,29,3],
+			"original": "(Herr Uroto: Heißt das, dass sie der darauf folgenden Reaktion von Brigantia bereits gewachsen sind?)",
+			"lines":
+			[
+				"(\\c[10]Sir Uroto\\c[0]: Does that mean that after",
+				"Brigantia's following reaction, they",
+				"were already growing?)"
+			]
+		},
+		{
+			"path": [18,1,32,4],
+			"original": "(Herr Uroto: Kann das wirklich sein? Hat sich eine so mächtige militärische Einheit komplett im Untergrund gebildet?)",
+			"lines":
+			[
+				"(\\c[10]Sir Uroto\\c[0]: Could it really be?\\. Has",
+				"such a powerful military unit",
+				"formed entirely underground?)"
+			]
+		},
+		{
+			"path": [18,1,40,2],
+			"original": "(Herr Uroto: Was... Was wird jetzt mit mir geschehen...)",
+			"lines":
+			[
+				"(\\c[10]Sir Uroto\\c[0]: What...\\. What'll happen to",
+				"me now...)"
+			]
+		}
+	]
+}

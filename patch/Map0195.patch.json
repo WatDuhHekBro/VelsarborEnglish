@@ -1,0 +1,549 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [3,3,3,2],
+			"original": "(Kento: Tatsächlich, sie haben die Tür offen gelassen!)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Tatsächlich,\\. sie haben die ",
+				"Tür offen gelassen!)"
+			]
+		},
+		{
+			"path": [3,3,6,3],
+			"original": "(Kento: Besser vorsichtig nachsehen, ob sich jemand im nächsten Raum befindet...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Besser vorsichtig nachsehen,\\. ",
+				"ob sich jemand im nächsten Raum ",
+				"befindet...)"
+			]
+		},
+		{
+			"path": [3,3,14,3],
+			"original": "Info: Man hat die Möglichkeit zuerst durch einen Türschlitz zu schauen, bevor man den Raum betritt.",
+			"lines":
+			[
+				"",
+				"Info: Man hat die Möglichkeit zuerst durch einen ",
+				"\\c[11]Türschlitz zu schauen\\c[0], bevor man den Raum betritt. "
+			]
+		},
+		{
+			"path": [3,3,17,3],
+			"original": "So vermeidet man, dass man den Soldaten direkt in die Arme läuft.",
+			"lines":
+			[
+				"",
+				"So vermeidet man, dass man den Soldaten direkt in ",
+				"die Arme läuft."
+			]
+		},
+		{
+			"path": [3,3,20,3],
+			"original": "Dies funktioniert jedoch nur, wenn man sich in einem sicheren Raum befindet.",
+			"lines":
+			[
+				"",
+				"Dies funktioniert jedoch nur, wenn man sich in ",
+				"einem \\c[11]sicheren Raum\\c[0] befindet."
+			]
+		},
+		{
+			"path": [20,1,12,2],
+			"original": "Kento: VERSCHWINDE!! ICH WILL DICH NICHT SEHEN!!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: GO AWAY!!\\. I DON'T WANT TO SEE",
+				"YOU AT ALL!!"
+			]
+		},
+		{
+			"path": [20,1,22,3],
+			"original": "Genyu: Kento! Was ist los mir dir?! Warum schreist du mich so an? Was hab ich getan?!",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Kento!\\. What's wrong with you?!\\.",
+				"Why are you shouting at me like that?\\.",
+				"What have I done?!"
+			]
+		},
+		{
+			"path": [20,1,29,2],
+			"original": "Kento: Das weißt du GENAU!! Du hast sie... du... hast mich...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: You know EXACTLY what you've",
+				"done!!\\. You took her...\\. you're...\\."
+				"taking me..."
+			]
+		},
+		{
+			"path": [20,1,37,3],
+			"original": "Kento: DU HAST NUR UNGLÜCK HINTERLASSEN! DU HAST KEIN RECHT ZU LEBEN!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ALL YOU DO IS LEAVE MISERY",
+				"EVERYWHERE!\\. YOU HAVE NO RIGHT TO",
+				"LIVE!"
+			]
+		},
+		{
+			"path": [20,1,49,3],
+			"original": "Genyu: Es tut mir Leid Kento... Es tut mir Leid, dass ich dich alleine ließ... Ich konnte doch nicht...",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: I'm sorry Kento...\\. I'm so",
+				"sorry I left you alone all those",
+				"years...\\. I just couldn't..."
+			]
+		},
+		{
+			"path": [20,1,59,3],
+			"original": "Kento: SPAR DIR DEINE AUSREDEN! Lass mich einfach nur ALLEINE! VERSCHWINDE!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: SAVE YOUR PATHETIC EXCUSES",
+				"ALREADY!\\. Just leave me \\s[9]ALONE\\s[0]!\\.",
+				"GO AWAY!"
+			]
+		},
+		{
+			"path": [20,1,64,2],
+			"original": "Genyu: Kento! Wir sollten über diese Probleme rede...",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Kento!\\. We should talk about",
+				"these problems...\\.\\^"
+			]
+		},
+		{
+			"path": [20,1,72,2],
+			"original": "Kento: MIT DIR BEREDE ICH GAR NICHTS MEHR! Lass mich in frieden!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I DON'T EVEN WANT ANYTHING TO",
+				"DO WITH YOU!\\. Leave me in peace!"
+			]
+		},
+		{
+			"path": [20,1,79,2],
+			"original": "Genyu: KENTO! Hör gefälligst auf so zu schrei...",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: KENTO!\\. Stop yelling like",
+				"that...\\.\\^"
+			]
+		},
+		{
+			"path": [20,1,87,1],
+			"original": "Kento: VERSCHWINDE!!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: GET OUT OF MY SIGHT!!"
+			]
+		},
+		{
+			"path": [20,1,92,1],
+			"original": "Genyu: KOMM ENDLICH...",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: LISTEN TO ME HERE...\\.\\^"
+			]
+		},
+		{
+			"path": [20,1,99,1],
+			"original": "Kento: VERSCHWINDE ENDLICH!!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: GET OUT OF MY SIGHT NOW!!"
+			]
+		},
+		{
+			"path": [20,4,12,2],
+			"original": "Soldat: So, jetzt gibt's was zu Essen, Daikon Junior...",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Alright,\\. here's something to eat,\\.",
+				"Daikon Junior\\s[8]...\\^"
+			]
+		},
+		{
+			"path": [20,4,27,1],
+			"original": "Soldat: ...N...Nein!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: N...\\. No!"
+			]
+		},
+		{
+			"path": [20,4,33,1],
+			"original": "Soldat: KENTO DAIKON IST GEFLOHEN!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: \\s[2]KENTO DAIKON HAS ESCAPED!"
+			]
+		},
+		{
+			"path": [20,5,62,2],
+			"original": "(Kento: ... Anscheinend sind sie drauf reingefallen... Dann mal los!)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Seems like they fell right",
+				"for it...\\. Let's go!)"
+			]
+		},
+		{
+			"path": [20,5,65,2],
+			"original": "(Kento: Zuerst muss ich meine Ausrüstung finden.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: I need to find my equipment",
+				"first.)"
+			]
+		},
+		{
+			"path": [20,5,68,4],
+			"original": "(Kento: Am besten Suche ich eine Person, von der ich erfahren kann, wo sich die Ausrüstung befindet... indem ich es aus ihr rauspresse.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: The best thing I can do is",
+				"find a person who can tell me where",
+				"my equipment is...\\. while getting",
+				"myself out of here.)"
+			]
+		},
+		{
+			"path": [20,5,73,2],
+			"original": "(Kento: Das sollte allerdings besser kein Soldat sein...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: It shouldn't be a soldier",
+				"though...)"
+			]
+		},
+		{
+			"path": [20,5,95,2],
+			"original": "(Kento: Der Besen hier muss erstmal als Waffe genügen...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: I'll have to make do with",
+				"this broom as a weapon for now...)"
+			]
+		},
+		{
+			"path": [20,5,128,3],
+			"original": "Info: Achtung! Du befindest dich ab jetzt im Schleich-Modus.",
+			"lines":
+			[
+				"",
+				"Info: Attention! From now on, you are in",
+				"\\c[11]stealth mode\\c[0]."
+			]
+		},
+		{
+			"path": [20,5,131,3],
+			"original": "Da Kento alleine und ohne Ausrüstung ist, sollte man Kämpfen wenn Möglich aus dem Weg gehen.",
+			"lines":
+			[
+				"",
+				"Since Kento is alone and without equipment, you",
+				"should \\c[11]avoid fighting as much as possible\\c[0]."
+			]
+		},
+		{
+			"path": [20,5,134,3],
+			"original": "Zu Kämpfen kommt es deshalb nur, wenn du von einem Soldaten entdeckt wirst.",
+			"lines":
+			[
+				"",
+				"Fights only occur when you are discovered by a",
+				"soldier."
+			]
+		},
+		{
+			"path": [20,5,137,3],
+			"original": "Sollte sich kein Soldat im Raum befinden, wird die Nachricht \"Raum ist Sicher\" eingeblendet.",
+			"lines":
+			[
+				"",
+				"If there is no soldier in the room, the message,",
+				"\\c[11]\"Room is safe.\"\\c[0] is displayed."
+			]
+		},
+		{
+			"path": [20,5,140,3],
+			"original": "Anmerkung: Im Schleich-Modus ist immer \"Automatisch Rennen\" aktiviert.",
+			"lines":
+			[
+				"",
+				"Note: \\c[11]\"Automatic Running\"\\c[0] is always activated in",
+				"stealth mode."
+			]
+		},
+		{
+			"path": [20,7,15,2],
+			"original": "(Genyu: Entkommen... Er ist uns entkommen.)",
+			"lines":
+			[
+				"(\\c[4]\\n[4]\\c[0]: Entkommen... Er ist uns ",
+				"entkommen.)"
+			]
+		},
+		{
+			"path": [20,7,23,1],
+			"original": "Genyu: VERDAMMT!",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: VERDAMMT!"
+			]
+		},
+		{
+			"path": [20,7,34,1],
+			"original": "Felcis: Genyu, hier bist du!",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Genyu, hier bist du!"
+			]
+		},
+		{
+			"path": [20,7,36,3],
+			"original": "Felcis: Dein Austicker kam genau richtig, ich dachte schon ich würde dich gar nicht mehr finden...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Dein Austicker kam genau ",
+				"richtig, ich dachte schon ich würde ",
+				"dich gar nicht mehr finden..."
+			]
+		},
+		{
+			"path": [20,7,45,4],
+			"original": "Genyu: Felcis... Was soll ich jetzt machen? Er ist davon, wir können ihn nicht mehr zurückholen... Jenseits der Grenze...",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Felcis...\\. Was soll ich jetzt ",
+				"machen?\\. Er ist davon, wir können ihn ",
+				"nicht mehr zurückholen...\\. Jenseits ",
+				"der Grenze..."
+			]
+		},
+		{
+			"path": [20,7,50,2],
+			"original": "Genyu: Wir können uns einen Großangriff nicht erlauben...",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Wir können uns einen ",
+				"Großangriff nicht erlauben..."
+			]
+		},
+		{
+			"path": [20,7,53,2],
+			"original": "Felcis: Es ist schön zu hören, dass du wenigstens das einsieht.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Es ist schön zu hören, dass ",
+				"du wenigstens das einsieht. "
+			]
+		},
+		{
+			"path": [20,7,55,4],
+			"original": "Felcis: Ernsthaft, ich hab mir Sorgen gemacht, du würdest jetzt ganz Gencorin einnehmen, nur um deinen Sohn wieder zu bekommen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ernsthaft, ich hab mir ",
+				"Sorgen gemacht, du würdest jetzt ",
+				"ganz Gencorin einnehmen, nur um ",
+				"deinen Sohn wieder zu bekommen."
+			]
+		},
+		{
+			"path": [20,7,64,2],
+			"original": "Genyu: Ja Felcis, ich kenne mein Problem selber gut genug.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Ja Felcis, ich kenne mein ",
+				"Problem selber gut genug."
+			]
+		},
+		{
+			"path": [20,7,66,3],
+			"original": "Genyu: Ich weiß wie man Leute antreibt und wie man inmitten einer Schlacht vorzugehen hat.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Ich weiß wie man Leute ",
+				"antreibt und wie man inmitten einer ",
+				"Schlacht vorzugehen hat."
+			]
+		},
+		{
+			"path": [20,7,70,4],
+			"original": "Genyu: Aber ich bin kein Taktiker, der stets den effizientesten Weg verfolgt, um sein Ziel zu erreichen, und nichts anderes vor Augen hat.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Aber ich bin kein Taktiker, ",
+				"der stets den effizientesten Weg ",
+				"verfolgt, um sein Ziel zu erreichen, ",
+				"und nichts anderes vor Augen hat."
+			]
+		},
+		{
+			"path": [20,7,78,4],
+			"original": "Felcis: Du solltest versuchen dich zusammen zu reisen. Wenn du nicht aufpasst verlierst du nicht nur deinen Sohn, sondern alles.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Du solltest versuchen dich ",
+				"zusammen zu reisen.\\. Wenn du nicht ",
+				"aufpasst verlierst du nicht nur ",
+				"deinen Sohn, sondern alles."
+			]
+		},
+		{
+			"path": [20,7,87,3],
+			"original": "Genyu: Du meinst also ich soll ihn aufgeben? ... Wahrscheinlich hast du Recht.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Du meinst also ich soll ihn ",
+				"aufgeben?\\. ...\\. Wahrscheinlich hast du ",
+				"Recht.  "
+			]
+		},
+		{
+			"path": [20,7,91,2],
+			"original": "Genyu: Ich bin mir allerdings nicht sicher, ob es mir das Wert ist.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Ich bin mir allerdings nicht ",
+				"sicher, ob es mir das Wert ist."
+			]
+		},
+		{
+			"path": [20,7,99,3],
+			"original": "Genyu: Wenn ich mir meinen Sohn wegen diesem Ziel zum Gegner mache, ihn dafür opfern muss...",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Wenn ich mir meinen Sohn ",
+				"wegen diesem Ziel zum Gegner mache, ",
+				"ihn dafür opfern muss..."
+			]
+		},
+		{
+			"path": [20,7,103,4],
+			"original": "Genyu: Was unterscheidet mich dann noch von meinem Gegner? Ich würde den Prinzipien folgen, gegen die ich ankämpfen will.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Was unterscheidet mich dann ",
+				"noch von meinem Gegner?\\. Ich würde ",
+				"den Prinzipien folgen, gegen die ",
+				"ich ankämpfen will."
+			]
+		},
+		{
+			"path": [20,7,115,2],
+			"original": "Felcis: Wenn es nur das ist, was du vermeiden willst...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wenn es nur das ist, was du ",
+				"vermeiden willst..."
+			]
+		},
+		{
+			"path": [20,7,117,2],
+			"original": "Felcis: Dann lässt sich da vielleicht noch etwas biegen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Dann lässt sich da ",
+				"vielleicht noch etwas biegen."
+			]
+		},
+		{
+			"path": [20,7,126,2],
+			"original": "Genyu: ...Du meinst es gibt einen Weg?",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: ...Du meinst es gibt einen ",
+				"Weg?"
+			]
+		},
+		{
+			"path": [20,7,131,3],
+			"original": "Felcis: Wenn du vermeiden willst, dass dein Sohn uns in einer Schlacht gegenüber steht, dann ja.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wenn du vermeiden willst, ",
+				"dass dein Sohn uns in einer Schlacht ",
+				"gegenüber steht,\\. dann ja."
+			]
+		},
+		{
+			"path": [20,7,135,3],
+			"original": "Felcis: Vorausgesetzt eine bestimmte Person unter uns ist unserer momentanen Lage unbewusst.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Vorausgesetzt eine bestimmte ",
+				"Person unter uns ist unserer ",
+				"momentanen Lage unbewusst."
+			]
+		},
+		{
+			"path": [21,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"This is a \\c[11]save point\\c[0]."
+			]
+		},
+		{
+			"path": [21,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"When you stand on one of these, you can",
+				"\\c[11]save the game\\c[0]."
+			]
+		},
+		{
+			"path": [21,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"To do this, open the \\c[11]menu\\c[0] using \\c[11]Esc\\c[0] and",
+				"then select \\c[11]Save\\c[0]."
+			]
+		},
+		{
+			"path": [21,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Additionally, you can always save on",
+				"the \\c[11]world map\\c[0]."
+			]
+		},
+		{
+			"path": [26,1,3,2],
+			"original": "(Kento: Die Täuschung hat allen Anschein nach funktioniert.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Die Täuschung hat allen ",
+				"Anschein nach funktioniert.)"
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [21,1,4],
+			"original": "Stützpunkt1",
+			"patch": "Fortress?"
+		}
+	]
+}
