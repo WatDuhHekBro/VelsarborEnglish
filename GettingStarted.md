@@ -17,6 +17,10 @@ These buttons below still do unique things, but are mostly for customization.
 - `F5`: This toggles whether the game upscales by a factor of 2 or keeps the original ratio. 320x240 and 640x480 are the available resolutions.
 - `F12`: This brings you back to the title screen **regardless of whether or not you saved or where you are**.
 
+# Pronunciations
+- Cibon: Pronounced with a hard C, so basically "Key-bon". The stress is on the first syllable.
+- All J's are pronounced as Y's, because German. The exception is with Japanese-esque names.
+
 # Contributing
 It'll probably be a while until I proofread everything and check for line endings (if I even get to that). So therefore, please let me know if there are any grammatical/spelling errors or line endings that feel awkward. Look for an existing issue about these mistakes. Only open up an issue on this repository if there isn't an issue. I recommend naming that issue `Mistakes Megathread <#>`.
 

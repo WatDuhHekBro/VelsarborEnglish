@@ -1171,9 +1171,10 @@
 			"original": "Sir Vorento: Er hat nicht nur tausende brigantische, sondern auch korzojenische Soldaten getötet.",
 			"lines":
 			[
-				"\\c[10]Sir Vorento\\c[0]:\\s[5] It not only killed",
-				"thousands of Brigantian,\\. but thousands",
-				"of Korzojenish soldiers as well."
+				"\\c[10]Sir Vorento\\c[0]:\\s[5] Not only were thousands",
+				"of Brigantian soldiers killed by it,\\.",
+				"but thousands of Korzojenish",
+				"soldiers as well."
 			]
 		},
 		{
