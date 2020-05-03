@@ -269,7 +269,7 @@
 			[
 				"",
 				"If there is no soldier in the room, the message,",
-				"\\c[11]\"Room is safe.\"\\c[0] is displayed."
+				"\\c[11]\"The room is safe.\"\\c[0] is displayed."
 			]
 		},
 		{

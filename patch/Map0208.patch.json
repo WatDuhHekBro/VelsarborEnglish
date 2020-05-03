@@ -786,7 +786,7 @@
 			"original": "?????: Hier ist Endstation!",
 			"lines":
 			[
-				"\\c[10]?????\\c[0]: Hier ist Endstation!"
+				"\\c[10]?????\\c[0]: This is the end of it!"
 			]
 		},
 		{
@@ -794,9 +794,8 @@
 			"original": "Rothaariger Soldat: Ihr drei werdet alle schön wieder ins Kittchen wandern!",
 			"lines":
 			[
-				"\\c[10]Rothaariger Soldat\\c[0]: Ihr drei werdet ",
-				"alle schön wieder ins Kittchen ",
-				"wandern!"
+				"\\c[10]Rothaariger Soldat\\c[0]: You three will",
+				"all go back to your cells!"
 			]
 		},
 		{
@@ -804,9 +803,9 @@
 			"original": "Soldat: D...Die Gefangenen?! Sedric! Seit wann genau weißt du, dass sich der Flüchtling hier im Gebäude befindet?!",
 			"lines":
 			[
-				"\\c[10]Soldier\\c[0]: D...\\.Die Gefangenen?!\\. Sedric!\\. Seit wann ",
-				"genau weißt du,\\. dass sich der Flüchtling hier ",
-				"im Gebäude befindet?!"
+				"\\c[10]Soldier\\c[0]: T...\\. The prisoners?!\\. Sedric!\\. How long",
+				"have you known that the escapee was here in",
+				"the building?!"
 			]
 		},
 		{
@@ -814,10 +813,10 @@
 			"original": "Sedric: Schon seit einer Weile, aber du denkst doch nicht wirklich, dass ich mir den Spaß verderbe, indem ich ihn sofort bloßstelle und einbuchte.",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: Schon seit einer Weile, aber ",
-				"du denkst doch nicht wirklich, dass ",
-				"ich mir den Spaß verderbe, indem ich ",
-				"ihn sofort bloßstelle und einbuchte."
+				"\\c[10]Sedric\\c[0]: For a while now, but don't",
+				"think I was just going to spoil",
+				"the fun by immediately exposing",
+				"and locking them up."
 			]
 		},
 		{
@@ -825,9 +824,8 @@
 			"original": "Sedric: Das wäre in etwa so spaßig wie eine kleine Ratte platt zu treten.",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: Das wäre in etwa so spaßig ",
-				"wie eine kleine Ratte platt zu ",
-				"treten."
+				"\\c[10]Sedric\\c[0]: That'd be about as fun as",
+				"kicking a little rat."
 			]
 		},
 		{
@@ -835,7 +833,7 @@
 			"original": "Cibon: ...Was?!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...\\.Was?!"
+				"\\c[2]\\n[2]\\c[0]: What?!"
 			]
 		},
 		{
@@ -843,10 +841,10 @@
 			"original": "Sedric: Ihr hört richtig! Der Flüchtling, dieser Kento alleine wäre für mich keine Herausforderung gewesen, erst recht ohne Ausrüstung",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: Ihr hört richtig!\\. Der ",
-				"Flüchtling, dieser Kento alleine ",
-				"wäre für mich keine Herausforderung ",
-				"gewesen, erst recht ohne Ausrüstung"
+				"\\c[10]Sedric\\c[0]: You heard that right!\\. This",
+				"escapee, this Kento, wouldn't have",
+				"been much of a challenge for me",
+				"alone, especially without equipment."
 			]
 		},
 		{
@@ -854,9 +852,9 @@
 			"original": "Sedric: Ihr 3 zusammen dagegen seid genug, um vielleicht ein bisschen Spaß zu haben!",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: Ihr 3 zusammen dagegen seid ",
-				"genug, um vielleicht ein bisschen ",
-				"Spaß zu haben!"
+				"\\c[10]Sedric\\c[0]: Now, the three of you",
+				"together are enough to have a",
+				"little bit of fun!"
 			]
 		},
 		{
@@ -864,8 +862,9 @@
 			"original": "Soldat: Bist du total verrückt?! Das sind 3 Leute! 3 Soldaten! 3 ausgebildete Soldaten!",
 			"lines":
 			[
-				"\\c[10]Soldier\\c[0]: Bist du total verrückt?!\\. Das sind 3 Leute!\\. ",
-				"3 Soldaten!\\. 3 ausgebildete Soldaten!"
+				"\\c[10]Soldier\\c[0]: Are you out of your mind?!\\. You're",
+				"talking about three people!\\. Three soldiers!\\.",
+				"Three trained soldiers!"
 			]
 		},
 		{
@@ -873,10 +872,9 @@
 			"original": "Sedric: Na und? Wir beide werden das schon schaffen! Ich werde dieser Brillenschlange zeigen, zu was ich fähig bin...",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: Na und?\\. Wir beide werden das ",
-				"schon schaffen! \\.",
-				"Ich werde dieser Brillenschlange ",
-				"zeigen, zu was ich fähig bin..."
+				"\\c[10]Sedric\\c[0]: So what?\\. We'll both show 'em",
+				"how it's done!\\. I'll show these rats",
+				"what I'm capable of..."
 			]
 		},
 		{
@@ -884,8 +882,8 @@
 			"original": "Soldat: Sedric, ich glaube du siehst die ganze Sache etwas.... Moment mal!",
 			"lines":
 			[
-				"\\c[10]Soldier\\c[0]: \\s[1]Sedric,\\. ich glaube du siehst die ganze ",
-				"Sache etwas....\\. \\s[0]Moment mal! "
+				"\\c[10]Soldier\\c[0]: \\s[1]Sedric,\\. I think the whole thing a",
+				"little...\\. \\s[0]Wait a minute!"
 			]
 		},
 		{
@@ -893,7 +891,7 @@
 			"original": "Soldat: Sagtest du da eben \"WIR\"?!",
 			"lines":
 			[
-				"\\c[10]Soldier\\c[0]: Sagtest du da eben \"WIR\"?!"
+				"\\c[10]Soldier\\c[0]: Did you just say \"WE\"?!"
 			]
 		},
 		{
@@ -901,10 +899,9 @@
 			"original": "Sedric: Richtig, ich könnte hier ein bisschen magische Unterstützung gebrauchen, also darfst du mir helfen.",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: Richtig, ich könnte hier ",
-				"ein bisschen magische ",
-				"Unterstützung gebrauchen, also ",
-				"darfst du mir helfen."
+				"\\c[10]Sedric\\c[0]: Right, I could use some",
+				"magical support here, so you",
+				"help me out here."
 			]
 		},
 		{
@@ -912,8 +909,8 @@
 			"original": "Cibon: Hey Mister Ich-markier-heut- mal-die-ein-Mann-Armee!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hey Mister Ich-markier-heut-",
-				"mal-die-ein-Mann-Armee! "
+				"\\c[2]\\n[2]\\c[0]: Hey \"Mr. I'm marking a one-man",
+				"army today!\""
 			]
 		},
 		{
@@ -921,8 +918,8 @@
 			"original": "Cibon: Siehste deine beiden Kollegen da hinten?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Siehste deine beiden ",
-				"Kollegen da hinten?"
+				"\\c[2]\\n[2]\\c[0]: You see our two teammates back",
+				"there, right?"
 			]
 		},
 		{
@@ -930,10 +927,10 @@
 			"original": "Cibon: Wenn du ebenfalls Teil dieser Bodenpflasterung werden willst, komm nur runter und stell dich, anstatt uns zu Tode zu labern!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wenn du ebenfalls Teil dieser  ",
-				"Bodenpflasterung werden willst,\\. komm ",
-				"nur runter und stell dich,\\. anstatt ",
-				"uns zu Tode zu labern!"
+				"\\c[2]\\n[2]\\c[0]: If you want to be part of this",
+				"destruction too,\\. just come down and",
+				"fight us instead of babbling to",
+				"death!"
 			]
 		},
 		{
@@ -941,7 +938,7 @@
 			"original": "Soko: Cibon...!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Cibon...!"
+				"\\c[13]\\n[3]\\c[0]: Cibon!"
 			]
 		},
 		{
@@ -949,9 +946,8 @@
 			"original": "Kento: Lass ihn, je schneller die beiden erledigt sind, desto besser für uns.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Lass ihn,\\. je schneller die ",
-				"beiden erledigt sind, desto besser ",
-				"für uns."
+				"\\c[1]\\n[1]\\c[0]: Let him,\\. the faster the two",
+				"are done with, the better for us."
 			]
 		},
 		{
@@ -959,9 +955,9 @@
 			"original": "Sedric: Setz mich mit diesen Schwächlingen da unten gleich und du hast bereits verloren!",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: Setz mich mit diesen ",
-				"Schwächlingen da unten gleich und du ",
-				"hast bereits verloren!"
+				"\\c[10]Sedric\\c[0]: Get down there with me and",
+				"show these weaklings that they've",
+				"already lost!"
 			]
 		},
 		{
@@ -969,7 +965,7 @@
 			"original": "Cibon: Du redest ja immer noch!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Du redest ja immer noch!"
+				"\\c[2]\\n[2]\\c[0]: You're still talking!"
 			]
 		},
 		{
@@ -977,8 +973,8 @@
 			"original": "Sedric: Args! Komm jetzt, setzten wir der Sache ein Ende.",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: Args!\\. Komm jetzt, setzten ",
-				"wir der Sache ein Ende."
+				"\\c[10]Sedric\\c[0]: Argh!\\. Come on now, let's put",
+				"an end to this."
 			]
 		},
 		{
@@ -986,7 +982,7 @@
 			"original": "Soldat: A...Aber...",
 			"lines":
 			[
-				"\\c[10]Soldier\\c[0]: A...\\.Aber...\\.\\^"
+				"\\c[10]Soldier\\c[0]: A...\\. But...\\.\\^"
 			]
 		},
 		{
@@ -994,8 +990,9 @@
 			"original": "Sedric: Kein aber! Du wirst jetzt Teil dieser Meisterleistung!",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: Kein aber!\\. Du wirst jetzt ",
-				"Teil dieser Meisterleistung!"
+				"\\c[10]Sedric\\c[0]: No buts, ifs, or ands!\\. You'll",
+				"now be a part of this grand",
+				"masterpiece!"
 			]
 		},
 		{
@@ -1003,8 +1000,7 @@
 			"original": "Sedric: ... D... Das werdet ihr noch bereuen!",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: ...\\. D...\\. Das werdet ihr noch ",
-				"bereuen!"
+				"\\c[10]Sedric\\c[0]: Y...\\. You'll regret this!"
 			]
 		},
 		{
@@ -1012,7 +1008,7 @@
 			"original": "Soko: W... Was war das jetzt genau?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: W...\\. Was war das jetzt genau?"
+				"\\c[13]\\n[3]\\c[0]: W...\\. What was that just now?"
 			]
 		},
 		{
@@ -1020,9 +1016,9 @@
 			"original": "Cibon: Ich hab ihn ja gewarnt, dass er Bodenbelag wird, aber er wollt's mir ja nicht glauben.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich hab ihn ja gewarnt, dass ",
-				"er Bodenbelag wird,\\. aber er wollt's ",
-				"mir ja nicht glauben."
+				"\\c[2]\\n[2]\\c[0]: I told him that he was going",
+				"into a bloodbath,\\. but \\s[1]nooo\\s[0], he",
+				"didn't want to believe me."
 			]
 		},
 		{
@@ -1030,8 +1026,8 @@
 			"original": "Kento: Ich bin froh, dass nur er mich gesehen hat und sonst niemand.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich bin froh, dass nur er ",
-				"mich gesehen hat und sonst niemand. "
+				"\\c[1]\\n[1]\\c[0]: I'm glad that it was only him",
+				"who saw me instead of anyone else."
 			]
 		},
 		{
@@ -1039,9 +1035,9 @@
 			"original": "Kento: Besser so einen Dickkopf als Gegner als alle restlichen Soldaten im Gebäude.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Besser so einen Dickkopf als ",
-				"Gegner als alle restlichen Soldaten ",
-				"im Gebäude."
+				"\\c[1]\\n[1]\\c[0]: Better that stubborn soldier",
+				"than all of the other soldiers in",
+				"the building."
 			]
 		},
 		{
@@ -1049,10 +1045,9 @@
 			"original": "Soko: Ja, wenn es allen Soldaten hier so an Disziplin mangeln würde wie diesem hier, müsste sich Brigantia keine Sorgen machen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ja, wenn es allen Soldaten ",
-				"hier so an Disziplin mangeln würde ",
-				"wie diesem hier, müsste sich ",
-				"Brigantia keine Sorgen machen."
+				"\\c[13]\\n[3]\\c[0]: Yes, if all soldiers here lack",
+				"discipline like this one, Brigantia",
+				"shouldn't have to worry."
 			]
 		},
 		{
@@ -1060,7 +1055,7 @@
 			"original": "Cibon: Wirklich?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wirklich?"
+				"\\c[2]\\n[2]\\c[0]: Really?"
 			]
 		},
 		{
@@ -1068,7 +1063,7 @@
 			"original": "Kento: Wir müssen weiter, los.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir müssen weiter, los."
+				"\\c[1]\\n[1]\\c[0]: We have to keep going."
 			]
 		},
 		{
