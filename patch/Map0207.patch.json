@@ -7,9 +7,8 @@
 			"original": "(Kento: Hier scheint eines der Gefängnisse zu sein... Mal schauen...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Hier scheint eines der ",
-				"Gefängnisse zu sein...\\. Mal ",
-				"schauen...)"
+				"(\\c[1]\\n[1]\\c[0]: One of the cells seems to be",
+				"here...\\. Let's see...)"
 			]
 		},
 		{
@@ -18,8 +17,8 @@
 			"original": "(Kento: Hier müsste Herr Uroto gefangen sein...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Hier müsste Herr Uroto ",
-				"gefangen sein...)"
+				"(\\c[1]\\n[1]\\c[0]: Sir Uroto must be trapped",
+				"here...)"
 			]
 		},
 		{
@@ -28,9 +27,8 @@
 			"original": "(Kento: Zwei Wachen... Ohne Ausrüstung werde ich da nicht sehr weit kommen...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Zwei Wachen...\\.",
-				"Ohne Ausrüstung werde ich da nicht ",
-				"sehr weit kommen...)"
+				"(\\c[1]\\n[1]\\c[0]: Two guards...\\. I won't get",
+				"very far without equipment...)"
 			]
 		},
 		{
@@ -39,7 +37,7 @@
 			"original": "(Kento: Zwei Wachen...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Zwei Wachen...)"
+				"(\\c[1]\\n[1]\\c[0]: Two guards...)"
 			]
 		},
 		{
@@ -48,8 +46,8 @@
 			"original": "(Kento: Hier kann ich noch nichts machen...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Hier kann ich noch nichts ",
-				"machen...)"
+				"(\\c[1]\\n[1]\\c[0]: I can't do anything here",
+				"yet...)"
 			]
 		},
 		{
@@ -58,10 +56,10 @@
 			"original": "(Kento: Es wäre keine gute Idee, Herrn Uroto zuerst zu befreien. Mit ihm an der Seite wird es schwerer sich durch den Komplex zu bewegen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Es wäre keine gute Idee, ",
-				"Herrn Uroto zuerst zu befreien.\\. Mit ",
-				"ihm an der Seite wird es schwerer ",
-				"sich durch den Komplex zu bewegen.)"
+				"(\\c[1]\\n[1]\\c[0]: It wouldn't be a good idea to",
+				"free Sir Uroto first.\\. With him by",
+				"my side, it'd be harder to move",
+				"through the complex.)"
 			]
 		},
 		{
@@ -70,8 +68,8 @@
 			"original": "(Kento: Ich sollte zuerst Cibon und Soko befreien...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Ich sollte zuerst Cibon und ",
-				"Soko befreien...)"
+				"(\\c[1]\\n[1]\\c[0]: I should free Cibon and Soko",
+				"first...)"
 			]
 		},
 		{

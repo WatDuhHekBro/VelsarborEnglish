@@ -388,9 +388,8 @@
 			"original": "(Kento: Hier scheint eines der Gefängnisse zu sein... Mal schauen...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Hier scheint eines der ",
-				"Gefängnisse zu sein...\\. Mal ",
-				"schauen...)"
+				"(\\c[1]\\n[1]\\c[0]: One of the cells seems to be",
+				"here...\\. Let's see...)"
 			]
 		},
 		{
@@ -399,8 +398,8 @@
 			"original": "(Kento: Hier müssen Cibon und Soko sein...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Hier müssen Cibon und Soko ",
-				"sein...)"
+				"(\\c[1]\\n[1]\\c[0]: Cibon and Soko must be",
+				"here...)"
 			]
 		},
 		{
@@ -408,9 +407,9 @@
 			"original": "(Kento: Zwei Wachen... die werde ich ohne anständige Ausrüstung nicht überwinden können...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Zwei Wachen...\\. die werde ich ",
-				"ohne anständige Ausrüstung nicht ",
-				"überwinden können...)"
+				"(\\c[1]\\n[1]\\c[0]: Two guards...\\. I won't be able",
+				"to overcome them without decent",
+				"equipment...)"
 			]
 		},
 		{
@@ -419,8 +418,8 @@
 			"original": "(Kento: Hier kann ich noch nichts machen...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Hier kann ich noch nichts ",
-				"machen...)"
+				"(\\c[1]\\n[1]\\c[0]: I can't do anything here",
+				"yet...)"
 			]
 		},
 		{
@@ -429,8 +428,8 @@
 			"original": "(Kento: Tut mir Leid, ihr beide müsst noch etwas warten...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Tut mir Leid,\\. ihr beide ",
-				"müsst noch etwas warten...)"
+				"(\\c[1]\\n[1]\\c[0]: I'm sorry,\\. but you two will",
+				"have to wait a little longer...)"
 			]
 		},
 		{
@@ -438,7 +437,7 @@
 			"original": "Cibon: Hm, jetzt weiß ich es wieder.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] Hm,\\. jetzt weiß ich es wieder."
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Hm,\\. now that I think of it..."
 			]
 		},
 		{
@@ -454,10 +453,10 @@
 			"original": "Cibon: Es waren 300 Gramm Zucker und ein halbes Pfund Repskornmehl. Dazu halt Milch, Butter und sonstiger Kleinkram.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] Es waren 300 Gramm Zucker und",
-				"ein halbes Pfund Repskornmehl.\\. Dazu ",
-				"halt Milch, Butter und sonstiger ",
-				"Kleinkram."
+				"\\c[2]\\n[2]\\c[0]:\\s[2] It was 300 grams of sugar and",
+				"half a pound of sunflour.\\. There was",
+				"also milk, butter, and other small",
+				"items."
 			]
 		},
 		{
@@ -465,7 +464,7 @@
 			"original": "Soko: Soviel Zucker?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]:\\s[2] Soviel Zucker?"
+				"\\c[13]\\n[3]\\c[0]:\\s[2] So much sugar?"
 			]
 		},
 		{
@@ -473,8 +472,8 @@
 			"original": "Cibon: Jupp, das Ganze soll ja schließlich zum Naschen sein.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] Jupp,\\. das Ganze soll ja ",
-				"schließlich zum Naschen sein."
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Yep,\\. the whole thing was",
+				"supposed to be a snack."
 			]
 		},
 		{
@@ -482,9 +481,8 @@
 			"original": "Cibon: Ist aber lange her, seit meine Mutter es das letzte Mal gebacken hat.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] Ist aber lange her,\\. seit ",
-				"meine Mutter es das letzte Mal ",
-				"gebacken hat."
+				"\\c[2]\\n[2]\\c[0]:\\s[2] It's been a long time since my",
+				"mom last baked it."
 			]
 		},
 		{
@@ -492,10 +490,10 @@
 			"original": "Cibon: Zum Leiden von Kento. Für ihn war es damals der Hauptgrund zusammen mit mir meine Familie zu besuchen, während der Ausbildung.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] Zum Leiden von Kento.\\. Für ihn ",
-				"war es damals der Hauptgrund ",
-				"zusammen mit mir meine Familie zu ",
-				"besuchen,\\. während der Ausbildung."
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Mainly because of the Kento's",
+				"suffering.\\. For him, it was the main",
+				"reason to visit my family with me",
+				"during our apprenticeship."
 			]
 		},
 		{
@@ -503,9 +501,9 @@
 			"original": "Cibon: Um genau zu sein, hab ich ihn erst damit dazu bewegen können... Er mochte das Zeug wirklich gerne",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] Um genau zu sein, hab ich ihn ",
-				"erst damit dazu bewegen können...\\.",
-				"Er mochte das Zeug wirklich gerne"
+				"\\c[2]\\n[2]\\c[0]:\\s[2] To be precise, I was able to",
+				"get him to eat it...\\. He really",
+				"liked the stuff."
 			]
 		},
 		{
@@ -513,8 +511,8 @@
 			"original": "Soko: Hehe... Aber... Wieso backt deine Mutter es denn nicht mehr?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]:\\s[2] Hehe...\\. Aber...\\. Wieso backt ",
-				"deine Mutter es denn nicht mehr?"
+				"\\c[13]\\n[3]\\c[0]:\\s[2] Hehe...\\. But...\\. Why doesn't your",
+				"mother bake it anymore?"
 			]
 		},
 		{
@@ -522,10 +520,10 @@
 			"original": "Cibon: Naja, zuviel arbeit, denke ich. Sie ist über die letzten Jahre irgendwie sehr bequem geworden, oh ja.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] Naja, zuviel arbeit, denke ",
-				"ich.\\. Sie ist über die letzten Jahre ",
-				"irgendwie sehr bequem geworden,\\. oh ",
-				"ja."
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Well, too much work, I think.\\.",
+				"He somehow become very comfortable",
+				"with it over the past few years,\\.",
+				"yeah."
 			]
 		},
 		{
@@ -534,9 +532,8 @@
 			"original": "(Kento: Cibon... Soko... Wie kommen die beiden bitte auf dieses Gesprächthema? ...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Cibon...\\. Soko...\\.",
-				"Wie kommen die beiden bitte auf",
-				"dieses Gesprächthema?\\. ...)"
+				"(\\c[1]\\n[1]\\c[0]: Cibon...\\. Soko...\\. How did the",
+				"two come up with such a topic?)"
 			]
 		},
 		{
@@ -545,9 +542,9 @@
 			"original": "(Kento: Ich darf nicht rumtrödeln! Ich muss immer noch herausfinden, wo sich unsere Ausrüstung befindet.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Ich darf nicht rumtrödeln!\\.",
-				"Ich muss immer noch herausfinden,\\. wo ",
-				"sich unsere Ausrüstung befindet.)"
+				"(\\c[1]\\n[1]\\c[0]: I can't waste time!\\. I still",
+				"have to find out where our equipment",
+				"is.)"
 			]
 		},
 		{
@@ -556,8 +553,8 @@
 			"original": "(Kento: Also muss ich diese eine Person finden...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Also muss ich diese eine ",
-				"Person finden...)"
+				"(\\c[1]\\n[1]\\c[0]: So I have to find that person",
+				"from earlier...)"
 			]
 		},
 		{
@@ -566,9 +563,8 @@
 			"original": "(Kento: ...Wie kommen die beiden bitte auf dieses Thema? ... Ich darf nicht rumtrödeln!)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: ...\\.Wie kommen die beiden ",
-				"bitte auf dieses Thema?\\. ...\\.",
-				"Ich darf nicht rumtrödeln!)"
+				"(\\c[1]\\n[1]\\c[0]: How do the two come up with",
+				"such a topic?\\. I can't waste time!)"
 			]
 		},
 		{
@@ -584,10 +580,9 @@
 			"original": "(Kento: Ich habe zwar nun meine Ausrüstung wieder, dennoch wäre es riskant alleine gegen die zwei Soldaten zu kämpfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Ich habe zwar nun meine ",
-				"Ausrüstung wieder, dennoch wäre es ",
-				"riskant alleine gegen die zwei ",
-				"Soldaten zu kämpfen.)"
+				"(\\c[1]\\n[1]\\c[0]: I have my equipment now, but",
+				"it'd be risky to fight the two",
+				"soldiers alone.)"
 			]
 		},
 		{
@@ -595,9 +590,8 @@
 			"original": "(Kento: Ich muss versuchen Cibon und Soko während des Gefechtes zu befreien.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Ich muss versuchen Cibon und ",
-				"Soko während des Gefechtes zu ",
-				"befreien.)"
+				"(\\c[1]\\n[1]\\c[0]: I have to try to free Cibon",
+				"and Soko during the battle.)"
 			]
 		},
 		{
@@ -605,9 +599,8 @@
 			"original": "(Kento: Sollten sie einmal draußen sein, haben die Soldaten schweres Spiel...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Sollten sie einmal draußen ",
-				"sein, haben die Soldaten schweres ",
-				"Spiel...)"
+				"(\\c[1]\\n[1]\\c[0]: Once I do so, the soldiers",
+				"will have a hard time with us...)"
 			]
 		},
 		{
@@ -615,7 +608,7 @@
 			"original": "(Kento: Okay...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Okay...)"
+				"(\\c[1]\\n[1]\\c[0]: Alright...)"
 			]
 		},
 		{
@@ -623,8 +616,7 @@
 			"original": "(Kento: Jetzt geht's um alles oder nichts! Los!)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Jetzt geht's um alles oder ",
-				"nichts!\\. Los!)"
+				"(\\c[1]\\n[1]\\c[0]: Now it's all or nothing!\\. Go!)"
 			]
 		},
 		{
@@ -632,7 +624,7 @@
 			"original": "Soldat: Eindringling!",
 			"lines":
 			[
-				"\\c[10]Soldier\\c[0]: Eindringling!"
+				"\\c[10]Soldier\\c[0]: Intruder!"
 			]
 		},
 		{
@@ -640,7 +632,7 @@
 			"original": "Soldat: Sofort stehen bleiben!",
 			"lines":
 			[
-				"\\c[10]Soldier\\c[0]: Sofort stehen bleiben!"
+				"\\c[10]Soldier\\c[0]: Don't move any further!"
 			]
 		},
 		{
@@ -648,7 +640,7 @@
 			"original": "Soko: K...Kento!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: K...Kento!"
+				"\\c[13]\\n[3]\\c[0]: K...\\. Kento!"
 			]
 		},
 		{
@@ -656,7 +648,7 @@
 			"original": "Cibon: KUMPEL! Wie zum...!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: KUMPEL!\\. Wie zum...!\\.\\^"
+				"\\c[2]\\n[2]\\c[0]: KENTO!\\. How the...\\.\\^"
 			]
 		},
 		{
@@ -664,9 +656,9 @@
 			"original": "Kento: Soko, Cibon, ich habe unserer Ausrüstung! Haltet euch bereit, ich hol euch da raus!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Soko,\\. Cibon,\\. ich habe unserer ",
-				"Ausrüstung!\\. Haltet euch bereit, ich ",
-				"hol euch da raus!"
+				"\\c[1]\\n[1]\\c[0]: Soko,\\. Cibon,\\. I have our",
+				"equipment!\\. Get ready, I'll get",
+				"you out of there in a moment!"
 			]
 		},
 		{
@@ -674,9 +666,8 @@
 			"original": "Soko: Kento, wie hast du es bitte geschafft dich zu befreien und bis hierhin zu kommen?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Kento, wie hast du es bitte ",
-				"geschafft dich zu befreien und bis ",
-				"hierhin zu kommen? "
+				"\\c[13]\\n[3]\\c[0]: Kento, how'd you manage to free",
+				"yourself and get this far?"
 			]
 		},
 		{
@@ -684,9 +675,8 @@
 			"original": "Kento: Man hat mich nicht in eine richtige Zelle gesteckt, sondern nur in einen Raum eingesperrt.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Man hat mich nicht in eine ",
-				"richtige Zelle gesteckt, sondern nur ",
-				"in einen Raum eingesperrt."
+				"\\c[1]\\n[1]\\c[0]: I wasn't put in a real cell",
+				"and was only locked in a room."
 			]
 		},
 		{
@@ -694,10 +684,9 @@
 			"original": "Kento: Ich konnte mich aus den Fesseln befreien, habe ein Fenster aufgebrochen, ein Seil rausgehängt und mich in den Schrank versteckt.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich konnte mich aus den ",
-				"Fesseln befreien,\\. habe ein Fenster ",
-				"aufgebrochen,\\. ein Seil rausgehängt ",
-				"und mich in den Schrank versteckt."
+				"\\c[1]\\n[1]\\c[0]: I was able to free myself from",
+				"my cuffs,\\. break a window,\\. hang a",
+				"rope,\\. and hide in the closet."
 			]
 		},
 		{
@@ -705,10 +694,9 @@
 			"original": "Kento: Die meisten Soldaten hier dürften noch glauben, dass ich nach draußen geflohen bin und suchen mich deshalb dort.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Die meisten Soldaten hier ",
-				"dürften noch glauben, dass ich nach ",
-				"draußen geflohen bin und suchen mich ",
-				"deshalb dort."
+				"\\c[1]\\n[1]\\c[0]: Most of the soldiers here may",
+				"still believe that I fled outside",
+				"and are looking for me there."
 			]
 		},
 		{
@@ -716,8 +704,8 @@
 			"original": "Cibon: He, solche Ideen können aber auch nur dir kommen, Kumpel.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: He, solche Ideen können aber ",
-				"auch nur dir kommen, Kumpel."
+				"\\c[2]\\n[2]\\c[0]: Heh, ideas like that can only",
+				"come from you."
 			]
 		},
 		{
@@ -725,9 +713,8 @@
 			"original": "Soko: Aber wie kommt es, dass sie dich nicht in eine richtige Gefängniszelle gesteckt haben?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Aber wie kommt es, dass sie ",
-				"dich nicht in eine richtige ",
-				"Gefängniszelle gesteckt haben?"
+				"\\c[13]\\n[3]\\c[0]: But how come they didn't put",
+				"you in a real prison cell?"
 			]
 		},
 		{
@@ -735,7 +722,7 @@
 			"original": "Kento: Ich weiß es nicht.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich weiß es nicht. "
+				"\\c[1]\\n[1]\\c[0]: I don't know."
 			]
 		},
 		{
@@ -743,9 +730,9 @@
 			"original": "Kento: Wir müssen schnell weiter. Sehr lange werden sie mich nicht mehr draußen suchen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir müssen schnell weiter. ",
-				"Sehr lange werden sie mich nicht ",
-				"mehr draußen suchen."
+				"\\c[1]\\n[1]\\c[0]: We have to quickly move on.",
+				"They won't be searching out there",
+				"for a very long time."
 			]
 		},
 		{
@@ -753,9 +740,8 @@
 			"original": "Soko: Wir müssen Herrn Uroto befreien! Weißt du wo er sich befindet?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wir müssen Herrn Uroto ",
-				"befreien!\\. Weißt du wo er sich ",
-				"befindet?"
+				"\\c[13]\\n[3]\\c[0]: We have to free Sir Uroto!\\.",
+				"Do you know where he is?"
 			]
 		},
 		{
@@ -763,10 +749,9 @@
 			"original": "Kento: Ja, er ist praktisch am anderem Ende des Untergeschosses. Es wird nicht leicht werden, mit ihm zu fliehen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja, er ist praktisch am ",
-				"anderem Ende des Untergeschosses. \\.",
-				"Es wird nicht leicht werden, mit ihm ",
-				"zu fliehen..."
+				"\\c[1]\\n[1]\\c[0]: Yes, it's practically at the",
+				"other end of the basement.\\. It won't",
+				"be easy to escape with him..."
 			]
 		},
 		{
@@ -774,9 +759,9 @@
 			"original": "Soko: Aber wir müssen es versuchen... Kento, sonst haben wir als Eskorte komplett versagt.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Aber wir müssen es ",
-				"versuchen...\\. Kento,\\. sonst haben wir ",
-				"als Eskorte komplett versagt."
+				"\\c[13]\\n[3]\\c[0]: But we have to try Kento...\\.",
+				"otherwise we will have completely",
+				"failed the escort mission!"
 			]
 		},
 		{
@@ -784,9 +769,8 @@
 			"original": "Kento: Lasst uns erstmal nachschauen, wie die Lage unter den Soldaten ist.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Lasst uns erstmal ",
-				"nachschauen, wie die Lage unter den ",
-				"Soldaten ist. "
+				"\\c[1]\\n[1]\\c[0]: First of all, let's see what",
+				"the situation is among the soldiers."
 			]
 		},
 		{
@@ -794,7 +778,7 @@
 			"original": "Cibon: Alles klar, Kumpel!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Alles klar,\\. Kumpel!"
+				"\\c[2]\\n[2]\\c[0]: Got it!"
 			]
 		},
 		{

@@ -437,8 +437,8 @@
 			"original": "Felcis: Wenn es nur das ist, was du vermeiden willst...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: If that's the only thing what",
-				"you wish to avoid..."
+				"\\c[5]\\n[5]\\c[0]: If that's the only thing you",
+				"wish to avoid..."
 			]
 		},
 		{
@@ -446,7 +446,7 @@
 			"original": "Felcis: Dann lässt sich da vielleicht noch etwas biegen.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Then maybe we can pull some",
+				"\\c[5]\\n[5]\\c[0]: Then maybe we could pull some",
 				"strings."
 			]
 		},

@@ -63,7 +63,7 @@ After the first major release, the `dev` branch will still be used so there aren
 - The Corine Plateau: 100%
 - Gencorin Pt I: 0%
 - The Silvan Forest: 100%
-- The Mysterious Fortress: 13%
+- The Mysterious Fortress: 90%
 - Gencorin Pt II: 0%
 - The Helnovien Prison: 0.01%
 - The Helnovien Mine: 0%
