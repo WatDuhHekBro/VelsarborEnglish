@@ -759,7 +759,7 @@
 			"original": "Cibon: Schön und gut, Kumpel. Aber sich darüber zu wundern bringt jetzt auch nichts.",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] All right, Kento.\\. But wondering",
+				"\\c[2]\\n[2]:\\c[0] Alright, Kento.\\. But wondering",
 				"about it now does nothing."
 			]
 		},
@@ -2221,7 +2221,7 @@
 			"lines":
 			[
 				"\\>",
-				"\\>INFO: Attention! This enemy has a protective",
+				"\\>INFO: Attention! This enemy has a magic",
 				"\\>shield."
 			]
 		},
@@ -2243,7 +2243,7 @@
 			"lines":
 			[
 				"\\>",
-				"\\>However, each protective shield can be broken",
+				"\\>However, each magic shield can be broken",
 				"\\>by one or more matching hits."
 			]
 		},
@@ -2254,7 +2254,7 @@
 			"lines":
 			[
 				"\\>",
-				"\\>The type of hit that breaks the shield must",
+				"\\>The type of attack that breaks the shield must",
 				"\\>be found."
 			]
 		},
