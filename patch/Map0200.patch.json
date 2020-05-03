@@ -1,0 +1,269 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [20,2,18,3],
+			"original": "?????: ... Gah, ich verhungere. Wird dringend Zeit, dass ich meine inneren Ressourcen mal auffrische!",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Gah, I'm starving.\\. Time to",
+				"refuel my inner resources!"
+			]
+		},
+		{
+			"path": [20,2,26,2],
+			"original": "(Kento: ...Was für ein Kerl ist das denn...?)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: What kind of person is",
+				"that?)"
+			]
+		},
+		{
+			"path": [20,2,34,1],
+			"original": "(Kento: Los!)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Now!)"
+			]
+		},
+		{
+			"path": [20,2,55,1],
+			"original": "?????: AHH....",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: \\s[3]AHH...\\^"
+			]
+		},
+		{
+			"path": [20,2,57,3],
+			"original": "Kento: Ruhe! Schrei nicht rum, sofern du weiterhin atmen möchtest...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Quiet!\\. Don't scream if you",
+				"want to keep breathing..."
+			]
+		},
+		{
+			"path": [20,2,63,2],
+			"original": "Kento: Sag mir wo sie die Ausrüstung der Gefangenen versteckt haben...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Tell me where you hid the",
+				"prisoners' gear..."
+			]
+		},
+		{
+			"path": [20,2,71,2],
+			"original": "?????: ...I-I-Ich weiß n-nicht genau! W-Wirklich...!",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: I-\\.I-\\.I don't k-\\.know exactly!",
+				"R-\\.Really!"
+			]
+		},
+		{
+			"path": [20,2,74,1],
+			"original": "Kento: Dann gib mir eine Vermutung!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Then give me a guess!"
+			]
+		},
+		{
+			"path": [20,2,76,2],
+			"original": "?????: E-Eine Annahme... Womöglich im Lagerraum...",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: A-\\.An estimate...\\. Maybe in the",
+				"storeroom..."
+			]
+		},
+		{
+			"path": [20,2,79,1],
+			"original": "Kento: Wo ist der Lagerraum?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Where's the storeroom?"
+			]
+		},
+		{
+			"path": [20,2,81,4],
+			"original": "?????: I-Im Esssaal die nördliche Tür, im Gang nach r-rechts ganz durch, danach nach unten... D-Da ist er!",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: I-\\.In the dining room,\\. the door",
+				"at the north,\\. in the corridor to the",
+				"r-\\.right,\\. then down...\\. T-\\.There it is!"
+			]
+		},
+		{
+			"path": [20,2,86,2],
+			"original": "Kento: Letzte Frage. Wo sind die Gefangenen?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Last question.\\. Where are the",
+				"prisoners?"
+			]
+		},
+		{
+			"path": [20,2,89,4],
+			"original": "?????: G-Getrennt... Zwei sind in der Zelle westlich von hier, so ein Alter in der östlichen Zelle, in der Nähe vom Lagerraum...",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: S-\\.Separated...\\. Two are in the",
+				"cell west of here,\\. and an old man in",
+				"the eastern cell, near the",
+				"storeroom..."
+			]
+		},
+		{
+			"path": [20,2,94,1],
+			"original": "?????: Ein weiterer...",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Another one is...\\.\\^"
+			]
+		},
+		{
+			"path": [20,2,96,2],
+			"original": "Kento: Mehr muss ich nicht wissen. Gute Nacht!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I don't need to know more.\\.",
+				"Good night!"
+			]
+		},
+		{
+			"path": [20,2,121,2],
+			"original": "?????: Auauauauaauauauauaaaaa! Verdammt das tut weh!",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: \\s[2]Auauauauaauauauauaaaaa!\\.\\s[0]",
+				"Damn that hurts!"
+			]
+		},
+		{
+			"path": [20,2,124,2],
+			"original": "(Kento: Dieser Besen ist zu wirklich gar nichts zu gebrauchen...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: This broom really is",
+				"useless...)"
+			]
+		},
+		{
+			"path": [20,2,127,1],
+			"original": "Kento: Dann halt nochmal!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Another time!"
+			]
+		},
+		{
+			"path": [20,2,140,2],
+			"original": "?????: NEIN! M-Mein armer Kopf! Nicht hauen! HILFE!",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: NO!\\. M-\\.My poor head!\\.",
+				"Don't hit me!\\. HELP!"
+			]
+		},
+		{
+			"path": [20,2,143,1],
+			"original": "Kento: Bleib stehen!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Stay still!"
+			]
+		},
+		{
+			"path": [20,2,160,1],
+			"original": "Kento: ... Auch gut.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: That works too."
+			]
+		},
+		{
+			"path": [20,2,178,2],
+			"original": "(Kento: Zum Glück hat niemand das Geschreie mitbekommen...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Luckily, nobody heard those",
+				"screams...)"
+			]
+		},
+		{
+			"path": [20,2,181,3],
+			"original": "(Kento: Okay, hoffentlich ist die Rüstung auch wirklich im Lagerraum. Wie war das...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Okay, hopefully our equipment",
+				"is actually in the storeroom.\\. After",
+				"all that, it better be...)"
+			]
+		},
+		{
+			"path": [20,2,185,3],
+			"original": "(Kento: Ich muss zwei Räume zurück zum Gang, dann nach rechts und danach nach unten.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: I have to go \\c[11]two rooms back\\c[0]",
+				"to the corridor,\\. then \\c[11]to the right\\c[0]",
+				"and then \\c[11]down\\c[0].)"
+			]
+		},
+		{
+			"path": [24,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"This is a \\c[11]save point\\c[0]."
+			]
+		},
+		{
+			"path": [24,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"When you stand on one of these, you can",
+				"\\c[11]save the game\\c[0]."
+			]
+		},
+		{
+			"path": [24,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"To do this, open the \\c[11]menu\\c[0] using \\c[11]Esc\\c[0] and",
+				"then select \\c[11]Save\\c[0]."
+			]
+		},
+		{
+			"path": [24,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Additionally, you can always save on",
+				"the \\c[11]world map\\c[0]."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [24,1,4],
+			"original": "Stützpunkt2",
+			"patch": "Fortress?"
+		}
+	]
+}

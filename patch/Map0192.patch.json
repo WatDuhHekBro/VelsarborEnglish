@@ -1,0 +1,165 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [19,3,6,3],
+			"original": "Kento: Ich sollte besser hier unten bleiben, oben dürften mehr Patrouillen sein.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I better stay down here, there",
+				"could be more guards up ahead."
+			]
+		},
+		{
+			"path": [20,3,6,3],
+			"original": "Kento: Ich sollte besser hier unten bleiben, oben dürften mehr Patrouillen sein.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I better stay down here, there",
+				"could be more guards up ahead."
+			]
+		},
+		{
+			"path": [41,2,12,3],
+			"original": "?????: Was ist hier los? Wieso rennen hier so viele Soldaten rum, um die Uhrzeit?",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: What's going on here?\\. Why are",
+				"so many soldiers running around here",
+				"at the same time?"
+			]
+		},
+		{
+			"path": [41,2,16,3],
+			"original": "Soldat: Ein Gefangener ist geflohen, er befindet sich wahrscheinlich irgendwo außerhalb, aber man kann nie wissen.",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: A prisoner has escaped and he's probably",
+				"outside somewhere,\\. but you never know."
+			]
+		},
+		{
+			"path": [41,2,19,2],
+			"original": "Soldat: Pass lieber auf, dass er dir nicht über den Weg läuft. Auch wenn er nicht bewaffnet ist...",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Careful that he doesn't run into you.\\.",
+				"Even if he isn't armed..."
+			]
+		},
+		{
+			"path": [41,2,29,2],
+			"original": "?????: Oh... Danke für die Warnung...",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Oh...\\. Thanks for the",
+				"warning..."
+			]
+		},
+		{
+			"path": [41,2,38,3],
+			"original": "?????: Verdammt, ich sollte besser nicht alleine im Flur rumstehen...!",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Damn,\\. I better not be standing",
+				"alone in a hallway!"
+			]
+		},
+		{
+			"path": [41,2,50,2],
+			"original": "(Kento: Na bitte. So eine Person hab ich gesucht.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: There we go!\\. I was looking",
+				"for someone like you.)"
+			]
+		},
+		{
+			"path": [41,2,53,2],
+			"original": "(Kento: Jetzt muss ich sie nur noch irgendwo alleine treffen...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Now I just need to find him",
+				"somewhere alone...)"
+			]
+		},
+		{
+			"path": [41,2,60,3],
+			"original": "Info: Von jetzt an bewegst du dich in nicht sicheren Räumen!",
+			"lines":
+			[
+				"",
+				"Info: From now on you're moving into \\c[11]unsafe",
+				"rooms\\c[0]!"
+			]
+		},
+		{
+			"path": [41,2,63,3],
+			"original": "Jeder der patrouillierenden Soldaten besitzt einen Sichtkegel.",
+			"lines":
+			[
+				"",
+				"Each of the patrolling soldiers has a \\c[11]cone of",
+				"vision\\c[0]."
+			]
+		},
+		{
+			"path": [41,2,66,3],
+			"original": "Sollte Kento im Sichtkegel eines Soldaten stehen und kein Objekte die Sicht versperren...",
+			"lines":
+			[
+				"",
+				"If Kento is in the sight of a soldier and \\c[11]no",
+				"objects are blocking the view\\c[0]..."
+			]
+		},
+		{
+			"path": [41,2,69,2],
+			"original": "...so wird Kento entdeckt und es kommt zum Kampf.",
+			"lines":
+			[
+				"",
+				"...that's how Kento is discovered and a \\c[11]battle",
+				"begins\\c[0]."
+			]
+		},
+		{
+			"path": [41,2,71,3],
+			"original": "Natürlichen können die Soldaten nicht durch Wände sehen.",
+			"lines":
+			[
+				"",
+				"Of course, the soldiers \\c[11]can't see through walls\\c[0]."
+			]
+		},
+		{
+			"path": [41,2,74,3],
+			"original": "Sofern sich Kento duckt, wird er auch nicht direkt hinter Fässern, Schränken und Tischen[c] entdeckt.",
+			"lines":
+			[
+				"",
+				"As long as Kento is \\c[11]crouching\\c[0], he won't be",
+				"\\c[11]discovered behind barrels, cupboards, and tables\\c[0]."
+			]
+		},
+		{
+			"path": [41,2,77,3],
+			"original": "Zum Ducken drücke die Entertaste und halte sie gedrückt.",
+			"lines":
+			[
+				"",
+				"To duck, \\c[11]press and hold the enter key\\c[0]."
+			]
+		},
+		{
+			"path": [41,2,80,3],
+			"original": "Achtung: Nicht alle Objekte sind zum verstecken geeignet! Dazu gehören z.B. Stühle und Rüstungen.",
+			"lines":
+			[
+				"",
+				"\\c[11]Attention\\c[0]: Not all objects are suitable to hide",
+				"behind! These include \\c[11]chairs and armor stands\\c[0]."
+			]
+		}
+	]
+}

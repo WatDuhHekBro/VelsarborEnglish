@@ -1,0 +1,56 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [107,3,7,1],
+			"original": "Cibon: Kumpel!!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Kento!!            \\^"
+			]
+		},
+		{
+			"path": [107,3,9,1],
+			"original": "Soko: Kento!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Kento!          \\^"
+			]
+		},
+		{
+			"path": [107,3,11,1],
+			"original": "Cibon: Wo rennst du hin, verdammt!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Where are you going,\\. dammit!\\.\\^"
+			]
+		},
+		{
+			"path": [107,3,13,2],
+			"original": "Soko: Wir müssen zur Grenze, wir werden verfolgt, meine Güte!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: We have to get to the border,\\.",
+				"we're being chased you know!\\.\\^"
+			]
+		},
+		{
+			"path": [107,3,17,1],
+			"original": "Kento: Jaja, ist ja schon gut!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Yeah yeah,\\. I got this!"
+			]
+		},
+		{
+			"path": [107,3,19,3],
+			"original": "(Kento: Manchmal kann ich meine eigenen Handlungen wirklich nicht ganz nachvollziehen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Sometimes it feels like I'm",
+				"being controlled by something or",
+				"someone...)"
+			]
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [35,1,3,2],
+			"original": "Cibon: ...Kumpel, wir sollten jetzt echt schnellstens über die Grenze!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hey, we should be crossing the",
+				"border quickly now!"
+			]
+		},
+		{
+			"path": [35,1,6,3],
+			"original": "Soko: Glaubst du wirklich, dass sie uns hier drinnen nicht als erstes suchen würden?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Do you seriously think they",
+				"wouldn't think to look for us in",
+				"here?"
+			]
+		},
+		{
+			"path": [35,1,10,2],
+			"original": "Kento: Das war doch nur so eine Idee...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: It was just an idea..."
+			]
+		}
+	]
+}

@@ -1,0 +1,1174 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [23,1,22,1],
+			"original": "Cibon: W...Wo bin ich?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: W...\\. Where am I?"
+			]
+		},
+		{
+			"path": [23,1,28,1],
+			"original": "Soko: Cibon... Bist du endlich wach?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] Cibon...\\. Are you finally awake?"
+			]
+		},
+		{
+			"path": [23,1,35,2],
+			"original": "Cibon: Soko! Wo sind wir? Was ist passiert?!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Soko!\\. Where are we?\\. What",
+				"happened?!"
+			]
+		},
+		{
+			"path": [23,1,47,1],
+			"original": "Wachmann: Ruhe da! Schreit hier nicht so rum!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Keep it down!\\. Don't shout around here!"
+			]
+		},
+		{
+			"path": [23,1,58,1],
+			"original": "Soko: Wir müssen leise reden, Cibon...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] We have to talk quietly,",
+				"Cibon..."
+			]
+		},
+		{
+			"path": [23,1,66,2],
+			"original": "Cibon: Wo steckt Kento? Wurde er auch hier eingesperrt?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Where's Kento?\\. Was he locked",
+				"up here too?"
+			]
+		},
+		{
+			"path": [23,1,69,3],
+			"original": "Soko: Ich weiß es nicht... Sehen kann ich nichts und die Wachen beantworten keine Fragen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] I don't know...\\. I can't see",
+				"anything and the guards aren't",
+				"answering any questions."
+			]
+		},
+		{
+			"path": [23,1,73,2],
+			"original": "Soko: Gehört hab ich ihn bis jetzt noch nicht.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] I haven't heard him yet."
+			]
+		},
+		{
+			"path": [23,1,80,1],
+			"original": "Cibon: Wenn das so ist...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] If so..."
+			]
+		},
+		{
+			"path": [23,1,88,2],
+			"original": "Cibon: KUMPEL! MELDE DICH BITTE MAL, WENN DU WACH BIST!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: KENTO!\\. PLEASE LET ME KNOW WHEN",
+				"YOU'RE AWAKE!"
+			]
+		},
+		{
+			"path": [23,1,100,3],
+			"original": "Wachmann: Hör auf der Stelle auf hier so rum zu schreien, es sei denn du willst die Peitsche zu spüren bekommen!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Stop shouting around here at once, unless",
+				"you want to be whipped!"
+			]
+		},
+		{
+			"path": [23,1,107,1],
+			"original": "Cibon: ...Ich verzichte...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: I give up..."
+			]
+		},
+		{
+			"path": [23,1,116,2],
+			"original": "Soko: Nichts...er scheint nicht hier zu sein.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] Nothing...\\. He doesn't seem to",
+				"be here."
+			]
+		},
+		{
+			"path": [23,1,119,1],
+			"original": "Cibon: Entweder das oder er schläft.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Either that or he's sleeping."
+			]
+		},
+		{
+			"path": [23,1,122,1],
+			"original": "Soko: ... Richtig.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] Right."
+			]
+		},
+		{
+			"path": [23,1,128,3],
+			"original": "Cibon: Haste eine Ahnung, wieso wir von dieser Gruppe angegriffen wurden?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Got any idea why we were",
+				"attacked by this group?"
+			]
+		},
+		{
+			"path": [23,1,132,4],
+			"original": "Soko: Das Ziel war wahrscheinlich Herrn Uroto gefangen zu nehmen. Zumindest fällt mir kein anderer sinnvoller Grund ein.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] The goal was probably to",
+				"capture Sir Uroto. At least, I",
+				"can't think of any other",
+				"reason why."
+			]
+		},
+		{
+			"path": [23,1,138,3],
+			"original": "Soko: Als Eskorte haben wir jedenfalls auf ganzer Linie versagt...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] As escorts, we failed across",
+				"the board..."
+			]
+		},
+		{
+			"path": [23,1,146,2],
+			"original": "Cibon: ...Nimm's dir nicht so zu Herzen, Soko.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Don't take it to heart, Soko."
+			]
+		},
+		{
+			"path": [23,2,20,4],
+			"original": "Soko: Was hab ich mir bloß dabei gedacht... In Gencorin hab ich Bier getrunken und bin Möchtegern- Dieben hinterher gejagt...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] What was I thinking...\\. I drank",
+				"beer in Gencorin and chased wannabe",
+				"thieves..."
+			]
+		},
+		{
+			"path": [23,2,24,4],
+			"original": "Soko: Ich habe mich immer mehr vom Auftrag ablenken lassen. Ich... ich war nicht genug darauf fokussiert. Wie konnte ich nur...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] I got more and more distracted",
+				"from the job.\\. I...\\. I wasn't focused",
+				"on it enough.\\. How could I..."
+			]
+		},
+		{
+			"path": [23,2,30,4],
+			"original": "Cibon: ...Soko? Glaub' mir, du hättest noch so fokussiert sein können, du hättest nichts verhindert.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Soko?\\. Trust me, no matter how",
+				"focused you could've been,\\. you still",
+				"couldn't have prevented anything."
+			]
+		},
+		{
+			"path": [23,2,35,3],
+			"original": "Cibon: Diese Truppe war uns einfach überlegen. Niemand hat damit gerechnet, dass uns so was begegnet.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] This group was simply stronger",
+				"than us.\\. Nobody expected us to",
+				"encounter something like that."
+			]
+		},
+		{
+			"path": [23,2,43,3],
+			"original": "Soko: ... Vielleicht wären wir diesem Hinterhalt entkommen, wenn wir ihn frühzeitig bemerkt hätten...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] Maybe we would have escaped",
+				"this ambush if we had just",
+				"noticed it earlier..."
+			]
+		},
+		{
+			"path": [23,2,48,4],
+			"original": "Soko: Wir hätten uns genauer informieren können, bestimmt hätten Gerüchte herum kursiert... wir hätten...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] We could've gotten more",
+				"information, there would've",
+				"been rumors... We would've..."
+			]
+		},
+		{
+			"path": [23,2,54,4],
+			"original": "Cibon: Soko! Hör endlich auf. Schieb dir nicht die ganze Last zu. Niemand würden von einer Eskorte so einen Einsatz erwarten.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Soko! Stop it.\\s[2]\\. Don't put all",
+				"the burden on yourself.\\. Nobody would",
+				"expect such a thing from an escort",
+				"mission."
+			]
+		},
+		{
+			"path": [23,2,59,2],
+			"original": "Cibon: Man hat die Gefahr dieses Auftrages falsch eingeschätzt.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] The risk of this order was",
+				"underestimated."
+			]
+		},
+		{
+			"path": [23,2,61,4],
+			"original": "Cibon: Hätte man so einen Angriff erwartet, hätte man mehr als nur 3 Leute für die Eskorte ausgesucht und erst Recht keine Neulinge.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] If they expected such an",
+				"attack, they would've chosen more",
+				"than 3 people for the escort mission",
+				"and certainly not choose any rookies."
+			]
+		},
+		{
+			"path": [23,2,70,1],
+			"original": "Soko: ...Neulinge?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] Rookies?"
+			]
+		},
+		{
+			"path": [23,2,72,4],
+			"original": "Soko: Meine Ausbildung hab ich seit 2 Jahren fertig. Ähnlich war es mit meinen Begleitern...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] I've had my apprenticeship for",
+				"two years.\\. Similarly to my",
+				"teammates..."
+			]
+		},
+		{
+			"path": [23,2,82,2],
+			"original": "Cibon: 2... 2 Jahre? Wieso das? Du bist doch nicht älter als wir...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] T...\\. Two years?\\. How?\\. You're",
+				"not any older than us..."
+			]
+		},
+		{
+			"path": [23,2,86,3],
+			"original": "Soko: Ich hab früh angefangen und den theoretischen Teil schneller als üblich beendet... deshalb...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] I started early and finished",
+				"the theoretical part faster than",
+				"usual...\\. so..."
+			]
+		},
+		{
+			"path": [23,2,92,3],
+			"original": "Cibon: Ohje, jetzt wird mir auch klar, wieso du über so viele Sachen bescheid weißt...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Oh wow,\\. now I know why you",
+				"know so many things..."
+			]
+		},
+		{
+			"path": [23,2,96,1],
+			"original": "(Cibon: Streberin!)",
+			"lines":
+			[
+				"(\\c[2]\\n[2]\\c[0]:\\s[9] Neeeeerd!)"
+			]
+		},
+		{
+			"path": [23,2,99,4],
+			"original": "Cibon: Aber was hat sich der alte Vorento dabei gedacht, uns als Neulingen diesen Auftrag anzuvertrauen?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] But what did the old man think",
+				"about trusting us with this sort of",
+				"mission as rookies?"
+			]
+		},
+		{
+			"path": [23,2,104,2],
+			"original": "Soko: Er muss von euren Leistungen wohl sehr überzeugt sein.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] He must've been very convinced",
+				"of your performance."
+			]
+		},
+		{
+			"path": [23,2,111,2],
+			"original": "Cibon: Hm... merkwürdig nur, dass er uns das nie so direkt gesagt hat.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Hm...\\. It's just strange since",
+				"he never told us that directly."
+			]
+		},
+		{
+			"path": [23,3,22,2],
+			"original": "Soldat: Du... geh nach oben, es gibt Probleme... schnell.",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: You...\\. Go upstairs,\\. there are",
+				"some problems...\\. Quickly!"
+			]
+		},
+		{
+			"path": [23,3,35,2],
+			"original": "Soldat: Ihr beide solltet genügen. Ihr müsst jetzt besonders aufmerksam sein, verstanden?",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: You two should be enough.\\. You have to be",
+				"extra careful now,\\. understand?"
+			]
+		},
+		{
+			"path": [23,3,37,1],
+			"original": "Wachmänner: Jawohl!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Got it!"
+			]
+		},
+		{
+			"path": [23,3,47,1],
+			"original": "Cibon: Was ist los?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: What's happening?"
+			]
+		},
+		{
+			"path": [23,3,52,2],
+			"original": "Wachmann:  Das geht euch gar nichts an! Also Ruhe!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: It's none of your business!\\.",
+				"Just rest!"
+			]
+		},
+		{
+			"path": [34,2,23,3],
+			"indent": 1,
+			"original": "(Kento: Hier scheint eines der Gefängnisse zu sein... Mal schauen...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: One of the cells seems to be",
+				"here...\\. Let's see...)"
+			]
+		},
+		{
+			"path": [34,2,29,2],
+			"indent": 1,
+			"original": "(Kento: Hier müssen Cibon und Soko sein...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Cibon and Soko must be",
+				"here...)"
+			]
+		},
+		{
+			"path": [34,2,39,3],
+			"original": "(Kento: Zwei Wachen... die werde ich ohne anständige Ausrüstung nicht überwinden können...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Two guards...\\. I won't be able",
+				"to overcome them without decent",
+				"equipment...)"
+			]
+		},
+		{
+			"path": [34,2,48,2],
+			"indent": 1,
+			"original": "(Kento: Hier kann ich noch nichts machen...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: I can't do anything here",
+				"yet...)"
+			]
+		},
+		{
+			"path": [34,2,53,2],
+			"indent": 1,
+			"original": "(Kento: Tut mir Leid, ihr beide müsst noch etwas warten...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: I'm sorry,\\. but you two will",
+				"have to wait a little longer...)"
+			]
+		},
+		{
+			"path": [34,2,58,1],
+			"original": "Cibon: Hm, jetzt weiß ich es wieder.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Hm,\\. now that I think of it..."
+			]
+		},
+		{
+			"path": [34,2,60,1],
+			"original": "Soko: Huh?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] Huh?"
+			]
+		},
+		{
+			"path": [34,2,68,4],
+			"original": "Cibon: Es waren 300 Gramm Zucker und ein halbes Pfund Repskornmehl. Dazu halt Milch, Butter und sonstiger Kleinkram.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] It was 300 grams of sugar and",
+				"half a pound of sunflour.\\. There was",
+				"also milk, butter, and other small",
+				"items."
+			]
+		},
+		{
+			"path": [34,2,73,1],
+			"original": "Soko: Soviel Zucker?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] So much sugar?"
+			]
+		},
+		{
+			"path": [34,2,75,2],
+			"original": "Cibon: Jupp, das Ganze soll ja schließlich zum Naschen sein.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Yep,\\. the whole thing was",
+				"supposed to be a snack."
+			]
+		},
+		{
+			"path": [34,2,78,3],
+			"original": "Cibon: Ist aber lange her, seit meine Mutter es das letzte Mal gebacken hat.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] It's been a long time since my",
+				"mom last baked it."
+			]
+		},
+		{
+			"path": [34,2,82,4],
+			"original": "Cibon: Zum Leiden von Kento. Für ihn war es damals der Hauptgrund zusammen mit mir meine Familie zu besuchen, während der Ausbildung.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Mainly because of the Kento's",
+				"suffering.\\. For him, it was the main",
+				"reason to visit my family with me",
+				"during our apprenticeship."
+			]
+		},
+		{
+			"path": [34,2,87,3],
+			"original": "Cibon: Um genau zu sein, hab ich ihn erst damit dazu bewegen können... Er mochte das Zeug wirklich gerne",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] To be precise, I was able to",
+				"get him to eat it...\\. He really",
+				"liked the stuff."
+			]
+		},
+		{
+			"path": [34,2,91,2],
+			"original": "Soko: Hehe... Aber... Wieso backt deine Mutter es denn nicht mehr?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]:\\s[2] Hehe...\\. But...\\. Why doesn't your",
+				"mother bake it anymore?"
+			]
+		},
+		{
+			"path": [34,2,94,4],
+			"original": "Cibon: Naja, zuviel arbeit, denke ich. Sie ist über die letzten Jahre irgendwie sehr bequem geworden, oh ja.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Well, too much work, I think.\\.",
+				"He somehow become very comfortable",
+				"with it over the past few years,\\.",
+				"yeah."
+			]
+		},
+		{
+			"path": [34,2,103,3],
+			"indent": 1,
+			"original": "(Kento: Cibon... Soko... Wie kommen die beiden bitte auf dieses Gesprächthema? ...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Cibon...\\. Soko...\\. How did the",
+				"two come up with such a topic?)"
+			]
+		},
+		{
+			"path": [34,2,107,3],
+			"indent": 1,
+			"original": "(Kento: Ich darf nicht rumtrödeln! Ich muss immer noch herausfinden, wo sich unsere Ausrüstung befindet.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: I can't waste time!\\. I still",
+				"have to find out where our equipment",
+				"is.)"
+			]
+		},
+		{
+			"path": [34,2,111,2],
+			"indent": 1,
+			"original": "(Kento: Also muss ich diese eine Person finden...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: So I have to find that person",
+				"from earlier...)"
+			]
+		},
+		{
+			"path": [34,2,116,3],
+			"indent": 1,
+			"original": "(Kento: ...Wie kommen die beiden bitte auf dieses Thema? ... Ich darf nicht rumtrödeln!)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: How do the two come up with",
+				"such a topic?\\. I can't waste time!)"
+			]
+		},
+		{
+			"path": [34,3,20,1],
+			"original": "(Kento: ...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: ...)"
+			]
+		},
+		{
+			"path": [34,6,22,4],
+			"original": "(Kento: Ich habe zwar nun meine Ausrüstung wieder, dennoch wäre es riskant alleine gegen die zwei Soldaten zu kämpfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: I have my equipment now, but",
+				"it'd be risky to fight the two",
+				"soldiers alone.)"
+			]
+		},
+		{
+			"path": [34,6,27,3],
+			"original": "(Kento: Ich muss versuchen Cibon und Soko während des Gefechtes zu befreien.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: I have to try to free Cibon",
+				"and Soko during the battle.)"
+			]
+		},
+		{
+			"path": [34,6,30,3],
+			"original": "(Kento: Sollten sie einmal draußen sein, haben die Soldaten schweres Spiel...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Once I do so, the soldiers",
+				"will have a hard time with us...)"
+			]
+		},
+		{
+			"path": [34,6,35,1],
+			"original": "(Kento: Okay...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Alright...)"
+			]
+		},
+		{
+			"path": [34,6,36,2],
+			"original": "(Kento: Jetzt geht's um alles oder nichts! Los!)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Now it's all or nothing!\\. Go!)"
+			]
+		},
+		{
+			"path": [34,6,59,1],
+			"original": "Soldat: Eindringling!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Intruder!"
+			]
+		},
+		{
+			"path": [34,6,62,1],
+			"original": "Soldat: Sofort stehen bleiben!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Don't move any further!"
+			]
+		},
+		{
+			"path": [34,6,66,1],
+			"original": "Soko: K...Kento!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: K...\\. Kento!"
+			]
+		},
+		{
+			"path": [34,6,68,1],
+			"original": "Cibon: KUMPEL! Wie zum...!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: KENTO!\\. How the...\\.\\^"
+			]
+		},
+		{
+			"path": [34,6,70,3],
+			"original": "Kento: Soko, Cibon, ich habe unserer Ausrüstung! Haltet euch bereit, ich hol euch da raus!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Soko,\\. Cibon,\\. I have our",
+				"equipment!\\. Get ready, I'll get",
+				"you out of there in a moment!"
+			]
+		},
+		{
+			"path": [34,8,10,3],
+			"original": "Soko: Kento, wie hast du es bitte geschafft dich zu befreien und bis hierhin zu kommen?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Kento, how'd you manage to free",
+				"yourself and get this far?"
+			]
+		},
+		{
+			"path": [34,8,17,3],
+			"original": "Kento: Man hat mich nicht in eine richtige Zelle gesteckt, sondern nur in einen Raum eingesperrt.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I wasn't put in a real cell",
+				"and was only locked in a room."
+			]
+		},
+		{
+			"path": [34,8,21,4],
+			"original": "Kento: Ich konnte mich aus den Fesseln befreien, habe ein Fenster aufgebrochen, ein Seil rausgehängt und mich in den Schrank versteckt.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I was able to free myself from",
+				"my cuffs,\\. break a window,\\. hang a",
+				"rope,\\. and hide in the closet."
+			]
+		},
+		{
+			"path": [34,8,26,4],
+			"original": "Kento: Die meisten Soldaten hier dürften noch glauben, dass ich nach draußen geflohen bin und suchen mich deshalb dort.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Most of the soldiers here may",
+				"still believe that I fled outside",
+				"and are looking for me there."
+			]
+		},
+		{
+			"path": [34,8,31,2],
+			"original": "Cibon: He, solche Ideen können aber auch nur dir kommen, Kumpel.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Heh, ideas like that can only",
+				"come from you."
+			]
+		},
+		{
+			"path": [34,8,34,3],
+			"original": "Soko: Aber wie kommt es, dass sie dich nicht in eine richtige Gefängniszelle gesteckt haben?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: But how come they didn't put",
+				"you in a real prison cell?"
+			]
+		},
+		{
+			"path": [34,8,41,1],
+			"original": "Kento: Ich weiß es nicht.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I don't know."
+			]
+		},
+		{
+			"path": [34,8,43,3],
+			"original": "Kento: Wir müssen schnell weiter. Sehr lange werden sie mich nicht mehr draußen suchen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: We have to quickly move on.",
+				"They won't be searching out there",
+				"for a very long time."
+			]
+		},
+		{
+			"path": [34,8,50,3],
+			"original": "Soko: Wir müssen Herrn Uroto befreien! Weißt du wo er sich befindet?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: We have to free Sir Uroto!\\.",
+				"Do you know where he is?"
+			]
+		},
+		{
+			"path": [34,8,54,4],
+			"original": "Kento: Ja, er ist praktisch am anderem Ende des Untergeschosses. Es wird nicht leicht werden, mit ihm zu fliehen...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Yes, it's practically at the",
+				"other end of the basement.\\. It won't",
+				"be easy to escape with him..."
+			]
+		},
+		{
+			"path": [34,8,59,3],
+			"original": "Soko: Aber wir müssen es versuchen... Kento, sonst haben wir als Eskorte komplett versagt.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: But we have to try Kento...\\.",
+				"otherwise we will have completely",
+				"failed the escort mission!"
+			]
+		},
+		{
+			"path": [34,8,63,3],
+			"original": "Kento: Lasst uns erstmal nachschauen, wie die Lage unter den Soldaten ist.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: First of all, let's see what",
+				"the situation is among the soldiers."
+			]
+		},
+		{
+			"path": [34,8,67,1],
+			"original": "Cibon: Alles klar, Kumpel!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Got it!"
+			]
+		},
+		{
+			"path": [34,10,7,1],
+			"original": "?????: Hier ist Endstation!",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: This is the end of it!"
+			]
+		},
+		{
+			"path": [34,10,61,3],
+			"original": "Rothaariger Soldat: Ihr drei werdet alle schön wieder ins Kittchen wandern!",
+			"lines":
+			[
+				"\\c[10]Rothaariger Soldat\\c[0]: You three will",
+				"all go back to your cells!"
+			]
+		},
+		{
+			"path": [34,10,68,3],
+			"original": "Soldat: D...Die Gefangenen?! Sedric! Seit wann genau weißt du, dass sich der Flüchtling hier im Gebäude befindet?!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: T...\\. The prisoners?!\\. Sedric!\\. How long",
+				"have you known that the escapee was here in",
+				"the building?!"
+			]
+		},
+		{
+			"path": [34,10,74,4],
+			"original": "Sedric: Schon seit einer Weile, aber du denkst doch nicht wirklich, dass ich mir den Spaß verderbe, indem ich ihn sofort bloßstelle und einbuchte.",
+			"lines":
+			[
+				"\\c[10]Sedric\\c[0]: For a while now, but don't",
+				"think I was just going to spoil",
+				"the fun by immediately exposing",
+				"and locking them up."
+			]
+		},
+		{
+			"path": [34,10,78,3],
+			"original": "Sedric: Das wäre in etwa so spaßig wie eine kleine Ratte platt zu treten.",
+			"lines":
+			[
+				"\\c[10]Sedric\\c[0]: That'd be about as fun as",
+				"kicking a little rat."
+			]
+		},
+		{
+			"path": [34,10,82,1],
+			"original": "Cibon: ...Was?!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: What?!"
+			]
+		},
+		{
+			"path": [34,10,86,4],
+			"original": "Sedric: Ihr hört richtig! Der Flüchtling, dieser Kento alleine wäre für mich keine Herausforderung gewesen, erst recht ohne Ausrüstung",
+			"lines":
+			[
+				"\\c[10]Sedric\\c[0]: You heard that right!\\. This",
+				"escapee, this Kento, wouldn't have",
+				"been much of a challenge for me",
+				"alone, especially without equipment."
+			]
+		},
+		{
+			"path": [34,10,91,3],
+			"original": "Sedric: Ihr 3 zusammen dagegen seid genug, um vielleicht ein bisschen Spaß zu haben!",
+			"lines":
+			[
+				"\\c[10]Sedric\\c[0]: Now, the three of you",
+				"together are enough to have a",
+				"little bit of fun!"
+			]
+		},
+		{
+			"path": [34,10,98,2],
+			"original": "Soldat: Bist du total verrückt?! Das sind 3 Leute! 3 Soldaten! 3 ausgebildete Soldaten!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Are you out of your mind?!\\. You're",
+				"talking about three people!\\. Three soldiers!\\.",
+				"Three trained soldiers!"
+			]
+		},
+		{
+			"path": [34,10,103,4],
+			"original": "Sedric: Na und? Wir beide werden das schon schaffen! Ich werde dieser Brillenschlange zeigen, zu was ich fähig bin...",
+			"lines":
+			[
+				"\\c[10]Sedric\\c[0]: So what?\\. We'll both show 'em",
+				"how it's done!\\. I'll show these rats",
+				"what I'm capable of..."
+			]
+		},
+		{
+			"path": [34,10,109,2],
+			"original": "Soldat: Sedric, ich glaube du siehst die ganze Sache etwas.... Moment mal!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: \\s[1]Sedric,\\. I think the whole thing a",
+				"little...\\. \\s[0]Wait a minute!"
+			]
+		},
+		{
+			"path": [34,10,113,1],
+			"original": "Soldat: Sagtest du da eben \"WIR\"?!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Did you just say \"WE\"?!"
+			]
+		},
+		{
+			"path": [34,10,117,4],
+			"original": "Sedric: Richtig, ich könnte hier ein bisschen magische Unterstützung gebrauchen, also darfst du mir helfen.",
+			"lines":
+			[
+				"\\c[10]Sedric\\c[0]: Right, I could use some",
+				"magical support here, so you",
+				"help me out here."
+			]
+		},
+		{
+			"path": [34,10,122,2],
+			"original": "Cibon: Hey Mister Ich-markier-heut- mal-die-ein-Mann-Armee!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hey \"Mr. I'm marking a one-man",
+				"army today!\""
+			]
+		},
+		{
+			"path": [34,10,130,2],
+			"original": "Cibon: Siehste deine beiden Kollegen da hinten?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: You see our two teammates back",
+				"there, right?"
+			]
+		},
+		{
+			"path": [34,10,139,4],
+			"original": "Cibon: Wenn du ebenfalls Teil dieser Bodenpflasterung werden willst, komm nur runter und stell dich, anstatt uns zu Tode zu labern!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: If you want to be part of this",
+				"destruction too,\\. just come down and",
+				"fight us instead of babbling to",
+				"death!"
+			]
+		},
+		{
+			"path": [34,10,146,1],
+			"original": "Soko: Cibon...!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Cibon!"
+			]
+		},
+		{
+			"path": [34,10,149,3],
+			"original": "Kento: Lass ihn, je schneller die beiden erledigt sind, desto besser für uns.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Let him,\\. the faster the two",
+				"are done with, the better for us."
+			]
+		},
+		{
+			"path": [34,10,159,3],
+			"original": "Sedric: Setz mich mit diesen Schwächlingen da unten gleich und du hast bereits verloren!",
+			"lines":
+			[
+				"\\c[10]Sedric\\c[0]: Get down there with me and",
+				"show these weaklings that they've",
+				"already lost!"
+			]
+		},
+		{
+			"path": [34,10,164,1],
+			"original": "Cibon: Du redest ja immer noch!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: You're still talking!"
+			]
+		},
+		{
+			"path": [34,10,168,2],
+			"original": "Sedric: Args! Komm jetzt, setzten wir der Sache ein Ende.",
+			"lines":
+			[
+				"\\c[10]Sedric\\c[0]: Argh!\\. Come on now, let's put",
+				"an end to this."
+			]
+		},
+		{
+			"path": [34,10,174,1],
+			"original": "Soldat: A...Aber...",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: A...\\. But...\\.\\^"
+			]
+		},
+		{
+			"path": [34,10,177,2],
+			"original": "Sedric: Kein aber! Du wirst jetzt Teil dieser Meisterleistung!",
+			"lines":
+			[
+				"\\c[10]Sedric\\c[0]: No buts, ifs, or ands!\\. You'll",
+				"now be a part of this grand",
+				"masterpiece!"
+			]
+		},
+		{
+			"path": [34,12,6,2],
+			"original": "Sedric: ... D... Das werdet ihr noch bereuen!",
+			"lines":
+			[
+				"\\c[10]Sedric\\c[0]: Y...\\. You'll regret this!"
+			]
+		},
+		{
+			"path": [34,12,21,1],
+			"original": "Soko: W... Was war das jetzt genau?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: W...\\. What was that just now?"
+			]
+		},
+		{
+			"path": [34,12,25,3],
+			"original": "Cibon: Ich hab ihn ja gewarnt, dass er Bodenbelag wird, aber er wollt's mir ja nicht glauben.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: I told him that he was going",
+				"into a bloodbath,\\. but \\s[1]nooo\\s[0], he",
+				"didn't want to believe me."
+			]
+		},
+		{
+			"path": [34,12,33,2],
+			"original": "Kento: Ich bin froh, dass nur er mich gesehen hat und sonst niemand.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I'm glad that it was only him",
+				"who saw me instead of anyone else."
+			]
+		},
+		{
+			"path": [34,12,36,3],
+			"original": "Kento: Besser so einen Dickkopf als Gegner als alle restlichen Soldaten im Gebäude.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Better that stubborn soldier",
+				"than all of the other soldiers in",
+				"the building."
+			]
+		},
+		{
+			"path": [34,12,45,4],
+			"original": "Soko: Ja, wenn es allen Soldaten hier so an Disziplin mangeln würde wie diesem hier, müsste sich Brigantia keine Sorgen machen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Yes, if all soldiers here lack",
+				"discipline like this one, Brigantia",
+				"shouldn't have to worry."
+			]
+		},
+		{
+			"path": [34,12,50,1],
+			"original": "Cibon: Wirklich?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Really?"
+			]
+		},
+		{
+			"path": [34,12,52,1],
+			"original": "Kento: Wir müssen weiter, los.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: We have to keep going."
+			]
+		},
+		{
+			"path": [41,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"This is a \\c[11]save point\\c[0]."
+			]
+		},
+		{
+			"path": [41,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"When you stand on one of these, you can",
+				"\\c[11]save the game\\c[0]."
+			]
+		},
+		{
+			"path": [41,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"To do this, open the \\c[11]menu\\c[0] using \\c[11]Esc\\c[0] and",
+				"then select \\c[11]Save\\c[0]."
+			]
+		},
+		{
+			"path": [41,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Additionally, you can always save on",
+				"the \\c[11]world map\\c[0]."
+			]
+		},
+		{
+			"path": [46,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"This is a \\c[11]save point\\c[0]."
+			]
+		},
+		{
+			"path": [46,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"When you stand on one of these, you can",
+				"\\c[11]save the game\\c[0]."
+			]
+		},
+		{
+			"path": [46,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"To do this, open the \\c[11]menu\\c[0] using \\c[11]Esc\\c[0] and",
+				"then select \\c[11]Save\\c[0]."
+			]
+		},
+		{
+			"path": [46,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Additionally, you can always save on",
+				"the \\c[11]world map\\c[0]."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [34,10,187],
+			"original": "Ernstes-Gefecht2",
+			"patch": "2003MaximumBattle"
+		},
+		{
+			"path": [41,1,4],
+			"original": "Stützpunkt4",
+			"patch": "Fortress?"
+		},
+		{
+			"path": [46,1,4],
+			"original": "Stützpunkt4",
+			"patch": "Fortress?"
+		}
+	]
+}

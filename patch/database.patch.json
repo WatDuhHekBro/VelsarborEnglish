@@ -386,7 +386,7 @@
 			"original": "Soldat: ...Sedric, du HAST den Gegner unterschätzt!",
 			"lines":
 			[
-				"\\c[10]Soldier\\c[0]: Sedric,\\. you HAVE underestimated",
+				"\\c[10]Soldier\\c[0]: Sedric,\\. you really HAVE underestimated",
 				"your opponent!"
 			]
 		},
@@ -2377,7 +2377,7 @@
 			"original": "(Kento: Nichts wie weg hier!)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Nichts wie weg hier!)"
+				"(\\c[1]\\n[1]\\c[0]: Let's get out of here!)"
 			]
 		},
 		{
@@ -2755,7 +2755,7 @@
 			"original": "Kento: DU BIST AN ALLEM SCHULD! DU ALLEINE!",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: YOU'RE RESPONSIBLE FOR EVERYTHING!\\.",
+				"\\c[1]Kento\\c[0]: YOU'RE THE REASON WHY EVERYONE'S SUFFERING!\\.",
 				"YOU ALONE!"
 			]
 		},
@@ -2765,7 +2765,7 @@
 			"original": "Kento: DU WIRST MICH NICHT UNTERKRIEGEN! NIEMALS!",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: YOU WILL NEVER TAKE ME DOWN WITH YOU!\\. EVER!"
+				"\\c[1]Kento\\c[0]: YOU'LL NEVER GET ME TO SURRENDER!\\. EVER!"
 			]
 		},
 		{

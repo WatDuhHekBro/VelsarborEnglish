@@ -1,0 +1,15 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [63,1,9,3],
+			"original": "Kento: Wir müssen so schnell wie möglich nach Gencorin, zur Grenze! Dort sind wir sicher!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: We have to get to the border",
+				"at Gencorin as soon as possible!\\.",
+				"We'll be safe there!\\.\\.\\^"
+			]
+		}
+	]
+}

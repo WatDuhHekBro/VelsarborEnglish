@@ -1121,7 +1121,8 @@
 				"\\c[10]Soldat des Briganten-Orden\\c[0]: Tut mir Leid.\\. Dem Wort ",
 				"eines Abgesandten der Regierung ist zu folgen.\\. Da ",
 				"gibt es für uns keine Kompromisse."
-			]
+			],
+			"__comment__": "Sorry, but the word of a government official is absolute. There's nothing we can do."
 		},
 		{
 			"path": [72,12,63,2],
