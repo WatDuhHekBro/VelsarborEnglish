@@ -1,0 +1,137 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [3,2,23,2],
+			"original": "Soldat: Noch alles da, anscheinend ist er tatsächlich ohne Ausrüstung in den Wald geflohen.",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Everything's still there, looks like he",
+				"actually fled into the forest without grabbing",
+				"any equipment."
+			]
+		},
+		{
+			"path": [3,2,28,4],
+			"original": "Rothaariger Soldat: Hm, der Typ muss ganz schön was von sich halten, wenn er denkt, dass er es ohne Ausrüstung lebend davon schafft.",
+			"lines":
+			[
+				"\\c[10]Red-Haired Soldier\\c[0]: Hm, the guy must",
+				"be insane if he thinks he can make",
+				"it out alive without any equipment."
+			]
+		},
+		{
+			"path": [3,2,33,3],
+			"original": "Soldat: So würde ich das jetzt direkt nicht sehen. Ich denke mehr es ist das Risiko, an die Ausrüstung überhaupt erst ran zu kommen.",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Well, I wouldn't see it as a waste of",
+				"time.\\. I think it was more about the risk of",
+				"him getting the equipment in the first place."
+			]
+		},
+		{
+			"path": [3,2,40,4],
+			"original": "Rothaariger Soldat: Wie auch immer. Tu mir den Gefallen und bring den Lagerschlüssel zurück in das Schlafquartier.",
+			"lines":
+			[
+				"\\c[10]Red-Haired Soldier\\c[0]: Anyways,\\. do me",
+				"a favor and bring the storage key",
+				"back to the sleeping quarters."
+			]
+		},
+		{
+			"path": [3,2,44,3],
+			"original": "Rothaariger Soldat: Ich mach mich auf die Suche nach diesem Flüchtling!",
+			"lines":
+			[
+				"\\c[10]Red-Haired Soldier\\c[0]: I'll be looking",
+				"for this escapee!"
+			]
+		},
+		{
+			"path": [3,2,49,2],
+			"original": "Soldat: Man hat uns nicht befehligt nach ihm zu suchen...",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: We weren't ordered to look for him..."
+			]
+		},
+		{
+			"path": [3,2,53,3],
+			"original": "Rothaariger Soldat: Tsk, was tut das schon zur Sache? Womit soll ich denn sonst meine Zeit verschwenden?",
+			"lines":
+			[
+				"\\c[10]Red-Haired Soldier\\c[0]: Tsk, does that",
+				"matter?\\. How else am I gonna pass",
+				"the time?"
+			]
+		},
+		{
+			"path": [3,2,56,4],
+			"original": "Rothaariger Soldat: Außerdem haben sie mich schon beim Hinterhalt zurückgelassen! So etwas lass ich kein zweites mal zu...",
+			"lines":
+			[
+				"\\c[10]Red-Haired Soldier\\c[0]: They also left me",
+				"behind in the ambush!\\. I won't allow",
+				"that a second time..."
+			]
+		},
+		{
+			"path": [3,2,60,2],
+			"original": "Rothaariger Soldat: Ich bin dann weg. Denk an den Schlüssel!",
+			"lines":
+			[
+				"\\c[10]Red-Haired Soldier\\c[0]: I'll be gone",
+				"then.\\. Don't forget about the key!"
+			]
+		},
+		{
+			"path": [3,2,73,3],
+			"original": "(Kento: ... Jetzt muss ich an den Schlüssel für den Lagerraum rankommen...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Now I have to get the key for",
+				"the storage room...)"
+			]
+		},
+		{
+			"path": [3,2,77,3],
+			"original": "(Kento: Der eine Soldat hat ihn in das Schlafquartier gebracht... Das kann ja heiter werden.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: One soldier brought it with",
+				"him to the sleeping quarters...\\.",
+				"That'll be fun.)"
+			]
+		},
+		{
+			"path": [14,3,11,1],
+			"indent": 2,
+			"original": "(Kento: Der Schlüssel passt!)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: The key fits!)"
+			]
+		},
+		{
+			"path": [14,3,90,1],
+			"indent": 1,
+			"original": "(Kento: Abgeschlossen)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Done.)"
+			]
+		},
+		{
+			"path": [26,3,6,3],
+			"original": "Kento: Ich sollte besser hier unten bleiben, oben dürften mehr Patrouillen sein.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I better stay down here, there",
+				"could be more guards up ahead."
+			]
+		}
+	]
+}

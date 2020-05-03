@@ -6,8 +6,8 @@
 			"original": "(Kento: Tatsächlich, sie haben die Tür offen gelassen!)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Tatsächlich,\\. sie haben die ",
-				"Tür offen gelassen!)"
+				"(\\c[1]\\n[1]\\c[0]: They actually left the door",
+				"open!)"
 			]
 		},
 		{
@@ -15,9 +15,9 @@
 			"original": "(Kento: Besser vorsichtig nachsehen, ob sich jemand im nächsten Raum befindet...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Besser vorsichtig nachsehen,\\. ",
-				"ob sich jemand im nächsten Raum ",
-				"befindet...)"
+				"(\\c[1]\\n[1]\\c[0]: It's better to carefully",
+				"check if someone's in the next",
+				"room or not...)"
 			]
 		},
 		{
@@ -26,8 +26,8 @@
 			"lines":
 			[
 				"",
-				"Info: Man hat die Möglichkeit zuerst durch einen ",
-				"\\c[11]Türschlitz zu schauen\\c[0], bevor man den Raum betritt. "
+				"Info: You have the ability to \\c[11]peek into the next",
+				"room\\c[0] before entering it."
 			]
 		},
 		{
@@ -36,8 +36,8 @@
 			"lines":
 			[
 				"",
-				"So vermeidet man, dass man den Soldaten direkt in ",
-				"die Arme läuft."
+				"This way, you can avoid running into the",
+				"soldiers."
 			]
 		},
 		{
@@ -46,8 +46,8 @@
 			"lines":
 			[
 				"",
-				"Dies funktioniert jedoch nur, wenn man sich in ",
-				"einem \\c[11]sicheren Raum\\c[0] befindet."
+				"However, this only works if you're in a \\c[11]safe",
+				"room\\c[0]."
 			]
 		},
 		{
@@ -287,8 +287,7 @@
 			"original": "(Genyu: Entkommen... Er ist uns entkommen.)",
 			"lines":
 			[
-				"(\\c[4]\\n[4]\\c[0]: Entkommen... Er ist uns ",
-				"entkommen.)"
+				"(\\c[4]\\n[4]\\c[0]: Escaped...\\. He escaped us.)"
 			]
 		},
 		{
@@ -296,7 +295,7 @@
 			"original": "Genyu: VERDAMMT!",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: VERDAMMT!"
+				"\\c[4]\\n[4]\\c[0]: GODDAMNIT!"
 			]
 		},
 		{
@@ -304,7 +303,7 @@
 			"original": "Felcis: Genyu, hier bist du!",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Genyu, hier bist du!"
+				"\\c[5]\\n[5]\\c[0]: Genyu, there you are!"
 			]
 		},
 		{
@@ -312,9 +311,9 @@
 			"original": "Felcis: Dein Austicker kam genau richtig, ich dachte schon ich würde dich gar nicht mehr finden...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Dein Austicker kam genau ",
-				"richtig, ich dachte schon ich würde ",
-				"dich gar nicht mehr finden..."
+				"\\c[5]\\n[5]\\c[0]: I knew you'd lose your temper",
+				"right about now, I already thought",
+				"I wouldn't find you anymore..."
 			]
 		},
 		{
@@ -322,10 +321,9 @@
 			"original": "Genyu: Felcis... Was soll ich jetzt machen? Er ist davon, wir können ihn nicht mehr zurückholen... Jenseits der Grenze...",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Felcis...\\. Was soll ich jetzt ",
-				"machen?\\. Er ist davon, wir können ihn ",
-				"nicht mehr zurückholen...\\. Jenseits ",
-				"der Grenze..."
+				"\\c[4]\\n[4]\\c[0]: Felcis...\\. What should I do",
+				"now?\\. He's gone, beyond the border...\\.",
+				"We can't get him back..."
 			]
 		},
 		{
@@ -333,8 +331,8 @@
 			"original": "Genyu: Wir können uns einen Großangriff nicht erlauben...",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Wir können uns einen ",
-				"Großangriff nicht erlauben..."
+				"\\c[4]\\n[4]\\c[0]: And we can't afford a major",
+				"attack..."
 			]
 		},
 		{
@@ -342,8 +340,8 @@
 			"original": "Felcis: Es ist schön zu hören, dass du wenigstens das einsieht.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Es ist schön zu hören, dass ",
-				"du wenigstens das einsieht. "
+				"\\c[5]\\n[5]\\c[0]: It's good to hear that you at",
+				"least see that."
 			]
 		},
 		{
@@ -351,10 +349,9 @@
 			"original": "Felcis: Ernsthaft, ich hab mir Sorgen gemacht, du würdest jetzt ganz Gencorin einnehmen, nur um deinen Sohn wieder zu bekommen.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ernsthaft, ich hab mir ",
-				"Sorgen gemacht, du würdest jetzt ",
-				"ganz Gencorin einnehmen, nur um ",
-				"deinen Sohn wieder zu bekommen."
+				"\\c[5]\\n[5]\\c[0]: Seriously, I was worried that",
+				"you'd take all of Gencorin just to",
+				"get your son back."
 			]
 		},
 		{
@@ -362,8 +359,8 @@
 			"original": "Genyu: Ja Felcis, ich kenne mein Problem selber gut genug.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Ja Felcis, ich kenne mein ",
-				"Problem selber gut genug."
+				"\\c[4]\\n[4]\\c[0]: Yes Felcis, I know my own",
+				"problem well enough now."
 			]
 		},
 		{
@@ -371,9 +368,9 @@
 			"original": "Genyu: Ich weiß wie man Leute antreibt und wie man inmitten einer Schlacht vorzugehen hat.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Ich weiß wie man Leute ",
-				"antreibt und wie man inmitten einer ",
-				"Schlacht vorzugehen hat."
+				"\\c[4]\\n[4]\\c[0]: I know how to encourage people",
+				"and how to move forward in the middle",
+				"of a battle."
 			]
 		},
 		{
@@ -381,10 +378,9 @@
 			"original": "Genyu: Aber ich bin kein Taktiker, der stets den effizientesten Weg verfolgt, um sein Ziel zu erreichen, und nichts anderes vor Augen hat.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Aber ich bin kein Taktiker, ",
-				"der stets den effizientesten Weg ",
-				"verfolgt, um sein Ziel zu erreichen, ",
-				"und nichts anderes vor Augen hat."
+				"\\c[4]\\n[4]\\c[0]: But I'm not some tactician who",
+				"can focus on the most efficient route",
+				"to achieving a goal and nothing else."
 			]
 		},
 		{
@@ -392,10 +388,9 @@
 			"original": "Felcis: Du solltest versuchen dich zusammen zu reisen. Wenn du nicht aufpasst verlierst du nicht nur deinen Sohn, sondern alles.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Du solltest versuchen dich ",
-				"zusammen zu reisen.\\. Wenn du nicht ",
-				"aufpasst verlierst du nicht nur ",
-				"deinen Sohn, sondern alles."
+				"\\c[5]\\n[5]\\c[0]: We should try to stick",
+				"together.\\. If you're not careful,",
+				"everything you've been fighting for."
 			]
 		},
 		{
@@ -403,9 +398,8 @@
 			"original": "Genyu: Du meinst also ich soll ihn aufgeben? ... Wahrscheinlich hast du Recht.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Du meinst also ich soll ihn ",
-				"aufgeben?\\. ...\\. Wahrscheinlich hast du ",
-				"Recht.  "
+				"\\c[4]\\n[4]\\c[0]: So you mean that I should give",
+				"up on him?\\.\\. Maybe you're right."
 			]
 		},
 		{
@@ -413,8 +407,8 @@
 			"original": "Genyu: Ich bin mir allerdings nicht sicher, ob es mir das Wert ist.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Ich bin mir allerdings nicht ",
-				"sicher, ob es mir das Wert ist."
+				"\\c[4]\\n[4]\\c[0]: Admittedly, I'm not sure",
+				"whether it was even worth it."
 			]
 		},
 		{
@@ -422,9 +416,9 @@
 			"original": "Genyu: Wenn ich mir meinen Sohn wegen diesem Ziel zum Gegner mache, ihn dafür opfern muss...",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Wenn ich mir meinen Sohn ",
-				"wegen diesem Ziel zum Gegner mache, ",
-				"ihn dafür opfern muss..."
+				"\\c[4]\\n[4]\\c[0]: If I make my son an enemy just",
+				"because of this goal, I'll have to",
+				"sacrifice him for it..."
 			]
 		},
 		{
@@ -432,10 +426,10 @@
 			"original": "Genyu: Was unterscheidet mich dann noch von meinem Gegner? Ich würde den Prinzipien folgen, gegen die ich ankämpfen will.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Was unterscheidet mich dann ",
-				"noch von meinem Gegner?\\. Ich würde ",
-				"den Prinzipien folgen, gegen die ",
-				"ich ankämpfen will."
+				"\\c[4]\\n[4]\\c[0]: Then what'd the difference",
+				"between me and my enemy?\\. I'd become",
+				"the very thing I swore to fight",
+				"against."
 			]
 		},
 		{
@@ -443,8 +437,8 @@
 			"original": "Felcis: Wenn es nur das ist, was du vermeiden willst...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Wenn es nur das ist, was du ",
-				"vermeiden willst..."
+				"\\c[5]\\n[5]\\c[0]: If that's the only thing what",
+				"you wish to avoid..."
 			]
 		},
 		{
@@ -452,8 +446,8 @@
 			"original": "Felcis: Dann lässt sich da vielleicht noch etwas biegen.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Dann lässt sich da ",
-				"vielleicht noch etwas biegen."
+				"\\c[5]\\n[5]\\c[0]: Then maybe we can pull some",
+				"strings."
 			]
 		},
 		{
@@ -461,8 +455,7 @@
 			"original": "Genyu: ...Du meinst es gibt einen Weg?",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: ...Du meinst es gibt einen ",
-				"Weg?"
+				"\\c[4]\\n[4]\\c[0]: You mean there's a way?"
 			]
 		},
 		{
@@ -470,9 +463,8 @@
 			"original": "Felcis: Wenn du vermeiden willst, dass dein Sohn uns in einer Schlacht gegenüber steht, dann ja.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Wenn du vermeiden willst, ",
-				"dass dein Sohn uns in einer Schlacht ",
-				"gegenüber steht,\\. dann ja."
+				"\\c[5]\\n[5]\\c[0]: If you want to avoid your son",
+				"facing us in battle,\\. then yes."
 			]
 		},
 		{
@@ -480,9 +472,9 @@
 			"original": "Felcis: Vorausgesetzt eine bestimmte Person unter uns ist unserer momentanen Lage unbewusst.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Vorausgesetzt eine bestimmte ",
-				"Person unter uns ist unserer ",
-				"momentanen Lage unbewusst."
+				"\\c[5]\\n[5]\\c[0]: Assuming a certain person",
+				"among us is still unaware of our",
+				"current situation."
 			]
 		},
 		{
@@ -533,8 +525,8 @@
 			"original": "(Kento: Die Täuschung hat allen Anschein nach funktioniert.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Die Täuschung hat allen ",
-				"Anschein nach funktioniert.)"
+				"(\\c[1]\\n[1]\\c[0]: This deception seems to have",
+				"worked.)"
 			]
 		}
 	],

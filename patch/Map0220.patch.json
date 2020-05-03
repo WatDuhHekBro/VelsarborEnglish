@@ -1,0 +1,71 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [9,2,20,2],
+			"original": "(Felcis: ...Merkwürdig ... aus dem Fenster soll er also geflohen sein?)",
+			"lines":
+			[
+				"(\\c[5]\\n[5]\\c[0]: Strange... So he supposedly",
+				"fled out of the window?)"
+			]
+		},
+		{
+			"path": [9,2,27,4],
+			"original": "(Felcis: Von Fußabdrücken und sonst nichts zu sehen... Und das trotz weichem Boden. Kann es etwas sein... Nein...)",
+			"lines":
+			[
+				"(\\c[5]\\n[5]\\c[0]: There's hardly anything to",
+				"see, not even footprints... And",
+				"that's despite the soft floor.",
+				"Could it be... No...)"
+			]
+		},
+		{
+			"path": [9,2,35,1],
+			"original": "Soldat: Sir Kiorta!!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Sir Kiorta!!"
+			]
+		},
+		{
+			"path": [9,2,47,2],
+			"original": "Soldat: Sir Kiorta! Wir haben Chuck bewusstlos in der Küche gefunden! Der Flüchtling...",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Sir Kiorta!\\. We found Chuck unconscious",
+				"in the kitchen!\\. The escapee..."
+			]
+		},
+		{
+			"path": [9,2,54,3],
+			"original": "Felcis: Er ist noch im Gebäude! Verdammt, es war eine Finte! Sofort alle Einheiten zurück zum Stützpunkt!",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: He's still in the building!\\.",
+				"Damn, it was a ruse!\\. Call all units",
+				"back into the base immediately!"
+			]
+		},
+		{
+			"path": [9,2,58,1],
+			"original": "Soldat: Zu Befehl!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: At your command!"
+			]
+		},
+		{
+			"path": [9,2,69,4],
+			"original": "(Felcis: Verdammt, so ein gerissene Tat... und das von Genyus Sohn! Die Natur hat sich da anscheinend einen schlechten Scherz erlaubt...)",
+			"lines":
+			[
+				"(\\c[5]\\n[5]\\c[0]: Damn, such a clever act...\\.",
+				"and straight from Genyu's son at",
+				"that!\\. Nature is apparently playing",
+				"some twisted joke now...)"
+			]
+		}
+	]
+}

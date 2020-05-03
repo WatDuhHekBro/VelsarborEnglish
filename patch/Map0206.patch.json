@@ -1,0 +1,25 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [3,3,14,2],
+			"indent": 4,
+			"original": "(Kento: Da ist er ja. Jetzt schnell zur Lagerhalle!)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: There it is.\\. Now quickly to",
+				"the storeroom!)"
+			]
+		},
+		{
+			"path": [4,3,14,2],
+			"indent": 4,
+			"original": "(Kento: Da ist er ja. Jetzt schnell zur Lagerhalle!)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: There it is.\\. Now quickly to",
+				"the storeroom!)"
+			]
+		}
+	]
+}

@@ -1,0 +1,182 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [10,1,8,2],
+			"original": "Soldat: DER FLÜCHTLING BEFINDET SICH IM GEBÄUDE! AN ALLE! ER IST NICHT DRAUSEN! ER IST IM GEBÄUDE!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: THE ESCAPEE IS IN THE BUILDING!\\.",
+				"EVERYONE!\\. HE ISN'T OUTSIDE!\\. HE'S IN THE",
+				"BUILDING!"
+			]
+		},
+		{
+			"path": [10,1,16,2],
+			"original": "Kento: Verdammt! Sie haben es bemerkt...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Damn it!\\. They noticed..."
+			]
+		},
+		{
+			"path": [10,1,19,3],
+			"original": "Cibon: Was soll's! Den restlichen Weg werden wir uns einfach durchschlagen!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: What the hell!\\. Okay we'll just",
+				"make our way through the rest of the",
+				"path ourselves!"
+			]
+		},
+		{
+			"path": [10,1,23,1],
+			"original": "Soko: Das ist hirnrissig, Cibon!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: That's impulsive,\\. Cibon!"
+			]
+		},
+		{
+			"path": [10,1,25,3],
+			"original": "Kento: Unter diesen Umständen ist es fast unmöglich Herrn Uroto zu befreien...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: In these circumstances, it's",
+				"almost impossible to free Sir",
+				"Uroto..."
+			]
+		},
+		{
+			"path": [10,1,29,1],
+			"original": "Soko: ...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [10,1,31,4],
+			"original": "Kento: Wir haben keine andere Wahl. Wir müssen versuchen zu fliehen. Undzwar SOFORT, solange hier noch Panik und Chaos herrscht!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: We don't have a choice.\\. We",
+				"have to try to escape.\\. IMMEDIATELY",
+				"in fact, while there's still panic",
+				"and chaos here!"
+			]
+		},
+		{
+			"path": [10,1,36,2],
+			"original": "Cibon: ...Wir werden wieder zurückkommen, Soko, mit Verstärkung!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Soko,\\. we'll be back with",
+				"reinforcements!"
+			]
+		},
+		{
+			"path": [10,1,39,2],
+			"original": "Soko: Gut, uns bleibt wohl nichts anderes übrig.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Well, we probably don't have",
+				"any other choice."
+			]
+		},
+		{
+			"path": [10,1,43,1],
+			"original": "Kento: Los!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Come on!"
+			]
+		},
+		{
+			"path": [10,3,32,3],
+			"original": "Info: Du befindest dich jetzt im Fluchtmodus. Hier geht es nur um eines: WEG RENNEN.",
+			"lines":
+			[
+				"",
+				"Info: You are now in \\c[11]escape mode\\c[0]. This is about",
+				"one thing only: \\c[11]RUN AWAY\\c[0]!"
+			]
+		},
+		{
+			"path": [10,3,48,3],
+			"original": "Oben rechts erscheint eine Zeitanzeige, die angibt, wann dich deine Verfolger einholen werden.",
+			"lines":
+			[
+				"",
+				"A timer appears at the top right of the screen,",
+				"indicating when your \\c[11]pursuers will reach you\\c[0]."
+			]
+		},
+		{
+			"path": [10,3,51,3],
+			"original": "Diese Zeit sink permanent, wird aber an festen Punkten deiner Fluchtroute wieder hoch gesetzt.",
+			"lines":
+			[
+				"",
+				"This time will always be decreasing, but will be",
+				"increased again at \\c[11]fixed points\\c[0] while you escape."
+			]
+		},
+		{
+			"path": [10,3,77,3],
+			"original": "Bist du jedoch zu langsam, sinkt die Zeit auf 0 und ein Kampf mit den Verfolgern beginnt.",
+			"lines":
+			[
+				"",
+				"However, if you're too slow, the time drops to",
+				"zero and \\c[11]a battle with the pursuers\\c[0] begins."
+			]
+		},
+		{
+			"path": [10,3,80,3],
+			"original": "Solltest du in zu vielen Kämpfen hineinverstrickt werden, ist die Flucht misslungen.",
+			"lines":
+			[
+				"",
+				"If you get involved in \\c[11]too many\\c[0] fights, the",
+				"escape will have \\c[11]failed\\c[0]."
+			]
+		},
+		{
+			"path": [10,3,95,3],
+			"original": "Bei deiner Flucht zeigen dir Pfeile mögliche Fluchtwege an.",
+			"lines":
+			[
+				"",
+				"Arrows show you \\c[11]possible escape routes\\c[0] while",
+				"you're running."
+			]
+		},
+		{
+			"path": [10,3,98,2],
+			"original": "Halte Ausschau nach Abkürzungen!",
+			"lines":
+			[
+				"",
+				"Look for shortcuts!"
+			]
+		},
+		{
+			"path": [31,3,6,3],
+			"original": "Kento: Ich sollte besser hier unten bleiben, oben dürften mehr Patrouillen sein.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I better stay down here, there",
+				"could be more guards up ahead."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [10,3,105],
+			"original": "AufderFlucht",
+			"patch": "The Escape"
+		}
+	]
+}

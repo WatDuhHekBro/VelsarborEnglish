@@ -1,0 +1,83 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [1,3,4,1],
+			"indent": 1,
+			"original": "(Kento: Moment...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Wait...)"
+			]
+		},
+		{
+			"path": [11,3,4,2],
+			"indent": 1,
+			"original": "(Kento: Hm... von dem Zeug könnte ich einiges gebrauchen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Hm...\\. I could use some of",
+				"this stuff.)"
+			]
+		},
+		{
+			"path": [11,3,21,4],
+			"indent": 1,
+			"original": "(Kento: Mit den Schlafbomben kann ich ein paar Wachen zumindest kurzzeitig außer Gefecht setzten, wenn ich entdeckt werden sollte.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: With these sleep bombs, I can",
+				"get away from a few guards,\\. at least",
+				"for some time if I'm discovered.)"
+			]
+		},
+		{
+			"path": [19,2,15,3],
+			"original": "Soldat: Was steht ihr hier so rum? Der Gefangene ist nach draußen geflohen. Hier werdet ihr ihn sicher nicht mehr finden.",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: What are you guys doing around here?\\. The",
+				"prisoner escaped outside.\\. You won't find him",
+				"here."
+			]
+		},
+		{
+			"path": [19,2,19,1],
+			"original": "Soldat: Schon gut, schon gut...",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Alright alright..."
+			]
+		},
+		{
+			"path": [19,2,26,4],
+			"original": "Soldat: Draußen einen Geflohenen suchen, bei diesem Sauwetter, na Klasse. Ich habe gehofft, dass nach dem Hinterhalt erstmal wieder etwas Ruhe einkehren würde, aber nein...",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Looking for an escapee outside in this",
+				"dreary weather,\\. just great.\\. I was hoping that",
+				"after the ambush, some peace and quiet would",
+				"return,\\. but no..."
+			]
+		},
+		{
+			"path": [19,2,31,1],
+			"original": "Soldat: Beschwer dich nicht, komm.",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Don't complain,\\. let's go."
+			]
+		},
+		{
+			"path": [19,2,37,4],
+			"original": "(Kento: Wunderbar... Wenn sie draußen nach mir suchen, sollten weniger Wachen im Inneren des Komplexes sein... Hoffe ich.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Nice...\\. If they're looking",
+				"for me outside, there should be",
+				"fewer guards around inside the",
+				"complex...\\. I hope.)"
+			]
+		}
+	]
+}

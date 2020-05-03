@@ -1177,6 +1177,11 @@
 	"other":
 	[
 		{
+			"path": [34,10,187],
+			"original": "Ernstes-Gefecht2",
+			"patch": "2003MaximumBattle"
+		},
+		{
 			"path": [41,1,4],
 			"original": "Stützpunkt4",
 			"patch": "Fortress?"
