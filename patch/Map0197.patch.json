@@ -14,9 +14,9 @@
 			"original": "(Genyu: Kento... Wieso tust du mir das an... Brachte mein scheinbarer Tod soviel Trauer in dein Leben?)",
 			"lines":
 			[
-				"(\\c[4]\\n[4]\\c[0]: Kento... Wieso tust du mir ",
-				"das an... Brachte mein scheinbarer ",
-				"Tod soviel Trauer in dein Leben?)"
+				"(\\c[4]\\n[4]\\c[0]: Kento...\\. Why are you doing",
+				"this to me...\\. Did my apparent death",
+				"bring so much grief into your life?)"
 			]
 		},
 		{
@@ -24,10 +24,9 @@
 			"original": "(Genyu: Und was genau ist mit ihr geschehen? Dilea... Wieso willst du mir nicht antworten Kento?)",
 			"lines":
 			[
-				"(\\c[4]\\n[4]\\c[0]: Und was genau ist mit ihr ",
-				"geschehen?\\. Dilea...\\. ",
-				"Wieso willst du mir nicht antworten ",
-				"Kento?)"
+				"(\\c[4]\\n[4]\\c[0]: And what exactly happened to",
+				"her?\\. Dilea...\\. Why won't you answer",
+				"me, Kento?)"
 			]
 		},
 		{
@@ -35,10 +34,10 @@
 			"original": "?????: Sir Daikon, Ex-General und Held des Briganten-Ordens, Anführer der Nebelklingen und besorgter Vater, dürfte ich Sie sprechen?",
 			"lines":
 			[
-				"\\c[5]?????\\c[0]: Sir Daikon, Ex-General und ",
-				"Held des Briganten-Ordens,\\. Anführer ",
-				"der Nebelklingen und besorgter ",
-				"Vater,\\. dürfte ich Sie sprechen?"
+				"\\c[5]?????\\c[0]: Sir Daikon,\\. ex-general and",
+				"hero of the Brigantine Order,\\. leader",
+				"of the Mist Blades,\\. and worried",
+				"father,\\. may I have a word with you?"
 			]
 		},
 		{
@@ -46,9 +45,9 @@
 			"original": "Genyu: Behalt deine zynischen Kommentare bitte für dich, Felcis. Ich bin nicht in der Stimmung dafür.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Behalt deine zynischen ",
-				"Kommentare bitte für dich, Felcis.\\.",
-				"Ich bin nicht in der Stimmung dafür."
+				"\\c[4]\\n[4]\\c[0]: Spare me your cynical",
+				"comments, Felcis.\\. I'm not in",
+				"the mood for it."
 			]
 		},
 		{
@@ -56,9 +55,8 @@
 			"original": "Felcis: Verzeihung, aber du bist leider nicht der einzige, der sich hier Sorgen macht, Genyu.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Verzeihung, aber du bist ",
-				"leider nicht der einzige, der sich ",
-				"hier Sorgen macht, Genyu."
+				"\\c[5]\\n[5]\\c[0]: I'm sorry, but you're not the",
+				"only one who's worried here, Genyu."
 			]
 		},
 		{
@@ -66,10 +64,9 @@
 			"original": "Felcis: Durch diese Fang-den- Sohnemann-Geschichte sind uns dummerweise einige Probleme mehr mit ins Netz gegangen.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Durch diese Fang-den-",
-				"Sohnemann-Geschichte sind uns ",
-				"dummerweise einige Probleme mehr mit ",
-				"ins Netz gegangen."
+				"\\c[5]\\n[5]\\c[0]: This whole chase-the-son",
+				"extravaganza unfortunately brought",
+				"us some more problems along with it."
 			]
 		},
 		{
@@ -77,9 +74,10 @@
 			"original": "Felcis: Ich rede dabei von Herrn Uroto und mit ihm die Aufmerksamkeit der alten Herren aus Buronia.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich rede dabei von Herrn ",
-				"Uroto und mit ihm die Aufmerksamkeit ",
-				"der alten Herren aus Buronia."
+				"\\c[5]\\n[5]\\c[0]: I'm talking about Sir Uroto",
+				"and the attention from the old",
+				"gentlemen of Buronia that came",
+				"with capturing him."
 			]
 		},
 		{
@@ -87,9 +85,9 @@
 			"original": "Genyu: Diese Sache kam nun mal kurzfristig und unerwartet. Wie hättest du den gehandelt?",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Diese Sache kam nun mal ",
-				"kurzfristig und unerwartet.\\. Wie ",
-				"hättest du den gehandelt?"
+				"\\c[4]\\n[4]\\c[0]: This came about at short",
+				"notice and unexpectedly.\\. How",
+				"would you have done it?"
 			]
 		},
 		{
@@ -97,9 +95,9 @@
 			"original": "Felcis: Es war generell keine gute Idee Kento zusammen mit der ganzen Gruppe gefangen zu nehmen.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Es war generell keine gute ",
-				"Idee Kento zusammen mit der ganzen ",
-				"Gruppe gefangen zu nehmen."
+				"\\c[5]\\n[5]\\c[0]: It was generally not a good",
+				"idea to capture Kento together with",
+				"the whole group."
 			]
 		},
 		{
@@ -107,10 +105,10 @@
 			"original": "Felcis: Hätten wir ihn von den anderen getrennt und alleine gefangen genommen, säße uns jetzt nicht Brigantia im Rücken.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Hätten wir ihn von den ",
-				"anderen getrennt und alleine ",
-				"gefangen genommen, säße uns jetzt ",
-				"nicht Brigantia im Rücken."
+				"\\c[5]\\n[5]\\c[0]: If we had separated him from",
+				"the others and captured him alone,",
+				"Brigantia wouldn't be standing at",
+				"our doorstep now."
 			]
 		},
 		{
@@ -118,9 +116,8 @@
 			"original": "Genyu: Gut, vielleicht hast du Recht, aber das tut jetzt auch nichts mehr zur Sache.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Gut,\\. vielleicht hast du ",
-				"Recht,\\. aber das tut jetzt auch ",
-				"nichts mehr zur Sache."
+				"\\c[4]\\n[4]\\c[0]: Well,\\. maybe you're right.\\. But",
+				"it's too late for that anymore."
 			]
 		},
 		{
@@ -128,10 +125,9 @@
 			"original": "Genyu: Was passiert ist, ist passiert. Jetzt müssen wir einen Weg aus dieser ungünstigen Situation finden.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Was passiert ist, ist ",
-				"passiert.\\. Jetzt müssen wir einen Weg ",
-				"aus dieser ungünstigen Situation ",
-				"finden."
+				"\\c[4]\\n[4]\\c[0]: What happened happened.\\. Now we",
+				"have to find a way out of this",
+				"unfavorable situation."
 			]
 		},
 		{
@@ -139,10 +135,10 @@
 			"original": "Felcis: Das ist leichter gesagt als getan. Es ist nicht mehr so, dass wir uns hier ewig vor Brigantia verstecken können.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Das ist leichter gesagt als ",
-				"getan.\\. Es ist nicht mehr so, dass ",
-				"wir uns hier ewig vor Brigantia ",
-				"verstecken können."
+				"\\c[5]\\n[5]\\c[0]: That's easier said than done.\\.",
+				"It's no longer the case that we can",
+				"continue hiding from Brigantia",
+				"forever."
 			]
 		},
 		{
@@ -150,10 +146,10 @@
 			"original": "Felcis: Sobald die Neuigkeiten Buronia erreichen, werden Suchtrupps folgen und ganz Korzojeno wird durchkämmt.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Sobald die Neuigkeiten ",
-				"Buronia erreichen, werden Suchtrupps ",
-				"folgen und ganz Korzojeno wird ",
-				"durchkämmt."
+				"\\c[5]\\n[5]\\c[0]: As soon as the news reaches",
+				"Buronia,\\. search teams will follow",
+				"and all of Korzojeno will be",
+				"searched."
 			]
 		},
 		{
@@ -161,10 +157,9 @@
 			"original": "Genyu: Wir können uns nicht ewig verstecken, das ist richtig, aber vielleicht lang genug um alle Vorbereitungen abzuschließen.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Wir können uns nicht ewig ",
-				"verstecken,\\. das ist richtig,\\. aber ",
-				"vielleicht lang genug um alle ",
-				"Vorbereitungen abzuschließen."
+				"\\c[4]\\n[4]\\c[0]: We can't hide forever, that's",
+				"right,\\. but maybe long enough to",
+				"complete all the preparations."
 			]
 		},
 		{
@@ -172,10 +167,10 @@
 			"original": "Genyu: Ich halte es jedenfalls für keine gute Idee bereits jetzt in Aktion zu treten, es wäre zu riskant und nicht Erfolg versprechend",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Ich halte es jedenfalls für ",
-				"keine gute Idee bereits jetzt in ",
-				"Aktion zu treten,\\. es wäre zu riskant ",
-				"und nicht Erfolg versprechend"
+				"\\c[4]\\n[4]\\c[0]: In any case, I think it isn't",
+				"a good idea to take action now.\\. It'd",
+				"be too much risk with not enough",
+				"reward."
 			]
 		},
 		{
@@ -183,9 +178,8 @@
 			"original": "Felcis: Wenn wir uns weiter verstecken wollen müssen wir zumindest den Stützpunkt wechseln.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Wenn wir uns weiter ",
-				"verstecken wollen müssen wir ",
-				"zumindest den Stützpunkt wechseln."
+				"\\c[5]\\n[5]\\c[0]: If we want to hide further,",
+				"we have to at least move bases."
 			]
 		},
 		{
@@ -193,9 +187,9 @@
 			"original": "Felcis: Das wird uns wiederum in unserem Zeitplan zurückwerfen, ich hoffe das ist dir klar.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Das wird uns wiederum in ",
-				"unserem Zeitplan zurückwerfen,\\. ich ",
-				"hoffe das ist dir klar."
+				"\\c[5]\\n[5]\\c[0]: That will in turn set us back",
+				"in our schedule,\\. I hope you realize",
+				"that."
 			]
 		},
 		{
@@ -203,8 +197,8 @@
 			"original": "Felcis: Bist du sicher, dass uns da genug Zeit bleiben wird?",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Bist du sicher, dass uns da ",
-				"genug Zeit bleiben wird?"
+				"\\c[5]\\n[5]\\c[0]: Are you sure we'll have",
+				"enough time to stay here?"
 			]
 		},
 		{
@@ -212,10 +206,10 @@
 			"original": "Genyu: Wahrscheinlich denkst du, dass ich diese Situation unterschätze, oder Felcis? Nun ich sage dir folgendes.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Wahrscheinlich denkst du, ",
-				"dass ich diese Situation ",
-				"unterschätze,\\. oder Felcis?\\. ",
-				"Nun ich sage dir folgendes."
+				"\\c[4]\\n[4]\\c[0]: You probably think I'm",
+				"underestimating this situation,\\.",
+				"don't you, Felcis?\\. Now let me",
+				"tell you something."
 			]
 		},
 		{
@@ -223,10 +217,9 @@
 			"original": "Genyu: Ich glaube, dass wir in absehbarer Zeit Unterstützung bekommen könnten, die uns aus dieser Lage helfen kann.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Ich glaube, dass wir in ",
-				"absehbarer Zeit Unterstützung ",
-				"bekommen könnten,\\. die uns aus dieser ",
-				"Lage helfen kann."
+				"\\c[4]\\n[4]\\c[0]: I think we could get support",
+				"in the foreseeable future that could",
+				"help us out of this situation."
 			]
 		},
 		{
@@ -234,7 +227,7 @@
 			"original": "Felcis: Wovon redest du?",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Wovon redest du?"
+				"\\c[5]\\n[5]\\c[0]: What are you talking about?"
 			]
 		},
 		{
@@ -242,10 +235,9 @@
 			"original": "Genyu: Das Erscheinen von Kento ist für mich mehr als nur eine Gelegenheit gewesen, mich wieder mit meinem Sohn zu vereinen.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Das Erscheinen von Kento ist ",
-				"für mich mehr als nur eine ",
-				"Gelegenheit gewesen, mich wieder mit ",
-				"meinem Sohn zu vereinen."
+				"\\c[4]\\n[4]\\c[0]: The appearance of Kento is",
+				"more than just an opportunity for",
+				"me to reunite with my son."
 			]
 		},
 		{
@@ -253,9 +245,9 @@
 			"original": "Genyu: Dass er und sogar Ranarions Sohn hier auftauchen ist für mich ein Zeichen.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Dass er und sogar Ranarions ",
-				"Sohn hier auftauchen ist für mich ",
-				"ein Zeichen."
+				"\\c[4]\\n[4]\\c[0]: The fact that he and even",
+				"Ranarion's son show up here is",
+				"a sign for me."
 			]
 		},
 		{
@@ -263,9 +255,8 @@
 			"original": "Genyu: Ein Zeichen dafür, dass ich noch auf die Hilfe eines alten Freundes hoffen kann.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Ein Zeichen dafür, dass ich ",
-				"noch auf die Hilfe eines alten ",
-				"Freundes hoffen kann."
+				"\\c[4]\\n[4]\\c[0]: A sign that I can still have",
+				"hope for the help of an old friend."
 			]
 		},
 		{
@@ -273,8 +264,8 @@
 			"original": "Genyu: Jener, der von Anfang an hätte dabei sein können.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Jener, der von Anfang an ",
-				"hätte dabei sein können."
+				"\\c[4]\\n[4]\\c[0]: The one who could've been",
+				"there from the very beginning."
 			]
 		},
 		{
@@ -286,7 +277,8 @@
 				"So Henne, jetzt kommt das Schleichskript.",
 				"Mit Enter duckst du dich, um dich zu",
 				"verstecken."
-			]
+			],
+			"__comment__": ";)"
 		},
 		{
 			"path": [11,4,17,2],

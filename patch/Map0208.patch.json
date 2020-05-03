@@ -31,7 +31,7 @@
 			"original": "Wachmann: Ruhe da! Schreit hier nicht so rum!",
 			"lines":
 			[
-				"\\c[10]Wachmann\\c[0]: Keep it down!\\. Don't shout around here!"
+				"\\c[10]Guard\\c[0]: Keep it down!\\. Don't shout around here!"
 			]
 		},
 		{
@@ -92,7 +92,7 @@
 			"original": "Wachmann: Hör auf der Stelle auf hier so rum zu schreien, es sei denn du willst die Peitsche zu spüren bekommen!",
 			"lines":
 			[
-				"\\c[10]Wachmann\\c[0]: Stop shouting around here at once, unless",
+				"\\c[10]Guard\\c[0]: Stop shouting around here at once, unless",
 				"you want to be whipped!"
 			]
 		},
@@ -171,10 +171,9 @@
 			"original": "Soko: Was hab ich mir bloß dabei gedacht... In Gencorin hab ich Bier getrunken und bin Möchtegern- Dieben hinterher gejagt...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]:\\s[2] Was hab ich mir bloß dabei ",
-				"gedacht...\\. In Gencorin hab ich ",
-				"Bier getrunken und bin Möchtegern-",
-				"Dieben hinterher gejagt..."
+				"\\c[13]\\n[3]\\c[0]:\\s[2] What was I thinking...\\. I drank",
+				"beer in Gencorin and chased wannabe",
+				"thieves..."
 			]
 		},
 		{
@@ -182,10 +181,9 @@
 			"original": "Soko: Ich habe mich immer mehr vom Auftrag ablenken lassen. Ich... ich war nicht genug darauf fokussiert. Wie konnte ich nur...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]:\\s[2] Ich habe mich immer mehr vom ",
-				"Auftrag ablenken lassen.\\. Ich...\\. ich ",
-				"war nicht genug darauf fokussiert.\\.",
-				"Wie konnte ich nur..."
+				"\\c[13]\\n[3]\\c[0]:\\s[2] I got more and more distracted",
+				"from the job.\\. I...\\. I wasn't focused",
+				"on it enough.\\. How could I..."
 			]
 		},
 		{
@@ -193,10 +191,9 @@
 			"original": "Cibon: ...Soko? Glaub' mir, du hättest noch so fokussiert sein können, du hättest nichts verhindert.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] ...Soko?\\. Glaub' mir, du ",
-				"hättest noch so fokussiert sein ",
-				"können,\\. du hättest nichts ",
-				"verhindert."
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Soko?\\. Trust me, no matter how",
+				"focused you could've been,\\. you still",
+				"couldn't have prevented anything."
 			]
 		},
 		{
@@ -204,9 +201,9 @@
 			"original": "Cibon: Diese Truppe war uns einfach überlegen. Niemand hat damit gerechnet, dass uns so was begegnet.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] Diese Truppe war uns einfach ",
-				"überlegen.\\. Niemand hat damit ",
-				"gerechnet, dass uns so was begegnet."
+				"\\c[2]\\n[2]\\c[0]:\\s[2] This group was simply stronger",
+				"than us.\\. Nobody expected us to",
+				"encounter something like that."
 			]
 		},
 		{
@@ -214,9 +211,9 @@
 			"original": "Soko: ... Vielleicht wären wir diesem Hinterhalt entkommen, wenn wir ihn frühzeitig bemerkt hätten...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]:\\s[2] ... Vielleicht wären wir ",
-				"diesem Hinterhalt entkommen, wenn ",
-				"wir ihn frühzeitig bemerkt hätten..."
+				"\\c[13]\\n[3]\\c[0]:\\s[2] Maybe we would have escaped",
+				"this ambush if we had just",
+				"noticed it earlier..."
 			]
 		},
 		{
@@ -224,10 +221,9 @@
 			"original": "Soko: Wir hätten uns genauer informieren können, bestimmt hätten Gerüchte herum kursiert... wir hätten...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]:\\s[2] Wir hätten uns genauer ",
-				"informieren können, bestimmt hätten ",
-				"Gerüchte herum kursiert... wir ",
-				"hätten..."
+				"\\c[13]\\n[3]\\c[0]:\\s[2] We could've gotten more",
+				"information, there would've",
+				"been rumors... We would've..."
 			]
 		},
 		{
@@ -235,10 +231,10 @@
 			"original": "Cibon: Soko! Hör endlich auf. Schieb dir nicht die ganze Last zu. Niemand würden von einer Eskorte so einen Einsatz erwarten.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Soko! Hör endlich auf.\\s[2]\\. Schieb ",
-				"dir nicht die ganze Last zu.\\. Niemand ",
-				"würden von einer Eskorte so einen ",
-				"Einsatz erwarten."
+				"\\c[2]\\n[2]\\c[0]: Soko! Stop it.\\s[2]\\. Don't put all",
+				"the burden on yourself.\\. Nobody would",
+				"expect such a thing from an escort",
+				"mission."
 			]
 		},
 		{
@@ -246,8 +242,8 @@
 			"original": "Cibon: Man hat die Gefahr dieses Auftrages falsch eingeschätzt.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] Man hat die Gefahr dieses ",
-				"Auftrages falsch eingeschätzt. "
+				"\\c[2]\\n[2]\\c[0]:\\s[2] The risk of this order was",
+				"underestimated."
 			]
 		},
 		{
@@ -255,10 +251,10 @@
 			"original": "Cibon: Hätte man so einen Angriff erwartet, hätte man mehr als nur 3 Leute für die Eskorte ausgesucht und erst Recht keine Neulinge.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] Hätte man so einen Angriff",
-				"erwartet, hätte man mehr als nur 3 ",
-				"Leute für die Eskorte ausgesucht und ",
-				"erst Recht keine Neulinge."
+				"\\c[2]\\n[2]\\c[0]:\\s[2] If they expected such an",
+				"attack, they would've chosen more",
+				"than 3 people for the escort mission",
+				"and certainly not choose any rookies."
 			]
 		},
 		{
@@ -266,7 +262,7 @@
 			"original": "Soko: ...Neulinge?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]:\\s[2] ...Neulinge? "
+				"\\c[13]\\n[3]\\c[0]:\\s[2] Rookies?"
 			]
 		},
 		{
@@ -274,10 +270,9 @@
 			"original": "Soko: Meine Ausbildung hab ich seit 2 Jahren fertig. Ähnlich war es mit meinen Begleitern...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]:\\s[2] Meine Ausbildung ",
-				"hab ich seit 2 Jahren fertig. \\.",
-				"Ähnlich war es mit meinen ",
-				"Begleitern..."
+				"\\c[13]\\n[3]\\c[0]:\\s[2] I've had my apprenticeship for",
+				"two years.\\. Similarly to my",
+				"teammates..."
 			]
 		},
 		{
@@ -285,8 +280,8 @@
 			"original": "Cibon: 2... 2 Jahre? Wieso das? Du bist doch nicht älter als wir...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] 2...\\. 2 Jahre?\\. Wieso das?\\. Du ",
-				"bist doch nicht älter als wir..."
+				"\\c[2]\\n[2]\\c[0]:\\s[2] T...\\. Two years?\\. How?\\. You're",
+				"not any older than us..."
 			]
 		},
 		{
@@ -294,9 +289,9 @@
 			"original": "Soko: Ich hab früh angefangen und den theoretischen Teil schneller als üblich beendet... deshalb...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]:\\s[2] Ich hab früh angefangen und ",
-				"den theoretischen Teil schneller als ",
-				"üblich beendet...\\. deshalb..."
+				"\\c[13]\\n[3]\\c[0]:\\s[2] I started early and finished",
+				"the theoretical part faster than",
+				"usual...\\. so..."
 			]
 		},
 		{
@@ -304,9 +299,8 @@
 			"original": "Cibon: Ohje, jetzt wird mir auch klar, wieso du über so viele Sachen bescheid weißt...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] Ohje, jetzt wird mir auch ",
-				"klar,\\. wieso du über so viele Sachen ",
-				"bescheid weißt..."
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Oh wow,\\. now I know why you",
+				"know so many things..."
 			]
 		},
 		{
@@ -314,7 +308,7 @@
 			"original": "(Cibon: Streberin!)",
 			"lines":
 			[
-				"(\\c[2]\\n[2]\\c[0]: Streberin!)"
+				"(\\c[2]\\n[2]\\c[0]:\\s[9] Neeeeerd!)"
 			]
 		},
 		{
@@ -322,10 +316,9 @@
 			"original": "Cibon: Aber was hat sich der alte Vorento dabei gedacht, uns als Neulingen diesen Auftrag anzuvertrauen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] Aber was hat sich der alte ",
-				"Vorento dabei gedacht, uns als ",
-				"Neulingen diesen Auftrag ",
-				"anzuvertrauen?"
+				"\\c[2]\\n[2]\\c[0]:\\s[2] But what did the old man think",
+				"about trusting us with this sort of",
+				"mission as rookies?"
 			]
 		},
 		{
@@ -333,8 +326,8 @@
 			"original": "Soko: Er muss von euren Leistungen wohl sehr überzeugt sein.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]:\\s[2] Er muss von euren Leistungen ",
-				"wohl sehr überzeugt sein. "
+				"\\c[13]\\n[3]\\c[0]:\\s[2] He must've been very convinced",
+				"of your performance."
 			]
 		},
 		{
@@ -342,8 +335,8 @@
 			"original": "Cibon: Hm... merkwürdig nur, dass er uns das nie so direkt gesagt hat.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]:\\s[2] Hm...\\. merkwürdig nur, dass er ",
-				"uns das nie so direkt gesagt hat."
+				"\\c[2]\\n[2]\\c[0]:\\s[2] Hm...\\. It's just strange since",
+				"he never told us that directly."
 			]
 		},
 		{
@@ -351,8 +344,8 @@
 			"original": "Soldat: Du... geh nach oben, es gibt Probleme... schnell.",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: Du...\\. geh nach oben,\\. es gibt Probleme...\\. ",
-				"schnell."
+				"\\c[10]Soldier\\c[0]: You...\\. Go upstairs,\\. there are",
+				"some problems...\\. Quickly!"
 			]
 		},
 		{
@@ -360,8 +353,8 @@
 			"original": "Soldat: Ihr beide solltet genügen. Ihr müsst jetzt besonders aufmerksam sein, verstanden?",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: Ihr beide solltet genügen.\\. Ihr müsst jetzt ",
-				"besonders aufmerksam sein,\\. verstanden?"
+				"\\c[10]Soldier\\c[0]: You two should be enough.\\. You have to be",
+				"extra careful now,\\. understand?"
 			]
 		},
 		{
@@ -369,7 +362,7 @@
 			"original": "Wachmänner: Jawohl!",
 			"lines":
 			[
-				"\\c[10]Wachmänner\\c[0]: Jawohl!"
+				"\\c[10]Guard\\c[0]: Got it!"
 			]
 		},
 		{
@@ -377,7 +370,7 @@
 			"original": "Cibon: Was ist los?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Was ist los? "
+				"\\c[2]\\n[2]\\c[0]: What's happening?"
 			]
 		},
 		{
@@ -385,8 +378,8 @@
 			"original": "Wachmann:  Das geht euch gar nichts an! Also Ruhe!",
 			"lines":
 			[
-				"\\c[10]Wachmann\\c[0]:  Das geht euch gar nichts an!\\.",
-				"Also Ruhe!"
+				"\\c[10]Guard\\c[0]: It's none of your business!\\.",
+				"Just rest!"
 			]
 		},
 		{
@@ -639,7 +632,7 @@
 			"original": "Soldat: Eindringling!",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: Eindringling!"
+				"\\c[10]Soldier\\c[0]: Eindringling!"
 			]
 		},
 		{
@@ -647,7 +640,7 @@
 			"original": "Soldat: Sofort stehen bleiben!",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: Sofort stehen bleiben!"
+				"\\c[10]Soldier\\c[0]: Sofort stehen bleiben!"
 			]
 		},
 		{
@@ -827,7 +820,7 @@
 			"original": "Soldat: D...Die Gefangenen?! Sedric! Seit wann genau weißt du, dass sich der Flüchtling hier im Gebäude befindet?!",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: D...\\.Die Gefangenen?!\\. Sedric!\\. Seit wann ",
+				"\\c[10]Soldier\\c[0]: D...\\.Die Gefangenen?!\\. Sedric!\\. Seit wann ",
 				"genau weißt du,\\. dass sich der Flüchtling hier ",
 				"im Gebäude befindet?!"
 			]
@@ -887,7 +880,7 @@
 			"original": "Soldat: Bist du total verrückt?! Das sind 3 Leute! 3 Soldaten! 3 ausgebildete Soldaten!",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: Bist du total verrückt?!\\. Das sind 3 Leute!\\. ",
+				"\\c[10]Soldier\\c[0]: Bist du total verrückt?!\\. Das sind 3 Leute!\\. ",
 				"3 Soldaten!\\. 3 ausgebildete Soldaten!"
 			]
 		},
@@ -907,7 +900,7 @@
 			"original": "Soldat: Sedric, ich glaube du siehst die ganze Sache etwas.... Moment mal!",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: \\s[1]Sedric,\\. ich glaube du siehst die ganze ",
+				"\\c[10]Soldier\\c[0]: \\s[1]Sedric,\\. ich glaube du siehst die ganze ",
 				"Sache etwas....\\. \\s[0]Moment mal! "
 			]
 		},
@@ -916,7 +909,7 @@
 			"original": "Soldat: Sagtest du da eben \"WIR\"?!",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: Sagtest du da eben \"WIR\"?!"
+				"\\c[10]Soldier\\c[0]: Sagtest du da eben \"WIR\"?!"
 			]
 		},
 		{
@@ -1009,7 +1002,7 @@
 			"original": "Soldat: A...Aber...",
 			"lines":
 			[
-				"\\c[10]Soldat\\c[0]: A...\\.Aber...\\.\\^"
+				"\\c[10]Soldier\\c[0]: A...\\.Aber...\\.\\^"
 			]
 		},
 		{
