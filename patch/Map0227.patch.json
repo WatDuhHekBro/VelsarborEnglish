@@ -1,0 +1,70 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [19,2,17,4],
+			"original": "Sir Vorento: Mobilisieren Sie die Leute, damit wir losziehen können, sobald die Bestätigung vom Rat kommt.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Mobilize the people so",
+				"that we can move out as soon as",
+				"confirmation comes from the council."
+			]
+		},
+		{
+			"path": [19,2,21,4],
+			"original": "Sir Vorento: Schreiben Sie zudem eine Nachricht nach Buronia, dass die Einheiten aus Nomerea alleine nicht ausreichen werden.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Also, write a message to",
+				"Buronia that the units from Nomerea",
+				"alone will not be enough."
+			]
+		},
+		{
+			"path": [19,2,36,2],
+			"original": "Soldat vom Briganten-Orden: Sir Vorento, es gibt eine neue Nachricht aus Gencorin!",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Sir Vorento,",
+				"there's a new message from Gencorin!"
+			]
+		},
+		{
+			"path": [19,2,46,1],
+			"original": "Sir Vorento: Zeigen Sie her.",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: Show me."
+			]
+		},
+		{
+			"path": [19,2,58,1],
+			"original": "Sir Vorento: Was...",
+			"lines":
+			[
+				"\\c[10]Sir Vorento\\c[0]: What..."
+			]
+		},
+		{
+			"path": [19,2,59,4],
+			"original": "(Sir Vorento: Was geht hier vor sich? Kento und Cibon wegen Spionage gefangen genommen? Herr Uroto jetzt doch nicht mehr in Gefangenschaft?)",
+			"lines":
+			[
+				"(\\c[10]Sir Vorento\\c[0]: What's going on here?\\.",
+				"Kento and Cibon captured for",
+				"espionage?\\. Sir Uroto no",
+				"longer in captivity?)"
+			]
+		},
+		{
+			"path": [19,2,69,2],
+			"original": "(Sir Vorento: ...Und sein Name ist kein einziges Mal gefallen...)",
+			"lines":
+			[
+				"(\\c[10]Sir Vorento\\c[0]: ...and her name isn't",
+				"mentioned here...)"
+			]
+		}
+	]
+}

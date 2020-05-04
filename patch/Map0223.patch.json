@@ -1,0 +1,446 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [153,2,24,2],
+			"original": "Soldat vom Briganten-Orden: Oh je, die Schicht um diese Zeit kommt mir immer ewig vor.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Oh my,\\. the shift around this",
+				"time always seems to last forever to me."
+			]
+		},
+		{
+			"path": [153,2,31,2],
+			"original": "Royko: Ähm... Ich glaube, wir müssen hier noch eine Stunde stehen, oder?",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Um... I think we have to stand",
+				"here for an hour, don't we?"
+			]
+		},
+		{
+			"path": [153,2,37,2],
+			"original": "Soldat vom Briganten-Orden: Ja, Royko,. ich weiß,. eine Stunde noch...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Yes, Royko...\\. I know...\\.",
+				"One more hour..."
+			]
+		},
+		{
+			"path": [153,2,48,4],
+			"original": "Royko: Ah... Übrigens, ich hör' die Anderen in letzter Zeit öfters über Korzojeno reden. Weißt du, was da genau los ist?",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Ah...\\. By the way,\\. I've heard",
+				"the others talk about Korzojeno a lot",
+				"lately.\\. Do you know what's going on",
+				"there?"
+			]
+		},
+		{
+			"path": [153,2,54,3],
+			"original": "Soldat vom Briganten-Orden: Wie? Du hast das noch nicht mitbekommen? Du bist wirklich in jeder Hinsicht langsam, kann das sein?",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: What?\\. You haven't noticed",
+				"that yet?\\. You're really slow in every way,",
+				"how'd that happen?"
+			]
+		},
+		{
+			"path": [153,2,58,4],
+			"original": "Soldat vom Briganten-Orden: In Korzojeno soll sich eine Armee im Untergrund bilden, sagt man - direkt an der Grenze. Ich weiß nicht, wie viel da genau dran ist, die Geschichte ist recht neu.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: In Korzojeno, an army",
+				"supposedly formed underground,\\. right on the",
+				"border.\\. I don't know how many there are,",
+				"the story is quite new."
+			]
+		},
+		{
+			"path": [153,2,64,2],
+			"original": "Royko: Eine Armee in Korzojeno? ... Was hat das zu bedeuten?",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: An army in Korzojeno?\\.\\.",
+				"What does that mean?"
+			]
+		},
+		{
+			"path": [153,2,70,4],
+			"original": "Soldat vom Briganten-Orden: Ja, was will Korzojeno bloß mit einer Armee anfangen? Ich kann es mir nicht vorstellen. Vielleicht eine Parade für den Farenischen Adelsbund?",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Yeah, what does Korzojeno",
+				"need with an army like that for?\\. I can't imagine",
+				"why.\\. Perhaps a parade for the Farenian",
+				"Aristocracy?"
+			]
+		},
+		{
+			"path": [153,2,77,2],
+			"original": "Royko: Bilden die etwa extra für so etwas eine Armee?!",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Did they form an army just for",
+				"something like that?!"
+			]
+		},
+		{
+			"path": [153,2,83,3],
+			"original": "Soldat vom Briganten-Orden: ... Nein, du Trottel. Korzojeno will uns wahrscheinlich angreifen, was denn bitte sonst?",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: No, you idiot.\\. Korzojeno",
+				"probably wants to attack us, why else?"
+			]
+		},
+		{
+			"path": [153,2,88,4],
+			"original": "Royko: Aber der Krieg ist doch gerade erst 10 Jahre her. Wie kann Korzojeno schon jetzt wieder bereit für eine Schlacht sein?",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: But the war was only 10 years",
+				"ago.\\. How can Korzojeno be ready for",
+				"a war again?"
+			]
+		},
+		{
+			"path": [153,2,94,3],
+			"original": "Soldat vom Briganten-Orden: Das frag ich mich auch. Aber wer weiß schon, wie viel an der Geschichte überhaupt dran ist...",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: I sometimes ask myself that",
+				"too.\\. But who knows how much of the story is",
+				"true..."
+			]
+		},
+		{
+			"path": [153,2,105,2],
+			"original": "Soldat vom Briganten-Orden: Oh, schau mal da vorne. Wir haben ein paar neue Gäste.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Oh, look over there.\\. We have",
+				"a few new guests."
+			]
+		},
+		{
+			"path": [153,2,109,1],
+			"original": "Royko: Hö?",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Huh?"
+			]
+		},
+		{
+			"path": [153,2,117,4],
+			"original": "Soldat vom Briganten-Orden: Das ist merkwürdig. Die sehen nicht wie das gewöhnliche Pack aus, das sie hier anschleppen. Das scheinen richtige Soldaten zu sein, na so etwas.",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: It's strange.\\. They don't look",
+				"like the ordinary gang they usually drag here.\\.",
+				"They seem to be real soldiers, or something",
+				"like that."
+			]
+		},
+		{
+			"path": [153,2,125,2],
+			"original": "Royko: Moment... Die... die kenne ich doch!",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Wait...\\. Th...\\. I know them!"
+			]
+		},
+		{
+			"path": [168,2,2,1],
+			"original": "Wächter: Macht hier ja keinen Ärger, verstanden?",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Macht hier ja keinen Ärger, verstanden?"
+			]
+		},
+		{
+			"path": [171,2,3,3],
+			"indent": 1,
+			"original": "Wächter: Oh? Was lauft ihr hier noch rum? Normalerweise stürmt ihr Gefangenen nach so einem Arbeitstag doch immer geradezu in die Kantine.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Oh?\\. Was lauft ihr hier noch rum?\\.",
+				"Normalerweise stürmt ihr Gefangenen nach so einem ",
+				"Arbeitstag doch immer geradezu in die Kantine. "
+			]
+		},
+		{
+			"path": [171,2,8,4],
+			"indent": 1,
+			"original": "Wächter: Was trödelt ihr hier rum? Die Arbeit wartet. Wer nicht arbeitet, kriegt nichts zu Essen, und wer sich länger Stur stellt erlebt noch viel Schlimmeres.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Was trödelt ihr hier rum? Die Arbeit ",
+				"wartet. Wer nicht arbeitet, kriegt nichts zu ",
+				"Essen, und wer sich länger Stur stellt erlebt noch ",
+				"viel Schlimmeres."
+			]
+		},
+		{
+			"path": [174,2,2,3],
+			"original": "Gefangener: Seht ihr nicht, dass ich beschäftigt bin? Und nein, ihr arbeitet nicht hier, ihr sollt zur Mine.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Seht ihr nicht, dass ich beschäftigt ",
+				"bin? Und nein, ihr arbeitet nicht hier, ihr sollt ",
+				"zur Mine."
+			]
+		},
+		{
+			"path": [175,1,2,1],
+			"original": "Wächter: Gefangene haben hier nichts zu suchen!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Gefangene haben hier nichts zu suchen!"
+			]
+		},
+		{
+			"path": [176,1,2,2],
+			"original": "Wächter: Hier ist die Lagerhalle, ihr habt hier nichts verloren!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hier ist die Lagerhalle, ihr habt hier ",
+				"nichts verloren!"
+			]
+		},
+		{
+			"path": [178,1,21,1],
+			"original": "Wächter: Zurück mit euch!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Zurück mit euch!"
+			]
+		},
+		{
+			"path": [181,2,2,1],
+			"original": "Ater Gefangener: Stört mich bitte nicht...",
+			"lines":
+			[
+				"\\c[10]Ater Gefangener\\c[0]: Stört mich bitte nicht..."
+			]
+		},
+		{
+			"path": [182,1,3,3],
+			"indent": 1,
+			"original": "Wächter: Spätestens wenn die Händler hier eintreffen, habt ihr hier nichts mehr zu suchen. Also ab mit euch zum östlichen Bereich!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Spätestens wenn die Händler hier ",
+				"eintreffen, habt ihr hier nichts mehr zu suchen.\\.",
+				"Also ab mit euch zum östlichen Bereich!"
+			]
+		},
+		{
+			"path": [182,1,8,3],
+			"indent": 1,
+			"original": "Wächter: Na los, auf zur Arbeit! Zur Mine den Ausgang im Norden verwenden, einfach da, wo die Schienen hin führen, klar?",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Na los, auf zur Arbeit! Zur Mine den ",
+				"Ausgang im Norden verwenden,\\. einfach da, wo die ",
+				"Schienen hin führen,\\. klar?"
+			]
+		},
+		{
+			"path": [183,1,2,3],
+			"original": "Wächter: Es ist sehr ungewöhnlich, ehemalige Kollegen hier als Gefangene zu haben, aber das heißt nicht, dass ihr anders behandelt werdet.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Es ist sehr ungewöhnlich, ehemalige ",
+				"Kollegen hier als Gefangene zu haben,\\. aber das ",
+				"heißt nicht, dass ihr anders behandelt werdet."
+			]
+		},
+		{
+			"path": [184,2,3,2],
+			"indent": 1,
+			"original": "Wächter: Redet mich nicht an, ich hab' zu tun. Ihr habt hier sowieso nichts zu suchen, oder?",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Redet mich nicht an, ich hab' zu tun.\\. Ihr ",
+				"habt hier sowieso nichts zu suchen, oder?"
+			]
+		},
+		{
+			"path": [184,2,7,2],
+			"indent": 1,
+			"original": "Wächter: Mit euch hab ich nichts zu besprechen. Geht zur Arbeit.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Mit euch hab ich nichts zu besprechen. \\.",
+				"Geht zur Arbeit."
+			]
+		},
+		{
+			"path": [185,1,3,3],
+			"indent": 1,
+			"original": "Wächter: Oh, ich würde mich zu dieser Zeit nicht so nah an die Hunde trauen, als Gefangener - Im Moment sind sie besonders hungrig.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Oh, ich würde mich zu dieser Zeit nicht ",
+				"so nah an die Hunde trauen, als Gefangener - Im ",
+				"Moment sind sie besonders hungrig."
+			]
+		},
+		{
+			"path": [185,1,8,4],
+			"indent": 1,
+			"original": "Wächter: Habt ihr schon Bekanntschaft mit unseren Wachhunden hier gemacht? Die laufen ein gutes Stück schneller als ihr, also denkt erst gar nicht daran, davon zu laufen.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Habt ihr schon Bekanntschaft mit unseren ",
+				"Wachhunden hier gemacht?\\. Die laufen ein gutes ",
+				"Stück schneller als ihr, also denkt erst gar nicht ",
+				"daran, davon zu laufen."
+			]
+		},
+		{
+			"path": [191,2,3,3],
+			"indent": 1,
+			"original": "Wächter: Mist... Meine Schicht endet erst in 2 Stunden, aber die Kämpfe beginnen schon gleich. Ich werde wieder mal das Beste verpassen...",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Mist...\\. Meine Schicht endet erst in 2 ",
+				"Stunden, aber die Kämpfe beginnen schon gleich. \\.",
+				"Ich werde wieder mal das Beste verpassen..."
+			]
+		},
+		{
+			"path": [191,2,8,1],
+			"indent": 1,
+			"original": "Wächter: Folgt einfach den Schienen, okay?",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Folgt einfach den Schienen, okay?"
+			]
+		},
+		{
+			"path": [192,3,6,1],
+			"original": "Gefangener: ...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: ..."
+			]
+		},
+		{
+			"path": [193,3,6,1],
+			"original": "Gefangener:...Was ist?",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]:...Was ist?"
+			]
+		},
+		{
+			"path": [194,3,6,1],
+			"original": "Gefangener: Geht mir aus dem Weg.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Geht mir aus dem Weg."
+			]
+		},
+		{
+			"path": [195,3,6,2],
+			"original": "Gefangener: Du has' die Wachen gehört, oder? Wir soll'n zur Mine.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Du has' die Wachen gehört, oder?\\. ",
+				"Wir soll'n zur Mine."
+			]
+		},
+		{
+			"path": [196,3,6,2],
+			"original": "Gefangene: Was sprichst du mich an? Geh mir aus dem Weg.",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Was sprichst du mich an?\\. Geh mir aus ",
+				"dem Weg."
+			]
+		},
+		{
+			"path": [197,3,6,3],
+			"original": "Gefangene: Ihr seht hier ziemlich neu aus. In dem Fall merkt euch folgendes: kein - gerede - am - morgen!",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Ihr seht hier ziemlich neu aus.\\.",
+				"In dem Fall merkt euch folgendes:\\.",
+				"kein \\.- gerede \\.- am \\.- morgen!"
+			]
+		},
+		{
+			"path": [198,3,5,1],
+			"original": "Kento: Der... Der Typ schläft noch!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Der...\\. Der Typ schläft noch!"
+			]
+		},
+		{
+			"path": [198,3,7,2],
+			"original": "Cibon: Und er findet dennoch den richtigen Weg...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Und er findet dennoch den ",
+				"richtigen Weg..."
+			]
+		},
+		{
+			"path": [199,3,6,1],
+			"original": "Gefangene: Geht mir aus dem Weg.",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Geht mir aus dem Weg."
+			]
+		},
+		{
+			"path": [200,3,6,2],
+			"original": "Nicht ganz eingelebter Gefangener: Nicht schon wieder... Minenarbeit... Ich hasse es...",
+			"lines":
+			[
+				"\\c[10]Nicht ganz eingelebter Gefangener\\c[0]: Nicht schon ",
+				"wieder...\\. Minenarbeit...\\. Ich hasse es..."
+			]
+		},
+		{
+			"path": [201,3,6,2],
+			"original": "Gefangener: Hach! Was für ein herrlicher Morgen, oder? ... Verzieh dich.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Hach!\\. Was für ein herrlicher Morgen, ",
+				"oder?\\. ...\\. Verzieh dich."
+			]
+		},
+		{
+			"path": [202,3,6,1],
+			"original": "Alter Gefangener: ...Oh... Mein Kreuz...",
+			"lines":
+			[
+				"\\c[10]Alter Gefangener\\c[0]: ...Oh...\\. Mein Kreuz..."
+			]
+		},
+		{
+			"path": [203,3,6,1],
+			"original": "Gefangene: Nicht jetzt!",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Nicht jetzt!"
+			]
+		},
+		{
+			"path": [204,3,6,1],
+			"original": "Gefangener: ...",
+			"lines":
+			[
+				"\\c[10]Gefangener:\\c[0] ..."
+			]
+		}
+	]
+}

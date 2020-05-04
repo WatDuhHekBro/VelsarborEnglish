@@ -1,0 +1,2504 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [15,1,10,3],
+			"indent": 3,
+			"original": "Felcis: Kommt. Wir wollten dieser einen Person doch noch einen Besuch abstatten, oder?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Kommt.\\. Wir wollten dieser ",
+				"einen Person doch noch einen Besuch ",
+				"abstatten, oder?"
+			]
+		},
+		{
+			"path": [15,1,14,3],
+			"indent": 3,
+			"original": "Felcis: Wir müssen noch ein Stockwerk höher. Dort beim Durchgang zur Terrasse ist er.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wir müssen noch ein ",
+				"Stockwerk höher.\\. Dort beim Durchgang ",
+				"zur Terrasse ist er."
+			]
+		},
+		{
+			"path": [15,1,29,2],
+			"original": "Wächter: Wollt ihr Zurück in eure Zellen? Noch habt ihr etwas Freigang.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Wollt ihr Zurück in eure Zellen?\\. Noch ",
+				"habt ihr etwas Freigang."
+			]
+		},
+		{
+			"path": [15,1,65,1],
+			"indent": 2,
+			"original": "Wächter: Hey ihr da! Halt!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Hey ihr da!\\. Halt!\\.\\.\\^"
+			]
+		},
+		{
+			"path": [15,1,75,1],
+			"indent": 2,
+			"original": "Wächter: Ihr kommt jetzt mit uns!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Ihr kommt jetzt mit uns!"
+			]
+		},
+		{
+			"path": [15,1,79,1],
+			"indent": 2,
+			"original": "Soko: Wie? Was ist los?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wie?\\. Was ist los?"
+			]
+		},
+		{
+			"path": [15,1,82,1],
+			"indent": 2,
+			"original": "Wächter: KEINE FRAGEN! Mitkommen!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: KEINE FRAGEN!\\. Mitkommen!"
+			]
+		},
+		{
+			"path": [15,1,152,1],
+			"indent": 4,
+			"original": "Wächter: Hey ihr da, stehen bleiben!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Hey ihr da,\\.\\. stehen bleiben!\\.\\.\\^"
+			]
+		},
+		{
+			"path": [15,1,182,1],
+			"indent": 4,
+			"original": "Wächter: Du da mit der Brille. Mitkommen.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Du da mit der Brille.\\. Mitkommen."
+			]
+		},
+		{
+			"path": [15,1,187,3],
+			"indent": 4,
+			"original": "Felcis: Wie? Geht es um meine hervorragenden Leistungen in der Mine?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wie?\\. Geht es um meine ",
+				"hervorragenden Leistungen in der ",
+				"Mine? "
+			]
+		},
+		{
+			"path": [15,1,192,1],
+			"indent": 4,
+			"original": "Wächter: Nicht reden, mitkommen!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Nicht reden,\\. mitkommen!"
+			]
+		},
+		{
+			"path": [15,1,196,1],
+			"indent": 4,
+			"original": "Felcis: Schon gut, schon gut.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Schon gut,\\. schon gut."
+			]
+		},
+		{
+			"path": [15,1,213,2],
+			"indent": 4,
+			"original": "Kento: Wahrscheinlich wird er jetzt auch verhört...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wahrscheinlich wird er jetzt",
+				"auch verhört..."
+			]
+		},
+		{
+			"path": [15,1,216,1],
+			"indent": 4,
+			"original": "Cibon: Er hat mein Beileid.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Er hat mein Beileid."
+			]
+		},
+		{
+			"path": [15,1,260,1],
+			"indent": 1,
+			"original": "Wächter: Genießt dann noch eure freien Minuten.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Genießt dann noch eure freien Minuten."
+			]
+		},
+		{
+			"path": [122,1,64,1],
+			"original": "Wache: Willkommen in Helnovien, Soldaten!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Welcome to Helnovien, soldiers!"
+			]
+		},
+		{
+			"path": [122,1,65,3],
+			"original": "Wache: Dass Dreck wie euresgleichen es jemals so weit geschafft hat im Briganten-Orden, ist eine Tatsache, die sich meinem Verständnis entzieht.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: The fact that you scum of the Earth ever",
+				"made it that far into the Brigantine Order is",
+				"beyond me."
+			]
+		},
+		{
+			"path": [122,1,73,3],
+			"original": "Wache: Morgen geht es um 5 raus. Ihr werdet euren Arsch in die Mine bewegen, wie es alle anderen hier tun.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Tomorrow, get up at 5 o'clock.\\. You'll haul",
+				"your ass into the mine like everyone else here!"
+			]
+		},
+		{
+			"path": [122,1,80,1],
+			"original": "Cibon: In... In die Mine?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: In...\\. the mine?"
+			]
+		},
+		{
+			"path": [122,1,86,2],
+			"original": "Wache: Hat dir hier irgendjemand erlaubt, die Klappe aufzureißen?",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Did anyone here allow you to open your",
+				"mouth?"
+			]
+		},
+		{
+			"path": [122,1,90,1],
+			"original": "Cibon: Nein und das...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: No and that's...\\.\\.\\^"
+			]
+		},
+		{
+			"path": [122,1,93,3],
+			"original": "Wache: DREI TAGE! Gib uns drei Tage, und du wirst dich wundern, wie still du bleiben kannst, wenn man es dir sagt.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: \\s[3]THREE DAYS!\\.\\s[0] Give us three days and you'll",
+				"be amazed at how easily you can keep your mouth",
+				"shut when told to do so."
+			]
+		},
+		{
+			"path": [122,1,96,4],
+			"original": "Wache: Denn sage JETZT noch EIN WEITRES Wort und wir werden dir zeigen, wie schmerzvoll ein solches Wort für dich sein kann. Und glaube mir, es IST schmerzvoll. Das wirst du schon zu hören bekommen.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Because ONE MORE WORD and we'll show you",
+				"how painful opening your mouth can be.\\. And trust",
+				"me,\\. it IS painful.\\. You'll be hearing that a lot",
+				"around here."
+			]
+		},
+		{
+			"path": [122,1,105,1],
+			"original": "Cibon: ...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [122,1,107,1],
+			"original": "Wache: Gut. Um euch einmal aufzuklären...",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Good.\\. Now to enlighten you..."
+			]
+		},
+		{
+			"path": [122,1,108,4],
+			"original": "Wache: Hier in Helnovien pflegen wir nicht das klassische Gefängnisdasein, wo die Gefangenen in ihren Zellen verrotten. Wir sehen hier eine Gelegenheit, produktiv zu sein.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Here in Helnovien we do not maintain the",
+				"classic prison life where the prisoners rot in",
+				"their cells.\\. We see an opportunity here to make",
+				"something of yourself."
+			]
+		},
+		{
+			"path": [122,1,114,2],
+			"original": "Wache: Wir haben hier unsere Mine, eine besonders gierige.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: We have our mine here, and a particularly",
+				"greedy one at that."
+			]
+		},
+		{
+			"path": [122,1,116,4],
+			"original": "Wache: Sie wird euch morgens verschlucken und, gierig wie sie nun mal ist, euch nicht vor Sonnenuntergang wieder ausspucken. Und das jeden Tag aufs Neue.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: That sucker'll swallow you in the morning",
+				"and,\\. greedy as it is,\\. won't spit you out before",
+				"sunset.\\. And every day starts anew."
+			]
+		},
+		{
+			"path": [122,1,120,3],
+			"original": "Wache: Aber großzügig ist sie. Sie frisst Dreck wie euch und spuckt uns dafür Eisenerz aus - äußerst lukrativ, nicht wahr?",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: But it's generous.\\. It eats shit like you",
+				"and spits out iron ore for it\\. - extremely",
+				"lucrative,\\. ain't that right?"
+			]
+		},
+		{
+			"path": [122,1,125,3],
+			"original": "Wache: Wie auch immer. Ihr werdet euch hier schon schnell genug einleben. Entweder das oder es wird sehr schmerzhaft für euch werden.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Anyways.\\. You'll settle in here quickly",
+				"enough.\\. Either that or it'll be very painful",
+				"for you."
+			]
+		},
+		{
+			"path": [122,1,128,3],
+			"original": "Wache: Tut einfach das, was euch gesagt wird und der Tag wird sonnig bleiben - oder leicht bewölkt, je nachdem wie man es sieht.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Just do as you're told and the day will",
+				"stay bright\\. - or slightly cloudy depending on",
+				"how you look at it."
+			]
+		},
+		{
+			"path": [122,1,148,3],
+			"original": "Cibon: Was für ein Arschloch! Meine Fresse! Ich kann immer noch nicht glauben, was hier abgeht!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: What an asshole! Completely",
+				"bitches at me like that! I still",
+				"can't believe what's going on here!"
+			]
+		},
+		{
+			"path": [122,1,153,3],
+			"original": "Kento: Sie müssen irgendwas mit Herrn Uroto angestellt haben, damit er all das behauptet hat.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: They must've done something",
+				"horrible to Sir Uroto for him to",
+				"say all of that."
+			]
+		},
+		{
+			"path": [122,1,162,4],
+			"original": "Cibon: Ja, wahrscheinlich ist ER in Wirklichkeit ein Spion von denen oder was weiß ich. Args, das ist einfach nur lächerlich!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Yeah, and for all we know, HE",
+				"might actually be a spy for those",
+				"people.\\. Argh, this is just",
+				"ridiculous!"
+			]
+		},
+		{
+			"path": [122,1,168,1],
+			"original": "Cibon: ...Verdammt!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Damn it all!"
+			]
+		},
+		{
+			"path": [122,1,175,2],
+			"original": "Soko: Das ganze wird sich schon irgendwie klären... Das muss es...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: All of this has to work out",
+				"somehow...\\. It has to..."
+			]
+		},
+		{
+			"path": [122,1,177,4],
+			"original": "Soko: Es kann nicht sein, das so etwas passiert... Wir haben das Richtige getan und dennoch... dennoch...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: It can't be that something like",
+				"this happens... We did all the right",
+				"things and yet... still..."
+			]
+		},
+		{
+			"path": [122,2,27,1],
+			"original": "Kento: Ah... AH!....",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ah...\\. AH!..."
+			]
+		},
+		{
+			"path": [122,2,32,1],
+			"original": "Cibon: K...Kumpel?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: K...\\. Kento?"
+			]
+		},
+		{
+			"path": [122,2,35,2],
+			"original": "Kento: Was... was ist das für ein Lärm?! Mein Kopf...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: What...\\. What IS that noise?!\\.",
+				"My head..."
+			]
+		},
+		{
+			"path": [122,2,38,3],
+			"original": "Cibon: Ehm... es... wird wohl 5 Uhr sein... die Mine... Was ist mit deinem Kopf?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Um... it's... about to",
+				"be 5 o'clock...\\. the mine...\\.",
+				"what about your head?"
+			]
+		},
+		{
+			"path": [122,2,46,3],
+			"original": "Kento: Ni...Nichts... Nur so ein Stechen... es scheint schon nachzulassen...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: N...\\. Nothing...\\. Just",
+				"a sting...\\. and it seems to",
+				"be fading..."
+			]
+		},
+		{
+			"path": [122,2,58,2],
+			"original": "Wächter: SOFORT ALLE AUFWACHEN UND RAUS AUS DEN ZELLEN!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]:\\s[4] EVERYONE WAKE UP IMMEDIATELY AND GET OUT",
+				"OF YOUR CELLS!\\.\\^"
+			]
+		},
+		{
+			"path": [122,2,66,1],
+			"original": "Wächter:DU DA! WIRD'S BALD?",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: YOU THERE!\\. WHY AREN'T YOU GETTING UP?"
+			]
+		},
+		{
+			"path": [122,2,69,1],
+			"original": "Soko: W...Wah... es ist doch erst...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: W...\\. Wha...\\. it's only..."
+			]
+		},
+		{
+			"path": [122,2,72,2],
+			"original": "Wächter: Keine Extrazeit fürs gnädige Fräulein! Sofort raus oder es setzt was!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: No extra sleeping time for women!\\.",
+				"Get out immediately or else!"
+			]
+		},
+		{
+			"path": [122,4,42,2],
+			"original": "Cibon: Kumpel! Was haben sie mit dir gemacht?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Kumpel!\\. Was haben sie mit dir ",
+				"gemacht?"
+			]
+		},
+		{
+			"path": [122,4,45,2],
+			"original": "Kento: Verhört. Sie wollten Informationen aus mir rauspressen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Verhört.\\. Sie wollten ",
+				"Informationen aus mir rauspressen."
+			]
+		},
+		{
+			"path": [122,4,48,2],
+			"original": "Cibon: Was hast du ihnen bitte erzählt?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Was hast du ihnen bitte ",
+				"erzählt?"
+			]
+		},
+		{
+			"path": [122,4,66,4],
+			"original": "Kento: Hauptsächlich erfundene Sachen. Ich werd euch morgen mehr davon erzählen. Es ist wichtig, dass unsere Aussagen identisch sind.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hauptsächlich erfundene ",
+				"Sachen.\\. Ich werd euch morgen mehr ",
+				"davon erzählen. \\.Es ist wichtig, dass ",
+				"unsere Aussagen identisch sind."
+			]
+		},
+		{
+			"path": [122,4,75,1],
+			"original": "Kento: ... Wie geht es Soko?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ... Wie geht es Soko?"
+			]
+		},
+		{
+			"path": [122,4,77,2],
+			"original": "Cibon: Ich glaube ihr geht es mittlerweile besser, oder?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ich glaube ihr geht es ",
+				"mittlerweile besser, oder?"
+			]
+		},
+		{
+			"path": [122,4,84,2],
+			"original": "Soko: ... Ja... Es war nur ein Faustschlag.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...\\. Ja...\\. Es war nur ein ",
+				"Faustschlag."
+			]
+		},
+		{
+			"path": [122,4,87,2],
+			"original": "Cibon: Die Typen nehmen wirklich vor niemanden Rücksicht.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Die Typen nehmen wirklich vor ",
+				"niemanden Rücksicht."
+			]
+		},
+		{
+			"path": [122,4,90,3],
+			"original": "Soko: Wieso sollten Sie auch? Ich bin genauso ein Spion wie ihr beide auch.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wieso sollten Sie auch? Ich ",
+				"bin genauso ein Spion wie ihr beide ",
+				"auch."
+			]
+		},
+		{
+			"path": [122,4,98,4],
+			"original": "Soko: Im Übrigen, Kento... Bist du sicher, dass es eine gute Idee ist, ihnen irgendwelche Lügen zu erzählen?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Im Übrigen, Kento...\\. Bist du ",
+				"sicher, dass es eine gute Idee ist, ",
+				"ihnen irgendwelche Lügen zu ",
+				"erzählen?"
+			]
+		},
+		{
+			"path": [122,4,103,3],
+			"original": "Soko: Auf diesem Wege wird uns niemand mehr glauben, dass wir unschuldig sind...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Auf diesem Wege wird uns ",
+				"niemand mehr glauben, dass wir ",
+				"unschuldig sind..."
+			]
+		},
+		{
+			"path": [122,4,112,2],
+			"original": "Kento: Glaub mir, das werden sie hier so oder so nicht tun.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Glaub mir, das werden ",
+				"sie hier so oder so nicht tun."
+			]
+		},
+		{
+			"path": [122,4,114,4],
+			"original": "Kento: Das hier ist kein Gericht. Sie verwenden uns als Arbeitskräfte und Informationsquellen. Unsere Unschuld interessiert die nicht.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Das hier ist kein Gericht. ",
+				"Sie verwenden uns als Arbeitskräfte ",
+				"und Informationsquellen.\\. Unsere ",
+				"Unschuld interessiert die nicht."
+			]
+		},
+		{
+			"path": [122,5,27,2],
+			"original": "Wächter: SOFORT ALLE AUFWACHEN UND RAUS AUS DEN ZELLEN!",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0]\\s[4] SOFORT ALLE AUFWACHEN UND RAUS AUS DEN ",
+				"ZELLEN!\\.\\^"
+			]
+		},
+		{
+			"path": [122,5,35,2],
+			"original": "Cibon: Gähhhn! Und schon wieder ein neuer Arbeitstag...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: \\s[4]Gähhhn!\\.\\s[0] Und schon wieder ein ",
+				"neuer Arbeitstag..."
+			]
+		},
+		{
+			"path": [122,5,43,2],
+			"original": "Soko: ...Ohje... jetzt schon raus? ... Ist es schon so spät...?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...Ohje...\\. jetzt schon raus?\\.",
+				"... Ist es schon so spät...?"
+			]
+		},
+		{
+			"path": [122,5,52,3],
+			"original": "Cibon: Hey, Kumpel! Aufwachen! Hier kannste nicht pennen, erinnerste dich?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hey, Kumpel!\\. Aufwachen!\\. Hier ",
+				"kannste nicht pennen, erinnerste ",
+				"dich?"
+			]
+		},
+		{
+			"path": [122,5,57,1],
+			"original": "Kento: ... W... Was?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ... W...\\. Was?"
+			]
+		},
+		{
+			"path": [122,5,59,1],
+			"original": "Cibon: Gefängnis. Minenarbeit.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Gefängnis.\\. Minenarbeit."
+			]
+		},
+		{
+			"path": [122,5,66,1],
+			"original": "Kento: Och nee...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: \\s[5]Och nee... "
+			]
+		},
+		{
+			"path": [122,7,23,2],
+			"original": "Soko: Bisher haben sie uns noch nicht zum Verhör abgeholt.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Bisher haben sie uns noch ",
+				"nicht zum Verhör abgeholt."
+			]
+		},
+		{
+			"path": [122,7,26,2],
+			"original": "Cibon: Vielleicht lassen sie es ja heute ausfallen...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Vielleicht lassen sie es ja ",
+				"heute ausfallen..."
+			]
+		},
+		{
+			"path": [122,7,43,1],
+			"original": "Cibon: Wäre ja zu schön gewesen...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wäre ja zu schön gewesen..."
+			]
+		},
+		{
+			"path": [122,7,51,2],
+			"original": "Wächter: Du da, mit dem blauen Stirnband! Mitkommen.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Du da, mit dem blauen Stirnband!\\. ",
+				"Mitkommen."
+			]
+		},
+		{
+			"path": [122,7,55,2],
+			"original": "Cibon: Sieht so aus, als ob ich heute dran bin...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Sieht so aus, als ob ich ",
+				"heute dran bin..."
+			]
+		},
+		{
+			"path": [122,7,59,3],
+			"original": "Cibon: Ja! Ihr wollt Informationen von mir haben? Ich werd' euch welche geben!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ja!\\. Ihr wollt Informationen ",
+				"von mir haben?\\. Ich werd' euch welche ",
+				"geben! "
+			]
+		},
+		{
+			"path": [122,7,81,3],
+			"original": "Kento: Wieso hab ich ein sehr schlechtes Gefühl bei dieser Sache...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wieso hab ich ein sehr ",
+				"schlechtes Gefühl bei dieser ",
+				"Sache..."
+			]
+		},
+		{
+			"path": [122,8,22,2],
+			"original": "Soko: Ich hoffe, Cibon übersteht das Verhör...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ich hoffe, Cibon übersteht das ",
+				"Verhör..."
+			]
+		},
+		{
+			"path": [122,8,26,2],
+			"original": "Kento: Ich habe da so meine Bedenken...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich habe da so meine ",
+				"Bedenken..."
+			]
+		},
+		{
+			"path": [122,8,33,4],
+			"original": "Kento: Ach ja, Soko. Was ich dich schon eine ganze Weile fragen wollte, wieso bist du eigentlich dem Briganten-Orden beigetreten?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ach ja, Soko.\\. Was ich dich ",
+				"schon eine ganze Weile fragen ",
+				"wollte, wieso bist du eigentlich dem ",
+				"Briganten-Orden beigetreten?"
+			]
+		},
+		{
+			"path": [122,8,42,1],
+			"original": "Soko: Interessiert dich das so?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Interessiert dich das so?"
+			]
+		},
+		{
+			"path": [122,8,44,4],
+			"original": "Kento: Du nimmst die Rolle von uns Soldaten ja ziemlich ernst, und zwar in einem Maße, wie ich es von anderen Kollegen nicht gewohnt bin.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Du nimmst die Rolle von uns ",
+				"Soldaten ja ziemlich ernst, und zwar ",
+				"in einem Maße, wie ich es von ",
+				"anderen Kollegen nicht gewohnt bin."
+			]
+		},
+		{
+			"path": [122,8,49,3],
+			"original": "Kento: Ich frag mich nur, wieso das so ist. Deswegen interessiert es mich...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich frag mich nur, wieso das ",
+				"so ist.\\. Deswegen interessiert es ",
+				"mich..."
+			]
+		},
+		{
+			"path": [122,8,57,3],
+			"original": "Soko: Soviel ist da nicht dabei. Ich wollte in die Fußstapfen meiner Mutter treten, das ist alles.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Soviel ist da nicht dabei.\\. Ich ",
+				"wollte in die Fußstapfen meiner ",
+				"Mutter treten, das ist alles."
+			]
+		},
+		{
+			"path": [122,8,61,2],
+			"original": "Kento: Deine Mutter war bereits eine Soldatin?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Deine Mutter war bereits eine ",
+				"Soldatin?"
+			]
+		},
+		{
+			"path": [122,8,64,2],
+			"original": "Soko: Ja, das war sie. Sie war hauptsächlich im Wachdienst tätig.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ja, das war sie.\\. Sie war ",
+				"hauptsächlich im Wachdienst tätig. "
+			]
+		},
+		{
+			"path": [122,8,67,3],
+			"original": "Soko: Ich war damals oft bei ihr und hab ihr bei der Arbeit zugesehen, da sonst niemand zuhause war.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ich war damals oft bei ihr und ",
+				"hab ihr bei der Arbeit zugesehen, da ",
+				"sonst niemand zuhause war."
+			]
+		},
+		{
+			"path": [122,8,72,2],
+			"original": "Kento: Du hattest also keine Geschwister? Und dein Vater?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Du hattest also keine ",
+				"Geschwister?\\. Und dein Vater?"
+			]
+		},
+		{
+			"path": [122,8,75,2],
+			"original": "Soko: Mein Vater hat in der Mine gearbeitet.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Mein Vater hat in der Mine ",
+				"gearbeitet. "
+			]
+		},
+		{
+			"path": [122,8,81,1],
+			"original": "Kento: In der... Mine?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: In der...\\. Mine?"
+			]
+		},
+		{
+			"path": [122,8,84,3],
+			"original": "Soko: Nicht dieser hier. Ich komme aus Ferrolholm, am westlichen Ende von Tora.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Nicht dieser hier.\\. Ich komme ",
+				"aus Ferrolholm, am westlichen Ende ",
+				"von Tora."
+			]
+		},
+		{
+			"path": [122,8,87,3],
+			"original": "Soko: Aber denk nicht, dass ich mit Minenarbeit mehr am Hut habe als du oder Cibon.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Aber denk nicht, dass ich mit ",
+				"Minenarbeit mehr am Hut habe als du ",
+				"oder Cibon."
+			]
+		},
+		{
+			"path": [122,8,95,2],
+			"original": "Soko: Ich verabscheue Minenarbeit, ich verabscheue Minenarbeiter...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ich verabscheue Minenarbeit,\\. ",
+				"ich verabscheue Minenarbeiter..."
+			]
+		},
+		{
+			"path": [122,8,99,1],
+			"original": "Kento: W... Wieso das bitte?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: W...\\. Wieso das bitte?"
+			]
+		},
+		{
+			"path": [122,8,104,4],
+			"original": "Soko: Kento, du erzählst auch niemanden, wieso du deinen Vater hasst, also wieso sollte ich dir mehr sagen?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Kento, du erzählst auch ",
+				"niemanden, wieso du deinen Vater ",
+				"hasst, also wieso sollte ich dir ",
+				"mehr sagen?"
+			]
+		},
+		{
+			"path": [122,8,150,1],
+			"original": "Kento: Na, wie war es?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Na, wie war es?"
+			]
+		},
+		{
+			"path": [122,8,152,1],
+			"original": "Cibon: S... Siehste das nicht?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: S...\\. Siehste das nicht?"
+			]
+		},
+		{
+			"path": [122,8,154,3],
+			"original": "Cibon: Dieser ... Typ...ist wirklich ... schnell auf 180, sag ich dir...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Dieser ...\\. Typ...\\.ist ",
+				"wirklich ...\\. schnell auf 180,\\. ",
+				"sag ich dir..."
+			]
+		},
+		{
+			"path": [122,9,26,2],
+			"original": "Wächter: SOFORT ALLE RAUS DEN ZELLEN UND AUFWACHEN!  ...ehm, UMGEKEHRT!",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0]\\s[4] SOFORT ALLE RAUS DEN ZELLEN UND ",
+				"AUFWACHEN!\\s[0] \\. ...ehm,\\. UMGEKEHRT!\\.\\^"
+			]
+		},
+		{
+			"path": [122,9,36,2],
+			"original": "Soko: Aufstehen... Aufstehen... Okay. Aufstehen! Jetzt!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Aufstehen...\\. Aufstehen...\\. ",
+				"Okay.\\. Aufstehen!\\. Jetzt!"
+			]
+		},
+		{
+			"path": [122,9,44,1],
+			"original": "Soko: Geschafft...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Geschafft..."
+			]
+		},
+		{
+			"path": [122,9,47,2],
+			"original": "Cibon: Morgen, Soko. Auch schon wach?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Morgen, Soko.\\. Auch schon ",
+				"wach?"
+			]
+		},
+		{
+			"path": [122,9,56,1],
+			"original": "Cibon: Kumpel! Aufstehen!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Kumpel!\\. Aufstehen! "
+			]
+		},
+		{
+			"path": [122,9,58,1],
+			"original": "Kento: Nein... will weiter schlafen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Nein...\\. will weiter schlafen."
+			]
+		},
+		{
+			"path": [122,9,60,1],
+			"original": "Cibon: Gefängnis. Minenarbeit.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Gefängnis.\\. Minenarbeit."
+			]
+		},
+		{
+			"path": [122,9,67,1],
+			"original": "Kento: Och neee...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: \\s[5]Och neee... "
+			]
+		},
+		{
+			"path": [122,11,36,1],
+			"original": "Wächter: So, heute bist du dran. Mitkommen.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] So, heute bist du dran.\\. Mitkommen."
+			]
+		},
+		{
+			"path": [122,11,60,4],
+			"original": "Cibon: Es ist nicht zum Ausstehen, was wir hier durchstehen müssen, nur weil dieser alte Sack diesen Mist erzählt!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Es ist nicht zum Ausstehen, ",
+				"was wir hier durchstehen müssen, nur ",
+				"weil dieser alte Sack diesen Mist ",
+				"erzählt!"
+			]
+		},
+		{
+			"path": [122,11,66,3],
+			"original": "Cibon: Natürlich sind wir Spione! Spione die den Grenzleuten helfen wollten, diese Truppe zu finden!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Natürlich sind wir Spione!\\.",
+				"Spione die den Grenzleuten helfen ",
+				"wollten, diese Truppe zu finden!"
+			]
+		},
+		{
+			"path": [122,11,75,3],
+			"original": "Cibon: Gefälschte Räuberbande?! Das ist nicht lache!! Wie können die dem so einen Mist glauben!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Gefälschte Räuberbande?!\\. Das ",
+				"ist nicht lache!!\\. Wie können die dem ",
+				"so einen Mist glauben!"
+			]
+		},
+		{
+			"path": [122,11,81,4],
+			"original": "Kento: Cibon, die Sache ist schon lange gegessen. Herr Uroto IST ein Ratsmitglied. Sein Wort hinterfragt man besser nicht so schnell.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Cibon, die Sache ist schon ",
+				"lange gegessen.\\. Herr Uroto IST ein ",
+				"Ratsmitglied.\\. Sein Wort hinterfragt ",
+				"man besser nicht so schnell."
+			]
+		},
+		{
+			"path": [122,11,100,1],
+			"original": "Cibon: Was auch immer!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Was auch immer!"
+			]
+		},
+		{
+			"path": [122,11,102,3],
+			"original": "Cibon: Wegen so einer Person wird jetzt eine unschuldige Frau im Verhör geschlagen, ich meine...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wegen so einer Person wird ",
+				"jetzt eine unschuldige Frau im ",
+				"Verhör geschlagen, ich meine...\\.\\.\\.\\^"
+			]
+		},
+		{
+			"path": [122,11,109,1],
+			"original": "Wächter: Ruhe da drüben! Es ist Schlafenszeit!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Ruhe da drüben!\\. Es ist Schlafenszeit!"
+			]
+		},
+		{
+			"path": [122,11,126,3],
+			"original": "Wächter: Morgen um 5 Uhr geht es in die Mine. Bleib also besser nicht zu lange wach. Wir werden bald auf dich zurückkommen.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Morgen um 5 Uhr geht es in die Mine. \\.",
+				"Bleib also besser nicht zu lange wach.\\. Wir werden ",
+				"bald auf dich zurückkommen."
+			]
+		},
+		{
+			"path": [122,11,138,3],
+			"original": "Felcis: Tsk. Nicht wach bleiben. Kein Problem, ich bin ja die Ruhe selbst, in dieser Lage.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Tsk.\\. Nicht wach bleiben.\\. ",
+				"Kein Problem, ich bin ja die Ruhe ",
+				"selbst, in dieser Lage."
+			]
+		},
+		{
+			"path": [122,11,144,1],
+			"original": "Kento: Wer ist da drüben?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wer ist da drüben?"
+			]
+		},
+		{
+			"path": [122,11,151,2],
+			"original": "Felcis: Darf man hier überhaupt reden?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Darf man hier überhaupt ",
+				"reden?"
+			]
+		},
+		{
+			"path": [122,11,154,2],
+			"original": "Kento: Ja, solange es nicht zu laut ist...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja,\\. solange es nicht zu laut ",
+				"ist..."
+			]
+		},
+		{
+			"path": [122,11,161,4],
+			"original": "Felcis: Felcis ist mein Name... Felcis Kiorta. Gesandter vom Adelsbund und damit offensichtlich Schwerverbrecher in diesem Land.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Felcis ist mein Name...\\.",
+				"Felcis Kiorta.\\. Gesandter vom ",
+				"Adelsbund und damit offensichtlich ",
+				"Schwerverbrecher in diesem Land."
+			]
+		},
+		{
+			"path": [122,11,171,3],
+			"original": "Cibon: M... Moment... Gesandter vom Adelsbund? Dem farenischen Adelsbund?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: M...\\. Moment...\\. Gesandter vom ",
+				"Adelsbund?\\. Dem farenischen ",
+				"Adelsbund?"
+			]
+		},
+		{
+			"path": [122,11,175,2],
+			"original": "Felcis: Genau dieser, mein Junge. Dürfe ich auch eure Namen erfahren?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Genau dieser, mein Junge.\\.",
+				"Dürfe ich auch eure Namen erfahren?"
+			]
+		},
+		{
+			"path": [122,11,181,1],
+			"original": "Kento: Kento...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Kento..."
+			]
+		},
+		{
+			"path": [122,11,183,3],
+			"original": "Cibon: Und ich bin Cibon... Ihr habt vielleicht von diesen Landesverrätern gehört?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Und ich bin Cibon...\\. Ihr habt ",
+				"vielleicht von diesen ",
+				"Landesverrätern gehört? "
+			]
+		},
+		{
+			"path": [122,11,187,3],
+			"original": "Cibon: Ehemalige Soldaten des Briganten-Orden, jetzt Spione im Auftrag von Korzojeno?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ehemalige Soldaten des ",
+				"Briganten-Orden, jetzt Spione im ",
+				"Auftrag von Korzojeno?"
+			]
+		},
+		{
+			"path": [122,11,195,4],
+			"original": "Felcis: Spione? Wovon redet ihr? Tut mir Leid, aber die letzten Tage habe ich nicht sonderlich viel von der Welt mitbekommen...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Spione?\\. Wovon redet ihr?\\. Tut ",
+				"mir Leid, aber die letzten Tage habe ",
+				"ich nicht sonderlich viel von der ",
+				"Welt mitbekommen..."
+			]
+		},
+		{
+			"path": [122,11,201,3],
+			"original": "Kento: Was macht überhaupt eine solche Person hier? Weshalb wurdest du... wurdet Ihr eingesperrt?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Was macht überhaupt eine ",
+				"solche Person hier?\\. Weshalb wurdest ",
+				"du...\\. wurdet Ihr eingesperrt?"
+			]
+		},
+		{
+			"path": [122,11,209,4],
+			"original": "Felcis: Ihr könnt euch die Formalitäten sparen. Hier bin ich ja anscheinend eh nicht mehr als ein Minenarbeiter, wie jeder andere.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ihr könnt euch die ",
+				"Formalitäten sparen.\\. Hier bin ich ja ",
+				"anscheinend eh nicht mehr als ein ",
+				"Minenarbeiter, wie jeder andere."
+			]
+		},
+		{
+			"path": [122,11,215,3],
+			"original": "Felcis: Also ja... Wieso wurde ich eingesperrt? Um ehrlich zu sein, frage ich mich das genauso.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Also ja...\\. Wieso wurde ich ",
+				"eingesperrt?\\. Um ehrlich zu sein, ",
+				"frage ich mich das genauso."
+			]
+		},
+		{
+			"path": [122,11,219,4],
+			"original": "Felcis: Alles, was ich wollte, war etwas Unterstützung von den hier anwesenden Soldaten des Briganten- Orden.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Alles, was ich wollte, war ",
+				"etwas Unterstützung von den hier ",
+				"anwesenden Soldaten des Briganten-",
+				"Orden. "
+			]
+		},
+		{
+			"path": [122,11,223,4],
+			"original": "Felcis: Stattdessen wurde ich hier eingesperrt. Weil ich von Korzojeno, oder besser gesagt dem farenischen Adelsbund komme.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Stattdessen wurde ich hier ",
+				"eingesperrt.\\. Weil ich von Korzojeno, ",
+				"oder besser gesagt dem farenischen ",
+				"Adelsbund komme."
+			]
+		},
+		{
+			"path": [122,11,228,4],
+			"original": "Felcis: Leute meiner Sorte sind hier in letzter Zeit wohl sehr gefragt. Anscheinend wissen wir etwas, wovon ich selber nichts weiß.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Leute meiner Sorte sind hier ",
+				"in letzter Zeit wohl sehr gefragt. \\.",
+				"Anscheinend wissen wir etwas, wovon ",
+				"ich selber nichts weiß."
+			]
+		},
+		{
+			"path": [122,11,234,3],
+			"original": "Kento: Du hast also nicht mitbekommen, was sich zuletzt an der Grenze abgespielt hat?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Du hast also nicht ",
+				"mitbekommen, was sich zuletzt an der ",
+				"Grenze abgespielt hat?"
+			]
+		},
+		{
+			"path": [122,11,239,2],
+			"original": "Felcis: Nein. Könnt ihr mich aufklären?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Nein.\\. Könnt ihr mich ",
+				"aufklären? "
+			]
+		},
+		{
+			"path": [122,12,21,4],
+			"original": "Felcis: Verstehe ich das richtig? IHR seid Spione, die für Korzojeno respektive den farenischen Adelsbund arbeiten? Hier in Brigantia?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Verstehe ich das richtig?\\. ",
+				"IHR seid Spione, die für Korzojeno ",
+				"respektive den farenischen Adelsbund ",
+				"arbeiten?\\. Hier in Brigantia?"
+			]
+		},
+		{
+			"path": [122,12,26,4],
+			"original": "Kento: Genauer gesagt sind wir Spione von dieser Truppe aus dem Silvanwald, von der sie denken, dass sie mit Korzojeno zusammenhängt.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Genauer gesagt sind wir ",
+				"Spione von dieser Truppe aus dem ",
+				"Silvanwald, von der sie denken, dass ",
+				"sie mit Korzojeno zusammenhängt."
+			]
+		},
+		{
+			"path": [122,12,34,3],
+			"original": "Felcis: Ja natürlich. Kaum passiert etwas Böses jenseits der Grenze, ist es der farenische Adelsbund.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ja natürlich.\\. Kaum passiert ",
+				"etwas Böses jenseits der Grenze, ist ",
+				"es der farenische Adelsbund."
+			]
+		},
+		{
+			"path": [122,12,38,4],
+			"original": "Felcis: Es scheint, als habe sich das Vertrauen zwischen uns Nachbarländern seit dem Krieg nicht merkbar verbessert.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Es scheint, als habe sich ",
+				"das Vertrauen zwischen uns ",
+				"Nachbarländern seit dem Krieg nicht ",
+				"merkbar verbessert."
+			]
+		},
+		{
+			"path": [122,12,43,4],
+			"original": "Felcis: Für das Protokoll: Ich weiß nichts von irgendeiner militärischen Organisation im Untergrund. Für wie verrückt halten die uns bitte?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Für das Protokoll:\\. Ich weiß ",
+				"nichts von irgendeiner militärischen ",
+				"Organisation im Untergrund.\\. Für wie ",
+				"verrückt halten die uns bitte?"
+			]
+		},
+		{
+			"path": [122,12,47,4],
+			"original": "Felcis: Der Krieg ist uns eine Lehre gewesen. Wir würden es nicht wagen, uns noch einmal mit Brigantia anzulegen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Der Krieg ist uns eine Lehre ",
+				"gewesen.\\. Wir würden es nicht wagen, ",
+				"uns noch einmal mit Brigantia ",
+				"anzulegen."
+			]
+		},
+		{
+			"path": [122,12,56,4],
+			"original": "Cibon: Ist das so? Wir haben diese Truppe allerdings mit unseren eigenen Augen gesehen! Wir waren Gefangene von ihnen!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ist das so?\\. Wir haben diese ",
+				"Truppe allerdings mit unseren ",
+				"eigenen Augen gesehen!\\. Wir waren ",
+				"Gefangene von ihnen!"
+			]
+		},
+		{
+			"path": [122,12,61,3],
+			"original": "Felcis: Ja, das will ich auch nicht anzweifeln, aber der farenische Adelsbund weiß nichts davon.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ja, das will ich auch nicht ",
+				"anzweifeln, aber der farenische ",
+				"Adelsbund weiß nichts davon."
+			]
+		},
+		{
+			"path": [122,12,65,3],
+			"original": "Felcis: Ich halt es für eher denkbar, dass diese Truppe für Brigantia selber arbeitet.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich halt es für eher ",
+				"denkbar, dass diese Truppe für ",
+				"Brigantia selber arbeitet."
+			]
+		},
+		{
+			"path": [122,12,72,2],
+			"original": "Cibon: Wie bitte? Was für einen Sinn soll das denn ergeben?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wie bitte?\\. Was für einen Sinn ",
+				"soll das denn ergeben?"
+			]
+		},
+		{
+			"path": [122,12,77,3],
+			"original": "Felcis: Ganz einfach. Brigantia hat ja diese ach so demokratische Regierungsform, euren Rat.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ganz einfach.\\. Brigantia hat ",
+				"ja diese ach so demokratische ",
+				"Regierungsform, \\.euren Rat. "
+			]
+		},
+		{
+			"path": [122,12,82,4],
+			"original": "Felcis: Nun, angenommen, wir haben ein paar Ratsmitglieder, die daran interessiert sind, noch etwas mehr von Korzojeno einzunehmen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Nun, angenommen, wir haben ",
+				"ein paar Ratsmitglieder, die daran ",
+				"interessiert sind, noch etwas mehr ",
+				"von Korzojeno einzunehmen."
+			]
+		},
+		{
+			"path": [122,12,86,4],
+			"original": "Felcis: Dann haben sie aber das Problem, das die Mehrheit der Ratsmitglieder eher für eine friedliche Koexistenz ist.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Dann haben sie aber das ",
+				"Problem, das die Mehrheit der ",
+				"Ratsmitglieder eher für eine ",
+				"friedliche Koexistenz ist. "
+			]
+		},
+		{
+			"path": [122,12,91,4],
+			"original": "Felcis: Also wie bekommt man eine offizielle Erlaubnis in Korzojeno einzumarschieren und richtig abzustauben? Nun?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Also wie bekommt man eine ",
+				"offizielle Erlaubnis in Korzojeno ",
+				"einzumarschieren und richtig ",
+				"abzustauben?\\. Nun?"
+			]
+		},
+		{
+			"path": [122,12,100,3],
+			"original": "Kento: ... Man täuscht vor, dass Korzojeno eine Bedrohung darstellt, indem man so eine Truppe bildet...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ... Man täuscht vor, dass ",
+				"Korzojeno eine Bedrohung darstellt, ",
+				"indem man so eine Truppe bildet..."
+			]
+		},
+		{
+			"path": [122,12,105,2],
+			"original": "Felcis: Richtig! Ein kluges Köpfchen haben wir hier.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Richtig!\\. Ein kluges Köpfchen ",
+				"haben wir hier."
+			]
+		},
+		{
+			"path": [122,12,109,3],
+			"original": "Cibon: W... Was zum Henker! Wieso sollte die Regierung so ein falsches Spiel treiben?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: W...\\. Was zum Henker!\\. Wieso ",
+				"sollte die Regierung so ein falsches ",
+				"Spiel treiben?"
+			]
+		},
+		{
+			"path": [122,12,113,3],
+			"original": "Felcis: Oh, in den hohen Rängen gibt es viel falsches Spiel, glaubt mir das.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Oh, in den hohen Rängen gibt ",
+				"es viel falsches Spiel,\\. glaubt mir ",
+				"das."
+			]
+		},
+		{
+			"path": [122,12,117,4],
+			"original": "Cibon: Aber wieso kommt dann bitte ein Ratsmitglied von Brigantia auf die Idee, uns wegen so einer Truppe einzusperren?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Aber wieso kommt dann bitte ",
+				"ein Ratsmitglied von Brigantia auf ",
+				"die Idee, uns wegen so einer Truppe ",
+				"einzusperren?"
+			]
+		},
+		{
+			"path": [122,12,122,4],
+			"original": "Cibon: Wenn das stimmt, was du sagst, ist es doch gut möglich, dass Herr Uroto selber in der Sache verwickelt war!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wenn das stimmt, was du ",
+				"sagst, ist es doch gut möglich, ",
+				"dass Herr Uroto selber in der",
+				"Sache verwickelt war!"
+			]
+		},
+		{
+			"path": [122,12,128,3],
+			"original": "Felcis: Nun, vielleicht habt ihr etwas gesehen, was die Sache auffliegen lassen würde.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Nun, vielleicht habt ihr ",
+				"etwas gesehen, was die Sache ",
+				"auffliegen lassen würde. "
+			]
+		},
+		{
+			"path": [122,12,131,3],
+			"original": "Felcis: Irgendein Beleg, dass diese Truppe von Brigantia angeheuert ist...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Irgendein Beleg, dass ",
+				"diese Truppe von Brigantia ",
+				"angeheuert ist..."
+			]
+		},
+		{
+			"path": [122,12,141,3],
+			"original": "Cibon: Wir haben keinen solchen Beleg! Wir haben gar nichts gesehen! Nicht wahr, Kumpel?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wir haben keinen solchen ",
+				"Beleg!\\. Wir haben gar nichts gesehen!\\.",
+				"Nicht wahr, Kumpel?"
+			]
+		},
+		{
+			"path": [122,12,149,1],
+			"original": "Cibon: ...Kumpel?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ...Kumpel?"
+			]
+		},
+		{
+			"path": [122,12,151,1],
+			"original": "Kento: Nein... nicht wirklich.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Nein...\\. nicht wirklich."
+			]
+		},
+		{
+			"path": [122,12,182,1],
+			"original": "Kento: Soko? Ist alles in Ordnung?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Soko?\\. Ist alles in Ordnung?"
+			]
+		},
+		{
+			"path": [122,12,184,2],
+			"original": "Soko: Es geht schon... W... Wer sind Sie?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Es geht schon... \\.",
+				"W...\\. Wer sind Sie?"
+			]
+		},
+		{
+			"path": [122,12,189,2],
+			"original": "Cibon: Moment... Ihr seid in derselben Zelle?!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Moment...\\. Ihr seid in ",
+				"derselben Zelle?!"
+			]
+		},
+		{
+			"path": [122,12,194,3],
+			"original": "Felcis: Kyorta mein Name, Felcis Kyorta. Und mit welcher hübschen Dame hab ich hier die Ehre?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Kyorta mein Name,\\. Felcis ",
+				"Kyorta.\\. Und mit welcher hübschen ",
+				"Dame hab ich hier die Ehre?"
+			]
+		},
+		{
+			"path": [122,12,201,1],
+			"original": "Soko: Noch einer von dieser Sorte...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Noch einer von dieser Sorte..."
+			]
+		},
+		{
+			"path": [122,12,205,1],
+			"original": "Felcis: Von welcher Sorte reden Sie?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Von welcher Sorte reden Sie?"
+			]
+		},
+		{
+			"path": [122,12,208,3],
+			"original": "Cibon: Ja, von welcher Sorte? Und hey, was war das eben mit den Formalitäten, Felcis?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ja, von welcher Sorte?\\. Und ",
+				"hey,\\. was war das eben mit den ",
+				"Formalitäten, Felcis?"
+			]
+		},
+		{
+			"path": [122,12,218,2],
+			"original": "Kento: Das kann ein langer Abend werden...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Das kann ein langer Abend ",
+				"werden..."
+			]
+		},
+		{
+			"path": [122,13,28,2],
+			"original": "Wächter: SOFORT ALLE RAUS AUS DEN FEDERN! DIE ARBEIT BEGINNT!",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0]\\s[4] SOFORT ALLE RAUS AUS DEN FEDERN!\\. DIE ",
+				"ARBEIT BEGINNT!"
+			]
+		},
+		{
+			"path": [122,13,36,2],
+			"original": "Cibon: ... Ah... Verdammt! Schon wieder raus?`",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ... Ah...\\. Verdammt!\\. Schon ",
+				"wieder raus?`"
+			]
+		},
+		{
+			"path": [122,13,41,2],
+			"original": "Felcis: ...Von welchen \"Federn\" mag diese Wache bitte geredet haben?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: ...Von welchen \"Federn\" mag ",
+				"diese Wache bitte geredet haben? "
+			]
+		},
+		{
+			"path": [122,13,43,3],
+			"original": "Felcis: Ich hab keine einzige Feder wahrgenommen... in diesem so genannten \"Bett\".",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich hab keine einzige Feder ",
+				"wahrgenommen...\\. in diesem so ",
+				"genannten \"Bett\"."
+			]
+		},
+		{
+			"path": [122,13,48,2],
+			"original": "Soko: So... Aufstehen, jetzt, sofort. Und raus!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: So...\\. Aufstehen,\\. jetzt,\\. ",
+				"sofort.\\. Und raus!"
+			]
+		},
+		{
+			"path": [122,13,56,1],
+			"original": "Soko: Ha, wieder geschafft.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ha,\\. wieder geschafft."
+			]
+		},
+		{
+			"path": [122,13,67,2],
+			"original": "Cibon: K...Kumpel. Wir müssen raus. Das gleiche wie vorher.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: K...\\.Kumpel.\\. Wir müssen raus.\\.",
+				"Das gleiche wie vorher."
+			]
+		},
+		{
+			"path": [122,13,70,1],
+			"original": "Cibon: Gefängnis. Minenarbeit.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Gefängnis.\\. Minenarbeit."
+			]
+		},
+		{
+			"path": [122,13,77,1],
+			"original": "Kento: Och nee...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: \\s[5]Och nee... "
+			]
+		},
+		{
+			"path": [122,13,115,4],
+			"original": "Felcis: Würde es euch etwas ausmachen, wenn ich euch zur Mine begleite? Ich bin schließlich neu hier.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Würde es euch etwas ",
+				"ausmachen, wenn ich euch zur Mine ",
+				"begleite?\\. Ich bin schließlich neu ",
+				"hier."
+			]
+		},
+		{
+			"path": [122,13,120,3],
+			"original": "Soko: Sicher kannst du mit uns kommen. Wir gehen ja sowieso alle denselben Weg.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Sicher kannst du mit uns ",
+				"kommen.\\. Wir gehen ja sowieso alle ",
+				"denselben Weg."
+			]
+		},
+		{
+			"path": [122,13,124,1],
+			"original": "Cibon: Ja, meinetwegen...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ja, meinetwegen..."
+			]
+		},
+		{
+			"path": [122,13,126,1],
+			"original": "(Cibon: Wah, eine Brille.)",
+			"lines":
+			[
+				"(\\c[2]\\n[2]\\c[0]: Wah, eine Brille.)"
+			]
+		},
+		{
+			"path": [122,13,136,2],
+			"original": "Felcis tritt als Gast deiner Party bei.",
+			"lines":
+			[
+				"",
+				"Felcis tritt als Gast deiner Party bei."
+			]
+		},
+		{
+			"path": [122,15,53,3],
+			"original": "Wächter: Wag es nicht nochmal, so spät hier aufzukreuzen! Wenn wir sagen ihr sollt in die Zellen, dann tut ihr das auch und zwar sofort!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Wag es nicht nochmal, so spät hier ",
+				"aufzukreuzen!\\. Wenn wir sagen ihr sollt in die ",
+				"Zellen, dann tut ihr das auch und zwar sofort!"
+			]
+		},
+		{
+			"path": [122,15,64,1],
+			"original": "Soko: Du kommst etwas spät.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Du kommst etwas spät."
+			]
+		},
+		{
+			"path": [122,15,67,4],
+			"original": "Felcis: Tja, ja. Dieses Gefängnis ist so groß und eine Zelle gleicht der anderen. Ich glaube, ich habe mich etwas verlaufen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Tja, ja. Dieses Gefängnis ",
+				"ist so groß und eine Zelle gleicht ",
+				"der anderen.\\. Ich glaube, ich habe ",
+				"mich etwas verlaufen."
+			]
+		},
+		{
+			"path": [122,15,83,3],
+			"original": "Felcis: Nun, ich denke wir vier wissen bereits, was wir gemeinsam haben, oder?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Nun, ich denke wir vier ",
+				"wissen bereits, was wir gemeinsam ",
+				"haben, oder?"
+			]
+		},
+		{
+			"path": [122,15,88,2],
+			"original": "Cibon: Was sollte ich mit dir gemeinsam haben?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Was sollte ich mit dir ",
+				"gemeinsam haben?"
+			]
+		},
+		{
+			"path": [122,15,92,1],
+			"original": "Kento: Ich wüsste da etwas.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich wüsste da etwas."
+			]
+		},
+		{
+			"path": [122,15,98,3],
+			"original": "Felcis: Ich rede von der Tatsache, dass wir vier hier alle zu Unrecht eingesperrt worden sind.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich rede von der Tatsache, ",
+				"dass wir vier hier alle zu Unrecht ",
+				"eingesperrt worden sind."
+			]
+		},
+		{
+			"path": [122,15,103,2],
+			"original": "Soko: Du glaubst also an unsere Unschuld?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Du glaubst also an unsere ",
+				"Unschuld?"
+			]
+		},
+		{
+			"path": [122,15,107,2],
+			"original": "Felcis: Natürlich. Ihr vertraut mir doch wohl auch, oder?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Natürlich.\\. Ihr vertraut mir ",
+				"doch wohl auch, oder?"
+			]
+		},
+		{
+			"path": [122,15,113,1],
+			"original": "Soko: ... Ja, natürlich.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ... Ja, natürlich."
+			]
+		},
+		{
+			"path": [122,15,116,2],
+			"original": "Cibon: Glauben hin oder her, worauf willst du hinaus?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Glauben hin oder her, worauf ",
+				"willst du hinaus?"
+			]
+		},
+		{
+			"path": [122,15,120,4],
+			"original": "Felcis: Wenn die werten Wächter uns nicht unserer Unschuld entsprechend behandeln wollen, denke ich, sollten wir dem nachhelfen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wenn die werten Wächter uns ",
+				"nicht unserer Unschuld entsprechend ",
+				"behandeln wollen,\\. denke ich,\\. sollten ",
+				"wir dem nachhelfen."
+			]
+		},
+		{
+			"path": [122,15,128,2],
+			"original": "Felcis: Ich rede von einem Ausbruchsplan.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich rede von einem ",
+				"Ausbruchsplan."
+			]
+		},
+		{
+			"path": [122,15,135,4],
+			"original": "Soko: M...Meinst du das ernst? Wir sind hier immerhin in Helnovien. Du weißt doch, wie hier die Sicherheitsmaßnahmen sind.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: M...\\.Meinst du das ernst?\\. Wir ",
+				"sind hier immerhin in Helnovien.\\. Du ",
+				"weißt doch, wie hier die ",
+				"Sicherheitsmaßnahmen sind."
+			]
+		},
+		{
+			"path": [122,15,142,3],
+			"original": "Felcis: Kommt bitte so nah ran wie möglich und redet leise. Wir wollen schließlich nicht gehört werden...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Kommt bitte so nah ran wie ",
+				"möglich und redet leise.\\. Wir wollen ",
+				"schließlich nicht gehört werden..."
+			]
+		},
+		{
+			"path": [122,15,154,4],
+			"original": "Felcis: Ich kenne Helnovien, ich kenne dieses Gebäude sogar sehr gut. Wie ihr wisst, war das hier ehemals Gebiet von Korzojeno.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich kenne Helnovien, ich ",
+				"kenne dieses Gebäude sogar sehr gut. \\.",
+				"Wie ihr wisst, war das hier ehemals ",
+				"Gebiet von Korzojeno."
+			]
+		},
+		{
+			"path": [122,15,158,3],
+			"original": "Felcis: Und das ehemalige Schloss von Helnovien steht schon ein gutes Stück länger als 10 Jahre.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Und das ehemalige Schloss ",
+				"von Helnovien steht schon ein gutes ",
+				"Stück länger als 10 Jahre."
+			]
+		},
+		{
+			"path": [122,15,162,3],
+			"original": "Felcis: Sogar die Zauberbarriere, die dieses Schloss so mächtig macht, kam noch von uns.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Sogar die Zauberbarriere, ",
+				"die dieses Schloss so mächtig macht, ",
+				"kam noch von uns."
+			]
+		},
+		{
+			"path": [122,15,166,3],
+			"original": "Felcis: Brigantia hat all das im Krieg geklaut - Verzeihung - \"erobert\".",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Brigantia hat all das im ",
+				"Krieg geklaut \\.- Verzeihung -\\. ",
+				"\"erobert\". "
+			]
+		},
+		{
+			"path": [122,15,171,4],
+			"original": "Felcis: Und die herausragende Sicherheit dieses Gefängnisses ist hauptsächlich auf unsere großartige Barriere zurück zu führen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Und die herausragende ",
+				"Sicherheit dieses Gefängnisses ist ",
+				"hauptsächlich auf unsere großartige ",
+				"Barriere zurück zu führen."
+			]
+		},
+		{
+			"path": [122,15,179,4],
+			"original": "Felcis: In der Tat, sie ist so großartig, dass die Wächter sich komplett darauf verlassen können. Zumindest glauben sie das.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: In der Tat, sie ist so ",
+				"großartig, dass die Wächter sich ",
+				"komplett darauf verlassen können.\\.",
+				"Zumindest glauben sie das."
+			]
+		},
+		{
+			"path": [122,15,184,3],
+			"original": "Felcis: Aber nun stelle man sich mal vor, man könnte diese Barriere aufheben.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Aber nun stelle man sich mal ",
+				"vor, man könnte diese Barriere ",
+				"aufheben. "
+			]
+		},
+		{
+			"path": [122,15,187,4],
+			"original": "Felcis: Schaut euch mal diese Gitter hier an, insbesondere die Schlösser. Sieht das eurer Meinung nach stabil aus?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Schaut euch mal diese Gitter ",
+				"hier an, insbesondere die Schlösser.\\.",
+				"Sieht das eurer Meinung nach stabil ",
+				"aus?"
+			]
+		},
+		{
+			"path": [122,15,198,2],
+			"original": "Kento: Nun ja... ich habe schon stabileres gesehen, das ist wahr.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Nun ja...\\. ich habe schon ",
+				"stabileres gesehen, das ist wahr."
+			]
+		},
+		{
+			"path": [122,15,203,4],
+			"original": "Felcis: Wäre diese Barriere nicht, könnte ein Signum-Kundiger diese Schlösser innerhalb weniger Minuten zum Schmelzen bringen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wäre diese Barriere nicht, ",
+				"könnte ein Signum-Kundiger diese ",
+				"Schlösser innerhalb weniger Minuten ",
+				"zum Schmelzen bringen."
+			]
+		},
+		{
+			"path": [122,15,209,3],
+			"original": "Felcis: Was ich sagen will, wenn wir die Barriere aufheben können, kann uns die Flucht gelingen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Was ich sagen will, wenn wir ",
+				"die Barriere aufheben können, kann ",
+				"uns die Flucht gelingen. "
+			]
+		},
+		{
+			"path": [122,15,216,2],
+			"original": "Felcis: Und ich weiß, wie man dieses Barriere aufheben kann.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Und ich weiß, wie man dieses ",
+				"Barriere aufheben kann."
+			]
+		},
+		{
+			"path": [122,15,224,1],
+			"original": "Soko: W... Wie denn?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: W...\\. Wie denn?"
+			]
+		},
+		{
+			"path": [122,15,227,2],
+			"original": "Felcis: Ich will erstmal euer Wort haben. Ihr werdet mitmachen, oder?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich will erstmal euer Wort ",
+				"haben.\\. Ihr werdet mitmachen, oder? "
+			]
+		},
+		{
+			"path": [122,15,234,4],
+			"original": "Kento: Ich habe da noch meine Zweifel... Selbst wenn wir die Barriere brechen, werden wir noch genug andere Probleme haben...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich habe da noch meine ",
+				"Zweifel...\\. Selbst wenn wir die ",
+				"Barriere brechen, werden wir noch ",
+				"genug andere Probleme haben..."
+			]
+		},
+		{
+			"path": [122,15,239,3],
+			"original": "Felcis: Ja, wo du Recht hast. Aber ich habe da schon einen Plan im Hinterkopf...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ja, wo du Recht hast.\\. Aber ",
+				"ich habe da schon einen Plan im ",
+				"Hinterkopf..."
+			]
+		},
+		{
+			"path": [122,15,246,3],
+			"original": "Felcis: Ich denke, am besten schlafen wir alle noch einmal eine Nacht darüber.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich denke, am besten ",
+				"schlafen wir alle noch einmal eine ",
+				"Nacht darüber."
+			]
+		},
+		{
+			"path": [122,15,250,3],
+			"original": "Felcis: Ich werde euch dann morgen mehr erzählen, wenn ihr euch entschieden habt, mitzumachen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich werde euch dann morgen ",
+				"mehr erzählen, wenn ihr euch ",
+				"entschieden habt, mitzumachen."
+			]
+		},
+		{
+			"path": [122,15,262,3],
+			"original": "Cibon: Da fällt mir auf... Heute wurde keiner von uns verhört, oder?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Da fällt mir auf...\\.",
+				"Heute wurde keiner von uns ",
+				"verhört, oder?"
+			]
+		},
+		{
+			"path": [122,15,266,2],
+			"original": "Soko: Stimmt...Vielleicht haben sie es schon aufgegeben?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Stimmt...\\.Vielleicht haben sie ",
+				"es schon aufgegeben?"
+			]
+		},
+		{
+			"path": [122,15,270,2],
+			"original": "Kento: Entweder das, oder dieser Sir Dolaros brauchte mal eine Pause.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Entweder das, oder dieser Sir ",
+				"Dolaros brauchte mal eine Pause."
+			]
+		},
+		{
+			"path": [122,15,281,1],
+			"original": "(Felcis: ... Sir Dolaros... )",
+			"lines":
+			[
+				"(\\c[5]\\n[5]\\c[0]: ...\\. Sir Dolaros... )"
+			]
+		},
+		{
+			"path": [122,15,283,3],
+			"original": "(Felcis: Sir Avarons Versuchs- kaninchen. Das hat mir jetzt noch gefehlt.)",
+			"lines":
+			[
+				"(\\c[5]\\n[5]\\c[0]: Sir Avarons Versuchs-",
+				"kaninchen.\\. Das hat mir jetzt noch ",
+				"gefehlt.)"
+			]
+		},
+		{
+			"path": [122,16,28,1],
+			"original": "Wächter: SOFORT ALLE AUFWACHEN! DIE MINE WARTET!",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0]\\s[4] SOFORT ALLE AUFWACHEN!\\. DIE MINE WARTET!"
+			]
+		},
+		{
+			"path": [122,16,39,2],
+			"original": "Soko: So! Wach! Haha! So langsam hab ich mich dran gewöhnt.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: So!\\. Wach!\\. Haha!\\. So langsam hab ",
+				"ich mich dran gewöhnt."
+			]
+		},
+		{
+			"path": [122,16,44,1],
+			"original": "Soko: Morgen Soko...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Morgen Soko..."
+			]
+		},
+		{
+			"path": [122,16,52,4],
+			"original": "Felcis: Diese barbarische Uhrzeit... Wieso kann die gesamte Welt nicht einfach drei Stunden später aufstehen?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Diese barbarische Uhrzeit...\\.",
+				"Wieso kann die gesamte Welt nicht ",
+				"einfach drei Stunden später ",
+				"aufstehen?"
+			]
+		},
+		{
+			"path": [122,16,63,2],
+			"original": "Cibon: Kento. Aufstehen. Minenarbeit. Gefängnis.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Kento.\\. Aufstehen.\\. ",
+				"Minenarbeit.\\. Gefängnis."
+			]
+		},
+		{
+			"path": [122,16,71,1],
+			"original": "Kento: Och nee...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: \\s[5]Och nee... "
+			]
+		},
+		{
+			"path": [122,16,109,2],
+			"original": "Felcis: Nun? Wie sieht es aus? Werdet ihr mitmachen?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Nun?\\. Wie sieht es aus?\\. ",
+				"Werdet ihr mitmachen? "
+			]
+		},
+		{
+			"path": [122,16,112,1],
+			"original": "Kento: M...Mitmachen?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: M...\\.Mitmachen?"
+			]
+		},
+		{
+			"path": [122,16,114,3],
+			"original": "Felcis: Frag ihn das besser noch mal unten vor der Mine. Da ist er in der Regel etwas wacher.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Frag ihn das besser noch mal ",
+				"unten vor der Mine.\\. Da ist er in der ",
+				"Regel etwas wacher."
+			]
+		},
+		{
+			"path": [122,18,55,2],
+			"original": "Felcis: Endlich ist dieses sinnlose Theater zu Ende...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Endlich ist dieses sinnlose ",
+				"Theater zu Ende..."
+			]
+		},
+		{
+			"path": [122,18,59,2],
+			"original": "Cibon: Und? Wie viele hat er dir reingedonnert?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Und?\\. Wie viele hat er dir ",
+				"reingedonnert?"
+			]
+		},
+		{
+			"path": [122,18,68,1],
+			"original": "Felcis: Wie bitte?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wie bitte?"
+			]
+		},
+		{
+			"path": [122,18,70,2],
+			"original": "Cibon: Geschlagen. Er hat dich doch geschlagen, oder?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Geschlagen.\\. Er hat dich doch ",
+				"geschlagen, oder?"
+			]
+		},
+		{
+			"path": [122,18,77,4],
+			"original": "Felcis: Hm... Ich nehme mal an, ihm war bewusst, wie allergisch Farenia darauf reagiert, wenn man seinen Leuten etwas Böses antut.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Hm...\\. Ich nehme mal an, ihm ",
+				"war bewusst, wie allergisch Farenia ",
+				"darauf reagiert, wenn man seinen",
+				"Leuten etwas Böses antut."
+			]
+		},
+		{
+			"path": [122,18,82,3],
+			"original": "Felcis: Ein Gewaltakt in dieser Art hätte ja starke diplomatische Konsequenzen haben können.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ein Gewaltakt in dieser Art ",
+				"hätte ja starke diplomatische ",
+				"Konsequenzen haben können."
+			]
+		},
+		{
+			"path": [122,18,87,3],
+			"original": "Kento: Soll das heißen, dass man sich Farenia zum Feind macht, wenn man dich schlägt?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Soll das heißen, dass man ",
+				"sich Farenia zum Feind macht, wenn ",
+				"man dich schlägt?"
+			]
+		},
+		{
+			"path": [122,18,93,3],
+			"original": "Felcis: So etwas in der Richtung. Das heißt, dass ist der allgemeine Glaube unter den Leuten.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: So etwas in der Richtung. \\.",
+				"Das heißt, dass ist der allgemeine ",
+				"Glaube unter den Leuten."
+			]
+		},
+		{
+			"path": [122,18,101,3],
+			"original": "Felcis: Dummerweise spielt Farenia nicht für all seine Mitglieder diesen Schutzengel...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Dummerweise spielt Farenia ",
+				"nicht für all seine Mitglieder ",
+				"diesen Schutzengel..."
+			]
+		},
+		{
+			"path": [122,19,28,1],
+			"original": "Wächter: SOFORT ALLE AUFWACHEN! DIE MINE WARTET!",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0]\\s[4] SOFORT ALLE AUFWACHEN!\\. DIE MINE WARTET!"
+			]
+		},
+		{
+			"path": [122,19,52,2],
+			"original": "Cibon: Kento. Aufstehen. Minenarbeit. Gefängnis.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Kento.\\. Aufstehen.\\. ",
+				"Minenarbeit.\\. Gefängnis."
+			]
+		},
+		{
+			"path": [122,19,60,1],
+			"original": "Kento: Och nee...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: \\s[5]Och nee... "
+			]
+		},
+		{
+			"path": [122,21,6,1],
+			"original": "Doch dann in der selben Nacht...",
+			"lines":
+			[
+				"Doch dann in der selben Nacht..."
+			]
+		},
+		{
+			"path": [122,21,31,2],
+			"original": "Sir Dolaros: Mir ist langweilig. Ich werde euch jetzt umbringen.",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Mir ist langweilig.\\.",
+				"Ich werde euch jetzt umbringen."
+			]
+		},
+		{
+			"path": [122,21,37,1],
+			"original": "Cibon: Waaaaaaaaaaaaaaas~",
+			"lines":
+			[
+				"\\c[2]Cibon\\c[0]: Waaaaaaaaaaaaaaas~"
+			]
+		},
+		{
+			"path": [122,23,9,2],
+			"original": "Alle sind gestorben. THE END.",
+			"lines":
+			[
+				"\\s[5]Alle sind gestorben.\\.",
+				"THE END."
+			]
+		},
+		{
+			"path": [131,3,6,1],
+			"original": "Gefangener: ...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: ..."
+			]
+		},
+		{
+			"path": [133,3,6,1],
+			"original": "Gefangener:...Was ist?",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]:...Was ist?"
+			]
+		},
+		{
+			"path": [134,3,6,1],
+			"original": "Gefangener: Geht mir aus dem Weg.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Geht mir aus dem Weg."
+			]
+		},
+		{
+			"path": [135,3,6,2],
+			"original": "Gefangener: Du has' die Wachen gehört, oder? Wir soll'n zur Mine.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Du has' die Wachen gehört, oder?\\. ",
+				"Wir soll'n zur Mine."
+			]
+		},
+		{
+			"path": [136,3,6,2],
+			"original": "Gefangene: Was sprichst du mich an? Geh mir aus dem Weg.",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Was sprichst du mich an?\\. Geh mir aus ",
+				"dem Weg."
+			]
+		},
+		{
+			"path": [138,3,6,3],
+			"original": "Gefangene: Ihr seht hier ziemlich neu aus. In dem Fall merkt euch folgendes: kein - gerede - am - morgen!",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Ihr seht hier ziemlich neu aus.\\.",
+				"In dem Fall merkt euch folgendes:\\.",
+				"kein \\.- gerede \\.- am \\.- morgen!"
+			]
+		},
+		{
+			"path": [139,3,5,1],
+			"original": "Kento: Der... Der Typ schläft noch!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Der...\\. Der Typ schläft noch!"
+			]
+		},
+		{
+			"path": [139,3,7,2],
+			"original": "Cibon: Und er findet dennoch den richtigen Weg...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Und er findet dennoch den ",
+				"richtigen Weg..."
+			]
+		},
+		{
+			"path": [140,3,6,1],
+			"original": "Gefangene: Geht mir aus dem Weg.",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Geht mir aus dem Weg."
+			]
+		},
+		{
+			"path": [141,3,6,2],
+			"original": "Nicht ganz eingelebter Gefangener: Nicht schon wieder... Minenarbeit... Ich hasse es...",
+			"lines":
+			[
+				"\\c[10]Nicht ganz eingelebter Gefangener\\c[0]: Nicht schon ",
+				"wieder...\\. Minenarbeit...\\. Ich hasse es..."
+			]
+		},
+		{
+			"path": [142,3,6,2],
+			"original": "Gefangener: Hach! Was für ein herrlicher Morgen, oder? ... Verzieh dich.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Hach!\\. Was für ein herrlicher Morgen, ",
+				"oder?\\. ...\\. Verzieh dich."
+			]
+		},
+		{
+			"path": [143,3,6,1],
+			"original": "Alter Gefangener: ...Oh... Mein Kreuz...",
+			"lines":
+			[
+				"\\c[10]Alter Gefangener\\c[0]: ...Oh...\\. Mein Kreuz..."
+			]
+		},
+		{
+			"path": [144,3,6,1],
+			"original": "Gefangene: Nicht jetzt!",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Nicht jetzt!"
+			]
+		},
+		{
+			"path": [145,3,6,1],
+			"original": "Gefangener: ...",
+			"lines":
+			[
+				"\\c[10]Gefangener:\\c[0] ..."
+			]
+		},
+		{
+			"path": [146,1,2,3],
+			"original": "Wächter: Was steht ihr hier noch rum? Los! Runter und ab zur Mine!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Was steht ihr hier noch rum?\\. Los! \\.Runter ",
+				"und ab zur Mine!",
+				""
+			]
+		},
+		{
+			"path": [147,1,2,3],
+			"original": "Wächter: ...Die Neuen sind wohl immer etwas langsamer. Ihr geht dahin, wo alle anderen hingehen, alles klar? LOS!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: ...Die Neuen sind wohl immer etwas ",
+				"langsamer.\\. Ihr geht dahin, wo alle anderen ",
+				"hingehen, alles klar?\\. LOS!"
+			]
+		},
+		{
+			"path": [148,1,2,1],
+			"original": "Wächter: Runter mit euch! Kein Rumgetrödel!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Runter mit euch!\\. Kein Rumgetrödel!"
+			]
+		},
+		{
+			"path": [150,1,18,2],
+			"indent": 1,
+			"original": "Wächter: Einen Moment! Wo wollt ihr denn hin? Ihr habt da oben nichts verloren! Runter mit euch!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Einen Moment! Wo wollt ihr denn hin?\\.",
+				"Ihr habt da oben nichts verloren!\\. Runter mit euch!"
+			]
+		},
+		{
+			"path": [151,1,18,2],
+			"indent": 1,
+			"original": "Wächter: Einen Moment! Wo wollt ihr denn hin? Ihr habt da oben nichts verloren! Runter mit euch!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Einen Moment! Wo wollt ihr denn hin?\\.",
+				"Ihr habt da oben nichts verloren!\\. Runter mit euch!"
+			]
+		},
+		{
+			"path": [156,1,2,2],
+			"original": "Wächter: Wollt ihr Ärger haben oder so etwas? Was spricht ihr mich an! Ihr sollt zur Mine!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Wollt ihr Ärger haben oder so etwas?\\. Was ",
+				"spricht ihr mich an!\\. Ihr sollt zur Mine!"
+			]
+		},
+		{
+			"path": [159,1,2,3],
+			"original": "Wächter: Hier geht es nicht durch! Ihr sollt die Treppe runter.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Hier geht es nicht durch!\\. Ihr sollt die ",
+				"Treppe runter.",
+				""
+			]
+		},
+		{
+			"path": [159,2,2,1],
+			"original": "Wächter: Hier ist kein Zutritt für Gefangene.",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Hier ist kein Zutritt für Gefangene."
+			]
+		},
+		{
+			"path": [160,1,2,2],
+			"original": "Wächter: Ihr habt hier nichts zu suchen. Ihr sollt die Treppe runter!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Ihr habt hier nichts zu suchen.\\.",
+				"Ihr sollt die Treppe runter!"
+			]
+		},
+		{
+			"path": [161,1,2,1],
+			"original": "Wächter: Kein Durchgang hier für euch!",
+			"lines":
+			[
+				"\\c[10]Guard\\c[0]: Kein Durchgang hier für euch!"
+			]
+		},
+		{
+			"path": [177,1,19,3],
+			"indent": 1,
+			"original": "Anmerkung: Du hast all deine geschmuggelten Gegenstände in deiner Zelle versteckt.",
+			"lines":
+			[
+				"",
+				"Anmerkung: Du hast all deine geschmuggelten ",
+				"Gegenstände in deiner Zelle versteckt. "
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [15,1,31],
+			"original": "Für heute genug./Nein, noch nicht.",
+			"patch": "Für heute genug./Nein, noch nicht."
+		},
+		{
+			"path": [15,1,32],
+			"original": "Für heute genug.",
+			"patch": "Für heute genug."
+		},
+		{
+			"path": [15,1,259],
+			"original": "Nein, noch nicht.",
+			"patch": "Nein, noch nicht."
+		}
+	]
+}
