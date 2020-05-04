@@ -6,7 +6,7 @@
 			"original": "(Kento: ... )",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: ... )"
+				"(\\c[1]\\n[1]\\c[0]: ...)"
 			]
 		},
 		{
@@ -14,7 +14,7 @@
 			"original": "Soko: Aufwachen, Kento!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Aufwachen, Kento!"
+				"\\c[13]\\n[3]\\c[0]: Wake up, Kento!"
 			]
 		},
 		{
@@ -22,7 +22,7 @@
 			"original": "Kento: Hm...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hm..."
+				"\\c[1]\\n[1]\\c[0]: Mhm..."
 			]
 		},
 		{
@@ -30,8 +30,9 @@
 			"original": "Soko: Du solltest dir unbedingt abgewöhnen so lange auszuschlafen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Du solltest dir unbedingt ",
-				"abgewöhnen so lange auszuschlafen."
+				"\\c[13]\\n[3]\\c[0]: You should definitely stop",
+				"yourself from sleeping in for",
+				"so long."
 			]
 		},
 		{
@@ -39,9 +40,9 @@
 			"original": "Soko: Na komm, du meintest Gestern Abend doch selber, das wir früher aufstehen sollten, oder?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Na komm, du meintest Gestern ",
-				"Abend doch selber, das wir früher ",
-				"aufstehen sollten, oder?"
+				"\\c[13]\\n[3]\\c[0]: Come on, you said it yourself",
+				"last night that we should get up",
+				"earlier, right?"
 			]
 		},
 		{
@@ -49,7 +50,7 @@
 			"original": "Kento: Hm...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hm..."
+				"\\c[1]\\n[1]\\c[0]: Mhm..."
 			]
 		},
 		{
@@ -57,8 +58,9 @@
 			"original": "Soko: Den größten Teil der Hinreise haben wir ja schon, also los.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Den größten Teil der Hinreise ",
-				"haben wir ja schon,\\. also los."
+				"\\c[13]\\n[3]\\c[0]: We already got through the",
+				"tough parts of the journey,\\. so",
+				"let's go."
 			]
 		},
 		{
@@ -66,7 +68,7 @@
 			"original": "Kento: Hm...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hm..."
+				"\\c[1]\\n[1]\\c[0]: Mhm..."
 			]
 		},
 		{
@@ -82,7 +84,7 @@
 			"original": "Kento: EH?! Ähm, was? Oh...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: EH?!\\. Ähm, was?\\. Oh..."
+				"\\c[1]\\n[1]\\c[0]: EH?!\\. Um, what?\\. Oh..."
 			]
 		},
 		{
@@ -90,7 +92,7 @@
 			"original": "Soko: Auf... stehen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Auf...\\. stehen."
+				"\\c[13]\\n[3]\\c[0]: Get.\\. Up."
 			]
 		},
 		{
@@ -98,7 +100,7 @@
 			"original": "Kento: Hm...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hm..."
+				"\\c[1]\\n[1]\\c[0]: Mhm..."
 			]
 		},
 		{
@@ -106,7 +108,8 @@
 			"original": "Soko: WIRD'S BALD?!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: WIRD'S BALD?!"
+				"\\c[13]\\n[3]\\c[0]: ARE YOU GETTING UP ANYTIME",
+				"SOON?!"
 			]
 		},
 		{
@@ -114,7 +117,7 @@
 			"original": "Kento: Jajaja...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Jajaja..."
+				"\\c[1]\\n[1]\\c[0]: Yeah yeah yeah..."
 			]
 		},
 		{
@@ -122,10 +125,9 @@
 			"original": "(Soko: Cibon hat recht, ihn vorzeitig aus dem Bett zu kriegen ist wirklich keine leichte Angelegenheit.)",
 			"lines":
 			[
-				"(\\c[13]\\n[3]\\c[0]: Cibon hat recht, ihn ",
-				"vorzeitig aus dem Bett zu kriegen ",
-				"ist wirklich keine leichte ",
-				"Angelegenheit.)"
+				"(\\c[13]\\n[3]\\c[0]: Cibon was right, getting him",
+				"out of bed early is quite the",
+				"monumental task.)"
 			]
 		},
 		{
@@ -133,9 +135,9 @@
 			"original": "(Kento: Hm... ich wurde nicht geweckt, anscheinend hat sich nichts getan.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Hm...\\. ich wurde nicht ",
-				"geweckt, anscheinend hat sich nichts ",
-				"getan.)"
+				"(\\c[1]\\n[1]\\c[0]: Hm...\\. I wasn't woken up, and",
+				"apparently nothing changed this",
+				"time.)"
 			]
 		},
 		{
@@ -143,8 +145,8 @@
 			"original": "(Kento: Am besten schau ich mal, was die anderen machen...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Am besten schau ich mal, was ",
-				"die anderen machen...)"
+				"(\\c[1]\\n[1]\\c[0]: The best thing to do is just",
+				"see what the others are up to...)"
 			]
 		},
 		{
@@ -152,8 +154,8 @@
 			"original": "(Kento: Genug für heute Nacht vorbereitet?)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Genug für heute Nacht ",
-				"vorbereitet?)"
+				"(\\c[1]\\n[1]\\c[0]: Have we prepared enough for",
+				"tonight?)"
 			]
 		},
 		{
@@ -162,7 +164,7 @@
 			"original": "Cibon: Kumpel, wach auf, Kumpel!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kumpel,\\. wach auf, Kumpel!"
+				"\\c[2]\\n[2]\\c[0]: Kento,\\. wake up Kento!"
 			]
 		},
 		{
@@ -171,7 +173,7 @@
 			"original": "Kento: W...Was?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: W...\\.Was?"
+				"\\c[1]\\n[1]\\c[0]: W...\\. What?"
 			]
 		},
 		{
@@ -180,8 +182,8 @@
 			"original": "Cibon: Es wird Zeit! Die Leute warten schon auf uns.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Es wird Zeit!\\. Die Leute ",
-				"warten schon auf uns."
+				"\\c[2]\\n[2]\\c[0]: It's time!\\. People are waiting",
+				"for us."
 			]
 		},
 		{
@@ -190,7 +192,7 @@
 			"original": "Kento: Oh... ist es schon so spät?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Oh... ist es schon so spät?"
+				"\\c[1]\\n[1]\\c[0]: Oh... Are we already late?"
 			]
 		},
 		{
@@ -199,8 +201,8 @@
 			"original": "Cibon: Diesmal bleibt wirklich keine Zeit zum Schlafen, also raus!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Diesmal bleibt wirklich keine ",
-				"Zeit zum Schlafen,\\. also raus!"
+				"\\c[2]\\n[2]\\c[0]: This time there really is no",
+				"time to sleep,\\. so get up!"
 			]
 		},
 		{
@@ -209,7 +211,8 @@
 			"original": "Kento: Ja, ich steh ja schon auf...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja,\\. ich steh ja schon auf..."
+				"\\c[1]\\n[1]\\c[0]: Yeah yeah,\\. I'm getting up",
+				"already..."
 			]
 		}
 	],
@@ -218,17 +221,17 @@
 		{
 			"path": [8,5,14],
 			"original": "Ja/Nein",
-			"patch": "Ja/Nein"
+			"patch": "Yes/No"
 		},
 		{
 			"path": [8,5,15],
 			"original": "Ja",
-			"patch": "Ja"
+			"patch": "Yes"
 		},
 		{
 			"path": [8,5,72],
 			"original": "Nein",
-			"patch": "Nein"
+			"patch": "No"
 		}
 	]
 }

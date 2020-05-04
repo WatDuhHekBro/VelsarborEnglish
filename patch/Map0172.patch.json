@@ -6,10 +6,9 @@
 			"original": "Postbote: Unsere nächste Tour führt Richtung Sinun, eigentlich eine recht einfache Strecke, schließlich müssen wir nicht das Torasgebirge passieren.",
 			"lines":
 			[
-				"\\c[10]Postbote\\c[0]: Unsere nächste Tour führt Richtung ",
-				"Sinun, eigentlich eine recht einfache Strecke, ",
-				"schließlich müssen wir nicht das Torasgebirge ",
-				"passieren."
+				"\\c[10]Postman\\c[0]: Our next journey leads to Sinun,",
+				"actually a fairly easy route, after all",
+				"we don't have to pass Mount Toras."
 			]
 		},
 		{
@@ -17,10 +16,9 @@
 			"original": "Postbote: Sinun, och nee. Ich hasse diese Gegend. Auf der Ebene südlich dieser Stadt weht manchmal so ein dermaßen starker Wind, dass es dich fast vom Uchiko reißt.",
 			"lines":
 			[
-				"\\c[10]Postbote\\c[0]: Sinun,\\. och nee.\\. Ich hasse diese Gegend.\\. ",
-				"Auf der Ebene südlich dieser Stadt weht manchmal ",
-				"so ein dermaßen starker Wind, dass es dich fast ",
-				"vom Uchiko reißt. "
+				"\\c[10]Postman\\c[0]: Oh no,\\. Sinun.\\. I hate this place.\\. On the",
+				"plains south of this city, the wind is so strong",
+				"that it almost tears you off your uchiko."
 			]
 		},
 		{
@@ -28,8 +26,7 @@
 			"original": "Postbote: Glaub mir, es ist anstrengend, da entlang zu reiten.",
 			"lines":
 			[
-				"\\c[10]Postbote\\c[0]: Glaub mir, es ist anstrengend, da ",
-				"entlang zu reiten."
+				"\\c[10]Postman\\c[0]: Trust me, it's tiring to ride there."
 			]
 		},
 		{
@@ -37,9 +34,9 @@
 			"original": "Postbote: Hehe, meine Route geht diesmal nur bis Domarkor. Meine Glücksträhne bei der Routen- Zuweisung hält an!",
 			"lines":
 			[
-				"\\c[10]Postbote\\c[0]: Hehe, meine Route geht diesmal nur bis ",
-				"Domarkor.\\. Meine Glücksträhne bei der Routen-",
-				"Zuweisung hält an!"
+				"\\c[10]Postman\\c[0]: Hehe, this time my route only goes to",
+				"Domarkor.\\. My lucky streak of where I go to",
+				"continues!"
 			]
 		},
 		{
@@ -47,10 +44,9 @@
 			"original": "Postbote gegenüber: Freu dich nicht zu früh. Die meisten die in Domarkor landen, kriegen daraufhin eine Route zugewiesen die über das Torasgebirge führt.",
 			"lines":
 			[
-				"\\c[10]Postbote gegenüber\\c[0]: Freu dich nicht zu früh.\\. Die ",
-				"meisten die in Domarkor landen, kriegen daraufhin ",
-				"eine Route zugewiesen die über das Torasgebirge ",
-				"führt."
+				"\\c[10]Other Postman\\c[0]: Don't rejoice too soon.\\. Most of",
+				"those who land in Domarkor are then assigned",
+				"a route that leads over Mount Toras."
 			]
 		},
 		{
@@ -58,8 +54,7 @@
 			"original": "Postbote: Wir werden ja sehen, ob mich dort mein Glück verlassen wird.",
 			"lines":
 			[
-				"\\c[10]Postbote\\c[0]: Wir werden ja sehen, ob mich dort mein ",
-				"Glück verlassen wird."
+				"\\c[10]Postman\\c[0]: We'll see if my luck will leave me then."
 			]
 		}
 	]

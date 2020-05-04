@@ -6,10 +6,9 @@
 			"original": "(Kento: Hier geht es zu den Holzfällern. Ich denke wir würden dort nur bei der Arbeit stören. Wir haben dort eh nichts zu suchen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]:\\c[0] Hier geht es zu den ",
-				"Holzfällern. Ich denke wir würden ",
-				"dort nur bei der Arbeit stören.",
-				"Wir haben dort eh nichts zu suchen.)"
+				"(\\c[1]\\n[1]\\c[0]: Here's a lumberjack. I think",
+				"we'd only be disturbing his work. We",
+				"have no business here anyway.)"
 			]
 		},
 		{
@@ -17,8 +16,7 @@
 			"original": "Gurim: Wo bleibt Saion nun schon wieder?",
 			"lines":
 			[
-				"\\c[10]Gurim\\c[0]: Wo bleibt Saion nun schon ",
-				"wieder? "
+				"\\c[10]Gurim\\c[0]: So where's Saion again?"
 			]
 		},
 		{
@@ -26,9 +24,9 @@
 			"original": "Jorn: Ich weiß es nicht, aber wenn er solange fort ist, kann das nichts gutes heißen...",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Ich weiß es nicht, aber wenn ",
-				"er solange fort ist, kann das nichts ",
-				"gutes heißen..."
+				"\\c[10]Jorn\\c[0]: I don't know, but if he's gone",
+				"for that long, it can't be a good",
+				"sign..."
 			]
 		},
 		{
@@ -36,7 +34,7 @@
 			"original": "Gurim: Du meinst er wurde gefangen?",
 			"lines":
 			[
-				"\\c[10]Gurim\\c[0]: Du meinst er wurde gefangen?"
+				"\\c[10]Gurim\\c[0]: You mean he was caught?"
 			]
 		},
 		{
@@ -44,10 +42,10 @@
 			"original": "Jorn: Nein, er könnte etwas entdeckt haben und einen neuen Diebstahl planen. Gleichbedeutend damit, dass wir bald alle gefangen sein werden.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Nein, er könnte etwas entdeckt ",
-				"haben und einen neuen Diebstahl ",
-				"planen.\\.\\. Gleichbedeutend damit, dass ",
-				"wir bald alle gefangen sein werden."
+				"\\c[10]Jorn\\c[0]: No, he might've discovered",
+				"something and started planning a",
+				"new heist.\\.\\. Meaning we'll all be",
+				"back in binds soon."
 			]
 		},
 		{
@@ -55,8 +53,8 @@
 			"original": "Saion: Hey! Ihr werdet nicht glauben, wen ich gesehen habe!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Hey!\\. Ihr werdet nicht ",
-				"glauben, wen ich gesehen habe!"
+				"\\c[10]Saion\\c[0]: Hey!\\. You won't believe who",
+				"I saw!"
 			]
 		},
 		{
@@ -64,10 +62,10 @@
 			"original": "Saion: Sie sind hier! Die Leute, denen wir zu verdanken haben, dass wir fast eingekerkert wurden und uns nun hier in diesem Kaff verstecken!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Sie sind hier!\\. Die Leute, ",
-				"denen wir zu verdanken haben, dass ",
-				"wir fast eingekerkert wurden und uns ",
-				"nun hier in diesem Kaff verstecken!"
+				"\\c[10]Saion\\c[0]: They're here!\\. The people we",
+				"owe it to for almost getting us",
+				"locked up, and now they're",
+				"hiding in this place!"
 			]
 		},
 		{
@@ -75,9 +73,9 @@
 			"original": "Jorn: Den Verantwortlichen DAFÜR sehe ich tagtäglich und er steht gerade vor mir.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Den Verantwortlichen DAFÜR",
-				"sehe ich tagtäglich und er steht ",
-				"gerade vor mir."
+				"\\c[10]Jorn\\c[0]: I see the person responsible",
+				"for that every day and he's standing",
+				"right in front of me."
 			]
 		},
 		{
@@ -85,9 +83,9 @@
 			"original": "Saion: Was zum... Hör auf mit diesen Unterstellungen oder du kriegst ein paar hinter die Löffel!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Was zum...\\. Hör auf mit diesen ",
-				"Unterstellungen oder du kriegst ein ",
-				"paar hinter die Löffel!"
+				"\\c[10]Saion\\c[0]: What the...\\. Stop it with these",
+				"insinuations or your ear is gonna get",
+				"it this time!"
 			]
 		},
 		{
@@ -95,9 +93,8 @@
 			"original": "Saion: Wie auch immer... Sie sind hier! Die Soldaten die uns in Sinkholm ertappt haben.",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Wie auch immer...\\. Sie sind ",
-				"hier!\\. Die Soldaten die uns in ",
-				"Sinkholm ertappt haben."
+				"\\c[10]Saion\\c[0]: Anyways...\\. They're here!\\. The",
+				"soldiers who caught us in Sinkholm."
 			]
 		},
 		{
@@ -105,7 +102,7 @@
 			"original": "Jorn: Joa, schön zu wissen, und?",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Joa,\\. schön zu wissen,\\. und?"
+				"\\c[10]Jorn\\c[0]: Yeah,\\. nice to know,\\. isn't it?"
 			]
 		},
 		{
@@ -113,8 +110,8 @@
 			"original": "Saion: Wie und? Wir werden endlich unsere lang ersehnte Rache bekommen!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Wie und?\\. Wir werden endlich ",
-				"unsere lang ersehnte Rache bekommen!"
+				"\\c[10]Saion\\c[0]: And so?\\. We'll finally get our",
+				"long-awaited revenge!"
 			]
 		},
 		{
@@ -122,8 +119,7 @@
 			"original": "Jorn: Das ist nicht dein Ernst, oder?",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Das ist nicht dein Ernst, ",
-				"oder?"
+				"\\c[10]Jorn\\c[0]: You can't be serious, can you?"
 			]
 		},
 		{
@@ -131,9 +127,9 @@
 			"original": "Saion: Jorn, wir müssen den Leuten zeigen, dass sie es bereuen werden, wenn sie sich mit uns anlegen!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Jorn, wir müssen den Leuten ",
-				"zeigen, dass sie es bereuen werden, ",
-				"wenn sie sich mit uns anlegen!"
+				"\\c[10]Saion\\c[0]: Jorn, we have to show people",
+				"that they'll regret it if they dare",
+				"to mess with us!"
 			]
 		},
 		{
@@ -141,9 +137,9 @@
 			"original": "Jorn: Saion, das ist Wahnsinn! Wir sollten froh sein, das wir gerade auf freiem Fuß sind!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Saion, das ist Wahnsinn!\\. Wir ",
-				"sollten froh sein, das wir gerade ",
-				"auf freiem Fuß sind!"
+				"\\c[10]Jorn\\c[0]: Saion, that's insane!\\. We should",
+				"be glad that we're free at the",
+				"moment!"
 			]
 		},
 		{
@@ -151,9 +147,9 @@
 			"original": "Gurim: Das stimmt Saion. Der Racheakt würde nur dazu führen, dass wir wieder eingesperrt werden...",
 			"lines":
 			[
-				"\\c[10]Gurim\\c[0]: Das stimmt Saion.\\. Der ",
-				"Racheakt würde nur dazu führen, dass ",
-				"wir wieder eingesperrt werden..."
+				"\\c[10]Gurim\\c[0]: That's right Saion.\\. This petty",
+				"revenge is only gonna get us locked",
+				"up again..."
 			]
 		},
 		{
@@ -161,10 +157,10 @@
 			"original": "Saion: Ich kann nicht glauben, was ich da höre! Wozu haben wir bitte die letzten Tage durchgehend trainiert? Um davon zu laufen?",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Ich kann nicht glauben, was ",
-				"ich da höre!\\. Wozu haben wir bitte ",
-				"die letzten Tage durchgehend ",
-				"trainiert?\\. Um davon zu laufen?"
+				"\\c[10]Saion\\c[0]: I can't believe what I'm",
+				"hearing!\\. What were we training",
+				"for in the past few days then?\\.",
+				"Just to run away?"
 			]
 		},
 		{
@@ -172,8 +168,7 @@
 			"original": "Jorn: Um uns im Notfall zu verteidigen...",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Um uns im Notfall zu ",
-				"verteidigen..."
+				"\\c[10]Jorn\\c[0]: To defend us in an emergency..."
 			]
 		},
 		{
@@ -181,9 +176,8 @@
 			"original": "Saion: NEIN, um es den Leuten heimzuzahlen, die sich mit uns angelegt haben!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: NEIN, um es den Leuten ",
-				"heimzuzahlen, die sich mit uns ",
-				"angelegt haben!"
+				"\\c[10]Saion\\c[0]: NO, to get payback to the",
+				"people who messed with us!"
 			]
 		},
 		{
@@ -191,8 +185,7 @@
 			"original": "Saion: Und jetzt hört euch meinen Plan an...",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Und jetzt hört euch meinen ",
-				"Plan an..."
+				"\\c[10]Saion\\c[0]: Now listen to my plan..."
 			]
 		}
 	]

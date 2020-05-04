@@ -42,9 +42,9 @@ After the first major release, the `dev` branch will still be used so there aren
 - Mount Toras: 100%
 - Wayfarer's Inn: 100%
 - The Corine Plateau: 100%
-- Gencorin Pt I: 8%
+- Gencorin Pt I: 60%
 - The Silvan Forest: 100%
 - The Mysterious Fortress: 100%
-- Gencorin Pt II: 0%
+- Gencorin Pt II: 7%
 - The Helnovien Prison: 1%
 - The Helnovien Mine: 0%

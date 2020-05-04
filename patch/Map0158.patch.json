@@ -6,10 +6,9 @@
 			"original": "Händler: Holen Sie sich den Habilisring und jeder Gegner wird es sich zweimal überlegen bevor er Sie angreift! Wieso? Weil Sie mit Sicherheit zurück schlagen werden!",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Holen Sie sich den Habilisring und jeder ",
-				"Gegner wird es sich zweimal überlegen bevor er Sie ",
-				"angreift! Wieso? Weil Sie mit Sicherheit zurück ",
-				"schlagen werden!"
+				"\\c[10]Trader\\c[0]: Get this habilis ring and every opponent",
+				"will think twice before attacking you! How, you",
+				"might ask? Because you'll definitely strike back!"
 			]
 		},
 		{
@@ -17,8 +16,8 @@
 			"original": "Kento: Verschlossen. Kein Wunder, bei der Uhrzeit.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Verschlossen.\\. Kein Wunder, ",
-				"bei der Uhrzeit."
+				"\\c[1]\\n[1]\\c[0]: Locked.\\. No wonder, considering",
+				"the time of day."
 			]
 		},
 		{
@@ -26,8 +25,8 @@
 			"original": "Kento: Verschlossen. Kein Wunder, bei der Uhrzeit.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Verschlossen.\\. Kein Wunder, ",
-				"bei der Uhrzeit."
+				"\\c[1]\\n[1]\\c[0]: Locked.\\. No wonder, considering",
+				"the time of day."
 			]
 		},
 		{
@@ -35,8 +34,8 @@
 			"original": "Kento: Verschlossen. Kein Wunder, bei der Uhrzeit.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Verschlossen.\\. Kein Wunder, ",
-				"bei der Uhrzeit."
+				"\\c[1]\\n[1]\\c[0]: Locked.\\. No wonder, considering",
+				"the time of day."
 			]
 		},
 		{
@@ -44,9 +43,9 @@
 			"original": "Frau: Morgen werde ich noch mal Flajo-Früchte in Nord-Gencorin kaufen, solange sie noch welche haben.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Morgen werde ich noch mal Flajo-Früchte in ",
-				"Nord-Gencorin kaufen, solange sie noch welche ",
-				"haben."
+				"\\c[10]Woman\\c[0]: Tomorrow, I'll buy some flajo fruits in",
+				"North Gencorin again while they still have",
+				"them in stock."
 			]
 		},
 		{
@@ -55,10 +54,10 @@
 			"original": "Cibon: Müssen eigentlich alle Bewohner des Dorfes bei jeder Überschreitung der Grenze sich diese Regeln anhören und all den Kram?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Müssen eigentlich alle ",
-				"Bewohner des Dorfes bei jeder ",
-				"Überschreitung der Grenze sich diese ",
-				"Regeln anhören und all den Kram?"
+				"\\c[2]\\n[2]\\c[0]: Does everyone here have to",
+				"listen to these rules and all the",
+				"stuff every time they cross the",
+				"border?"
 			]
 		},
 		{
@@ -67,10 +66,10 @@
 			"original": "Frau: Hehe, nein, jeder Bewohner von Gencorin hat einen Pass mit dem er ohne große Kompromisse über die Grenze hinaus kann, solange er Gencorin nicht verlässt und vor Abenddämmerung wieder zurück ist.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Hehe, nein, jeder Bewohner von Gencorin hat ",
-				"einen Pass mit dem er ohne große Kompromisse über ",
-				"die Grenze hinaus kann, solange er Gencorin nicht ",
-				"verlässt und vor Abenddämmerung wieder zurück ist."
+				"\\c[10]Woman\\c[0]: Hehe, no, every Gencorin resident has a",
+				"pass which lets them cross the border without the",
+				"hassle, as long as that person doesn't leave the",
+				"other side of Gencorin and is back before dusk."
 			]
 		},
 		{
@@ -79,7 +78,7 @@
 			"original": "Cibon: So ist das also...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: So ist das also..."
+				"\\c[2]\\n[2]\\c[0]: So that's it then..."
 			]
 		},
 		{
@@ -87,8 +86,8 @@
 			"original": "Rothaariges Mädchen: Du wirst nicht glauben, wen ich Gestern wieder gesehen habe!",
 			"lines":
 			[
-				"\\c[10]Rothaariges Mädchen\\c[0]: Du wirst nicht glauben, wen ",
-				"ich Gestern wieder gesehen habe! "
+				"\\c[10]Red-Haired Girl\\c[0]: You won't believe who I saw",
+				"again yesterday!"
 			]
 		},
 		{
@@ -96,7 +95,7 @@
 			"original": "Blondes Mädchen: Wen, wen, WEN?",
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Wen,\\. wen,\\. WEN?"
+				"\\c[10]Blonde Girl\\c[0]: Who,\\. who,\\. who?"
 			]
 		},
 		{
@@ -104,8 +103,8 @@
 			"original": "Rothaariges Mädchen: Ihn... du weißt schon, der auch vorgestern hier war...!",
 			"lines":
 			[
-				"\\c[10]Rothaariges Mädchen\\c[0]: Ihn...\\. du weißt schon,\\. der ",
-				"auch vorgestern hier war...!"
+				"\\c[10]Red-Haired Girl\\c[0]: Him...\\. You know,\\. the guy who was",
+				"here the day before yesterday!"
 			]
 		},
 		{
@@ -113,7 +112,7 @@
 			"original": "Blondes Mädchen: Nein! Hast du ihn angesprochen?",
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Nein!\\. Hast du ihn angesprochen?"
+				"\\c[10]Blonde Girl\\c[0]: No way!\\. Did you talk to him?"
 			]
 		},
 		{
@@ -121,9 +120,8 @@
 			"original": "Rothaariges Mädchen: Nein... ich konnte keinen Schritt machen, ich war wie erstarrt... aber... er hat mich angeschaut!",
 			"lines":
 			[
-				"\\c[10]Rothaariges Mädchen\\c[0]: Nein...\\. ich konnte keinen ",
-				"Schritt machen,\\. ich war wie erstarrt...\\. aber...\\. er ",
-				"hat mich angeschaut!"
+				"\\c[10]Red-Haired Girl\\c[0]: No...\\. I couldn't take a step,\\.",
+				"I was frozen...\\. but...\\. he looked at me!"
 			]
 		},
 		{
@@ -131,7 +129,7 @@
 			"original": "Blondes Mädchen: Wie? Wie hat er dich angeschaut?",
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Wie?\\. Wie hat er dich angeschaut?"
+				"\\c[10]Blonde Girl\\c[0]: How?\\. How did he look at you?"
 			]
 		},
 		{
@@ -139,8 +137,8 @@
 			"original": "Rothaariges Mädchen: Angelächelt hat er mich! Ich glaub ich bin richtig rot geworden...",
 			"lines":
 			[
-				"\\c[10]Rothaariges Mädchen\\c[0]: Angelächelt hat er mich!\\. Ich ",
-				"glaub ich bin richtig rot geworden..."
+				"\\c[10]Red-Haired Girl\\c[0]: He smiled at me!\\.",
+				"I think I blushed..."
 			]
 		},
 		{
@@ -148,9 +146,9 @@
 			"original": "Blondes Mädchen: Ohh... wie peinlich... Aber ich glaube mir wäre es nicht anders ergangen. Der Typ ist ja ein Traum.",
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Ohh...\\. wie peinlich...\\.",
-				"Aber ich glaube mir wäre es nicht anders ergangen.\\.",
-				"Der Typ ist ja ein Traum."
+				"\\c[10]Blonde Girl\\c[0]: Ohh...\\. How embarrassing...\\. But",
+				"I don't think I would've been any different.\\.",
+				"The guy is so dreamy."
 			]
 		},
 		{
@@ -158,8 +156,8 @@
 			"original": "Rothaariges Mädchen: Ja, da kann höchstens Melanus Aureeus noch mithalten.",
 			"lines":
 			[
-				"\\c[10]Rothaariges Mädchen\\c[0]: Ja, da kann höchstens ",
-				"Melanus Aureeus noch mithalten."
+				"\\c[10]Red-Haired Girl\\c[0]: Yeah, at most we can only keep",
+				"up with Melanus Aureeus."
 			]
 		},
 		{
@@ -167,8 +165,8 @@
 			"original": "Blondes Mädchen: Hoffentlich wird er hier noch öfter vorbeikommen...",
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Hoffentlich wird er hier noch ",
-				"öfter vorbeikommen..."
+				"\\c[10]Blonde Girl\\c[0]: Hopefully he'll come over here more",
+				"often..."
 			]
 		},
 		{
@@ -177,7 +175,7 @@
 			"original": "Cibon: Von wem reden die da?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Von wem reden die da?"
+				"\\c[2]\\n[2]\\c[0]: Who are they talking about?"
 			]
 		},
 		{
@@ -186,7 +184,7 @@
 			"original": "Kento: Mit Sicherheit nicht von dir.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Mit Sicherheit nicht von dir."
+				"\\c[1]\\n[1]\\c[0]: Certainly not about you."
 			]
 		},
 		{
@@ -195,9 +193,9 @@
 			"original": "Soko: Oh... Melanus Aureeus... Den Namen hab ich schon mal gehört, glaube ich...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Oh... Melanus Aureeus... ",
-				"Den Namen hab ich schon mal gehört, ",
-				"glaube ich..."
+				"\\c[13]\\n[3]\\c[0]: Oh... Melanus Aureeus... I've",
+				"heard the name before somewhere,",
+				"I think..."
 			]
 		},
 		{
@@ -206,9 +204,9 @@
 			"original": "Rothaariges Mädchen: WAS?! Ihr wisst nicht wer Melanus Aureeus ist?! In welchem Loch habt ihr bitte bis heute gelebt?",
 			"lines":
 			[
-				"\\c[10]Rothaariges Mädchen\\c[0]: WAS?!\\. Ihr wisst nicht wer ",
-				"Melanus Aureeus ist?!\\. In welchem Loch habt ",
-				"ihr bitte bis heute gelebt?"
+				"\\c[10]Red-Haired Girl\\c[0]: WHAT?!\\. You don't know who",
+				"Melanus Aureeus is?!\\. What kind of rock have",
+				"you been living under all these years?"
 			]
 		},
 		{
@@ -217,11 +215,12 @@
 			"original": "Blondes Mädchen: Melanus ist der Traummann schlecht hin! Ein Mitglied des farenischen Adelbundes! Ein richtiger Gentleman! Und glaube mir: Jede Frau, die ihn kennt, denkt so!",
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Melanus ist der Traummann ",
-				"schlecht hin!\\. Ein Mitglied des farenischen ",
-				"Adelbundes!\\. Ein richtiger Gentleman!\\. Und glaube ",
-				"mir: Jede Frau, die ihn kennt, denkt so!"
-			]
+				"\\c[10]Blonde Girl\\c[0]: Melanus is the dream man everyone's",
+				"going crazy for!\\. A member of the Farenian",
+				"Aristocracy!\\. A real gentleman!\\. And trust me:",
+				"Every woman who knows him thinks that way!"
+			],
+			"__comment__": "\"He is the dreamiest dream to dream the dream for! So keep dreaming that dreamed-up dream!\" dreeeeam"
 		},
 		{
 			"path": [124,1,46,1],
@@ -229,7 +228,7 @@
 			"original": "Cibon: Oho, ja, Wahnsinn.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Oho, ja, Wahnsinn."
+				"\\c[2]\\n[2]\\c[0]: Tsk,\\. \\s[5]sure...\\s[0]\\. Madness."
 			]
 		},
 		{
@@ -238,9 +237,10 @@
 			"original": "Kento: Muss toll sein, wenn man so von allen Frauen des Landes verehrt wird, oder Cibon?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Muss toll sein, wenn man so ",
-				"von allen Frauen des Landes verehrt ",
-				"wird, oder Cibon?"
+				"\\c[1]\\n[1]\\c[0]: Would be nice if you were",
+				"worshipped like this by all the",
+				"women in the country, ain't",
+				"that right, Cibon?"
 			]
 		},
 		{
@@ -249,8 +249,8 @@
 			"original": "Cibon: Pah, keine Kunst, wenn man das Geld hat.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Pah, keine Kunst, wenn man ",
-				"das Geld hat."
+				"\\c[2]\\n[2]\\c[0]: Pfft, there's no art if it's",
+				"all about the money."
 			]
 		},
 		{
@@ -259,7 +259,7 @@
 			"original": "Kento: Da ist jemand neidisch...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Da ist jemand neidisch..."
+				"\\c[1]\\n[1]\\c[0]: Someone's jealous..."
 			]
 		},
 		{
@@ -268,7 +268,7 @@
 			"original": "Cibon: Ich? Wo denkste hin!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich?\\. Wo denkste hin!"
+				"\\c[2]\\n[2]\\c[0]: Me?\\. Shut up already!"
 			]
 		},
 		{
@@ -276,9 +276,9 @@
 			"original": "Händlerin: Haben Sie es auch satt ständig vom Gegner eingeschläfert zu werden? Dann ist das Windsiegel genau das richtige für Sie!",
 			"lines":
 			[
-				"\\c[10]Händlerin\\c[0]: Haben Sie es auch satt ständig vom ",
-				"Gegner eingeschläfert zu werden?\\. Dann ist das ",
-				"Windsiegel genau das richtige für Sie!"
+				"\\c[10]Trader\\c[0]: Are you tired of constantly being put to",
+				"sleep by your opponents?\\. Heh.\\. Then this wind seal",
+				"is just for you!"
 			]
 		},
 		{
@@ -286,8 +286,8 @@
 			"original": "Händlerin: Kaufen Sie Pfeffer aus dem Süden um ihrem Gerichten das gewisse Extra zu geben!",
 			"lines":
 			[
-				"\\c[10]Händlerin\\c[0]: Kaufen Sie Pfeffer aus dem Süden um ",
-				"ihrem Gerichten das gewisse Extra zu geben!"
+				"\\c[10]Trader\\c[0]: Buy southern pepper to give your dishes",
+				"that extra something!"
 			]
 		},
 		{
@@ -295,9 +295,9 @@
 			"original": "Mann: In letzter Zeit wurden hier zunehmen Soldaten in der Nähe der Grenze gesichtet. Ob die vom farenischen Adelsbund geschickt wurden?",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: In letzter Zeit wurden hier zunehmen ",
-				"Soldaten in der Nähe der Grenze gesichtet.\\. Ob die ",
-				"vom farenischen Adelsbund geschickt wurden?"
+				"\\c[10]Man\\c[0]: Lately, soldiers have been spotted near the",
+				"border.\\. Did they come from the Farenian",
+				"Aristocracy?"
 			]
 		},
 		{
@@ -305,9 +305,9 @@
 			"original": "Mann: Seit Ende des Krieges sieht man selten Soldaten durchs Land streifen, angesehen von den wenigen an der Grenze.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Seit Ende des Krieges sieht man selten ",
-				"Soldaten durchs Land streifen, angesehen von den ",
-				"wenigen an der Grenze."
+				"\\c[10]Man\\c[0]: Ever since the end of the war, soldiers have",
+				"rarely been seen roaming the country and have",
+				"mostly been seen by the few at the border."
 			]
 		},
 		{
@@ -315,10 +315,10 @@
 			"original": "Mann: Hoffentlich macht der farenische Adelsbund nichts Unüberlegtes. Es ist zwar schon schlimm, was Brigantia angestellt hat, aber ich möchte keinen zweiten Krieg erleben. Alles nur das nicht",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Hoffentlich macht der farenische Adelsbund ",
-				"nichts Unüberlegtes.\\. Es ist zwar schon schlimm, ",
-				"was Brigantia angestellt hat, aber ich möchte ",
-				"keinen zweiten Krieg erleben.\\. Alles nur das nicht"
+				"\\c[10]Man\\c[0]: Hopefully, the Farenian Aristocratic League",
+				"doesn't do anything impulsive.\\. It's bad enough",
+				"what Brigantia did to us, but I don't want to",
+				"experience a second war.\\. None of that stuff."
 			]
 		},
 		{
@@ -326,10 +326,10 @@
 			"original": "Mann: Die verdammten Wölfe. Wart ihr schon mal im Silvanwald? Seit auf jeden fall vorbereitet, denn die Wölfe die dort rumwütend werden zunehmen aggressiver. Und es werden immer mehr.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Die verdammten Wölfe. Wart ihr schon mal im ",
-				"Silvanwald?\\. Seit auf jeden fall vorbereitet, denn ",
-				"die Wölfe die dort rumwütend werden zunehmen ",
-				"aggressiver.\\. Und es werden immer mehr."
+				"\\c[10]Man\\c[0]: Those damn wolves.\\. Have you ever been to the",
+				"Silvan Forest?\\. Be prepared in any case, because",
+				"the wolves that get angry there are becoming more",
+				"aggressive.\\. And there are more and more of them."
 			]
 		},
 		{
@@ -337,9 +337,10 @@
 			"original": "Mann: Wenn man nicht bald was gegen diese Plage tut gewinnt sie an Überhand. Dann kann man die Forstwirtschaft in der Gegend vergessen.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Wenn man nicht bald was gegen diese Plage ",
-				"tut gewinnt sie an Überhand.\\. Dann kann man die ",
-				"Forstwirtschaft in der Gegend vergessen."
+				"\\c[10]Man\\c[0]: If we don't do something about these pests",
+				"soon, they'll gain the upper hand.\\. Then we can",
+				"just forget about our lumber prospects in the",
+				"area."
 			]
 		},
 		{
@@ -347,8 +348,8 @@
 			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
-				"besser nicht verlassen."
+				"\\c[1]\\n[1]\\c[0]: We better not leave the city",
+				"right now."
 			]
 		},
 		{
@@ -356,9 +357,8 @@
 			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
-				"die Stadt jenseits der Grenze zu ",
-				"verlassen."
+				"\\c[1]\\n[1]\\c[0]: It'd be too dangerous to leave",
+				"the city across the border now."
 			]
 		},
 		{
@@ -366,8 +366,8 @@
 			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
-				"besser nicht verlassen."
+				"\\c[1]\\n[1]\\c[0]: We better not leave the city",
+				"right now."
 			]
 		},
 		{
@@ -375,9 +375,8 @@
 			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
-				"die Stadt jenseits der Grenze zu ",
-				"verlassen."
+				"\\c[1]\\n[1]\\c[0]: It'd be too dangerous to leave",
+				"the city across the border now."
 			]
 		},
 		{
@@ -385,8 +384,8 @@
 			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
-				"besser nicht verlassen."
+				"\\c[1]\\n[1]\\c[0]: We better not leave the city",
+				"right now."
 			]
 		},
 		{
@@ -394,9 +393,8 @@
 			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
-				"die Stadt jenseits der Grenze zu ",
-				"verlassen."
+				"\\c[1]\\n[1]\\c[0]: It'd be too dangerous to leave",
+				"the city across the border now."
 			]
 		},
 		{
@@ -404,8 +402,8 @@
 			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
-				"besser nicht verlassen."
+				"\\c[1]\\n[1]\\c[0]: We better not leave the city",
+				"right now."
 			]
 		},
 		{
@@ -413,9 +411,8 @@
 			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
-				"die Stadt jenseits der Grenze zu ",
-				"verlassen."
+				"\\c[1]\\n[1]\\c[0]: It'd be too dangerous to leave",
+				"the city across the border now."
 			]
 		},
 		{
@@ -423,8 +420,8 @@
 			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
-				"besser nicht verlassen."
+				"\\c[1]\\n[1]\\c[0]: We better not leave the city",
+				"right now."
 			]
 		},
 		{
@@ -432,9 +429,8 @@
 			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
-				"die Stadt jenseits der Grenze zu ",
-				"verlassen."
+				"\\c[1]\\n[1]\\c[0]: It'd be too dangerous to leave",
+				"the city across the border now."
 			]
 		},
 		{
@@ -442,8 +438,8 @@
 			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
-				"besser nicht verlassen."
+				"\\c[1]\\n[1]\\c[0]: We better not leave the city",
+				"right now."
 			]
 		},
 		{
@@ -451,9 +447,8 @@
 			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
-				"die Stadt jenseits der Grenze zu ",
-				"verlassen."
+				"\\c[1]\\n[1]\\c[0]: It'd be too dangerous to leave",
+				"the city across the border now."
 			]
 		},
 		{
@@ -461,8 +456,8 @@
 			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
-				"besser nicht verlassen."
+				"\\c[1]\\n[1]\\c[0]: We better not leave the city",
+				"right now."
 			]
 		},
 		{
@@ -470,9 +465,8 @@
 			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
-				"die Stadt jenseits der Grenze zu ",
-				"verlassen."
+				"\\c[1]\\n[1]\\c[0]: It'd be too dangerous to leave",
+				"the city across the border now."
 			]
 		},
 		{
@@ -480,8 +474,8 @@
 			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
-				"besser nicht verlassen."
+				"\\c[1]\\n[1]\\c[0]: We better not leave the city",
+				"right now."
 			]
 		},
 		{
@@ -489,9 +483,8 @@
 			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
-				"die Stadt jenseits der Grenze zu ",
-				"verlassen."
+				"\\c[1]\\n[1]\\c[0]: It'd be too dangerous to leave",
+				"the city across the border now."
 			]
 		},
 		{
@@ -499,8 +492,8 @@
 			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
-				"besser nicht verlassen."
+				"\\c[1]\\n[1]\\c[0]: We better not leave the city",
+				"right now."
 			]
 		},
 		{
@@ -508,9 +501,8 @@
 			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
-				"die Stadt jenseits der Grenze zu ",
-				"verlassen."
+				"\\c[1]\\n[1]\\c[0]: It'd be too dangerous to leave",
+				"the city across the border now."
 			]
 		},
 		{
@@ -518,8 +510,8 @@
 			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
-				"besser nicht verlassen."
+				"\\c[1]\\n[1]\\c[0]: We better not leave the city",
+				"right now."
 			]
 		},
 		{
@@ -527,9 +519,8 @@
 			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
-				"die Stadt jenseits der Grenze zu ",
-				"verlassen."
+				"\\c[1]\\n[1]\\c[0]: It'd be too dangerous to leave",
+				"the city across the border now."
 			]
 		},
 		{
@@ -537,8 +528,7 @@
 			"original": "Soko: Wir... wir haben es geschafft...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wir...\\. wir haben es ",
-				"geschafft..."
+				"\\c[13]\\n[3]\\c[0]: We...\\. We made it..."
 			]
 		},
 		{
@@ -546,7 +536,7 @@
 			"original": "Cibon: Das war wirklich knapp.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Das war wirklich knapp."
+				"\\c[2]\\n[2]\\c[0]: That was really close."
 			]
 		},
 		{
@@ -554,10 +544,9 @@
 			"original": "Kento: Wir dürfen keine Zeit verschwenden. Sofort zur Grenze! Wir müssen den Wachleuten bescheid geben.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir dürfen keine Zeit ",
-				"verschwenden.\\. Sofort zur Grenze!\\. Wir ",
-				"müssen den Wachleuten bescheid ",
-				"geben."
+				"\\c[1]\\n[1]\\c[0]: We can't waste time.\\. To the",
+				"border,\\. immediately!\\. We have to let",
+				"the guards know about what we found."
 			]
 		},
 		{
@@ -565,8 +554,8 @@
 			"original": "Kento: Wir sollten die Stadt jetzt besser nicht verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten die Stadt jetzt ",
-				"besser nicht verlassen."
+				"\\c[1]\\n[1]\\c[0]: We better not leave the city",
+				"right now."
 			]
 		},
 		{
@@ -574,9 +563,8 @@
 			"original": "Kento: Es wäre zu unsicher, jetzt die Stadt jenseits der Grenze zu verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es wäre zu unsicher, jetzt ",
-				"die Stadt jenseits der Grenze zu ",
-				"verlassen."
+				"\\c[1]\\n[1]\\c[0]: It'd be too dangerous to leave",
+				"the city across the border now."
 			]
 		}
 	]
