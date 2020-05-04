@@ -6,8 +6,8 @@
 			"original": "Frau: Liebling, die Gerüchte stimmen! Ich hab sie letztens selber gesehen.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Liebling, die Gerüchte stimmen!\\. Ich hab sie ",
-				"letztens selber gesehen."
+				"\\c[10]Woman\\c[0]: Darling, the rumors are true!\\. I saw them",
+				"myself recently."
 			]
 		},
 		{
@@ -15,7 +15,7 @@
 			"original": "Mann: Was denn, mein Schatz?",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Was denn, mein Schatz?"
+				"\\c[10]Man\\c[0]: What is it, honey?"
 			]
 		},
 		{
@@ -23,8 +23,7 @@
 			"original": "Frau: Diese Leute in Rüstung, jenseits der Grenze...!",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Diese Leute in Rüstung,\\. jenseits der ",
-				"Grenze...!"
+				"\\c[10]Woman\\c[0]: Those people in armor across the border!"
 			]
 		},
 		{
@@ -32,10 +31,10 @@
 			"original": "Mann: Schatz, wir haben hier eine Grenze. An einer Grenze sind Soldaten, die nun mal Wache halten. Und ja: Auch in Korzojeno haben sie Soldaten dafür.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Schatz, wir haben hier eine Grenze.\\. An ",
-				"einer Grenze sind Soldaten, die nun mal Wache ",
-				"halten.\\. Und ja: Auch in Korzojeno haben sie ",
-				"Soldaten dafür."
+				"\\c[10]Man\\c[0]: Honey, we have a border here.\\. There are",
+				"soldiers on the border who are constantly on",
+				"guard.\\. And yes, they also have soldiers from",
+				"Korzojeno."
 			]
 		},
 		{
@@ -43,8 +42,8 @@
 			"original": "Frau: Sie sehen aber nicht wie normale Korzojenische Soldaten aus...!",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Sie sehen aber nicht wie normale ",
-				"Korzojenische Soldaten aus...!"
+				"\\c[10]Woman\\c[0]: But they don't look like normal",
+				"Korzojenish soldiers!"
 			]
 		},
 		{
@@ -52,10 +51,8 @@
 			"original": "Mann: Ach was. Vielleicht haben sie nur eine neue Ausrüstung bekommen oder so was in der Richtung. Mach doch nicht gleich aus einer Fliege einen Elefanten.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Ach was. Vielleicht haben sie nur eine neue ",
-				"Ausrüstung bekommen oder so was in der Richtung.\\.",
-				"Mach doch nicht gleich aus einer Fliege einen ",
-				"Elefanten."
+				"\\c[10]Man\\c[0]: Hmph.\\. Maybe they just got new equipment or",
+				"something.\\. Don't make mountains out of molehills."
 			]
 		}
 	]

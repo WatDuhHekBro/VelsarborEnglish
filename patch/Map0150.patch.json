@@ -6,9 +6,10 @@
 			"original": "Alte Frau: Unglaublich was für Sachen es alle zu kaufen gibt heutzutage... Früher gab es hier Brot, Gemüse wie Lokri-Knollen und etwas Fleisch.",
 			"lines":
 			[
-				"\\c[10]Alte Frau\\c[0]: Unglaublich was für Sachen es alle zu ",
-				"kaufen gibt heutzutage...\\. Früher gab es hier Brot, ",
-				"Gemüse wie Lokri-Knollen und etwas Fleisch. "
+				"\\c[10]Old Woman\\c[0]: Unbelievable how many things there are",
+				"to buy nowadays...\\. In the past, all there was",
+				"were things like bread, vegetables like Lokri",
+				"potatoes, and some meat."
 			]
 		},
 		{
@@ -16,10 +17,10 @@
 			"original": "Alte Frau: Und heute bieten sie so merkwürdige Sachen wie \"Heilsirub\" an. Ich werde so ein Zeug niemals trinken, solange man mir nicht sagen kann, was da alles drin ist!",
 			"lines":
 			[
-				"\\c[10]Alte Frau\\c[0]: Und heute bieten sie so merkwürdige ",
-				"Sachen wie \"Heilsirub\" an.\\. Ich werde so ein Zeug ",
-				"niemals trinken, solange man mir nicht sagen kann, ",
-				"was da alles drin ist!"
+				"\\c[10]Old Woman\\c[0]: But nowadays, they offer strange",
+				"things like \"heal syrup\".\\. I'll never drink",
+				"that kind of stuff unless you can tell me",
+				"what's in there!"
 			]
 		},
 		{
@@ -28,8 +29,9 @@
 			"original": "Cibon: Nebenbei, wisst ihr eigentlich woraus das Zeug besteht?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Nebenbei,\\. wisst ihr ",
-				"eigentlich woraus das Zeug besteht?"
+				"\\c[2]\\n[2]\\c[0]: Speaking of which,\\. do you",
+				"happen know what that stuff is",
+				"made of?"
 			]
 		},
 		{
@@ -38,7 +40,7 @@
 			"original": "Kento: Heilsirubs? Hm...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Heilsirubs?\\. Hm..."
+				"\\c[1]\\n[1]\\c[0]: Heal syrup?\\. Hm..."
 			]
 		},
 		{
@@ -47,9 +49,8 @@
 			"original": "Soko: Irgendeine pflanzliche Substanz, versehen mit einer Signum- Aura.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Irgendeine pflanzliche ",
-				"Substanz, versehen mit einer Signum-",
-				"Aura. "
+				"\\c[13]\\n[3]\\c[0]: Any vegetable extract imbued",
+				"with a Signum aura."
 			]
 		},
 		{
@@ -58,10 +59,10 @@
 			"original": "Soko: Aus welchem Pflanzen genau die Substanz besteht, weiß ich nicht, aber es gibt mehr als eine Methode so etwas zuzubreiten.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Aus welchem Pflanzen genau die ",
-				"Substanz besteht, weiß ich nicht, ",
-				"aber es gibt mehr als eine Methode ",
-				"so etwas zuzubreiten."
+				"\\c[13]\\n[3]\\c[0]: I don't know which plants it's",
+				"usually made of, but there's more",
+				"than one way to prepare something",
+				"like that."
 			]
 		},
 		{
@@ -70,8 +71,8 @@
 			"original": "Cibon: In den Dingern steckt also auch Signum? Unglaublich.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: In den Dingern steckt also ",
-				"auch Signum?\\. Unglaublich."
+				"\\c[2]\\n[2]\\c[0]: So there's also Signum in it?\\.",
+				"Wicked."
 			]
 		},
 		{
@@ -79,8 +80,8 @@
 			"original": "Verkäuferin: Benötigen Sie Heilmittel? Wir haben auch praktische Blendbomben im Angebot.",
 			"lines":
 			[
-				"\\c[10]Verkäuferin\\c[0]: Benötigen Sie Heilmittel?\\. Wir haben ",
-				"auch praktische Blendbomben im Angebot."
+				"\\c[10]Saleswoman\\c[0]: Do you need supplies?\\. We also have",
+				"practical smoke bombs in stock."
 			]
 		},
 		{
@@ -88,7 +89,8 @@
 			"original": "Verkäuferin: Verkauft wird über die Theke.",
 			"lines":
 			[
-				"\\c[10]Verkäuferin\\c[0]: Verkauft wird über die Theke."
+				"\\c[10]Saleswoman\\c[0]: We're only selling stuff over the",
+				"counter."
 			]
 		}
 	]

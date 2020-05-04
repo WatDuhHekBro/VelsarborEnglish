@@ -6,9 +6,9 @@
 			"original": "Frau: Hm hm, was koch ich heute? So viele neue Zutaten die man heutzutage kaufen kann! Da macht das Kochen wieder so richtig Spaß!",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Hm hm, was koch ich heute?\\. So viele neue ",
-				"Zutaten die man heutzutage kaufen kann!\\. Da macht ",
-				"das Kochen wieder so richtig Spaß!"
+				"\\c[10]Woman\\c[0]: Hm hm, what shall I cook today?\\. So many",
+				"new ingredients to buy these days!\\. Cooking is",
+				"getting really fun again!"
 			]
 		},
 		{
@@ -16,10 +16,10 @@
 			"original": "Junge: Bitte! Jemand muss meine Mutter stoppen! Seit die Händler hier neuartige Zutaten von sonst woher anbieten, kommt sie auf die verrücktesten Ideen was Gerichte angeht!",
 			"lines":
 			[
-				"\\c[10]Junge\\c[0]: Bitte!\\. Jemand muss meine Mutter stoppen!\\.",
-				"Seit die Händler hier neuartige Zutaten von sonst ",
-				"woher anbieten, kommt sie auf die verrücktesten ",
-				"Ideen was Gerichte angeht!"
+				"\\c[10]Boy\\c[0]: You gotta help me!\\. Someone has to stop my",
+				"mom!\\. Ever since those merchants started offering",
+				"new ingredients from other places, she's had the",
+				"craziest ideas about what to cook!"
 			]
 		},
 		{
@@ -27,9 +27,9 @@
 			"original": "Junge: Und wir sind ihre Versuchskaninchen! Wir dürfen die Ergebnisse all dieser Experimente essen. Sehr lange überleben wir das nicht mehr!",
 			"lines":
 			[
-				"\\c[10]Junge\\c[0]: Und wir sind ihre Versuchskaninchen!\\. Wir ",
-				"dürfen die Ergebnisse all dieser Experimente ",
-				"essen.\\. Sehr lange überleben wir das nicht mehr!"
+				"\\c[10]Boy\\c[0]: And we're her guinea pigs!\\. We're still",
+				"allowed to eat the results of all these",
+				"experiments.\\. We won't survive for very long!"
 			]
 		},
 		{
@@ -38,8 +38,7 @@
 			"original": "Soko: Na komm, so schlimm kann es nun doch wirklich nicht sein.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Na komm, so schlimm kann es ",
-				"nun doch wirklich nicht sein."
+				"\\c[13]\\n[3]\\c[0]: I'm sure it can't be that bad."
 			]
 		},
 		{
@@ -48,10 +47,10 @@
 			"original": "Junge: Ach ja? Was ist mit \"Sardinen in Blauperlen-Pfeffer-Marinade mit Reps-Lokri- Knollen-Püree, Bier-Flajo-Frucht-Soße und Plotio- Strauch-Salat\"?",
 			"lines":
 			[
-				"\\c[10]Junge\\c[0]: Ach ja?\\. Was ist mit\\s[4] \"Sardinen in ",
-				"Blauperlen-Pfeffer-Marinade mit Reps-Lokri-",
-				"Knollen-Püree, Bier-Flajo-Frucht-Soße und Plotio-",
-				"Strauch-Salat\"?"
+				"\\c[10]Boy\\c[0]: Oh really?\\. What about\\s[4] \"sardines in blue",
+				"pearls and pepper marinade with a side of",
+				"sunbread and Lokri potatoes puree, beer and",
+				"flajo fruit sauce, and plotio shrub salad\"?"
 			]
 		},
 		{
@@ -60,7 +59,7 @@
 			"original": "Kento: Du meine Güte...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Du meine Güte..."
+				"\\c[1]\\n[1]\\c[0]: Goodness..."
 			]
 		},
 		{
@@ -69,8 +68,8 @@
 			"original": "Cibon: Wurde das heimische Bier verwendet?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wurde das heimische Bier ",
-				"verwendet?"
+				"\\c[2]\\n[2]\\c[0]: Please don't tell me she used",
+				"the beer around here..."
 			]
 		},
 		{
@@ -79,7 +78,7 @@
 			"original": "Junge: Joa...",
 			"lines":
 			[
-				"\\c[10]Junge\\c[0]: Joa..."
+				"\\c[10]Boy\\c[0]: She did..."
 			]
 		},
 		{
@@ -88,7 +87,7 @@
 			"original": "Cibon: Mein TIEFSTES Beileid, Junge.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Mein TIEFSTES Beileid, Junge."
+				"\\c[2]\\n[2]\\c[0]: My DEEPEST condolences, kid."
 			]
 		},
 		{
@@ -97,7 +96,7 @@
 			"original": "Soko: Plotio... Strauch... Salat...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Plotio...\\. Strauch...\\. Salat..."
+				"\\c[13]\\n[3]\\c[0]: Plotio...\\. shrub...\\. salad..."
 			]
 		}
 	]

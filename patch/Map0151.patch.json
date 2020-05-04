@@ -6,10 +6,10 @@
 			"original": "Mann: Dieser Laden bietet nur Mangelware, was Rüstungsteile angeht. In Domarkor ist die Auswahl eindeutig reicher, aber was soll man auch anderes von so einer Kleinstadt erwarten.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Dieser Laden bietet nur Mangelware, was ",
-				"Rüstungsteile angeht.\\. In Domarkor ist die Auswahl ",
-				"eindeutig reicher, aber was soll man auch anderes ",
-				"von so einer Kleinstadt erwarten."
+				"\\c[10]Man\\c[0]: This store is short on supply with what",
+				"little materials we can get.\\. In Domarkor,",
+				"the selection is clearly richer, but what",
+				"else can you expect from such a small town?"
 			]
 		},
 		{
@@ -17,10 +17,10 @@
 			"original": "Mann: Interessant wiederum sind die Angebote von den Händlern da draußen. Da ist auch Zeug drunter, das man selbst in den großen Städten nicht immer findet, so wie ich das sehe.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Interessant wiederum sind die Angebote von ",
-				"den Händlern da draußen.\\. Da ist auch Zeug drunter, ",
-				"das man selbst in den großen Städten nicht immer ",
-				"findet, so wie ich das sehe."
+				"\\c[10]Man\\c[0]: The offers from the traders out there are",
+				"interesting.\\. There's all sorts of stuff that",
+				"you don't always find even in the big cities,",
+				"as far as I know."
 			]
 		},
 		{
@@ -28,8 +28,8 @@
 			"original": "Verkäufer: Bei all den Räubern da draußen brauchen Sie gute Ausrüstung um zu überleben!",
 			"lines":
 			[
-				"\\c[10]Verkäufer\\c[0]: Bei all den Räubern da draußen brauchen ",
-				"Sie gute Ausrüstung um zu überleben! "
+				"\\c[10]Salesman\\c[0]: With all those robbers out there, you",
+				"need good equipment to survive!"
 			]
 		},
 		{
@@ -37,8 +37,8 @@
 			"original": "Verkäufer: Unsere Rüstungsteile werden nur über die Theke überreicht.",
 			"lines":
 			[
-				"\\c[10]Verkäufer\\c[0]: Unsere Rüstungsteile werden nur über ",
-				"die Theke überreicht."
+				"\\c[10]Salesman\\c[0]: We're only offering our equipment over",
+				"the counter."
 			]
 		}
 	]

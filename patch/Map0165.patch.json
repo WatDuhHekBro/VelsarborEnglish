@@ -6,9 +6,9 @@
 			"original": "Alte Frau: Ihr seid von Brigantia, oder? Lasst euch lieber nicht bei meinem Mann blicken, er wird nicht gut auf euch zu sprechen sein.",
 			"lines":
 			[
-				"\\c[10]Alte Frau\\c[0]: Ihr seid von Brigantia, oder?\\. Lasst ",
-				"euch lieber nicht bei meinem Mann blicken, er wird ",
-				"nicht gut auf euch zu sprechen sein."
+				"\\c[10]Old Woman\\c[0]: You're from Brigantia, right?\\. You'd do",
+				"well not show up around my husband, he won't take",
+				"your visit here too kindly."
 			]
 		},
 		{
@@ -16,10 +16,10 @@
 			"original": "Alte Frau: Es ist nicht nur weil er wie viele andere aus dem Corine Wald vertrieben wurde. Sein Bruder hat im Krieg sein Leben gelassen. Dafür hasst er Brigantia über alles.",
 			"lines":
 			[
-				"\\c[10]Alte Frau\\c[0]: Es ist nicht nur weil er wie viele ",
-				"andere aus dem Corine Wald vertrieben wurde.\\. Sein ",
-				"Bruder hat im Krieg sein Leben gelassen.\\. Dafür ",
-				"hasst er Brigantia über alles."
+				"\\c[10]Old Woman\\c[0]: It isn't just because he was driven",
+				"out of the Corine Forest like many others.\\. His",
+				"brother lost his life in the war.\\. He hates",
+				"Brigantia for everything."
 			]
 		}
 	]
