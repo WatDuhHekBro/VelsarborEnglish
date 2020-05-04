@@ -371,7 +371,7 @@
 			"original": "Mann: Oh, die Sonne geht schon unter. Oh ja, wenn die Nacht einbricht bekommt die Stadt wieder ihren ruhigen Charakter, den sie früher hatte...",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Oh, die Sonne geht schon unter.\\. Oh ja, wenn ",
+				"\\c[10]Man\\c[0]: Oh, die Sonne geht schon unter.\\. Oh ja, wenn ",
 				"die Nacht einbricht bekommt die Stadt wieder ihren ",
 				"ruhigen Charakter, den sie früher hatte..."
 			]
@@ -382,7 +382,7 @@
 			"original": "Mann: Diese Regenschauer gestern Abend war ganz schön heftig. Ich bin froh, dass es mittlerweile wieder aufgehört hat. Man kriegt hier kaum etwas gemacht, wenn es permanent von oben gießt.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Diese Regenschauer gestern Abend war ganz ",
+				"\\c[10]Man\\c[0]: Diese Regenschauer gestern Abend war ganz ",
 				"schön heftig.\\. Ich bin froh, dass es mittlerweile ",
 				"wieder aufgehört hat. \\.Man kriegt hier kaum etwas ",
 				"gemacht, wenn es permanent von oben gießt."
@@ -394,7 +394,7 @@
 			"original": "Mann: Immer mehr Händler bauen hier ihre Stände auf. Ich denke es ist nur ne Frage der Zeit bis die Steuern dafür erhöht werden",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Immer mehr Händler bauen hier ihre Stände ",
+				"\\c[10]Man\\c[0]: Immer mehr Händler bauen hier ihre Stände ",
 				"auf.\\. Ich denke es ist nur ne Frage der Zeit bis ",
 				"die Steuern dafür erhöht werden"
 			]
@@ -405,7 +405,7 @@
 			"original": "Mann: Aber immerhin verdient die Stadt damit gutes Geld, sowohl der Norden als auch der Osten.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Aber immerhin verdient die Stadt damit gutes ",
+				"\\c[10]Man\\c[0]: Aber immerhin verdient die Stadt damit gutes ",
 				"Geld, sowohl der Norden als auch der Osten."
 			]
 		},
@@ -415,7 +415,7 @@
 			"original": "Mann: Wer weiß, in Zukunft könnte hier vielleicht sogar eine Stadt der Größe von Nomerea oder gar Buronia stehen!",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Wer weiß, in Zukunft könnte hier vielleicht ",
+				"\\c[10]Man\\c[0]: Wer weiß, in Zukunft könnte hier vielleicht ",
 				"sogar eine Stadt der Größe von Nomerea oder gar ",
 				"Buronia stehen!"
 			]
@@ -425,7 +425,7 @@
 			"original": "Händler: Wollt ihr weiches Fell haben? Diese Ware ist kaum zu vergleichen mit dem rauen Fell, das man sonst häufig findet. Sie ist um einiges seltener!",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Wollt ihr weiches Fell haben? Diese Ware ",
+				"\\c[10]Merchant\\c[0]: Wollt ihr weiches Fell haben? Diese Ware ",
 				"ist kaum zu vergleichen mit dem rauen Fell, das ",
 				"man sonst häufig findet. Sie ist um einiges ",
 				"seltener!"
@@ -436,7 +436,7 @@
 			"original": "Händler: Probiert ein paar dieser süßen Flajo- Früchte aus dem Süden!",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Probiert ein paar dieser süßen Flajo-",
+				"\\c[10]Merchant\\c[0]: Probiert ein paar dieser süßen Flajo-",
 				"Früchte aus dem Süden!"
 			]
 		},
@@ -445,7 +445,7 @@
 			"original": "Schmied: Wenn ihr genug Panzerschalen und eine Silbermünze habt, kann ich euch einen Käferpanzer anfertigen. Dieses Stück schützt fast doppelt so gut wie der Bronzepanzer, glaubt mir!",
 			"lines":
 			[
-				"\\c[10]Schmied\\c[0]: Wenn ihr genug Panzerschalen und eine ",
+				"\\c[10]Blacksmith\\c[0]: Wenn ihr genug Panzerschalen und eine ",
 				"Silbermünze habt, kann ich euch einen Käferpanzer ",
 				"anfertigen.\\. Dieses Stück schützt fast doppelt so ",
 				"gut wie der Bronzepanzer, glaubt mir!"
@@ -456,7 +456,7 @@
 			"original": "Mann: Ihr seid doch sicherlich den einem oder anderen Hornkäfer über dem Weg gelaufen, als ihr das Corine Plateau durchquert habt, nicht wahr?",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Ihr seid doch sicherlich den einem oder ",
+				"\\c[10]Man\\c[0]: Ihr seid doch sicherlich den einem oder ",
 				"anderen Hornkäfer über dem Weg gelaufen, als ihr ",
 				"das Corine Plateau durchquert habt, nicht wahr?"
 			]
@@ -466,7 +466,7 @@
 			"original": "Mann: Wenn ihr sie besiegt, lassen sie Panzerschalen von wirklich hoher Qualität fallen. Hier gibt es jemanden, der euch aus diesen eine wirklich stabile Rüstung macht.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Wenn ihr sie besiegt, lassen sie ",
+				"\\c[10]Man\\c[0]: Wenn ihr sie besiegt, lassen sie ",
 				"Panzerschalen von wirklich hoher Qualität fallen.",
 				"Hier gibt es jemanden, der euch aus diesen eine ",
 				"wirklich stabile Rüstung macht."
@@ -477,7 +477,7 @@
 			"original": "Mann: Ich weiß, der Gedanke so etwas zu tragen ist etwas merkwürdig, aber der Schutz soll wirklich hervorragend sein.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Ich weiß, der Gedanke so etwas zu tragen ist ",
+				"\\c[10]Man\\c[0]: Ich weiß, der Gedanke so etwas zu tragen ist ",
 				"etwas merkwürdig, aber der Schutz soll wirklich ",
 				"hervorragend sein."
 			]
@@ -516,7 +516,7 @@
 			"original": "Blondes Mädchen: Hachja...",
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Hachja..."
+				"\\c[10]Blonde Girl\\c[0]: Hachja..."
 			]
 		},
 		{
@@ -536,7 +536,7 @@
 			"original": "Blondes Mädchen: Eh...? Mein Name? Ehm... Lisa...",
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Eh...?\\. Mein Name?\\. Ehm...\\. Lisa..."
+				"\\c[10]Blonde Girl\\c[0]: Eh...?\\. Mein Name?\\. Ehm...\\. Lisa..."
 			]
 		},
 		{
@@ -666,7 +666,7 @@
 			"original": "Frau: Ich kann mich noch erinnern, als am Ende des Krieges hier Not und Elend herrschte. Ein Glück, dass sich das verbessert hat.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Ich kann mich noch erinnern, als am Ende des ",
+				"\\c[10]Woman\\c[0]: Ich kann mich noch erinnern, als am Ende des ",
 				"Krieges hier Not und Elend herrschte. \\.",
 				"Ein Glück, dass sich das verbessert hat. "
 			]
@@ -676,7 +676,7 @@
 			"original": "Frau: Förster gibt es hier zwar immer weniger, dafür kann man gutes Geld verdienen, wenn man mit den Reisenden handelt.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Förster gibt es hier zwar immer weniger, \\.",
+				"\\c[10]Woman\\c[0]: Förster gibt es hier zwar immer weniger, \\.",
 				"dafür kann man gutes Geld verdienen, wenn man mit ",
 				"den Reisenden handelt."
 			]
@@ -687,7 +687,7 @@
 			"original": "Mann: Hm, die Stadt gefällt mir besser bei sonnigem Wetter. Aber man kann halt nicht alles haben.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Hm, die Stadt gefällt mir besser bei ",
+				"\\c[10]Man\\c[0]: Hm, die Stadt gefällt mir besser bei ",
 				"sonnigem Wetter.\\. Aber man kann halt nicht alles ",
 				"haben."
 			]
@@ -698,7 +698,7 @@
 			"original": "Mann: Oh, hallo. Noch ein paar Reisende? Wohin soll's denn gehen? Domarkor?",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Oh, hallo.\\. Noch ein paar Reisende?\\. Wohin ",
+				"\\c[10]Man\\c[0]: Oh, hallo.\\. Noch ein paar Reisende?\\. Wohin ",
 				"soll's denn gehen?\\. Domarkor?"
 			]
 		},
@@ -719,7 +719,7 @@
 			"original": "Mann: Ja, was soll man auch sonst erwarten? Hier ist schließlich die Grenze und durchreisen ist kein großes Problem...",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Ja, was soll man auch sonst erwarten?\\. Hier ",
+				"\\c[10]Man\\c[0]: Ja, was soll man auch sonst erwarten?\\. Hier ",
 				"ist schließlich die Grenze und durchreisen ist ",
 				"kein großes Problem..."
 			]
@@ -752,7 +752,7 @@
 			"original": "Mann: Oh, nun ja, da hier die Grenze ist, sind wir aus Brigantia im Norden des Dorfes, während im Süden das korzojenische Volk wohnt.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Oh,\\. nun ja,\\. da hier die Grenze ist, sind wir ",
+				"\\c[10]Man\\c[0]: Oh,\\. nun ja,\\. da hier die Grenze ist, sind wir ",
 				"aus Brigantia im Norden des Dorfes,\\. während im ",
 				"Süden das korzojenische Volk wohnt. "
 			]
@@ -763,7 +763,7 @@
 			"original": "Mann: Aber die Grenzen sind nicht mehr so stark unterteilt, wie es früher einmal war. Als Bürger kann man hier ohne große Umstände beide Teile der Stadt betreten.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Aber die Grenzen sind nicht mehr so stark ",
+				"\\c[10]Man\\c[0]: Aber die Grenzen sind nicht mehr so stark ",
 				"unterteilt, wie es früher einmal war.\\. Als ",
 				"Bürger kann man hier ohne große Umstände beide ",
 				"Teile der Stadt betreten."
@@ -796,7 +796,7 @@
 			"original": "Mann: Ihr meint dieses Menschenpack im Norden? Ja, einige von denen waren hier sesshaft. Es waren hauptsächlich die Leute die hier in der Gegend Forstwirtschaft unternommen haben.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Ihr meint dieses Menschenpack im Norden?\\. Ja, ",
+				"\\c[10]Man\\c[0]: Ihr meint dieses Menschenpack im Norden?\\. Ja, ",
 				"einige von denen waren hier sesshaft.\\. Es waren ",
 				"hauptsächlich die Leute die hier in der Gegend ",
 				"Forstwirtschaft unternommen haben."
@@ -808,7 +808,7 @@
 			"original": "Mann: Nachdem Brigantia nun die Grenzen verschoben hat, wurden diese Leute nach Korzojeno verdrängt. Da dort bereits mehr als genug Förster waren, bekamen sie nichts zu tun.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Nachdem Brigantia nun die Grenzen verschoben ",
+				"\\c[10]Man\\c[0]: Nachdem Brigantia nun die Grenzen verschoben ",
 				"hat, wurden diese Leute nach Korzojeno verdrängt. \\.",
 				"Da dort bereits mehr als genug Förster waren, ",
 				"bekamen sie nichts zu tun."
@@ -820,7 +820,7 @@
 			"original": "Mann: Während einige weiter ins Land reisten, um eine neue Bestimmung zu suchen, haben andere sich stur gestellt und verteidigen deshalb bis heute \"ihre alte Heimat\".",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Während einige weiter ins Land reisten, um ",
+				"\\c[10]Man\\c[0]: Während einige weiter ins Land reisten, um ",
 				"eine neue Bestimmung zu suchen, haben andere sich",
 				"stur gestellt und verteidigen deshalb bis heute ",
 				"\"ihre alte Heimat\"."
@@ -832,7 +832,7 @@
 			"original": "Mann: Kommt nicht selten vor, dass diese Leute uns hier in Gencorin belästigen. Da in Nord-Gencorin brigantisches Volk lebt, halten sie uns für Feinde.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Kommt nicht selten vor, dass diese Leute uns ",
+				"\\c[10]Man\\c[0]: Kommt nicht selten vor, dass diese Leute uns ",
 				"hier in Gencorin belästigen.\\. Da in Nord-Gencorin ",
 				"brigantisches Volk lebt, halten sie uns für ",
 				"Feinde."
@@ -844,7 +844,7 @@
 			"original": "Mann: Nun ja, wie auch immer...",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Nun ja, wie auch immer..."
+				"\\c[10]Man\\c[0]: Nun ja, wie auch immer..."
 			]
 		},
 		{
@@ -853,7 +853,7 @@
 			"original": "Mann: Einen schönen Aufenthalt, wünsche ich.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Einen schönen Aufenthalt, wünsche ich."
+				"\\c[10]Man\\c[0]: Einen schönen Aufenthalt, wünsche ich."
 			]
 		},
 		{
@@ -861,7 +861,7 @@
 			"original": "Junge: Hier kommen öfters Soldaten vorbei um sich Waffen und Rüstung zu kaufen. Sogar die Wachleute von unten schauen hier manchmal vorbei.",
 			"lines":
 			[
-				"\\c[10]Junge\\c[0]: Hier kommen öfters Soldaten vorbei um sich ",
+				"\\c[10]Boy\\c[0]: Hier kommen öfters Soldaten vorbei um sich ",
 				"Waffen und Rüstung zu kaufen.\\. Sogar die Wachleute ",
 				"von unten schauen hier manchmal vorbei."
 			]
@@ -871,7 +871,7 @@
 			"original": "Junge: Wenn ich älter bin, möchte ich auch Soldat werden!",
 			"lines":
 			[
-				"\\c[10]Junge\\c[0]: Wenn ich älter bin, möchte ich auch Soldat ",
+				"\\c[10]Boy\\c[0]: Wenn ich älter bin, möchte ich auch Soldat ",
 				"werden! "
 			]
 		},
@@ -891,7 +891,7 @@
 			"original": "Junge: Ja, das ist blöd. Wieso kann man sich nicht hier zum Soldaten ausbilden lassen?",
 			"lines":
 			[
-				"\\c[10]Junge\\c[0]: Ja, das ist blöd.\\. Wieso kann man sich nicht ",
+				"\\c[10]Boy\\c[0]: Ja, das ist blöd.\\. Wieso kann man sich nicht ",
 				"hier zum Soldaten ausbilden lassen?"
 			]
 		},
@@ -900,7 +900,7 @@
 			"original": "Mädchen: Ein Uchiko! Ich will's reiten, will's reiten!",
 			"lines":
 			[
-				"\\c[10]Mädchen\\c[0]: Ein Uchiko!\\. ",
+				"\\c[10]Girl\\c[0]: Ein Uchiko!\\. ",
 				"Ich will's reiten,\\. will's reiten! "
 			]
 		},
@@ -920,7 +920,7 @@
 			"original": "Braunhaarige Frau: An der Grenze scheint es momentan irgendwie etwas unruhig vorzugehen. Weißt du, was es damit auf sich hat?",
 			"lines":
 			[
-				"\\c[10]Braunhaarige Frau\\c[0]: An der Grenze scheint es ",
+				"\\c[10]Brown-Haired Woman\\c[0]: An der Grenze scheint es ",
 				"momentan irgendwie etwas unruhig vorzugehen.\\. Weißt ",
 				"du, was es damit auf sich hat?"
 			]
@@ -942,7 +942,7 @@
 			"original": "Braunhaarige Frau:  Na so etwas. Können sich da nicht Soldaten aus Domarkor drum kümmern?",
 			"lines":
 			[
-				"\\c[10]Braunhaarige Frau\\c[0]:  Na so etwas.\\. Können sich da ",
+				"\\c[10]Brown-Haired Woman\\c[0]:  Na so etwas.\\. Können sich da ",
 				"nicht Soldaten aus Domarkor drum kümmern?"
 			]
 		},
@@ -952,7 +952,7 @@
 			"original": "Braunhaarige Frau: Hast du schon gehört? Die Diebe, die den Itemladen ausgeraubt hatten wurden doch tatsächlich von ein paar Soldaten geschnappt!",
 			"lines":
 			[
-				"\\c[10]Braunhaarige Frau\\c[0]: Hast du schon gehört?\\. Die ",
+				"\\c[10]Brown-Haired Woman\\c[0]: Hast du schon gehört?\\. Die ",
 				"Diebe, die den Itemladen ausgeraubt hatten wurden ",
 				"doch tatsächlich von ein paar Soldaten geschnappt!"
 			]
@@ -973,7 +973,7 @@
 			"original": "Braunhaarige Frau: Nein, angeblich nur 3 Diebe, die nichts mit den Räubern aus dem Norden zu tun haben.",
 			"lines":
 			[
-				"\\c[10]Braunhaarige Frau\\c[0]: Nein,\\. angeblich nur 3 Diebe, ",
+				"\\c[10]Brown-Haired Woman\\c[0]: Nein,\\. angeblich nur 3 Diebe, ",
 				"die nichts mit den Räubern aus dem Norden zu tun ",
 				"haben. "
 			]
@@ -993,7 +993,7 @@
 			"original": "Braunhaarige Frau: Hast du schon gehört? Vorletzte Nacht sollen ein paar Sachen aus dem Gemischtwarenladen gestohlen worden sein.",
 			"lines":
 			[
-				"\\c[10]Braunhaarige Frau\\c[0]: Hast du schon gehört?\\. Vorletzte ",
+				"\\c[10]Brown-Haired Woman\\c[0]: Hast du schon gehört?\\. Vorletzte ",
 				"Nacht sollen ein paar Sachen aus dem ",
 				"Gemischtwarenladen gestohlen worden sein."
 			]
@@ -1014,7 +1014,7 @@
 			"original": "Braunhaarige Frau: Kann sein. Andererseits... Normalerweise hinterlassen die Räuber immer eine Verwüstung, wenn sie etwas stehlen. Das war diesmal nicht so.",
 			"lines":
 			[
-				"\\c[10]Braunhaarige Frau\\c[0]: Kann sein.\\. Andererseits...\\.",
+				"\\c[10]Brown-Haired Woman\\c[0]: Kann sein.\\. Andererseits...\\.",
 				"Normalerweise hinterlassen die Räuber immer eine ",
 				"Verwüstung, wenn sie etwas stehlen.\\. Das war ",
 				"diesmal nicht so."
@@ -1034,7 +1034,7 @@
 			"original": "Händler: Ich biete hier antike Silbertaler an. Unterschätzt niemals ihren Sammlerwert!",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Ich biete hier antike Silbertaler an. ",
+				"\\c[10]Merchant\\c[0]: Ich biete hier antike Silbertaler an. ",
 				"Unterschätzt niemals ihren Sammlerwert!"
 			]
 		},
@@ -1696,17 +1696,17 @@
 		{
 			"path": [185,2,80],
 			"original": "Ja/Nein",
-			"patch": "Ja/Nein"
+			"patch": "Yes/No"
 		},
 		{
 			"path": [185,2,81],
 			"original": "Ja",
-			"patch": "Ja"
+			"patch": "Yes"
 		},
 		{
 			"path": [185,2,84],
 			"original": "Nein",
-			"patch": "Nein"
+			"patch": "No"
 		}
 	]
 }

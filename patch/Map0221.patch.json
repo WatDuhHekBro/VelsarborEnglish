@@ -1,0 +1,555 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [3,1,3,2],
+			"indent": 1,
+			"original": "Braunhaariger Soldat: Bereitet euch gut vor, heute Nacht geht es los.",
+			"lines":
+			[
+				"\\c[10]Brown-Haired Soldier\\c[0]: Bereitet euch gut vor, heute ",
+				"Nacht geht es los."
+			]
+		},
+		{
+			"path": [3,1,31,1],
+			"indent": 2,
+			"original": "Braunhaariger Soldat: Oh, hallo.",
+			"lines":
+			[
+				"\\c[10]Brown-Haired Soldier\\c[0]: Oh, hallo."
+			]
+		},
+		{
+			"path": [3,1,34,3],
+			"indent": 2,
+			"original": "Kento: Hallo, ich wollte nur mal fragen wie es mit der Verstärkung aussieht.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hallo, ich wollte nur mal ",
+				"fragen wie es mit der Verstärkung ",
+				"aussieht."
+			]
+		},
+		{
+			"path": [3,1,40,4],
+			"indent": 2,
+			"original": "Braunhaariger Soldat: Was erwartest du? Wir haben den Brief vor vielleicht 8 Stunden abgeschickt. Eine Antwort kommt frühestens morgen, wenn wir Glück haben.",
+			"lines":
+			[
+				"\\c[10]Brown-Haired Soldier\\c[0]: Was erwartest du?\\. Wir ",
+				"haben den Brief vor vielleicht 8 Stunden ",
+				"abgeschickt.\\. Eine Antwort kommt frühestens morgen, ",
+				"wenn wir Glück haben."
+			]
+		},
+		{
+			"path": [3,1,46,3],
+			"indent": 2,
+			"original": "Kento: Na gut. Wie wird eigentlich vorgegangen, wenn die Verstärkung eingetroffen ist?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Na gut.\\. Wie wird eigentlich ",
+				"vorgegangen, wenn die Verstärkung ",
+				"eingetroffen ist?"
+			]
+		},
+		{
+			"path": [3,1,50,4],
+			"indent": 2,
+			"original": "Braunhaariger Soldat: Ich denke wir sollten die Truppe schnellstmöglich im Wald aufsuchen, damit sie sich nicht lange auf uns vorbereiten können. Ihr müsst uns dann zu ihr leiten.",
+			"lines":
+			[
+				"\\c[10]Brown-Haired Soldier\\c[0]: Ich denke wir sollten ",
+				"die Truppe schnellstmöglich im Wald aufsuchen, ",
+				"damit sie sich nicht lange auf uns vorbereiten ",
+				"können.\\. Ihr müsst uns dann zu ihr leiten."
+			]
+		},
+		{
+			"path": [3,1,54,2],
+			"indent": 2,
+			"original": "Braunhaariger Soldat: Ihr erinnert euch doch noch an den Standort des Stützpunktes, oder?",
+			"lines":
+			[
+				"\\c[10]Brown-Haired Soldier\\c[0]: Ihr erinnert euch doch ",
+				"noch an den Standort des Stützpunktes, oder?"
+			]
+		},
+		{
+			"path": [3,1,58,3],
+			"indent": 2,
+			"original": "Kento: Ja, das sollte klappen. Allerdings wird es nicht leicht diesen Ort zu erreichen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja, das sollte klappen. \\.",
+				"Allerdings wird es nicht leicht ",
+				"diesen Ort zu erreichen."
+			]
+		},
+		{
+			"path": [3,1,62,3],
+			"indent": 2,
+			"original": "Kento: Bei der Flucht mussten wir eine relativ steile Klippe runter springen...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Bei der Flucht mussten wir ",
+				"eine relativ steile Klippe runter ",
+				"springen..."
+			]
+		},
+		{
+			"path": [3,1,66,3],
+			"indent": 2,
+			"original": "Braunhaariger Soldat: Das wird schon klappen, notfalls müssen wir uns nach einem bessern Weg umschauen.",
+			"lines":
+			[
+				"\\c[10]Brown-Haired Soldier\\c[0]: Das wird schon ",
+				"klappen, notfalls müssen wir uns nach einem ",
+				"bessern Weg umschauen."
+			]
+		},
+		{
+			"path": [3,1,73,4],
+			"indent": 2,
+			"original": "Kento: Wäre es nicht sinnvoll generell in kleinen Trupps die Umgebung zu erkundschaften um sich vorzubereiten?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wäre es nicht sinnvoll ",
+				"generell in kleinen Trupps die ",
+				"Umgebung zu erkundschaften um sich ",
+				"vorzubereiten?"
+			]
+		},
+		{
+			"path": [3,1,77,3],
+			"indent": 2,
+			"original": "Kento: Man könnte auch kleine Späher Trupps bilden, um den Stützpunkt zu finden und zu beobachten.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Man könnte auch kleine Späher ",
+				"Trupps bilden, um den Stützpunkt zu ",
+				"finden und zu beobachten."
+			]
+		},
+		{
+			"path": [3,1,81,3],
+			"indent": 2,
+			"original": "Kento: So etwas würde doch nicht als große militärische Aktion gelten, oder?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: So etwas würde doch nicht als ",
+				"große militärische Aktion gelten, ",
+				"oder?"
+			]
+		},
+		{
+			"path": [3,1,89,4],
+			"indent": 2,
+			"original": "Braunhaariger Soldat: Hm... jetzt wo du es sagst... Das wäre tatsächlich eine Idee. Wir sind hier zwar knapp bei Männern, aber ein paar Leute können wir trotzdem entbehren.",
+			"lines":
+			[
+				"\\c[10]Brown-Haired Soldier\\c[0]: Hm...\\. jetzt wo du es ",
+				"sagst...\\. Das wäre tatsächlich eine Idee.\\.",
+				"Wir sind hier zwar knapp bei Männern,\\. aber ein ",
+				"paar Leute können wir trotzdem entbehren. "
+			]
+		},
+		{
+			"path": [3,1,93,2],
+			"indent": 2,
+			"original": "Braunhaariger Soldat: Wärt ihr denn bereit uns dabei zu unterstützen?",
+			"lines":
+			[
+				"\\c[10]Brown-Haired Soldier\\c[0]: Wärt ihr denn bereit ",
+				"uns dabei zu unterstützen?"
+			]
+		},
+		{
+			"path": [3,1,97,4],
+			"indent": 2,
+			"original": "Kento: Oh, ich denke das sollte kein Problem sein. Manch einer unter uns brennt geradezu darauf, endlich irgendetwas machen zu können.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Oh, ich denke das sollte kein ",
+				"Problem sein.\\. Manch einer unter uns ",
+				"brennt geradezu darauf, endlich ",
+				"irgendetwas machen zu können."
+			]
+		},
+		{
+			"path": [3,1,103,4],
+			"indent": 2,
+			"original": "Braunhaariger Soldat: Ja, ja, ich kann mir schon denken, wer das ist~ In Ordnung. Dann sollten wir das ganze möglichst bald starten, am besten noch diese Nacht.",
+			"lines":
+			[
+				"\\c[10]Brown-Haired Soldier\\c[0]: Ja, ja,\\. ich kann mir ",
+				"schon denken, wer das ist~ \\.",
+				"In Ordnung.\\. Dann sollten wir das ganze möglichst ",
+				"bald starten, am besten noch diese Nacht. "
+			]
+		},
+		{
+			"path": [3,1,107,2],
+			"indent": 2,
+			"original": "Braunhaariger Soldat: Sag deinen Kameraden bescheid, ihr solltet euch gut vorbereiten.",
+			"lines":
+			[
+				"\\c[10]Brown-Haired Soldier\\c[0]: Sag deinen Kameraden ",
+				"bescheid, ihr solltet euch gut vorbereiten."
+			]
+		},
+		{
+			"path": [3,1,111,1],
+			"indent": 2,
+			"original": "Kento: In Ordnung.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: In Ordnung."
+			]
+		},
+		{
+			"path": [3,1,120,2],
+			"indent": 3,
+			"original": "Braunhaariger Soldat: Wir bereiten die Eilmeldung vor. Ihr solltet euch besser ausruhen.",
+			"lines":
+			[
+				"\\c[10]Brown-Haired Soldier\\c[0]: Wir bereiten die Eilmeldung ",
+				"vor.\\. Ihr solltet euch besser ausruhen."
+			]
+		},
+		{
+			"path": [7,1,16,3],
+			"original": "Soldat vom Briganten-Orden: Eine Armee im Silvanwald?! Das ist lächerlich! Wie sollen wir so etwas die ganze Zeit übersehen haben?",
+			"lines":
+			[
+				"\\c[10]Brigantian Soldier\\c[0]: Eine Armee im ",
+				"Silvanwald?!\\. Das ist lächerlich! Wie sollen wir so ",
+				"etwas die ganze Zeit übersehen haben?"
+			]
+		},
+		{
+			"path": [7,1,24,3],
+			"original": "Blonder Soldat: Der Silvan-Wald birgt mehr Verstecke, als man glauben mag, bei all den Klippen und Unebenheiten. Es ist durchaus möglich!",
+			"lines":
+			[
+				"\\c[10]Blond Soldier\\c[0]: Der Silvan-Wald birgt mehr ",
+				"Verstecke, als man glauben mag, bei all den ",
+				"Klippen und Unebenheiten. Es ist durchaus möglich!"
+			]
+		},
+		{
+			"path": [7,1,34,3],
+			"original": "Cibon: Wieso in drei Teufels Namen sollten wir euch irgendein Märchen erzählen?!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wieso in drei Teufels Namen ",
+				"sollten wir euch irgendein Märchen ",
+				"erzählen?! "
+			]
+		},
+		{
+			"path": [7,1,39,3],
+			"original": "Cibon: Die Lage ist ernst, verdammt noch mal! Hier bleibt keine Zeit zum Zweifeln!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Die Lage ist ernst, verdammt ",
+				"noch mal!\\. Hier bleibt keine Zeit zum ",
+				"Zweifeln!"
+			]
+		},
+		{
+			"path": [7,1,44,3],
+			"original": "Soko: Herr Uroto ist immer noch in Gefangenschaft und wir wissen nicht, was sie mit ihm vorhaben...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Herr Uroto ist immer noch in ",
+				"Gefangenschaft und wir wissen nicht, ",
+				"was sie mit ihm vorhaben..."
+			]
+		},
+		{
+			"path": [7,1,50,4],
+			"original": "Schwarzhaariger Soldat: Was wisst ihr alles über diese Gruppe? Hängt sie mit Korzojeno zusammen? Gab es bekannte Personen unter ihnen? Anführer? Kennt ihr ihre Motive?",
+			"lines":
+			[
+				"\\c[10]Black-Haired Soldier\\c[0]: Was wisst ihr alles über ",
+				"diese Gruppe?\\. Hängt sie mit Korzojeno zusammen? \\.",
+				"Gab es bekannte Personen unter ihnen?\\. Anführer?\\. ",
+				"Kennt ihr ihre Motive?"
+			]
+		},
+		{
+			"path": [7,1,59,4],
+			"original": "Soko: Nichts, leider... Nichts dergleichen. Wir können nur spekulieren. Wir wurden gefangen genommen und direkt eingesperrt.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Nichts, leider...\\. Nichts ",
+				"dergleichen.\\. Wir können nur ",
+				"spekulieren.\\. Wir wurden gefangen ",
+				"genommen und direkt eingesperrt."
+			]
+		},
+		{
+			"path": [7,1,64,3],
+			"original": "Cibon: Genau, das einzige was wir zu sehen bekamen, waren die Wachleute und die Verfolger bei der Flucht...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Genau, das einzige was wir zu ",
+				"sehen bekamen, waren die Wachleute ",
+				"und die Verfolger bei der Flucht..."
+			]
+		},
+		{
+			"path": [7,1,70,1],
+			"original": "Cibon: Wie war es bei dir, Kumpel?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wie war es bei dir, Kumpel?"
+			]
+		},
+		{
+			"path": [7,1,75,2],
+			"original": "Kento: ... Ich weiß leider auch nicht mehr als ihr...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ... Ich weiß leider auch ",
+				"nicht mehr als ihr..."
+			]
+		},
+		{
+			"path": [7,1,81,4],
+			"original": "Blonder Soldat: Das ist schlecht... Solange soviel über die Truppe unbekannt ist, wird es schwer sein, die Regierung dazu zu überzeugen, genug Verstärkung zu senden.",
+			"lines":
+			[
+				"\\c[10]Blond Soldier\\c[0]: Das ist schlecht...\\. Solange soviel ",
+				"über die Truppe unbekannt ist, wird es schwer ",
+				"sein, die Regierung dazu zu überzeugen, genug ",
+				"Verstärkung zu senden."
+			]
+		},
+		{
+			"path": [7,1,89,1],
+			"original": "Cibon: Überzeugen?!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Überzeugen?!"
+			]
+		},
+		{
+			"path": [7,1,93,4],
+			"original": "Cibon: Wenn die Regierung das hier für unwichtig hält, werden die sich ganz schön wundern, was hier bald so über die Grenze wandern wird!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wenn die Regierung das hier ",
+				"für unwichtig hält, werden die sich ",
+				"ganz schön wundern, was hier bald so ",
+				"über die Grenze wandern wird!"
+			]
+		},
+		{
+			"path": [7,1,98,4],
+			"original": "Kento: Wir kamen im direkten Auftrag von Sir Vorento hierher. Senden sie ihm bitte direkt eine Nachricht, er wird die Lage ernst nehmen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir kamen im direkten Auftrag ",
+				"von Sir Vorento hierher.\\. Senden sie ",
+				"ihm bitte direkt eine Nachricht, er ",
+				"wird die Lage ernst nehmen."
+			]
+		},
+		{
+			"path": [7,1,106,1],
+			"original": "Braunhaariger Soldat: ... Sir Vorento?",
+			"lines":
+			[
+				"\\c[10]Brown-Haired Soldier\\c[0]: ... Sir Vorento?"
+			]
+		},
+		{
+			"path": [7,1,112,3],
+			"original": "Braunhaariger Soldat: In Ordnung, in Ordnung. Wir werden eine Eilmeldung für die Regierung vorbereiten und so schnell wie möglich versenden.",
+			"lines":
+			[
+				"\\c[10]Brown-Haired Soldier\\c[0]: In Ordnung, in Ordnung.\\. Wir ",
+				"werden eine Eilmeldung für die Regierung ",
+				"vorbereiten und so schnell wie möglich versenden."
+			]
+		},
+		{
+			"path": [7,1,115,3],
+			"original": "Braunhaariger Soldat: Sofern die Regierung die Gefahr erkennt, können wir in 3-4 Tagen mit Verstärkung rechnen.",
+			"lines":
+			[
+				"\\c[10]Brown-Haired Soldier\\c[0]: Sofern die Regierung die ",
+				"Gefahr erkennt, können wir in 3-4 Tagen mit ",
+				"Verstärkung rechnen."
+			]
+		},
+		{
+			"path": [7,1,120,2],
+			"original": "Soko: ...3-4 Tage... Das ist zu lang. Was wird aus Herrn Uroto?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ...3-4 Tage...\\. Das ist zu ",
+				"lang.\\. Was wird aus Herrn Uroto? "
+			]
+		},
+		{
+			"path": [7,1,123,4],
+			"original": "Schwarzhaariger Soldat: Sollte die Gruppe so groß sein, wie ihr berichtet, würde es keinen Sinn machen, einen Angriff gegen sie zu starten, bei unserer Anzahl hier.",
+			"lines":
+			[
+				"\\c[10]Black-Haired Soldier\\c[0]: Sollte die Gruppe so groß ",
+				"sein, wie ihr berichtet, würde es keinen Sinn ",
+				"machen, einen Angriff gegen sie zu starten, bei ",
+				"unserer Anzahl hier."
+			]
+		},
+		{
+			"path": [7,1,127,4],
+			"original": "Schwarzhaariger Soldat: Des Weiteren gibt es das Problem, dass jegliche offensive, militärische Aktion jenseits der Grenze ihre Genehmigung von der Regierung benötigt.",
+			"lines":
+			[
+				"\\c[10]Black-Haired Soldier\\c[0]: Des Weiteren gibt es das ",
+				"Problem, dass jegliche offensive, militärische ",
+				"Aktion jenseits der Grenze ihre Genehmigung von ",
+				"der Regierung benötigt. "
+			]
+		},
+		{
+			"path": [7,1,131,4],
+			"original": "Schwarzhaariger Soldat: Bis diese ankommt, wird die Verstärkung bereits fast hier sein. Es lohnt sich nicht. Wir können nur warten und müssen die Grenze verteidigen.",
+			"lines":
+			[
+				"\\c[10]Black-Haired Soldier\\c[0]: Bis diese ankommt, wird ",
+				"die Verstärkung bereits fast hier sein.\\. Es lohnt ",
+				"sich nicht. \\.Wir können nur warten und ",
+				"müssen die Grenze verteidigen."
+			]
+		},
+		{
+			"path": [7,1,141,3],
+			"original": "Cibon: Genehmigung der Regierung? Wer hat sich bitte diesen Mist einfallen lassen?!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Genehmigung der Regierung?\\.",
+				"Wer hat sich bitte diesen Mist ",
+				"einfallen lassen?!"
+			]
+		},
+		{
+			"path": [7,1,152,2],
+			"original": "Schwarzhaariger Soldat: Die Regierung hat es so festgelegt, wir können nichts daran ändern.",
+			"lines":
+			[
+				"\\c[10]Black-Haired Soldier\\c[0]: Die Regierung hat es so ",
+				"festgelegt,\\. wir können nichts daran ändern."
+			]
+		},
+		{
+			"path": [7,1,154,3],
+			"original": "Schwarzhaariger Soldat: Nur in extremen Notfällen dürfen wir sofort handeln, aber dafür brauchen wir schon mehr als eine Aussage von 3 Soldaten",
+			"lines":
+			[
+				"\\c[10]Black-Haired Soldier\\c[0]: Nur in extremen Notfällen ",
+				"dürfen wir sofort handeln, aber dafür brauchen wir ",
+				"schon mehr als eine Aussage von 3 Soldaten"
+			]
+		},
+		{
+			"path": [7,1,163,3],
+			"original": "Cibon: Was für ein Schwachsinn! Und ob das ein Notfall ist!! Als ob so ein Haufen von...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Was für ein Schwachsinn!\\.\\. Und ",
+				"ob das ein Notfall ist!!\\.\\. Als ob so ",
+				"ein Haufen von...\\.\\.\\.\\.\\^"
+			]
+		},
+		{
+			"path": [7,1,168,4],
+			"original": "Kento: Cibon! Beruhig dich. Jetzt überstürzt zu handeln kann die Situation schlimmer machen als sie es bereits ist.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Cibon!\\. Beruhig dich.\\.",
+				"Jetzt überstürzt zu handeln kann die ",
+				"Situation schlimmer machen als sie ",
+				"es bereits ist."
+			]
+		},
+		{
+			"path": [7,1,174,3],
+			"original": "Soko: ... Kento hat recht... Wir können so oder so nicht viel machen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ... Kento hat recht... \\.",
+				"Wir können so oder so nicht viel ",
+				"machen. "
+			]
+		},
+		{
+			"path": [7,1,177,3],
+			"original": "Soko: Das einzige, was uns bleibt, ist zu hoffen, dass die Verstärkung rechtzeitig eintrifft.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Das einzige, was uns bleibt, ",
+				"ist zu hoffen, dass die Verstärkung ",
+				"rechtzeitig eintrifft."
+			]
+		},
+		{
+			"path": [7,1,183,1],
+			"original": "Cibon: ...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [7,1,189,4],
+			"original": "Blonder Soldat: Ihr solltet euch besser ausruhen, die letzten Stunden müssen recht hart für euch gewesen sein. Im Gasthof soll noch ein Zimmer frei sein. Wir spendieren euch die Nacht.",
+			"lines":
+			[
+				"\\c[10]Blond Soldier\\c[0]: Ihr solltet euch besser ausruhen, ",
+				"die letzten Stunden müssen recht hart für euch ",
+				"gewesen sein.\\. Im Gasthof soll noch ein Zimmer frei ",
+				"sein. Wir spendieren euch die Nacht."
+			]
+		},
+		{
+			"path": [7,1,195,1],
+			"original": "Soko: Vielen Dank...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Vielen Dank..."
+			]
+		},
+		{
+			"path": [7,1,202,1],
+			"original": "Kento: Los, lass uns gehen, Cibon.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Los, lass uns gehen, Cibon."
+			]
+		},
+		{
+			"path": [9,1,6,2],
+			"original": "Kento: Wir sollten die Leute nicht bei ihrer Arbeit stören...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten die Leute nicht ",
+				"bei ihrer Arbeit stören..."
+			]
+		},
+		{
+			"path": [10,1,6,2],
+			"original": "Kento: Wir sollten die Leute nicht bei ihrer Arbeit stören...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wir sollten die Leute nicht ",
+				"bei ihrer Arbeit stören..."
+			]
+		}
+	]
+}

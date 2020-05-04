@@ -197,7 +197,7 @@
 			"original": "Herr Uroto: Das mag jetzt etwas kaltherzig klingen, aber können wir diesen Fall etwas zurückschieben?",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Das mag jetzt etwas ",
+				"\\c[10]Sir Uroto\\c[0]: Das mag jetzt etwas ",
 				"kaltherzig klingen, aber können wir ",
 				"diesen Fall etwas zurückschieben? "
 			]
@@ -207,7 +207,7 @@
 			"original": "Herr Uroto: Vorerst müssen Sie sich auf ihre Mission konzentrieren.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Vorerst müssen Sie sich ",
+				"\\c[10]Sir Uroto\\c[0]: Vorerst müssen Sie sich ",
 				"auf ihre Mission konzentrieren. "
 			]
 		},
@@ -216,7 +216,7 @@
 			"original": "Herr Uroto: Am ehesten können Sie in Domarkor Informationen sammeln, während ich mit anderem beschäftigt bin.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Am ehesten können Sie in ",
+				"\\c[10]Sir Uroto\\c[0]: Am ehesten können Sie in ",
 				"Domarkor Informationen sammeln, ",
 				"während ich mit anderem beschäftigt ",
 				"bin."
@@ -359,7 +359,7 @@
 			"original": "Herr Uroto: Nunja, ich bin seit Kriegsende mehrmals ins Land gereist und war an den Friedensverhandlungen beteiligt.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Nunja, ich bin seit ",
+				"\\c[10]Sir Uroto\\c[0]: Nunja, ich bin seit ",
 				"Kriegsende mehrmals ins Land gereist ",
 				"und war an den Friedensverhandlungen ",
 				"beteiligt."
@@ -370,7 +370,7 @@
 			"original": "Herr Uroto: Auf diesem Wege hab ich oft genug die Verhältnisse zwischen den Ländern zu spüren bekommen.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Auf diesem Wege hab ich ",
+				"\\c[10]Sir Uroto\\c[0]: Auf diesem Wege hab ich ",
 				"oft genug die Verhältnisse zwischen ",
 				"den Ländern zu spüren bekommen."
 			]
@@ -399,7 +399,7 @@
 			"original": "Herr Uroto: Eigentlich hab ich strikte Anweisungen die Gründe nicht weiter zu geben. Aber nunja...",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Eigentlich hab ich ",
+				"\\c[10]Sir Uroto\\c[0]: Eigentlich hab ich ",
 				"strikte Anweisungen die Gründe nicht ",
 				"weiter zu geben.\\. Aber nunja..."
 			]
@@ -409,7 +409,7 @@
 			"original": "Herr Uroto: Es hat mit den Friedensvertrag vor 9 Jahren zu tun.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Es hat mit den ",
+				"\\c[10]Sir Uroto\\c[0]: Es hat mit den ",
 				"Friedensvertrag vor 9 Jahren zu tun. "
 			]
 		},
@@ -418,7 +418,7 @@
 			"original": "Herr Uroto: Ich werde beim farenischen Adelsbund etwas nachfragen müssen.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Ich werde beim ",
+				"\\c[10]Sir Uroto\\c[0]: Ich werde beim ",
 				"farenischen Adelsbund etwas ",
 				"nachfragen müssen."
 			]
@@ -428,7 +428,7 @@
 			"original": "Herr Uroto: Gegebenenfalls folgt ein Durchsuchungsbefehl vom Briganten- Orden, den ich ankündigen muss.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Gegebenenfalls folgt ein ",
+				"\\c[10]Sir Uroto\\c[0]: Gegebenenfalls folgt ein ",
 				"Durchsuchungsbefehl vom Briganten-",
 				"Orden, den ich ankündigen muss."
 			]
@@ -438,7 +438,7 @@
 			"original": "Herr Uroto: Mehr darf ich nicht verraten.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Mehr darf ich nicht ",
+				"\\c[10]Sir Uroto\\c[0]: Mehr darf ich nicht ",
 				"verraten."
 			]
 		},
@@ -658,7 +658,7 @@
 			"original": "Hotelbesitzer: Ah, sie müssen diese Soldaten sein. Man hat mir bereit bescheid gegeben. Ihre Zimmer stehen bereit, ansonsten bedienen sie sich selber. Gute Nacht.",
 			"lines":
 			[
-				"\\c[10]Hotelbesitzer\\c[0]: Ah, sie müssen diese Soldaten sein. \\.",
+				"\\c[10]Inn Owner\\c[0]: Ah, sie müssen diese Soldaten sein. \\.",
 				"Man hat mir bereit bescheid gegeben.\\. Ihre Zimmer ",
 				"stehen bereit, ansonsten bedienen sie sich selber. \\.",
 				"Gute Nacht."
@@ -1299,7 +1299,7 @@
 			"original": "Mädchen: Papa, wieso ist das Grass im Courine Plateau eigentlich länger als woanders?",
 			"lines":
 			[
-				"\\c[10]Mädchen\\c[0]: Papa, wieso ist das Grass im Courine ",
+				"\\c[10]Girl\\c[0]: Papa, wieso ist das Grass im Courine ",
 				"Plateau eigentlich länger als woanders?"
 			]
 		},
@@ -1308,7 +1308,7 @@
 			"original": "Vater: Uff... Gute Frage... Du kennst ja die Geschichte vom Courine Plateau. Vielleicht haben die Ereignisse den Ort verzaubert. Deshalb das lange Grass.",
 			"lines":
 			[
-				"\\c[10]Vater\\c[0]: Uff...\\. Gute Frage...\\. Du kennst ja die ",
+				"\\c[10]Father\\c[0]: Uff...\\. Gute Frage...\\. Du kennst ja die ",
 				"Geschichte vom Courine Plateau.\\. Vielleicht ",
 				"haben die Ereignisse den Ort verzaubert.\\. Deshalb ",
 				"das lange Grass."
@@ -1319,7 +1319,7 @@
 			"original": "Mädchen: Und deshalb auch diese riesigen Insekten?",
 			"lines":
 			[
-				"\\c[10]Mädchen\\c[0]: Und deshalb auch diese riesigen Insekten?"
+				"\\c[10]Girl\\c[0]: Und deshalb auch diese riesigen Insekten?"
 			]
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"original": "Vater: Uh... erinnere mich bitte nicht an diese Viecher, meine Kleine.",
 			"lines":
 			[
-				"\\c[10]Vater\\c[0]: Uh... erinnere mich bitte nicht an diese ",
+				"\\c[10]Father\\c[0]: Uh... erinnere mich bitte nicht an diese ",
 				"Viecher, meine Kleine."
 			]
 		},
@@ -1336,7 +1336,7 @@
 			"original": "Händlerin: Diese Monster in den nahe liegenden Nadelwäldern werden immer gefährlicher. Angeblich sollen viele von ihnen gut mit Erd-Signum zu besiegen sein.",
 			"lines":
 			[
-				"\\c[10]Händlerin\\c[0]: Diese Monster in den nahe liegenden ",
+				"\\c[10]Merchant\\c[0]: Diese Monster in den nahe liegenden ",
 				"Nadelwäldern werden immer gefährlicher. Angeblich ",
 				"sollen viele von ihnen gut mit Erd-Signum zu ",
 				"besiegen sein."
@@ -1347,7 +1347,7 @@
 			"original": "Händlerin: Zu dumm, dass ich keinen Magier habe, der mich vor diesen Monstern beschützen kann.",
 			"lines":
 			[
-				"\\c[10]Händlerin\\c[0]: Zu dumm, dass ich keinen Magier habe, ",
+				"\\c[10]Merchant\\c[0]: Zu dumm, dass ich keinen Magier habe, ",
 				"der mich vor diesen Monstern beschützen kann."
 			]
 		},
@@ -1396,7 +1396,7 @@
 			"original": "Hotelbesitzer: Das Zimmer ist immer noch für Sie reserviert. Ruhen Sie sich dort aus, wenn Sie müde sind.",
 			"lines":
 			[
-				"\\c[10]Hotelbesitzer\\c[0]: Das Zimmer ist immer noch für Sie ",
+				"\\c[10]Inn Owner\\c[0]: Das Zimmer ist immer noch für Sie ",
 				"reserviert.\\. Ruhen Sie sich dort aus, wenn Sie müde ",
 				"sind."
 			]
@@ -1407,7 +1407,7 @@
 			"original": "Hotelbesitzer: Wollen sie hier übernachten? Sie haben Glück, wir haben ein Zimmer frei.",
 			"lines":
 			[
-				"\\c[10]Hotelbesitzer\\c[0]: Wollen sie hier übernachten? Sie ",
+				"\\c[10]Inn Owner\\c[0]: Wollen sie hier übernachten? Sie ",
 				"haben Glück, wir haben ein Zimmer frei. "
 			]
 		},
@@ -1417,7 +1417,7 @@
 			"original": "Gasthofbesitzer: Bitte nehmen sie das rechte Zimmer. Erholsamen Schlaf wünsche ich.",
 			"lines":
 			[
-				"\\c[10]Gasthofbesitzer\\c[0]: Bitte nehmen sie das rechte Zimmer. ",
+				"\\c[10]Inn Owner\\c[0]: Bitte nehmen sie das rechte Zimmer. ",
 				"Erholsamen Schlaf wünsche ich."
 			]
 		},
@@ -1426,7 +1426,7 @@
 			"original": "Mann: Falls ihr vorhabt den Silvanwald im Südosten zu durchqueren, tut das auf keinem Fall bei Nacht. Es ist schon schwer genug am Tag den Überblick zu halten, weil der Wald so zugewachsen ist.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Falls ihr vorhabt den Silvanwald im Südosten ",
+				"\\c[10]Man\\c[0]: Falls ihr vorhabt den Silvanwald im Südosten ",
 				"zu durchqueren, tut das auf keinem Fall bei Nacht.\\.",
 				"Es ist schon schwer genug am Tag den Überblick zu ",
 				"halten, weil der Wald so zugewachsen ist."
@@ -1437,7 +1437,7 @@
 			"original": "Mann: In der Nacht aber ist alles stockduster, soweit, dass man sogar Probleme hat die eigene Hand zu sehen. So ist man ein leichtes Opfer für die Biester in der Gegend dort.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: In der Nacht aber ist alles stockduster, ",
+				"\\c[10]Man\\c[0]: In der Nacht aber ist alles stockduster, ",
 				"soweit, dass man sogar Probleme hat die eigene ",
 				"Hand zu sehen.\\. So ist man ein leichtes Opfer für ",
 				"die Biester in der Gegend dort."
@@ -1459,7 +1459,7 @@
 			"original": "Hotelbesitzer: Moment! Hier ist kein Zutritt für Gäste.",
 			"lines":
 			[
-				"\\c[10]Hotelbesitzer\\c[0]: Moment!\\.",
+				"\\c[10]Inn Owner\\c[0]: Moment!\\.",
 				"Hier ist kein Zutritt für Gäste."
 			]
 		},
@@ -1468,7 +1468,7 @@
 			"original": "Junge: Papa, ich will auch Bier trinken, BITTE!",
 			"lines":
 			[
-				"\\c[10]Junge\\c[0]: Papa, ich will auch Bier trinken,\\. BITTE!"
+				"\\c[10]Boy\\c[0]: Papa, ich will auch Bier trinken,\\. BITTE!"
 			]
 		},
 		{
@@ -1476,7 +1476,7 @@
 			"original": "Vater: Nichts da! Dafür bist du noch zu jung.",
 			"lines":
 			[
-				"\\c[10]Vater\\c[0]: Nichts da!\\. Dafür bist du noch zu jung."
+				"\\c[10]Father\\c[0]: Nichts da!\\. Dafür bist du noch zu jung."
 			]
 		},
 		{
@@ -1532,7 +1532,7 @@
 			"original": "Herr Uroto: Ich habe gehört Sie haben Gestern ein paar Diebe in der Stadt geschnappt?",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Ich habe gehört Sie ",
+				"\\c[10]Sir Uroto\\c[0]: Ich habe gehört Sie ",
 				"haben Gestern ein paar Diebe in der ",
 				"Stadt geschnappt?"
 			]
@@ -1550,7 +1550,7 @@
 			"original": "Herr Uroto: Sie wissen, dass Sie sich nicht auf solche Sachen einlassen dürfen, wenn Sie bereits einen Auftrag als Eskorte haben?",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Sie wissen, dass Sie ",
+				"\\c[10]Sir Uroto\\c[0]: Sie wissen, dass Sie ",
 				"sich nicht auf solche Sachen ",
 				"einlassen dürfen, wenn Sie bereits ",
 				"einen Auftrag als Eskorte haben?"
@@ -1580,7 +1580,7 @@
 			"original": "Herr Uroto: Es geht darum, dass Sie sich einer unnötigen Gefahr ausgesetzt haben.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Es geht darum, dass Sie ",
+				"\\c[10]Sir Uroto\\c[0]: Es geht darum, dass Sie ",
 				"sich einer unnötigen Gefahr ",
 				"ausgesetzt haben. "
 			]
@@ -1590,7 +1590,7 @@
 			"original": "Herr Uroto: Hätten Sie hier versagt wäre auch der eigentliche Auftrag gescheitert. Sie haben den Auftrag unter ein unnötiges Risiko gestellt.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Hätten Sie hier versagt ",
+				"\\c[10]Sir Uroto\\c[0]: Hätten Sie hier versagt ",
 				"wäre auch der eigentliche Auftrag ",
 				"gescheitert.\\. Sie haben den Auftrag ",
 				"unter ein unnötiges Risiko gestellt."
@@ -1611,7 +1611,7 @@
 			"original": "Herr Uroto: Das hätten Sie jedoch erst dann tun müssen, wenn die Diebe uns tatsächlich angegriffen hätten...",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Das hätten Sie jedoch ",
+				"\\c[10]Sir Uroto\\c[0]: Das hätten Sie jedoch ",
 				"erst dann tun müssen, wenn die Diebe ",
 				"uns tatsächlich angegriffen ",
 				"hätten..."
