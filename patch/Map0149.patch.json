@@ -6,8 +6,8 @@
 			"original": "Soldat vom Briganten-Orden: Wollen Sie die Grenze überschreiten?",
 			"lines":
 			[
-				"\\c[10]Brigantian Soldier\\c[0]: Wollen Sie die Grenze ",
-				"überschreiten?"
+				"\\c[10]Brigantian Soldier\\c[0]: Do you want to cross the",
+				"border?"
 			]
 		},
 		{
@@ -16,9 +16,8 @@
 			"original": "Soko: Nein, dafür ist es heute zu Spät. Für heute werden wir hier bleiben.",
 			"lines":
 			[
-				"\\c[10]Soko\\c[0]: Nein, dafür ist es heute zu ",
-				"Spät.\\. Für heute werden wir hier ",
-				"bleiben."
+				"\\c[10]Soko\\c[0]: No, it's too late for that",
+				"today.\\. We'll stay here for now."
 			]
 		},
 		{
@@ -26,8 +25,8 @@
 			"original": "Soldat vom Briganten-Orden: Wollen Sie die Grenze überschreiten?",
 			"lines":
 			[
-				"\\c[10]Brigantian Soldier\\c[0]: Wollen Sie die Grenze ",
-				"überschreiten?"
+				"\\c[10]Brigantian Soldier\\c[0]: Do you want to cross the",
+				"border?"
 			]
 		},
 		{
@@ -161,7 +160,7 @@
 			"original": "Soldat vom Briganten-Orden: Öffnet das Tor!",
 			"lines":
 			[
-				"\\c[10]Brigantian Soldier\\c[0]: Öffnet das Tor!"
+				"\\c[10]Brigantian Soldier\\c[0]: Open the gate!"
 			]
 		},
 		{
@@ -169,7 +168,7 @@
 			"original": "Soldat vom Briganten-Orden: Sie können passieren.",
 			"lines":
 			[
-				"\\c[10]Brigantian Soldier\\c[0]: Sie können passieren."
+				"\\c[10]Brigantian Soldier\\c[0]: You may pass."
 			]
 		},
 		{
@@ -178,7 +177,7 @@
 			"original": "Soldat vom Briganten-Orden: Sie können passieren.",
 			"lines":
 			[
-				"\\c[10]Brigantian Soldier\\c[0]: Sie können passieren."
+				"\\c[10]Brigantian Soldier\\c[0]: You may pass."
 			]
 		},
 		{
@@ -187,8 +186,8 @@
 			"original": "Soldat vom Briganten-Orden: Wollen Sie die Grenze überschreiten?",
 			"lines":
 			[
-				"\\c[10]Brigantian Soldier\\c[0]: Wollen Sie die Grenze ",
-				"überschreiten?"
+				"\\c[10]Brigantian Soldier\\c[0]: Do you want to cross the",
+				"border?"
 			]
 		},
 		{
@@ -197,7 +196,7 @@
 			"original": "Soldat vom Briganten-Orden: Öffnet das Tor!",
 			"lines":
 			[
-				"\\c[10]Brigantian Soldier\\c[0]: Öffnet das Tor!"
+				"\\c[10]Brigantian Soldier\\c[0]: Open the gate!"
 			]
 		},
 		{
@@ -205,8 +204,8 @@
 			"original": "Soldat vom Briganten-Orden: Wollen sie die Grenze überschreiten?",
 			"lines":
 			[
-				"\\c[10]Brigantian Soldier\\c[0]: Wollen sie die Grenze ",
-				"überschreiten?"
+				"\\c[10]Brigantian Soldier\\c[0]: Do you want to cross the",
+				"border?"
 			]
 		},
 		{
@@ -215,9 +214,8 @@
 			"original": "Soko: Nein, dafür ist es heute zu Spät. Für heute werden wir hier bleiben.",
 			"lines":
 			[
-				"\\c[10]Soko\\c[0]: Nein, dafür ist es heute zu ",
-				"Spät.\\. Für heute werden wir hier ",
-				"bleiben."
+				"\\c[10]Soko\\c[0]: No, it's too late for that",
+				"today.\\. We'll stay here for now."
 			]
 		},
 		{
@@ -1158,7 +1156,7 @@
 			"original": "Korzojenischer Soldat: Sie können passieren.",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]: Sie können passieren."
+				"\\c[10]Korzojenish Soldier\\c[0]: You may pass."
 			]
 		},
 		{
@@ -1167,8 +1165,8 @@
 			"original": "Korzojenischer Soldat: Wollen sie die Grenze passieren?",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]: Wollen sie die Grenze ",
-				"passieren?"
+				"\\c[10]Korzojenish Soldier\\c[0]: Do you want to cross the",
+				"border?"
 			]
 		},
 		{
@@ -1177,7 +1175,7 @@
 			"original": "Korzojenischer Soldat: Öffnet das Tor!",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]: Öffnet das Tor!"
+				"\\c[10]Korzojenish Soldier\\c[0]: Open the gate!"
 			]
 		}
 	],
