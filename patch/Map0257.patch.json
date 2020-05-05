@@ -1,0 +1,428 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [11,3,6,1],
+			"original": "Gefangener: Auf zur Arbeit...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Auf zur Arbeit..."
+			]
+		},
+		{
+			"path": [12,3,6,1],
+			"original": "Gefangener: ...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: ..."
+			]
+		},
+		{
+			"path": [13,3,6,2],
+			"original": "Gefangener: Hoffentlich bekomme ich nicht schon wieder so eine stumpfe Hacke.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Hoffentlich bekomme ich nicht schon ",
+				"wieder so eine stumpfe Hacke."
+			]
+		},
+		{
+			"path": [14,3,6,3],
+			"original": "Gefangener: Früher haben sie mehr Heilmittel ausgeteilt... Dabei ist es nicht so, dass die Monster nachlassen.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Früher haben sie mehr Heilmittel ",
+				"ausgeteilt...\\. Dabei ist es nicht so, dass die ",
+				"Monster nachlassen."
+			]
+		},
+		{
+			"path": [15,3,6,3],
+			"original": "Gefangener: Die schicken uns mit einem lausigem Stück Brot zur Mine. Die sollen sich nicht wundern, wenn wir schlechte Arbeit leisten.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Die schicken uns mit einem lausigem ",
+				"Stück Brot zur Mine.\\. Die sollen sich nicht ",
+				"wundern, wenn wir schlechte Arbeit leisten."
+			]
+		},
+		{
+			"path": [18,1,2,2],
+			"original": "Wächter: Ihr sollt durch das Haus links von hier. Dort bekommt ihr eure Ausrüstung.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Ihr sollt durch das Haus links von hier. ",
+				"Dort bekommt ihr eure Ausrüstung."
+			]
+		},
+		{
+			"path": [22,2,14,2],
+			"indent": 1,
+			"original": "Wächter: Hey, ihr seid doch diejenigen, die gestern dazu kamen, richtig?",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hey, ihr seid doch diejenigen, die ",
+				"gestern dazu kamen, richtig?"
+			]
+		},
+		{
+			"path": [22,2,30,2],
+			"indent": 1,
+			"original": "Wächter: Hey, ihr seid doch diejenigen, die gestern dazu kamen, richtig? Kommt mal hier rüber.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hey, ihr seid doch diejenigen, die ",
+				"gestern dazu kamen, richtig?\\. Kommt mal hier rüber."
+			]
+		},
+		{
+			"path": [22,4,24,2],
+			"indent": 2,
+			"original": "Wächter: Oh. Zu viert diesmal? Nun, soll mir recht sein.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Oh. Zu viert diesmal?\\. Nun, soll mir recht ",
+				"sein."
+			]
+		},
+		{
+			"path": [22,4,30,1],
+			"original": "Wächter: Hier eure Ausrüstung.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hier eure Ausrüstung."
+			]
+		},
+		{
+			"path": [22,4,41,3],
+			"original": "Wächter: Und hier eure Heilmittel. Geht Sparsam damit um, wir sind hier keine Heilsarmee, verstanden?",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Und hier eure Heilmittel.\\. Geht Sparsam ",
+				"damit um, wir sind hier keine Heilsarmee, ",
+				"verstanden?"
+			]
+		},
+		{
+			"path": [22,4,70,4],
+			"indent": 2,
+			"original": "Wächter: Hm, in letzter Zeit habt ihr eigentlich wirklich gute Arbeit geleistet. Ich denke, euch kann man dann auch eine Stange Dynamit anvertrauen.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hm, in letzter Zeit habt ihr eigentlich ",
+				"wirklich gute Arbeit geleistet.\\. Ich denke, euch ",
+				"kann man dann auch eine Stange Dynamit ",
+				"anvertrauen."
+			]
+		},
+		{
+			"path": [22,4,82,4],
+			"indent": 2,
+			"original": "Wächter: Ihr verwendet das NUR, um euch zu neuen Bereichen in der Mine vorzusprengen, verstanden? Haltet Ausschau nach brüchigen Stellen an den Felswänden.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Ihr verwendet das NUR, um euch zu neuen ",
+				"Bereichen in der Mine vorzusprengen, verstanden?\\.",
+				"\\c[11]Haltet Ausschau nach brüchigen Stellen an den ",
+				"Felswänden."
+			]
+		},
+		{
+			"path": [22,4,86,4],
+			"indent": 2,
+			"original": "Wächter: Und kommt ja nicht auf die Idee, unser Vertrauen auszunutzen. Wenn ihr irgendeinen Mist mit dem Dynamit anstellt, wird das harte Konsequenzen haben!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Und kommt ja nicht auf die Idee, unser ",
+				"Vertrauen auszunutzen.\\. Wenn ihr irgendeinen Mist ",
+				"mit dem Dynamit anstellt, wird das harte ",
+				"Konsequenzen haben!"
+			]
+		},
+		{
+			"path": [22,4,94,3],
+			"indent": 2,
+			"original": "Wächter: So... heute bekommt ihr wieder eine Stange Dynamit für Sprengungen. Geht vorsichtig damit um und baut ja keinen Mist!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: So...\\. heute bekommt ihr wieder eine ",
+				"Stange Dynamit für Sprengungen.\\. Geht vorsichtig ",
+				"damit um und baut ja keinen Mist!"
+			]
+		},
+		{
+			"path": [22,4,109,2],
+			"original": "Wächter: Dann raus mit euch. Schnappt euch ne Lore und bringt ja genug Erz zurück!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Dann raus mit euch.\\. Schnappt euch ne ",
+				"Lore und bringt ja genug Erz zurück!"
+			]
+		},
+		{
+			"path": [22,5,39,2],
+			"original": "Wächter: Eure Ausrüstung und übrigen Heilmittel, bitte.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Eure Ausrüstung und übrigen Heilmittel, ",
+				"bitte."
+			]
+		},
+		{
+			"path": [22,5,153,4],
+			"indent": 1,
+			"original": "Wächter: Das war euer erster Tag, oder? Ihr bekommt jetzt etwas zu essen. Geht den Weg zurück zu euren Zellen. Ihr werden dann schon merken, wo der Esssaal ist.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Das war euer erster Tag, oder?\\. Ihr ",
+				"bekommt jetzt etwas zu essen.\\. Geht den Weg zurück ",
+				"zu euren Zellen.\\. Ihr werden dann schon merken, wo ",
+				"der Esssaal ist."
+			]
+		},
+		{
+			"path": [22,5,194,1],
+			"indent": 1,
+			"original": "Wächter: Hey, wartet mal eben!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hey, wartet mal eben!"
+			]
+		},
+		{
+			"path": [22,5,199,1],
+			"indent": 1,
+			"original": "Wächter: Kommt noch mal hierher!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Kommt noch mal hierher!"
+			]
+		},
+		{
+			"path": [22,5,205,3],
+			"indent": 1,
+			"original": "Wächter: Ihr hab da noch etwas bei euch, stimmts? Ihr glaub doch nicht wirklich, dass wir euch damit durch lassen!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Ihr hab da noch etwas bei euch, stimmts?\\.",
+				"Ihr glaub doch nicht wirklich, dass wir euch damit ",
+				"durch lassen!"
+			]
+		},
+		{
+			"path": [22,5,243,2],
+			"indent": 1,
+			"original": "Wächter: Lasst euch das eine Lehre sein. Wagt es nicht uns übers Kreuz zu legen.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Lasst euch das eine Lehre sein. Wagt es ",
+				"nicht uns übers Kreuz zu legen."
+			]
+		},
+		{
+			"path": [22,5,276,3],
+			"indent": 1,
+			"original": "Felcis: Das war jetzt ein ziemlicher Reinfall... Naja, versuchen wir es die nächsten Tage nochmal.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Das war jetzt ein ziemlicher ",
+				"Reinfall...\\. Naja, versuchen wir es ",
+				"die nächsten Tage nochmal."
+			]
+		},
+		{
+			"path": [22,5,280,2],
+			"indent": 1,
+			"original": "Felcis: In dem Lagerbereich sollte ja noch etwas Pulver sein.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: In dem Lagerbereich sollte ",
+				"ja noch etwas Pulver sein. "
+			]
+		},
+		{
+			"path": [22,5,331,3],
+			"indent": 2,
+			"original": "Ihr leistet gute Arbeit. Das Vertrauen der Wachen zu euch hat sich verbessert!",
+			"lines":
+			[
+				"",
+				"Ihr leistet gute Arbeit.\\. Das Vertrauen der Wachen ",
+				"zu euch hat sich verbessert!"
+			]
+		},
+		{
+			"path": [22,5,336,3],
+			"indent": 2,
+			"original": "Ihr müsst härter arbeiten. Das Vertrauen der Wachen zu euch hat sich verschlechtert.",
+			"lines":
+			[
+				"",
+				"Ihr müsst härter arbeiten.\\. Das Vertrauen der ",
+				"Wachen zu euch hat sich verschlechtert."
+			]
+		},
+		{
+			"path": [23,1,8,2],
+			"original": "Wächter: Soll ich euch die Regeln hier verklickern?",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Soll ich euch die Regeln hier ",
+				"verklickern?"
+			]
+		},
+		{
+			"path": [23,1,15,4],
+			"indent": 1,
+			"original": "Wächter: Okay, ich nehm' mal an, dass ihr in einer Gruppe arbeiten werdet. Das Werkzeug für die Minenarbeit bekommt ihr hier und gebt ihr hier auch wieder ab, verstanden?",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Okay, ich nehm' mal an, dass ihr in einer ",
+				"Gruppe arbeiten werdet.\\. Das Werkzeug für die ",
+				"Minenarbeit bekommt ihr hier und gebt ihr hier ",
+				"auch wieder ab, verstanden?"
+			]
+		},
+		{
+			"path": [23,1,19,4],
+			"indent": 1,
+			"original": "Wächter: Wenn ihr die Mine betretet bekommt ihr eine Lore, mit der ihr die Mine runter fährt. Dabei gibt es mehrere Abschnitte, zu denen ihr fährt.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Wenn ihr die Mine betretet bekommt ihr ",
+				"eine Lore, mit der ihr die Mine runter fährt. \\.",
+				"Dabei gibt es mehrere Abschnitte, zu denen ihr ",
+				"fährt."
+			]
+		},
+		{
+			"path": [23,1,23,4],
+			"indent": 1,
+			"original": "Wächter: In welchem ihr landet hängt davon ab, welche Richtung ihr bei den Weichen einschlägt. Welche Richtung das ist, könnt ihr übrigens während der Fahrt selber entscheiden.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: In welchem ihr landet hängt davon ab, ",
+				"welche Richtung ihr bei den Weichen einschlägt. \\.",
+				"Welche Richtung das ist, könnt ihr übrigens ",
+				"während der Fahrt selber entscheiden."
+			]
+		},
+		{
+			"path": [23,1,27,2],
+			"indent": 1,
+			"original": "Wächter: Seid ihr einmal unten angekommen, heißt es: Erz abbauen.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Seid ihr einmal unten angekommen, heißt ",
+				"es:\\. Erz abbauen. "
+			]
+		},
+		{
+			"path": [23,1,29,4],
+			"indent": 1,
+			"original": "Wächter: Erz erkennt ihr an den leicht bläulich leuchten Stellen an den Felswänden. Geht zu diesen Stellen und verwendet eure Spitzhacken, um das Erz abzubauen.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Erz erkennt ihr an den leicht bläulich ",
+				"leuchten Stellen an den Felswänden.\\. Geht zu diesen ",
+				"Stellen und verwendet eure Spitzhacken,\\. um das Erz ",
+				"abzubauen."
+			]
+		},
+		{
+			"path": [23,1,33,4],
+			"indent": 1,
+			"original": "Wächter: Wenn ihr gute Arbeit leisten wollt, solltet ihr allerdings nicht zu lange an einer Stelle bleiben. Das Erz wird nachlassen und immer schwerer abzubauen sein.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Wenn ihr gute Arbeit leisten wollt, ",
+				"solltet ihr allerdings nicht zu lange an einer ",
+				"Stelle bleiben.\\. Das Erz wird nachlassen und immer ",
+				"schwerer abzubauen sein."
+			]
+		},
+		{
+			"path": [23,1,37,2],
+			"indent": 1,
+			"original": "Wächter: Sucht euch also ständig neue Stellen, um mehr Erz abbauen zu können.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Sucht euch also ständig neue Stellen, um ",
+				"mehr Erz abbauen zu können."
+			]
+		},
+		{
+			"path": [23,1,39,3],
+			"indent": 1,
+			"original": "Wächter: Solltet ihr kein Erz mehr tragen können, geht zu dem Haltepunkt eurer Lore, um dort das Erz abzugeben.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Solltet ihr kein Erz mehr tragen können, ",
+				"geht zu dem Haltepunkt eurer Lore, um dort das Erz ",
+				"abzugeben. "
+			]
+		},
+		{
+			"path": [23,1,42,4],
+			"indent": 1,
+			"original": "Wächter: Ach ja, noch ein Wort der Warnung: Ihr Minenarbeiter seid nicht ganz alleine da unten. Dort treibt sich leider noch so einiges an Ungetier rum, das wir einfach nicht loswerden.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Ach ja, noch ein Wort der Warnung:\\. Ihr ",
+				"Minenarbeiter seid nicht ganz alleine da unten.\\. ",
+				"Dort treibt sich leider noch so einiges an ",
+				"Ungetier rum, das wir einfach nicht loswerden."
+			]
+		},
+		{
+			"path": [23,1,46,4],
+			"indent": 1,
+			"original": "Wächter: Ihr bekommt deshalb von uns ein paar Heilmittel spendiert, falls es zu Angriffen kommen sollte. Nach Feierabend werden aber auch diese hier abgegeben!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Ihr bekommt deshalb von uns ein paar ",
+				"Heilmittel spendiert, falls es zu Angriffen kommen ",
+				"sollte.\\. Nach Feierabend werden aber auch diese ",
+				"hier abgegeben!"
+			]
+		},
+		{
+			"path": [23,1,50,1],
+			"indent": 1,
+			"original": "Wächter: Also dann macht mal eure Arbeit, los!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Also dann macht mal eure Arbeit, los!"
+			]
+		},
+		{
+			"path": [23,1,54,3],
+			"indent": 1,
+			"original": "Wächter: In Ordnung, aber kommt nachher nicht zu mir, wenn es Probleme gibt oder ihr etwas nicht versteht!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: In Ordnung, aber kommt nachher nicht zu ",
+				"mir, wenn es Probleme gibt oder ihr etwas nicht ",
+				"versteht!"
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [23,1,12],
+			"original": "Ja, bitte.../Lass uns einfach nur arbeiten...",
+			"patch": "Ja, bitte.../Lass uns einfach nur arbeiten..."
+		},
+		{
+			"path": [23,1,13],
+			"original": "Ja, bitte...",
+			"patch": "Ja, bitte..."
+		},
+		{
+			"path": [23,1,52],
+			"original": "Lass uns einfach nur arbeiten...",
+			"patch": "Lass uns einfach nur arbeiten..."
+		}
+	]
+}

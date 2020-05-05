@@ -1,0 +1,203 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [43,1,2,3],
+			"original": "Gefangener: Hinter diesem Durchgang wirst du wahrscheinlich kaum noch Erz finden. Für die Größe ist dort einfach immer zuviel Betrieb...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Hinter diesem Durchgang wirst du ",
+				"wahrscheinlich kaum noch Erz finden. Für die Größe ",
+				"ist dort einfach immer zuviel Betrieb..."
+			]
+		},
+		{
+			"path": [44,1,2,4],
+			"original": "Gefangene: Dies ist der einzige Bereich in dem ich mich relativ wohl fühl. Hier ist die Höhle schön groß und weit... In den anderen Bereichen bekomme ich immer Platzangst...",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Dies ist der einzige Bereich in dem ich ",
+				"mich relativ wohl fühl.\\. Hier ist die Höhle schön ",
+				"groß und weit...\\. In den anderen Bereichen bekomme ",
+				"ich immer Platzangst..."
+			]
+		},
+		{
+			"path": [45,1,4,4],
+			"original": "Gefangener: Dieser Erz-Abbau-Bereich ist was für Kletterbegeisterte, für die keine Höhe hoch genug ist. Ich meine, schau dir nur mal diese Verrückten da oben an!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Dieser Erz-Abbau-Bereich ist was für ",
+				"Kletterbegeisterte, für die keine Höhe hoch genug ",
+				"ist.\\. Ich meine,\\. schau dir nur mal diese Verrückten ",
+				"da oben an!"
+			]
+		},
+		{
+			"path": [45,1,20,2],
+			"indent": 1,
+			"original": "Cibon: Juhu! Klippen! Los lass uns ganz nach oben klettern, Kumpel!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Juhu!\\. Klippen!\\. Los lass uns ",
+				"ganz nach oben klettern, Kumpel!"
+			]
+		},
+		{
+			"path": [45,1,28,3],
+			"indent": 1,
+			"original": "Kento: Wie kannst du in so einer Situation bloß so eine Begeisterung rausschlagen?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wie kannst du in so einer ",
+				"Situation bloß so eine Begeisterung ",
+				"rausschlagen?"
+			]
+		},
+		{
+			"path": [45,1,33,2],
+			"indent": 2,
+			"original": "Soko: Wahrscheinlich der Trieb eines Entdeckers.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wahrscheinlich der Trieb eines ",
+				"Entdeckers. "
+			]
+		},
+		{
+			"path": [45,1,36,3],
+			"indent": 2,
+			"original": "Soko: Mal sehen wie er sich in ein paar Wochen verhält, wenn uns jede Ecke der Mine bekannt ist.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Mal sehen wie er sich in ein ",
+				"paar Wochen verhält, wenn uns jede ",
+				"Ecke der Mine bekannt ist."
+			]
+		},
+		{
+			"path": [46,1,2,4],
+			"original": "Gefangener: Da hoch? Nein danke, das ist mir zu gefährlich. Es ist nicht so, dass sich irgendjemand groß um dich kümmert, wenn du dir ein Bein brichst.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Da hoch?\\. Nein danke, das ist mir zu ",
+				"gefährlich.\\. Es ist nicht so, dass sich ",
+				"irgendjemand groß um dich kümmert, wenn du dir ein ",
+				"Bein brichst."
+			]
+		},
+		{
+			"path": [47,1,2,4],
+			"original": "Gefangener: Ha, auch einer von denen, die ganz nach oben kommen? Schön, schön! Ich war schon früher begeisterter Bergsteigerer und ich mach es immer wieder gerne!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ha, auch einer von denen, die ganz ",
+				"nach oben kommen?\\. Schön, schön! \\.Ich war schon ",
+				"früher begeisterter Bergsteigerer und ich mach es ",
+				"immer wieder gerne!"
+			]
+		},
+		{
+			"path": [48,1,2,4],
+			"original": "Gefangener: ... Ich klettere immer bis hier nach oben, um Ruhe vor all den anderen Leuten zu haben, aber mittlerweile scheint das ja nicht mehr zu funktionieren...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: ...\\. Ich klettere immer bis hier nach ",
+				"oben, um Ruhe vor all den anderen Leuten zu haben, ",
+				"aber mittlerweile scheint das ja nicht mehr zu ",
+				"funktionieren..."
+			]
+		},
+		{
+			"path": [49,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [50,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [51,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [52,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [53,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [54,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [56,2,2,4],
+			"original": "Wache: Es gab tatsächlich Gefangene, die dachten, sie könnten sich zusammentun, sich in der Mine verschanzen und sich uns widersetzen. Nun, die Vergangenheit hat gezeigt, dass das nicht hinhaut",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Es gab tatsächlich Gefangene, die dachten, ",
+				"sie könnten sich zusammentun, sich in der Mine ",
+				"verschanzen und sich uns widersetzen.\\. Nun, die",
+				"Vergangenheit hat gezeigt, dass das nicht hinhaut"
+			]
+		},
+		{
+			"path": [56,2,6,4],
+			"original": "Wache: Im Endeffekt konnte keine Widerstandsgruppe standhalten, wenn wir vereint die Mine stürmten, um ihre Verschanzung zu brechen. Spitzhacke hält nicht gegen Langschwert, Speer und Bogen.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Im Endeffekt konnte keine Widerstandsgruppe ",
+				"standhalten, wenn wir vereint die Mine stürmten, ",
+				"um ihre Verschanzung zu brechen. Spitzhacke hält ",
+				"nicht gegen Langschwert, Speer und Bogen."
+			]
+		},
+		{
+			"path": [56,2,10,2],
+			"original": "Wache: Aber was red ich mit euch darüber? Geht sofort zurück zur Arbeit!",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Aber was red ich mit euch darüber?\\. Geht ",
+				"sofort zurück zur Arbeit!"
+			]
+		}
+	]
+}

@@ -1,0 +1,216 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [32,1,2,3],
+			"original": "Gefangener: Seht ihr diese etwas bröckelige Felswand dort links von mir? Früher war da mal ein Durchgang, aber er ist zusammengefallen.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Seht ihr diese etwas bröckelige ",
+				"Felswand dort links von mir?\\. Früher war da mal ein ",
+				"Durchgang, aber er ist zusammengefallen."
+			]
+		},
+		{
+			"path": [32,1,5,4],
+			"original": "Gefangener: Und niemand kommt dazu, es aufzusprengen. Die Gefangenen haben nicht das Dynamit und für die Wachen ist Minenarbeit ein Fremdwort.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Und niemand kommt dazu, es ",
+				"aufzusprengen.\\. Die Gefangenen haben nicht das ",
+				"Dynamit und für die Wachen ist Minenarbeit ein ",
+				"Fremdwort."
+			]
+		},
+		{
+			"path": [32,1,9,3],
+			"original": "Gefangener: Dabei befanden sich reiche Erz- Vorkommen in dem Bereich, wenn ich mich recht erinnere.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Dabei befanden sich reiche Erz-",
+				"Vorkommen in dem Bereich, wenn ich mich recht ",
+				"erinnere."
+			]
+		},
+		{
+			"path": [34,1,2,4],
+			"original": "Gefangener: Ohje, diese Arbeit... Junge, lass mich dir einen Tipp geben. Überanstrenge dich nicht. Das Einzige, was du davon hast ist Kreuzweh am Abend.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ohje, diese Arbeit...\\. Junge, lass mich",
+				"dir einen Tipp geben.\\. Überanstrenge dich nicht. \\.",
+				"Das Einzige, was du davon hast ist Kreuzweh am ",
+				"Abend."
+			]
+		},
+		{
+			"path": [35,1,2,4],
+			"original": "Gefangener: Ihr solltet euch nicht zu weit von den anderen Minenarbeiten entfernen. In den Randgebieten, wo weniger Leute arbeiten, tauchen immer wieder diese nervigen Biester auf.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ihr solltet euch nicht zu weit von den ",
+				"anderen Minenarbeiten entfernen.\\. In den ",
+				"Randgebieten, wo weniger Leute arbeiten, tauchen ",
+				"immer wieder diese nervigen Biester auf."
+			]
+		},
+		{
+			"path": [40,1,16,2],
+			"original": "(Kento: Die Felswand scheint hier brüchig zu sein.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Die Felswand scheint hier ",
+				"brüchig zu sein.)"
+			]
+		},
+		{
+			"path": [40,1,20,1],
+			"indent": 1,
+			"original": "Dynamit verwenden?",
+			"lines":
+			[
+				"Dynamit verwenden?"
+			]
+		},
+		{
+			"path": [40,1,89,1],
+			"indent": 2,
+			"original": "",
+			"lines":
+			[
+				"\\^"
+			]
+		},
+		{
+			"path": [44,1,3,3],
+			"original": "Gefangener: ... ... oh? Tut mir Leid, wenn ich Erz hacke verfalle ich manchmal in Gedanken und bekomme gar nichts von meiner Umgebung mit...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: ...\\. ...\\. oh?\\. Tut mir Leid, wenn ich Erz ",
+				"hacke verfalle ich manchmal in Gedanken und ",
+				"bekomme gar nichts von meiner Umgebung mit..."
+			]
+		},
+		{
+			"path": [45,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [46,1,2,4],
+			"original": "Gefangene: Seid ihr schon mal diesen ekligen, bläulichen Würmern übern Weg gelaufen? Diese Viecher beherrschen Signum wie die Erzmagier aus Domarkor, sag'sch dir.",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Seid ihr schon mal diesen ekligen, ",
+				"bläulichen Würmern übern Weg gelaufen?\\. Diese ",
+				"Viecher beherrschen Signum wie die Erzmagier aus ",
+				"Domarkor, sag'sch dir."
+			]
+		},
+		{
+			"path": [46,1,6,2],
+			"original": "Gefangene: Ihr solltet euch besser nicht mit ihnen anlegen...",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Ihr solltet euch besser nicht mit ",
+				"ihnen anlegen..."
+			]
+		},
+		{
+			"path": [46,1,11,3],
+			"indent": 1,
+			"original": "Felcis: Würmer, die so stark zaubern wie unsere Erzmagier? Das sind Neuigkeiten!",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Würmer, die so stark zaubern ",
+				"wie unsere Erzmagier?\\. Das sind ",
+				"Neuigkeiten! "
+			]
+		},
+		{
+			"path": [46,1,15,3],
+			"indent": 1,
+			"original": "Felcis: Unsere Patricia des Signums wird das mit Sicherheit interessieren.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Unsere Patricia des Signums ",
+				"wird das mit Sicherheit ",
+				"interessieren."
+			]
+		},
+		{
+			"path": [46,1,19,4],
+			"indent": 1,
+			"original": "Felcis: Solche Würmer sind mit Sicherheit kostengünstiger zu halten als dieses anspruchsvolle Pack von Zauberern.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Solche Würmer sind mit ",
+				"Sicherheit kostengünstiger zu ",
+				"halten als dieses anspruchsvolle ",
+				"Pack von Zauberern."
+			]
+		},
+		{
+			"path": [46,1,25,1],
+			"indent": 2,
+			"original": "Soko: Da denkt jemand sehr lukrativ.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Da denkt jemand sehr lukrativ."
+			]
+		},
+		{
+			"path": [46,1,27,3],
+			"indent": 2,
+			"original": "Felcis: Tja, ja. Unser Reichtum ist nicht mehr das, was er vor 10 Jahren zu sein pflegte, Fräulein Filaja.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Tja, ja. Unser Reichtum ist ",
+				"nicht mehr das, was er vor 10 Jahren ",
+				"zu sein pflegte, Fräulein Filaja."
+			]
+		},
+		{
+			"path": [47,1,2,2],
+			"original": "Gefangener: Sprich gefälligst jemand anderen an, ich bin beschäftigt.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Sprich gefälligst jemand anderen an, ",
+				"ich bin beschäftigt."
+			]
+		},
+		{
+			"path": [48,2,2,3],
+			"original": "Wache: Macht eure Arbeit ja gut. Falls nicht, haben wir genug Methoden, euch entsprechend zu \"motivieren\".",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Macht eure Arbeit ja gut. Falls nicht, ",
+				"haben wir genug Methoden, euch entsprechend zu ",
+				"\"motivieren\"."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [40,1,21],
+			"original": "Ja/Nein",
+			"patch": "Ja/Nein"
+		},
+		{
+			"path": [40,1,22],
+			"original": "Ja",
+			"patch": "Ja"
+		},
+		{
+			"path": [40,1,71],
+			"original": "Nein",
+			"patch": "Nein"
+		}
+	]
+}

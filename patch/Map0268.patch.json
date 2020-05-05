@@ -1,0 +1,150 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [18,1,45,2],
+			"original": "Belias: Die Schallhaube kann jetzt aufgehoben werden!",
+			"lines":
+			[
+				"\\c[10]Belias\\c[0]: Die Schallhaube kann jetzt ",
+				"aufgehoben werden!"
+			]
+		},
+		{
+			"path": [18,1,112,2],
+			"original": "Genyu: Vielen Dank für die schnelle Unterstützung.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Vielen Dank für die schnelle ",
+				"Unterstützung."
+			]
+		},
+		{
+			"path": [18,1,116,3],
+			"original": "Belias: Wir stecken hier in den selben Schwierigkeiten, wir müssen gemeinsam raus finden.",
+			"lines":
+			[
+				"\\c[10]Belias\\c[0]: Wir stecken hier in den ",
+				"selben Schwierigkeiten, wir müssen ",
+				"gemeinsam raus finden."
+			]
+		},
+		{
+			"path": [18,1,121,3],
+			"original": "Belias: Beeilt euch mit der Evakuierung der Truppen, die Boote warten nordöstlich am Waldrand.",
+			"lines":
+			[
+				"\\c[10]Belias\\c[0]: Beeilt euch mit der ",
+				"Evakuierung der Truppen, die Boote ",
+				"warten nordöstlich am Waldrand."
+			]
+		},
+		{
+			"path": [18,1,126,4],
+			"original": "Belias: Ihr fahrt den Fluss gen Norden, bis ihr von den Aquilwäldern umrundet seid. Dort wird der neue Stützpunkt vorbereitet.",
+			"lines":
+			[
+				"\\c[10]Belias\\c[0]: Ihr fahrt den Fluss gen ",
+				"Norden, bis ihr von den Aquilwäldern ",
+				"umrundet seid.\\. Dort wird der neue ",
+				"Stützpunkt vorbereitet."
+			]
+		},
+		{
+			"path": [18,1,131,3],
+			"original": "Belias: Die Magier werden euch helfen, bei der Fahrt unbeobachtet zu bleiben.",
+			"lines":
+			[
+				"\\c[10]Belias\\c[0]: Die Magier werden euch ",
+				"helfen, bei der Fahrt unbeobachtet zu ",
+				"bleiben."
+			]
+		},
+		{
+			"path": [18,1,135,3],
+			"original": "Genyu: Ausgezeichnet. Ich werde zusehen, dass die Truppen zusammen bleiben.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Ausgezeichnet.\\. Ich werde ",
+				"zusehen, dass die Truppen zusammen ",
+				"bleiben."
+			]
+		},
+		{
+			"path": [18,1,145,2],
+			"original": "Belias: Übrigens, wo ist Herr Kiorta?",
+			"lines":
+			[
+				"\\c[10]Belias\\c[0]: Übrigens, wo ist Herr ",
+				"Kiorta?"
+			]
+		},
+		{
+			"path": [18,1,148,4],
+			"original": "Genyu: Felcis ist auf den Weg nach Helnovien. Er hat einen Plan, wie man Brigantia von den Untersuchungen kurzfristig ablenken kann.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Felcis ist auf den Weg nach ",
+				"Helnovien.\\. Er hat einen Plan, wie ",
+				"man Brigantia von den Untersuchungen ",
+				"kurzfristig ablenken kann."
+			]
+		},
+		{
+			"path": [18,1,156,2],
+			"original": "Genyu: Er sollte Sie darüber informiert haben.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Er sollte Sie darüber ",
+				"informiert haben."
+			]
+		},
+		{
+			"path": [18,1,159,2],
+			"original": "Belias: Der Brief wird wohl erst nach meiner Abreise angekommen sein.",
+			"lines":
+			[
+				"\\c[10]Belias\\c[0]: Der Brief wird wohl erst ",
+				"nach meiner Abreise angekommen sein."
+			]
+		},
+		{
+			"path": [18,1,161,4],
+			"original": "Belias: Naja, wenn Herr Kiorta etwas plant, hat das in der Regel Hand und Fuß. Vertrauen wir einfach mal darauf.",
+			"lines":
+			[
+				"\\c[10]Belias\\c[0]: Naja, wenn Herr Kiorta etwas ",
+				"plant, hat das in der Regel Hand und ",
+				"Fuß.\\. Vertrauen wir einfach mal ",
+				"darauf."
+			]
+		},
+		{
+			"path": [18,1,172,2],
+			"original": "Genyu: Nun gut. Fangen wir dann mit der Evakurierung an!",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Nun gut.\\. Fangen wir dann mit ",
+				"der Evakurierung an!"
+			]
+		},
+		{
+			"path": [18,1,192,1],
+			"original": "Genyu: MÄNNER! VERSAMMELT EUCH!",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: MÄNNER!\\. VERSAMMELT EUCH!"
+			]
+		},
+		{
+			"path": [18,1,225,3],
+			"original": "Belias: Oh, oh. Ich hätte die Schallhaube besser nicht aufheben lassen sollen...",
+			"lines":
+			[
+				"\\c[10]Belias\\c[0]: Oh, oh.\\. Ich hätte die ",
+				"Schallhaube besser nicht ",
+				"aufheben lassen sollen..."
+			]
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [33,2,3,4],
+			"indent": 1,
+			"original": "Wache: Hey! Ihr seid aber ganz schön spät dran, oder? Ihr solltet schnell die Schienen entlang zurückgehen, bis ihr wieder an der Oberfläche seid.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Hey! Ihr seid aber ganz schön spät dran, ",
+				"oder?\\. Ihr solltet schnell die Schienen entlang ",
+				"zurückgehen, bis ihr wieder an der Oberfläche ",
+				"seid."
+			]
+		},
+		{
+			"path": [33,2,7,1],
+			"indent": 1,
+			"original": "Wache: Von hier aus nach unten...",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Von hier aus nach unten..."
+			]
+		},
+		{
+			"path": [33,2,10,3],
+			"indent": 1,
+			"original": "Wache:  Hey, ihr sollt hier nicht rumlungern. Hier werdet ihr kein Erz finden, das ist schon seit Langem abgebaut.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]:  Hey, ihr sollt hier nicht rumlungern. Hier ",
+				"werdet ihr kein Erz finden, das ist schon seit ",
+				"Langem abgebaut. "
+			]
+		}
+	]
+}

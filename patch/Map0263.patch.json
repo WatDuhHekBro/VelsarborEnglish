@@ -1,0 +1,245 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [68,1,2,2],
+			"original": "Gefangener: Ich bin schon zu Tode erschöpft... Wie lange wollen sie uns noch arbeiten lassen?",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ich bin schon zu Tode erschöpft...\\. Wie ",
+				"lange wollen sie uns noch arbeiten lassen?"
+			]
+		},
+		{
+			"path": [69,1,2,4],
+			"original": "Gefangene: Du solltest dich vor diesen bläulichen Fledermäusen in Acht geben. Die sehen zwar fast so aus wie gewöhnliche Fledermäuse, aber ihr Biss kann dich vergiften und einschläfern.",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Du solltest dich vor diesen bläulichen ",
+				"Fledermäusen in Acht geben. Die sehen zwar fast so ",
+				"aus wie gewöhnliche Fledermäuse, aber ihr Biss ",
+				"kann dich vergiften und einschläfern."
+			]
+		},
+		{
+			"path": [69,1,6,3],
+			"original": "Gefangene: Auf diese Weise können sie ganz schnell dein Ende bedeuten, wenn du ihnen alleine über den Weg läufst...",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Auf diese Weise können sie ganz ",
+				"schnell dein Ende bedeuten, wenn du ihnen alleine ",
+				"über den Weg läufst..."
+			]
+		},
+		{
+			"path": [70,1,3,2],
+			"original": "Gefangener: Das ist mein Erz! MEIN Erz! Mein Erz ganz alleine!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Das ist mein Erz!\\. MEIN Erz!\\. Mein Erz ",
+				"ganz alleine!"
+			]
+		},
+		{
+			"path": [70,1,7,1],
+			"original": "Kento: Schon gut, schon gut...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Schon gut, schon gut..."
+			]
+		},
+		{
+			"path": [70,1,9,1],
+			"original": "Gefangener: Mein Erz!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Mein Erz!"
+			]
+		},
+		{
+			"path": [71,1,2,4],
+			"original": "Gefangener: Ehrlich, ich frag mich, wohin das Loch da oben führt? Ich glaube, früher war das wohl noch erreichbar von hier unten, aber mittlerweile ist irgendwie dieser Felsvorsprung entstanden...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ehrlich, ich frag mich, wohin das Loch ",
+				"da oben führt?\\. Ich glaube, früher war das wohl ",
+				"noch erreichbar von hier unten, aber mittlerweile ",
+				"ist irgendwie dieser Felsvorsprung entstanden..."
+			]
+		},
+		{
+			"path": [71,1,6,2],
+			"original": "Gefangener: Vielleicht durch einen Erdrutsch, oder wie man das nennt?",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Vielleicht durch einen Erdrutsch, oder ",
+				"wie man das nennt?"
+			]
+		},
+		{
+			"path": [72,1,11,3],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Oha! Da ist doch tatsächlich jemand auf meine Insel gekommen! Passiert hier auch nicht alle Tage. Zu dem Anlass überreich' ich dir diesen Orden!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Oha!\\. Da ist doch tatsächlich ",
+				"jemand auf meine Insel gekommen!\\. Passiert hier ",
+				"auch nicht alle Tage.\\. Zu dem Anlass überreich' ich dir diesen Orden!"
+			]
+		},
+		{
+			"path": [72,1,25,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Ihr guckt so verdutzt. Wenn ihr mehr über uns und die Minen-Orden erfahren wollt, besucht einfach unseren Stützpunkt.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Ihr guckt so verdutzt.\\. Wenn ",
+				"ihr mehr über uns und die Minen-Orden ",
+				"erfahren wollt, besucht einfach unseren ",
+				"Stützpunkt."
+			]
+		},
+		{
+			"path": [72,1,29,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Dieser befindet sich im mittleren Bereich der Mine. Fahrt beim nächsten Mal mit der Lore einfach rechts und dann geradeaus.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Dieser befindet sich im ",
+				"mittleren Bereich der Mine.\\. Fahrt beim nächsten ",
+				"Mal mit der Lore einfach rechts und dann ",
+				"geradeaus."
+			]
+		},
+		{
+			"path": [72,1,35,1],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Glück auf!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Glück auf!"
+			]
+		},
+		{
+			"path": [72,1,42,3],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Diese Insel hier hat übriges zwei Seiten. Auf der anderen solltest du noch einiges an Erz finden, Kumpel!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Diese Insel hier hat übriges ",
+				"zwei Seiten.\\. Auf der anderen solltest du noch ",
+				"einiges an Erz finden, Kumpel!"
+			]
+		},
+		{
+			"path": [73,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [74,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [75,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [76,1,3,1],
+			"original": "Gefangener: MEIN ERZ!!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: MEIN ERZ!!"
+			]
+		},
+		{
+			"path": [77,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [79,1,2,3],
+			"original": "Gefangener: Hab ihr schon von dieser Pauamainer- Untertage-Brüderschaft gehört? Das sind ganz gewöhnliche Gefangene, so wie ich und du!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Hab ihr schon von dieser Pauamainer-",
+				"Untertage-Brüderschaft gehört?\\. Das sind ganz ",
+				"gewöhnliche Gefangene, so wie ich und du!"
+			]
+		},
+		{
+			"path": [79,1,5,4],
+			"original": "Gefangener: Die Leute halten sich nur für etwas Besonderes, weil'se immer in den hintersten Ecken und dunkelsten Löschern nach Erz suchen, um eine möglichst große Menge zu schürfen.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Die Leute halten sich nur für etwas ",
+				"Besonderes, weil'se immer in den hintersten Ecken ",
+				"und dunkelsten Löschern nach Erz suchen, um eine ",
+				"möglichst große Menge zu schürfen."
+			]
+		},
+		{
+			"path": [79,1,9,3],
+			"original": "Gefangener: Mit anderen Worten: Sie verhalten sich genauso, wie die Wachenhunde es wollen. Tsk. Als ob ich denen so'nen Gefallen tun würde.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Mit anderen Worten:\\. Sie verhalten sich ",
+				"genauso, wie die Wachenhunde es wollen.\\. Tsk.\\. Als ",
+				"ob ich denen so'nen Gefallen tun würde."
+			]
+		},
+		{
+			"path": [80,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [81,2,2,4],
+			"original": "Wache: Ab und zu findet man hier das ein oder andere Rüstungsteil oder andere brauchbare Gegenstände. In dem Fall informiert ihr uns darüber, verstanden?",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Ab und zu findet man hier das ein oder ",
+				"andere Rüstungsteil oder andere brauchbare ",
+				"Gegenstände.\\. In dem Fall informiert ihr uns ",
+				"darüber, verstanden? "
+			]
+		},
+		{
+			"path": [81,2,6,3],
+			"original": "Wache: Kommt ja nicht auf die Idee, das Ganze für euch zu behalten. Wir merken das, wenn ihr die Mine verlässt.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Kommt ja nicht auf die Idee, das Ganze für ",
+				"euch zu behalten.\\. Wir merken das, wenn ihr die ",
+				"Mine verlässt."
+			]
+		}
+	]
+}

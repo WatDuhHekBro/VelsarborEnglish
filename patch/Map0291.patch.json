@@ -1,0 +1,175 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [6,1,13,4],
+			"original": "?????: Nein, ich hab mich nicht verschaut. Er ist es. Glaubst du wirklich, ich würde dieses Gesicht vergessen?",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Nein, ich hab mich nicht ",
+				"verschaut.\\. Er ist es.\\. Glaubst du ",
+				"wirklich, ich würde dieses Gesicht ",
+				"vergessen?"
+			],
+			"__comment__": "Genji"
+		},
+		{
+			"path": [6,1,17,2],
+			"original": "?????: Es ist der selbe General, der uns damals alles genommen hat.",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Es ist der selbe General, der ",
+				"uns damals alles genommen hat."
+			],
+			"__comment__": "Genji"
+		},
+		{
+			"path": [6,1,25,1],
+			"original": "?????: N-Nein... Bitte nicht hier...",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: N-\\.Nein...\\. Bitte nicht hier..."
+			],
+			"__comment__": "Kumiko"
+		},
+		{
+			"path": [6,1,31,3],
+			"original": "?????: Genji... Niemand von uns hat diese Person vergessen, noch werden wir das jemals tun.",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Genji...\\. Niemand von uns hat ",
+				"diese Person vergessen, noch werden ",
+				"wir das jemals tun."
+			],
+			"__comment__": "Prophet"
+		},
+		{
+			"path": [6,1,34,4],
+			"original": "?????: Wir dürfen uns aber in dieser Situation nicht von Rachegedanken leiten lassen, verstehst du das? Wir haben eine Mission...",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Wir dürfen uns aber in dieser ",
+				"Situation nicht von Rachegedanken ",
+				"leiten lassen, verstehst du das?\\.",
+				"Wir haben eine Mission..."
+			],
+			"__comment__": "Prophet"
+		},
+		{
+			"path": [6,1,41,3],
+			"original": "Genji: Mir geht es nicht um Rache. Mir geht es hier um die Gefahr, die diese Person darstellt.",
+			"lines":
+			[
+				"\\c[10]Genji\\c[0]: Mir geht es nicht um Rache.\\.",
+				"Mir geht es hier um die Gefahr, die ",
+				"diese Person darstellt."
+			]
+		},
+		{
+			"path": [6,1,44,4],
+			"original": "Genji: Sollte die Flucht die du prophezeist stattfinden und Kento dabei auf diese Person stoßen - was dann?",
+			"lines":
+			[
+				"\\c[10]Genji\\c[0]: Sollte die Flucht die du ",
+				"prophezeist stattfinden und Kento ",
+				"dabei auf diese Person stoßen \\.- was ",
+				"dann?"
+			]
+		},
+		{
+			"path": [6,1,48,4],
+			"original": "Genji: Wir beide wissen, wozu dieser General fähig ist. Zwillingsseele hin oder her, Kento würde das nicht überstehen!",
+			"lines":
+			[
+				"\\c[10]Genji\\c[0]: Wir beide wissen, wozu dieser ",
+				"General fähig ist.\\. Zwillingsseele ",
+				"hin oder her, Kento würde das nicht ",
+				"überstehen!"
+			]
+		},
+		{
+			"path": [6,1,52,3],
+			"original": "Genji: Du kannst mir nicht erzählen, dass Heimdall diese Tatsache komplett entgangen ist!",
+			"lines":
+			[
+				"\\c[10]Genji\\c[0]: Du kannst mir nicht erzählen, ",
+				"dass Heimdall diese Tatsache ",
+				"komplett entgangen ist!"
+			]
+		},
+		{
+			"path": [6,1,61,4],
+			"original": "?????: ...er hat mich gewarnt. Dennoch, ist es keine Situation in der wir vorzeitig eingreifen sollten.",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: ...er hat mich gewarnt.  \\.",
+				"Dennoch, ist es keine Situation in ",
+				"der wir vorzeitig eingreifen ",
+				"sollten."
+			],
+			"__comment__": "Prophet"
+		},
+		{
+			"path": [6,1,68,4],
+			"original": "Genji: Und deswegen sagst du uns nichts? Dies ist keine Situation, die wir durch spontanes Eingreifen geregelt bekommen können!",
+			"lines":
+			[
+				"\\c[10]Genji\\c[0]: Und deswegen sagst du uns ",
+				"nichts?\\. Dies ist keine Situation, ",
+				"die wir durch spontanes Eingreifen ",
+				"geregelt bekommen können!"
+			]
+		},
+		{
+			"path": [6,1,73,4],
+			"original": "Genji: Wenn wir unüberlegt da rein stürzen kostet das nicht nur Kentos Leben, sondern unsers gleich dazu. Willst du das verantworten?",
+			"lines":
+			[
+				"\\c[10]Genji\\c[0]: Wenn wir unüberlegt da rein ",
+				"stürzen kostet das nicht nur Kentos ",
+				"Leben, sondern unsers gleich dazu.\\.",
+				"Willst du das verantworten?"
+			]
+		},
+		{
+			"path": [6,1,81,3],
+			"original": "Genji: Wir müssen uns vorbereiten. Das ist alles was ich damit sagen will.",
+			"lines":
+			[
+				"\\c[10]Genji\\c[0]: Wir müssen uns vorbereiten. ",
+				"Das ist alles was ich damit sagen ",
+				"will."
+			]
+		},
+		{
+			"path": [6,1,91,2],
+			"original": "?????: Du hast recht. Ich habe diese Tatsache wohl unterschätzt...",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Du hast recht.\\. Ich habe diese ",
+				"Tatsache wohl unterschätzt..."
+			],
+			"__comment__": "Prophet"
+		},
+		{
+			"path": [6,1,99,4],
+			"original": "?????: Kumiko? Macht dich bitte mit der Gegend vertraut. Wir werden deine Fähigkeiten womöglich in Anspruch nehmen müssen.",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Kumiko?\\. Macht dich bitte mit ",
+				"der Gegend vertraut.\\. Wir werden ",
+				"deine Fähigkeiten womöglich in ",
+				"Anspruch nehmen müssen."
+			],
+			"__comment__": "Prophet"
+		},
+		{
+			"path": [6,1,104,1],
+			"original": "Kumiko: G-Geht in Ordnung!",
+			"lines":
+			[
+				"\\c[10]Kumiko\\c[0]: G-\\.Geht in Ordnung!"
+			]
+		}
+	]
+}

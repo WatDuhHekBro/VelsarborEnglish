@@ -1,0 +1,1378 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [58,1,2,3],
+			"original": "Gefangener: Wir starren hier gerade mit höchstem Interesse jene Wand an, die du gerade zu verdecken vermagst. Verschwinde.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Wir starren hier gerade mit höchstem ",
+				"Interesse jene Wand an, die du gerade zu verdecken ",
+				"vermagst. \\.Verschwinde."
+			]
+		},
+		{
+			"path": [58,2,15,2],
+			"original": "Felcis: Hallo ihr, ich bin noch mal da wegen des Steinchens...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Hallo ihr, ich bin noch mal ",
+				"da wegen des Steinchens..."
+			]
+		},
+		{
+			"path": [58,2,19,4],
+			"original": "Gefangener: Ich hab dir doch bereits gesagt, dass du den nicht wieder bekommen wirst. Blaublütigem Pack wie dir geben wir mit Sicherheit nichts! Du kennst doch unser Motto!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ich hab dir doch bereits gesagt, ",
+				"dass du den nicht wieder bekommen wirst.\\.",
+				"Blaublütigem Pack wie dir geben wir mit Sicherheit ",
+				"nichts!\\. Du kennst doch unser Motto!"
+			]
+		},
+		{
+			"path": [58,2,26,2],
+			"original": "Felcis: Ja, wir alle kennen es. Wir alle wollen es nicht wieder hö...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ja, wir alle kennen es.\\. Wir ",
+				"alle wollen es nicht wieder hö...\\.\\.\\^"
+			]
+		},
+		{
+			"path": [58,2,33,3],
+			"original": "Gefangener: WIR STEHLEN VON DEN REICHEN UND GEBEN ES DEN ARMEN! Wir bringen Gerechtigkeit in diese verdorbene Welt, oh ja!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]:\\s[2] WIR STEHLEN VON DEN REICHEN UND ",
+				"GEBEN ES DEN ARMEN!\\. \\s[0]Wir bringen Gerechtigkeit in ",
+				"diese verdorbene Welt, oh ja!"
+			]
+		},
+		{
+			"path": [58,2,41,1],
+			"original": "Cibon: Was zum Henker?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Was zum Henker?"
+			]
+		},
+		{
+			"path": [58,2,43,4],
+			"original": "Felcis: Ich möchte euch daran erinnern, dass ihr hier in einem Gefängnis seid und herzlich wenig mit diesem Motto anfangen könnt.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich möchte euch daran ",
+				"erinnern, dass ihr hier in einem ",
+				"Gefängnis seid und herzlich wenig ",
+				"mit diesem Motto anfangen könnt."
+			]
+		},
+		{
+			"path": [58,2,49,4],
+			"original": "Gefangener: Wieso? Ich sehe hier doch gerade einen wunderbaren Anfang dafür! DU bist Adel, bist reich. WIR dagegen sind arm! Also behalten wir deinen Klunker, so einfach ist das!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Wieso?\\. Ich sehe hier doch gerade einen ",
+				"wunderbaren Anfang dafür!\\. DU bist Adel, bist ",
+				"reich.\\. WIR dagegen sind arm!\\. Also behalten wir ",
+				"deinen Klunker, so einfach ist das!"
+			]
+		},
+		{
+			"path": [58,2,57,4],
+			"original": "Soko: Ihr seid doch nicht ganz richtig am Kopf? Ihr haltet euren Diebstahl wegen so einer Statusfrage für gerecht? Das ich nicht lache!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ihr seid doch nicht ganz ",
+				"richtig am Kopf?\\. Ihr haltet euren ",
+				"Diebstahl wegen so einer Statusfrage ",
+				"für gerecht?\\. Das ich nicht lache! "
+			]
+		},
+		{
+			"path": [58,2,67,3],
+			"original": "Gefangener: Aber hallo! Eine hübsche Dame haben wir hier. Darf ich mich vorstellen? Robin Llewlynus mein Name.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Aber hallo!\\. Eine hübsche Dame haben ",
+				"wir hier.\\. Darf ich mich vorstellen?\\. Robin ",
+				"Llewlynus mein Name."
+			]
+		},
+		{
+			"path": [58,2,73,2],
+			"original": "Soko: Soko Filaja. Was auch immer. Was ist nun mit diesem Stein?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Soko Filaja.\\. Was auch immer.\\. ",
+				"Was ist nun mit diesem Stein?"
+			]
+		},
+		{
+			"path": [58,2,76,3],
+			"original": "Robin: Ich würde ihn euch herzlich gerne schenken, wenn ich nicht wüsste, dass Ihr mit diesem verkorksten Bonzen rumhängt!",
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Ich würde ihn euch herzlich gerne schenken,",
+				"wenn ich nicht wüsste, dass Ihr mit diesem ",
+				"verkorksten Bonzen rumhängt!"
+			]
+		},
+		{
+			"path": [58,2,85,3],
+			"original": "Felcis: Beim farbigen Pfau von Farenia - hier im Gefängnis gibt es keinen Besitz!",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Beim farbigen Pfau von ",
+				"Farenia \\.- hier im Gefängnis gibt es ",
+				"keinen Besitz!"
+			]
+		},
+		{
+			"path": [58,2,89,4],
+			"original": "Felcis: Ganz abgesehen davon ist euer Motto sowieso nur eine Farce, damit ihr nicht die Wut der Kleinbevölkerung auf euch lastet.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ganz abgesehen davon ist ",
+				"euer Motto sowieso nur eine Farce, ",
+				"damit ihr nicht die Wut der ",
+				"Kleinbevölkerung auf euch lastet."
+			]
+		},
+		{
+			"path": [58,2,95,4],
+			"original": "Felcis: Denkt nicht, dass ich nicht schon von euch gehört habe. Ihr teilt das Besitztum auf? Mit Sicherheit.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Denkt nicht, dass ich nicht ",
+				"schon von euch gehört habe.\\. Ihr ",
+				"teilt das Besitztum auf?\\. Mit ",
+				"Sicherheit."
+			]
+		},
+		{
+			"path": [58,2,100,4],
+			"original": "Felcis: Das erklärt vor allem auch all die Reichtümer, die in eurem Stützpunkt gefunden wurden, als ihr geschnappt wurdet.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Das erklärt vor allem auch ",
+				"all die Reichtümer, die in eurem ",
+				"Stützpunkt gefunden wurden, als ihr ",
+				"geschnappt wurdet."
+			]
+		},
+		{
+			"path": [58,2,105,4],
+			"original": "Felcis: Ihr gebt vielleicht eine Münze von der Schatzkiste an die ansässigen Bauern, die müssen ja nicht wissen, was ihr habt.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ihr gebt vielleicht eine ",
+				"Münze von der Schatzkiste an die ",
+				"ansässigen Bauern, die müssen ja ",
+				"nicht wissen, was ihr habt."
+			]
+		},
+		{
+			"path": [58,2,113,1],
+			"original": "Robin: Erzähl du ruhig deine Geschichten!",
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Erzähl du ruhig deine Geschichten!"
+			]
+		},
+		{
+			"path": [58,2,117,4],
+			"original": "Kento: Aber an sich keine schlechte Idee. So kriegt man Unterstützung von den dort ansässigen Leuten, wenn man sie braucht.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Aber an sich keine schlechte ",
+				"Idee. \\.So kriegt man Unterstützung ",
+				"von den dort ansässigen Leuten, wenn ",
+				"man sie braucht."
+			]
+		},
+		{
+			"path": [58,2,122,4],
+			"original": "Cibon: Haha, was für Schwächlinge! Wahrscheinlich haben sie die Bauern benutzt, um sich bei ihnen vor den Soldaten zu verstecken.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Haha, was für Schwächlinge!\\.",
+				"Wahrscheinlich haben sie die Bauern ",
+				"benutzt, um sich bei ihnen vor den ",
+				"Soldaten zu verstecken."
+			]
+		},
+		{
+			"path": [58,2,130,4],
+			"original": "Robin: Jetzt kommt nicht auf falsche Gedanken! Wenn ihr wüsstet, welche adeligen Truppen wir schon alle überfallen und ausgeraubt haben! Die hatten alle ihre Eskorte.",
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Jetzt kommt nicht auf falsche Gedanken!\\.",
+				"Wenn ihr wüsstet, welche adeligen Truppen wir ",
+				"schon alle überfallen und ausgeraubt haben!\\. Die ",
+				"hatten alle ihre Eskorte. "
+			]
+		},
+		{
+			"path": [58,2,139,4],
+			"indent": 1,
+			"original": "Cibon: Ja ja, man kann ja viel erzählen. Ich wette, selbst wir drei Neuzugänge des Briganten-Orden könnten euch locker wegfegen!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ja ja, man kann ja viel ",
+				"erzählen. Ich wette, selbst wir drei ",
+				"Neuzugänge des Briganten-Orden ",
+				"könnten euch locker wegfegen!"
+			]
+		},
+		{
+			"path": [58,2,144,2],
+			"indent": 1,
+			"original": "Cibon: In einem Turnierkampf zum Beispiel.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: In einem Turnierkampf zum ",
+				"Beispiel."
+			]
+		},
+		{
+			"path": [58,2,149,4],
+			"indent": 1,
+			"original": "Cibon: Ja ja, man kann ja viel erzählen. Ihr könnt es ja nicht mal mit uns drei Neuzugängen des Briganten-Orden aufnehmen!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ja ja, man kann ja viel ",
+				"erzählen.\\. Ihr könnt es ja nicht ",
+				"mal mit uns drei Neuzugängen des ",
+				"Briganten-Orden aufnehmen!"
+			]
+		},
+		{
+			"path": [58,2,154,2],
+			"indent": 1,
+			"original": "Cibon: Ihr erinnert euch noch an den Turnierkampf, oder?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ihr erinnert euch noch an den ",
+				"Turnierkampf, oder?"
+			]
+		},
+		{
+			"path": [58,2,162,4],
+			"indent": 1,
+			"original": "Robin: Ach ja? Versucht es doch! Ihr könnt ja schauen, wo wir im Turnier stehen, die \"Rächer der Gerechten\"! Ich wette, ihr werdet nicht einen einzigen von uns Dreien besiegen können!",
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Ach ja?\\. Versucht es doch!\\. Ihr könnt ja ",
+				"schauen, wo wir im Turnier stehen, die \"Rächer der ",
+				"Gerechten\"!\\. Ich wette, ihr werdet nicht einen ",
+				"einzigen von uns Dreien besiegen können!"
+			]
+		},
+		{
+			"path": [58,2,168,4],
+			"indent": 1,
+			"original": "Robin: Ach ja? Bildet euch bloß nichts ein, nur weil ihr zuletzt Erfolg hattet! Wir haben uns lediglich zurückgehalten! Euch können wir jederzeit fertig machen, wetten wir?",
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Ach ja?\\. Bildet euch bloß nichts ein, nur ",
+				"weil ihr zuletzt Erfolg hattet!\\. Wir haben uns ",
+				"lediglich zurückgehalten!\\. Euch können wir ",
+				"jederzeit fertig machen,\\. wetten wir?"
+			]
+		},
+		{
+			"path": [58,2,177,2],
+			"original": "Felcis: Mit dem Stein, nehme ich an? Ihr hab ja sonst nicht viel.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Mit dem Stein, nehme ich an?\\.",
+				"Ihr hab ja sonst nicht viel."
+			]
+		},
+		{
+			"path": [58,2,182,1],
+			"original": "Robin: Wie? Stein? Moment!",
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Wie?\\. Stein?\\. Moment!"
+			]
+		},
+		{
+			"path": [58,2,185,4],
+			"original": "Felcis: Euer Einsatz. Wir wetten um den Stein. Sollten unsere 3 Ex-Soldaten hier gewinnen, kriegen wir ihn, sonst behaltet ihr ihn.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Euer Einsatz.\\. Wir wetten um ",
+				"den Stein.\\. Sollten unsere 3 ",
+				"Ex-Soldaten hier gewinnen, kriegen ",
+				"wir ihn, sonst behaltet ihr ihn."
+			]
+		},
+		{
+			"path": [58,2,191,2],
+			"original": "Robin: Ha! Davon träumt ihr wohl! Auf so etwas lassen wir uns nicht ein.",
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Ha!\\. Davon träumt ihr wohl!\\. Auf so etwas ",
+				"lassen wir uns nicht ein."
+			]
+		},
+		{
+			"path": [58,2,196,3],
+			"original": "Cibon: Wie? Habt ihr etwa auf einmal Angst, dass ihr gegen uns verlieren könntet?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wie?\\. Habt ihr etwa auf einmal ",
+				"Angst, dass ihr gegen uns verlieren ",
+				"könntet?"
+			]
+		},
+		{
+			"path": [58,2,203,3],
+			"original": "Robin: Ha... Ha! Das hättet ihr wohl gerne! In Ordnung, auf die Wette gehen wir ein. Unter einer Bedingung!",
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Ha...\\. Ha!\\. Das hättet ihr wohl gerne!\\. In ",
+				"Ordnung, auf die Wette gehen wir ein.\\. Unter einer ",
+				"Bedingung!"
+			]
+		},
+		{
+			"path": [58,2,206,4],
+			"original": "Robin: Sollten WIR - wie zu erwarten ist - gewinnen, dann behalten wir den Stein UND eure hübsche Freundin hier, wird uns abends nach der Arbeit \"besuchen kommen\".",
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Sollten WIR \\.- wie zu erwarten ist -\\. ",
+				"gewinnen, dann behalten wir den Stein UND eure ",
+				"hübsche Freundin hier, wird uns abends nach der ",
+				"Arbeit \\s[3]\"besuchen kommen\". "
+			]
+		},
+		{
+			"path": [58,2,217,1],
+			"original": "Soko: W..W..W..W..",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: W..\\.W..\\.W..\\.W..\\.\\^"
+			]
+		},
+		{
+			"path": [58,2,219,1],
+			"original": "Soko: W..W..W..W..WIE BITTE?!",
+			"lines":
+			[
+				"\\>\\c[13]\\n[3]\\c[0]: W..W..W..W..\\<WIE BITTE?!"
+			]
+		},
+		{
+			"path": [58,2,222,2],
+			"original": "Cibon: Ah... Ahahahahahahahahahahah! Seid ihr euch da GANZ sicher?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ah...\\.\\s[3] Ahahahahahahahahahahah!\\.",
+				"Seid ihr euch da GANZ sicher?"
+			]
+		},
+		{
+			"path": [58,2,227,1],
+			"original": "Felcis: In Ordnung! Die Wette gilt!",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: In Ordnung!\\. Die Wette gilt!"
+			]
+		},
+		{
+			"path": [58,2,233,2],
+			"original": "Soko: W...WAS?!?! Seid ihr noch ganz...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: W...\\.WAS?!?!\\. Seid ihr noch ",
+				"ganz...\\.\\^"
+			]
+		},
+		{
+			"path": [58,2,245,2],
+			"original": "Kento: Bitte, Soko... halte dich eben etwas zurück...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Bitte, Soko...\\. halte dich ",
+				"eben etwas zurück..."
+			]
+		},
+		{
+			"path": [58,2,250,3],
+			"original": "Felcis: Damit wäre dann wohl alles geregelt. Wir sehen uns in der Arena!",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Damit wäre dann wohl alles ",
+				"geregelt.\\. Wir sehen uns in der ",
+				"Arena!"
+			]
+		},
+		{
+			"path": [58,2,254,1],
+			"original": "Robin: Haha, mit Freude!",
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Haha,\\. mit Freude!"
+			]
+		},
+		{
+			"path": [58,2,292,2],
+			"original": "Soko: SAGT MAL, SEID IHR NOCH GANZ DICHT?!?!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: SAGT MAL,\\. SEID IHR NOCH GANZ ",
+				"DICHT?!?!"
+			]
+		},
+		{
+			"path": [58,2,297,2],
+			"original": "Felcis: Woha! Was für ein Temperament, unheimlich!",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Woha!\\. Was für ein ",
+				"Temperament,\\. unheimlich!"
+			]
+		},
+		{
+			"path": [58,2,303,2],
+			"original": "Soko: Du hast auch allen Grund, dich zu fürchten.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Du hast auch allen Grund, dich ",
+				"zu fürchten. "
+			]
+		},
+		{
+			"path": [58,2,312,3],
+			"original": "Felcis: Beruhig dich, Soko, beruhig dich! Es wird schon alles gut gehen! Vertrau mir...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Beruhig dich, Soko, beruhig ",
+				"dich!\\. Es wird schon alles gut gehen!\\. ",
+				"Vertrau mir...\\.\\."
+			]
+		},
+		{
+			"path": [58,2,318,3],
+			"original": "Soko: Wie soll hier bitte alles gut gehen? Was passiert, wenn wir verlieren?!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wie soll hier bitte alles gut ",
+				"gehen?\\. Was passiert, wenn wir ",
+				"verlieren?!"
+			]
+		},
+		{
+			"path": [58,2,322,3],
+			"original": "Cibon: Komm Soko, gegen die werden wir nicht verlieren! Dafür wirst du ja wohl schon selber sorgen...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Komm Soko, gegen die werden ",
+				"wir nicht verlieren!\\. Dafür wirst du ",
+				"ja wohl schon selber sorgen..."
+			]
+		},
+		{
+			"path": [58,2,327,4],
+			"original": "Felcis: Tut mir Leid, aber ich habe in dieser Wette die einzige Möglichkeit gesehen, diesen Stein wieder zu bekommen...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Tut mir Leid, aber ich habe ",
+				"in dieser Wette die einzige ",
+				"Möglichkeit gesehen, diesen Stein ",
+				"wieder zu bekommen..."
+			]
+		},
+		{
+			"path": [58,2,332,3],
+			"original": "Felcis: Wer weiß, ob wir sie nochmal soweit bekommen hätten, wenn wir wegen dir abgelehnt hätten...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wer weiß, ob wir sie nochmal ",
+				"soweit bekommen hätten, wenn wir ",
+				"wegen dir abgelehnt hätten..."
+			]
+		},
+		{
+			"path": [58,2,338,4],
+			"original": "Kento: G... Genau...  Außerdem... selbst wenn wir verlieren sollten, ist alles was die bekommen werden, eine große Menge an... Schmerzen...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]:\\s[2] G...\\. Genau...\\.  Außerdem...\\. ",
+				"selbst wenn wir verlieren sollten, ",
+				"ist alles was die bekommen werden, ",
+				"eine große Menge an...\\.\\s[4] Schmerzen..."
+			]
+		},
+		{
+			"path": [58,2,345,1],
+			"original": "Cibon: Du sagst es, Kumpel!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Du sagst es, Kumpel!"
+			]
+		},
+		{
+			"path": [58,2,347,1],
+			"original": "Soko: Wie? Ah...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wie?\\. Ah... "
+			]
+		},
+		{
+			"path": [58,2,353,3],
+			"original": "Soko: Entschuldigung Kento, aber ich konnte das gerade nicht zurückhalten...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Entschuldigung Kento, aber ich ",
+				"konnte das gerade nicht ",
+				"zurückhalten..."
+			]
+		},
+		{
+			"path": [58,2,362,2],
+			"original": "Soko: Na gut. Wir werden einfach nicht verlieren. Alles wird gut...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Na gut.\\. Wir werden einfach ",
+				"nicht verlieren.\\. Alles wird gut..."
+			]
+		},
+		{
+			"path": [58,2,372,2],
+			"original": "Kento: Übrigens, Felcis, was für ein Stein ist das überhaupt?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Übrigens, Felcis, was für ein ",
+				"Stein ist das überhaupt?"
+			]
+		},
+		{
+			"path": [58,2,378,4],
+			"original": "Felcis: Dieser Stein enthält besondere Signum-Kräfte. Keine Kräfte, mit denen die etwas anzufangen wüssten...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Dieser Stein enthält ",
+				"besondere Signum-Kräfte.\\. Keine ",
+				"Kräfte, mit denen die etwas ",
+				"anzufangen wüssten..."
+			]
+		},
+		{
+			"path": [58,2,383,4],
+			"original": "Felcis: Aber für uns ist dieser Stein absolut notwendig. Ohne diesen werden wir die Barriere nicht brechen können.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Aber für uns ist dieser ",
+				"Stein absolut notwendig.\\. Ohne diesen ",
+				"werden wir die Barriere nicht ",
+				"brechen können."
+			]
+		},
+		{
+			"path": [58,2,388,4],
+			"original": "Felcis: Sagt aber bitte bloß niemanden etwas davon. Das Ding soll nichts weiter als ein schön funkelnder Stein bleiben.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Sagt aber bitte bloß ",
+				"niemanden etwas davon.\\. Das Ding soll ",
+				"nichts weiter als ein schön ",
+				"funkelnder Stein bleiben."
+			]
+		},
+		{
+			"path": [58,2,393,3],
+			"original": "Cibon: Gebongt! Dann sollten wir zusehen, dass wir diese Eumel im Turnier zur Schnecke machen!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Gebongt!\\. Dann sollten wir ",
+				"zusehen, dass wir diese Eumel im ",
+				"Turnier zur Schnecke machen!"
+			]
+		},
+		{
+			"path": [58,2,398,3],
+			"original": "Soko: Ja und wehe wenn nicht! Ich hoffe du erinnerst dich, mit wem du deine Zelle teilst, Felcis!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ja und wehe wenn nicht!\\. Ich ",
+				"hoffe du erinnerst dich, mit wem du ",
+				"deine Zelle teilst, Felcis!"
+			]
+		},
+		{
+			"path": [58,3,2,1],
+			"original": "Robin: Wir sehen uns dann im Turnier, haha!",
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Wir sehen uns dann im Turnier, haha!"
+			]
+		},
+		{
+			"path": [58,4,2,4],
+			"original": "Robin: Jetzt habt ihr euren Klunker wieder, ich hoffe ihr seid zufrieden! Aber wartet nur ab! Ihr reichen Säcke werdet schon euren Untergang erleben, früher oder später!",
+			"lines":
+			[
+				"\\c[10]Robin\\c[0]: Jetzt habt ihr euren Klunker wieder, ich ",
+				"hoffe ihr seid zufrieden!\\. Aber wartet nur ab!\\. Ihr ",
+				"reichen Säcke werdet schon euren Untergang ",
+				"erleben, früher oder später!"
+			]
+		},
+		{
+			"path": [58,4,9,2],
+			"indent": 1,
+			"original": "Felcis: Ignorieren. Einfach ignorieren...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ignorieren.\\. Einfach ",
+				"ignorieren..."
+			]
+		},
+		{
+			"path": [59,1,2,2],
+			"original": "Gefangener: Wir geben es den Armen, weil sie es wirklich brauchen, oh ja!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Wir geben es den Armen, weil sie es ",
+				"wirklich brauchen, oh ja!"
+			]
+		},
+		{
+			"path": [60,1,2,2],
+			"original": "Gefangener: Wir stehlen von den Reichen, damit sie weniger reich werden, oh ja!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Wir stehlen von den Reichen, damit sie ",
+				"weniger reich werden, oh ja!"
+			]
+		},
+		{
+			"path": [66,1,4,3],
+			"indent": 1,
+			"original": "Saion: Ihr schon wieder. Wir werden uns im Turnier noch wieder sehen, wartet nur ab!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Ihr schon wieder.\\. Wir werden ",
+				"uns im Turnier noch wieder sehen, ",
+				"wartet nur ab!"
+			]
+		},
+		{
+			"path": [66,1,8,3],
+			"indent": 1,
+			"original": "Soko: Was ist da zwischen euch los? Ihr solltet über eure Probleme reden anstatt...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Was ist da zwischen euch los?\\.",
+				"Ihr solltet über eure Probleme reden ",
+				"anstatt...\\.\\.\\^"
+			]
+		},
+		{
+			"path": [66,1,12,3],
+			"indent": 1,
+			"original": "Saion: Unsere Probleme? Was hat das euch zu interessieren? Kümmert euch um euren eigenen Kram!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Unsere Probleme?\\. Was hat das ",
+				"euch zu interessieren?\\. Kümmert euch ",
+				"um euren eigenen Kram!"
+			]
+		},
+		{
+			"path": [66,1,16,1],
+			"indent": 1,
+			"original": "Kento: Komm Soko, lass es besser...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Komm Soko, lass es besser..."
+			]
+		},
+		{
+			"path": [66,1,21,3],
+			"indent": 2,
+			"original": "Saion: Pah! Das ihr ums mal geschlagen habt, heißt gar nichts! Ich fordere Revanche!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Pah!\\. Das ihr ums mal ",
+				"geschlagen habt, heißt gar nichts!\\. ",
+				"Ich fordere Revanche!"
+			]
+		},
+		{
+			"path": [66,1,26,3],
+			"indent": 2,
+			"original": "Jorn: Regel Nummer Eins der Zinkar- Brüder: Wir lernen nie unsere Lektion!",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Regel Nummer Eins der Zinkar-",
+				"Brüder:\\. Wir lernen nie unsere ",
+				"Lektion!"
+			]
+		},
+		{
+			"path": [66,1,32,2],
+			"indent": 2,
+			"original": "Saion: Jorn, du hältst gefälligst dein vorlautes Mundwerk!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Jorn, du hältst gefälligst ",
+				"dein vorlautes Mundwerk!"
+			]
+		},
+		{
+			"path": [66,1,41,4],
+			"indent": 5,
+			"original": "Saion: Ha! Die Zinkar-Schlächer kommen voran, wie es scheint. Ihr werdet euch schon wundern, wer hier wen schlachtet!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Ha!\\. Die Zinkar-Schlächer ",
+				"kommen voran, wie es scheint.\\. Ihr ",
+				"werdet euch schon wundern, wer hier ",
+				"wen schlachtet!"
+			]
+		},
+		{
+			"path": [66,1,47,1],
+			"indent": 5,
+			"original": "Jorn: Ihr Name wird Programm!",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Ihr Name wird Programm!"
+			]
+		},
+		{
+			"path": [66,1,52,1],
+			"indent": 5,
+			"original": "Saion: Halt's Maul, Jorn!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Halt's Maul, Jorn!"
+			]
+		},
+		{
+			"path": [66,1,59,3],
+			"indent": 3,
+			"original": "Saion: Platz \\v[1886] seid ihr also schon? Nichtmehr lange und unser Kampf steht bevor! Oh ja!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Platz \\v[1886] seid ihr also ",
+				"schon?\\. Nichtmehr lange und unser ",
+				"Kampf steht bevor!\\. Oh ja!"
+			]
+		},
+		{
+			"path": [66,1,65,1],
+			"indent": 3,
+			"original": "Jorn: Oh Freude.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Oh Freude."
+			]
+		},
+		{
+			"path": [66,1,68,3],
+			"indent": 3,
+			"original": "Saion: Seht ihr? Sogar dieser starrköpfiger Rotschopf von Bruder freut sich auf diesen Kampf!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Seht ihr?\\. Sogar dieser ",
+				"starrköpfiger Rotschopf von Bruder ",
+				"freut sich auf diesen Kampf!"
+			]
+		},
+		{
+			"path": [66,1,76,3],
+			"indent": 3,
+			"original": "Jorn: Starrköpfiger Bruder? Jemand muss mir irgendwo einen Spiegel angeklebt haben.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Starrköpfiger Bruder?\\. Jemand ",
+				"muss mir irgendwo einen Spiegel ",
+				"angeklebt haben. "
+			]
+		},
+		{
+			"path": [66,1,83,2],
+			"indent": 3,
+			"original": "Saion: Was hat das jetzt wieder zu bedeuten?!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Was hat das jetzt wieder zu ",
+				"bedeuten?!"
+			]
+		},
+		{
+			"path": [66,1,91,4],
+			"indent": 5,
+			"original": "Saion: Oh, hallo! Da sind ja die \"Zinkar Schlächter\"! Ganz schön selbstbewusst bei der Namenswahl, sag ich da nur!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Oh, hallo! Da sind ja die ",
+				"\"Zinkar Schlächter\"! Ganz schön ",
+				"selbstbewusst bei der Namenswahl, ",
+				"sag ich da nur!"
+			]
+		},
+		{
+			"path": [66,1,98,2],
+			"indent": 5,
+			"original": "Jorn: Ich fühl mich bereits jetzt wie Frischfleisch.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Ich fühl mich bereits jetzt ",
+				"wie Frischfleisch."
+			]
+		},
+		{
+			"path": [66,1,104,2],
+			"indent": 5,
+			"original": "Saion: Ruhe, Jorn! Du immer mit deiner pessimistischen Art.",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Ruhe, Jorn!\\. Du immer mit ",
+				"deiner pessimistischen Art."
+			]
+		},
+		{
+			"path": [66,1,112,4],
+			"indent": 3,
+			"original": "Saion: Ha! Und? Welchen Rang habt ihre denn so mittlerweile? Wir warten schon alle ungeduldig auf eure Herausforderung!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Ha!\\. Und?\\. Welchen Rang habt ",
+				"ihre denn so mittlerweile?\\. Wir ",
+				"warten schon alle ungeduldig auf ",
+				"eure Herausforderung!"
+			]
+		},
+		{
+			"path": [66,1,119,1],
+			"indent": 3,
+			"original": "Jorn: Tun wir das?",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Tun wir das?"
+			]
+		},
+		{
+			"path": [66,1,122,3],
+			"indent": 3,
+			"original": "Saion: Wir werden beweisen, dass wir es mit Soldaten des Briganten-Ordens aufnehmen können!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Wir werden beweisen, dass wir ",
+				"es mit Soldaten des Briganten-Ordens ",
+				"aufnehmen können!"
+			]
+		},
+		{
+			"path": [66,1,128,3],
+			"indent": 3,
+			"original": "Jorn: Du kannst auch einfach ein paar Wachen angreifen, falls du das beweisen willst.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Du kannst auch einfach ein ",
+				"paar Wachen angreifen, falls du das ",
+				"beweisen willst."
+			]
+		},
+		{
+			"path": [66,1,134,1],
+			"indent": 3,
+			"original": "Saion: Sei gefälligst still, Jorn!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Sei gefälligst still, Jorn!"
+			]
+		},
+		{
+			"path": [67,1,4,2],
+			"indent": 1,
+			"original": "Jorn: ...Lasst mich bitte in Frieden, ja?",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: ...\\.Lasst mich bitte in ",
+				"Frieden,\\. ja?"
+			]
+		},
+		{
+			"path": [67,1,10,4],
+			"indent": 2,
+			"original": "Jorn: Ich hoffe ihr habt euren Spaß gehabt. Ihr könnt ja mal versuchen gegen diese Pauamainer anzukommen. Die sind wirklich heftig.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Ich hoffe ihr habt euren Spaß ",
+				"gehabt.\\. Ihr könnt ja mal versuchen ",
+				"gegen diese Pauamainer anzukommen.\\.",
+				"Die sind wirklich heftig."
+			]
+		},
+		{
+			"path": [67,1,14,4],
+			"indent": 2,
+			"original": "Jorn: Ich muss es wissen, so oft wie Saion gegen die mit uns angegangen ist... Und deren Chef ist sowieso jenseits unserer Grenzen...",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Ich muss es wissen, so oft wie ",
+				"Saion gegen die mit uns angegangen ",
+				"ist...\\. Und deren Chef ist sowieso ",
+				"jenseits unserer Grenzen..."
+			]
+		},
+		{
+			"path": [67,1,21,3],
+			"indent": 2,
+			"original": "Saion: Das ist wieder so typisch für dich! Immer nur am rumheulen und jammern!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Das ist wieder so typisch für ",
+				"dich!\\. Immer nur am rumheulen und ",
+				"jammern! "
+			]
+		},
+		{
+			"path": [67,1,28,3],
+			"indent": 2,
+			"original": "Jorn: Nach einem halben Duzend Niederlagen gegen diesen Typen hab ich auch allen Grund dazu!",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Nach einem halben Duzend ",
+				"Niederlagen gegen diesen Typen hab ",
+				"ich auch allen Grund dazu!"
+			]
+		},
+		{
+			"path": [67,1,36,4],
+			"indent": 4,
+			"original": "Jorn: So wie es aussieht, ist bald \"Schlachtfest\". Und ich dachte diese Ambition würde nur dieses blauhaarige Unheil von Bruder haben.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: So wie es aussieht, ist bald ",
+				"\"Schlachtfest\".\\. Und ich dachte diese ",
+				"Ambition würde nur dieses ",
+				"blauhaarige Unheil von Bruder haben."
+			]
+		},
+		{
+			"path": [67,1,43,3],
+			"indent": 4,
+			"original": "Jorn: Na wunderbar, ihr kommt unserem Platz immer näher. Ihr meint es wirklich ernst, oder?",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Na wunderbar, ihr kommt ",
+				"unserem Platz immer näher.\\. Ihr meint ",
+				"es wirklich ernst, oder?"
+			]
+		},
+		{
+			"path": [67,1,51,3],
+			"indent": 5,
+			"original": "Cibon: Na komm, es ist doch nur ein Turnierkampf. Und dein Bruder wollte es nicht anders.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Na komm, es ist doch nur ein ",
+				"Turnierkampf.\\. Und dein Bruder wollte ",
+				"es nicht anders."
+			]
+		},
+		{
+			"path": [67,1,55,3],
+			"indent": 5,
+			"original": "Jorn: Ja, aber ich werd ja in diesen Schlamassel mit rein gezogen. Mich fragt ja keiner!",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Ja, aber ich werd ja in diesen ",
+				"Schlamassel mit rein gezogen. ",
+				"Mich fragt ja keiner!"
+			]
+		},
+		{
+			"path": [67,1,59,2],
+			"indent": 5,
+			"original": "Soko: Glaub mir, auf unserer Seite ist das nicht unbedingt groß anders.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Glaub mir, auf unserer Seite ",
+				"ist das nicht unbedingt groß anders."
+			]
+		},
+		{
+			"path": [67,1,62,2],
+			"indent": 5,
+			"original": "Cibon: Wie, wo, was? Du hast dich nie richtig beschwert, Soko!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wie, wo, was?\\. Du hast dich ",
+				"nie richtig beschwert, Soko!"
+			]
+		},
+		{
+			"path": [67,1,65,2],
+			"indent": 5,
+			"original": "Soko: Na und? Das muss nicht heißen, dass mir der Kram gefällt.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Na und?\\. Das muss nicht heißen, ",
+				"dass mir der Kram gefällt."
+			]
+		},
+		{
+			"path": [67,1,68,2],
+			"indent": 5,
+			"original": "Jorn: He, ich denke dann verstehen wir uns ja.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: He, ich denke dann verstehen ",
+				"wir uns ja. "
+			]
+		},
+		{
+			"path": [67,1,70,4],
+			"indent": 5,
+			"original": "Jorn: Komm, Soko, wir machen einen Pakt! Wir beide werden während des Kampfes einfach streiken und nichts machen!",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Komm, Soko, wir machen einen ",
+				"Pakt!\\. Wir beide werden während des ",
+				"Kampfes einfach streiken und nichts ",
+				"machen!"
+			]
+		},
+		{
+			"path": [67,1,75,1],
+			"indent": 5,
+			"original": "Soko: Klingt interessant.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Klingt interessant."
+			]
+		},
+		{
+			"path": [67,1,77,2],
+			"indent": 5,
+			"original": "Cibon: Jetzt kommt nicht auf dumme Gedanken!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Jetzt kommt nicht auf dumme ",
+				"Gedanken!"
+			]
+		},
+		{
+			"path": [67,1,89,4],
+			"indent": 5,
+			"original": "Jorn: Zinkar-Schlächter... Sehr tolle Namenswahl. Jetzt kann ich die Nacht über nicht mehr ruhig schlafen.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Zinkar-Schlächter...\\. Sehr ",
+				"tolle Namenswahl.\\. Jetzt kann ich die ",
+				"Nacht über nicht mehr ruhig ",
+				"schlafen."
+			]
+		},
+		{
+			"path": [67,1,96,4],
+			"indent": 5,
+			"original": "Saion: Du bist so ein Angsthase! Was hat ein Name schon zu bedeuten? Du siehst doch, wie weit wir schon gekommen sind!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Du bist so ein Angsthase!\\. Was ",
+				"hat ein Name schon zu bedeuten?\\. Du ",
+				"siehst doch, wie weit wir schon ",
+				"gekommen sind!"
+			]
+		},
+		{
+			"path": [67,1,103,3],
+			"indent": 5,
+			"original": "Jorn: Was? Angst ist so etwas Wunderbares. Sie hält einem davon ab, blöde Sachen zu machen.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Was?\\. Angst ist so etwas ",
+				"Wunderbares.\\. Sie hält einem davon ",
+				"ab, blöde Sachen zu machen."
+			]
+		},
+		{
+			"path": [67,1,106,3],
+			"indent": 5,
+			"original": "Jorn: Und manche Leute hier könnten wirklich etwas mehr Angst gebrauchen...",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Und manche Leute hier könnten ",
+				"wirklich etwas mehr Angst ",
+				"gebrauchen..."
+			]
+		},
+		{
+			"path": [67,1,115,3],
+			"indent": 3,
+			"original": "Jorn: Ihr müsst euch mit dieser Turniergeschichte wirklich nicht beeilen.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Ihr müsst euch mit dieser ",
+				"Turniergeschichte wirklich nicht ",
+				"beeilen. "
+			]
+		},
+		{
+			"path": [67,1,119,3],
+			"indent": 3,
+			"original": "Jorn: Ich bin wirklich froh, wenn mein Bruder mal einen Tag keinen Gegner zum bekämpfen findet...",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Ich bin wirklich froh, wenn ",
+				"mein Bruder mal einen Tag keinen ",
+				"Gegner zum bekämpfen findet..."
+			]
+		},
+		{
+			"path": [67,1,124,3],
+			"indent": 4,
+			"original": "Soko: Dürfte ich mal fragen, wieso du überhaupt alles mitmachst, was dein Bruder dir auferlegt?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Dürfte ich mal fragen, wieso ",
+				"du überhaupt alles mitmachst, was ",
+				"dein Bruder dir auferlegt?"
+			]
+		},
+		{
+			"path": [67,1,128,2],
+			"indent": 4,
+			"original": "Soko: Ihr scheint da ja nicht sonderlich oft einer Meinung...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ihr scheint da ja nicht ",
+				"sonderlich oft einer Meinung..."
+			]
+		},
+		{
+			"path": [67,1,131,2],
+			"indent": 4,
+			"original": "Jorn: Nun ja... ehm... wir sind Brüder?",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Nun ja...\\. ehm...\\. wir sind ",
+				"Brüder?"
+			]
+		},
+		{
+			"path": [67,1,137,3],
+			"indent": 4,
+			"original": "Jorn: Es ist nicht so, das ich Leute kenne, zu denen ich gehen könnte, wenn ich meine Brüder verlasse.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Es ist nicht so, das ich Leute ",
+				"kenne, zu denen ich gehen könnte, ",
+				"wenn ich meine Brüder verlasse."
+			]
+		},
+		{
+			"path": [67,1,140,3],
+			"indent": 4,
+			"original": "Jorn: Außerdem könnt ihr euch nicht vorstellen, was für ein Theater Saion in diesem Fall machen würde...",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Außerdem könnt ihr euch nicht ",
+				"vorstellen, was für ein Theater ",
+				"Saion in diesem Fall machen würde..."
+			]
+		},
+		{
+			"path": [67,1,146,1],
+			"indent": 4,
+			"original": "Saion: Wovon redet ihr da drüben?",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Wovon redet ihr da drüben?"
+			]
+		},
+		{
+			"path": [67,1,150,4],
+			"indent": 4,
+			"original": "Jorn: Wir diskutieren gerade, ob dein Handeln auf mangelnde Intelligenz oder psychische Störung zurück zu führen ist.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Wir diskutieren gerade, ob ",
+				"dein Handeln auf mangelnde ",
+				"Intelligenz oder psychische Störung ",
+				"zurück zu führen ist."
+			]
+		},
+		{
+			"path": [67,1,157,3],
+			"indent": 4,
+			"original": "Saion: Was zum... Ich handle genauso so wie wir als Diebesbande zu handeln haben!",
+			"lines":
+			[
+				"\\c[10]Saion\\c[0]: Was zum...\\. Ich handle genauso ",
+				"so wie wir als Diebesbande zu ",
+				"handeln haben!"
+			]
+		},
+		{
+			"path": [67,1,163,2],
+			"indent": 4,
+			"original": "Jorn: Ja, über das Thema könnte man wirklich lange diskutieren.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Ja, über das Thema könnte man ",
+				"wirklich lange diskutieren."
+			]
+		},
+		{
+			"path": [68,1,4,1],
+			"indent": 1,
+			"original": "Gurim: ...",
+			"lines":
+			[
+				"\\c[10]Gurim\\c[0]: ..."
+			]
+		},
+		{
+			"path": [68,1,9,1],
+			"indent": 2,
+			"original": "Gurim: Glückwunsch zum Sieg.",
+			"lines":
+			[
+				"\\c[10]Gurim\\c[0]: Glückwunsch zum Sieg."
+			]
+		},
+		{
+			"path": [68,1,12,2],
+			"indent": 3,
+			"original": "Cibon: Danke, ihr habt auch gut gekämpft.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Danke, ihr habt auch gut ",
+				"gekämpft."
+			]
+		},
+		{
+			"path": [68,1,20,2],
+			"indent": 3,
+			"original": "Gurim: Wir sehen uns dann im Turnier...",
+			"lines":
+			[
+				"\\c[10]Gurim\\c[0]: Wir sehen uns dann im ",
+				"Turnier..."
+			]
+		},
+		{
+			"path": [68,1,24,3],
+			"indent": 4,
+			"original": "Cibon: Ich bin mal gespannt, ob sich dein Kampfstil mit dieser komischen Waffe verbessert hat.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ich bin mal gespannt, ob sich ",
+				"dein Kampfstil mit dieser komischen ",
+				"Waffe verbessert hat."
+			]
+		},
+		{
+			"path": [68,1,32,3],
+			"indent": 4,
+			"original": "Kento: Apropos komische Waffen. Kämpfst du eigentlich immer noch mit diesem gefüllten Beutel, Jorn?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Apropos komische Waffen.\\.",
+				"Kämpfst du eigentlich immer noch mit ",
+				"diesem gefüllten Beutel, Jorn?"
+			]
+		},
+		{
+			"path": [68,1,39,4],
+			"indent": 4,
+			"original": "Jorn: Den? Niemals! Wir hätten bei weitem nicht genug Gegenstände, um den mit einem soliden Gewicht zu füllen.",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Den?\\. Niemals!\\. Wir hätten bei ",
+				"weitem nicht genug Gegenstände, um ",
+				"den mit einem soliden Gewicht zu ",
+				"füllen."
+			]
+		},
+		{
+			"path": [68,1,44,1],
+			"indent": 4,
+			"original": "Kento: Womit kämpfst du dann?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Womit kämpfst du dann?"
+			]
+		},
+		{
+			"path": [68,1,49,2],
+			"indent": 4,
+			"original": "Jorn: Nunja... Das werdet ihr ja sehen...",
+			"lines":
+			[
+				"\\c[10]Jorn\\c[0]: Nunja...\\. Das werdet ihr ja ",
+				"sehen..."
+			]
+		},
+		{
+			"path": [68,1,58,1],
+			"indent": 3,
+			"original": "Gurim: Hallo...",
+			"lines":
+			[
+				"\\c[10]Gurim\\c[0]: Hallo..."
+			]
+		},
+		{
+			"path": [68,1,64,3],
+			"indent": 4,
+			"original": "Soko: Du bist wirklich eine willkommene Abwechslung im Vergleich zu deinen gesprächigen Brüdern.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Du bist wirklich eine ",
+				"willkommene Abwechslung im Vergleich ",
+				"zu deinen gesprächigen Brüdern."
+			]
+		},
+		{
+			"path": [68,1,71,1],
+			"indent": 4,
+			"original": "Gurim: D... Danke...",
+			"lines":
+			[
+				"\\c[10]Gurim\\c[0]: D...\\. Danke..."
+			]
+		},
+		{
+			"path": [77,1,2,1],
+			"original": "Wächter: Kein Durchgang hier für euch!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Kein Durchgang hier für euch!"
+			]
+		},
+		{
+			"path": [78,1,2,3],
+			"original": "Wächter: Hier geht es nicht durch! Ihr sollt die Treppe runter.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hier geht es nicht durch!\\. Ihr sollt die ",
+				"Treppe runter.",
+				""
+			]
+		},
+		{
+			"path": [78,2,2,1],
+			"original": "Wächter: Hier ist kein Zutritt für Gefangene.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hier ist kein Zutritt für Gefangene."
+			]
+		}
+	]
+}

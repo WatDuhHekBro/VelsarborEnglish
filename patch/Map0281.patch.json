@@ -1,0 +1,221 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [6,2,35,1],
+			"original": "Felcis: Okay, hier sind wir!",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Okay, hier sind wir! "
+			]
+		},
+		{
+			"path": [6,2,37,2],
+			"original": "Kento: Also, was für ein Pulver suchen wir jetzt genau?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Also, was für ein Pulver ",
+				"suchen wir jetzt genau?"
+			]
+		},
+		{
+			"path": [6,2,40,2],
+			"original": "Felcis: Graufunkenpulver. Ist euch das ein Begriff?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Graufunkenpulver.\\. Ist euch ",
+				"das ein Begriff?"
+			]
+		},
+		{
+			"path": [6,2,46,4],
+			"original": "Soko: Hm... ich denke, ich hab mal davon gehört. Wird das nicht verwendet, um die Wirkung von Signumsprüchen zu verstärken?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Hm...\\. ich denke, ich hab mal ",
+				"davon gehört.\\. Wird das nicht ",
+				"verwendet, um die Wirkung von ",
+				"Signumsprüchen zu verstärken?"
+			]
+		},
+		{
+			"path": [6,2,51,4],
+			"original": "Felcis: Exakt. Man streue Graufunkenpulver an eine Felswand und zaubere Feuer oder Feures drauf und WUMM - ein Loch wurde gesprengt.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Exakt.\\. Man streue ",
+				"Graufunkenpulver an eine Felswand ",
+				"und zaubere Feuer oder Feures drauf ",
+				"und \\s[2]WUMM \\s[0]\\.- ein Loch wurde gesprengt."
+			]
+		},
+		{
+			"path": [6,2,55,4],
+			"original": "Felcis: Das ist auch der Grund, wieso dieses Pulver in der Mine verwendet wird - oder eher verwendet wurde.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Das ist auch der Grund, ",
+				"wieso dieses Pulver in der Mine ",
+				"verwendet wird \\.- oder eher verwendet ",
+				"wurde."
+			]
+		},
+		{
+			"path": [6,2,60,4],
+			"original": "Felcis: Mittlerweile scheint man ja nur noch mit Dynamit zu sprengen, wahrscheinlich weil man dafür keine Signumkundigen mehr braucht.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Mittlerweile scheint man ja ",
+				"nur noch mit Dynamit zu sprengen, ",
+				"wahrscheinlich weil man dafür keine ",
+				"Signumkundigen mehr braucht."
+			]
+		},
+		{
+			"path": [6,2,65,4],
+			"original": "Felcis: Ich hab ehrlich gesagt nicht erwartet, dass man schon heute den gesamten Graupulverkonsum aufgelöst bekommen hat.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich hab ehrlich gesagt nicht",
+				"erwartet, dass man schon heute den ",
+				"gesamten Graupulverkonsum aufgelöst ",
+				"bekommen hat."
+			]
+		},
+		{
+			"path": [6,2,70,3],
+			"original": "Felcis: Aber hier sollten wir noch einige letzte Reserven finden - hoffentlich.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Aber hier sollten wir noch ",
+				"einige letzte Reserven finden\\. - ",
+				"hoffentlich."
+			]
+		},
+		{
+			"path": [6,2,77,2],
+			"original": "Kento: Hm, wie es aussieht, geht es hier im Gang noch weiter.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm,\\. wie es aussieht, geht es ",
+				"hier im Gang noch weiter."
+			]
+		},
+		{
+			"path": [6,2,81,3],
+			"original": "Felcis: Sehr groß kann der Lagerbereich nicht sein, wir werden den Kram schon finden.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Sehr groß kann der ",
+				"Lagerbereich nicht sein, wir werden ",
+				"den Kram schon finden."
+			]
+		},
+		{
+			"path": [6,2,86,2],
+			"original": "Cibon: Wie sieht dieses Graufunkenpulver denn aus?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wie sieht dieses ",
+				"Graufunkenpulver denn aus?"
+			]
+		},
+		{
+			"path": [6,2,90,3],
+			"original": "Felcis: Nun, es ist grau, funkelt und sieht abgesehen davon aus wie Pulver.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Nun, es ist grau,\\. funkelt\\. ",
+				"und sieht abgesehen davon aus wie ",
+				"Pulver."
+			]
+		},
+		{
+			"path": [6,2,95,1],
+			"original": "Cibon: ...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [6,2,108,1],
+			"indent": 2,
+			"original": "",
+			"lines":
+			[
+				"\\^"
+			]
+		},
+		{
+			"path": [12,1,18,2],
+			"original": "Cibon: Sollen wir das einfach so einstecken, Kumpel?",
+			"lines":
+			[
+				"\\c[12]\\n[2]\\c[0]: Sollen wir das einfach so ",
+				"einstecken, Kumpel?"
+			]
+		},
+		{
+			"path": [12,1,21,3],
+			"original": "Kento: Wieso nicht? Die Wächter geben uns so oder so Magische Lupen, von daher wird es nicht auffallen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wieso nicht?\\. Die Wächter ",
+				"geben uns so oder so Magische Lupen, ",
+				"von daher wird es nicht auffallen."
+			]
+		},
+		{
+			"path": [13,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"Dies ist ein \\c[11]Speicherpunkt\\c[0]."
+			]
+		},
+		{
+			"path": [13,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"Wenn man auf solch einen steht, kann man \\c[11]den",
+				"Spielstand speichern\\c[0]."
+			]
+		},
+		{
+			"path": [13,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"Öffne dazu das \\c[11]Menu\\c[0] mit \\c[11]Esc\\c[0] und wähle",
+				"dann \\c[11]Speichern\\c[0]."
+			]
+		},
+		{
+			"path": [13,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Auf der \\c[11]Weltkarte\\c[0] kann man übigens",
+				"immer speichern."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [13,1,4],
+			"original": "Mine Lager",
+			"patch": "Mine Lager"
+		}
+	]
+}

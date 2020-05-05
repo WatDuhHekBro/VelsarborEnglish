@@ -1,0 +1,603 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [3,1,27,3],
+			"original": "General: Soso. Herr Daikon. Kento! Wie hat dir die Minenarbeit gefallen?",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Soso.\\. Herr Daikon.\\. Kento! \\.",
+				"Wie hat dir die Minenarbeit ",
+				"gefallen?"
+			]
+		},
+		{
+			"path": [3,1,32,1],
+			"original": "Kento: ...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [3,1,35,2],
+			"original": "General: Rede! Wie hat sie dir gefallen?",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Rede!\\. Wie hat sie dir ",
+				"gefallen?"
+			]
+		},
+		{
+			"path": [3,1,38,1],
+			"original": "Kento: ...Es war anstrengend...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ...\\.Es war anstrengend..."
+			]
+		},
+		{
+			"path": [3,1,40,4],
+			"original": "General: Das glaube ich. Doch es ist nicht viel mehr als ein gewöhnlicher, harter Arbeitstag, nicht wahr?",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Das glaube ich.\\. Doch es ist ",
+				"nicht viel mehr als ein ",
+				"gewöhnlicher, harter Arbeitstag, ",
+				"nicht wahr?"
+			]
+		},
+		{
+			"path": [3,1,45,3],
+			"original": "General: Nun laufen da unten aber auch mehr als genug Soldaten rum, die unter meinem Befehl stehen.",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Nun laufen da unten aber ",
+				"auch mehr als genug Soldaten rum, ",
+				"die unter meinem Befehl stehen."
+			]
+		},
+		{
+			"path": [3,1,49,4],
+			"original": "General: Ich bin also in der Lage, dir das Leben da unten erst so richtig zur Hölle zu machen. Ist dir das klar?",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Ich bin also in der Lage, ",
+				"dir das Leben da unten erst so ",
+				"richtig zur Hölle zu machen.\\. Ist dir ",
+				"das klar?"
+			]
+		},
+		{
+			"path": [3,1,53,4],
+			"original": "General: Wenn du und deine Kollegen also einen Arbeitstag ohne Tracht Prügel bevorzugt, solltest du mir besser sagen, was ich hören will!",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Wenn du und deine Kollegen ",
+				"also einen Arbeitstag ohne Tracht ",
+				"Prügel bevorzugt, solltest du mir ",
+				"besser sagen, was ich hören will!"
+			]
+		},
+		{
+			"path": [3,1,57,1],
+			"original": "General: Verstanden?",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Verstanden?"
+			]
+		},
+		{
+			"path": [3,1,63,1],
+			"original": "General: VERSTANDEN?",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: VERSTANDEN?"
+			]
+		},
+		{
+			"path": [3,1,65,1],
+			"original": "Kento: Ja.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja."
+			]
+		},
+		{
+			"path": [3,1,73,3],
+			"original": "General: Also fangen wir an. Was ist das für eine Truppe, für die ihr spioniert habt?",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Also fangen wir an. \\.",
+				"Was ist das für eine Truppe, für die ",
+				"ihr spioniert habt?"
+			]
+		},
+		{
+			"path": [3,1,77,3],
+			"original": "Kento: Eine Truppe, die im Untergrund ein Heer gebildet hat, von dem Brigantia nichts wusste.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Eine Truppe, die im ",
+				"Untergrund ein Heer gebildet hat, ",
+				"von dem Brigantia nichts wusste."
+			]
+		},
+		{
+			"path": [3,1,82,4],
+			"original": "General: Sehr schön Kento, aber das wissen wir bereits! Steht diese Truppe in Verbindung mit den Farenischen Adelsbund?",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Sehr schön Kento, aber das ",
+				"wissen wir bereits!\\. Steht diese ",
+				"Truppe in Verbindung mit den ",
+				"Farenischen Adelsbund?"
+			]
+		},
+		{
+			"path": [3,1,88,1],
+			"original": "Kento: Das weiß ich nicht.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Das weiß ich nicht."
+			]
+		},
+		{
+			"path": [3,1,110,4],
+			"original": "General: Falsche Antwort. Erzähl mir nicht, dass du als Spion dieser Truppe nicht über so eine grundlegende Sache Bescheid weißt!",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Falsche Antwort.\\. Erzähl mir ",
+				"nicht, dass du als Spion dieser ",
+				"Truppe nicht über so eine ",
+				"grundlegende Sache Bescheid weißt!"
+			]
+		},
+		{
+			"path": [3,1,115,3],
+			"original": "Kento: ... Ja, sie stehen in Verbindung mit dem farenischen Adelsbund.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ...\\. Ja, sie stehen in ",
+				"Verbindung mit dem farenischen ",
+				"Adelsbund."
+			]
+		},
+		{
+			"path": [3,1,119,2],
+			"original": "General: Gut. Was ist das Ziel dieser Truppe?",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Gut.\\. Was ist das Ziel ",
+				"dieser Truppe?"
+			]
+		},
+		{
+			"path": [3,1,126,4],
+			"original": "Kento: Sie wollen Brigantia einengen und die Landesteile, die Korzojeno im Krieg verloren hat wieder gewinnen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Sie wollen Brigantia ",
+				"einengen und die Landesteile, die ",
+				"Korzojeno im Krieg verloren hat ",
+				"wieder gewinnen."
+			]
+		},
+		{
+			"path": [3,1,146,2],
+			"original": "General: Erzähl mir keine Lügengeschichten!",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Erzähl mir keine ",
+				"Lügengeschichten! "
+			]
+		},
+		{
+			"path": [3,1,148,4],
+			"original": "General: Wie will ein Heer, das so klein ist, dass man es im Untergrund ansammeln kann, gegen die Armee des Briganten-Orden bestehen?!",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Wie will ein Heer, das so ",
+				"klein ist, dass man es im Untergrund ",
+				"ansammeln kann, gegen die Armee des ",
+				"Briganten-Orden bestehen?!"
+			]
+		},
+		{
+			"path": [3,1,153,1],
+			"original": "Kento: Eine Geheimwaffe...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Eine Geheimwaffe..."
+			]
+		},
+		{
+			"path": [3,1,159,1],
+			"original": "General: Was war das?",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Was war das?"
+			]
+		},
+		{
+			"path": [3,1,162,4],
+			"original": "Kento: Es gibt eine Geheimwaffe, mit der sie Brigantia ebenbürtig wären. Allerdings weiß ich nichts Genaueres darüber...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es gibt eine Geheimwaffe, mit ",
+				"der sie Brigantia ebenbürtig wären.\\.",
+				"Allerdings weiß ich nichts Genaueres ",
+				"darüber... "
+			]
+		},
+		{
+			"path": [3,1,167,2],
+			"original": "Kento: Die Informationen sind streng gehei...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Die Informationen sind streng ",
+				"gehei...\\.\\^"
+			]
+		},
+		{
+			"path": [3,1,186,2],
+			"original": "General: Du weißt mit Sicherheit mehr! ALSO REDE!",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Du weißt mit Sicherheit ",
+				"mehr! ALSO REDE!"
+			]
+		},
+		{
+			"path": [3,1,192,2],
+			"original": "Kento: Es ist ein Zauber... Ähnlich wie Septoccasus.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es ist ein Zauber...\\. Ähnlich ",
+				"wie Septoccasus. "
+			]
+		},
+		{
+			"path": [3,1,198,3],
+			"original": "General: Nun, das hört sich Interessant an. Ich warne dich, wehe du erzählst mir etwas Falsches!",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Nun, das hört sich ",
+				"Interessant an.\\. Ich warne dich, wehe ",
+				"du erzählst mir etwas Falsches!"
+			]
+		},
+		{
+			"path": [3,2,27,4],
+			"original": "Sir Dolaros: Soso, du bist also Cibon Tirunel. Hat dir dein Kollege schon erzählt, wie das hier mit dem Verhör abläuft?",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Soso, du bist also ",
+				"Cibon Tirunel.\\. Hat dir dein Kollege ",
+				"schon erzählt, wie das hier mit dem ",
+				"Verhör abläuft?"
+			]
+		},
+		{
+			"path": [3,2,32,2],
+			"original": "Cibon: Du sagst was oder du wirst geschlagen, oder?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Du sagst was oder du wirst ",
+				"geschlagen, oder?"
+			]
+		},
+		{
+			"path": [3,2,36,2],
+			"original": "Sir Dolaros: Fast! Die Wahrheit wollen wir hören und nichts weiter!",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Fast!\\. Die Wahrheit ",
+				"wollen wir hören und nichts weiter! "
+			]
+		},
+		{
+			"path": [3,2,38,4],
+			"original": "Sir Dolaros: Sollten sich deine Aussagen als falsch herausstellen, werden wir uns wieder treffen, das garantier ich dir.",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Sollten sich deine ",
+				"Aussagen als falsch herausstellen, ",
+				"werden wir uns wieder treffen, das ",
+				"garantier ich dir."
+			]
+		},
+		{
+			"path": [3,2,43,3],
+			"original": "Cibon: Bla, bla, bla. Haben wir jetzt genug gelabert und können endlich mit den Fragen beginnen?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Bla,\\. bla,\\. bla.\\. Haben wir ",
+				"jetzt genug gelabert und können ",
+				"endlich mit den Fragen beginnen?"
+			]
+		},
+		{
+			"path": [3,3,27,4],
+			"original": "Sir Dolaros: Soso. Soko Filaja. Ein weiblicher Soldat des Briganten- Orden. Was heute so alles ins Heer reinkommt, kaum zu glauben.",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Soso. \\.Soko Filaja.\\. Ein ",
+				"weiblicher Soldat des Briganten-",
+				"Orden.\\. Was heute so alles ins Heer ",
+				"reinkommt, kaum zu glauben."
+			]
+		},
+		{
+			"path": [3,3,35,4],
+			"original": "Sir Dolaros: Ich denke mal, ihr drei wisst mittlerweile, wie das hier läuft. Also gehen wir gleich zu den Fragen.",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Ich denke mal, ihr drei ",
+				"wisst mittlerweile, wie das hier ",
+				"läuft.\\. Also gehen wir gleich zu den ",
+				"Fragen."
+			]
+		},
+		{
+			"path": [3,3,40,1],
+			"original": "Soko: Dieses Verhör ist sinnlos.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Dieses Verhör ist sinnlos."
+			]
+		},
+		{
+			"path": [3,3,46,1],
+			"original": "Sir Dolaros: Was war das?",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Was war das?"
+			]
+		},
+		{
+			"path": [3,3,48,3],
+			"original": "Soko: Dieses Verhör ist sinnlos. Sie können keine Informationen aus uns rauspressen, weil wir nichts wissen!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Dieses Verhör ist sinnlos.\\. Sie ",
+				"können keine Informationen aus uns ",
+				"rauspressen, weil wir nichts wissen!"
+			]
+		},
+		{
+			"path": [3,3,54,2],
+			"original": "Sir Dolaros: Nun, bei deinen beiden Kollegen klang das aber ganz anders!",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Nun, bei deinen beiden ",
+				"Kollegen klang das aber ganz anders!"
+			]
+		},
+		{
+			"path": [3,3,60,3],
+			"original": "Soko: Natürlich klang das anders! Sie wurden ja dazu gezwungen etwas zu sagen, irgendetwas!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Natürlich klang das anders!\\.",
+				"Sie wurden ja dazu gezwungen etwas ",
+				"zu sagen, irgendetwas!"
+			]
+		},
+		{
+			"path": [3,3,82,3],
+			"original": "Sir Dolaros: Richtig! Und bei dir wird das nicht anders sein, mein Fräulein.",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Richtig!\\. Und bei dir ",
+				"wird das nicht anders sein, mein ",
+				"Fräulein."
+			]
+		},
+		{
+			"path": [3,4,27,3],
+			"original": "Sir Dolaros: Soso... Sir Kiorta. Sie kommen also als Bote vom Adelsbund höchstpersönlich, behaupten Sie.",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Soso...\\. Sir Kiorta.\\. Sie ",
+				"kommen also als Bote vom Adelsbund ",
+				"höchstpersönlich, behaupten Sie."
+			]
+		},
+		{
+			"path": [3,4,31,3],
+			"original": "Felcis: Wenn Ihr mir nicht glaubt, holt euch einfach eine Bestätigung von Farenia selber.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wenn Ihr mir nicht glaubt, ",
+				"holt euch einfach eine Bestätigung ",
+				"von Farenia selber."
+			]
+		},
+		{
+			"path": [3,4,35,4],
+			"original": "Sir Dolaros: Das ist nicht notwendig. Wir glauben Ihnen. Wieso sonst, denken Sie, hätten wir Sie hier eingesperrt?",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Das ist nicht ",
+				"notwendig.\\. Wir glauben Ihnen.\\. Wieso ",
+				"sonst, denken Sie, hätten wir Sie ",
+				"hier eingesperrt?"
+			]
+		},
+		{
+			"path": [3,4,39,4],
+			"original": "Sir Dolaros: Also kommen wir zum Punkt! Was hat Farenia vor? Was plant ihr da im Hintergrund, ohne Brigantia davon wissen zu lassen?",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Also kommen wir zum ",
+				"Punkt!\\. Was hat Farenia vor?\\. Was ",
+				"plant ihr da im Hintergrund, ohne ",
+				"Brigantia davon wissen zu lassen?"
+			]
+		},
+		{
+			"path": [3,4,47,3],
+			"original": "Felcis: Nun gut, ich will ehrlich sein. Wir planen im Moment, unser Wappen etwas umzufärben.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Nun gut, ich will ehrlich ",
+				"sein.\\. Wir planen im Moment, unser ",
+				"Wappen etwas umzufärben. "
+			]
+		},
+		{
+			"path": [3,4,51,4],
+			"original": "Felcis: Diese bunten Farben sind uns viel zu optimistisch angesichts unseres momentan doch sehr armseligen Daseins.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Diese bunten Farben sind uns ",
+				"viel zu optimistisch angesichts ",
+				"unseres momentan doch sehr ",
+				"armseligen Daseins."
+			]
+		},
+		{
+			"path": [3,4,56,3],
+			"original": "Felcis: Es tut uns aufrichtig Leid, dass wir Brigantia davon nicht unterrichtet haben.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Es tut uns aufrichtig Leid, ",
+				"dass wir Brigantia davon nicht ",
+				"unterrichtet haben."
+			]
+		},
+		{
+			"path": [3,4,65,3],
+			"original": "Sir Dolaros: Stellen Sie sich nicht dumm! Sie wissen genau wovon ich rede!",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Stellen Sie sich nicht ",
+				"dumm!\\. Sie wissen genau wovon ich ",
+				"rede! "
+			]
+		},
+		{
+			"path": [3,4,68,3],
+			"original": "Sir Dolaros: Wieso wurde jene geheime Kampftruppe gebildet, die im Silvanwald entdeckt wurde?",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Wieso wurde jene ",
+				"geheime Kampftruppe gebildet, die im ",
+				"Silvanwald entdeckt wurde?"
+			]
+		},
+		{
+			"path": [3,4,75,3],
+			"original": "Felcis: Von welcher Truppe redet Ihr? Ich weiß nichts von einer solchen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Von welcher Truppe redet ",
+				"Ihr?\\. Ich weiß nichts von einer ",
+				"solchen. "
+			]
+		},
+		{
+			"path": [3,4,79,3],
+			"original": "Felcis: Dann wiederum weiß ich auch nicht, was sich alles in unserem Adelsbund abspielt.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Dann wiederum weiß ich auch ",
+				"nicht, was sich alles in unserem ",
+				"Adelsbund abspielt."
+			]
+		},
+		{
+			"path": [3,4,83,4],
+			"original": "Felcis: Doch seid euch gewiss - unser momentaner Prinz würde nicht im Traum daran denken, sich nochmal gegen Brigantia zu erheben.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Doch seid euch gewiss - ",
+				"unser momentaner Prinz würde nicht ",
+				"im Traum daran denken, sich nochmal ",
+				"gegen Brigantia zu erheben."
+			]
+		},
+		{
+			"path": [3,4,92,3],
+			"original": "Sir Dolaros: Das zu glauben fällt mir sehr schwer, angesichts dem, was sich an der Grenze abgespielt habt!",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Das zu glauben fällt ",
+				"mir sehr schwer, angesichts dem, was ",
+				"sich an der Grenze abgespielt habt!"
+			]
+		},
+		{
+			"path": [3,4,95,4],
+			"original": "Sir Dolaros: Es ist äußerst merkwürdig, dass Sie bis heute nichts davon mitbekommen haben - geradezu verdächtig!",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Es ist äußerst ",
+				"merkwürdig, dass Sie bis heute ",
+				"nichts davon mitbekommen haben - ",
+				"geradezu verdächtig!"
+			]
+		},
+		{
+			"path": [3,4,103,2],
+			"original": "Felcis: Wo wir schon bei merkwürdigen Tatsachen sind...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wo wir schon bei ",
+				"merkwürdigen Tatsachen sind..."
+			]
+		},
+		{
+			"path": [3,4,106,3],
+			"original": "Felcis: Wie kommt es, dass ein Mann euresgleichen hier in Helnovien stationiert ist?",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wie kommt es, dass ein Mann ",
+				"euresgleichen hier in Helnovien ",
+				"stationiert ist?"
+			]
+		},
+		{
+			"path": [3,4,110,4],
+			"original": "Felcis: Ich dachte Ihr wäret auf dem südlichen Kontinent aktiv, die Truppen gegen die Aufstände zu führen...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich dachte Ihr wäret auf dem ",
+				"südlichen Kontinent aktiv, die ",
+				"Truppen gegen die Aufstände zu ",
+				"führen..."
+			]
+		},
+		{
+			"path": [3,4,120,4],
+			"original": "Sir Dolaros: Das hat Sie nicht zu interessieren! Wir reden hier über den Adelsbund! Und ICH Stelle hier die Fragen!! Verstanden?!",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Das hat Sie nicht zu ",
+				"interessieren!\\. Wir reden hier über ",
+				"den Adelsbund!\\. Und ICH Stelle hier ",
+				"die Fragen!!\\. Verstanden?! "
+			]
+		},
+		{
+			"path": [3,4,128,2],
+			"original": "Felcis: Verzeiht mein dreistes Eingreifen...",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Verzeiht mein dreistes ",
+				"Eingreifen..."
+			]
+		},
+		{
+			"path": [3,4,136,3],
+			"original": "(Felcis: Na sowas... da habe ich einen ziemlich wunden Punkt getroffen...)",
+			"lines":
+			[
+				"(\\c[5]\\n[5]\\c[0]: Na sowas...\\. da habe ich ",
+				"einen ziemlich wunden Punkt ",
+				"getroffen...)"
+			]
+		}
+	]
+}

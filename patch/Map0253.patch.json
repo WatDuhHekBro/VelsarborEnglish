@@ -1,0 +1,176 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [46,1,2,3],
+			"original": "Gefangener: Ab und zu hört man ein verdächtig lautes Geräusch... als ob sich irgendetwas Riesiges gerade unter dir durchgräbt...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ab und zu hört man ein verdächtig ",
+				"lautes Geräusch...\\. als ob sich irgendetwas ",
+				"Riesiges gerade unter dir durchgräbt..."
+			]
+		},
+		{
+			"path": [46,1,5,3],
+			"original": "Gefangener: Ich weiß, hier gibt es diese Maulwürfe und Würmer, aber die sind nicht SO groß, dass die so ein Geräusch beim Graben machen...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ich weiß, hier gibt es diese Maulwürfe ",
+				"und Würmer, aber die sind nicht SO groß, dass die ",
+				"so ein Geräusch beim Graben machen... "
+			]
+		},
+		{
+			"path": [46,1,8,3],
+			"original": "Gefangener: Vielleicht ist hier noch etwas Größeres... Ich find den Gedanken richtig unheimlich...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Vielleicht ist hier noch etwas ",
+				"Größeres...\\. Ich find den Gedanken richtig ",
+				"unheimlich..."
+			]
+		},
+		{
+			"path": [48,1,2,4],
+			"original": "Gefangener: Glück auf! So sagt man doch, oder? Die Arbeit hier mag hart und anstrengend sein, aber als Gefangener habe ich schon schlimmeres erlebt.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Glück auf!\\. So sagt man doch, oder?\\.",
+				"Die Arbeit hier mag hart und anstrengend sein, ",
+				"aber als Gefangener habe ich schon schlimmeres ",
+				"erlebt."
+			]
+		},
+		{
+			"path": [49,1,2,3],
+			"original": "Gefangener: Du brauchst hier gar nicht erst weiter gehen. Weiter links gibt es nichts Interessantes. Das Wasser schneidet dir den Weg ab, leider.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Du brauchst hier gar nicht erst weiter ",
+				"gehen. Weiter links gibt es nichts Interessantes.\\. ",
+				"Das Wasser schneidet dir den Weg ab, leider."
+			]
+		},
+		{
+			"path": [50,1,2,4],
+			"original": "Gefangener: Oh je... ich weiß nicht, wie lange ich diese Qual noch mitmache. Irgendwann breche ich komplett zusammen und hab für die kein Nutzen mehr... Was wird dann wohl mit mir geschehen?",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Oh je...\\. ich weiß nicht, wie lange ich ",
+				"diese Qual noch mitmache. Irgendwann breche ich ",
+				"komplett zusammen und hab für die kein Nutzen ",
+				"mehr...\\. Was wird dann wohl mit mir geschehen?"
+			]
+		},
+		{
+			"path": [51,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [53,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [54,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [56,2,2,2],
+			"original": "Wache: Wieso müssen wir die Gefangenen eigentlich immer so streng und rücksichtslos behandeln?",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Wieso müssen wir die Gefangenen eigentlich ",
+				"immer so streng und rücksichtslos behandeln? "
+			]
+		},
+		{
+			"path": [56,2,4,3],
+			"original": "Wache: Ich meine, würde es nicht mal motivierend wirken, wenn man sie ab und zu mal für ihre gute Arbeit loben würde?",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Ich meine, würde es nicht mal motivierend ",
+				"wirken, wenn man sie ab und zu mal für ihre gute ",
+				"Arbeit loben würde?"
+			]
+		},
+		{
+			"path": [56,2,10,2],
+			"indent": 1,
+			"original": "Soko: Das hier IST ein Gefängnis, oder?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Das hier IST ein Gefängnis, ",
+				"oder?"
+			]
+		},
+		{
+			"path": [56,2,13,1],
+			"indent": 1,
+			"original": "Wache: Ja... stimmt.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Ja... stimmt."
+			]
+		},
+		{
+			"path": [56,2,16,4],
+			"indent": 1,
+			"original": "Soko: Die Leute sollen für ihre Taten bestraft werden. Also wieso sollte man sie für irgend etwas loben?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Die Leute sollen für ihre ",
+				"Taten bestraft werden.\\. Also wieso ",
+				"sollte man sie für irgend etwas ",
+				"loben?"
+			]
+		},
+		{
+			"path": [56,2,21,3],
+			"indent": 1,
+			"original": "Wache: Ja, eigentlich hast du Recht! In dem Fall... Steht hier nicht wie angewurzelt da! Geht sofort wieder an die Arbeit!",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Ja, eigentlich hast du Recht!\\. In dem ",
+				"Fall...\\. Steht hier nicht wie angewurzelt da!\\. Geht ",
+				"sofort wieder an die Arbeit!"
+			]
+		},
+		{
+			"path": [56,2,26,1],
+			"indent": 1,
+			"original": "Kento: Schön gemacht, Soko.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Schön gemacht, Soko."
+			]
+		},
+		{
+			"path": [56,2,28,1],
+			"indent": 1,
+			"original": "Soko: ...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ..."
+			]
+		}
+	]
+}

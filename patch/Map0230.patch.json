@@ -1,0 +1,812 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [2,1,18,2],
+			"indent": 1,
+			"original": "Wächter: Was wollt ihr wieder zurückgehen? Ab zur Mine, aber flott!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Was wollt ihr wieder zurückgehen?\\.",
+				"Ab zur Mine, aber flott!"
+			]
+		},
+		{
+			"path": [3,1,2,2],
+			"original": "Wächter: Der Ausgang ist weiter unten. Weiter Rechts habt ihr jetzt nichts zu suchen.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Der Ausgang ist weiter unten. Weiter ",
+				"Rechts habt ihr jetzt nichts zu suchen."
+			]
+		},
+		{
+			"path": [4,1,18,2],
+			"indent": 1,
+			"original": "Wächter: Was wollt ihr wieder zurückgehen? Ab zur Mine, aber flott!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Was wollt ihr wieder zurückgehen?\\.",
+				"Ab zur Mine, aber flott!"
+			]
+		},
+		{
+			"path": [5,1,18,2],
+			"indent": 1,
+			"original": "Wächter: Was wollt ihr wieder zurückgehen? Ab zur Mine, aber flott!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Was wollt ihr wieder zurückgehen?\\.",
+				"Ab zur Mine, aber flott!"
+			]
+		},
+		{
+			"path": [86,3,6,1],
+			"original": "Gefangener: ...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: ..."
+			]
+		},
+		{
+			"path": [87,3,6,1],
+			"original": "Gefangener:...Was ist?",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]:...Was ist?"
+			]
+		},
+		{
+			"path": [88,3,6,1],
+			"original": "Gefangener: Geht mir aus dem Weg.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Geht mir aus dem Weg."
+			]
+		},
+		{
+			"path": [89,3,6,2],
+			"original": "Gefangener: Du has' die Wachen gehört, oder? Wir soll'n zur Mine.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Du has' die Wachen gehört, oder?\\. ",
+				"Wir soll'n zur Mine."
+			]
+		},
+		{
+			"path": [90,3,6,2],
+			"original": "Gefangene: Was sprichst du mich an? Geh mir aus dem Weg.",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Was sprichst du mich an?\\. Geh mir aus ",
+				"dem Weg."
+			]
+		},
+		{
+			"path": [91,3,6,3],
+			"original": "Gefangene: Ihr seht hier ziemlich neu aus. In dem Fall merkt euch folgendes: kein - gerede - am - morgen!",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Ihr seht hier ziemlich neu aus.\\.",
+				"In dem Fall merkt euch folgendes:\\.",
+				"kein \\.- gerede \\.- am \\.- morgen!"
+			]
+		},
+		{
+			"path": [92,3,5,1],
+			"original": "Kento: Der... Der Typ schläft noch!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Der...\\. Der Typ schläft noch!"
+			]
+		},
+		{
+			"path": [92,3,7,2],
+			"original": "Cibon: Und er findet dennoch den richtigen Weg...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Und er findet dennoch den ",
+				"richtigen Weg..."
+			]
+		},
+		{
+			"path": [93,3,6,1],
+			"original": "Gefangene: Geht mir aus dem Weg.",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Geht mir aus dem Weg."
+			]
+		},
+		{
+			"path": [94,3,6,2],
+			"original": "Nicht ganz eingelebter Gefangener: Nicht schon wieder... Minenarbeit... Ich hasse es...",
+			"lines":
+			[
+				"\\c[10]Nicht ganz eingelebter Gefangener\\c[0]: Nicht schon ",
+				"wieder...\\. Minenarbeit...\\. Ich hasse es..."
+			]
+		},
+		{
+			"path": [95,3,6,2],
+			"original": "Gefangener: Hach! Was für ein herrlicher Morgen, oder? ... Verzieh dich.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Hach!\\. Was für ein herrlicher Morgen, ",
+				"oder?\\. ...\\. Verzieh dich."
+			]
+		},
+		{
+			"path": [96,3,6,1],
+			"original": "Alter Gefangener: ...Oh... Mein Kreuz...",
+			"lines":
+			[
+				"\\c[10]Alter Gefangener\\c[0]: ...Oh...\\. Mein Kreuz..."
+			]
+		},
+		{
+			"path": [97,3,6,1],
+			"original": "Gefangene: Nicht jetzt!",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Nicht jetzt!"
+			]
+		},
+		{
+			"path": [98,3,6,1],
+			"original": "Gefangener: ...",
+			"lines":
+			[
+				"\\c[10]Gefangener:\\c[0] ..."
+			]
+		},
+		{
+			"path": [117,1,2,2],
+			"original": "Wächter: Was steht ihr hier noch rum? Los! Runter und ab zur Mine!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Was steht ihr hier noch rum?\\. Los! \\.Runter ",
+				"und ab zur Mine!"
+			]
+		},
+		{
+			"path": [118,1,2,1],
+			"original": "Wächter: Runter mit euch! Kein Rumgetrödel!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Runter mit euch! Kein Rumgetrödel!"
+			]
+		},
+		{
+			"path": [118,2,2,2],
+			"original": "Wächter: Geht nach oben und dann nach rechts, um zur Kantine zu kommen.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Geht nach oben und dann nach rechts, um ",
+				"zur Kantine zu kommen."
+			]
+		},
+		{
+			"path": [119,1,2,2],
+			"original": "Wächter: Gähn... Wieso muss das ganze immer so früh sein... Ehm... Oh! Ihr da! Weiter gehen!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Gähn...\\. Wieso muss das ganze immer so ",
+				"früh sein...\\. Ehm...\\. Oh!\\. Ihr da!\\. Weiter gehen!"
+			]
+		},
+		{
+			"path": [119,2,2,3],
+			"original": "Wächter: Ihr wollt zur Kantine, stimmt's? Geht den Gang nach oben und biegt dann nach rechts ab.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Ihr wollt zur Kantine, stimmt's?\\.",
+				"Geht den Gang nach oben und biegt dann nach rechts ",
+				"ab."
+			]
+		},
+		{
+			"path": [124,1,2,2],
+			"original": "Wächter: Zur Kantine geht es erst NACH der Arbeit!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Zur Kantine geht es erst NACH der ",
+				"Arbeit!"
+			]
+		},
+		{
+			"path": [125,1,2,1],
+			"original": "Wächter: Hier geht's nicht durch.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hier geht's nicht durch."
+			]
+		},
+		{
+			"path": [126,1,21,2],
+			"original": "Wächter: Hier geht es jetzt noch nicht durch! Zurück mit euch!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hier geht es jetzt noch nicht durch!\\.",
+				"Zurück mit euch!"
+			]
+		},
+		{
+			"path": [142,2,37,2],
+			"original": "Cibon: Ah, schaut euch mal diese Schlange an!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ah, schaut euch mal diese ",
+				"Schlange an!"
+			]
+		},
+		{
+			"path": [142,2,44,3],
+			"original": "Kento: Offensichtlich geht es hier zum Essen. Dann stellen wir uns mal an.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Offensichtlich geht es hier ",
+				"zum Essen.\\. Dann stellen wir uns mal ",
+				"an."
+			]
+		},
+		{
+			"path": [142,2,59,1],
+			"original": "Kento: Ich verhungere...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich verhungere..."
+			]
+		},
+		{
+			"path": [142,2,61,2],
+			"original": "Cibon: Ich hoffe nur die Portionen sind nicht zu klein...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Ich hoffe nur die Portionen ",
+				"sind nicht zu klein..."
+			]
+		},
+		{
+			"path": [142,2,64,2],
+			"original": "Soko: Du solltest besser nicht zuviel erwarten...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Du solltest besser nicht ",
+				"zuviel erwarten..."
+			]
+		},
+		{
+			"path": [142,2,93,3],
+			"original": "Kento: Hm... diese Wände sind merkwürdig. Seht ihr auch dieses Leuchten?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Hm...\\. diese Wände sind ",
+				"merkwürdig.\\. Seht ihr auch dieses ",
+				"Leuchten?"
+			]
+		},
+		{
+			"path": [142,2,102,3],
+			"original": "Cibon: Stimmt... da ist doch etwas... Sag bloß, die Wände sind verzaubert?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Stimmt...\\. da ist doch ",
+				"etwas...\\. Sag bloß, die Wände sind ",
+				"verzaubert?"
+			]
+		},
+		{
+			"path": [142,2,130,4],
+			"original": "Soko: Ja, die Wände von diesem Gefängnis sind mit einem magischen Schutzwall versehen, soweit ich weiß.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Ja, die Wände von diesem ",
+				"Gefängnis sind mit einem magischen ",
+				"Schutzwall versehen, soweit ich ",
+				"weiß."
+			]
+		},
+		{
+			"path": [142,2,135,3],
+			"original": "Soko: Im Prinzip negiert dieser Schutzwall jegliche Signum-Wirkung an den Wänden.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Im Prinzip negiert dieser ",
+				"Schutzwall jegliche Signum-Wirkung ",
+				"an den Wänden. "
+			]
+		},
+		{
+			"path": [142,2,139,2],
+			"original": "Soko: Das heißt, Signum kann diese Wände nicht zu Bruch bringen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Das heißt, Signum kann diese ",
+				"Wände nicht zu Bruch bringen."
+			]
+		},
+		{
+			"path": [142,2,145,2],
+			"original": "Cibon: Oh Mann, wo zur Hölle sind wir hier bloß gelandet?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Oh Mann, wo zur Hölle sind ",
+				"wir hier bloß gelandet?"
+			]
+		},
+		{
+			"path": [142,2,164,4],
+			"original": "Soko: Das Gefängnis von Helnovien ist dafür bekannt, dass es äußerst wenig erfolgreiche Fluchtfälle verzeichnet hat.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Das Gefängnis von Helnovien ",
+				"ist dafür bekannt, dass es äußerst ",
+				"wenig erfolgreiche Fluchtfälle ",
+				"verzeichnet hat."
+			]
+		},
+		{
+			"path": [142,2,169,2],
+			"original": "Soko: Genau der richtige Ort für Verräter des Landes...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Genau der richtige Ort für ",
+				"Verräter des Landes..."
+			]
+		},
+		{
+			"path": [142,4,50,3],
+			"original": "Felcis: Entschuldigt mich mal kurz, ich muss da oben eine Kleinigkeit erledigen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Entschuldigt mich mal kurz, ",
+				"ich muss da oben eine Kleinigkeit ",
+				"erledigen."
+			]
+		},
+		{
+			"path": [142,4,58,2],
+			"original": "Soko: Was ist denn jetzt schon wieder?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Was ist denn jetzt schon ",
+				"wieder?"
+			]
+		},
+		{
+			"path": [142,4,61,1],
+			"original": "Kento: Egal, das Essen wartet!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Egal, das Essen wartet!"
+			]
+		},
+		{
+			"path": [142,8,20,2],
+			"original": "Royko: Oh! Da seid ihr ja. Endlich treffe ich euch wieder.",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Oh!\\. Da seid ihr ja.\\. Endlich ",
+				"treffe ich euch wieder."
+			]
+		},
+		{
+			"path": [142,8,35,1],
+			"original": "Kento: Ehm, hallo?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ehm, hallo?"
+			]
+		},
+		{
+			"path": [142,8,40,2],
+			"original": "Royko: Ich bin Royko! Der Typ von der Brücke. Vom Torasgebirge.",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Ich bin Royko!\\. Der Typ ",
+				"von der Brücke.\\. Vom Torasgebirge."
+			]
+		},
+		{
+			"path": [142,8,44,3],
+			"original": "Soko: Royko... Ach so, genau! Ich erinnere mich. Und du bist jetzt hier im Gefängnis?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Royko...\\. Ach so, genau!\\. Ich ",
+				"erinnere mich.\\. Und du bist jetzt ",
+				"hier im Gefängnis?"
+			]
+		},
+		{
+			"path": [142,8,48,4],
+			"original": "Royko: Ja, wie ich euch erzählt habe... Aber... Wie seid ihr bitte hier gelandet? Was habt ihr angestellt?",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Ja, wie ich euch erzählt ",
+				"habe... \\.Aber...\\. Wie seid ihr bitte ",
+				"hier gelandet?\\. Was habt ihr ",
+				"angestellt?"
+			]
+		},
+		{
+			"path": [142,8,55,3],
+			"original": "Soko: Wir sind hier zu unrecht eingesperrt! Man hält uns für Landesverräter, aber wir sind keine!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wir sind hier zu unrecht ",
+				"eingesperrt!\\. Man hält uns für ",
+				"Landesverräter, aber wir sind keine!"
+			]
+		},
+		{
+			"path": [142,8,59,4],
+			"original": "Royko: Diese Spionage-Geschichte habe ich bereits gehört. Ich konnte mir auch nicht vorstellen, dass ihr so etwas machen würdet...",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Diese Spionage-Geschichte ",
+				"habe ich bereits gehört.\\. Ich konnte ",
+				"mir auch nicht vorstellen, dass ihr ",
+				"so etwas machen würdet..."
+			]
+		},
+		{
+			"path": [142,8,68,3],
+			"original": "Cibon: Hey, wärst du vielleicht in der Lage, uns irgendwie hier raus zu hohlen?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hey, wärst du vielleicht in ",
+				"der Lage, uns irgendwie hier raus zu ",
+				"hohlen? "
+			]
+		},
+		{
+			"path": [142,8,76,3],
+			"original": "Royko: Ich euch hier? ... Nein, tut mir Leid. Aus Helnovien zu fliehen ist ziemlich unmöglich...",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Ich euch hier?\\. ...\\. Nein, tut ",
+				"mir Leid. \\.Aus Helnovien zu fliehen ",
+				"ist ziemlich unmöglich..."
+			]
+		},
+		{
+			"path": [142,8,79,2],
+			"original": "Royko: Da kann ich als einzelne Wache auch nichts dran ändern.",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Da kann ich als einzelne ",
+				"Wache auch nichts dran ändern."
+			]
+		},
+		{
+			"path": [142,8,82,4],
+			"original": "Kento: Es muss ja nicht gleich fliehen sein. Könntest du nicht ein gutes Wort für uns einlegen, damit man uns wieder freilässt?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Es muss ja nicht gleich ",
+				"fliehen sein.\\. Könntest du nicht ein ",
+				"gutes Wort für uns einlegen, damit ",
+				"man uns wieder freilässt?"
+			]
+		},
+		{
+			"path": [142,8,88,3],
+			"original": "Royko: Freilassen? Hier in Helnovien? Die lassen in der Regel keine Leute frei hier...",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Freilassen?\\. Hier in ",
+				"Helnovien?\\. Die lassen in der Regel ",
+				"keine Leute frei hier..."
+			]
+		},
+		{
+			"path": [142,8,99,1],
+			"original": "Soko: Wie bitte?!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wie bitte?!"
+			]
+		},
+		{
+			"path": [142,8,101,4],
+			"original": "Royko: Dass heißt, solange noch Platz im Gefängnis ist oder sie nicht strikt von der Regierung dazu beordert werden...",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Dass heißt, solange noch ",
+				"Platz im Gefängnis ist oder sie ",
+				"nicht strikt von der Regierung dazu ",
+				"beordert werden..."
+			]
+		},
+		{
+			"path": [142,8,106,4],
+			"original": "Royko: Ich als einsame Wache kann da leider nichts dran ändern... Erst recht nicht bei der Führung, die wir im Moment haben...",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Ich als einsame Wache kann da ",
+				"leider nichts dran ändern...\\. Erst ",
+				"recht nicht bei der Führung, die wir ",
+				"im Moment haben..."
+			]
+		},
+		{
+			"path": [142,8,113,1],
+			"original": "Kento: Oh, wer ist das denn im Moment?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Oh,\\. wer ist das denn im Moment?"
+			]
+		},
+		{
+			"path": [142,8,118,1],
+			"original": "Royko: ... Wer ist was?",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: ...\\. Wer ist was?"
+			]
+		},
+		{
+			"path": [142,8,120,1],
+			"original": "Kento: ... Die Führung...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ...\\. Die Führung..."
+			]
+		},
+		{
+			"path": [142,8,122,4],
+			"original": "Royko: Ach so, das ist Sir Dolaros. Der ist noch nicht all zu lange hier, aber wir alle wissen bereits, wie starrköpfig er ist.",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Ach so,\\. das ist Sir Dolaros.\\. ",
+				"Der ist noch nicht all zu lange ",
+				"hier, aber wir alle wissen bereits, ",
+				"wie starrköpfig er ist."
+			]
+		},
+		{
+			"path": [142,8,126,3],
+			"original": "Royko: Ihn mit Worten umzustimmen ist meistens ein Ding der Unmöglichkeit...",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Ihn mit Worten umzustimmen ",
+				"ist meistens ein Ding der ",
+				"Unmöglichkeit..."
+			]
+		},
+		{
+			"path": [142,8,130,2],
+			"original": "Kento: Ist das so eine stämmige Person, mit kurzen, blonden Haaren?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ist das so eine stämmige ",
+				"Person, mit kurzen, blonden Haaren?"
+			]
+		},
+		{
+			"path": [142,8,133,1],
+			"original": "Royko: Ja, genau so...",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Ja, genau so..."
+			]
+		},
+		{
+			"path": [142,8,144,2],
+			"original": "Wächter: Hey, du da drüben! Was redest du mit den Gefangenen? Geh zurück an deinen Posten!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hey, du da drüben!\\. Was redest du mit den ",
+				"Gefangenen?\\. Geh zurück an deinen Posten!"
+			]
+		},
+		{
+			"path": [142,8,149,1],
+			"original": "Royko: Z... Zu Befehl!",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Z...\\. Zu Befehl!"
+			]
+		},
+		{
+			"path": [142,8,157,2],
+			"original": "Royko: Tut mir Leid, ich muss weiter.",
+			"lines":
+			[
+				"\\c[10]Royko\\c[0]: Tut mir Leid, ich muss ",
+				"weiter."
+			]
+		},
+		{
+			"path": [142,8,172,1],
+			"original": "Cibon: Bis dann, Kollege...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Bis dann, Kollege..."
+			]
+		},
+		{
+			"path": [142,8,179,2],
+			"original": "Cibon: ... Das sind ja wirklich herrliche Aussichten hier...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ...\\. Das sind ja wirklich ",
+				"herrliche Aussichten hier..."
+			]
+		},
+		{
+			"path": [142,8,182,2],
+			"original": "Soko: Womit haben wir all das verdient...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Womit haben wir all das ",
+				"verdient..."
+			]
+		},
+		{
+			"path": [142,8,189,4],
+			"original": "Kento: So wie es aussieht, werden wir hier von der Führung des Gefängnisses höchstpersönlich verhört.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: So wie es aussieht, werden ",
+				"wir hier von der Führung des ",
+				"Gefängnisses höchstpersönlich ",
+				"verhört. "
+			]
+		},
+		{
+			"path": [142,8,194,3],
+			"original": "Kento: Ziemlich merkwürdig eigentlich, dass das kein Untergeordneter macht.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ziemlich merkwürdig ",
+				"eigentlich, dass das kein ",
+				"Untergeordneter macht."
+			]
+		},
+		{
+			"path": [145,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"Dies ist ein \\c[11]Speicherpunkt\\c[0]."
+			]
+		},
+		{
+			"path": [145,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"Wenn man auf solch einen steht, kann man \\c[11]den",
+				"Spielstand speichern\\c[0]."
+			]
+		},
+		{
+			"path": [145,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"Öffne dazu das \\c[11]Menu\\c[0] mit \\c[11]Esc\\c[0] und wähle",
+				"dann \\c[11]Speichern\\c[0]."
+			]
+		},
+		{
+			"path": [145,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Auf der \\c[11]Weltkarte\\c[0] kann man übigens",
+				"immer speichern."
+			]
+		},
+		{
+			"path": [156,1,25,4],
+			"original": "Felcis: So wie es aussieht, haben wir alles zusammen. Das heißt, wir können loslegen, sobald ihr bereit dazu seid.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: So wie es aussieht, haben ",
+				"wir alles zusammen.\\. Das heißt, wir ",
+				"können loslegen, sobald ihr bereit ",
+				"dazu seid."
+			]
+		},
+		{
+			"path": [156,1,30,3],
+			"original": "Felcis: Wir müssen das Ganze nicht gleich heute durchziehen, aber zu lange warten dürfen wir auch nicht.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Wir müssen das Ganze nicht ",
+				"gleich heute durchziehen, aber zu ",
+				"lange warten dürfen wir auch nicht."
+			]
+		},
+		{
+			"path": [156,1,34,4],
+			"original": "Felcis: Ich werde ab heute jeden Feierabend hier in der Kantine rumhängen. Sagt mir Bescheid, wenn ihr soweit seid.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich werde ab heute jeden ",
+				"Feierabend hier in der Kantine ",
+				"rumhängen.\\. Sagt mir Bescheid, wenn ",
+				"ihr soweit seid."
+			]
+		},
+		{
+			"path": [156,1,42,4],
+			"original": "Kento: Eine Frage noch, Felcis. Wir sind jetzt in der Lage die Barriere zu brechen, aber was ist mit dem Rest?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Eine Frage noch, Felcis.\\. Wir ",
+				"sind jetzt in der Lage die Barriere ",
+				"zu brechen, aber was ist mit dem ",
+				"Rest?"
+			]
+		},
+		{
+			"path": [156,1,47,3],
+			"original": "Kento: Nur weil die Barriere gebrochen ist, heißt das nicht, dass wird gemütlich rausspazieren können.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Nur weil die Barriere ",
+				"gebrochen ist, heißt das nicht, dass ",
+				"wird gemütlich rausspazieren können."
+			]
+		},
+		{
+			"path": [156,1,51,4],
+			"original": "Felcis: Da hast du vollkommen Recht. Allerdings habe ich bereits einen Plan, wie wir die Wächter ablenken können.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Da hast du vollkommen Recht. ",
+				"Allerdings habe ich bereits einen ",
+				"Plan, wie wir die Wächter ablenken ",
+				"können."
+			]
+		},
+		{
+			"path": [156,1,56,3],
+			"original": "Felcis: Ich werde euch darin einweisen, wenn wir die Operation starten.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich werde euch darin ",
+				"einweisen, wenn wir die Operation ",
+				"starten."
+			]
+		},
+		{
+			"path": [156,1,60,2],
+			"original": "Felcis: Sprecht mich dann in der Kantine an, wenn ihr soweit seid.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Sprecht mich dann in der ",
+				"Kantine an, wenn ihr soweit seid."
+			]
+		},
+		{
+			"path": [156,1,74,3],
+			"original": "Kento: Dieser Felcis hat wirklich seine Art uns immer im letzt möglichen Moment aufzuklären...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Dieser Felcis hat wirklich ",
+				"seine Art uns immer im letzt ",
+				"möglichen Moment aufzuklären..."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [145,1,4],
+			"original": "HelnovZellen",
+			"patch": "HelnovZellen"
+		}
+	]
+}

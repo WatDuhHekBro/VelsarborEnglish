@@ -1,0 +1,164 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [19,1,2,2],
+			"original": "Gefangener: Hacken... und hacken... und noch mal hacken... und wieder hacken...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Hacken...\\. und hacken...\\. und noch mal ",
+				"hacken...\\. und wieder hacken..."
+			]
+		},
+		{
+			"path": [19,1,7,2],
+			"indent": 1,
+			"original": "Felcis: Ich glaube, zusammengefasst nennt man das \"Erzschürfen\".",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich glaube, zusammengefasst ",
+				"nennt man das \"Erzschürfen\"."
+			]
+		},
+		{
+			"path": [19,1,10,1],
+			"indent": 1,
+			"original": "Gefangener: Hey, dich hat niemand gefragt!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Hey,\\. dich hat niemand gefragt!"
+			]
+		},
+		{
+			"path": [20,1,2,3],
+			"original": "Gefangener: Wenn du dir wirklich Mühe geben willst, sollteste versuchen, in die hinteren Bereiche der Mine zu gelangen.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Wenn du dir wirklich Mühe geben ",
+				"willst, sollteste versuchen, in die hinteren ",
+				"Bereiche der Mine zu gelangen. "
+			]
+		},
+		{
+			"path": [20,1,5,3],
+			"original": "Gefangener: Dort findest'e dann reichere Erz- Vorkommen... neben mehr Monstern, Schluchten und anderen Gefahren.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Dort findest'e dann reichere Erz-",
+				"Vorkommen...\\. neben mehr Monstern,\\. Schluchten und ",
+				"anderen Gefahren."
+			]
+		},
+		{
+			"path": [21,1,3,1],
+			"original": "Gefangene: ... bitte nicht jetzt...",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: ...\\. bitte nicht jetzt..."
+			]
+		},
+		{
+			"path": [22,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [53,1,3,2],
+			"indent": 1,
+			"original": "Wache: Na, wie war die Lorenfahrt? Jetzt aber auf zur Arbeit!",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Na, wie war die Lorenfahrt?\\. Jetzt aber auf ",
+				"zur Arbeit!"
+			]
+		},
+		{
+			"path": [53,1,7,2],
+			"indent": 1,
+			"original": "Wache: Was habt ihr hier zu suchen? Ihr sollt Erz schürfen, also los, los!",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Was habt ihr hier zu suchen? Ihr sollt Erz ",
+				"schürfen, also los, los!"
+			]
+		},
+		{
+			"path": [54,1,2,4],
+			"original": "Wache: Wenn ihr zu einem anderen Bereich wollt, müsst ihr zu Fuß latschen. Aber passt auf, die Lorenbahn-Strecke ist nicht sonderlich sicher zu Fuß, wegen den Biestern, ihr wisst schon.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Wenn ihr zu einem anderen Bereich wollt, ",
+				"müsst ihr zu Fuß latschen.\\. Aber passt auf, die ",
+				"Lorenbahn-Strecke ist nicht sonderlich sicher zu ",
+				"Fuß, wegen den Biestern, ihr wisst schon."
+			]
+		},
+		{
+			"path": [55,1,2,4],
+			"original": "Wache: Wenn ihr Konfrontationen mit den Biestern dieser Höhle vermeiden wollt, solltet ihr euch nicht zu weit von den anderen Minenarbeitern entfernen.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Wenn ihr Konfrontationen mit den Biestern ",
+				"dieser Höhle vermeiden wollt, solltet ihr euch ",
+				"nicht zu weit von den anderen Minenarbeitern ",
+				"entfernen."
+			]
+		},
+		{
+			"path": [56,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"Dies ist ein \\c[11]Speicherpunkt\\c[0]."
+			]
+		},
+		{
+			"path": [56,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"Wenn man auf solch einen steht, kann man \\c[11]den",
+				"Spielstand speichern\\c[0]."
+			]
+		},
+		{
+			"path": [56,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"Öffne dazu das \\c[11]Menu\\c[0] mit \\c[11]Esc\\c[0] und wähle",
+				"dann \\c[11]Speichern\\c[0]."
+			]
+		},
+		{
+			"path": [56,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Auf der \\c[11]Weltkarte\\c[0] kann man übigens",
+				"immer speichern."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [56,1,4],
+			"original": "Helnov Mine1",
+			"patch": "Helnov Mine1"
+		}
+	]
+}

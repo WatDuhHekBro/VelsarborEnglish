@@ -1,0 +1,136 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [18,1,2,3],
+			"original": "Gefangener: Hier ist so ziemlich jede Stelle mit Erz besetzt. Du solltest nach unten gehen, dort sollte noch was frei sein.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Hier ist so ziemlich jede Stelle mit ",
+				"Erz besetzt.\\. Du solltest nach unten gehen, dort ",
+				"sollte noch was frei sein."
+			]
+		},
+		{
+			"path": [19,1,2,3],
+			"original": "Gefangener: ... Dies ist kein Ort zum Plaudern, dafür sind zu viele Wachen hier. Siehst du das nicht?",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: ...\\. Dies ist kein Ort zum Plaudern, ",
+				"dafür sind zu viele Wachen hier.\\. Siehst du das ",
+				"nicht?"
+			]
+		},
+		{
+			"path": [20,1,2,3],
+			"original": "Gefangene: Argh! So anstrengend! Ich bin bereits fix und fertig. Wann ist endlich Feierabend?",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Argh!\\. So anstrengend! \\.Ich bin ",
+				"bereits fix und fertig.\\. Wann ist endlich ",
+				"Feierabend?"
+			]
+		},
+		{
+			"path": [21,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [22,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [23,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [26,2,2,2],
+			"original": "Wache: Nicht soviel rumlungern hier! Arbeitet oder wir werden euch zum Arbeiten treiben!",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Nicht soviel rumlungern hier!\\. Arbeitet oder ",
+				"wir werden euch zum Arbeiten treiben!"
+			]
+		},
+		{
+			"path": [28,1,2,4],
+			"original": "Wache: Alles Heil geblieben bei der Fahrt? Wir können von Glück reden, dass sich die Biester von den Schienen fern halten, wenn da eine Lore entlang fährt.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Alles Heil geblieben bei der Fahrt? Wir ",
+				"können von Glück reden, dass sich die Biester von ",
+				"den Schienen fern halten, wenn da eine ",
+				"Lore entlang fährt."
+			]
+		},
+		{
+			"path": [29,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"Dies ist ein \\c[11]Speicherpunkt\\c[0]."
+			]
+		},
+		{
+			"path": [29,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"Wenn man auf solch einen steht, kann man \\c[11]den",
+				"Spielstand speichern\\c[0]."
+			]
+		},
+		{
+			"path": [29,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"Öffne dazu das \\c[11]Menu\\c[0] mit \\c[11]Esc\\c[0] und wähle",
+				"dann \\c[11]Speichern\\c[0]."
+			]
+		},
+		{
+			"path": [29,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Auf der \\c[11]Weltkarte\\c[0] kann man übigens",
+				"immer speichern."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [29,1,4],
+			"original": "Helnov Mine3",
+			"patch": "Helnov Mine3"
+		}
+	]
+}

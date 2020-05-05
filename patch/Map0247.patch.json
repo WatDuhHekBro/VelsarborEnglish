@@ -1,0 +1,50 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [87,2,3,4],
+			"indent": 1,
+			"original": "Wache: Hey! Ihr habt Feierabend, also was sucht hier noch alleine in der Mine bei all den Monstern! Wenn ihr zu spät oben ankommt verpasst ihr das Essen, wollt ihr das?",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Hey! Ihr habt Feierabend, also was sucht ",
+				"hier noch alleine in der Mine bei all den ",
+				"Monstern!\\. Wenn ihr zu spät oben ankommt verpasst ",
+				"ihr das Essen, wollt ihr das?"
+			]
+		},
+		{
+			"path": [87,2,7,2],
+			"indent": 1,
+			"original": "Wache: Geht von hier aus nach Süden, um wieder zurück zu kommen.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Geht von hier aus nach Süden, um wieder ",
+				"zurück zu kommen."
+			]
+		},
+		{
+			"path": [87,2,11,4],
+			"indent": 1,
+			"original": "Wache: Wir hatten früher oft Fälle, wo sich Minenarbeiter hier in der Nähe der Schienen versteckt haben, um sich vor der Arbeit zu drücken.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Wir hatten früher oft Fälle, wo sich ",
+				"Minenarbeiter hier in der Nähe der Schienen ",
+				"versteckt haben, um sich vor der Arbeit zu ",
+				"drücken. "
+			]
+		},
+		{
+			"path": [87,2,15,3],
+			"indent": 1,
+			"original": "Wache: So ähnlich wie ihr es gerade zu versuchen scheint, oder?! Zurück mit euch zur Erzschürfstelle!",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: So ähnlich wie ihr es gerade zu versuchen ",
+				"scheint, oder?!\\. Zurück mit euch zur ",
+				"Erzschürfstelle!"
+			]
+		}
+	]
+}

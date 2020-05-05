@@ -1,0 +1,28 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [62,2,3,3],
+			"indent": 1,
+			"original": "Wache:  Was zum Henker habt ihr hier noch zu suchen?! Sofort rauf mit euch! Die Arbeitszeit ist zu Ende!",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]:  Was zum Henker habt ihr hier noch zu ",
+				"suchen?!\\. Sofort rauf mit euch!\\. Die Arbeitszeit ist ",
+				"zu Ende!"
+			]
+		},
+		{
+			"path": [62,2,8,4],
+			"indent": 1,
+			"original": "Wache:  Das hier sind die Schienenbereiche. Hier haben Gefangene zur Arbeitszeit nichts zu suchen. Oder habt ihr bei der Erzschürfstelle, von der ihr kommt, nichts mehr gefunden?",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]:  Das hier sind die Schienenbereiche. Hier ",
+				"haben Gefangene zur Arbeitszeit nichts zu suchen.\\.",
+				"Oder habt ihr bei der Erzschürfstelle, von der ihr ",
+				"kommt, nichts mehr gefunden?"
+			]
+		}
+	]
+}

@@ -1,0 +1,312 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [84,1,2,4],
+			"original": "Wache: Da drüben, jenseits des Wassers, ist der \"Stützpunkt der Pauamainer-Brüderschaft\". Den haben sie wirklich gut gewählt, da werden sie nicht von uns Wachen gestört.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Da drüben, jenseits des Wassers, ist der ",
+				"\"Stützpunkt der Pauamainer-Brüderschaft\". \\.Den ",
+				"haben sie wirklich gut gewählt, da werden sie ",
+				"nicht von uns Wachen gestört."
+			]
+		},
+		{
+			"path": [84,1,6,2],
+			"original": "Wache: Also zumindest hätte ich keine Lust, diese Sprungpassage über das Wasser auf mich zu nehmen.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Also zumindest hätte ich keine Lust, diese ",
+				"Sprungpassage über das Wasser auf mich zu nehmen."
+			]
+		},
+		{
+			"path": [84,1,8,2],
+			"original": "Wache: Aber wir gönnen es ihnen, schließlich leisten sie die beste Arbeit von allen hier.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Aber wir gönnen es ihnen, schließlich ",
+				"leisten sie die beste Arbeit von allen hier."
+			]
+		},
+		{
+			"path": [85,1,2,3],
+			"original": "Gefangene: Ah... Ich mach immer zu schnell am Anfang, verlier dann Kondition und lass dann schnell nach...",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Ah... Ich mach immer zu schnell am ",
+				"Anfang, verlier dann Kondition und lass dann ",
+				"schnell nach..."
+			]
+		},
+		{
+			"path": [85,1,5,2],
+			"original": "Gefangene: So werd ich nie ne anständige Essensportion erhalten...",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: So werd ich nie ne anständige ",
+				"Essensportion erhalten..."
+			]
+		},
+		{
+			"path": [86,1,2,4],
+			"original": "Gefangener: Würdet ihr es schaffen über das Wasser hier zu kommen? Es gibt ne Reihe von Leuten hier, die das fast täglich machen. Die springen von Stein zu Stein, bis sie drüben sind.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Würdet ihr es schaffen über das Wasser ",
+				"hier zu kommen?\\. Es gibt ne Reihe von Leuten hier, ",
+				"die das fast täglich machen. Die springen von ",
+				"Stein zu Stein, bis sie drüben sind."
+			]
+		},
+		{
+			"path": [87,1,11,4],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Hey, du bist direkt bei unserem Stützpunkt. Allein schon für die Tatsache, dass du bis hierhin gekommen bist, haste nen Orden verdient!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Hey, du bist direkt bei ",
+				"unserem Stützpunkt.\\. Allein schon für die Tatsache, ",
+				"dass du bis hierhin gekommen bist, haste nen Orden ",
+				"verdient!"
+			]
+		},
+		{
+			"path": [87,1,26,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Ihr guckt so verdutzt. Wenn ihr mehr über uns und die Minen-Orden erfahren wollt, besucht einfach unseren Stützpunkt.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Ihr guckt so verdutzt.\\. Wenn ",
+				"ihr mehr über uns und die Minen-Orden ",
+				"erfahren wollt, besucht einfach unseren ",
+				"Stützpunkt."
+			]
+		},
+		{
+			"path": [87,1,30,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Dieser befindet sich im mittleren Bereich der Mine. Fahrt beim nächsten Mal mit der Lore einfach rechts und dann geradeaus.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Dieser befindet sich im ",
+				"mittleren Bereich der Mine.\\. Fahrt beim nächsten ",
+				"Mal mit der Lore einfach rechts und dann ",
+				"geradeaus."
+			]
+		},
+		{
+			"path": [87,1,36,1],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Glück auf!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Glück auf!"
+			]
+		},
+		{
+			"path": [87,1,43,4],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Wenn du genug Orden gesammelt hast, kommste in unseren Stützpunkt rein! Dann sind wir eine Gemeinschaft, wie eine Familie, Kumpel!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Wenn du genug Orden gesammelt ",
+				"hast, kommste in unseren Stützpunkt rein!\\. Dann ",
+				"sind wir eine Gemeinschaft, wie eine Familie, ",
+				"Kumpel!"
+			]
+		},
+		{
+			"path": [88,1,12,2],
+			"original": "Pauamainer-Miglied: Dies ist der Stützpunkt der Pauamainer-Untertage-Brüderschaft!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Dies ist der Stützpunkt der ",
+				"Pauamainer-Untertage-Brüderschaft!"
+			]
+		},
+		{
+			"path": [88,1,15,2],
+			"original": "Pauamainer-Miglied: NUR MITGLIEDER HABEN ZUTRITT!!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: NUR MITGLIEDER HABEN ",
+				"ZUTRITT!!"
+			]
+		},
+		{
+			"path": [88,1,21,3],
+			"indent": 1,
+			"original": "Kento: Ja ja, schon verstanden. Hier, wir haben alle Minen-Orden. Können wir durch?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja ja, schon verstanden.\\.",
+				"Hier, wir haben alle Minen-Orden. \\.",
+				"Können wir durch?"
+			]
+		},
+		{
+			"path": [88,1,29,2],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: IHR HABT ALLE 8 MINEN-ORDEN GESAMMELT!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: IHR HABT ALLE 8 MINEN-ORDEN ",
+				"GESAMMELT!\\.\\^"
+			]
+		},
+		{
+			"path": [88,1,32,3],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: IHR HABT ALLE 8 MINEN-ORDEN GESAMMELT! DAMIT SEID ICH NUN OFFIZIELL MITGLIEDER DER PAUAMAINER-UNTERTRAGE-BRÜDERSCHAFT!",
+			"lines":
+			[
+				"\\>\\c[10]Pauamainer-Miglied\\c[0]: IHR HABT ALLE 8 MINEN-ORDEN ",
+				"\\>GESAMMELT!\\< DAMIT SEID ICH NUN OFFIZIELL MITGLIEDER ",
+				"DER PAUAMAINER-UNTERTRAGE-BRÜDERSCHAFT!\\.\\^"
+			]
+		},
+		{
+			"path": [88,1,36,4],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: IHR HABT ALLE 8 MINEN-ORDEN GESAMMELT! DAMIT SEID ICH NUN OFFIZIELL MITGLIEDER DER PAUAMAINER-UNTERTRAGE-BRÜDERSCHAFT! HERZLICHEN WILLKOMMEN!",
+			"lines":
+			[
+				"\\>\\c[10]Pauamainer-Miglied\\c[0]: IHR HABT ALLE 8 MINEN-ORDEN ",
+				"\\>GESAMMELT! DAMIT SEID ICH NUN OFFIZIELL MITGLIEDER ",
+				"\\>DER PAUAMAINER-UNTERTRAGE-BRÜDERSCHAFT!\\< HERZLICHEN ",
+				"WILLKOMMEN!\\.\\^"
+			]
+		},
+		{
+			"path": [88,1,46,2],
+			"indent": 3,
+			"original": "Cibon: Juhu, wir sind in der Brüderschaft! Sogar Soko!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Juhu, wir sind in der ",
+				"Brüderschaft!\\. Sogar Soko!"
+			]
+		},
+		{
+			"path": [88,1,49,1],
+			"indent": 3,
+			"original": "Soko: ...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [88,1,56,1],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: IHR DÜRFT PASSIEREN!",
+			"lines":
+			[
+				"\\>\\c[10]Pauamainer-Miglied\\c[0]: IHR DÜRFT PASSIEREN!"
+			]
+		},
+		{
+			"path": [88,1,83,2],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Wenn ihr Mitglieder werden wollt, BRINGT MIR 8 MINEN-ORDEN!!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Wenn ihr Mitglieder werden ",
+				"wollt, BRINGT MIR 8 MINEN-ORDEN!!"
+			]
+		},
+		{
+			"path": [88,1,88,2],
+			"indent": 1,
+			"original": "Kento: Minen-Orden? Ehm... Und wo bekommt man die her?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Minen-Orden?\\. Ehm...\\. ",
+				"Und wo bekommt man die her?"
+			]
+		},
+		{
+			"path": [88,1,92,4],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: 8 PAUAMAINER-MITGLIEDER, die in den hintersten Ecken der Mine arbeiten, werden euch die Orden überreichen, WENN IHR SIE ERREICHT!!!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: 8 PAUAMAINER-MITGLIEDER, die ",
+				"in den hintersten Ecken der Mine arbeiten, werden ",
+				"euch die Orden überreichen,\\. WENN IHR SIE ",
+				"ERREICHT!!!"
+			]
+		},
+		{
+			"path": [88,1,99,2],
+			"indent": 2,
+			"original": "Soko: Muss der Typ immer so laut schreien?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Muss der Typ immer so laut ",
+				"schreien?"
+			]
+		},
+		{
+			"path": [88,1,103,2],
+			"indent": 3,
+			"original": "Cibon: Glaubst du wirklich, der Typ kann normal reden?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Glaubst du wirklich, der Typ ",
+				"kann normal reden?"
+			]
+		},
+		{
+			"path": [88,2,10,1],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: BESUCHT UNS BALD WIEDER!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: BESUCHT UNS BALD WIEDER!"
+			]
+		},
+		{
+			"path": [88,2,30,2],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: HALLO BRÜDER! IHR DÜRFT PASSIEREN!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: HALLO BRÜDER!\\. IHR DÜRFT ",
+				"PASSIEREN!"
+			]
+		},
+		{
+			"path": [89,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [90,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [91,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		}
+	]
+}

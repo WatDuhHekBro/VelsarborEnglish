@@ -1,0 +1,320 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [13,1,11,3],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Oh! Biste tatsächlich den langen Weg über die Klippen gegangen, nur um zu mir zu kommen? Nicht schlecht, nicht schlecht!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Oh!\\. Biste tatsächlich den ",
+				"langen Weg über die Klippen gegangen, nur um zu ",
+				"mir zu kommen?\\. Nicht schlecht, nicht schlecht!"
+			]
+		},
+		{
+			"path": [13,1,14,2],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Falls du wegen des Ordens kommst, tut mir Leid, aber die sind alle!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Falls du wegen des Ordens ",
+				"kommst,\\. tut mir Leid,\\. aber die sind alle!"
+			]
+		},
+		{
+			"path": [13,1,20,3],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Hehehe! Ein Scherz, ein Scherz! Natürlich hab ich noch Orden. Da, bitte sehr.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Hehehe!\\. Ein Scherz, ein ",
+				"Scherz!\\. Natürlich hab ich noch Orden.\\. Da, bitte ",
+				"sehr."
+			]
+		},
+		{
+			"path": [13,1,34,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Ihr guckt so verdutzt. Wenn ihr mehr über uns und die Minen-Orden erfahren wollt, besucht einfach unseren Stützpunkt.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Ihr guckt so verdutzt.\\. Wenn ",
+				"ihr mehr über uns und die Minen-Orden ",
+				"erfahren wollt, besucht einfach unseren ",
+				"Stützpunkt."
+			]
+		},
+		{
+			"path": [13,1,38,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Dieser befindet sich im mittleren Bereich der Mine. Fahrt beim nächsten Mal mit der Lore einfach rechts und dann geradeaus.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Dieser befindet sich im ",
+				"mittleren Bereich der Mine.\\. Fahrt beim nächsten ",
+				"Mal mit der Lore einfach rechts und dann ",
+				"geradeaus."
+			]
+		},
+		{
+			"path": [13,1,44,1],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Glück auf!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Glück auf!"
+			]
+		},
+		{
+			"path": [13,1,51,4],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Wenn ihr wieder zurück wollt, müsst ihr diesen Weg zurückgehen. Ihr könnt dann den unteren Gang entlang laufen. Der führt dann wieder zum Anfang.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Wenn ihr wieder zurück wollt, ",
+				"müsst ihr diesen Weg zurückgehen.\\. Ihr könnt dann ",
+				"den unteren Gang entlang laufen. Der führt dann ",
+				"wieder zum Anfang."
+			]
+		},
+		{
+			"path": [25,1,11,4],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Ah! Ihr gehört also auch zu uns Bergsteigern unter den Minenarbeitern! Reife Leistung! Bekomme nicht so oft Besuch hier! Dafür gibt es nen Orden!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Ah!\\. Ihr gehört also auch zu ",
+				"uns Bergsteigern unter den Minenarbeitern!\\. Reife ",
+				"Leistung! \\.Bekomme nicht so oft Besuch hier!\\. Dafür ",
+				"gibt es nen Orden!"
+			]
+		},
+		{
+			"path": [25,1,26,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Ihr guckt so verdutzt. Wenn ihr mehr über uns und die Minen-Orden erfahren wollt, besucht einfach unseren Stützpunkt.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Ihr guckt so verdutzt.\\. Wenn ",
+				"ihr mehr über uns und die Minen-Orden ",
+				"erfahren wollt, besucht einfach unseren ",
+				"Stützpunkt."
+			]
+		},
+		{
+			"path": [25,1,30,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Dieser befindet sich im mittleren Bereich der Mine. Fahrt beim nächsten Mal mit der Lore einfach rechts und dann geradeaus.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Dieser befindet sich im ",
+				"mittleren Bereich der Mine.\\. Fahrt beim nächsten ",
+				"Mal mit der Lore einfach rechts und dann ",
+				"geradeaus."
+			]
+		},
+		{
+			"path": [25,1,36,1],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Glück auf!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Glück auf!"
+			]
+		},
+		{
+			"path": [25,1,43,4],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Das klingt zwar komisch, aber das hier ist der höchste Punkt in dieser Mine! Davon bin ich überzeugt! Und wunderbares Erz gibt es hier, das sag ich dir, Kumpel!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Das klingt zwar komisch, aber ",
+				"das hier ist der höchste Punkt in dieser Mine! \\.",
+				"Davon bin ich überzeugt!\\. Und wunderbares Erz gibt ",
+				"es hier, das sag ich dir, Kumpel!"
+			]
+		},
+		{
+			"path": [26,1,2,4],
+			"original": "Gefangener: Oh Mann, ich möchte bloß nicht zu nah an dieser Schlucht da arbeiten... Hast du eine Vorstellung, wie tief das ist? Also ich hab es nicht, ich weiß nur, dass es tief genug ist...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Oh Mann, ich möchte bloß nicht zu nah ",
+				"an dieser Schlucht da arbeiten...\\. Hast du eine ",
+				"Vorstellung, wie tief das ist?\\. Also ich hab es ",
+				"nicht, ich weiß nur, dass es tief genug ist..."
+			]
+		},
+		{
+			"path": [27,1,4,4],
+			"original": "Gefangener: Diese Maulwurf-Dinger, die hier manchmal aus der Erde herausschwirren, können ganz schon nervig sein, nicht wahr? Aber ich kann dir ihren Schwachpunkt verraten.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Diese Maulwurf-Dinger, die hier ",
+				"manchmal aus der Erde herausschwirren, können ganz ",
+				"schon nervig sein, nicht wahr?\\. Aber ich kann dir ",
+				"ihren Schwachpunkt verraten."
+			]
+		},
+		{
+			"path": [27,1,8,1],
+			"original": "Gefangener: Interesse? Für 15 Erz sag ich es dir.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Interesse?\\. Für 15 Erz sag ich es dir."
+			]
+		},
+		{
+			"path": [27,1,13,2],
+			"indent": 2,
+			"original": "Gefangener: Hey, ihr habt das Erz ja gar nicht! So geht das nicht.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Hey, ihr habt das Erz ja gar nicht!\\.",
+				"So geht das nicht."
+			]
+		},
+		{
+			"path": [27,1,26,2],
+			"indent": 2,
+			"original": "Gefangener: Hehe, danke sehr. Dann hört mal gut zu.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Hehe, danke sehr.\\.",
+				"Dann hört mal gut zu."
+			]
+		},
+		{
+			"path": [27,1,28,4],
+			"indent": 2,
+			"original": "Gefangener: Ihre Stärke ist ihre harte Schale. Durch sie kommt kaum ein Treffer, sei es mit der Waffe oder einem Zauber. Aber der Schutz kann gebrochen werden!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ihre Stärke ist ihre \\c[11]harte Schale\\c[0].\\. ",
+				"Durch sie kommt kaum ein Treffer, sei es mit der ",
+				"Waffe oder einem Zauber.\\. Aber der Schutz kann ",
+				"gebrochen werden!"
+			]
+		},
+		{
+			"path": [27,1,32,2],
+			"indent": 2,
+			"original": "Gefangener: Anscheinend reagiert ihre Schale äußerst empfindlich auf starken Lichteinfall.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Anscheinend reagiert ihre Schale ",
+				"äußerst \\c[11]empfindlich auf starken Lichteinfall\\c[0]. "
+			]
+		},
+		{
+			"path": [27,1,34,3],
+			"indent": 2,
+			"original": "Gefangener: Also einfach einen Lichtzauber oder eine Lichtsare drauf pfeffern und das Ding steht dir schutzlos gegenüber!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Also einfach einen Lichtzauber oder ",
+				"eine Lichtsare drauf pfeffern und das Ding steht ",
+				"dir schutzlos gegenüber!"
+			]
+		},
+		{
+			"path": [27,1,37,1],
+			"indent": 2,
+			"original": "Gefangener: Danke fürs Geschäft!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Danke fürs Geschäft!"
+			]
+		},
+		{
+			"path": [27,1,42,2],
+			"indent": 1,
+			"original": "Gefangener: Nein? Weißt du es bereits? Tja, dann muss ich mir das Erz wohl selber erarbeiten.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Nein? Weißt du es bereits?\\. Tja, ",
+				"dann muss ich mir das Erz wohl selber erarbeiten."
+			]
+		},
+		{
+			"path": [28,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [29,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [30,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [32,1,2,4],
+			"original": "Wache: Ziemlich tiefer Abgrund oder? Solltet ihr zu lange zu schlecht Arbeit für uns leisten, kann es passieren, dass wir euch eines Tages einfach dort rein schmeißen.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Ziemlich tiefer Abgrund oder?\\. Solltet ihr ",
+				"zu lange zu schlecht Arbeit für uns leisten, kann ",
+				"es passieren, dass wir euch eines Tages einfach ",
+				"dort rein schmeißen."
+			]
+		},
+		{
+			"path": [32,1,6,3],
+			"original": "Wache: Wir müssen ja schließlich ökonomisch denken. Wäre doch eine Verschwendung, so schlechte Arbeitkräfte durchzufüttern.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Wir müssen ja schließlich ökonomisch ",
+				"denken.\\. Wäre doch eine Verschwendung, so schlechte ",
+				"Arbeitkräfte durchzufüttern."
+			]
+		},
+		{
+			"path": [32,1,9,3],
+			"original": "Wache: Also macht ja gute Arbeit, es sei denn ihr wollt unbedingt erfahren, was sich da unten in der Schlucht befindet.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Also macht ja gute Arbeit, es sei denn ihr ",
+				"wollt unbedingt erfahren, was sich da unten in der ",
+				"Schlucht befindet."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [27,1,9],
+			"original": "Ja, das interessiert mich jetzt./Nein, danke.",
+			"patch": "Ja, das interessiert mich jetzt./Nein, danke."
+		},
+		{
+			"path": [27,1,10],
+			"original": "Ja, das interessiert mich jetzt.",
+			"patch": "Ja, das interessiert mich jetzt."
+		},
+		{
+			"path": [27,1,41],
+			"original": "Nein, danke.",
+			"patch": "Nein, danke."
+		}
+	]
+}

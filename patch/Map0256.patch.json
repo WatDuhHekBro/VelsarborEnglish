@@ -1,0 +1,136 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [21,1,2,2],
+			"original": "Gefangener: Das schlimme ist nicht die Minenarbeit, sondern diese Lorenfahrt zu Beginn.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Das schlimme ist nicht die ",
+				"Minenarbeit, sondern diese Lorenfahrt zu Beginn. "
+			]
+		},
+		{
+			"path": [21,1,4,4],
+			"original": "Gefangener: Man nimmt da so riesige Geschwindigkeiten an, ich will gar nicht daran denken was passiert, wenn man da aus den Schienen fliegt.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Man nimmt da so riesige ",
+				"Geschwindigkeiten an, ich will gar nicht daran ",
+				"denken was passiert, wenn man da aus den Schienen ",
+				"fliegt."
+			]
+		},
+		{
+			"path": [22,1,2,4],
+			"original": "Gefangener: Euch sind doch sicher auch diese tiefen Abgründe dort bei den Schienen aufgefallen, oder? Niemand weiß, wie tief diese Schluchten sind und wohin sie führen!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Euch sind doch sicher auch diese ",
+				"tiefen Abgründe dort bei den Schienen aufgefallen, ",
+				"oder?\\. Niemand weiß, wie tief diese Schluchten sind ",
+				"und wohin sie führen!"
+			]
+		},
+		{
+			"path": [22,1,6,3],
+			"original": "Gefangener: Ich möcht's auch ehrlich gesagt lieber nich' raus finden. Wer da reinfällt hat eh mit seinem Leben abgeschlossen.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ich möcht's auch ehrlich gesagt ",
+				"lieber nich' raus finden.\\. Wer da reinfällt hat eh ",
+				"mit seinem Leben abgeschlossen."
+			]
+		},
+		{
+			"path": [24,2,2,2],
+			"original": "Wache: Soso, ihr seid also diese Verräter des Landes, ehemalige Soldaten des Briganten-Orden.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Soso, ihr seid also diese Verräter des ",
+				"Landes, ehemalige Soldaten des Briganten-Orden. "
+			]
+		},
+		{
+			"path": [24,2,4,4],
+			"original": "Wache: Wenn es nach mir ginge, könntet ihr in den tiefen Erdlöchern Erz schürfen, bis ihr dort verreckt. Für Leute wie euch ist harte Minenarbeit eine Gnade.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Wenn es nach mir ginge, könntet ihr in den ",
+				"tiefen Erdlöchern Erz schürfen, bis ihr dort",
+				"verreckt.\\. Für Leute wie euch ist harte Minenarbeit ",
+				"eine Gnade."
+			]
+		},
+		{
+			"path": [26,1,2,3],
+			"original": "Wache: Früher ging die Schienenstrecke hier noch weiter, aber seit wir hier ein stärkeres Erdbeben hatten, ist alles zugeschüttet.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Früher ging die Schienenstrecke hier noch ",
+				"weiter, aber seit wir hier ein stärkeres Erdbeben ",
+				"hatten, ist alles zugeschüttet. "
+			]
+		},
+		{
+			"path": [26,1,5,2],
+			"original": "Wache: Von dem Bereich, zu dem diese Schienen führen, sind wir komplett abgetrennt.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Von dem Bereich, zu dem diese Schienen ",
+				"führen, sind wir komplett abgetrennt."
+			]
+		},
+		{
+			"path": [48,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"Dies ist ein \\c[11]Speicherpunkt\\c[0]."
+			]
+		},
+		{
+			"path": [48,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"Wenn man auf solch einen steht, kann man \\c[11]den",
+				"Spielstand speichern\\c[0]."
+			]
+		},
+		{
+			"path": [48,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"Öffne dazu das \\c[11]Menu\\c[0] mit \\c[11]Esc\\c[0] und wähle",
+				"dann \\c[11]Speichern\\c[0]."
+			]
+		},
+		{
+			"path": [48,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Auf der \\c[11]Weltkarte\\c[0] kann man übigens",
+				"immer speichern."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [48,1,4],
+			"original": "Helnov Mine4",
+			"patch": "Helnov Mine4"
+		}
+	]
+}
