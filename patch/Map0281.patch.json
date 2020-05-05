@@ -173,7 +173,7 @@
 			"lines":
 			[
 				"",
-				"Dies ist ein \\c[11]Speicherpunkt\\c[0]."
+				"This is a \\c[11]save point\\c[0]."
 			]
 		},
 		{
@@ -183,8 +183,8 @@
 			"lines":
 			[
 				"",
-				"Wenn man auf solch einen steht, kann man \\c[11]den",
-				"Spielstand speichern\\c[0]."
+				"When you stand on one of these, you can",
+				"\\c[11]save the game\\c[0]."
 			]
 		},
 		{
@@ -194,8 +194,8 @@
 			"lines":
 			[
 				"",
-				"Öffne dazu das \\c[11]Menu\\c[0] mit \\c[11]Esc\\c[0] und wähle",
-				"dann \\c[11]Speichern\\c[0]."
+				"To do this, open the \\c[11]menu\\c[0] using \\c[11]Esc\\c[0] and",
+				"then select \\c[11]Save\\c[0]."
 			]
 		},
 		{
@@ -205,8 +205,8 @@
 			"lines":
 			[
 				"",
-				"Auf der \\c[11]Weltkarte\\c[0] kann man übigens",
-				"immer speichern."
+				"Additionally, you can always save on",
+				"the \\c[11]world map\\c[0]."
 			]
 		}
 	],
@@ -215,7 +215,7 @@
 		{
 			"path": [13,1,4],
 			"original": "Mine Lager",
-			"patch": "Mine Lager"
+			"patch": "Warehouse"
 		}
 	]
 }
