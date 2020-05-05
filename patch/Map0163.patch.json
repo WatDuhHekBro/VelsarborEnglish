@@ -43,8 +43,8 @@
 			"original": "Blonder Typ: Wenn ich die Waren zu einem höheren Preis verkaufe, wird der Erlös automatisch steigen!",
 			"lines":
 			[
-				"\\c[10]Blond Guy\\c[0]: If I sell my goods at",
-				"a higher price, my profits will",
+				"\\c[10]Blond Guy\\c[0]: If I sell my wares at",
+				"a higher price,\\. my profits will",
 				"automatically increase!"
 			]
 		},
@@ -53,9 +53,10 @@
 			"original": "Blonder Typ: Selbst wenn ich weniger verkaufen sollte, verdiene ich im Endeffekt mehr als andere Mischwaren-Läden.",
 			"lines":
 			[
-				"\\c[10]Blond Guy\\c[0]: Even if I sell less, I'll",
-				"still ultimately earn more than",
-				"any other store out there!"
+				"\\c[10]Blond Guy\\c[0]: Even if I end up selling",
+				"less,\\. I'll still ultimately earn",
+				"more than any other store out",
+				"there!"
 			]
 		},
 		{
@@ -64,7 +65,7 @@
 			"lines":
 			[
 				"\\c[10]Blond Guy\\c[0]: Pretty smart of me,\\.",
-				"isn't it?"
+				"isn't that right?"
 			]
 		},
 		{

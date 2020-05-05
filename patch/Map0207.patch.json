@@ -125,8 +125,8 @@
 			"original": "Rechte Wache: So wie ich gehört habe, haben sich die 3 bereit erklärt, für uns jenseits der Grenze aktiv zu sein.",
 			"lines":
 			[
-				"\\c[10]Right Guard\\c[0]: As I heard, the three agreed to be",
-				"active for us across the border."
+				"\\c[10]Right Guard\\c[0]: From what I heard, the three agreed",
+				"to be active for us across the border."
 			]
 		},
 		{
@@ -189,7 +189,7 @@
 			"original": "Herr Uroto: Als ich wieder aufwachte, befand ich mich in einer Hütte im Wald.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: The next thing I knew,",
+				"\\c[10]Sir Uroto\\c[0]: The next thing I knew,\\.",
 				"I was in a hut in the forest."
 			]
 		},
