@@ -329,10 +329,10 @@
 			"original": "(Kento: Was ist bloß los mit dieser Frau? Sie ist einverstanden mit dem, was wir vorhaben,... und dann dieser Aufstand? Ich versteh es nicht.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Was ist bloß los mit dieser ",
-				"Frau?\\. Sie ist einverstanden mit dem, ",
-				"was wir vorhaben,...\\. und dann dieser ",
-				"Aufstand?\\. Ich versteh es nicht.)"
+				"(\\c[1]\\n[1]\\c[0]: What's with her?\\. She's okay",
+				"with what we're up to...\\. and then",
+				"this all of a sudden?\\. I don't get",
+				"it.)"
 			]
 		},
 		{
@@ -340,7 +340,7 @@
 			"original": "(Kento: Wie auch immer...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Wie auch immer...)"
+				"(\\c[1]\\n[1]\\c[0]: Anyways...)"
 			]
 		},
 		{
@@ -349,8 +349,7 @@
 			"original": "(Kento: Ich sollte Cibon noch bescheid geben.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Ich sollte Cibon noch ",
-				"bescheid geben.)"
+				"(\\c[1]\\n[1]\\c[0]: I should let Cibon know.)"
 			]
 		},
 		{
@@ -359,9 +358,9 @@
 			"original": "(Kento: Ich sollte jetzt noch die letzten Vorbereitungen treffen und dann ebenfalls schlafen gehen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Ich sollte jetzt noch die ",
-				"letzten Vorbereitungen treffen und ",
-				"dann ebenfalls schlafen gehen.)"
+				"(\\c[1]\\n[1]\\c[0]: I should now be making the",
+				"final preparations and then going",
+				"to sleep too.)"
 			]
 		},
 		{
@@ -1197,10 +1196,9 @@
 			"original": "Cibon: Ha! Ich freu mich schon auf deren Gesichter, wenn diese hohlen Soldatenköpfe die Gefahr mit eigenen Augen sehen können!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ha!\\. Ich freu mich schon auf ",
-				"deren Gesichter, wenn diese hohlen ",
-				"Soldatenköpfe die Gefahr mit eigenen ",
-				"Augen sehen können!"
+				"\\c[2]\\n[2]\\c[0]: Ha!\\. I'm looking forward to the",
+				"faces of those hollow soldiers when",
+				"they see what's coming to them!"
 			]
 		},
 		{
@@ -1209,9 +1207,8 @@
 			"original": "Kento: Cibon, ich hab mit den Grenzleuten geredet und einen Vorschlag gemacht.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Cibon, ich hab mit den ",
-				"Grenzleuten geredet und einen ",
-				"Vorschlag gemacht."
+				"\\c[1]\\n[1]\\c[0]: Cibon, I talked to the guards",
+				"and made a suggestion."
 			]
 		},
 		{
@@ -1220,8 +1217,8 @@
 			"original": "Cibon: Hö? Sag bloß du hast die zu etwas überreden können.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hö?\\. Sag bloß du hast die zu ",
-				"etwas überreden können."
+				"\\c[2]\\n[2]\\c[0]: Huh?\\. Just say you persuaded",
+				"them to do something."
 			]
 		},
 		{
@@ -1230,10 +1227,9 @@
 			"original": "Kento: Ja, heute Nacht wollen sie einen kleinen Späher Trupp los senden, den wir zum Stützpunkt leiten werden.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja, heute Nacht wollen sie ",
-				"einen kleinen Späher Trupp los ",
-				"senden, den wir zum Stützpunkt ",
-				"leiten werden."
+				"\\c[1]\\n[1]\\c[0]: Yes, tonight they want to send",
+				"a small scout group that we will lead",
+				"to the base."
 			]
 		},
 		{
@@ -1242,9 +1238,9 @@
 			"original": "Kento: Auf diesem Wege können wir die Truppe wenigstens beobachten und mehr Zeugen sammeln.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Auf diesem Wege können wir ",
-				"die Truppe wenigstens beobachten und ",
-				"mehr Zeugen sammeln."
+				"\\c[1]\\n[1]\\c[0]: This way, we can at least",
+				"observe the troops and gather",
+				"more witnesses."
 			]
 		},
 		{
@@ -1253,9 +1249,9 @@
 			"original": "Cibon: Okay, das ist wenigstens etwas. Und das dämliche Rumlungern hat endlich ein Ende!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Okay, das ist wenigstens ",
-				"etwas. Und das dämliche Rumlungern ",
-				"hat endlich ein Ende!"
+				"\\c[2]\\n[2]\\c[0]: Okay, at least that's",
+				"something. And the stupid waiting",
+				"has finally come to an end!"
 			]
 		},
 		{
@@ -1264,9 +1260,8 @@
 			"original": "Kento: Wir sollten uns noch etwas hinlegen, damit wir heute Nacht auch wach genug sind.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten uns noch etwas ",
-				"hinlegen, damit wir heute Nacht auch ",
-				"wach genug sind."
+				"\\c[1]\\n[1]\\c[0]: We should rest a bit so that",
+				"we're awake enough tonight."
 			]
 		},
 		{
@@ -1275,8 +1270,7 @@
 			"original": "Cibon: Joa, verstanden. Werd' ich später noch machen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Joa, verstanden.\\. Werd' ich ",
-				"später noch machen."
+				"\\c[2]\\n[2]\\c[0]: Got it.\\. I'll do that later."
 			]
 		},
 		{
@@ -1285,10 +1279,9 @@
 			"original": "Cibon: Hm... am besten sollten wir uns etwas auf diese Nacht vorbereiten, Heilgegenstände kaufen und Kram, du weißt schon.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hm..\\.. am besten sollten wir ",
-				"uns etwas auf diese Nacht ",
-				"vorbereiten, Heilgegenstände kaufen ",
-				"und Kram, du weißt schon."
+				"\\c[2]\\n[2]\\c[0]: Hm...\\. Best that we prepare for",
+				"tonight, buy healing items and",
+				"supplies, you know."
 			]
 		},
 		{
@@ -1297,8 +1290,7 @@
 			"original": "Cibon: Die Flucht hat uns ja einiges gekostet.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Die Flucht hat uns ja einiges ",
-				"gekostet."
+				"\\c[2]\\n[2]\\c[0]: That escape cost us a lot."
 			]
 		},
 		{
@@ -1307,7 +1299,7 @@
 			"original": "Kento: Gute Idee.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Gute Idee."
+				"\\c[1]\\n[1]\\c[0]: Good idea."
 			]
 		},
 		{
@@ -1316,8 +1308,8 @@
 			"original": "Cibon: Morgen Kumpel, wieder schön lang ausgeschlafen, was?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Morgen Kumpel, wieder schön ",
-				"lang ausgeschlafen, was?"
+				"\\c[2]\\n[2]\\c[0]: Mornin', had your beauty sleep",
+				"again?"
 			]
 		},
 		{
@@ -1326,7 +1318,7 @@
 			"original": "Kento: Ja, halt so wie gewohnt...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja, halt so wie gewohnt..."
+				"\\c[1]\\n[1]\\c[0]: Yeah, just as usual..."
 			]
 		},
 		{
@@ -1335,10 +1327,10 @@
 			"original": "Cibon: Ich sag dir, bis diese Schleichen von Soldaten hier angekommen sind, ist diese Truppe aus dem Wald schon über alle Berge.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich sag dir, bis diese ",
-				"Schleichen von Soldaten hier ",
-				"angekommen sind, ist diese Truppe ",
-				"aus dem Wald schon über alle Berge."
+				"\\c[2]\\n[2]\\c[0]: I'm telling you, by the time",
+				"these sloths of soldiers finally",
+				"arrive here, those troops in the",
+				"forest will be all over the hills."
 			]
 		},
 		{
@@ -1347,9 +1339,9 @@
 			"original": "Kento: Naja, wenn sie so schnell fliehen würden, würde die Flucht höchstwahrscheinlich auffallen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Naja, wenn sie so schnell ",
-				"fliehen würden, würde die Flucht ",
-				"höchstwahrscheinlich auffallen."
+				"\\c[1]\\n[1]\\c[0]: Well, if they leave so",
+				"quickly, their escape would",
+				"most likely be noticed."
 			]
 		},
 		{
@@ -1358,10 +1350,10 @@
 			"original": "Kento: Dadurch wird die Existenz der Truppe offiziell und es ist nur noch eine Frage der Zeit, bis sich Brigantia darum kümmert.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Dadurch wird die Existenz der ",
-				"Truppe offiziell und es ist nur noch ",
-				"eine Frage der Zeit, bis sich ",
-				"Brigantia darum kümmert."
+				"\\c[1]\\n[1]\\c[0]: This makes the existence of",
+				"this force official and it's then",
+				"only a matter of time before",
+				"Brigantia takes care of it."
 			]
 		},
 		{
@@ -1370,10 +1362,10 @@
 			"original": "Cibon: ...Wahrscheinlich... Stimmt. Vor allem wenn sie so einen Trottel wie diesen Sedric, oder wie der hieß, dabei haben.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...Wahrscheinlich...\\. Stimmt.\\.",
-				"Vor allem wenn sie so einen Trottel ",
-				"wie diesen Sedric, oder wie der ",
-				"hieß, dabei haben."
+				"\\c[2]\\n[2]\\c[0]: Probably...\\. That's right.\\.",
+				"Especially if you have an idiot",
+				"like that Sedric, or whatever",
+				"his name was."
 			]
 		},
 		{
@@ -1382,8 +1374,8 @@
 			"original": "Cibon: Nein wirklich, so einen Idioten hab ich noch nicht erlebt.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Nein wirklich, so einen ",
-				"Idioten hab ich noch nicht erlebt."
+				"\\c[2]\\n[2]\\c[0]: No really, I've never seen",
+				"such an idiot before."
 			]
 		},
 		{
@@ -1392,10 +1384,9 @@
 			"original": "Cibon: Ich meine, der verfolgt dich, um uns dann im Alleingang mit so einer anderen Blechbüchse wieder gefangen zu nehmen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich meine, der verfolgt dich, ",
-				"um uns dann im Alleingang mit so ",
-				"einer anderen Blechbüchse wieder ",
-				"gefangen zu nehmen."
+				"\\c[2]\\n[2]\\c[0]: I mean, he was chasing you and",
+				"then single-handedly trying to catch",
+				"us with another nutcase."
 			]
 		},
 		{
@@ -1404,9 +1395,9 @@
 			"original": "Cibon: Nur um den ganzen \"Ruhm\" zu ernten und alles ohne Absprache mit den anderen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Nur um den ganzen \"Ruhm\" zu ",
-				"ernten und alles ohne Absprache mit ",
-				"den anderen."
+				"\\c[2]\\n[2]\\c[0]: Just to reap all the \"glory\"",
+				"and everything without contacting",
+				"the others."
 			]
 		},
 		{
@@ -1415,10 +1406,10 @@
 			"original": "Kento: ...Ja, überstürzt und unverantwortlich, wie so eine Person, die bei jeder Kleinigkeit sofort offensiv handeln muss.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...Ja, überstürzt und ",
-				"unverantwortlich,\\. wie so eine ",
-				"Person, die bei jeder Kleinigkeit ",
-				"sofort offensiv handeln muss."
+				"\\c[1]\\n[1]\\c[0]: Yes, rash and irresponsible,\\.",
+				"like someone who has to act",
+				"aggressively with every",
+				"little thing..."
 			]
 		},
 		{
@@ -1427,7 +1418,7 @@
 			"original": "Cibon: Genau.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Genau."
+				"\\c[2]\\n[2]\\c[0]: Exactly."
 			]
 		},
 		{
@@ -1436,10 +1427,9 @@
 			"original": "Kento: Die die Waffe zieht und auf die für sie offensichtliche Bedrohung zustürmt, ohne nachzudenken.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Die die Waffe zieht und auf ",
-				"die für sie offensichtliche ",
-				"Bedrohung zustürmt, ohne ",
-				"nachzudenken."
+				"\\c[1]\\n[1]\\c[0]: ...who jumps the gun and",
+				"charges for every obvious threat",
+				"without even thinking..."
 			]
 		},
 		{
@@ -1448,7 +1438,7 @@
 			"original": "Cibon: Ganz genau..",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ganz genau.."
+				"\\c[2]\\n[2]\\c[0]: Exactly."
 			]
 		},
 		{
@@ -1457,8 +1447,8 @@
 			"original": "Kento: Die ein blaues Stirnband trägt und mit der Axt rum schwingt.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Die ein blaues Stirnband ",
-				"trägt und mit der Axt rum schwingt."
+				"\\c[1]\\n[1]\\c[0]: ...who wears a blue headband",
+				"and swings around an axe."
 			]
 		},
 		{
@@ -1467,7 +1457,7 @@
 			"original": "Cibon: G........",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: G...\\....\\...\\.\\^"
+				"\\c[2]\\n[2]\\c[0]: E...\\....\\....\\.\\^"
 			]
 		},
 		{
@@ -1476,8 +1466,8 @@
 			"original": "Cibon: Hey, Moment! Wieso sollte ich so etwas tun?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hey, Moment!\\. Wieso ",
-				"sollte ich so etwas tun?"
+				"\\c[2]\\n[2]\\c[0]: Hey, wait a minute!\\.",
+				"Why am I the one you point out?"
 			]
 		},
 		{
@@ -1486,9 +1476,9 @@
 			"original": "Kento: Corine Plateau: Diebesbande, Gencorin: Diebesbande, Toras Gebirge: Höhlenexpedition.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Corine Plateau:\\. Diebesbande,\\. ",
-				"Gencorin:\\. Diebesbande,\\. ",
-				"Toras Gebirge:\\. Höhlenexpedition."
+				"\\c[1]\\n[1]\\c[0]: Corine Plateau,\\. thieves.\\.",
+				"Gencorin,\\. thieves.\\.",
+				"Mount Toras,\\. expedition."
 			]
 		},
 		{
@@ -1497,9 +1487,9 @@
 			"original": "Cibon: ...Das ist was anderes. Außerdem hat es sich bis jetzt immer ausgezahlt, oder?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...Das ist was anderes.\\.",
-				"Außerdem hat es sich bis jetzt immer ",
-				"ausgezahlt, oder?"
+				"\\c[2]\\n[2]\\c[0]: This is different.\\. Besides,",
+				"it's always paid off so far,",
+				"hasn't it?"
 			]
 		},
 		{
@@ -1508,9 +1498,8 @@
 			"original": "Kento: Naja, du solltest nur nicht mit Steinen werfen, wenn du im Glashaus sitzt.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Naja, du solltest nur nicht ",
-				"mit Steinen werfen, wenn du im ",
-				"Glashaus sitzt. "
+				"\\c[1]\\n[1]\\c[0]: Well, you shouldn't build your",
+				"foundation on quicksand."
 			]
 		},
 		{
@@ -1519,10 +1508,9 @@
 			"original": "Kento: In mancher Hinsicht bist du nämlich nicht unbedingt besser als der Trottel, von dem du mir erzählst.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: In mancher Hinsicht bist du ",
-				"nämlich nicht unbedingt besser",
-				"als der Trottel, von dem du mir ",
-				"erzählst."
+				"\\c[1]\\n[1]\\c[0]: In some regards, you're not",
+				"really better than the idiot",
+				"you're telling me about."
 			]
 		},
 		{
@@ -1531,9 +1519,9 @@
 			"original": "Cibon: Pah, vergleich mich bitte nicht mit diesem Typen, ja? Das zählt schon fast als Beleidigung.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Pah, vergleich mich bitte ",
-				"nicht mit diesem Typen, ja?\\. Das ",
-				"zählt schon fast als Beleidigung."
+				"\\c[2]\\n[2]\\c[0]: Pfft, please don't compare me",
+				"to this guy, okay?\\. That's almost",
+				"insulting."
 			]
 		},
 		{
@@ -1542,7 +1530,7 @@
 			"original": "Kento: Okay, ich bin ganz still.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Okay, ich bin ganz still."
+				"\\c[1]\\n[1]\\c[0]: Okay, I'll be very quiet now."
 			]
 		},
 		{
@@ -1551,9 +1539,9 @@
 			"original": "Cibon: Tja... und jetzt können wir nichts tun als warten, warten, warten... Tot langweilig.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Tja...\\. und jetzt können wir ",
-				"nichts tun als warten,\\. warten, \\.",
-				"warten...\\. Tot langweilig."
+				"\\c[2]\\n[2]\\c[0]: Well...\\. now all we can do is",
+				"wait,\\. wait some more,\\. and wait even",
+				"more...\\. Gets me bored to the death."
 			]
 		},
 		{
@@ -1562,10 +1550,10 @@
 			"original": "Kento: Ich glaube ich werde noch mal etwas mit den Grenzleuten reden und nachfragen wie man vorgehen wird, sobald die Verstärkung hier ist.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich glaube ich werde noch mal ",
-				"etwas mit den Grenzleuten reden und ",
-				"nachfragen wie man vorgehen wird, ",
-				"sobald die Verstärkung hier ist."
+				"\\c[1]\\n[1]\\c[0]: I think I'll talk to the",
+				"guards again and ask what'll",
+				"happen once reinforcements",
+				"are here."
 			]
 		},
 		{
@@ -1574,9 +1562,9 @@
 			"original": "Cibon: Mach das, ich war schon oft genug bei denen, mit mir reden die nicht mehr wirklich...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Mach das, ich war schon oft ",
-				"genug bei denen, mit mir reden die ",
-				"nicht mehr wirklich..."
+				"\\c[2]\\n[2]\\c[0]: Do that, I've been with those",
+				"people many times, and now they don't",
+				"even talk to me anymore..."
 			]
 		},
 		{
@@ -1585,8 +1573,8 @@
 			"original": "Kento: Das war irgendwie klar, dass du die nicht in Ruhe lässt.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Das war irgendwie klar, dass ",
-				"du die nicht in Ruhe lässt."
+				"\\c[1]\\n[1]\\c[0]: It was kind of clear that you",
+				"wouldn't leave them alone."
 			]
 		},
 		{
@@ -1595,9 +1583,9 @@
 			"original": "Cibon: Solltest du irgendwie vorhaben, irgendwas außerhalb der Stadt zu machen, sag mir bescheid.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Solltest du irgendwie ",
-				"vorhaben, irgendwas außerhalb der ",
-				"Stadt zu machen, sag mir bescheid. "
+				"\\c[2]\\n[2]\\c[0]: If you're going to do anything",
+				"outside of town for whatever reason,",
+				"let me know."
 			]
 		},
 		{
@@ -1606,9 +1594,9 @@
 			"original": "Cibon: Wir könnten die Straßen vor Gencorin säubern, im Corine Plateau...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wir könnten die Straßen vor ",
-				"Gencorin säubern,\\. im Corine ",
-				"Plateau..."
+				"\\c[2]\\n[2]\\c[0]: We could clean the streets in",
+				"Gencorin,\\. maybe in the Corine Plateau",
+				"too..."
 			]
 		},
 		{
@@ -1617,9 +1605,8 @@
 			"original": "Kento: Vielleicht, aber wir sollten uns nicht zu weit von hier entfernen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Vielleicht, aber wir sollten ",
-				"uns nicht zu weit von hier ",
-				"entfernen."
+				"\\c[1]\\n[1]\\c[0]: Maybe, but we shouldn't get",
+				"too far from here."
 			]
 		},
 		{
@@ -1628,8 +1615,8 @@
 			"original": "Cibon: Wieder da... Und wieder müssen wir warten.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wieder da...\\. Und wieder ",
-				"müssen wir warten."
+				"\\c[2]\\n[2]\\c[0]: We're back...\\. and we have to",
+				"wait around again."
 			]
 		},
 		{
@@ -1638,9 +1625,8 @@
 			"original": "(Kento: Ich sollte zuerst schauen was Cibon so macht, bevor ich die Stadt verlasse.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Ich sollte zuerst schauen was ",
-				"Cibon so macht, bevor ich die Stadt ",
-				"verlasse.)"
+				"(\\c[1]\\n[1]\\c[0]: I should see what Cibon's up",
+				"to before I leave town.)"
 			]
 		},
 		{
@@ -1649,7 +1635,7 @@
 			"original": "Die anderen Rufen um die Stadt zu verlassen?",
 			"lines":
 			[
-				"Die anderen Rufen um die Stadt zu verlassen?"
+				"Call the others to leave the city?"
 			]
 		},
 		{
@@ -1658,9 +1644,9 @@
 			"original": "Soko: Hast du vor die Stadt zu verlassen? Sollten wir nicht besser hier warten?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Hast du vor die Stadt zu ",
-				"verlassen?\\. Sollten wir nicht besser ",
-				"hier warten?"
+				"\\c[13]\\n[3]\\c[0]: Are you planning to leave the",
+				"city?\\. Shouldn't it be better to",
+				"wait here?"
 			]
 		},
 		{
@@ -1669,9 +1655,9 @@
 			"original": "Soko: Naja, eine kurze Abwesendheit wir schon nicht Schaden! Wir haben hier momentan doch eh nichts zu tun.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Naja, eine kurze Abwesendheit ",
-				"wir schon nicht Schaden!\\. Wir haben ",
-				"hier momentan doch eh nichts zu tun."
+				"\\c[13]\\n[3]\\c[0]: Oh well, a quick break won't do",
+				"us any harm!\\. We have nothing to do",
+				"here anyway."
 			]
 		}
 	],

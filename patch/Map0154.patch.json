@@ -647,10 +647,10 @@
 			"original": "Hotelbesitzer: Ah, sie müssen diese Soldaten sein. Man hat mir bereit bescheid gegeben. Ihre Zimmer stehen bereit, ansonsten bedienen sie sich selber. Gute Nacht.",
 			"lines":
 			[
-				"\\c[10]Inn Owner\\c[0]: Ah, sie müssen diese Soldaten sein. \\.",
-				"Man hat mir bereit bescheid gegeben.\\. Ihre Zimmer ",
-				"stehen bereit, ansonsten bedienen sie sich selber. \\.",
-				"Gute Nacht."
+				"\\c[10]Inn Owner\\c[0]: Ah, those must be the soldiers they",
+				"were talking about.\\. I've already been informed.\\.",
+				"Your rooms are ready, and apart from that,",
+				"help yourself to whatever you need.\\. Good night."
 			]
 		},
 		{
@@ -658,9 +658,9 @@
 			"original": "Cibon: Also ich weiß nicht wie das bei euch ist, aber ich könnt' jetzt mit Sicherheit kein Auge zumachen...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Also ich weiß nicht wie das ",
-				"bei euch ist, aber ich könnt' jetzt ",
-				"mit Sicherheit kein Auge zumachen..."
+				"\\c[2]\\n[2]\\c[0]: I don't know about you two,",
+				"but I certainly can't close my",
+				"eyes right now..."
 			]
 		},
 		{
@@ -668,8 +668,7 @@
 			"original": "Soko: Stimmt schon, nach all der Aufregung...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Stimmt schon, nach all der ",
-				"Aufregung..."
+				"\\c[13]\\n[3]\\c[0]: Yeah, after all that mayhem..."
 			]
 		},
 		{
@@ -677,8 +676,7 @@
 			"original": "Kento: Lasst uns doch einfach etwas hinsetzen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Lasst uns doch einfach etwas ",
-				"hinsetzen."
+				"\\c[1]\\n[1]\\c[0]: Let's just sit down a bit."
 			]
 		},
 		{
@@ -686,9 +684,8 @@
 			"original": "Cibon: Mensch, was ist bloß los mit diesem Land? Genehmigung von der Regierung. Was für ein Schwachsinn.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Mensch, was ist bloß los mit ",
-				"diesem Land?\\. Genehmigung von der ",
-				"Regierung.\\. Was für ein Schwachsinn."
+				"\\c[2]\\n[2]\\c[0]: Man, what's with this nation?\\.",
+				"Government approval.\\. Such bullshit."
 			]
 		},
 		{
@@ -696,10 +693,10 @@
 			"original": "Soko: Ich hab schon öfters gehört, dass es einige Verwaltungsprobleme mit den neuen Teilen Brigantias gibt.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ich hab schon öfters gehört, ",
-				"dass es einige Verwaltungsprobleme ",
-				"mit den neuen Teilen Brigantias ",
-				"gibt."
+				"\\c[13]\\n[3]\\c[0]: I've heard many times that",
+				"there are some administrative",
+				"problems with the newer parts",
+				"of Brigantia."
 			]
 		},
 		{
@@ -707,10 +704,9 @@
 			"original": "Soko: Früher war der Sitzpunkt der Herrscher dieser Gebiete in Domarkor, was eindeutig näher ist als Buronia.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Früher war der Sitzpunkt der ",
-				"Herrscher dieser Gebiete in ",
-				"Domarkor,\\. was eindeutig näher ist ",
-				"als Buronia."
+				"\\c[13]\\n[3]\\c[0]: The rulers of these areas used",
+				"to be in Domarkor,\\. which is clearly",
+				"closer than Buronia."
 			]
 		},
 		{
@@ -718,10 +714,8 @@
 			"original": "Soko: Brigantia fehlt es hier einfach an einer Hochburg, von der die Gebiete aus verwaltet werden können.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Brigantia fehlt es hier ",
-				"einfach an einer Hochburg, von der ",
-				"die Gebiete aus verwaltet werden ",
-				"können."
+				"\\c[13]\\n[3]\\c[0]: Brigantia simply doesn't have",
+				"an outpost to manage these areas."
 			]
 		},
 		{
@@ -729,9 +723,8 @@
 			"original": "Cibon: Aber wieso lassen sie den Grenzsoldaten nicht einfach etwas Eigeninitiative?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Aber wieso lassen sie den ",
-				"Grenzsoldaten nicht einfach etwas ",
-				"Eigeninitiative?"
+				"\\c[2]\\n[2]\\c[0]: But why can't they just give",
+				"the guards some initiative?"
 			]
 		},
 		{
@@ -739,10 +732,10 @@
 			"original": "Soko: Ist das nicht klar? Eigeninitiative führt schnell zu Selbstjustiz und unkontrollierbaren Verhalten.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ist das nicht klar?\\.",
-				"Eigeninitiative führt schnell zu ",
-				"Selbstjustiz und unkontrollierbaren ",
-				"Verhalten."
+				"\\c[13]\\n[3]\\c[0]: Isn't that clear?\\. Personal",
+				"initiative quickly leads to",
+				"self-justification and",
+				"uncontrollable behavior."
 			]
 		},
 		{
@@ -750,9 +743,8 @@
 			"original": "Soko: So entstehen schneller unnötige Konfliktsituationen als man denkt.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: So entstehen schneller ",
-				"unnötige Konfliktsituationen als man ",
-				"denkt."
+				"\\c[13]\\n[3]\\c[0]: This creates unnecessary",
+				"conflicts faster than you'd think."
 			]
 		},
 		{
@@ -760,7 +752,7 @@
 			"original": "Cibon: ...Ach was auch immer...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...Ach was auch immer..."
+				"\\c[2]\\n[2]\\c[0]: Whatever..."
 			]
 		},
 		{
@@ -768,10 +760,10 @@
 			"original": "Kento: Es macht doch eh keinen Unterschied, Cibon. Mit den Wachleuten alleine werden wir nicht weit kommen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es macht doch eh keinen ",
-				"Unterschied, Cibon.\\. Mit den ",
-				"Wachleuten alleine werden wir nicht ",
-				"weit kommen. "
+				"\\c[1]\\n[1]\\c[0]: It makes no difference",
+				"anyways, Cibon.\\. We won't get",
+				"very far with the guards of",
+				"this town alone."
 			]
 		},
 		{
@@ -779,7 +771,7 @@
 			"original": "Kento: Wir brauchen die Verstärkung.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir brauchen die Verstärkung."
+				"\\c[1]\\n[1]\\c[0]: We need reinforcements."
 			]
 		},
 		{
@@ -787,9 +779,8 @@
 			"original": "Soko: ... Kento... und du bist sicher, dass du nicht über die Gruppe erfahren hast?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ... Kento...\\. und du bist ",
-				"sicher, dass du nicht über die ",
-				"Gruppe erfahren hast? "
+				"\\c[13]\\n[3]\\c[0]: Kento...\\. Are you're really sure",
+				"you didn't find out about the group?"
 			]
 		},
 		{
@@ -797,9 +788,8 @@
 			"original": "Soko: Ich meine, du bist ja anscheinend viel durch ihr Gebäude ge...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]:\\s[2] Ich meine, du bist ja ",
-				"anscheinend viel durch ihr Gebäude ",
-				"ge...\\.\\.\\^"
+				"\\c[13]\\n[3]\\c[0]: I mean, you apparently went",
+				"through their building a lot...\\.\\.\\^"
 			]
 		},
 		{
@@ -807,9 +797,9 @@
 			"original": "Kento: Ich sagte doch bereits, dass ich nichts weiß, oder?! Und nein, daran hat sich nichts geändert!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich sagte doch bereits, dass ",
-				"ich nichts weiß, oder?!\\. Und nein, ",
-				"daran hat sich nichts geändert!"
+				"\\c[1]\\n[1]\\c[0]: I already said that I don't",
+				"know anything else, okay?!\\. And no,",
+				"that isn't changing!"
 			]
 		},
 		{
@@ -817,7 +807,7 @@
 			"original": "Cibon: ...Kumpel?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...Kumpel?"
+				"\\c[2]\\n[2]\\c[0]: Kento?"
 			]
 		},
 		{
@@ -825,8 +815,8 @@
 			"original": "Kento: Ich geh schlafen. Weckt mich, wenn es Neuigkeiten gibt.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich geh schlafen.\\. Weckt mich, ",
-				"wenn es Neuigkeiten gibt."
+				"\\c[1]\\n[1]\\c[0]: I'm off to bed.\\. Wake me up",
+				"when something's happening."
 			]
 		},
 		{
@@ -834,7 +824,7 @@
 			"original": "Soko: Was ist los mit ihm?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Was ist los mit ihm?"
+				"\\c[13]\\n[3]\\c[0]: What happened to him?"
 			]
 		},
 		{
@@ -842,10 +832,9 @@
 			"original": "Kento: Soko, ich war eben bei den Grenzleuten. Wir werden heute Nacht einen Spähertrupp zu dem Stützpunkt leiten.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Soko, ich war eben bei den ",
-				"Grenzleuten.\\. Wir werden heute Nacht ",
-				"einen Spähertrupp zu dem Stützpunkt ",
-				"leiten."
+				"\\c[1]\\n[1]\\c[0]: Soko, I was just with the",
+				"guards.\\. We'll be leading a scout",
+				"team to the base tonight."
 			]
 		},
 		{
@@ -853,8 +842,7 @@
 			"original": "Soko: Ein Spähertrupp? Noch diese Nacht?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ein Spähertrupp?\\. Noch diese ",
-				"Nacht?"
+				"\\c[13]\\n[3]\\c[0]: A scout team?\\. Tonight?"
 			]
 		},
 		{
@@ -862,9 +850,9 @@
 			"original": "Kento: Ja. So können wir diese Truppe überwachen und haben mehr Zeugen für ihre Existenz.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja.\\. So können wir diese ",
-				"Truppe überwachen und haben mehr ",
-				"Zeugen für ihre Existenz."
+				"\\c[1]\\n[1]\\c[0]: Yes.\\. So we can monitor this",
+				"force and have more witnesses to",
+				"their existence."
 			]
 		},
 		{
@@ -872,10 +860,9 @@
 			"original": "Soko: Das ist gut. Ich denke, das ist so ziemlich das Sinnvollste, was wir mit unserer Zeit anfangen können.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Das ist gut.\\. Ich denke, das ",
-				"ist so ziemlich das Sinnvollste, ",
-				"was wir mit unserer Zeit anfangen ",
-				"können."
+				"\\c[13]\\n[3]\\c[0]: That's good.\\. I think that's",
+				"pretty much the most sensible",
+				"thing we can do with our time."
 			]
 		},
 		{
@@ -883,8 +870,8 @@
 			"original": "Soko: Herrn Uroto werden wir so aber nicht befreien können, nehme ich an.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Herrn Uroto werden wir so aber ",
-				"nicht befreien können, nehme ich an."
+				"\\c[13]\\n[3]\\c[0]: We won't be able to free Sir",
+				"Uroto, I guess."
 			]
 		},
 		{
@@ -892,7 +879,7 @@
 			"original": "Kento: Höchstwahrscheinlich nicht.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Höchstwahrscheinlich nicht. "
+				"\\c[1]\\n[1]\\c[0]: Most likely not."
 			]
 		},
 		{
@@ -900,10 +887,10 @@
 			"original": "Kento: Wir können an Herrn Urotos Situation im Moment einfach nichts ändern, mach dir keinen zu großen Kopf darum.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir können an Herrn Urotos ",
-				"Situation im Moment einfach nichts ",
-				"ändern, mach dir keinen zu großen ",
-				"Kopf darum."
+				"\\c[1]\\n[1]\\c[0]: We just can't change anything",
+				"about Sir Uroto's situation right",
+				"now, so don't worry too much",
+				"about it."
 			]
 		},
 		{
@@ -911,10 +898,9 @@
 			"original": "Soko: Ich kann nicht anders. Herrn Uroto zu beschützen war der Sinn unserer Mission - und wir haben versagt.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ich kann nicht anders.\\. Herrn ",
-				"Uroto zu beschützen war der Sinn ",
-				"unserer Mission - und wir haben ",
-				"versagt. "
+				"\\c[13]\\n[3]\\c[0]: I can't help it.\\. Protecting Sir",
+				"Uroto was the sole purpose of our",
+				"mission - and we failed at it."
 			]
 		},
 		{
@@ -922,9 +908,8 @@
 			"original": "Soko: Das schlechte Gewissen wird bleiben, bis er wieder befreit wurde...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Das schlechte Gewissen wird ",
-				"bleiben, bis er wieder befreit ",
-				"wurde..."
+				"\\c[13]\\n[3]\\c[0]: This guilty conscience will",
+				"remain until we free him..."
 			]
 		},
 		{
@@ -932,8 +917,8 @@
 			"original": "Kento: Ich finde, du verharrst dich zu sehr auf dieses Missionsziel.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich finde, du verharrst dich ",
-				"zu sehr auf dieses Missionsziel."
+				"\\c[1]\\n[1]\\c[0]: I think you got too attached",
+				"to the goal of this mission."
 			]
 		},
 		{
@@ -941,10 +926,10 @@
 			"original": "Kento: Jeder Soldat hat im Grunde zu jeder Zeit die Aufgabe, sein Land zu beschützen, und wir tun nichts anderes im Moment.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Jeder Soldat hat im Grunde zu ",
-				"jeder Zeit die Aufgabe, sein Land zu ",
-				"beschützen, und wir tun nichts ",
-				"anderes im Moment."
+				"\\c[1]\\n[1]\\c[0]: Every soldier basically has",
+				"the job of protecting their country",
+				"at all times, and we're not doing",
+				"anything else at the moment."
 			]
 		},
 		{
@@ -952,10 +937,10 @@
 			"original": "Soko: Nein Kento... ich mag diese Denkweise nicht. Du magst Recht haben, dass jeder Soldat sein Land beschützen sollte.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Nein Kento...\\. ich mag diese ",
-				"Denkweise nicht. \\.Du magst Recht ",
-				"haben, dass jeder Soldat sein Land ",
-				"beschützen sollte."
+				"\\c[13]\\n[3]\\c[0]: No Kento...\\. I don't like this",
+				"way of thinking.\\. You may be right",
+				"that every soldier should protect",
+				"their country."
 			]
 		},
 		{
@@ -963,9 +948,9 @@
 			"original": "Soko: Aber nicht jedem Soldaten steht das Recht zu, aus eigener Hand zu entscheiden, wie er dies tut.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Aber nicht jedem Soldaten ",
-				"steht das Recht zu, aus eigener Hand ",
-				"zu entscheiden, wie er dies tut."
+				"\\c[13]\\n[3]\\c[0]: But not every soldier has the",
+				"right to decide for themselves how",
+				"they go about doing this."
 			]
 		},
 		{
@@ -973,8 +958,9 @@
 			"original": "Kento: Hm... Siehst du das nicht vielleicht etwas zu eng?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hm... Siehst du das nicht ",
-				"vielleicht etwas zu eng?"
+				"\\c[1]\\n[1]\\c[0]: Hm... Maybe you're following",
+				"these rules and regulations a bit",
+				"too closely?"
 			]
 		},
 		{
@@ -982,8 +968,7 @@
 			"original": "Soko: Nein, das tu ich nicht!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Nein, das tu ich ",
-				"nicht! "
+				"\\c[13]\\n[3]\\c[0]: No, I'm not!"
 			]
 		},
 		{
@@ -991,10 +976,10 @@
 			"original": "Soko: Weißt du überhaupt, wieviele Bürgerkriege und Massaker in diesem Land geschehen sind, nur weil jemand diese Denkweise hatte?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Weißt du überhaupt, wieviele ",
-				"Bürgerkriege und Massaker in diesem ",
-				"Land geschehen sind, nur weil jemand ",
-				"diese Denkweise hatte?"
+				"\\c[13]\\n[3]\\c[0]: Do you even know how many civil",
+				"wars and massacres happened in this",
+				"nation just because someone had",
+				"this way of thinking?"
 			]
 		},
 		{
@@ -1002,9 +987,9 @@
 			"original": "Kento: Das sind die extremen Fälle. Denkst du unsere Spionage würde zu einem Bürgerkrieg führen?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Das sind die extremen Fälle.\\.",
-				"Denkst du unsere Spionage würde zu ",
-				"einem Bürgerkrieg führen?"
+				"\\c[1]\\n[1]\\c[0]: Those are the extreme cases.\\.",
+				"Do you think us scouting them out",
+				"will lead to another war?"
 			]
 		},
 		{
@@ -1012,9 +997,9 @@
 			"original": "Soko: Du verstehst es nicht! In einem Fall klappt es, im anderen hast du eine Katastrophe!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Du verstehst es nicht!\\. In ",
-				"einem Fall klappt es, im anderen ",
-				"hast du eine Katastrophe! "
+				"\\c[13]\\n[3]\\c[0]: You don't understand anything!\\.",
+				"In one case, it works fine, but in",
+				"the other, you have a disaster!"
 			]
 		},
 		{
@@ -1022,9 +1007,9 @@
 			"original": "Soko: Es hängt ganz von der Person ab, die entscheidet. Man nennt das Selbstjustiz.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Es hängt ganz von der Person ",
-				"ab, die entscheidet. Man nennt das ",
-				"Selbstjustiz."
+				"\\c[13]\\n[3]\\c[0]: It depends on the person who",
+				"makes the decision. This type of",
+				"thing is called vigilante justice."
 			]
 		},
 		{
@@ -1032,7 +1017,7 @@
 			"original": "Kento: Du übertreibst es...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Du übertreibst es... "
+				"\\c[1]\\n[1]\\c[0]: You're overexaggerating..."
 			]
 		},
 		{
@@ -1040,10 +1025,9 @@
 			"original": "Kento: Es gibt Entscheidungen, die wirklich offensichtlich genug sind, um auf so eine Bestätigung verzichten zu können.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es gibt Entscheidungen, die ",
-				"wirklich offensichtlich genug sind, ",
-				"um auf so eine Bestätigung ",
-				"verzichten zu können."
+				"\\c[1]\\n[1]\\c[0]: There are decisions that are",
+				"obvious enough to be able to do",
+				"without approval."
 			]
 		},
 		{
@@ -1051,9 +1035,8 @@
 			"original": "Soko: Das meinst du! Welche Entscheidung ist denn nun offensichtlich, welche nicht?!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Das meinst du!\\. Welche ",
-				"Entscheidung ist denn nun ",
-				"offensichtlich, welche nicht?! "
+				"\\c[13]\\n[3]\\c[0]: What do you mean?!\\. Which",
+				"decision is obvious and which isn't?!"
 			]
 		},
 		{
@@ -1061,9 +1044,8 @@
 			"original": "Soko: Was du als offensichtlich ansiehst, mag vielleicht in etwa zutreffen!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Was du als offensichtlich ",
-				"ansiehst, mag vielleicht in etwa ",
-				"zutreffen!"
+				"\\c[13]\\n[3]\\c[0]: What you see as obvious may be",
+				"roughly true!"
 			]
 		},
 		{
@@ -1071,9 +1053,8 @@
 			"original": "Soko: Aber was ist mit den Entscheidungen, die dieser Rotschopf aus dem Gefängnis getroffen hat?!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Aber was ist mit den ",
-				"Entscheidungen, die dieser Rotschopf ",
-				"aus dem Gefängnis getroffen hat?! "
+				"\\c[13]\\n[3]\\c[0]: But what about those decisions",
+				"made by that redhead from prison?!"
 			]
 		},
 		{
@@ -1081,9 +1062,9 @@
 			"original": "Soko: War die \"offensichtlich\" korrekt!? Wer weiß? Vielleicht hat er das sogar geglaubt!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: War die \"offensichtlich\" ",
-				"korrekt!?\\. Wer weiß?\\. Vielleicht hat ",
-				"er das sogar geglaubt!"
+				"\\c[13]\\n[3]\\c[0]: Was it \"obviously\" correct?!\\.",
+				"Who knows?\\. Maybe he even believed",
+				"that!"
 			]
 		},
 		{
@@ -1091,8 +1072,8 @@
 			"original": "Kento: Nein... ich glaube eher, er hat aus reinem Egoismus gehandelt.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Nein... ich glaube eher, er ",
-				"hat aus reinem Egoismus gehandelt."
+				"\\c[1]\\n[1]\\c[0]: No... I think he acted out of",
+				"selfishness."
 			]
 		},
 		{
@@ -1100,10 +1081,10 @@
 			"original": "Soko: Soso! Und wieso wollen wir die Gruppe ausspionieren!? Wollen wir damit nicht unsere Schuldgefühle lindern? Ist das nicht egoistisch?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Soso!\\. Und wieso wollen wir die ",
-				"Gruppe ausspionieren!?\\. Wollen wir ",
-				"damit nicht unsere Schuldgefühle ",
-				"lindern?\\. Ist das nicht egoistisch?"
+				"\\c[13]\\n[3]\\c[0]: Oh!\\. And why do we want to scout",
+				"out this group?!\\. Isn't it because we",
+				"want to get rid of our guilt?\\. But",
+				"isn't that selfish in and of itself?"
 			]
 		},
 		{
@@ -1111,7 +1092,7 @@
 			"original": "Kento: Also...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Also..."
+				"\\c[1]\\n[1]\\c[0]: So..."
 			]
 		},
 		{
@@ -1119,9 +1100,8 @@
 			"original": "Kento: Worauf willst du überhaupt hinaus? Ich dachte du wärst mit der Aktion einverstanden.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Worauf willst du überhaupt ",
-				"hinaus?\\. Ich dachte du wärst mit der ",
-				"Aktion einverstanden."
+				"\\c[1]\\n[1]\\c[0]: What are you getting at?\\.",
+				"I thought you agreed to this."
 			]
 		},
 		{
@@ -1129,8 +1109,8 @@
 			"original": "Soko: Ähm... das bin ich auch... Nein, es geht mir nur darum...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ähm...\\. das bin ich auch... \\.",
-				"Nein, es geht mir nur darum... \\."
+				"\\c[13]\\n[3]\\c[0]: Um...\\. I am...\\. No, it's just",
+				"about..."
 			]
 		},
 		{
@@ -1138,9 +1118,9 @@
 			"original": "Soko: Du, und vor allem Cibon, ihr solltet mehr Respekt vor der Entscheidung von oben haben.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Du, und vor allem Cibon, ihr ",
-				"solltet mehr Respekt vor der ",
-				"Entscheidung von oben haben."
+				"\\c[13]\\n[3]\\c[0]: You, and especially Cibon, you",
+				"two should have more respect for the",
+				"higher ups' decision."
 			]
 		},
 		{
@@ -1148,10 +1128,9 @@
 			"original": "Kento: ... Ich werde drüber nachdenken... Du solltest heute möglichst früh schlafen gehen, die heutige Nacht wird hart.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ... Ich werde drüber ",
-				"nachdenken...\\. Du solltest heute ",
-				"möglichst früh schlafen gehen, die ",
-				"heutige Nacht wird hart."
+				"\\c[1]\\n[1]\\c[0]: I'll think about it...\\. You",
+				"should go to bed as early as possible",
+				"today, tonight will be a tough one."
 			]
 		},
 		{
@@ -1159,8 +1138,8 @@
 			"original": "Soko: Geht in Ordnung. Und bitte denkt wirklich darüber nach.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Geht in Ordnung.\\. Und bitte ",
-				"denkt wirklich darüber nach."
+				"\\c[13]\\n[3]\\c[0]: Alright.\\. And please, really do",
+				"think about it."
 			]
 		},
 		{
@@ -1168,7 +1147,7 @@
 			"original": "Kento: Ja, werde ich.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja, werde ich."
+				"\\c[1]\\n[1]\\c[0]: Yeah, I will."
 			]
 		},
 		{
@@ -1176,7 +1155,7 @@
 			"original": "Soko: Bis du endlich wach?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Bis du endlich wach? "
+				"\\c[13]\\n[3]\\c[0]: Are you finally awake?"
 			]
 		},
 		{
@@ -1184,7 +1163,7 @@
 			"original": "Kento: Ja, wir können los...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja, wir können los..."
+				"\\c[1]\\n[1]\\c[0]: Yeah, we can go..."
 			]
 		},
 		{
@@ -1192,9 +1171,9 @@
 			"original": "Soko: Draußen ist schon wieder so ein miserables Wetter. Wird sicher keine schöne Tour werden...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Draußen ist schon wieder so ",
-				"ein miserables Wetter.\\. Wird sicher ",
-				"keine schöne Tour werden..."
+				"\\c[13]\\n[3]\\c[0]: The weather outside is",
+				"miserable yet again.\\. It won't",
+				"be a nice trip..."
 			]
 		},
 		{
@@ -1203,9 +1182,9 @@
 			"original": "Soko: Hm... Ist schon erstaunlich, was bei diesem Auftrag schon alles passiert ist.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Hm... Ist schon erstaunlich, ",
-				"was bei diesem Auftrag schon alles ",
-				"passiert ist."
+				"\\c[13]\\n[3]\\c[0]: Hm... It's amazing what's",
+				"already happened with this",
+				"assignment."
 			]
 		},
 		{
@@ -1214,10 +1193,10 @@
 			"original": "Soko: Nicht nur der Hinterhalt im Silvanwald, auch diese Höhlenaktion im Torasgebirge... und das was im Corine Plateau mit dir passiert ist.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Nicht nur der Hinterhalt im ",
-				"Silvanwald, auch diese Höhlenaktion ",
-				"im Torasgebirge...\\. und das was im ",
-				"Corine Plateau mit dir passiert ist."
+				"\\c[13]\\n[3]\\c[0]: Not only with the ambush in the",
+				"Silvan Forest, but also with that",
+				"cave in Mount Toras...\\. and what they",
+				"did to you in the Corine Plateau."
 			]
 		},
 		{
@@ -1226,9 +1205,8 @@
 			"original": "Soko: Und wir haben immer noch keinen Schimmer, was es damit auf sich hat, oder?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Und wir haben immer noch ",
-				"keinen Schimmer, was es damit auf ",
-				"sich hat, oder? "
+				"\\c[13]\\n[3]\\c[0]: And we still don't have any",
+				"idea what's going on, do we?"
 			]
 		},
 		{
@@ -1237,9 +1215,9 @@
 			"original": "Kento: Nein... nicht wirklich. Wir müssen abwarten... Vielleicht zeigen sich diese Personen ja wieder.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Nein...\\. nicht wirklich.\\. Wir ",
-				"müssen abwarten...\\. Vielleicht zeigen ",
-				"sich diese Personen ja wieder."
+				"\\c[1]\\n[1]\\c[0]: No...\\. Not really.\\. We have to",
+				"wait...\\. Maybe these people will",
+				"show up again."
 			]
 		},
 		{
@@ -1248,10 +1226,9 @@
 			"original": "Soko: Übrigens... Hast du inzwischen irgendeine Wirkung an dir festgestellt, die aus diesem Zauber resultiert haben könnte?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Übrigens...\\. Hast du inzwischen",
-				"irgendeine Wirkung an dir ",
-				"festgestellt, die aus diesem Zauber ",
-				"resultiert haben könnte? "
+				"\\c[13]\\n[3]\\c[0]: By the way...\\. Have you noticed",
+				"any effect on yourself that could've",
+				"resulted from that spell?"
 			]
 		},
 		{
@@ -1260,8 +1237,8 @@
 			"original": "Kento: Wirkung...nein, ich fühle mich normal, so wie immer...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wirkung...\\.nein,\\. ich fühle ",
-				"mich normal, so wie immer..."
+				"\\c[1]\\n[1]\\c[0]: Effect...\\. No,\\. I feel normal,",
+				"as always..."
 			]
 		},
 		{
@@ -1270,7 +1247,7 @@
 			"original": "Soko: Sehr merkwürdig....",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Sehr merkwürdig...."
+				"\\c[13]\\n[3]\\c[0]: Strange..."
 			]
 		},
 		{
@@ -1279,8 +1256,8 @@
 			"original": "Soko: Ich hoffe die Hilfe für Herrn Uroto kommt nicht zu spät...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ich hoffe die Hilfe für Herrn ",
-				"Uroto kommt nicht zu spät..."
+				"\\c[13]\\n[3]\\c[0]: I hope that it isn't too late",
+				"to rescue Sir Uroto..."
 			]
 		},
 		{
@@ -1677,8 +1654,8 @@
 			"original": "Soko: Ah... Guten Morgen, Kento... oder eher \"Guten Mittag\"...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ah...\\. Guten Morgen, Kento...\\.",
-				"oder eher \"Guten Mittag\"..."
+				"\\c[13]\\n[3]\\c[0]: Ah...\\. Good morning, Kento...\\.",
+				"or rather,\\. \"good afternoon\"..."
 			]
 		},
 		{
@@ -1686,8 +1663,8 @@
 			"original": "Kento: Morgen. Gibt es irgendwelche Neuigkeiten?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Morgen. \\.",
-				"Gibt es irgendwelche Neuigkeiten?"
+				"\\c[1]\\n[1]\\c[0]: Morning.\\. Did anything new",
+				"happen?"
 			]
 		},
 		{
@@ -1695,9 +1672,10 @@
 			"original": "Soko: Nicht wirklich. Die Briefe wurden versendet. Wir warten jetzt auf Antwort und Verstärkung.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Nicht wirklich.\\. Die Briefe ",
-				"wurden versendet.\\. Wir warten jetzt ",
-				"auf Antwort und Verstärkung."
+				"\\c[13]\\n[3]\\c[0]: Not really.\\. The letters have",
+				"been sent.\\. We're now waiting for an",
+				"answer and for reinforcements to",
+				"arrive."
 			]
 		},
 		{
@@ -1705,8 +1683,8 @@
 			"original": "Soko: Von der Truppe im Wald keine Spur, die lassen sich nicht blicken.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Von der Truppe im Wald keine ",
-				"Spur,\\. die lassen sich nicht blicken."
+				"\\c[13]\\n[3]\\c[0]: No trace of the soldiers in the",
+				"forest,\\. they can't be found."
 			]
 		},
 		{
@@ -1714,10 +1692,10 @@
 			"original": "Kento: ...Anscheinend haben sie noch nicht vor direkt anzugreifen. Ansonsten wäre jegliches Zögern von Nachteil...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...Anscheinend haben sie noch ",
-				"nicht vor direkt anzugreifen. \\.",
-				"Ansonsten wäre jegliches Zögern von ",
-				"Nachteil..."
+				"\\c[1]\\n[1]\\c[0]: Apparently, the guards don't",
+				"plan to attack directly.\\. In any case,",
+				"any hesitation would be a",
+				"disadvantage..."
 			]
 		},
 		{
@@ -1725,10 +1703,10 @@
 			"original": "Soko: Was meinst du, was diese Truppe erreichen will? Glaubst du sie arbeitet mit dem farenischen Adelsbund zusammen?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Was meinst du, was diese ",
-				"Truppe erreichen will?\\. Glaubst du ",
-				"sie arbeitet mit dem farenischen ",
-				"Adelsbund zusammen?"
+				"\\c[13]\\n[3]\\c[0]: What do you think this group",
+				"wants to achieve?\\. Do you think they",
+				"might be working with the Farenian",
+				"Aristocracy?"
 			]
 		},
 		{
@@ -1736,8 +1714,8 @@
 			"original": "Kento: Keine Ahnung, möglich ist es, die Frage ist nur wieso.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Keine Ahnung,\\. möglich ist es,\\. ",
-				"die Frage ist nur wieso."
+				"\\c[1]\\n[1]\\c[0]: No idea,\\. it's possible,\\.",
+				"but the question would be why."
 			]
 		},
 		{
@@ -1745,10 +1723,10 @@
 			"original": "Soko: Wahrscheinlich hat Korzojeno tatsächlich vor noch mal die Waffen gegen Brigantia zu erheben und formt deshalb ein Militär im Untergrund.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wahrscheinlich hat Korzojeno ",
-				"tatsächlich vor noch mal die Waffen ",
-				"gegen Brigantia zu erheben und formt ",
-				"deshalb ein Militär im Untergrund."
+				"\\c[13]\\n[3]\\c[0]: Korzojeno probably wants to",
+				"raise arms against Brigantia again",
+				"and is forming their military",
+				"underground because of that."
 			]
 		},
 		{
@@ -1756,10 +1734,9 @@
 			"original": "Soko: ...Bitte nicht schon wieder ein Krieg... Wieso müssen ausgerechnet wir in diese Sache rein geraten?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...Bitte nicht schon wieder ",
-				"ein Krieg...\\. Wieso müssen ",
-				"ausgerechnet wir in diese Sache rein ",
-				"geraten?"
+				"\\c[13]\\n[3]\\c[0]: Please don't start another war",
+				"again...\\. Why did we of all people",
+				"have to get involved in this matter?"
 			]
 		},
 		{
@@ -1767,10 +1744,9 @@
 			"original": "Kento: Es gibt keinen Grund jetzt gleich in Panik zu geraten. Wir müssen abwarten, wie sich die Dinge entwickeln.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es gibt keinen Grund jetzt ",
-				"gleich in Panik zu geraten.\\. Wir ",
-				"müssen abwarten, wie sich die ",
-				"Dinge entwickeln."
+				"\\c[1]\\n[1]\\c[0]: There's no need to panic right",
+				"now.\\. We'll just have to wait and see",
+				"how things develop."
 			]
 		},
 		{
@@ -1778,10 +1754,9 @@
 			"original": "Kento: Außerdem... diese Truppe ist zwar groß, aber nicht groß genug. Für ganz Brigantia sollte sie keine ernsthafte Bedrohung darstellen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Außerdem...\\. diese Truppe ist ",
-				"zwar groß, aber nicht groß genug. \\.",
-				"Für ganz Brigantia sollte sie keine ",
-				"ernsthafte Bedrohung darstellen."
+				"\\c[1]\\n[1]\\c[0]: Besides...\\. This group is big,",
+				"but not big enough. It shouldn't pose",
+				"a serious threat to all of Brigantia."
 			]
 		},
 		{
@@ -1789,7 +1764,7 @@
 			"original": "Soko: Ich hoffe du hast Recht.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ich hoffe du hast Recht."
+				"\\c[13]\\n[3]\\c[0]: I hope you're right about that."
 			]
 		},
 		{
@@ -1797,7 +1772,7 @@
 			"original": "Kento: Hm... wo ist Cibon?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hm...\\. wo ist Cibon?"
+				"\\c[1]\\n[1]\\c[0]: Hm...\\. Where's Cibon?"
 			]
 		},
 		{
@@ -1805,10 +1780,10 @@
 			"original": "Soko: Er vertreibt seine Zeit irgendwo in der Stadt. Er ist zu ungeduldig, als dass er sich einfach irgendwo ruhig hinsetzen könnte.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Er vertreibt seine Zeit ",
-				"irgendwo in der Stadt.\\. Er ist zu ",
-				"ungeduldig, als dass er sich einfach ",
-				"irgendwo ruhig hinsetzen könnte."
+				"\\c[13]\\n[3]\\c[0]: He's spending his time",
+				"somewhere in the city.\\. He's",
+				"too impatient to just sit",
+				"quietly somewhere."
 			]
 		},
 		{
@@ -1816,8 +1791,8 @@
 			"original": "Kento: Typisch... Na ja, ich denke ich werd ihn dann mal aufsuchen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Typisch...\\. Na ja, ich denke ",
-				"ich werd ihn dann mal aufsuchen."
+				"\\c[1]\\n[1]\\c[0]: Typical of him...\\. Well,",
+				"I think I'll go look for him then."
 			]
 		}
 	]

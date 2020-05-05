@@ -85,9 +85,9 @@
 			"original": "Herr Uroto: Ich wusste nicht genau wo ich war oder wieso man uns gefangen genommen hat...",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Ich wusste nicht genau ",
-				"wo ich war oder wieso man uns ",
-				"gefangen genommen hat..."
+				"\\c[10]Sir Uroto\\c[0]: I didn't know exactly",
+				"where I was or why we were",
+				"captured..."
 			]
 		},
 		{
@@ -95,10 +95,9 @@
 			"original": "Herr Uroto: Aber als ich in meiner Zelle saß, habe ich einige Unterhaltungen der Wachleute mitlauschen können...",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Aber als ich in meiner ",
-				"Zelle saß,\\. habe ich einige ",
-				"Unterhaltungen der Wachleute ",
-				"mitlauschen können..."
+				"\\c[10]Sir Uroto\\c[0]: But when I was sitting in",
+				"my cell,\\. I could hear some of the",
+				"guards' conversations..."
 			]
 		},
 		{
@@ -106,17 +105,19 @@
 			"original": "Untere Wache: Hey, kommt mal kurz rüber.",
 			"lines":
 			[
-				"\\c[10]Untere Wache\\c[0]: Hey, kommt mal kurz rüber."
-			]
+				"\\c[10]Lower Guard\\c[0]: Hm... This prisoner is still here,",
+				"but what happened to the other three?"
+			],
+			"__comment__": "Revised to be way less confusing, since the original line coupled with what's on screen makes it look like they're trying to get Sir Uroto's attention which would defeat the whole purpose of avoiding making it look staged."
 		},
 		{
 			"path": [17,4,44,3],
 			"original": "Linke Wache: Sag mal... was haben sie nun mit den anderen Gefangenen gemacht? Ich seh' sie nicht mehr in ihren Zellen.",
 			"lines":
 			[
-				"\\c[10]Linke Wache\\c[0]: Sag mal...\\. was haben sie nun mit ",
-				"den anderen Gefangenen gemacht?\\. Ich seh' sie nicht ",
-				"mehr in ihren Zellen."
+				"\\c[10]Left Guard\\c[0]: Tell me...\\. What have they done with",
+				"the others?\\. I can't seem to find them in their",
+				"cells."
 			]
 		},
 		{
@@ -124,9 +125,8 @@
 			"original": "Rechte Wache: So wie ich gehört habe, haben sich die 3 bereit erklärt, für uns jenseits der Grenze aktiv zu sein.",
 			"lines":
 			[
-				"\\c[10]Rechte Wache\\c[0]: So wie ich gehört habe, haben sich ",
-				"die 3 bereit erklärt, für uns jenseits der Grenze ",
-				"aktiv zu sein."
+				"\\c[10]Right Guard\\c[0]: From what I heard, the three agreed",
+				"to be active for us across the border."
 			]
 		},
 		{
@@ -134,8 +134,8 @@
 			"original": "LinkeWache: Ah... also 3 weitere Spione auf unserer Seite.",
 			"lines":
 			[
-				"\\c[10]LinkeWache\\c[0]: Ah...\\. also 3 weitere Spione auf ",
-				"unserer Seite."
+				"\\c[10]Left Guard\\c[0]: Ah...\\. So three more spies on our",
+				"side."
 			]
 		},
 		{
@@ -143,8 +143,8 @@
 			"original": "Rechte Wache: Ja, sie sollen die ganzen Gerüchte über uns aus der Welt schaffen.",
 			"lines":
 			[
-				"\\c[10]Rechte Wache\\c[0]: Ja, sie sollen die ganzen Gerüchte ",
-				"über uns aus der Welt schaffen."
+				"\\c[10]Right Guard\\c[0]: Yep, they're supposed to get rid of",
+				"all the rumors about us."
 			]
 		},
 		{
@@ -152,7 +152,7 @@
 			"original": "Linke Wache: Wie wollen sie das den schaffen.",
 			"lines":
 			[
-				"\\c[10]Linke Wache\\c[0]: Wie wollen sie das den schaffen."
+				"\\c[10]Left Guard\\c[0]: How are they going to do that?"
 			]
 		},
 		{
@@ -160,8 +160,8 @@
 			"original": "Rechte Wache: Der Plan ist eigentlich ganz interessant...",
 			"lines":
 			[
-				"\\c[10]Rechte Wache\\c[0]: Der Plan ist eigentlich ganz ",
-				"interessant..."
+				"\\c[10]Right Guard\\c[0]: The plan is actually quite",
+				"interesting..."
 			]
 		},
 		{
@@ -169,9 +169,9 @@
 			"original": "Herr Uroto: Ich saß in meiner Zelle, als plötzlich irgendwas außerhalb geschah.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Ich saß in meiner Zelle, ",
-				"als plötzlich irgendwas außerhalb ",
-				"geschah. "
+				"\\c[10]Sir Uroto\\c[0]: I was sitting in my cell",
+				"when something suddenly happened",
+				"outside."
 			]
 		},
 		{
@@ -179,9 +179,9 @@
 			"original": "Herr Uroto: Dann flog irgendetwas ins Gefängnis. Es wurde Hell und ich verlor mein Bewusstsein.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Dann flog irgendetwas ",
-				"ins Gefängnis.\\. Es wurde Hell und ich ",
-				"verlor mein Bewusstsein."
+				"\\c[10]Sir Uroto\\c[0]: Then, something was thrown",
+				"near my cell.\\. It got very bright and",
+				"I lost consciousness."
 			]
 		},
 		{
@@ -189,9 +189,8 @@
 			"original": "Herr Uroto: Als ich wieder aufwachte, befand ich mich in einer Hütte im Wald.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Als ich wieder ",
-				"aufwachte, befand ich mich in einer ",
-				"Hütte im Wald."
+				"\\c[10]Sir Uroto\\c[0]: The next thing I knew,\\.",
+				"I was in a hut in the forest."
 			]
 		},
 		{
