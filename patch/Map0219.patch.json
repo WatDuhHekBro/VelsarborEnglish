@@ -1,0 +1,22 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [50,1,34,1],
+			"original": "Cibon: Der Wald ist zu ende!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: We're at the end of the",
+				"forest!"
+			]
+		},
+		{
+			"path": [50,1,36,1],
+			"original": "Kento: Sofort zur Grenze!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: To the border!\\. Immediately!"
+			]
+		}
+	]
+}

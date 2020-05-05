@@ -1,4 +1,5 @@
 {
+	"__comment__": "I'm pretty sure this shop is a reference to Tara's Adventure, much like how it was also referenced in CrossCode as a shop. There seems to be a portrait which is similar to the protagonist there and this person has a dedicated sprite. I'll play it safe and go with 38 as the line ending for him.",
 	"dialogue":
 	[
 		{
@@ -6,8 +7,8 @@
 			"original": "Blonder Typ: Nana, gehandelt wird hier über der Theke.",
 			"lines":
 			[
-				"\\c[10]Blonder Typ\\c[0]: Nana, gehandelt wird ",
-				"hier über der Theke. "
+				"\\c[10]Blond Guy\\c[0]: Hey, we're only trading",
+				"over the counter here."
 			]
 		},
 		{
@@ -15,8 +16,8 @@
 			"original": "Blonder Typ: Oh, ein Kunde! Ha! Wie kann ich behilflich sein?",
 			"lines":
 			[
-				"\\c[10]Blonder Typ\\c[0]: Oh, ein Kunde! Ha! Wie ",
-				"kann ich behilflich sein?"
+				"\\c[10]Blond Guy\\c[0]: Oh, a customer! Ha! How",
+				"can I help you?"
 			]
 		},
 		{
@@ -24,8 +25,8 @@
 			"original": "Kento: Was sind das denn bitte für Preise?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Was sind das denn bitte für ",
-				"Preise?"
+				"\\c[1]\\n[1]\\c[0]: What are the prices like",
+				"around here?"
 			]
 		},
 		{
@@ -33,8 +34,8 @@
 			"original": "Blonder Typ: Das ist meine Erfolgsstrategie!",
 			"lines":
 			[
-				"\\c[10]Blonder Typ\\c[0]: Das ist meine ",
-				"Erfolgsstrategie!"
+				"\\c[10]Blond Guy\\c[0]: Now that there is my",
+				"strategy for success!"
 			]
 		},
 		{
@@ -42,9 +43,9 @@
 			"original": "Blonder Typ: Wenn ich die Waren zu einem höheren Preis verkaufe, wird der Erlös automatisch steigen!",
 			"lines":
 			[
-				"\\c[10]Blonder Typ\\c[0]: Wenn ich die Waren zu ",
-				"einem höheren Preis verkaufe, wird ",
-				"der Erlös automatisch steigen!"
+				"\\c[10]Blond Guy\\c[0]: If I sell my goods at",
+				"a higher price, my profits will",
+				"automatically increase!"
 			]
 		},
 		{
@@ -52,10 +53,9 @@
 			"original": "Blonder Typ: Selbst wenn ich weniger verkaufen sollte, verdiene ich im Endeffekt mehr als andere Mischwaren-Läden.",
 			"lines":
 			[
-				"\\c[10]Blonder Typ\\c[0]: Selbst wenn ich weniger ",
-				"verkaufen sollte, verdiene ich im ",
-				"Endeffekt mehr als andere ",
-				"Mischwaren-Läden."
+				"\\c[10]Blond Guy\\c[0]: Even if I sell less, I'll",
+				"still ultimately earn more than",
+				"any other store out there!"
 			]
 		},
 		{
@@ -63,8 +63,8 @@
 			"original": "Blonder Typ: Ziemlich gerissen, nicht wahr?",
 			"lines":
 			[
-				"\\c[10]Blonder Typ\\c[0]: Ziemlich gerissen, ",
-				"nicht wahr?"
+				"\\c[10]Blond Guy\\c[0]: Pretty smart of me,\\.",
+				"isn't it?"
 			]
 		},
 		{
@@ -72,8 +72,8 @@
 			"original": "Kento: ... Ich bin mir nicht so sicher, ob das funktioniert.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ... Ich bin mir nicht so ",
-				"sicher, ob das funktioniert."
+				"\\c[1]\\n[1]\\c[0]: I'm not sure that's how it",
+				"works..."
 			]
 		}
 	]

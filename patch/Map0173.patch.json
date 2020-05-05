@@ -7,7 +7,7 @@
 			"original": "Frau: Guten Tag, wie kann ich Ihnen helfen?",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Guten Tag, wie kann ich Ihnen helfen?"
+				"\\c[10]Woman\\c[0]: Hello, how may I help you?"
 			]
 		},
 		{
@@ -16,7 +16,7 @@
 			"original": "Frau: Ah, okay, lassen Sie mich sehen...",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Ah, okay, lassen Sie mich sehen..."
+				"\\c[10]Woman\\c[0]: Ah, okay, let me see..."
 			]
 		},
 		{
@@ -25,7 +25,7 @@
 			"original": "Frau: Als nächstes...",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Als nächstes..."
+				"\\c[10]Woman\\c[0]: Moving on..."
 			]
 		},
 		{
@@ -34,8 +34,8 @@
 			"original": "Frau: Ah, ein Paket nach [Post-Ziel]. Dafür verlangen wir eine Gebühr von \\v[1838] Fejar.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Ah, ein Paket nach \\n[21]. ",
-				"Dafür verlangen wir eine Gebühr von \\v[1838] \\n[19]."
+				"\\c[10]Woman\\c[0]: Okay, a package from \\n[21].",
+				"For this, we charge a fee of \\v[1838] \\n[19]."
 			]
 		},
 		{
@@ -44,7 +44,7 @@
 			"original": "Frau: Gehen \\v[1838] Fejar in Ordnung?",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Gehen \\v[1838] \\n[19] in Ordnung?\\$"
+				"\\c[10]Woman\\c[0]: Is \\v[1838] \\n[19] alright?\\$"
 			]
 		},
 		{
@@ -53,8 +53,8 @@
 			"original": "Frau: In Ordnung, das Paket wird sobald wie möglich abgeschickt.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: In Ordnung, das Paket wird sobald wie ",
-				"möglich abgeschickt."
+				"\\c[10]Woman\\c[0]: Alright, the package will be sent as",
+				"soon as possible."
 			]
 		},
 		{
@@ -63,8 +63,8 @@
 			"original": "Frau: Hm, Sie scheinen noch keine Stempelkarte zu haben, oder?",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Hm, Sie scheinen noch keine Stempelkarte ",
-				"zu haben, oder?"
+				"\\c[10]Woman\\c[0]: Hm, you don't seem to have a stamp card",
+				"yet, do you?"
 			]
 		},
 		{
@@ -73,7 +73,7 @@
 			"original": "Kento: Eine Stempelkarte?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Eine Stempelkarte?"
+				"\\c[1]\\n[1]\\c[0]: A stamp card?"
 			]
 		},
 		{
@@ -82,9 +82,8 @@
 			"original": "Frau: Ja, Sie bekommen für jedes Paket, das Sie von einer Post-Versand-Stelle  abschicken, einen Stempel.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Ja, Sie bekommen für jedes Paket, das Sie ",
-				"von einer Post-Versand-Stelle  abschicken, einen ",
-				"Stempel. "
+				"\\c[10]Woman\\c[0]: Yes, you get a stamp for every package",
+				"you send something from a post office."
 			]
 		},
 		{
@@ -93,8 +92,8 @@
 			"original": "Frau: Wenn Sie dann 20 Stempel gesammelt haben, bekommen Sie ein extra Geschenk von uns.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Wenn Sie dann 20 Stempel gesammelt ",
-				"haben, bekommen Sie ein extra Geschenk von uns."
+				"\\c[10]Woman\\c[0]: When you have collected 20 stamps,",
+				"you will receive an extra gift from us."
 			]
 		},
 		{
@@ -103,7 +102,7 @@
 			"original": "Frau: Hier, ich gebe Ihnen eine...",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Hier, ich gebe Ihnen eine..."
+				"\\c[10]Woman\\c[0]: Here, I'll give you one..."
 			]
 		},
 		{
@@ -112,7 +111,7 @@
 			"original": "Frau: Und hier ist Ihr Stempel.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Und hier ist Ihr Stempel."
+				"\\c[10]Woman\\c[0]: And here is your stamp."
 			]
 		},
 		{
@@ -121,8 +120,8 @@
 			"original": "Frau: Sie bekommen noch einen neuen Stempel auf ihre Karte. Dürfte ich Sie bitte kurz haben?",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Sie bekommen noch einen neuen Stempel ",
-				"auf ihre Karte.\\. Dürfte ich Sie bitte kurz haben?"
+				"\\c[10]Woman\\c[0]: You will get a new stamp on your",
+				"card.\\. May I see it for a moment please?"
 			]
 		},
 		{
@@ -131,7 +130,7 @@
 			"original": "Frau: Bitte sehr.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Bitte sehr."
+				"\\c[10]Woman\\c[0]: Here you go."
 			]
 		},
 		{
@@ -140,8 +139,8 @@
 			"original": "Frau: Sie haben das Geld doch gar nicht. Tut mir Leid, aber da lässt sich nichts machen.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Sie haben das Geld doch gar nicht.",
-				"Tut mir Leid, aber da lässt sich nichts machen."
+				"\\c[10]Woman\\c[0]: Seems you can't pay for it then.",
+				"I'm sorry, but there's nothing I can do about it."
 			]
 		},
 		{
@@ -150,10 +149,9 @@
 			"original": "Frau: Wenn das Ihnen zu teuer ist, gehen Sie in eine Stadt, die näher an [Post-Ziel] liegt. Dort wird die Gebühr dann auch niedriger ausfallen.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Wenn das Ihnen zu teuer ist, gehen Sie in ",
-				"eine Stadt, die näher an \\n[21] liegt.",
-				"Dort wird die Gebühr dann auch niedriger ",
-				"ausfallen. "
+				"\\c[10]Woman\\c[0]: If that's too expensive for you, go to a",
+				"city closer to \\n[21].",
+				"The fee will be lower there."
 			]
 		},
 		{
@@ -162,10 +160,10 @@
 			"original": "Frau: Oh. Sie haben ein Paket, wissen aber nicht wo es hin muss? Na so etwas... Solange Sie nicht wissen, wohin wir es senden müssen, können wir leider nichts für Sie tun.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Oh.\\. Sie haben ein Paket, wissen aber nicht ",
-				"wo es hin muss?\\. Na so etwas...\\. Solange Sie nicht ",
-				"wissen, wohin wir es senden müssen, können wir ",
-				"leider nichts für Sie tun."
+				"\\c[10]Woman\\c[0]: Oh.\\. You have a package but you don't know",
+				"where to send it to?\\. Well in that case...\\. As long",
+				"as you don't know where to send it, there is",
+				"nothing we can do for you."
 			]
 		},
 		{
@@ -174,7 +172,7 @@
 			"original": "Frau: Als nächstes...",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Als nächstes..."
+				"\\c[10]Woman\\c[0]: Moving on..."
 			]
 		},
 		{
@@ -183,10 +181,10 @@
 			"original": "Frau: Oh. Sie haben ein Paket, wissen aber nicht wo es hin muss? Na so etwas... Solange Sie nicht wissen, wohin wir es senden müssen, können wir leider nichts für Sie tun.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Oh.\\. Sie haben ein Paket, wissen aber nicht ",
-				"wo es hin muss?\\. Na so etwas...\\. Solange Sie nicht ",
-				"wissen, wohin wir es senden müssen, können wir ",
-				"leider nichts für Sie tun."
+				"\\c[10]Woman\\c[0]: Oh.\\. You have a package but you don't know",
+				"where to send it to?\\. Well in that case...\\. As long",
+				"as you don't know where to send it, there is",
+				"nothing we can do for you."
 			]
 		},
 		{
@@ -195,7 +193,7 @@
 			"original": "Frau: Beehren Sie uns bald wieder.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Beehren Sie uns bald wieder."
+				"\\c[10]Woman\\c[0]: Hope to see you again."
 			]
 		},
 		{
@@ -204,10 +202,9 @@
 			"original": "Frau: Ah... In Ordnung. Sie können jederzeit vorbeikommen, wenn Sie ein Paket zu verschicken haben.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Ah...\\. In Ordnung.\\. ",
-				"Sie können jederzeit vorbeikommen, ",
-				"wenn Sie ein Paket zu verschicken ",
-				"haben."
+				"\\c[10]Woman\\c[0]: Oh...\\. Alright.\\.",
+				"You can stop by at any time if you",
+				"have a package to deliver."
 			]
 		},
 		{
@@ -216,7 +213,7 @@
 			"original": "Frau: Guten Tag, wie kann ich ihnen helfen?",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Guten Tag, wie kann ich ihnen helfen?"
+				"\\c[10]Woman\\c[0]: Hello, how may I help you?"
 			]
 		},
 		{
@@ -225,8 +222,8 @@
 			"original": "Kento: Öhm, weiß nicht. Eigentlich gibt es hier nichts zu tun für mich.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Öhm, weiß nicht.\\. Eigentlich ",
-				"gibt es hier nichts zu tun für mich."
+				"\\c[1]\\n[1]\\c[0]: Oh, I don't know.\\. Actually,",
+				"there is nothing for me to do here."
 			]
 		},
 		{
@@ -234,7 +231,7 @@
 			"original": "Frau: Hey! Zutritt nur für Befugte.",
 			"lines":
 			[
-				"\\c[10]Frau\\c[0]: Hey!\\. Zutritt nur für Befugte."
+				"\\c[10]Woman\\c[0]: Hey!\\. Authorized personnel only."
 			]
 		},
 		{
@@ -242,9 +239,9 @@
 			"original": "Mann: Es ist schon interessant zu hören, was die Postboten so alles zu erzählen haben. In ihrem Beruf sieht man halt viel von der Welt.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Es ist schon interessant zu hören, was die ",
-				"Postboten so alles zu erzählen haben.\\. In ihrem ",
-				"Beruf sieht man halt viel von der Welt."
+				"\\c[10]Man\\c[0]: It's interesting to hear the stories these",
+				"postmen have to tell.\\. They see a lot of the",
+				"world through their job."
 			]
 		},
 		{
@@ -252,10 +249,9 @@
 			"original": "Mann: Man hat mir erzählt, dass man früher die Aquilwälder durchritten hat. Das sind diese riesigen Wälder am nordöstlichen Ende dieses Kontinents.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Man hat mir erzählt, dass man früher die ",
-				"Aquilwälder durchritten hat.\\. Das sind diese ",
-				"riesigen Wälder am nordöstlichen Ende dieses ",
-				"Kontinents."
+				"\\c[10]Man\\c[0]: I heard that they used to ride through the",
+				"Aquil forests.\\. They're these huge forests at",
+				"the northeastern end of this continent."
 			]
 		},
 		{
@@ -263,9 +259,10 @@
 			"original": "Mann: Heute vermeidet man diesen Weg allerdings, da die Route zu gefährlich sein soll. Man hört in der Tat viel Unheimliches über die Aquilwälder.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Heute vermeidet man diesen Weg allerdings, ",
-				"da die Route zu gefährlich sein soll.\\. Man hört in ",
-				"der Tat viel Unheimliches über die Aquilwälder."
+				"\\c[10]Man\\c[0]: Nowadays however, they usually avoid this",
+				"route because the route is said to be too",
+				"dangerous.\\. Indeed, there are a lot of",
+				"eerie things about the Aquil forests."
 			]
 		},
 		{
@@ -273,8 +270,8 @@
 			"original": "Mann: Wobei ich nicht beurteilen kann, was von all dem wirklich wahr ist.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Wobei ich nicht beurteilen kann, was von all ",
-				"dem wirklich wahr ist."
+				"\\c[10]Man\\c[0]: Although, I can't say which parts are",
+				"really true of all of this."
 			]
 		}
 	],
@@ -283,32 +280,32 @@
 		{
 			"path": [6,3,4],
 			"original": "Ich habe hier ein Paket.../Eigentlich nichts...",
-			"patch": "Ich habe hier ein Paket.../Eigentlich nichts..."
+			"patch": "I have a package here.../Nothing really..."
 		},
 		{
 			"path": [6,3,5],
 			"original": "Ich habe hier ein Paket...",
-			"patch": "Ich habe hier ein Paket..."
+			"patch": "I have a package here..."
 		},
 		{
 			"path": [6,3,23],
 			"original": "Ja, ich zahle./Nein, besser doch nicht.",
-			"patch": "Ja, ich zahle./Nein, besser doch nicht."
+			"patch": "Yes, I'll pay./No, it's not."
 		},
 		{
 			"path": [6,3,24],
 			"original": "Ja, ich zahle.",
-			"patch": "Ja, ich zahle."
+			"patch": "Yes, I'll pay."
 		},
 		{
 			"path": [6,3,80],
 			"original": "Nein, besser doch nicht.",
-			"patch": "Nein, besser doch nicht."
+			"patch": "No, it's not."
 		},
 		{
 			"path": [6,3,113],
 			"original": "Eigentlich nichts...",
-			"patch": "Eigentlich nichts..."
+			"patch": "Nothing really..."
 		}
 	]
 }

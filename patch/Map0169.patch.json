@@ -6,8 +6,8 @@
 			"original": "Saion: Da seid ihr ja endlich! Wurde auch Zeit!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Da seid ihr ja endlich!\\. Wurde ",
-				"auch Zeit!"
+				"\\c[10]Saion\\c[0]: There you are at last!\\. It's",
+				"about time!"
 			]
 		},
 		{
@@ -15,8 +15,9 @@
 			"original": "Cibon: Hallo ihr drei. Habt ihr eure Lektion also noch nicht gelernt?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hallo ihr drei.\\. Habt ihr eure ",
-				"Lektion also noch nicht gelernt?"
+				"\\c[2]\\n[2]\\c[0]: Hello again.\\. So you three",
+				"still haven't learned your",
+				"lesson yet?"
 			]
 		},
 		{
@@ -24,10 +25,9 @@
 			"original": "Jorn: Er da! Er hat seine Lektion nicht gelernt und leitet uns gerade in die absolut sichere Gefangenschaft!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Er da!\\. Er hat seine Lektion ",
-				"nicht gelernt und leitet uns gerade ",
-				"in die absolut sichere ",
-				"Gefangenschaft!"
+				"\\c[10]Jorn\\c[0]: HE hasn't!\\. He still hasn't",
+				"learned his lesson and is leading",
+				"us into our doom right now!"
 			]
 		},
 		{
@@ -43,7 +43,7 @@
 			"original": "Gurim: Hey... wer ist das da hinten?",
 			"lines":
 			[
-				"\\c[10]Gurim\\c[0]: Hey...\\. wer ist das da hinten?"
+				"\\c[10]Gurim\\c[0]: Hey...\\. Who's that back there?"
 			]
 		},
 		{
@@ -51,7 +51,7 @@
 			"original": "Kento: Wie...?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wie...? "
+				"\\c[1]\\n[1]\\c[0]: Why..."
 			]
 		},
 		{
@@ -67,9 +67,8 @@
 			"original": "Cibon: Wieso bist du uns gefolgt? Gegen dich wollen sie gar nicht kämpfen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wieso bist du uns gefolgt?\\.",
-				"Gegen dich wollen sie gar nicht ",
-				"kämpfen."
+				"\\c[2]\\n[2]\\c[0]: Why did you follow us?\\. They",
+				"don't want to fight you at all."
 			]
 		},
 		{
@@ -77,9 +76,9 @@
 			"original": "Soko: Ihr seid witzig. Zuerst mir sag'n wie wichtig Zusammenarbeit ist un' dann mich einfach ausschließen?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ihr seid witzig.\\. Zuerst mir ",
-				"sag'n wie wichtig Zusammenarbeit ist ",
-				"un' dann mich einfach ausschließen?"
+				"\\c[13]\\n[3]\\c[0]: Tha's funny.\\. First, ya tell me",
+				"how important teamwork is and now",
+				"you're jus' excluding me?"
 			]
 		},
 		{
@@ -87,10 +86,9 @@
 			"original": "Soko: Und selbst wenn's eure Angelegenheit ist, kann ich ja doch wohl zusehen, oder? Ihr habt mich neugierig gemacht.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Und selbst wenn's eure ",
-				"Angelegenheit ist, kann ich ja doch ",
-				"wohl zusehen, oder?\\. Ihr habt mich ",
-				"neugierig gemacht."
+				"\\c[13]\\n[3]\\c[0]: And even if it's your fight,",
+				"I can still watch it, right?\\.",
+				"You've made me curious."
 			]
 		},
 		{
@@ -98,8 +96,8 @@
 			"original": "Cibon: Na gut, wenn du nur zusehen willst...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Na gut, wenn du nur zusehen ",
-				"willst..."
+				"\\c[2]\\n[2]\\c[0]: Well, if you just want to",
+				"watch..."
 			]
 		},
 		{
@@ -107,10 +105,10 @@
 			"original": "Kento: Hey, wenn ich es mir so anschaue... Wir sind zu zweit, ihr zu dritt. Sie sollte mitkämpfen, sonst ist es unausgeglichen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hey, wenn ich es mir so ",
-				"anschaue...\\. Wir sind zu zweit, ihr ",
-				"zu dritt.\\. Sie sollte mitkämpfen, ",
-				"sonst ist es unausgeglichen."
+				"\\c[1]\\n[1]\\c[0]: Hey, when I look at it like",
+				"this...\\. It's two versus three.\\. You",
+				"should come join us, otherwise",
+				"it'd be unbalanced."
 			]
 		},
 		{
@@ -118,8 +116,8 @@
 			"original": "Jorn: Nein das würde die Sache alles andere als ausgleichen...!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Nein das würde die Sache alles ",
-				"andere als ausgleichen...!"
+				"\\c[10]Jorn\\c[0]: No, that still wouldn't be",
+				"fair!"
 			]
 		},
 		{
@@ -127,9 +125,9 @@
 			"original": "Saion: Ruhig Jorn! Natürlich darf sie mitkämpfen. Was will schon so ein Weib gegen uns anrichten!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Ruhig Jorn!\\. Natürlich darf ",
-				"sie mitkämpfen.\\. Was will schon so ",
-				"ein Weib gegen uns anrichten!"
+				"\\c[10]Saion\\c[0]: Quiet Jorn!\\. Of course she can",
+				"fight.\\. What is a woman gonna do",
+				"against us anyway!"
 			]
 		},
 		{
@@ -137,7 +135,7 @@
 			"original": "Soko: Was sagt ihr da!?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Was sagt ihr da!? "
+				"\\c[13]\\n[3]\\c[0]: What are you saying?!"
 			]
 		},
 		{
@@ -145,10 +143,9 @@
 			"original": "Soko: Euch werd ich zeigen, wohin euch eure sachsist... sessist... eure frauenfeindlichen Vorurteile bringen!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Euch werd ich zeigen, wohin ",
-				"euch eure \\.sachsist...\\.\\. sessist...\\.\\. ",
-				"eure frauenfeindlichen Vorurteile  ",
-				"bringen!"
+				"\\c[13]\\n[3]\\c[0]: I'll show you how far that\\.",
+				"sehsiss...\\.\\. sekis...\\.\\. how far that",
+				"bias will take you!"
 			]
 		},
 		{
@@ -156,8 +153,8 @@
 			"original": "Cibon: Kumpel, biste sicher, dass das eine gute Idee ist?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kumpel, biste sicher, dass ",
-				"das eine gute Idee ist?"
+				"\\c[2]\\n[2]\\c[0]: Kento, are you sure that's",
+				"a good idea?"
 			]
 		},
 		{
@@ -165,8 +162,8 @@
 			"original": "Saion: Genug geredet! Auf ins Gefecht!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Genug geredet!\\. Auf ins ",
-				"Gefecht!"
+				"\\c[10]Saion\\c[0]: Enough talking already!\\.",
+				"En garde!"
 			]
 		},
 		{
@@ -174,8 +171,7 @@
 			"original": "Saion: Schon wieder versagt, verdammt!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Schon wieder versagt, ",
-				"verdammt!"
+				"\\c[10]Saion\\c[0]: Failed again, damn it!"
 			]
 		},
 		{
@@ -183,10 +179,10 @@
 			"original": "Jorn: Hundert Mal ist uns so etwas schon passiert, jedes Mal ist es auf deinem Mist gewachsen und dennoch machst du es IMMER wieder!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Hundert Mal ist uns so etwas ",
-				"schon passiert, jedes Mal ist es auf ",
-				"deinem Mist gewachsen und dennoch ",
-				"machst du es IMMER wieder!"
+				"\\c[10]Jorn\\c[0]: This has been happening to us",
+				"for hundreds of times, you keep",
+				"making dumber decisions every single",
+				"time, and yet you ALWAYS do it again!"
 			]
 		},
 		{
@@ -194,10 +190,10 @@
 			"original": "Jorn: Wäre mein Beutel so hart wie dein Dickkopf, könnte ich dich damit 6 Meter in den Boden rammen - wie einen Nagel durch Butter!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Wäre mein Beutel so hart wie ",
-				"dein Dickkopf, könnte ich dich damit ",
-				"6 Meter in den Boden rammen - wie ",
-				"einen Nagel durch Butter!"
+				"\\c[10]Jorn\\c[0]: If my bag were as hard as your",
+				"stubborn head, I could use it to ram",
+				"you six meters into the ground,",
+				"like a nail through butter!"
 			]
 		},
 		{
@@ -205,8 +201,7 @@
 			"original": "Jorn: Und ich schwöre, ich würde es tun...!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: \\s[3]Und ich schwöre, ich würde es ",
-				"tun...!"
+				"\\c[10]Jorn\\c[0]: \\s[3]And I swear I'd do it!"
 			]
 		},
 		{
@@ -214,7 +209,7 @@
 			"original": "Saion: S...Sei einfach nur leise...",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: S...\\.Sei einfach nur leise..."
+				"\\c[10]Saion\\c[0]: J...\\. Just be quiet..."
 			]
 		},
 		{
@@ -230,8 +225,8 @@
 			"original": "Cibon: Ihr... seid wirklich schon ein komischer Verein...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ihr...\\. seid wirklich schon ",
-				"ein komischer Verein..."
+				"\\c[2]\\n[2]\\c[0]: You three...\\. really are",
+				"a weird bunch..."
 			]
 		},
 		{
@@ -239,7 +234,7 @@
 			"original": "Soko: ...Mir ist schwindelig.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...Mir ist schwindelig."
+				"\\c[13]\\n[3]\\c[0]: I feel dizzy..."
 			]
 		}
 	]

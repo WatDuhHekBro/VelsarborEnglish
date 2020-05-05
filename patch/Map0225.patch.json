@@ -1,0 +1,216 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [19,1,20,3],
+			"original": "?????: Eure Hoheit, bitte erlaubt mir eure Zeit für einen Moment in Anspruch zu nehmen.",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Your Highness,\\. please allow me",
+				"to take your time for a moment."
+			]
+		},
+		{
+			"path": [19,1,23,2],
+			"original": "?????: Es gibt Neuigkeiten bezüglich den Nebelklingen.",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: There is news regarding the",
+				"Mist Blades."
+			]
+		},
+		{
+			"path": [19,1,30,4],
+			"original": "Prinz Rhedoran: Meine Aufmerksamkeit sei Euch gegeben, Sir Vintal. Erhebt Euch. Welche Neuigkeiten bringt Ihr mir?",
+			"lines":
+			[
+				"\\c[10]Prince Rhedoran\\c[0]: My attention is to",
+				"you, Sir Vintal.\\. Rise.\\. What news do",
+				"you bring me?"
+			]
+		},
+		{
+			"path": [19,1,36,4],
+			"original": "Sir Vintal: Bittet geduldet euch noch einen kleinen Moment. Die Patricia des Signums sollte an dieser Unterhaltung teilhaben.",
+			"lines":
+			[
+				"\\c[10]Sir Vintal\\c[0]: Please be patient for",
+				"a moment.\\. The Patrician of Signums",
+				"should be a part of this",
+				"conversation."
+			]
+		},
+		{
+			"path": [19,1,58,2],
+			"original": "Patricia des Signums: Eure Hoheit...",
+			"lines":
+			[
+				"\\c[10]Patrician of Signums\\c[0]: Your",
+				"Highness..."
+			]
+		},
+		{
+			"path": [19,1,66,3],
+			"original": "Patricia des Signums: Ihr habt nach mir verlangt, Sir Vintal. Was ist euer Anliegen?",
+			"lines":
+			[
+				"\\c[10]Patrician of Signums\\c[0]: You requested",
+				"me, Sir Vintal.\\. What is your concern?"
+			]
+		},
+		{
+			"path": [19,1,77,3],
+			"original": "Sir Vintal: Wir haben eine Nachricht bekommen, das Versteck der Nebelklingen wurde entdeckt.",
+			"lines":
+			[
+				"\\c[10]Sir Vintal\\c[0]: We received a message",
+				"that the Mist Blades' hiding spot",
+				"was discovered."
+			]
+		},
+		{
+			"path": [19,1,80,3],
+			"original": "Sir Vintal: Soldaten des Briganten- Ordens sollen das Versteck gesichtet haben.",
+			"lines":
+			[
+				"\\c[10]Sir Vintal\\c[0]: Soldiers from the",
+				"Brigantine Order are said to",
+				"have spotted the hiding spot."
+			]
+		},
+		{
+			"path": [19,1,88,2],
+			"original": "Prinz Rhedoran: Vermaledeit! Sind sie damit komplett aufgeflogen?",
+			"lines":
+			[
+				"\\c[10]Prince Rhedoran\\c[0]: Damn it!\\. Were they",
+				"completely exposed?"
+			]
+		},
+		{
+			"path": [19,1,91,4],
+			"original": "Sir Vintal: Nein, noch ist nicht jedwede Hoffnung verloren. Bisher gibt es nur wenige Zeugen. Man frägt um Unterstützung an.",
+			"lines":
+			[
+				"\\c[10]Sir Vintal\\c[0]: No, not all hope is lost",
+				"yet.\\. So far there are only a few",
+				"witnesses.\\. They asked for support."
+			]
+		},
+		{
+			"path": [19,1,95,3],
+			"original": "Sir Vintal: Der Stützpunkt muss rechtzeitig verschwinden, damit weitere Zeugen ausbleiben.",
+			"lines":
+			[
+				"\\c[10]Sir Vintal\\c[0]: The fortress has to",
+				"disappear in time for more",
+				"witnesses to fail."
+			]
+		},
+		{
+			"path": [19,1,98,4],
+			"original": "Sir Vintal: Den Verdacht werden wir damit nicht los, aber den Beweis wird Brigantia so nicht bekommen. Das sollte uns genug Zeit geben.",
+			"lines":
+			[
+				"\\c[10]Sir Vintal\\c[0]: We won't get rid of the",
+				"suspicions, but Brigantia won't get",
+				"their evidence that way. That",
+				"should give us enough time."
+			]
+		},
+		{
+			"path": [19,1,106,2],
+			"original": "Prinz Rhedoran: Den Stützpunkt verschwinden lassen?",
+			"lines":
+			[
+				"\\c[10]Prince Rhedoran\\c[0]: Make the fortress",
+				"disappear?"
+			]
+		},
+		{
+			"path": [19,1,110,4],
+			"original": "Patricia des Signums: Mit Unterstützung meint Ihr also auch die nötigen Signum-Experten, nehme ich an?",
+			"lines":
+			[
+				"\\c[10]Patrician of Signums\\c[0]: By support, you",
+				"mean the necessary Signum experts,",
+				"I assume?"
+			]
+		},
+		{
+			"path": [19,1,115,2],
+			"original": "Patricia des Signums: Diese Situation kommt sehr unerwartet...",
+			"lines":
+			[
+				"\\c[10]Patrician of Signums\\c[0]: This situation",
+				"came very unexpectedly..."
+			]
+		},
+		{
+			"path": [19,1,118,3],
+			"original": "Sir Vintal: Diese Situation darf nicht unterschätzt werden, Frau Mensesso.",
+			"lines":
+			[
+				"\\c[10]Sir Vintal\\c[0]: This situation should not",
+				"be underestimated,\\. Lady Mensesso."
+			]
+		},
+		{
+			"path": [19,1,121,3],
+			"original": "Sir Vintal: Ich bitte Euch, sendet alle fähigen Leute, die Euch zur Verfügung stehen.",
+			"lines":
+			[
+				"\\c[10]Sir Vintal\\c[0]: I ask you to send all",
+				"capable people who are available",
+				"to you."
+			]
+		},
+		{
+			"path": [19,1,128,3],
+			"original": "Frau Mensesso: Mir ist die Bedeutung dieser Gefahr durchaus bewusst, Sir Vintal. Ich werde tun, was ich kann.",
+			"lines":
+			[
+				"\\c[10]Lady Mensesso\\c[0]: I am well aware of the",
+				"importance of this danger, Sir",
+				"Vintal.\\. I will do what I can."
+			]
+		},
+		{
+			"path": [19,1,137,3],
+			"original": "Frau Mensesso: Eure Hoheit, ich bitte um euer kaiserliches Einverständnis.",
+			"lines":
+			[
+				"\\c[10]Lady Mensesso\\c[0]: Your Highness, I ask",
+				"for your sacred permission."
+			]
+		},
+		{
+			"path": [19,1,141,3],
+			"original": "Prinz Rhedoran: Es sei Euch gegeben. Tut was möglich ist, um das Geheimnis zu bewahren.",
+			"lines":
+			[
+				"\\c[10]Prince Rhedoran\\c[0]: It shall be granted",
+				"to you.\\. Do whatever is possible to",
+				"keep this secret."
+			]
+		},
+		{
+			"path": [19,1,150,3],
+			"original": "Frau Mensesso: Belias, bitte sieh zu, dass sich alle Erzmagier in der großen Halle sammeln.",
+			"lines":
+			[
+				"\\c[10]Lady Mensesso\\c[0]: Belias,\\. please make",
+				"sure that all archmages gather in",
+				"the great hall."
+			]
+		},
+		{
+			"path": [19,1,154,1],
+			"original": "Belias: Zu Befehl, meine Herrin.",
+			"lines":
+			[
+				"\\c[10]Belias\\c[0]: At your command, my lady."
+			]
+		}
+	]
+}

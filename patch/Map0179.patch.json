@@ -1,0 +1,326 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [25,2,48,1],
+			"original": "Kento: War da eben was?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: What was that?"
+			]
+		},
+		{
+			"path": [25,2,51,1],
+			"original": "Cibon: Was meinst du, Kumpel?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: What do you mean?"
+			]
+		},
+		{
+			"path": [25,2,58,2],
+			"original": "Soko: Irgendetwas ist hier merkwürdig...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Something's off here..."
+			]
+		},
+		{
+			"path": [25,2,67,1],
+			"original": "Kento: Es ist so... still...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: It's so...\\. quiet..."
+			]
+		},
+		{
+			"path": [25,2,73,1],
+			"original": "Cibon: Stimmt eigent...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: \\s[2]You're right...\\^"
+			]
+		},
+		{
+			"path": [25,2,86,2],
+			"original": "Cibon: DA Kommt etwas!! LAUFT!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Something's coming!!\\. RUN!\\.\\^"
+			]
+		},
+		{
+			"path": [25,2,109,1],
+			"original": "Kento: Was... Was zum....",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: What...\\. What just...\\^"
+			]
+		},
+		{
+			"path": [25,2,113,1],
+			"original": "Soko: Ein Hinterhalt!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: An ambush!\\.\\^"
+			]
+		},
+		{
+			"path": [25,2,151,2],
+			"original": "Cibon: Wer seid ihr Typen?! Was wollt ihr?!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Who are you people?!\\.",
+				"What do you want from us?!"
+			]
+		},
+		{
+			"path": [25,2,154,1],
+			"original": "Soldat: Haltet sie in Schach!",
+			"lines":
+			[
+				"\\c[10]Soldier\\c[0]: Keep them at bay!"
+			]
+		},
+		{
+			"path": [25,4,39,2],
+			"original": "Soko: Es... es ist zwecklos... Diese Mission... ist gescheitert.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: It... It's useless...",
+				"This mission... has failed."
+			]
+		},
+		{
+			"path": [25,4,43,1],
+			"original": "Cibon: Ver... Verdammter Mist!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: D...\\. Damn it all!"
+			]
+		},
+		{
+			"path": [25,4,45,2],
+			"original": "Kento: Wieso... wieso dieser Angriff... Wieso so viele...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Why...\\. Why this attack...\\.",
+				"Why so many..."
+			]
+		},
+		{
+			"path": [25,4,53,4],
+			"original": "(Herr Uroto: N... Nein! Was in aller Welt hat das hier zu bedeuten?! Es kann doch nicht sein... Kommen wir bereits zu spät?!)",
+			"lines":
+			[
+				"(\\c[10]Sir Uroto\\c[0]: N...\\. No!\\. What in the",
+				"world does this mean?!\\. It can't be...\\.",
+				"Are we already too late to stop it?!)"
+			],
+			"__comment__": "Too late being too late to stop the upcoming war, as that's why they sent Sir Uroto for diplomacy."
+		},
+		{
+			"path": [25,4,178,2],
+			"original": "(Kento: Ich... ich bin raus gekommen... Ich stehe! Wie..)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: I...\\. I got out of there...\\.",
+				"I'm alive!\\. How...)"
+			]
+		},
+		{
+			"path": [25,4,188,1],
+			"original": "Kento: Cibon! Soko! Herr Uroto!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Cibon!\\. Soko!\\. Sir Uroto!"
+			]
+		},
+		{
+			"path": [25,4,195,2],
+			"original": "?????: Hehehe, überraschend gute Leistung, ich bin stolz auf dich.",
+			"lines":
+			[
+				"\\c[4]?????\\c[0]: Hehehe,\\. surprisingly good",
+				"performance,\\. I'm proud of you."
+			]
+		},
+		{
+			"path": [25,4,203,1],
+			"original": "(Kento: Diese Stimme...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: This voice...)"
+			]
+		},
+		{
+			"path": [25,4,209,3],
+			"original": "?????: Du scheinst dich hervorragend zu machen, aber ich hätte auch nichts Anderes erwartet.",
+			"lines":
+			[
+				"\\c[4]?????\\c[0]:\\s[2] You seem to be doing great,",
+				"but I wouldn't have expected",
+				"anything less of you.\\.\\^"
+			]
+		},
+		{
+			"path": [25,4,235,3],
+			"original": "Genyu: Wahrhaftig! Das ist mein Sohn! Das ist mein Kento!",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]:\\s[2] Truly!\\.",
+				"This is my son!\\.",
+				"This is my Kento!\\.\\^"
+			]
+		},
+		{
+			"path": [25,4,285,3],
+			"original": "Genyu: Entschuldige diese raue Begrüßung, aber die Umstände erlauben es nicht anders.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Pardon me for this harsh",
+				"greeting,\\. but the circumstances",
+				"don't allow it otherwise."
+			]
+		},
+		{
+			"path": [25,4,289,3],
+			"original": "Genyu: Mach dir keine Sorgen um deine Kameraden, sie sind nur bewusstlos.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: Don't worry about your",
+				"friends,\\. they're only knocked out."
+			]
+		},
+		{
+			"path": [25,4,298,2],
+			"original": "Genyu: Männer? Ich werde mich um ihn kümmern!",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]:\\s[2] Men?\\. I'll take care of him!"
+			]
+		},
+		{
+			"path": [25,4,301,1],
+			"original": "Soldaten: Jawohl Sir!",
+			"lines":
+			[
+				"\\c[10]Soldiers\\c[0]:\\s[2] Yes sir!"
+			]
+		},
+		{
+			"path": [25,4,321,4],
+			"original": "Genyu: Mal sehen zu was du so alles fähig bist! Kümmere dich nicht um die Fragen, die wirst du schon beantwortet bekommen.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]:\\s[2] Don't worry about your",
+				"questions, you'll soon get answers.\\.",
+				"I've been waiting to see what",
+				"you're capable of!"
+			]
+		},
+		{
+			"path": [25,4,325,2],
+			"original": "Genyu: Für diesen Moment. Kämpfe oder Falle.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]:\\s[2] For this moment.\\.",
+				"Fight\\. or perish!"
+			]
+		},
+		{
+			"path": [25,4,334,1],
+			"original": "Kento: Du...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]:\\s[2] You..."
+			]
+		},
+		{
+			"path": [25,4,344,2],
+			"original": "Kento: Wieso bist du hier?! Du... DU GEHÖRST HIER NICHT HIN!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Why are you here?!\\.",
+				"You...\\. YOU DON'T BELONG HERE!"
+			]
+		},
+		{
+			"path": [25,4,352,3],
+			"original": "Genyu: Wir haben keine Zeit zum reden, Kento. Wehr dich oder ich mache kurzen Prozess.",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]:\\s[2] We don't have time to talk,",
+				"Kento.\\. Defend yourself or I'll",
+				"make quick work of you."
+			]
+		},
+		{
+			"path": [25,4,363,3],
+			"original": "Kento: DU SOLLTEST TOT SEIN!! ZERSCHMETTERT! VERGESSEN! UND NUN LEBST DU DOCH?!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: YOU SHOULD BE DEAD!!\\.",
+				"FORGOTTEN!\\. LEFT TO ROT!\\.",
+				"AND NOW YOU DARE TO LIVE?!"
+			]
+		},
+		{
+			"path": [25,4,380,3],
+			"original": "Kento: ICH WERDE DAS RICHTIG STELLEN! DU WIRST MEINE LANZE ZU SPÜREN BEKOMMEN!!",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: I'LL SET THINGS RIGHT!\\.",
+				"I'LL MAKE YOU FEEL THE BITE",
+				"OF MY LANCE!!"
+			]
+		},
+		{
+			"path": [25,6,16,3],
+			"original": "Genyu: ... Ich fasse es nicht. Wie ist es dazu gekommen? Diese Wut...",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: I can't believe it.\\.",
+				"How did this happen?\\.",
+				"This anger..."
+			]
+		},
+		{
+			"path": [25,6,25,4],
+			"original": "Genyu: Das war keine Selbstverteidigung... Er... Mein Sohn... wollte mich umbringen...",
+			"lines":
+			[
+				"\\c[4]\\n[4]\\c[0]: It wasn't just self-defense...\\.",
+				"He...\\. My son...\\. wanted to murder",
+				"me..."
+			]
+		},
+		{
+			"path": [25,6,40,3],
+			"original": "(?????: Autsch. Wer hätte gedacht, dass der Kleine so energisch auf die Situation reagieren würde...)",
+			"lines":
+			[
+				"(\\c[10]?????\\c[0]: Ouch.\\. Who would've thought",
+				"the little one would react so",
+				"energetically to the situation...)"
+			]
+		},
+		{
+			"path": [25,6,48,3],
+			"original": "(?????: Der Herr und seine Wünsche... Er macht mir das Leben schwer.)",
+			"lines":
+			[
+				"(\\c[10]?????\\c[0]: The Lord and his wishes...\\.",
+				"He makes my life difficult.)"
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [25,2,157],
+			"original": "Ernstes-Gefecht2",
+			"patch": "Bedrohung_von_oben"
+		}
+	]
+}

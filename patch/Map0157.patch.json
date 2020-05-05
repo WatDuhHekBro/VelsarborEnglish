@@ -6,10 +6,10 @@
 			"original": "Händler: Soldaten des Briganten-Orden? Solltet ihr vorhaben nach Korzojeno zu wandern, rechnet damit, dass viele Leute nicht gut auf euch zu sprechen sein werden.",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Soldaten des Briganten-Orden?\\. Solltet ihr ",
-				"vorhaben nach Korzojeno zu wandern, rechnet damit, ",
-				"dass viele Leute nicht gut auf euch zu sprechen ",
-				"sein werden."
+				"\\c[10]Merchant\\c[0]: Soldiers from the Brigantine Order?\\.",
+				"If you intend to travel to Korzojeno, expect",
+				"that many people won't be very friendly",
+				"towards you."
 			]
 		},
 		{
@@ -17,8 +17,8 @@
 			"original": "Händler: Der Verlauf der Geschichte hat uns zu ihren Feinden gemacht, so wie es aussieht.",
 			"lines":
 			[
-				"\\c[10]Händler\\c[0]: Der Verlauf der Geschichte hat uns zu ",
-				"ihren Feinden gemacht,\\. so wie es aussieht."
+				"\\c[10]Merchant\\c[0]: The course of history has made us their",
+				"enemies,\\. it seems."
 			]
 		}
 	]

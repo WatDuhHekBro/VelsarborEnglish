@@ -6,10 +6,10 @@
 			"original": "Postboten-Neuling: Jetzt waren wir schon in Sinun, Helnovien und Gencorin und in jeder Post- Versandstelle mussten wir uns im Lager-Raum aufhalten um Pause zu machen.",
 			"lines":
 			[
-				"\\c[10]Postboten-Neuling\\c[0]: Jetzt waren wir schon in Sinun, ",
-				"Helnovien und Gencorin und in jeder Post-",
-				"Versandstelle mussten wir uns im Lager-Raum ",
-				"aufhalten um Pause zu machen."
+				"\\c[10]Rookie Postman\\c[0]: Now we've already been in Sinun,",
+				"Helnovien, and Gencorin, and in every post",
+				"office, we had to be in the storage room",
+				"to take a break."
 			]
 		},
 		{
@@ -17,10 +17,9 @@
 			"original": "Postboten-Neuling: Gibt es überhaupt eine Postversandstelle wo wir uns nicht zwischen Briefen und Paketen setzen müssen, um uns auszuruhen?",
 			"lines":
 			[
-				"\\c[10]Postboten-Neuling\\c[0]: Gibt es überhaupt eine ",
-				"Postversandstelle wo wir uns nicht zwischen ",
-				"Briefen und Paketen setzen müssen, um ",
-				"uns auszuruhen?"
+				"\\c[10]Rookie Postman\\c[0]: Is there any post office at all",
+				"where we don't have to sit between letters and",
+				"parcels to rest?"
 			]
 		},
 		{
@@ -28,8 +27,8 @@
 			"original": "Postboten: Jupp, bei der Postversandstelle an Hamsol, südlich von hier.",
 			"lines":
 			[
-				"\\c[10]Postboten\\c[0]: Jupp,\\. bei der Postversandstelle an ",
-				"Hamsol,\\. südlich von hier."
+				"\\c[10]Postman\\c[0]: Yep,\\. the post office at Hamsol,\\. south",
+				"of here."
 			]
 		},
 		{
@@ -37,7 +36,7 @@
 			"original": "Postboten-Neuling: Wirklich?",
 			"lines":
 			[
-				"\\c[10]Postboten-Neuling\\c[0]: Wirklich?"
+				"\\c[10]Rookie Postman\\c[0]: Really?"
 			]
 		},
 		{
@@ -45,10 +44,10 @@
 			"original": "Postboten: Ja, das heißt zumindest im Sommer. Dann ist es nämlich so unerträglich heiß dort im Lagerraum, dass wir es uns draußen auf der Wiese gemütlich machen!",
 			"lines":
 			[
-				"\\c[10]Postboten\\c[0]: Ja,\\. das heißt zumindest im Sommer.\\. Dann ",
-				"ist es nämlich so unerträglich heiß dort im ",
-				"Lagerraum, dass wir es uns draußen auf der Wiese ",
-				"gemütlich machen!"
+				"\\c[10]Postman\\c[0]: Yeah,\\. I mean in the summer at least.\\.",
+				"Then it becomes so unbearably hot in the storage",
+				"room that we end up making ourselves comfortable",
+				"on the meadow!"
 			]
 		},
 		{
@@ -56,7 +55,8 @@
 			"original": "Postboten-Neuling: ... Sehr witzig.",
 			"lines":
 			[
-				"\\c[10]Postboten-Neuling\\c[0]: ...\\. Sehr witzig."
+				"\\c[10]Rookie Postman\\c[0]: Hah hah,\\. very funny...\\.",
+				"Give me a break."
 			]
 		},
 		{
@@ -64,10 +64,9 @@
 			"original": "Postbote: So einen ordentlichen Lager- und Aufenthaltsraum findet man nur in wenigen Post- Versandstellen. Die in Ferrolholm hatte ich noch ganz ordentlich in Erinnerung.",
 			"lines":
 			[
-				"\\c[10]Postbote\\c[0]: So einen ordentlichen Lager- und ",
-				"Aufenthaltsraum findet man nur in wenigen Post-",
-				"Versandstellen.\\. Die in Ferrolholm hatte ich noch ",
-				"ganz ordentlich in Erinnerung."
+				"\\c[10]Postbote\\c[0]: Such a tidy storage room and lounge can",
+				"only be found in a few post offices.\\. I remembered",
+				"the one in Ferrolholm quite well."
 			]
 		}
 	]

@@ -6,8 +6,8 @@
 			"original": "Soldat vom Briganten-Orden: Wollen Sie die Grenze überschreiten?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wollen Sie die Grenze ",
-				"überschreiten?"
+				"\\c[10]Brigantian Soldier\\c[0]: Do you want to cross the",
+				"border?"
 			]
 		},
 		{
@@ -16,9 +16,8 @@
 			"original": "Soko: Nein, dafür ist es heute zu Spät. Für heute werden wir hier bleiben.",
 			"lines":
 			[
-				"\\c[10]Soko\\c[0]: Nein, dafür ist es heute zu ",
-				"Spät.\\. Für heute werden wir hier ",
-				"bleiben."
+				"\\c[10]Soko\\c[0]: No, it's too late for that",
+				"today.\\. We'll stay here for now."
 			]
 		},
 		{
@@ -26,8 +25,8 @@
 			"original": "Soldat vom Briganten-Orden: Wollen Sie die Grenze überschreiten?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wollen Sie die Grenze ",
-				"überschreiten?"
+				"\\c[10]Brigantian Soldier\\c[0]: Do you want to cross the",
+				"border?"
 			]
 		},
 		{
@@ -35,8 +34,8 @@
 			"original": "Kento: Ja, wir sind auf einer Reise nach Domarkor.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja, wir sind auf einer Reise ",
-				"nach Domarkor. "
+				"\\c[1]\\n[1]\\c[0]: Yes, we're on a trip to",
+				"Domarkor."
 			]
 		},
 		{
@@ -44,8 +43,8 @@
 			"original": "Soldat vom Briganten-Orden: Wie lange wird der Aufenthalt in Korzojeno in etwa andauern?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wie lange wird der ",
-				"Aufenthalt in Korzojeno in etwa andauern?"
+				"\\c[10]Brigantian Soldier\\c[0]: How long will the stay in",
+				"Korzojeno last?"
 			]
 		},
 		{
@@ -53,9 +52,8 @@
 			"original": "Herr Uroto: Wir werden allerhöchstens zwei Wochen benötigen.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Wir werden ",
-				"allerhöchstens zwei Wochen ",
-				"benötigen."
+				"\\c[10]Sir Uroto\\c[0]: We'll need two weeks at",
+				"most."
 			]
 		},
 		{
@@ -63,8 +61,8 @@
 			"original": "Herr Uroto: Wir sind im Auftrag des Regierung Brigantias unterwegs.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Wir sind im Auftrag des ",
-				"Regierung Brigantias unterwegs."
+				"\\c[10]Sir Uroto\\c[0]: We're traveling on behalf",
+				"of the Brigantian government."
 			]
 		},
 		{
@@ -72,9 +70,8 @@
 			"original": "Soldat vom Briganten-Orden: Verstehe. Durchtritt ist gestattet. Versuchen Sie bitte innerhalb der nächsten zwei Wochen wieder zurück zukehren.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Verstehe. Durchtritt ",
-				"ist gestattet.\\. Versuchen Sie bitte innerhalb der ",
-				"nächsten zwei Wochen wieder zurück zukehren."
+				"\\c[10]Brigantian Soldier\\c[0]: I see. Passage is permitted.\\.",
+				"Please try to return within the next two weeks."
 			]
 		},
 		{
@@ -82,9 +79,9 @@
 			"original": "Soldat vom Briganten-Orden: Sollte dies nicht klappen, senden Sie uns bitte eine Nachricht um die Dauer des Aufenthaltes zu verlängern.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Sollte dies nicht ",
-				"klappen,\\. senden Sie uns bitte eine Nachricht um ",
-				"die Dauer des Aufenthaltes zu verlängern."
+				"\\c[10]Brigantian Soldier\\c[0]: If this doesn't work,\\. please",
+				"send us a message to extend the length of your",
+				"stay."
 			]
 		},
 		{
@@ -92,10 +89,9 @@
 			"original": "Soldat vom Briganten-Orden: Sollten Sie die Frist überschreiten ohne uns zu benachrichtigen, haben die Streitkräfte Korzojenos das Recht Sie bei Sichtung festzunehmen.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Sollten Sie die ",
-				"Frist überschreiten ohne uns zu benachrichtigen, ",
-				"haben die Streitkräfte Korzojenos das Recht Sie ",
-				"bei Sichtung festzunehmen."
+				"\\c[10]Brigantian Soldier\\c[0]: If you exceed the deadline",
+				"without notifying us, the Korzojeno Armed Forces",
+				"have the right to arrest you on sight."
 			]
 		},
 		{
@@ -103,10 +99,10 @@
 			"original": "Soldat vom Briganten-Orden: Sie werden dann zurück über die Grenze gebracht. Bei übermäßig langer Überschreitung der Frist folgt eine Gefängnis-Strafe von bis zu 3 Jahren.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Sie werden dann ",
-				"zurück über die Grenze gebracht.\\. Bei übermäßig ",
-				"langer Überschreitung der Frist folgt eine ",
-				"Gefängnis-Strafe von bis zu 3 Jahren."
+				"\\c[10]Brigantian Soldier\\c[0]: You will then be brought back",
+				"across the border.\\. If the time limit is exceeded",
+				"for an excessively long period, the prison",
+				"sentence could be up to three years."
 			]
 		},
 		{
@@ -114,7 +110,7 @@
 			"original": "Soko: Alles klar.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Alles klar."
+				"\\c[13]\\n[3]\\c[0]: Alright."
 			]
 		},
 		{
@@ -122,8 +118,8 @@
 			"original": "Cibon: Die Regelung ist aber ziemlich streng, oder",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Die Regelung ist aber ",
-				"ziemlich streng, oder"
+				"\\c[2]\\n[2]\\c[0]: The rules are pretty strict,",
+				"huh..."
 			]
 		},
 		{
@@ -131,9 +127,9 @@
 			"original": "Soldat vom Briganten-Orden: Ich habe die Pflicht diese Regelungen jeder passierenden Person zu nennen. Aber unter uns...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ich habe die Pflicht ",
-				"diese Regelungen jeder passierenden Person zu ",
-				"nennen.\\. Aber unter uns..."
+				"\\c[10]Brigantian Soldier\\c[0]: It's my duty to name these",
+				"regulations for every passing person.\\.",
+				"But between us..."
 			]
 		},
 		{
@@ -141,9 +137,8 @@
 			"original": "Soldat vom Briganten-Orden: Sollten Sie die Frist ein paar Tage überschreiten wird Sie keiner dafür hart ran nehmen.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Sollten Sie die ",
-				"Frist ein paar Tage überschreiten wird Sie keiner ",
-				"dafür hart ran nehmen. "
+				"\\c[10]Brigantian Soldier\\c[0]: If you exceed the deadline by",
+				"a few days, nobody will be hard on you for it."
 			]
 		},
 		{
@@ -151,9 +146,9 @@
 			"original": "Soldat vom Briganten-Orden: Gerade bei politischen Gesandten wird oft ein Auge zugedrückt. Trotzdem, übertreiben Sie es nicht.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Gerade bei",
-				"politischen Gesandten wird oft ein Auge ",
-				"zugedrückt.\\. Trotzdem, übertreiben Sie es nicht."
+				"\\c[10]Brigantian Soldier\\c[0]: Especially with political",
+				"envoys, people will often just look the other",
+				"way.\\. Still, don't overdo it."
 			]
 		},
 		{
@@ -161,7 +156,7 @@
 			"original": "Soldat vom Briganten-Orden: Öffnet das Tor!",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Öffnet das Tor!"
+				"\\c[10]Brigantian Soldier\\c[0]: Open the gate!"
 			]
 		},
 		{
@@ -169,7 +164,7 @@
 			"original": "Soldat vom Briganten-Orden: Sie können passieren.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Sie können passieren."
+				"\\c[10]Brigantian Soldier\\c[0]: You may pass."
 			]
 		},
 		{
@@ -178,7 +173,7 @@
 			"original": "Soldat vom Briganten-Orden: Sie können passieren.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Sie können passieren."
+				"\\c[10]Brigantian Soldier\\c[0]: You may pass."
 			]
 		},
 		{
@@ -187,8 +182,8 @@
 			"original": "Soldat vom Briganten-Orden: Wollen Sie die Grenze überschreiten?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wollen Sie die Grenze ",
-				"überschreiten?"
+				"\\c[10]Brigantian Soldier\\c[0]: Do you want to cross the",
+				"border?"
 			]
 		},
 		{
@@ -197,7 +192,7 @@
 			"original": "Soldat vom Briganten-Orden: Öffnet das Tor!",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Öffnet das Tor!"
+				"\\c[10]Brigantian Soldier\\c[0]: Open the gate!"
 			]
 		},
 		{
@@ -205,8 +200,8 @@
 			"original": "Soldat vom Briganten-Orden: Wollen sie die Grenze überschreiten?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wollen sie die Grenze ",
-				"überschreiten?"
+				"\\c[10]Brigantian Soldier\\c[0]: Do you want to cross the",
+				"border?"
 			]
 		},
 		{
@@ -215,9 +210,8 @@
 			"original": "Soko: Nein, dafür ist es heute zu Spät. Für heute werden wir hier bleiben.",
 			"lines":
 			[
-				"\\c[10]Soko\\c[0]: Nein, dafür ist es heute zu ",
-				"Spät.\\. Für heute werden wir hier ",
-				"bleiben."
+				"\\c[10]Soko\\c[0]: No, it's too late for that",
+				"today.\\. We'll stay here for now."
 			]
 		},
 		{
@@ -226,9 +220,9 @@
 			"original": "Soldat vom Briganten-Orden: Wir hatten hier an der Grenze schon seit einigen Jahren keine großen Konflikte mehr gehabt.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wir hatten hier an der ",
-				"Grenze schon seit einigen Jahren keine großen ",
-				"Konflikte mehr gehabt. "
+				"\\c[10]Brigantian Soldier\\c[0]: We hadn't had any major",
+				"conflicts here on the border for several",
+				"years now."
 			]
 		},
 		{
@@ -237,10 +231,9 @@
 			"original": "Soldat vom Briganten-Orden: Ich hoffe wirklich, dass es nicht so schlimm ist, wie ihr berichtet. Ein plötzlicher Großangriff wäre verheerend für uns zu diesem Zeitpunkt...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ich hoffe wirklich, ",
-				"dass es nicht so schlimm ist, wie ihr berichtet.\\.",
-				"Ein plötzlicher Großangriff wäre verheerend für ",
-				"uns zu diesem Zeitpunkt..."
+				"\\c[10]Brigantian Soldier\\c[0]: I really hope it isn't as bad",
+				"as you report.\\. A major attack all of a sudden",
+				"would be devastating for us at this point..."
 			]
 		},
 		{
@@ -249,10 +242,9 @@
 			"original": "Cibon: Was bringt es euch, die Gefahr einfach weg zu wünschen? Dadurch wird es euch am Ende nur noch härter treffen.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Was bringt es euch, die ",
-				"Gefahr einfach weg zu wünschen?\\.",
-				"Dadurch wird es euch am Ende nur ",
-				"noch härter treffen."
+				"\\c[2]\\n[2]\\c[0]: What good does it do for you",
+				"to just wish this danger away?\\. It'll",
+				"only hit you harder in the end."
 			]
 		},
 		{
@@ -261,7 +253,7 @@
 			"original": "Soldat vom Briganten-Orden: ...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: ..."
+				"\\c[10]Brigantian Soldier\\c[0]: ..."
 			]
 		},
 		{
@@ -269,8 +261,8 @@
 			"original": "Soldat vom Briganten-Orden: Soso, ihr habt also diese Gruppe bereits in Sinkholm festgenommen?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Soso, ihr habt also ",
-				"diese Gruppe bereits in Sinkholm festgenommen?"
+				"\\c[10]Brigantian Soldier\\c[0]: So, you already arrested this",
+				"group in Sinkholm before?"
 			]
 		},
 		{
@@ -278,10 +270,10 @@
 			"original": "Kento: Genauso ist es. Irgendwie scheinen sie sich wieder befreit zu haben, also passt auf, wenn ihr sie zum Gefängnis bringt.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Genauso ist es. Irgendwie ",
-				"scheinen sie sich wieder befreit zu ",
-				"haben, also passt auf, wenn ihr sie ",
-				"zum Gefängnis bringt."
+				"\\c[1]\\n[1]\\c[0]: The exact same one. They seem",
+				"to have freed themselves somehow, so",
+				"be careful if you take them to",
+				"prison."
 			]
 		},
 		{
@@ -289,9 +281,9 @@
 			"original": "Soldat vom Briganten-Orden: Wir haben hier häufig genug Verbrecher und Erfahrung mit so etwas. Macht euch also keine Sorgen!",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wir haben hier häufig ",
-				"genug Verbrecher und Erfahrung mit so etwas.\\. Macht ",
-				"euch also keine Sorgen!"
+				"\\c[10]Brigantian Soldier\\c[0]: We often have enough",
+				"experience with criminals and the like",
+				"around here.\\. So don't worry!"
 			]
 		},
 		{
@@ -299,8 +291,8 @@
 			"original": "Saion: Hehe, ja das sagen sie alle, bevor sie uns hatten...!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Hehe, ja das sagen sie alle, ",
-				"bevor sie uns hatten...!"
+				"\\c[10]Saion\\c[0]: Hehe, yes they've all said",
+				"that before they got us!"
 			]
 		},
 		{
@@ -308,8 +300,8 @@
 			"original": "Jorn: Ich hoffe im Gefängnis haben sie getrennte Zellen.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Ich hoffe im Gefängnis haben ",
-				"sie getrennte Zellen."
+				"\\c[10]Jorn\\c[0]: I really hope they have",
+				"separate cells in prison."
 			]
 		},
 		{
@@ -325,7 +317,7 @@
 			"original": "Soldat vom Briganten-Orden: RUHE DA!",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: RUHE DA!"
+				"\\c[10]Brigantian Soldier\\c[0]: SILENCE!"
 			]
 		},
 		{
@@ -333,8 +325,8 @@
 			"original": "Soldat vom Briganten-Orden: Nun, auf Wiedersehen, falls man sich wieder sehen sollte.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Nun, auf Wiedersehen, ",
-				"falls man sich wieder sehen sollte."
+				"\\c[10]Brigantian Soldier\\c[0]: Well, goodbye unless we see",
+				"each other again."
 			]
 		},
 		{
@@ -342,8 +334,8 @@
 			"original": "Cibon: Und eine entspannende Reise wünsch ich.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Und eine entspannende Reise ",
-				"wünsch ich."
+				"\\c[2]\\n[2]\\c[0]: And I wish you a relaxing",
+				"journey."
 			]
 		},
 		{
@@ -351,8 +343,8 @@
 			"original": "Soldat vom Briganten-Orden: Ein dumpfes Gefühl sagt mir, dass wir die nicht haben werden.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ein dumpfes Gefühl ",
-				"sagt mir, dass wir die nicht haben werden."
+				"\\c[10]Brigantian Soldier\\c[0]: A grim feeling tells me that",
+				"we won't have it."
 			]
 		},
 		{
@@ -360,9 +352,9 @@
 			"original": "Jorn: Und so wandern die Zinkar Brüder zu ihrem prädestinierten Wohnsitz hinter Gittern.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Und so wandern die Zinkar ",
-				"Brüder zu ihrem prädestinierten ",
-				"Wohnsitz hinter Gittern."
+				"\\c[10]Jorn\\c[0]: And so the Zinkar Brothers",
+				"began their journey to get behind",
+				"the bars to their fated location."
 			]
 		},
 		{
@@ -370,9 +362,9 @@
 			"original": "Saion: Jorn! Soll ich mal versuchen DICH mit meinem Dickschädel 6 Meter in die Erde zu rammen?!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Jorn!\\. Soll ich mal versuchen ",
-				"DICH mit meinem Dickschädel 6 Meter ",
-				"in die Erde zu rammen?!"
+				"\\c[10]Saion\\c[0]: Jorn!\\. Should I try to ram YOU",
+				"six meters into the ground with your",
+				"thick skull?!"
 			]
 		},
 		{
@@ -380,7 +372,7 @@
 			"original": "Soldat vom Briganten-Orden: RUHE IHR BEIDEN!",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: RUHE IHR BEIDEN!"
+				"\\c[10]Brigantian Soldier\\c[0]: SILENCE YOU TWO!"
 			]
 		},
 		{
@@ -396,9 +388,9 @@
 			"original": "Soko: Solche Diebe sind mir beim besten Willen noch nicht über den Weg gelaufen...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Solche Diebe sind mir beim ",
-				"besten Willen noch nicht über den ",
-				"Weg gelaufen... "
+				"\\c[13]\\n[3]\\c[0]: I've never met such thieves",
+				"with such a strong determination",
+				"before..."
 			]
 		},
 		{
@@ -406,8 +398,8 @@
 			"original": "Kento: Die 3 waren diesmal eindeutig hartnäckiger als das letzte Mal...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Die 3 waren diesmal eindeutig ",
-				"hartnäckiger als das letzte Mal..."
+				"\\c[1]\\n[1]\\c[0]: The three were clearly more",
+				"persistent than last time..."
 			]
 		},
 		{
@@ -415,8 +407,8 @@
 			"original": "Cibon: Oh ja, sie müssen viel trainiert haben...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Oh ja, sie müssen viel ",
-				"trainiert haben..."
+				"\\c[2]\\n[2]\\c[0]: Yeah, they must've trained",
+				"a lot..."
 			]
 		},
 		{
@@ -424,9 +416,9 @@
 			"original": "Soko: Oh... und ich hab mich schon gewundert, wo ihr doch erzählt habt, dass die 3 so lächerlich wären.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Oh...\\. und ich hab mich schon ",
-				"gewundert, wo ihr doch erzählt habt, ",
-				"dass die 3 so lächerlich wären."
+				"\\c[13]\\n[3]\\c[0]: Oh...\\. And here I was wondering",
+				"what you mean when you said that the",
+				"three were so ridiculous."
 			]
 		},
 		{
@@ -434,9 +426,8 @@
 			"original": "Soko: Wie das wohl ausgegangen wäre, wenn ich mich nicht mit eingemischt hätte...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wie das wohl ausgegangen wäre, ",
-				"wenn ich mich nicht mit eingemischt ",
-				"hätte..."
+				"\\c[13]\\n[3]\\c[0]: How would it have ended if",
+				"I hadn't intervened..."
 			]
 		},
 		{
@@ -452,7 +443,7 @@
 			"original": "Kento: Geht es dir schon besser, Soko?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Geht es dir schon besser, ",
+				"\\c[1]\\n[1]\\c[0]: Are you feeling better now,",
 				"Soko?"
 			]
 		},
@@ -461,10 +452,9 @@
 			"original": "Soko: Ja... Oh je, ich sollte in nächster Zeit lieber kein Bier anfassen... Nicht während des Auftrages...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ja...\\. Oh je, ich sollte in ",
-				"nächster Zeit lieber kein Bier ",
-				"anfassen...\\. Nicht während des ",
-				"Auftrages..."
+				"\\c[13]\\n[3]\\c[0]: Yes...\\. Oh my, I shouldn't touch",
+				"beer in the near future...\\. Not during",
+				"the order..."
 			]
 		},
 		{
@@ -472,7 +462,7 @@
 			"original": "Cibon: Ganz schlechte Ein...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: \\s[2]Ganz schlechte Ein...\\^"
+				"\\c[2]\\n[2]\\c[0]: \\s[2]Very bad idea yeah...\\^"
 			]
 		},
 		{
@@ -480,10 +470,9 @@
 			"original": "Kento: Bevor das jetzt in die altbekannte Diskussion über Hopfen und Malz ausartet, will ich daran erinnern, wie spät es ist.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Bevor das jetzt in die ",
-				"altbekannte Diskussion über Hopfen ",
-				"und Malz ausartet, will ich daran ",
-				"erinnern, wie spät es ist."
+				"\\c[1]\\n[1]\\c[0]: Before this spirals down into",
+				"that discussion about hops and malt,",
+				"I want to remind you what time it is."
 			]
 		},
 		{
@@ -491,10 +480,9 @@
 			"original": "Kento: Wir sollten schnellstens ins Bett gehen. Wir wollen morgen ja schließlich nicht zu spät aufstehen, oder?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir sollten schnellstens ins ",
-				"Bett gehen.\\. Wir wollen morgen ja ",
-				"schließlich nicht zu spät aufstehen, ",
-				"oder?"
+				"\\c[1]\\n[1]\\c[0]: We should go to bed as soon as",
+				"possible. After all, we don't want to",
+				"get up late tomorrow, do we?"
 			]
 		},
 		{
@@ -502,7 +490,8 @@
 			"original": "Kento: ...Was schaut ihr mich so an?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...\\.Was schaut ihr mich so an?"
+				"\\c[1]\\n[1]\\c[0]: \\.What are you looking at me",
+				"like that for?"
 			]
 		},
 		{
@@ -510,7 +499,7 @@
 			"original": "Korzojenischer Soldat: Halt! Was machen sie hier um die Uhrzeit?",
 			"lines":
 			[
-				"\\c[10]Korzojenischer Soldat\\c[0]: Halt!\\. Was machen sie hier ",
+				"\\c[10]Korzojenish Soldier\\c[0]: Halt!\\. Was machen sie hier ",
 				"um die Uhrzeit?"
 			]
 		},
@@ -529,7 +518,7 @@
 			"original": "Korzojenischer Soldat: N...Nicht so schnell...",
 			"lines":
 			[
-				"\\c[10]Korzojenischer Soldat\\c[0]: N...\\.Nicht so schnell... "
+				"\\c[10]Korzojenish Soldier\\c[0]: N...\\.Nicht so schnell... "
 			]
 		},
 		{
@@ -557,7 +546,7 @@
 			"original": "Korzojenischer Soldat: Schon gut, schon gut, ihr dürft passieren.",
 			"lines":
 			[
-				"\\c[10]Korzojenischer Soldat\\c[0]: Schon gut, schon gut, ihr ",
+				"\\c[10]Korzojenish Soldier\\c[0]: Schon gut, schon gut, ihr ",
 				"dürft passieren."
 			]
 		},
@@ -566,7 +555,7 @@
 			"original": "Soldat vom Briganten-Orden: Ihr...? Was macht ihr hier um die Uhrzeit?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ihr...?\\. Was macht ihr ",
+				"\\c[10]Brigantian Soldier\\c[0]: Ihr...?\\. Was macht ihr ",
 				"hier um die Uhrzeit?"
 			]
 		},
@@ -585,7 +574,7 @@
 			"original": "Soldat vom Briganten-Orden: Wieso? Was ist passiert?",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Wieso?\\. Was ist ",
+				"\\c[10]Brigantian Soldier\\c[0]: Wieso?\\. Was ist ",
 				"passiert? "
 			]
 		},
@@ -625,7 +614,7 @@
 			"original": "Soldat vom Briganten-Orden: Eine organisierte Armee... Soldaten... im Silvanwald?! Was zum...",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Eine organisierte ",
+				"\\c[10]Brigantian Soldier\\c[0]: Eine organisierte ",
 				"Armee...\\. Soldaten...\\. im Silvanwald?!\\. Was zum..."
 			]
 		},
@@ -654,7 +643,7 @@
 			"original": "Soldat vom Briganten-Orden: Ganz ruhig, ganz ruhig.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Ganz ruhig, ganz ",
+				"\\c[10]Brigantian Soldier\\c[0]: Ganz ruhig, ganz ",
 				"ruhig."
 			]
 		},
@@ -663,7 +652,7 @@
 			"original": "Soldat vom Briganten-Orden: Eine Armee im Silvanwald... Nein... Wer hätte gedacht, dass an all den Gerüchten etwas wahr sein könnte. In Ordnung, ich werde die Anderen wecken. Folgt mir.",
 			"lines":
 			[
-				"\\c[10]Soldat vom Briganten-Orden\\c[0]: Eine Armee im ",
+				"\\c[10]Brigantian Soldier\\c[0]: Eine Armee im ",
 				"Silvanwald...\\. Nein...\\. Wer hätte gedacht, dass an ",
 				"all den Gerüchten etwas wahr sein könnte.\\. In ",
 				"Ordnung, ich werde die Anderen wecken.\\. Folgt mir."
@@ -693,7 +682,7 @@
 			"original": "Soldat des Briganten-Orden: Da seid ihr ja endlich. Ich hoffe ihr seid fit genug. Bei dem Wetter wird die Sache sicher ziemlich anstrengend werden.",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Orden\\c[0]: Da seid ihr ja ",
+				"\\c[10]Brigantian Soldier\\c[0]: Da seid ihr ja ",
 				"endlich.\\. Ich hoffe ihr seid fit genug.\\. Bei dem ",
 				"Wetter wird die Sache sicher ziemlich anstrengend ",
 				"werden."
@@ -704,7 +693,7 @@
 			"original": "Soldat des Briganten-Orden: Dafür hilft euch der Regen bei der Tarnung. Ganz zum Nachteil ist es also nicht.",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Orden\\c[0]: Dafür hilft euch der ",
+				"\\c[10]Brigantian Soldier\\c[0]: Dafür hilft euch der ",
 				"Regen bei der Tarnung. Ganz zum Nachteil ist es ",
 				"also nicht."
 			]
@@ -714,7 +703,7 @@
 			"original": "Soldat des Briganten-Orden: Also um es noch mal klar auszudrücken: Eure Aufgabe ist es, diese 2 Soldaten hier zum Stützpunkt dieser Gruppe zu leiten.",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Orden\\c[0]: Also um es noch mal ",
+				"\\c[10]Brigantian Soldier\\c[0]: Also um es noch mal ",
 				"klar auszudrücken:\\. Eure Aufgabe ist es, diese 2 ",
 				"Soldaten hier zum Stützpunkt dieser Gruppe zu ",
 				"leiten."
@@ -725,7 +714,7 @@
 			"original": "Soldat des Briganten-Orden: Ihr werdet dann dort eine Weile die Stellung halten und die Lage beobachten, damit wir den Gegner besser einschätzen können.",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Orden\\c[0]: Ihr werdet dann dort ",
+				"\\c[10]Brigantian Soldier\\c[0]: Ihr werdet dann dort ",
 				"eine Weile die Stellung halten und die Lage ",
 				"beobachten, damit wir den Gegner besser ",
 				"einschätzen können."
@@ -736,7 +725,7 @@
 			"original": "Soldat des Briganten-Orden: Achtet darauf, dass ihr nicht entdeckt werdet. Sollte dies dennoch passieren versucht so schnell wie möglich zur Grenze zu fliehen.",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Orden\\c[0]: Achtet darauf, dass ",
+				"\\c[10]Brigantian Soldier\\c[0]: Achtet darauf, dass ",
 				"ihr nicht entdeckt werdet.\\. Sollte dies dennoch ",
 				"passieren versucht so schnell wie möglich zur ",
 				"Grenze zu fliehen."
@@ -757,7 +746,7 @@
 			"original": "Soldat des Briganten-Orden: Wie auch immer...",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Orden\\c[0]: Wie auch immer..."
+				"\\c[10]Brigantian Soldier\\c[0]: Wie auch immer..."
 			]
 		},
 		{
@@ -765,7 +754,7 @@
 			"original": "Soldat des Briganten-Orden: Gibt es noch irgendwelche Sachen die geklärt...",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Orden\\c[0]: Gibt es noch ",
+				"\\c[10]Brigantian Soldier\\c[0]: Gibt es noch ",
 				"irgendwelche Sachen die geklärt...\\.\\.\\^"
 			]
 		},
@@ -774,7 +763,7 @@
 			"original": "Korzojenischer Soldat: Halt! Was machen Sie hier um diese Uhrzeit!",
 			"lines":
 			[
-				"\\c[10]Korzojenischer Soldat\\c[0]: Halt!\\. Was machen Sie hier ",
+				"\\c[10]Korzojenish Soldier\\c[0]: Halt!\\. Was machen Sie hier ",
 				"um diese Uhrzeit!"
 			]
 		},
@@ -800,7 +789,7 @@
 			"original": "Soldat des Briganten-Orden: Moment! Ist das etwa diese Person die von der Gruppe gefangen gehalten werden sollte? Was geht hier vor?",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Orden\\c[0]: Moment!\\. Ist das etwa ",
+				"\\c[10]Brigantian Soldier\\c[0]: Moment!\\. Ist das etwa ",
 				"diese Person die von der Gruppe gefangen gehalten ",
 				"werden sollte?\\. Was geht hier vor?"
 			]
@@ -818,7 +807,7 @@
 			"original": "Soldat des Briganten-Orden: Öffnet das Tor!",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Orden\\c[0]: Öffnet das Tor!"
+				"\\c[10]Brigantian Soldier\\c[0]: Öffnet das Tor!"
 			]
 		},
 		{
@@ -836,7 +825,7 @@
 			"original": "Herr Uroto: Wachen! Nehmen sie auf der Stelle, diese drei Personen fest!",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Wachen!\\.",
+				"\\c[10]Sir Uroto\\c[0]: Wachen!\\.",
 				"Nehmen sie auf der Stelle, diese ",
 				"drei Personen fest!"
 			]
@@ -862,7 +851,7 @@
 			"original": "Soldat des Briganten-Orden: Ich verstehe nicht...",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Orden\\c[0]: Ich verstehe nicht..."
+				"\\c[10]Brigantian Soldier\\c[0]: Ich verstehe nicht..."
 			]
 		},
 		{
@@ -870,7 +859,7 @@
 			"original": "Herr Uroto: Nehmen sie diese 3 Personen fest! Im Namen der Regierung! Sie sind Spione unseres Feindes!",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Nehmen sie diese 3 ",
+				"\\c[10]Sir Uroto\\c[0]: Nehmen sie diese 3 ",
 				"Personen fest!\\. Im Namen der ",
 				"Regierung!\\. Sie sind Spione unseres ",
 				"Feindes!"
@@ -890,7 +879,7 @@
 			"original": "Soldat des Briganten-Orden: Männer, nehmt sie fest!",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Orden\\c[0]: Männer,\\. nehmt sie ",
+				"\\c[10]Brigantian Soldier\\c[0]: Männer,\\. nehmt sie ",
 				"fest!"
 			]
 		},
@@ -908,7 +897,7 @@
 			"original": "Herr Uroto: Es hat keinen Sinn sich rauszureden! Ich hab alles gehört, was ich hören musste!",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Es hat keinen Sinn sich ",
+				"\\c[10]Sir Uroto\\c[0]: Es hat keinen Sinn sich ",
 				"rauszureden!\\. Ich hab alles gehört, ",
 				"was ich hören musste! "
 			]
@@ -918,7 +907,7 @@
 			"original": "Herr Uroto: Ich bin in Begleitung mit diesen 3 Personen in den Hinterhalt einer militärischen Gruppe geraten. Im Silvanwald.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Ich bin in Begleitung ",
+				"\\c[10]Sir Uroto\\c[0]: Ich bin in Begleitung ",
 				"mit diesen 3 Personen in den ",
 				"Hinterhalt einer militärischen ",
 				"Gruppe geraten.\\. Im Silvanwald."
@@ -929,7 +918,7 @@
 			"original": "Herr Uroto: Daraufhin wurde ich irgendwo in ihrem Stützpunkt eingesperrt.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Daraufhin wurde ich ",
+				"\\c[10]Sir Uroto\\c[0]: Daraufhin wurde ich ",
 				"irgendwo in ihrem Stützpunkt ",
 				"eingesperrt."
 			]
@@ -939,7 +928,7 @@
 			"original": "Herr Uroto: Der Plan war, dass diese 3 Leute euch zu einer falschen Gruppe leiten!",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Der Plan war, dass diese ",
+				"\\c[10]Sir Uroto\\c[0]: Der Plan war, dass diese ",
 				"3 Leute euch zu einer falschen ",
 				"Gruppe leiten!"
 			]
@@ -949,7 +938,7 @@
 			"original": "Herr Uroto: Eine kleine, gestellte Räubergruppe, zufälligerweise mit militärischer Ausrüstung.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Eine kleine, gestellte ",
+				"\\c[10]Sir Uroto\\c[0]: Eine kleine, gestellte ",
 				"Räubergruppe, zufälligerweise mit ",
 				"militärischer Ausrüstung."
 			]
@@ -959,7 +948,7 @@
 			"original": "Herr Uroto: Keine große Sache und demnach kein Grund für Brigantia, das Problem weiter zu untersuchen!",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Keine große Sache und ",
+				"\\c[10]Sir Uroto\\c[0]: Keine große Sache und ",
 				"demnach kein Grund für Brigantia, ",
 				"das Problem weiter zu untersuchen!"
 			]
@@ -969,7 +958,7 @@
 			"original": "Herr Uroto: Das perfekte Alibi.",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Das perfekte Alibi."
+				"\\c[10]Sir Uroto\\c[0]: Das perfekte Alibi."
 			]
 		},
 		{
@@ -1008,7 +997,7 @@
 			"original": "Herr Uroto: Geflohen sagt ihr? Das ich nicht lache!",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Geflohen sagt ihr?\\. Das ",
+				"\\c[10]Sir Uroto\\c[0]: Geflohen sagt ihr?\\. Das ",
 				"ich nicht lache! "
 			]
 		},
@@ -1017,7 +1006,7 @@
 			"original": "Herr Uroto: Wie sollt ihr es bitte geschafft haben, dicht eingesperrt so wie ich es war, aus diesem Stützpunkt zu fliehen?",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Wie sollt ihr es bitte ",
+				"\\c[10]Sir Uroto\\c[0]: Wie sollt ihr es bitte ",
 				"geschafft haben, dicht eingesperrt ",
 				"so wie ich es war, aus diesem ",
 				"Stützpunkt zu fliehen?"
@@ -1039,7 +1028,7 @@
 			"original": "Herr Uroto: Keine richtige Zelle? Und das sollen wir glauben? Was für einen Sinn sollte das haben?!",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Keine richtige Zelle?\\.",
+				"\\c[10]Sir Uroto\\c[0]: Keine richtige Zelle?\\.",
 				"Und das sollen wir glauben?\\. Was für ",
 				"einen Sinn sollte das haben?!"
 			]
@@ -1067,7 +1056,7 @@
 			"original": "Herr Uroto: Das ist eine Sache, an die ich mich nicht richtig erinnern kann...",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Das ist eine Sache, an ",
+				"\\c[10]Sir Uroto\\c[0]: Das ist eine Sache, an ",
 				"die ich mich nicht richtig erinnern ",
 				"kann..."
 			]
@@ -1077,7 +1066,7 @@
 			"original": "Herr Uroto: Ich weiß nicht was passiert ist, irgendjemand muss die Gruppe angegriffen und mich befreit haben...",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Ich weiß nicht was ",
+				"\\c[10]Sir Uroto\\c[0]: Ich weiß nicht was ",
 				"passiert ist, irgendjemand muss die ",
 				"Gruppe angegriffen und mich ",
 				"befreit haben..."
@@ -1088,7 +1077,7 @@
 			"original": "Herr Uroto: Aber das ist jetzt nebensächlich! Wichtig ist, dass wir diesen Plan durchkreuzen!",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Aber das ist jetzt",
+				"\\c[10]Sir Uroto\\c[0]: Aber das ist jetzt",
 				"nebensächlich!\\. Wichtig ist, dass wir ",
 				"diesen Plan durchkreuzen!"
 			]
@@ -1098,7 +1087,7 @@
 			"original": "Herr Uroto: Ich hoffe sie haben genug gehört! Nehmen sie sofort diese Leute gefangen!",
 			"lines":
 			[
-				"\\c[10]Herr Uroto\\c[0]: Ich hoffe sie haben ",
+				"\\c[10]Sir Uroto\\c[0]: Ich hoffe sie haben ",
 				"genug gehört!\\. Nehmen sie sofort ",
 				"diese Leute gefangen!"
 			]
@@ -1118,10 +1107,11 @@
 			"original": "Soldat des Briganten-Orden: Tut mir Leid. Dem Wort eines Abgesandten der Regierung ist zu folgen. Da gibt es für uns keine Kompromisse.",
 			"lines":
 			[
-				"\\c[10]Soldat des Briganten-Orden\\c[0]: Tut mir Leid.\\. Dem Wort ",
+				"\\c[10]Brigantian Soldier\\c[0]: Tut mir Leid.\\. Dem Wort ",
 				"eines Abgesandten der Regierung ist zu folgen.\\. Da ",
 				"gibt es für uns keine Kompromisse."
-			]
+			],
+			"__comment__": "Sorry, but the word of a government official is absolute. There's nothing we can do."
 		},
 		{
 			"path": [72,12,63,2],
@@ -1157,7 +1147,7 @@
 			"original": "Korzojenischer Soldat: Sie können passieren.",
 			"lines":
 			[
-				"\\c[10]Korzojenischer Soldat\\c[0]: Sie können passieren."
+				"\\c[10]Korzojenish Soldier\\c[0]: You may pass."
 			]
 		},
 		{
@@ -1166,8 +1156,8 @@
 			"original": "Korzojenischer Soldat: Wollen sie die Grenze passieren?",
 			"lines":
 			[
-				"\\c[10]Korzojenischer Soldat\\c[0]: Wollen sie die Grenze ",
-				"passieren?"
+				"\\c[10]Korzojenish Soldier\\c[0]: Do you want to cross the",
+				"border?"
 			]
 		},
 		{
@@ -1176,7 +1166,7 @@
 			"original": "Korzojenischer Soldat: Öffnet das Tor!",
 			"lines":
 			[
-				"\\c[10]Korzojenischer Soldat\\c[0]: Öffnet das Tor!"
+				"\\c[10]Korzojenish Soldier\\c[0]: Open the gate!"
 			]
 		}
 	],
@@ -1185,32 +1175,32 @@
 		{
 			"path": [62,3,14],
 			"original": "Ja/Nein",
-			"patch": "Ja/Nein"
+			"patch": "Yes/No"
 		},
 		{
 			"path": [62,3,15],
 			"original": "Ja",
-			"patch": "Ja"
+			"patch": "Yes"
 		},
 		{
 			"path": [62,3,52],
 			"original": "Nein",
-			"patch": "Nein"
+			"patch": "No"
 		},
 		{
 			"path": [77,1,14],
 			"original": "Ja/Nein",
-			"patch": "Ja/Nein"
+			"patch": "Yes/No"
 		},
 		{
 			"path": [77,1,15],
 			"original": "Ja",
-			"patch": "Ja"
+			"patch": "Yes"
 		},
 		{
 			"path": [77,1,53],
 			"original": "Nein",
-			"patch": "Nein"
+			"patch": "No"
 		}
 	]
 }

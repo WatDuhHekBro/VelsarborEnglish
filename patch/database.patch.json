@@ -386,7 +386,7 @@
 			"original": "Soldat: ...Sedric, du HAST den Gegner unterschätzt!",
 			"lines":
 			[
-				"\\c[10]Soldier\\c[0]: Sedric,\\. you HAVE underestimated",
+				"\\c[10]Soldier\\c[0]: Sedric,\\. you really HAVE underestimated",
 				"your opponent!"
 			]
 		},
@@ -396,8 +396,8 @@
 			"original": "Soko: N...Nein! Das kann ich nicht zulassen! NICHT HIER!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: N...\\.Nein!\\. Das kann ich nicht zulassen!\\. ",
-				"NICHT HIER! "
+				"\\c[13]\\n[3]\\c[0]: N...\\. No!\\. I can't allow this to happen.\\.",
+				"NOT HERE!"
 			]
 		},
 		{
@@ -406,7 +406,7 @@
 			"original": "Robin: Nein... diese Schande!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Nein...\\. diese Schande! "
+				"\\c[10]Robin\\c[0]: No...\\. How embarrassing!"
 			]
 		},
 		{
@@ -415,8 +415,8 @@
 			"original": "Saion: Nein! Das kann doch... nicht sein! Wir sind schon so weit oben gewesen... und jetzt das!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Nein!\\. Das kann doch...\\. nicht sein!\\. Wir sind ",
-				"schon so weit oben gewesen...\\. und jetzt das!"
+				"\\c[10]Saion\\c[0]: No!\\. This...\\. can't be!\\. We were so close to",
+				"our revenge...\\. and now this!"
 			]
 		},
 		{
@@ -425,8 +425,8 @@
 			"original": "Jorn: Args... Nicht ... auf die Hände ... fallen...!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Args...\\. Nicht ...\\. auf die Hände ...\\. ",
-				"fallen...!"
+				"\\c[10]Jorn\\c[0]: Argh...\\. Don't think...\\. I'll continue to...\\.",
+				"fall because of you!"
 			]
 		},
 		{
@@ -435,7 +435,7 @@
 			"original": "Gurim: Ach herrje...",
 			"lines":
 			[
-				"\\c[10]Gurim\\c[0]: Ach herrje..."
+				"\\c[10]Gurim\\c[0]: Oh lord..."
 			]
 		},
 		{
@@ -759,7 +759,7 @@
 			"original": "Cibon: Schön und gut, Kumpel. Aber sich darüber zu wundern bringt jetzt auch nichts.",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] All right, Kento.\\. But wondering",
+				"\\c[2]\\n[2]:\\c[0] Alright, Kento.\\. But wondering",
 				"about it now does nothing."
 			]
 		},
@@ -1080,8 +1080,7 @@
 			"original": "Saion: Ihr macht es so, wie wir besprochen haben, verstanden?",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Ihr macht es so, wie wir besprochen haben, ",
-				"verstanden?"
+				"\\c[10]Saion\\c[0]: You'll do it as we discussed, understand?"
 			]
 		},
 		{
@@ -1090,8 +1089,8 @@
 			"original": "Jorn: Diese dritte Person da war aber in deiner so genannten \"Taktik\" nicht mit einbezogen...",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Diese dritte Person da war aber in deiner so ",
-				"genannten \"Taktik\" nicht mit einbezogen..."
+				"\\c[10]Jorn\\c[0]: This third person wasn't included in your",
+				"so-called \"tactics\",\\. if they can be so-called..."
 			]
 		},
 		{
@@ -1100,8 +1099,7 @@
 			"original": "Jorn: Sei's drum. Sie wird keinen großen Einfluss haben.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Sei's drum.\\. Sie wird keinen großen Einfluss ",
-				"haben."
+				"\\c[10]Jorn\\c[0]: So be it.\\. It won't matter much anyways."
 			]
 		},
 		{
@@ -1110,7 +1108,7 @@
 			"original": "Soko: Na wartet...",
 			"lines":
 			[
-				"\\c[13]Soko\\c[0]: Na wartet..."
+				"\\c[13]Soko\\c[0]: Wait..."
 			]
 		},
 		{
@@ -2221,7 +2219,7 @@
 			"lines":
 			[
 				"\\>",
-				"\\>INFO: Attention! This enemy has a protective",
+				"\\>INFO: Attention! This enemy has a magic",
 				"\\>shield."
 			]
 		},
@@ -2243,7 +2241,7 @@
 			"lines":
 			[
 				"\\>",
-				"\\>However, each protective shield can be broken",
+				"\\>However, each magic shield can be broken",
 				"\\>by one or more matching hits."
 			]
 		},
@@ -2254,7 +2252,7 @@
 			"lines":
 			[
 				"\\>",
-				"\\>The type of hit that breaks the shield must",
+				"\\>The type of attack that breaks the shield must",
 				"\\>be found."
 			]
 		},
@@ -2302,7 +2300,8 @@
 			"original": "Saion: Ha, da schaut ihr, nicht wahr, NICHT WAHR?!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Ha, da schaut ihr,\\. nicht wahr,\\. NICHT WAHR?!"
+				"\\c[10]Saion\\c[0]: Ha, look at that,\\. I told you it'd work,\\.",
+				"DIDN'T I?!"
 			]
 		},
 		{
@@ -2311,8 +2310,8 @@
 			"original": "Saion: Beim nächsten Mal bist du weg von der Bildfläche, wart's nur ab!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Beim nächsten Mal bist du weg von der ",
-				"Bildfläche, wart's nur ab!"
+				"\\c[10]Saion\\c[0]: Next time you're on the scene, just you",
+				"wait and see!"
 			]
 		},
 		{
@@ -2321,7 +2320,7 @@
 			"original": "Jorn: Du meine Güte! Es hat gewirkt.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Du meine Güte!\\. Es hat gewirkt."
+				"\\c[10]Jorn\\c[0]: Good grief!\\. It actually worked."
 			]
 		},
 		{
@@ -2330,7 +2329,7 @@
 			"original": "Saion: Was hab ich gesagt?",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Was hab ich gesagt?"
+				"\\c[10]Saion\\c[0]: What did I tell you?"
 			]
 		},
 		{
@@ -2339,7 +2338,7 @@
 			"original": "Jorn: Da, siehst du wie wenig es bringt?!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Da,\\. siehst du wie wenig es bringt?!"
+				"\\c[10]Jorn\\c[0]: There,\\. you see how little it does?!"
 			]
 		},
 		{
@@ -2348,8 +2347,8 @@
 			"original": "Soko: Jahaa~! Seht ihr wie unbedeutend mein Einfluss ist!? Na?!",
 			"lines":
 			[
-				"\\c[13]Soko\\c[0]: Jahaa~! Seht ihr wie unbedeutend mein ",
-				"Einfluss ist!?\\. Na?!"
+				"\\c[13]Soko\\c[0]: Yeah! See how little I can do over here?\\.",
+				"Right?!"
 			]
 		},
 		{
@@ -2358,7 +2357,7 @@
 			"original": "Jorn: ... Die macht mir Angst.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: ... \\.Die macht mir Angst."
+				"\\c[10]Jorn\\c[0]: It scares me how stupid Saion can be."
 			]
 		},
 		{
@@ -2367,8 +2366,8 @@
 			"original": "Kento: Es sind so viele! Macht es überhaupt Sinn zu kämpfen?!",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: Es sind so viele!\\. Macht es überhaupt Sinn ",
-				"zu kämpfen?!"
+				"\\c[1]Kento\\c[0]: There are too many!\\. Does it make any sense",
+				"to keep fight them?!"
 			]
 		},
 		{
@@ -2377,7 +2376,7 @@
 			"original": "(Kento: Nichts wie weg hier!)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Nichts wie weg hier!)"
+				"(\\c[1]\\n[1]\\c[0]: Let's just get out of here!)"
 			]
 		},
 		{
@@ -2606,8 +2605,8 @@
 			"original": "Saion: Jetzt werdet ihr den Preis dafür zahlen, dass ihr euch mit uns angelegt habt!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Jetzt werdet ihr den Preis dafür zahlen, ",
-				"dass ihr euch mit uns angelegt habt!"
+				"\\c[10]Saion\\c[0]: Now you're gonna pay the price for messing",
+				"with us in the first place!"
 			]
 		},
 		{
@@ -2616,7 +2615,7 @@
 			"original": "Saion: ERSTE ZINKAR-RACHESCHLAG-TECHNIK!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: \\s[3]ERSTE ZINKAR-RACHESCHLAG-TECHNIK!"
+				"\\c[10]Saion\\c[0]: \\s[3]ZINKAR REVENGE ATTACK NUMBER ONE!"
 			]
 		},
 		{
@@ -2625,7 +2624,8 @@
 			"original": "Saion: Los Jorn, jetzt bist du dran! Zeig's ihnen!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Los Jorn, jetzt bist du dran!\\. Zeig's ihnen!"
+				"\\c[10]Saion\\c[0]: Alright Jorn, now it's your turn!\\.",
+				"Show it to them!"
 			]
 		},
 		{
@@ -2634,8 +2634,7 @@
 			"original": "Jorn: NEIN! Ich werde NICHT diese schwachsinnige Technik ausführen!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: NEIN!\\. Ich werde NICHT diese schwachsinnige ",
-				"Technik ausführen!"
+				"\\c[10]Jorn\\c[0]: NO!\\. I will NOT do this idiotic technique!"
 			]
 		},
 		{
@@ -2644,7 +2643,7 @@
 			"original": "Saion: Jorn?! Wenn du dich jetzt stur stellst, ...",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Jorn?!\\. Wenn du dich jetzt stur stellst, ..."
+				"\\c[10]Saion\\c[0]: Jorn?!\\. If you choose to be stubborn now..."
 			]
 		},
 		{
@@ -2653,8 +2652,8 @@
 			"original": "Saion: ... dann bist DU derjenige der die Schuld trägt, sollten wir verlieren!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: ... dann bist DU derjenige der die ",
-				"Schuld trägt, sollten wir verlieren!"
+				"\\c[10]Saion\\c[0]: ...then YOU are the one to blame if we",
+				"lose!"
 			]
 		},
 		{
@@ -2663,8 +2662,8 @@
 			"original": "Jorn: Wir verlieren so oder so, egal ob es mache oder nicht!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Wir verlieren so oder so, egal ob es mache ",
-				"oder nicht!"
+				"\\c[10]Jorn\\c[0]: We'll lose one way or the other, no matter",
+				"whether it works or not!"
 			]
 		},
 		{
@@ -2673,7 +2672,7 @@
 			"original": "Saion: Dann beweise mir das!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Dann beweise mir das!"
+				"\\c[10]Saion\\c[0]: Then prove it to me!"
 			]
 		},
 		{
@@ -2682,7 +2681,7 @@
 			"original": "Jorn: ...Wie du meinst, also dann...",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: ...\\.Wie du meinst,\\. also dann...\\^"
+				"\\c[10]Jorn\\c[0]: As you wish,\\. okay then...\\^"
 			]
 		},
 		{
@@ -2691,7 +2690,7 @@
 			"original": "Saion: MIT DEM SPRUCH!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: MIT DEM SPRUCH!"
+				"\\c[10]Saion\\c[0]: WITH THE BATTLE CRY!"
 			]
 		},
 		{
@@ -2700,7 +2699,7 @@
 			"original": "Jorn: Gaa... zweite Zink...",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Gaa...\\. \\s[2]zweite Zink...\\^"
+				"\\c[10]Jorn\\c[0]: Gah... \\s[2]zinkar rev...\\^"
 			]
 		},
 		{
@@ -2709,7 +2708,7 @@
 			"original": "Saion: LAUTER!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: LAUTER!"
+				"\\c[10]Saion\\c[0]: LOUDER!"
 			]
 		},
 		{
@@ -2718,7 +2717,7 @@
 			"original": "Jorn: ZWEITE ZINKAR-RACHESCHLAG-TECHNIK!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: \\s[3]ZWEITE ZINKAR-RACHESCHLAG-TECHNIK!"
+				"\\c[10]Jorn\\c[0]: \\s[3]ZINKAR REVENGE ATTACK NUMBER TWO!"
 			]
 		},
 		{
@@ -2755,7 +2754,7 @@
 			"original": "Kento: DU BIST AN ALLEM SCHULD! DU ALLEINE!",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: YOU'RE RESPONSIBLE FOR EVERYTHING!\\.",
+				"\\c[1]Kento\\c[0]: YOU'RE THE REASON WHY EVERYONE'S SUFFERING!\\.",
 				"YOU ALONE!"
 			]
 		},
@@ -2765,7 +2764,7 @@
 			"original": "Kento: DU WIRST MICH NICHT UNTERKRIEGEN! NIEMALS!",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: YOU WILL NEVER TAKE ME DOWN WITH YOU!\\. EVER!"
+				"\\c[1]Kento\\c[0]: YOU'LL NEVER GET ME TO SURRENDER!\\. EVER!"
 			]
 		},
 		{

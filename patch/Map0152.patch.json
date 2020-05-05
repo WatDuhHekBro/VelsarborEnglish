@@ -7,10 +7,10 @@
 			"original": "Mann: Verdammt, mein Paket! Wo ist es? Ich hätte schwören können, ich hätte es mitgenommen, aber als ich vorhin im Laden gegenüber war, fiel mir plötzlich auf, das es weg war!",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Verdammt, mein Paket!\\. Wo ist es?\\. Ich hätte ",
-				"schwören können, ich hätte es mitgenommen, aber ",
-				"als ich vorhin im Laden gegenüber war, fiel mir ",
-				"plötzlich auf, das es weg war!"
+				"\\c[10]Man\\c[0]: Dammit, my package!\\. Where is it?\\. I could've",
+				"sworn I took it with me, but when I was in the",
+				"store earlier, I suddenly realized that it was",
+				"gone!"
 			]
 		},
 		{
@@ -19,9 +19,8 @@
 			"original": "Mann: Oh...! Mein Paket! Ihr habt es gefunden! Wunderbar! Sagt, wo war es denn?",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Oh...!\\. Mein Paket!\\.",
-				"Ihr habt es gefunden!\\. Wunderbar!\\. ",
-				"Sagt, wo war es denn?"
+				"\\c[10]Man\\c[0]: Oh!\\. My package!\\. There it is!\\. Wonderful!\\.",
+				"Say, where was it?"
 			]
 		},
 		{
@@ -30,8 +29,8 @@
 			"original": "Kento: Im Hinterhof vom Waffenladen. Dort lag es in einer Ecke.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Im Hinterhof vom Waffenladen. ",
-				"Dort lag es in einer Ecke. "
+				"\\c[1]\\n[1]\\c[0]: In the backyard of the weapon",
+				"shop. It was in a corner there."
 			]
 		},
 		{
@@ -40,8 +39,8 @@
 			"original": "Mann: Ah... Wie konnte ich Trottel es nur dort liegen lassen. Wie auch immer, viele Dank.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Ah...\\. Wie konnte ich Trottel es nur dort ",
-				"liegen lassen.\\. Wie auch immer, viele Dank."
+				"\\c[10]Man\\c[0]: Ah...\\. How could I just leave it there?\\.",
+				"Anyways, thanks a lot."
 			]
 		},
 		{
@@ -50,8 +49,8 @@
 			"original": "Mann: Hey, währet ihr auch so nett mir das Paket noch zur nächsten Post-Versand-Stelle zu bringen?",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Hey,\\. währet ihr auch so nett mir das Paket ",
-				"noch zur nächsten Post-Versand-Stelle zu bringen?"
+				"\\c[10]Man\\c[0]: Hey,\\. would you be so kind as to bring the",
+				"package to the nearest post office?"
 			]
 		},
 		{
@@ -60,9 +59,9 @@
 			"original": "Mann: Vielen Dank. Das Paket geht nach Pakonia. Die Versandkosten werden wohl nicht ganz ohne sein. Nehmt das Geld hier.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Vielen Dank.\\. Das Paket geht nach Pakonia.\\. ",
-				"Die Versandkosten werden wohl nicht ganz ohne ",
-				"sein.\\. Nehmt das Geld hier."
+				"\\c[10]Man\\c[0]: Thank you very much.\\. The package should be",
+				"sent to Pakonia.\\. There'll probably be quite",
+				"some shipping costs.\\. Use this money here."
 			]
 		},
 		{
@@ -71,7 +70,7 @@
 			"original": "Mann: Und das hier noch extra für all eure Mühen.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Und das hier noch extra für all eure Mühen."
+				"\\c[10]Man\\c[0]: And here, especially for all your efforts."
 			]
 		},
 		{
@@ -80,7 +79,7 @@
 			"original": "Mann: Vielen Dank für alles im Voraus.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Vielen Dank für alles im Voraus."
+				"\\c[10]Man\\c[0]: Thanks in advance for everything."
 			]
 		},
 		{
@@ -89,8 +88,8 @@
 			"original": "Mann: Ah, na ja das kann ich verstehen. Trotzdem vielen Dank. Hier, das gebe ich euch.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Ah, na ja das kann ich verstehen.\\.",
-				"Trotzdem vielen Dank.\\. Hier, das gebe ich euch."
+				"\\c[10]Man\\c[0]: Ah, well I can understand that.\\. Regardless,",
+				"thanks a lot.\\. Here, I'll give you this."
 			]
 		},
 		{
@@ -99,10 +98,10 @@
 			"original": "Mann: Wart ihr schon mal in Pakonia? Es ist ganz witzig mal dort zu sein. Gerade wegen der Uchiko- Zucht dort. Ihr werdet nirgendwo sonst so viele von den Viechern auf einmal zu sehen bekommen.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Wart ihr schon mal in Pakonia?\\. Es ist ganz ",
-				"witzig mal dort zu sein. \\.Gerade wegen der Uchiko- ",
-				"Zucht dort. \\.Ihr werdet nirgendwo sonst so viele ",
-				"von den Viechern auf einmal zu sehen bekommen."
+				"\\c[10]Man\\c[0]: Have you ever been to Pakonia?\\. It's a very",
+				"entertaining place.\\. Especially because of the",
+				"uchiko breeding scene there.\\. Nowhere else will",
+				"you see so many of those things at once."
 			]
 		},
 		{
@@ -111,9 +110,9 @@
 			"original": "Mann: Das Paket enthält nichts weiter als ein paar Zutaten die sich ein paar Bekannte von mir gewünscht haben.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Das Paket enthält nichts weiter als ein ",
-				"paar Zutaten die sich ein paar Bekannte von mir ",
-				"gewünscht haben. "
+				"\\c[10]Man\\c[0]: The package contains nothing more than a few",
+				"ingredients that some friends of mine would've",
+				"liked."
 			]
 		},
 		{
@@ -122,9 +121,8 @@
 			"original": "Mann: Ich glaube sie wollen damit wieder irgendetwas für ihre Uchikos machen, die sie in Pakonia züchten.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Ich glaube sie wollen damit wieder ",
-				"irgendetwas für ihre Uchikos machen, die sie in ",
-				"Pakonia züchten."
+				"\\c[10]Man\\c[0]: I think they wanted to do something for the",
+				"uchikos they breed in Pakonia."
 			]
 		}
 	],
@@ -133,17 +131,17 @@
 		{
 			"path": [5,2,27],
 			"original": "Gerne doch./Dafür haben wir keine Zeit.",
-			"patch": "Gerne doch./Dafür haben wir keine Zeit."
+			"patch": "Gladly./We don't have time for that."
 		},
 		{
 			"path": [5,2,28],
 			"original": "Gerne doch.",
-			"patch": "Gerne doch."
+			"patch": "Gladly."
 		},
 		{
 			"path": [5,2,53],
 			"original": "Dafür haben wir keine Zeit.",
-			"patch": "Dafür haben wir keine Zeit."
+			"patch": "We don't have time for that."
 		}
 	]
 }

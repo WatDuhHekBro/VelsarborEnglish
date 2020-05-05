@@ -1,6 +1,6 @@
-##############
-# Characters #
-##############
+########
+# List #
+########
 Adelsfrau: Noblewoman
 Adelsmann: Nobleman
 Alte Frau: Old Woman
@@ -8,21 +8,20 @@ Alter Herr: Old Man
 Alter Mann: Old Man
 Anderer Räuber: Other Robber
 Anderer Soldat: Other Soldier
-Anelia (Saltatio)
 Angehender Soldat: Aspiring Soldier
 Ausbilder: Instructor
 Betrunkener Mann: Drunk Man
 Blauhaarige Frau: Blue-Haired Woman
+Blonde Frau: Blonde Woman
+Blonder Soldat: Blond Soldier
+Blonder Typ: Blond Guy
 Blondes Mädchen: Blonde Girl
+Braunhaarige Frau: Brown-Haired Woman
+Braunhaariger Soldat: Brown-Haired Soldier
+Burg Nomerea: Nomerea Castle
 Bürgermeister: Mayor
 Chef: Da Boss
-Cibon (Tirunel)
-Cieoly
-Erim Akiro
-Felcis (Kiorta)
 Frau: Woman
-Frau Mensesso: Lady Mensesso
-Frau Tirunel: Mrs. Tirunel
 Funkdurchsage: Radio
 Gärtner: Gardener
 Gast: Guest
@@ -31,77 +30,107 @@ Gasthofbesitzerin: Inn Owner
 Gasthof-Besitzer: Inn Owner
 Gegnerische Einheit: Enemy Soldier
 General
-Genyu (Daikon)
 Glatzköpfiger Händler: Bald Merchant
 Großvater: Grandfather
 Grünhaarige Frau: Green-Haired Woman
-Guillian
-Gurim (Zinkar)
 Händler: Merchant/Trader (depending on context)
 Händlerin: Merchant/Trader (depending on context)
 Hausfrau: Housewife
-Heimdall
-Herr Dorim: Sir Dorim
 Herr in blauem Anzug: Gentleman in a blue suit
-Herr Qurenporelis/Kuränporäli/Kuhrehpolarkreis/Kurenporalis: Sir Qurenporelis/Kurenporeli/Kuhrehpolarkreis/Kurenporalis
-Herr Uroto: Sir Uroto
 Hotelbesitzer: Hotel Owner
-Ileya (Reisato)
 Ingenieur: Engineer
-Jorn (Zinkar)
 Junge: Boy
 Junge Dame: Young Lady
 Junge Frau: Young Woman
 Junger Mann: Young Man
 Junges Mädchen: Young Girl
 Kellnerin: Waitress
-Kento (Daikon)
 Kleiner Junge: Little Boy
 Kleines Mädchen: Little Girl
 Köchin: Cook
-Koge (Saltatio)
+Korzojenischer Soldat: Korzojenish Soldier
 Kurzhaariges Mädchen: Short-Haired Girl
 Ladenbesitzer: Shopkeeper
 Ladenbesitzerin: Shopkeeper
-Lesario (Saltatio)
 Lilahaarige Frau: Purple-Haired Woman
 Mädchen: Girl
 Mann: Man
 Massen: Crowd
 Mitglied des Rates: Council Member
+Nebelklingen: Mist Blades
 Oberstes Ratmitglied: Head Council Member
-Pauamainer Schütze: ???
-Percil Cotiah
 Postbote: Postman
+Postbote gegenüber: Other Postman
+Postboten-Neuling: Rookie Postman
 Putzfrau: Maid
 Räuber: Robber
 Reisende: Traveller
 Reisender: Traveller
 Reiter: Rider
-Rekreto
-Rika
-Robin
 Rothaarige Frau: Red-Haired Woman
-Royko
-Saion (Zinkar)
-Sedric
+Rothaariger Soldat: Red-Haired Soldier
+Rothaariges Mädchen: Red-Haired Girl
+Schmied: Blacksmith
+Schwarzhaariger Soldat: Black-Haired Soldier
 Sekretärin: Secretary
-Seldan
-Silkia (Tirunel)
-Sir Vorento
-Soko (Filaja)
 Soldat: Soldier
 Soldaten: Soldiers
 Soldat der Briganten Orden: Brigantian Soldier
+Soldat des Briganten-Orden: Brigantian Soldier
 Soldat des Briganten-Ordens: Brigantian Soldier
 Soldat vom Briganten-Orden: Brigantian Soldier
 Türsteher: Bouncer
-Vel03
+Vater: Father
+Verkäufer: Salesman
 Verkäuferin: Saleswoman
 Wache: Guard
+Wachmann: Guard
+Wachmänner: Guard
 Wächter: Guard
-Yahenru (Hartenso)
 Zojenische Einheit: Korzojenish Soldier
+
+###################
+# Fantastic Names #
+###################
+Anelia Saltatio
+Belias
+Cibon Tirunel
+Cieoly
+Erim Akiro
+Felcis Kiorta
+Frau Mensesso: Lady Mensesso
+Frau Tirunel: Mrs. Tirunel
+Genyu Daikon
+Guillian
+Gurim Zinkar
+Heimdall
+Herr Dorim: Sir Dorim
+Herr Qurenporelis/Kuränporäli/Kuhrehpolarkreis/Kurenporalis: Sir Qurenporelis/Kurenporeli/Kuhrehpolarkreis/Kurenporalis
+Herr Uroto: Sir Uroto
+Ileya Reisato
+Jorn Zinkar
+Kento Daikon
+Koge Saltatio
+Lesario Saltatio
+Melanus Aureeus
+Pauamainer Schütze: ???
+Percil Cotiah
+Prinz Rhedoran: Prince Rhedoran
+Ranarion Tirunel
+Rekreto
+Rika
+Robin
+Royko
+Saion Zinkar
+Sedric
+Seldan
+Silkia Tirunel
+Sir Dolaros
+Sir Vintal
+Sir Vorento
+Soko Filaja
+Vel03
+Yahenru Hartenso
 
 #################
 # Miscellaneous #
@@ -114,12 +143,10 @@ The Brigantine Order
 Brigantian Soldiers
 Brigantians live in the world.
 
-Nomerea Castle
-
 (Zojeno is the shortened form in case you hit the limit.)
 The Nation of Korzojeno
 Korzojenish Soldiers
-The Korzojenish live in the world.
+Korzojens live in the world.
 
 The Region of Farenia
 The Farenian Aristocracy

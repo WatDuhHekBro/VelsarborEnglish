@@ -1,0 +1,26 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [1,3,11,2],
+			"indent": 2,
+			"original": "(Kento: Hm... wieso stecke ich so etwas eigentlich ein?)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Hm...\\. Why am I actually",
+				"searching this?)"
+			],
+			"__comment__": "Yeah, no clue what this means."
+		},
+		{
+			"path": [3,3,11,2],
+			"indent": 2,
+			"original": "(Kento: Hm... wieso stecke ich so etwas eigentlich ein?)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Hm...\\. Why am I actually",
+				"searching this?)"
+			]
+		}
+	]
+}

@@ -6,9 +6,9 @@
 			"original": "Mann: Ein Bekannter von mir aus Hamsol hat mir letztens einen Brief geschickt. Die Lage in der Stadt verschlechtert sich nur zunehmend.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Ein Bekannter von mir aus Hamsol hat mir ",
-				"letztens einen Brief geschickt. Die Lage in der ",
-				"Stadt verschlechtert sich nur zunehmend. "
+				"\\c[10]Man\\c[0]: A friend of mine from Hamsol recently sent",
+				"me a letter. The situation in the city is only",
+				"getting worse."
 			]
 		},
 		{
@@ -16,10 +16,9 @@
 			"original": "Mann: Seit die Fische in den Gewässern knapper wurden, verarmen alle Fischer in der Gegend Südwestlich von hier und Hamsol als ihre Heimat mit ihnen.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Seit die Fische in den Gewässern knapper ",
-				"wurden, verarmen alle Fischer in der Gegend ",
-				"Südwestlich von hier und Hamsol als ihre Heimat ",
-				"mit ihnen."
+				"\\c[10]Man\\c[0]: Ever since the fish became more scarce, all",
+				"fishermen in the area southwest of here and in",
+				"Hamsol, their homeland, have become impoverished."
 			]
 		},
 		{
@@ -27,10 +26,9 @@
 			"original": "Mann: Wir in Gencorin haben das Glück an einer beliebten Reiseroute zu liegen, Hamsol dagegen befindet sich an einer Küste an der kaum ein Mensch vorbei kommt.",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Wir in Gencorin haben das Glück an einer ",
-				"beliebten Reiseroute zu liegen,\\. Hamsol dagegen ",
-				"befindet sich an einer Küste an der kaum ein ",
-				"Mensch vorbei kommt. "
+				"\\c[10]Man\\c[0]: In Gencorin, we're lucky to be on a popular",
+				"travel route,\\. while Hamsol is on a coast that",
+				"hardly gets any visitors."
 			]
 		},
 		{
@@ -38,7 +36,7 @@
 			"original": "Mann: Was soll man da nur machen?",
 			"lines":
 			[
-				"\\c[10]Mann\\c[0]: Was soll man da nur machen?"
+				"\\c[10]Man\\c[0]: What should we do?"
 			]
 		}
 	]
