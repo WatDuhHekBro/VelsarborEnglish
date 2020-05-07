@@ -71,7 +71,8 @@
 			"lines":
 			[
 				"\\c[10]Man\\c[0]: And here, especially for all your efforts."
-			]
+			],
+			"__comment__": "And here's for your troubles."
 		},
 		{
 			"path": [5,2,49,1],

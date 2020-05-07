@@ -167,7 +167,7 @@
 			"lines":
 			[
 				"\\c[10]Guard\\c[0]: Tomorrow, get up at 5 o'clock.\\. You'll haul",
-				"your ass into the mine like everyone else here!"
+				"your asses into the mine like everyone else here!"
 			]
 		},
 		{
@@ -175,7 +175,7 @@
 			"original": "Cibon: In... In die Mine?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: In...\\. the mine?"
+				"\\c[2]\\n[2]\\c[0]: Into...\\. the mine?"
 			]
 		},
 		{
@@ -268,7 +268,7 @@
 			"lines":
 			[
 				"\\c[10]Guard\\c[0]: But it's generous.\\. It eats shit like you",
-				"and spits out iron ore for it\\. - extremely",
+				"and spits out iron ore for it.\\. Extremely",
 				"lucrative,\\. ain't that right?"
 			]
 		},
@@ -288,7 +288,7 @@
 			"lines":
 			[
 				"\\c[10]Guard\\c[0]: Just do as you're told and the day will",
-				"stay bright\\. - or slightly cloudy depending on",
+				"stay bright.\\. Or slightly cloudy depending on",
 				"how you look at it."
 			]
 		},

@@ -824,7 +824,8 @@
 			"original": "Soko: Was ist los mit ihm?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: What happened to him?"
+				"\\c[13]\\n[3]\\c[0]: What's with Kento all of",
+				"a sudden?"
 			]
 		},
 		{
@@ -1092,7 +1093,7 @@
 			"original": "Kento: Also...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: So..."
+				"\\c[1]\\n[1]\\c[0]: Hey..."
 			]
 		},
 		{
