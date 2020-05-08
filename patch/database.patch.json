@@ -925,8 +925,8 @@
 			"original": "Soko: Cibon, was fällt dir ein einfach so los zu stürmen?!",
 			"lines":
 			[
-				"\\c[13]Soko\\c[0]: Cibon, what were you thinking when storming",
-				"them?!"
+				"\\c[13]Soko\\c[0]: Cibon, what was going on in your head when",
+				"you decided to storm them?!"
 			]
 		},
 		{
@@ -935,7 +935,8 @@
 			"original": "Cibon: Sag bloß, du hättest dem Spektakel nur zugesehen!",
 			"lines":
 			[
-				"\\c[2]Cibon\\c[0]: Just say you just watched the spectacle!"
+				"\\c[2]Cibon\\c[0]: Just say you wanted to see what was",
+				"happening!"
 			]
 		},
 		{
@@ -953,8 +954,7 @@
 			"original": "Cibon: Nichts aber, jetzt wird gekämpft!",
 			"lines":
 			[
-				"\\c[2]Cibon\\c[0]: Forget it,\\. now there's a battle to attend",
-				"to!"
+				"\\c[2]Cibon\\c[0]: Forget it,\\. there's a battle to attend to!"
 			]
 		},
 		{
@@ -2366,8 +2366,8 @@
 			"original": "Kento: Es sind so viele! Macht es überhaupt Sinn zu kämpfen?!",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: There are too many!\\. Does it make any sense",
-				"to keep fight them?!"
+				"\\c[1]Kento\\c[0]: We're outnumbered!\\. Does it make any sense",
+				"to keep fighting them?!"
 			]
 		},
 		{

@@ -7,10 +7,12 @@ To install this patch, follow the instructions [here](GettingStarted.md).
 # Videos
 I have a playlist of update videos in case you want to watch it instead of playing it, [here](https://www.youtube.com/playlist?list=PLT800wgkhxolwCulnS8bWs9LVEPnssTgy). Keep in mind that I'm cutting out regular battles since they're boring to watch.
 
-And here are some references:
+Here are some references:
 - [TrueMG](https://www.youtube.com/playlist?list=PLEED9E15CB6E0D597) (First Demo, up to the end of the Silvan Forest)
 - [TrueMG](https://www.youtube.com/playlist?list=PLSgi0v-Xd3aGWEzfvjlh2gbqLF_cllSq_) (Second/Final Demo, up to the end of Nomerea)
 - [MajinSonicLP](https://www.youtube.com/playlist?list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN) (Second/Final Demo, the entire game)
+
+And let's not forget the video that started it all: [The video by Hydlide S](https://www.youtube.com/watch?v=LNBnLKQmUmQ)
 
 # Dev Section Below
 AFAIK, the people who previously worked on translations never published their progress, and it seems like they haven't worked on it since.

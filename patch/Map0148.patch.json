@@ -219,8 +219,8 @@
 			"original": "Kento: Noch einmal zum aufschreiben: Mir - geht - es - gut!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Again, for the record:\\.\\. I.\\.\\. Am.\\.\\.",
-				"Completely.\\.\\. Fine!"
+				"\\c[1]\\n[1]\\c[0]: I've said it before and I'll",
+				"say it again:\\.\\. I\\.\\. am\\.\\. completely\\.\\. fine!"
 			]
 		},
 		{
@@ -284,7 +284,7 @@
 			"original": "Cibon: Niemand zu sehen...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Nobody to see..."
+				"\\c[2]\\n[2]\\c[0]: Nobody in sight..."
 			]
 		},
 		{

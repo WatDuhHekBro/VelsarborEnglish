@@ -15,7 +15,7 @@
 			"original": "(Seldan: Verdammt. Wenn ich in zu viele Gegner rein renne, werd ich am Ende nicht genug Kraft haben...)",
 			"lines":
 			[
-				"(\\c[1]Seldan\\c[0]:\\s[2] Damn it. If I run into",
+				"(\\c[1]Seldan\\c[0]:\\s[2] Damn it.\\. If I run into",
 				"too many soldiers, I won't have",
 				"enough strength to finish this...)"
 			]

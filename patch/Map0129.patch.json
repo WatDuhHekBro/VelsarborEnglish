@@ -133,8 +133,8 @@
 			"original": "????: Gut, das war alles. Lass uns verschwinden!",
 			"lines":
 			[
-				"\\c[10]????\\c[0]: Well, that was all.\\. Let's get",
-				"out of here!"
+				"\\c[10]????\\c[0]: Well, that's all.\\. Let's get out",
+				"of here!"
 			]
 		},
 		{
@@ -150,7 +150,7 @@
 			"original": "????: Nur um sicher zu gehen.",
 			"lines":
 			[
-				"\\c[10]????\\c[0]: Just to be sure."
+				"\\c[10]????\\c[0]: Just for good measure."
 			]
 		},
 		{
@@ -355,7 +355,8 @@
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: \"Prepare\"?\\. By knocking you",
-				"out?\\. What kind of maniacs are they?"
+				"senseless?\\. What kind of maniacs",
+				"are they?"
 			]
 		},
 		{

@@ -59,7 +59,7 @@
 			"lines":
 			[
 				"\\c[10]Korzojenish Soldier\\c[0]: He has already defeated",
-				"a dozen soldiers! Single-handedly!"
+				"a dozen soldiers!\\. Single-handedly!"
 			]
 		},
 		{
@@ -137,7 +137,7 @@
 			"original": "Zojenische Einheit: ... Gut, aber beeilen Sie sich!",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] ...\\. Fine,\\. but hurry up!"
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] ...\\.Fine,\\. but hurry up!"
 			]
 		},
 		{

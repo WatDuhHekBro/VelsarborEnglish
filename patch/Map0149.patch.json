@@ -1009,9 +1009,9 @@
 			"original": "Herr Uroto: Keine richtige Zelle? Und das sollen wir glauben? Was für einen Sinn sollte das haben?!",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Not a real cell?\\. And why",
-				"should we believe that?\\. What sense",
-				"does that make?!"
+				"\\c[10]Sir Uroto\\c[0]: Not locked in a real cell?\\.",
+				"And why should I believe that?\\.",
+				"What sense does that make?!"
 			]
 		},
 		{
@@ -1114,10 +1114,11 @@
 			"lines":
 			[
 				"(\\c[5]\\n[5]\\c[0]: And just like that, the son",
-				"is now on his way to confinement.\\.",
-				"Hopefully, this'll calm down the",
-				"father for now.)"
-			]
+				"is captured once more.\\. Hopefully,",
+				"this'll be enough to keep the",
+				"father's anger at bay for now.)"
+			],
+			"__comment__": "And just like that, the son is <captured/in our hands> once more."
 		},
 		{
 			"path": [77,1,3,1],

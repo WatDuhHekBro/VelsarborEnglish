@@ -66,5 +66,6 @@
 				"mentioned here...)"
 			]
 		}
-	]
+	],
+	"__comment__": "It also seems like this scene was supposed to have music. There's a play BGM command here unlike with the Buronia scene, \"DasLandEntscheidet\", but the midi itself doesn't play. Passing it through MuseScore3 seems to work."
 }

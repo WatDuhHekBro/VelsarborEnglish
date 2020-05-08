@@ -6,9 +6,10 @@
 			"original": "(Kento: Hier geht es zu den Holzfällern. Ich denke wir würden dort nur bei der Arbeit stören. Wir haben dort eh nichts zu suchen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Here's a lumberjack. I think",
-				"we'd only be disturbing his work. We",
-				"have no business here anyway.)"
+				"(\\c[1]\\n[1]\\c[0]: Here's where lumberjacks",
+				"would go. I think we'd only be",
+				"disturbing their work. We have",
+				"no business here anyway.)"
 			]
 		},
 		{

@@ -516,5 +516,10 @@
 				"requires it."
 			]
 		}
-	]
+	],
+	"replace":
+	{
+		"[11120,0,\"\",[10,0,160,120,0,100,0,0,100,100,100,100,0,0,5,1]],[11410,0,\"\",[10]]": "[11120,0,\"\",[10,0,160,120,0,100,0,0,100,100,100,100,0,0,5,1]],[11410,0,\"\",[10]],[11510,0,\"AmLaengerenHebel\",[5000,100,100,50]]"
+	},
+	"__comment__": "It seems like there was supposed to be music here but was forgotten, because there's a fade out BGM command at the end of the second visit."
 }

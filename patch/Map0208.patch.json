@@ -379,7 +379,7 @@
 			"lines":
 			[
 				"\\c[10]Guard\\c[0]: It's none of your business!\\.",
-				"Just rest!"
+				"Be quiet already!"
 			]
 		},
 		{
@@ -786,7 +786,7 @@
 			"original": "?????: Hier ist Endstation!",
 			"lines":
 			[
-				"\\c[10]?????\\c[0]: This is the end of it!"
+				"\\c[10]?????\\c[0]: Playtime's over, prisoners!"
 			]
 		},
 		{
@@ -794,7 +794,7 @@
 			"original": "Rothaariger Soldat: Ihr drei werdet alle schön wieder ins Kittchen wandern!",
 			"lines":
 			[
-				"\\c[10]Rothaariger Soldat\\c[0]: You three will",
+				"\\c[10]Red-Haired Soldier\\c[0]: You three will",
 				"all go back to your cells!"
 			]
 		},
@@ -909,8 +909,7 @@
 			"original": "Cibon: Hey Mister Ich-markier-heut- mal-die-ein-Mann-Armee!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hey \"Mr. I'm marking a one-man",
-				"army today!\""
+				"\\c[2]\\n[2]\\c[0]: Hey \"mister one man army\"!"
 			]
 		},
 		{
@@ -918,8 +917,8 @@
 			"original": "Cibon: Siehste deine beiden Kollegen da hinten?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: You see our two teammates back",
-				"there, right?"
+				"\\c[2]\\n[2]\\c[0]: You see your fellow soldiers",
+				"back there?"
 			]
 		},
 		{
@@ -927,10 +926,9 @@
 			"original": "Cibon: Wenn du ebenfalls Teil dieser Bodenpflasterung werden willst, komm nur runter und stell dich, anstatt uns zu Tode zu labern!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: If you want to be part of this",
-				"destruction too,\\. just come down and",
-				"fight us instead of babbling to",
-				"death!"
+				"\\c[2]\\n[2]\\c[0]: If you want to join them too,\\.",
+				"then just come down here and fight",
+				"us instead of droning on and on!"
 			]
 		},
 		{
@@ -990,7 +988,7 @@
 			"original": "Sedric: Kein aber! Du wirst jetzt Teil dieser Meisterleistung!",
 			"lines":
 			[
-				"\\c[10]Sedric\\c[0]: No buts, ifs, or ands!\\. You'll",
+				"\\c[10]Sedric\\c[0]: No ifs, ands, or buts!\\. You'll",
 				"now be a part of this grand",
 				"masterpiece!"
 			]
@@ -1016,9 +1014,9 @@
 			"original": "Cibon: Ich hab ihn ja gewarnt, dass er Bodenbelag wird, aber er wollt's mir ja nicht glauben.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: I told him that he was going",
-				"into a bloodbath,\\. but \\s[1]nooo\\s[0], he",
-				"didn't want to believe me."
+				"\\c[2]\\n[2]\\c[0]: I told him he was in for",
+				"a beating,\\. but \\s[1]nooo\\s[0], he didn't",
+				"want to believe me."
 			]
 		},
 		{
@@ -1026,8 +1024,9 @@
 			"original": "Kento: Ich bin froh, dass nur er mich gesehen hat und sonst niemand.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: I'm glad that it was only him",
-				"who saw me instead of anyone else."
+				"\\c[1]\\n[1]\\c[0]: I'm just glad that it was him",
+				"who saw me rather than some other",
+				"soldier."
 			]
 		},
 		{

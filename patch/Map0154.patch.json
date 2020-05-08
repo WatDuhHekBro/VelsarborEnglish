@@ -824,7 +824,8 @@
 			"original": "Soko: Was ist los mit ihm?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: What happened to him?"
+				"\\c[13]\\n[3]\\c[0]: What's with Kento all of",
+				"a sudden?"
 			]
 		},
 		{
@@ -1092,7 +1093,7 @@
 			"original": "Kento: Also...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: So..."
+				"\\c[1]\\n[1]\\c[0]: Hey..."
 			]
 		},
 		{
@@ -1618,8 +1619,8 @@
 			"original": "Soko: Wir sollten noch unsere Heilmittel aufstocken bevor wir aufbrechen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: We should top up our supplies",
-				"before we leave."
+				"\\c[13]\\n[3]\\c[0]: We should stock up on our",
+				"supplies before we leave."
 			]
 		},
 		{

@@ -34,7 +34,7 @@
 			"original": "Funkdurchsage: ... DAS IST NICHT IHR ERNST!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]:\\s[1] You... YOU'RE INSANE!"
+				"\\c[10]Radio\\c[0]:\\s[1] You...\\. YOU'RE INSANE!"
 			]
 		},
 		{
@@ -50,7 +50,7 @@
 			"original": "Funkdurchsage: Sie...SIE... SIE KÖNNEN DOCH NICHT...!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]:\\s[1] You... YOU...\\. YOU CAN'T DO THAT!!\\.",
+				"\\c[10]Radio\\c[0]:\\s[1] You...\\. YOU...\\. YOU CAN'T DO THAT!!\\.",
 				"STOP THIS NOW!!\\. VEL03!!"
 			]
 		},
@@ -108,7 +108,7 @@
 			"original": "Zojenische Einheit: Da ist er! Auf ihn!",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]:\\s[2] There he is! Get him!"
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[2] There he is!\\. Get him!"
 			]
 		},
 		{
