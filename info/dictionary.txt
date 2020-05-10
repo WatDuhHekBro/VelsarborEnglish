@@ -69,9 +69,6 @@ Mitglied des Rates: Council Member
 Nebelklingen: Mist Blades
 Nicht ganz eingelebter Gefangener: New Prisoner
 Oberstes Ratmitglied: Head Council Member
-Pauamainer-Miglied: Pauamainer Member (must be a misspelling of "Mitglied")
-Pauamainer-Mitglied: Pauamainer Member
-Pauamainer Schütze: Pauamainer Archer
 Postbote: Postman
 Postbote gegenüber: Other Postman
 Postboten-Neuling: Rookie Postman
@@ -131,7 +128,9 @@ Koge Saltatio
 Kumiko
 Lesario Saltatio
 Melanus Aureeus
-Pauamainer Schütze: ???
+Pauamainer-Miglied: Pauamainer Member (must be a misspelling of "Mitglied")
+Pauamainer-Mitglied: Pauamainer Member
+Pauamainer Schütze: Pauamainer Archer
 Percil Cotiah
 Prinz Rhedoran: Prince Rhedoran
 Ranarion Tirunel

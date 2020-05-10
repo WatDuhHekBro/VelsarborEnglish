@@ -683,7 +683,6 @@ Guard: Sollte das Team mit dem höheren Rang in einem Kampf verlieren, so sinkt 
 Guard: Verliert wiederum der Gegner mit dem tieferen Rang, passiert gar nichts.
 Guard: Was Ausrüstung angeht: Ihr werdet euch diese aussuchen können, aber dazu erfährt ihr mehr im Rüstungsraum, solltet ihr mal kämpfen.
 
-#
 Guard: Ihr seid aber ganz schön schnell. Gerade erst hier angekommen und schon ab in die Arena. Naja, euer Ding.
 Guard: Ich nehmen mal an, dass ihr zu dritt als Team antreten wollt. In dem Fall bräuchte ich einen Teamnamen.
 Soko: Wie, einen Teamnamen?
@@ -752,76 +751,6 @@ Soko: ... Dennoch, du hättest irgendwas anderes wählen können...
 Guard: Nun gut. Jetzt wo ihr angemeldet seid, könnt ihr euren ersten Kampf machen.
 Guard: Hier ist die Rangliste. Wenn ihr kämpfen wollt, wählt euren Gegner aus.
 Guard: Ihr könnt nur Teams bekämpfen, die im Rang unter euch sind oder ein bis zwei Ränge höher.
-#
-Guardian: But you're pretty quick. Just arrived here and off to the arena. Well, your thing.
-Guardian: I assume that the three of you want to compete as a team. In that case, I would need a team name.
-Soko: How, a team name?
-Guardian: This is common here. Don't think people want to remember your strange names. So come up with something.
-Guardian: If I remember correctly, you were the force that cheated our country, right?
-Guardian: How about "The Traitors"? With the name, most of you will know who it is!
-Soko: Never!
-Cibon: That would be even nicer!
-Guardian: Beautiful, beautiful! Then think of something better. But don't let me wait too long or I'll write down my idea whether you like it or not.
-Cibon: Come on, come up with something, buddy!
-Kento: I don't know ...
-Soko: Anything is better than this name ...
-Kento: Um ...
-Cibon: ... quick buddy!
-Kento: Now, don't rush me!
-Cibon: We don't have time.
-Kento: "The Sunbread Squad".
-Cibon: What the hell?
-Kento: It comes from when you put me under pressure like this. Why doesn't anything come from your side? < That's what happens when you put me under pressure like this. Why don't you come up with something better?
-Soko: "The Brigantine Pride"!
-Cibon: Hm ...
-Kento: I don't know, but the way it sounds, people will take it very ironically, Soko ...
-Soko: ...
-Cibon: I got it! We call ourselves after our destiny! The reason we're fighting for why we're going through all this stuff!
-Soko: And that would be what? < And what would that be?
-Cibon: "The Zinkar Butchers"!
-Kento: ... Good ... That would at least clarify what we want to achieve ...
-Guardian: Do you three have it slow? So you either tell me your team name, or your name is "The Traitors" and end. < and that's the end of it.
-(Kento: Looks like I have to choose now.)
-Kento: Our team name would then be "The Zinkar Butchers".
-Guardian: Zinkar Butcher? So you want to overpower the Zinkar brothers? Then you still have a long way to go, because they are not that far down.
-Cibon: Excuse me?
-Guardian: In third place, to be exact.
-Kento: Oha, that's surprising.
-Cibon: This has to be changed urgently. What kind of tournament is that, where guys like this are up there?
-Kento: Our team name would then be ... "The Sunbread Squad" ... < Our team name will be...
-Guardian: Excuse me?
-Kento: Sunbread, like the baked goods. "Meticulously baked to perfection using sunflour!"
-Cibon: Buddy, you're not serious, are you? How should they take us with such a name seriously? < Kento, you gotta be kidding me! How are we supposed to be taken seriously with such a name?
-Kento: If you don't take us seriously, you will underestimate us and that would be an advantage. < If they don't take us seriously, they'll underestimate us which would be an advantage.
-Cibon: ... No! That would be absolutely stupid! < ...No! That'd be absolutely stupid!
-Guardian: Whatever! If you want to be called Repsbrot troop, then you are called that. Registered < If you want to be called the Sunbread Squad, then we'll call you that.
-Guardian: This would make you the first force in the history of this prison to name something edible. < This'll make you the first team in the history of this prison to be named after something edible.
-Soko: Great class. < Wow. Great name you picked there.
-Kento: I like reps bread ... < What? I like sunbread...
-Kento: Our team name would then be "The Brigantine Pride".
-Cibon: Um... are you sure about that Kento?
-Soko: Let the people know that we behaved as soldiers of the Brigantine Order do!
-Guard: Brigantine... Pride...?
-Guardian: Wuahahahahahahahahahahahahahahahahaha! I've never seen anything like it!
-Guardian: Brigantine Pride! And in a prison! A Brigantine prison of all places! Brigantia can definitely be proud of that, oh yeah they most certainly can!
-Soko: ...Hey, we were wrongly locked up here!
-Guardian: Haha, yep. That's what they all say.
-Cibon: You made a great choice there, buddy ... < You made a great choice there... *eye roll*
-Soko: I think it's good. It shows that you still believe in our innocence, Kento. < I think it's a good choice.
-(Kento: I just found the self-irony of the name interesting, but I better not say anything ...) < (Kento: I mostly just found the irony of this name too good to pass up, but I better not say anything...)
-Kento: I ... can't make up my mind. So we take "The Traitors". < I... just can't make up my mind. So we'll go with "The Traitors".
-Soko: Kento! Why are you doing this?! Any other name would have been better, even Repsbrot troops!
-Cibon: Yeah ... even Repsbrot troops ... okay maybe not, but damn, what about Zinkar butcher ?! < but still
-Guardian: Ha, I knew it suited you. "The Traitors". Registered and connected. < suits you well ... Registered through and through!
-Soko: No! We don't want that name!
-Guardian: Do I look as if I would like to correct this entry again? The thing is done, so stop whining.
-Kento: Sometimes it's best to just go with the river, Soko. < go with the flow
-Kento: If people here think we're all traitors, a team name won't change that.
-Soko: ... Still, you could have chosen something else ...
-Guardian: All right. Now that you are registered, you can start your first fight.
-Guardian: Here is the ranking. If you want to fight, choose your opponent.
-Guardian: You can only fight teams that are ranked below you or one or two ranks higher.
-#
 
 Guard: Hier ist Turnier-Anmeldung. Was wollt ihr?
 Guard: Gut, dann steht hier bitte nicht im Weg rum.
@@ -2316,39 +2245,3 @@ Genji: Wir müssen uns vorbereiten. Das ist alles was ich damit sagen will.
 ?????: Du hast recht. Ich habe diese Tatsache wohl unterschätzt...
 ?????: Kumiko? Macht dich bitte mit der Gegend vertraut. Wir werden deine Fähigkeiten womöglich in Anspruch nehmen müssen.
 Kumiko: G-Geht in Ordnung!
-
-?????: No, I didn't get a look. He is it. Do you really think I would forget this face?
-?????: It is the same general who took everything from us back then.
-?????: N-No ... please not here ...
-?????: Genji ... None of us have forgotten this person, nor will we ever do that.
-?????: In this situation we shouldn't be guided by thoughts of revenge, do you understand that? We have a mission ...
-Genji: I'm not concerned with revenge. I am concerned with the danger this person poses.
-Genji: Should the escape that you prophesied take place and Kento should encounter this person - what then?
-Genji: We both know what this general is capable of. Twin soul or not, Kento would not survive!
-Genji: You can't tell me that Heimdall completely missed this fact!
-?????: ... he warned me. Nevertheless, it is not a situation in which we should intervene prematurely.
-Genji: And that's why you don't tell us anything? This is not a situation that we can get regulated by spontaneous intervention! < save at the last minute
-Genji: If we rush into it without thinking, it not only costs Kento's life, but also ours. Do you want to be responsible for that?
-Genji: We have to prepare. That's all I want to say with it.
-?????: You're right. I probably underestimated this fact ...
-?????: Kumiko? Please familiarize yourself with the area. We may need to use your skills. < survey/scout out the area
-Kumiko: G-Okay!
-
-https://www.youtube.com/watch?v=kqOLLa8Nu2o&list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN&index=39 @ 6:43
-
-Genji
-Genji
-Kumiko
-Prophet
-Prophet
-...
-...
-...
-...
-Prophet
-...
-...
-...
-Prophet
-Prophet
-...
