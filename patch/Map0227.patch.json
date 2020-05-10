@@ -67,5 +67,9 @@
 			]
 		}
 	],
-	"__comment__": "It also seems like this scene was supposed to have music. There's a play BGM command here unlike with the Buronia scene, \"DasLandEntscheidet\", but the midi itself doesn't play. Passing it through MuseScore3 seems to work."
+	"replace":
+	{
+		"[12330,0,\"\",[0,119,0]],[11120,0,\"\",[16,0,160,120,0,130,0,0,100,100,100,100,0,0,5,1]]": "[12330,0,\"\",[0,119,0]],[11520,0,\"\",[2000]],[11120,0,\"\",[16,0,160,120,0,130,0,0,100,100,100,100,0,0,5,1]]"
+	},
+	"__comment__": "It also seems like this scene was supposed to have music. There's a play BGM command here unlike with the Buronia scene, \"DasLandEntscheidet\", but the midi itself doesn't play. Passing it through MuseScore3 seems to work. There isn't a fade out event though, making the transition awkward."
 }

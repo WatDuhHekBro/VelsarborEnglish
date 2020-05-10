@@ -973,7 +973,7 @@
 			"original": "????: Noch kannst du nichts wissen. Noch DARFST du nichts wissen!",
 			"lines":
 			[
-				"\\c[10]????\\c[0]: You do not know anything yet.",
+				"\\c[10]????\\c[0]: You do not know anything yet.\\.\\.",
 				"You CANNOT know anything yet!"
 			]
 		},
@@ -2576,8 +2576,8 @@
 			"original": "Kento: Redet! Wer seid ihr!? Was wollt ihr!? Und wieso greift ihr mich an?!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Answer me! Who are you people!? What do",
-				"you want with me!? Why are you attacking me?!"
+				"\\c[1]\\n[1]\\c[0]: Answer me! Who are you people?! What do",
+				"you want with me?! Why are you attacking me?!"
 			]
 		},
 		{

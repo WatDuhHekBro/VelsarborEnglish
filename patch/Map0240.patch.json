@@ -346,8 +346,8 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: It can't be that something like",
-				"this happens... We did all the right",
-				"things and yet... still..."
+				"this happens...\\. We did all the right",
+				"things and yet...\\. still..."
 			]
 		},
 		{

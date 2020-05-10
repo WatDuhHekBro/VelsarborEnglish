@@ -4,11 +4,15 @@
 Adelsfrau: Noblewoman
 Adelsmann: Nobleman
 Alte Frau: Old Woman
+Ater Gefangener: Old Prisoner (must be a misspelling of "Alter")
+Alter Gefangener: Old Prisoner
 Alter Herr: Old Man
 Alter Mann: Old Man
+Älterer Gefangener: Old Prisoner
 Anderer Räuber: Other Robber
 Anderer Soldat: Other Soldier
 Angehender Soldat: Aspiring Soldier
+Ansager: Announcer
 Ausbilder: Instructor
 Betrunkener Mann: Drunk Man
 Blauhaarige Frau: Blue-Haired Woman
@@ -20,14 +24,17 @@ Braunhaarige Frau: Brown-Haired Woman
 Braunhaariger Soldat: Brown-Haired Soldier
 Burg Nomerea: Nomerea Castle
 Bürgermeister: Mayor
-Chef: Da Boss
+Chef: Da Boss (Chefv is probably a typo)
 Frau: Woman
+Frau an der Theke: Woman at the Counter
 Funkdurchsage: Radio
 Gärtner: Gardener
 Gast: Guest
 Gasthofbesitzer: Inn Owner
 Gasthofbesitzerin: Inn Owner
 Gasthof-Besitzer: Inn Owner
+Gefangene: Prisoner
+Gefangener: Prisoner
 Gegnerische Einheit: Enemy Soldier
 General
 Glatzköpfiger Händler: Bald Merchant
@@ -36,7 +43,7 @@ Grünhaarige Frau: Green-Haired Woman
 Händler: Merchant/Trader (depending on context)
 Händlerin: Merchant/Trader (depending on context)
 Hausfrau: Housewife
-Herr in blauem Anzug: Gentleman in a blue suit
+Herr in blauem Anzug: Gentleman in a Blue Suit
 Hotelbesitzer: Hotel Owner
 Ingenieur: Engineer
 Junge: Boy
@@ -56,10 +63,15 @@ Lilahaarige Frau: Purple-Haired Woman
 Linke Wache: Left Guard
 Mädchen: Girl
 Mann: Man
+Mann an der Theke: Man at the Counter
 Massen: Crowd
 Mitglied des Rates: Council Member
 Nebelklingen: Mist Blades
+Nicht ganz eingelebter Gefangener: New Prisoner
 Oberstes Ratmitglied: Head Council Member
+Pauamainer-Miglied: Pauamainer Member (must be a misspelling of "Mitglied")
+Pauamainer-Mitglied: Pauamainer Member
+Pauamainer Schütze: Pauamainer Archer
 Postbote: Postman
 Postbote gegenüber: Other Postman
 Postboten-Neuling: Rookie Postman
@@ -82,6 +94,7 @@ Soldat des Briganten-Orden: Brigantian Soldier
 Soldat des Briganten-Ordens: Brigantian Soldier
 Soldat vom Briganten-Orden: Brigantian Soldier
 Türsteher: Bouncer
+Überdrehtes Mädchen: Insane Girl
 Untere Wache: Lower Guard
 Vater: Father
 Verkäufer: Salesman
@@ -103,6 +116,7 @@ Erim Akiro
 Felcis Kiorta
 Frau Mensesso: Lady Mensesso
 Frau Tirunel: Mrs. Tirunel
+Genji
 Genyu Daikon
 Guillian
 Gurim Zinkar
@@ -114,6 +128,7 @@ Ileya Reisato
 Jorn Zinkar
 Kento Daikon
 Koge Saltatio
+Kumiko
 Lesario Saltatio
 Melanus Aureeus
 Pauamainer Schütze: ???
@@ -128,7 +143,9 @@ Saion Zinkar
 Sedric
 Seldan
 Silkia Tirunel
+Sir Avaron
 Sir Dolaros
+Sir Famares
 Sir Vintal
 Sir Vorento
 Soko Filaja
