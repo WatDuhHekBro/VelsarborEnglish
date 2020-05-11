@@ -3,10 +3,12 @@ Chefv: Jetz' is... Zappe!
 Cibon: Es ist ein Wurm und er ist RIESIG!
 Kento: Wenn sich das Vieh so ähnlich wie seine kleinen Artgenossen verhält...
 Kento: ...dann sollten wir uns auf viele Zauber gefasst machen!
+---
 Robin: Endlich ist es soweit!
 Robin: Kommt, Leute, wir zeigen diesem adligen Hornochsen, wer hier der Boss ist!
 Cibon: Zu schade, dass der adelige Hornochse nur seine Vertretung schickt.
 Soko: Kämpft mit allem, was ihr habt, verstanden?! Eine Niederlage ist nicht drin!
+---
 Saion: Endlich ist es soweit! Ihr seid weit gekommen, doch hier ist Endstation!
 Saion: Jetzt werden wir euch zeigen, wer hier im Turnier die Oberhand hat!
 Cibon: Apropos Hand... Was zum Henker sollen diese angebundenen Dolchwaffen?!
@@ -21,12 +23,15 @@ Soko: Bitte was?
 
 Cibon: Einen haben wir! Wie war das mit deiner Prognose, Robin?
 Robin: Noch ist der Kampf nicht vorbei!
+---
 Soko: So geht das, Männer!
+---
 Jorn: Lass dir das bitte ENDLICH MAL eine Lektion sein, du Dickkopf!
 
 Robin: So grün wie ihr noch seid habt ihr keine Chance gegen uns! Versucht es erst gar nicht!
 Cibon: Aha? Frag mich nich' wieso, aber irgend wie seh' ich eindeutig mehr Grün auf eurer Seite.
 Robin: Die dummen Sprüche werde ich euch schon ausschießen!
+---
 Saion: SPÜRT DEN ZORN DER ZINKAR-BRÜRDER, GRAUSAMER DENN JE!
 Saion: ERSTE ZINKAR-RACHESCHLAG-TECHNIK!
 Saion: Los Jorn! Mach sie fertig mit deiner neuen Spezialtechnik!
@@ -73,19 +78,24 @@ Kento: We are also being overseen here, it seems.
 Cibon: Okay, let's see where you can find ore here.
 Note: The Element Balls are still in your possession.
 Element level increase is still possible.
+---
 Felcis: So what kind of performance do you expect from a weak nobleman like me down here?
 Cibon: Hard, exhausting, sweat-inducing ore chopping. You do something like that in the mine.
 Felcis: Ahh ... fabulous.
 Kento: I wouldn't take it lightly. If you don't work here, they hardly give you anything to eat.
 Felcis: Would be a good opportunity to start on a diet.
+---
 Soko: Are you really sure about this escape thing?
 Cibon: What else should we do? We will hardly get out of here in any other way ...
 Kento: I see it the same way. I just hope this Felcis knows what he's doing.
 Soko: ...
+---\/
 Felcis: Well done, Kento! We have arrived correctly.
 Felcis: Now we go back the tracks - to the point where the 2nd switch was. We have to blow ourselves up somewhere.
+---
 Felcis: Hm, you made the last turn wrong, Kento. But never mind. We are still close enough.
 Felcis: Now we go back the tracks - to the point where the 2nd switch was. We have to blow ourselves up somewhere.
+---
 Felcis: No, no ... that's not how it works, Kento ... You should have turned right at the first turnout.
 Felcis: Well. So either we go back all the tracks on foot - or we try again tomorrow.
 #
@@ -137,7 +147,7 @@ The guards' suspect bar drops and rises with your reputation in this mine.
 The better you do your job, the less the guards will take care of you.
 However, there are other events that can affect the suspect bar.
 If your find is found, you will lose all items found that day.
-Recorded can no longer be filed. So think carefully about what you take with you.
+Recorded can no longer be filed. So think carefully about what you take with you. < Whatever you picked up will no longer be there.
 #
 
 #
@@ -148,9 +158,10 @@ Deine letzte Erz-Sammlung verfällt und du musst die gesamte Lorenstrecke selber
 Des Weiteren stehst du unter größerem Verdacht, da du zu spät oben ankommst.
 #
 Closing time - back to the Loren stop!
+---
 Info: If you wait too long to return, the mine workers will drive back without you.
 This means:
-Your last ore collection will expire and you will have to walk the entire Loren stretch yourself.
+Your last ore collection will expire and you will have to walk the entire Loren stretch yourself. <? last ore collection will expire --- your ore won't be counted
 Furthermore, you are under greater suspicion because you arrive late at the top.
 #
 
@@ -178,14 +189,16 @@ Wächter: Und jetzt weiter!
 #
 Guard: If you have collected some ore, bring it to me.
 Guard: I note how much ore each prisoner has collected here. So it does not occur to you to give up before work. We notice that.
-Guard: New Ore?
-Guard: \ v [1] Ore, you have already collected \ v [1883] ore.
+Guard: New Ore? < Any new ore?
+Guard: \ v [1] Ore, you have already collected \ v [1883] ore. < \v[1] new ore, so the total amount of ore you've collected is \v[1883].
+---
 Guard: \ v [1883] ore? Are you kidding me?! Get back to work immediately! Do not think that you get anything in the stomach today with such a poor performance!
 Guard: It's pretty moderate. Continue immediately! You are not finished yet, I hope?
 Guard: All right. Keep it up.
-Guard: Fine. But don't think you’ll get the next day off.
+Guard: Fine. But don't think you'll get the next day off.
 Guard: Good, good. But that's no reason to slow down now.
 Guard: You hang out pretty well! One could almost think that you would enjoy the work. Obviously we have to challenge you a little harder!
+---
 Guard: Here's something to refresh.
 Guard: And now on!
 #
