@@ -33,7 +33,7 @@ After the first major release, the `dev` branch will still be used so there aren
 *Because every project needs a to-do list!*
 - Picture Text: 100%
 - Fancy Text: 100%
-- Database: 58%
+- Database: 85%
 - Special (#1/#10/#28): 100%
 ## Sections/Areas
 - Prologue: 100%

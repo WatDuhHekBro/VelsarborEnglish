@@ -47,7 +47,7 @@ Chef: Ei jòò, nesch schlescht! Da holl isch wohl bessa mei Schdärgedrong!
 
 
 
-#
+#v
 Kento: Da sind wir...
 Soko: ...und was jetzt?
 Kento: Wir sollten uns besser nicht querstellen, sonst bekommen wir noch Ärger.
@@ -71,36 +71,36 @@ Felcis: Jetzt gehen wir die Gleise zurück - bis zu der Stelle, wo die 2. Weiche
 Felcis: Nein, nein... so geht das nicht, Kento... Du hättest bei der ersten Weiche rechts abbiegen müssen.
 Felcis: Naja. Also entweder gehen wir jetzt zu Fuß die ganzen Gleise zurück - oder wir versuchen es morgen nochmal.
 #
-Kento: Here we are ...
-Soko: ... and what now?
-Kento: We'd better not put ourselves in the way, otherwise we'll get into trouble.
-Kento: We are also being overseen here, it seems.
-Cibon: Okay, let's see where you can find ore here.
-Note: The Element Balls are still in your possession.
-Element level increase is still possible.
+Kento: Here we are...
+Soko: What now?
+Kento: We'd better not draw unnecessary attention, otherwise we'll run into trouble.
+Kento: Seems like we're being watched here.
+Cibon: Okay, let's see where all the ore is.
+Note: Those elemental orbs are still in your possession.
+It's still possible to increase your element levels.
 ---
-Felcis: So what kind of performance do you expect from a weak nobleman like me down here?
-Cibon: Hard, exhausting, sweat-inducing ore chopping. You do something like that in the mine.
-Felcis: Ahh ... fabulous.
+Felcis: So what kind of performance are they expecting from a weak nobleman like me down here?
+Cibon: Hard, exhausting, and sweat-inducing ore mining. It's just what you have to do down here in the mine.
+Felcis: Well isn't that just wonderful...
 Kento: I wouldn't take it lightly. If you don't work here, they hardly give you anything to eat.
-Felcis: Would be a good opportunity to start on a diet.
+Felcis: Would be a good opportunity to go on a diet.
 ---
-Soko: Are you really sure about this escape thing?
-Cibon: What else should we do? We will hardly get out of here in any other way ...
-Kento: I see it the same way. I just hope this Felcis knows what he's doing.
+Soko: Are you two really sure about the whole escape thing?
+Cibon: What else can we do? We're hardly getting out of here any other way...
+Kento: I agree with Cibon. I just hope this Felcis guy knows what he's doing.
 Soko: ...
----\/
-Felcis: Well done, Kento! We have arrived correctly.
-Felcis: Now we go back the tracks - to the point where the 2nd switch was. We have to blow ourselves up somewhere.
 ---
-Felcis: Hm, you made the last turn wrong, Kento. But never mind. We are still close enough.
-Felcis: Now we go back the tracks - to the point where the 2nd switch was. We have to blow ourselves up somewhere.
+Felcis: Good steering, Kento! We've arrived at the right location.
+Felcis: Now we have to go back the railways, more specifically, around the second junction. We have to use that dynamite somewhere around here.
 ---
-Felcis: No, no ... that's not how it works, Kento ... You should have turned right at the first turnout.
-Felcis: Well. So either we go back all the tracks on foot - or we try again tomorrow.
+Felcis: Hm, you made a wrong turn at the last fork there, Kento. But never mind that. We're still close enough.
+Felcis: Now we have to go back the railways, more specifically, around the second junction. We have to use that dynamite somewhere around here.
+---
+Felcis: No no no... That's not the right way, Kento... You should've turned right at the first junction.
+Felcis: Oh well. We can either go all the way back through the railways on foot, or we can try again tomorrow.
 #
 
-#
+#v
 Cibon: Sieh mal einer an, was hier alles so rumliegt.
 Soko: Sollen wir das wirklich einstecken?
 Cibon: Naja, wieso nicht?
@@ -128,52 +128,53 @@ Aufgenommenes kann nicht mehr abgelegt werden. Also überlege gut, was du mitnim
 Cibon: Take a look at what's lying around here.
 Soko: Should we really take that?
 Cibon: Well, why not?
-Kento: I'm pretty sure the guards don't let us take any items into our cells.
-Cibon: Yes ... that is, if you notice that we have items with us.
-Soko: You don't want to ...
-Cibon: So I don't know how it is with you, but I don't want to stay trapped here forever.
-Cibon: And should we ever want to escape, any item could be useful.
-Kento: Yes, you're right. Then we should make sure that we do not take too much, otherwise it will be noticed too much.
-Soko: From soldiers of the brigant order to felons and smugglers, great class ...
-Info: Since you are a prisoner, you cannot take items from the mine with you.
-You have to make sure that the guards don't notice your objects.
-This is the case if your suspicious bar ...
-... does not cut with your conspicuous bars.
-If the bars are roughly as shown above, your items will not be discovered.
-Now the bars overlap and your find will most likely be exposed.
-Your attention bar increases with every item you pick up.
-The more noticeable the item, the more the noticeable bar rises.
-The guards' suspect bar drops and rises with your reputation in this mine.
-The better you do your job, the less the guards will take care of you.
-However, there are other events that can affect the suspect bar.
-If your find is found, you will lose all items found that day.
-Recorded can no longer be filed. So think carefully about what you take with you. < Whatever you picked up will no longer be there.
+Kento: I'm pretty sure the guards won't let us take any items into our cells.
+Cibon: True... That is, if they notice we actually have any items to begin with.
+Soko: You wouldn't dare!
+Cibon: I don't know about you two, but I don't want to stay trapped here forever.
+Cibon: And if we ever want to escape, anything we can get will help.
+Kento: Yeah, you're right. In that case, we should make sure we don't take too much at once, otherwise, there goes all of our items.
+Soko: From soldiers of the Brigantine Order to criminals and now smugglers, isn't it just wonderful what we've become...
+---
+Info: Since you're a prisoner, you aren't allowed to take items from the mine with you.
+You have to make sure that the guards don't notice your items.
+This'll be the case if your suspicion meter...
+...doesn't cross with your attention meter.
+If the two bars are roughly as shown above, your items will not be discovered.
+Now the bars are overlapping and whatever you found will most likely be noticed.
+Your attention meter increases with every item you pick up.
+The more noticeable the item, the more your attention meter increases.
+Your suspicion meter follows your reputation by the guards in the mine.
+The better you do your job, the less the guards will keep an eye on you.
+However, there are other events that can affect your suspicion meter.
+If your items are discovered, you'll lose all of the ones you found that day.
+Whatever you picked up will no longer be there. So think carefully about what you take with you.
 #
 
-#
+#v
 Feierabend - Zurück zur Loren-Haltestelle!
 Info: Wartest du zu lange mit der Rückkehr, fahren die Minen-Arbeiter ohne dich zurück.
 Dies bedeutet:
 Deine letzte Erz-Sammlung verfällt und du musst die gesamte Lorenstrecke selber zurücklaufen.
 Des Weiteren stehst du unter größerem Verdacht, da du zu spät oben ankommst.
 #
-Closing time - back to the Loren stop!
+Closing Time - Back to the railways!
 ---
-Info: If you wait too long to return, the mine workers will drive back without you.
+Info: If you wait too long to return, the other miners will go back without you.
 This means:
-Your last ore collection will expire and you will have to walk the entire Loren stretch yourself. <? last ore collection will expire --- your ore won't be counted
-Furthermore, you are under greater suspicion because you arrive late at the top.
+The last batch of ore you mined won't count and you'll have to go through the railways yourself.
+Furthermore, you'll be under greater suspicion because you'll have arrived late.
 #
 
-#
+#v
 Der letzte Loren-Zug ist nach oben gefahren. Du musst den Weg alleine zurückgehen!
 Der Verdacht der Wächter dir gegenüber steigt.
 #
-The last Loren train went up. You have to go back the way alone!
+The last group of miners left. You have to go back all the way alone!
 The guards' suspicions about you increase.
 #
 
-#
+#v
 Wächter: Wenn ihr etwas Erz gesammelt habt, bringt es zu mir.
 Wächter: Ich notiere mir, wie viel Erz hier jeder Gefangene gesammelt hat. Also kommt ja nicht auf die Idee, euch vor der Arbeit zu drücken. Wir merken das.
 Wächter: Neues Erz?
@@ -187,18 +188,18 @@ Wächter: Ihr hängt euch ja ziemlich rein! Man könnte fast denken, die Arbeit 
 Wächter: Hier etwas zur Auffrischung.
 Wächter: Und jetzt weiter!
 #
-Guard: If you have collected some ore, bring it to me.
-Guard: I note how much ore each prisoner has collected here. So it does not occur to you to give up before work. We notice that.
-Guard: New Ore? < Any new ore?
-Guard: \ v [1] Ore, you have already collected \ v [1883] ore. < \v[1] new ore, so the total amount of ore you've collected is \v[1883].
+Guard: If you have some ore, bring it to me.
+Guard: I keep track of how much ore each prisoner has mined. So don't even think of giving up before we say you're done! We're keeping track of that too.
+Guard: Any new ore?
+Guard: That's \v[1] new ore, so the total amount of ore you've mined is \v[1883].
 ---
-Guard: \ v [1883] ore? Are you kidding me?! Get back to work immediately! Do not think that you get anything in the stomach today with such a poor performance!
-Guard: It's pretty moderate. Continue immediately! You are not finished yet, I hope?
-Guard: All right. Keep it up.
-Guard: Fine. But don't think you'll get the next day off.
-Guard: Good, good. But that's no reason to slow down now.
-Guard: You hang out pretty well! One could almost think that you would enjoy the work. Obviously we have to challenge you a little harder!
+Guard: Only \v[1883] ore? Are you kidding me?! Get back to work immediately! Don't think you're getting anything in your stomach today with such horrendous performance!
+Guard: Well that's rather unimpressive. Get back to work immediately! You aren't finished yet, I assume?
+Guard: Alright. Keep it up.
+Guard: Nice! But don't think you're getting the next day off.
+Guard: Excellent! But why stop now?
+Guard: You're fitting in like a natural around here! One could almost think that you're enjoying the work. Obviously, we'll have challenge you a little harder!
 ---
-Guard: Here's something to refresh.
-Guard: And now on!
+Guard: Here's something to get refreshed.
+Guard: Now get back in there!
 #
