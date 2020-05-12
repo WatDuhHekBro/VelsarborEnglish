@@ -17,7 +17,7 @@
 			[
 				"\\c[10]Radio\\c[0]:\\s[4] Retreat immediately!\\.",
 				"Attention all Brigantian troops,\\.",
-				"I repeat, retreat immediately!\\.\\.\\^"
+				"I repeat,\\. retreat immediately!\\.\\.\\^"
 			]
 		},
 		{
@@ -33,9 +33,8 @@
 			"original": "Funkdurchsage: Spezialeinheit Vel03! Treten Sie umgehend Ihren Rückzug an! Ihre Rückkehr ist von äußerster Priorität!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]:\\s[4] Special-Ops Vel03!\\.",
-				"Begin your retreat immediately!\\.",
-				"Your safe return is top priority!\\.\\.\\^"
+				"\\c[10]Radio\\c[0]:\\s[4] Special-Ops Vel03!\\. Begin your retreat",
+				"immediately!\\. Your safe return is top priority!\\.\\.\\^"
 			]
 		},
 		{
@@ -51,9 +50,8 @@
 			"original": "Funkdurchsage: Vel03! Antworten Sie! Vel03! Ziehen Sie sich zurück! SOFORT!! Antworten Sie! Geben Sie uns ein Zeichen!!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]:\\s[2] Vel03!\\. Answer!\\. Vel03!\\.",
-				"Withdraw yourself!\\. IMMEDIATELY!!\\.",
-				"Answer us!\\. Give us confirmation!!\\.\\.\\.\\^"
+				"\\c[10]Radio\\c[0]:\\s[2] Vel03!\\. Answer!\\. Vel03!\\. Withdraw yourself!\\.",
+				"IMMEDIATELY!!\\. Answer us!\\. Give us confirmation!!\\.\\.\\.\\^"
 			]
 		},
 		{
@@ -69,8 +67,7 @@
 			"original": "Seldan:AHHHHHHHHHHHHHHHHHHHHHHHH!!!",
 			"lines":
 			[
-				"\\c[1]Seldan\\c[0]:\\s[7] AHHHHHHHHHHHHHHHHHHHHHHHH!!!",
-				"\\.\\.\\.\\.\\.\\^"
+				"\\c[1]Seldan\\c[0]:\\s[7] AHHHHHHHHHHHHHHHHHHHHHHHH!!!\\.\\.\\.\\.\\.\\^"
 			]
 		},
 		{
@@ -105,8 +102,7 @@
 			"original": "Funkdurchsage: ...Gut... Treten Sie umgehend Ihren Rückzug an!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]:\\s[3] Good...\\.",
-				"Now get out of there immediately!"
+				"\\c[10]Radio\\c[0]:\\s[3] Good...\\. Now get out of there immediately!"
 			]
 		},
 		{
@@ -122,8 +118,7 @@
 			"original": "Funkdurchsage: Vel03? Geben Sie eine Bestätigung!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]:\\s[3] Vel03?\\.",
-				"Please send us confirmation!"
+				"\\c[10]Radio\\c[0]:\\s[3] Vel03?\\. Please send us confirmation!"
 			]
 		},
 		{
@@ -139,10 +134,8 @@
 			"original": "Funkdurchsage: ...W ...WAS?! Dies ist ein BEFEHL! Er lautet sofortiger Rückzug aus der gegnerischen Basis!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]: W\\. ...WHAT?!\\.",
-				"This is an ORDER!\\.",
-				"Retreat immediately from",
-				"the enemy's base!"
+				"\\c[10]Radio\\c[0]: W...\\. WHAT?!\\. That is an ORDER!\\.",
+				"Retreat from the enemy's base immediately!"
 			]
 		},
 		{
@@ -150,8 +143,7 @@
 			"original": "Seldan: Nein, ich werde nicht fliehen.",
 			"lines":
 			[
-				"\\c[1]Seldan\\c[0]:\\s[2] No,\\. I won't run",
-				"any longer."
+				"\\c[1]Seldan\\c[0]:\\s[2] No,\\. I won't run any longer."
 			]
 		},
 		{
@@ -159,9 +151,8 @@
 			"original": "Funkdurchsage: Sie wissen, was für Konsequenzen Befehlsverweigerungen haben können! Was fällt Ihnen ein?!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]: You know what the consequences",
-				"for disobeying orders are!\\.",
-				"What are you doing?!"
+				"\\c[10]Radio\\c[0]: You know what the consequences for",
+				"disobeying orders are!\\. What are you doing?!"
 			]
 		},
 		{
@@ -180,8 +171,8 @@
 			[
 				"\\c[10]Radio\\c[0]: They know you're here, are you trying",
 				"to get yourself killed?!\\. This is SUICIDE!\\.",
-				"Even with the Vel-System, you won't stand a",
-				"chance against an entire army!"
+				"Even with the Vel-System, you won't stand",
+				"a chance against an entire army!"
 			]
 		},
 		{
@@ -197,8 +188,8 @@
 			"original": "Gegnerische Einheit: Ergeben Sie sich auf der Stelle! Jeglicher Widerstand wird mit sofortiger Auslöschung entgegnet!",
 			"lines":
 			[
-				"\\c[10]Enemy Soldier\\c[0]: Don't move!\\.",
-				"Any resistance and we WILL fire!"
+				"\\c[10]Enemy Soldier\\c[0]: Don't move!\\. Any resistance and we",
+				"WILL fire!"
 			]
 		},
 		{
@@ -214,7 +205,7 @@
 			"original": "Gegnerische Einheit: W...Was zum...?!",
 			"lines":
 			[
-				"\\c[10]Enemy Soldier\\c[0]: W... What the...?!"
+				"\\c[10]Enemy Soldier\\c[0]: W...\\. What the...?!"
 			]
 		},
 		{
@@ -222,10 +213,9 @@
 			"original": "Funkdurchsage: Vel03! Derartige Erhöhung des Wirkungsgrades des Vel-Systems führt zur Überstrapazierung Ihres Körpers! Sie gefährden Ihr Leben!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]:\\s[2] Vel03!\\. Such an increase in the",
-				"power of the Vel-System will only",
-				"put strain on your body!\\.",
-				"It could kill you!"
+				"\\c[10]Radio\\c[0]:\\s[2] Vel03!\\. Such an increase in the power of",
+				"the Vel-System will only put strain on your",
+				"body!\\. It could kill you!"
 			]
 		},
 		{
@@ -233,9 +223,9 @@
 			"original": "Seldan: ...Hören Sie mir zu. Ich habe meine eigene Ansicht der Dinge bekommen. Ich werde ihrem Befehl nicht mehr gehorchen.",
 			"lines":
 			[
-				"\\c[1]Seldan\\c[0]:\\s[2] Listen to me.\\. I've got",
-				"my own view of things.\\. I will no",
-				"longer obey your command."
+				"\\c[1]Seldan\\c[0]:\\s[2] Listen to me.\\. I've got my own",
+				"view of things.\\. I will no longer obey",
+				"your command."
 			]
 		},
 		{
@@ -243,8 +233,8 @@
 			"original": "Seldan: ...Diese Aktion hier wird vielleicht meine letzte sein, ...",
 			"lines":
 			[
-				"\\c[1]Seldan\\c[0]:\\s[2] This may just be",
-				"my last battle..."
+				"\\c[1]Seldan\\c[0]:\\s[2] This may just be my last",
+				"battle..."
 			]
 		},
 		{
@@ -278,8 +268,7 @@
 			"original": "Funkdurchsage: Beenden Sie diesen Wahnsinn! UNVERZÜGLICH! Vel03!!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]:\\s[2] Stop this madness!\\.",
-				"IMMEDIATELY!\\. Vel03!!"
+				"\\c[10]Radio\\c[0]:\\s[2] Stop this madness!\\. IMMEDIATELY!\\. Vel03!!"
 			]
 		},
 		{
@@ -287,8 +276,8 @@
 			"original": "(Seldan: Nein, für mich gibt es kein zurück mehr.)",
 			"lines":
 			[
-				"(\\c[1]Seldan\\c[0]: No,\\. there's no",
-				"turning back for me.)"
+				"(\\c[1]Seldan\\c[0]: No,\\. there's no turning back",
+				"for me.)"
 			]
 		},
 		{
@@ -296,8 +285,8 @@
 			"original": "(Seldan: Nein, für mich gibt es kein zurück mehr.)",
 			"lines":
 			[
-				"(\\c[1]Seldan\\c[0]: No,\\. there's no",
-				"turning back for me.)"
+				"(\\c[1]Seldan\\c[0]: No,\\. there's no turning back",
+				"for me.)"
 			]
 		},
 		{
@@ -305,8 +294,8 @@
 			"original": "(Seldan: Nein, für mich gibt es kein zurück mehr.)",
 			"lines":
 			[
-				"(\\c[1]Seldan\\c[0]: No,\\. there's no",
-				"turning back for me.)"
+				"(\\c[1]Seldan\\c[0]: No,\\. there's no turning back",
+				"for me.)"
 			]
 		},
 		{
@@ -314,8 +303,8 @@
 			"original": "(Seldan: Nein, für mich gibt es kein zurück mehr.)",
 			"lines":
 			[
-				"(\\c[1]Seldan\\c[0]: No,\\. there's no",
-				"turning back for me.)"
+				"(\\c[1]Seldan\\c[0]: No,\\. there's no turning back",
+				"for me.)"
 			]
 		}
 	]

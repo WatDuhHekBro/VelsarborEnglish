@@ -3032,7 +3032,7 @@
 			"original": "Kento: 3 gegen 2, aber sie scheinen unerfahren im Kampf.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Three on two\\., but they",
+				"\\c[1]\\n[1]:\\c[0] Three on two,\\. but they",
 				"seem inexperienced with combat."
 			]
 		},
@@ -3455,7 +3455,7 @@
 			"lines":
 			[
 				"",
-				"\\c[10]Note\\c[0]: Those elemental orbs are still in your",
+				"Note: Those elemental orbs are still in your",
 				"possession."
 			]
 		},
@@ -3743,7 +3743,7 @@
 			"lines":
 			[
 				"",
-				"\\c[10]Info\\c[0]: Since you're a prisoner, you \\c[11]aren't allowed",
+				"Info: Since you're a prisoner, you \\c[11]aren't allowed",
 				"to take items\\c[0] from the mine with you."
 			]
 		},
@@ -3893,7 +3893,7 @@
 			"lines":
 			[
 				"",
-				"\\c[10]Info\\c[0]: If you wait too long to return, the other",
+				"Info: If you wait too long to return, the other",
 				"miners will go back without you."
 			]
 		},
@@ -3904,7 +3904,7 @@
 			"lines":
 			[
 				"",
-				"\\c[10]This means\\c[0]:"
+				"This means:"
 			]
 		},
 		{
@@ -3986,7 +3986,8 @@
 			[
 				"\\c[10]Guard\\c[0]: That's \\v[1] new ore, so the total amount",
 				"of ore you've mined is \\v[1883]."
-			]
+			],
+			"__comment__": "I'm assuming the amount of ore you can mine won't break into the 4 digits."
 		},
 		{
 			"path": [190,47,4],
@@ -3994,11 +3995,12 @@
 			"original": "Wächter: \\v[1883] Erz? Soll das ein Scherz sein?! Sofort wieder an die Arbeit! Denkt ja nicht, dass ihr heute irgendwas in den Magen bekommt, mit so einer schwachen Leistung!",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Only \\v[1883] ore?\\. Are you kidding me?!\\.",
+				"\\c[10]Guard\\c[0]: Only \\v[1883] ore?!\\. Are you kidding me?!\\.",
 				"Get back to work immediately!\\. Don't think you're",
 				"getting anything in your stomach today with such",
 				"horrendous performance!"
-			]
+			],
+			"__comment__": "Yeah, it's funny to imagine the guard saying \"Only 999 ore?!\"..."
 		},
 		{
 			"path": [190,54,2],
