@@ -1,0 +1,260 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [24,1,3,3],
+			"original": "Gefangener: Ab und zu findet man hier in der Mine ja altes Gerümpel, worunter sich sogar der ein oder andere brauchbare Gegenstand befindet...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ab und zu findet man hier in der Mine ",
+				"ja altes Gerümpel, worunter sich sogar der ein ",
+				"oder andere brauchbare Gegenstand befindet..."
+			]
+		},
+		{
+			"path": [24,1,6,3],
+			"original": "Gefangener: Es gab und gibt Gefangene, die versuchen, diesen Kram raus zu schmuggeln, was auch immer das denen bringen soll.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Es gab und gibt Gefangene, die ",
+				"versuchen, diesen Kram raus zu schmuggeln, was ",
+				"auch immer das denen bringen soll. "
+			]
+		},
+		{
+			"path": [24,1,9,2],
+			"original": "Gefangener: Aber wehe, die Wachen merken das. Die verstehen da keinen Spaß, glaubt mir.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Aber wehe, die Wachen merken das. Die ",
+				"verstehen da keinen Spaß, glaubt mir. "
+			]
+		},
+		{
+			"path": [24,1,11,3],
+			"original": "Gefangener: Kam schon oft genug vor, dass die einen aufgedeckten Schmuggler mehrere Minuten lang durchgeprügelt haben...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Kam schon oft genug vor, dass die ",
+				"einen aufgedeckten Schmuggler mehrere Minuten lang ",
+				"durchgeprügelt haben..."
+			]
+		},
+		{
+			"path": [26,1,2,4],
+			"original": "Gefangener: Ihr solltet euch nicht zu weit von den anderen Minenarbeiten entfernen. In den Randgebieten, wo weniger Leute arbeiten, tauchen immer wieder diese nervigen Biester auf.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ihr solltet euch nicht zu weit von den ",
+				"anderen Minenarbeiten entfernen.\\. In den ",
+				"Randgebieten, wo weniger Leute arbeiten, tauchen ",
+				"immer wieder diese nervigen Biester auf."
+			]
+		},
+		{
+			"path": [27,1,3,3],
+			"original": "Gefangene: Die Heilmittel, die diese Wachenleute einem geben reichen nicht wirklich aus, wenn man sich in den gefährlichen Gebieten aufhält.",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Die Heilmittel, die diese Wachenleute ",
+				"einem geben reichen nicht wirklich aus, wenn man ",
+				"sich in den gefährlichen Gebieten aufhält."
+			]
+		},
+		{
+			"path": [27,1,6,4],
+			"original": "Gefangene: Zwar geben sie einem noch ein paar Heilmittel, wenn du bei der Sammelstelle eine gewissen Menge Erz abgegeben hast, aber soviel musste erstmal zusammen bekommen...",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Zwar geben sie einem noch ein paar ",
+				"Heilmittel, wenn du bei der Sammelstelle eine ",
+				"gewissen Menge Erz abgegeben hast, aber soviel ",
+				"musste erstmal zusammen bekommen..."
+			]
+		},
+		{
+			"path": [28,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [29,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [30,1,2,4],
+			"original": "Wache: Der Weg zum nächst-nahen Erz-Bereich wäre diesen Gang runter zu folgen und dann bei der nächsten Möglichkeit nach Osten zu gehen. Achtet auf die Monster.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Der Weg zum nächst-nahen Erz-Bereich wäre ",
+				"diesen Gang runter zu folgen und dann bei der ",
+				"nächsten Möglichkeit nach Osten zu gehen.\\. Achtet ",
+				"auf die Monster."
+			]
+		},
+		{
+			"path": [31,2,3,4],
+			"indent": 1,
+			"original": "Wache: He, süße, rothaarige Begleitung habt ihr da, muss schon sagen. Aber ihr seid halt noch neu hier, das sieht man euch an. Der Zahn der Zeit nagt dieser Orts besonders stark.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: He, süße, rothaarige Begleitung habt ihr ",
+				"da, muss schon sagen.\\. Aber ihr seid halt noch neu ",
+				"hier, das sieht man euch an. \\.Der Zahn der Zeit ",
+				"nagt dieser Orts besonders stark. "
+			]
+		},
+		{
+			"path": [31,2,7,2],
+			"indent": 1,
+			"original": "Wache: Am Ende sind sie alle nicht mehr schön anzusehen...",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Am Ende sind sie alle nicht mehr schön ",
+				"anzusehen..."
+			]
+		},
+		{
+			"path": [31,2,11,3],
+			"indent": 1,
+			"original": "Soko: Irgendwie beunruhigt mich diese Aussage mehr als ich erwartet hätte...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Irgendwie beunruhigt mich ",
+				"diese Aussage mehr als ich erwartet ",
+				"hätte..."
+			]
+		},
+		{
+			"path": [31,2,16,3],
+			"indent": 2,
+			"original": "Cibon: Wahrhaftig eine Hölle! Wie kann man so etwas nur den zierlichen Damen antun!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wahrhaftig eine Hölle!\\. Wie ",
+				"kann man so etwas nur den ",
+				"zierlichen Damen antun!"
+			]
+		},
+		{
+			"path": [31,2,20,1],
+			"indent": 2,
+			"original": "Soko: \"zierlichen\"?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: \"zierlichen\"?"
+			]
+		},
+		{
+			"path": [31,2,22,2],
+			"indent": 2,
+			"original": "Kento: Ich glaube Anwesende müssen sich nicht angesprochen fühlen...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ich glaube Anwesende müssen ",
+				"sich nicht angesprochen fühlen..."
+			]
+		},
+		{
+			"path": [31,2,25,1],
+			"indent": 2,
+			"original": "Soko: ...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [31,2,28,3],
+			"indent": 3,
+			"original": "Felcis: Ich fühl mich aber angesprochen. Ich bin -viel- zu zierlich für diese Arbeit.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Ich fühl mich aber ",
+				"angesprochen.\\. Ich bin \\.-viel-\\. zu ",
+				"zierlich für diese Arbeit."
+			]
+		},
+		{
+			"path": [31,2,32,2],
+			"indent": 3,
+			"original": "Cibon: Du bringst mich total aus dem Konzept, Junge!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Du bringst mich total ",
+				"aus dem Konzept, Junge!"
+			]
+		},
+		{
+			"path": [31,2,42,1],
+			"indent": 1,
+			"original": "Wache: Steht hier nicht so rum und arbeitet!",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Steht hier nicht so rum und arbeitet!"
+			]
+		},
+		{
+			"path": [54,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"This is a \\c[11]save point\\c[0]."
+			]
+		},
+		{
+			"path": [54,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"When you stand on one of these, you can",
+				"\\c[11]save the game\\c[0]."
+			]
+		},
+		{
+			"path": [54,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"To do this, open the \\c[11]menu\\c[0] using \\c[11]Esc\\c[0] and",
+				"then select \\c[11]Save\\c[0]."
+			]
+		},
+		{
+			"path": [54,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Additionally, you can always save on",
+				"the \\c[11]world map\\c[0]."
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [54,1,4],
+			"original": "Helnov Mine2",
+			"patch": "Mine (Center)"
+		}
+	]
+}

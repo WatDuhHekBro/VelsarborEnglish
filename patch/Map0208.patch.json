@@ -203,7 +203,7 @@
 			[
 				"\\c[2]\\n[2]\\c[0]:\\s[2] This group was simply stronger",
 				"than us.\\. Nobody expected us to",
-				"encounter something like that."
+				"encounter something like this."
 			]
 		},
 		{
@@ -616,7 +616,7 @@
 			"original": "(Kento: Jetzt geht's um alles oder nichts! Los!)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Now it's all or nothing!\\. Go!)"
+				"(\\c[1]\\n[1]\\c[0]: Now it's all or nothing!)"
 			]
 		},
 		{

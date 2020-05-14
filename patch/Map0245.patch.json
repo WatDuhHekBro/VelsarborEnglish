@@ -1,0 +1,170 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [1,1,6,4],
+			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
+				"erfahren, wie wir da draußen ",
+				"empfangen werden, wenn wir einfach ",
+				"so die Mine verlassen."
+			]
+		},
+		{
+			"path": [8,1,18,3],
+			"indent": 1,
+			"original": "Info: Während der Lorenfahrt kannst du bei Weichen entscheiden, welche Richtung du einschlägst.",
+			"lines":
+			[
+				"",
+				"Info: Während der Lorenfahrt kannst du bei \\c[11]Weichen\\c[0] ",
+				"entscheiden, welche \\c[11]Richtung\\c[0] du einschlägst."
+			]
+		},
+		{
+			"path": [8,1,21,3],
+			"indent": 1,
+			"original": "Liegt eine Weiche bevor, erscheint folgende Anzeige.",
+			"lines":
+			[
+				"",
+				"Liegt eine Weiche bevor, erscheint folgende ",
+				"Anzeige."
+			]
+		},
+		{
+			"path": [8,1,51,3],
+			"indent": 1,
+			"original": "Der Pfeil gibt dabei die aktuelle Richtung ein, die die Lore entlang fahren wird.",
+			"lines":
+			[
+				"",
+				"Der \\c[11]Pfeil\\c[0] gibt dabei die \\c[11]aktuelle Richtung\\c[0] ein, ",
+				"die die Lore entlang fahren wird."
+			]
+		},
+		{
+			"path": [8,1,54,3],
+			"indent": 1,
+			"original": "Drücke rechtzeitig Enter um die Richtung zu ändern.",
+			"lines":
+			[
+				"",
+				"Drücke \\c[11]rechtzeitig Enter\\c[0] um die \\c[11]Richtung zu ",
+				"ändern\\c[0]."
+			]
+		},
+		{
+			"path": [8,1,57,3],
+			"indent": 1,
+			"original": "Du kannst nur einmal die Richtung ändern, also überleg genau.",
+			"lines":
+			[
+				"",
+				"Du kannst nur \\c[11]einmal die Richtung ändern\\c[0], also ",
+				"überleg genau."
+			]
+		},
+		{
+			"path": [22,1,6,4],
+			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
+				"erfahren, wie wir da draußen ",
+				"empfangen werden, wenn wir einfach ",
+				"so die Mine verlassen."
+			]
+		},
+		{
+			"path": [23,1,6,4],
+			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
+				"erfahren, wie wir da draußen ",
+				"empfangen werden, wenn wir einfach ",
+				"so die Mine verlassen."
+			]
+		},
+		{
+			"path": [24,1,6,4],
+			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
+				"erfahren, wie wir da draußen ",
+				"empfangen werden, wenn wir einfach ",
+				"so die Mine verlassen."
+			]
+		},
+		{
+			"path": [25,1,6,4],
+			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
+				"erfahren, wie wir da draußen ",
+				"empfangen werden, wenn wir einfach ",
+				"so die Mine verlassen."
+			]
+		},
+		{
+			"path": [26,1,6,4],
+			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
+				"erfahren, wie wir da draußen ",
+				"empfangen werden, wenn wir einfach ",
+				"so die Mine verlassen."
+			]
+		},
+		{
+			"path": [27,1,6,4],
+			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
+				"erfahren, wie wir da draußen ",
+				"empfangen werden, wenn wir einfach ",
+				"so die Mine verlassen."
+			]
+		},
+		{
+			"path": [28,1,6,4],
+			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
+				"erfahren, wie wir da draußen ",
+				"empfangen werden, wenn wir einfach ",
+				"so die Mine verlassen."
+			]
+		},
+		{
+			"path": [29,1,6,4],
+			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
+				"erfahren, wie wir da draußen ",
+				"empfangen werden, wenn wir einfach ",
+				"so die Mine verlassen."
+			]
+		},
+		{
+			"path": [30,1,6,4],
+			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
+				"erfahren, wie wir da draußen ",
+				"empfangen werden, wenn wir einfach ",
+				"so die Mine verlassen."
+			]
+		}
+	]
+}

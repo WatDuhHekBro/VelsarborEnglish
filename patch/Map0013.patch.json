@@ -126,7 +126,7 @@
 			"original": "????: Hey Kento, du Schlafmütze! Aufwachen!",
 			"lines":
 			[
-				"\\c[2]????:\\c[0] Hey Kento\\., you sleepyhead!\\.",
+				"\\c[2]????:\\c[0] Hey Kento,\\. you sleepyhead!\\.",
 				"Rise and shine!"
 			],
 			"__comment__": "The actual beginning."
@@ -154,9 +154,9 @@
 			"original": "Kento: Ohje... Wie kannst du bei dieser Aufgabe auch nur wach bleiben? Das ist mir ein Rätsel.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Oh man...\\. How can you even",
-				"stay awake with this task?\\.",
-				"That's a mystery to me."
+				"\\c[1]\\n[1]:\\c[0] Oh man...\\. How can you even stay",
+				"awake with this task?\\. That's what",
+				"really puzzles me."
 			]
 		},
 		{
@@ -175,7 +175,7 @@
 			[
 				"\\c[2]\\n[2]:\\c[0] But that's the way it is Kento.\\.",
 				"A guard's greatest enemy is not what",
-				"he has to protect against\\., but rather,\\.",
+				"he has to protect against,\\. but rather,\\.",
 				"getting bored of protecting at all!"
 			]
 		},
@@ -184,9 +184,9 @@
 			"original": "Cibon: So muss der Wächter Stund' um Stund' gegen den Schlaf kämpfen, bis zum bitteren Ende ...",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] And thus, the guard must",
-				"fight hour after hour against sleep",
-				"until the bitter end..."
+				"\\c[2]\\n[2]:\\c[0] And thus, the guard must fight",
+				"hour after hour against sleep until",
+				"the bitter end..."
 			]
 		},
 		{
@@ -203,7 +203,7 @@
 			"original": "Cibon: Jau! Du sagst es, Kumpel.",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Yep! You said it!"
+				"\\c[2]\\n[2]:\\c[0] Yep!\\. You said it!"
 			]
 		},
 		{
@@ -211,10 +211,10 @@
 			"original": "Cibon: Tja. Wenn du Soldat in diesem Land bist, bekommste halt auch solch Aufgaben aufgetischt... Aber das muss ja nicht immer so bleiben.",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Well. If you're a soldier in",
+				"\\c[2]\\n[2]:\\c[0] Well,\\. if you're a soldier in",
 				"this country, you get tasks like",
-				"this...\\. But it doesn't always have",
-				"to stay that way."
+				"this...\\. But it doesn't always",
+				"have to stay that way."
 			]
 		},
 		{
@@ -231,9 +231,8 @@
 			"original": "Kento: Das hoffe ich. Aber erst mal müssen wir hier unsere 5 Tage absitzen. Also noch 2...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] I hope so.\\. But we first",
-				"have to serve our 5 days here.\\.",
-				"2 more to go..."
+				"\\c[1]\\n[1]:\\c[0] I hope so.\\. But we first have to",
+				"serve our 5 days here.\\. 2 more to go..."
 			]
 		},
 		{
@@ -251,10 +250,9 @@
 			"original": "Cibon: Dann warten wir hier umsonst, aber das is' dem Briganten-Orden egal und wenn es noch so sinnlos ist.",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Then we wait here",
-				"in vain, but that doesn't matter",
-				"to the Brigantine Order even",
-				"if it makes no sense."
+				"\\c[2]\\n[2]:\\c[0] Then we wait here in vain, but",
+				"that doesn't matter to the Brigantine",
+				"Order even if it makes no sense."
 			]
 		},
 		{
@@ -272,10 +270,10 @@
 			"original": "Cibon: Ach, Schwamm drüber! Lass uns mal ne Pause einlegen. Nur für 15 Minuten! Währenddessen wird schon nix passieren.",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Ah, forget it!\\. Let's",
-				"just take a break.\\. Just for 15",
-				"minutes!\\. It's not like anything's",
-				"gonna happen while we're at it anyway."
+				"\\c[2]\\n[2]:\\c[0] Oh, forget it!\\. Let's just take",
+				"a break.\\. Just for 15 minutes!\\. It's",
+				"not like anything's gonna happen",
+				"while we're at it anyway."
 			]
 		},
 		{
@@ -308,7 +306,7 @@
 			"original": "Kento: Ach nichts... Vergiss es einfach. War nur so ein Gedanke.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Oh, nothing...\\. never mind.",
+				"\\c[1]\\n[1]:\\c[0] Oh, nothing...\\. never mind.\\.",
 				"It was just a thought."
 			]
 		},
@@ -333,8 +331,7 @@
 			"original": "????: Los! Beeilt euch! Die Luft ist rein!",
 			"lines":
 			[
-				"\\c[10]????:\\c[0] Come on!\\.",
-				"Hurry up!\\.",
+				"\\c[10]????:\\c[0] Come on!\\. Hurry up!\\.",
 				"The path is clear!"
 			]
 		},
@@ -351,9 +348,9 @@
 			"original": "????: Okay! Ab jetzt zählt jede Sekunde! Wer weiß, wie lang die beiden noch im Gasthaus hocken werden!",
 			"lines":
 			[
-				"\\c[10]????:\\c[0] Okay! Now every second",
-				"counts!\\. Who here knows how long",
-				"the two will stay in the inn?"
+				"\\c[10]????:\\c[0] Okay! Now every second counts!\\.",
+				"Who here knows how long the two will",
+				"stay in the inn?"
 			]
 		},
 		{
@@ -361,10 +358,10 @@
 			"original": "Jorn: Nur mal so ne Frage nebenbei, Bruder. Wieso rauben wir nicht einfach einen anderen Ort aus, wenn dieser doch so bewacht wird?",
 			"lines":
 			[
-				"\\c[10]Jorn:\\c[0] Just a question by",
-				"the way, bro.\\. Why don't we just",
-				"rob someplace else if this place is",
-				"gonna be guarded like this?"
+				"\\c[10]Jorn:\\c[0] Just a question by the way, bro.\\.",
+				"Why don't we just rob someplace else",
+				"if this place is gonna be guarded",
+				"like this?"
 			]
 		},
 		{
@@ -372,9 +369,9 @@
 			"original": "????: Hinterfrage nicht meine Pläne, Jorn! Soll ich dir wieder die Ohren lang ziehen?!",
 			"lines":
 			[
-				"\\c[10]????:\\c[0] Don't you question my",
-				"plans, Jorn!\\. Need me to pinch",
-				"your ears again?!"
+				"\\c[10]????:\\c[0] Don't you question my plans,",
+				"Jorn!\\. Need me to pinch your ears",
+				"again?!"
 			]
 		},
 		{
@@ -382,10 +379,9 @@
 			"original": "Jorn: Das wirst du ja sowieso tun. Spätestens wenn wieder einmal dein grandioser Plan daneben gegangen ist",
 			"lines":
 			[
-				"\\c[10]Jorn:\\c[0] You're gonna do that",
-				"anyway.\\. This grandiose plan of yours",
-				"is gonna go wrong faster than",
-				"you can say\\^"
+				"\\c[10]Jorn:\\c[0] You're gonna do that anyway.\\.",
+				"This grandiose plan of yours is gonna",
+				"go wrong faster than you can say\\^"
 			]
 		},
 		{
@@ -402,10 +398,10 @@
 			"original": "Gurim: Vertragt euch wieder! Wir haben keine Zeit für solche Sachen! Du hast doch selbst gesagt, dass wir uns beeilen müssen, Saion!",
 			"lines":
 			[
-				"\\c[10]Gurim:\\c[0] Break it up you two!\\.",
-				"We don't have time for this nonsense!\\.",
-				"You said it yourself that we",
-				"gotta hurry up, Saion!"
+				"\\c[10]Gurim:\\c[0] Break it up you two!\\. We don't",
+				"have time for this nonsense!\\. You said",
+				"it yourself that we gotta hurry up,",
+				"Saion!"
 			]
 		},
 		{
@@ -413,10 +409,9 @@
 			"original": "Saion: Na gut. Das klären wir später, Jorn! Jetzt tu aber auch gefälligst, was ich dir sage und stelle keine Fragen!",
 			"lines":
 			[
-				"\\c[10]Saion:\\c[0] Fine. We'll sort this",
-				"out later, Jorn!\\. Now please do what",
-				"I tell you and don't ask any",
-				"questions!"
+				"\\c[10]Saion:\\c[0] Fine. We'll sort this out",
+				"later, Jorn!\\. Now please do what I",
+				"tell you and don't ask any questions!"
 			]
 		},
 		{
@@ -448,8 +443,8 @@
 			"original": "Saion: Worauf wartest du noch? Runter mit dir...",
 			"lines":
 			[
-				"\\c[10]Saion:\\c[0] Well what are you",
-				"waiting for? Get down here..."
+				"\\c[10]Saion:\\c[0] Well what are you waiting for?",
+				"Get down there..."
 			]
 		},
 		{
@@ -492,9 +487,9 @@
 			"lines":
 			[
 				"\\c[2]Cibon:\\c[0] What a disgrace!\\. This is",
-				"definitely the worst inn...\\.",
-				"And that beer is just one",
-				"of the reasons why!"
+				"definitely the worst inn I've been",
+				"to...\\. And that beer is just one of",
+				"the reasons why!"
 			]
 		},
 		{
@@ -502,8 +497,8 @@
 			"original": "Kento: Wahrscheinlich nur wegen des Bieres.",
 			"lines":
 			[
-				"\\c[1]Kento:\\c[0] The beer is probably",
-				"the only reason."
+				"\\c[1]Kento:\\c[0] The beer is probably the only",
+				"reason."
 			]
 		},
 		{
@@ -519,9 +514,9 @@
 			"original": "Kento: Was erwartest du auch von einem Gasthof in so einer Kleinstadt? Wir machen hier ja auch keinen Urlaub.",
 			"lines":
 			[
-				"\\c[1]Kento:\\c[0] What did you expect from",
-				"an inn in such a small town?\\.",
-				"We're not here on vacation either."
+				"\\c[1]Kento:\\c[0] What did you expect from an inn",
+				"in such a small town?\\. We're not here",
+				"on vacation either."
 			]
 		},
 		{
@@ -529,9 +524,8 @@
 			"original": "Cibon: Ja, da haste schon recht. Trotzdem... Jetzt waren wir gerade mal 5 Minuten abwesend.",
 			"lines":
 			[
-				"\\c[2]Cibon:\\c[0] Yeah, you're right.\\.",
-				"Oh well...\\. Now we've just got 5",
-				"minutes left."
+				"\\c[2]Cibon:\\c[0] Yeah, you're right.\\. Oh well...\\.",
+				"Now we've just got 5 minutes left."
 			]
 		},
 		{
@@ -548,9 +542,9 @@
 			"original": "Kento: Es könnte ja sein, dass die Diebesbande genau auf diesen Augenblick gewartet hat, um blitzschnell zuzuschlagen.",
 			"lines":
 			[
-				"\\c[1]Kento:\\c[0] It could be that the gang",
-				"of thieves has been waiting for",
-				"this moment to strike quickly."
+				"\\c[1]Kento:\\c[0] It could be that the gang of",
+				"thieves has been waiting for this",
+				"moment to strike quickly."
 			]
 		},
 		{
@@ -558,8 +552,8 @@
 			"original": "Cibon: War das der Gedanke von eben?",
 			"lines":
 			[
-				"\\c[2]Cibon:\\c[0] Was that the thought of",
-				"yours then?"
+				"\\c[2]Cibon:\\c[0] Was that the thought of yours",
+				"then?"
 			]
 		},
 		{
@@ -584,8 +578,8 @@
 			"original": "Cibon: Die Diebesbande müsst schon sehr verblödet sein, um so'n Risiko einzugehen.",
 			"lines":
 			[
-				"\\c[2]Cibon:\\c[0] The gang of thieves must",
-				"be very stupid to take such a risk."
+				"\\c[2]Cibon:\\c[0] The gang of thieves must be",
+				"very stupid to take such a risk."
 			]
 		},
 		{
@@ -593,8 +587,7 @@
 			"original": "Kento: Na, ... jetzt übertreib mal nicht.",
 			"lines":
 			[
-				"\\c[1]Kento:\\c[0]\\s[4] Well,",
-				"don't exaggerate now.\\|\\^"
+				"\\c[1]Kento:\\c[0]\\s[4] Well, don't exaggerate now.\\|\\^"
 			]
 		},
 		{
@@ -619,8 +612,8 @@
 			"original": "Jorn: Wieso verwendest du Trottel auch den VORDEREINGANG?!",
 			"lines":
 			[
-				"\\c[10]Jorn:\\c[0] Why did you morons",
-				"use the \\s[06]FRONT ENTRANCE?!"
+				"\\c[10]Jorn:\\c[0] Why did you morons use the",
+				"\\s[06]FRONT ENTRANCE?!"
 			]
 		},
 		{
@@ -646,8 +639,8 @@
 			[
 				"\\c[2]\\n[2]:\\c[0] Why hello there! Do you just so",
 				"happen to be the gang of thieves that",
-				"has been plundering this town for",
-				"the past several months?"
+				"has been plundering this town for the",
+				"past several months?"
 			]
 		},
 		{
@@ -655,10 +648,9 @@
 			"original": "Saion: Da fragst du noch? Wir sind nicht ~irgendeine~ Diebesbande! Wir sind die gefürchteten Zinkar-Brüder!",
 			"lines":
 			[
-				"\\c[10]Saion:\\c[0] You're still asking?\\.",
-				"We aren't just ~any~ gang of",
-				"thieves!\\. We are the",
-				"dreaded Zinkar Brothers!"
+				"\\c[10]Saion:\\c[0] You're still asking?\\. We aren't",
+				"just ANY gang of thieves!\\. We are",
+				"the dreaded Zinkar Brothers!"
 			]
 		},
 		{
@@ -666,9 +658,9 @@
 			"original": "Jorn: ...Dank dir bald nur noch die \"gefangenen Zinkar-Brüder\", du VOLLTROTTEL!",
 			"lines":
 			[
-				"\\c[10]Jorn:\\c[0] Thanks to you, we'll soon",
-				"only be known as the \"captive",
-				"Zinkar Brothers\", you IDIOT!"
+				"\\c[10]Jorn:\\c[0] Thanks to you, we'll soon only",
+				"be known as the \"captive Zinkar",
+				"Brothers\", you IDIOT!"
 			],
 			"__comment__": "**Note** It seems that there was a pun here, gefürchteten (dreaded) and gefangenen (captured), but I give up trying to make a similar pun."
 		},
@@ -705,8 +697,8 @@
 			"original": "Kento: Auf Diebstahl steht eine Gefängnisstrafe, falls ihr es noch nicht wissen solltet...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Theft is a prison sentence",
-				"in case you weren't aware of it yet..."
+				"\\c[1]\\n[1]:\\c[0] Theft is a prison sentence in",
+				"case you weren't aware of it yet..."
 			]
 		},
 		{
@@ -716,8 +708,7 @@
 			[
 				"\\c[2]\\n[2]:\\c[0] You heard that right!\\.",
 				"Resistance is futile!\\. Don't try to",
-				"fight back or you'll sorely",
-				"regret it!\\."
+				"fight back or you'll sorely regret it!\\."
 			]
 		},
 		{
@@ -725,7 +716,7 @@
 			"original": "Cibon: Vor euch steht das Gesetz, die Vertreter der Ordnung! Stellt euch gegen uns und ihr stellt euch gegen Brigantia.",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] The law stands before you\\., as",
+				"\\c[2]\\n[2]:\\c[0] The law stands before you,\\. as",
 				"representatives of the Order!\\. Stand",
 				"against us and you stand against",
 				"all of Brigantia!"
@@ -736,9 +727,9 @@
 			"original": "Cibon: Legt ihr euch mit uns an, legt ihr euch mit dem Briganten-Orden an... Eure Aussichten auf Flucht sind....",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Mess with us,\\. and you",
-				"mess with the Brigantine Order...\\.",
-				"You're chances of escaping are..."
+				"\\c[2]\\n[2]:\\c[0] Mess with us,\\. and you mess with",
+				"the Brigantine Order...\\. You're chances",
+				"of escaping are..."
 			]
 		},
 		{
@@ -764,8 +755,7 @@
 			"original": "Gurim: Er scheint es wirklich ernst zu meinen, Jorn!",
 			"lines":
 			[
-				"\\c[10]Gurim:\\c[0] He seems really",
-				"serious, Jorn!"
+				"\\c[10]Gurim:\\c[0] He seems really serious, Jorn!"
 			]
 		},
 		{
@@ -781,9 +771,9 @@
 			"original": "Saion: Jetzt stellt euch nicht so an, ihr beiden! Wir werden denen schon zeigen, wo's lang geht!",
 			"lines":
 			[
-				"\\c[10]Saion:\\c[0] Now don't act like that,",
-				"you two!\\. We'll show 'em who's",
-				"boss around here!"
+				"\\c[10]Saion:\\c[0] Now don't act like that, you",
+				"two!\\. We'll show 'em who's boss",
+				"around here!"
 			]
 		},
 		{
@@ -818,9 +808,9 @@
 			"original": "Ihr Erfolg kam jedoch, zeitgleich mit dem Erscheinen der Diebe, deutlich später als erwartet.",
 			"lines":
 			[
-				"\\s[04]Their success, however,\\. came at the same",
-				"time the thieves appeared,\\. which was much",
-				"later than anticipated.\\|\\|\\^"
+				"\\s[04]Their success, however,\\. came at the same time the",
+				"thieves appeared,\\. which was much later than",
+				"anticipated.\\|\\|\\^"
 			]
 		},
 		{
@@ -828,9 +818,8 @@
 			"original": "Soldat: Gute Arbeit, ihr beiden! Die Bande hier hat Sinkholm schon seit einigen Monaten belästigt.",
 			"lines":
 			[
-				"\\c[10]Soldier:\\c[0] Good work, you two!\\.",
-				"This gang here has been bothering",
-				"Sinkholm for several months."
+				"\\c[10]Soldier:\\c[0] Good work, you two!\\. This gang here has",
+				"been bothering Sinkholm for several months."
 			]
 		},
 		{
@@ -838,10 +827,9 @@
 			"original": "Jorn: Du wolltest ja nicht auf mich hören, Saion, nicht wahr? Ich hab doch gesagt, dass wir besser woanders tätig werden sollten...",
 			"lines":
 			[
-				"\\c[10]Jorn:\\c[0] You didn't want to listen",
-				"to me, did you, Saion?\\. I knew",
-				"we should've gone somewhere",
-				"else..."
+				"\\c[10]Jorn:\\c[0] You didn't want to listen to me,",
+				"did you, Saion?\\. I knew we should've",
+				"gone somewhere else..."
 			]
 		},
 		{
@@ -857,8 +845,8 @@
 			"original": "Soldat: Jetzt seid verdammt nochmal still! Das könnt ihr alles in Ruhe im Gefängnis ausdiskutieren.",
 			"lines":
 			[
-				"\\c[10]Soldier:\\c[0] Silence!\\. You can discuss this",
-				"in the peace and quiet of prison."
+				"\\c[10]Soldier:\\c[0] Silence!\\. You can discuss this in the",
+				"peace and quiet of prison."
 			]
 		},
 		{
@@ -866,8 +854,8 @@
 			"original": "Soldat: Okay, wir werden die 3 hier abführen. Ihr könnt dann wieder nach Nomerea zurückkehren.",
 			"lines":
 			[
-				"\\c[10]Soldier:\\c[0] Okay, we'll handle the three",
-				"of them.\\. You can now return to \\c[11]Nomerea\\c[0]."
+				"\\c[10]Soldier:\\c[0] Okay, we'll handle the three of them.\\.",
+				"You can now return to \\c[11]Nomerea\\c[0]."
 			]
 		},
 		{
@@ -875,8 +863,7 @@
 			"original": "Soldat: Nun gut... Man sieht sich! Bis dann!",
 			"lines":
 			[
-				"\\c[10]Soldier:\\c[0] Well...\\. See you!\\.",
-				"Until next time!"
+				"\\c[10]Soldier:\\c[0] Well...\\. See you!\\. Until next time!"
 			]
 		},
 		{
@@ -884,8 +871,8 @@
 			"original": "Cibon: Heureka! Endlich haben wir die Sache hier hinter uns gebracht!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Phew!\\. We finally",
-				"got this over with!"
+				"\\c[2]\\n[2]:\\c[0] Phew!\\. We finally got this over",
+				"with!"
 			]
 		},
 		{
@@ -893,8 +880,7 @@
 			"original": "Kento: Jaja... Das wurde auch langsam Zeit....",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Yeah...\\. It was about",
-				"time..."
+				"\\c[1]\\n[1]:\\c[0] Yeah...\\. It was about time..."
 			]
 		},
 		{
@@ -902,8 +888,8 @@
 			"original": "Cibon: Und? Wann kehrn wir nach Nomerea zurück?",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] So?\\. When will we return",
-				"to Nomerea?"
+				"\\c[2]\\n[2]:\\c[0] So?\\. When will we return to",
+				"Nomerea?"
 			]
 		},
 		{
@@ -911,8 +897,7 @@
 			"original": "Kento: ... So bald wie möglich.. ...Aber nicht jetzt....",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] ...\\.Soon enough...\\.",
-				"But not now..."
+				"\\c[1]\\n[1]:\\c[0] Soon enough...\\.\\. But not now..."
 			]
 		},
 		{
@@ -920,8 +905,8 @@
 			"original": "Cibon: Hey, Hey! Penn' mir hier ja nicht ein, Kento!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Hey, hey!\\. Don't collapse",
-				"on me like that, Kento!"
+				"\\c[2]\\n[2]:\\c[0] Hey, hey!\\. Don't collapse on me",
+				"like that, Kento!"
 			]
 		},
 		{
@@ -938,9 +923,8 @@
 			"original": "Kento: Was hast du bitte zu dir genommen, dass du jetzt noch aufrecht stehen kannst?",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] What I'd really like to",
-				"know is how you're still up and",
-				"running about."
+				"\\c[1]\\n[1]:\\c[0] What I'd really like to know is",
+				"how you're still up and running about."
 			]
 		},
 		{
@@ -948,8 +932,8 @@
 			"original": "Cibon: Öh? Na ja. Wir sollten wirklich erst mal 'n bisschen Schlaf nachholen. Auf zum Gasthof.",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Oh?\\. Right.\\. We should",
-				"really catch up on some sleep first.\\.",
+				"\\c[2]\\n[2]:\\c[0] Oh?\\. Right.\\. We should really",
+				"catch up on some sleep first.\\.",
 				"Well, off to the inn."
 			]
 		},
@@ -959,10 +943,9 @@
 			"original": "Junger Mann: Laut unserem Bürgermeister hat Sinkholm einige finanzielle Probleme. Die Mauer müsste mal wieder renoviert werden und die Straßen sowieso.",
 			"lines":
 			[
-				"\\c[10]Young Man\\c[0]: According to our mayor,",
-				"Sinkholm has some financial problems.",
-				"The wall would have to be renovated",
-				"again as well as the streets."
+				"\\c[10]Young Man\\c[0]: According to our mayor, Sinkholm has",
+				"some financial problems. The wall would have to",
+				"be renovated again as well as the streets."
 			]
 		},
 		{
@@ -971,10 +954,9 @@
 			"original": "Junger Mann: Doch leider fehlt uns dazu das Geld. Vom Bezirksposten können wir uns auch nichts mehr borgen, da noch eine Menge Rückzahlungen fällig sind.",
 			"lines":
 			[
-				"\\c[10]Young Man\\c[0]: Unfortunately, we don't have the",
-				"money. We can no longer borrow anything from",
-				"the district post, since a lot of",
-				"repayments are still due."
+				"\\c[10]Young Man\\c[0]: Unfortunately, we don't have the money.",
+				"We can no longer borrow anything from the district",
+				"post, since a lot of repayments are still due."
 			]
 		},
 		{
@@ -983,10 +965,9 @@
 			"original": "Junger Mann: Das Leben hier ist gemütlich, stimmt. Dafür arbeiten die Bürger hier zu wenig. Wir beteiligen uns zu wenig an der Wirtschaft Brigantias.",
 			"lines":
 			[
-				"\\c[10]Young Man\\c[0]: Life is cozy enough here.",
-				"Citizens work too little for this place though.",
-				"We don't participate enough in",
-				"Brigantia's economy."
+				"\\c[10]Young Man\\c[0]: Life is cozy enough here. Citizens work",
+				"too little for this place though. We don't",
+				"participate enough in Brigantia's economy."
 			]
 		},
 		{
@@ -995,8 +976,8 @@
 			"original": "Junger Mann: Wenn sich das nicht ändert, werden wir hier bald große Schwierigkeiten bekommen.",
 			"lines":
 			[
-				"\\c[10]Young Man\\c[0]: If that doesn't change,",
-				"we'll soon have great difficulties here."
+				"\\c[10]Young Man\\c[0]: If that doesn't change, we'll soon have",
+				"great difficulties here."
 			]
 		},
 		{
@@ -1005,8 +986,7 @@
 			"original": "Junger Mann: Ich habe gehört, Sie haben die Räuber endlich gefasst bekommen.",
 			"lines":
 			[
-				"\\c[10]Young Man\\c[0]: I heard you finally caught",
-				"the robbers."
+				"\\c[10]Young Man\\c[0]: I heard you finally caught the robbers."
 			]
 		},
 		{
@@ -1024,8 +1004,8 @@
 			"original": "Junger Mann: Oh! Vielen Dank! Die 3 haben hier schon mehr als genug Ärger angerichtet!",
 			"lines":
 			[
-				"\\c[10]Young Man\\c[0]: Oh!\\. Thanks a lot! Those three",
-				"have caused more than enough trouble here!"
+				"\\c[10]Young Man\\c[0]: Oh!\\. Thanks a lot! Those three have",
+				"caused more than enough trouble here!"
 			]
 		},
 		{
@@ -1034,9 +1014,8 @@
 			"original": "Cibon: Solln wir losgehen oder uns noch etwas auf die Reise vorbereiten?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Should we prepare",
-				"a little before we go or",
-				"should we just go?"
+				"\\c[2]\\n[2]\\c[0]: Should we prepare a little",
+				"before we go or should we just go?"
 			]
 		},
 		{
@@ -1045,9 +1024,8 @@
 			"original": "Kento: Ich möchte keine Minute länger in diesem Kaff verweilen. Lass uns endlich weitergehen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: I don't want to spend",
-				"a minute longer in this place.",
-				"Let's go."
+				"\\c[1]\\n[1]\\c[0]: I don't want to spend a minute",
+				"longer in this place. Let's go."
 			]
 		},
 		{
@@ -1065,8 +1043,8 @@
 			"original": "Kento: Ich denke ein paar Sachen haben wir hier noch zu erledigen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: I think we still have",
-				"a couple of things to do here."
+				"\\c[1]\\n[1]\\c[0]: I think we still have a couple",
+				"of things to do here."
 			]
 		},
 		{
@@ -1075,7 +1053,7 @@
 			"original": "Cibon: Na, wenn du meinst.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Well, if you think so."
+				"\\c[2]\\n[2]\\c[0]: Well, if you say so."
 			]
 		},
 		{
@@ -1084,8 +1062,8 @@
 			"original": "(Kento: Ich sollte erstmal nachsehen, wo Cibon steckt.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: I should first",
-				"check where Cibon is.)"
+				"(\\c[1]\\n[1]\\c[0]: I should first see where Cibon",
+				"is.)"
 			]
 		},
 		{
@@ -1093,10 +1071,9 @@
 			"original": "Alter Herr: Als hier in Sinkholm das erste Haus errichtet wurde, war ich gerade mal 16 Jahre alt...  Ich kann mich nur noch schwer daran erinnern.",
 			"lines":
 			[
-				"\\c[10]Old Man\\c[0]: When the first house was",
-				"built here in Sinkholm, I was only 16",
-				"years old...\\. I can hardly remember",
-				"it."
+				"\\c[10]Old Man\\c[0]: When the first house was built here in",
+				"Sinkholm, I was only 16 years old...\\.",
+				"I can hardly remember it."
 			]
 		},
 		{
@@ -1113,8 +1090,8 @@
 			"original": "Alter Herr: In der Tat. Sinkholm wurde erst vor ungefähr 60 Jahren gegründet.",
 			"lines":
 			[
-				"\\c[10]Old Man\\c[0]: Indeed.\\. Sinkholm was founded",
-				"around 60 years ago."
+				"\\c[10]Old Man\\c[0]: Indeed.\\. Sinkholm was founded around",
+				"60 years ago."
 			]
 		},
 		{
@@ -1123,8 +1100,7 @@
 			"original": "Blondes Mädchen: Meine Güte! Ihr beide seit wirklich albern.",
 			"lines":
 			[
-				"\\c[10]Blonde Girl\\c[0]: Gosh! You two really",
-				"are ridiculous."
+				"\\c[10]Blonde Girl\\c[0]: Gosh! You two really are ridiculous."
 			]
 		},
 		{
@@ -1143,9 +1119,9 @@
 			"original": "Kento: Ich hab ihm schon nach dem 2. Versuch eingeredet, dass es sinnlos ist, aber er wollte nicht hören.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: I told him after the",
-				"second try that it was pointless,",
-				"but he didn't want to listen."
+				"\\c[1]\\n[1]\\c[0]: I told him after the second try",
+				"that it was pointless, but he just",
+				"didn't want to listen."
 			]
 		},
 		{
@@ -1154,8 +1130,8 @@
 			"original": "Cibon: Wunderbar, wie du mich immer in Schutz nimmst Kento!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wonderful how you always",
-				"stand up for me, Kento!"
+				"\\c[2]\\n[2]\\c[0]: Wonderful how you always stand",
+				"up for me, Kento!"
 			]
 		},
 		{
@@ -1164,10 +1140,10 @@
 			"original": "Blondes Mädchen: Also ich weiß nicht... Ich habe gehört in Nomerea sollen Wohnungen sehr teuer sein, zurzeit... Und wovon willst du eigentlich leben?",
 			"lines":
 			[
-				"\\c[10]Blonde Girl\\c[0]: I don't know...\\.",
-				"I heard that apartments in Nomerea are rather",
-				"expensive at the moment...\\. And what",
-				"do you actually end up getting?"
+				"\\c[10]Blonde Girl\\c[0]: I don't know...\\. I heard that",
+				"apartments in Nomerea are rather expensive",
+				"at the moment...\\. And what do you actually",
+				"end up getting?"
 			]
 		},
 		{
@@ -1175,9 +1151,9 @@
 			"original": "Blondes Mädchen: Seit meine Freundin von hier weg ging, ist es noch langweiliger hier. Ich werde auch bald woanders hinziehen... Auf jeden Fall!",
 			"lines":
 			[
-				"\\c[10]Blonde Girl\\c[0]: It's been boring ever since",
-				"my friend left here.\\. I'll move somewhere",
-				"else soon...\\. for sure!"
+				"\\c[10]Blonde Girl\\c[0]: It's been boring ever since my",
+				"friend left here.\\. I'll move somewhere else",
+				"soon...\\. That's for sure!"
 			]
 		},
 		{
@@ -1186,8 +1162,8 @@
 			"original": "Cibon: Öhm... wo is' denn deine Freundin hingezogen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Um... where'd your friend",
-				"move to?"
+				"\\c[2]\\n[2]\\c[0]: Um... Where'd your friend move",
+				"to?"
 			]
 		},
 		{
@@ -1196,8 +1172,8 @@
 			"original": "Blondes Mädchen: Oh... sie hat mich extra darum gebeten, es dir NICHT zu sagen.",
 			"lines":
 			[
-				"\\c[10]Blonde Girl\\c[0]: Oh...\\. She specifically",
-				"asked me NOT to tell you."
+				"\\c[10]Blonde Girl\\c[0]: Oh...\\. She specifically asked me NOT",
+				"to tell you."
 			]
 		},
 		{
@@ -1215,9 +1191,8 @@
 			"original": "Kurzhaariges Mädchen: Wenn ich nicht nach Nomerea gehe, wohin dann? Hm...",
 			"lines":
 			[
-				"\\c[10]Short-Haired Girl\\c[0]: If I don't go to",
-				"Nomerea, where should I go to then?\\.",
-				"Hm..."
+				"\\c[10]Short-Haired Girl\\c[0]: If I don't go to Nomerea, where",
+				"should I go to then?\\. Hm..."
 			]
 		},
 		{
@@ -1226,9 +1201,8 @@
 			"original": "Kurzhaariges Mädchen: Ich sterbe hier noch vor Langeweile! Spätestens in 2 Monaten verschwinde ich von hier und ziehe nach Nomerea!",
 			"lines":
 			[
-				"\\c[10]Short-Haired Girl\\c[0]: I'm dying of boredom",
-				"here! I'm moving to Nomerea in two months",
-				"at the latest!"
+				"\\c[10]Short-Haired Girl\\c[0]: I'm dying of boredom here!",
+				"I'm moving to Nomerea in two months at the latest!"
 			]
 		},
 		{
@@ -1237,9 +1211,9 @@
 			"original": "Cibon: Guten Tag, verehrtes Fräulein. Sie haben vor, nach Nomerea zu ziehen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Good afternoon, m'lady.\\.",
-				"You said you were planning",
-				"to move to Nomerea?"
+				"\\c[2]\\n[2]\\c[0]: Good afternoon, m'lady.\\. You",
+				"said you were planning to move to",
+				"Nomerea?"
 			]
 		},
 		{
@@ -1248,7 +1222,7 @@
 			"original": "Kurzhaariges Mädchen: Ach du schon wieder... Was ist denn?",
 			"lines":
 			[
-				"\\c[10]Short-Haired Girl\\c[0]: Oh, it's you again... ",
+				"\\c[10]Short-Haired Girl\\c[0]: Oh, it's you again...",
 				"What is it this time?"
 			]
 		},
@@ -1258,9 +1232,8 @@
 			"original": "Cibon: Mein Kamerad und ich kommen von Nomerea und wollten heute den Rückweg antreten.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: My fellow comrade and I",
-				"hail from Nomerea and we're",
-				"returning today."
+				"\\c[2]\\n[2]\\c[0]: My fellow teammate and I hail",
+				"from Nomerea and are returning today."
 			]
 		},
 		{
@@ -1287,9 +1260,9 @@
 			"original": "Cibon: Auf den Weg nach Nomerea treibt sich so einiges Ungetüm rum, vor dem wir Sie dann natürlich beschützen würden.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: On the way to Nomerea,",
-				"there are some monsters that we'd",
-				"gladly protect you from of course!"
+				"\\c[2]\\n[2]\\c[0]: On the way to Nomerea, there",
+				"are some monsters that we'd gladly",
+				"protect you from of course!"
 			]
 		},
 		{
@@ -1331,8 +1304,8 @@
 			"original": "Kento: Du kannst es einfach nicht lassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: You simply can't leave it",
-				"at that, can you?"
+				"\\c[1]\\n[1]\\c[0]: You simply can't leave it at",
+				"that, can you?"
 			]
 		},
 		{
@@ -1341,9 +1314,9 @@
 			"original": "Cibon: Ich dacht' mit der etwas feineren Art würd's klappen, aber ich denk' dafür war's zu spät, oder?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: I thought it'd work with",
-				"the more gentle one, but I think I was",
-				"too late\\., isn't that right?"
+				"\\c[2]\\n[2]\\c[0]: I thought it'd work with the",
+				"more gentle one, but I think I was",
+				"too late,\\. isn't that right?"
 			]
 		},
 		{
@@ -1352,10 +1325,10 @@
 			"original": "Kento: Zu spät? Das war jetzt das 5. Mal, wo du mit ihr rumgeflirtet hast, seit wir hier sind. Und vorher immer mit altüblicher Gossensprache.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Too late?! This is the 5th time",
-				"you've tried to flirt with her since",
-				"we got here! And always with the",
-				"usual dirty talk beforehand."
+				"\\c[1]\\n[1]\\c[0]: Too late?! This is the fifth",
+				"time you've tried to flirt with her",
+				"since we got here! And always with",
+				"the usual dirty talk beforehand."
 			]
 		},
 		{
@@ -1364,8 +1337,8 @@
 			"original": "Cibon: Jaja, schon gut. Es war halt der letzte hoffnungslose Versuch...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Okay, fine. It was a",
-				"last-ditch attempt anyways..."
+				"\\c[2]\\n[2]\\c[0]: Okay, fine. It was a last-ditch",
+				"attempt anyways..."
 			]
 		},
 		{
@@ -1374,9 +1347,8 @@
 			"original": "Kurzhaariges Mädchen: Ich sterbe hier noch vor Langeweile! Spätestens in 2 Monaten verschwinde ich von hier und ziehe nach Nomerea!",
 			"lines":
 			[
-				"\\c[10]Short-Haired Girl\\c[0]: I'm dying of boredom",
-				"here! I'm moving to Nomerea in two months",
-				"at the latest!"
+				"\\c[10]Short-Haired Girl\\c[0]: I'm dying of boredom here!",
+				"I'm moving to Nomerea in two months at the latest!"
 			]
 		}
 	],

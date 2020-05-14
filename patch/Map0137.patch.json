@@ -14,7 +14,7 @@
 			"original": "Zojenische Einheit: Er... er hat es besiegt!",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]: He...\\. he destroyed it!"
+				"\\c[10]Korzojenish Soldier\\c[0]: He...\\. He destroyed it!"
 			]
 		},
 		{
@@ -56,9 +56,9 @@
 			"original": "Seldan: Nein... NICHTS wird mich jetzt noch stoppen! Und wenn ich eine ganze Kriegsmaschine zerstören muss!",
 			"lines":
 			[
-				"\\c[1]Seldan\\c[0]: No...\\| NOTHING will",
-				"stop me now!\\. Even if I have to",
-				"take on an entire machine!"
+				"\\c[1]Seldan\\c[0]: No...\\| NOTHING will stop me",
+				"now!\\. Even if I have to take on an",
+				"entire security drone!"
 			]
 		}
 	]

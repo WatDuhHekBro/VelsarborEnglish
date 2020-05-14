@@ -1,0 +1,49 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [43,2,3,4],
+			"indent": 1,
+			"original": "Wache: Ah, das Holz... das Holz... wie lange wird es noch halten... Ehm... HEY! Ihr seid immer noch hier?! Ihr solltet bereits längst wieder an der Oberfläche sein.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Ah, das Holz... das Holz...\\. wie lange wird ",
+				"es noch halten...\\. Ehm...\\. HEY!\\. Ihr seid immer noch ",
+				"hier?!\\. Ihr solltet bereits längst wieder an der ",
+				"Oberfläche sein. "
+			]
+		},
+		{
+			"path": [43,2,7,3],
+			"indent": 1,
+			"original": "Wache: Wollt ihr hier unten bei den Monstern verrotten? Geht von hier aus nach Süden, um wieder ans Tageslicht zu kommen.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Wollt ihr hier unten bei den Monstern ",
+				"verrotten?\\. Geht von hier aus nach Süden, um wieder ",
+				"ans Tageslicht zu kommen."
+			]
+		},
+		{
+			"path": [43,2,12,3],
+			"indent": 1,
+			"original": "Wache: Hm... das Holzgerüst müsste hier mal wieder erneuert werden... sieht schon ziemlich brüchig aus.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Hm...\\. das Holzgerüst müsste hier mal wieder ",
+				"erneuert werden...\\. sieht schon ziemlich brüchig ",
+				"aus."
+			]
+		},
+		{
+			"path": [43,2,16,2],
+			"indent": 1,
+			"original": "Wache: Hey! Was habt ihr hier eigentlich zu suchen? Zurück mit euch zu den anderen Arbeitern!",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Hey!\\. Was habt ihr hier eigentlich zu ",
+				"suchen?\\. Zurück mit euch zu den anderen Arbeitern!"
+			]
+		}
+	]
+}

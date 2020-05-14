@@ -1,0 +1,100 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [4,1,22,1],
+			"original": "General: Herein.",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Herein."
+			]
+		},
+		{
+			"path": [4,1,34,2],
+			"original": "?????: Sir Famares? Haben Sie etwas Zeit für mich?",
+			"lines":
+			[
+				"\\c[10]?????\\c[0]: Sir Famares?\\. Haben Sie etwas ",
+				"Zeit für mich?"
+			]
+		},
+		{
+			"path": [4,1,37,2],
+			"original": "Sir Famares: Was ist ihr Anliegen, Sir Avaron?",
+			"lines":
+			[
+				"\\c[10]Sir Famares\\c[0]: Was ist ihr Anliegen,\\.",
+				"Sir Avaron?"
+			]
+		},
+		{
+			"path": [4,1,47,4],
+			"original": "Sir Avaron: So wie ich mitbekommen habe, gibt es Neuigkeiten von der Grenze. Man sage, Korzojeno plane Aktivitäten im Untergrund?",
+			"lines":
+			[
+				"\\c[10]Sir Avaron\\c[0]: So wie ich mitbekommen ",
+				"habe, gibt es Neuigkeiten von der ",
+				"Grenze.\\. Man sage, Korzojeno plane ",
+				"Aktivitäten im Untergrund?"
+			]
+		},
+		{
+			"path": [4,1,52,4],
+			"original": "Sir Famares: Die Gerüchte dazu gibt es schon lange, jetzt haben wir aber die Bestätigung von einem Gesandten des Rates bekommen.",
+			"lines":
+			[
+				"\\c[10]Sir Famares\\c[0]: Die Gerüchte dazu gibt ",
+				"es schon lange, jetzt haben wir aber ",
+				"die Bestätigung von einem Gesandten ",
+				"des Rates bekommen."
+			]
+		},
+		{
+			"path": [4,1,60,4],
+			"original": "Sir Avaron: Ich halte das für äußerst besorgniserregend. Ich hoffe, Sie erinnern sich, was sich hier vor 10 Jahren abgespielt hat?",
+			"lines":
+			[
+				"\\c[10]Sir Avaron\\c[0]: Ich halte das für ",
+				"äußerst besorgniserregend.\\. Ich ",
+				"hoffe, Sie erinnern sich, was sich ",
+				"hier vor 10 Jahren abgespielt hat?"
+			]
+		},
+		{
+			"path": [4,1,64,3],
+			"original": "Sir Avaron: Ich habe die Bitte, die Sicherheitsmaßnahmen für den Forschungsbereich zu erhöhen.",
+			"lines":
+			[
+				"\\c[10]Sir Avaron\\c[0]: Ich habe die Bitte, die ",
+				"Sicherheitsmaßnahmen für den ",
+				"Forschungsbereich zu erhöhen."
+			]
+		},
+		{
+			"path": [4,1,67,2],
+			"original": "Sir Avaron: So lange, bis sich die Lage in Korzojeno geklärt hat.",
+			"lines":
+			[
+				"\\c[10]Sir Avaron\\c[0]: So lange, bis sich die ",
+				"Lage in Korzojeno geklärt hat."
+			]
+		},
+		{
+			"path": [4,1,74,2],
+			"original": "Sir Famares: Ich werde zusehen, was sich einrichten lässt.",
+			"lines":
+			[
+				"\\c[10]Sir Famares\\c[0]: Ich werde zusehen, was ",
+				"sich einrichten lässt."
+			]
+		},
+		{
+			"path": [4,1,82,1],
+			"original": "Sir Avaron: Ich danke Ihnen.",
+			"lines":
+			[
+				"\\c[10]Sir Avaron\\c[0]: Ich danke Ihnen."
+			]
+		}
+	]
+}

@@ -346,8 +346,8 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: It can't be that something like",
-				"this happens... We did all the right",
-				"things and yet... still..."
+				"this happens...\\. We did all the right",
+				"things and yet...\\. still..."
 			]
 		},
 		{
@@ -380,9 +380,9 @@
 			"original": "Cibon: Ehm... es... wird wohl 5 Uhr sein... die Mine... Was ist mit deinem Kopf?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Um... it's... about to",
+				"\\c[2]\\n[2]\\c[0]: Well... it's... about to",
 				"be 5 o'clock...\\. the mine...\\.",
-				"what about your head?"
+				"What about your head?"
 			]
 		},
 		{

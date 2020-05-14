@@ -6,7 +6,7 @@
 			"original": "Cibon: Das ist es also... Ziemlich verwachsen...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: So this is it... Rather",
+				"\\c[2]\\n[2]\\c[0]: So this is it...\\. Rather",
 				"overgrown..."
 			]
 		},
@@ -115,7 +115,7 @@
 			"original": "Soko: Huh? Von Genyu Daikon?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Huh?\\. Of Genyu Daikon?"
+				"\\c[13]\\n[3]\\c[0]: Huh?\\. Genyu Daikon?"
 			]
 		},
 		{

@@ -1,9 +1,10 @@
 # Installation
-1. Download the [final version of Velsarbor](https://www.multimediaxis.de/threads/137420-RM2K-Velsarbor-Die-letzte-Version). Scroll down to the `Download` section and click `Velsarbor - Die letzte, unvollständige Version (Patched by TheDude)`. Do not download the original version.
-2. Download an [unofficial German RTP](http://rpg2000.4players.de/index.php?inhalt=rpgmaker). Look for where it says `Runtimepackage 1.0 (12.5 MB)`, which should be the first section at the top-right. The file you download should be titled `RTPE.exe`.
-3. Download the latest release patch in [this repository's releases](https://github.com/WatDuhHekBro/VelsarborEnglish/releases). Avoid the pre-releases unless you know what you're doing. Once you download the patch, open up the zip file and drag its contents into the working directory of wherever you put Velsarbor, and it should replace all the files.
-4. If you get the error `DirectDraw Error(DDERR_UNSUPPORTED)` when starting the game, then set `RPG_RT.exe` to Windows 7 compatibility mode.
-5. If you open up the game and the font looks unusually thick, you can download a [font patch](https://www.moddb.com/downloads/rpg-maker-2000-font-patch) to fix the font.
+1. Download the latest patch or pre-patched version in [this repository's releases](https://github.com/WatDuhHekBro/VelsarborEnglish/releases). If there's a pre-patched version, you can skip step #2 and #3. Avoid the pre-releases unless you know what you're doing.
+2. Download the [final version of Velsarbor](https://www.multimediaxis.de/threads/137420-RM2K-Velsarbor-Die-letzte-Version). Scroll down to the `Download` section and click `Velsarbor - Die letzte, unvollständige Version (Patched by TheDude)`. Do not download the original version.
+3. Once you download the patch and the game, open up the zip file and drag its contents into the working directory of wherever you put Velsarbor, and it should replace all the files.
+4. Download an [unofficial German RTP](http://rpg2000.4players.de/index.php?inhalt=rpgmaker). Look for where it says `Runtimepackage 1.0 (12.5 MB)`, which should be the first section at the top-right. The file you download should be titled `RTPE.exe`.
+5. If you get the error `DirectDraw Error(DDERR_UNSUPPORTED)` when starting the game, then set `RPG_RT.exe` to Windows 7 compatibility mode.
+6. If you open up the game and the font looks unusually thick, you can download a [font patch](https://www.moddb.com/downloads/rpg-maker-2000-font-patch) to fix the font.
 
 # Controls
 *Useful for controller usage.*

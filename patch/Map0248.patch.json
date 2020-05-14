@@ -1,0 +1,119 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [44,1,16,2],
+			"original": "(Kento: Die Felswand scheint hier brüchig zu sein.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Die Felswand scheint hier ",
+				"brüchig zu sein.)"
+			]
+		},
+		{
+			"path": [44,1,20,1],
+			"indent": 1,
+			"original": "Dynamit verwenden?",
+			"lines":
+			[
+				"Dynamit verwenden?"
+			]
+		},
+		{
+			"path": [44,1,93,1],
+			"indent": 2,
+			"original": "",
+			"lines":
+			[
+				"\\^"
+			]
+		},
+		{
+			"path": [46,2,28,4],
+			"original": "Felcis: Hier ist es! Irgendwo hier in diesem Bereich soll ein zugeschütteter Eingang sein. Haltet die Augen offen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Hier ist es!\\. Irgendwo hier ",
+				"in diesem Bereich soll ein ",
+				"zugeschütteter Eingang sein.\\. Haltet ",
+				"die Augen offen."
+			]
+		},
+		{
+			"path": [46,2,34,3],
+			"original": "Kento: Felcis, willst du uns so langsam nicht mal aufklären, wonach wir überhaupt suchen?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Felcis, willst du uns so ",
+				"langsam nicht mal aufklären, wonach ",
+				"wir überhaupt suchen?"
+			]
+		},
+		{
+			"path": [46,2,41,2],
+			"original": "Felcis: Es geht um eine bestimmte Art von Pulver.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Es geht um eine bestimmte ",
+				"Art von Pulver. "
+			]
+		},
+		{
+			"path": [46,2,44,4],
+			"original": "Felcis: Was wir hier suchen, ist der Eingang zu einem ehemaligen Lagerbereich, der nicht mehr verwendet wird.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Was wir hier suchen, ist der ",
+				"Eingang zu einem ehemaligen ",
+				"Lagerbereich, der nicht mehr ",
+				"verwendet wird."
+			]
+		},
+		{
+			"path": [46,2,49,3],
+			"original": "Felcis: Sobald wir in dem Lagerbereich sind, werd ich euch alles erklären.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Sobald wir in dem ",
+				"Lagerbereich sind, werd ich euch ",
+				"alles erklären. "
+			]
+		},
+		{
+			"path": [46,2,53,2],
+			"original": "Felcis: Hier auf den Schienen ist mir nicht ganz geheuer.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Hier auf den Schienen ist",
+				"mir nicht ganz geheuer."
+			]
+		},
+		{
+			"path": [46,2,65,1],
+			"indent": 2,
+			"original": "",
+			"lines":
+			[
+				"\\^"
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [44,1,21],
+			"original": "Ja/Nein",
+			"patch": "Ja/Nein"
+		},
+		{
+			"path": [44,1,22],
+			"original": "Ja",
+			"patch": "Ja"
+		},
+		{
+			"path": [44,1,75],
+			"original": "Nein",
+			"patch": "Nein"
+		}
+	]
+}

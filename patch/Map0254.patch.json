@@ -1,0 +1,306 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [25,1,2,4],
+			"original": "Gefangener: Ich hab vorhin jemand drüben jenseits des Wassers gesehen. Ich frag mich ernsthaft, wie der dort hin kam... Und vor allem, wie der von dort wieder zurückkommen will...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ich hab vorhin jemand drüben jenseits ",
+				"des Wassers gesehen.\\. Ich frag mich ernsthaft, ",
+				"wie der dort hin kam...\\. Und vor allem, wie der von ",
+				"dort wieder zurückkommen will..."
+			]
+		},
+		{
+			"path": [42,2,5,4],
+			"indent": 1,
+			"original": "(Kento: Das Wasser da unten ist seicht... Vielleicht kann man zur südlichen Seite rüber springen, wenn...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Das Wasser da unten ist ",
+				"seicht... Vielleicht kann man zur ",
+				"südlichen Seite rüber springen, ",
+				"wenn...)"
+			]
+		},
+		{
+			"path": [43,2,5,4],
+			"indent": 1,
+			"original": "(Kento: Das Wasser da unten ist seicht... Vielleicht kann man zur südlichen Seite rüber springen, wenn...)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: Das Wasser da unten ist ",
+				"seicht... Vielleicht kann man zur ",
+				"südlichen Seite rüber springen, ",
+				"wenn...)"
+			]
+		},
+		{
+			"path": [65,1,2,4],
+			"original": "Gefangener: Ich arbeite so schlecht, weil ich hungrig bin... Ich bin hungrig, weil ich immer so wenig Essen bekomme... und ich bekomme wenig Essen, weil ich schlecht arbeite...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ich arbeite so schlecht, weil ich ",
+				"hungrig bin...\\. Ich bin hungrig, weil ich immer so ",
+				"wenig Essen bekomme...\\. und ich bekomme wenig ",
+				"Essen, weil ich schlecht arbeite..."
+			]
+		},
+		{
+			"path": [65,1,7,1],
+			"original": "Gefangener: Ein Teufelskreis!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ein Teufelskreis!"
+			]
+		},
+		{
+			"path": [66,1,2,4],
+			"original": "Gefangener: Wer arbeitet, der kriegt Essen. Also arbeiten wir. Wer nicht arbeitet, der verhungert. So einfach ist das hier...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Wer arbeitet, der kriegt Essen.\\. ",
+				"Also arbeiten wir. \\.",
+				"Wer nicht arbeitet, der verhungert.\\. ",
+				"So einfach ist das hier..."
+			]
+		},
+		{
+			"path": [66,1,9,1],
+			"indent": 1,
+			"original": "Soko: Wie poetisch...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wie poetisch..."
+			]
+		},
+		{
+			"path": [66,1,12,1],
+			"indent": 2,
+			"original": "Cibon: Weniger Reimen, mehr Hacken!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Weniger Reimen, mehr Hacken!"
+			]
+		},
+		{
+			"path": [66,1,14,2],
+			"indent": 2,
+			"original": "Kento: Cibon, das kannst du den Wachen überlassen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Cibon, das kannst du den ",
+				"Wachen überlassen."
+			]
+		},
+		{
+			"path": [67,1,2,3],
+			"original": "Gefangener: Ich arbeite lieber hier, wo etwas Wasser ist. Da kann man sich wenigstens mal kurz erfrischen, wenn man fix und fertig ist...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ich arbeite lieber hier, wo etwas ",
+				"Wasser ist.\\. Da kann man sich wenigstens mal kurz ",
+				"erfrischen, wenn man fix und fertig ist..."
+			]
+		},
+		{
+			"path": [67,1,5,3],
+			"original": "Gefangener: Wobei ich mich nicht trauen würde, das zu trinken... Weiß der Teufel, was da alles drin ist...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Wobei ich mich nicht trauen würde, das ",
+				"zu trinken...\\. Weiß der Teufel, was da alles drin ",
+				"ist..."
+			]
+		},
+		{
+			"path": [68,1,2,2],
+			"original": "Gefangener: Keine Lust zu Reden, nerv jemand anderen, ja?",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Keine Lust zu Reden, nerv jemand ",
+				"anderen, ja?"
+			]
+		},
+		{
+			"path": [69,1,11,4],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Hui! Du hast es über den See geschafft, ohne Nass zu werden? Nicht schlecht! Dafür willste nen Orden, nicht wahr Kumpel? Kannste haben!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Hui!\\. Du hast es über den See ",
+				"geschafft, ohne Nass zu werden?\\. Nicht schlecht!\\. ",
+				"Dafür willste nen Orden, nicht wahr Kumpel?\\. ",
+				"Kannste haben!"
+			]
+		},
+		{
+			"path": [69,1,26,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Ihr guckt so verdutzt. Wenn ihr mehr über uns und die Minen-Orden erfahren wollt, besucht einfach unseren Stützpunkt.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Ihr guckt so verdutzt.\\. Wenn ",
+				"ihr mehr über uns und die Minen-Orden ",
+				"erfahren wollt, besucht einfach unseren ",
+				"Stützpunkt."
+			]
+		},
+		{
+			"path": [69,1,30,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Dieser befindet sich im mittleren Bereich der Mine. Fahrt beim nächsten Mal mit der Lore einfach rechts und dann geradeaus.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Dieser befindet sich im ",
+				"mittleren Bereich der Mine.\\. Fahrt beim nächsten ",
+				"Mal mit der Lore einfach rechts und dann ",
+				"geradeaus."
+			]
+		},
+		{
+			"path": [69,1,36,1],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Glück auf!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Glück auf!"
+			]
+		},
+		{
+			"path": [69,1,43,4],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Ich hab diese Stelle hier am liebsten. Man findet tolles Erz und wird nicht von den Blicken der anderen Arbeiter durchbohrt, weil sie einen nicht sehen.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Ich hab diese Stelle hier am ",
+				"liebsten.\\. Man findet tolles Erz und wird nicht von ",
+				"den Blicken der anderen Arbeiter durchbohrt, weil ",
+				"sie einen nicht sehen."
+			]
+		},
+		{
+			"path": [69,1,47,3],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Mein Kollege hier in diesem Bereich schuftet nicht ganz so abgeschlossen. Der hat kein Problem damit, wenn ihn Leute anstarren.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Mein Kollege hier in diesem ",
+				"Bereich schuftet nicht ganz so abgeschlossen.\\. Der ",
+				"hat kein Problem damit, wenn ihn Leute anstarren."
+			]
+		},
+		{
+			"path": [70,1,2,3],
+			"original": "Gefangener: Ihr wisst ja wahrscheinlich... Wenn Feierabend ist, sollen wir möglichst schnell zu der Lore-Haltestelle zurück.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ihr wisst ja wahrscheinlich...\\. Wenn ",
+				"Feierabend ist, sollen wir möglichst schnell zu ",
+				"der Lore-Haltestelle zurück."
+			]
+		},
+		{
+			"path": [70,1,5,4],
+			"original": "Gefangener: Wisst ihr was mit denen passiert, die zu spät kommen? Die werden einfach zurück gelassen! Die können ganz alleine den ganzen Weg entlang der Schienen zurück laufen.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Wisst ihr was mit denen passiert, die ",
+				"zu spät kommen?\\. Die werden einfach zurück ",
+				"gelassen!\\. Die können ganz alleine den ganzen Weg ",
+				"entlang der Schienen zurück laufen."
+			]
+		},
+		{
+			"path": [70,1,9,4],
+			"original": "Gefangener: Und dort lauern überall diese düsteren Monster. Ich sag dir eines, ich möchte nie in meinem Leben alleine zurück bleiben und diesen Weg entlang laufen müssen...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Und dort lauern überall diese düsteren ",
+				"Monster.\\. Ich sag dir eines,\\. ich möchte nie in ",
+				"meinem Leben alleine zurück bleiben und diesen Weg ",
+				"entlang laufen müssen..."
+			]
+		},
+		{
+			"path": [71,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [72,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [73,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [74,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [75,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [76,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [78,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [79,2,2,2],
+			"original": "Wache: Lauf hier nicht so untätig rum. Zurück an die Arbeit, sofort!",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Lauf hier nicht so untätig rum.\\. Zurück an ",
+				"die Arbeit, sofort!"
+			]
+		}
+	]
+}

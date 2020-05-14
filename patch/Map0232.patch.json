@@ -1,0 +1,131 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [10,1,37,2],
+			"original": "Wächter: Hier sind die neuen Gefangenen, wie geordert!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hier sind die neuen Gefangenen, wie ",
+				"geordert!"
+			]
+		},
+		{
+			"path": [10,1,42,1],
+			"original": "General: Wurde aber auch Zeit.",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Wurde aber auch Zeit."
+			]
+		},
+		{
+			"path": [10,1,51,3],
+			"original": "General: Soso. So sehen heutzutage also Spione aus, wie? Kollegen aus der eigenen Kaserne.",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Soso. \\.So sehen heutzutage ",
+				"also Spione aus, wie?\\. Kollegen aus ",
+				"der eigenen Kaserne. "
+			]
+		},
+		{
+			"path": [10,1,54,3],
+			"original": "General: Und dann auch noch Prominenz wie unser junger Herr Daikon hier!",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Und dann auch noch ",
+				"Prominenz wie unser junger Herr ",
+				"Daikon hier!"
+			]
+		},
+		{
+			"path": [10,1,57,4],
+			"original": "General: Man würde ja glauben, dass man bei all der Verehrung der Mitmenschen genug Wohlgefallen an seiner Nation hätte.",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Man würde ja glauben, dass ",
+				"man bei all der Verehrung der ",
+				"Mitmenschen genug Wohlgefallen an ",
+				"seiner Nation hätte."
+			]
+		},
+		{
+			"path": [10,1,67,2],
+			"original": "General: Aber nein! Stattdessen seid ihr jetzt hier!",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Aber nein!\\. Stattdessen seid ",
+				"ihr jetzt hier!"
+			]
+		},
+		{
+			"path": [10,1,73,3],
+			"original": "Soko: Wir sind keine Spione und keine Verräter! Das alles ist ein Missverständnis...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wir sind keine Spione\\. und ",
+				"keine Verräter!\\. Das alles ist ein ",
+				"Missverständnis...\\.\\.\\^"
+			]
+		},
+		{
+			"path": [10,1,101,4],
+			"original": "General: Solltet ihr nicht so langsam begriffen haben, dass ihr hier vor Wächtern keine Redefreiheit habt?",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Solltet ihr nicht so ",
+				"langsam begriffen haben, dass ihr ",
+				"hier vor Wächtern keine Redefreiheit ",
+				"habt? "
+			]
+		},
+		{
+			"path": [10,1,115,3],
+			"original": "General: Tsk. Ich denke die Kleine hat für heute schon genug. Ich fange mal mit der Prominenz an.",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Tsk.\\. Ich denke die Kleine ",
+				"hat für heute schon genug.\\. Ich fange ",
+				"mal mit der Prominenz an."
+			]
+		},
+		{
+			"path": [10,1,118,2],
+			"original": "General: Bringt die anderen Beiden in ihre Zellen.",
+			"lines":
+			[
+				"\\c[10]General\\c[0]: Bringt die anderen Beiden ",
+				"in ihre Zellen."
+			]
+		},
+		{
+			"path": [10,1,121,1],
+			"original": "Wächter: Zu Befehl, Sir!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Zu Befehl, Sir!"
+			]
+		},
+		{
+			"path": [10,2,18,4],
+			"original": "Felcis: In dem Säckchen befindet sich ein winziges Loch und eine Windaura verteilt das Pulver gleichmäßig mit jedem Schritt.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: In dem Säckchen befindet sich",
+				"ein winziges Loch und eine Windaura",
+				"verteilt das Pulver gleichmäßig mit",
+				"jedem Schritt. "
+			]
+		},
+		{
+			"path": [10,2,23,3],
+			"original": "Felcis: Die Wache hat also soeben unsere Bombe samt Zündschnur vorbereitet!",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Die Wache hat also soeben",
+				"unsere Bombe samt Zündschnur",
+				"vorbereitet! "
+			]
+		}
+	]
+}

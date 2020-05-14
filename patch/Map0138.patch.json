@@ -6,9 +6,8 @@
 			"original": "Zojenische Einheit: Frau Mensesso, bitte verlassen Sie die Forschungsbasis! Hier sind Sie nicht sicher.",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] Lady Mensesso, please",
-				"leave this research station!\\. You aren't",
-				"safe here."
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] Lady Mensesso, please leave",
+				"this research station!\\. You aren't safe here."
 			]
 		},
 		{
@@ -16,8 +15,8 @@
 			"original": "Frau Mensesso: Wieso? Ich dachte, wir wären auf diese Invasion vorbereitet. Sollten unsere Soldaten nicht mit dem Gegner fertig werden?",
 			"lines":
 			[
-				"\\c[10]Lady Mensesso\\c[0]:\\s[1] How come?\\. I thought",
-				"we were prepared for this invasion.\\.",
+				"\\c[10]Lady Mensesso\\c[0]:\\s[1] How come?\\. I thought we",
+				"were prepared for this invasion.\\.",
 				"Shouldn't our soldiers be dispatching",
 				"the enemy right now?"
 			]
@@ -28,8 +27,8 @@
 			"lines":
 			[
 				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] That's what we would've",
-				"expected,\\. if it weren't for this",
-				"Special-Ops soldier..."
+				"expected,\\. if it weren't for this Special-Ops",
+				"soldier..."
 			]
 		},
 		{
@@ -47,10 +46,9 @@
 			"original": "Zojenische Einheit: Es ist unglaublich! Eine einzelne Person stürmt durch den Komplex wie ein Berserker und lässt sich durch nichts aufhalten!",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]: It's unbelievable!\\.",
-				"A single person, storming through the complex",
-				"like a berserker and can't be stopped",
-				"by anything!"
+				"\\c[10]Korzojenish Soldier\\c[0]: It's unbelievable!\\. A single",
+				"person, storming through the complex like a",
+				"berserker and can't be stopped by anything!"
 			]
 		},
 		{
@@ -58,8 +56,8 @@
 			"original": "Zojenische Einheit: Dutzend von Soldaten hat sie schon besiegt! Im Alleingang!",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]: He has already defeated",
-				"a dozen soldiers!\\. Single-handedly!"
+				"\\c[10]Korzojenish Soldier\\c[0]: He already defeated a dozen",
+				"soldiers!\\. Single-handedly!"
 			]
 		},
 		{
@@ -68,8 +66,8 @@
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]: I beg your pardon?!\\.",
-				"This can't be happening!\\. What kind of",
-				"soldier takes on an entire army",
+				"This can't be happening!\\. What kind",
+				"of soldier takes on an entire army",
 				"alone?!"
 			]
 		},
@@ -78,9 +76,8 @@
 			"original": "Zojenische Einheit: So unglaublich es klingen mag, es ist so! Ich habe es mit eigenen Augen gesehen.",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] As outlandish",
-				"as it may sound,\\. it's true!\\.",
-				"I saw it with my own eyes."
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] As outlandish as it may",
+				"sound,\\. it's true!\\. I saw it with my own eyes."
 			]
 		},
 		{
@@ -88,9 +85,8 @@
 			"original": "Zojenische Einheit: Verlassen Sie diese Basis sofort! Wir können nicht mehr für Ihre Sicherheit garantieren.",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] Leave this base",
-				"immediately!\\. We can no longer",
-				"guarantee your safety."
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] Leave this base immediately!\\.",
+				"We can no longer guarantee your safety."
 			]
 		},
 		{
@@ -106,9 +102,9 @@
 			"original": "Frau Mensesso: Gehen Sie vor. Ich werde diesen Ort schon alleine sicher verlassen können.",
 			"lines":
 			[
-				"\\c[10]Lady Mensesso\\c[0]:\\s[1] Go on ahead.\\. I'll",
-				"be able to leave this place safely",
-				"on my own."
+				"\\c[10]Lady Mensesso\\c[0]:\\s[1] Go on ahead.\\. I'll be",
+				"able to leave this place safely on",
+				"my own."
 			]
 		},
 		{
@@ -116,9 +112,8 @@
 			"original": "Zojenische Einheit: Mein Befehl war, Sie sicher hier raus zu begleiten. Ich kann nicht so einfach gehen!",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] My order was to",
-				"escort you safely out of here.\\.",
-				"I can't go that easy!"
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] My order was to escort you",
+				"safely out of here.\\. I can't go that easy!"
 			]
 		},
 		{
@@ -128,8 +123,8 @@
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[1] Hmpf...\\. Then at least",
 				"let me get one last look through the",
-				"surveillance cameras.\\. I want to",
-				"see this for myself."
+				"surveillance cameras.\\. I want to see",
+				"this for myself."
 			]
 		},
 		{
@@ -137,7 +132,7 @@
 			"original": "Zojenische Einheit: ... Gut, aber beeilen Sie sich!",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] ...\\.Fine,\\. but hurry up!"
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] \\.Fine,\\. but hurry up!"
 			]
 		},
 		{
@@ -146,8 +141,9 @@
 			"lines":
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Th...\\. This is",
-				"outrageous!\\. How can someone gain such",
-				"physical strength?!\\. That suit..."
+				"outrageous!\\. How can someone",
+				"gain such physical strength?!\\.",
+				"That suit..."
 			]
 		},
 		{
@@ -155,8 +151,8 @@
 			"original": "Zojenische Einheit: Er bewegt sich in Richtung des Kerns der Basis...",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] He's headed",
-				"towards the core of the base..."
+				"\\c[10]Korzojenish Soldier\\c[0]:\\s[1] He's headed towards the core",
+				"of the base..."
 			]
 		},
 		{
@@ -164,8 +160,8 @@
 			"original": "Frau Mensesso:  Zum Maschinen-Kern...",
 			"lines":
 			[
-				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Towards the",
-				"machine core\\..\\..\\.."
+				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Towards the machine",
+				"core\\..\\..\\.."
 			]
 		},
 		{
@@ -173,10 +169,10 @@
 			"original": "Frau Mensesso: Das war vorauszusehen, was sollte Brigan sonst als Ziel haben? Aber was will diese Einheit denn bitte machen?",
 			"lines":
 			[
-				"\\c[10]Lady Mensesso\\c[0]:\\s[0] It's to be",
-				"expected, what else would Brigantia",
-				"aim for?\\. But what is this soldier",
-				"trying to achieve?"
+				"\\c[10]Lady Mensesso\\c[0]:\\s[0] It's to be expected,\\.",
+				"what else would Brigantia aim for?\\.",
+				"But what is this soldier trying to",
+				"achieve?"
 			]
 		},
 		{
@@ -184,9 +180,9 @@
 			"original": "Frau Mensesso: Spätestens wenn er den Kern aus der Basis transportieren will, wird er scheitern.",
 			"lines":
 			[
-				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Well, if he",
-				"wasn't stopped before, transporting",
-				"the core out of this base will."
+				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Well, if he wasn't",
+				"stopped before, transporting the",
+				"core out of this base will."
 			]
 		},
 		{
@@ -194,9 +190,9 @@
 			"original": "Frau Mensesso: Superkräfte hin oder her. Er wird ein Objekt dieser Größe nicht so schnell hier raus befördern können...",
 			"lines":
 			[
-				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Superpowers or not,\\.",
-				"he won't be able to get an object of",
-				"this size out of here so quickly..."
+				"\\c[10]Lady Mensesso\\c[0]:\\s[0] Superpowers or not,\\. he",
+				"won't be able to get an object of this",
+				"size out of here so quickly..."
 			]
 		},
 		{
@@ -204,10 +200,10 @@
 			"original": "Zojenische Einheit: D... Das gibt es nicht... FPM05! Von einem Menschen besiegt! Nein... D... Das ist kein Mensch mehr!",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]: G...\\. Gone...\\. The FPM05",
-				"is gone!\\. Destroyed by a single person!\\.",
-				"No...\\. Th...\\. That thing,\\. whatever it is,\\.",
-				"it's not even human anymore!"
+				"\\c[10]Korzojenish Soldier\\c[0]: G...\\. Gone...\\. The FPM05 is",
+				"gone!\\. Destroyed by a single person!\\. No...\\. Th...\\.",
+				"That thing,\\. whatever it is,\\. it's not even human",
+				"anymore!"
 			]
 		},
 		{
@@ -217,7 +213,7 @@
 			[
 				"\\c[10]Lady Mensesso\\c[0]:\\s[1] He wants to destroy",
 				"\"the source of all this power\".\\.",
-				"You heard that, right?"
+				"You heard that,\\. right?"
 			]
 		},
 		{
@@ -225,8 +221,8 @@
 			"original": "Zojenische Einheit: Die Quelle all dieser Macht? Auch die seiner?!",
 			"lines":
 			[
-				"\\c[10]Korzojenish Soldier\\c[0]: The source of all this",
-				"power?\\. His power too?!"
+				"\\c[10]Korzojenish Soldier\\c[0]: The source of all this power?\\.",
+				"His power too?!"
 			]
 		},
 		{
@@ -234,8 +230,8 @@
 			"original": "Frau Mensesso: Ich muss etwas nachsehen!",
 			"lines":
 			[
-				"\\c[10]Lady Mensesso\\c[0]: I have to",
-				"check something for a moment!"
+				"\\c[10]Lady Mensesso\\c[0]: I have to check",
+				"something for a moment!"
 			]
 		},
 		{
@@ -243,7 +239,7 @@
 			"original": "Frau Mensesso: N...Nein! Wieso bin ich nicht gleich drauf gekommen?!",
 			"lines":
 			[
-				"\\c[10]Lady Mensesso\\c[0]: N... No!\\. Why didn't",
+				"\\c[10]Lady Mensesso\\c[0]: N...\\. No!\\. Why didn't",
 				"I get that that's what he meant?!"
 			]
 		},
@@ -252,10 +248,9 @@
 			"original": "Frau Mensesso: Der Maschinenkern verzeichnet leichte Energieverluste! Er ist seine Energiequelle!",
 			"lines":
 			[
-				"\\c[10]Lady Mensesso\\c[0]: The machine core",
-				"has been experiencing some energy",
-				"losses!\\. So that's the source of",
-				"his power!"
+				"\\c[10]Lady Mensesso\\c[0]: The machine core has",
+				"been experiencing some energy losses!\\.",
+				"So that's the source of his power!"
 			]
 		},
 		{
@@ -272,10 +267,9 @@
 			"original": "Frau Mensesso: Der...der Kern ist verschwunden! Die Spezialeinheit ebenfalls! Was ist hier geschehen?!",
 			"lines":
 			[
-				"\\c[10]Lady Mensesso\\c[0]:\\s[1] The... The",
-				"core vanished!\\. The Spec-Ops",
-				"soldier too!\\. What in the",
-				"world happened here?!"
+				"\\c[10]Lady Mensesso\\c[0]:\\s[1] The...\\. The core",
+				"vanished!\\. The Spec-Ops soldier too!\\.",
+				"What in the world happened here?!"
 			]
 		}
 	]

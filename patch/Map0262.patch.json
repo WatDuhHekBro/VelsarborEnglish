@@ -1,0 +1,69 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [10,1,11,3],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Oh! Ihr seid tatsächlich bis hierhin vorgedrungen! Reife Leistung! Dafür habt ihr euch einen Minen-Orden verdient.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Oh!\\. Ihr seid tatsächlich bis ",
+				"hierhin vorgedrungen!\\. Reife Leistung!\\. Dafür habt ",
+				"ihr euch einen Minen-Orden verdient."
+			]
+		},
+		{
+			"path": [10,1,25,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Ihr guckt so verdutzt. Wenn ihr mehr über uns und die Minen-Orden erfahren wollt, besucht einfach unseren Stützpunkt.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Ihr guckt so verdutzt.\\. Wenn ",
+				"ihr mehr über uns und die Minen-Orden ",
+				"erfahren wollt, besucht einfach unseren ",
+				"Stützpunkt."
+			]
+		},
+		{
+			"path": [10,1,29,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Dieser befindet sich im mittleren Bereich der Mine. Fahrt beim nächsten Mal mit der Lore einfach rechts und dann geradeaus.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Dieser befindet sich im ",
+				"mittleren Bereich der Mine.\\. Fahrt beim nächsten ",
+				"Mal mit der Lore einfach rechts und dann ",
+				"geradeaus."
+			]
+		},
+		{
+			"path": [10,1,35,1],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Glück auf!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Glück auf!"
+			]
+		},
+		{
+			"path": [10,1,42,2],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Hier gibt es jede Menge Erz. Ist genug für uns beide da!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Hier gibt es jede Menge Erz. \\.",
+				"Ist genug für uns beide da!"
+			]
+		},
+		{
+			"path": [26,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		}
+	]
+}

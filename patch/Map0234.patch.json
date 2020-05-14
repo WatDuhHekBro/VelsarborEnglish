@@ -1,0 +1,263 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [77,1,2,1],
+			"original": "Wächter: Wollt ihr ne Erklärung zur Rüstungswahl?",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Wollt ihr ne Erklärung zur Rüstungswahl?"
+			]
+		},
+		{
+			"path": [77,1,5,2],
+			"indent": 1,
+			"original": "Wächter: Wie ihr sicher schon bemerkt habt, bekommt ihr einige Turniermünzen von uns.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Wie ihr sicher schon bemerkt habt, ",
+				"bekommt ihr einige Turniermünzen von uns. "
+			]
+		},
+		{
+			"path": [77,1,7,3],
+			"indent": 1,
+			"original": "Wächter: Diese könnt ihr hier gegen Rüstungsteile und sonstige Gegenstände eintauschen, die ihr dann im Kampf verwenden könnt.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Diese könnt ihr hier gegen Rüstungsteile ",
+				"und sonstige Gegenstände eintauschen, die ihr dann ",
+				"im Kampf verwenden könnt."
+			]
+		},
+		{
+			"path": [77,1,10,4],
+			"indent": 1,
+			"original": "Wächter: Ihr wählt eure Ausrüstung übrigens nur einmal pro Tag. Ihr könnt die Ausrüstung nicht zwischen den Kämpfen mal eben umändern. Also plant gut im Voraus, wenn ihr mehrmals kämpfen wollt.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Ihr wählt eure Ausrüstung übrigens nur ",
+				"einmal pro Tag. Ihr könnt die Ausrüstung nicht ",
+				"zwischen den Kämpfen mal eben umändern. Also plant ",
+				"gut im Voraus, wenn ihr mehrmals kämpfen wollt."
+			]
+		},
+		{
+			"path": [77,1,14,3],
+			"indent": 1,
+			"original": "Wächter: Natürlich werdet ihr weder die Rüstung, noch die Münzen behalten, wenn eure Kämpfe vorbei sind.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Natürlich werdet ihr weder die Rüstung, ",
+				"noch die Münzen behalten, wenn eure Kämpfe ",
+				"vorbei sind."
+			]
+		},
+		{
+			"path": [77,1,21,2],
+			"indent": 1,
+			"original": "Wächter: Wie? Habt ihr euch anders entschieden? Dann halt noch mal von vorne. Beeilt euch!",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Wie? Habt ihr euch anders entschieden?\\.",
+				"Dann halt noch mal von vorne.\\. Beeilt euch!"
+			]
+		},
+		{
+			"path": [77,1,30,2],
+			"indent": 1,
+			"original": "Wächter: Dann redet mich nicht an, sondern wählt eure Rüstung und kämpft.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Dann redet mich nicht an, sondern wählt ",
+				"eure Rüstung und kämpft."
+			]
+		},
+		{
+			"path": [78,3,16,2],
+			"indent": 1,
+			"original": "Wächter: Oha, ein neuer Teilnehmer. Hier habt ihr eure Minen-Standardausrüstung und Turniermünzen.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Oha, ein neuer Teilnehmer.\\. Hier habt ihr ",
+				"eure Minen-Standardausrüstung und Turniermünzen."
+			]
+		},
+		{
+			"path": [78,3,21,1],
+			"indent": 1,
+			"original": "Wächter: Hier eure Turniermünzen.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Hier eure Turniermünzen."
+			]
+		},
+		{
+			"path": [78,3,45,3],
+			"indent": 1,
+			"original": "Wächter: Die Anzahl eurer Turniermünzen hängt übrigens davon ab, wie viel Erz ihr heute gesammelt habt.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Die Anzahl eurer Turniermünzen hängt ",
+				"übrigens davon ab, wie viel Erz ihr heute ",
+				"gesammelt habt."
+			]
+		},
+		{
+			"path": [78,3,48,4],
+			"indent": 1,
+			"original": "Wächter: Ihr könnt hier nun eure Turniermünzen in bessere Ausrüstung umtauschen, falls ihr denkt, dass Spitzhacke und Arbeiterkleidung nicht gut genug für euch sind.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Ihr könnt hier nun eure Turniermünzen in ",
+				"bessere Ausrüstung umtauschen, falls ihr denkt, ",
+				"dass Spitzhacke und Arbeiterkleidung nicht gut ",
+				"genug für euch sind."
+			]
+		},
+		{
+			"path": [78,3,52,2],
+			"indent": 1,
+			"original": "Wächter: Solltet ihr Fragen zur Rüstungswahl haben, stellt sie mir ruhig.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Solltet ihr Fragen zur Rüstungswahl ",
+				"haben, stellt sie mir ruhig."
+			]
+		},
+		{
+			"path": [78,3,58,2],
+			"indent": 1,
+			"original": "Wächter: Macht schnell bei eurer Auswahl, lasst die Anderen nicht warten.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Macht schnell bei eurer Auswahl, lasst ",
+				"die Anderen nicht warten."
+			]
+		},
+		{
+			"path": [81,1,11,2],
+			"indent": 1,
+			"original": "Dies ist ein Speicherpunkt.",
+			"lines":
+			[
+				"",
+				"This is a \\c[11]save point\\c[0]."
+			]
+		},
+		{
+			"path": [81,1,13,3],
+			"indent": 1,
+			"original": "Wenn man auf solch einen steht, kann man den Spielstand speichern.",
+			"lines":
+			[
+				"",
+				"When you stand on one of these, you can",
+				"\\c[11]save the game\\c[0]."
+			]
+		},
+		{
+			"path": [81,1,16,3],
+			"indent": 1,
+			"original": "Öffne dazu das Menu mit Esc und wähle dann Speichern.",
+			"lines":
+			[
+				"",
+				"To do this, open the \\c[11]menu\\c[0] using \\c[11]Esc\\c[0] and",
+				"then select \\c[11]Save\\c[0]."
+			]
+		},
+		{
+			"path": [81,1,19,3],
+			"indent": 1,
+			"original": "Auf der Weltkarte kann man übigens immer speichern.",
+			"lines":
+			[
+				"",
+				"Additionally, you can always save on",
+				"the \\c[11]world map\\c[0]."
+			]
+		},
+		{
+			"path": [82,1,2,1],
+			"original": "Wächter: Geht raus, wenn ihr soweit seid.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Geht raus, wenn ihr soweit seid."
+			]
+		},
+		{
+			"path": [83,1,2,4],
+			"original": "Wächter: Eine ganz schöne Sammlung an Ausrüstungsgegenständen haben wir hier, nicht? Wäre ja auch langweilig, wenn ihr euch die ganze Zeit nur mit Spitzhacken bekämpfen würdet.",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] Eine ganz schöne Sammlung an ",
+				"Ausrüstungsgegenständen haben wir hier, nicht?\\.",
+				"Wäre ja auch langweilig, wenn ihr euch die ganze ",
+				"Zeit nur mit Spitzhacken bekämpfen würdet."
+			]
+		},
+		{
+			"path": [84,1,4,1],
+			"original": "Wächter: Seid ihr bereit für das Gefecht?",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Seid ihr bereit für das Gefecht?"
+			]
+		},
+		{
+			"path": [86,1,5,4],
+			"original": "Wächter: Hey, was soll das? Wollt ihr jetzt etwa den Kürzeren ziehen? Einmal drin gibt es kein Zurück. Ihr macht jetzt eurem Kampf, ob ihr wollt oder nicht!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hey, was soll das?\\. Wollt ihr jetzt etwa",
+				"den Kürzeren ziehen?\\. Einmal drin gibt es kein ",
+				"Zurück.\\. Ihr macht jetzt eurem Kampf, ob ihr wollt ",
+				"oder nicht!"
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [77,1,3],
+			"original": "Ja, bitte/Auswahl zurücksetzen/Nein, danke.",
+			"patch": "Ja, bitte/Auswahl zurücksetzen/Nein, danke."
+		},
+		{
+			"path": [77,1,4],
+			"original": "Ja, bitte",
+			"patch": "Ja, bitte"
+		},
+		{
+			"path": [77,1,20],
+			"original": "Auswahl zurücksetzen",
+			"patch": "Auswahl zurücksetzen"
+		},
+		{
+			"path": [77,1,29],
+			"original": "Nein, danke.",
+			"patch": "Nein, danke."
+		},
+		{
+			"path": [81,1,4],
+			"original": "TurnierLager",
+			"patch": "Tournament"
+		},
+		{
+			"path": [84,1,5],
+			"original": "Auf in die Arena!/Moment, noch nicht!",
+			"patch": "Auf in die Arena!/Moment, noch nicht!"
+		},
+		{
+			"path": [84,1,6],
+			"original": "Auf in die Arena!",
+			"patch": "Auf in die Arena!"
+		},
+		{
+			"path": [84,1,20],
+			"original": "Moment, noch nicht!",
+			"patch": "Moment, noch nicht!"
+		}
+	]
+}

@@ -105,7 +105,7 @@
 			"original": "Untere Wache: Hey, kommt mal kurz rüber.",
 			"lines":
 			[
-				"\\c[10]Lower Guard\\c[0]: Hm... This prisoner is still here,",
+				"\\c[10]Guard\\c[0]: Hm...\\. This prisoner is still here,\\.",
 				"but what happened to the other three?"
 			],
 			"__comment__": "Revised to be way less confusing, since the original line coupled with what's on screen makes it look like they're trying to get Sir Uroto's attention which would defeat the whole purpose of avoiding making it look staged."
@@ -115,17 +115,18 @@
 			"original": "Linke Wache: Sag mal... was haben sie nun mit den anderen Gefangenen gemacht? Ich seh' sie nicht mehr in ihren Zellen.",
 			"lines":
 			[
-				"\\c[10]Left Guard\\c[0]: Tell me...\\. What have they done with",
+				"\\c[10]Right Guard\\c[0]: Tell me...\\. What have they done with",
 				"the others?\\. I can't seem to find them in their",
 				"cells."
-			]
+			],
+			"__comment__": "The guard on the left (the one at the table) is the one who supposedly knows about what's going on, updating the guard on the right who's confused about the situation."
 		},
 		{
 			"path": [17,4,47,3],
 			"original": "Rechte Wache: So wie ich gehört habe, haben sich die 3 bereit erklärt, für uns jenseits der Grenze aktiv zu sein.",
 			"lines":
 			[
-				"\\c[10]Right Guard\\c[0]: From what I heard, the three agreed",
+				"\\c[10]Left Guard\\c[0]: From what I heard, the three agreed",
 				"to be active for us across the border."
 			]
 		},
@@ -134,7 +135,7 @@
 			"original": "LinkeWache: Ah... also 3 weitere Spione auf unserer Seite.",
 			"lines":
 			[
-				"\\c[10]Left Guard\\c[0]: Ah...\\. So three more spies on our",
+				"\\c[10]Right Guard\\c[0]: Ah...\\. So three more spies on our",
 				"side."
 			]
 		},
@@ -143,7 +144,7 @@
 			"original": "Rechte Wache: Ja, sie sollen die ganzen Gerüchte über uns aus der Welt schaffen.",
 			"lines":
 			[
-				"\\c[10]Right Guard\\c[0]: Yep, they're supposed to get rid of",
+				"\\c[10]Left Guard\\c[0]: Yep, they're supposed to get rid of",
 				"all the rumors about us."
 			]
 		},
@@ -152,7 +153,7 @@
 			"original": "Linke Wache: Wie wollen sie das den schaffen.",
 			"lines":
 			[
-				"\\c[10]Left Guard\\c[0]: How are they going to do that?"
+				"\\c[10]Right Guard\\c[0]: How are they going to do that?"
 			]
 		},
 		{
@@ -160,7 +161,7 @@
 			"original": "Rechte Wache: Der Plan ist eigentlich ganz interessant...",
 			"lines":
 			[
-				"\\c[10]Right Guard\\c[0]: The plan is actually quite",
+				"\\c[10]Left Guard\\c[0]: The plan is actually quite",
 				"interesting..."
 			]
 		},
@@ -245,8 +246,8 @@
 			"original": "(Herr Uroto: Kann das wirklich sein? Hat sich eine so mächtige militärische Einheit komplett im Untergrund gebildet?)",
 			"lines":
 			[
-				"(\\c[10]Sir Uroto\\c[0]: Could it really be?\\. Has",
-				"such a powerful military unit",
+				"(\\c[10]Sir Uroto\\c[0]: Could it really be?\\.",
+				"Has such a powerful military unit",
 				"formed entirely underground?)"
 			]
 		},

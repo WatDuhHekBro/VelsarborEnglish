@@ -93,8 +93,8 @@
 			"lines":
 			[
 				"\\c[10]Sir Vintal\\c[0]: No, not all hope is lost",
-				"yet.\\. So far there are only a few",
-				"witnesses.\\. They asked for support."
+				"yet.\\. So far, there are only a few",
+				"witnesses.\\. They've asked for support."
 			]
 		},
 		{
@@ -102,9 +102,9 @@
 			"original": "Sir Vintal: Der Stützpunkt muss rechtzeitig verschwinden, damit weitere Zeugen ausbleiben.",
 			"lines":
 			[
-				"\\c[10]Sir Vintal\\c[0]: The fortress has to",
-				"disappear in time for more",
-				"witnesses to fail."
+				"\\c[10]Sir Vintal\\c[0]: The fortress must",
+				"disappear in time so that they",
+				"can't gather any more witnesses."
 			]
 		},
 		{
@@ -132,8 +132,8 @@
 			"original": "Patricia des Signums: Mit Unterstützung meint Ihr also auch die nötigen Signum-Experten, nehme ich an?",
 			"lines":
 			[
-				"\\c[10]Patrician of Signums\\c[0]: By support, you",
-				"mean the necessary Signum experts,",
+				"\\c[10]Patrician of Signums\\c[0]: And by support,\\.",
+				"you mean the necessary Signum experts,",
 				"I assume?"
 			]
 		},
@@ -143,7 +143,7 @@
 			"lines":
 			[
 				"\\c[10]Patrician of Signums\\c[0]: This situation",
-				"came very unexpectedly..."
+				"came about very unexpectedly..."
 			]
 		},
 		{
@@ -151,7 +151,7 @@
 			"original": "Sir Vintal: Diese Situation darf nicht unterschätzt werden, Frau Mensesso.",
 			"lines":
 			[
-				"\\c[10]Sir Vintal\\c[0]: This situation should not",
+				"\\c[10]Sir Vintal\\c[0]: This situation is not to",
 				"be underestimated,\\. Lady Mensesso."
 			]
 		},

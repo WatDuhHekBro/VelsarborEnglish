@@ -6,9 +6,9 @@
 			"original": "Funkdurchsage: WAS genau haben Sie vor?! Wollen Sie Zojeno das Zielobjekt entnehmen?! Im Alleingang?!",
 			"lines":
 			[
-				"\\c[10]Radio\\c[0]:\\s[1] WHAT are you trying to do?!\\.",
-				"Are you trying to take the objective from",
-				"Korzojeno?!\\. Single-handedly?!"
+				"\\c[10]Radio\\c[0]:\\s[1] WHAT are you trying to do?!\\. Are you trying",
+				"to take the machine from Korzojeno?!\\.",
+				"Single-handedly?!"
 			]
 		},
 		{
@@ -16,9 +16,8 @@
 			"original": "Seldan: Nein.... Ich werde es nicht übernehmen oder erobern.",
 			"lines":
 			[
-				"\\c[1]Seldan\\c[0]:\\s[2] No...\\.",
-				"I'm not going to take it",
-				"or capture it."
+				"\\c[1]Seldan\\c[0]:\\s[2] No...\\. I'm not going to",
+				"take it or capture it."
 			]
 		},
 		{
@@ -69,9 +68,9 @@
 			"lines":
 			[
 				"(\\c[1]Seldan\\c[0]:\\s[1] Now!\\. According to the",
-				"information, I have to take a left",
-				"and go down the hall to get to",
-				"the objective...)"
+				"information, I have to take a",
+				"left and go down the hall to",
+				"get to the machine...)"
 			]
 		},
 		{
@@ -89,7 +88,7 @@
 			"lines":
 			[
 				"\\c[1]Seldan\\c[0]:\\s[2] I have no intention of",
-				"backstabbing my country,\\. don't worry...\\.",
+				"backstabbing my country,\\. don't worry.\\.",
 				"I will never let this technology fall",
 				"into their blood-stained hands!"
 			]
@@ -116,8 +115,8 @@
 			"original": "(Seldan: Ich muss den anderen Gang entlang gehen...)",
 			"lines":
 			[
-				"(\\c[1]Seldan\\c[0]: I have to go down the",
-				"other hallway...)"
+				"(\\c[1]Seldan\\c[0]: I have to go down the other",
+				"hallway...)"
 			]
 		},
 		{
@@ -125,8 +124,8 @@
 			"original": "(Seldan: Ich muss den anderen Gang entlang gehen...)",
 			"lines":
 			[
-				"(\\c[1]Seldan\\c[0]: I have to go down the",
-				"other hallway...)"
+				"(\\c[1]Seldan\\c[0]: I have to go down the other",
+				"hallway...)"
 			]
 		},
 		{
@@ -134,8 +133,8 @@
 			"original": "(Seldan: Ich muss den anderen Gang entlang gehen...)",
 			"lines":
 			[
-				"(\\c[1]Seldan\\c[0]: I have to go down the",
-				"other hallway...)"
+				"(\\c[1]Seldan\\c[0]: I have to go down the other",
+				"hallway...)"
 			]
 		}
 	]

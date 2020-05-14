@@ -1,0 +1,143 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [8,1,15,4],
+			"original": "Wächter: Sir Dolaros. Glauben Sie nicht, dass Sie zu weit gehen? Sie haben den Befehl bekommen, Gewaltakte im Verhör dieser Gefangenen zu Unterlassen...",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Sir Dolaros.\\. Glauben Sie nicht, dass Sie ",
+				"zu weit gehen?\\. Sie haben den Befehl bekommen, ",
+				"Gewaltakte im Verhör dieser Gefangenen zu ",
+				"Unterlassen..."
+			]
+		},
+		{
+			"path": [8,1,24,2],
+			"original": "Sir Dolaros: Ach du meinst diesen Brief?",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Ach du meinst diesen ",
+				"Brief? "
+			]
+		},
+		{
+			"path": [8,1,27,4],
+			"original": "Sir Dolaros: Ich halte mich doch zurück. Schau, wir haben jede Menge Folterinstrumente hier. Hab ich davon eines verwendet?",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Ich halte mich doch ",
+				"zurück.\\. Schau,\\. wir haben jede Menge ",
+				"Folterinstrumente hier.\\. Hab ich ",
+				"davon eines verwendet?"
+			]
+		},
+		{
+			"path": [8,1,33,1],
+			"original": "Wächter: Die Faustschläge...",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Die Faustschläge..."
+			]
+		},
+		{
+			"path": [8,1,54,2],
+			"original": "Sir Dolaros: Meinst du so einen Schlag?",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Meinst du so einen ",
+				"Schlag? "
+			]
+		},
+		{
+			"path": [8,1,57,3],
+			"original": "Sir Dolaros: Ich hab hier die Aufgabe, Informationen aus Leuten zu pressen.",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Ich hab hier die ",
+				"Aufgabe, Informationen aus Leuten zu ",
+				"pressen."
+			]
+		},
+		{
+			"path": [8,1,61,4],
+			"original": "Sir Dolaros: Ich weiß nicht, wie sich dieser Vorento das vorstellt, aber ohne etwas Gewalt geht das nicht!",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Ich weiß nicht, wie ",
+				"sich dieser Vorento das vorstellt, ",
+				"aber ohne etwas Gewalt geht das ",
+				"nicht!"
+			]
+		},
+		{
+			"path": [8,1,70,3],
+			"original": "Wächter: ... Ganz abgesehen davon... Glauben Sie wirklich, dass dieser Kento die Wahrheit erzählt hat?",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: ...\\. Ganz abgesehen davon...\\. Glauben Sie ",
+				"wirklich, dass dieser Kento die Wahrheit erzählt ",
+				"hat?"
+			]
+		},
+		{
+			"path": [8,1,76,4],
+			"original": "Sir Dolaros: Sehe ich aus wie ein Gedankenleser? Höchstwahrscheinlich hat er vieles erfunden, damit er überhaupt etwas sagen kann.",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Sehe ich aus wie ein ",
+				"Gedankenleser?\\. Höchstwahrscheinlich ",
+				"hat er vieles erfunden, damit er ",
+				"überhaupt etwas sagen kann."
+			]
+		},
+		{
+			"path": [8,1,80,4],
+			"original": "Sir Dolaros: Der Typ kam mir sowieso ziemlich gerissen vor. Aber wir haben ja noch zwei weitere Gefangene.",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Der Typ kam mir sowieso ",
+				"ziemlich gerissen vor. Aber wir ",
+				"haben ja noch zwei weitere ",
+				"Gefangene."
+			]
+		},
+		{
+			"path": [8,1,84,3],
+			"original": "Sir Dolaros: Mit der Zeit werden die Lügen schon auffliegen und wir werden an die Wahrheit kommen.",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Mit der Zeit werden die ",
+				"Lügen schon auffliegen und wir ",
+				"werden an die Wahrheit kommen."
+			]
+		},
+		{
+			"path": [8,1,91,2],
+			"original": "Sir Dolaros: Gehe jetzt. Ich möchte meine Ruhe haben.",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Gehe jetzt. \\.",
+				"Ich möchte meine Ruhe haben."
+			]
+		},
+		{
+			"path": [8,1,94,1],
+			"original": "Wächter: Zu Befehl, Sir.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Zu Befehl, Sir."
+			]
+		},
+		{
+			"path": [8,1,105,3],
+			"original": "Sir Dolaros: Diese Verhöre werden auch nicht spannender. Wie ich dieses Drecksloch hasse.",
+			"lines":
+			[
+				"\\c[10]Sir Dolaros\\c[0]: Diese Verhöre werden ",
+				"auch nicht spannender.\\. Wie ich ",
+				"dieses Drecksloch hasse. "
+			]
+		}
+	]
+}

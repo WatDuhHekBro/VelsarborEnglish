@@ -1,0 +1,215 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [35,1,2,3],
+			"original": "Gefangener: Ich kann diese ganzen Jammerlappen nicht verstehen. Die sollten froh sein, dass sie etwas tun können. Und wenn es Minenarbeit ist.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ich kann diese ganzen Jammerlappen ",
+				"nicht verstehen.\\. Die sollten froh sein, dass sie ",
+				"etwas tun können.\\. Und wenn es Minenarbeit ist."
+			]
+		},
+		{
+			"path": [35,1,5,3],
+			"original": "Gefangener: Nichts ist schlimmer, als Wochen bis Monate lang einsam und tatenlos in einer Zelle zu sitzen. Glaubt mir, ich spreche aus Erfahrung.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Nichts ist schlimmer, als Wochen bis ",
+				"Monate lang einsam und tatenlos in einer Zelle zu ",
+				"sitzen.\\. Glaubt mir, ich spreche aus Erfahrung."
+			]
+		},
+		{
+			"path": [35,1,11,2],
+			"indent": 1,
+			"original": "Cibon: Hm... da könnte er wirklich Recht haben.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hm...\\. da könnte er wirklich ",
+				"Recht haben. "
+			]
+		},
+		{
+			"path": [35,1,14,4],
+			"indent": 1,
+			"original": "Cibon: Dieses permanente Rumgesitze in der Zelle dieser anderen Truppe hätt' mich auf Dauer in den Wahnsinn getrieben.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Dieses permanente Rumgesitze ",
+				"in der Zelle dieser anderen Truppe ",
+				"hätt' mich auf Dauer in den Wahnsinn ",
+				"getrieben. "
+			]
+		},
+		{
+			"path": [35,1,20,2],
+			"indent": 2,
+			"original": "Soko: Aber wenigstens konnte man dort ausschlafen.",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Aber wenigstens konnte man ",
+				"dort ausschlafen."
+			]
+		},
+		{
+			"path": [35,1,23,1],
+			"indent": 2,
+			"original": "Kento: Ja, genau.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Ja, genau."
+			]
+		},
+		{
+			"path": [35,1,25,2],
+			"indent": 2,
+			"original": "Cibon: ... Ich hätte nie gedacht, so etwas von DIR zu hören, Soko.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ...\\. Ich hätte nie gedacht, so ",
+				"etwas von DIR zu hören, Soko."
+			]
+		},
+		{
+			"path": [35,1,29,1],
+			"indent": 2,
+			"original": "Kento: ...",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [36,1,2,3],
+			"original": "Gefangene: Vor einer Woche oder zwei war dieser Bereich noch voller reicher Erzreserven, die leicht erreichbar waren.",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Vor einer Woche oder zwei war dieser ",
+				"Bereich noch voller reicher Erzreserven, die ",
+				"leicht erreichbar waren. "
+			]
+		},
+		{
+			"path": [36,1,5,4],
+			"original": "Gefangene: Aber seit wir hier letztens ein kleines Erdbeben hatten, ist das meiste mit Gestein überschüttet und nur noch schwer zu erreichen.",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Aber seit wir hier letztens ein ",
+				"kleines Erdbeben hatten, ist das meiste mit ",
+				"Gestein überschüttet und nur noch schwer zu ",
+				"erreichen."
+			]
+		},
+		{
+			"path": [37,1,11,4],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Unglaublich, du hast es tatsächlich durch das Steingerümpel da unten geschafft. Dafür kriegste nen Ordnen! Weiter so, Kumpel!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Unglaublich, du hast es ",
+				"tatsächlich durch das Steingerümpel da unten ",
+				"geschafft.\\. Dafür kriegste nen Ordnen!\\. Weiter so, ",
+				"Kumpel!"
+			]
+		},
+		{
+			"path": [37,1,26,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Ihr guckt so verdutzt. Wenn ihr mehr über uns und die Minen-Orden erfahren wollt, besucht einfach unseren Stützpunkt.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Ihr guckt so verdutzt.\\. Wenn ",
+				"ihr mehr über uns und die Minen-Orden ",
+				"erfahren wollt, besucht einfach unseren ",
+				"Stützpunkt."
+			]
+		},
+		{
+			"path": [37,1,30,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Dieser befindet sich im mittleren Bereich der Mine. Fahrt beim nächsten Mal mit der Lore einfach rechts und dann geradeaus.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Dieser befindet sich im ",
+				"mittleren Bereich der Mine.\\. Fahrt beim nächsten ",
+				"Mal mit der Lore einfach rechts und dann ",
+				"geradeaus."
+			]
+		},
+		{
+			"path": [37,1,36,1],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Glück auf!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Glück auf!"
+			]
+		},
+		{
+			"path": [37,1,43,4],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Ist immer witzig, die verdutzten Blicke der Leute auf der anderen Seite zu sehen, nicht wahr? Ja-ha! Das ist Minenarbeit, wie sie sein sollte!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Ist immer witzig, die ",
+				"verdutzten Blicke der Leute auf der anderen Seite ",
+				"zu sehen, nicht wahr?\\. Ja-ha!\\. Das ist Minenarbeit, ",
+				"wie sie sein sollte!"
+			]
+		},
+		{
+			"path": [39,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [40,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [41,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [42,1,3,3],
+			"indent": 1,
+			"original": "Wache: Hey, ihr habt es echt da durch geschafft, nicht schlecht, nicht schlecht. War bestimmt ordentlich Erz da drüben, oder?",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Hey, ihr habt es echt da durch geschafft, ",
+				"nicht schlecht, nicht schlecht.\\. War bestimmt ",
+				"ordentlich Erz da drüben, oder?"
+			]
+		},
+		{
+			"path": [42,1,8,3],
+			"indent": 1,
+			"original": "Wache: Hm... interessant, interessant. Ich frage mich, wie man da unten durch kommt, bei all dem Gestein. Einer hat es ja anscheinend geschafft.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Hm...\\. interessant, interessant. \\.Ich frage ",
+				"mich, wie man da unten durch kommt, bei all dem ",
+				"Gestein. \\.Einer hat es ja anscheinend geschafft."
+			]
+		}
+	]
+}

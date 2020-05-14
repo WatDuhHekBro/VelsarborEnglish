@@ -1,0 +1,1830 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [107,1,2,1],
+			"original": "Wächter: Zur Mine geht es in die andere Richtung.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Zur Mine geht es in die andere Richtung."
+			]
+		},
+		{
+			"path": [108,1,2,4],
+			"original": "Wächter: Ihr geht dorthin, wo alle anderen hingehen. Mit anderen Worten: Genau in die entgegengesetzte Richtung! Was ist daran so schwer zu verstehen?",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Ihr geht dorthin, wo alle anderen ",
+				"hingehen.\\. Mit anderen Worten: Genau in die ",
+				"entgegengesetzte Richtung!\\.",
+				"Was ist daran so schwer zu verstehen?"
+			]
+		},
+		{
+			"path": [109,1,2,1],
+			"original": "Wächter: Ihr sollt zur Mine, nicht hier lang.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Ihr sollt zur Mine,\\. nicht hier lang."
+			]
+		},
+		{
+			"path": [110,1,2,3],
+			"original": "Wächter: Bitte habt etwas gnade und bereitet mir am Morgen nicht unnötig Kopfschmerzen. In die andere Richtung, verstanden?",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Bitte habt etwas gnade und bereitet mir ",
+				"am Morgen nicht unnötig Kopfschmerzen.\\. In die ",
+				"andere Richtung, verstanden?"
+			]
+		},
+		{
+			"path": [111,1,21,1],
+			"original": "Wächter: Hier geht es nicht durch!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hier geht es nicht durch! "
+			]
+		},
+		{
+			"path": [112,1,21,1],
+			"original": "Wächter: Hier geht es nicht durch!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hier geht es nicht durch! "
+			]
+		},
+		{
+			"path": [113,1,21,1],
+			"original": "Wächter: Hier geht es nicht durch!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hier geht es nicht durch! "
+			]
+		},
+		{
+			"path": [114,3,6,1],
+			"original": "Gefangener: ...",
+			"lines":
+			[
+				"\\c[10]Gefangener:\\c[0] ..."
+			]
+		},
+		{
+			"path": [115,3,6,1],
+			"original": "Gefangene: Nicht jetzt!",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Nicht jetzt!"
+			]
+		},
+		{
+			"path": [116,3,6,2],
+			"original": "Nicht ganz eingelebter Gefangener: Nicht schon wieder... Minenarbeit... Ich hasse es...",
+			"lines":
+			[
+				"\\c[10]Nicht ganz eingelebter Gefangener\\c[0]: Nicht schon ",
+				"wieder...\\. Minenarbeit...\\. Ich hasse es..."
+			]
+		},
+		{
+			"path": [117,3,6,1],
+			"original": "Gefangene: Geht mir aus dem Weg.",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Geht mir aus dem Weg."
+			]
+		},
+		{
+			"path": [120,1,2,3],
+			"original": "Wächter: Zur Kantine geht den Flur vom Erdgeschoss des Zellengebäudes ganz durch und dann nach rechts.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Zur Kantine geht den Flur vom ",
+				"Erdgeschoss des Zellengebäudes ganz durch und dann ",
+				"nach rechts."
+			]
+		},
+		{
+			"path": [121,1,2,3],
+			"original": "Gefangener: Manchmal hab ich wirklich das Gefühl, dass eine bessere Ausrüstung im Turnier mehr bringt als Kampftalent.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Manchmal hab ich wirklich das Gefühl, ",
+				"dass eine bessere Ausrüstung im Turnier mehr ",
+				"bringt als Kampftalent. "
+			]
+		},
+		{
+			"path": [121,1,5,4],
+			"original": "Gefangener: Wie sonst soll man mir erklären, dass diese Pauamainer Veteranen immer soweit oben sind? Natürlich weil sie verdammt viel Erz schürfen und deshalb viele Turnier-Münzen erhalten!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Wie sonst soll man mir erklären, dass ",
+				"diese Pauamainer Veteranen immer soweit oben sind?\\.",
+				"Natürlich weil sie verdammt viel Erz schürfen und ",
+				"deshalb viele Turnier-Münzen erhalten!"
+			]
+		},
+		{
+			"path": [121,1,9,3],
+			"original": "Gefangener: Und viele Turnier-Münzen bedeuten bessere Ausrüstung, wie ihr ja wahrscheinlich schon wisst.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Und viele Turnier-Münzen bedeuten ",
+				"bessere Ausrüstung, wie ihr ja wahrscheinlich ",
+				"schon wisst."
+			]
+		},
+		{
+			"path": [122,1,2,2],
+			"original": "Wächter: Dieser Bereich darf nur von Turnierkampfteilnehmern betreten werden!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Dieser Bereich darf nur von ",
+				"Turnierkampfteilnehmern betreten werden!"
+			]
+		},
+		{
+			"path": [123,1,2,3],
+			"original": "Wächter: Wenn ihr auf den Platz wollt, um zu kämpfen, müsst ihr euch anmelden. Die Anmeldung ist in der Kantine.",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Wenn ihr auf den Platz wollt, um zu ",
+				"kämpfen, müsst ihr euch anmelden.\\. Die Anmeldung ",
+				"ist in der Kantine."
+			]
+		},
+		{
+			"path": [124,1,21,1],
+			"original": "Wächter: Zurück mit euch!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Zurück mit euch!"
+			]
+		},
+		{
+			"path": [125,1,2,3],
+			"original": "Gefangene: Irgendwie hab ich Mitleid mit \"Den Schleimigen\". Ständig werden sie von x-beliebigen Neueinsteigern nieder geprügelt.",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Irgendwie hab ich Mitleid mit \"Den ",
+				"Schleimigen\".\\. Ständig werden sie von x-beliebigen ",
+				"Neueinsteigern nieder geprügelt."
+			]
+		},
+		{
+			"path": [125,1,5,4],
+			"original": "Gefangene: Es gibt sogar einige untere Plätze, die so dreist sind, sie einfach so zu bekämpfen und zu schlagen, obwohl sie im Rang unter ihnen sind! Nur aus Frust, weil sie nicht weiter kommen!",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Es gibt sogar einige untere Plätze, die ",
+				"so dreist sind, sie einfach so zu bekämpfen und zu ",
+				"schlagen, obwohl sie im Rang unter ihnen sind!\\. Nur ",
+				"aus Frust, weil sie nicht weiter kommen!"
+			]
+		},
+		{
+			"path": [125,1,9,3],
+			"original": "Gefangene: Ich für meinen Teil freu mich über jeden Sieg der Schleimigen, selbst wenn es nur selten passiert!",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Ich für meinen Teil freu mich über ",
+				"jeden Sieg der Schleimigen, selbst wenn es nur ",
+				"selten passiert!"
+			]
+		},
+		{
+			"path": [126,1,2,2],
+			"original": "Gefangener: Ich bin ja mal gespannt, wer sich diesmal durchschlagen wird.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ich bin ja mal gespannt, wer sich ",
+				"diesmal durchschlagen wird."
+			]
+		},
+		{
+			"path": [127,1,2,4],
+			"original": "Älterer Gefangener: Es ist immer wieder gut zu sehen, dass es Gefangene gibt, die gegen den Untertage-Schreck ankommen. Das sind nämlich genau die Biester, die auch unten in der Mine lauern.",
+			"lines":
+			[
+				"\\c[10]Älterer Gefangener\\c[0]: Es ist immer wieder gut zu ",
+				"sehen, dass es Gefangene gibt, die gegen den ",
+				"Untertage-Schreck ankommen.\\. Das sind nämlich genau ",
+				"die Biester, die auch unten in der Mine lauern."
+			]
+		},
+		{
+			"path": [127,1,6,3],
+			"original": "Älterer Gefangener: So kann man immer hoffen, da unten auch Hilfe zu bekommen, wenn man mal wirklich von so etwas verfolgt wird.",
+			"lines":
+			[
+				"\\c[10]Älterer Gefangener\\c[0]: So kann man immer hoffen, da ",
+				"unten auch Hilfe zu bekommen, wenn man mal ",
+				"wirklich von so etwas verfolgt wird."
+			]
+		},
+		{
+			"path": [127,1,9,2],
+			"original": "Älterer Gefangener: Am Tageslicht sehen diese Wesen so oder so gleich viel harmloser aus!",
+			"lines":
+			[
+				"\\c[10]Älterer Gefangener\\c[0]: Am Tageslicht sehen diese Wesen ",
+				"so oder so gleich viel harmloser aus!"
+			]
+		},
+		{
+			"path": [128,1,2,3],
+			"original": "Gefangener: Die Exoten sind mein persönliche Favorit hier! Die haben einen so toll überraschenden Kampfstil.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Die Exoten sind mein persönliche ",
+				"Favorit hier!\\. Die haben einen so toll ",
+				"überraschenden Kampfstil."
+			]
+		},
+		{
+			"path": [128,1,5,4],
+			"original": "Gefangener: Am Anfang macht es den Anschein, dass sie nichts drauf haben und der Gegner gewinnen wird, aber nach ein paar Runden legen sie dann richtig los!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Am Anfang macht es den Anschein, dass ",
+				"sie nichts drauf haben und der Gegner gewinnen ",
+				"wird, aber nach ein paar Runden legen sie dann ",
+				"richtig los!"
+			]
+		},
+		{
+			"path": [128,1,9,2],
+			"original": "Gefangener: Viele Gegner sind schon auf diese Taktik reingefallen!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Viele Gegner sind schon auf diese ",
+				"Taktik reingefallen!"
+			]
+		},
+		{
+			"path": [129,1,2,4],
+			"original": "Gefangener: Diese Rächer der Gerechten sind schon ein komischer Verein. Die reden permanent von irgendwelchen gerechten Umverteilungen von Besitztümern.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Diese Rächer der Gerechten sind schon ",
+				"ein komischer Verein.\\. Die reden permanent von ",
+				"irgendwelchen gerechten Umverteilungen von ",
+				"Besitztümern. "
+			]
+		},
+		{
+			"path": [129,1,6,4],
+			"original": "Gefangener: Diese Typen kamen hier aus Helnovien. Hier gibt es nicht viel umzuverteilen. Seit dem Krieg gibt es hier bis auf sehr wenige Ausnahmen nur arme Menschen.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Diese Typen kamen hier aus Helnovien.\\.",
+				"Hier gibt es nicht viel umzuverteilen.\\. Seit dem ",
+				"Krieg gibt es hier bis auf sehr wenige Ausnahmen ",
+				"nur arme Menschen."
+			]
+		},
+		{
+			"path": [129,1,10,3],
+			"original": "Gefangener: Aber ihr Bogenschütze hat es drauf, das muss man ihnen lassen. Hab selten so viele Pfeile auf einmal fliegen sehen!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Aber ihr Bogenschütze hat es drauf,",
+				"das muss man ihnen lassen.\\. Hab selten so viele ",
+				"Pfeile auf einmal fliegen sehen!"
+			]
+		},
+		{
+			"path": [130,1,2,3],
+			"original": "Gefangener: Es kommt nicht sonderlich oft vor, dass \"Der Chef\" herausgefordert wird, aber wenn es passiert, ist es immer wieder ein Spektakel.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Es kommt nicht sonderlich oft vor, ",
+				"dass \"Der Chef\" herausgefordert wird, aber wenn es ",
+				"passiert, ist es immer wieder ein Spektakel."
+			]
+		},
+		{
+			"path": [130,1,5,3],
+			"original": "Gefangener: Der Chef kämpft alleine und hat es bisher mit jeder Gruppe locker aufgenommen, die ihn Platz runter bringen wollte.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Der Chef kämpft alleine und hat es ",
+				"bisher mit jeder Gruppe locker aufgenommen, die ",
+				"ihn Platz runter bringen wollte."
+			]
+		},
+		{
+			"path": [130,1,8,3],
+			"original": "Gefangener: Zu schade, dass die Pauamainer Veteranen es mittlerweile aufgegeben haben, ihm vom 1. Platz zu jagen.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Zu schade, dass die Pauamainer ",
+				"Veteranen es mittlerweile aufgegeben haben, ihm ",
+				"vom 1. Platz zu jagen. "
+			]
+		},
+		{
+			"path": [130,1,11,4],
+			"original": "Gefangener: Aber diese Neuen da, diese Zinkar-Brüder, die versuchen es öfters in letzter Zeit. Die Neueinsteiger bringen wirklich frischen Wind in dieses Turnier!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Aber diese Neuen da, diese ",
+				"Zinkar-Brüder, die versuchen es öfters in letzter ",
+				"Zeit.\\. Die Neueinsteiger bringen wirklich ",
+				"frischen Wind in dieses Turnier!"
+			]
+		},
+		{
+			"path": [131,1,2,4],
+			"original": "Gefangener: Diese Schattenschleicher sind wirklich eine Gruppe, denen ich nachts nicht über den Weg laufen will. Die sind schon tagsüber unheimlich und grausam genug!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Diese Schattenschleicher sind wirklich ",
+				"eine Gruppe, denen ich nachts nicht über den Weg ",
+				"laufen will.\\. Die sind schon tagsüber unheimlich ",
+				"und grausam genug!"
+			]
+		},
+		{
+			"path": [131,1,6,3],
+			"original": "Gefangener: Und wenn sie mal ihr Nebelgewand auf sich ausführen, sieht ihr Gegner sie so schlecht, als ob es tatsächlich Nacht wäre.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Und wenn sie mal ihr Nebelgewand auf ",
+				"sich ausführen, sieht ihr Gegner sie so schlecht, ",
+				"als ob es tatsächlich Nacht wäre."
+			]
+		},
+		{
+			"path": [132,1,3,3],
+			"indent": 1,
+			"original": "Gefangener: Hehe! Die bisherigen Kämpfe waren ziemlich toll! Es lohnt sich doch immer wieder, dabei zu sein.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Hehe!\\. Die bisherigen Kämpfe waren ",
+				"ziemlich toll!\\. Es lohnt sich doch immer wieder, ",
+				"dabei zu sein."
+			]
+		},
+		{
+			"path": [132,1,8,2],
+			"indent": 1,
+			"original": "Gefangener: Wann geht es endlich los? Ich will nicht noch länger warten...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Wann geht es endlich los? Ich will ",
+				"nicht noch länger warten..."
+			]
+		},
+		{
+			"path": [132,1,12,3],
+			"indent": 1,
+			"original": "Kento: Was ist das hier für ein offener Platz? Und was machen die ganzen Leute hier?",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Was ist das hier für ein ",
+				"offener Platz?\\. Und was machen die ",
+				"ganzen Leute hier?"
+			]
+		},
+		{
+			"path": [132,1,16,4],
+			"indent": 1,
+			"original": "Gefangener: Das wisst ihr nicht? Hier finden gleich einige Turnierkämpfe statt. Die gibt es fast täglich. Jeder Gefangene kann dran teilnehmen.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Das wisst ihr nicht?\\. Hier finden ",
+				"gleich einige Turnierkämpfe statt.\\. Die gibt es ",
+				"fast täglich.\\. Jeder Gefangene kann dran ",
+				"teilnehmen."
+			]
+		},
+		{
+			"path": [132,1,22,2],
+			"indent": 1,
+			"original": "Soko: Aber was soll man bitte davon haben?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Aber was soll man bitte davon ",
+				"haben?"
+			]
+		},
+		{
+			"path": [132,1,25,3],
+			"indent": 1,
+			"original": "Gefangener: Einen Ruf hier im Gefängnis. Leute, die sich gut um Turnier schlagen, werden von den anderen Gefangenen mit höherem Respekt behandelt.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Einen Ruf hier im Gefängnis. Leute, ",
+				"die sich gut um Turnier schlagen, werden von den ",
+				"anderen Gefangenen mit höherem Respekt behandelt."
+			]
+		},
+		{
+			"path": [132,1,28,2],
+			"indent": 1,
+			"original": "Gefangener: Gleichzeitig ist es eine Unterhaltung für die anderen Gefangenen, die zusehen.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Gleichzeitig ist es eine Unterhaltung ",
+				"für die anderen Gefangenen, die zusehen."
+			]
+		},
+		{
+			"path": [132,1,30,4],
+			"indent": 1,
+			"original": "Gefangener: Ich hab' gehört, bevor die Turnierkämpfe eingeführt worden sind, gab es deutlich mehr Aufstände und Probleme mit den Gefangenen.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ich hab' gehört, bevor die ",
+				"Turnierkämpfe eingeführt worden sind, gab es ",
+				"deutlich mehr Aufstände und Probleme mit den ",
+				"Gefangenen."
+			]
+		},
+		{
+			"path": [134,1,2,3],
+			"original": "Gefangener: Diese Turnierkämpfe sind wirklich so ziemlich der einzige Spaß, der uns in diesem Gefängnis bleibt.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Diese Turnierkämpfe sind wirklich so ",
+				"ziemlich der einzige Spaß, der uns in diesem ",
+				"Gefängnis bleibt. "
+			]
+		},
+		{
+			"path": [134,1,5,3],
+			"original": "Gefangener: Zum Glück gibt es genug Freiwillige, die tatsächlich Lust haben, sich am Feierabend die Köpfe einzuschlagen...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Zum Glück gibt es genug Freiwillige, ",
+				"die tatsächlich Lust haben, sich am Feierabend die ",
+				"Köpfe einzuschlagen..."
+			]
+		},
+		{
+			"path": [136,1,2,1],
+			"original": "Wächter: Gefangene haben hier nichts zu suchen!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Gefangene haben hier nichts zu suchen!"
+			]
+		},
+		{
+			"path": [137,1,21,1],
+			"original": "Wächter: Hier geht es nicht durch!",
+			"lines":
+			[
+				"\\c[10]Wächter\\c[0]: Hier geht es nicht durch! "
+			]
+		},
+		{
+			"path": [140,2,2,3],
+			"original": "Gefangener: Wie man da drüben sieht, gibt es auch reichlich Wächter, die bei den Turnierkämpfen zusehen.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Wie man da drüben sieht, gibt es auch ",
+				"reichlich Wächter, die bei den Turnierkämpfen ",
+				"zusehen."
+			]
+		},
+		{
+			"path": [140,2,14,3],
+			"original": "Gefangener: Einige von uns fragen sich wirklich, ob die das Turnier hauptsächlich für ihre eigene Unterhaltung eingeführt haben...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Einige von uns fragen sich wirklich, ",
+				"ob die das Turnier hauptsächlich für ihre eigene ",
+				"Unterhaltung eingeführt haben..."
+			]
+		},
+		{
+			"path": [141,2,2,4],
+			"original": "Gefangener: Ziemlich gute Aussicht von hier oder? Ich würde mich aber nicht zu nah an die Brüstung wagen. Wir hatten schon Fälle, wo Gefangene von hier runter gefallen sind...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Ziemlich gute Aussicht von hier oder?\\.",
+				"Ich würde mich aber nicht zu nah an die Brüstung ",
+				"wagen.\\. Wir hatten schon Fälle, wo Gefangene von ",
+				"hier runter gefallen sind..."
+			]
+		},
+		{
+			"path": [142,2,2,4],
+			"original": "Gefangene: Wenn hier mal der Chef kämpft, müsst ihr unbedingt hier oben sein! Wenn der einmal seine Geheimattacke verwendet, spürt man den Wind sogar noch hier oben!",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Wenn hier mal der Chef kämpft, müsst ",
+				"ihr unbedingt hier oben sein!\\. Wenn der einmal ",
+				"seine Geheimattacke verwendet, spürt man den Wind ",
+				"sogar noch hier oben!"
+			]
+		},
+		{
+			"path": [143,2,4,3],
+			"indent": 2,
+			"original": "Gefangener: Der Typ da sieht ja sehr edel aus. Wie kommt so etwas hier bitte ins Gefängnis? Und wieso versperrt mir so etwas hier die Sicht?",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Der Typ da sieht ja sehr edel aus. \\.Wie ",
+				"kommt so etwas hier bitte ins Gefängnis?\\. Und wieso ",
+				"versperrt mir so etwas hier die Sicht?"
+			]
+		},
+		{
+			"path": [143,2,12,4],
+			"original": "Gefangener: Wenn hier einmal die Kämpfe richtig losgehen, ist es hier oben oft stark überfüllt. Da bekommt man wirklich Angst, dass man runter fallen könnte...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Wenn hier einmal die Kämpfe richtig ",
+				"losgehen, ist es hier oben oft stark überfüllt.\\. Da ",
+				"bekommt man wirklich Angst, dass man runter fallen ",
+				"könnte..."
+			]
+		},
+		{
+			"path": [145,2,2,2],
+			"original": "Gefangener: Diese \"Ritter der Nacht\" sind ganz schön gerissen, sag ich dir.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Diese \"Ritter der Nacht\" sind ganz ",
+				"schön gerissen, sag ich dir. "
+			]
+		},
+		{
+			"path": [145,2,4,3],
+			"original": "Gefangener: Als die meisten Kämpfer dahinter gekommen sind, dass sie sehr anfällig gegen Magie sind, haben sie ihre Taktik geändert.",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Als die meisten Kämpfer dahinter ",
+				"gekommen sind, dass sie sehr anfällig gegen Magie ",
+				"sind, haben sie ihre Taktik geändert. "
+			]
+		},
+		{
+			"path": [145,2,7,4],
+			"original": "Gefangener: Jetzt zaubern sie \"Spiegelung\" auf sich selber! Es ist immer wieder toll anzusehen, wie verdutzt die Zauberer blicken, wenn die ihren Spruch zurückgeschleudert bekommen!",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Jetzt zaubern sie \"Spiegelung\" auf ",
+				"sich selber!\\. Es ist immer wieder toll anzusehen, ",
+				"wie verdutzt die Zauberer blicken, wenn die ihren ",
+				"Spruch zurückgeschleudert bekommen!"
+			]
+		},
+		{
+			"path": [156,1,27,2],
+			"indent": 1,
+			"original": "Ansager: Unser nächster Kampf steht kurz bevor! Der erste Teilnehmer betritt die Arena!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[5]Unser nächster Kampf steht kurz bevor!\\.",
+				"Der erste Teilnehmer betritt die Arena!\\.\\.\\^"
+			]
+		},
+		{
+			"path": [156,1,33,1],
+			"indent": 2,
+			"original": "Ansager:  Die ZINKAR-SCHLÄCHTER!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[5] Die ZINKAR-SCHLÄCHTER!"
+			]
+		},
+		{
+			"path": [156,1,39,3],
+			"indent": 3,
+			"original": "Ansager: Oha! Diese Truppe hat sich ein Ziel gesetzt! Doch dieses ist noch weit entfernt, ein langer Weg durch die Rangliste wartet auf sie!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Oha!\\. Diese Truppe hat sich ein Ziel ",
+				"gesetzt!\\. Doch dieses ist noch weit entfernt, ",
+				"ein langer Weg durch die Rangliste wartet auf sie!"
+			]
+		},
+		{
+			"path": [156,1,42,1],
+			"indent": 3,
+			"original": "Ansager: Hoffen wir, dass ihr Name Programm ist!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Hoffen wir, dass ihr Name Programm ist!"
+			]
+		},
+		{
+			"path": [156,1,47,4],
+			"indent": 4,
+			"original": "Ansager: Langsam aber sicher kommen sie ihrem Ziel näher! Werden sie bis zum bitteren Ende durchhalten? Und sind sie ihrem Erzfeind wirklich gewachsen, wenn es mal soweit ist?",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Langsam aber sicher kommen sie ihrem Ziel ",
+				"näher!\\. Werden sie bis zum bitteren Ende ",
+				"durchhalten?\\. Und sind sie ihrem Erzfeind wirklich ",
+				"gewachsen, wenn es mal soweit ist?"
+			]
+		},
+		{
+			"path": [156,1,53,1],
+			"indent": 4,
+			"original": "Cibon: Und ob wir das sind!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Und ob wir das sind!"
+			]
+		},
+		{
+			"path": [156,1,57,4],
+			"indent": 4,
+			"original": "Ansager: Sie wollen Zinkar-Blut sehen! Die Brüder sollten sich in Acht nehmen! Ihr Erzfeind ist auf dem Weg zu ihnen und erscheint schier unaufhaltsam!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Sie wollen Zinkar-Blut sehen!\\. Die Brüder ",
+				"sollten sich in Acht nehmen!\\. Ihr Erzfeind ist auf ",
+				"dem Weg zu ihnen und erscheint schier ",
+				"unaufhaltsam!"
+			]
+		},
+		{
+			"path": [156,1,68,1],
+			"indent": 3,
+			"original": "Ansager: ... Die REPSBROT-TRUPPE!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[5]... Die REPSBROT-TRUPPE!"
+			]
+		},
+		{
+			"path": [156,1,74,4],
+			"indent": 4,
+			"original": "Ansager: Diese wäre die erste Backwaren-Truppe, die diese Arena betreten hat! Lasst uns für sie hoffen, dass sie nur für das Brot kämpfen und nicht WIE das Brot!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Diese wäre die erste Backwaren-Truppe, ",
+				"die diese Arena betreten hat!\\. Lasst uns für sie ",
+				"hoffen, dass sie nur für das Brot kämpfen und ",
+				"nicht WIE das Brot!"
+			]
+		},
+		{
+			"path": [156,1,83,4],
+			"indent": 5,
+			"original": "Ansager: Sie können kämpfen, besser als man von Brot erwarten würde! Doch lasst uns abwarten! Vielleicht findet sich der Gegner mit dem Brotmesser, der ihrem Weg ein Ende setzt!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Sie können kämpfen, besser als man von ",
+				"Brot erwarten würde!\\. Doch lasst uns abwarten!\\. ",
+				"Vielleicht findet sich der Gegner mit dem ",
+				"Brotmesser, der ihrem Weg ein Ende setzt!"
+			]
+		},
+		{
+			"path": [156,1,89,2],
+			"indent": 5,
+			"original": "Cibon: Urgs... der war wirklich schlecht.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Urgs...\\. der war wirklich ",
+				"schlecht."
+			]
+		},
+		{
+			"path": [156,1,94,4],
+			"indent": 5,
+			"original": "Ansager: Das Brot, das von allen gefürchtet wird! Ihre Kruste hart wie Stahl und scharf wie feinste Schmiedkunst. Einen Gegner nach dem anderen sind sie schon im Halse stecken geblieben!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Das Brot, das von allen gefürchtet wird!\\. ",
+				"Ihre Kruste hart wie Stahl und scharf wie feinste ",
+				"Schmiedkunst.\\. Einen Gegner nach dem anderen sind ",
+				"sie schon im Halse stecken geblieben!"
+			]
+		},
+		{
+			"path": [156,1,100,2],
+			"indent": 5,
+			"original": "Cibon: Kann jemand diesem Typen sagen, dass er nicht witzig ist?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Kann jemand diesem Typen ",
+				"sagen, dass er nicht witzig ist?"
+			]
+		},
+		{
+			"path": [156,1,110,1],
+			"indent": 4,
+			"original": "Ansager: Der BRIGANTEN-STOLZ!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[5]Der BRIGANTEN-STOLZ!"
+			]
+		},
+		{
+			"path": [156,1,116,1],
+			"indent": 5,
+			"original": "Ansager: ... Briganten ... Stolz?",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] ... Briganten\\. ... Stolz? "
+			]
+		},
+		{
+			"path": [156,1,117,4],
+			"indent": 5,
+			"original": "Ansager: Natürlich! Der Stolz unserer Nation! Hier in unserem Gefängnis! Unsere Vorbildsgefangenen! Wenn doch nur jeder in Brigantia sich so verhalten würde wie unsere bescheidenen Freunde hier!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Natürlich!\\. Der Stolz unserer Nation!\\. Hier",
+				"in unserem Gefängnis!\\. Unsere Vorbildsgefangenen! \\.",
+				"Wenn doch nur jeder in Brigantia sich so verhalten ",
+				"würde wie unsere bescheidenen Freunde hier!"
+			]
+		},
+		{
+			"path": [156,1,121,3],
+			"indent": 5,
+			"original": "Ansager: Ohja...WIR WÜRDEN DEN GESAMTEN BRIGANTEN-ORDEN ZU UNSEREN TEILNEHMERN ZÄHLEN! Wäre das nicht großartig?",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Ohja\\....\\.WIR WÜRDEN DEN GESAMTEN ",
+				"BRIGANTEN-ORDEN ZU UNSEREN TEILNEHMERN ZÄHLEN!\\. ",
+				"Wäre das nicht großartig?"
+			]
+		},
+		{
+			"path": [156,1,131,2],
+			"indent": 5,
+			"original": "Cibon: Das war so klar, dass das so ausging...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Das war so klar, dass das so ",
+				"ausging..."
+			]
+		},
+		{
+			"path": [156,1,134,2],
+			"indent": 5,
+			"original": "Soko: Wir werden sehen, wer hier am Ende lacht!",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wir werden sehen, wer hier am ",
+				"Ende lacht!"
+			]
+		},
+		{
+			"path": [156,1,140,4],
+			"indent": 6,
+			"original": "Ansager: Ohja! Unsere Vorbildgefangenen wieder! Sicherlich können wir Stolz sein auf unsere Verräter. Wenn ich es mir recht überlege... sollte es nicht eher KORZOJENOS STOLZ heißen?!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Ohja!\\. Unsere Vorbildgefangenen wieder! \\.",
+				"Sicherlich können wir Stolz sein auf unsere ",
+				"Verräter.\\. Wenn ich es mir recht überlege...\\.",
+				"sollte es nicht eher KORZOJENOS STOLZ heißen?!"
+			]
+		},
+		{
+			"path": [156,1,146,1],
+			"indent": 6,
+			"original": "Soko: ... Verdammt...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ... Verdammt..."
+			]
+		},
+		{
+			"path": [156,1,148,2],
+			"indent": 6,
+			"original": "Cibon: Wirklich eine ausgezeichnete Namenswahl.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Wirklich eine ausgezeichnete ",
+				"Namenswahl."
+			]
+		},
+		{
+			"path": [156,1,153,4],
+			"indent": 6,
+			"original": "Ansager: Sie mögen uns an Korzojeno verkauft haben und unter uns Gefangenen verweilen, aber sie haben uns bewiesen, dass ihre Kampfkunst in der Tat eine Sache ist, auf die man stolz sein kann!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Sie mögen uns an Korzojeno verkauft haben ",
+				"und unter uns Gefangenen verweilen, aber sie haben ",
+				"uns bewiesen, dass ihre Kampfkunst in der Tat eine ",
+				"Sache ist, auf die man stolz sein kann!"
+			]
+		},
+		{
+			"path": [156,1,157,1],
+			"indent": 6,
+			"original": "Ansager: Ja, vielleicht sogar ganz Brigantia!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Ja,\\. vielleicht sogar ganz Brigantia!"
+			]
+		},
+		{
+			"path": [156,1,160,3],
+			"indent": 6,
+			"original": "Soko: Wir haben nichts an Korzojeno verkauft, sie wollen es einfach nicht verstehen...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Wir haben nichts an ",
+				"Korzojeno verkauft, sie wollen es ",
+				"einfach nicht verstehen..."
+			]
+		},
+		{
+			"path": [156,1,164,2],
+			"indent": 6,
+			"original": "Kento: Wenigstens scheinen sie uns so langsam ernst zu nehmen.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Wenigstens scheinen sie uns ",
+				"so langsam ernst zu nehmen."
+			]
+		},
+		{
+			"path": [156,1,174,1],
+			"indent": 5,
+			"original": "Ansager: Die VERRÄTER!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[5]Die VERRÄTER!"
+			]
+		},
+		{
+			"path": [156,1,180,3],
+			"indent": 6,
+			"original": "Ansager: Wenn das nicht unsere Kollegen vom Briganten-Orden sind, die dann doch lieber für unser tückisches Nachbarland arbeiten wollten!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Wenn das nicht unsere Kollegen vom ",
+				"Briganten-Orden sind, die dann doch lieber für ",
+				"unser tückisches Nachbarland arbeiten wollten!"
+			]
+		},
+		{
+			"path": [156,1,183,4],
+			"indent": 6,
+			"original": "Ansager: Jetzt sind sie hier, in Brigantia, doch ihrem Auftraggeber werden sie nicht mehr helfen können! Das einzige was ihnen bleib, ist zu kämpfen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Jetzt sind sie hier, in Brigantia, doch ",
+				"ihrem Auftraggeber werden sie nicht mehr helfen ",
+				"können!\\. Das einzige was ihnen bleib, ist zu ",
+				"kämpfen!"
+			]
+		},
+		{
+			"path": [156,1,192,3],
+			"indent": 7,
+			"original": "Ansager: Und wieder sind sie hier, um zu kämpfen! Offensichtlich gibt es hier nichts interessantes, was es Korzojeno zu berichten gilt!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Und wieder sind sie hier, um zu kämpfen!\\.",
+				"Offensichtlich gibt es hier nichts interessantes, ",
+				"was es Korzojeno zu berichten gilt!"
+			]
+		},
+		{
+			"path": [156,1,197,2],
+			"indent": 7,
+			"original": "Soko: ... wie oft wollen sie noch darauf rumhacken?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ... wie oft wollen sie noch ",
+				"darauf rumhacken?"
+			]
+		},
+		{
+			"path": [156,1,202,4],
+			"indent": 7,
+			"original": "Ansager: Sie kämpfen, oh ja und wie sie kämpfen! Wir können froh sein, dass sie es hier tun und nicht in einer Schlacht mit unserem Nachbarland unter der Führung Farenias!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Sie kämpfen, oh ja und wie sie kämpfen!\\.",
+				"Wir können froh sein, dass sie es hier tun und ",
+				"nicht in einer Schlacht mit unserem Nachbarland ",
+				"unter der Führung Farenias!"
+			]
+		},
+		{
+			"path": [156,1,208,3],
+			"indent": 7,
+			"original": "Cibon: Der Typ kann auch mächtig froh sein, dass er nicht hier unten steht...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Der Typ kann auch mächtig ",
+				"froh sein, dass er nicht hier unten ",
+				"steht..."
+			]
+		},
+		{
+			"path": [156,1,227,1],
+			"indent": 1,
+			"original": "Ansager: Und hier kommt ihr Gegner!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Und hier kommt ihr Gegner!"
+			]
+		},
+		{
+			"path": [156,1,241,1],
+			"indent": 1,
+			"original": "Ansager: Und hier kommt der nächste Gegner!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Und hier kommt der nächste Gegner!"
+			]
+		},
+		{
+			"path": [156,1,245,1],
+			"indent": 1,
+			"original": "Ansager: DIE SCHLEIMIGEN!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[3]DIE SCHLEIMIGEN!"
+			]
+		},
+		{
+			"path": [156,1,246,3],
+			"indent": 1,
+			"original": "Ansager: Alle Anfänger in diesem Turnier müssen sich zuerst durch diese Vereinigung von Glibber kämpfen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Alle Anfänger in diesem Turnier müssen ",
+				"sich zuerst durch diese Vereinigung von Glibber ",
+				"kämpfen! "
+			]
+		},
+		{
+			"path": [156,1,249,4],
+			"indent": 1,
+			"original": "Ansager: Zwar sind sie nur selten auf einem höheren Rang als den Letzten und dennoch gab es schon Leute, die unter ihren magischen Flammen und Wasserfontänen zugrunden gingen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Zwar sind sie nur selten auf einem ",
+				"höheren Rang als den Letzten und dennoch gab es ",
+				"schon Leute, die unter ihren magischen Flammen und ",
+				"Wasserfontänen zugrunden gingen!"
+			]
+		},
+		{
+			"path": [156,1,255,2],
+			"indent": 1,
+			"original": "Cibon: Hehe, was für Verlierer, NICHT WAHR Kumpel?",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Hehe,\\. was für Verlierer,\\. ",
+				"NICHT WAHR Kumpel?"
+			]
+		},
+		{
+			"path": [156,1,258,1],
+			"indent": 1,
+			"original": "Kento: Sei leise.",
+			"lines":
+			[
+				"\\c[1]\\n[1]\\c[0]: Sei leise."
+			]
+		},
+		{
+			"path": [156,1,261,1],
+			"indent": 1,
+			"original": "Soko: Hä?",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: Hä?"
+			]
+		},
+		{
+			"path": [156,1,268,1],
+			"indent": 2,
+			"original": "Ansager: DAS RUDEL!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[3]DAS RUDEL!"
+			]
+		},
+		{
+			"path": [156,1,269,3],
+			"indent": 2,
+			"original": "Ansager: In der düstersten Region des Silvanwaldes haben wir sie gefunden und es war kein Leichtes, sie hier zur Arena zu bringen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] In der düstersten Region des Silvanwaldes ",
+				"haben wir sie gefunden und es war kein Leichtes, ",
+				"sie hier zur Arena zu bringen!"
+			]
+		},
+		{
+			"path": [156,1,272,2],
+			"indent": 2,
+			"original": "Ansager: Doch nun sind sie hier und ihren Gegnern werden sie zeigen, wie die Regeln der Wildnis aussehen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Doch nun sind sie hier und ihren Gegnern ",
+				"werden sie zeigen, wie die Regeln der Wildnis aussehen!"
+			]
+		},
+		{
+			"path": [156,1,276,2],
+			"indent": 2,
+			"original": "Cibon: Es sind verdammt noch mal nur ein paar Wölfe.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Es sind verdammt noch mal nur ",
+				"ein paar Wölfe."
+			]
+		},
+		{
+			"path": [156,1,284,1],
+			"indent": 3,
+			"original": "Ansager: DIE BÄRENBRÜDER!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[3]DIE BÄRENBRÜDER!"
+			]
+		},
+		{
+			"path": [156,1,285,4],
+			"indent": 3,
+			"original": "Ansager: Sie sind groß, pelzig und kräftig! Schon viele Waffen sind an ihrem dichten Fell gescheitert. Und sie wissen, wie man zurück schlägt!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Sie sind groß, pelzig und kräftig!\\. Schon  ",
+				"viele Waffen sind an ihrem dichten Fell ",
+				"gescheitert.\\. Und sie wissen, wie man zurück ",
+				"schlägt!"
+			]
+		},
+		{
+			"path": [156,1,294,1],
+			"indent": 4,
+			"original": "Ansager: DIE FEJARSCHLITZER!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[3]DIE FEJARSCHLITZER!"
+			]
+		},
+		{
+			"path": [156,1,295,4],
+			"indent": 4,
+			"original": "Ansager: Zu schade, dass die Teilnehmer hier keine Fejar haben, die sie ihnen abschlitzen könnten. Dennoch sind sie schnell, gewandt und wissen, wie man ihren Gegner einengen kann!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Zu schade, dass die Teilnehmer hier keine ",
+				"Fejar haben, die sie ihnen abschlitzen könnten.\\.",
+				"Dennoch sind sie schnell, gewandt und wissen, wie ",
+				"man ihren Gegner einengen kann!"
+			]
+		},
+		{
+			"path": [156,1,304,1],
+			"indent": 5,
+			"original": "Ansager: DER UNTERTAGE-SCHRECK!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[3]DER UNTERTAGE-SCHRECK!"
+			]
+		},
+		{
+			"path": [156,1,305,4],
+			"indent": 5,
+			"original": "Ansager: Richtig, es sind genau die Biester, die von allen Minenarbeitern hier gefürchtet werden! Nun gehen sie sogar so weit, die Turnierkämpfer zu bedrohen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Richtig, es sind genau die Biester, die ",
+				"von allen Minenarbeitern hier gefürchtet werden!\\.",
+				"Nun gehen sie sogar so weit, die Turnierkämpfer zu ",
+				"bedrohen!"
+			]
+		},
+		{
+			"path": [156,1,314,1],
+			"indent": 6,
+			"original": "Ansager: DIE SCHATTENSCHLEICHER!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[3]DIE SCHATTENSCHLEICHER!"
+			]
+		},
+		{
+			"path": [156,1,315,3],
+			"indent": 6,
+			"original": "Ansager: Sie wissen, wie sie ihren Gegner in den Rücken fallen. Ihre tödliche Technik bringt das Opfer um, bevor dieses irgendetwas bemerkt!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Sie wissen, wie sie ihren Gegner in den ",
+				"Rücken fallen. Ihre tödliche Technik bringt das ",
+				"Opfer um, bevor dieses irgendetwas bemerkt!"
+			]
+		},
+		{
+			"path": [156,1,318,3],
+			"indent": 6,
+			"original": "Ansager: Aber schätzt sie nicht falsch ein! Ihre Kampftechnik ist auf offenem Feld genauso tödlich wie in der dunklen Nacht!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Aber schätzt sie nicht falsch ein!\\. Ihre ",
+				"Kampftechnik ist auf offenem Feld genauso tödlich ",
+				"wie in der dunklen Nacht!"
+			]
+		},
+		{
+			"path": [156,1,326,1],
+			"indent": 7,
+			"original": "Ansager: DIE EXOTEN!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[3]DIE EXOTEN!"
+			]
+		},
+		{
+			"path": [156,1,327,4],
+			"indent": 7,
+			"original": "Ansager: Woher sie genau kommen, weiß niemand, aber ihre Kampftechnik sucht ihresgleichen auf dem Kontinent Toras! Ihr Gegner wird sich auf etwas ganz neues Einstellen müssen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Woher sie genau kommen, weiß niemand, ",
+				"aber ihre Kampftechnik sucht ihresgleichen auf ",
+				"dem Kontinent Toras!\\. Ihr Gegner wird sich auf ",
+				"etwas ganz neues Einstellen müssen!"
+			]
+		},
+		{
+			"path": [156,1,336,1],
+			"indent": 8,
+			"original": "Ansager: DIE RITTER DER NACHT!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[3]DIE RITTER DER NACHT!"
+			]
+		},
+		{
+			"path": [156,1,337,3],
+			"indent": 8,
+			"original": "Ansager: Ihr mächtiges Auftreten in dunkler Rüstung hat schon so manchen Gegner erzittern lassen! Doch ihre Erscheinung ist kein Schauspiel!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Ihr mächtiges Auftreten in dunkler ",
+				"Rüstung hat schon so manchen Gegner erzittern ",
+				"lassen!\\. Doch ihre Erscheinung ist kein Schauspiel!"
+			]
+		},
+		{
+			"path": [156,1,340,2],
+			"indent": 8,
+			"original": "Ansager: Schon viele Gegner sind an ihrer Defensive gescheitert!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Schon viele Gegner sind an ihrer ",
+				"Defensive gescheitert!"
+			]
+		},
+		{
+			"path": [156,1,347,1],
+			"indent": 9,
+			"original": "Ansager: DIE RÄCHER DER GERECHTEN!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[3]DIE RÄCHER DER GERECHTEN!"
+			]
+		},
+		{
+			"path": [156,1,348,3],
+			"indent": 9,
+			"original": "Ansager: Sie stehlen von den Reichen und geben es den Armen, so sagen sie. Zu dumm, dass das es hier im Gefängnis für die Gefangenen kein Besitz gibt!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Sie stehlen von den Reichen und geben es ",
+				"den Armen, so sagen sie.\\. Zu dumm, dass das es hier ",
+				"im Gefängnis für die Gefangenen kein Besitz gibt!"
+			]
+		},
+		{
+			"path": [156,1,351,3],
+			"indent": 9,
+			"original": "Ansager: Doch ihr Anführer weiß in der Tat, wie man mit den Bogen umzugehen hat! Ihr Gegner sollte sich in Acht nehmen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Doch ihr Anführer weiß in der Tat, wie ",
+				"man mit den Bogen umzugehen hat!\\. Ihr Gegner sollte ",
+				"sich in Acht nehmen!"
+			]
+		},
+		{
+			"path": [156,1,366,1],
+			"indent": 10,
+			"original": "Ansager: DIE ZINKAR-BRÜDER!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[3]DIE ZINKAR-BRÜDER!"
+			]
+		},
+		{
+			"path": [156,1,367,3],
+			"indent": 10,
+			"original": "Ansager: Diese Truppe ist wahrhaftig schnell nach oben gekommen! Mit ihrer außergewöhnlichen Teamarbeit haben sie es weit gebracht!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Diese Truppe ist wahrhaftig schnell nach ",
+				"oben gekommen!\\. Mit ihrer außergewöhnlichen ",
+				"Teamarbeit haben sie es weit gebracht! "
+			]
+		},
+		{
+			"path": [156,1,370,2],
+			"indent": 10,
+			"original": "Ansager: Mit Dolch, Klaue und Kampfstab haben sie schon vielen Gegnern eine Lektion erteilt!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Mit Dolch, Klaue und Kampfstab haben sie ",
+				"schon vielen Gegnern eine Lektion erteilt! "
+			]
+		},
+		{
+			"path": [156,1,382,1],
+			"indent": 11,
+			"original": "Ansager: DIE PAUAMAINER-VETERANEN!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[3]DIE PAUAMAINER-VETERANEN!"
+			]
+		},
+		{
+			"path": [156,1,383,4],
+			"indent": 11,
+			"original": "Ansager: Schon viele Gegner sind an ihrer tödlichen Erzschürftechnik zu Grunde gegangen! Und wenn dann noch jemand stand, hat er das Feuer ihrer Dynamitpfeile schlucken müssen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Schon viele Gegner sind an ihrer ",
+				"tödlichen Erzschürftechnik zu Grunde gegangen!\\. Und ",
+				"wenn dann noch jemand stand, hat er das Feuer ",
+				"ihrer Dynamitpfeile schlucken müssen!"
+			]
+		},
+		{
+			"path": [156,1,397,1],
+			"indent": 12,
+			"original": "Ansager: DIE CHEF HÖCHSTPERSÖNLICH!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] \\s[3]DIE CHEF HÖCHSTPERSÖNLICH!"
+			]
+		},
+		{
+			"path": [156,1,399,3],
+			"indent": 13,
+			"original": "Ansager: Der Anführer der Pauamainer, schon seit Ewigkeiten besetzt er den ersten Rang und er hat nicht vor, ihn abzugeben!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Der Anführer der Pauamainer, schon seit ",
+				"Ewigkeiten besetzt er den ersten Rang und er hat ",
+				"nicht vor, ihn abzugeben! "
+			]
+		},
+		{
+			"path": [156,1,402,4],
+			"indent": 13,
+			"original": "Ansager: Und alle, die ihm diesen Platz in Frage stellen, bekommt als Antwort Erdrutsche und Wirbelstürme entgegen gedonnert! Ein weiterer, epischer Kampf steht uns bevor!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Und alle, die ihm diesen Platz in Frage ",
+				"stellen, bekommt als Antwort Erdrutsche und ",
+				"Wirbelstürme entgegen gedonnert! Ein weiterer, ",
+				"epischer Kampf steht uns bevor!"
+			]
+		},
+		{
+			"path": [156,1,408,4],
+			"indent": 13,
+			"original": "Ansager: Der Anführer der Pauamainer und längster Ranglistenführer unserer Turniergeschichte. Nun wurde er geschlagen und hat seinen ersten Platz verloren.",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Der Anführer der Pauamainer und längster ",
+				"Ranglistenführer unserer Turniergeschichte.\\. Nun ",
+				"wurde er geschlagen und hat seinen ersten Platz ",
+				"verloren."
+			]
+		},
+		{
+			"path": [156,1,412,3],
+			"indent": 13,
+			"original": "Ansager: Wird er ihn sich wieder zurück erkämpfen können? Ein weiterer, großer Kampf steht uns bevor!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Wird er ihn sich wieder zurück erkämpfen ",
+				"können?\\. Ein weiterer, großer Kampf steht uns ",
+				"bevor!"
+			]
+		},
+		{
+			"path": [156,1,450,1],
+			"original": "Ansager: LASST DEN KAMPF BEGINNEN!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] LASST DEN KAMPF BEGINNEN!"
+			]
+		},
+		{
+			"path": [156,3,44,3],
+			"indent": 3,
+			"original": "Ansager: Die Zinkar-Schlächter schlachten alle Gegner, um ihr finales Opfer zu erreichen! Ein weiterer Sieg für sie!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Die Zinkar-Schlächter schlachten alle ",
+				"Gegner, um ihr finales Opfer zu erreichen!\\. Ein ",
+				"weiterer Sieg für sie!"
+			]
+		},
+		{
+			"path": [156,3,49,3],
+			"indent": 3,
+			"original": "Ansager: Die Zinkar-Schlächter sind ihrem Ziel ein Schritt näher gekommen! Ein weiterer Sieg. Die Zinkar-Brüder sollten sich bereithalten!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Die Zinkar-Schlächter sind ihrem Ziel ein ",
+				"Schritt näher gekommen!\\. Ein weiterer Sieg.\\. Die ",
+				"Zinkar-Brüder sollten sich bereithalten!"
+			]
+		},
+		{
+			"path": [156,3,60,3],
+			"indent": 4,
+			"original": "Ansager: Die Repsbrot-Truppe erweist sich halt als wirklich harter Brocken! An dieser Niederlage werden ihre Gegner noch lange zu kauen haben!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Die Repsbrot-Truppe erweist sich halt als ",
+				"wirklich harter Brocken!\\. An dieser Niederlage ",
+				"werden ihre Gegner noch lange zu kauen haben!"
+			]
+		},
+		{
+			"path": [156,3,65,1],
+			"indent": 4,
+			"original": "Cibon: Oh GOTT...",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Oh GOTT..."
+			]
+		},
+		{
+			"path": [156,3,69,3],
+			"indent": 4,
+			"original": "Ansager: Die Repsbrot-Truppe gewinnt! Was für ein Kampf! Blut und Schweiß sind geflossen und Repskerne geflogen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Die Repsbrot-Truppe gewinnt!\\. Was für ein ",
+				"Kampf!\\. Blut und Schweiß sind geflossen und ",
+				"Repskerne geflogen!"
+			]
+		},
+		{
+			"path": [156,3,74,1],
+			"indent": 4,
+			"original": "Cibon: Was für eine Pfeife!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Was für eine Pfeife!"
+			]
+		},
+		{
+			"path": [156,3,83,2],
+			"indent": 5,
+			"original": "Ansager: Der Briganten-Stolz hat gewonnen, wie zu erwarten von unseren Vorbildsgefangenen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Der Briganten-Stolz hat gewonnen, wie zu ",
+				"erwarten von unseren Vorbildsgefangenen!"
+			]
+		},
+		{
+			"path": [156,3,88,2],
+			"indent": 5,
+			"original": "Ansager: Der Briganten-Stolz hat gewonnen! Hab ihr toll gemacht! Wir sind alle ganz stolz auf euch.",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Der Briganten-Stolz hat gewonnen!\\. Hab ihr ",
+				"toll gemacht!\\. Wir sind alle ganz stolz auf euch."
+			]
+		},
+		{
+			"path": [156,3,92,1],
+			"indent": 5,
+			"original": "Cibon: Danke sehr.",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: Danke sehr."
+			]
+		},
+		{
+			"path": [156,3,97,1],
+			"indent": 4,
+			"original": "Soko: ...",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: ..."
+			]
+		},
+		{
+			"path": [156,3,104,3],
+			"indent": 6,
+			"original": "Ansager: Die Verräter sind siegreich! Korzojeno muss es wirklich bereuen, diese fähigen Leute verloren zu haben!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Die Verräter sind siegreich! Korzojeno ",
+				"muss es wirklich bereuen, diese fähigen Leute",
+				"verloren zu haben!"
+			]
+		},
+		{
+			"path": [156,3,109,3],
+			"indent": 6,
+			"original": "Ansager: Die Verräter haben gewonnen! Korzojeno scheint ein gutes Gespür bei der Auswahl ihrer Spione zu haben!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Die Verräter haben gewonnen!\\.",
+				"Korzojeno scheint ein gutes Gespür bei der Auswahl",
+				"ihrer Spione zu haben!"
+			]
+		},
+		{
+			"path": [156,3,141,1],
+			"indent": 1,
+			"original": "Ansager: Euer aktueller Rang ist \\v[1886]",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Euer aktueller Rang ist \\v[1886]"
+			]
+		},
+		{
+			"path": [156,3,143,2],
+			"indent": 2,
+			"original": "Ansager: Wie sieht es aus? Seid ihr bereit, es mit einem weiteren Gegner aufzunehmen?",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Wie sieht es aus?\\. Seid ihr bereit, es mit ",
+				"einem weiteren Gegner aufzunehmen?"
+			]
+		},
+		{
+			"path": [156,3,147,4],
+			"indent": 3,
+			"original": "Ansager: Ein Hinweis, da ihr neu seid. Ihr habt keine Möglichkeit, eure Ausrüstung neu zusammen zu stellen oder aufzustocken und ihr werdet nicht geheilt.",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Ein Hinweis, da ihr neu seid.\\. Ihr habt ",
+				"keine Möglichkeit, eure Ausrüstung neu zusammen zu ",
+				"stellen oder aufzustocken und ihr werdet nicht ",
+				"geheilt."
+			]
+		},
+		{
+			"path": [156,3,151,3],
+			"indent": 3,
+			"original": "Ansager: Ihr könnt euch lediglich mit noch vorhandenen Gegenständen heilen und eure Rüstung wechseln, wenn ihr was zum Wechseln habt.",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Ihr könnt euch lediglich mit noch",
+				"vorhandenen Gegenständen heilen und eure Rüstung ",
+				"wechseln, wenn ihr was zum Wechseln habt."
+			]
+		},
+		{
+			"path": [156,3,154,1],
+			"indent": 3,
+			"original": "Ansager: Also, wollt ihr noch mal kämpfen?",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Also, wollt ihr noch mal kämpfen?"
+			]
+		},
+		{
+			"path": [156,3,159,1],
+			"indent": 2,
+			"original": "Nochmal kämpfen?",
+			"lines":
+			[
+				"Nochmal kämpfen?"
+			]
+		},
+		{
+			"path": [156,3,166,3],
+			"indent": 3,
+			"original": "Ansager: Unser Sieger ist bereit, es gleich mit einem weiteren Gegner aufzunehmen! Applaus für diesen Teilnehmer!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Unser Sieger ist bereit, es gleich mit ",
+				"einem weiteren Gegner aufzunehmen!\\. Applaus für ",
+				"diesen Teilnehmer!"
+			]
+		},
+		{
+			"path": [156,3,179,3],
+			"indent": 4,
+			"original": "Ansager: Die Zinkar-Schlächter haben genug für heute. Morgen ist ein neuer Tag! Die Zinkar-Brüder werden schließlich nicht wegrennen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Die Zinkar-Schlächter haben genug für",
+				"heute.\\. Morgen ist ein neuer Tag!\\. Die Zinkar-Brüder ",
+				"werden schließlich nicht wegrennen!"
+			]
+		},
+		{
+			"path": [156,3,186,2],
+			"indent": 5,
+			"original": "Ansager: Die Repsbrot-Truppe hat genug für heute. Los! Ihr könnt euch jetzt verkrümmeln!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Die Repsbrot-Truppe hat genug für heute.\\.",
+				"Los!\\. Ihr könnt euch jetzt \\c[11]verkrümmeln\\c[0]!"
+			]
+		},
+		{
+			"path": [156,3,190,1],
+			"indent": 5,
+			"original": "Cibon: ARGS!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ARGS!"
+			]
+		},
+		{
+			"path": [156,3,195,4],
+			"indent": 6,
+			"original": "Ansager: Der Briganten-Stolz hat für heute genug geglänzt. Hoffentlich werden wir morgen erneut die Möglichkeit haben, unsere Vorbildgefangenen zu bestaunen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Der Briganten-Stolz hat für heute genug ",
+				"geglänzt.\\. Hoffentlich werden wir morgen erneut die ",
+				"Möglichkeit haben, unsere Vorbildgefangenen zu ",
+				"bestaunen!"
+			]
+		},
+		{
+			"path": [156,3,202,3],
+			"indent": 6,
+			"original": "Ansager: Die Verräter haben für heute genug gekämpft. Nun können sie zurück in ihre Zellen, wo sie hingehören.",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Die Verräter haben für heute genug ",
+				"gekämpft.\\. Nun können sie zurück in ihre Zellen, wo ",
+				"sie hingehören."
+			]
+		},
+		{
+			"path": [156,3,207,1],
+			"indent": 6,
+			"original": "Soko: TÖTEN!!!!1",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: TÖTEN!!!!1"
+			]
+		},
+		{
+			"path": [156,3,226,1],
+			"indent": 6,
+			"original": "Anmerkung: Dies waren Sokos Gedanken.",
+			"lines":
+			[
+				"Anmerkung: Dies waren Sokos Gedanken."
+			]
+		},
+		{
+			"path": [156,3,247,3],
+			"indent": 3,
+			"original": "Ansager: Dies war der letzte Kampf der Zinkar- Schlächter. Morgen ist ein neuer Tag! Die Zinkar- Brüder werden schließlich nicht wegrennen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Dies war der letzte Kampf der Zinkar-",
+				"Schlächter.\\. Morgen ist ein neuer Tag! \\.Die Zinkar-",
+				"Brüder werden schließlich nicht wegrennen!"
+			]
+		},
+		{
+			"path": [156,3,254,3],
+			"indent": 4,
+			"original": "Ansager: Für heute war dies der letzte Kampf der Repsbrot-Truppe. Los! Ihr könnt euch jetzt verkrümmeln!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Für heute war dies der letzte Kampf der ",
+				"Repsbrot-Truppe.\\. Los!\\. Ihr könnt euch jetzt ",
+				"verkrümmeln!"
+			]
+		},
+		{
+			"path": [156,3,259,1],
+			"indent": 4,
+			"original": "Cibon: ARGS!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ARGS!"
+			]
+		},
+		{
+			"path": [156,3,264,4],
+			"indent": 5,
+			"original": "Ansager: Dies war der letzte Kampf des Briganten- Stolz, für heute. Hoffentlich werden wir morgen erneut die Möglichkeit haben, unsere Vorbildgefangenen zu bestaunen!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Dies war der letzte Kampf des Briganten-",
+				"Stolz, für heute.\\. Hoffentlich werden wir morgen ",
+				"erneut die Möglichkeit haben, unsere ",
+				"Vorbildgefangenen zu bestaunen!"
+			]
+		},
+		{
+			"path": [156,3,271,3],
+			"indent": 5,
+			"original": "Ansager: Das war der letzte Kampf der Verräter für heute! Nun können sie zurück in ihre Zellen, wo sie hingehören.",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Das war der letzte Kampf der Verräter für ",
+				"heute!\\. Nun können sie zurück in ihre Zellen, wo ",
+				"sie hingehören."
+			]
+		},
+		{
+			"path": [156,3,276,1],
+			"indent": 5,
+			"original": "Soko: TÖTEN!!!!1",
+			"lines":
+			[
+				"\\c[13]\\n[3]\\c[0]: TÖTEN!!!!1"
+			]
+		},
+		{
+			"path": [156,3,295,1],
+			"indent": 5,
+			"original": "Anmerkung: Dies waren Sokos Gedanken.",
+			"lines":
+			[
+				"Anmerkung: Dies waren Sokos Gedanken."
+			]
+		},
+		{
+			"path": [156,3,320,3],
+			"indent": 2,
+			"original": "Ansager: Die Zinkar-Schlächter haben verloren. Was für eine Schande! Ob sie so jemals ihren Erzfeind erreichen werden?",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Die Zinkar-Schlächter haben verloren.\\. Was ",
+				"für eine Schande!\\. Ob sie so jemals ihren Erzfeind ",
+				"erreichen werden?"
+			]
+		},
+		{
+			"path": [156,3,327,3],
+			"indent": 3,
+			"original": "Ansager: Die Repsbrot-Truppe wurde geschlagen. Tja, Leute wie euch verspeist man hier zum Frühstück!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Die Repsbrot-Truppe wurde geschlagen. \\.",
+				"Tja, Leute wie euch verspeist man hier zum ",
+				"Frühstück!"
+			]
+		},
+		{
+			"path": [156,3,332,3],
+			"indent": 3,
+			"original": "Cibon: ...Autsch! Und das sag ich nicht wegen irgendwelchen Wunden!",
+			"lines":
+			[
+				"\\c[2]\\n[2]\\c[0]: ...Autsch!\\.",
+				"Und das sag ich nicht wegen ",
+				"irgendwelchen Wunden!"
+			]
+		},
+		{
+			"path": [156,3,339,4],
+			"indent": 4,
+			"original": "Ansager: Unsere Vorbildsgefangenen wurden geschlagen! Also wie geht denn so etwas? Wie sollen wir auf so eine Truppe bitte stolz sein?",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Unsere Vorbildsgefangenen wurden ",
+				"geschlagen!\\. Also wie geht denn so etwas?\\.",
+				"Wie sollen wir auf so eine Truppe bitte stolz ",
+				"sein?"
+			]
+		},
+		{
+			"path": [156,3,346,2],
+			"indent": 4,
+			"original": "Ansager: Das war leider nichts! Die Verräter wurden geschlagen! Ja, so etwas sehen wir gerne!",
+			"lines":
+			[
+				"\\c[10]Ansager:\\c[0] Das war leider nichts!\\. Die Verräter ",
+				"wurden geschlagen!\\. Ja, so etwas sehen wir gerne!"
+			]
+		},
+		{
+			"path": [191,2,3,4],
+			"original": "Felcis: Oh? Ihr seid auch mal hier oben? Es ist nett, dass die Wächter den Gefangenen hier soviel Freilauf lassen.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Oh?\\. Ihr seid auch mal hier ",
+				"oben?\\. Es ist nett, dass die Wächter ",
+				"den Gefangenen hier soviel Freilauf ",
+				"lassen."
+			]
+		},
+		{
+			"path": [191,2,8,3],
+			"original": "Felcis: Auch das Turnier ist recht unterhaltsam, wenn auch etwas barbarisch für meinen Geschmack.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Auch das Turnier ist recht ",
+				"unterhaltsam, wenn auch etwas ",
+				"barbarisch für meinen Geschmack."
+			]
+		},
+		{
+			"path": [192,2,29,2],
+			"original": "Wächter: ALLE GEFANGENEN SOFORT ZURÜCK IN DIE ZELLEN!",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] ALLE GEFANGENEN SOFORT ZURÜCK IN DIE ",
+				"ZELLEN!"
+			]
+		},
+		{
+			"path": [192,2,153,2],
+			"original": "Felcis: Cieoly, das war jetzt wirklich nicht nötig.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Cieoly,\\. das war jetzt ",
+				"wirklich nicht nötig."
+			]
+		},
+		{
+			"path": [192,2,178,2],
+			"original": "Gefangener: Oha, was ist das denn? Ein schöner funkelnder Stein! Neues Diebesgut, har har!",
+			"lines":
+			[
+				"\\c[10]Gefangener:\\c[0] Oha, was ist das denn?\\. Ein schöner ",
+				"funkelnder Stein!\\. Neues Diebesgut, har har!"
+			]
+		},
+		{
+			"path": [192,2,200,3],
+			"original": "Felcis: Was zum...! Gleich zweimal Pech hintereinander. So war das sicher nicht geplant.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Was zum...!\\. Gleich zweimal ",
+				"Pech hintereinander.\\. So war ",
+				"das sicher nicht geplant."
+			]
+		},
+		{
+			"path": [192,4,31,2],
+			"original": "Wächter: ALLE GEFANGENEN SOFORT ZURÜCK IN DIE ZELLEN!",
+			"lines":
+			[
+				"\\c[10]Wächter:\\c[0] ALLE GEFANGENEN SOFORT ZURÜCK IN DIE ",
+				"ZELLEN!"
+			]
+		},
+		{
+			"path": [192,4,72,3],
+			"original": "Felcis: So, Cieoly. Du weißt, wo diese Nachricht hingeht, richtig? Verpatz das jetzt bloß nicht.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: So, Cieoly.\\. Du weißt, wo diese",
+				"Nachricht hingeht, richtig?\\. Verpatz",
+				"das jetzt bloß nicht. "
+			]
+		},
+		{
+			"path": [192,4,80,4],
+			"original": "Felcis: Drück mir die Daumen. Wenn alles gut geht, gebe ich dir morgen etwas Feines zum Naschen. Außerhalb dieser Mauern.",
+			"lines":
+			[
+				"\\c[5]\\n[5]\\c[0]: Drück mir die Daumen.\\. Wenn",
+				"alles gut geht, gebe ich dir morgen",
+				"etwas Feines zum Naschen.\\. ",
+				"Außerhalb dieser Mauern. "
+			]
+		}
+	],
+	"other":
+	[
+		{
+			"path": [156,3,160],
+			"original": "Aber immer doch!/Für heute genug.",
+			"patch": "Aber immer doch!/Für heute genug."
+		},
+		{
+			"path": [156,3,161],
+			"original": "Aber immer doch!",
+			"patch": "Aber immer doch!"
+		},
+		{
+			"path": [156,3,176],
+			"original": "Für heute genug.",
+			"patch": "Für heute genug."
+		}
+	]
+}

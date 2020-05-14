@@ -1,0 +1,124 @@
+{
+	"dialogue":
+	[
+		{
+			"path": [10,1,2,3],
+			"original": "Wache: Passt auf, in diesem Bereich tauchen hin und wieder Monster auf. Ihr solltet besser fliehen, wenn ihr mit denen nicht fertig werdet.",
+			"lines":
+			[
+				"\\c[10]Wache\\c[0]: Passt auf, in diesem Bereich tauchen hin ",
+				"und wieder Monster auf.\\. Ihr solltet besser ",
+				"fliehen, wenn ihr mit denen nicht fertig werdet."
+			]
+		},
+		{
+			"path": [122,1,2,4],
+			"original": "Gefangener: Wo kam bloß auf einmal dieses Wasser her? Ich hätt' schwören können, vor einigen Tagen konnte man hier noch frei und unbeschwert durchlaufen...",
+			"lines":
+			[
+				"\\c[10]Gefangener\\c[0]: Wo kam bloß auf einmal dieses Wasser ",
+				"her?\\. Ich hätt' schwören können, vor einigen Tagen ",
+				"konnte man hier noch frei und unbeschwert ",
+				"durchlaufen..."
+			]
+		},
+		{
+			"path": [123,1,2,4],
+			"original": "Gefangene: Wie kam bitte diese Person da drüben über das Wasser? Ist sie etwas einfach durchgeschwommen? Manche Leute können es wirklich übertreiben...",
+			"lines":
+			[
+				"\\c[10]Gefangene\\c[0]: Wie kam bitte diese Person da drüben ",
+				"über das Wasser?\\. Ist sie etwas einfach ",
+				"durchgeschwommen?\\. Manche Leute können es wirklich ",
+				"übertreiben..."
+			]
+		},
+		{
+			"path": [124,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [125,1,3,3],
+			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
+			"lines":
+			[
+				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
+				"bereits jemand. Es würde nur stören, ",
+				"wenn wir hier mithelfen.)"
+			]
+		},
+		{
+			"path": [127,1,11,4],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Du hast es echt zustande gebracht, das Wasser abfließen zu lassen. Respekt! Jetzt komme ich endlich zu dieser Erzstelle, ohne schwimmen zu müssen, danke sehr!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Du hast es echt zustande ",
+				"gebracht, das Wasser abfließen zu lassen.\\. Respekt!\\.",
+				"Jetzt komme ich endlich zu dieser Erzstelle, ohne ",
+				"schwimmen zu müssen, danke sehr! "
+			]
+		},
+		{
+			"path": [127,1,15,2],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Ach ja, natürlich bekommste dafür einen Ordnen.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Ach ja, natürlich bekommste ",
+				"dafür einen Ordnen."
+			]
+		},
+		{
+			"path": [127,1,28,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Ihr guckt so verdutzt. Wenn ihr mehr über uns und die Minen-Orden erfahren wollt, besucht einfach unseren Stützpunkt.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Ihr guckt so verdutzt.\\. Wenn ",
+				"ihr mehr über uns und die Minen-Orden ",
+				"erfahren wollt, besucht einfach unseren ",
+				"Stützpunkt."
+			]
+		},
+		{
+			"path": [127,1,32,4],
+			"indent": 2,
+			"original": "Pauamainer-Miglied: Dieser befindet sich im mittleren Bereich der Mine. Fahrt beim nächsten Mal mit der Lore einfach rechts und dann geradeaus.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Dieser befindet sich im ",
+				"mittleren Bereich der Mine.\\. Fahrt beim nächsten ",
+				"Mal mit der Lore einfach rechts und dann ",
+				"geradeaus."
+			]
+		},
+		{
+			"path": [127,1,38,1],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Glück auf!",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Glück auf!"
+			]
+		},
+		{
+			"path": [127,1,45,4],
+			"indent": 1,
+			"original": "Pauamainer-Miglied: Hm... jetzt, wo das Wasser weg ist, kann an sich jeder Minenarbeiter leicht zu dieser Stelle gelangen. Oh, oh. Wahrscheinlich muss ich mir bald etwas Neues suchen.",
+			"lines":
+			[
+				"\\c[10]Pauamainer-Miglied\\c[0]: Hm...\\. jetzt, wo das Wasser ",
+				"weg ist, kann an sich jeder Minenarbeiter leicht ",
+				"zu dieser Stelle gelangen.\\. Oh, oh.\\. Wahrscheinlich ",
+				"muss ich mir bald etwas Neues suchen."
+			]
+		}
+	]
+}
