@@ -1339,7 +1339,7 @@ Soko: ...
 
 
 
--= 254 =-
+-= 254 =- $
 Prisoner: I saw someone across the water earlier. I seriously wonder how he got there... and above all, how he's planning to get back here...
 
 (Kento: The water down there is shallow... Maybe I can jump over to the south side if...)
@@ -1359,16 +1359,16 @@ Prisoner: Though I wouldn't dare to drink this... Who knows what sorts of horrib
 
 Prisoner: Don't feel like talking, go annoy someone else, okay?
 
-Pauamainer Member: Hui! You made it across the lake without getting wet? Not bad! You want an order for that, don't you buddy? You can have it! <?
-Pauamainer Member: You look so puzzled. If you want to learn more about us and the Mine Orders, just visit our base.
-Pauamainer Member: This is located in the middle of the mine. Next time, just take the lorry to the right and then straight.
+Pauamainer Member: Whoa! You made it across the lake without getting wet? Not bad! You want one of those medallions for that, don't you? You can have it!
+Pauamainer Member: You look so confused. If you want to learn more about us and the miner medallions, just visit our base.
+Pauamainer Member: It's located at the center of the mine. Next time on the railways, just go right and then straight.
 Pauamainer Member: Good luck!
-Pauamainer Member: I prefer this job here. You find great ore and are not pierced by the eyes of the other workers because they don't see you.
-Pauamainer Member: My colleague here in this area doesn't work so completely. He has no problem with people staring at him.
+Pauamainer Member: I prefer the deposits here. You find great ore and aren't pierced by the eyes of the other workers because they can't see you here.
+Pauamainer Member: My colleague on the other hand doesn't mind that kind of attention. He has no problem with people staring at him.
 
-Prisoner: You probably know ... When the end of the day, we should get back to the lore stop as soon as possible. <?
-Prisoner: Do you know what happens to those who are late? They're just left behind! They can walk all the way back along the rails all by themselves.
-Prisoner: And there are these dark monsters lurking everywhere. I tell you one thing, I never want to be left alone in my life and have to walk this way ...
+Prisoner: You probably know... That at the end of the day, we should get back to the railways as soon as possible.
+Prisoner: Do you know what happens to people who are late? They're just left behind! They have to walk back the entirety of the railways all by themselves.
+Prisoner: And there are these terrifying monsters lurking around everywhere. I'm tellin' you, I never want to be abandoned down here to save my life having to walk the railways myself like that...
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
@@ -1388,42 +1388,42 @@ Guard: Don't wander around so aimlessly here. Get back to work immediately!
 
 
 
--= 255 =-
-Guard: Watch out, monsters appear in this area every now and then. You'd better escape if you can't deal with them.
+-= 255 =- $
+Guard: Careful out there, monsters appear in this area every now and then. You'd better escape if you can't deal with them.
 
-Prisoner: Where did this water come from? I could have sworn a few days ago you could still walk freely and carefree ...
+Prisoner: Where'd all this water come from? Could've sworn I could still walk freely without a care over here just a few days ago...
 
-Prisoner: How did this person get over the water over there please? Did she just swim a bit? Some people can really overdo it ...
-
-(Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
+Prisoner: How'd that person get over the water over there? Did he just swim a bit? Some people really can go way too far with this mining...
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
-Pauamainer Member: You really managed to drain the water. Respect! Now I finally come to this ore site without having to swim, thank you very much!
-Pauamainer Member: Oh yes, of course you get an order for it.
-Pauamainer Member: You look so puzzled. If you want to learn more about us and the Mine Orders, just visit our base.
-Pauamainer Member: This is located in the middle of the mine. Next time, just take the lorry to the right and then straight.
+(Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
+
+Pauamainer Member: You actually managed to drain the water away. Respect! Now I can finally come to this ore deposit without having to swim, thanks a ton!
+Pauamainer Member: Oh right, of course you'll get a medallion for it.
+Pauamainer Member: You look so confused. If you want to learn more about us and the miner medallions, just visit our base.
+Pauamainer Member: It's located at the center of the mine. Next time on the railways, just go right and then straight.
 Pauamainer Member: Good luck!
-Pauamainer Member: Hm ... now that the water is gone, every miner can easily get to this point. Oh oh. I will probably have to find something new soon.
+Pauamainer Member: Hm... Now that the water is gone, every miner can easily get to this point. Uh oh. I'll probably have to find someplace new very soon.
 
 
 
--= 256 =-
+-= 256 =- $
 Prisoner: The bad thing is not mine work, but this Lorenfahrt at the beginning.
 Prisoner: You assume such huge speeds, I don't even want to think about what happens when you fly off the rails.
 
 Prisoner: You must have noticed these deep chasms there by the rails, right? Nobody knows how deep these gorges are and where they lead!
 Prisoner: I honestly don't want to find out. Whoever falls into it has already ended with his life.
 
-Guard: So you are these traitors to the country, former soldiers of the brigade order.
-Guard: If it were up to me, you could mine ore in the deep holes in the ground until you die there. Hard work is a grace for people like you.
+Guard: So you're the traitors to the country, former soldiers of the Brigantine Order.
+Guard: If it were up to me, I'd throw you into the depths and make you mine ore until your dying breaths. For people like you, being given hard work is extremely merciful.
 
-Guard: The rail line used to go further here, but since we had a stronger earthquake here, everything has been filled up.
-Guard: We are completely separated from the area to which these rails lead.
+Guard: The railways used to go further from here, but ever since we had that strong earthquake, that area has been blocked off.
+Guard: We're completely separated from the area these rails used to lead to.
 
 
 
--= 257 =-
+-= 257 =- $
 Prisoner: Off to work...
 
 Prisoner: ...
@@ -1434,22 +1434,20 @@ Prisoner: They used to give out more provisions... And the monsters just don't g
 
 Prisoner: They send us to the mine with a lousy piece of bread. So why are they surprised to see lousy results?
 
-Guard: You should go through the house to the left of here. You can get your equipment there. <?
+Guard: What are you still doing here? The cafe is back at the prison, you won't find it here. <# This message only appears when you talk to the guard that gives out equipment after work.
 
-$
 Guard: Hey, you're the ones who came in yesterday, right?
 Guard: Hey, you're the ones who came in yesterday, right? Come over here.
 
-Guard: Oh. Four this time? Well, I should be fine. <?
+Guard: Oh. Four this time? Well, that should be fine.
 Guard: Here's your equipment.
 Guard: And here are your provisions. Use it sparingly, we aren't a charity, you understand?
-Guard: Hm, you've been doing a really good job lately. I think you can be trusted with a stick of dynamite. <\/
-Guard: You use this ONLY to jump into new areas in the mine, understand? Look out for fragile spots on the rock walls.
-Guard: And it does not occur to us to take advantage of our trust. If you mess with the dynamite, it will have hard consequences!
-Guard: So ... today you get another stick of dynamite for blasting. Be careful with it and don't mess around! </\
+Guard: Hm, you've been doing a really good job lately. I think you can be trusted with a stick of dynamite.
+Guard: You use this ONLY to explore new areas in the mine, understand? Look out for crumbling spots on the walls.
+Guard: And don't even think of taking advantage of our trust. If you mess with the dynamite, there'll be harsh consequences!
+Guard: Today you'll get another stick of dynamite for exploration purposes only. Be careful with it and don't mess around!
 Guard: Now get out of here. Take a cart and bring back enough ore!
 
-$
 Guard: Your equipment and other provisions.
 Guard: Today's your first day, isn't it? Now it's time to get something to eat. Go back all the way to the cells. You'll then notice where the cafe is.
 Guard: Hey, wait a minute!
@@ -1461,7 +1459,6 @@ Felcis: There should still be some of that powder in the storage area.
 You're doing a good job. The guards' trust in you has improved!
 You have to work harder. The guards' trust in you has deteriorated.
 
-$
 Guard: Do I need to clear up the rules here for you?
 Guard: Okay, I'll assume you three are working in a group. Get your mining equipment here and hand them back when you're done, understand?
 Guard: When you enter the mine, you'll get a minecart which'll help you move down into the mine. There are several sections that you can go to.
@@ -1478,103 +1475,103 @@ Guard: Alright, but don't come to me later if you have problems or you don't und
 
 
 
--= 258 =-
-Prisoner: From time to time you can find old junk in the mine, including some useful items ...
-Prisoner: There have been, and still are, prisoners trying to smuggle this stuff out, whatever that brings them.
-Prisoner: But woe, the guards notice that. They don't understand it, believe me.
-Prisoner: It has happened often enough that the uncovered smugglers were beaten for several minutes ...
+-= 258 =- $
+Prisoner: You can find old junk in the mine from time to time, as well as some useful items...
+Prisoner: There have been, and still are, prisoners trying to smuggle that stuff out, whatever luck that brings them.
+Prisoner: But woe to them, because the guards always notice. They just don't get it.
+Prisoner: It's happened often enough that those smugglers were beaten up for several minutes...
 
-Prisoner: You shouldn't be too far from the other mineworks. In the outskirts, where fewer people work, these annoying beasts keep popping up.
+Prisoner: You shouldn't go too far from the other miners. Out there, where fewer people work, these annoying monsters keep showing up.
 
-Prisoner: The remedies these guards give you are not really enough if you are in the dangerous areas.
-Prisoner: They will give you a few more remedies if you have given a certain amount of ore to the collection point, but that much had to be collected first ...
-
-(Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
+Prisoner: The supplies these guards give you really aren't enough if you're in the dangerous areas.
+Prisoner: They'll give you some more supplies if you bring a certain amount of ore to the railways, but that much still has to be collected first...
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
-Guard: The way to the closest ore area would be to follow this corridor and then go east at the next opportunity. Pay attention to the monsters.
+(Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
-Guard: Hey, sweet, red-haired companion you have there, I have to say. But you're still new here, you can see that. The ravages of time gnaw this place particularly hard.
-Guard: In the end, they are all no longer beautiful to look at ...
-Soko: Somehow this statement worries me more than I expected ...
-Cibon: Truly a hell! How can you do this to dainty ladies!
-Soko: "petite"?
-Kento: I don't think people present need to feel addressed ...
+Guard: The way to the closest ore deposit would be to follow this tunnel and then go straight at the next opportunity. Watch out for monsters.
+
+Guard: Now ain't that a sweet red-haired companion you've got there. But you're still new here, anyone can see that. The claws of time will sink into everyone in due time.
+Guard: In the end, all of them lose the beauty they once had...
+Soko: Somehow, this worries me more than I expected...
+Cibon: This place truly is hell! How could this happen to such fragile ladies?!
+Soko: "Fragile?"
+Kento: I don't think you need to feel praised...
 Soko: ...
-Felcis: I feel addressed. I'm too petite for this work.
-Cibon: You totally mess with me, boy!
-Guard: Don't stand around working here!
+Felcis: I feel praised. I'm too fragile for this work.
+Cibon: You keep messing with my head!
+Guard: Don't just stand around here, get back to work!
 
 
 
--= 259 =-
-Prisoner: Chop ... and chop ... and chop again ... and chop again ...
-Felcis: In summary, I think it's called "ore mining".
+-= 259 =- $
+Prisoner: Swing... and swing... and swing again... and swing again...
+Felcis: To summarize, I believe it's called "ore mining".
 Prisoner: Hey, nobody asked you!
 
-Prisoner: If you really want to make an effort, try to get to the back of the mine.
-Prisoner: There you will find richer ore deposits ... alongside more monsters, gorges and other dangers.
+Prisoner: If you actually want to put effort into this ore mining thing, try to get to the back of the mine.
+Prisoner: There, you'll find richer ore deposits... along with more monsters, ravines, and other dangers.
 
-Prisoner: ... please not now ...
+Prisoner: ...not now please...
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
-Guard: How was the Loren trip? But now to work!
-Guard: What are you doing here? You should mine ore, so go, go!
+Guard: How was it travelling through the railways? Now get to work!
+Guard: What are you doing here? You should be mining ore, so move it already!
 
-Guard: If you want to go to another area, you have to walk on foot. But be careful, the Lorenbahn route is not particularly safe on foot, because of the beasts, you know.
+Guard: If you want to go to another area, you'll have to walk on foot. But be careful, the railways aren't particularly safe on foot, because of the monsters, you know.
 
-Guard: If you want to avoid confrontation with the beasts in this cave, don't get too far away from the other miners.
+Guard: If you want to avoid confrontation with the monsters in this cave, don't get too far away from the other miners.
 
 
 
--= 260 =-
-Prisoner: Do you see this crumbling rock wall there to my left? There used to be a passage, but it collapsed.
-Prisoner: And nobody gets to blow it up. The prisoners do not have the dynamite and mine work is a foreign word for the guards.
-Prisoner: There were rich ore deposits in the area, if I remember correctly.
+-= 260 =- $
+Prisoner: Do you see that crumbling wall there to my left? There used to be a passage, but it collapsed.
+Prisoner: And nobody gets to blow it up. Us prisoners don't have the dynamite and trying to reason with the guards is like talking to a brick wall.
+Prisoner: There were rich ore deposits in the area if I remember correctly.
 
-Prisoner: Oh yeah, this work ... boy, let me give you a tip. Don't overexert yourself. The only thing you get from it is cross-leg sickness in the evening.
+Prisoner: Oh my, this work... Let me give you a tip. Don't overexert yourself. The only thing you get from it is a bunch of pain in the evening.
 
-Prisoner: You shouldn't be too far from the other mineworks. In the outskirts, where fewer people work, these annoying beasts keep popping up.
+Prisoner: You shouldn't go too far from the other miners. Out there, where fewer people work, these annoying monsters keep showing up.
 
 (Kento: This part of the wall looks like it's crumbling.)
 Use your dynamite here?
 
-Prisoner: ... ... oh? I'm sorry, when I chop ore, I sometimes get lost in my thoughts and don't even notice my surroundings ...
+Prisoner: ...Huh? I'm sorry, when I'm mining ore, I sometimes get lost in my thoughts and don't even notice my surroundings...
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
-Prisoner: Have you ever run into these nasty, bluish worms? These beasts dominate Signum like the archmages from Domarkor, tell you.
-Prisoner: You'd better not mess with them ...
-Felcis: Worms that do magic like our archmages? This is news!
-Felcis: Our Patricia des Signums will certainly be interested in that.
-Felcis: Such worms are certainly cheaper to keep than this sophisticated pack of wizards.
-Soko: Someone thinks very lucratively.
-Felcis: Well, yes. Our wealth is no longer what it used to be 10 years ago, Miss Filaja.
+Prisoner: Have you ever run into these nasty, bluish worms? These monsters wield Signum like the archmages from Domarkor I tell you.
+Prisoner: You'd better not mess with them...
+Felcis: Worms that wield magic like our archmages? That's news to me!
+Felcis: Our Patrician of Signums will certainly be interested in that.
+Felcis: Such worms are definitely cheaper to keep than this sophisticated pack of wizards.
+Soko: Someone's thinking very lucratively.
+Felcis: Well, yes. Our wealth is no longer what it used to be 10 years ago, Ms. Filaja.
 
-Prisoner: Talk to someone else, I'm busy.
+Prisoner: Go talk to someone else, I'm busy.
 
 Guard: Do your job well. If not, we have enough methods to "motivate" you accordingly.
 
 
 
--= 261 =-
-Prisoner: I can't understand all these whining rags. They should be happy that they can do something. And if it's mine work.
-Prisoner: Nothing is worse than sitting lonely and inactive in a cell for weeks or months. Believe me, I speak from experience.
-Cibon: Hm ... he could really be right.
-Cibon: This permanent rumbling in the cell of this other troop would have driven me crazy in the long run.
-Soko: But at least you could sleep in there.
-Kento: Yes, exactly.
-Cibon: ... I never thought I would hear something like this from you, Soko.
+-= 261 =- $
+Prisoner: I can't understand all these people whining. They should be happy that they can at least do something. And it's working in the mine at that.
+Prisoner: Nothing is worse than sitting idly by and waiting alone in a cell for weeks or months. Trust me, I speak from experience.
+Cibon: Hm... He could be onto something.
+Cibon: Just sitting around like that for who knows how long would've driven me crazy by now!
+Soko: But at least you'd be able to actually sleep.
+Kento: Yeah, exactly.
+Cibon: I never thought I'd hear something like that from you of all people, Soko.
 Kento: ...
 
 Prisoner: A week or two ago, this area was still full of rich ore reserves that were easily accessible.
-Prisoner: But since we had a small earthquake here recently, most of it has been showered with rock and difficult to reach.
+Prisoner: But ever since we had that recent earthquake here, most of it has been showered with rocks and is too difficult to reach.
 
-Pauamainer Member: Unbelievable, you actually made it through the stone debris down there. Get an order for that! Keep it up, buddy!
-Pauamainer Member: You look so puzzled. If you want to learn more about us and the Mine Orders, just visit our base.
-Pauamainer Member: This is located in the middle of the mine. Next time, just take the lorry to the right and then straight.
+Pauamainer Member: Unbelievable, you actually made it through the stone debris down there. You'll get a medallion for that! Keep it up!
+Pauamainer Member: You look so confused. If you want to learn more about us and the miner medallions, just visit our base.
+Pauamainer Member: It's located at the center of the mine. Next time on the railways, just go right and then straight.
 Pauamainer Member: Good luck!
 Pauamainer Member: It's always funny to see people's puzzled looks on the other side, isn't it? Yeah! This is mine work as it should be!
 
@@ -1584,40 +1581,40 @@ Pauamainer Member: It's always funny to see people's puzzled looks on the other 
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
-Guard: Hey, you really made it through, not bad, not bad. Was it ore over there, wasn't it?
-Guard: Hm ... interesting, interesting. I wonder how to get down there with all the rock. Apparently someone did it.
+Guard: Hey, you actually made it through, not bad I'll give you that. It was the ore over there, wasn't it?
+Guard: Hm... Interesting, interesting. I wondered how one would get over there with all the rocks around. Apparently someone did it.
 
 
 
--= 262 =-
-Pauamainer Member: Oh! You actually got this far! Good job! You earned a mine order for this.
-Pauamainer Member: You look so puzzled. If you want to learn more about us and the Mine Orders, just visit our base.
-Pauamainer Member: This is located in the middle of the mine. Next time, just take the lorry to the right and then straight.
+-= 262 =- $
+Pauamainer Member: Oh! You actually got this far! Good job! You earned a medallion for this.
+Pauamainer Member: You look so confused. If you want to learn more about us and the miner medallions, just visit our base.
+Pauamainer Member: It's located at the center of the mine. Next time on the railways, just go right and then straight.
 Pauamainer Member: Good luck!
-Pauamainer Member: There is a lot of ore here. Enough for both of us!
+Pauamainer Member: There's a lot of ore here. Enough for both of us!
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
 
 
--= 263 =-
-Prisoner: I'm exhausted to death ... How long are you going to let us work?
+-= 263 =- $
+Prisoner: I'm exhausted to death... How long are they going to make us work?
 
 Prisoner: You should watch out for these bluish bats. They look almost like ordinary bats, but their bite can poison and put you to sleep.
-Prisoner: That way, if you run into them on your own, they can end very quickly ...
+Prisoner: This means that if you run into one of them on your own, they can very quickly end your life...
 
 Prisoner: This is my ore! MY ore! My ore all alone!
-Kento: Alright, alright ...
+Kento: Okay, okay...
 Prisoner: My ore!
 
-Prisoner: Honestly, I wonder where the hole leads up there? I think it was probably still accessible from down here in the past, but now this rocky outcrop has somehow arisen ...
-Prisoner: Maybe through a landslide, or what do you call it?
+Prisoner: I honestly wonder, where does the hole lead to up there? I think it was probably still accessible in the past from down here, but now this rocky cliff somehow rose...
+Prisoner: Maybe through a landslide or whatever you call those things.
 
-Pauamainer Member: Oha! Somebody actually came to my island! Doesn't happen here every day either. I will hand you this medal for the occasion!
-Pauamainer Member: You look so puzzled. If you want to learn more about us and the Mine Orders, just visit our base.
-Pauamainer Member: This is located in the middle of the mine. Next time, just take the lorry to the right and then straight.
+Pauamainer Member: Oh! Somebody actually got to my island! Doesn't happen here every day either. I'll hand you this medallion for your efforts!
+Pauamainer Member: You look so confused. If you want to learn more about us and the miner medallions, just visit our base.
+Pauamainer Member: It's located at the center of the mine. Next time on the railways, just go right and then straight.
 Pauamainer Member: Good luck!
-Pauamainer Member: This island has two sides. On the other, you should find some ore, buddy!
+Pauamainer Member: This island has two sides. On the other, you should find some ore to mine!
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
@@ -1625,37 +1622,38 @@ Pauamainer Member: This island has two sides. On the other, you should find some
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
-Prisoner: MY ORE !!
+Prisoner: MY ORE!!
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
-Prisoner: Have you heard of this Pauamainer underground brotherhood? These are ordinary prisoners like me and you!
-Prisoner: People only think of themselves as special because they always look for ore in the far corners and darkest extinguishers in order to mine as much as possible.
-Prisoner: In other words, they behave exactly as the guard dogs want them to. Tsk. As if I would do them a favor.
+Prisoner: Have you heard of this underground Pauamainer Brotherhood? They're ordinary prisoners just like me and you!
+Prisoner: They only think they're special because they always look for ore in the farthest corners and darkest patches in order to mine as much as possible.
+Prisoner: In other words, they're doing exactly what these guards want them to do. Tsk. As if I'd do them a favor.
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
-Guard: Every now and then you will find one or two armor parts or other usable items. In that case, let us know, understand?
-Guard: Don't think of keeping the whole thing for yourself. We notice that when you leave the mine.
+Guard: Every now and then, you might find one or two pieces of armor or other usable items. In that case, make sure to let us know, you understand that?!
+Guard: And don't you even dare think of keeping any of it for yourself! We notice that kind of stuff when you leave the mine.
 
 
 
 -= 264 =-
-Guard: Over there, beyond the water, is the "base of the Pauamain Brotherhood". They chose it really well, because we guards won't disturb them.
-Guard: So at least I wouldn't feel like taking this jump passage over the water.
-Guard: But we treat them, after all, they are doing the best work of all here.
+Guard: Over there, beyond the water, is the "base of the Pauamainer Brotherhood". They chose the location very well, because us guards won't disturb them.
+Guard: At least I wouldn't feel like making a leap of faith across the water.
+Guard: But we do treat them well. After all, they're doing the best work out of all the prisoners.
 
-Prisoner: Ah ... I always do too fast at the beginning, then lose stamina and then quickly wear off ...
-Prisoner: I will never get a decent meal ...
+Prisoner: Ah... I always put too much effort at the beginning, then quickly lose all my energy and can't do anything anymore...
+Prisoner: I'll never get a decent meal...
 
-Prisoner: Would you be able to get over the water here? There are a number of people here who do this almost every day. They jump from stone to stone until they are over there.
+Prisoner: Do you think you have what it takes to be able to cross the water here? There are quite a few people who do this almost every single day.
 
-Pauamainer Member: Hey, you're right at our base. Just for the fact that you came this far, you deserve an order!
-Pauamainer Member: You look so puzzled. If you want to learn more about us and the Mine Orders, just visit our base.
-Pauamainer Member: This is located in the middle of the mine. Next time, just take the lorry to the right and then straight.
+Pauamainer Member: Hey, you're right at our base. Just for the fact that you came this far, you deserve a medallion!
+Pauamainer Member: You look so confused. If you want to learn more about us and the miner medallions, just visit our base.
+Pauamainer Member: It's located at the center of the mine. Next time on the railways, just go right and then straight.
 Pauamainer Member: Good luck!
-Pauamainer Member: If you have collected enough medals, come to our base! Then we are a community, like a family, buddy!
+Pauamainer Member: If you've collected enough medallions, come to our base! We're a community, like a family!
 
+#
 Pauamainer Member: This is the base of the Pauamainer underground brotherhood!
 Pauamainer Member: ONLY MEMBERS HAVE ACCESS !!
 Kento: Yes, yes, I understand. Here we have all mine orders. Can we go through?
@@ -1671,6 +1669,7 @@ Pauamainer Member: 8 PAUAMAINER MEMBERS, who work in the far corners of the mine
 Soko: Does the guy always have to scream so loud?
 Cibon: Do you really think the guy can talk normally?
 
+#
 Pauamainer Member: VISIT US SOON!
 Pauamainer Member: HELLO BROTHERS! YOU MUST HAPPEN!
 
@@ -1682,24 +1681,22 @@ Pauamainer Member: HELLO BROTHERS! YOU MUST HAPPEN!
 
 
 
--= 265 =-
-Prisoner: You will hardly find ore behind this passage. There is always too much operation for the size ...
+-= 265 =- $
+Prisoner: You'll hardly find any ore behind that opening. There's always too much going on for that small of an area...
 
-Prisoner: This is the only area where I feel relatively comfortable. Here the cave is nice and big ... In the other areas I always get claustrophobia ...
+Prisoner: This is the only area where I feel even slightly comfortable. Here, the cave is nice and big... In the other areas, I always get claustrophobia...
 
-Prisoner: This ore mining area is for climbing enthusiasts for whom no height is high enough. I mean, just look at these crazy people up there!
-Cibon: Yeah! Cliffs! Let's go to the top, buddy!
-Kento: How can you get such enthusiasm in such a situation?
-Soko: Probably an explorer's instinct.
-Soko: Let's see how he behaves in a few weeks if we know every corner of the mine.
+Prisoner: This area of the mine is for climbing enthusiasts, those for who no height is high enough. I mean, just look at those crazy people up there!
+Cibon: Yeah! Cliffs! Let's go to the top, Kento!
+Kento: How can you gather this enthusiasm in such a situation?
+Soko: Probably an adventurer's drive.
+Soko: We'll see how well he does in a few weeks when we know every corner of the mine.
 
 Prisoner: Up there? No thanks, that's too dangerous for me. It's not like anyone cares about you if you break your leg.
 
-Prisoner: Ha, also one of those who get to the top? Fine, fine! I was an enthusiastic mountaineer before and I always enjoy doing it!
+Prisoner: Ha, you're also someone who can get to the top? Good, good! I was an enthusiastic mountaineer before and I'll always enjoy being one!
 
-Prisoner: ... I always climb up here to be calm in front of all the other people, but now that doesn't seem to work anymore ...
-
-(Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
+Prisoner: I always climb up here to stay calm in front of all the other people, but now that doesn't seem to work anymore...
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
@@ -1711,38 +1708,40 @@ Prisoner: ... I always climb up here to be calm in front of all the other people
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
-Guard: There were actually prisoners who thought they could team up, entrench themselves in the mine, and oppose us. Well, the past has shown that it doesn't work
-Guard: Ultimately, no resistance group could stand up if we stormed the mine together to break its entrenchment. Pickaxe does not hold against long sword, spear and bow.
-Guard: But what am I talking to you about? Go back to work immediately!
+(Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
+
+Guard: There were prisoners who actually thought they could team up, stand together in the mine, and oppose us. Well, the past has shown that it doesn't work too well.
+Guard: Ultimately, no resistance group could stand up to us if we stormed the mine together to break their defense. Pickaxes don't hold out against swords, spears, and bows.
+Guard: But why am I even talking to you? Get back to work immediately!
 
 
 
--= 267 =-
-Pauamainer Member: Oh! Did you actually go the long way over the cliffs just to come to me? Not bad, not bad!
-Pauamainer Member: If you come for the order, I'm sorry, but they are all!
-Pauamainer Member: Hehehe! A joke, a joke! Of course I still have medals. There, please.
-Pauamainer Member: You look so puzzled. If you want to learn more about us and the Mine Orders, just visit our base.
-Pauamainer Member: This is located in the middle of the mine. Next time, just take the lorry to the right and then straight.
+-= 267 =- $
+Pauamainer Member: Oh! Did you actually go the long way over the cliffs just to get to me? Not bad, not bad!
+Pauamainer Member: If you've come for the medallion, I'm sorry, but I'm all out!
+Pauamainer Member: Hehehe! I'm joking, I'm joking! Of course I still have the medallions. There you go.
+Pauamainer Member: You look so confused. If you want to learn more about us and the miner medallions, just visit our base.
+Pauamainer Member: It's located at the center of the mine. Next time on the railways, just go right and then straight.
 Pauamainer Member: Good luck!
-Pauamainer Member: If you want to go back, you have to go back this way. You can then walk down the lower aisle. It then leads back to the beginning.
+Pauamainer Member: If you want to go back, you'll have to go back the way you came. You can then hop down to the floor. Which then leads back to the start.
 
-Pauamainer Member: Ah! So you are one of us mountaineers among the miners! Good job! Don't get visitors here so often! There is a medal for that!
-Pauamainer Member: You look so puzzled. If you want to learn more about us and the Mine Orders, just visit our base.
-Pauamainer Member: This is located in the middle of the mine. Next time, just take the lorry to the right and then straight.
+Pauamainer Member: Ah! So you're one of us mountaineers among the miners! Good job! Don't get too many visitors around here! Here's a medallion for that!
+Pauamainer Member: You look so confused. If you want to learn more about us and the miner medallions, just visit our base.
+Pauamainer Member: It's located at the center of the mine. Next time on the railways, just go right and then straight.
 Pauamainer Member: Good luck!
-Pauamainer Member: That sounds strange, but this is the highest point in this mine! I am convinced of that! And there is wonderful ore here, I tell you, buddy!
+Pauamainer Member: It might sound strange, but this is the highest point in this mine! I'm convinced of that! And there's wonderful ore here I tell you what!
 
-Prisoner: Oh man, I just don't want to work too close to this canyon ... Do you have any idea how deep it is? So I don't have it, I just know it's deep enough ...
+Prisoner: Oh man, I just don't want to work too close to this canyon... Do you have any idea how deep it is? I don't know, but I do know that it's deep enough to stay away from...
 
-Prisoner: Those mole things that sometimes float out of the ground here can be annoying, can't they? But I can tell you their weak point.
+Prisoner: Those mole things that sometimes float out of the ground here can be annoying, can't they? But I can tell you their weak spot.
 Prisoner: Interested? I'll tell you for 15 ore.
-Prisoner: Hey, you don't have the ore at all! That will not do.
-Prisoner: Hehe, thank you very much. Then listen carefully.
-Prisoner: Her strength is her hard shell. Hardly a hit comes through it, be it with a weapon or a spell. But the protection can be broken!
-Prisoner: Apparently her bowl is extremely sensitive to strong light.
-Prisoner: So just pepper a light magic or a light sare on it and the thing is defenseless!
+Prisoner: Hey, you don't have the ore at all! That won't do.
+Prisoner: Hehe, thank you very much. So listen carefully.
+Prisoner: Their strength is their hard shell. Hardly a hit breaks through it, be it with a weapon or a spell. But that shield can be broken!
+Prisoner: Apparently, their shield is extremely sensitive to strong light.
+Prisoner: So just use some light magic or imbue light into your weapon and it'll be defenseless!
 Prisoner: Thanks for the deal!
-Prisoner: No? Do you already know Well, then I have to work out the ore myself.
+Prisoner: No? Do you already know? Well, then I'll have to work for the ore myself.
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
@@ -1750,19 +1749,19 @@ Prisoner: No? Do you already know Well, then I have to work out the ore myself.
 
 (Kento: Looks like someone's already working here. We'd only be disturbing them if we tried to help out.)
 
-Guard: Pretty deep abyss right? If you work too long for us too badly, it can happen that one day we just throw you in there.
-Guard: After all, we have to think economically. It would be a waste to feed such bad workers.
-Guard: So do a good job, unless you really want to find out what's in the gorge down there.
+Guard: Pretty deep abyss, right? If you work poorly for us too long, we might just end up throwing you in there one day.
+Guard: After all, we have to think economically. It'd be quite a waste to feed such bad workers.
+Guard: So do a good job, unless you really want to find out what's down there.
 
 
 
--= 268 =-
+-= 268 =- $
 Belias: The sound inhibitor can now be lifted!
 Genyu: Thank you very much for the quick support.
 Belias: We have the same predicament here, so we're in this together.
-Belias: Hurry up with the evacuation of the soldiers, the boats are waiting northeast at the edge of the forest. <\/
-Belias: You'll move through the river north until you are surrounded by the Aquil forests. The new base is being prepared there.
-Belias: These mages will help you to go unnoticed while you're moving. </\
+Belias: Hurry up with the evacuation of the soldiers, the ships are waiting northeast at the edge of the forest.
+Belias: You'll move north through the river until you're surrounded by the Aquil Forests. The new base is being prepared there.
+Belias: These mages will help you to go unnoticed while you're moving.
 Genyu: Excellent. I'll see to it that the soldiers stay together.
 Belias: By the way, where's Sir Kiorta?
 Genyu: Felcis is on his way to Helnovien. He has a plan on how to distract Brigantia from investigating in the short term.

@@ -49,4 +49,4 @@ After the first major release, the `dev` branch will still be used so there aren
 - The Mysterious Fortress: 100%
 - Gencorin Pt II: 100%
 - The Helnovien Prison: 10%
-- The Helnovien Mine: 15%
+- The Helnovien Mine: 70%
