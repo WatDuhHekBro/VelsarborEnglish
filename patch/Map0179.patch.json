@@ -188,8 +188,8 @@
 			"original": "Genyu: Mach dir keine Sorgen um deine Kameraden, sie sind nur bewusstlos.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Don't worry about your",
-				"friends,\\. they're only knocked out."
+				"\\c[4]\\n[4]\\c[0]: Don't worry about your friends,\\.",
+				"they've only been knocked out."
 			]
 		},
 		{
@@ -225,7 +225,7 @@
 			"lines":
 			[
 				"\\c[4]\\n[4]\\c[0]:\\s[2] For this moment.\\.",
-				"Fight\\. or perish!"
+				"Fight\\| or perish!"
 			]
 		},
 		{
@@ -270,9 +270,9 @@
 			"original": "Kento: ICH WERDE DAS RICHTIG STELLEN! DU WIRST MEINE LANZE ZU SPÜREN BEKOMMEN!!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: I'LL SET THINGS RIGHT!\\.",
-				"I'LL MAKE YOU FEEL THE BITE",
-				"OF MY LANCE!!"
+				"\\c[1]\\n[1]\\c[0]: IT'S TIME I MAKE THINGS RIGHT!\\.",
+				"I'LL MAKE YOU FEEL THE BITE OF MY",
+				"LANCE!!"
 			]
 		},
 		{
@@ -322,5 +322,6 @@
 			"original": "Ernstes-Gefecht2",
 			"patch": "Bedrohung_von_oben"
 		}
-	]
+	],
+	"__comment__": "The version of \"Schock\" in the first demo is much better. The version in this demo is way too quiet, especially for such a pivotal scene."
 }

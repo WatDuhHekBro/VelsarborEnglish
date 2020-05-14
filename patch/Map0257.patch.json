@@ -412,17 +412,17 @@
 		{
 			"path": [23,1,12],
 			"original": "Ja, bitte.../Lass uns einfach nur arbeiten...",
-			"patch": "Ja, bitte.../Lass uns einfach nur arbeiten..."
+			"patch": "Yes please.../Let's just get to work..."
 		},
 		{
 			"path": [23,1,13],
 			"original": "Ja, bitte...",
-			"patch": "Ja, bitte..."
+			"patch": "Yes please..."
 		},
 		{
 			"path": [23,1,52],
 			"original": "Lass uns einfach nur arbeiten...",
-			"patch": "Lass uns einfach nur arbeiten..."
+			"patch": "Let's just get to work..."
 		}
 	]
 }

@@ -167,8 +167,8 @@ Announcer: The BRIGANT PRIDE!
 Announcer: ... brigands ... proud?
 Announcer: Of course! The pride of our nation! Here in our prison! Our model prisoners! If only everyone in Brigantia behaved like our humble friends here!
 Announcer: Oh yes ... WE WOULD COUNT THE ENTIRE BRIGAN ORDER TO OUR PARTICIPANTS! Wouldn't that be great?
-Cibon: It was so clear that it went like this ...
-Soko: We'll see who ends up laughing here!
+Cibon: It was so clear that it went like this ... < I saw this coming miles away...
+Soko: We'll see who ends up laughing here! < We'll see who gets the last laugh!
 Announcer: Oh yes! Our role model prisoners again! We can certainly be proud of our traitors. If I think about it ... shouldn't it rather be KORZOJENOS PROUD ?!
 Soko: ... Damn ...
 Cibon: Really an excellent name choice.
@@ -222,7 +222,7 @@ Announcer: The leader of the Pauamainer, he has been in first place for ages and
 Announcer: And everyone who questions this place gets thunder slides and cyclones in response! Another epic battle is upon us!
 Announcer: The leader of the Pauamain team and the longest leader in our tournament history. Now he was beaten and lost his first place.
 Announcer: Will he be able to fight him back? Another big fight is ahead!
-Announcer: LET THE FIGHT BEGIN!
+Announcer: LET THE FIGHT BEGIN! <? GET READY TO RUMBLE!
 
 Announcer: The Zinkar butchers slaughter all opponents to reach their final victim! Another win for them!
 Announcer: The Zinkar butchers have come a step closer to their goal! Another win. The Zinkar brothers should be ready!
@@ -329,19 +329,20 @@ Guard: It won't go through here.
 
 Guard: It's not going through here yet! Back with you!
 
-Cibon: Ah, look at this snake!
-Kento: Obviously it's about eating here. Then we line up.
-Kento: I'm starving ...
-Cibon: I just hope the portions are not too small ...
-Soko: You'd better not expect too much ...
-Kento: Hm ... these walls are strange. Do you see this glow too?
-Cibon: That's right ... there is something ... Just say the walls are enchanted?
-Soko: Yes, the walls of this prison have a magical protective wall, as far as I know.
-Soko: In principle, this protective wall negates any signum effect on the walls.
-Soko: That means Signum cannot break these walls.
-Cibon: Oh man, where the hell did we end up here?
-Soko: The Helnovien prison is known for having very few successful escape cases.
-Soko: Exactly the right place for traitors to the country ...
+$
+Cibon: Oh, look at this line!
+Kento: Obviously, it's the cafe they were talking about. So let's line up.
+Kento: I'm starving...
+Cibon: I just hope the portions aren't too small...
+Soko: I don't think there'll be too much...
+Kento: Hm... These walls are strange. Are you two seeing this glow too?
+Cibon: You're right... That's something... Just say the walls are enchanted?
+Soko: Yeah, the walls of this prison have a wall protected against magic from what I can tell.
+Soko: Basically, this wall's barrier negates any Signum effect on it.
+Soko: Meaning that Signum spells can't break these walls.
+Cibon: Oh man, how the hell did we end up here of all places?
+Soko: The Helnovien Prison is notorious for having very few successful escapes.
+Soko: Exactly the kind of place where traitors of the country would be sent...
 
 Felcis: Excuse me, I have to do a little something up there.
 Soko: What's wrong now?
@@ -444,66 +445,69 @@ Cibon: Tomorrow we're going to do our best, aren't we, buddy?
 Kento: You say it! The portions have to be bigger.
 Soko: ... so pitiful ...
 
-Cibon: ... It was almost nothing to eat!
-Kento: ... hunger ...
-Soko: What did you say? If we do bad work in the mine, we won't get any food ... They were serious ...
-Cibon: We have to hang in there more, buddy, otherwise we won't last long!
-Kento: ... Yes ...
-Cibon: ... I'm still hungry ... but well, I think I'll survive.
-Kento: ... I don't. I'm going to starve to death tonight.
-Cibon: Pull yourself together, buddy! If you really want to have more food, we have to put a little more effort into the mine.
-Soko: I thought it was enough ... really ...
-Cibon: Hey, that was more than I expected. So I'm fed up.
-Kento: Well, it should be enough ... To survive ...
-Soko: ... Yes, more than enough ...
-Cibon: Woa! I'm full! I never dreamed that they would give us so much food!
-Cibon: Obviously we did a very good job in the mine ... Yes, that's how it works!
-Soko: Oh, I can't do all of this ... It's too much for me ...
+Cibon: There's barely anything to eat!
+Kento: ...so hungry...
+Soko: What'd they say again? That if we do badly in the mine, we won't get any food... They really were serious...
+Cibon: We gotta give it our all Kento, otherwise we won't last much longer!
+Kento: Yeah...
+Cibon: I'm still hungry... But I think I'll survive.
+Kento: I don't. I'm gonna starve to death tonight.
+Cibon: Pull yourself together, Kento! If you really want to have more food, we have to put a little more effort down in the mine.
+Soko: I thought it was enough... actually...
+Cibon: Hey, that was more than I expected. So I'm full.
+Kento: Well, that should be enough... to survive at least...
+Soko: Yeah, more than enough...
+Cibon: Whoa! I'm completely full! I never dreamed that they'd give us so much food!
+Cibon: Obviously, we did a very good job in the mine... Yep, that's how it works!
+Soko: Oh, I can't finish all of this... It's too much for me...
 Kento: Can I have the rest?
-Soko: What happens now? It's late afternoon, are we going to be locked back in our cells and that's it?
-Cibon: Hm ... didn't you notice how many people were out there? Apparently something is still out there.
-????: Look at who we have there! What a coincidence!
-Cibon: W ... What ?! Are you here too?
-Saion: Are you surprised? Which prison can we, the Zinkar brothers, hold if it is not that of Helnovien?
-Saion: We would break every other cell, we would outsmart all other guards!
-Saion: But not in Helnovien! This prison is just safe enough to hold us down and nothing less!
-Jorn: You probably already realize how desperate he is. He is proud to be LOCKED here.
+Soko: So what happens now? It's late afternoon, so are we just going to be locked back in our cells and that's it for the day?
+Cibon: Hm... Didn't you notice how many people were out there? Apparently, something's still going on.
+????: Well, well, well... Take a look at who we have here! What a coincidence!
+Cibon: W... What?! You're here too?
+Saion: Are you so surprised? Which prison can we, the dreaded Zinkar Brothers, hold if it's not that of Helnovien?
+Saion: We'd break out of every other cell, we'd outsmart all the other guards!
+Saion: But not in Helnovien! This prison is just safe enough to keep us here and nothing less!
+Jorn: You probably already realize how desperate he's becoming. He's proud to be LOCKED UP here.
 Saion: Quiet, Jorn! Nobody asked you!
-Saion: But isn't it a wonderful coincidence that we meet you here? Fate seems to mean well with us!
-Jorn: Yes exactly, after fate was so kind to lock us up here.
-Jorn: At least I would say that, if it weren't for the stupidity of a certain person who is responsible for it.
-Saion: I said you should be quiet, Jorn!
-Saion: You've probably heard of the battle tournament, haven't you?
-Saion: No? Oh, so new and green behind your ears are you still?
-Saion: The fight tournament is for the tough people here in prison! Anyone who wants to can take part every evening.
+Saion: But isn't it a wonderful coincidence that we met you here? Fate seems to work well with us!
+Jorn: Yes exactly, after fate was so kind enough to lock us up here.
+Jorn: I'd at least say that, if it weren't for the stupidity of a certain person around here who's responsible for it.
+Saion: I told you to be quiet, Jorn!
+Saion: You've probably heard of the tournament, haven't you?
+---
+Saion: No? Oh, so new and <green behind your ears> are you still? <\/ inexperienced
+Saion: The tournament is for the tough people here in prison! Anyone who wants to can take part every evening.
 Saion: The fights are always fought in groups. The best way is to form the group of 3 as we know it!
 Saion: Every group has its rank, newcomers always start at the bottom. You can then challenge other groups of similar rank!
-Saion: And that's exactly what I'm aiming for!
+Saion: And that's exactly what I'm aiming for! </\
+---
 Saion: Excellent!
-Saion: We challenge you! That means we would like to do it, but your rank as a newcomer is far too low for that!
+---
+Saion: We challenge you to a duel! That means we would like to do it, but your rank as a newcomer is far too low for that! <\/
 Saion: You will have to fight your way up in the tournament before you can compete against us!
 Saion: So I'm counting on you.
 Saion: On the other hand, you can consider us a winner if you don't manage to reach our rank!
-Soko: One question ... What ... do you actually get from these fights?
-Soko: How ... can you even fancy a theater like this, with all the mine work?
+Soko: One question... What... do you actually get from these battles?
+Soko: How... How can you even fancy a theater like this, with all the mine work? < how do you still have enough energy for the tournament?
 Jorn: Believe me, I keep asking him this question, and yet he always pulls me into this mess.
 Saion: Women like you are unlikely to understand this! It's about honor and proof of strength!
 Jorn: There is also a real advantage: They even make you skip mining every now and then if you are good enough.
-Saion: ... Yes, but that's irrelevant. Whatever. I hope I can count on you
-Gurim: A question ... how is it that you ended up here?
-Kento: This is a somewhat complicated story ...
-Jorn: You were soldiers, or am I wrong? Just say you are these traitors to the country that they all speak of.
-Soko: We didn't betray our country! We were wrongly locked up here ...
-Cibon: A certain old sack thought we saw malicious spies working for Korzojeno.
-Kento: And since this "old bag" is a member of the council, we are here now.
-Jorn: Heh. That is destiny. I think everyone experiences something like this. I have this misfortune from brother and you your old sack.
-Saion: What are you dawdling down there? You have nothing to discuss with our arch enemies!
-Jorn: Please don't take this crazy man seriously. He is the only one who sees you as archenemy.
-Jorn: You are nothing more than an excuse for his own stupidity.
+Saion: ... Yes, but that's irrelevant. Whatever. I hope I can count on you </\
+Gurim: One question... How'd you ended up here?
+Kento: That's a somewhat complicated story...
+Jorn: You were soldiers, or am I wrong? Just say you are these traitors to the country that they all speak of. <? You can just say
+Soko: We didn't betray our country! We were wrongly locked up here...
+Cibon: A certain old geezer thought we were malicious spies working for Korzojeno.
+Kento: And since this "old geezer" is a member of the council, you can easily guess why we're here now.
+Jorn: Heh. That's fate for ya. I think everyone has something like this one way or another. I've had the misfortune of having him as my brother and you've had yours with that old geezer.
+Saion: What are you dawdling down there? You have nothing to discuss with our arch enemies! <?
+Jorn: Please don't take this crazy man seriously. He is the only one of us who actually believes in this archenemy <>>> sees you as archenemy.
+Jorn: You are nothing more than an excuse for his own stupidity. <?
 Saion: Jorn!
-Jorn: Yeah!
-Jorn: See you then.
-Soko: The two make a really unexpectedly decent impression ...
+Jorn: Yeah yeah!
+Jorn: Well, see you around.
+Soko: The two make a really unexpectedly decent impression ... <\/
 Kento: Evil seems to come from this Saion ...
 Cibon: Then I really wonder why the two of them hang around with him all the time.
 Kento: Who knows, they'll have their reasons ...
@@ -512,7 +516,8 @@ Soko: You really want to go into that ...?
 Cibon: We mustn't lose our fighting spirit here - and the tournament will help us!
 Cibon: I also have a desire to pull this Saion over ...
 Cibon: I mean, come on. THE and a higher rank than WE? It can't stay that way!
-Kento: You let yourself be provoked too easily, Cibon ...
+Kento: You let yourself be provoked too easily, Cibon ... </\
+---
 Kento: It occurs to me that today you are likely to question another one of us again.
 Soko: That's right ...
 Kento: I told them some stories recently ...
@@ -624,7 +629,7 @@ Felcis: Talk to me in the canteen when you're ready.
 Kento: This Felcis really has its way of enlightening us at the last possible moment ...
 Felcis: Well, we have everything together. Let me know when you're ready, I'm still waiting up here in the canteen.
 Felcis: Don't take too much time.
-Kento: If we really want to try this tournament - the registration seems to be down there ...
+Kento: If we really want to try out this tournament, the registration for it seems to be over there... <$
 Felcis: This type is located on the top floor of the cell building. Shortly before the entrance to the terrace.
 Kento: Alright. Let's have a look there.
 
@@ -669,7 +674,7 @@ Pauamainer Member: That was a top performance from you today! We haven't had suc
 Pauamainer Member: Have a look at our base if you already belong to the Pauamainer underground brotherhood! We might have something for you.
 Da Boss: Ei jòò, you really surprised me! You are tough guys!
 Da Boss: Why not visit our Stidsepungd inside Grub! You can do a great job!
-Cibon: What a dialect. Where does the guy come from?
+Cibon: What a dialect. Where does the guy come from? < What an accent. Where's this guy from?
 
 Guard: passage only for registered combat participants.
 
@@ -804,7 +809,7 @@ Cibon: No matter how gloomy and dark it may be here, the presence of your beauty
 Blond girl: wow! How long has it been since I got such a great compliment!
 Blond girl: the people here are all so grumpy and in a bad mood, but you're totally different! Great!
 Blond girl: I thought my life had only been going downhill since I landed here.
-Blond girl: And only because of a little theft!
+Blond girl: And only because of a little theft! < And all because
 Insane Girl: I just wanted to help two other people who were totally desperate.
 Insane Girl: completely stupid! And now I have to work here in this terrible mine! It is exhausting!
 Cibon: J ... Yes ... Really hard times here ...
@@ -871,9 +876,9 @@ Felcis: Alright, but don't take too much time.
 
 
 -= 232 =-
-Guard: Here are the new prisoners, as ordered!
-General: It was about time.
-General: Soso. So that's what spies look like these days, how? Colleagues from their own barracks.
+Guard: Here are the new prisoners, as instructed!
+General: About time.
+General: Soso. So that's what spies look like these days, how? Colleagues from their own barracks. <\/
 General: And then also celebrities like our young Mr. Daikon here!
 General: You'd think that with all the worship of fellow human beings, you would have enough pleasure in your nation.
 General: But no! Instead, you are here now!
@@ -916,26 +921,26 @@ Guard: Hey, what's this about? Do you want to lose out now? Once in there is no 
 
 
 
--= 237 =-
-Guard: Sir Dolaros. Don't you think you're going too far? You have been ordered to refrain from interrogating these prisoners ...
-Sir Dolaros: Oh do you mean this letter?
-Sir Dolaros: I'm holding back. Look, we have a lot of torture instruments here. Did I use one of them?
-Guard: The punches ...
-Sir Dolaros: Do you mean such a blow?
-Sir Dolaros: My job here is to squeeze information out of people.
-Sir Dolaros: I don't know how this Vorento imagines it, but you can't do it without some violence!
-Guard: ... Apart from that ... Do you really think this Kento told the truth?
-Sir Dolaros: Do I look like a mind reader? Most likely he invented a lot so that he could say anything at all.
-Sir Dolaros: The guy seemed pretty smart anyway. But we have two more prisoners.
-Sir Dolaros: Over time, the lies will be exposed and we will get the truth.
+-= 237 =- $
+Guard: Sir Dolaros! Don't you think you're going a little bit too far with this? You've been ordered to refrain from interrogating these prisoners...
+Sir Dolaros: Oh, you mean this letter?
+Sir Dolaros: I AM holding back. Take a good look at all the torture devices we have here. Did I use even a single one?
+Guard: But the punches...
+Sir Dolaros: You mean THESE punches?
+Sir Dolaros: My job here is to squeeze every last bit of information out of people.
+Sir Dolaros: I don't know what kind of show and tell fairy tale this Vorento guy has, but nothing gets done without a little violence!
+Guard: Well besides that... Do you really think that this Kento guy told the truth?
+Sir Dolaros: Do I look like a mind reader? He most likely made up a lot of stuff so he could say anything at all.
+Sir Dolaros: The guy seemed pretty smart anyway. But we still have two more prisoners.
+Sir Dolaros: Over time, their lies will be exposed and we WILL get the truth.
 Sir Dolaros: Go now. I want to be left alone.
-Guard: Command, sir.
-Sir Dolaros: These interrogations are not going to be any more exciting. How I hate this sinkhole.
+Guard: At your command, sir.
+Sir Dolaros: These interrogations aren't going to get any more exciting. Oh how I hate this dump of a place.
 
 
 
 -= 238 =-
-General: Soso. Mr. Daikon. Kento! How did you like mine work?
+General: Soso. Mr. Daikon. Kento! How did you like mine work? < Well, well, well.
 Kento: ...
 General: speech! How did you like it?
 Kento: ... It was exhausting ...
@@ -984,8 +989,8 @@ Felcis: If you don't believe me, just get a confirmation from Farenia yourself.
 Sir Dolaros: It is not necessary. We believe you. Why else do you think we would have locked you up here?
 Sir Dolaros: So we get to the point! What is Farenia up to? What are you planning in the background without letting Brigantia know about it?
 Felcis: Well, I want to be honest. We are currently planning to change the color of our coat of arms.
-Felcis: These bright colors are far too optimistic for us because of our currently very poor existence.
-Felcis: We are sincerely sorry that we have not informed Brigantia of this.
+Felcis: These bright colors are far too optimistic for us because of our currently very poor existence. < our currently oh so poor existence
+Felcis: We are sincerely sorry that we have not informed Brigantia of this. < Our sincerest condolences
 Sir Dolaros: Don't be stupid! You know exactly what I'm talking about!
 Sir Dolaros: Why was that secret combat force formed that was discovered in the Silvan Forest?
 Felcis: What troop are you talking about? I don't know anything about it.
@@ -1005,11 +1010,13 @@ Felcis: Forgive my brazen intervention ...
 -= 240 =-
 Felcis: Come on. We wanted to pay a visit to this one person, right?
 Felcis: We have to go up one floor. He is there at the passage to the terrace.
-Guard: Do you want to go back to your cells? You still have some clearance.
-Guard: Hey there! Stop!
-Guard: You are coming with us now!
-Soko: How? What's happening?
-Guard: NO QUESTIONS! Come along!
+---$
+Guard: Do you want to go back to your cells? You still have some time left. <: That's enough for today./No, not yet.
+Guard: You there! Halt!
+Guard: You're coming with us!
+Soko: Why? What's happening?
+Guard: NO QUESTIONS! Get over here!
+---
 Guard: Hey there, stop!
 Guard: You there with the glasses. Come along.
 Felcis: How? Is it about my excellence in the mine?
@@ -1223,10 +1230,12 @@ Guard: ALL WAKE UP IMMEDIATELY! THE MINE IS WAITING!
 Cibon: Kento. Get up. Mine work. Jail.
 Kento: Oh no ...
 
+$
 But then in the same night...
 Sir Dolaros: I'm bored. I'm gonna kill you now. <#replace
 Cibon: Whaaaaaaaaaaaaaaat
 
+$
 They all died. THE END.
 
 Prisoner: ...
@@ -1307,20 +1316,21 @@ Cibon: And he still finds the right way ...
 
 Prisoner: Get out of my way.
 
-Cibon: Hey ho! Off to the mine! On the search for the ore!
-Soko: Be calm!
-Cibon: Oha, someone is in a bad mood ...
-Soko: Bad mood? Oh yes, that's me!
+$
+Cibon: Here we go! Onward, to the mine! As we embark on a mission to hunt for ore that awaits us!
+Soko: Just shut up already!
+Cibon: Well now, someone isn't in a good mood today...
+Soko: Not in a good mood? Of course I wouldn't be!
 Soko: I just spent a terrible night on a thing that can hardly be called a bed!
-Soko: Then this impossible time and then work in the mine! Who wouldn't be in a bad mood, damn it!
-Soko: So be ...
-Soko: ... please ...
-Soko: ... QUIET!
-Cibon: Kento, I think Soko has never been woken up by anyone in her life, as early as she always gets up, what do you think?
-Cibon: Must be quite a shock to them!
-Soko: RU-HE!
-Kento: ... I still have a headache, please ...
-Cibon: Oh man, what a start to the day.
+Soko: And then this inhuman time as well as having to work in the mine! Who wouldn't be in a bad mood, dammit!
+Soko: So please...
+Soko: ...be...
+Soko: ...QUIET!
+Cibon: Kento, I don't think Soko has ever been woken up by anyone before, especially with how early she always gets up. So what do you think?
+Cibon: Must be quite the shock to her!
+Soko: BE QUIET!
+Kento: ...I still have a headache. Please, not right now...
+Cibon: Oh man, what a way to start the day off.
 
 Cibon: We should go a different route this time than last time, buddy! Working in the same place is boring.
 Kento: Aha ... Is that so ...?
@@ -1394,7 +1404,8 @@ Felcis: At the first turn right, at the second straight up.
 Felcis: So this time not sleeping so much while driving, okay Kento?
 Kento: Hey, it's not like I'm sleeping ...
 
-Kento: After work ... Well, I'm almost starving. Let's go to this canteen quickly ...
+$
+Kento: Work's finally over... Good, I'm almost starving. Let's get to this cafe area soon...
 
 Soko: Finally ... Done ...
 Cibon: Then back to the canteen!
@@ -1447,11 +1458,12 @@ Guard: Did you stay safe while driving? We can be lucky that the beasts stay awa
 -= 245 =-
 Kento: I certainly don't want to know how we are received out there if we just leave the mine.
 
-Info: During the Lorenfahrt you can decide which direction you are taking.
-If there is a turnout, the following display appears.
-The arrow enters the current direction that the truck will travel along.
-Press Enter in time to change direction.
-You can only change direction once, so think carefully.
+$
+Info: While travelling through the railways, you can decide which direction to go.
+If there's a junction, the following display appears.
+The arrow shows you the current direction that the minecart will move along.
+Press Enter in time to change directions.
+You can only change directions once, so think carefully about where you want to go.
 
 Kento: I certainly don't want to know how we are received out there if we just leave the mine.
 
@@ -1640,42 +1652,45 @@ Prisoner: They send us to the mine with a lousy piece of bread. They shouldn't b
 
 Guard: You should go through the house to the left of here. You can get your equipment there.
 
+$
 Guard: Hey, you're the ones who came in yesterday, right?
 Guard: Hey, you're the ones who came in yesterday, right? Come over here.
 
-Guard: Oh. Four this time? Well, I should be fine.
-Guard: Your gear here.
-Guard: And here are your remedies. Use it sparingly, we are not a Salvation Army here, understand?
-Guard: Hm, you've been doing a really good job lately. I think you can be trusted with a stick of dynamite.
+Guard: Oh. Four this time? Well, I should be fine. <?
+Guard: Here's your equipment.
+Guard: And here are your provisions. Use it sparingly, we aren't a charity, you understand?
+Guard: Hm, you've been doing a really good job lately. I think you can be trusted with a stick of dynamite. <\/
 Guard: You use this ONLY to jump into new areas in the mine, understand? Look out for fragile spots on the rock walls.
 Guard: And it does not occur to us to take advantage of our trust. If you mess with the dynamite, it will have hard consequences!
-Guard: So ... today you get another stick of dynamite for blasting. Be careful with it and don't mess around!
-Guard: Then get out with you. Grab a lore and bring back enough ore!
+Guard: So ... today you get another stick of dynamite for blasting. Be careful with it and don't mess around! </\
+Guard: Now get out of here. Take a cart and bring back enough ore!
 
-Guard: Your equipment and other remedies, please.
-Guard: It was your first day, wasn't it? You get something to eat now. Go the way back to your cells. You will then notice where the dining room is.
+$
+Guard: Your equipment and other provisions.
+Guard: Today's your first day, isn't it? Now it's time to get something to eat. Go back all the way to the cells. You'll then notice where the cafe is.
 Guard: Hey, wait a minute!
-Guard: Come back here!
-Guard: You have something with you, right? You don't really think we'll let you through with it!
-Guard: Let that be a lesson. Don't you dare cross us.
-Felcis: That was a bit of a letdown ... well, let's try again in the next few days.
-Felcis: There should be some powder in the storage area. < should still be some
-You are doing a good job. The guards' trust in you has improved!
+Guard: Get back here!
+Guard: You've still got something, don't you? Don't think we'll let you get away with it!
+Guard: Let that be a lesson. Don't you dare try anything behind our backs.
+Felcis: That was a bit of a disappointment... Well, let's try again in the next few days.
+Felcis: There should still be some of that powder in the storage area.
+You're doing a good job. The guards' trust in you has improved!
 You have to work harder. The guards' trust in you has deteriorated.
 
-Guard: Should I click the rules here for you?
-Guard: Okay, I assume you will work in a group. You get the tools for mine work here and hand them back here, understand?
-Guard: When you enter the mine you get a lore with which you drive down the mine. There are several sections that you go to.
-Guard: In which you land depends on which direction you take the turnouts. Incidentally, you can decide which direction this is while driving.
-Guard: Once you have reached the bottom, it means: mining ore. < it all boils down to this:
-Guard: You can recognize ore by the slightly bluish spots on the rock walls. Go to these locations and use your pickaxes to mine the ore.
-Guard: If you want to do a good job, you shouldn't stay in one place too long. The ore will subside and become increasingly difficult to mine.
-Guard: So keep looking for new jobs to mine more ore.
-Guard: If you can no longer carry ore, go to the stop of your lore to deliver the ore. <# 99 is the limit
-Guard: Oh, one more word of warning: you miners are not all alone down there. Unfortunately, there is still a lot of beasts hanging around there that we simply cannot get rid of.
-Guard: You will therefore receive a few remedies from us in the event of attacks. After work, these will also be handed in here!
-Guard: So do your work, go!
-Guard: Alright, but don't come to me afterwards if there are problems or you don't understand something!
+$
+Guard: Do I need to clear up the rules here for you?
+Guard: Okay, I'll assume you three are working in a group. Get your mining equipment here and hand them back when you're done, understand?
+Guard: When you enter the mine, you'll get a minecart which'll help you move down into the mine. There are several sections that you can go to.
+Guard: Where you end up depends on which directions you take at the junctions. You can decide which directions to take while driving by the way.
+Guard: Once you've reached the bottom, it all boils down to one thing. Mining ore.
+Guard: You can recognize ore by the slightly bluish spots on the rock walls. Go to these spots and use your pickaxes to mine the ore.
+Guard: If you want to do a good job, you shouldn't stay in one place for too long. The amount of ore will diminish and become increasingly difficult to mine.
+Guard: So keep looking out for new spots to mine more ore.
+Guard: If you can't carry any more ore, go to the stop at the railways and drop off the ore. <# 99 is the limit
+Guard: Oh, one more word of warning. You miners aren't all alone down there. Unfortunately, there are still a lot of monsters hanging around there that we simply can't get rid of.
+Guard: You'll therefore receive some provisions from us if you get attacked. After work, these will also be handed back!
+Guard: So get to it then!
+Guard: Alright, but don't come to me later if you have problems or you don't understand something!
 
 
 
@@ -1959,21 +1974,21 @@ Guard: So do a good job, unless you really want to find out what's in the gorge 
 
 
 -= 268 =-
-Belias: The acoustic hood can now be lifted!
-Genyu: Thank you for the quick support.
-Belias: We're in the same trouble here, we have to find out together.
-Belias: Hurry up with the evacuation of the troops, the boats are waiting northeast at the edge of the forest.
-Belias: You drive the river north until you are surrounded by the aquil forests. The new base is being prepared there.
-Belias: The magicians will help you to go unnoticed while driving.
-Genyu: Excellent. I'll see the troops stay together.
-Belias: By the way, where's Mister Kiorta?
-Genyu: Felcis is on the way to Helnovien. He has a plan on how to distract Brigantia from the investigations in the short term.
-Genyu: He should have informed you of this.
-Belias: The letter will probably only have arrived after I left.
-Belias: Well, if Mr. Kiorta plans something, it usually has a hand. Let's just trust it.
-Genyu: Alright. Let's start with the evacuation!
-Genyu: MEN! GET TOGETHER!
-Belias: Oh, oh. I shouldn't have had the acoustic hood lifted ...
+Belias: The sound inhibitor can now be lifted!
+Genyu: Thank you very much for the quick support.
+Belias: We have the same predicament here, so we're in this together.
+Belias: Hurry up with the evacuation of the soldiers, the boats are waiting northeast at the edge of the forest. <\/
+Belias: You'll move through the river north until you are surrounded by the Aquil forests. The new base is being prepared there.
+Belias: These mages will help you to go unnoticed while you're moving. </\
+Genyu: Excellent. I'll see to it that the soldiers stay together.
+Belias: By the way, where's Sir Kiorta?
+Genyu: Felcis is on his way to Helnovien. He has a plan on how to distract Brigantia from investigating in the short term.
+Genyu: He should've informed you of this.
+Belias: The letter will probably on be there after I get back.
+Belias: Well, if Sir Kiorta makes a plan, it's usually in the right hands. Let's just trust him on this.
+Genyu: Alright. Let's begin with the evacuation!
+Genyu: MEN! GATHER AROUND!
+Belias: Oh no. I shouldn't have had the sound inhibitor lifted...
 
 
 

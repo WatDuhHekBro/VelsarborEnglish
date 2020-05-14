@@ -48,5 +48,5 @@ After the first major release, the `dev` branch will still be used so there aren
 - The Silvan Forest: 100%
 - The Mysterious Fortress: 100%
 - Gencorin Pt II: 100%
-- The Helnovien Prison: 2%
+- The Helnovien Prison: 7%
 - The Helnovien Mine: 0%
