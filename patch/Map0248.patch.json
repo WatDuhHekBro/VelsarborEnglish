@@ -103,17 +103,17 @@
 		{
 			"path": [44,1,21],
 			"original": "Ja/Nein",
-			"patch": "Ja/Nein"
+			"patch": "Yes/No"
 		},
 		{
 			"path": [44,1,22],
 			"original": "Ja",
-			"patch": "Ja"
+			"patch": "Yes"
 		},
 		{
 			"path": [44,1,75],
 			"original": "Nein",
-			"patch": "Nein"
+			"patch": "No"
 		}
 	]
 }

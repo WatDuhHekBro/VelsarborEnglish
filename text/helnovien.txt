@@ -12,7 +12,7 @@ Guard: Gefangene haben hier nichts zu suchen!
 
 Guard: Hier ist die Lagerhalle, ihr habt hier nichts verloren!
 
-Guard: Zurück mit euch!
+...
 
 Old Prisoner: Stört mich bitte nicht...
 
@@ -30,57 +30,10 @@ Guard: Habt ihr schon Bekanntschaft mit unseren Wachhunden hier gemacht? Die lau
 Guard: Mist... Meine Schicht endet erst in 2 Stunden, aber die Kämpfe beginnen schon gleich. Ich werde wieder mal das Beste verpassen...
 Guard: Folgt einfach den Schienen, okay?
 
-Prisoner: ...
-
-Prisoner:...Was ist?
-
-Prisoner: Geht mir aus dem Weg.
-
-Prisoner: Du has' die Wachen gehört, oder? Wir soll'n zur Mine.
-
-Prisoner: Was sprichst du mich an? Geh mir aus dem Weg.
-
-Prisoner: Ihr seht hier ziemlich neu aus. In dem Fall merkt euch folgendes: kein - gerede - am - morgen!
-
-Kento: Der... Der Typ schläft noch!
-Cibon: Und er findet dennoch den richtigen Weg...
-
-Prisoner: Geht mir aus dem Weg.
-
-New Prisoner: Nicht schon wieder... Minenarbeit... Ich hasse es...
-
-Prisoner: Hach! Was für ein herrlicher Morgen, oder? ... Verzieh dich.
-
-Old Prisoner: ...Oh... Mein Kreuz...
-
-Prisoner: Nicht jetzt!
-
-Prisoner: ...
-
 
 
 -= 224 =-
-Guard: Zur Mine geht es in die andere Richtung.
-
-Guard: Ihr geht dorthin, wo alle anderen hingehen. Mit anderen Worten: Genau in die entgegengesetzte Richtung! Was ist daran so schwer zu verstehen?
-
-Guard: Ihr sollt zur Mine, nicht hier lang.
-
-Guard: Bitte habt etwas gnade und bereitet mir am Morgen nicht unnötig Kopfschmerzen. In die andere Richtung, verstanden?
-
-Guard: Hier geht es nicht durch!
-
-Guard: Hier geht es nicht durch!
-
-Guard: Hier geht es nicht durch!
-
-Prisoner: ...
-
-Prisoner: Nicht jetzt!
-
-New Prisoner: Nicht schon wieder... Minenarbeit... Ich hasse es...
-
-Prisoner: Geht mir aus dem Weg.
+...
 
 Guard: Zur Kantine geht den Flur vom Erdgeschoss des Zellengebäudes ganz durch und dann nach rechts.
 
@@ -92,7 +45,7 @@ Guard: Dieser Bereich darf nur von Turnierkampfteilnehmern betreten werden!
 
 Guard: Wenn ihr auf den Platz wollt, um zu kämpfen, müsst ihr euch anmelden. Die Anmeldung ist in der Kantine.
 
-Guard: Zurück mit euch!
+...
 
 Prisoner: Irgendwie hab ich Mitleid mit "Den Schleimigen". Ständig werden sie von x-beliebigen Neueinsteigern nieder geprügelt.
 Prisoner: Es gibt sogar einige untere Plätze, die so dreist sind, sie einfach so zu bekämpfen und zu schlagen, obwohl sie im Rang unter ihnen sind! Nur aus Frust, weil sie nicht weiter kommen!
@@ -134,7 +87,7 @@ Prisoner: Zum Glück gibt es genug Freiwillige, die tatsächlich Lust haben, sic
 
 Guard: Gefangene haben hier nichts zu suchen!
 
-Guard: Hier geht es nicht durch!
+...
 
 Prisoner: Wie man da drüben sieht, gibt es auch reichlich Wächter, die bei den Turnierkämpfen zusehen.
 Prisoner: Einige von uns fragen sich wirklich, ob die das Turnier hauptsächlich für ihre eigene Unterhaltung eingeführt haben...
@@ -278,56 +231,7 @@ Felcis: Drück mir die Daumen. Wenn alles gut geht, gebe ich dir morgen etwas Fe
 
 
 -= 230 =-
-Guard: Was wollt ihr wieder zurückgehen? Ab zur Mine, aber flott!
-
-Guard: Der Ausgang ist weiter unten. Weiter Rechts habt ihr jetzt nichts zu suchen.
-
-Guard: Was wollt ihr wieder zurückgehen? Ab zur Mine, aber flott!
-
-Guard: Was wollt ihr wieder zurückgehen? Ab zur Mine, aber flott!
-
-Prisoner: ...
-
-Prisoner:...Was ist?
-
-Prisoner: Geht mir aus dem Weg.
-
-Prisoner: Du has' die Wachen gehört, oder? Wir soll'n zur Mine.
-
-Prisoner: Was sprichst du mich an? Geh mir aus dem Weg.
-
-Prisoner: Ihr seht hier ziemlich neu aus. In dem Fall merkt euch folgendes: kein - gerede - am - morgen!
-
-Kento: Der... Der Typ schläft noch!
-Cibon: Und er findet dennoch den richtigen Weg...
-
-Prisoner: Geht mir aus dem Weg.
-
-New Prisoner: Nicht schon wieder... Minenarbeit... Ich hasse es...
-
-Prisoner: Hach! Was für ein herrlicher Morgen, oder? ... Verzieh dich.
-
-Old Prisoner: ...Oh... Mein Kreuz...
-
-Prisoner: Nicht jetzt!
-
-Prisoner: ...
-
-Guard: Was steht ihr hier noch rum? Los! Runter und ab zur Mine!
-
-Guard: Runter mit euch! Kein Rumgetrödel!
-
-Guard: Geht nach oben und dann nach rechts, um zur Kantine zu kommen.
-
-Guard: Gähn... Wieso muss das ganze immer so früh sein... Ehm... Oh! Ihr da! Weiter gehen!
-
-Guard: Ihr wollt zur Kantine, stimmt's? Geht den Gang nach oben und biegt dann nach rechts ab.
-
-Guard: Zur Kantine geht es erst NACH der Arbeit!
-
-Guard: Hier geht's nicht durch.
-
-Guard: Hier geht es jetzt noch nicht durch! Zurück mit euch!
+...
 
 Cibon: Ah, schaut euch mal diese Schlange an!
 Kento: Offensichtlich geht es hier zum Essen. Dann stellen wir uns mal an.
@@ -763,9 +667,7 @@ Guard: Ihr wollt also gegen "TurnierGegn1TurnierGegn2" kämpfen? Gut, dann mal r
 Cibon: Womit sollen wir überhaupt kämpfen?
 Guard: Nun, dafür haben wir unseren Rüstungsraum speziell für Turnierteilnehmer. Geht einfach voran, man wird euch schon erklären, wie das hier läuft.
 
-Guard: Kein Durchgang hier für euch!
-
-Guard: Hier ist kein Zutritt für Gefangene.
+...
 
 Kento: Das... war clever.
 Felcis: Mit dem anderen Säckchen wiederholen wir das Spiel, um die Spur bis zur Zelle zu vervollständigen.
@@ -831,7 +733,7 @@ Woman at the Counter: Tut mir Leid, es gibt keinen Nachschlag mehr.
 
 Woman at the Counter: Hier ist kein Durchgang für euch! Treibt es nicht zu weit, oder wir rufen die Wächter!
 
-Woman at the Counter: Hier ist kein Durchgang für euch! Treibt es nicht zu weit, oder wir rufen die Wächter!
+Man at the Counter: Hier ist kein Durchgang für euch! Treibt es nicht zu weit, oder wir rufen die Wächter!
 
 Felcis: Nun? Seid ihr bereit?
 Kento: Nun haben wir deinen Stein und das Graufunkenpulver... und immer noch keine Ahnung, wie dein Plan aussieht. Es wird Zeit, dass du uns aufklärst.
@@ -913,24 +815,6 @@ Guard: Eine ganz schöne Sammlung an Ausrüstungsgegenständen haben wir hier, n
 Guard: Seid ihr bereit für das Gefecht?
 
 Guard: Hey, was soll das? Wollt ihr jetzt etwa den Kürzeren ziehen? Einmal drin gibt es kein Zurück. Ihr macht jetzt eurem Kampf, ob ihr wollt oder nicht!
-
-
-
--= 237 =-
-Guard: Sir Dolaros. Glauben Sie nicht, dass Sie zu weit gehen? Sie haben den Befehl bekommen, Gewaltakte im Verhör dieser Gefangenen zu Unterlassen...
-Sir Dolaros: Ach du meinst diesen Brief?
-Sir Dolaros: Ich halte mich doch zurück. Schau, wir haben jede Menge Folterinstrumente hier. Hab ich davon eines verwendet?
-Guard: Die Faustschläge...
-Sir Dolaros: Meinst du so einen Schlag?
-Sir Dolaros: Ich hab hier die Aufgabe, Informationen aus Leuten zu pressen.
-Sir Dolaros: Ich weiß nicht, wie sich dieser Vorento das vorstellt, aber ohne etwas Gewalt geht das nicht!
-Guard: ... Ganz abgesehen davon... Glauben Sie wirklich, dass dieser Kento die Wahrheit erzählt hat?
-Sir Dolaros: Sehe ich aus wie ein Gedankenleser? Höchstwahrscheinlich hat er vieles erfunden, damit er überhaupt etwas sagen kann.
-Sir Dolaros: Der Typ kam mir sowieso ziemlich gerissen vor. Aber wir haben ja noch zwei weitere Gefangene.
-Sir Dolaros: Mit der Zeit werden die Lügen schon auffliegen und wir werden an die Wahrheit kommen.
-Sir Dolaros: Gehe jetzt. Ich möchte meine Ruhe haben.
-Guard: Zu Befehl, Sir.
-Sir Dolaros: Diese Verhöre werden auch nicht spannender. Wie ich dieses Drecksloch hasse.
 
 
 
@@ -1223,61 +1107,6 @@ Guard: SOFORT ALLE AUFWACHEN! DIE MINE WARTET!
 Cibon: Kento. Aufstehen. Minenarbeit. Gefängnis.
 Kento: Och nee...
 
-Doch dann in der selben Nacht...
-Sir Dolaros: Mir ist langweilig. Ich werde euch jetzt umbringen.
-Cibon: Waaaaaaaaaaaaaaas~
-
-Alle sind gestorben. THE END.
-
-Prisoner: ...
-
-Prisoner:...Was ist?
-
-Prisoner: Geht mir aus dem Weg.
-
-Prisoner: Du has' die Wachen gehört, oder? Wir soll'n zur Mine.
-
-Prisoner: Was sprichst du mich an? Geh mir aus dem Weg.
-
-Prisoner: Ihr seht hier ziemlich neu aus. In dem Fall merkt euch folgendes: kein - gerede - am - morgen!
-
-Kento: Der... Der Typ schläft noch!
-Cibon: Und er findet dennoch den richtigen Weg...
-
-Prisoner: Geht mir aus dem Weg.
-
-New Prisoner: Nicht schon wieder... Minenarbeit... Ich hasse es...
-
-Prisoner: Hach! Was für ein herrlicher Morgen, oder? ... Verzieh dich.
-
-Old Prisoner: ...Oh... Mein Kreuz...
-
-Prisoner: Nicht jetzt!
-
-Prisoner: ...
-
-Guard: Was steht ihr hier noch rum? Los! Runter und ab zur Mine!
-
-Guard: ...Die Neuen sind wohl immer etwas langsamer. Ihr geht dahin, wo alle anderen hingehen, alles klar? LOS!
-
-Guard: Runter mit euch! Kein Rumgetrödel!
-
-Guard: Einen Moment! Wo wollt ihr denn hin? Ihr habt da oben nichts verloren! Runter mit euch!
-
-Guard: Einen Moment! Wo wollt ihr denn hin? Ihr habt da oben nichts verloren! Runter mit euch!
-
-Guard: Wollt ihr Ärger haben oder so etwas? Was spricht ihr mich an! Ihr sollt zur Mine!
-
-Guard: Hier geht es nicht durch! Ihr sollt die Treppe runter.
-
-Guard: Hier ist kein Zutritt für Gefangene.
-
-Guard: Ihr habt hier nichts zu suchen. Ihr sollt die Treppe runter!
-
-Guard: Kein Durchgang hier für euch!
-
-Anmerkung: Du hast all deine geschmuggelten Gegenstände in deiner Zelle versteckt.
-
 
 
 -= 242 =-
@@ -1290,22 +1119,7 @@ Guard: Ihr sollt durch das Haus links von hier. Dort bekommt ihr eure Ausrüstun
 
 Guard: Wir versperren hier sicher nicht den Weg, damit wir Leute wie euch durchlassen.
 
-Prisoner: ...
-
-Prisoner:...Was ist?
-
-Prisoner: Geht mir aus dem Weg.
-
-Prisoner: Du has' die Wachen gehört, oder? Wir soll'n zur Mine.
-
-Prisoner: Was sprichst du mich an? Geh mir aus dem Weg.
-
-Prisoner: Ihr seht hier ziemlich neu aus. In dem Fall merkt euch folgendes: kein - gerede - am - morgen!
-
-Kento: Der... Der Typ schläft noch!
-Cibon: Und er findet dennoch den richtigen Weg...
-
-Prisoner: Geht mir aus dem Weg.
+...
 
 Cibon: Hey ho! Auf in die Mine! Auf zur Suche nach dem Erz!
 Soko: Sei ruhig!
@@ -1441,35 +1255,6 @@ Prisoner: Argh! So anstrengend! Ich bin bereits fix und fertig. Wann ist endlich
 Guard: Nicht soviel rumlungern hier! Arbeitet oder wir werden euch zum Arbeiten treiben!
 
 Guard: Alles Heil geblieben bei der Fahrt? Wir können von Glück reden, dass sich die Biester von den Schienen fern halten, wenn da eine Lore entlang fährt.
-
-
-
--= 245 =-
-Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.
-
-Info: Während der Lorenfahrt kannst du bei Weichen entscheiden, welche Richtung du einschlägst.
-Liegt eine Weiche bevor, erscheint folgende Anzeige.
-Der Pfeil gibt dabei die aktuelle Richtung ein, die die Lore entlang fahren wird.
-Drücke rechtzeitig Enter um die Richtung zu ändern.
-Du kannst nur einmal die Richtung ändern, also überleg genau.
-
-Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.
-
-Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.
-
-Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.
-
-Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.
-
-Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.
-
-Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.
-
-Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.
-
-Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.
-
-Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.
 
 
 
@@ -2118,12 +1903,6 @@ Jorn: Nunja... Das werdet ihr ja sehen...
 Gurim: Hallo...
 Soko: Du bist wirklich eine willkommene Abwechslung im Vergleich zu deinen gesprächigen Brüdern.
 Gurim: D... Danke...
-
-Guard: Kein Durchgang hier für euch!
-
-Guard: Hier geht es nicht durch! Ihr sollt die Treppe runter.
-
-Guard: Hier ist kein Zutritt für Gefangene.
 
 
 

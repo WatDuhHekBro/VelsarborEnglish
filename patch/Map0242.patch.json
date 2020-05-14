@@ -68,7 +68,7 @@
 			"original": "Gefangener: ...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: ..."
+				"\\c[10]Prisoner\\c[0]: ..."
 			]
 		},
 		{
@@ -76,7 +76,7 @@
 			"original": "Gefangener:...Was ist?",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]:...Was ist?"
+				"\\c[10]Prisoner\\c[0]: What is it?!"
 			]
 		},
 		{
@@ -84,7 +84,7 @@
 			"original": "Gefangener: Geht mir aus dem Weg.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Geht mir aus dem Weg."
+				"\\c[10]Prisoner\\c[0]: Get out of my way."
 			]
 		},
 		{
@@ -92,8 +92,8 @@
 			"original": "Gefangener: Du has' die Wachen gehört, oder? Wir soll'n zur Mine.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Du has' die Wachen gehört, oder?\\. ",
-				"Wir soll'n zur Mine."
+				"\\c[10]Prisoner\\c[0]: You heard the guards, right?\\.",
+				"We should go to the mine."
 			]
 		},
 		{
@@ -101,8 +101,8 @@
 			"original": "Gefangene: Was sprichst du mich an? Geh mir aus dem Weg.",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Was sprichst du mich an?\\. Geh mir aus ",
-				"dem Weg."
+				"\\c[10]Prisoner\\c[0]: What are you talking to me for?\\.",
+				"Get out of my way."
 			]
 		},
 		{
@@ -110,9 +110,8 @@
 			"original": "Gefangene: Ihr seht hier ziemlich neu aus. In dem Fall merkt euch folgendes: kein - gerede - am - morgen!",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Ihr seht hier ziemlich neu aus.\\.",
-				"In dem Fall merkt euch folgendes:\\.",
-				"kein \\.- gerede \\.- am \\.- morgen!"
+				"\\c[10]Prisoner\\c[0]: You look pretty new here.\\. In that case,",
+				"remember this.\\. No\\. talking\\. in\\. the\\. morning!"
 			]
 		},
 		{
@@ -120,7 +119,7 @@
 			"original": "Kento: Der... Der Typ schläft noch!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Der...\\. Der Typ schläft noch!"
+				"\\c[1]\\n[1]\\c[0]: Th...\\. The guy's still sleeping!"
 			]
 		},
 		{
@@ -128,8 +127,8 @@
 			"original": "Cibon: Und er findet dennoch den richtigen Weg...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Und er findet dennoch den ",
-				"richtigen Weg..."
+				"\\c[2]\\n[2]\\c[0]: And he somehow always finds",
+				"a way..."
 			]
 		},
 		{
@@ -137,7 +136,7 @@
 			"original": "Gefangene: Geht mir aus dem Weg.",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Geht mir aus dem Weg."
+				"\\c[10]Prisoner\\c[0]: Get out of my way."
 			]
 		},
 		{

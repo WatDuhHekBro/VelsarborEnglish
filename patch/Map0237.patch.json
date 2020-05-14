@@ -6,10 +6,9 @@
 			"original": "Wächter: Sir Dolaros. Glauben Sie nicht, dass Sie zu weit gehen? Sie haben den Befehl bekommen, Gewaltakte im Verhör dieser Gefangenen zu Unterlassen...",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Sir Dolaros.\\. Glauben Sie nicht, dass Sie ",
-				"zu weit gehen?\\. Sie haben den Befehl bekommen, ",
-				"Gewaltakte im Verhör dieser Gefangenen zu ",
-				"Unterlassen..."
+				"\\c[10]Guard\\c[0]: Sir Dolaros!\\. Don't you think you're going a",
+				"little bit too far with this?\\. You've been ordered",
+				"to refrain from interrogating these prisoners..."
 			]
 		},
 		{
@@ -17,8 +16,7 @@
 			"original": "Sir Dolaros: Ach du meinst diesen Brief?",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Ach du meinst diesen ",
-				"Brief? "
+				"\\c[10]Sir Dolaros\\c[0]: Oh,\\. you mean this letter?"
 			]
 		},
 		{
@@ -26,10 +24,10 @@
 			"original": "Sir Dolaros: Ich halte mich doch zurück. Schau, wir haben jede Menge Folterinstrumente hier. Hab ich davon eines verwendet?",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Ich halte mich doch ",
-				"zurück.\\. Schau,\\. wir haben jede Menge ",
-				"Folterinstrumente hier.\\. Hab ich ",
-				"davon eines verwendet?"
+				"\\c[10]Sir Dolaros\\c[0]: I AM holding back.\\. Take",
+				"a good look at all the torture devices",
+				"we have here.\\. Did I use even a single",
+				"one?"
 			]
 		},
 		{
@@ -37,7 +35,7 @@
 			"original": "Wächter: Die Faustschläge...",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Die Faustschläge..."
+				"\\c[10]Guard\\c[0]: But the punches..."
 			]
 		},
 		{
@@ -45,8 +43,7 @@
 			"original": "Sir Dolaros: Meinst du so einen Schlag?",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Meinst du so einen ",
-				"Schlag? "
+				"\\c[10]Sir Dolaros\\c[0]: You mean THESE punches?"
 			]
 		},
 		{
@@ -54,9 +51,9 @@
 			"original": "Sir Dolaros: Ich hab hier die Aufgabe, Informationen aus Leuten zu pressen.",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Ich hab hier die ",
-				"Aufgabe, Informationen aus Leuten zu ",
-				"pressen."
+				"\\c[10]Sir Dolaros\\c[0]: My job here is to squeeze",
+				"every last bit of information out of",
+				"people."
 			]
 		},
 		{
@@ -64,10 +61,10 @@
 			"original": "Sir Dolaros: Ich weiß nicht, wie sich dieser Vorento das vorstellt, aber ohne etwas Gewalt geht das nicht!",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Ich weiß nicht, wie ",
-				"sich dieser Vorento das vorstellt, ",
-				"aber ohne etwas Gewalt geht das ",
-				"nicht!"
+				"\\c[10]Sir Dolaros\\c[0]: I don't know what kind of",
+				"show and tell fairy tale this Vorento",
+				"guy has, but nothing gets done without",
+				"a little violence!"
 			]
 		},
 		{
@@ -75,9 +72,8 @@
 			"original": "Wächter: ... Ganz abgesehen davon... Glauben Sie wirklich, dass dieser Kento die Wahrheit erzählt hat?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: ...\\. Ganz abgesehen davon...\\. Glauben Sie ",
-				"wirklich, dass dieser Kento die Wahrheit erzählt ",
-				"hat?"
+				"\\c[10]Guard\\c[0]: Well besides that...\\. Do you really think",
+				"that this Kento guy told the truth?"
 			]
 		},
 		{
@@ -85,10 +81,10 @@
 			"original": "Sir Dolaros: Sehe ich aus wie ein Gedankenleser? Höchstwahrscheinlich hat er vieles erfunden, damit er überhaupt etwas sagen kann.",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Sehe ich aus wie ein ",
-				"Gedankenleser?\\. Höchstwahrscheinlich ",
-				"hat er vieles erfunden, damit er ",
-				"überhaupt etwas sagen kann."
+				"\\c[10]Sir Dolaros\\c[0]: Do I look like a mind",
+				"reader?\\. He most likely made up a lot",
+				"of stuff so he could say anything",
+				"at all."
 			]
 		},
 		{
@@ -96,10 +92,9 @@
 			"original": "Sir Dolaros: Der Typ kam mir sowieso ziemlich gerissen vor. Aber wir haben ja noch zwei weitere Gefangene.",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Der Typ kam mir sowieso ",
-				"ziemlich gerissen vor. Aber wir ",
-				"haben ja noch zwei weitere ",
-				"Gefangene."
+				"\\c[10]Sir Dolaros\\c[0]: The guy seemed pretty",
+				"smart anyway. But we still have",
+				"two more prisoners."
 			]
 		},
 		{
@@ -107,9 +102,9 @@
 			"original": "Sir Dolaros: Mit der Zeit werden die Lügen schon auffliegen und wir werden an die Wahrheit kommen.",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Mit der Zeit werden die ",
-				"Lügen schon auffliegen und wir ",
-				"werden an die Wahrheit kommen."
+				"\\c[10]Sir Dolaros\\c[0]: Over time, their lies",
+				"will be exposed and we WILL get",
+				"the truth."
 			]
 		},
 		{
@@ -117,8 +112,8 @@
 			"original": "Sir Dolaros: Gehe jetzt. Ich möchte meine Ruhe haben.",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Gehe jetzt. \\.",
-				"Ich möchte meine Ruhe haben."
+				"\\c[10]Sir Dolaros\\c[0]: Go now.\\. I want to be left",
+				"alone."
 			]
 		},
 		{
@@ -126,7 +121,7 @@
 			"original": "Wächter: Zu Befehl, Sir.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Zu Befehl, Sir."
+				"\\c[10]Guard\\c[0]: At your command, sir."
 			]
 		},
 		{
@@ -134,9 +129,9 @@
 			"original": "Sir Dolaros: Diese Verhöre werden auch nicht spannender. Wie ich dieses Drecksloch hasse.",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Diese Verhöre werden ",
-				"auch nicht spannender.\\. Wie ich ",
-				"dieses Drecksloch hasse. "
+				"\\c[10]Sir Dolaros\\c[0]: These interrogations",
+				"aren't going to get any more exciting.\\.",
+				"Oh how I hate this dump of a place."
 			]
 		}
 	]
