@@ -223,9 +223,9 @@
 			"original": "Seldan: ...Hören Sie mir zu. Ich habe meine eigene Ansicht der Dinge bekommen. Ich werde ihrem Befehl nicht mehr gehorchen.",
 			"lines":
 			[
-				"\\c[1]Seldan\\c[0]:\\s[2] Listen to me.\\. I've got my own",
-				"view of things.\\. I will no longer obey",
-				"your command."
+				"\\c[1]Seldan\\c[0]:\\s[2] Listen to me.\\. There's still",
+				"something I have to do.\\. I will no",
+				"longer obey your command."
 			]
 		},
 		{

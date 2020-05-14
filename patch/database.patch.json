@@ -35,8 +35,7 @@
 			"original": "Saion: Ver...Verdammt! Ich bin... am Ende!",
 			"lines":
 			[
-				"\\c[10]Saion:\\c[0] D...\\. Dammit!\\.",
-				"This is...\\. the end for me!"
+				"\\c[10]Saion:\\c[0] D...\\. Dammit!\\. This is...\\. the end for me!"
 			]
 		},
 		{
@@ -45,8 +44,7 @@
 			"original": "Jorn: Args... Es war von Anfang an aussichtslos!",
 			"lines":
 			[
-				"\\c[10]Jorn:\\c[0] Argh...\\. It was hopeless",
-				"from the start!"
+				"\\c[10]Jorn:\\c[0] Argh...\\. It was hopeless from the start!"
 			]
 		},
 		{
@@ -64,8 +62,7 @@
 			"original": "Cibon: Verflixt und zugenäht! Das Ding will nicht klein beigeben!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Dang it!\\. The thing isn't",
-				"letting up at all!"
+				"\\c[2]\\n[2]:\\c[0] Dang it!\\. The thing isn't letting up at all!"
 			]
 		},
 		{
@@ -92,8 +89,8 @@
 			"original": "Kento: Ich würde immer noch gerne wissen, wieso uns eine Harpyie genau HIER angreift...",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] I still want to know why a harpy",
-				"attacks us HERE of all places..."
+				"\\c[1]\\n[1]:\\c[0] I still want to know why a harpy attacks us",
+				"HERE of all places..."
 			]
 		},
 		{
@@ -138,8 +135,8 @@
 			"original": "Kento: Die Eier! Hol mal die Eier und leg sie vor dich hin.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] The eggs!\\. Get the eggs and put them out",
-				"in front of you."
+				"\\c[1]\\n[1]:\\c[0] The eggs!\\. Get the eggs and put them out in",
+				"front of you."
 			]
 		},
 		{
@@ -157,8 +154,7 @@
 			"original": "Kento: Jetzt sei nicht so zimperlich! Mach schon!",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Now this isn't the time to",
-				"fuss!\\. Come on!"
+				"\\c[1]\\n[1]:\\c[0] Now, this isn't the time to fuss!\\. Come on!"
 			]
 		},
 		{
