@@ -165,5 +165,10 @@
 				"that."
 			]
 		}
-	]
+	],
+	"replace":
+	{
+		"[10220,1,\"\",[0,16,16,0,0,9,0]]": "[10220,1,\"\",[0,16,16,0,0,17,0]]"
+	},
+	"__comment__": "There's an issue where having a battle in this map will display the Corine Plateau as the backdrop instead of the mine. That's because variable 16 (KS-BACKGROUND) is set to 9 instead of 17."
 }

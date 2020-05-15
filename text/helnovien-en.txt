@@ -349,18 +349,37 @@ Cibon: Tomorrow we're going to do our best, aren't we, buddy?
 Kento: You say it! The portions have to be bigger.
 Soko: ... so pitiful ...
 
+--- generic ---
+Kento: I'm still hungry... (sad)
+Cibon: Kento, you're always hungry... (wonder)
+Soko: I sometimes wonder how much you|normally eat. (wonder)
+Kento: ... (sad (eyes closed))
+---
+[12410,0,"||------------ Hier: RANDOM KOMMENTARE ZUM ESSEN ------||",[]]
+[12330,0,"",[0,119,0]]
+[10130,0,"FACE-Kento",[8,0,0]]
+[10110,0,"",[]]
+[10130,0,"FACE-Cibon",[15,0,0]]
+[10110,0,"",[]]
+[10130,0,"FACE-soko",[15,0,0]]
+[10110,0,"",[]]
+[20110,0,"",[]]
+[10130,0,"FACE-Kento",[11,0,0]]
+[10110,0,"",[]]
+[12330,0,"",[0,119,0]]
+---
 Cibon: There's barely anything to eat!
 Kento: ...so hungry...
-Soko: What'd they say again? That if we do badly in the mine, we won't get any food... They really were serious...
+Soko: Oh what'd they say again? That if we do badly in the mine, we won't get any food... They really were serious...
 Cibon: We gotta give it our all Kento, otherwise we won't last much longer!
 Kento: Yeah...
 Cibon: I'm still hungry... But I think I'll survive.
 Kento: I don't. I'm gonna starve to death tonight.
 Cibon: Pull yourself together, Kento! If you really want to have more food, we have to put a little more effort down in the mine.
-Soko: I thought it was enough... actually...
-Cibon: Hey, that was more than I expected. So I'm full.
-Kento: Well, that should be enough... to survive at least...
-Soko: Yeah, more than enough...
+Soko: I thought it was enough... really...
+Cibon: Hey, that was more than I expected. I'm full.
+Kento: Well, this should be enough... to survive at least...
+Soko: More than enough actually...
 Cibon: Whoa! I'm completely full! I never dreamed that they'd give us so much food!
 Cibon: Obviously, we did a very good job in the mine... Yep, that's how it works!
 Soko: Oh, I can't finish all of this... It's too much for me...
@@ -436,6 +455,7 @@ Soko: Telling you the truth may be harder at first, but it's the only way to end
 Cibon: Great, now I honestly don't know what to do.
 Kento: Maybe Soko is right, it could make more sense to simply say permanently that you don't know anything.
 Cibon: I think I'll decide when the time comes. Just tell me what you said to them.
+---
 Soko: I wonder what's going on outside. Did Brigantia find this group in the meantime?
 Kento: Such news should spread quickly, even here in prison ...
 Soko: If they discover the troop, it will probably be clear that we are not spies! Maybe we'll get out of here ...

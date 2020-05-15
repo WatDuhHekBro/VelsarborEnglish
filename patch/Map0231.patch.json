@@ -4103,7 +4103,8 @@
 				"Das ist voll toll jemanden zu haben, ",
 				"den man alles erzählen kann, \\.",
 				"wirklich!\\.\\s[2] Weißte, was mir hier\\^ "
-			]
+			],
+			"__comment__": "Psuedo Scrolling Text"
 		},
 		{
 			"path": [103,1,114,4],
@@ -4976,5 +4977,10 @@
 			"original": "HelnovZellen",
 			"patch": "Helnov Cafe"
 		}
-	]
+	],
+	"replace":
+	{
+		"[12410,0,\"||------------ Hier: RANDOM KOMMENTARE ZUM ESSEN ------||\",[]]": "[12410,0,\"||------------ Hier: RANDOM KOMMENTARE ZUM ESSEN ------||\",[]],[12330,0,\"\",[0,119,0]],[10130,0,\"FACE-Kento\",[8,0,0]],[10110,0,\"\",[]],[10130,0,\"FACE-Cibon\",[15,0,0]],[10110,0,\"\",[]],[10130,0,\"FACE-soko\",[15,0,0]],[10110,0,\"\",[]],[20110,0,\"\",[]],[10130,0,\"FACE-Kento\",[11,0,0]],[10110,0,\"\",[]],[12330,0,\"\",[0,119,0]]"
+	},
+	"__comment__": "In the data file itself, there's some generic dialogue about eating which is supposed to play if today and yesterday both land in the same area (the amount of food you get). While there's a comment left in the data, the actual dialogue wasn't implemented."
 }
