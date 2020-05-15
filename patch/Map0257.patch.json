@@ -6,7 +6,7 @@
 			"original": "Gefangener: Auf zur Arbeit...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Auf zur Arbeit..."
+				"\\c[10]Prisoner\\c[0]: Off to work..."
 			]
 		},
 		{
@@ -14,7 +14,7 @@
 			"original": "Gefangener: ...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: ..."
+				"\\c[10]Prisoner\\c[0]: ..."
 			]
 		},
 		{
@@ -22,8 +22,8 @@
 			"original": "Gefangener: Hoffentlich bekomme ich nicht schon wieder so eine stumpfe Hacke.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Hoffentlich bekomme ich nicht schon ",
-				"wieder so eine stumpfe Hacke."
+				"\\c[10]Prisoner\\c[0]: Hopefully I won't get such a blunt",
+				"pickaxe again."
 			]
 		},
 		{
@@ -31,9 +31,8 @@
 			"original": "Gefangener: Früher haben sie mehr Heilmittel ausgeteilt... Dabei ist es nicht so, dass die Monster nachlassen.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Früher haben sie mehr Heilmittel ",
-				"ausgeteilt...\\. Dabei ist es nicht so, dass die ",
-				"Monster nachlassen."
+				"\\c[10]Prisoner\\c[0]: They used to give out more provisions...\\.",
+				"And the monsters just don't go away."
 			]
 		},
 		{
@@ -41,9 +40,9 @@
 			"original": "Gefangener: Die schicken uns mit einem lausigem Stück Brot zur Mine. Die sollen sich nicht wundern, wenn wir schlechte Arbeit leisten.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Die schicken uns mit einem lausigem ",
-				"Stück Brot zur Mine.\\. Die sollen sich nicht ",
-				"wundern, wenn wir schlechte Arbeit leisten."
+				"\\c[10]Prisoner\\c[0]: They send us to the mine with a lousy",
+				"piece of bread.\\. So why are they surprised to",
+				"see lousy results?"
 			]
 		},
 		{
@@ -51,9 +50,10 @@
 			"original": "Wächter: Ihr sollt durch das Haus links von hier. Dort bekommt ihr eure Ausrüstung.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Ihr sollt durch das Haus links von hier. ",
-				"Dort bekommt ihr eure Ausrüstung."
-			]
+				"\\c[10]Guard\\c[0]: What are you still doing here? The cafe is",
+				"back at the prison, you won't find it here."
+			],
+			"__comment__": "This message only appears when you talk to the guard that gives out equipment after work."
 		},
 		{
 			"path": [22,2,14,2],
@@ -61,8 +61,8 @@
 			"original": "Wächter: Hey, ihr seid doch diejenigen, die gestern dazu kamen, richtig?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hey, ihr seid doch diejenigen, die ",
-				"gestern dazu kamen, richtig?"
+				"\\c[10]Guard\\c[0]: Hey, you're the ones who came in yesterday,",
+				"right?"
 			]
 		},
 		{
@@ -71,8 +71,8 @@
 			"original": "Wächter: Hey, ihr seid doch diejenigen, die gestern dazu kamen, richtig? Kommt mal hier rüber.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hey, ihr seid doch diejenigen, die ",
-				"gestern dazu kamen, richtig?\\. Kommt mal hier rüber."
+				"\\c[10]Guard\\c[0]: Hey, you're the ones who came in yesterday,",
+				"right?\\. Come over here."
 			]
 		},
 		{
@@ -81,8 +81,8 @@
 			"original": "Wächter: Oh. Zu viert diesmal? Nun, soll mir recht sein.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Oh. Zu viert diesmal?\\. Nun, soll mir recht ",
-				"sein."
+				"\\c[10]Guard\\c[0]: Oh. Four this time?\\. Well, that should be",
+				"fine."
 			]
 		},
 		{
@@ -90,7 +90,7 @@
 			"original": "Wächter: Hier eure Ausrüstung.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hier eure Ausrüstung."
+				"\\c[10]Guard\\c[0]: Here's your equipment."
 			]
 		},
 		{
@@ -98,9 +98,8 @@
 			"original": "Wächter: Und hier eure Heilmittel. Geht Sparsam damit um, wir sind hier keine Heilsarmee, verstanden?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Und hier eure Heilmittel.\\. Geht Sparsam ",
-				"damit um, wir sind hier keine Heilsarmee, ",
-				"verstanden?"
+				"\\c[10]Guard\\c[0]: And here are your provisions.\\. Use it",
+				"sparingly, we aren't a charity, you understand?"
 			]
 		},
 		{
@@ -109,10 +108,9 @@
 			"original": "Wächter: Hm, in letzter Zeit habt ihr eigentlich wirklich gute Arbeit geleistet. Ich denke, euch kann man dann auch eine Stange Dynamit anvertrauen.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hm, in letzter Zeit habt ihr eigentlich ",
-				"wirklich gute Arbeit geleistet.\\. Ich denke, euch ",
-				"kann man dann auch eine Stange Dynamit ",
-				"anvertrauen."
+				"\\c[10]Guard\\c[0]: Hm, you've been doing a really good job",
+				"lately.\\. I think you can be trusted with a stick",
+				"of dynamite."
 			]
 		},
 		{
@@ -121,10 +119,9 @@
 			"original": "Wächter: Ihr verwendet das NUR, um euch zu neuen Bereichen in der Mine vorzusprengen, verstanden? Haltet Ausschau nach brüchigen Stellen an den Felswänden.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Ihr verwendet das NUR, um euch zu neuen ",
-				"Bereichen in der Mine vorzusprengen, verstanden?\\.",
-				"\\c[11]Haltet Ausschau nach brüchigen Stellen an den ",
-				"Felswänden."
+				"\\c[10]Guard\\c[0]: You use this ONLY to explore new areas in",
+				"the mine, understand?\\. Look out for crumbling",
+				"spots on the walls."
 			]
 		},
 		{
@@ -133,10 +130,9 @@
 			"original": "Wächter: Und kommt ja nicht auf die Idee, unser Vertrauen auszunutzen. Wenn ihr irgendeinen Mist mit dem Dynamit anstellt, wird das harte Konsequenzen haben!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Und kommt ja nicht auf die Idee, unser ",
-				"Vertrauen auszunutzen.\\. Wenn ihr irgendeinen Mist ",
-				"mit dem Dynamit anstellt, wird das harte ",
-				"Konsequenzen haben!"
+				"\\c[10]Guard\\c[0]: And don't even think of taking advantage of",
+				"our trust.\\. If you mess with the dynamite, there'll",
+				"be harsh consequences!"
 			]
 		},
 		{
@@ -145,9 +141,9 @@
 			"original": "Wächter: So... heute bekommt ihr wieder eine Stange Dynamit für Sprengungen. Geht vorsichtig damit um und baut ja keinen Mist!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: So...\\. heute bekommt ihr wieder eine ",
-				"Stange Dynamit für Sprengungen.\\. Geht vorsichtig ",
-				"damit um und baut ja keinen Mist!"
+				"\\c[10]Guard\\c[0]: Today you'll get another stick of dynamite",
+				"for exploration purposes only.\\. Be careful with it",
+				"and don't mess around!"
 			]
 		},
 		{
@@ -155,8 +151,8 @@
 			"original": "Wächter: Dann raus mit euch. Schnappt euch ne Lore und bringt ja genug Erz zurück!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Dann raus mit euch.\\. Schnappt euch ne ",
-				"Lore und bringt ja genug Erz zurück!"
+				"\\c[10]Guard\\c[0]: Now get out of here.\\. Take a cart and bring",
+				"back enough ore!"
 			]
 		},
 		{
@@ -164,8 +160,7 @@
 			"original": "Wächter: Eure Ausrüstung und übrigen Heilmittel, bitte.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Eure Ausrüstung und übrigen Heilmittel, ",
-				"bitte."
+				"\\c[10]Guard\\c[0]: Your equipment and other provisions."
 			]
 		},
 		{
@@ -174,10 +169,10 @@
 			"original": "Wächter: Das war euer erster Tag, oder? Ihr bekommt jetzt etwas zu essen. Geht den Weg zurück zu euren Zellen. Ihr werden dann schon merken, wo der Esssaal ist.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Das war euer erster Tag, oder?\\. Ihr ",
-				"bekommt jetzt etwas zu essen.\\. Geht den Weg zurück ",
-				"zu euren Zellen.\\. Ihr werden dann schon merken, wo ",
-				"der Esssaal ist."
+				"\\c[10]Guard\\c[0]: Today's your first day, isn't it?\\. Now it's",
+				"time to get something to eat.\\. Go back all the way",
+				"to the cells.\\. You'll then notice where the cafe",
+				"is."
 			]
 		},
 		{
@@ -186,7 +181,7 @@
 			"original": "Wächter: Hey, wartet mal eben!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hey, wartet mal eben!"
+				"\\c[10]Guard\\c[0]: Hey, wait a minute!"
 			]
 		},
 		{
@@ -195,7 +190,7 @@
 			"original": "Wächter: Kommt noch mal hierher!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Kommt noch mal hierher!"
+				"\\c[10]Guard\\c[0]: Get back here!"
 			]
 		},
 		{
@@ -204,9 +199,8 @@
 			"original": "Wächter: Ihr hab da noch etwas bei euch, stimmts? Ihr glaub doch nicht wirklich, dass wir euch damit durch lassen!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Ihr hab da noch etwas bei euch, stimmts?\\.",
-				"Ihr glaub doch nicht wirklich, dass wir euch damit ",
-				"durch lassen!"
+				"\\c[10]Guard\\c[0]: You've still got something, don't you?\\.",
+				"Don't think we'll let you get away with it!"
 			]
 		},
 		{
@@ -215,8 +209,8 @@
 			"original": "Wächter: Lasst euch das eine Lehre sein. Wagt es nicht uns übers Kreuz zu legen.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Lasst euch das eine Lehre sein. Wagt es ",
-				"nicht uns übers Kreuz zu legen."
+				"\\c[10]Guard\\c[0]: Let that be a lesson. Don't you dare try",
+				"anything behind our backs."
 			]
 		},
 		{
@@ -225,9 +219,8 @@
 			"original": "Felcis: Das war jetzt ein ziemlicher Reinfall... Naja, versuchen wir es die nächsten Tage nochmal.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Das war jetzt ein ziemlicher ",
-				"Reinfall...\\. Naja, versuchen wir es ",
-				"die nächsten Tage nochmal."
+				"\\c[5]\\n[5]\\c[0]: That was a bit of a disappointment...\\.",
+				"Well, let's try again in the next few days."
 			]
 		},
 		{
@@ -236,8 +229,8 @@
 			"original": "Felcis: In dem Lagerbereich sollte ja noch etwas Pulver sein.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: In dem Lagerbereich sollte ",
-				"ja noch etwas Pulver sein. "
+				"\\c[5]\\n[5]\\c[0]: There should still be some of that powder",
+				"in the storage area."
 			]
 		},
 		{
@@ -247,8 +240,8 @@
 			"lines":
 			[
 				"",
-				"Ihr leistet gute Arbeit.\\. Das Vertrauen der Wachen ",
-				"zu euch hat sich verbessert!"
+				"You're doing a good job.\\. The guards' trust in you",
+				"has improved!"
 			]
 		},
 		{
@@ -258,8 +251,8 @@
 			"lines":
 			[
 				"",
-				"Ihr müsst härter arbeiten.\\. Das Vertrauen der ",
-				"Wachen zu euch hat sich verschlechtert."
+				"You have to work harder.\\. The guards' trust in you",
+				"has deteriorated."
 			]
 		},
 		{
@@ -267,8 +260,8 @@
 			"original": "Wächter: Soll ich euch die Regeln hier verklickern?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Soll ich euch die Regeln hier ",
-				"verklickern?"
+				"\\c[10]Guard\\c[0]: Do I need to clear up the rules here for",
+				"you?"
 			]
 		},
 		{
@@ -277,10 +270,9 @@
 			"original": "Wächter: Okay, ich nehm' mal an, dass ihr in einer Gruppe arbeiten werdet. Das Werkzeug für die Minenarbeit bekommt ihr hier und gebt ihr hier auch wieder ab, verstanden?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Okay, ich nehm' mal an, dass ihr in einer ",
-				"Gruppe arbeiten werdet.\\. Das Werkzeug für die ",
-				"Minenarbeit bekommt ihr hier und gebt ihr hier ",
-				"auch wieder ab, verstanden?"
+				"\\c[10]Guard\\c[0]: Okay, I'll assume you three are working in",
+				"a group.\\. Get your mining equipment here and hand",
+				"them back when you're done, understand?"
 			]
 		},
 		{
@@ -289,10 +281,10 @@
 			"original": "Wächter: Wenn ihr die Mine betretet bekommt ihr eine Lore, mit der ihr die Mine runter fährt. Dabei gibt es mehrere Abschnitte, zu denen ihr fährt.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wenn ihr die Mine betretet bekommt ihr ",
-				"eine Lore, mit der ihr die Mine runter fährt. \\.",
-				"Dabei gibt es mehrere Abschnitte, zu denen ihr ",
-				"fährt."
+				"\\c[10]Guard\\c[0]: When you enter the mine, you'll get a",
+				"minecart which'll help you move down into the",
+				"mine.\\. There are several sections that you can",
+				"go to."
 			]
 		},
 		{
@@ -301,10 +293,10 @@
 			"original": "Wächter: In welchem ihr landet hängt davon ab, welche Richtung ihr bei den Weichen einschlägt. Welche Richtung das ist, könnt ihr übrigens während der Fahrt selber entscheiden.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: In welchem ihr landet hängt davon ab, ",
-				"welche Richtung ihr bei den Weichen einschlägt. \\.",
-				"Welche Richtung das ist, könnt ihr übrigens ",
-				"während der Fahrt selber entscheiden."
+				"\\c[10]Guard\\c[0]: Where you end up depends on which",
+				"directions you take at the junctions.\\. You",
+				"can decide which directions to take while",
+				"driving by the way."
 			]
 		},
 		{
@@ -313,8 +305,8 @@
 			"original": "Wächter: Seid ihr einmal unten angekommen, heißt es: Erz abbauen.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Seid ihr einmal unten angekommen, heißt ",
-				"es:\\. Erz abbauen. "
+				"\\c[10]Guard\\c[0]: Once you've reached the bottom, it all",
+				"boils down to one thing.\\. Mining ore."
 			]
 		},
 		{
@@ -323,10 +315,9 @@
 			"original": "Wächter: Erz erkennt ihr an den leicht bläulich leuchten Stellen an den Felswänden. Geht zu diesen Stellen und verwendet eure Spitzhacken, um das Erz abzubauen.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Erz erkennt ihr an den leicht bläulich ",
-				"leuchten Stellen an den Felswänden.\\. Geht zu diesen ",
-				"Stellen und verwendet eure Spitzhacken,\\. um das Erz ",
-				"abzubauen."
+				"\\c[10]Guard\\c[0]: You can recognize ore by the slightly",
+				"bluish spots on the rock walls.\\. Go to these",
+				"spots and use your pickaxes to mine the ore."
 			]
 		},
 		{
@@ -335,10 +326,10 @@
 			"original": "Wächter: Wenn ihr gute Arbeit leisten wollt, solltet ihr allerdings nicht zu lange an einer Stelle bleiben. Das Erz wird nachlassen und immer schwerer abzubauen sein.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wenn ihr gute Arbeit leisten wollt, ",
-				"solltet ihr allerdings nicht zu lange an einer ",
-				"Stelle bleiben.\\. Das Erz wird nachlassen und immer ",
-				"schwerer abzubauen sein."
+				"\\c[10]Guard\\c[0]: If you want to do a good job, you shouldn't",
+				"stay in one place for too long.\\. The amount of ore",
+				"will diminish and become increasingly difficult",
+				"to mine."
 			]
 		},
 		{
@@ -347,8 +338,8 @@
 			"original": "Wächter: Sucht euch also ständig neue Stellen, um mehr Erz abbauen zu können.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Sucht euch also ständig neue Stellen, um ",
-				"mehr Erz abbauen zu können."
+				"\\c[10]Guard\\c[0]: So keep looking out for new spots to mine",
+				"more ore."
 			]
 		},
 		{
@@ -357,10 +348,10 @@
 			"original": "Wächter: Solltet ihr kein Erz mehr tragen können, geht zu dem Haltepunkt eurer Lore, um dort das Erz abzugeben.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Solltet ihr kein Erz mehr tragen können, ",
-				"geht zu dem Haltepunkt eurer Lore, um dort das Erz ",
-				"abzugeben. "
-			]
+				"\\c[10]Guard\\c[0]: If you can't carry any more ore, go to the",
+				"stop at the railways and drop off the ore."
+			],
+			"__comment__": "99 is the limit."
 		},
 		{
 			"path": [23,1,42,4],
@@ -368,10 +359,10 @@
 			"original": "Wächter: Ach ja, noch ein Wort der Warnung: Ihr Minenarbeiter seid nicht ganz alleine da unten. Dort treibt sich leider noch so einiges an Ungetier rum, das wir einfach nicht loswerden.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Ach ja, noch ein Wort der Warnung:\\. Ihr ",
-				"Minenarbeiter seid nicht ganz alleine da unten.\\. ",
-				"Dort treibt sich leider noch so einiges an ",
-				"Ungetier rum, das wir einfach nicht loswerden."
+				"\\c[10]Guard\\c[0]: Oh, one more word of warning.\\. You miners",
+				"aren't all alone down there.\\. Unfortunately, there",
+				"are still a lot of monsters hanging around there",
+				"that we simply can't get rid of."
 			]
 		},
 		{
@@ -380,10 +371,9 @@
 			"original": "Wächter: Ihr bekommt deshalb von uns ein paar Heilmittel spendiert, falls es zu Angriffen kommen sollte. Nach Feierabend werden aber auch diese hier abgegeben!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Ihr bekommt deshalb von uns ein paar ",
-				"Heilmittel spendiert, falls es zu Angriffen kommen ",
-				"sollte.\\. Nach Feierabend werden aber auch diese ",
-				"hier abgegeben!"
+				"\\c[10]Guard\\c[0]: You'll therefore receive some provisions",
+				"from us if you get attacked.\\. After work, these",
+				"will also be handed back!"
 			]
 		},
 		{
@@ -392,7 +382,7 @@
 			"original": "Wächter: Also dann macht mal eure Arbeit, los!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Also dann macht mal eure Arbeit, los!"
+				"\\c[10]Guard\\c[0]: So get to it then!"
 			]
 		},
 		{
@@ -401,9 +391,8 @@
 			"original": "Wächter: In Ordnung, aber kommt nachher nicht zu mir, wenn es Probleme gibt oder ihr etwas nicht versteht!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: In Ordnung, aber kommt nachher nicht zu ",
-				"mir, wenn es Probleme gibt oder ihr etwas nicht ",
-				"versteht!"
+				"\\c[10]Guard\\c[0]: Alright, but don't come to me later if you",
+				"have problems or you don't understand something!"
 			]
 		}
 	],

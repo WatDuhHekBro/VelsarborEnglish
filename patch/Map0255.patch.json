@@ -6,9 +6,9 @@
 			"original": "Wache: Passt auf, in diesem Bereich tauchen hin und wieder Monster auf. Ihr solltet besser fliehen, wenn ihr mit denen nicht fertig werdet.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Passt auf, in diesem Bereich tauchen hin ",
-				"und wieder Monster auf.\\. Ihr solltet besser ",
-				"fliehen, wenn ihr mit denen nicht fertig werdet."
+				"\\c[10]Guard\\c[0]: Careful out there, monsters appear in this",
+				"area every now and then.\\. You'd better escape if",
+				"you can't deal with them."
 			]
 		},
 		{
@@ -16,10 +16,9 @@
 			"original": "Gefangener: Wo kam bloß auf einmal dieses Wasser her? Ich hätt' schwören können, vor einigen Tagen konnte man hier noch frei und unbeschwert durchlaufen...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Wo kam bloß auf einmal dieses Wasser ",
-				"her?\\. Ich hätt' schwören können, vor einigen Tagen ",
-				"konnte man hier noch frei und unbeschwert ",
-				"durchlaufen..."
+				"\\c[10]Prisoner\\c[0]: Where'd all this water come from?\\.",
+				"Could've sworn I could still walk freely without",
+				"a care over here just a few days ago..."
 			]
 		},
 		{
@@ -27,10 +26,9 @@
 			"original": "Gefangene: Wie kam bitte diese Person da drüben über das Wasser? Ist sie etwas einfach durchgeschwommen? Manche Leute können es wirklich übertreiben...",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Wie kam bitte diese Person da drüben ",
-				"über das Wasser?\\. Ist sie etwas einfach ",
-				"durchgeschwommen?\\. Manche Leute können es wirklich ",
-				"übertreiben..."
+				"\\c[10]Prisoner\\c[0]: How'd that person get over the water",
+				"over there?\\. Did he just swim a bit?\\. Some people",
+				"really can go way too far with this mining..."
 			]
 		},
 		{
@@ -38,9 +36,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -48,9 +46,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -59,10 +57,10 @@
 			"original": "Pauamainer-Miglied: Du hast es echt zustande gebracht, das Wasser abfließen zu lassen. Respekt! Jetzt komme ich endlich zu dieser Erzstelle, ohne schwimmen zu müssen, danke sehr!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Du hast es echt zustande ",
-				"gebracht, das Wasser abfließen zu lassen.\\. Respekt!\\.",
-				"Jetzt komme ich endlich zu dieser Erzstelle, ohne ",
-				"schwimmen zu müssen, danke sehr! "
+				"\\c[10]Pauamainer Member\\c[0]: You actually managed to drain",
+				"the water away.\\. Respect!\\. Now I can finally come",
+				"to this ore deposit without having to swim,",
+				"thanks a ton!"
 			]
 		},
 		{
@@ -71,8 +69,8 @@
 			"original": "Pauamainer-Miglied: Ach ja, natürlich bekommste dafür einen Ordnen.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Ach ja, natürlich bekommste ",
-				"dafür einen Ordnen."
+				"\\c[10]Pauamainer Member\\c[0]: Oh right, of course you'll get",
+				"a medallion for it."
 			]
 		},
 		{
@@ -81,10 +79,9 @@
 			"original": "Pauamainer-Miglied: Ihr guckt so verdutzt. Wenn ihr mehr über uns und die Minen-Orden erfahren wollt, besucht einfach unseren Stützpunkt.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Ihr guckt so verdutzt.\\. Wenn ",
-				"ihr mehr über uns und die Minen-Orden ",
-				"erfahren wollt, besucht einfach unseren ",
-				"Stützpunkt."
+				"\\c[10]Pauamainer Member\\c[0]: You look so confused.\\. If you",
+				"want to learn more about us and the miner",
+				"medallions, just visit our base."
 			]
 		},
 		{
@@ -93,10 +90,9 @@
 			"original": "Pauamainer-Miglied: Dieser befindet sich im mittleren Bereich der Mine. Fahrt beim nächsten Mal mit der Lore einfach rechts und dann geradeaus.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Dieser befindet sich im ",
-				"mittleren Bereich der Mine.\\. Fahrt beim nächsten ",
-				"Mal mit der Lore einfach rechts und dann ",
-				"geradeaus."
+				"\\c[10]Pauamainer Member\\c[0]: It's located at the center of",
+				"the mine.\\. Next time on the railways, just go",
+				"right and then straight."
 			]
 		},
 		{
@@ -105,7 +101,7 @@
 			"original": "Pauamainer-Miglied: Glück auf!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Glück auf!"
+				"\\c[10]Pauamainer Member\\c[0]: Good luck!"
 			]
 		},
 		{
@@ -114,10 +110,10 @@
 			"original": "Pauamainer-Miglied: Hm... jetzt, wo das Wasser weg ist, kann an sich jeder Minenarbeiter leicht zu dieser Stelle gelangen. Oh, oh. Wahrscheinlich muss ich mir bald etwas Neues suchen.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Hm...\\. jetzt, wo das Wasser ",
-				"weg ist, kann an sich jeder Minenarbeiter leicht ",
-				"zu dieser Stelle gelangen.\\. Oh, oh.\\. Wahrscheinlich ",
-				"muss ich mir bald etwas Neues suchen."
+				"\\c[10]Pauamainer Member\\c[0]: Hm...\\. Now that the water is",
+				"gone, every miner can easily get to this point.\\.",
+				"Uh oh.\\. I'll probably have to find someplace",
+				"new very soon."
 			]
 		}
 	]

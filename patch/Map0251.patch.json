@@ -7,10 +7,9 @@
 			"original": "Wache: Hey! Ihr seid aber ganz schön spät dran, oder? Ihr solltet schnell die Schienen entlang zurückgehen, bis ihr wieder an der Oberfläche seid.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Hey! Ihr seid aber ganz schön spät dran, ",
-				"oder?\\. Ihr solltet schnell die Schienen entlang ",
-				"zurückgehen, bis ihr wieder an der Oberfläche ",
-				"seid."
+				"\\c[10]Guard\\c[0]: Hey!\\. You're pretty late, right?\\. You should",
+				"quickly walk back along the railways until you're",
+				"back on the surface."
 			]
 		},
 		{
@@ -19,7 +18,7 @@
 			"original": "Wache: Von hier aus nach unten...",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Von hier aus nach unten..."
+				"\\c[10]Guard\\c[0]: You have to go down from here..."
 			]
 		},
 		{
@@ -28,9 +27,9 @@
 			"original": "Wache:  Hey, ihr sollt hier nicht rumlungern. Hier werdet ihr kein Erz finden, das ist schon seit Langem abgebaut.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]:  Hey, ihr sollt hier nicht rumlungern. Hier ",
-				"werdet ihr kein Erz finden, das ist schon seit ",
-				"Langem abgebaut. "
+				"\\c[10]Guard\\c[0]: Hey, you shouldn't be hanging around here.",
+				"You won't find any ore here, this area has been",
+				"mined out for a long time."
 			]
 		}
 	]

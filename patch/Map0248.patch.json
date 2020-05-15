@@ -6,8 +6,8 @@
 			"original": "(Kento: Die Felswand scheint hier brüchig zu sein.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Die Felswand scheint hier ",
-				"brüchig zu sein.)"
+				"(\\c[1]\\n[1]\\c[0]: This part of the wall looks",
+				"like it's crumbling.)"
 			]
 		},
 		{
@@ -16,7 +16,7 @@
 			"original": "Dynamit verwenden?",
 			"lines":
 			[
-				"Dynamit verwenden?"
+				"Use your dynamite here?"
 			]
 		},
 		{

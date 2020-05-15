@@ -6,9 +6,9 @@
 			"original": "Gefangener: Seht ihr diese etwas bröckelige Felswand dort links von mir? Früher war da mal ein Durchgang, aber er ist zusammengefallen.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Seht ihr diese etwas bröckelige ",
-				"Felswand dort links von mir?\\. Früher war da mal ein ",
-				"Durchgang, aber er ist zusammengefallen."
+				"\\c[10]Prisoner\\c[0]: Do you see that crumbling wall there to",
+				"my left?\\. There used to be a passage, but it",
+				"collapsed."
 			]
 		},
 		{
@@ -16,10 +16,10 @@
 			"original": "Gefangener: Und niemand kommt dazu, es aufzusprengen. Die Gefangenen haben nicht das Dynamit und für die Wachen ist Minenarbeit ein Fremdwort.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Und niemand kommt dazu, es ",
-				"aufzusprengen.\\. Die Gefangenen haben nicht das ",
-				"Dynamit und für die Wachen ist Minenarbeit ein ",
-				"Fremdwort."
+				"\\c[10]Prisoner\\c[0]: And nobody gets to blow it up.\\. Us",
+				"prisoners don't have the dynamite and trying",
+				"to reason with the guards is like talking to",
+				"a brick wall."
 			]
 		},
 		{
@@ -27,9 +27,8 @@
 			"original": "Gefangener: Dabei befanden sich reiche Erz- Vorkommen in dem Bereich, wenn ich mich recht erinnere.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Dabei befanden sich reiche Erz-",
-				"Vorkommen in dem Bereich, wenn ich mich recht ",
-				"erinnere."
+				"\\c[10]Prisoner\\c[0]: There were rich ore deposits in the area",
+				"if I remember correctly."
 			]
 		},
 		{
@@ -37,10 +36,9 @@
 			"original": "Gefangener: Ohje, diese Arbeit... Junge, lass mich dir einen Tipp geben. Überanstrenge dich nicht. Das Einzige, was du davon hast ist Kreuzweh am Abend.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Ohje, diese Arbeit...\\. Junge, lass mich",
-				"dir einen Tipp geben.\\. Überanstrenge dich nicht. \\.",
-				"Das Einzige, was du davon hast ist Kreuzweh am ",
-				"Abend."
+				"\\c[10]Prisoner\\c[0]: Oh my, this work...\\. Let me give you a",
+				"tip.\\. Don't overexert yourself.\\. The only thing you",
+				"get from it is a bunch of pain in the evening."
 			]
 		},
 		{
@@ -48,10 +46,9 @@
 			"original": "Gefangener: Ihr solltet euch nicht zu weit von den anderen Minenarbeiten entfernen. In den Randgebieten, wo weniger Leute arbeiten, tauchen immer wieder diese nervigen Biester auf.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Ihr solltet euch nicht zu weit von den ",
-				"anderen Minenarbeiten entfernen.\\. In den ",
-				"Randgebieten, wo weniger Leute arbeiten, tauchen ",
-				"immer wieder diese nervigen Biester auf."
+				"\\c[10]Prisoner\\c[0]: You shouldn't go too far from the other",
+				"miners.\\. Out there, where fewer people work, these",
+				"annoying monsters keep showing up."
 			]
 		},
 		{
@@ -59,8 +56,8 @@
 			"original": "(Kento: Die Felswand scheint hier brüchig zu sein.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Die Felswand scheint hier ",
-				"brüchig zu sein.)"
+				"(\\c[1]\\n[1]\\c[0]: This part of the wall looks",
+				"like it's crumbling.)"
 			]
 		},
 		{
@@ -69,7 +66,7 @@
 			"original": "Dynamit verwenden?",
 			"lines":
 			[
-				"Dynamit verwenden?"
+				"Use your dynamite here?"
 			]
 		},
 		{
@@ -86,9 +83,9 @@
 			"original": "Gefangener: ... ... oh? Tut mir Leid, wenn ich Erz hacke verfalle ich manchmal in Gedanken und bekomme gar nichts von meiner Umgebung mit...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: ...\\. ...\\. oh?\\. Tut mir Leid, wenn ich Erz ",
-				"hacke verfalle ich manchmal in Gedanken und ",
-				"bekomme gar nichts von meiner Umgebung mit..."
+				"\\c[10]Prisoner\\c[0]: .\\..\\..\\.Huh?\\. I'm sorry, when I'm mining ore,",
+				"I sometimes get lost in my thoughts and don't",
+				"even notice my surroundings..."
 			]
 		},
 		{
@@ -96,9 +93,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -106,10 +103,9 @@
 			"original": "Gefangene: Seid ihr schon mal diesen ekligen, bläulichen Würmern übern Weg gelaufen? Diese Viecher beherrschen Signum wie die Erzmagier aus Domarkor, sag'sch dir.",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Seid ihr schon mal diesen ekligen, ",
-				"bläulichen Würmern übern Weg gelaufen?\\. Diese ",
-				"Viecher beherrschen Signum wie die Erzmagier aus ",
-				"Domarkor, sag'sch dir."
+				"\\c[10]Prisoner\\c[0]: Have you ever run into these nasty,",
+				"bluish worms?\\. These monsters wield Signum like",
+				"the archmages from Domarkor I tell you."
 			]
 		},
 		{
@@ -117,8 +113,7 @@
 			"original": "Gefangene: Ihr solltet euch besser nicht mit ihnen anlegen...",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Ihr solltet euch besser nicht mit ",
-				"ihnen anlegen..."
+				"\\c[10]Prisoner\\c[0]: You'd better not mess with them..."
 			]
 		},
 		{
@@ -127,9 +122,8 @@
 			"original": "Felcis: Würmer, die so stark zaubern wie unsere Erzmagier? Das sind Neuigkeiten!",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Würmer, die so stark zaubern ",
-				"wie unsere Erzmagier?\\. Das sind ",
-				"Neuigkeiten! "
+				"\\c[5]\\n[5]\\c[0]: Worms that wield magic like",
+				"our archmages?\\. That's news to me!"
 			]
 		},
 		{
@@ -138,9 +132,8 @@
 			"original": "Felcis: Unsere Patricia des Signums wird das mit Sicherheit interessieren.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Unsere Patricia des Signums ",
-				"wird das mit Sicherheit ",
-				"interessieren."
+				"\\c[5]\\n[5]\\c[0]: Our Patrician of Signums will",
+				"certainly be interested in that."
 			]
 		},
 		{
@@ -149,10 +142,9 @@
 			"original": "Felcis: Solche Würmer sind mit Sicherheit kostengünstiger zu halten als dieses anspruchsvolle Pack von Zauberern.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Solche Würmer sind mit ",
-				"Sicherheit kostengünstiger zu ",
-				"halten als dieses anspruchsvolle ",
-				"Pack von Zauberern."
+				"\\c[5]\\n[5]\\c[0]: Such worms are definitely",
+				"cheaper to keep than this",
+				"sophisticated pack of wizards."
 			]
 		},
 		{
@@ -161,7 +153,8 @@
 			"original": "Soko: Da denkt jemand sehr lukrativ.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Da denkt jemand sehr lukrativ."
+				"\\c[13]\\n[3]\\c[0]: Someone's thinking very",
+				"lucratively."
 			]
 		},
 		{
@@ -170,9 +163,9 @@
 			"original": "Felcis: Tja, ja. Unser Reichtum ist nicht mehr das, was er vor 10 Jahren zu sein pflegte, Fräulein Filaja.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Tja, ja. Unser Reichtum ist ",
-				"nicht mehr das, was er vor 10 Jahren ",
-				"zu sein pflegte, Fräulein Filaja."
+				"\\c[5]\\n[5]\\c[0]: Well, yes. Our wealth is no",
+				"longer what it used to be 10 years",
+				"ago, Ms. Filaja."
 			]
 		},
 		{
@@ -180,8 +173,7 @@
 			"original": "Gefangener: Sprich gefälligst jemand anderen an, ich bin beschäftigt.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Sprich gefälligst jemand anderen an, ",
-				"ich bin beschäftigt."
+				"\\c[10]Prisoner\\c[0]: Go talk to someone else, I'm busy."
 			]
 		},
 		{
@@ -189,9 +181,8 @@
 			"original": "Wache: Macht eure Arbeit ja gut. Falls nicht, haben wir genug Methoden, euch entsprechend zu \"motivieren\".",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Macht eure Arbeit ja gut. Falls nicht, ",
-				"haben wir genug Methoden, euch entsprechend zu ",
-				"\"motivieren\"."
+				"\\c[10]Guard\\c[0]: Do your job well. If not, we have enough",
+				"methods to \"motivate\" you accordingly."
 			]
 		}
 	],
@@ -200,17 +191,17 @@
 		{
 			"path": [40,1,21],
 			"original": "Ja/Nein",
-			"patch": "Ja/Nein"
+			"patch": "Yes/No"
 		},
 		{
 			"path": [40,1,22],
 			"original": "Ja",
-			"patch": "Ja"
+			"patch": "Yes"
 		},
 		{
 			"path": [40,1,71],
 			"original": "Nein",
-			"patch": "Nein"
+			"patch": "No"
 		}
 	]
 }

@@ -6,9 +6,9 @@
 			"original": "Gefangener: Hinter diesem Durchgang wirst du wahrscheinlich kaum noch Erz finden. Für die Größe ist dort einfach immer zuviel Betrieb...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Hinter diesem Durchgang wirst du ",
-				"wahrscheinlich kaum noch Erz finden. Für die Größe ",
-				"ist dort einfach immer zuviel Betrieb..."
+				"\\c[10]Prisoner\\c[0]: You'll hardly find any ore behind that",
+				"opening. There's always too much going on for",
+				"that small of an area..."
 			]
 		},
 		{
@@ -16,10 +16,10 @@
 			"original": "Gefangene: Dies ist der einzige Bereich in dem ich mich relativ wohl fühl. Hier ist die Höhle schön groß und weit... In den anderen Bereichen bekomme ich immer Platzangst...",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Dies ist der einzige Bereich in dem ich ",
-				"mich relativ wohl fühl.\\. Hier ist die Höhle schön ",
-				"groß und weit...\\. In den anderen Bereichen bekomme ",
-				"ich immer Platzangst..."
+				"\\c[10]Prisoner\\c[0]: This is the only area where I feel even",
+				"slightly comfortable.\\. Here, the cave is nice and",
+				"big...\\. In the other areas, I always get",
+				"claustrophobia..."
 			]
 		},
 		{
@@ -27,10 +27,10 @@
 			"original": "Gefangener: Dieser Erz-Abbau-Bereich ist was für Kletterbegeisterte, für die keine Höhe hoch genug ist. Ich meine, schau dir nur mal diese Verrückten da oben an!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Dieser Erz-Abbau-Bereich ist was für ",
-				"Kletterbegeisterte, für die keine Höhe hoch genug ",
-				"ist.\\. Ich meine,\\. schau dir nur mal diese Verrückten ",
-				"da oben an!"
+				"\\c[10]Prisoner\\c[0]: This area of the mine is for climbing",
+				"enthusiasts, those for who no height is high",
+				"enough.\\. I mean,\\. just look at those crazy",
+				"people up there!"
 			]
 		},
 		{
@@ -39,8 +39,8 @@
 			"original": "Cibon: Juhu! Klippen! Los lass uns ganz nach oben klettern, Kumpel!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Juhu!\\. Klippen!\\. Los lass uns ",
-				"ganz nach oben klettern, Kumpel!"
+				"\\c[2]\\n[2]\\c[0]: Yeah!\\. Cliffs!\\. Let's go to the",
+				"top, Kento!"
 			]
 		},
 		{
@@ -49,9 +49,8 @@
 			"original": "Kento: Wie kannst du in so einer Situation bloß so eine Begeisterung rausschlagen?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wie kannst du in so einer ",
-				"Situation bloß so eine Begeisterung ",
-				"rausschlagen?"
+				"\\c[1]\\n[1]\\c[0]: How can you gather this",
+				"enthusiasm in such a situation?"
 			]
 		},
 		{
@@ -60,8 +59,7 @@
 			"original": "Soko: Wahrscheinlich der Trieb eines Entdeckers.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wahrscheinlich der Trieb eines ",
-				"Entdeckers. "
+				"\\c[13]\\n[3]\\c[0]: Probably an adventurer's drive."
 			]
 		},
 		{
@@ -70,9 +68,9 @@
 			"original": "Soko: Mal sehen wie er sich in ein paar Wochen verhält, wenn uns jede Ecke der Mine bekannt ist.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Mal sehen wie er sich in ein ",
-				"paar Wochen verhält, wenn uns jede ",
-				"Ecke der Mine bekannt ist."
+				"\\c[13]\\n[3]\\c[0]: We'll see how well he does in a",
+				"few weeks when we know every corner",
+				"of the mine."
 			]
 		},
 		{
@@ -80,10 +78,9 @@
 			"original": "Gefangener: Da hoch? Nein danke, das ist mir zu gefährlich. Es ist nicht so, dass sich irgendjemand groß um dich kümmert, wenn du dir ein Bein brichst.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Da hoch?\\. Nein danke, das ist mir zu ",
-				"gefährlich.\\. Es ist nicht so, dass sich ",
-				"irgendjemand groß um dich kümmert, wenn du dir ein ",
-				"Bein brichst."
+				"\\c[10]Prisoner\\c[0]: Up there?\\. No thanks, that's too",
+				"dangerous for me.\\. It's not like anyone cares",
+				"about you if you break your leg."
 			]
 		},
 		{
@@ -91,10 +88,10 @@
 			"original": "Gefangener: Ha, auch einer von denen, die ganz nach oben kommen? Schön, schön! Ich war schon früher begeisterter Bergsteigerer und ich mach es immer wieder gerne!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Ha, auch einer von denen, die ganz ",
-				"nach oben kommen?\\. Schön, schön! \\.Ich war schon ",
-				"früher begeisterter Bergsteigerer und ich mach es ",
-				"immer wieder gerne!"
+				"\\c[10]Prisoner\\c[0]: Ha, you're also someone who can get to",
+				"the top?\\. Good, good!\\. I was an enthusiastic",
+				"mountaineer before and I'll always enjoy",
+				"being one!"
 			]
 		},
 		{
@@ -102,10 +99,9 @@
 			"original": "Gefangener: ... Ich klettere immer bis hier nach oben, um Ruhe vor all den anderen Leuten zu haben, aber mittlerweile scheint das ja nicht mehr zu funktionieren...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: ...\\. Ich klettere immer bis hier nach ",
-				"oben, um Ruhe vor all den anderen Leuten zu haben, ",
-				"aber mittlerweile scheint das ja nicht mehr zu ",
-				"funktionieren..."
+				"\\c[10]Prisoner\\c[0]: I always climb up here to stay calm in",
+				"front of all the other people, but now that",
+				"doesn't seem to work anymore..."
 			]
 		},
 		{
@@ -113,9 +109,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -123,9 +119,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -133,9 +129,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -143,9 +139,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -153,9 +149,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -163,9 +159,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -173,10 +169,10 @@
 			"original": "Wache: Es gab tatsächlich Gefangene, die dachten, sie könnten sich zusammentun, sich in der Mine verschanzen und sich uns widersetzen. Nun, die Vergangenheit hat gezeigt, dass das nicht hinhaut",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Es gab tatsächlich Gefangene, die dachten, ",
-				"sie könnten sich zusammentun, sich in der Mine ",
-				"verschanzen und sich uns widersetzen.\\. Nun, die",
-				"Vergangenheit hat gezeigt, dass das nicht hinhaut"
+				"\\c[10]Guard\\c[0]: There were prisoners who actually thought",
+				"they could team up, stand together in the mine,",
+				"and oppose us.\\. Well, the past has shown that",
+				"it doesn't work too well."
 			]
 		},
 		{
@@ -184,10 +180,10 @@
 			"original": "Wache: Im Endeffekt konnte keine Widerstandsgruppe standhalten, wenn wir vereint die Mine stürmten, um ihre Verschanzung zu brechen. Spitzhacke hält nicht gegen Langschwert, Speer und Bogen.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Im Endeffekt konnte keine Widerstandsgruppe ",
-				"standhalten, wenn wir vereint die Mine stürmten, ",
-				"um ihre Verschanzung zu brechen. Spitzhacke hält ",
-				"nicht gegen Langschwert, Speer und Bogen."
+				"\\c[10]Guard\\c[0]: Ultimately, no resistance group could stand",
+				"up to us if we stormed the mine together to break",
+				"their defense. Pickaxes don't hold out against",
+				"swords, spears, and bows."
 			]
 		},
 		{
@@ -195,8 +191,8 @@
 			"original": "Wache: Aber was red ich mit euch darüber? Geht sofort zurück zur Arbeit!",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Aber was red ich mit euch darüber?\\. Geht ",
-				"sofort zurück zur Arbeit!"
+				"\\c[10]Guard\\c[0]: But why am I even talking to you?\\. Get back",
+				"to work immediately!"
 			]
 		}
 	]
