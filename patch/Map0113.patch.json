@@ -598,7 +598,7 @@
 			"original": "Herr Uroto: Hoffentlich haben sie noch ein Zimmer frei...",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Hopefully they still have",
+				"\\c[10]Mr. Uroto\\c[0]: Hopefully they still have",
 				"a room available..."
 			]
 		},
@@ -651,7 +651,7 @@
 			"original": "Herr Uroto: Ohje, was machen wir jetzt?",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Oh man,\\. what are we going",
+				"\\c[10]Mr. Uroto\\c[0]: Oh man,\\. what are we going",
 				"to do now?"
 			]
 		},
@@ -834,7 +834,7 @@
 			"original": "Herr Uroto: Könnten wir diese Unterhaltung bitte möglichst bald beenden? Je früher wir aufbrechen, desto besser.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Could we please end this",
+				"\\c[10]Mr. Uroto\\c[0]: Could we please end this",
 				"conversation as soon as possible?\\.",
 				"The sooner we leave, the better."
 			]
@@ -844,7 +844,7 @@
 			"original": "Soko: Wir werden uns, beeilen Herr Uroto.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: We'll wrap it up,\\. Sir Uroto."
+				"\\c[13]\\n[3]\\c[0]: We'll wrap it up,\\. Mr. Uroto."
 			]
 		},
 		{

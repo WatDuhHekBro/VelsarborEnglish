@@ -52,7 +52,7 @@
 			"original": "Herr Uroto: Wir werden allerhöchstens zwei Wochen benötigen.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: We'll need two weeks at",
+				"\\c[10]Mr. Uroto\\c[0]: We'll need two weeks at",
 				"most."
 			]
 		},
@@ -61,7 +61,7 @@
 			"original": "Herr Uroto: Wir sind im Auftrag des Regierung Brigantias unterwegs.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: We're traveling on behalf",
+				"\\c[10]Mr. Uroto\\c[0]: We're traveling on behalf",
 				"of the Brigantian government."
 			]
 		},
@@ -600,7 +600,7 @@
 			"original": "Kento: Wir waren nicht in der Lage Herrn Uroto zu befreien. Wir bitten schnellstens um Unterstützung!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: We were unable to free Sir",
+				"\\c[1]\\n[1]\\c[0]: We were unable to free Mr.",
 				"Uroto.\\. We ask for your support as",
 				"soon as possible!"
 			]
@@ -763,7 +763,7 @@
 			"original": "Soko: Herr Uroto!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Sir Uroto!"
+				"\\c[13]\\n[3]\\c[0]: Mr. Uroto!"
 			]
 		},
 		{
@@ -805,7 +805,7 @@
 			"original": "Soko: Herr Uroto! Geht es Ihnen gut? Was ist passiert? Was haben sie mit Ihnen gemacht?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Sir Uroto!\\. Are you okay?\\. What",
+				"\\c[13]\\n[3]\\c[0]: Mr. Uroto!\\. Are you okay?\\. What",
 				"happened? What did they do to you?"
 			]
 		},
@@ -814,7 +814,7 @@
 			"original": "Herr Uroto: Wachen! Nehmen sie auf der Stelle, diese drei Personen fest!",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Guards!\\. Arrest these three",
+				"\\c[10]Mr. Uroto\\c[0]: Guards!\\. Arrest these three",
 				"people immediately!"
 			]
 		},
@@ -847,7 +847,7 @@
 			"original": "Herr Uroto: Nehmen sie diese 3 Personen fest! Im Namen der Regierung! Sie sind Spione unseres Feindes!",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Arrest these three people!\\.",
+				"\\c[10]Mr. Uroto\\c[0]: Arrest these three people!\\.",
 				"On behalf of the government!\\. They're",
 				"spies for our enemy!"
 			]
@@ -883,7 +883,7 @@
 			"original": "Herr Uroto: Es hat keinen Sinn sich rauszureden! Ich hab alles gehört, was ich hören musste!",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: There's no use trying to",
+				"\\c[10]Mr. Uroto\\c[0]: There's no use trying to",
 				"talk yourself out of this!\\. I've",
 				"heard everything I need to hear!"
 			]
@@ -893,7 +893,7 @@
 			"original": "Herr Uroto: Ich bin in Begleitung mit diesen 3 Personen in den Hinterhalt einer militärischen Gruppe geraten. Im Silvanwald.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: I was ambushed by a",
+				"\\c[10]Mr. Uroto\\c[0]: I was ambushed by a",
 				"military group with these three",
 				"people.\\. In the Silvan Forest."
 			]
@@ -903,7 +903,7 @@
 			"original": "Herr Uroto: Daraufhin wurde ich irgendwo in ihrem Stützpunkt eingesperrt.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: I was then locked up",
+				"\\c[10]Mr. Uroto\\c[0]: I was then locked up",
 				"somewhere in their base."
 			]
 		},
@@ -912,7 +912,7 @@
 			"original": "Herr Uroto: Der Plan war, dass diese 3 Leute euch zu einer falschen Gruppe leiten!",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: The plan was for these",
+				"\\c[10]Mr. Uroto\\c[0]: The plan was for these",
 				"three people to lead you to the",
 				"wrong group!"
 			]
@@ -922,7 +922,7 @@
 			"original": "Herr Uroto: Eine kleine, gestellte Räubergruppe, zufälligerweise mit militärischer Ausrüstung.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: A small, questionable",
+				"\\c[10]Mr. Uroto\\c[0]: A small, questionable",
 				"group of robbers, accidentally",
 				"with military equipment."
 			]
@@ -932,7 +932,7 @@
 			"original": "Herr Uroto: Keine große Sache und demnach kein Grund für Brigantia, das Problem weiter zu untersuchen!",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: No big deal and therefore",
+				"\\c[10]Mr. Uroto\\c[0]: No big deal and therefore",
 				"no reason for Brigantia to",
 				"investigate any further!"
 			]
@@ -942,7 +942,7 @@
 			"original": "Herr Uroto: Das perfekte Alibi.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: The perfect alibi."
+				"\\c[10]Mr. Uroto\\c[0]: The perfect alibi."
 			]
 		},
 		{
@@ -979,7 +979,7 @@
 			"original": "Herr Uroto: Geflohen sagt ihr? Das ich nicht lache!",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: You say you escaped?\\.",
+				"\\c[10]Mr. Uroto\\c[0]: You say you escaped?\\.",
 				"Don't make me laugh!"
 			]
 		},
@@ -988,7 +988,7 @@
 			"original": "Herr Uroto: Wie sollt ihr es bitte geschafft haben, dicht eingesperrt so wie ich es war, aus diesem Stützpunkt zu fliehen?",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: How is it even possible to",
+				"\\c[10]Mr. Uroto\\c[0]: How is it even possible to",
 				"escape this place, being that you",
 				"were supposedly locked up tight",
 				"like I was?"
@@ -1009,7 +1009,7 @@
 			"original": "Herr Uroto: Keine richtige Zelle? Und das sollen wir glauben? Was für einen Sinn sollte das haben?!",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Not locked in a real cell?\\.",
+				"\\c[10]Mr. Uroto\\c[0]: Not locked in a real cell?\\.",
 				"And why should I believe that?\\.",
 				"What sense does that make?!"
 			]
@@ -1027,7 +1027,7 @@
 			"original": "Soko: Wie sind Sie dann bitte davon gekommen, Herr Uroto? Wie haben Sie es geschafft zu fliehen?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Then how did YOU get away, Sir",
+				"\\c[13]\\n[3]\\c[0]: Then how did YOU get away, Mr.",
 				"Uroto?\\. How did you manage to escape?"
 			]
 		},
@@ -1036,7 +1036,7 @@
 			"original": "Herr Uroto: Das ist eine Sache, an die ich mich nicht richtig erinnern kann...",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: That's the one thing",
+				"\\c[10]Mr. Uroto\\c[0]: That's the one thing",
 				"I can't really remember..."
 			]
 		},
@@ -1045,7 +1045,7 @@
 			"original": "Herr Uroto: Ich weiß nicht was passiert ist, irgendjemand muss die Gruppe angegriffen und mich befreit haben...",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: I don't know what",
+				"\\c[10]Mr. Uroto\\c[0]: I don't know what",
 				"happened, someone must've",
 				"attacked the group and",
 				"freed me..."
@@ -1056,7 +1056,7 @@
 			"original": "Herr Uroto: Aber das ist jetzt nebensächlich! Wichtig ist, dass wir diesen Plan durchkreuzen!",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: But that's beside the",
+				"\\c[10]Mr. Uroto\\c[0]: But that's beside the",
 				"point now!\\. It's important that",
 				"we thwart this plan!"
 			]
@@ -1066,7 +1066,7 @@
 			"original": "Herr Uroto: Ich hoffe sie haben genug gehört! Nehmen sie sofort diese Leute gefangen!",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: I hope you've heard",
+				"\\c[10]Mr. Uroto\\c[0]: I hope you've heard",
 				"enough!\\. Imprison these people",
 				"immediately!"
 			]

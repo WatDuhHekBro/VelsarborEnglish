@@ -76,8 +76,8 @@
 			"original": "Herr Uroto: Sich darüber zu beschweren bringt doch nichts, Herr Tirunel.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: There's no point in",
-				"complaining about it,\\. Sir Tirunel."
+				"\\c[10]Mr. Uroto\\c[0]: There's no point in",
+				"complaining about it,\\. Mr. Tirunel."
 			]
 		},
 		{
@@ -212,7 +212,7 @@
 			"original": "Herr Uroto: Ja, aber was können wir dagegen schon machen?",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Yes,\\. but what can we do",
+				"\\c[10]Mr. Uroto\\c[0]: Yes,\\. but what can we do",
 				"about it?"
 			]
 		},
@@ -221,7 +221,7 @@
 			"original": "Soko: HERR TI...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: SIR TI...\\.\\^"
+				"\\c[13]\\n[3]\\c[0]: Mr. TI...\\.\\^"
 			]
 		},
 		{
@@ -245,7 +245,7 @@
 			"original": "Herr Uroto: Wir sollten uns besser nicht so nah am Felshang aufhalten...",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: We'd better not be that",
+				"\\c[10]Mr. Uroto\\c[0]: We'd better not be that",
 				"close to the cliff..."
 			]
 		},
@@ -342,7 +342,7 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: No, we can't.\\. It is our duty to",
-				"take care of Sir Uroto.\\. A trip to the",
+				"take care of Mr. Uroto.\\. A trip to the",
 				"cave would be too risky."
 			]
 		},
@@ -351,7 +351,7 @@
 			"original": "Cibon: Na und? Dann bleibt Herr Uroto eben hier, während wir in der Höhle nachsehen, was los ist.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: So what?\\. Then Sir Uroto just",
+				"\\c[2]\\n[2]\\c[0]: So what?\\. Then Mr. Uroto just",
 				"stays here while we look in the",
 				"cave to see what's going on."
 			]
@@ -398,7 +398,7 @@
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: You're wrong!\\. Our job is to",
-				"get Sir Uroto to the destination",
+				"get Mr. Uroto to the destination",
 				"safely and within the timeframe."
 			]
 		},
@@ -408,7 +408,7 @@
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: These tremors pose a threat to",
-				"Sir Uroto.\\. They also stop the repair",
+				"Mr. Uroto.\\. They also stop the repair",
 				"of the bridge and our journey."
 			]
 		},
@@ -499,7 +499,7 @@
 			"original": "Soko: Herr Uroto wartet unten. Los, gehen wir. Es wird spät, wir müssen uns beeilen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Sir Uroto is waiting down",
+				"\\c[13]\\n[3]\\c[0]: Mr. Uroto is waiting down",
 				"there.\\. Let's go.\\. It's getting",
 				"late, we have to hurry!"
 			]
@@ -517,7 +517,7 @@
 			"original": "Herr Uroto: Sie sollten lieber nichts überstürzen. Wer weiß, was sich in der Höhle befindet.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: You shouldn't rush",
+				"\\c[10]Mr. Uroto\\c[0]: You shouldn't rush",
 				"anything.\\. Who knows what's",
 				"in that cave?"
 			]
@@ -726,7 +726,7 @@
 			"original": "Herrr Uroto: Hoffentlich dauern die Reparaturen nicht zu lange... Verlieren wir jetzt zuviel Zeit, müssen wir uns nachher beeilen.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Hopefully the repairs",
+				"\\c[10]Mr. Uroto\\c[0]: Hopefully the repairs",
 				"won't take too long...\\. If we lose",
 				"too much time now, we'll have to",
 				"hurry afterwards."
@@ -944,7 +944,7 @@
 			"original": "Herr Uroto: Da sind Sie ja endlich. Wurde aber auch Zeit... Und was war in der Höhle?",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: There you are at last.\\. It",
+				"\\c[10]Mr. Uroto\\c[0]: There you are at last.\\. It",
 				"was about time...\\. And what about the",
 				"cave?"
 			]
@@ -972,7 +972,7 @@
 			"original": "Herr Uroto: Eine riesige Krake?! Erzählen Sie doch keine Märchen.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: A giant octopus?!\\. Don't",
+				"\\c[10]Mr. Uroto\\c[0]: A giant octopus?!\\. Don't",
 				"tell me fairy tales."
 			]
 		},
@@ -1011,7 +1011,7 @@
 			"original": "Herr Uroto: Ja, wir sollten auch zügig voran schreiten, bevor die kalte Nacht herein bricht.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Yes, we should move ahead",
+				"\\c[10]Mr. Uroto\\c[0]: Yes, we should move ahead",
 				"quickly before the it gets dark and",
 				"cold."
 			]

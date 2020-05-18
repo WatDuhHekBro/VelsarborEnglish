@@ -382,7 +382,7 @@
 			"original": "Kento: Ich bin nicht \"Herr Daikon\" oder \"Der Sohn von Genyu\" ... Mein Name ist KENTO! ALLES KLAR?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: I'm not \\s[4]\"Sir Daikon\"\\s[0]",
+				"\\c[1]\\n[1]\\c[0]: I'm not \\s[4]\"Mr. Daikon\"\\s[0]",
 				"or \\s[4]\"The Son of Genyu\"\\s[0]...",
 				"My name is \\s[7]KENTO\\s[0]!",
 				"IS THAT CLEAR?"

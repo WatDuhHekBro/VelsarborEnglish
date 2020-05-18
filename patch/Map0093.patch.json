@@ -255,7 +255,7 @@
 			"lines":
 			[
 				"\\c[10]Council Member\\c[0]: A short while later, we received",
-				"another letter from Sir Uroto himself.\\. He also",
+				"another letter from Mr. Uroto himself.\\. He also",
 				"called for reinforcements and confirmed the",
 				"existence of the group."
 			]
@@ -331,7 +331,7 @@
 			"original": "Mitglied des Rates: Herr Uroto beschreibt in seinen Brief einen recht obskuren Plan, der dies bewirken sollte.",
 			"lines":
 			[
-				"\\c[10]Council Member\\c[0]: Sir Uroto describes in his letter",
+				"\\c[10]Council Member\\c[0]: Mr. Uroto describes in his letter",
 				"a rather obscure plan that should do just that."
 			]
 		},

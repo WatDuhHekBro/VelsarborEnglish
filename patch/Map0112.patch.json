@@ -23,7 +23,7 @@
 			"original": "Herr Uroto: Ich bin auch am Ende meiner Kräfte. Schleunigst in den Gasthof!",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: I've also used almost all",
+				"\\c[10]Mr. Uroto\\c[0]: I've also used almost all",
 				"my strength for the day.\\. Let's go",
 				"to the inn!"
 			]
@@ -51,7 +51,7 @@
 			"original": "Soko: Herr Kento. Was haben Sie?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Sir Kento.\\. Is something wrong?"
+				"\\c[13]\\n[3]\\c[0]: Mr. Kento.\\. Is something wrong?"
 			]
 		},
 		{

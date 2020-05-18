@@ -257,7 +257,7 @@
 			"original": "Soko: Herr Uroto ist immer noch in Gefangenschaft und wir wissen nicht, was sie mit ihm vorhaben...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Sir Uroto is still in captivity",
+				"\\c[13]\\n[3]\\c[0]: Mr. Uroto is still in captivity",
 				"and we don't know what they're going",
 				"to do with him..."
 			]
@@ -386,7 +386,7 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: 3-4 days...\\. That's too long.\\.",
-				"What'll happen to Sir Uroto?"
+				"What'll happen to Mr. Uroto?"
 			]
 		},
 		{

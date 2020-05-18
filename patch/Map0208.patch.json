@@ -144,7 +144,7 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]:\\s[2] The goal was probably to",
-				"capture Sir Uroto. At least, I",
+				"capture Mr. Uroto. At least, I",
 				"can't think of any other",
 				"reason why."
 			]
@@ -740,7 +740,7 @@
 			"original": "Soko: Wir müssen Herrn Uroto befreien! Weißt du wo er sich befindet?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: We have to free Sir Uroto!\\.",
+				"\\c[13]\\n[3]\\c[0]: We have to free Mr. Uroto!\\.",
 				"Do you know where he is?"
 			]
 		},

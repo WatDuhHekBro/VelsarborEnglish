@@ -32,7 +32,7 @@
 			"original": "Soko: Herr Uroto...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Sir Uroto..."
+				"\\c[13]\\n[3]\\c[0]: Mr. Uroto..."
 			]
 		},
 		{
@@ -40,7 +40,7 @@
 			"original": "Herr Uroto: Meinetwegen, solange es nicht zulange dauert. Und gegen eine kleine Pause hab ich selber auch nichts.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Alright, as long as it",
+				"\\c[10]Mr. Uroto\\c[0]: Alright, as long as it",
 				"doesn't take too long.\\. And I don't",
 				"have anything against a little",
 				"break myself."
@@ -216,7 +216,7 @@
 			"original": "Herr Uroto: W...Was waren das für Leute?",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: W...\\. What kind of people",
+				"\\c[10]Mr. Uroto\\c[0]: W...\\. What kind of people",
 				"were they?"
 			]
 		},
@@ -337,7 +337,7 @@
 				"\\c[13]\\n[3]\\c[0]: They wanted to attack you",
 				"specifically?\\. Why you of all people?\\.",
 				"I would've expected people to go",
-				"after Sir Uroto,\\.\\. but who..."
+				"after Mr. Uroto,\\.\\. but who..."
 			]
 		},
 		{
@@ -435,7 +435,7 @@
 			"original": "Herr Uroto: Beeilen müssen wir uns sowieso.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: We have to hurry up",
+				"\\c[10]Mr. Uroto\\c[0]: We have to hurry up",
 				"anyways."
 			]
 		},

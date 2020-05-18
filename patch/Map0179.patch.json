@@ -113,11 +113,11 @@
 			"original": "(Herr Uroto: N... Nein! Was in aller Welt hat das hier zu bedeuten?! Es kann doch nicht sein... Kommen wir bereits zu spät?!)",
 			"lines":
 			[
-				"(\\c[10]Sir Uroto\\c[0]: N...\\. No!\\. What in the",
+				"(\\c[10]Mr. Uroto\\c[0]: N...\\. No!\\. What in the",
 				"world does this mean?!\\. It can't be...\\.",
 				"Are we already too late to stop it?!)"
 			],
-			"__comment__": "Too late being too late to stop the upcoming war, as that's why they sent Sir Uroto for diplomacy."
+			"__comment__": "Too late being too late to stop the upcoming war, as that's why they sent Mr. Uroto for diplomacy."
 		},
 		{
 			"path": [25,4,178,2],
@@ -133,7 +133,7 @@
 			"original": "Kento: Cibon! Soko! Herr Uroto!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Cibon!\\. Soko!\\. Sir Uroto!"
+				"\\c[1]\\n[1]\\c[0]: Cibon!\\. Soko!\\. Mr. Uroto!"
 			]
 		},
 		{
@@ -225,7 +225,7 @@
 			"lines":
 			[
 				"\\c[4]\\n[4]\\c[0]:\\s[2] For this moment.\\.",
-				"Fight\\.\\. or perish!"
+				"Fight or perish!"
 			]
 		},
 		{

@@ -72,7 +72,7 @@
 			"original": "Belias: Übrigens, wo ist Herr Kiorta?",
 			"lines":
 			[
-				"\\c[10]Belias\\c[0]: By the way, where's Sir",
+				"\\c[10]Belias\\c[0]: By the way, where's Mr.",
 				"Kiorta?"
 			]
 		},
@@ -110,7 +110,7 @@
 			"original": "Belias: Naja, wenn Herr Kiorta etwas plant, hat das in der Regel Hand und Fuß. Vertrauen wir einfach mal darauf.",
 			"lines":
 			[
-				"\\c[10]Belias\\c[0]: Well, if Sir Kiorta makes a",
+				"\\c[10]Belias\\c[0]: Well, if Mr. Kiorta makes a",
 				"plan, it's usually in the right hands.\\.",
 				"Let's just trust him on this."
 			]
