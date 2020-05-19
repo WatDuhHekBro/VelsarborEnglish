@@ -349,25 +349,6 @@ Cibon: Tomorrow we're going to do our best, aren't we, buddy?
 Kento: You say it! The portions have to be bigger.
 Soko: ... so pitiful ...
 
---- generic ---
-Kento: I'm still hungry... (sad)
-Cibon: Kento, you're always hungry... (wonder)
-Soko: I sometimes wonder how much you|normally eat. (wonder)
-Kento: ... (sad (eyes closed))
----
-[12410,0,"||------------ Hier: RANDOM KOMMENTARE ZUM ESSEN ------||",[]]
-[12330,0,"",[0,119,0]]
-[10130,0,"FACE-Kento",[8,0,0]]
-[10110,0,"\\c[1]\\n[1]\\c[0]: I'm still hungry...",[]]
-[10130,0,"FACE-Cibon",[15,0,0]]
-[10110,0,"\\c[2]\\n[2]\\c[0]: Kento, you're always hungry...",[]]
-[10130,0,"FACE-soko",[15,0,0]]
-[10110,0,"\\c[13]\\n[3]\\c[0]: I sometimes wonder how much you",[]]
-[20110,0,"normally eat.",[]]
-[10130,0,"FACE-Kento",[11,0,0]]
-[10110,0,"\\c[1]\\n[1]\\c[0]: ...",[]]
-[12330,0,"",[0,119,0]]
----
 Cibon: There's barely anything to eat!
 Kento: ...so hungry...
 Soko: Oh what'd they say again? That if we do badly in the mine, we won't get any food... They really were serious...
@@ -895,7 +876,7 @@ Sir Dolaros: So we get to the point! What is Farenia up to? What are you plannin
 Felcis: Well, I want to be honest. We are currently planning to change the color of our coat of arms.
 Felcis: These bright colors are far too optimistic for us because of our currently very poor existence. < our currently oh so poor existence
 Felcis: We are sincerely sorry that we have not informed Brigantia of this. < Our sincerest condolences
-Sir Dolaros: Don't be stupid! You know exactly what I'm talking about!
+Sir Dolaros: Don't be stupid! You know exactly what I'm talking about! < Quit messing around!
 Sir Dolaros: Why was that secret combat force formed that was discovered in the Silvan Forest?
 Felcis: What troop are you talking about? I don't know anything about it.
 Felcis: Then again I don't know what is going on in our aristocratic league.
@@ -1189,7 +1170,7 @@ Kento: where to join?
 Felcis: You don't remember last night's conversation?
 Kento: Oh ... yes, wait ... yes, I remember.
 Kento: I will participate as long as I can sleep in again if I ever ...
-Felcis: Watch what you say. We are not among ourselves.
+Felcis: Watch what you say. We are not among ourselves. < We aren't the only ones around here.
 Felcis: Just come to the side.
 Felcis: So can I trust you on this?
 Cibon: You can count on me.

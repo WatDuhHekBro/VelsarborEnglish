@@ -76,7 +76,7 @@
 			"original": "Kento: ....",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: .... "
+				"\\c[1]\\n[1]\\c[0]: ..."
 			]
 		},
 		{
@@ -115,7 +115,7 @@
 			"original": "Kento: Wie Cibon immer sagt: du verhältst dich uns gegenüber wie ein Ausbilder einer Kaserne.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: As Cibon puts it: You",
+				"\\c[1]\\n[1]\\c[0]: As Cibon puts it, you",
 				"treat us like an instructor from",
 				"the barracks."
 			]

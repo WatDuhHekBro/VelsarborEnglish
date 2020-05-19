@@ -50,8 +50,8 @@
 			"original": "Wächter: Ihr sollt durch das Haus links von hier. Dort bekommt ihr eure Ausrüstung.",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: What are you still doing here? The cafe is",
-				"back at the prison, you won't find it here."
+				"\\c[10]Guard\\c[0]: You used to be a soldier like me,\\.",
+				"then you got some binds around your hands."
 			],
 			"__comment__": "This message only appears when you talk to the guard that gives out equipment after work."
 		},
