@@ -232,8 +232,7 @@
 			"original": "Cibon: Ah, schaut euch mal diese Schlange an!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ah, schaut euch mal diese ",
-				"Schlange an!"
+				"\\c[2]\\n[2]\\c[0]: Oh, look at this line!"
 			]
 		},
 		{
@@ -241,9 +240,8 @@
 			"original": "Kento: Offensichtlich geht es hier zum Essen. Dann stellen wir uns mal an.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Offensichtlich geht es hier ",
-				"zum Essen.\\. Dann stellen wir uns mal ",
-				"an."
+				"\\c[1]\\n[1]\\c[0]: Obviously, it's the cafe they",
+				"were talking about.\\. So let's line up."
 			]
 		},
 		{
@@ -251,7 +249,7 @@
 			"original": "Kento: Ich verhungere...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich verhungere..."
+				"\\c[1]\\n[1]\\c[0]: I'm starving..."
 			]
 		},
 		{
@@ -259,8 +257,8 @@
 			"original": "Cibon: Ich hoffe nur die Portionen sind nicht zu klein...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich hoffe nur die Portionen ",
-				"sind nicht zu klein..."
+				"\\c[2]\\n[2]\\c[0]: I just hope the portions aren't",
+				"too small..."
 			]
 		},
 		{
@@ -268,8 +266,8 @@
 			"original": "Soko: Du solltest besser nicht zuviel erwarten...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Du solltest besser nicht ",
-				"zuviel erwarten..."
+				"\\c[13]\\n[3]\\c[0]: I don't think there'll be too",
+				"much..."
 			]
 		},
 		{
@@ -277,9 +275,8 @@
 			"original": "Kento: Hm... diese Wände sind merkwürdig. Seht ihr auch dieses Leuchten?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hm...\\. diese Wände sind ",
-				"merkwürdig.\\. Seht ihr auch dieses ",
-				"Leuchten?"
+				"\\c[1]\\n[1]\\c[0]: Hm...\\. These walls are strange.\\.",
+				"Are you two seeing this glow too?"
 			]
 		},
 		{
@@ -287,9 +284,9 @@
 			"original": "Cibon: Stimmt... da ist doch etwas... Sag bloß, die Wände sind verzaubert?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Stimmt...\\. da ist doch ",
-				"etwas...\\. Sag bloß, die Wände sind ",
-				"verzaubert?"
+				"\\c[2]\\n[2]\\c[0]: You're right...\\. That's",
+				"something...\\. Just say the",
+				"walls are enchanted?"
 			]
 		},
 		{
@@ -297,10 +294,9 @@
 			"original": "Soko: Ja, die Wände von diesem Gefängnis sind mit einem magischen Schutzwall versehen, soweit ich weiß.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ja, die Wände von diesem ",
-				"Gefängnis sind mit einem magischen ",
-				"Schutzwall versehen, soweit ich ",
-				"weiß."
+				"\\c[13]\\n[3]\\c[0]: Yeah, the walls of this prison",
+				"have a wall protected against magic",
+				"from what I can tell."
 			]
 		},
 		{
@@ -308,9 +304,8 @@
 			"original": "Soko: Im Prinzip negiert dieser Schutzwall jegliche Signum-Wirkung an den Wänden.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Im Prinzip negiert dieser ",
-				"Schutzwall jegliche Signum-Wirkung ",
-				"an den Wänden. "
+				"\\c[13]\\n[3]\\c[0]: Basically, this wall's barrier",
+				"negates any Signum effect on it."
 			]
 		},
 		{
@@ -318,8 +313,8 @@
 			"original": "Soko: Das heißt, Signum kann diese Wände nicht zu Bruch bringen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Das heißt, Signum kann diese ",
-				"Wände nicht zu Bruch bringen."
+				"\\c[13]\\n[3]\\c[0]: Meaning that Signum spells can't",
+				"break these walls."
 			]
 		},
 		{
@@ -327,8 +322,8 @@
 			"original": "Cibon: Oh Mann, wo zur Hölle sind wir hier bloß gelandet?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Oh Mann, wo zur Hölle sind ",
-				"wir hier bloß gelandet?"
+				"\\c[2]\\n[2]\\c[0]: Oh man, how the hell did we end",
+				"up here of all places?"
 			]
 		},
 		{
@@ -336,10 +331,9 @@
 			"original": "Soko: Das Gefängnis von Helnovien ist dafür bekannt, dass es äußerst wenig erfolgreiche Fluchtfälle verzeichnet hat.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Das Gefängnis von Helnovien ",
-				"ist dafür bekannt, dass es äußerst ",
-				"wenig erfolgreiche Fluchtfälle ",
-				"verzeichnet hat."
+				"\\c[13]\\n[3]\\c[0]: The Helnovien Prison is",
+				"notorious for having very few",
+				"successful escape attempts."
 			]
 		},
 		{
@@ -347,8 +341,9 @@
 			"original": "Soko: Genau der richtige Ort für Verräter des Landes...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Genau der richtige Ort für ",
-				"Verräter des Landes..."
+				"\\c[13]\\n[3]\\c[0]: Exactly the kind of place where",
+				"traitors of the country would be",
+				"sent..."
 			]
 		},
 		{
@@ -356,9 +351,8 @@
 			"original": "Felcis: Entschuldigt mich mal kurz, ich muss da oben eine Kleinigkeit erledigen.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Entschuldigt mich mal kurz, ",
-				"ich muss da oben eine Kleinigkeit ",
-				"erledigen."
+				"\\c[5]\\n[5]\\c[0]: Excuse me, I have something",
+				"that I need to attend to."
 			]
 		},
 		{
@@ -366,8 +360,7 @@
 			"original": "Soko: Was ist denn jetzt schon wieder?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Was ist denn jetzt schon ",
-				"wieder?"
+				"\\c[13]\\n[3]\\c[0]: What happened this time?"
 			]
 		},
 		{
@@ -375,7 +368,8 @@
 			"original": "Kento: Egal, das Essen wartet!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Egal, das Essen wartet!"
+				"\\c[1]\\n[1]\\c[0]: Whatever, there's food to be",
+				"eaten!"
 			]
 		},
 		{

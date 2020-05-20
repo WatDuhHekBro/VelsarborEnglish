@@ -1813,17 +1813,17 @@
 		{
 			"path": [156,3,160],
 			"original": "Aber immer doch!/Für heute genug.",
-			"patch": "Aber immer doch!/Für heute genug."
+			"patch": "Why of course!/That's enough for today."
 		},
 		{
 			"path": [156,3,161],
 			"original": "Aber immer doch!",
-			"patch": "Aber immer doch!"
+			"patch": "Why of course!"
 		},
 		{
 			"path": [156,3,176],
 			"original": "Für heute genug.",
-			"patch": "Für heute genug."
+			"patch": "That's enough for today."
 		}
 	]
 }

@@ -81,7 +81,7 @@
 			"original": "General: Verstanden?",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Understand?"
+				"\\c[10]General\\c[0]: You understand that?"
 			]
 		},
 		{
@@ -89,7 +89,8 @@
 			"original": "General: VERSTANDEN?",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: UNDERSTAND?"
+				"\\c[10]General\\c[0]: \\s[2]DO YOU OR DO YOU NOT",
+				"UNDERSTAND THAT?!"
 			]
 		},
 		{

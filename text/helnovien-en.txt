@@ -1,37 +1,3 @@
--= 223 =-
-...
-
-Guard: Don't cause trouble here, understand?
-
-Guard: Oh? What are you still walking around here for? Usually, after a working day like this, your prisoner always storms into the canteen.
-Guard: What are you dawdling around here? The work is waiting. Those who do not work do not get anything to eat, and those who are stubborn for a long time experience much worse.
-
-Prisoner: Can't you see I'm busy? And no, you don't work over here, you go to the mine.
-
-Guard: Prisoners have no business here!
-
-Guard: Here's the warehouse, you haven't lost anything here!
-
-...
-
-Old Prisoner: Please don't bother me...
-
-Guard: At the latest when the dealers arrive here, you have no business here. So off with you to the eastern area!
-Guard: Come on, get to work! Use the exit to the north in the mine, just where the rails lead, right?
-
-Guard: It is very unusual to have former colleagues here as prisoners, but that does not mean that you will be treated differently.
-
-Guard: Don't talk to me, I'm busy. You have no business here anyway, do you?
-Guard: I have nothing to discuss with you. Go to work.
-
-Guard: Oh, I wouldn't dare to get that close to the dogs at the time, as a prisoner - they're particularly hungry right now.
-Guard: Have you met our watch dogs here yet? They run a good deal faster than you, so don't even think about running away.
-
-Guard: Crap... My shift ends in 2 hours, but the tournament starts now. I'll miss the best of it again...
-Guard: Just follow the rails, okay?
-
-
-
 -= 224 =-
 ...
 
@@ -232,25 +198,6 @@ Felcis: Keep your fingers crossed for me. If everything goes well, I'll give you
 
 -= 230 =-
 ...
-
-$
-Cibon: Oh, look at this line!
-Kento: Obviously, it's the cafe they were talking about. So let's line up.
-Kento: I'm starving...
-Cibon: I just hope the portions aren't too small...
-Soko: I don't think there'll be too much...
-Kento: Hm... These walls are strange. Are you two seeing this glow too?
-Cibon: You're right... That's something... Just say the walls are enchanted?
-Soko: Yeah, the walls of this prison have a wall protected against magic from what I can tell.
-Soko: Basically, this wall's barrier negates any Signum effect on it.
-Soko: Meaning that Signum spells can't break these walls.
-Cibon: Oh man, how the hell did we end up here of all places?
-Soko: The Helnovien Prison is notorious for having very few successful escape attempts.
-Soko: Exactly the kind of place where traitors of the country would be sent...
-
-Felcis: Excuse me, I have to do a little something up there.
-Soko: What's wrong now?
-Kento: No matter, the food is waiting!
 
 Royko: Oh! There you are. I finally meet you again.
 Kento: Um, hello?
@@ -475,7 +422,7 @@ Soko: What are they actually thinking here? They can't just lock someone up here
 Soko: You have to get confirmation from the council, or from a higher general in the west, at least!
 Soko: This is insane!
 Felcis: Well, yes < pseudo-scrolling
-Felcis: Well, THAT'S HELNOVIA !!!
+Felcis: Well, THAT'S HELNOVIA !!! < THIS IS HELNOVIEN <! \\. like "this is Sparta"
 Felcis: Well, THAT'S HELNOVIA, as I've been told about it.
 Felcis: Brigantia's land on your own initiative! Here people are still full of fresh ideas!
 Felcis: Here, where this spoil of advice can't complain permanently thanks to the blockade of the Toras Mountains.

@@ -46,5 +46,5 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 - The Silvan Forest: 100%
 - The Mysterious Fortress: 100%
 - Gencorin Pt II: 100%
-- The Helnovien Prison: 15%
+- The Helnovien Prison: 17%
 - The Helnovien Mine: 82%
