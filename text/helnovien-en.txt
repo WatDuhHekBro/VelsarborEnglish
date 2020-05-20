@@ -217,7 +217,7 @@ Announcer: Our model prisoners were beaten! So how does something go? How should
 Announcer: Unfortunately that was nothing! The traitors were beaten! Yes, we like to see something like that!
 
 Felcis: Oh? Are you up here too? It's nice that the guards give the prisoners so much free rein here.
-Felcis: The tournament is also quite entertaining, if a little barbaric for my taste.
+Felcis: The tournament is also quite entertaining, if a little barbaric for my taste. < albeit
 
 Guard: ALL PRISONERS BACK INTO THE CELLS IMMEDIATELY!
 Felcis: Cieoly, that really wasn't necessary now.
@@ -380,7 +380,7 @@ Jorn: I'd at least say that, if it weren't for the stupidity of a certain person
 Saion: I told you to be quiet, Jorn!
 Saion: You've probably heard of the tournament, haven't you?
 ---
-Saion: No? Oh, so new and <green behind your ears> are you still? <\/ inexperienced
+Saion: No? Oh, so new and <green behind your ears> are you still? <\/ inexperienced < fresh out of the water
 Saion: The tournament is for the tough people here in prison! Anyone who wants to can take part every evening.
 Saion: The fights are always fought in groups. The best way is to form the group of 3 as we know it!
 Saion: Every group has its rank, newcomers always start at the bottom. You can then challenge other groups of similar rank!
@@ -455,6 +455,7 @@ Kento: Cibon and I will have to face the consequences ...
 Soko: I ... I forgot ...
 Cibon: Don't be considerate of me, Soko. They can't beat me up much more than last time.
 Kento: Well, just do what you think is right. We'll get through this.
+---
 Kento: Oh, Felcis, I haven't quite understood one thing yet.
 Kento: What does someone like you in this country have to do beyond the border? You said you were an envoy from the aristocracy ...
 Felcis: Oh, well, I had an inspection job at the border.
@@ -473,7 +474,7 @@ Cibon: Okay ... that's pretty bad ...
 Soko: What are they actually thinking here? They can't just lock someone up here!
 Soko: You have to get confirmation from the council, or from a higher general in the west, at least!
 Soko: This is insane!
-Felcis: Well, yes
+Felcis: Well, yes < pseudo-scrolling
 Felcis: Well, THAT'S HELNOVIA !!!
 Felcis: Well, THAT'S HELNOVIA, as I've been told about it.
 Felcis: Brigantia's land on your own initiative! Here people are still full of fresh ideas!
@@ -487,13 +488,14 @@ Kento: It is, of course, in the spirit of this Felcis to free the aristocracy fr
 Kento: From this point of view, it is quite possible that he will give us wrong facts ...
 Cibon: Well, even if - does it make a difference for us? We're not in the Council here, we're in a prison.
 Soko: Where you're right ...
+---
 Cibon: I can't believe it! How did you get such a portion together without really mining ore?
 Felcis: Oh well. I played some ore carrier.
 Felcis: Since I was mainly talking to people anyway, I offered to take the ore to the collection point for them.
 Felcis: For just 10% deduction that went to me, people didn't have to drag the ore themselves.
 Felcis: A surprising number of them have already responded to this. Above all these Pauamainer colleagues, for ore chopping is the meaning of life.
 Kento: Not bad.
-Cibon: Pah! Something like that is called scrounging!
+Cibon: Pah! Something like that is called scrounging! < scavenging
 Felcis: But to something else. I need your help right away if possible.
 Kento: what is it about?
 Felcis: For our "plan" we need another item.
@@ -505,15 +507,18 @@ Cibon: Oh, didn't you ask kindly enough?
 Felcis: I could have asked as nicely as I wanted, the guy just has something against me or more about my background.
 Soko: Please?
 Felcis: We should just pay the guys a visit after dinner. Maybe we can do something more.
+---
 Felcis: Okay, it'll probably be a while before we get the stuff out of the mine.
 Felcis: Well, the blasting was probably nothing today, but tomorrow is still a working day.
 Felcis: In the meantime we can try to take our beautiful stone off this Robin ...
+---
 Felcis: Well, now that we have our powder, all we need is the stone.
 Felcis: Our proletariat-protecting Grünhut is still watching over this at the moment. Time to free him of this burden.
 Cibon: As soon as possible! I'm looking forward to it.
 Soko: We mustn't take this fight carelessly, understand?
 Kento: Yes, we should spare the Robin this extra pain.
 Soko: Him - and you too.
+---
 Cibon: Right. I can well imagine how the guy interprets our hesitation ...
 Kento: Well, if he underestimates us, that can only be an advantage.
 Cibon: Our team name is Repsbrot troop. We are underestimated either way.
@@ -534,6 +539,7 @@ Felcis: Talk to me in the canteen when you're ready.
 Kento: This Felcis really has its way of enlightening us at the last possible moment ...
 Felcis: Well, we have everything together. Let me know when you're ready, I'm still waiting up here in the canteen.
 Felcis: Don't take too much time.
+---
 Kento: If we really want to try out this tournament, the registration for it seems to be over there... <$
 Felcis: This type is located on the top floor of the cell building. Shortly before the entrance to the terrace.
 Kento: Alright. Let's have a look there.
@@ -778,21 +784,21 @@ Felcis: Alright, but don't take too much time.
 
 
 
--= 232 =-
+-= 232 =- $
 Guard: Here are the new prisoners, as instructed!
 General: About time.
-General: Soso. So that's what spies look like these days, how? Colleagues from their own barracks. <\/
-General: And then also celebrities like our young Mr. Daikon here!
-General: You'd think that with all the worship of fellow human beings, you would have enough pleasure in your nation.
-General: But no! Instead, you are here now!
-Soko: We are not spies and not traitors! All of this is a misunderstanding ...
-General: Shouldn't you have understood so slowly that you have no freedom of speech here in front of guards?
-General: Tsk. I think the little one has enough for today. I'll start with celebrities.
+General: Well then. So that's what spies look like these days, hm? Colleagues from their own barracks.
+General: And then we also have celebrities like our young Mr. Daikon here!
+General: You'd think that with all the praise and worship one could get, you'd be content staying in your own nation.
+General: But no! Instead, you ended up here!
+Soko: We aren't spies and we aren't traitors! All of this is one big misunderstanding...
+General: How are you so slow in the head to understand that you have no freedom of speech here in front of the guards?
+General: Tsk. I think the little one has had enough for today. I'll start off with the celebrities.
 General: Bring the other two to their cells.
-Guard: Command, sir!
+Guard: At your command, sir!
 
-Felcis: There is a tiny hole in the bag and a wind aura distributes the powder evenly with each step.
-Felcis: So the guard just prepared our bomb and fuse!
+Felcis: There's a tiny hole in the bag along with a wind aura that spreads the powder out evenly with every step he takes.
+Felcis: So that guard just prepared our bomb and fuse!
 
 
 
@@ -824,71 +830,71 @@ Guard: Hey, what's this about? Do you want to lose out now? Once in there is no 
 
 
 
--= 238 =-
-General: Soso. Mr. Daikon. Kento! How did you like mine work? < Well, well, well.
+-= 238 =- $
+General: Well, well, well. Mr. Daikon. Kento! How's working in the mine for you?
 Kento: ...
-General: speech! How did you like it?
-Kento: ... It was exhausting ...
-General: I think so. But it's not much more than an ordinary, hard working day, isn't it?
-General: Now there are more than enough soldiers under my command.
-General: So I'm able to make your life down there really hell. Do you realize that?
-General: So if you and your colleagues prefer a working day without a beating, you'd better tell me what I want to hear!
-General: Got it?
+General: Speak! How do you feel about it?
+Kento: It was exhausting...
+General: I thought so too. But it's not any harder than an ordinary, hardworking day, isn't it?
+General: Now, there are more than enough soldiers under my command.
+General: So I can truly make your life down there a living hell. Do you even realize that?
+General: So if you and your friends prefer working here without a beating, you'd better tell me what I want to hear!
+General: Understand?
 General: UNDERSTAND?
 Kento: Yes.
-General: So let's start. What kind of troops are you spying on?
-Kento: A force that has formed an army underground that Brigantia didn't know about.
-General: Very nice Kento, but we already know that! Is this troop connected to the Farenian aristocracy?
+General: So let's get started. What kind of troops are you spying for?
+Kento: A group that's been forming an army underground which Brigantian didn't know about.
+General: Nice try Kento, but we already know that! Is this group connected to the Farenian Aristocracy?
 Kento: I don't know.
-General: Wrong answer. Don't tell me that as a spy on this group you don't know such a basic thing!
-Kento: ... Yes, they are connected to the Farenian aristocracy.
-General: Good. What is the goal of this group?
-Kento: You want to narrow Brigantia and regain the parts of the country that Korzojeno lost during the war.
-General: Don't tell me lies!
-General: How does an army that is so small that it can be accumulated underground want to stand up to the Brigade Order's army ?!
-Kento: a secret weapon ...
-General: what was that?
-Kento: There is a secret weapon with which you would be equal to Brigantia. However, I don't know anything more about it ...
-Kento: The information is strictly confidential ...
-General: You definitely know more! SO TALK!
-Kento: It's a magic ... Similar to Septoccasus.
-General: Well, that sounds interesting. I warn you, woe you tell me something wrong!
+General: Wrong answer. Don't tell me that as a spy for this group, you don't know such a basic thing!
+Kento: ...Yes, they're connected to the Farenian Aristocracy.
+General: Good. What's the goal of this group?
+Kento: They want to whittle down Brigantia's forces and regain the parts of the country that Korzojeno lost during the war.
+General: Quit lying to me!
+General: How does an army so small think that it can build itself up and stand against the Brigantine Order?!
+Kento: A secret weapon...
+General: What did you say?
+Kento: There's a secret weapon, the likes of which would rival Brigantia's strength. However, I don't know anything more about it...
+Kento: That information is strictly confidential...
+General: You definitely know more! SO TELL ME!
+Kento: It's some type of magic... similar to Septoccasus.
+General: Well now, that sounds interesting. I'm warning you, if what you told me is wrong, that living hell I talked about isn't too far away!
 
-Sir Dolaros: Soso, so you're Cibon Tirunel. Has your colleague already told you how this works with the interrogation?
-Cibon: You say what or you get hit, don't you?
-Sir Dolaros: Almost! We want to hear the truth and nothing more!
-Sir Dolaros: If your statements turn out to be wrong, we will meet again, I guarantee you.
-Cibon: Bla, bla, bla. Have we talked enough now and can we finally start asking questions?
+Sir Dolaros: Well, well, well. So you're Cibon Tirunel. Has your friend already told you how these interrogations work?
+Cibon: I say what you want or I get hit, right?
+Sir Dolaros: Almost! We just want to hear the truth and nothing more!
+Sir Dolaros: If your stories don't line up, we WILL meet again, mark my words.
+Cibon: Blah, blah, blah. Are we done talking now and can we finally get around to the questions already?
 
-Sir Dolaros: Soso. Soko Filaja. A female soldier of the brigand order. It is hard to believe what is going into the army today.
-Sir Dolaros: I think you three now know how this works. So let's go straight to the questions.
+Sir Dolaros: Well, well, well. Soko Filaja. A female soldier of the Brigantine Order. Hard to believe the kind of people they're letting in nowadays.
+Sir Dolaros: I think you three know how this works by now. So let's go straight to the questions.
 Soko: This interrogation is pointless.
-Sir Dolaros: What was that?
+Sir Dolaros: What's that?
 Soko: This interrogation is pointless. You can't squeeze information out of us because we don't know anything!
-Sir Dolaros: Well, it sounded very different with your two colleagues!
-Soko: Of course it sounded different! You were forced to say something, anything!
-Sir Dolaros: Right! And it won't be any different with you, my lady. < young lady
+Sir Dolaros: Well then, that sounds rather different compared to your two friends!
+Soko: Of course it sounded different! They were forced to say something, anything even!
+Sir Dolaros: That's right! And it won't be any different with you, young lady.
 
-Sir Dolaros: So ... Sir Kiorta. So you come as a messenger from the aristocratic union, you say.
-Felcis: If you don't believe me, just get a confirmation from Farenia yourself.
-Sir Dolaros: It is not necessary. We believe you. Why else do you think we would have locked you up here?
-Sir Dolaros: So we get to the point! What is Farenia up to? What are you planning in the background without letting Brigantia know about it?
-Felcis: Well, I want to be honest. We are currently planning to change the color of our coat of arms.
-Felcis: These bright colors are far too optimistic for us because of our currently very poor existence. < our currently oh so poor existence
-Felcis: We are sincerely sorry that we have not informed Brigantia of this. < Our sincerest condolences
-Sir Dolaros: Don't be stupid! You know exactly what I'm talking about! < Quit messing around!
-Sir Dolaros: Why was that secret combat force formed that was discovered in the Silvan Forest?
-Felcis: What troop are you talking about? I don't know anything about it.
-Felcis: Then again I don't know what is going on in our aristocratic league.
-Felcis: But be sure - our current prince would never dream of standing up to Brigantia again.
-Sir Dolaros: It is very difficult for me to believe this, given what happened at the border!
-Sir Dolaros: It is extremely strange that you have not heard of it to date - almost suspicious!
-Felcis: Speaking of strange facts ...
-Felcis: How is it that a man of your kind is stationed here in Helnovien?
-Felcis: I thought you were active on the southern continent in leading the troops against the uprisings ...
-Sir Dolaros: You don't care! We're talking about the aristocracy! And I ask the questions here !! Roger that?!
-Felcis: Forgive my brazen intervention ...
-(Felcis: Something like that ... I hit a pretty sore point ...)
+Sir Dolaros: Well, well, well... Sir Kiorta. So you've personally come as a messenger from the aristocracy, you say.
+Felcis: If you don't believe me, just get confirmation from Farenia yourself.
+Sir Dolaros: That won't be necessary. We believe you. Why else do you think we would've locked you up here?
+Sir Dolaros: So let's get to the point! What's Farenia up to? What are they planning in the shadows while keeping it hidden from Brigantia?
+Felcis: Well, I want to be completely honest with you. We're currently planning to change the color of our coat of arms.
+Felcis: These bright colors are far too optimistic for us due to our currently oh so poor existence.
+Felcis: Our sincerest condolences that we haven't informed Brigantia of this.
+Sir Dolaros: Quit messing around! You know exactly what I'm talking about!
+Sir Dolaros: Why was that secret army discovered in the Silvan Forest formed in the first place?
+Felcis: What army are you talking about? I don't know anything about it.
+Felcis: Then again, I don't know much of what's going on with our aristocracy.
+Felcis: But for the record, our current prince would never dream of standing up to Brigantia ever again.
+Sir Dolaros: It's very difficult for me to believe this, given what happened at the border!
+Sir Dolaros: It's also extremely strange that you haven't heard of it until now... almost suspicious even!
+Felcis: Speaking of strange things...
+Felcis: How is it that someone like you is stationed here in Helnovien?
+Felcis: I thought you were active on the southern continent in leading the troops against the uprisings...
+Sir Dolaros: That's none of your business! We're talking about the aristocracy! And I'm the one asking the questions around here!! Understand?!
+Felcis: Forgive my brazen inquiry...
+(Felcis: Well then... I must've hit a very sore spot...)
 
 
 
@@ -910,6 +916,7 @@ Guard: Don't talk, come along!
 Felcis: Alright, alright.
 Kento: Probably he's being interrogated now ...
 Cibon: He has my condolences.
+---
 Guard: Enjoy your free minutes.
 
 ...
@@ -971,9 +978,9 @@ Soko: Get up ... Get up ... Okay. Get up! Now!
 Soko: Done ...
 Cibon: Tomorrow, Soko. Already awake?
 Cibon: buddy! Get up!
-Kento: No ... wants to continue sleeping.
+Kento: No ... wants to continue sleeping. < need... more... sleep...
 Cibon: prison. Mine work.
-Kento: Oh no ...
+Kento: Oh no ... < Not agaaaain...
 
 Guard: So it's your turn today. Come along.
 Cibon: It's not what we have to get through here just because this old sack tells this crap!
@@ -1021,7 +1028,7 @@ Felcis: So how do you get an official permit to march into Korzojeno and dust of
 Kento: ... You pretend that Korzojeno poses a threat by forming such a force ...
 Felcis: Right! We have a smart head here.
 Cibon: W ... What the hell! Why should the government be playing the wrong game?
-Felcis: Oh, there's a lot of wrong play in the high ranks, believe me.
+Felcis: Oh, there's a lot of wrong play in the high ranks, believe me. < foul play
 Cibon: But why then does a Brigantia councilor come up with the idea of locking us in because of such a force?
 Cibon: If what you say is true, it is quite possible that Mr. Uroto himself was involved in the matter!
 Felcis: Well, maybe you saw something that would blow it up.
@@ -1033,10 +1040,10 @@ Kento: Soko? Is everything ok?
 Soko: It's okay ... W ... Who are you?
 Cibon: Wait ... you're in the same cell ?!
 Felcis: Kyorta my name, Felcis Kyorta. And with what pretty lady am I honored here?
-Soko: Another one of this kind ...
+Soko: Another one of this kind ... < Another one of *those* people...
 Felcis: What type are you talking about?
 Cibon: Yes, what kind? And hey, what about the formalities, Felcis?
-Kento: It can be a long evening ...
+Kento: It can be a long evening ... < It's going to be a long night...
 
 Guard: IMMEDIATELY ALL OUT OF THE SPRING! THE WORK BEGINS!
 Cibon: ... Ah ... Damn it! Out again?
@@ -1165,7 +1172,7 @@ Cibon: Yes, yes, whatever. Off to the mine! Come on, buddy!
 Kento: Njajummmnmnm ....
 Felcis: You have a sleepy friend there.
 
-Felcis: So what does it look like? Will you join
+Felcis: So what does it look like? Will you join < So what will it be?
 Kento: where to join?
 Felcis: You don't remember last night's conversation?
 Kento: Oh ... yes, wait ... yes, I remember.
@@ -1193,6 +1200,7 @@ Cibon: What a coincidence.
 
 Felcis: Remember: we have to do a good job so that we are given dynamite to blow up.
 Felcis: As soon as we have the dynamite, I'll tell you where to go.
+---
 Felcis: Now we have our dynamite, but still not the stuff we need.
 Felcis: Come on, finding the stuff can't be that hard.
 Felcis: We have our powder, from this point of view there is hardly anything left that is worth going into the mine ...
@@ -1213,13 +1221,14 @@ Felcis: Well, now we have been promoted to mine work with an explosive charge!
 Felcis: The wall that we want to blow up is at one point along the tracks.
 Felcis: Just make sure that we turn right at the first junction. The next up then, alright?
 Kento: I'll try ...
+---?
 Felcis: Okay, last time it somehow didn't quite work out. Then stop again.
 Felcis: At the first turn right, at the second straight up.
 Felcis: So this time not sleeping so much while driving, okay Kento?
 Kento: Hey, it's not like I'm sleeping ...
 
 $
-Kento: Work's finally over... Good, I'm almost starving. Let's get to this cafe area soon...
+Kento: Closing time... Good, I'm almost starving. Let's get to the cafe soon...
 
 Soko: Finally ... Done ...
 Cibon: Then back to the canteen!
@@ -1250,15 +1259,15 @@ Felcis: Diet, my friend, diet ...
 
 
 
--= 248 =-
+-= 248 =- $
 ...
 
-Felcis: Here it is! Somewhere here in this area there is supposed to be a filled-in entrance. Keep your eyes open.
-Kento: Felcis, are you starting to tell us what we're looking for?
+Felcis: Here it is! Somewhere in this area, there's supposed to be a filled-in entrance. Keep your eyes open.
+Kento: Felcis, are you going to start telling us what we're looking for?
 Felcis: It's about a certain type of powder.
-Felcis: What we are looking for here is the entrance to a former storage area that is no longer used.
-Felcis: As soon as we're in the storage area, I'll explain everything to you.
-Felcis: I'm not quite comfortable here on the rails.
+Felcis: What we're looking for here is the entrance to a former storeroom that's no longer in use.
+Felcis: As soon as we're in the storeroom, I'll explain everything to you.
+Felcis: I'm not quite comfortable sharing it here on the railways.
 
 
 
@@ -1429,15 +1438,15 @@ Gurim: D ... thank you ...
 
 
 
--= 278 =-
+-= 278 =- $
 General: Come in.
 ?????: Sir Famares? Do you have some time for me?
 Sir Famares: What is your concern, Sir Avaron?
-Sir Avaron: As I have heard, there is news from the border. They say Korzojeno is planning underground activities?
-Sir Famares: The rumors have been around for a long time, but now we have received confirmation from an envoy from the Council.
-Sir Avaron: I think that is extremely worrying. I hope you remember what happened here 10 years ago?
-Sir Avaron: I have a request to increase security measures for the research area.
-Sir Avaron: Until the situation in Korzojeno has been resolved.
+Sir Avaron: As I've heard, there's news from the border. They say that Korzojeno is planning underground activities?
+Sir Famares: The rumors have been around for a long time, but we've just now received confirmation from an envoy of the council.
+Sir Avaron: I think that's extremely worrying. I hope you still remember what happened here 10 years ago?
+Sir Avaron: I'd like to request that security measures for our research facility increase.
+Sir Avaron: Until the situation with Korzojeno has been resolved.
 Sir Famares: I'll see what can be done.
 Sir Avaron: Thank you.
 
@@ -1489,80 +1498,61 @@ Da Boss: I hope I'll see you again in the Durnier!
 
 
 
--= 281 =-
+-= 281 =- $
 Felcis: Okay, here we are!
-Kento: So what kind of powder are we looking for now?
-Felcis: gray sparkling powder. Do you know that?
-Soko: Hm ... I think I heard about it. Isn't that used to enhance the impact of signage?
-Felcis: Exactly. You sprinkle powdered gray powder on a rock face and magic fires or fires on it and WUMM - a hole was blown up.
-Felcis: That is also the reason why this powder is used in the mine - or rather was used.
-Felcis: In the meantime, you only seem to be blowing up with dynamite, probably because you no longer need anyone who is familiar with the sign.
-Felcis: To be honest, I didn't expect that all of the gray powder consumption would be resolved today.
-Felcis: But we should find some last reserves here - hopefully.
-Kento: Hm, it looks like it continues here in the corridor.
-Felcis: The storage area cannot be very large, we will find the stuff.
-Cibon: What does this gray-powder look like?
+Kento: So what kind of powder are we looking for?
+Felcis: Static powder. Do you know what it is?
+Soko: Hm... I think I've heard about it. Isn't it used to enhance the potency of Signums?
+Felcis: Exactly. You sprinkle some static powder on the wall of a cave then use a fire or great fire spell on it, and BOOM, a hole is opened up.
+Felcis: That's also the reason why this powder is used in the mine, or rather, was used.
+Felcis: Meanwhile, they only seem to be blowing up walls with dynamite, probably because they no longer need anyone who's familiar with Signums.
+Felcis: To be honest, I didn't expect that all of the static powder's usage would be cut.
+Felcis: But we should still be able to find some of the last reserves here, hopefully.
+Kento: Hm, it looks like this place continues over there.
+Felcis: This storeroom can't be very big, we'll find the stuff eventually.
+Cibon: What does this static powder look like?
 Felcis: Well, it's gray, sparkles, and looks powdery apart from that.
 Cibon: ...
 
-Cibon: Should we just put it in there, buddy?
-Kento: Why not? The guards give us magical magnifying glasses either way, so it won't be noticed.
+Cibon: Shouldn't we just leave it there, Kento?
+Kento: Why not? The guards give us magic lens, so either way, it won't be noticed.
 
 
 
--= 282 =-
-Kento: Oha! This looks good.
-Felcis: Please make sure that we get the powder smuggled out!
+-= 282 =- $
+Kento: Oh! This looks like it.
+Felcis: Please make sure that we get the powder smuggled out of here!
 Kento: We'd better wait a little longer.
 
-Felcis: Wonderful, then let's go back and mine as much ore as we can. Otherwise we're starving today.
-Kento: A good idea.
-Soko: W ... what's going on now?
-Felcis: Attention, behind you!
+Felcis: Wonderful, then let's go back and mine as much ore as we can. Otherwise, we're going to starve today.
+Kento: Good idea.
+Soko: W... What's going on now?
+Felcis: Watch out, behind you!
 
 Kento: We don't need any more powder.
 
-Cibon: Oh dear. That was really unexpected now. What had such a huge creature lost in such a small area?
-Kento: Maybe it hit underground here? Who knows. The main thing is how we survived.
-Felcis: I have to say that you are quite capable fighters that you defeated such a monster with this simple equipment.
-Kento: Let's put it this way, it's not the first bigger monster we've seen ...
-Felcis: Well, then back to the next ore collection point.
+Cibon: Oh man. That was really unexpected now. What was such a huge creature doing in such a small area?
+Kento: Maybe it got lost underground here? Who knows. The important thing is that we survived.
+Felcis: I have to say, you three are quite the capable fighters, having defeated such a monster with this simple equipment.
+Kento: Let's just put it this way, this isn't the first giant monster we've seen...
+Felcis: Well, back to the railways then.
 
 
 
--= 291 =-
-?????: No, I didn't get a look. He is it. Do you really think I would forget this face?
-?????: It is the same general who took everything from us back then.
-?????: N-No ... please not here ...
-?????: Genji ... None of us have forgotten this person, nor will we ever do that.
-?????: In this situation we shouldn't be guided by thoughts of revenge, do you understand that? We have a mission ...
-Genji: I'm not concerned with revenge. I am concerned with the danger this person poses.
-Genji: Should the escape that you prophesied take place and Kento should encounter this person - what then?
-Genji: We both know what this general is capable of. Twin soul or not, Kento would not survive!
+-= 291 =- $
+?????: No, I'm not mistaking him for someone else. That's him over there! Do you really think I'd ever forget that face?
+?????: It's the exact same general who took everything away from us back then.
+?????: N-No... Not like this...
+?????: Genji... None of us have forgotten this person, nor will we ever forget what he did to us.
+?????: But in this situation, we can't let ourselves be guided by thoughts of revenge, understand? We have a mission...
+Genji: I'm not concerned about revenge. I'm concerned about the danger this person poses.
+Genji: Should the escape in the prophecy take place and Kento were to encounter this person, what then?
+Genji: We both know what this general is capable of. Twin soul or not, Kento will not survive!
 Genji: You can't tell me that Heimdall completely missed this fact!
-?????: ... he warned me. Nevertheless, it is not a situation in which we should intervene prematurely.
-Genji: And that's why you don't tell us anything? This is not a situation that we can get regulated by spontaneous intervention! < save at the last minute
-Genji: If we rush into it without thinking, it not only costs Kento's life, but also ours. Do you want to be responsible for that?
-Genji: We have to prepare. That's all I want to say with it.
-?????: You're right. I probably underestimated this fact ...
-?????: Kumiko? Please familiarize yourself with the area. We may need to use your skills. < survey/scout out the area
-Kumiko: G-Okay!
-
-https://www.youtube.com/watch?v=kqOLLa8Nu2o&list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN&index=39 @ 6:43
-
-Genji
-Genji
-Kumiko
-Prophet
-Prophet
-...
-...
-...
-...
-Prophet
-...
-...
-...
-Prophet
-Prophet
-...
+?????: He warned me. Nevertheless, it isn't a situation we should intervene in prematurely.
+Genji: And that's why you didn't tell us anything? This isn't a situation that we can save at the last minute!
+Genji: If we have to rush into it without thinking, it not only costs Kento's life, but also ours. Do you really want to be responsible for that?
+Genji: We have to prepare. That's all I can say about it.
+?????: You're right. I probably did underestimate this fact...
+?????: Kumiko? Please survey the area and get familiar with it. We may need your skills after all.
+Kumiko: O-Okay!
