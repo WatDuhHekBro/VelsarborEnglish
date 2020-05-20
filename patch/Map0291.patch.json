@@ -6,10 +6,10 @@
 			"original": "?????: Nein, ich hab mich nicht verschaut. Er ist es. Glaubst du wirklich, ich würde dieses Gesicht vergessen?",
 			"lines":
 			[
-				"\\c[10]?????\\c[0]: Nein, ich hab mich nicht ",
-				"verschaut.\\. Er ist es.\\. Glaubst du ",
-				"wirklich, ich würde dieses Gesicht ",
-				"vergessen?"
+				"\\c[10]?????\\c[0]: No, I'm not mistaking him for",
+				"someone else.\\. That's him over there!\\.",
+				"Do you really think I'd ever forget",
+				"that face?"
 			],
 			"__comment__": "Genji"
 		},
@@ -18,8 +18,9 @@
 			"original": "?????: Es ist der selbe General, der uns damals alles genommen hat.",
 			"lines":
 			[
-				"\\c[10]?????\\c[0]: Es ist der selbe General, der ",
-				"uns damals alles genommen hat."
+				"\\c[10]?????\\c[0]: It's the exact same general who",
+				"took everything away from us back",
+				"then."
 			],
 			"__comment__": "Genji"
 		},
@@ -28,7 +29,7 @@
 			"original": "?????: N-Nein... Bitte nicht hier...",
 			"lines":
 			[
-				"\\c[10]?????\\c[0]: N-\\.Nein...\\. Bitte nicht hier..."
+				"\\c[10]?????\\c[0]: N-\\.No...\\. Not like this..."
 			],
 			"__comment__": "Kumiko"
 		},
@@ -37,9 +38,9 @@
 			"original": "?????: Genji... Niemand von uns hat diese Person vergessen, noch werden wir das jemals tun.",
 			"lines":
 			[
-				"\\c[10]?????\\c[0]: Genji...\\. Niemand von uns hat ",
-				"diese Person vergessen, noch werden ",
-				"wir das jemals tun."
+				"\\c[10]?????\\c[0]: Genji...\\. None of us have",
+				"forgotten this person, nor will",
+				"we ever forget what he did to us."
 			],
 			"__comment__": "Prophet"
 		},
@@ -48,10 +49,10 @@
 			"original": "?????: Wir dürfen uns aber in dieser Situation nicht von Rachegedanken leiten lassen, verstehst du das? Wir haben eine Mission...",
 			"lines":
 			[
-				"\\c[10]?????\\c[0]: Wir dürfen uns aber in dieser ",
-				"Situation nicht von Rachegedanken ",
-				"leiten lassen, verstehst du das?\\.",
-				"Wir haben eine Mission..."
+				"\\c[10]?????\\c[0]: But in this situation, we can't",
+				"let ourselves be guided by thoughts of",
+				"revenge, understand?\\. We have a",
+				"mission..."
 			],
 			"__comment__": "Prophet"
 		},
@@ -60,9 +61,9 @@
 			"original": "Genji: Mir geht es nicht um Rache. Mir geht es hier um die Gefahr, die diese Person darstellt.",
 			"lines":
 			[
-				"\\c[10]Genji\\c[0]: Mir geht es nicht um Rache.\\.",
-				"Mir geht es hier um die Gefahr, die ",
-				"diese Person darstellt."
+				"\\c[10]Genji\\c[0]: I'm not concerned about",
+				"revenge.\\. I'm concerned about",
+				"the danger this person poses."
 			]
 		},
 		{
@@ -70,10 +71,9 @@
 			"original": "Genji: Sollte die Flucht die du prophezeist stattfinden und Kento dabei auf diese Person stoßen - was dann?",
 			"lines":
 			[
-				"\\c[10]Genji\\c[0]: Sollte die Flucht die du ",
-				"prophezeist stattfinden und Kento ",
-				"dabei auf diese Person stoßen \\.- was ",
-				"dann?"
+				"\\c[10]Genji\\c[0]: Should the escape in the",
+				"prophecy take place and Kento were",
+				"to encounter this person,\\. what then?"
 			]
 		},
 		{
@@ -81,10 +81,9 @@
 			"original": "Genji: Wir beide wissen, wozu dieser General fähig ist. Zwillingsseele hin oder her, Kento würde das nicht überstehen!",
 			"lines":
 			[
-				"\\c[10]Genji\\c[0]: Wir beide wissen, wozu dieser ",
-				"General fähig ist.\\. Zwillingsseele ",
-				"hin oder her, Kento würde das nicht ",
-				"überstehen!"
+				"\\c[10]Genji\\c[0]: We both know what this general",
+				"is capable of.\\. Twin soul or not,",
+				"Kento will not survive!"
 			]
 		},
 		{
@@ -92,9 +91,8 @@
 			"original": "Genji: Du kannst mir nicht erzählen, dass Heimdall diese Tatsache komplett entgangen ist!",
 			"lines":
 			[
-				"\\c[10]Genji\\c[0]: Du kannst mir nicht erzählen, ",
-				"dass Heimdall diese Tatsache ",
-				"komplett entgangen ist!"
+				"\\c[10]Genji\\c[0]: You can't tell me that Heimdall",
+				"completely missed this fact!"
 			]
 		},
 		{
@@ -102,10 +100,9 @@
 			"original": "?????: ...er hat mich gewarnt. Dennoch, ist es keine Situation in der wir vorzeitig eingreifen sollten.",
 			"lines":
 			[
-				"\\c[10]?????\\c[0]: ...er hat mich gewarnt.  \\.",
-				"Dennoch, ist es keine Situation in ",
-				"der wir vorzeitig eingreifen ",
-				"sollten."
+				"\\c[10]?????\\c[0]: He warned me.\\. Nevertheless, it",
+				"isn't a situation we should intervene",
+				"in prematurely."
 			],
 			"__comment__": "Prophet"
 		},
@@ -114,10 +111,9 @@
 			"original": "Genji: Und deswegen sagst du uns nichts? Dies ist keine Situation, die wir durch spontanes Eingreifen geregelt bekommen können!",
 			"lines":
 			[
-				"\\c[10]Genji\\c[0]: Und deswegen sagst du uns ",
-				"nichts?\\. Dies ist keine Situation, ",
-				"die wir durch spontanes Eingreifen ",
-				"geregelt bekommen können!"
+				"\\c[10]Genji\\c[0]: And that's why you didn't tell",
+				"us anything?\\. This isn't a situation",
+				"that we can save at the last minute!"
 			]
 		},
 		{
@@ -125,10 +121,10 @@
 			"original": "Genji: Wenn wir unüberlegt da rein stürzen kostet das nicht nur Kentos Leben, sondern unsers gleich dazu. Willst du das verantworten?",
 			"lines":
 			[
-				"\\c[10]Genji\\c[0]: Wenn wir unüberlegt da rein ",
-				"stürzen kostet das nicht nur Kentos ",
-				"Leben, sondern unsers gleich dazu.\\.",
-				"Willst du das verantworten?"
+				"\\c[10]Genji\\c[0]: If we have to rush into it",
+				"without thinking, it not only costs",
+				"Kento's life, but also ours.\\. Do you",
+				"want to be responsible for that?"
 			]
 		},
 		{
@@ -136,9 +132,8 @@
 			"original": "Genji: Wir müssen uns vorbereiten. Das ist alles was ich damit sagen will.",
 			"lines":
 			[
-				"\\c[10]Genji\\c[0]: Wir müssen uns vorbereiten. ",
-				"Das ist alles was ich damit sagen ",
-				"will."
+				"\\c[10]Genji\\c[0]: We have to prepare. That's all",
+				"I can say about it."
 			]
 		},
 		{
@@ -146,8 +141,8 @@
 			"original": "?????: Du hast recht. Ich habe diese Tatsache wohl unterschätzt...",
 			"lines":
 			[
-				"\\c[10]?????\\c[0]: Du hast recht.\\. Ich habe diese ",
-				"Tatsache wohl unterschätzt..."
+				"\\c[10]?????\\c[0]: You're right.\\. I probably did",
+				"underestimate this fact..."
 			],
 			"__comment__": "Prophet"
 		},
@@ -156,10 +151,9 @@
 			"original": "?????: Kumiko? Macht dich bitte mit der Gegend vertraut. Wir werden deine Fähigkeiten womöglich in Anspruch nehmen müssen.",
 			"lines":
 			[
-				"\\c[10]?????\\c[0]: Kumiko?\\. Macht dich bitte mit ",
-				"der Gegend vertraut.\\. Wir werden ",
-				"deine Fähigkeiten womöglich in ",
-				"Anspruch nehmen müssen."
+				"\\c[10]?????\\c[0]: Kumiko?\\. Please survey the area",
+				"and get familiar with it.\\. We may need",
+				"your skills after all."
 			],
 			"__comment__": "Prophet"
 		},
@@ -168,7 +162,7 @@
 			"original": "Kumiko: G-Geht in Ordnung!",
 			"lines":
 			[
-				"\\c[10]Kumiko\\c[0]: G-\\.Geht in Ordnung!"
+				"\\c[10]Kumiko\\c[0]: O-\\.Okay!"
 			]
 		}
 	]

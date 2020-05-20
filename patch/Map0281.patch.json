@@ -6,7 +6,7 @@
 			"original": "Felcis: Okay, hier sind wir!",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Okay, hier sind wir! "
+				"\\c[5]\\n[5]\\c[0]: Okay, here we are!"
 			]
 		},
 		{
@@ -14,8 +14,8 @@
 			"original": "Kento: Also, was für ein Pulver suchen wir jetzt genau?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Also, was für ein Pulver ",
-				"suchen wir jetzt genau?"
+				"\\c[1]\\n[1]\\c[0]: So what kind of powder are we",
+				"looking for?"
 			]
 		},
 		{
@@ -23,8 +23,8 @@
 			"original": "Felcis: Graufunkenpulver. Ist euch das ein Begriff?",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Graufunkenpulver.\\. Ist euch ",
-				"das ein Begriff?"
+				"\\c[5]\\n[5]\\c[0]: Static powder.\\. Do you know",
+				"what it is?"
 			]
 		},
 		{
@@ -32,10 +32,9 @@
 			"original": "Soko: Hm... ich denke, ich hab mal davon gehört. Wird das nicht verwendet, um die Wirkung von Signumsprüchen zu verstärken?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Hm...\\. ich denke, ich hab mal ",
-				"davon gehört.\\. Wird das nicht ",
-				"verwendet, um die Wirkung von ",
-				"Signumsprüchen zu verstärken?"
+				"\\c[13]\\n[3]\\c[0]: Hm...\\. I think I've heard about",
+				"it.\\. Isn't it used to enhance the",
+				"potency of Signums?"
 			]
 		},
 		{
@@ -43,10 +42,10 @@
 			"original": "Felcis: Exakt. Man streue Graufunkenpulver an eine Felswand und zaubere Feuer oder Feures drauf und WUMM - ein Loch wurde gesprengt.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Exakt.\\. Man streue ",
-				"Graufunkenpulver an eine Felswand ",
-				"und zaubere Feuer oder Feures drauf ",
-				"und \\s[2]WUMM \\s[0]\\.- ein Loch wurde gesprengt."
+				"\\c[5]\\n[5]\\c[0]: Exactly.\\. You sprinkle some",
+				"static powder on the wall of a cave",
+				"then use a fire or great fire spell",
+				"on it, and \\s[2]BOOM,\\s[0]\\. a hole is opened up."
 			]
 		},
 		{
@@ -54,10 +53,9 @@
 			"original": "Felcis: Das ist auch der Grund, wieso dieses Pulver in der Mine verwendet wird - oder eher verwendet wurde.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Das ist auch der Grund, ",
-				"wieso dieses Pulver in der Mine ",
-				"verwendet wird \\.- oder eher verwendet ",
-				"wurde."
+				"\\c[5]\\n[5]\\c[0]: That's also the reason why",
+				"this powder is used in the mine,\\.",
+				"or rather,\\. was used."
 			]
 		},
 		{
@@ -65,10 +63,10 @@
 			"original": "Felcis: Mittlerweile scheint man ja nur noch mit Dynamit zu sprengen, wahrscheinlich weil man dafür keine Signumkundigen mehr braucht.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Mittlerweile scheint man ja ",
-				"nur noch mit Dynamit zu sprengen, ",
-				"wahrscheinlich weil man dafür keine ",
-				"Signumkundigen mehr braucht."
+				"\\c[5]\\n[5]\\c[0]: Meanwhile, they only seem to",
+				"be blowing up walls with dynamite,",
+				"probably because they no longer need",
+				"anyone who's familiar with Signums."
 			]
 		},
 		{
@@ -76,10 +74,9 @@
 			"original": "Felcis: Ich hab ehrlich gesagt nicht erwartet, dass man schon heute den gesamten Graupulverkonsum aufgelöst bekommen hat.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich hab ehrlich gesagt nicht",
-				"erwartet, dass man schon heute den ",
-				"gesamten Graupulverkonsum aufgelöst ",
-				"bekommen hat."
+				"\\c[5]\\n[5]\\c[0]: To be honest, I didn't expect",
+				"that all of the static powder's usage",
+				"would be cut."
 			]
 		},
 		{
@@ -87,9 +84,9 @@
 			"original": "Felcis: Aber hier sollten wir noch einige letzte Reserven finden - hoffentlich.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Aber hier sollten wir noch ",
-				"einige letzte Reserven finden\\. - ",
-				"hoffentlich."
+				"\\c[5]\\n[5]\\c[0]: But we should still be able to",
+				"find some of the last reserves here,\\.",
+				"hopefully."
 			]
 		},
 		{
@@ -97,8 +94,8 @@
 			"original": "Kento: Hm, wie es aussieht, geht es hier im Gang noch weiter.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hm,\\. wie es aussieht, geht es ",
-				"hier im Gang noch weiter."
+				"\\c[1]\\n[1]\\c[0]: Hm,\\. it looks like this place",
+				"continues over there."
 			]
 		},
 		{
@@ -106,9 +103,8 @@
 			"original": "Felcis: Sehr groß kann der Lagerbereich nicht sein, wir werden den Kram schon finden.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Sehr groß kann der ",
-				"Lagerbereich nicht sein, wir werden ",
-				"den Kram schon finden."
+				"\\c[5]\\n[5]\\c[0]: This storeroom can't be very",
+				"big, we'll find the stuff eventually."
 			]
 		},
 		{
@@ -116,8 +112,8 @@
 			"original": "Cibon: Wie sieht dieses Graufunkenpulver denn aus?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wie sieht dieses ",
-				"Graufunkenpulver denn aus?"
+				"\\c[2]\\n[2]\\c[0]: What does this static powder",
+				"look like?"
 			]
 		},
 		{
@@ -125,9 +121,8 @@
 			"original": "Felcis: Nun, es ist grau, funkelt und sieht abgesehen davon aus wie Pulver.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Nun, es ist grau,\\. funkelt\\. ",
-				"und sieht abgesehen davon aus wie ",
-				"Pulver."
+				"\\c[5]\\n[5]\\c[0]: Well,\\. it's gray,\\. sparkles,\\. and",
+				"looks powdery apart from that."
 			]
 		},
 		{
@@ -152,8 +147,8 @@
 			"original": "Cibon: Sollen wir das einfach so einstecken, Kumpel?",
 			"lines":
 			[
-				"\\c[12]\\n[2]\\c[0]: Sollen wir das einfach so ",
-				"einstecken, Kumpel?"
+				"\\c[2]\\n[2]\\c[0]: Shouldn't we just leave it",
+				"there, Kento?"
 			]
 		},
 		{
@@ -161,9 +156,9 @@
 			"original": "Kento: Wieso nicht? Die Wächter geben uns so oder so Magische Lupen, von daher wird es nicht auffallen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wieso nicht?\\. Die Wächter ",
-				"geben uns so oder so Magische Lupen, ",
-				"von daher wird es nicht auffallen."
+				"\\c[1]\\n[1]\\c[0]: Why not?\\. The guards give us",
+				"magic lens, so either way, it",
+				"won't be noticed."
 			]
 		},
 		{

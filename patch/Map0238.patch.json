@@ -6,9 +6,9 @@
 			"original": "General: Soso. Herr Daikon. Kento! Wie hat dir die Minenarbeit gefallen?",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Soso.\\. Herr Daikon.\\. Kento! \\.",
-				"Wie hat dir die Minenarbeit ",
-				"gefallen?"
+				"\\c[10]General\\c[0]: Well,\\. well,\\. well.\\. Mr. Daikon.\\.",
+				"Kento!\\. How's working in the mine for",
+				"you?"
 			]
 		},
 		{
@@ -24,8 +24,8 @@
 			"original": "General: Rede! Wie hat sie dir gefallen?",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Rede!\\. Wie hat sie dir ",
-				"gefallen?"
+				"\\c[10]General\\c[0]: Speak!\\. How do you feel about",
+				"it?"
 			]
 		},
 		{
@@ -33,7 +33,7 @@
 			"original": "Kento: ...Es war anstrengend...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...\\.Es war anstrengend..."
+				"\\c[1]\\n[1]\\c[0]: It was exhausting..."
 			]
 		},
 		{
@@ -41,10 +41,9 @@
 			"original": "General: Das glaube ich. Doch es ist nicht viel mehr als ein gewöhnlicher, harter Arbeitstag, nicht wahr?",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Das glaube ich.\\. Doch es ist ",
-				"nicht viel mehr als ein ",
-				"gewöhnlicher, harter Arbeitstag, ",
-				"nicht wahr?"
+				"\\c[10]General\\c[0]: I thought so too.\\. But it's",
+				"not any harder than an ordinary,",
+				"hardworking day, isn't it?"
 			]
 		},
 		{
@@ -52,9 +51,8 @@
 			"original": "General: Nun laufen da unten aber auch mehr als genug Soldaten rum, die unter meinem Befehl stehen.",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Nun laufen da unten aber ",
-				"auch mehr als genug Soldaten rum, ",
-				"die unter meinem Befehl stehen."
+				"\\c[10]General\\c[0]: Now, there are more than",
+				"enough soldiers under my command."
 			]
 		},
 		{
@@ -62,10 +60,9 @@
 			"original": "General: Ich bin also in der Lage, dir das Leben da unten erst so richtig zur Hölle zu machen. Ist dir das klar?",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Ich bin also in der Lage, ",
-				"dir das Leben da unten erst so ",
-				"richtig zur Hölle zu machen.\\. Ist dir ",
-				"das klar?"
+				"\\c[10]General\\c[0]: So I can truly make your life",
+				"down there a living hell.\\. Do you even",
+				"realize that?"
 			]
 		},
 		{
@@ -73,10 +70,10 @@
 			"original": "General: Wenn du und deine Kollegen also einen Arbeitstag ohne Tracht Prügel bevorzugt, solltest du mir besser sagen, was ich hören will!",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Wenn du und deine Kollegen ",
-				"also einen Arbeitstag ohne Tracht ",
-				"Prügel bevorzugt, solltest du mir ",
-				"besser sagen, was ich hören will!"
+				"\\c[10]General\\c[0]: So if you and your friends",
+				"prefer working here without a beating,",
+				"you'd better tell me what I want to",
+				"hear!"
 			]
 		},
 		{
@@ -84,7 +81,7 @@
 			"original": "General: Verstanden?",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Verstanden?"
+				"\\c[10]General\\c[0]: Understand?"
 			]
 		},
 		{
@@ -92,7 +89,7 @@
 			"original": "General: VERSTANDEN?",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: VERSTANDEN?"
+				"\\c[10]General\\c[0]: UNDERSTAND?"
 			]
 		},
 		{
@@ -100,7 +97,7 @@
 			"original": "Kento: Ja.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja."
+				"\\c[1]\\n[1]\\c[0]: Yes."
 			]
 		},
 		{
@@ -108,9 +105,8 @@
 			"original": "General: Also fangen wir an. Was ist das für eine Truppe, für die ihr spioniert habt?",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Also fangen wir an. \\.",
-				"Was ist das für eine Truppe, für die ",
-				"ihr spioniert habt?"
+				"\\c[10]General\\c[0]: So let's get started.\\. What",
+				"kind of troops are you spying for?"
 			]
 		},
 		{
@@ -118,9 +114,9 @@
 			"original": "Kento: Eine Truppe, die im Untergrund ein Heer gebildet hat, von dem Brigantia nichts wusste.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Eine Truppe, die im ",
-				"Untergrund ein Heer gebildet hat, ",
-				"von dem Brigantia nichts wusste."
+				"\\c[1]\\n[1]\\c[0]: A group that's been forming an",
+				"army underground which Brigantian",
+				"didn't know about."
 			]
 		},
 		{
@@ -128,10 +124,9 @@
 			"original": "General: Sehr schön Kento, aber das wissen wir bereits! Steht diese Truppe in Verbindung mit den Farenischen Adelsbund?",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Sehr schön Kento, aber das ",
-				"wissen wir bereits!\\. Steht diese ",
-				"Truppe in Verbindung mit den ",
-				"Farenischen Adelsbund?"
+				"\\c[10]General\\c[0]: Nice try Kento, but we",
+				"already know that!\\. Is this group",
+				"connected to the Farenian Aristocracy?"
 			]
 		},
 		{
@@ -139,7 +134,7 @@
 			"original": "Kento: Das weiß ich nicht.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Das weiß ich nicht."
+				"\\c[1]\\n[1]\\c[0]: I don't know."
 			]
 		},
 		{
@@ -147,10 +142,9 @@
 			"original": "General: Falsche Antwort. Erzähl mir nicht, dass du als Spion dieser Truppe nicht über so eine grundlegende Sache Bescheid weißt!",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Falsche Antwort.\\. Erzähl mir ",
-				"nicht, dass du als Spion dieser ",
-				"Truppe nicht über so eine ",
-				"grundlegende Sache Bescheid weißt!"
+				"\\c[10]General\\c[0]: Wrong answer.\\. Don't tell me",
+				"that as a spy for this group, you",
+				"don't know such a basic thing!"
 			]
 		},
 		{
@@ -158,9 +152,8 @@
 			"original": "Kento: ... Ja, sie stehen in Verbindung mit dem farenischen Adelsbund.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...\\. Ja, sie stehen in ",
-				"Verbindung mit dem farenischen ",
-				"Adelsbund."
+				"\\c[1]\\n[1]\\c[0]: ...\\.Yes, they're connected to",
+				"the Farenian Aristocracy."
 			]
 		},
 		{
@@ -168,8 +161,8 @@
 			"original": "General: Gut. Was ist das Ziel dieser Truppe?",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Gut.\\. Was ist das Ziel ",
-				"dieser Truppe?"
+				"\\c[10]General\\c[0]: Good.\\. What's the goal of this",
+				"group?"
 			]
 		},
 		{
@@ -177,10 +170,10 @@
 			"original": "Kento: Sie wollen Brigantia einengen und die Landesteile, die Korzojeno im Krieg verloren hat wieder gewinnen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Sie wollen Brigantia ",
-				"einengen und die Landesteile, die ",
-				"Korzojeno im Krieg verloren hat ",
-				"wieder gewinnen."
+				"\\c[1]\\n[1]\\c[0]: They want to whittle down",
+				"Brigantia's forces and regain the",
+				"parts of the country that Korzojeno",
+				"lost during the war."
 			]
 		},
 		{
@@ -188,8 +181,7 @@
 			"original": "General: Erzähl mir keine Lügengeschichten!",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Erzähl mir keine ",
-				"Lügengeschichten! "
+				"\\c[10]General\\c[0]: Quit lying to me!"
 			]
 		},
 		{
@@ -197,10 +189,10 @@
 			"original": "General: Wie will ein Heer, das so klein ist, dass man es im Untergrund ansammeln kann, gegen die Armee des Briganten-Orden bestehen?!",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Wie will ein Heer, das so ",
-				"klein ist, dass man es im Untergrund ",
-				"ansammeln kann, gegen die Armee des ",
-				"Briganten-Orden bestehen?!"
+				"\\c[10]General\\c[0]: How does an army so small",
+				"think that it can build itself up",
+				"and stand against the Brigantine",
+				"Order?!"
 			]
 		},
 		{
@@ -208,7 +200,7 @@
 			"original": "Kento: Eine Geheimwaffe...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Eine Geheimwaffe..."
+				"\\c[1]\\n[1]\\c[0]: A secret weapon..."
 			]
 		},
 		{
@@ -216,7 +208,7 @@
 			"original": "General: Was war das?",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Was war das?"
+				"\\c[10]General\\c[0]: What did you say?"
 			]
 		},
 		{
@@ -224,10 +216,10 @@
 			"original": "Kento: Es gibt eine Geheimwaffe, mit der sie Brigantia ebenbürtig wären. Allerdings weiß ich nichts Genaueres darüber...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es gibt eine Geheimwaffe, mit ",
-				"der sie Brigantia ebenbürtig wären.\\.",
-				"Allerdings weiß ich nichts Genaueres ",
-				"darüber... "
+				"\\c[1]\\n[1]\\c[0]: There's a secret weapon, the",
+				"likes of which would rival Brigantia's",
+				"strength.\\. However, I don't know",
+				"anything more about it..."
 			]
 		},
 		{
@@ -235,8 +227,8 @@
 			"original": "Kento: Die Informationen sind streng gehei...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Die Informationen sind streng ",
-				"gehei...\\.\\^"
+				"\\c[1]\\n[1]\\c[0]: That information is strictly",
+				"confidential...\\.\\^"
 			]
 		},
 		{
@@ -244,8 +236,8 @@
 			"original": "General: Du weißt mit Sicherheit mehr! ALSO REDE!",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Du weißt mit Sicherheit ",
-				"mehr! ALSO REDE!"
+				"\\c[10]General\\c[0]: You definitely know more!",
+				"SO TELL ME!"
 			]
 		},
 		{
@@ -253,8 +245,8 @@
 			"original": "Kento: Es ist ein Zauber... Ähnlich wie Septoccasus.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es ist ein Zauber...\\. Ähnlich ",
-				"wie Septoccasus. "
+				"\\c[1]\\n[1]\\c[0]: It's some type of magic...\\.",
+				"similar to Septoccasus."
 			]
 		},
 		{
@@ -262,9 +254,10 @@
 			"original": "General: Nun, das hört sich Interessant an. Ich warne dich, wehe du erzählst mir etwas Falsches!",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Nun, das hört sich ",
-				"Interessant an.\\. Ich warne dich, wehe ",
-				"du erzählst mir etwas Falsches!"
+				"\\c[10]General\\c[0]: Well now, that sounds",
+				"interesting.\\. I'm warning you, if what",
+				"you told me is wrong, that living hell",
+				"I talked about isn't too far away!"
 			]
 		},
 		{
@@ -272,10 +265,10 @@
 			"original": "Sir Dolaros: Soso, du bist also Cibon Tirunel. Hat dir dein Kollege schon erzählt, wie das hier mit dem Verhör abläuft?",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Soso, du bist also ",
-				"Cibon Tirunel.\\. Hat dir dein Kollege ",
-				"schon erzählt, wie das hier mit dem ",
-				"Verhör abläuft?"
+				"\\c[10]Sir Dolaros\\c[0]: Well,\\. well,\\. well.\\. So",
+				"you're Cibon Tirunel.\\. Has your",
+				"friend already told you how",
+				"these interrogations work?"
 			]
 		},
 		{
@@ -283,8 +276,8 @@
 			"original": "Cibon: Du sagst was oder du wirst geschlagen, oder?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Du sagst was oder du wirst ",
-				"geschlagen, oder?"
+				"\\c[2]\\n[2]\\c[0]: I say what you want or I get",
+				"hit, right?"
 			]
 		},
 		{
@@ -292,8 +285,8 @@
 			"original": "Sir Dolaros: Fast! Die Wahrheit wollen wir hören und nichts weiter!",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Fast!\\. Die Wahrheit ",
-				"wollen wir hören und nichts weiter! "
+				"\\c[10]Sir Dolaros\\c[0]: Almost!\\. We just want to",
+				"hear the truth and nothing more!"
 			]
 		},
 		{
@@ -301,10 +294,9 @@
 			"original": "Sir Dolaros: Sollten sich deine Aussagen als falsch herausstellen, werden wir uns wieder treffen, das garantier ich dir.",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Sollten sich deine ",
-				"Aussagen als falsch herausstellen, ",
-				"werden wir uns wieder treffen, das ",
-				"garantier ich dir."
+				"\\c[10]Sir Dolaros\\c[0]: If your stories don't",
+				"line up, we WILL meet again, mark",
+				"my words."
 			]
 		},
 		{
@@ -312,9 +304,9 @@
 			"original": "Cibon: Bla, bla, bla. Haben wir jetzt genug gelabert und können endlich mit den Fragen beginnen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Bla,\\. bla,\\. bla.\\. Haben wir ",
-				"jetzt genug gelabert und können ",
-				"endlich mit den Fragen beginnen?"
+				"\\c[2]\\n[2]\\c[0]: Blah,\\. blah,\\. blah.\\. Are we done",
+				"talking now and can we finally get",
+				"around to the questions already?"
 			]
 		},
 		{
@@ -322,10 +314,10 @@
 			"original": "Sir Dolaros: Soso. Soko Filaja. Ein weiblicher Soldat des Briganten- Orden. Was heute so alles ins Heer reinkommt, kaum zu glauben.",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Soso. \\.Soko Filaja.\\. Ein ",
-				"weiblicher Soldat des Briganten-",
-				"Orden.\\. Was heute so alles ins Heer ",
-				"reinkommt, kaum zu glauben."
+				"\\c[10]Sir Dolaros\\c[0]: Well,\\. well,\\. well.\\. Soko",
+				"Filaja.\\. A female soldier of the",
+				"Brigantine Order.\\. Hard to believe what",
+				"kind of people they're letting in now."
 			]
 		},
 		{
@@ -333,10 +325,9 @@
 			"original": "Sir Dolaros: Ich denke mal, ihr drei wisst mittlerweile, wie das hier läuft. Also gehen wir gleich zu den Fragen.",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Ich denke mal, ihr drei ",
-				"wisst mittlerweile, wie das hier ",
-				"läuft.\\. Also gehen wir gleich zu den ",
-				"Fragen."
+				"\\c[10]Sir Dolaros\\c[0]: I think you three know",
+				"how this works by now.\\. So let's go",
+				"straight to the questions."
 			]
 		},
 		{
@@ -344,7 +335,7 @@
 			"original": "Soko: Dieses Verhör ist sinnlos.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Dieses Verhör ist sinnlos."
+				"\\c[13]\\n[3]\\c[0]: This interrogation is pointless."
 			]
 		},
 		{
@@ -352,7 +343,7 @@
 			"original": "Sir Dolaros: Was war das?",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Was war das?"
+				"\\c[10]Sir Dolaros\\c[0]: What's that?"
 			]
 		},
 		{
@@ -360,9 +351,9 @@
 			"original": "Soko: Dieses Verhör ist sinnlos. Sie können keine Informationen aus uns rauspressen, weil wir nichts wissen!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Dieses Verhör ist sinnlos.\\. Sie ",
-				"können keine Informationen aus uns ",
-				"rauspressen, weil wir nichts wissen!"
+				"\\c[13]\\n[3]\\c[0]: This interrogation is pointless.\\.",
+				"You can't squeeze information out of",
+				"us because we don't know anything!"
 			]
 		},
 		{
@@ -370,8 +361,9 @@
 			"original": "Sir Dolaros: Nun, bei deinen beiden Kollegen klang das aber ganz anders!",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Nun, bei deinen beiden ",
-				"Kollegen klang das aber ganz anders!"
+				"\\c[10]Sir Dolaros\\c[0]: Well then, that sounds",
+				"rather different compared to your",
+				"two friends!"
 			]
 		},
 		{
@@ -379,9 +371,9 @@
 			"original": "Soko: Natürlich klang das anders! Sie wurden ja dazu gezwungen etwas zu sagen, irgendetwas!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Natürlich klang das anders!\\.",
-				"Sie wurden ja dazu gezwungen etwas ",
-				"zu sagen, irgendetwas!"
+				"\\c[13]\\n[3]\\c[0]: Of course it sounded different!\\.",
+				"They were forced to say something,",
+				"anything even!"
 			]
 		},
 		{
@@ -389,9 +381,9 @@
 			"original": "Sir Dolaros: Richtig! Und bei dir wird das nicht anders sein, mein Fräulein.",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Richtig!\\. Und bei dir ",
-				"wird das nicht anders sein, mein ",
-				"Fräulein."
+				"\\c[10]Sir Dolaros\\c[0]: That's right!\\. And it",
+				"won't be any different with you,",
+				"young lady."
 			]
 		},
 		{
@@ -399,9 +391,10 @@
 			"original": "Sir Dolaros: Soso... Sir Kiorta. Sie kommen also als Bote vom Adelsbund höchstpersönlich, behaupten Sie.",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Soso...\\. Sir Kiorta.\\. Sie ",
-				"kommen also als Bote vom Adelsbund ",
-				"höchstpersönlich, behaupten Sie."
+				"\\c[10]Sir Dolaros\\c[0]: Well,\\. well,\\. well...\\. Sir",
+				"Kiorta.\\. So you've personally come as",
+				"a messenger from the aristocracy,",
+				"you say."
 			]
 		},
 		{
@@ -409,9 +402,9 @@
 			"original": "Felcis: Wenn Ihr mir nicht glaubt, holt euch einfach eine Bestätigung von Farenia selber.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Wenn Ihr mir nicht glaubt, ",
-				"holt euch einfach eine Bestätigung ",
-				"von Farenia selber."
+				"\\c[5]\\n[5]\\c[0]: If you don't believe me, just",
+				"get confirmation from Farenia",
+				"yourself."
 			]
 		},
 		{
@@ -419,10 +412,9 @@
 			"original": "Sir Dolaros: Das ist nicht notwendig. Wir glauben Ihnen. Wieso sonst, denken Sie, hätten wir Sie hier eingesperrt?",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Das ist nicht ",
-				"notwendig.\\. Wir glauben Ihnen.\\. Wieso ",
-				"sonst, denken Sie, hätten wir Sie ",
-				"hier eingesperrt?"
+				"\\c[10]Sir Dolaros\\c[0]: That won't be necessary.\\.",
+				"We believe you.\\. Why else do you think",
+				"we would've locked you up here?"
 			]
 		},
 		{
@@ -430,10 +422,10 @@
 			"original": "Sir Dolaros: Also kommen wir zum Punkt! Was hat Farenia vor? Was plant ihr da im Hintergrund, ohne Brigantia davon wissen zu lassen?",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Also kommen wir zum ",
-				"Punkt!\\. Was hat Farenia vor?\\. Was ",
-				"plant ihr da im Hintergrund, ohne ",
-				"Brigantia davon wissen zu lassen?"
+				"\\c[10]Sir Dolaros\\c[0]: So let's get to the",
+				"point!\\. What's Farenia up to?\\. What",
+				"are they planning in the shadows",
+				"and hiding from Brigantia?"
 			]
 		},
 		{
@@ -441,9 +433,10 @@
 			"original": "Felcis: Nun gut, ich will ehrlich sein. Wir planen im Moment, unser Wappen etwas umzufärben.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Nun gut, ich will ehrlich ",
-				"sein.\\. Wir planen im Moment, unser ",
-				"Wappen etwas umzufärben. "
+				"\\c[5]\\n[5]\\c[0]: Well, I want to be completely",
+				"honest with you.\\. We're currently",
+				"planning to change the color of",
+				"our coat of arms."
 			]
 		},
 		{
@@ -451,10 +444,9 @@
 			"original": "Felcis: Diese bunten Farben sind uns viel zu optimistisch angesichts unseres momentan doch sehr armseligen Daseins.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Diese bunten Farben sind uns ",
-				"viel zu optimistisch angesichts ",
-				"unseres momentan doch sehr ",
-				"armseligen Daseins."
+				"\\c[5]\\n[5]\\c[0]: These bright colors are far",
+				"too optimistic for us due to our",
+				"currently oh so poor existence."
 			]
 		},
 		{
@@ -462,9 +454,8 @@
 			"original": "Felcis: Es tut uns aufrichtig Leid, dass wir Brigantia davon nicht unterrichtet haben.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Es tut uns aufrichtig Leid, ",
-				"dass wir Brigantia davon nicht ",
-				"unterrichtet haben."
+				"\\c[5]\\n[5]\\c[0]: Our sincerest condolences that",
+				"we haven't informed Brigantia of this."
 			]
 		},
 		{
@@ -472,9 +463,8 @@
 			"original": "Sir Dolaros: Stellen Sie sich nicht dumm! Sie wissen genau wovon ich rede!",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Stellen Sie sich nicht ",
-				"dumm!\\. Sie wissen genau wovon ich ",
-				"rede! "
+				"\\c[10]Sir Dolaros\\c[0]: Quit messing around!\\. You",
+				"know exactly what I'm talking about!"
 			]
 		},
 		{
@@ -482,9 +472,9 @@
 			"original": "Sir Dolaros: Wieso wurde jene geheime Kampftruppe gebildet, die im Silvanwald entdeckt wurde?",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Wieso wurde jene ",
-				"geheime Kampftruppe gebildet, die im ",
-				"Silvanwald entdeckt wurde?"
+				"\\c[10]Sir Dolaros\\c[0]: Why was that secret army",
+				"discovered in the Silvan Forest formed",
+				"in the first place?"
 			]
 		},
 		{
@@ -492,9 +482,9 @@
 			"original": "Felcis: Von welcher Truppe redet Ihr? Ich weiß nichts von einer solchen.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Von welcher Truppe redet ",
-				"Ihr?\\. Ich weiß nichts von einer ",
-				"solchen. "
+				"\\c[5]\\n[5]\\c[0]: What army are you talking",
+				"about?\\. I don't know anything",
+				"about it."
 			]
 		},
 		{
@@ -502,9 +492,9 @@
 			"original": "Felcis: Dann wiederum weiß ich auch nicht, was sich alles in unserem Adelsbund abspielt.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Dann wiederum weiß ich auch ",
-				"nicht, was sich alles in unserem ",
-				"Adelsbund abspielt."
+				"\\c[5]\\n[5]\\c[0]: Then again, I don't know much",
+				"of what's going on with our",
+				"aristocracy."
 			]
 		},
 		{
@@ -512,10 +502,10 @@
 			"original": "Felcis: Doch seid euch gewiss - unser momentaner Prinz würde nicht im Traum daran denken, sich nochmal gegen Brigantia zu erheben.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Doch seid euch gewiss - ",
-				"unser momentaner Prinz würde nicht ",
-				"im Traum daran denken, sich nochmal ",
-				"gegen Brigantia zu erheben."
+				"\\c[5]\\n[5]\\c[0]: But for the record, our",
+				"current prince would never dream",
+				"of standing up to Brigantia ever",
+				"again."
 			]
 		},
 		{
@@ -523,9 +513,9 @@
 			"original": "Sir Dolaros: Das zu glauben fällt mir sehr schwer, angesichts dem, was sich an der Grenze abgespielt habt!",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Das zu glauben fällt ",
-				"mir sehr schwer, angesichts dem, was ",
-				"sich an der Grenze abgespielt habt!"
+				"\\c[10]Sir Dolaros\\c[0]: It's very difficult for",
+				"me to believe this, given what",
+				"happened at the border!"
 			]
 		},
 		{
@@ -533,10 +523,9 @@
 			"original": "Sir Dolaros: Es ist äußerst merkwürdig, dass Sie bis heute nichts davon mitbekommen haben - geradezu verdächtig!",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Es ist äußerst ",
-				"merkwürdig, dass Sie bis heute ",
-				"nichts davon mitbekommen haben - ",
-				"geradezu verdächtig!"
+				"\\c[10]Sir Dolaros\\c[0]: It's also extremely",
+				"strange that you haven't heard of it",
+				"until now... almost suspicious even!"
 			]
 		},
 		{
@@ -544,8 +533,7 @@
 			"original": "Felcis: Wo wir schon bei merkwürdigen Tatsachen sind...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Wo wir schon bei ",
-				"merkwürdigen Tatsachen sind..."
+				"\\c[5]\\n[5]\\c[0]: Speaking of strange things..."
 			]
 		},
 		{
@@ -553,9 +541,8 @@
 			"original": "Felcis: Wie kommt es, dass ein Mann euresgleichen hier in Helnovien stationiert ist?",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Wie kommt es, dass ein Mann ",
-				"euresgleichen hier in Helnovien ",
-				"stationiert ist?"
+				"\\c[5]\\n[5]\\c[0]: How is it that someone like",
+				"you is stationed here in Helnovien?"
 			]
 		},
 		{
@@ -563,10 +550,9 @@
 			"original": "Felcis: Ich dachte Ihr wäret auf dem südlichen Kontinent aktiv, die Truppen gegen die Aufstände zu führen...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich dachte Ihr wäret auf dem ",
-				"südlichen Kontinent aktiv, die ",
-				"Truppen gegen die Aufstände zu ",
-				"führen..."
+				"\\c[5]\\n[5]\\c[0]: I thought you were active on",
+				"the southern continent in leading the",
+				"troops against the uprisings..."
 			]
 		},
 		{
@@ -574,10 +560,10 @@
 			"original": "Sir Dolaros: Das hat Sie nicht zu interessieren! Wir reden hier über den Adelsbund! Und ICH Stelle hier die Fragen!! Verstanden?!",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Das hat Sie nicht zu ",
-				"interessieren!\\. Wir reden hier über ",
-				"den Adelsbund!\\. Und ICH Stelle hier ",
-				"die Fragen!!\\. Verstanden?! "
+				"\\c[10]Sir Dolaros\\c[0]: That's none of your",
+				"business!\\. We're talking about the",
+				"aristocracy!\\. And I'M the one asking",
+				"the questions around here!!\\. Got it?!"
 			]
 		},
 		{
@@ -585,8 +571,7 @@
 			"original": "Felcis: Verzeiht mein dreistes Eingreifen...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Verzeiht mein dreistes ",
-				"Eingreifen..."
+				"\\c[5]\\n[5]\\c[0]: Forgive my brazen inquiry..."
 			]
 		},
 		{
@@ -594,9 +579,8 @@
 			"original": "(Felcis: Na sowas... da habe ich einen ziemlich wunden Punkt getroffen...)",
 			"lines":
 			[
-				"(\\c[5]\\n[5]\\c[0]: Na sowas...\\. da habe ich ",
-				"einen ziemlich wunden Punkt ",
-				"getroffen...)"
+				"(\\c[5]\\n[5]\\c[0]: Well then...\\. I must've hit",
+				"a very sore spot...)"
 			]
 		}
 	]

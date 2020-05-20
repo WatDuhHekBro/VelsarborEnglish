@@ -33,10 +33,10 @@
 			"original": "Felcis: Hier ist es! Irgendwo hier in diesem Bereich soll ein zugeschütteter Eingang sein. Haltet die Augen offen.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Hier ist es!\\. Irgendwo hier ",
-				"in diesem Bereich soll ein ",
-				"zugeschütteter Eingang sein.\\. Haltet ",
-				"die Augen offen."
+				"\\c[5]\\n[5]\\c[0]: Here it is!\\. Somewhere in this",
+				"area, there's supposed to be a",
+				"filled-in entrance.\\. Keep your",
+				"eyes open."
 			]
 		},
 		{
@@ -44,9 +44,8 @@
 			"original": "Kento: Felcis, willst du uns so langsam nicht mal aufklären, wonach wir überhaupt suchen?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Felcis, willst du uns so ",
-				"langsam nicht mal aufklären, wonach ",
-				"wir überhaupt suchen?"
+				"\\c[1]\\n[1]\\c[0]: Felcis, are you going to start",
+				"telling us what we're looking for?"
 			]
 		},
 		{
@@ -54,8 +53,8 @@
 			"original": "Felcis: Es geht um eine bestimmte Art von Pulver.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Es geht um eine bestimmte ",
-				"Art von Pulver. "
+				"\\c[5]\\n[5]\\c[0]: It's about a certain type of",
+				"powder."
 			]
 		},
 		{
@@ -63,10 +62,9 @@
 			"original": "Felcis: Was wir hier suchen, ist der Eingang zu einem ehemaligen Lagerbereich, der nicht mehr verwendet wird.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Was wir hier suchen, ist der ",
-				"Eingang zu einem ehemaligen ",
-				"Lagerbereich, der nicht mehr ",
-				"verwendet wird."
+				"\\c[5]\\n[5]\\c[0]: What we're looking for here is",
+				"the entrance to a former storeroom",
+				"that's no longer in use."
 			]
 		},
 		{
@@ -74,9 +72,9 @@
 			"original": "Felcis: Sobald wir in dem Lagerbereich sind, werd ich euch alles erklären.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Sobald wir in dem ",
-				"Lagerbereich sind, werd ich euch ",
-				"alles erklären. "
+				"\\c[5]\\n[5]\\c[0]: As soon as we're in the",
+				"storeroom, I'll explain",
+				"everything to you."
 			]
 		},
 		{
@@ -84,8 +82,8 @@
 			"original": "Felcis: Hier auf den Schienen ist mir nicht ganz geheuer.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Hier auf den Schienen ist",
-				"mir nicht ganz geheuer."
+				"\\c[5]\\n[5]\\c[0]: I'm not quite comfortable",
+				"sharing it here on the railways."
 			]
 		},
 		{

@@ -6,7 +6,7 @@
 			"original": "Kento: Oha! Das hier sieht gut aus.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Oha!\\. Das hier sieht gut aus."
+				"\\c[1]\\n[1]\\c[0]: Oh!\\. This looks like it."
 			]
 		},
 		{
@@ -14,9 +14,8 @@
 			"original": "Felcis: Bitte achtet unbedingt darauf, dass wir das Pulver auch rausgeschmuggelt bekommen!",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Bitte achtet unbedingt ",
-				"darauf, dass wir das Pulver auch ",
-				"rausgeschmuggelt bekommen!"
+				"\\c[5]\\n[5]\\c[0]: Please make sure that we get",
+				"the powder smuggled out of here!"
 			]
 		},
 		{
@@ -25,8 +24,8 @@
 			"original": "Kento: Wir warten besser noch etwas damit.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir warten besser noch etwas ",
-				"damit."
+				"\\c[1]\\n[1]\\c[0]: We'd better wait a little",
+				"longer."
 			]
 		},
 		{
@@ -44,10 +43,10 @@
 			"original": "Felcis: Wunderbar, dann lasst uns zurückgehen und noch soviel Erz schürfen, wie wir können. Sonst verhungern wir heute ja noch.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Wunderbar, dann lasst uns ",
-				"zurückgehen und noch soviel Erz ",
-				"schürfen, wie wir können.\\. Sonst ",
-				"verhungern wir heute ja noch."
+				"\\c[5]\\n[5]\\c[0]: Wonderful, then let's go back",
+				"and mine as much ore as we can.\\.",
+				"Otherwise, we're going to",
+				"starve today."
 			]
 		},
 		{
@@ -56,7 +55,7 @@
 			"original": "Kento: Eine gute Idee.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Eine gute Idee."
+				"\\c[1]\\n[1]\\c[0]: Good idea."
 			]
 		},
 		{
@@ -65,7 +64,7 @@
 			"original": "Soko: W...Was ist jetzt los?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: W...Was ist jetzt los?"
+				"\\c[13]\\n[3]\\c[0]: W... What's going on now?"
 			]
 		},
 		{
@@ -74,7 +73,7 @@
 			"original": "Felcis: Achtung, hinter euch!",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Achtung, hinter euch!"
+				"\\c[5]\\n[5]\\c[0]: Watch out, behind you!"
 			]
 		},
 		{
@@ -82,8 +81,7 @@
 			"original": "Kento: Wir brauchen kein weiteres Pulver mehr.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wir brauchen kein weiteres ",
-				"Pulver mehr."
+				"\\c[1]\\n[1]\\c[0]: We don't need any more powder."
 			]
 		},
 		{
@@ -91,10 +89,10 @@
 			"original": "Cibon: Oh je. Das kam jetzt wirklich unerwartet. Was hatte ein so riesiges Viech in so einem engen Bereich verloren?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Oh je.\\. Das kam jetzt wirklich ",
-				"unerwartet.\\. Was hatte ein so ",
-				"riesiges Viech in so einem engen ",
-				"Bereich verloren?"
+				"\\c[2]\\n[2]\\c[0]: Oh man.\\. That was really",
+				"unexpected now.\\. What was such a",
+				"huge creature doing in such a",
+				"small area?"
 			]
 		},
 		{
@@ -102,10 +100,9 @@
 			"original": "Kento: Vielleicht hat es hier unter der Erde geschlagen? Wer weiß das schon. Hauptsache wie haben die Sache überlebt.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Vielleicht hat es hier unter ",
-				"der Erde geschlagen?\\. Wer weiß das ",
-				"schon. \\.Hauptsache wie haben die ",
-				"Sache überlebt. "
+				"\\c[1]\\n[1]\\c[0]: Maybe it got lost underground",
+				"here?\\. Who knows.\\. The important thing",
+				"is that we survived."
 			]
 		},
 		{
@@ -113,10 +110,10 @@
 			"original": "Felcis: Ich muss schon sagen, ihr seid ziemlich fähige Kämpfer, dass ihr so ein Monster mit dieser einfachen Ausrüstung bezwungen habt.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich muss schon sagen, ihr ",
-				"seid ziemlich fähige Kämpfer, dass ",
-				"ihr so ein Monster mit dieser ",
-				"einfachen Ausrüstung bezwungen habt."
+				"\\c[5]\\n[5]\\c[0]: I have to say, you three are",
+				"quite the capable fighters, having",
+				"defeated such a monster with this",
+				"simple equipment."
 			]
 		},
 		{
@@ -124,9 +121,9 @@
 			"original": "Kento: Sagen wir so, es ist nicht das erste größere Monster, das wir erlebt haben...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Sagen wir so, es ist nicht ",
-				"das erste größere Monster, das wir ",
-				"erlebt haben..."
+				"\\c[1]\\n[1]\\c[0]: Let's just put it this way,",
+				"this isn't the first giant monster",
+				"we've seen..."
 			]
 		},
 		{
@@ -134,8 +131,8 @@
 			"original": "Felcis: Nun gut, dann mal wieder zurück zur nächsten Erzsammelstelle.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Nun gut, dann mal wieder ",
-				"zurück zur nächsten Erzsammelstelle."
+				"\\c[5]\\n[5]\\c[0]: Well, back to the railways",
+				"then."
 			]
 		},
 		{

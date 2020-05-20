@@ -772,24 +772,6 @@ Felcis: In Ordnung, lasst euch aber nicht zuviel Zeit.
 
 
 
--= 232 =-
-Guard: Hier sind die neuen Gefangenen, wie geordert!
-General: Wurde aber auch Zeit.
-General: Soso. So sehen heutzutage also Spione aus, wie? Kollegen aus der eigenen Kaserne.
-General: Und dann auch noch Prominenz wie unser junger Herr Daikon hier!
-General: Man würde ja glauben, dass man bei all der Verehrung der Mitmenschen genug Wohlgefallen an seiner Nation hätte.
-General: Aber nein! Stattdessen seid ihr jetzt hier!
-Soko: Wir sind keine Spione und keine Verräter! Das alles ist ein Missverständnis...
-General: Solltet ihr nicht so langsam begriffen haben, dass ihr hier vor Wächtern keine Redefreiheit habt?
-General: Tsk. Ich denke die Kleine hat für heute schon genug. Ich fange mal mit der Prominenz an.
-General: Bringt die anderen Beiden in ihre Zellen.
-Guard: Zu Befehl, Sir!
-
-Felcis: In dem Säckchen befindet sich ein winziges Loch und eine Windaura verteilt das Pulver gleichmäßig mit jedem Schritt.
-Felcis: Die Wache hat also soeben unsere Bombe samt Zündschnur vorbereitet!
-
-
-
 -= 234 =-
 Guard: Wollt ihr ne Erklärung zur Rüstungswahl?
 Guard: Wie ihr sicher schon bemerkt habt, bekommt ihr einige Turniermünzen von uns.
@@ -815,74 +797,6 @@ Guard: Eine ganz schöne Sammlung an Ausrüstungsgegenständen haben wir hier, n
 Guard: Seid ihr bereit für das Gefecht?
 
 Guard: Hey, was soll das? Wollt ihr jetzt etwa den Kürzeren ziehen? Einmal drin gibt es kein Zurück. Ihr macht jetzt eurem Kampf, ob ihr wollt oder nicht!
-
-
-
--= 238 =-
-General: Soso. Herr Daikon. Kento! Wie hat dir die Minenarbeit gefallen?
-Kento: ...
-General: Rede! Wie hat sie dir gefallen?
-Kento: ...Es war anstrengend...
-General: Das glaube ich. Doch es ist nicht viel mehr als ein gewöhnlicher, harter Arbeitstag, nicht wahr?
-General: Nun laufen da unten aber auch mehr als genug Soldaten rum, die unter meinem Befehl stehen.
-General: Ich bin also in der Lage, dir das Leben da unten erst so richtig zur Hölle zu machen. Ist dir das klar?
-General: Wenn du und deine Kollegen also einen Arbeitstag ohne Tracht Prügel bevorzugt, solltest du mir besser sagen, was ich hören will!
-General: Verstanden?
-General: VERSTANDEN?
-Kento: Ja.
-General: Also fangen wir an. Was ist das für eine Truppe, für die ihr spioniert habt?
-Kento: Eine Truppe, die im Untergrund ein Heer gebildet hat, von dem Brigantia nichts wusste.
-General: Sehr schön Kento, aber das wissen wir bereits! Steht diese Truppe in Verbindung mit den Farenischen Adelsbund?
-Kento: Das weiß ich nicht.
-General: Falsche Antwort. Erzähl mir nicht, dass du als Spion dieser Truppe nicht über so eine grundlegende Sache Bescheid weißt!
-Kento: ... Ja, sie stehen in Verbindung mit dem farenischen Adelsbund.
-General: Gut. Was ist das Ziel dieser Truppe?
-Kento: Sie wollen Brigantia einengen und die Landesteile, die Korzojeno im Krieg verloren hat wieder gewinnen.
-General: Erzähl mir keine Lügengeschichten!
-General: Wie will ein Heer, das so klein ist, dass man es im Untergrund ansammeln kann, gegen die Armee des Briganten-Orden bestehen?!
-Kento: Eine Geheimwaffe...
-General: Was war das?
-Kento: Es gibt eine Geheimwaffe, mit der sie Brigantia ebenbürtig wären. Allerdings weiß ich nichts Genaueres darüber...
-Kento: Die Informationen sind streng gehei...
-General: Du weißt mit Sicherheit mehr! ALSO REDE!
-Kento: Es ist ein Zauber... Ähnlich wie Septoccasus.
-General: Nun, das hört sich Interessant an. Ich warne dich, wehe du erzählst mir etwas Falsches!
-
-Sir Dolaros: Soso, du bist also Cibon Tirunel. Hat dir dein Kollege schon erzählt, wie das hier mit dem Verhör abläuft?
-Cibon: Du sagst was oder du wirst geschlagen, oder?
-Sir Dolaros: Fast! Die Wahrheit wollen wir hören und nichts weiter!
-Sir Dolaros: Sollten sich deine Aussagen als falsch herausstellen, werden wir uns wieder treffen, das garantier ich dir.
-Cibon: Bla, bla, bla. Haben wir jetzt genug gelabert und können endlich mit den Fragen beginnen?
-
-Sir Dolaros: Soso. Soko Filaja. Ein weiblicher Soldat des Briganten- Orden. Was heute so alles ins Heer reinkommt, kaum zu glauben.
-Sir Dolaros: Ich denke mal, ihr drei wisst mittlerweile, wie das hier läuft. Also gehen wir gleich zu den Fragen.
-Soko: Dieses Verhör ist sinnlos.
-Sir Dolaros: Was war das?
-Soko: Dieses Verhör ist sinnlos. Sie können keine Informationen aus uns rauspressen, weil wir nichts wissen!
-Sir Dolaros: Nun, bei deinen beiden Kollegen klang das aber ganz anders!
-Soko: Natürlich klang das anders! Sie wurden ja dazu gezwungen etwas zu sagen, irgendetwas!
-Sir Dolaros: Richtig! Und bei dir wird das nicht anders sein, mein Fräulein.
-
-Sir Dolaros: Soso... Sir Kiorta. Sie kommen also als Bote vom Adelsbund höchstpersönlich, behaupten Sie.
-Felcis: Wenn Ihr mir nicht glaubt, holt euch einfach eine Bestätigung von Farenia selber.
-Sir Dolaros: Das ist nicht notwendig. Wir glauben Ihnen. Wieso sonst, denken Sie, hätten wir Sie hier eingesperrt?
-Sir Dolaros: Also kommen wir zum Punkt! Was hat Farenia vor? Was plant ihr da im Hintergrund, ohne Brigantia davon wissen zu lassen?
-Felcis: Nun gut, ich will ehrlich sein. Wir planen im Moment, unser Wappen etwas umzufärben.
-Felcis: Diese bunten Farben sind uns viel zu optimistisch angesichts unseres momentan doch sehr armseligen Daseins.
-Felcis: Es tut uns aufrichtig Leid, dass wir Brigantia davon nicht unterrichtet haben.
-Sir Dolaros: Stellen Sie sich nicht dumm! Sie wissen genau wovon ich rede!
-Sir Dolaros: Wieso wurde jene geheime Kampftruppe gebildet, die im Silvanwald entdeckt wurde?
-Felcis: Von welcher Truppe redet Ihr? Ich weiß nichts von einer solchen.
-Felcis: Dann wiederum weiß ich auch nicht, was sich alles in unserem Adelsbund abspielt.
-Felcis: Doch seid euch gewiss - unser momentaner Prinz würde nicht im Traum daran denken, sich nochmal gegen Brigantia zu erheben.
-Sir Dolaros: Das zu glauben fällt mir sehr schwer, angesichts dem, was sich an der Grenze abgespielt habt!
-Sir Dolaros: Es ist äußerst merkwürdig, dass Sie bis heute nichts davon mitbekommen haben - geradezu verdächtig!
-Felcis: Wo wir schon bei merkwürdigen Tatsachen sind...
-Felcis: Wie kommt es, dass ein Mann euresgleichen hier in Helnovien stationiert ist?
-Felcis: Ich dachte Ihr wäret auf dem südlichen Kontinent aktiv, die Truppen gegen die Aufstände zu führen...
-Sir Dolaros: Das hat Sie nicht zu interessieren! Wir reden hier über den Adelsbund! Und ICH Stelle hier die Fragen!! Verstanden?!
-Felcis: Verzeiht mein dreistes Eingreifen...
-(Felcis: Na sowas... da habe ich einen ziemlich wunden Punkt getroffen...)
 
 
 
@@ -1239,18 +1153,6 @@ Felcis: Diät, mein Freund, Diät...
 
 
 
--= 248 =-
-...
-
-Felcis: Hier ist es! Irgendwo hier in diesem Bereich soll ein zugeschütteter Eingang sein. Haltet die Augen offen.
-Kento: Felcis, willst du uns so langsam nicht mal aufklären, wonach wir überhaupt suchen?
-Felcis: Es geht um eine bestimmte Art von Pulver.
-Felcis: Was wir hier suchen, ist der Eingang zu einem ehemaligen Lagerbereich, der nicht mehr verwendet wird.
-Felcis: Sobald wir in dem Lagerbereich sind, werd ich euch alles erklären.
-Felcis: Hier auf den Schienen ist mir nicht ganz geheuer.
-
-
-
 -= 264 =-
 ...
 
@@ -1418,20 +1320,6 @@ Gurim: D... Danke...
 
 
 
--= 278 =-
-General: Herein.
-?????: Sir Famares? Haben Sie etwas Zeit für mich?
-Sir Famares: Was ist ihr Anliegen, Sir Avaron?
-Sir Avaron: So wie ich mitbekommen habe, gibt es Neuigkeiten von der Grenze. Man sage, Korzojeno plane Aktivitäten im Untergrund?
-Sir Famares: Die Gerüchte dazu gibt es schon lange, jetzt haben wir aber die Bestätigung von einem Gesandten des Rates bekommen.
-Sir Avaron: Ich halte das für äußerst besorgniserregend. Ich hoffe, Sie erinnern sich, was sich hier vor 10 Jahren abgespielt hat?
-Sir Avaron: Ich habe die Bitte, die Sicherheitsmaßnahmen für den Forschungsbereich zu erhöhen.
-Sir Avaron: So lange, bis sich die Lage in Korzojeno geklärt hat.
-Sir Famares: Ich werde zusehen, was sich einrichten lässt.
-Sir Avaron: Ich danke Ihnen.
-
-
-
 -= 280 =-
 Pauamainer Member: Ah, ein neues Mitglied, wie ich sehe! Großartig! Wir freu'n uns über jeden begeisterten Minenarbeiter! Glück auf!
 Pauamainer Member: Wart ihr schon bei meinem Kollegen drüben? Wenn ihr neu hier seid, bekommt ihr nen kleines Geschenk von uns.
@@ -1475,64 +1363,3 @@ Da Boss: Ei jòò, vonna Weile hawwisch mòòl ene Belohnung aasgestelld fir den
 Da Boss: Isch dòòcht dadursch wirde Mòòl starge Gäschna komme, awwer gebròòcht hawwet damals nischt soviel. Awwer egal!
 Da Boss: Nun habt ihr misch besiegt un ihr begommt den Pres. Dòò, holld ihn eich.
 Da Boss: Isch hoffe mir sehe uns nochma im Durnier!
-
-
-
--= 281 =-
-Felcis: Okay, hier sind wir!
-Kento: Also, was für ein Pulver suchen wir jetzt genau?
-Felcis: Graufunkenpulver. Ist euch das ein Begriff?
-Soko: Hm... ich denke, ich hab mal davon gehört. Wird das nicht verwendet, um die Wirkung von Signumsprüchen zu verstärken?
-Felcis: Exakt. Man streue Graufunkenpulver an eine Felswand und zaubere Feuer oder Feures drauf und WUMM - ein Loch wurde gesprengt.
-Felcis: Das ist auch der Grund, wieso dieses Pulver in der Mine verwendet wird - oder eher verwendet wurde.
-Felcis: Mittlerweile scheint man ja nur noch mit Dynamit zu sprengen, wahrscheinlich weil man dafür keine Signumkundigen mehr braucht.
-Felcis: Ich hab ehrlich gesagt nicht erwartet, dass man schon heute den gesamten Graupulverkonsum aufgelöst bekommen hat.
-Felcis: Aber hier sollten wir noch einige letzte Reserven finden - hoffentlich.
-Kento: Hm, wie es aussieht, geht es hier im Gang noch weiter.
-Felcis: Sehr groß kann der Lagerbereich nicht sein, wir werden den Kram schon finden.
-Cibon: Wie sieht dieses Graufunkenpulver denn aus?
-Felcis: Nun, es ist grau, funkelt und sieht abgesehen davon aus wie Pulver.
-Cibon: ...
-
-Cibon: Sollen wir das einfach so einstecken, Kumpel?
-Kento: Wieso nicht? Die Wächter geben uns so oder so Magische Lupen, von daher wird es nicht auffallen.
-
-
-
--= 282 =-
-Kento: Oha! Das hier sieht gut aus.
-Felcis: Bitte achtet unbedingt darauf, dass wir das Pulver auch rausgeschmuggelt bekommen!
-Kento: Wir warten besser noch etwas damit.
-
-Felcis: Wunderbar, dann lasst uns zurückgehen und noch soviel Erz schürfen, wie wir können. Sonst verhungern wir heute ja noch.
-Kento: Eine gute Idee.
-Soko: W...Was ist jetzt los?
-Felcis: Achtung, hinter euch!
-
-Kento: Wir brauchen kein weiteres Pulver mehr.
-
-Cibon: Oh je. Das kam jetzt wirklich unerwartet. Was hatte ein so riesiges Viech in so einem engen Bereich verloren?
-Kento: Vielleicht hat es hier unter der Erde geschlagen? Wer weiß das schon. Hauptsache wie haben die Sache überlebt.
-Felcis: Ich muss schon sagen, ihr seid ziemlich fähige Kämpfer, dass ihr so ein Monster mit dieser einfachen Ausrüstung bezwungen habt.
-Kento: Sagen wir so, es ist nicht das erste größere Monster, das wir erlebt haben...
-Felcis: Nun gut, dann mal wieder zurück zur nächsten Erzsammelstelle.
-
-
-
--= 291 =-
-?????: Nein, ich hab mich nicht verschaut. Er ist es. Glaubst du wirklich, ich würde dieses Gesicht vergessen?
-?????: Es ist der selbe General, der uns damals alles genommen hat.
-?????: N-Nein... Bitte nicht hier...
-?????: Genji... Niemand von uns hat diese Person vergessen, noch werden wir das jemals tun.
-?????: Wir dürfen uns aber in dieser Situation nicht von Rachegedanken leiten lassen, verstehst du das? Wir haben eine Mission...
-Genji: Mir geht es nicht um Rache. Mir geht es hier um die Gefahr, die diese Person darstellt.
-Genji: Sollte die Flucht die du prophezeist stattfinden und Kento dabei auf diese Person stoßen - was dann?
-Genji: Wir beide wissen, wozu dieser General fähig ist. Zwillingsseele hin oder her, Kento würde das nicht überstehen!
-Genji: Du kannst mir nicht erzählen, dass Heimdall diese Tatsache komplett entgangen ist!
-?????: ...er hat mich gewarnt. Dennoch, ist es keine Situation in der wir vorzeitig eingreifen sollten.
-Genji: Und deswegen sagst du uns nichts? Dies ist keine Situation, die wir durch spontanes Eingreifen geregelt bekommen können!
-Genji: Wenn wir unüberlegt da rein stürzen kostet das nicht nur Kentos Leben, sondern unsers gleich dazu. Willst du das verantworten?
-Genji: Wir müssen uns vorbereiten. Das ist alles was ich damit sagen will.
-?????: Du hast recht. Ich habe diese Tatsache wohl unterschätzt...
-?????: Kumiko? Macht dich bitte mit der Gegend vertraut. Wir werden deine Fähigkeiten womöglich in Anspruch nehmen müssen.
-Kumiko: G-Geht in Ordnung!

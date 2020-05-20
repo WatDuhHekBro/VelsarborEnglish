@@ -6,8 +6,7 @@
 			"original": "Wächter: Hier sind die neuen Gefangenen, wie geordert!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hier sind die neuen Gefangenen, wie ",
-				"geordert!"
+				"\\c[10]Guard\\c[0]: Here are the new prisoners, as instructed!"
 			]
 		},
 		{
@@ -15,7 +14,7 @@
 			"original": "General: Wurde aber auch Zeit.",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Wurde aber auch Zeit."
+				"\\c[10]General\\c[0]: About time."
 			]
 		},
 		{
@@ -23,9 +22,9 @@
 			"original": "General: Soso. So sehen heutzutage also Spione aus, wie? Kollegen aus der eigenen Kaserne.",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Soso. \\.So sehen heutzutage ",
-				"also Spione aus, wie?\\. Kollegen aus ",
-				"der eigenen Kaserne. "
+				"\\c[10]General\\c[0]: Well then.\\. So that's what",
+				"spies look like these days, hm?\\.",
+				"Colleagues from their own barracks."
 			]
 		},
 		{
@@ -33,9 +32,9 @@
 			"original": "General: Und dann auch noch Prominenz wie unser junger Herr Daikon hier!",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Und dann auch noch ",
-				"Prominenz wie unser junger Herr ",
-				"Daikon hier!"
+				"\\c[10]General\\c[0]: And then we also have",
+				"celebrities like our young Mr.",
+				"Daikon here!"
 			]
 		},
 		{
@@ -43,10 +42,10 @@
 			"original": "General: Man würde ja glauben, dass man bei all der Verehrung der Mitmenschen genug Wohlgefallen an seiner Nation hätte.",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Man würde ja glauben, dass ",
-				"man bei all der Verehrung der ",
-				"Mitmenschen genug Wohlgefallen an ",
-				"seiner Nation hätte."
+				"\\c[10]General\\c[0]: You'd think that with all",
+				"the praise and worship one could",
+				"get, you'd be content staying in",
+				"your own nation."
 			]
 		},
 		{
@@ -54,8 +53,8 @@
 			"original": "General: Aber nein! Stattdessen seid ihr jetzt hier!",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Aber nein!\\. Stattdessen seid ",
-				"ihr jetzt hier!"
+				"\\c[10]General\\c[0]: But no!\\. Instead, you ended up",
+				"here!"
 			]
 		},
 		{
@@ -63,9 +62,9 @@
 			"original": "Soko: Wir sind keine Spione und keine Verräter! Das alles ist ein Missverständnis...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wir sind keine Spione\\. und ",
-				"keine Verräter!\\. Das alles ist ein ",
-				"Missverständnis...\\.\\.\\^"
+				"\\c[13]\\n[3]\\c[0]: We aren't spies\\. and we aren't",
+				"traitors!\\. All of this is one big",
+				"misunderstanding...\\.\\.\\^"
 			]
 		},
 		{
@@ -73,10 +72,10 @@
 			"original": "General: Solltet ihr nicht so langsam begriffen haben, dass ihr hier vor Wächtern keine Redefreiheit habt?",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Solltet ihr nicht so ",
-				"langsam begriffen haben, dass ihr ",
-				"hier vor Wächtern keine Redefreiheit ",
-				"habt? "
+				"\\c[10]General\\c[0]: How are you so slow in the",
+				"head to understand that you have no",
+				"freedom of speech here in front of",
+				"the guards?"
 			]
 		},
 		{
@@ -84,9 +83,9 @@
 			"original": "General: Tsk. Ich denke die Kleine hat für heute schon genug. Ich fange mal mit der Prominenz an.",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Tsk.\\. Ich denke die Kleine ",
-				"hat für heute schon genug.\\. Ich fange ",
-				"mal mit der Prominenz an."
+				"\\c[10]General\\c[0]: Tsk.\\. I think the little one",
+				"has had enough for today.\\. I'll start",
+				"off with the celebrities."
 			]
 		},
 		{
@@ -94,8 +93,8 @@
 			"original": "General: Bringt die anderen Beiden in ihre Zellen.",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Bringt die anderen Beiden ",
-				"in ihre Zellen."
+				"\\c[10]General\\c[0]: Bring the other two to their",
+				"cells."
 			]
 		},
 		{
@@ -103,7 +102,7 @@
 			"original": "Wächter: Zu Befehl, Sir!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Zu Befehl, Sir!"
+				"\\c[10]Guard\\c[0]: At your command, sir!"
 			]
 		},
 		{
@@ -111,10 +110,10 @@
 			"original": "Felcis: In dem Säckchen befindet sich ein winziges Loch und eine Windaura verteilt das Pulver gleichmäßig mit jedem Schritt.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: In dem Säckchen befindet sich",
-				"ein winziges Loch und eine Windaura",
-				"verteilt das Pulver gleichmäßig mit",
-				"jedem Schritt. "
+				"\\c[5]\\n[5]\\c[0]: There's a tiny hole in the bag",
+				"along with a wind aura that spreads",
+				"the powder out evenly with every",
+				"step he takes."
 			]
 		},
 		{
@@ -122,9 +121,8 @@
 			"original": "Felcis: Die Wache hat also soeben unsere Bombe samt Zündschnur vorbereitet!",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Die Wache hat also soeben",
-				"unsere Bombe samt Zündschnur",
-				"vorbereitet! "
+				"\\c[5]\\n[5]\\c[0]: So that guard just prepared",
+				"our bomb and fuse!"
 			]
 		}
 	]
