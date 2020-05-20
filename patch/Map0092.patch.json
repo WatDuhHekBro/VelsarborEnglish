@@ -6,7 +6,7 @@
 			"original": "Herr Uroto: Können wir eine kurze Pause machen? Das Wandern ist ja doch ziemlich anstrengend...",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Can we take a short break?\\.",
+				"\\c[10]Mr. Uroto\\c[0]: Can we take a short break?\\.",
 				"Walking is pretty exhausting..."
 			]
 		},
@@ -60,7 +60,7 @@
 			"original": "Cibon: Hmpf, wenn Sie meinen \"Herr Kento\"",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hmpf, what about the \"Sir",
+				"\\c[2]\\n[2]\\c[0]: Hmpf, what about the \"Mr.",
 				"Kento\" part?\\. Doesn't that get to you?"
 			]
 		},
@@ -180,7 +180,7 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: Couldn't you get used to saying",
-				"\"Dame Filaja\"?"
+				"\"Ms. Filaja\"?"
 			]
 		},
 		{
@@ -362,7 +362,7 @@
 			"original": "Kento: Frau Filaja...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Dame Filaja..."
+				"\\c[1]\\n[1]\\c[0]: Ms. Filaja..."
 			]
 		},
 		{
@@ -370,7 +370,7 @@
 			"original": "Soko: ...Ja, Herr Kento?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Yes,\\. Sir Kento?"
+				"\\c[13]\\n[3]\\c[0]: Yes,\\. Mr. Kento?"
 			]
 		},
 		{
@@ -472,7 +472,7 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: Alright.\\. It's time to move on.\\.",
-				"I will let Sir Uroto know..."
+				"I will let Mr. Uroto know..."
 			]
 		},
 		{

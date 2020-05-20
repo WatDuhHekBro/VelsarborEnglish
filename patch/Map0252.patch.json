@@ -7,9 +7,8 @@
 			"original": "Wache:  Was zum Henker habt ihr hier noch zu suchen?! Sofort rauf mit euch! Die Arbeitszeit ist zu Ende!",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]:  Was zum Henker habt ihr hier noch zu ",
-				"suchen?!\\. Sofort rauf mit euch!\\. Die Arbeitszeit ist ",
-				"zu Ende!"
+				"\\c[10]Guard\\c[0]: What the hell are you doing here?!\\. Get",
+				"back up there at once!\\. Working hours are over!"
 			]
 		},
 		{
@@ -18,10 +17,9 @@
 			"original": "Wache:  Das hier sind die Schienenbereiche. Hier haben Gefangene zur Arbeitszeit nichts zu suchen. Oder habt ihr bei der Erzschürfstelle, von der ihr kommt, nichts mehr gefunden?",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]:  Das hier sind die Schienenbereiche. Hier ",
-				"haben Gefangene zur Arbeitszeit nichts zu suchen.\\.",
-				"Oder habt ihr bei der Erzschürfstelle, von der ihr ",
-				"kommt, nichts mehr gefunden?"
+				"\\c[10]Guard\\c[0]: These are the railways. Prisoners have no",
+				"business here.\\. Unless you haven't found anything",
+				"at the ore sites you came from?"
 			]
 		}
 	]

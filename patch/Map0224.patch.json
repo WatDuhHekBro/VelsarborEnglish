@@ -6,7 +6,7 @@
 			"original": "Wächter: Zur Mine geht es in die andere Richtung.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Zur Mine geht es in die andere Richtung."
+				"\\c[10]Guard\\c[0]: The mine is that way."
 			]
 		},
 		{
@@ -14,10 +14,9 @@
 			"original": "Wächter: Ihr geht dorthin, wo alle anderen hingehen. Mit anderen Worten: Genau in die entgegengesetzte Richtung! Was ist daran so schwer zu verstehen?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Ihr geht dorthin, wo alle anderen ",
-				"hingehen.\\. Mit anderen Worten: Genau in die ",
-				"entgegengesetzte Richtung!\\.",
-				"Was ist daran so schwer zu verstehen?"
+				"\\c[10]Guard\\c[0]: Go where everyone else is headed.\\. In other",
+				"words, exactly in the opposite direction!\\. What's",
+				"so hard to understand about that?"
 			]
 		},
 		{
@@ -25,7 +24,7 @@
 			"original": "Wächter: Ihr sollt zur Mine, nicht hier lang.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Ihr sollt zur Mine,\\. nicht hier lang."
+				"\\c[10]Guard\\c[0]: You should go to the mine,\\. not here."
 			]
 		},
 		{
@@ -33,9 +32,9 @@
 			"original": "Wächter: Bitte habt etwas gnade und bereitet mir am Morgen nicht unnötig Kopfschmerzen. In die andere Richtung, verstanden?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Bitte habt etwas gnade und bereitet mir ",
-				"am Morgen nicht unnötig Kopfschmerzen.\\. In die ",
-				"andere Richtung, verstanden?"
+				"\\c[10]Guard\\c[0]: Please have a little mercy and don't give",
+				"me an unneeded headache in the morning.\\. Just go",
+				"in the other direction, okay?"
 			]
 		},
 		{
@@ -43,7 +42,7 @@
 			"original": "Wächter: Hier geht es nicht durch!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hier geht es nicht durch! "
+				"\\c[10]Guard\\c[0]: You're not getting past me!"
 			]
 		},
 		{
@@ -51,7 +50,7 @@
 			"original": "Wächter: Hier geht es nicht durch!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hier geht es nicht durch! "
+				"\\c[10]Guard\\c[0]: You're not getting past me!"
 			]
 		},
 		{
@@ -59,7 +58,7 @@
 			"original": "Wächter: Hier geht es nicht durch!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hier geht es nicht durch! "
+				"\\c[10]Guard\\c[0]: You're not getting past me!"
 			]
 		},
 		{
@@ -67,7 +66,7 @@
 			"original": "Gefangener: ...",
 			"lines":
 			[
-				"\\c[10]Gefangener:\\c[0] ..."
+				"\\c[10]Prisoner\\c[0]: ..."
 			]
 		},
 		{
@@ -75,7 +74,7 @@
 			"original": "Gefangene: Nicht jetzt!",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Nicht jetzt!"
+				"\\c[10]Prisoner\\c[0]: Not now!"
 			]
 		},
 		{
@@ -83,8 +82,8 @@
 			"original": "Nicht ganz eingelebter Gefangener: Nicht schon wieder... Minenarbeit... Ich hasse es...",
 			"lines":
 			[
-				"\\c[10]Nicht ganz eingelebter Gefangener\\c[0]: Nicht schon ",
-				"wieder...\\. Minenarbeit...\\. Ich hasse es..."
+				"\\c[10]New Prisoner\\c[0]: Not again...\\. mine work...\\.",
+				"I hate it..."
 			]
 		},
 		{
@@ -92,7 +91,7 @@
 			"original": "Gefangene: Geht mir aus dem Weg.",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Geht mir aus dem Weg."
+				"\\c[10]Prisoner\\c[0]: Get out of my way."
 			]
 		},
 		{
@@ -160,7 +159,7 @@
 			"original": "Wächter: Zurück mit euch!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Zurück mit euch!"
+				"\\c[10]Guard\\c[0]: Back off!"
 			]
 		},
 		{
@@ -477,7 +476,7 @@
 			"original": "Wächter: Hier geht es nicht durch!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hier geht es nicht durch! "
+				"\\c[10]Guard\\c[0]: You're not getting past me!"
 			]
 		},
 		{
@@ -1814,17 +1813,17 @@
 		{
 			"path": [156,3,160],
 			"original": "Aber immer doch!/Für heute genug.",
-			"patch": "Aber immer doch!/Für heute genug."
+			"patch": "Why of course!/That's enough for today."
 		},
 		{
 			"path": [156,3,161],
 			"original": "Aber immer doch!",
-			"patch": "Aber immer doch!"
+			"patch": "Why of course!"
 		},
 		{
 			"path": [156,3,176],
 			"original": "Für heute genug.",
-			"patch": "Für heute genug."
+			"patch": "That's enough for today."
 		}
 	]
 }

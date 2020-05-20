@@ -1353,7 +1353,7 @@
 			"original": "Wächter: Kein Durchgang hier für euch!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Kein Durchgang hier für euch!"
+				"\\c[10]Guard\\c[0]: No entry for you!"
 			]
 		},
 		{
@@ -1361,9 +1361,8 @@
 			"original": "Wächter: Hier geht es nicht durch! Ihr sollt die Treppe runter.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hier geht es nicht durch!\\. Ihr sollt die ",
-				"Treppe runter.",
-				""
+				"\\c[10]Guard\\c[0]: You don't go through here,\\. you go down the",
+				"stairs!"
 			]
 		},
 		{
@@ -1371,7 +1370,7 @@
 			"original": "Wächter: Hier ist kein Zutritt für Gefangene.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hier ist kein Zutritt für Gefangene."
+				"\\c[10]Guard\\c[0]: No entry for prisoners here."
 			]
 		}
 	]

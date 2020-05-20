@@ -54,8 +54,8 @@
 			"original": "Soko: Soweit so gut... Herr Kento, Herr Tirunel, ich hoffe sie sind mit der Anwendung von Signum- Techniken bereits vertraut.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: So far so good...\\. Sir Kento,\\.",
-				"Sir Tirunel,\\. I hope you're already",
+				"\\c[13]\\n[3]\\c[0]: So far so good...\\. Mr. Kento,\\.",
+				"Mr. Tirunel,\\. I hope you're already",
 				"familiar with the use of Signum",
 				"techniques."
 			],
@@ -297,7 +297,7 @@
 			[
 				"\\c[2]\\n[2]\\c[0]: Gosh, you must be pretty",
 				"clever huh, Soko, uh, I mean",
-				"Dame Filaja."
+				"Ms. Filaja."
 			]
 		},
 		{
@@ -357,7 +357,7 @@
 			"original": "Herr Uroto: Wir sollten endlich losgehen. Wir wollen das Gebirge ja noch heute durchqueren...",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: We should get going.\\. We",
+				"\\c[10]Mr. Uroto\\c[0]: We should get going.\\. We",
 				"still want to cross the mountains",
 				"today..."
 			]
@@ -367,7 +367,7 @@
 			"original": "Soko: Zu Befehl, Herr Uroto.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: At your command, Sir Uroto."
+				"\\c[13]\\n[3]\\c[0]: At your command, Mr. Uroto."
 			]
 		},
 		{

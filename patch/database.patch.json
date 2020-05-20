@@ -1122,7 +1122,7 @@
 			"original": "Soko: Wir müssen Herr Uroto beschützen! Das ist alles was zählt!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: We have to protect Sir Uroto at all costs!\\.",
+				"\\c[13]\\n[3]\\c[0]: We have to protect Mr. Uroto at all costs!\\.",
 				"That's all that matters!"
 			]
 		},
@@ -1666,7 +1666,7 @@
 			"original": "Cibon: Kento! ... Ich muss schnell nen Lichtschlag verwenden!",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Kento!\\. ...\\. I have to use some",
+				"\\c[2]\\n[2]:\\c[0] Kento!\\. ...\\.I have to use some",
 				"\\c[11]divine light\\c[0] quickly!"
 			]
 		},
@@ -2770,8 +2770,8 @@
 			"original": "Kento: DU HAST KEIN RECHT HIER ZU STEHEN! STIRB! VERRECKE!!",
 			"lines":
 			[
-				"\\c[1]Kento\\c[0]: YOU HAVE NO RIGHT TO LIVE!\\.",
-				"DIE!\\. DIE DAMN YOU!!"
+				"\\c[1]Kento\\c[0]: YOU HAVE NO RIGHT TO LIVE!\\. DIE!\\.",
+				"DIE DAMN YOU!!"
 			]
 		},
 		{

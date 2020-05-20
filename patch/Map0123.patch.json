@@ -63,7 +63,7 @@
 			"original": "Herr Uroto: Wir sollten uns nicht zuviel damit beschäftigen. Vergessen Sie bitte nicht, dass Sie einen Auftrag zu erfüllen haben.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: We shouldn't spend too",
+				"\\c[10]Mr. Uroto\\c[0]: We shouldn't spend too",
 				"much time on that.\\. Please don't",
 				"forget that you have an order",
 				"to fulfill."
@@ -74,7 +74,7 @@
 			"original": "Herr Uroto: Wenn wir weiter so rumtrödeln werden wir es nicht mehr rechtzeitig schaffen.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: If we continue to dawdle",
+				"\\c[10]Mr. Uroto\\c[0]: If we continue to dawdle",
 				"like this, we won't make it in time."
 			]
 		},
@@ -83,7 +83,7 @@
 			"original": "Cibon: Ach kommen sie, Herr Uroto! Das ganze wird höchstens 5 bis 10 Minuten dauern.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Oh come on, Sir Uroto!\\. This'll",
+				"\\c[2]\\n[2]\\c[0]: Oh come on, Mr. Uroto!\\. This'll",
 				"take 5 to 10 minutes at most."
 			]
 		},
@@ -131,7 +131,7 @@
 			"original": "Herr Uroto: Könnten wir diese Konversation bitte auf später verschieben?",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Could we please postpone",
+				"\\c[10]Mr. Uroto\\c[0]: Could we please postpone",
 				"this conversation until later?"
 			]
 		},
@@ -140,7 +140,7 @@
 			"original": "Herr Uroto: Wie oft muss ich eigentlich noch daran erinnern, dass wir unter Zeitdruck stehen?",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: How often do I have to",
+				"\\c[10]Mr. Uroto\\c[0]: How often do I have to",
 				"remind everything that we don't",
 				"have a lot of time left?"
 			]
@@ -150,7 +150,7 @@
 			"original": "Soko: Sie haben Recht, Herr Uroto. Verzeihen Sie uns bitte, wir ziehen sofort weiter...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: You're right, Sir Uroto.\\. Please",
+				"\\c[13]\\n[3]\\c[0]: You're right, Mr. Uroto.\\. Please",
 				"forgive us, we'll move on",
 				"immediately..."
 			]
@@ -162,7 +162,7 @@
 			[
 				"(\\c[2]\\n[2]\\c[0]: Pah, when it comes down to",
 				"it, we only wasted so much time",
-				"because Sir Uroto has to keep",
+				"because Mr. Uroto has to keep",
 				"resting all the time.)"
 			]
 		},

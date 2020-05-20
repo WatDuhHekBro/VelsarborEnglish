@@ -194,7 +194,7 @@
 			"original": "Herr Uroto: Das mag jetzt etwas kaltherzig klingen, aber können wir diesen Fall etwas zurückschieben?",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: This may sound a bit",
+				"\\c[10]Mr. Uroto\\c[0]: This may sound a bit",
 				"coldhearted, but can we postpone",
 				"this discussion?"
 			]
@@ -204,7 +204,7 @@
 			"original": "Herr Uroto: Vorerst müssen Sie sich auf ihre Mission konzentrieren.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: For now, you need to focus",
+				"\\c[10]Mr. Uroto\\c[0]: For now, you need to focus",
 				"on your mission."
 			]
 		},
@@ -213,7 +213,7 @@
 			"original": "Herr Uroto: Am ehesten können Sie in Domarkor Informationen sammeln, während ich mit anderem beschäftigt bin.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: The best way to gather",
+				"\\c[10]Mr. Uroto\\c[0]: The best way to gather",
 				"information in Domarkor is while",
 				"I'm busy with other things."
 			]
@@ -342,7 +342,7 @@
 			"original": "Soko: Herr Uroto, Sie scheinen sich ja ziemlich gut mit dem korzojenischen Volk auszukennen. Wie kommt das eigentlich?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Sir Uroto, you seem to be",
+				"\\c[13]\\n[3]\\c[0]: Mr. Uroto, you seem to be",
 				"pretty familiar with the Korzojenish",
 				"people.\\. How did that come about?"
 			]
@@ -352,7 +352,7 @@
 			"original": "Herr Uroto: Nunja, ich bin seit Kriegsende mehrmals ins Land gereist und war an den Friedensverhandlungen beteiligt.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Well, I've travelled there",
+				"\\c[10]Mr. Uroto\\c[0]: Well, I've travelled there",
 				"several times ever since the end of",
 				"the war and was involved in the",
 				"negotiations for the peace treaty."
@@ -363,7 +363,7 @@
 			"original": "Herr Uroto: Auf diesem Wege hab ich oft genug die Verhältnisse zwischen den Ländern zu spüren bekommen.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: I have often felt the",
+				"\\c[10]Mr. Uroto\\c[0]: I have often felt the",
 				"relations between the two",
 				"nations in this way."
 			]
@@ -392,7 +392,7 @@
 			"original": "Herr Uroto: Eigentlich hab ich strikte Anweisungen die Gründe nicht weiter zu geben. Aber nunja...",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Actually, I have strict",
+				"\\c[10]Mr. Uroto\\c[0]: Actually, I have strict",
 				"instructions to keep the reasons",
 				"secret.\\. But well..."
 			]
@@ -402,7 +402,7 @@
 			"original": "Herr Uroto: Es hat mit den Friedensvertrag vor 9 Jahren zu tun.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: It has to do with the",
+				"\\c[10]Mr. Uroto\\c[0]: It has to do with the",
 				"peace treaty nine years ago."
 			]
 		},
@@ -411,7 +411,7 @@
 			"original": "Herr Uroto: Ich werde beim farenischen Adelsbund etwas nachfragen müssen.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: I'll have to ask the",
+				"\\c[10]Mr. Uroto\\c[0]: I'll have to ask the",
 				"Farenian Aristocracy something."
 			]
 		},
@@ -420,7 +420,7 @@
 			"original": "Herr Uroto: Gegebenenfalls folgt ein Durchsuchungsbefehl vom Briganten- Orden, den ich ankündigen muss.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: There may be a search",
+				"\\c[10]Mr. Uroto\\c[0]: There may be a search",
 				"warrant from the Brigantine Order",
 				"that I have to announce."
 			]
@@ -430,7 +430,7 @@
 			"original": "Herr Uroto: Mehr darf ich nicht verraten.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: I can't say any more."
+				"\\c[10]Mr. Uroto\\c[0]: I can't say any more."
 			]
 		},
 		{
@@ -448,7 +448,7 @@
 			[
 				"\\c[1]\\n[1]\\c[0]: We as soldiers don't have to",
 				"deal with such issues either.\\. Our",
-				"job is solely to protect Sir Uroto..."
+				"job is solely to protect Mr. Uroto..."
 			]
 		},
 		{
@@ -871,7 +871,7 @@
 			"original": "Soko: Herrn Uroto werden wir so aber nicht befreien können, nehme ich an.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: We won't be able to free Sir",
+				"\\c[13]\\n[3]\\c[0]: We won't be able to free Mr.",
 				"Uroto, I guess."
 			]
 		},
@@ -889,7 +889,7 @@
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: We just can't change anything",
-				"about Sir Uroto's situation right",
+				"about Mr. Uroto's situation right",
 				"now, so don't worry too much",
 				"about it."
 			]
@@ -899,7 +899,7 @@
 			"original": "Soko: Ich kann nicht anders. Herrn Uroto zu beschützen war der Sinn unserer Mission - und wir haben versagt.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: I can't help it.\\. Protecting Sir",
+				"\\c[13]\\n[3]\\c[0]: I can't help it.\\. Protecting Mr.",
 				"Uroto was the sole purpose of our",
 				"mission - and we failed at it."
 			]
@@ -1258,7 +1258,7 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: I hope that it isn't too late",
-				"to rescue Sir Uroto..."
+				"to rescue Mr. Uroto..."
 			]
 		},
 		{
@@ -1502,7 +1502,7 @@
 			"original": "Herr Uroto: Ich habe gehört Sie haben Gestern ein paar Diebe in der Stadt geschnappt?",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: I heard you caught some",
+				"\\c[10]Mr. Uroto\\c[0]: I heard you caught some",
 				"thieves in town yesterday?"
 			]
 		},
@@ -1519,7 +1519,7 @@
 			"original": "Herr Uroto: Sie wissen, dass Sie sich nicht auf solche Sachen einlassen dürfen, wenn Sie bereits einen Auftrag als Eskorte haben?",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: You know that you can't",
+				"\\c[10]Mr. Uroto\\c[0]: You know that you can't",
 				"get involved with things like this",
 				"if you already have an escort",
 				"mission?"
@@ -1548,7 +1548,7 @@
 			"original": "Herr Uroto: Es geht darum, dass Sie sich einer unnötigen Gefahr ausgesetzt haben.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: The point is that you",
+				"\\c[10]Mr. Uroto\\c[0]: The point is that you",
 				"exposed yourself to unnecessary",
 				"danger."
 			]
@@ -1558,7 +1558,7 @@
 			"original": "Herr Uroto: Hätten Sie hier versagt wäre auch der eigentliche Auftrag gescheitert. Sie haben den Auftrag unter ein unnötiges Risiko gestellt.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: If you had failed there,",
+				"\\c[10]Mr. Uroto\\c[0]: If you had failed there,",
 				"the actual mission would have failed.\\.",
 				"You placed the task at an unnecessary",
 				"risk."
@@ -1579,7 +1579,7 @@
 			"original": "Herr Uroto: Das hätten Sie jedoch erst dann tun müssen, wenn die Diebe uns tatsächlich angegriffen hätten...",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: You wouldn't have had to",
+				"\\c[10]Mr. Uroto\\c[0]: You wouldn't have had to",
 				"do that until the thieves actually",
 				"attacked us..."
 			]

@@ -308,7 +308,7 @@
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: They must've done something",
-				"horrible to Sir Uroto for him to",
+				"horrible to Mr. Uroto for him to",
 				"say all of that."
 			]
 		},
@@ -2231,7 +2231,7 @@
 			"original": "Doch dann in der selben Nacht...",
 			"lines":
 			[
-				"Doch dann in der selben Nacht..."
+				"But then in the same night..."
 			]
 		},
 		{
@@ -2239,8 +2239,8 @@
 			"original": "Sir Dolaros: Mir ist langweilig. Ich werde euch jetzt umbringen.",
 			"lines":
 			[
-				"\\c[10]Sir Dolaros\\c[0]: Mir ist langweilig.\\.",
-				"Ich werde euch jetzt umbringen."
+				"\\c[10]Sir Dolaros\\c[0]: I'm bored.\\.",
+				"I'm gonna kill you now."
 			]
 		},
 		{
@@ -2248,7 +2248,7 @@
 			"original": "Cibon: Waaaaaaaaaaaaaaas~",
 			"lines":
 			[
-				"\\c[2]Cibon\\c[0]: Waaaaaaaaaaaaaaas~"
+				"\\c[2]Cibon\\c[0]: \\s[5]Whaaaaaaaaaaaaaaat\\^"
 			]
 		},
 		{
@@ -2256,7 +2256,7 @@
 			"original": "Alle sind gestorben. THE END.",
 			"lines":
 			[
-				"\\s[5]Alle sind gestorben.\\.",
+				"\\s[5]They all died.\\.",
 				"THE END."
 			]
 		},
@@ -2265,7 +2265,7 @@
 			"original": "Gefangener: ...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: ..."
+				"\\c[10]Prisoner\\c[0]: ..."
 			]
 		},
 		{
@@ -2273,7 +2273,7 @@
 			"original": "Gefangener:...Was ist?",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]:...Was ist?"
+				"\\c[10]Prisoner\\c[0]: What is it?!"
 			]
 		},
 		{
@@ -2281,7 +2281,7 @@
 			"original": "Gefangener: Geht mir aus dem Weg.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Geht mir aus dem Weg."
+				"\\c[10]Prisoner\\c[0]: Get out of my way."
 			]
 		},
 		{
@@ -2289,8 +2289,8 @@
 			"original": "Gefangener: Du has' die Wachen gehört, oder? Wir soll'n zur Mine.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Du has' die Wachen gehört, oder?\\. ",
-				"Wir soll'n zur Mine."
+				"\\c[10]Prisoner\\c[0]: You heard the guards, right?\\.",
+				"We should go to the mine."
 			]
 		},
 		{
@@ -2298,8 +2298,8 @@
 			"original": "Gefangene: Was sprichst du mich an? Geh mir aus dem Weg.",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Was sprichst du mich an?\\. Geh mir aus ",
-				"dem Weg."
+				"\\c[10]Prisoner\\c[0]: What are you talking to me for?\\.",
+				"Get out of my way."
 			]
 		},
 		{
@@ -2307,9 +2307,8 @@
 			"original": "Gefangene: Ihr seht hier ziemlich neu aus. In dem Fall merkt euch folgendes: kein - gerede - am - morgen!",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Ihr seht hier ziemlich neu aus.\\.",
-				"In dem Fall merkt euch folgendes:\\.",
-				"kein \\.- gerede \\.- am \\.- morgen!"
+				"\\c[10]Prisoner\\c[0]: You look pretty new here.\\. In that case,",
+				"remember this.\\. No\\. talking\\. in\\. the\\. morning!"
 			]
 		},
 		{
@@ -2317,7 +2316,7 @@
 			"original": "Kento: Der... Der Typ schläft noch!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Der...\\. Der Typ schläft noch!"
+				"\\c[1]\\n[1]\\c[0]: Th...\\. The guy's still sleeping!"
 			]
 		},
 		{
@@ -2325,8 +2324,8 @@
 			"original": "Cibon: Und er findet dennoch den richtigen Weg...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Und er findet dennoch den ",
-				"richtigen Weg..."
+				"\\c[2]\\n[2]\\c[0]: And he somehow always finds",
+				"a way..."
 			]
 		},
 		{
@@ -2334,7 +2333,7 @@
 			"original": "Gefangene: Geht mir aus dem Weg.",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Geht mir aus dem Weg."
+				"\\c[10]Prisoner\\c[0]: Get out of my way."
 			]
 		},
 		{
@@ -2342,8 +2341,8 @@
 			"original": "Nicht ganz eingelebter Gefangener: Nicht schon wieder... Minenarbeit... Ich hasse es...",
 			"lines":
 			[
-				"\\c[10]Nicht ganz eingelebter Gefangener\\c[0]: Nicht schon ",
-				"wieder...\\. Minenarbeit...\\. Ich hasse es..."
+				"\\c[10]New Prisoner\\c[0]: Not again...\\. mine work...\\.",
+				"I hate it..."
 			]
 		},
 		{
@@ -2351,8 +2350,8 @@
 			"original": "Gefangener: Hach! Was für ein herrlicher Morgen, oder? ... Verzieh dich.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Hach!\\. Was für ein herrlicher Morgen, ",
-				"oder?\\. ...\\. Verzieh dich."
+				"\\c[10]Prisoner\\c[0]: Ah!\\. Such a beautiful morning, isn't it?\\.\\.",
+				"Get lost."
 			]
 		},
 		{
@@ -2360,7 +2359,7 @@
 			"original": "Alter Gefangener: ...Oh... Mein Kreuz...",
 			"lines":
 			[
-				"\\c[10]Alter Gefangener\\c[0]: ...Oh...\\. Mein Kreuz..."
+				"\\c[10]Old Prisoner\\c[0]: Oh...\\. my back..."
 			]
 		},
 		{
@@ -2368,7 +2367,7 @@
 			"original": "Gefangene: Nicht jetzt!",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Nicht jetzt!"
+				"\\c[10]Prisoner\\c[0]: Not now!"
 			]
 		},
 		{
@@ -2376,7 +2375,7 @@
 			"original": "Gefangener: ...",
 			"lines":
 			[
-				"\\c[10]Gefangener:\\c[0] ..."
+				"\\c[10]Prisoner\\c[0]: ..."
 			]
 		},
 		{
@@ -2384,9 +2383,8 @@
 			"original": "Wächter: Was steht ihr hier noch rum? Los! Runter und ab zur Mine!",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Was steht ihr hier noch rum?\\. Los! \\.Runter ",
-				"und ab zur Mine!",
-				""
+				"\\c[10]Guard\\c[0]: What are you guys doing around here?\\.",
+				"Come on!\\. Get down to the mine!"
 			]
 		},
 		{
@@ -2394,9 +2392,8 @@
 			"original": "Wächter: ...Die Neuen sind wohl immer etwas langsamer. Ihr geht dahin, wo alle anderen hingehen, alles klar? LOS!",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: ...Die Neuen sind wohl immer etwas ",
-				"langsamer.\\. Ihr geht dahin, wo alle anderen ",
-				"hingehen, alles klar?\\. LOS!"
+				"\\c[10]Guard\\c[0]: The new ones are always so slow.\\. Go where",
+				"everyone else is headed, okay?\\. GO ALREADY!"
 			]
 		},
 		{
@@ -2404,7 +2401,8 @@
 			"original": "Wächter: Runter mit euch! Kein Rumgetrödel!",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Runter mit euch!\\. Kein Rumgetrödel!"
+				"\\c[10]Guard\\c[0]: Get yourselves down there!\\. No lounging",
+				"around!"
 			]
 		},
 		{
@@ -2413,8 +2411,9 @@
 			"original": "Wächter: Einen Moment! Wo wollt ihr denn hin? Ihr habt da oben nichts verloren! Runter mit euch!",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Einen Moment! Wo wollt ihr denn hin?\\.",
-				"Ihr habt da oben nichts verloren!\\. Runter mit euch!"
+				"\\c[10]Guard\\c[0]: Hey!\\. Where do you think you're going?\\.",
+				"You're not missing anything up there!\\.",
+				"Get yourselves down there!"
 			]
 		},
 		{
@@ -2423,8 +2422,9 @@
 			"original": "Wächter: Einen Moment! Wo wollt ihr denn hin? Ihr habt da oben nichts verloren! Runter mit euch!",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Einen Moment! Wo wollt ihr denn hin?\\.",
-				"Ihr habt da oben nichts verloren!\\. Runter mit euch!"
+				"\\c[10]Guard\\c[0]: Hey!\\. Where do you think you're going?\\.",
+				"You're not missing anything up there!\\.",
+				"Get yourselves down there!"
 			]
 		},
 		{
@@ -2432,8 +2432,9 @@
 			"original": "Wächter: Wollt ihr Ärger haben oder so etwas? Was spricht ihr mich an! Ihr sollt zur Mine!",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Wollt ihr Ärger haben oder so etwas?\\. Was ",
-				"spricht ihr mich an!\\. Ihr sollt zur Mine!"
+				"\\c[10]Guard\\c[0]: Are you trying to get yourselves into",
+				"trouble or something?\\. Then what are you talking",
+				"to me for?\\. You should go down to the mine!"
 			]
 		},
 		{
@@ -2441,9 +2442,8 @@
 			"original": "Wächter: Hier geht es nicht durch! Ihr sollt die Treppe runter.",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Hier geht es nicht durch!\\. Ihr sollt die ",
-				"Treppe runter.",
-				""
+				"\\c[10]Guard\\c[0]: You don't go through here,\\. you go down the",
+				"stairs!"
 			]
 		},
 		{
@@ -2451,7 +2451,7 @@
 			"original": "Wächter: Hier ist kein Zutritt für Gefangene.",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Hier ist kein Zutritt für Gefangene."
+				"\\c[10]Guard\\c[0]: No entry for prisoners here."
 			]
 		},
 		{
@@ -2459,8 +2459,7 @@
 			"original": "Wächter: Ihr habt hier nichts zu suchen. Ihr sollt die Treppe runter!",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Ihr habt hier nichts zu suchen.\\.",
-				"Ihr sollt die Treppe runter!"
+				"\\c[10]Guard\\c[0]: You have no business here.\\. Go down the stairs!"
 			]
 		},
 		{
@@ -2468,7 +2467,7 @@
 			"original": "Wächter: Kein Durchgang hier für euch!",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Kein Durchgang hier für euch!"
+				"\\c[10]Guard\\c[0]: No entry for you!"
 			]
 		},
 		{
@@ -2478,8 +2477,8 @@
 			"lines":
 			[
 				"",
-				"Anmerkung: Du hast all deine geschmuggelten ",
-				"Gegenstände in deiner Zelle versteckt. "
+				"Note: You've hidden all of those smuggled items in",
+				"your cell."
 			]
 		}
 	],
@@ -2488,17 +2487,17 @@
 		{
 			"path": [15,1,31],
 			"original": "Für heute genug./Nein, noch nicht.",
-			"patch": "Für heute genug./Nein, noch nicht."
+			"patch": "That's enough for today./No, not yet."
 		},
 		{
 			"path": [15,1,32],
 			"original": "Für heute genug.",
-			"patch": "Für heute genug."
+			"patch": "That's enough for today."
 		},
 		{
 			"path": [15,1,259],
 			"original": "Nein, noch nicht.",
-			"patch": "Nein, noch nicht."
+			"patch": "No, not yet."
 		}
 	]
 }

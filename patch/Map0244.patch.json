@@ -6,9 +6,9 @@
 			"original": "Gefangener: Hier ist so ziemlich jede Stelle mit Erz besetzt. Du solltest nach unten gehen, dort sollte noch was frei sein.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Hier ist so ziemlich jede Stelle mit ",
-				"Erz besetzt.\\. Du solltest nach unten gehen, dort ",
-				"sollte noch was frei sein."
+				"\\c[10]Prisoner\\c[0]: Pretty much every place here is filled",
+				"with ore.\\. You should go further down, there",
+				"should still be some spots left."
 			]
 		},
 		{
@@ -16,9 +16,8 @@
 			"original": "Gefangener: ... Dies ist kein Ort zum Plaudern, dafür sind zu viele Wachen hier. Siehst du das nicht?",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: ...\\. Dies ist kein Ort zum Plaudern, ",
-				"dafür sind zu viele Wachen hier.\\. Siehst du das ",
-				"nicht?"
+				"\\c[10]Prisoner\\c[0]: This isn't the place to chat, there are",
+				"too many guards around here.\\. Don't you see them?"
 			]
 		},
 		{
@@ -26,9 +25,8 @@
 			"original": "Gefangene: Argh! So anstrengend! Ich bin bereits fix und fertig. Wann ist endlich Feierabend?",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Argh!\\. So anstrengend! \\.Ich bin ",
-				"bereits fix und fertig.\\. Wann ist endlich ",
-				"Feierabend?"
+				"\\c[10]Prisoner\\c[0]: Argh!\\. So exhausting!\\. I'm already done",
+				"for.\\. When will the end of the day finally come?"
 			]
 		},
 		{
@@ -36,9 +34,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -46,9 +44,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -56,9 +54,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -66,8 +64,8 @@
 			"original": "Wache: Nicht soviel rumlungern hier! Arbeitet oder wir werden euch zum Arbeiten treiben!",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Nicht soviel rumlungern hier!\\. Arbeitet oder ",
-				"wir werden euch zum Arbeiten treiben!"
+				"\\c[10]Guard\\c[0]: Quit loitering around here!\\. Work or we'll",
+				"make you work!"
 			]
 		},
 		{
@@ -75,10 +73,9 @@
 			"original": "Wache: Alles Heil geblieben bei der Fahrt? Wir können von Glück reden, dass sich die Biester von den Schienen fern halten, wenn da eine Lore entlang fährt.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Alles Heil geblieben bei der Fahrt? Wir ",
-				"können von Glück reden, dass sich die Biester von ",
-				"den Schienen fern halten, wenn da eine ",
-				"Lore entlang fährt."
+				"\\c[10]Guard\\c[0]: Were you safe while driving through the",
+				"railways? We're lucky that the monsters stay",
+				"away from the railways when there's a minecart."
 			]
 		},
 		{

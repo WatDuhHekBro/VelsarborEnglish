@@ -3674,7 +3674,7 @@
 			"original": "Wächter: Kein Durchgang hier für euch!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Kein Durchgang hier für euch!"
+				"\\c[10]Guard\\c[0]: No entry for you!"
 			]
 		},
 		{
@@ -3682,7 +3682,7 @@
 			"original": "Wächter: Hier ist kein Zutritt für Gefangene.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hier ist kein Zutritt für Gefangene."
+				"\\c[10]Guard\\c[0]: No entry for prisoners here."
 			]
 		},
 		{
@@ -4103,7 +4103,8 @@
 				"Das ist voll toll jemanden zu haben, ",
 				"den man alles erzählen kann, \\.",
 				"wirklich!\\.\\s[2] Weißte, was mir hier\\^ "
-			]
+			],
+			"__comment__": "Psuedo Scrolling Text"
 		},
 		{
 			"path": [103,1,114,4],
@@ -4311,10 +4312,11 @@
 			"original": "Frau an der Theke: Hier ist kein Durchgang für euch! Treibt es nicht zu weit, oder wir rufen die Wächter!",
 			"lines":
 			[
-				"\\c[10]Frau an der Theke\\c[0]: Hier ist kein Durchgang für ",
+				"\\c[10]Mann an der Theke\\c[0]: Hier ist kein Durchgang für ",
 				"euch!\\. Treibt es nicht zu weit, oder wir rufen die ",
 				"Wächter!"
-			]
+			],
+			"__comment__": "Should be \"Mann an der Theke\"."
 		},
 		{
 			"path": [109,1,3,1],
@@ -4975,5 +4977,10 @@
 			"original": "HelnovZellen",
 			"patch": "Helnov Cafe"
 		}
-	]
+	],
+	"replace":
+	{
+		"[12410,0,\"||------------ Hier: RANDOM KOMMENTARE ZUM ESSEN ------||\",[]]": "[12410,0,\"||------------ Hier: RANDOM KOMMENTARE ZUM ESSEN ------||\",[]],[12330,0,\"\",[0,119,0]],[10130,0,\"FACE-Kento\",[8,0,0]],[10110,0,\"\\\\c[1]\\\\n[1]\\\\c[0]: I'm still hungry...\",[]],[10130,0,\"FACE-Cibon\",[15,0,0]],[10110,0,\"\\\\c[2]\\\\n[2]\\\\c[0]: Kento, you're always hungry...\",[]],[10130,0,\"FACE-soko\",[15,0,0]],[10110,0,\"\\\\c[13]\\\\n[3]\\\\c[0]: I sometimes wonder how much you\",[]],[20110,0,\"normally eat.\",[]],[10130,0,\"FACE-Kento\",[11,0,0]],[10110,0,\"\\\\c[1]\\\\n[1]\\\\c[0]: ...\",[]],[12330,0,\"\",[0,119,0]]"
+	},
+	"__comment__": "In the data file itself, there's some generic dialogue about eating which is supposed to play if today and yesterday both land in the same area (the amount of food you get). While there's a comment left in the data, the actual dialogue wasn't implemented."
 }

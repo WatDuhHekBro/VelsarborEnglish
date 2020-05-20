@@ -95,7 +95,7 @@
 			"original": "Soko: Herr Dorim, obgleich man nun Leute mit Nachnamen anspricht oder nicht, wissen sollte man ihn trotzdem immer.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Sir Dorim,\\. regardless of",
+				"\\c[13]\\n[3]\\c[0]: Mr. Dorim,\\. regardless of",
 				"whether you address people by",
 				"their last names or not,\\. you",
 				"should always know them."
@@ -106,7 +106,7 @@
 			"original": "Herr Dorim: Aber ich versteh immer noch nicht, wieso du uns mit Nachnamen ansprichst! Wir sind doch Kameraden, wieso sprechen wir uns nicht mit Vornamen an und duzten uns?",
 			"lines":
 			[
-				"\\c[10]Sir Dorim\\c[0]: But I still don't understand why",
+				"\\c[10]Mr. Dorim\\c[0]: But I still don't understand why",
 				"you keep addressing us by our last names!\\. We're",
 				"teammates, why can't we address each other by",
 				"our first names and leave it at that?"
@@ -135,7 +135,7 @@
 			"original": "Herr Dorim: Args, Soko, ist dir nicht aufgefallen, dass du die einzige bist, die in Buronia so denkt?",
 			"lines":
 			[
-				"\\c[10]Sir Dorim\\c[0]: Ugh,\\. Soko,\\. don't you notice how you're",
+				"\\c[10]Mr. Dorim\\c[0]: Ugh,\\. Soko,\\. don't you notice how you're",
 				"the only one who thinks this way in Buronia?"
 			]
 		},
@@ -145,7 +145,7 @@
 			"lines":
 			[
 				"\\c[1]\\n[1]\\c[0]: In that case,\\. just call me",
-				"\\s[4]\"Sir Kento\"\\s[0], Dame Filaja."
+				"\\s[4]\"Mr. Kento\"\\s[0], Ms. Filaja."
 			]
 		},
 		{
@@ -153,7 +153,7 @@
 			"original": "Soko: Wenn Sie meinen, Herr Kento...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: If you say so,\\. Sir Kento..."
+				"\\c[13]\\n[3]\\c[0]: If you say so,\\. Mr. Kento..."
 			]
 		},
 		{
@@ -182,7 +182,7 @@
 				"\\c[13]\\n[3]\\c[0]: I'm also glad to finally no",
 				"longer have to be in your company,\\.",
 				"especially in yours,\\.",
-				"Sir Qurenporelis..."
+				"Mr. Qurenporelis..."
 			]
 		},
 		{
@@ -190,7 +190,7 @@
 			"original": "Cibon: Was? Herr Kuränporäli? Wie wird das denn geschrieben? Und sie nennt dich jedes Mal so?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: What?\\. Sir Kurenporeli?\\. How do",
+				"\\c[2]\\n[2]\\c[0]: What?\\. Mr. Kurenporeli?\\. How do",
 				"you write that?\\. And she calls",
 				"you by that every time?"
 			]
@@ -200,7 +200,7 @@
 			"original": "Herr Kurenporalis(?): Ja, es ist schwachsinnig, ich weiß...",
 			"lines":
 			[
-				"\\c[10]Sir Kurenporalis(?)\\c[0]: Yeah, it's stupid, I know..."
+				"\\c[10]Mr. Kurenporalis(?)\\c[0]: Yeah, it's stupid, I know..."
 			]
 		},
 		{
@@ -208,7 +208,7 @@
 			"original": "Herr Dorim: Komm lass uns gehen, Kumpel. Ab jetzt können sich die beiden hier mit ihr rumschlagen. Ab nach Hause.",
 			"lines":
 			[
-				"\\c[10]Sir Dorim\\c[0]: Come.\\. From now on, the two of",
+				"\\c[10]Mr. Dorim\\c[0]: Come.\\. From now on, the two of",
 				"them can deal with her.\\. Let's go home!"
 			]
 		},
@@ -217,7 +217,7 @@
 			"original": "Herr Kuhrehpolarkreis(?): Hahahaha, machts gut!",
 			"lines":
 			[
-				"\\c[10]Sir Kuhrehpolarkreis(?)\\c[0]: \\s[9]Hahahaha,\\s[0]\\. take care!"
+				"\\c[10]Mr. Kuhrehpolarkreis(?)\\c[0]: \\s[9]Hahahaha,\\s[0]\\. take care!"
 			]
 		},
 		{
@@ -241,7 +241,7 @@
 			"original": "Soko: ... Ja, zu ihrer Frage, Herr Tirunel, jetzt können wir losgehen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: And yes,\\. to your question,\\. Sir",
+				"\\c[13]\\n[3]\\c[0]: And yes,\\. to your question,\\. Mr.",
 				"Tirunel,\\. now we can start."
 			]
 		},
@@ -259,7 +259,7 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: Hm?\\. Oh!\\. I'm sorry, I forgot to",
-				"introduce the two of you to Sir Uroto.\\.",
+				"introduce the two of you to Mr. Uroto.\\.",
 				"He's the person we have to protect."
 			]
 		},
@@ -268,7 +268,7 @@
 			"original": "Herr Uroto: Guten Tag die Herren.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Hello gentlemen."
+				"\\c[10]Mr. Uroto\\c[0]: Hello gentlemen."
 			]
 		},
 		{
@@ -276,7 +276,7 @@
 			"original": "Kento: Zu Ihren Diensten, Herr Uroto.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: At your service, Sir Uroto."
+				"\\c[1]\\n[1]\\c[0]: At your service, Mr. Uroto."
 			]
 		},
 		{
@@ -304,7 +304,7 @@
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Yep, we're all ready Sok...\\.",
-				"Uh...\\. Dame Filaja."
+				"Uh...\\. Ms. Filaja."
 			]
 		},
 		{
@@ -313,7 +313,7 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: Are you ready as well,\\.",
-				"Sir Kento?"
+				"Mr. Kento?"
 			]
 		},
 		{
@@ -329,7 +329,7 @@
 			"original": "Herr Uroto: Gut, dann weiter...",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Good,\\. moving on..."
+				"\\c[10]Mr. Uroto\\c[0]: Good,\\. moving on..."
 			]
 		},
 		{

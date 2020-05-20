@@ -7,7 +7,7 @@
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[1] WHAT are you trying to do?!\\. Are you trying",
-				"to take the machine from Korzojeno?!\\.",
+				"to take the objective from Korzojeno?!\\.",
 				"Single-handedly?!"
 			]
 		},
@@ -70,7 +70,7 @@
 				"(\\c[1]Seldan\\c[0]:\\s[1] Now!\\. According to the",
 				"information, I have to take a",
 				"left and go down the hall to",
-				"get to the machine...)"
+				"get to the objective...)"
 			]
 		},
 		{

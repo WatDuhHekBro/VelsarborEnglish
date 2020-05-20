@@ -6,10 +6,10 @@
 			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
-				"erfahren, wie wir da draußen ",
-				"empfangen werden, wenn wir einfach ",
-				"so die Mine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I'm definitely not looking",
+				"forward to seeing how they'd react",
+				"to us just leaving the mine like",
+				"that."
 			]
 		},
 		{
@@ -19,8 +19,8 @@
 			"lines":
 			[
 				"",
-				"Info: Während der Lorenfahrt kannst du bei \\c[11]Weichen\\c[0] ",
-				"entscheiden, welche \\c[11]Richtung\\c[0] du einschlägst."
+				"Info: While travelling through the railways,",
+				"you can \\c[11]decide which direction to go\\c[0]."
 			]
 		},
 		{
@@ -30,8 +30,8 @@
 			"lines":
 			[
 				"",
-				"Liegt eine Weiche bevor, erscheint folgende ",
-				"Anzeige."
+				"If there's a junction, the following display",
+				"appears."
 			]
 		},
 		{
@@ -41,8 +41,8 @@
 			"lines":
 			[
 				"",
-				"Der \\c[11]Pfeil\\c[0] gibt dabei die \\c[11]aktuelle Richtung\\c[0] ein, ",
-				"die die Lore entlang fahren wird."
+				"The \\c[11]arrow\\c[0] shows you the \\c[11]current direction\\c[0] that the",
+				"minecart will move along."
 			]
 		},
 		{
@@ -52,8 +52,7 @@
 			"lines":
 			[
 				"",
-				"Drücke \\c[11]rechtzeitig Enter\\c[0] um die \\c[11]Richtung zu ",
-				"ändern\\c[0]."
+				"\\c[11]Press Enter in time\\c[0] to change directions."
 			]
 		},
 		{
@@ -63,8 +62,8 @@
 			"lines":
 			[
 				"",
-				"Du kannst nur \\c[11]einmal die Richtung ändern\\c[0], also ",
-				"überleg genau."
+				"You can \\c[11]only change directions once\\c[0], so think",
+				"carefully about where you want to go."
 			]
 		},
 		{
@@ -72,10 +71,10 @@
 			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
-				"erfahren, wie wir da draußen ",
-				"empfangen werden, wenn wir einfach ",
-				"so die Mine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I'm definitely not looking",
+				"forward to seeing how they'd react",
+				"to us just leaving the mine like",
+				"that."
 			]
 		},
 		{
@@ -83,10 +82,10 @@
 			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
-				"erfahren, wie wir da draußen ",
-				"empfangen werden, wenn wir einfach ",
-				"so die Mine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I'm definitely not looking",
+				"forward to seeing how they'd react",
+				"to us just leaving the mine like",
+				"that."
 			]
 		},
 		{
@@ -94,10 +93,10 @@
 			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
-				"erfahren, wie wir da draußen ",
-				"empfangen werden, wenn wir einfach ",
-				"so die Mine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I'm definitely not looking",
+				"forward to seeing how they'd react",
+				"to us just leaving the mine like",
+				"that."
 			]
 		},
 		{
@@ -105,10 +104,10 @@
 			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
-				"erfahren, wie wir da draußen ",
-				"empfangen werden, wenn wir einfach ",
-				"so die Mine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I'm definitely not looking",
+				"forward to seeing how they'd react",
+				"to us just leaving the mine like",
+				"that."
 			]
 		},
 		{
@@ -116,10 +115,10 @@
 			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
-				"erfahren, wie wir da draußen ",
-				"empfangen werden, wenn wir einfach ",
-				"so die Mine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I'm definitely not looking",
+				"forward to seeing how they'd react",
+				"to us just leaving the mine like",
+				"that."
 			]
 		},
 		{
@@ -127,10 +126,10 @@
 			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
-				"erfahren, wie wir da draußen ",
-				"empfangen werden, wenn wir einfach ",
-				"so die Mine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I'm definitely not looking",
+				"forward to seeing how they'd react",
+				"to us just leaving the mine like",
+				"that."
 			]
 		},
 		{
@@ -138,10 +137,10 @@
 			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
-				"erfahren, wie wir da draußen ",
-				"empfangen werden, wenn wir einfach ",
-				"so die Mine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I'm definitely not looking",
+				"forward to seeing how they'd react",
+				"to us just leaving the mine like",
+				"that."
 			]
 		},
 		{
@@ -149,10 +148,10 @@
 			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
-				"erfahren, wie wir da draußen ",
-				"empfangen werden, wenn wir einfach ",
-				"so die Mine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I'm definitely not looking",
+				"forward to seeing how they'd react",
+				"to us just leaving the mine like",
+				"that."
 			]
 		},
 		{
@@ -160,11 +159,16 @@
 			"original": "Kento: Ich will sicher nicht erfahren, wie wir da draußen empfangen werden, wenn wir einfach so die Mine verlassen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]:\\c[0] Ich will sicher nicht ",
-				"erfahren, wie wir da draußen ",
-				"empfangen werden, wenn wir einfach ",
-				"so die Mine verlassen."
+				"\\c[1]\\n[1]\\c[0]: I'm definitely not looking",
+				"forward to seeing how they'd react",
+				"to us just leaving the mine like",
+				"that."
 			]
 		}
-	]
+	],
+	"replace":
+	{
+		"[10220,1,\"\",[0,16,16,0,0,9,0]]": "[10220,1,\"\",[0,16,16,0,0,17,0]]"
+	},
+	"__comment__": "There's an issue where having a battle in this map will display the Corine Plateau as the backdrop instead of the mine. That's because variable 16 (KS-BACKGROUND) is set to 9 instead of 17."
 }

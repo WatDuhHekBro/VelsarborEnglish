@@ -6,8 +6,8 @@
 			"original": "Gefangener: Das schlimme ist nicht die Minenarbeit, sondern diese Lorenfahrt zu Beginn.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Das schlimme ist nicht die ",
-				"Minenarbeit, sondern diese Lorenfahrt zu Beginn. "
+				"\\c[10]Prisoner\\c[0]: The bad thing is not the mine work, but",
+				"travelling through the railways at the beginning."
 			]
 		},
 		{
@@ -15,10 +15,9 @@
 			"original": "Gefangener: Man nimmt da so riesige Geschwindigkeiten an, ich will gar nicht daran denken was passiert, wenn man da aus den Schienen fliegt.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Man nimmt da so riesige ",
-				"Geschwindigkeiten an, ich will gar nicht daran ",
-				"denken was passiert, wenn man da aus den Schienen ",
-				"fliegt."
+				"\\c[10]Prisoner\\c[0]: You get to such high speeds, I don't",
+				"even want to think about what happens if you",
+				"fly off the rails."
 			]
 		},
 		{
@@ -26,10 +25,9 @@
 			"original": "Gefangener: Euch sind doch sicher auch diese tiefen Abgründe dort bei den Schienen aufgefallen, oder? Niemand weiß, wie tief diese Schluchten sind und wohin sie führen!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Euch sind doch sicher auch diese ",
-				"tiefen Abgründe dort bei den Schienen aufgefallen, ",
-				"oder?\\. Niemand weiß, wie tief diese Schluchten sind ",
-				"und wohin sie führen!"
+				"\\c[10]Prisoner\\c[0]: You must've noticed these deep chasms",
+				"there by the rails, right?\\. Nobody knows how",
+				"deep these chasms are and where they lead to!"
 			]
 		},
 		{
@@ -37,9 +35,8 @@
 			"original": "Gefangener: Ich möcht's auch ehrlich gesagt lieber nich' raus finden. Wer da reinfällt hat eh mit seinem Leben abgeschlossen.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Ich möcht's auch ehrlich gesagt ",
-				"lieber nich' raus finden.\\. Wer da reinfällt hat eh ",
-				"mit seinem Leben abgeschlossen."
+				"\\c[10]Prisoner\\c[0]: I honestly don't want to find out.\\.",
+				"Whoever falls into it is already done for."
 			]
 		},
 		{
@@ -47,8 +44,8 @@
 			"original": "Wache: Soso, ihr seid also diese Verräter des Landes, ehemalige Soldaten des Briganten-Orden.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Soso, ihr seid also diese Verräter des ",
-				"Landes, ehemalige Soldaten des Briganten-Orden. "
+				"\\c[10]Guard\\c[0]: So you're the traitors to the country,",
+				"former soldiers of the Brigantine Order."
 			]
 		},
 		{
@@ -56,10 +53,10 @@
 			"original": "Wache: Wenn es nach mir ginge, könntet ihr in den tiefen Erdlöchern Erz schürfen, bis ihr dort verreckt. Für Leute wie euch ist harte Minenarbeit eine Gnade.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Wenn es nach mir ginge, könntet ihr in den ",
-				"tiefen Erdlöchern Erz schürfen, bis ihr dort",
-				"verreckt.\\. Für Leute wie euch ist harte Minenarbeit ",
-				"eine Gnade."
+				"\\c[10]Guard\\c[0]: If it were up to me, I'd throw you into",
+				"the depths and make you mine ore until your",
+				"dying breaths.\\. For people like you, being",
+				"given hard work is extremely merciful."
 			]
 		},
 		{
@@ -67,9 +64,9 @@
 			"original": "Wache: Früher ging die Schienenstrecke hier noch weiter, aber seit wir hier ein stärkeres Erdbeben hatten, ist alles zugeschüttet.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Früher ging die Schienenstrecke hier noch ",
-				"weiter, aber seit wir hier ein stärkeres Erdbeben ",
-				"hatten, ist alles zugeschüttet. "
+				"\\c[10]Guard\\c[0]: The railways used to go further from here,",
+				"but ever since we had that strong earthquake,",
+				"that area has been blocked off."
 			]
 		},
 		{
@@ -77,8 +74,8 @@
 			"original": "Wache: Von dem Bereich, zu dem diese Schienen führen, sind wir komplett abgetrennt.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Von dem Bereich, zu dem diese Schienen ",
-				"führen, sind wir komplett abgetrennt."
+				"\\c[10]Guard\\c[0]: We're completely separated from the area",
+				"these rails used to lead to."
 			]
 		},
 		{

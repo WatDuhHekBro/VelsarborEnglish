@@ -27,8 +27,6 @@ The `master` branch will correlate with each release, double-checked for line en
 
 The `text` directory is meant to be temporary. You work with the extracted text, then once you move it to the according patch, you delete the text file. From there, you're likely to only need to make small adjustments to the patch, so it becomes a nuisance to update the text file as well.
 
-After the first major release, the `dev` branch will still be used so there aren't a billion releases per typo.
-
 # TO-DO List (If you don't want to see any potential spoilers, stop reading.)
 *Because every project needs a to-do list!*
 - Picture Text: 100%
@@ -48,5 +46,5 @@ After the first major release, the `dev` branch will still be used so there aren
 - The Silvan Forest: 100%
 - The Mysterious Fortress: 100%
 - Gencorin Pt II: 100%
-- The Helnovien Prison: 7%
-- The Helnovien Mine: 0%
+- The Helnovien Prison: 17%
+- The Helnovien Mine: 82%

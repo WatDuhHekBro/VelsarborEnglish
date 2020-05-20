@@ -193,7 +193,7 @@
 			"lines":
 			[
 				"\\c[6]\\n[6]\\c[0]: Well, why did you want to",
-				"speak to me,\\. Sir..."
+				"speak to me,\\. Mister..."
 			]
 		},
 		{
@@ -209,7 +209,7 @@
 			"original": "Ileya: Herr Kento ...?",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Sir Kento...?"
+				"\\c[6]\\n[6]\\c[0]: Mr. Kento...?"
 			]
 		},
 		{
@@ -485,7 +485,7 @@
 			"original": "Ileya: Herr Kento... Ich hätte da mal eine Frage nebenbei. Ist Kento jetzt ihr Nachname?",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Sir Kento...\\. I have a question",
+				"\\c[6]\\n[6]\\c[0]: Mr. Kento...\\. I have a question",
 				"by the way.\\. Is Kento your last name?"
 			]
 		},
@@ -502,7 +502,8 @@
 			"original": "Ileya: Öhm... Sind Sie etwa... Kento Daikon?",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Um...\\. Are you...\\. Kento Daikon?"
+				"\\c[6]\\n[6]\\c[0]: Um...\\. Do you happen to be...\\.",
+				"Kento Daikon?"
 			]
 		},
 		{
@@ -510,7 +511,7 @@
 			"original": "Kento: ...ja.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...\\. Yeah."
+				"\\c[1]\\n[1]\\c[0]: ...\\.yeah."
 			]
 		},
 		{
@@ -546,7 +547,7 @@
 			"original": "Ileya: Öh... Herr Daikon! Was ist los?",
 			"lines":
 			[
-				"\\c[6]\\n[6]\\c[0]: Oh...\\. Sir Daikon!\\. What's",
+				"\\c[6]\\n[6]\\c[0]: Oh...\\. Mr. Daikon!\\. What's",
 				"happening?"
 			]
 		},
@@ -555,8 +556,8 @@
 			"original": "Cibon: Lassen Sie ihn! ... Man merkt wirklich, dass Sie hier neu sind.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Let him be!\\. ...\\. Notice how",
-				"you're new around here?"
+				"\\c[2]\\n[2]\\c[0]: Let him be!\\. You really don't",
+				"get what's going on,\\. do you..."
 			]
 		},
 		{

@@ -669,7 +669,7 @@ Ein grüner Anhänger - A green pendant.
 -= Other =-
 Eisenerz: Iron Ore
 
-Graufunkpulver: Gray Powder
+Graufunkpulver: Static Powder
 
 Inanitaskugel: Inanitas Ball
 
@@ -679,7 +679,7 @@ Ein ziemlich hungriges Küken - A pretty hungry chick. Quite the bird's eye view
 Lagerschlüssel: Storage Key
 Öffnet die Tür zur Lagerhalle - Opens the door to the storeroom.
 
-Minen-Orden: Mine Plaque
+Minen-Orden: Miner Medallion
 Aus reinstem Eisenerz hergestellt! - Made from the purest iron ore!
 
 Paket: Package
@@ -931,7 +931,7 @@ SIGNUM STREUER - SIGNUM SCATTER
 Geben sie eine Nummer von 1-50 an. Diese wird im Spielstand angezeigt. --- Enter a number between 1-50. This will be shown on the save file.
 
 -= Pseudo_minenausruest =-
-Minen Ausrüst. - Mine Equipment
+Minen Ausrüst. - Mining Tools
 
 -= System =-
 Verfolger: ___ Sek - Pursuit: ___ sec

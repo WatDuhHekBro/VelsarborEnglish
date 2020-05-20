@@ -6,9 +6,10 @@
 			"original": "Gefangener: Ich kann diese ganzen Jammerlappen nicht verstehen. Die sollten froh sein, dass sie etwas tun können. Und wenn es Minenarbeit ist.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Ich kann diese ganzen Jammerlappen ",
-				"nicht verstehen.\\. Die sollten froh sein, dass sie ",
-				"etwas tun können.\\. Und wenn es Minenarbeit ist."
+				"\\c[10]Prisoner\\c[0]: I can't understand all these people",
+				"whining.\\. They should be happy that they can at",
+				"least do something.\\. And it's working in the",
+				"mine at that."
 			]
 		},
 		{
@@ -16,9 +17,9 @@
 			"original": "Gefangener: Nichts ist schlimmer, als Wochen bis Monate lang einsam und tatenlos in einer Zelle zu sitzen. Glaubt mir, ich spreche aus Erfahrung.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Nichts ist schlimmer, als Wochen bis ",
-				"Monate lang einsam und tatenlos in einer Zelle zu ",
-				"sitzen.\\. Glaubt mir, ich spreche aus Erfahrung."
+				"\\c[10]Prisoner\\c[0]: Nothing is worse than sitting idly by",
+				"and waiting alone in a cell for weeks or months.\\.",
+				"Trust me, I speak from experience."
 			]
 		},
 		{
@@ -27,8 +28,8 @@
 			"original": "Cibon: Hm... da könnte er wirklich Recht haben.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hm...\\. da könnte er wirklich ",
-				"Recht haben. "
+				"\\c[2]\\n[2]\\c[0]: Hm...\\. He could be onto",
+				"something."
 			]
 		},
 		{
@@ -37,10 +38,9 @@
 			"original": "Cibon: Dieses permanente Rumgesitze in der Zelle dieser anderen Truppe hätt' mich auf Dauer in den Wahnsinn getrieben.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Dieses permanente Rumgesitze ",
-				"in der Zelle dieser anderen Truppe ",
-				"hätt' mich auf Dauer in den Wahnsinn ",
-				"getrieben. "
+				"\\c[2]\\n[2]\\c[0]: Just sitting around like that",
+				"for who knows how long would've",
+				"driven me crazy by now!"
 			]
 		},
 		{
@@ -49,8 +49,8 @@
 			"original": "Soko: Aber wenigstens konnte man dort ausschlafen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Aber wenigstens konnte man ",
-				"dort ausschlafen."
+				"\\c[13]\\n[3]\\c[0]: But at least you'd be able to",
+				"actually sleep."
 			]
 		},
 		{
@@ -59,7 +59,7 @@
 			"original": "Kento: Ja, genau.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja, genau."
+				"\\c[1]\\n[1]\\c[0]: Yeah, exactly."
 			]
 		},
 		{
@@ -68,8 +68,9 @@
 			"original": "Cibon: ... Ich hätte nie gedacht, so etwas von DIR zu hören, Soko.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...\\. Ich hätte nie gedacht, so ",
-				"etwas von DIR zu hören, Soko."
+				"\\c[2]\\n[2]\\c[0]: I never thought I'd hear",
+				"something like that from YOU of",
+				"all people, Soko."
 			]
 		},
 		{
@@ -86,9 +87,9 @@
 			"original": "Gefangene: Vor einer Woche oder zwei war dieser Bereich noch voller reicher Erzreserven, die leicht erreichbar waren.",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Vor einer Woche oder zwei war dieser ",
-				"Bereich noch voller reicher Erzreserven, die ",
-				"leicht erreichbar waren. "
+				"\\c[10]Prisoner\\c[0]: A week or two ago, this area was still",
+				"full of rich ore reserves that were easily",
+				"accessible."
 			]
 		},
 		{
@@ -96,10 +97,9 @@
 			"original": "Gefangene: Aber seit wir hier letztens ein kleines Erdbeben hatten, ist das meiste mit Gestein überschüttet und nur noch schwer zu erreichen.",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Aber seit wir hier letztens ein ",
-				"kleines Erdbeben hatten, ist das meiste mit ",
-				"Gestein überschüttet und nur noch schwer zu ",
-				"erreichen."
+				"\\c[10]Prisoner\\c[0]: But ever since we had that recent",
+				"earthquake here, most of it has been showered",
+				"with rocks and is too difficult to reach."
 			]
 		},
 		{
@@ -108,10 +108,9 @@
 			"original": "Pauamainer-Miglied: Unglaublich, du hast es tatsächlich durch das Steingerümpel da unten geschafft. Dafür kriegste nen Ordnen! Weiter so, Kumpel!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Unglaublich, du hast es ",
-				"tatsächlich durch das Steingerümpel da unten ",
-				"geschafft.\\. Dafür kriegste nen Ordnen!\\. Weiter so, ",
-				"Kumpel!"
+				"\\c[10]Pauamainer Member\\c[0]: Unbelievable, you actually made",
+				"it through the stone debris down there.\\. You'll get",
+				"a medallion for that!\\. Keep it up!"
 			]
 		},
 		{
@@ -120,10 +119,9 @@
 			"original": "Pauamainer-Miglied: Ihr guckt so verdutzt. Wenn ihr mehr über uns und die Minen-Orden erfahren wollt, besucht einfach unseren Stützpunkt.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Ihr guckt so verdutzt.\\. Wenn ",
-				"ihr mehr über uns und die Minen-Orden ",
-				"erfahren wollt, besucht einfach unseren ",
-				"Stützpunkt."
+				"\\c[10]Pauamainer Member\\c[0]: You look so confused.\\. If you",
+				"want to learn more about us and the miner",
+				"medallions, just visit our base."
 			]
 		},
 		{
@@ -132,10 +130,9 @@
 			"original": "Pauamainer-Miglied: Dieser befindet sich im mittleren Bereich der Mine. Fahrt beim nächsten Mal mit der Lore einfach rechts und dann geradeaus.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Dieser befindet sich im ",
-				"mittleren Bereich der Mine.\\. Fahrt beim nächsten ",
-				"Mal mit der Lore einfach rechts und dann ",
-				"geradeaus."
+				"\\c[10]Pauamainer Member\\c[0]: It's located at the center of",
+				"the mine.\\. Next time on the railways, just go",
+				"right and then straight."
 			]
 		},
 		{
@@ -144,7 +141,7 @@
 			"original": "Pauamainer-Miglied: Glück auf!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Glück auf!"
+				"\\c[10]Pauamainer Member\\c[0]: Good luck!"
 			]
 		},
 		{
@@ -153,10 +150,9 @@
 			"original": "Pauamainer-Miglied: Ist immer witzig, die verdutzten Blicke der Leute auf der anderen Seite zu sehen, nicht wahr? Ja-ha! Das ist Minenarbeit, wie sie sein sollte!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Ist immer witzig, die ",
-				"verdutzten Blicke der Leute auf der anderen Seite ",
-				"zu sehen, nicht wahr?\\. Ja-ha!\\. Das ist Minenarbeit, ",
-				"wie sie sein sollte!"
+				"\\c[10]Pauamainer Member\\c[0]: It's always funny to see",
+				"people's puzzled looks on the other side, isn't",
+				"it?\\. Yeah!\\. This is mine work as it should be!"
 			]
 		},
 		{
@@ -164,9 +160,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -174,9 +170,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -184,9 +180,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -195,9 +191,9 @@
 			"original": "Wache: Hey, ihr habt es echt da durch geschafft, nicht schlecht, nicht schlecht. War bestimmt ordentlich Erz da drüben, oder?",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Hey, ihr habt es echt da durch geschafft, ",
-				"nicht schlecht, nicht schlecht.\\. War bestimmt ",
-				"ordentlich Erz da drüben, oder?"
+				"\\c[10]Guard\\c[0]: Hey, you actually made it through, not bad",
+				"I'll give you that.\\. It was the ore over there,",
+				"wasn't it?"
 			]
 		},
 		{
@@ -206,9 +202,9 @@
 			"original": "Wache: Hm... interessant, interessant. Ich frage mich, wie man da unten durch kommt, bei all dem Gestein. Einer hat es ja anscheinend geschafft.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Hm...\\. interessant, interessant. \\.Ich frage ",
-				"mich, wie man da unten durch kommt, bei all dem ",
-				"Gestein. \\.Einer hat es ja anscheinend geschafft."
+				"\\c[10]Guard\\c[0]: Hm...\\. Interesting, interesting.\\. I wondered",
+				"how one would get over there with all the rocks",
+				"around.\\. Apparently someone did it."
 			]
 		}
 	]

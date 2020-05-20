@@ -6,7 +6,7 @@
 			"original": "General: Herein.",
 			"lines":
 			[
-				"\\c[10]General\\c[0]: Herein."
+				"\\c[10]General\\c[0]: Come in."
 			]
 		},
 		{
@@ -14,8 +14,8 @@
 			"original": "?????: Sir Famares? Haben Sie etwas Zeit für mich?",
 			"lines":
 			[
-				"\\c[10]?????\\c[0]: Sir Famares?\\. Haben Sie etwas ",
-				"Zeit für mich?"
+				"\\c[10]?????\\c[0]: Sir Famares?\\. Do you have some",
+				"time for me?"
 			]
 		},
 		{
@@ -23,8 +23,8 @@
 			"original": "Sir Famares: Was ist ihr Anliegen, Sir Avaron?",
 			"lines":
 			[
-				"\\c[10]Sir Famares\\c[0]: Was ist ihr Anliegen,\\.",
-				"Sir Avaron?"
+				"\\c[10]Sir Famares\\c[0]: What is your concern,\\. Sir",
+				"Avaron?"
 			]
 		},
 		{
@@ -32,10 +32,10 @@
 			"original": "Sir Avaron: So wie ich mitbekommen habe, gibt es Neuigkeiten von der Grenze. Man sage, Korzojeno plane Aktivitäten im Untergrund?",
 			"lines":
 			[
-				"\\c[10]Sir Avaron\\c[0]: So wie ich mitbekommen ",
-				"habe, gibt es Neuigkeiten von der ",
-				"Grenze.\\. Man sage, Korzojeno plane ",
-				"Aktivitäten im Untergrund?"
+				"\\c[10]Sir Avaron\\c[0]: As I've heard, there's",
+				"news from the border.\\. They say that",
+				"Korzojeno is planning underground",
+				"activities?"
 			]
 		},
 		{
@@ -43,10 +43,10 @@
 			"original": "Sir Famares: Die Gerüchte dazu gibt es schon lange, jetzt haben wir aber die Bestätigung von einem Gesandten des Rates bekommen.",
 			"lines":
 			[
-				"\\c[10]Sir Famares\\c[0]: Die Gerüchte dazu gibt ",
-				"es schon lange, jetzt haben wir aber ",
-				"die Bestätigung von einem Gesandten ",
-				"des Rates bekommen."
+				"\\c[10]Sir Famares\\c[0]: The rumors have been",
+				"around for a long time, but we've",
+				"just now received confirmation",
+				"from an envoy of the council."
 			]
 		},
 		{
@@ -54,10 +54,9 @@
 			"original": "Sir Avaron: Ich halte das für äußerst besorgniserregend. Ich hoffe, Sie erinnern sich, was sich hier vor 10 Jahren abgespielt hat?",
 			"lines":
 			[
-				"\\c[10]Sir Avaron\\c[0]: Ich halte das für ",
-				"äußerst besorgniserregend.\\. Ich ",
-				"hoffe, Sie erinnern sich, was sich ",
-				"hier vor 10 Jahren abgespielt hat?"
+				"\\c[10]Sir Avaron\\c[0]: I think that's extremely",
+				"worrying.\\. I hope you still remember",
+				"what happened here 10 years ago?"
 			]
 		},
 		{
@@ -65,9 +64,9 @@
 			"original": "Sir Avaron: Ich habe die Bitte, die Sicherheitsmaßnahmen für den Forschungsbereich zu erhöhen.",
 			"lines":
 			[
-				"\\c[10]Sir Avaron\\c[0]: Ich habe die Bitte, die ",
-				"Sicherheitsmaßnahmen für den ",
-				"Forschungsbereich zu erhöhen."
+				"\\c[10]Sir Avaron\\c[0]: I'd like to request that",
+				"security measures for our research",
+				"facility increase."
 			]
 		},
 		{
@@ -75,8 +74,8 @@
 			"original": "Sir Avaron: So lange, bis sich die Lage in Korzojeno geklärt hat.",
 			"lines":
 			[
-				"\\c[10]Sir Avaron\\c[0]: So lange, bis sich die ",
-				"Lage in Korzojeno geklärt hat."
+				"\\c[10]Sir Avaron\\c[0]: Until the situation with",
+				"Korzojeno has been resolved."
 			]
 		},
 		{
@@ -84,8 +83,8 @@
 			"original": "Sir Famares: Ich werde zusehen, was sich einrichten lässt.",
 			"lines":
 			[
-				"\\c[10]Sir Famares\\c[0]: Ich werde zusehen, was ",
-				"sich einrichten lässt."
+				"\\c[10]Sir Famares\\c[0]: I'll see what can be",
+				"done."
 			]
 		},
 		{
@@ -93,7 +92,7 @@
 			"original": "Sir Avaron: Ich danke Ihnen.",
 			"lines":
 			[
-				"\\c[10]Sir Avaron\\c[0]: Ich danke Ihnen."
+				"\\c[10]Sir Avaron\\c[0]: Thank you."
 			]
 		}
 	]

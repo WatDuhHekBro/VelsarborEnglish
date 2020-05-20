@@ -6,7 +6,7 @@
 			"original": "Kento: Fr... Frau Filaja!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: D...\\. Dame Filaja!"
+				"\\c[1]\\n[1]\\c[0]: M...\\. Ms. Filaja!"
 			]
 		},
 		{
@@ -31,7 +31,7 @@
 			"original": "Kento: Und was ist mit Herrn Uroto?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: And what about Sir Uroto?"
+				"\\c[1]\\n[1]\\c[0]: And what about Mr. Uroto?"
 			]
 		},
 		{
@@ -416,7 +416,7 @@
 			[
 				"\\c[13]\\n[3]\\c[0]: Yeah...\\. you're right.\\. We should",
 				"go back as soon as possible.\\.",
-				"Hopefully Sir Uroto is fine..."
+				"Hopefully Mr. Uroto is fine..."
 			]
 		},
 		{

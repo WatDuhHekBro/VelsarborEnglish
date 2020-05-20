@@ -6,8 +6,8 @@
 			"original": "Gefangener: Hacken... und hacken... und noch mal hacken... und wieder hacken...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Hacken...\\. und hacken...\\. und noch mal ",
-				"hacken...\\. und wieder hacken..."
+				"\\c[10]Prisoner\\c[0]: Swing...\\. swing...\\. and swing...\\.",
+				"and swing again..."
 			]
 		},
 		{
@@ -16,8 +16,8 @@
 			"original": "Felcis: Ich glaube, zusammengefasst nennt man das \"Erzschürfen\".",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich glaube, zusammengefasst ",
-				"nennt man das \"Erzschürfen\"."
+				"\\c[5]\\n[5]\\c[0]: To summarize, I believe it's",
+				"called \"ore mining\"."
 			]
 		},
 		{
@@ -26,7 +26,7 @@
 			"original": "Gefangener: Hey, dich hat niemand gefragt!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Hey,\\. dich hat niemand gefragt!"
+				"\\c[10]Prisoner\\c[0]: Hey,\\. nobody asked you!"
 			]
 		},
 		{
@@ -34,9 +34,9 @@
 			"original": "Gefangener: Wenn du dir wirklich Mühe geben willst, sollteste versuchen, in die hinteren Bereiche der Mine zu gelangen.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Wenn du dir wirklich Mühe geben ",
-				"willst, sollteste versuchen, in die hinteren ",
-				"Bereiche der Mine zu gelangen. "
+				"\\c[10]Prisoner\\c[0]: If you actually want to put effort into",
+				"this ore mining thing, try to get to the back of",
+				"the mine."
 			]
 		},
 		{
@@ -44,9 +44,9 @@
 			"original": "Gefangener: Dort findest'e dann reichere Erz- Vorkommen... neben mehr Monstern, Schluchten und anderen Gefahren.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Dort findest'e dann reichere Erz-",
-				"Vorkommen...\\. neben mehr Monstern,\\. Schluchten und ",
-				"anderen Gefahren."
+				"\\c[10]Prisoner\\c[0]: There, you'll find richer ore",
+				"deposits...\\. along with more monsters,",
+				"ravines, and other dangers."
 			]
 		},
 		{
@@ -54,7 +54,7 @@
 			"original": "Gefangene: ... bitte nicht jetzt...",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: ...\\. bitte nicht jetzt..."
+				"\\c[10]Prisoner\\c[0]: ...not now please..."
 			]
 		},
 		{
@@ -62,9 +62,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -73,8 +73,8 @@
 			"original": "Wache: Na, wie war die Lorenfahrt? Jetzt aber auf zur Arbeit!",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Na, wie war die Lorenfahrt?\\. Jetzt aber auf ",
-				"zur Arbeit!"
+				"\\c[10]Guard\\c[0]: How was it travelling through the railways?\\.",
+				"Now get to work!"
 			]
 		},
 		{
@@ -83,8 +83,8 @@
 			"original": "Wache: Was habt ihr hier zu suchen? Ihr sollt Erz schürfen, also los, los!",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Was habt ihr hier zu suchen? Ihr sollt Erz ",
-				"schürfen, also los, los!"
+				"\\c[10]Guard\\c[0]: What are you doing here? You should be",
+				"mining ore, so move it already!"
 			]
 		},
 		{
@@ -92,10 +92,10 @@
 			"original": "Wache: Wenn ihr zu einem anderen Bereich wollt, müsst ihr zu Fuß latschen. Aber passt auf, die Lorenbahn-Strecke ist nicht sonderlich sicher zu Fuß, wegen den Biestern, ihr wisst schon.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Wenn ihr zu einem anderen Bereich wollt, ",
-				"müsst ihr zu Fuß latschen.\\. Aber passt auf, die ",
-				"Lorenbahn-Strecke ist nicht sonderlich sicher zu ",
-				"Fuß, wegen den Biestern, ihr wisst schon."
+				"\\c[10]Guard\\c[0]: If you want to go to another area, you'll",
+				"have to walk on foot.\\. But be careful, the railways",
+				"aren't particularly safe on foot, because of the",
+				"monsters, you know."
 			]
 		},
 		{
@@ -103,10 +103,9 @@
 			"original": "Wache: Wenn ihr Konfrontationen mit den Biestern dieser Höhle vermeiden wollt, solltet ihr euch nicht zu weit von den anderen Minenarbeitern entfernen.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Wenn ihr Konfrontationen mit den Biestern ",
-				"dieser Höhle vermeiden wollt, solltet ihr euch ",
-				"nicht zu weit von den anderen Minenarbeitern ",
-				"entfernen."
+				"\\c[10]Guard\\c[0]: If you want to avoid confrontation with the",
+				"monsters in this cave, don't get too far away from",
+				"the other miners."
 			]
 		},
 		{

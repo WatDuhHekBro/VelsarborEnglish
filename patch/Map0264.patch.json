@@ -6,10 +6,10 @@
 			"original": "Wache: Da drüben, jenseits des Wassers, ist der \"Stützpunkt der Pauamainer-Brüderschaft\". Den haben sie wirklich gut gewählt, da werden sie nicht von uns Wachen gestört.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Da drüben, jenseits des Wassers, ist der ",
-				"\"Stützpunkt der Pauamainer-Brüderschaft\". \\.Den ",
-				"haben sie wirklich gut gewählt, da werden sie ",
-				"nicht von uns Wachen gestört."
+				"\\c[10]Guard\\c[0]: Over there, beyond the water, is the \"base",
+				"of the Pauamainer Brotherhood\".\\. They chose the",
+				"location very well, because us guards won't",
+				"disturb them."
 			]
 		},
 		{
@@ -17,8 +17,8 @@
 			"original": "Wache: Also zumindest hätte ich keine Lust, diese Sprungpassage über das Wasser auf mich zu nehmen.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Also zumindest hätte ich keine Lust, diese ",
-				"Sprungpassage über das Wasser auf mich zu nehmen."
+				"\\c[10]Guard\\c[0]: At least I wouldn't feel like making a leap",
+				"of faith across the water."
 			]
 		},
 		{
@@ -26,8 +26,9 @@
 			"original": "Wache: Aber wir gönnen es ihnen, schließlich leisten sie die beste Arbeit von allen hier.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Aber wir gönnen es ihnen, schließlich ",
-				"leisten sie die beste Arbeit von allen hier."
+				"\\c[10]Guard\\c[0]: But we do treat them well. After all,",
+				"they're doing the best work out of all the",
+				"prisoners."
 			]
 		},
 		{
@@ -35,9 +36,9 @@
 			"original": "Gefangene: Ah... Ich mach immer zu schnell am Anfang, verlier dann Kondition und lass dann schnell nach...",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Ah... Ich mach immer zu schnell am ",
-				"Anfang, verlier dann Kondition und lass dann ",
-				"schnell nach..."
+				"\\c[10]Prisoner\\c[0]: Ah... I always put too much effort at",
+				"the beginning, then quickly lose all my energy",
+				"and can't do anything anymore..."
 			]
 		},
 		{
@@ -45,8 +46,7 @@
 			"original": "Gefangene: So werd ich nie ne anständige Essensportion erhalten...",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: So werd ich nie ne anständige ",
-				"Essensportion erhalten..."
+				"\\c[10]Prisoner\\c[0]: I'll never get a decent meal..."
 			]
 		},
 		{
@@ -54,10 +54,9 @@
 			"original": "Gefangener: Würdet ihr es schaffen über das Wasser hier zu kommen? Es gibt ne Reihe von Leuten hier, die das fast täglich machen. Die springen von Stein zu Stein, bis sie drüben sind.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Würdet ihr es schaffen über das Wasser ",
-				"hier zu kommen?\\. Es gibt ne Reihe von Leuten hier, ",
-				"die das fast täglich machen. Die springen von ",
-				"Stein zu Stein, bis sie drüben sind."
+				"\\c[10]Prisoner\\c[0]: Do you think you have what it takes to",
+				"be able to cross the water here?\\. There are quite",
+				"a few people who do this almost every single day."
 			]
 		},
 		{
@@ -66,10 +65,9 @@
 			"original": "Pauamainer-Miglied: Hey, du bist direkt bei unserem Stützpunkt. Allein schon für die Tatsache, dass du bis hierhin gekommen bist, haste nen Orden verdient!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Hey, du bist direkt bei ",
-				"unserem Stützpunkt.\\. Allein schon für die Tatsache, ",
-				"dass du bis hierhin gekommen bist, haste nen Orden ",
-				"verdient!"
+				"\\c[10]Pauamainer Member\\c[0]: Hey, you're right at our base.\\.",
+				"Just for the fact that you came this far, you",
+				"deserve a medallion!"
 			]
 		},
 		{
@@ -78,10 +76,9 @@
 			"original": "Pauamainer-Miglied: Ihr guckt so verdutzt. Wenn ihr mehr über uns und die Minen-Orden erfahren wollt, besucht einfach unseren Stützpunkt.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Ihr guckt so verdutzt.\\. Wenn ",
-				"ihr mehr über uns und die Minen-Orden ",
-				"erfahren wollt, besucht einfach unseren ",
-				"Stützpunkt."
+				"\\c[10]Pauamainer Member\\c[0]: You look so confused.\\. If you",
+				"want to learn more about us and the miner",
+				"medallions, just visit our base."
 			]
 		},
 		{
@@ -90,10 +87,9 @@
 			"original": "Pauamainer-Miglied: Dieser befindet sich im mittleren Bereich der Mine. Fahrt beim nächsten Mal mit der Lore einfach rechts und dann geradeaus.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Dieser befindet sich im ",
-				"mittleren Bereich der Mine.\\. Fahrt beim nächsten ",
-				"Mal mit der Lore einfach rechts und dann ",
-				"geradeaus."
+				"\\c[10]Pauamainer Member\\c[0]: It's located at the center of",
+				"the mine.\\. Next time on the railways, just go",
+				"right and then straight."
 			]
 		},
 		{
@@ -102,7 +98,7 @@
 			"original": "Pauamainer-Miglied: Glück auf!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Glück auf!"
+				"\\c[10]Pauamainer Member\\c[0]: Good luck!"
 			]
 		},
 		{
@@ -111,10 +107,9 @@
 			"original": "Pauamainer-Miglied: Wenn du genug Orden gesammelt hast, kommste in unseren Stützpunkt rein! Dann sind wir eine Gemeinschaft, wie eine Familie, Kumpel!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Wenn du genug Orden gesammelt ",
-				"hast, kommste in unseren Stützpunkt rein!\\. Dann ",
-				"sind wir eine Gemeinschaft, wie eine Familie, ",
-				"Kumpel!"
+				"\\c[10]Pauamainer Member\\c[0]: If you've collected enough",
+				"medallions, come to our base!\\. We're a",
+				"community, like a family!"
 			]
 		},
 		{
@@ -283,9 +278,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -293,9 +288,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -303,9 +298,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		}
 	]

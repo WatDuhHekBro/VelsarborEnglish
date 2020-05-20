@@ -7,10 +7,9 @@
 			"original": "Wache: Ah, das Holz... das Holz... wie lange wird es noch halten... Ehm... HEY! Ihr seid immer noch hier?! Ihr solltet bereits längst wieder an der Oberfläche sein.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Ah, das Holz... das Holz...\\. wie lange wird ",
-				"es noch halten...\\. Ehm...\\. HEY!\\. Ihr seid immer noch ",
-				"hier?!\\. Ihr solltet bereits längst wieder an der ",
-				"Oberfläche sein. "
+				"\\c[10]Guard\\c[0]: The wood...\\. The wood...\\. How long will it",
+				"last...\\. Um...\\. HEY!\\. Why are you still here?!\\. You",
+				"should've been back on the surface long ago."
 			]
 		},
 		{
@@ -19,9 +18,8 @@
 			"original": "Wache: Wollt ihr hier unten bei den Monstern verrotten? Geht von hier aus nach Süden, um wieder ans Tageslicht zu kommen.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Wollt ihr hier unten bei den Monstern ",
-				"verrotten?\\. Geht von hier aus nach Süden, um wieder ",
-				"ans Tageslicht zu kommen."
+				"\\c[10]Guard\\c[0]: Do you want to rot down here with the",
+				"monsters?\\. Go south of here to get back to the sun."
 			]
 		},
 		{
@@ -30,9 +28,8 @@
 			"original": "Wache: Hm... das Holzgerüst müsste hier mal wieder erneuert werden... sieht schon ziemlich brüchig aus.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Hm...\\. das Holzgerüst müsste hier mal wieder ",
-				"erneuert werden...\\. sieht schon ziemlich brüchig ",
-				"aus."
+				"\\c[10]Guard\\c[0]: Hm...\\. The wooden scaffolding will have to",
+				"be replaced here again...\\. Looks pretty unstable."
 			]
 		},
 		{
@@ -41,8 +38,8 @@
 			"original": "Wache: Hey! Was habt ihr hier eigentlich zu suchen? Zurück mit euch zu den anderen Arbeitern!",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Hey!\\. Was habt ihr hier eigentlich zu ",
-				"suchen?\\. Zurück mit euch zu den anderen Arbeitern!"
+				"\\c[10]Guard\\c[0]: Hey!\\. What are you doing here?\\.",
+				"Get yourselves back to the other workers!"
 			]
 		}
 	]

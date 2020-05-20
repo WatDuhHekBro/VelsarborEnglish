@@ -17,7 +17,7 @@
 			"original": "(Kento: Hier müsste Herr Uroto gefangen sein...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Sir Uroto must be trapped",
+				"(\\c[1]\\n[1]\\c[0]: Mr. Uroto must be trapped",
 				"here...)"
 			]
 		},
@@ -57,7 +57,7 @@
 			"lines":
 			[
 				"(\\c[1]\\n[1]\\c[0]: It wouldn't be a good idea to",
-				"free Sir Uroto first.\\. With him by",
+				"free Mr. Uroto first.\\. With him by",
 				"my side, it'd be harder to move",
 				"through the complex.)"
 			]
@@ -85,7 +85,7 @@
 			"original": "Herr Uroto: Ich wusste nicht genau wo ich war oder wieso man uns gefangen genommen hat...",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: I didn't know exactly",
+				"\\c[10]Mr. Uroto\\c[0]: I didn't know exactly",
 				"where I was or why we were",
 				"captured..."
 			]
@@ -95,7 +95,7 @@
 			"original": "Herr Uroto: Aber als ich in meiner Zelle saß, habe ich einige Unterhaltungen der Wachleute mitlauschen können...",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: But when I was sitting in",
+				"\\c[10]Mr. Uroto\\c[0]: But when I was sitting in",
 				"my cell,\\. I could hear some of the",
 				"guards' conversations..."
 			]
@@ -108,7 +108,7 @@
 				"\\c[10]Guard\\c[0]: Hm...\\. This prisoner is still here,\\.",
 				"but what happened to the other three?"
 			],
-			"__comment__": "Revised to be way less confusing, since the original line coupled with what's on screen makes it look like they're trying to get Sir Uroto's attention which would defeat the whole purpose of avoiding making it look staged."
+			"__comment__": "Revised to be way less confusing, since the original line coupled with what's on screen makes it look like they're trying to get Mr. Uroto's attention which would defeat the whole purpose of avoiding making it look staged."
 		},
 		{
 			"path": [17,4,44,3],
@@ -170,7 +170,7 @@
 			"original": "Herr Uroto: Ich saß in meiner Zelle, als plötzlich irgendwas außerhalb geschah.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: I was sitting in my cell",
+				"\\c[10]Mr. Uroto\\c[0]: I was sitting in my cell",
 				"when something suddenly happened",
 				"outside."
 			]
@@ -180,7 +180,7 @@
 			"original": "Herr Uroto: Dann flog irgendetwas ins Gefängnis. Es wurde Hell und ich verlor mein Bewusstsein.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: Then, something was thrown",
+				"\\c[10]Mr. Uroto\\c[0]: Then, something was thrown",
 				"near my cell.\\. It got very bright and",
 				"I lost consciousness."
 			]
@@ -190,7 +190,7 @@
 			"original": "Herr Uroto: Als ich wieder aufwachte, befand ich mich in einer Hütte im Wald.",
 			"lines":
 			[
-				"\\c[10]Sir Uroto\\c[0]: The next thing I knew,\\.",
+				"\\c[10]Mr. Uroto\\c[0]: The next thing I knew,\\.",
 				"I was in a hut in the forest."
 			]
 		},
@@ -199,7 +199,7 @@
 			"original": "(Herr Uroto: Verdammt...)",
 			"lines":
 			[
-				"(\\c[10]Sir Uroto\\c[0]: Damn...)"
+				"(\\c[10]Mr. Uroto\\c[0]: Damn...)"
 			]
 		},
 		{
@@ -207,7 +207,7 @@
 			"original": "(Herr Uroto: Wer hätte Gedacht, dass die Lage bereits jetzt schon so ernst ist.)",
 			"lines":
 			[
-				"(\\c[10]Sir Uroto\\c[0]: Who would've thought that",
+				"(\\c[10]Mr. Uroto\\c[0]: Who would've thought that",
 				"the situation was already so",
 				"serious.)"
 			]
@@ -217,7 +217,7 @@
 			"original": "(Herr Uroto: Hätte man diese ganzen Gerüchte doch bloß ernster genommen...)",
 			"lines":
 			[
-				"(\\c[10]Sir Uroto\\c[0]: If only all these rumors",
+				"(\\c[10]Mr. Uroto\\c[0]: If only all these rumors",
 				"had been taken more seriously...)"
 			]
 		},
@@ -226,7 +226,7 @@
 			"original": "(Herr Uroto: Wenn sich diese Gruppe bereits zutraut einen politischen Gesandten gefangen zu nehmen...)",
 			"lines":
 			[
-				"(\\c[10]Sir Uroto\\c[0]: If this group already",
+				"(\\c[10]Mr. Uroto\\c[0]: If this group already",
 				"dares to capture a political",
 				"envoy...)"
 			]
@@ -236,7 +236,7 @@
 			"original": "(Herr Uroto: Heißt das, dass sie der darauf folgenden Reaktion von Brigantia bereits gewachsen sind?)",
 			"lines":
 			[
-				"(\\c[10]Sir Uroto\\c[0]: Does that mean that after",
+				"(\\c[10]Mr. Uroto\\c[0]: Does that mean that after",
 				"Brigantia's following reaction, they",
 				"were already growing?)"
 			]
@@ -246,7 +246,7 @@
 			"original": "(Herr Uroto: Kann das wirklich sein? Hat sich eine so mächtige militärische Einheit komplett im Untergrund gebildet?)",
 			"lines":
 			[
-				"(\\c[10]Sir Uroto\\c[0]: Could it really be?\\.",
+				"(\\c[10]Mr. Uroto\\c[0]: Could it really be?\\.",
 				"Has such a powerful military unit",
 				"formed entirely underground?)"
 			]
@@ -256,7 +256,7 @@
 			"original": "(Herr Uroto: Was... Was wird jetzt mit mir geschehen...)",
 			"lines":
 			[
-				"(\\c[10]Sir Uroto\\c[0]: What...\\. What'll happen to",
+				"(\\c[10]Mr. Uroto\\c[0]: What...\\. What'll happen to",
 				"me now...)"
 			]
 		}

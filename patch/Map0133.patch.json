@@ -188,8 +188,8 @@
 			"original": "Gegnerische Einheit: Ergeben Sie sich auf der Stelle! Jeglicher Widerstand wird mit sofortiger Auslöschung entgegnet!",
 			"lines":
 			[
-				"\\c[10]Enemy Soldier\\c[0]: Don't move!\\. Any resistance and we",
-				"WILL fire!"
+				"\\c[10]Enemy Soldier\\c[0]: Stop right there!\\. Any resistance",
+				"and we WILL fire!"
 			]
 		},
 		{

@@ -6,8 +6,8 @@
 			"original": "Belias: Die Schallhaube kann jetzt aufgehoben werden!",
 			"lines":
 			[
-				"\\c[10]Belias\\c[0]: Die Schallhaube kann jetzt ",
-				"aufgehoben werden!"
+				"\\c[10]Belias\\c[0]: The sound inhibitor can now be",
+				"lifted!"
 			]
 		},
 		{
@@ -15,8 +15,8 @@
 			"original": "Genyu: Vielen Dank für die schnelle Unterstützung.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Vielen Dank für die schnelle ",
-				"Unterstützung."
+				"\\c[4]\\n[4]\\c[0]: Thank you very much for the",
+				"quick support."
 			]
 		},
 		{
@@ -24,9 +24,8 @@
 			"original": "Belias: Wir stecken hier in den selben Schwierigkeiten, wir müssen gemeinsam raus finden.",
 			"lines":
 			[
-				"\\c[10]Belias\\c[0]: Wir stecken hier in den ",
-				"selben Schwierigkeiten, wir müssen ",
-				"gemeinsam raus finden."
+				"\\c[10]Belias\\c[0]: We have the same predicament",
+				"here, so we're in this together."
 			]
 		},
 		{
@@ -34,9 +33,9 @@
 			"original": "Belias: Beeilt euch mit der Evakuierung der Truppen, die Boote warten nordöstlich am Waldrand.",
 			"lines":
 			[
-				"\\c[10]Belias\\c[0]: Beeilt euch mit der ",
-				"Evakuierung der Truppen, die Boote ",
-				"warten nordöstlich am Waldrand."
+				"\\c[10]Belias\\c[0]: Hurry up with the evacuation",
+				"of the soldiers, the ships are waiting",
+				"northeast at the edge of the forest."
 			]
 		},
 		{
@@ -44,10 +43,10 @@
 			"original": "Belias: Ihr fahrt den Fluss gen Norden, bis ihr von den Aquilwäldern umrundet seid. Dort wird der neue Stützpunkt vorbereitet.",
 			"lines":
 			[
-				"\\c[10]Belias\\c[0]: Ihr fahrt den Fluss gen ",
-				"Norden, bis ihr von den Aquilwäldern ",
-				"umrundet seid.\\. Dort wird der neue ",
-				"Stützpunkt vorbereitet."
+				"\\c[10]Belias\\c[0]: You'll move north through the",
+				"river until you're surrounded by the",
+				"Aquil Forests.\\. The new base is being",
+				"prepared there."
 			]
 		},
 		{
@@ -55,9 +54,8 @@
 			"original": "Belias: Die Magier werden euch helfen, bei der Fahrt unbeobachtet zu bleiben.",
 			"lines":
 			[
-				"\\c[10]Belias\\c[0]: Die Magier werden euch ",
-				"helfen, bei der Fahrt unbeobachtet zu ",
-				"bleiben."
+				"\\c[10]Belias\\c[0]: These mages will help you to",
+				"go unnoticed while you're moving."
 			]
 		},
 		{
@@ -65,9 +63,8 @@
 			"original": "Genyu: Ausgezeichnet. Ich werde zusehen, dass die Truppen zusammen bleiben.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Ausgezeichnet.\\. Ich werde ",
-				"zusehen, dass die Truppen zusammen ",
-				"bleiben."
+				"\\c[4]\\n[4]\\c[0]: Excellent.\\. I'll see to it that",
+				"the soldiers stay together."
 			]
 		},
 		{
@@ -75,7 +72,7 @@
 			"original": "Belias: Übrigens, wo ist Herr Kiorta?",
 			"lines":
 			[
-				"\\c[10]Belias\\c[0]: Übrigens, wo ist Herr ",
+				"\\c[10]Belias\\c[0]: By the way, where's Mr.",
 				"Kiorta?"
 			]
 		},
@@ -84,10 +81,10 @@
 			"original": "Genyu: Felcis ist auf den Weg nach Helnovien. Er hat einen Plan, wie man Brigantia von den Untersuchungen kurzfristig ablenken kann.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Felcis ist auf den Weg nach ",
-				"Helnovien.\\. Er hat einen Plan, wie ",
-				"man Brigantia von den Untersuchungen ",
-				"kurzfristig ablenken kann."
+				"\\c[4]\\n[4]\\c[0]: Felcis is on his way to",
+				"Helnovien.\\. He has a plan on how to",
+				"distract Brigantia from investigating",
+				"in the short term."
 			]
 		},
 		{
@@ -95,8 +92,8 @@
 			"original": "Genyu: Er sollte Sie darüber informiert haben.",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Er sollte Sie darüber ",
-				"informiert haben."
+				"\\c[4]\\n[4]\\c[0]: He should've informed you of",
+				"this."
 			]
 		},
 		{
@@ -104,8 +101,8 @@
 			"original": "Belias: Der Brief wird wohl erst nach meiner Abreise angekommen sein.",
 			"lines":
 			[
-				"\\c[10]Belias\\c[0]: Der Brief wird wohl erst ",
-				"nach meiner Abreise angekommen sein."
+				"\\c[10]Belias\\c[0]: The letter will probably on be",
+				"there after I get back."
 			]
 		},
 		{
@@ -113,10 +110,9 @@
 			"original": "Belias: Naja, wenn Herr Kiorta etwas plant, hat das in der Regel Hand und Fuß. Vertrauen wir einfach mal darauf.",
 			"lines":
 			[
-				"\\c[10]Belias\\c[0]: Naja, wenn Herr Kiorta etwas ",
-				"plant, hat das in der Regel Hand und ",
-				"Fuß.\\. Vertrauen wir einfach mal ",
-				"darauf."
+				"\\c[10]Belias\\c[0]: Well, if Mr. Kiorta makes a",
+				"plan, it's usually in the right hands.\\.",
+				"Let's just trust him on this."
 			]
 		},
 		{
@@ -124,8 +120,8 @@
 			"original": "Genyu: Nun gut. Fangen wir dann mit der Evakurierung an!",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: Nun gut.\\. Fangen wir dann mit ",
-				"der Evakurierung an!"
+				"\\c[4]\\n[4]\\c[0]: Alright.\\. Let's begin with the",
+				"evacuation!"
 			]
 		},
 		{
@@ -133,7 +129,7 @@
 			"original": "Genyu: MÄNNER! VERSAMMELT EUCH!",
 			"lines":
 			[
-				"\\c[4]\\n[4]\\c[0]: MÄNNER!\\. VERSAMMELT EUCH!"
+				"\\c[4]\\n[4]\\c[0]: MEN!\\. GATHER AROUND!"
 			]
 		},
 		{
@@ -141,9 +137,8 @@
 			"original": "Belias: Oh, oh. Ich hätte die Schallhaube besser nicht aufheben lassen sollen...",
 			"lines":
 			[
-				"\\c[10]Belias\\c[0]: Oh, oh.\\. Ich hätte die ",
-				"Schallhaube besser nicht ",
-				"aufheben lassen sollen..."
+				"\\c[10]Belias\\c[0]: Oh no.\\. I shouldn't have had",
+				"the sound inhibitor lifted..."
 			]
 		}
 	]

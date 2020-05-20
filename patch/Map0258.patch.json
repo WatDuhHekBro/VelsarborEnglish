@@ -6,9 +6,8 @@
 			"original": "Gefangener: Ab und zu findet man hier in der Mine ja altes Gerümpel, worunter sich sogar der ein oder andere brauchbare Gegenstand befindet...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Ab und zu findet man hier in der Mine ",
-				"ja altes Gerümpel, worunter sich sogar der ein ",
-				"oder andere brauchbare Gegenstand befindet..."
+				"\\c[10]Prisoner\\c[0]: You can find old junk in the mine from",
+				"time to time, as well as some useful items..."
 			]
 		},
 		{
@@ -16,9 +15,9 @@
 			"original": "Gefangener: Es gab und gibt Gefangene, die versuchen, diesen Kram raus zu schmuggeln, was auch immer das denen bringen soll.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Es gab und gibt Gefangene, die ",
-				"versuchen, diesen Kram raus zu schmuggeln, was ",
-				"auch immer das denen bringen soll. "
+				"\\c[10]Prisoner\\c[0]: There have been, and still are,",
+				"prisoners trying to smuggle that stuff out,",
+				"whatever luck that brings them."
 			]
 		},
 		{
@@ -26,8 +25,8 @@
 			"original": "Gefangener: Aber wehe, die Wachen merken das. Die verstehen da keinen Spaß, glaubt mir.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Aber wehe, die Wachen merken das. Die ",
-				"verstehen da keinen Spaß, glaubt mir. "
+				"\\c[10]Prisoner\\c[0]: But woe to them, because the guards",
+				"always notice. They just don't get it."
 			]
 		},
 		{
@@ -35,9 +34,8 @@
 			"original": "Gefangener: Kam schon oft genug vor, dass die einen aufgedeckten Schmuggler mehrere Minuten lang durchgeprügelt haben...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Kam schon oft genug vor, dass die ",
-				"einen aufgedeckten Schmuggler mehrere Minuten lang ",
-				"durchgeprügelt haben..."
+				"\\c[10]Prisoner\\c[0]: It's happened often enough that those",
+				"smugglers were beaten up for several minutes..."
 			]
 		},
 		{
@@ -45,10 +43,9 @@
 			"original": "Gefangener: Ihr solltet euch nicht zu weit von den anderen Minenarbeiten entfernen. In den Randgebieten, wo weniger Leute arbeiten, tauchen immer wieder diese nervigen Biester auf.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Ihr solltet euch nicht zu weit von den ",
-				"anderen Minenarbeiten entfernen.\\. In den ",
-				"Randgebieten, wo weniger Leute arbeiten, tauchen ",
-				"immer wieder diese nervigen Biester auf."
+				"\\c[10]Prisoner\\c[0]: You shouldn't go too far from the other",
+				"miners.\\. Out there, where fewer people work, these",
+				"annoying monsters keep showing up."
 			]
 		},
 		{
@@ -56,9 +53,9 @@
 			"original": "Gefangene: Die Heilmittel, die diese Wachenleute einem geben reichen nicht wirklich aus, wenn man sich in den gefährlichen Gebieten aufhält.",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Die Heilmittel, die diese Wachenleute ",
-				"einem geben reichen nicht wirklich aus, wenn man ",
-				"sich in den gefährlichen Gebieten aufhält."
+				"\\c[10]Prisoner\\c[0]: The supplies these guards give you",
+				"really aren't enough if you're in the",
+				"dangerous areas."
 			]
 		},
 		{
@@ -66,10 +63,9 @@
 			"original": "Gefangene: Zwar geben sie einem noch ein paar Heilmittel, wenn du bei der Sammelstelle eine gewissen Menge Erz abgegeben hast, aber soviel musste erstmal zusammen bekommen...",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Zwar geben sie einem noch ein paar ",
-				"Heilmittel, wenn du bei der Sammelstelle eine ",
-				"gewissen Menge Erz abgegeben hast, aber soviel ",
-				"musste erstmal zusammen bekommen..."
+				"\\c[10]Prisoner\\c[0]: They'll give you some more supplies if",
+				"you bring a certain amount of ore to the railways,",
+				"but that much still has to be collected first..."
 			]
 		},
 		{
@@ -77,9 +73,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -87,9 +83,9 @@
 			"original": "(Kento: An der Stelle arbeitet bereits jemand. Es würde nur stören, wenn wir hier mithelfen.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: An der Stelle arbeitet ",
-				"bereits jemand. Es würde nur stören, ",
-				"wenn wir hier mithelfen.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like someone's already",
+				"working here. We'd only be disturbing",
+				"them if we tried to help out.)"
 			]
 		},
 		{
@@ -97,10 +93,9 @@
 			"original": "Wache: Der Weg zum nächst-nahen Erz-Bereich wäre diesen Gang runter zu folgen und dann bei der nächsten Möglichkeit nach Osten zu gehen. Achtet auf die Monster.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Der Weg zum nächst-nahen Erz-Bereich wäre ",
-				"diesen Gang runter zu folgen und dann bei der ",
-				"nächsten Möglichkeit nach Osten zu gehen.\\. Achtet ",
-				"auf die Monster."
+				"\\c[10]Guard\\c[0]: The way to the closest ore deposit would be",
+				"to follow this tunnel and then go straight at the",
+				"next opportunity.\\. Watch out for monsters."
 			]
 		},
 		{
@@ -109,10 +104,10 @@
 			"original": "Wache: He, süße, rothaarige Begleitung habt ihr da, muss schon sagen. Aber ihr seid halt noch neu hier, das sieht man euch an. Der Zahn der Zeit nagt dieser Orts besonders stark.",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: He, süße, rothaarige Begleitung habt ihr ",
-				"da, muss schon sagen.\\. Aber ihr seid halt noch neu ",
-				"hier, das sieht man euch an. \\.Der Zahn der Zeit ",
-				"nagt dieser Orts besonders stark. "
+				"\\c[10]Guard\\c[0]: Now ain't that a sweet red-haired companion",
+				"you've got there.\\. But you're still new here,",
+				"anyone can see that.\\. The claws of time will",
+				"sink into everyone in due time."
 			]
 		},
 		{
@@ -121,8 +116,8 @@
 			"original": "Wache: Am Ende sind sie alle nicht mehr schön anzusehen...",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Am Ende sind sie alle nicht mehr schön ",
-				"anzusehen..."
+				"\\c[10]Guard\\c[0]: In the end, all of them lose the beauty",
+				"they once had..."
 			]
 		},
 		{
@@ -131,9 +126,8 @@
 			"original": "Soko: Irgendwie beunruhigt mich diese Aussage mehr als ich erwartet hätte...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Irgendwie beunruhigt mich ",
-				"diese Aussage mehr als ich erwartet ",
-				"hätte..."
+				"\\c[13]\\n[3]\\c[0]: Somehow, this worries me more",
+				"than I expected..."
 			]
 		},
 		{
@@ -142,9 +136,9 @@
 			"original": "Cibon: Wahrhaftig eine Hölle! Wie kann man so etwas nur den zierlichen Damen antun!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wahrhaftig eine Hölle!\\. Wie ",
-				"kann man so etwas nur den ",
-				"zierlichen Damen antun!"
+				"\\c[2]\\n[2]\\c[0]: This place is truly a hell!\\. How",
+				"could this happen to such fragile",
+				"ladies?!"
 			]
 		},
 		{
@@ -153,7 +147,7 @@
 			"original": "Soko: \"zierlichen\"?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: \"zierlichen\"?"
+				"\\c[13]\\n[3]\\c[0]: \"Fragile?\""
 			]
 		},
 		{
@@ -162,8 +156,8 @@
 			"original": "Kento: Ich glaube Anwesende müssen sich nicht angesprochen fühlen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich glaube Anwesende müssen ",
-				"sich nicht angesprochen fühlen..."
+				"\\c[1]\\n[1]\\c[0]: I don't think you need to feel",
+				"praised..."
 			]
 		},
 		{
@@ -181,9 +175,8 @@
 			"original": "Felcis: Ich fühl mich aber angesprochen. Ich bin -viel- zu zierlich für diese Arbeit.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich fühl mich aber ",
-				"angesprochen.\\. Ich bin \\.-viel-\\. zu ",
-				"zierlich für diese Arbeit."
+				"\\c[5]\\n[5]\\c[0]: I feel praised.\\. I'm \\.*soooo*\\.",
+				"fragile for this work."
 			]
 		},
 		{
@@ -192,8 +185,7 @@
 			"original": "Cibon: Du bringst mich total aus dem Konzept, Junge!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Du bringst mich total ",
-				"aus dem Konzept, Junge!"
+				"\\c[2]\\n[2]\\c[0]: You keep messing with my head!"
 			]
 		},
 		{
@@ -202,7 +194,8 @@
 			"original": "Wache: Steht hier nicht so rum und arbeitet!",
 			"lines":
 			[
-				"\\c[10]Wache\\c[0]: Steht hier nicht so rum und arbeitet!"
+				"\\c[10]Guard\\c[0]: Don't just stand around here, get back to",
+				"work!"
 			]
 		},
 		{
