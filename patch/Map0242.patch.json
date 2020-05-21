@@ -792,18 +792,20 @@
 			"original": "Wächter: Wir versperren hier sicher nicht den Weg, damit wir Leute wie euch durchlassen.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wir versperren hier sicher nicht den Weg, ",
-				"damit wir Leute wie euch durchlassen."
-			]
+				"\\c[10]Guard\\c[0]: You used to be a soldier like me,\\.",
+				"then you took an arrow to your loyalty."
+			],
+			"__comment__": "The guard on the right of the mine entrance."
 		},
 		{
 			"path": [60,1,2,2],
 			"original": "Wächter: Wir versperren hier sicher nicht den Weg, damit wir Leute wie euch durchlassen.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wir versperren hier sicher nicht den Weg, ",
-				"damit wir Leute wie euch durchlassen."
-			]
+				"\\c[10]Guard\\c[0]: You used to be a soldier like me,\\.",
+				"then you took an arrow to your loyalty."
+			],
+			"__comment__": "The guard on the left of the mine entrance."
 		},
 		{
 			"path": [73,1,11,3],

@@ -248,6 +248,8 @@
 			"path": [17,2,4,3],
 			"indent": 1,
 			"original": "Chef: Isch bin hie de Schef. Freid misch, neie Gesischte hie in unsere Briderschafd zu sehe!",
+			"__comment__": "Ich bin hier die Chef. Freut mich, nie Geschichte hier in unsere Bruderschaft zu sehe!",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Isch bin hie de Schef.\\. Freid ",
@@ -259,6 +261,8 @@
 			"path": [17,2,7,4],
 			"indent": 1,
 			"original": "Chef: Mir alle sind schon lòònge hie in Helnovie. Doch mir sehn uns nisch als Gefangne hie, sondern als harde Arweider!",
+			"__comment__": "Mir alle sind schon lange hier in Helnovien. Doch mir sehen uns nicht als Gefangner hier, sondern als harde Arbeiter!",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Mir alle sind schon lòònge hie ",
@@ -271,6 +275,8 @@
 			"path": [17,2,11,2],
 			"indent": 1,
 			"original": "Chef: Ei, un mir mache diese Arweid fir unse Lewwen gern!",
+			"__comment__": "Oh, und mir machen diese Arbeit für unsere Leben gerne!",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Ei, un mir mache diese Arweid ",
@@ -290,6 +296,8 @@
 			"path": [17,2,21,3],
 			"indent": 2,
 			"original": "Chef: Ah, ihr seid doch die Bruschen, die misch do dadsäschlisch inne Durnier besiegt habd.",
+			"__comment__": "Ah, ihr seid doch die Brüder, die mich du tatsächlich im Turnier besiegt habt.",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Ah, ihr seid doch die ",
@@ -301,6 +309,8 @@
 			"path": [17,2,24,3],
 			"indent": 2,
 			"original": "Chef: Un soga en Mäde had be eich mitgekämpft! Kòòm zu glòòwwen, dass isch misch von dem besiégn lass.",
+			"__comment__": "Und sogar eine Mädchen hat bei euch mitgekämpft! Komm zu glauben, dass ich mich von dem besiegn lass.",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Un soga en Mäde had be eich ",
@@ -321,6 +331,8 @@
 			"path": [17,2,30,4],
 			"indent": 2,
 			"original": "Chef: Ei jòò, vonna Weile hawwisch mòòl ene Belohnung aasgestelld fir denjenigen, der misch besiegt. Natirlisch nisch offisiell.",
+			"__comment__": "Ohje, von ner Weile mal eine Belohnung ausgestellt für denjenigen, der mich besiegt. Natürlich nicht offiziell.",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Ei jòò,\\. vonna Weile hawwisch ",
@@ -333,6 +345,8 @@
 			"path": [17,2,34,4],
 			"indent": 2,
 			"original": "Chef: Isch dòòcht dadursch wirde Mòòl starge Gäschna komme, awwer gebròòcht hawwet damals nischt soviel. Awwer egal!",
+			"__comment__": "Ich dachte wurde Mal starke Geschnappt komme, aber gebracht habt damals nicht soviel. Aber egal!",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Isch dòòcht dadursch wirde ",
@@ -345,6 +359,8 @@
 			"path": [17,2,38,3],
 			"indent": 2,
 			"original": "Chef: Nun habt ihr misch besiegt un ihr begommt den Pres. Dòò, holld ihn eich.",
+			"__comment__": "Nun habt ihr mich besiegt und ihr bekommt den Presse. Du, hollt ihn euch.",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Nun habt ihr misch besiegt un ",
@@ -356,6 +372,8 @@
 			"path": [17,2,48,2],
 			"indent": 2,
 			"original": "Chef: Isch hoffe mir sehe uns nochma im Durnier!",
+			"__comment__": "Ich hoffe mir sehe uns nochmal im Turnier!",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Isch hoffe mir sehe uns nochma ",

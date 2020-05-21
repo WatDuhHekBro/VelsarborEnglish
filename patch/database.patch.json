@@ -382,7 +382,7 @@
 			"original": "Soldat: ...Sedric, du HAST den Gegner unterschätzt!",
 			"lines":
 			[
-				"\\c[10]Soldier\\c[0]: Sedric,\\. you really HAVE underestimated",
+				"\\c[10]Soldier\\c[0]: Sedric,\\. you really have underestimated",
 				"your opponent!"
 			]
 		},
@@ -393,7 +393,7 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: N...\\. No!\\. I can't allow this to happen.\\.",
-				"NOT HERE!"
+				"NOT LIKE THIS!"
 			]
 		},
 		{
@@ -438,6 +438,8 @@
 			"path": [93,547,1],
 			"indent": 2,
 			"original": "Chefv: Jetz' is... Zappe!",
+			"__comment__": "Jetzt ist... Sappe!",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chefv\\c[0]: Jetz' is...\\. Zappe!"
@@ -1350,7 +1352,7 @@
 			"original": "Cibon: Es ist ein Wurm und er ist RIESIG!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Es ist ein Wurm und er ist RIESIG!"
+				"\\c[2]\\n[2]\\c[0]: It's a worm and it's HUGE!"
 			]
 		},
 		{
@@ -1359,8 +1361,8 @@
 			"original": "Kento: Wenn sich das Vieh so ähnlich wie seine kleinen Artgenossen verhält...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wenn sich das Vieh so ähnlich wie ",
-				"seine kleinen Artgenossen verhält..."
+				"\\c[1]\\n[1]\\c[0]: If this creature is like the others of its",
+				"kind..."
 			]
 		},
 		{
@@ -1369,8 +1371,8 @@
 			"original": "Kento: ...dann sollten wir uns auf viele Zauber gefasst machen!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...dann sollten wir uns auf viele Zauber ",
-				"gefasst machen!"
+				"\\c[1]\\n[1]\\c[0]: ...then we should be prepared for a lot of",
+				"spells coming our way!"
 			]
 		},
 		{
@@ -1504,6 +1506,8 @@
 			"path": [94,464,2],
 			"indent": 1,
 			"original": "Chef: Ei, e neia Geschna! Dann zescht mòòl, wòòs ihr so dròòf hòòbt!",
+			"__comment__": "Oh, ein naja Geschnappt! Dann ziemlich mal, was ihr so darf habt!",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Ei, e neia Geschna!\\. Dann zescht mòòl, wòòs ",
@@ -2914,6 +2918,8 @@
 			"path": [96,332,2],
 			"indent": 3,
 			"original": "Chef: Jetz' zesch isch eisch mal, wie dòòs lewwen inna Grub is!",
+			"__comment__": "Jetzt ziemlich ich euch mal, wie das leben in das Grube ist!",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Jetz' zesch isch eisch mal, wie dòòs lewwen ",
@@ -2924,6 +2930,8 @@
 			"path": [96,346,2],
 			"indent": 3,
 			"original": "Chef: So lòòngsòòm bin isch grimmelwiedisch! Jetz' kriehd ihr Fäng!",
+			"__comment__": "So langsam bin ich <???>! Jetzt kriegt ihr Fängt!",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: So lòòngsòòm bin isch grimmelwiedisch!\\.",
@@ -2934,6 +2942,8 @@
 			"path": [96,360,2],
 			"indent": 3,
 			"original": "Chef: Ei jòò, nesch schlescht! Da holl isch wohl bessa mei Schdärgedrong!",
+			"__comment__": "Ohje, nicht schlecht! Da hölle ich wohl besser mein Stärkedorn!",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Ei jòò, nesch schlescht!\\. Da holl isch wohl ",
@@ -3278,7 +3288,7 @@
 			"original": "Cibon: Der Tausch kann NUR DANN vollzogen werden, wenn du von jedem Item genug Exemplare bei dir trägst.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: The trade can ONLY be carried",
+				"\\c[2]\\n[2]\\c[0]: The trade can only be carried",
 				"out if you have the right amount",
 				"of each item with you."
 			]
@@ -3300,7 +3310,7 @@
 			"original": "Cibon: JEDESMAL wenn du jetzt Enter drückst, wird der Tausch einmal vollzogen. Drücke Esc wenn du genug getauscht hast.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: EVERY time you press",
+				"\\c[2]\\n[2]\\c[0]: Every time you press",
 				"Enter, the trade will be made",
 				"once. Press Esc when you've",
 				"traded enough."

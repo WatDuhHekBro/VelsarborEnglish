@@ -2796,6 +2796,8 @@
 			"path": [45,6,351,3],
 			"indent": 2,
 			"original": "Chef: Ei jòò, ihr habt mich wirglisch iwwerrascht! Starge Burschen seid ihr!",
+			"__comment__": "Ohje, ihr habt mich wirklich überrascht! Starke Brüden seid ihr!",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Ei jòò, ihr habt mich ",
@@ -2807,6 +2809,8 @@
 			"path": [45,6,354,4],
 			"indent": 2,
 			"original": "Chef: Besucht misch doch Mal in unsere Stidsepungd inner Grub! Dòò könnt ihr eisch ne dolle Sache holle!",
+			"__comment__": "Besucht mich doch Mal in unsere Siedepunkt immer Grube! Da könnt ihr euch nie dolle Sache hölle!",
+			"__guesstimate__": "",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Besucht misch doch Mal in ",
