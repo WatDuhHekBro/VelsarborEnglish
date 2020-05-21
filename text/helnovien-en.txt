@@ -164,14 +164,14 @@ Cibon: ARGS!
 Announcer: The brigante pride has shone enough for today. Hopefully tomorrow we will have the opportunity to marvel at our model prisoners again!
 Announcer: The traitors have fought enough for today. Now they can go back to their cells where they belong.
 Soko: KILL !!!! 1
-Note: These were Soko's thoughts.
+Note: These were just Soko's thoughts.
 Announcer: This was the last battle of the Zinkar butchers. Tomorrow is a new day! The Zinkar brothers will not run away after all!
 Announcer: For today this was the last fight of the Repsbrot troop. Come on! You can curl up now!
 Cibon: ARGS!
 Announcer: This was the last fight of brigant pride, for today. Hopefully tomorrow we will have the opportunity to marvel at our model prisoners again!
 Announcer: That was the last traitor fight for today! Now they can go back to their cells where they belong.
 Soko: KILL !!!! 1
-Note: These were Soko's thoughts.
+Note: These were just Soko's thoughts.
 Announcer: The Zinkar butchers have lost. What a shame! Will they ever reach their archenemy like this?
 Announcer: The Repsbrot troop was beaten. Well, people like you are eaten here for breakfast!
 Cibon: ... Ouch! And I'm not saying that because of any wounds!
@@ -401,19 +401,9 @@ Felcis: Talk to me in the canteen when you're ready.
 Kento: This Felcis really has its way of enlightening us at the last possible moment ...
 Felcis: Well, we have everything together. Let me know when you're ready, I'm still waiting up here in the canteen.
 Felcis: Don't take too much time.
----
-Kento: If we really want to try out this tournament, the registration for it seems to be over there... <$
-Felcis: You can find this guy on the top floor of this cell complex. Right before the entrance to the balcony. <$
-Kento: Alright. Let's have a look there. <$
 
-$
-Guard: Choose your next opponent.
-Guard: Do you want to stop fighting?
-Guard: Okay.
-Guard: Alright. Then prepare yourselves.
+...
 
-The result of today's tournament battles. <$
----
 Saion: Hmpf! We'll win our tournament place back, just you wait!
 Jorn: I see many months of cruel battles coming on me. Someone get me out of here, please!
 Saion: Jorn, will you please stop complaining all the time?
@@ -453,104 +443,6 @@ Pauamainer Member: Have a look at our base if you already belong to the Pauamain
 Da Boss: Ei jòò, you really surprised me! You are tough guys!
 Da Boss: Why not visit our Stidsepungd inside Grub! You can do a great job!
 Cibon: What a dialect. Where does the guy come from? < What an accent. Where's this guy from?
-
-$
-Guard: Entry is permitted only for registered combatants.
-
-$
-Guard: If you want to participate in the tournament, register with my colleague by the table.
-
-$
-Guard: If you want to register for the tournament, talk to me over the counter, okay?
-
-$
-Guard: Basically, prisoners can compete here in teams. There's a list of rankings with the most successful teams at the top.
-Guard: Each team can compete for a maximum of two times a day. You can only fight teams that are ranked below you or 1-2 ranks above you.
-Guard: In the case that the team with the higher rank loses in the fight, their rank will fall under the winner.
-Guard: If an opponent with the lower rank loses again, nothing happens.
-Guard: As far as equipment is concerned, you'll be able to choose, but you can find out more in the armory if you end up fighting.
-
-$
-Guard: Hey, you're rather quick. Just arrived here not too long ago and now you're off to the arena. Well, here's the thing.
-Guard: I'm assuming that the three of you want to compete as a team. In that case, I'll need a team name from you.
-Soko: Why, a team name?
-Guard: It's pretty common around here. Don't even think that people would want to remember your weird names. So come up with something.
-Guard: Actually, if I remember correctly, you were the ones that betrayed our country, right?
-Guard: So how about "The Traitors"? With that name, nobody's gonna second-guess who you are!
-Soko: Hell no!
-Cibon: Not even in your wildest dreams!
-Guard: Nice, nice! Then come up with something better. But don't make me wait too long or I'll write down my idea whether you like it or not.
-Cibon: Okay, Kento, come up with something!
-Kento: I don't know...
-Soko: Anything is better than this name...
-Kento: Um...
-Cibon: Think faster Kento!
-Kento: Now don't rush me!
-Cibon: We don't have time.
-Kento: "The Sunbread Squad".
-Cibon: What the hell?
-Kento: That's what happens when you put me under pressure like this. Why don't you come up with something better?
-Soko: "The Brigantine Pride"!
-Cibon: Hm...
-Kento: I don't know... The way it sounds, people will take it very ironically, Soko...
-Soko: ...
-Cibon: I got it! We'll call ourselves after our destiny! The reason why we're fighting in the first place!
-Soko: And what might that be?
-Cibon: "The Zinkar Butchers"!
-Kento: Nice... That'd at least clarify what we want to achieve...
-Guard: Are you three gonna take the entire day arguing? Either you tell me what your team name is or it'll be "The Traitors" and that's the end of it.
-(Kento: Looks like I have to choose now.)
-Kento: Our team name will be "The Zinkar Butchers".
-Guard: The Zinkar Butchers? So I take it that you want to overpower the Zinkar Brothers? Then you still have a long way to go, 'cause they're quite far up ahead.
-Cibon: Excuse me?
-Guard: In third place, to be exact.
-Kento: Oh, that's surprising.
-Cibon: This has to change as soon as possible. What kind of tournament is this and how did guys like them end up there?
-Kento: Our team name will be... "The Sunbread Squad"...
-Guard: Excuse me?
-Kento: Sunbread, like the baked goods. "Meticulously baked to perfection using sunflour!"
-Cibon: Kento, you gotta be kidding me! How are we supposed to be taken seriously with such a name?
-Kento: If they don't take us seriously, they'll underestimate us which would end up being an advantage.
-Cibon: No! That'd be absolutely stupid!
-Guard: Whatever! If you want to be called the Sunbread Squad, then we'll call you that. Registered.
-Guard: This'll make you the first team in the history of this prison to be named after something edible.
-Soko: Wow. Great name you picked there.
-Kento: What? I like sunbread...
-Kento: Our team name will be "The Brigantine Pride".
-Cibon: Um... Are you sure about that Kento?
-Soko: Let the people know that we behaved properly as soldiers of the Brigantine Order do!
-Guard: Brigantine... Pride?!
-Guard: Wuahahahahahahahahahahahahahahahahaha! I've never seen anything like it!
-Guard: Brigantine Pride! And in a prison! A Brigantine prison of all places! Brigantia can definitely be proud of that, oh yeah they most certainly can!
-Soko: Hey, we were wrongly locked up here!
-Guard: Haha, yep. That's what they all say.
-Cibon: Isn't that just a great choice you made there... *sigh*
-Soko: I think it's a good choice. It shows that you still believe in our innocence, Kento.
-(Kento: I mostly just found the irony of this name too good to pass up, but I better not say anything...)
-Kento: I... just can't make up my mind. So we'll go with "The Traitors".
-Soko: Kento! Why are you doing this?! Any other name would've been better, even the Sunbread Squad!
-Cibon: Yeah... Even the Sunbread Squad... Okay maybe not, but still, what about the Zinkar Butchers?!
-Guard: Ha, I knew it'd suit you well! "The Traitors". Registered through and through!
-Soko: No! We don't want that name!
-Guard: Do I look as if I'm willing to suffer through the anguish of scratching out this glorious masterpiece? It's too late to turn back, so quit whining.
-Kento: Sometimes it's best to just go with the flow, Soko.
-Kento: If the people here all think we're traitors, a different team name won't be changing that.
-Soko: Still... You could've chosen something else...
-Guard: Alright. Now that you're registered with me, you can start fighting.
-Guard: Here's the list of rankings. If you want to fight, choose your opponent from this list.
-Guard: You can only fight teams that are ranked below you or 1-2 ranks above you.
-
-$
-Guard: Here's where you register for the tournament. What do you want?
-Guard: Good, then get out of the way so you're not blocking anyone.
-Guard: The tournament is closed for today. Do you want to see the current rankings?
-Guard: Good, then get out of the way so you're not blocking anyone.
-Guard: Here's where you enter the tournament. So how about it? Are you going to fight?
-Guard: Good, then get out of the way so you're not blocking anyone.
-Guard: What? Not now? Then quit wasting my time already.
-Guard: So you want to fight "TournamentGegn1TurnierGegn2"? Then get yourselves ready.
-Cibon: What equipment should we use?
-Guard: Well, we have our armory specifically for those fighting in the tournament. Just go ahead, they'll explain how this works.
 
 ...
 
@@ -654,34 +546,6 @@ Felcis: Bingo!
 Kento: And what about the fuse to the stone?
 Felcis: Well, it's being laid right now.
 Felcis: Alright, but don't take too much time.
-
-
-
--= 234 =- $
-Guard: Do you want an explanation on choosing equipment?
-Guard: As you've probably already noticed, you'll get some tournament coins from us.
-Guard: You can then exchange them here for equipment and other items that you can use in combat.
-Guard: You can only choose your equipment once per day. You cannot change your equipment in-between fights. So plan accordingly if you plan on fighting more than once.
-Guard: Of course, you won't keep your armor or coins when these battles are over.
-Guard: Why? Are you choosing something different? Then let's start again from the beginning. Hurry up already!
-Guard: Then don't speak to me, choose your equipment and fight.
-
-Guard: Oh, a new participant. Here's your standard mining equipment and tournament coins.
-Guard: Here are your tournament coins.
-Guard: By the way, the amount of tournament coins you get depends on how much ore you've collected today.
-Guard: You can now exchange your tournament coins for better equipment here if you think that those pickaxes and work clothes aren't good enough for you.
-Guard: If you have any questions about choosing equipment, feel free to ask me.
-Guard: Hurry up and get your equipment, don't keep the others waiting.
-
-...
-
-Guard: Get out when you're ready.
-
-Guard: We have a very nice collection of equipment here, don't we? Would also be quite boring if prisoners could only fight with pickaxes all the time.
-
-Guard: Are you ready for the battle?
-
-Guard: Hey, what's this all about? Are you trying to back out now? Once you're in, there's no going back. You're going into the arena whether you like it or not!
 
 
 

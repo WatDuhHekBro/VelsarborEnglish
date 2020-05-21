@@ -2338,10 +2338,9 @@
 			"original": "Kento: Wenn wir wirklich dieses Turnier ausprobieren wollen - da unten scheint die Anmeldung zu sein...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wenn wir wirklich dieses ",
-				"Turnier ausprobieren wollen -\\. da ",
-				"unten scheint die Anmeldung zu ",
-				"sein..."
+				"\\c[1]\\n[1]\\c[0]: If we really want to try out",
+				"this tournament,\\. the registration",
+				"for it seems to be over there..."
 			]
 		},
 		{
@@ -2350,10 +2349,9 @@
 			"original": "Felcis: Dieser Typ befindet sich im obersten Stockwerk des Zellen- gebäudes. Kurz vor dem Eingang zur Terrasse.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Dieser Typ befindet sich im ",
-				"obersten Stockwerk des Zellen- ",
-				"gebäudes.\\. Kurz vor dem Eingang zur ",
-				"Terrasse."
+				"\\c[5]\\n[5]\\c[0]: You can find this guy on the",
+				"top floor of this cell complex.\\. Right",
+				"before the entrance to the balcony."
 			]
 		},
 		{
@@ -2362,8 +2360,8 @@
 			"original": "Kento: In Ordnung. Lasst uns da mal vorbei schauen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: In Ordnung.\\. Lasst uns da mal ",
-				"vorbei schauen."
+				"\\c[1]\\n[1]\\c[0]: Alright.\\. Let's have a look",
+				"there."
 			]
 		},
 		{
@@ -2371,7 +2369,7 @@
 			"original": "Wächter: Wählt euren nächsten Gegner.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wählt euren nächsten Gegner."
+				"\\c[10]Guard\\c[0]: Choose your next opponent."
 			]
 		},
 		{
@@ -2380,7 +2378,7 @@
 			"original": "Wächter: Wollt ihr doch aufhören zu kämpfen?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wollt ihr doch aufhören zu kämpfen?"
+				"\\c[10]Guard\\c[0]: Do you want to stop fighting?"
 			]
 		},
 		{
@@ -2389,7 +2387,7 @@
 			"original": "Wächter: Nagut.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Nagut."
+				"\\c[10]Guard\\c[0]: Okay."
 			]
 		},
 		{
@@ -2398,8 +2396,7 @@
 			"original": "Wächter: In Ordnung. Dann bereitet euch kurz vor.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: In Ordnung.",
-				"Dann bereitet euch kurz vor."
+				"\\c[10]Guard\\c[0]: Alright. Then prepare yourselves."
 			]
 		},
 		{
@@ -2407,7 +2404,7 @@
 			"original": "Der Ergebnis der heutigen Turnierkämpfe.",
 			"lines":
 			[
-				"Der Ergebnis der heutigen Turnierkämpfe."
+				"The result of today's tournament battles."
 			]
 		},
 		{
@@ -2817,8 +2814,8 @@
 			"original": "Wächter: Durchgang nur für angemeldete Kampfteilnehmer.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Durchgang nur für angemeldete ",
-				"Kampfteilnehmer."
+				"\\c[10]Guard\\c[0]: Entry is permitted only for registered",
+				"combatants."
 			]
 		},
 		{
@@ -2826,8 +2823,9 @@
 			"original": "Wächter: Wenn ihr am Turnier teilnehmen wollt, meldet euch bei meinem Kollegen am Tisch an.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wenn ihr am Turnier teilnehmen wollt, ",
-				"meldet euch bei meinem Kollegen am Tisch an."
+				"\\c[10]Guard\\c[0]: If you want to participate in the",
+				"tournament, register with my colleague",
+				"by the table."
 			]
 		},
 		{
@@ -2835,8 +2833,8 @@
 			"original": "Wächter: Wenn ihr euch beim Turnier anmelden wollt, redet mich bitte über die Theke an, ja?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wenn ihr euch beim Turnier anmelden ",
-				"wollt, redet mich bitte über die Theke an, ja?"
+				"\\c[10]Guard\\c[0]: If you want to register for the tournament,",
+				"talk to me over the counter, okay?"
 			]
 		},
 		{
@@ -2844,10 +2842,9 @@
 			"original": "Wächter: Im Prinzip können hier Gefangene in Teams gegeneinander antreten. Es gibt eine Rangliste, bei der die erfolgreichsten Teams ganz oben stehen.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Im Prinzip können hier Gefangene in Teams ",
-				"gegeneinander antreten. Es gibt eine Rangliste, ",
-				"bei der die erfolgreichsten Teams ganz oben ",
-				"stehen."
+				"\\c[10]Guard\\c[0]: Basically, prisoners can compete here in",
+				"teams. There's a list of rankings with the most",
+				"successful teams at the top."
 			]
 		},
 		{
@@ -2855,10 +2852,9 @@
 			"original": "Wächter: Jedes Team kann pro Tag maximal 2 Mal gegen ein anderes Team antreten. Ihr könnt nur Teams bekämpfen, die im Rang unter euch sind oder ein bis zwei Ränge höher.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Jedes Team kann pro Tag maximal 2 Mal ",
-				"gegen ein anderes Team antreten. \\.",
-				"Ihr könnt nur Teams bekämpfen, die im Rang unter ",
-				"euch sind oder ein bis zwei Ränge höher."
+				"\\c[10]Guard\\c[0]: Each team can compete for a maximum of two",
+				"times a day.\\. You can only fight teams that are",
+				"ranked below you or 1-2 ranks above you."
 			]
 		},
 		{
@@ -2866,9 +2862,9 @@
 			"original": "Wächter: Sollte das Team mit dem höheren Rang in einem Kampf verlieren, so sinkt es im Rang hinter den Gewinner.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Sollte das Team mit dem höheren Rang in ",
-				"einem Kampf verlieren, so sinkt es im Rang hinter ",
-				"den Gewinner. "
+				"\\c[10]Guard\\c[0]: In the case that the team with the higher",
+				"rank loses in the fight, their rank will fall",
+				"under the winner."
 			]
 		},
 		{
@@ -2876,8 +2872,8 @@
 			"original": "Wächter: Verliert wiederum der Gegner mit dem tieferen Rang, passiert gar nichts.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Verliert wiederum der Gegner mit dem ",
-				"tieferen Rang, passiert gar nichts."
+				"\\c[10]Guard\\c[0]: If an opponent with the lower rank loses",
+				"again, nothing happens."
 			]
 		},
 		{
@@ -2885,9 +2881,9 @@
 			"original": "Wächter: Was Ausrüstung angeht: Ihr werdet euch diese aussuchen können, aber dazu erfährt ihr mehr im Rüstungsraum, solltet ihr mal kämpfen.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Was Ausrüstung angeht:\\. Ihr werdet euch ",
-				"diese aussuchen können, aber dazu erfährt ihr mehr ",
-				"im Rüstungsraum, solltet ihr mal kämpfen."
+				"\\c[10]Guard\\c[0]: As far as equipment is concerned,\\. you'll be",
+				"able to choose,\\. but you can find out more in the",
+				"armory if you end up fighting."
 			]
 		},
 		{
@@ -2895,9 +2891,9 @@
 			"original": "Wächter: Ihr seid aber ganz schön schnell. Gerade erst hier angekommen und schon ab in die Arena. Naja, euer Ding.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Ihr seid aber ganz schön schnell.\\. Gerade ",
-				"erst hier angekommen und schon ab in die Arena.\\.",
-				"Naja, euer Ding."
+				"\\c[10]Guard\\c[0]: Hey, you're rather quick.\\. Just arrived here",
+				"not too long ago and now you're off to the arena.\\.",
+				"Well, here's the thing."
 			]
 		},
 		{
@@ -2905,9 +2901,9 @@
 			"original": "Wächter: Ich nehmen mal an, dass ihr zu dritt als Team antreten wollt. In dem Fall bräuchte ich einen Teamnamen.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Ich nehmen mal an, dass ihr zu dritt als ",
-				"Team antreten wollt.\\. In dem Fall bräuchte ich ",
-				"einen Teamnamen."
+				"\\c[10]Guard\\c[0]: I'm assuming that the three of you want to",
+				"compete as a team.\\. In that case, I'll need a team",
+				"name from you."
 			]
 		},
 		{
@@ -2915,7 +2911,7 @@
 			"original": "Soko: Wie, einen Teamnamen?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wie,\\. einen Teamnamen?"
+				"\\c[13]\\n[3]\\c[0]: Why,\\. a team name?"
 			]
 		},
 		{
@@ -2923,19 +2919,19 @@
 			"original": "Wächter: Das ist hier üblich so. Denkt nicht, dass sich die Leute eure merkwürdigen Namen merken wollen. Also denkt euch was aus.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Das ist hier üblich so.\\. Denkt nicht, dass ",
-				"sich die Leute eure merkwürdigen Namen merken ",
-				"wollen.\\. Also denkt euch was aus."
-			]
+				"\\c[10]Guard\\c[0]: It's pretty common around here.\\. Don't even",
+				"think that people would want to remember your",
+				"weird names.\\. So come up with something."
+			],
+			"__comment__": "Okay Lachsen. :P"
 		},
 		{
 			"path": [83,2,31,3],
 			"original": "Wächter: Wenn ich mich Recht entsinne, wart ihr doch die Truppe, die unser Land hintergangen hat, oder?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wenn ich mich Recht entsinne, wart ihr ",
-				"doch die Truppe, die unser Land hintergangen hat, ",
-				"oder? "
+				"\\c[10]Guard\\c[0]: Actually, if I remember correctly, you were",
+				"the ones that betrayed our country, right?"
 			]
 		},
 		{
@@ -2943,9 +2939,8 @@
 			"original": "Wächter: Wie wäre es dann mit \"Die Verräter\"? Bei dem Namen werden die Meisten gleich wissen, um wen es geht!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wie wäre es dann mit \\s[5]\"Die Verräter\"\\s[0]?\\, Bei ",
-				"dem Namen werden die Meisten gleich wissen, um wen ",
-				"es geht!"
+				"\\c[10]Guard\\c[0]: So how about \\s[5]\"The Traitors\"\\s[0]?\\, With that",
+				"name, nobody's gonna second-guess who you are!"
 			]
 		},
 		{
@@ -2953,7 +2948,7 @@
 			"original": "Soko: Niemals!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Niemals!"
+				"\\c[13]\\n[3]\\c[0]: Hell no!"
 			]
 		},
 		{
@@ -2961,7 +2956,8 @@
 			"original": "Cibon: Das wäre ja noch schöner!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Das wäre ja noch schöner!"
+				"\\c[2]\\n[2]\\c[0]: Not even in your wildest",
+				"dreams!"
 			]
 		},
 		{
@@ -2969,10 +2965,9 @@
 			"original": "Wächter: Schön, schön! Dann denkt euch was Besseres aus. Aber lasst mich nicht zu lange warten oder ich trag meine Idee ein, ob ihr wollt oder nicht.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Schön, schön!\\. Dann denkt euch was ",
-				"Besseres aus.\\. Aber lasst mich nicht zu lange ",
-				"warten oder ich trag meine Idee ein, ob ihr wollt ",
-				"oder nicht."
+				"\\c[10]Guard\\c[0]: Nice, nice!\\. Then come up with something",
+				"better.\\. But don't make me wait too long or I'll",
+				"write down my idea whether you like it or not."
 			]
 		},
 		{
@@ -2980,8 +2975,8 @@
 			"original": "Cibon: Los, denkt dir was aus, Kumpel!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Los, denkt dir was aus,",
-				"Kumpel!"
+				"\\c[2]\\n[2]\\c[0]: Okay, Kento, come up with",
+				"something!"
 			]
 		},
 		{
@@ -2989,7 +2984,7 @@
 			"original": "Kento: Ich weiß nicht...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich weiß nicht..."
+				"\\c[1]\\n[1]\\c[0]: I don't know..."
 			]
 		},
 		{
@@ -2997,8 +2992,8 @@
 			"original": "Soko: Alles ist besser als dieser Name...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Alles ist besser als dieser ",
-				"Name..."
+				"\\c[13]\\n[3]\\c[0]: Anything is better than this",
+				"name..."
 			]
 		},
 		{
@@ -3006,7 +3001,7 @@
 			"original": "Kento: Ehm...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ehm..."
+				"\\c[1]\\n[1]\\c[0]: Um..."
 			]
 		},
 		{
@@ -3014,7 +3009,7 @@
 			"original": "Cibon: ...schneller Kumpel!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...schneller Kumpel!"
+				"\\c[2]\\n[2]\\c[0]: Think faster Kento!"
 			]
 		},
 		{
@@ -3022,7 +3017,7 @@
 			"original": "Kento: Jetzt, hetzt mich nicht!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Jetzt, hetzt mich nicht!"
+				"\\c[1]\\n[1]\\c[0]: Now don't rush me!"
 			]
 		},
 		{
@@ -3030,7 +3025,7 @@
 			"original": "Cibon: Wir haben keine Zeit.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wir haben keine Zeit."
+				"\\c[2]\\n[2]\\c[0]: We don't have time."
 			]
 		},
 		{
@@ -3038,7 +3033,7 @@
 			"original": "Kento: \"Repsbrot-Truppe\".",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: \\s[5]\"Repsbrot-Truppe\"."
+				"\\c[1]\\n[1]\\c[0]: \\s[5]\"The Sunbread Squad\"."
 			]
 		},
 		{
@@ -3046,7 +3041,7 @@
 			"original": "Cibon: Was zum Henker?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Was zum Henker?"
+				"\\c[2]\\n[2]\\c[0]: What the hell?"
 			]
 		},
 		{
@@ -3054,10 +3049,10 @@
 			"original": "Kento: Das kommt davon, wenn ihr mich so unter Druck setzt. Wieso kommt eigentlich nichts von eurer Seite?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Das kommt davon, wenn ihr ",
-				"mich so unter Druck setzt.\\. Wieso ",
-				"kommt eigentlich nichts von eurer ",
-				"Seite?"
+				"\\c[1]\\n[1]\\c[0]: That's what happens when you",
+				"put me under pressure like this.\\.",
+				"Why don't you come up with",
+				"something better?"
 			]
 		},
 		{
@@ -3065,7 +3060,7 @@
 			"original": "Soko: \"Briganten-Stolz\"!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: \\s[5]\"Briganten-Stolz\"!"
+				"\\c[13]\\n[3]\\c[0]: \\s[5]\"The Brigantine Pride\"!"
 			]
 		},
 		{
@@ -3081,9 +3076,9 @@
 			"original": "Kento: Ich weiß nicht, aber so wie das klingt werden die Leute das sehr ironisch auffassen, Soko...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich weiß nicht,\\. aber so wie",
-				"das klingt werden die Leute das sehr ",
-				"ironisch auffassen, Soko..."
+				"\\c[1]\\n[1]\\c[0]: I don't know...\\. The way it",
+				"sounds, people will take it very",
+				"ironically, Soko..."
 			]
 		},
 		{
@@ -3091,7 +3086,7 @@
 			"original": "Soko: ...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ... "
+				"\\c[13]\\n[3]\\c[0]: ..."
 			]
 		},
 		{
@@ -3099,10 +3094,9 @@
 			"original": "Cibon: Ich hab es! Wir nennen uns nach unserer Bestimmung! Der Grund, für den wir kämpfen, wieso wir diesen ganzen Kram durchmachen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich hab es!\\. Wir nennen uns ",
-				"nach unserer Bestimmung!\\. Der Grund, ",
-				"für den wir kämpfen,\\. wieso wir ",
-				"diesen ganzen Kram durchmachen!"
+				"\\c[2]\\n[2]\\c[0]: I got it!\\. We'll call ourselves",
+				"after our destiny!\\. The reason why",
+				"we're fighting in the first place!"
 			]
 		},
 		{
@@ -3110,7 +3104,7 @@
 			"original": "Soko: Und das wäre was?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Und das wäre was?"
+				"\\c[13]\\n[3]\\c[0]: And what might that be?"
 			]
 		},
 		{
@@ -3118,7 +3112,7 @@
 			"original": "Cibon: \"Zinkar-Schlächter\"!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: \\s[5]\"Zinkar-Schlächter\"!"
+				"\\c[2]\\n[2]\\c[0]: \\s[5]\"The Zinkar Butchers\"!"
 			]
 		},
 		{
@@ -3126,9 +3120,8 @@
 			"original": "Kento: ...Gut... Damit wäre zumindest schon mal klar gestellt, was wir erreichen wollen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...\\.Gut...\\. Damit wäre ",
-				"zumindest schon mal klar gestellt, ",
-				"was wir erreichen wollen..."
+				"\\c[1]\\n[1]\\c[0]: Nice...\\. That'd at least clarify",
+				"what we want to achieve..."
 			]
 		},
 		{
@@ -3136,9 +3129,10 @@
 			"original": "Wächter: Habt ihr Drei es langsam? Also entweder nehmt sagt ihr mir jetzt euren Teamnamen, oder ihr heißt \"Die Verräter\" und ende.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Habt ihr Drei es langsam?\\. Also entweder ",
-				"nehmt sagt ihr mir jetzt euren Teamnamen, oder ihr ",
-				"heißt \"Die Verräter\" und ende."
+				"\\c[10]Guard\\c[0]: Are you three gonna take the entire day",
+				"arguing?\\. Either you tell me what your team name",
+				"is or it'll be \"The Traitors\" and that's the",
+				"end of it."
 			]
 		},
 		{
@@ -3146,8 +3140,8 @@
 			"original": "(Kento: Sieht so aus, als ob ich mich jetzt entscheiden muss.)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Sieht so aus, als ob ich ",
-				"mich jetzt entscheiden muss.)"
+				"(\\c[1]\\n[1]\\c[0]: Looks like I have to choose",
+				"now.)"
 			]
 		},
 		{
@@ -3156,8 +3150,8 @@
 			"original": "Kento: Unser Teamname lautet dann wohl \"Zinkar-Schlächter\".",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Unser Teamname lautet dann ",
-				"wohl \"Zinkar-Schlächter\"."
+				"\\c[1]\\n[1]\\c[0]: Our team name will be...\\.",
+				"\"The Zinkar Butchers\"."
 			]
 		},
 		{
@@ -3166,10 +3160,10 @@
 			"original": "Wächter: Zinkar-Schlächter? Ihr wollt also die Zinkar-Brüder überwältigen? Dann habt ihr noch nen weiten Weg zu gehen, denn so weit unten sind die nicht.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Zinkar-Schlächter?\\. Ihr wollt also die ",
-				"Zinkar-Brüder überwältigen?\\. Dann habt ihr noch nen ",
-				"weiten Weg zu gehen, denn so weit unten sind die ",
-				"nicht."
+				"\\c[10]Guard\\c[0]: The Zinkar Butchers?\\. So I take it that you",
+				"want to overpower the Zinkar Brothers?\\. Then you",
+				"still have a long way to go, 'cause they're",
+				"quite far up ahead."
 			]
 		},
 		{
@@ -3178,7 +3172,7 @@
 			"original": "Cibon: Wie bitte?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wie bitte?"
+				"\\c[2]\\n[2]\\c[0]: Excuse me?"
 			]
 		},
 		{
@@ -3187,7 +3181,7 @@
 			"original": "Wächter: Auf dem dritten Platz, um genau zu sein.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Auf dem dritten Platz, um genau zu sein."
+				"\\c[10]Guard\\c[0]: In third place, to be exact."
 			]
 		},
 		{
@@ -3196,7 +3190,7 @@
 			"original": "Kento: Oha, das ist überraschend.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Oha, das ist überraschend."
+				"\\c[1]\\n[1]\\c[0]: Oh, that's surprising."
 			]
 		},
 		{
@@ -3205,10 +3199,10 @@
 			"original": "Cibon: Das muss dringend geändert werden. Was für ein Turnier ist das bitte, wo Typen wie diese soweit oben liegen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Das muss dringend geändert ",
-				"werden.\\. Was für ein Turnier ist das ",
-				"bitte, wo Typen wie diese soweit ",
-				"oben liegen?"
+				"\\c[2]\\n[2]\\c[0]: This has to change as soon as",
+				"possible.\\. What kind of tournament is",
+				"this and how did guys like them end",
+				"up there?"
 			]
 		},
 		{
@@ -3217,8 +3211,8 @@
 			"original": "Kento: Unser Teamname wäre dann wohl... \"Repsbrot-Truppe\"...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Unser Teamname wäre dann ",
-				"wohl...\\. \"Repsbrot-Truppe\"..."
+				"\\c[1]\\n[1]\\c[0]: Our team name will be...\\.",
+				"\"The Sunbread Squad\"."
 			]
 		},
 		{
@@ -3227,7 +3221,7 @@
 			"original": "Wächter: Wie bitte?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wie bitte?"
+				"\\c[10]Guard\\c[0]: Excuse me?"
 			]
 		},
 		{
@@ -3236,8 +3230,7 @@
 			"original": "Kento: Repsbrot-Truppe, wie die Backware.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Repsbrot-Truppe,\\. wie die ",
-				"Backware."
+				"\\c[1]\\n[1]\\c[0]: Sunbread,\\. like the baked goods."
 			]
 		},
 		{
@@ -3246,10 +3239,9 @@
 			"original": "Cibon: Kumpel, das ist doch wohl nicht dein Ernst, oder? Wie sollen die uns mit so einem Namen bitte ernst nehmen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kumpel, das ist doch wohl ",
-				"nicht dein Ernst, oder?\\. Wie sollen ",
-				"die uns mit so einem Namen bitte ",
-				"ernst nehmen?"
+				"\\c[2]\\n[2]\\c[0]: Kento, you gotta be kidding me!\\.",
+				"How are we supposed to be taken",
+				"seriously with such a name?"
 			]
 		},
 		{
@@ -3258,9 +3250,10 @@
 			"original": "Kento: Wenn sie uns nicht ernst nehmen, werden sie uns unterschätzen und das wäre doch vorteilhaft.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wenn sie uns nicht ernst ",
-				"nehmen, werden sie uns unterschätzen ",
-				"und das wäre doch vorteilhaft."
+				"\\c[1]\\n[1]\\c[0]: If they don't take us",
+				"seriously, they'll underestimate",
+				"us which would end up being an",
+				"advantage."
 			]
 		},
 		{
@@ -3269,8 +3262,8 @@
 			"original": "Cibon: ...Nein! Das wäre absolut schwachsinnig!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...Nein!\\. Das wäre absolut ",
-				"schwachsinnig!"
+				"\\c[2]\\n[2]\\c[0]: No!\\. That'd be absolutely",
+				"stupid!"
 			]
 		},
 		{
@@ -3279,8 +3272,9 @@
 			"original": "Wächter: Was auch immer! Wenn ihr Repsbrot-Truppe heißen wollt, dann heißt ihr auch so. Eingetragen",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Was auch immer!\\. Wenn ihr Repsbrot-Truppe ",
-				"heißen wollt, dann heißt ihr auch so.\\. Eingetragen"
+				"\\c[10]Guard\\c[0]: Whatever!\\. If you want to be called the",
+				"Sunbread Squad, then we'll call you that.\\.",
+				"Registered."
 			]
 		},
 		{
@@ -3289,9 +3283,9 @@
 			"original": "Wächter: Damit wärt ihr die erste Truppe in der Geschichte dieses Gefängnis, die sich nach etwas Essbarem benennt.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Damit wärt ihr die erste Truppe in der ",
-				"Geschichte dieses Gefängnis, die sich nach etwas ",
-				"Essbarem benennt."
+				"\\c[10]Guard\\c[0]: This'll make you the first team in the",
+				"history of this prison to be named after",
+				"something edible."
 			]
 		},
 		{
@@ -3300,7 +3294,8 @@
 			"original": "Soko: Ganz große Klasse.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ganz große Klasse."
+				"\\c[13]\\n[3]\\c[0]: Wow.\\. Great name you picked",
+				"there."
 			]
 		},
 		{
@@ -3309,7 +3304,7 @@
 			"original": "Kento: Ich mag Repsbrot...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich mag Repsbrot..."
+				"\\c[1]\\n[1]\\c[0]: What?\\. \\s[1]I like sunbread..."
 			]
 		},
 		{
@@ -3318,8 +3313,8 @@
 			"original": "Kento: Unser Teamname wäre dann wohl \"Briganten-Stolz\".",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Unser Teamname wäre dann wohl ",
-				"\"Briganten-Stolz\"."
+				"\\c[1]\\n[1]\\c[0]: Our team name will be...\\.",
+				"\"The Brigantine Pride\"."
 			]
 		},
 		{
@@ -3328,7 +3323,7 @@
 			"original": "Cibon: Ehm... Bist du dir sicher, Kento?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ehm...\\. Bist du dir sicher, ",
+				"\\c[2]\\n[2]\\c[0]: Um...\\. Are you sure about that",
 				"Kento?"
 			]
 		},
@@ -3338,10 +3333,9 @@
 			"original": "Soko: Die Leute sollen wissen, dass wir uns so verhalten haben, wie es Soldaten des Briganten-Orden tun sollten!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Die Leute sollen wissen, dass ",
-				"wir uns so verhalten haben, wie es ",
-				"Soldaten des Briganten-Orden tun ",
-				"sollten!"
+				"\\c[13]\\n[3]\\c[0]: Let the people know that we",
+				"behaved properly as soldiers of",
+				"the Brigantine Order do!"
 			]
 		},
 		{
@@ -3350,7 +3344,7 @@
 			"original": "Wächter: Briganten...Stolz? ...",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Briganten...\\.Stolz?\\. ..."
+				"\\c[10]Guard\\c[0]: Brigantine...\\. Pride?!"
 			]
 		},
 		{
@@ -3359,8 +3353,8 @@
 			"original": "Wächter: Wuahahahahahahahahahahahahahahahahaha! So etwas hab ich noch nicht erlebt!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: \\s[3]Wuahahahahahahahahahahahahahahahahaha!\\s[0]\\. ",
-				"So etwas hab ich noch nicht erlebt! "
+				"\\c[10]Guard\\c[0]: \\s[3]Wuahahahahahahahahahahahahahahahahaha!\\s[0]\\.",
+				"I've never seen anything like it!"
 			]
 		},
 		{
@@ -3369,9 +3363,10 @@
 			"original": "Wächter: Briganten Stolz! Und das in einem Gefängnis! In Brigantia! Darauf kann Brigantia Stolz sein, ohja!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Briganten Stolz!\\. Und das in einem ",
-				"Gefängnis!\\. In Brigantia!\\. Darauf kann Brigantia ",
-				"Stolz sein, ohja!"
+				"\\c[10]Guard\\c[0]: Brigantine Pride!\\. And in a prison!\\.",
+				"A Brigantine prison of all places!\\. Brigantia",
+				"can definitely be proud of that, oh yeah",
+				"they most certainly can!"
 			]
 		},
 		{
@@ -3380,8 +3375,8 @@
 			"original": "Soko: ... Hey, wir wurden zu unrecht hier eingesperrt!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ... Hey,\\. wir wurden zu unrecht ",
-				"hier eingesperrt!"
+				"\\c[13]\\n[3]\\c[0]: Hey,\\. we were wrongly locked up",
+				"here!"
 			]
 		},
 		{
@@ -3390,8 +3385,7 @@
 			"original": "Wächter: Haha, ja. Das würden hier viele behaupten!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Haha,\\. ja.\\. Das würden hier viele ",
-				"behaupten!"
+				"\\c[10]Guard\\c[0]: Haha, yep.\\. That's what they all say."
 			]
 		},
 		{
@@ -3400,8 +3394,8 @@
 			"original": "Cibon: Tolle Wahl hast du da getroffen, Kumpel...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Tolle Wahl hast du da ",
-				"getroffen, Kumpel..."
+				"\\c[2]\\n[2]\\c[0]: Isn't that just a great choice",
+				"you made there... *sigh*"
 			]
 		},
 		{
@@ -3410,9 +3404,9 @@
 			"original": "Soko: Ich finde es gut. Es zeigt, dass du noch an unsere Unschuld glaubst, Kento.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ich finde es gut.\\. Es zeigt, ",
-				"dass du noch an unsere Unschuld ",
-				"glaubst, Kento."
+				"\\c[13]\\n[3]\\c[0]: I think it's a good choice.\\. It",
+				"shows that you still believe in our",
+				"innocence, Kento."
 			]
 		},
 		{
@@ -3421,9 +3415,9 @@
 			"original": "(Kento: Ich fand lediglich die Selbstironie des Namens interessant, aber ich sag besser nichts...)",
 			"lines":
 			[
-				"(\\c[1]\\n[1]\\c[0]: Ich fand lediglich die ",
-				"Selbstironie des Namens interessant, \\.",
-				"aber ich sag besser nichts...)"
+				"(\\c[1]\\n[1]\\c[0]: I mostly just found the irony",
+				"of this name too good to pass up,\\. but",
+				"I better not say anything about it...)"
 			]
 		},
 		{
@@ -3432,9 +3426,8 @@
 			"original": "Kento: Ich... kann mich nicht entscheiden. Also nehmen wir \"Die Verräter\".",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich...\\. kann mich nicht ",
-				"entscheiden. Also nehmen wir ",
-				"\"Die Verräter\"."
+				"\\c[1]\\n[1]\\c[0]: I...\\. just can't make up my",
+				"mind.\\. So we'll go with \"The Traitors\"."
 			]
 		},
 		{
@@ -3443,9 +3436,9 @@
 			"original": "Soko: Kento! Wieso tust du das?! Jeder anderer Name wäre besser gewesen, selbst Repsbrot-Truppe!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Kento!\\. Wieso tust du das?!\\.",
-				"Jeder anderer Name wäre besser ",
-				"gewesen, selbst Repsbrot-Truppe!"
+				"\\c[13]\\n[3]\\c[0]: Kento!\\. Why are you doing this?!\\.",
+				"Any other name would've been better,",
+				"even the Sunbread Squad!"
 			]
 		},
 		{
@@ -3454,10 +3447,9 @@
 			"original": "Cibon: Ja... selbst Repsbrot- Truppe... okay vielleicht auch nicht, aber verdammt, was ist mit Zinkar-Schlächter?!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja...\\. selbst Repsbrot-",
-				"Truppe...\\. okay vielleicht auch ",
-				"nicht,\\. aber verdammt, was ist mit ",
-				"Zinkar-Schlächter?!"
+				"\\c[2]\\n[2]\\c[0]: Yeah...\\. Even the Sunbread",
+				"Squad...\\. Okay maybe not,\\. but still,\\.",
+				"what about the Zinkar Butchers?!"
 			]
 		},
 		{
@@ -3466,9 +3458,8 @@
 			"original": "Wächter: Ha, ich wusste doch, dass es zu euch passt. \"Die Verräter\". Eingetragen und angeschlossen.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Ha,\\. ich wusste doch, dass es zu euch ",
-				"passt.\\. \"Die Verräter\".\\. Eingetragen und ",
-				"angeschlossen."
+				"\\c[10]Guard\\c[0]: Ha,\\. I knew it'd suit you well!\\. \"The",
+				"Traitors\".\\. Registered through and through!"
 			]
 		},
 		{
@@ -3477,8 +3468,7 @@
 			"original": "Soko: Nein! Wir wollen nicht diesen Namen!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Nein!\\. Wir wollen nicht diesen ",
-				"Namen! "
+				"\\c[13]\\n[3]\\c[0]: No!\\. We don't want that name!"
 			]
 		},
 		{
@@ -3487,9 +3477,10 @@
 			"original": "Wächter: Seh' ich so aus, als ob ich Lust hätte diesen Eintrag noch mal zu korrigieren? Die Sache ist beschlossen, also hört auf rumzujammern.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Seh' ich so aus, als ob ich Lust hätte ",
-				"diesen Eintrag noch mal zu korrigieren?\\. Die Sache ",
-				"ist beschlossen, also hört auf rumzujammern."
+				"\\c[10]Guard\\c[0]: Do I look as if I'm willing to suffer",
+				"through the anguish of scratching out this",
+				"glorious masterpiece?\\. It's too late to",
+				"turn back, so quit whining."
 			]
 		},
 		{
@@ -3498,9 +3489,8 @@
 			"original": "Kento: Manchmal ist am besten, einfach mit dem Fluss zu gehen, Soko.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Manchmal ist am besten, ",
-				"einfach mit dem Fluss zu gehen, ",
-				"Soko. "
+				"\\c[1]\\n[1]\\c[0]: Sometimes it's best to just go",
+				"with the flow, Soko."
 			]
 		},
 		{
@@ -3509,9 +3499,9 @@
 			"original": "Kento: Wenn die Leute uns hier alle für Verräter halten, wird ein Teamname daran nichts ändern.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wenn die Leute uns hier alle ",
-				"für Verräter halten, wird ein ",
-				"Teamname daran nichts ändern."
+				"\\c[1]\\n[1]\\c[0]: If the people here all think",
+				"we're traitors, a different team",
+				"name won't be changing that."
 			]
 		},
 		{
@@ -3520,8 +3510,8 @@
 			"original": "Soko: ... Dennoch, du hättest irgendwas anderes wählen können...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ... Dennoch,\\. du hättest ",
-				"irgendwas anderes wählen können..."
+				"\\c[13]\\n[3]\\c[0]: Still...\\. You could've chosen",
+				"something else..."
 			]
 		},
 		{
@@ -3529,8 +3519,8 @@
 			"original": "Wächter: Nun gut. Jetzt wo ihr angemeldet seid, könnt ihr euren ersten Kampf machen.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Nun gut. Jetzt wo ihr angemeldet seid, ",
-				"könnt ihr euren ersten Kampf machen. "
+				"\\c[10]Guard\\c[0]: Alright. Now that you're registered with",
+				"me, you can start fighting."
 			]
 		},
 		{
@@ -3538,8 +3528,8 @@
 			"original": "Wächter: Hier ist die Rangliste. Wenn ihr kämpfen wollt, wählt euren Gegner aus.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hier ist die Rangliste.\\. Wenn ihr kämpfen ",
-				"wollt, wählt euren Gegner aus. "
+				"\\c[10]Guard\\c[0]: Here's the list of rankings.\\. If you want to",
+				"fight, choose your opponent from this list."
 			]
 		},
 		{
@@ -3547,9 +3537,8 @@
 			"original": "Wächter: Ihr könnt nur Teams bekämpfen, die im Rang unter euch sind oder ein bis zwei Ränge höher.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Ihr könnt nur Teams bekämpfen, die im ",
-				"Rang unter euch sind oder ein bis zwei Ränge ",
-				"höher."
+				"\\c[10]Guard\\c[0]: You can only fight teams that are ranked",
+				"below you or 1-2 ranks above you."
 			]
 		},
 		{
@@ -3558,8 +3547,8 @@
 			"original": "Wächter: Hier ist Turnier-Anmeldung. Was wollt ihr?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hier ist Turnier-Anmeldung.\\. Was wollt ",
-				"ihr?"
+				"\\c[10]Guard\\c[0]: Here's where you register for the",
+				"tournament.\\. What do you want?"
 			]
 		},
 		{
@@ -3568,8 +3557,8 @@
 			"original": "Wächter: Gut, dann steht hier bitte nicht im Weg rum.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Gut, dann steht hier bitte nicht im Weg ",
-				"rum."
+				"\\c[10]Guard\\c[0]: Good, then get out of the way so you're not",
+				"blocking anyone."
 			]
 		},
 		{
@@ -3578,9 +3567,8 @@
 			"original": "Wächter: Die Turnierkämpfe sind für heute geschlossen. Wollt ihr euch die aktuelle Rangliste ansehen?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Die Turnierkämpfe sind für heute ",
-				"geschlossen.\\. Wollt ihr euch die aktuelle ",
-				"Rangliste ansehen?"
+				"\\c[10]Guard\\c[0]: The tournament is closed for today.\\. Do you",
+				"want to see the current rankings?"
 			]
 		},
 		{
@@ -3589,8 +3577,8 @@
 			"original": "Wächter: Gut, dann steht hier bitte nicht im Weg rum.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Gut, dann steht hier bitte nicht im Weg ",
-				"rum."
+				"\\c[10]Guard\\c[0]: Good, then get out of the way so you're not",
+				"blocking anyone."
 			]
 		},
 		{
@@ -3599,8 +3587,8 @@
 			"original": "Wächter: Hier geht's zum Turnier. Wie sieht's aus? Wollt ihr kämpfen?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hier geht's zum Turnier.\\. Wie sieht's aus?\\. ",
-				"Wollt ihr kämpfen?"
+				"\\c[10]Guard\\c[0]: Here's where you enter the tournament.\\.",
+				"So how about it?\\. Are you going to fight?"
 			]
 		},
 		{
@@ -3609,8 +3597,8 @@
 			"original": "Wächter: Gut, dann steht hier bitte nicht im Weg rum.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Gut, dann steht hier bitte nicht im Weg ",
-				"rum."
+				"\\c[10]Guard\\c[0]: Good, then get out of the way so you're not",
+				"blocking anyone."
 			]
 		},
 		{
@@ -3619,8 +3607,8 @@
 			"original": "Wächter: Wie? Jetzt doch nicht? Verschwendet hier bitte nicht meine Zeit.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wie?\\. Jetzt doch nicht?\\. Verschwendet hier ",
-				"bitte nicht meine Zeit."
+				"\\c[10]Guard\\c[0]: What?\\. Not now?\\. Then quit wasting my time",
+				"already."
 			]
 		},
 		{
@@ -3629,9 +3617,9 @@
 			"original": "Wächter: Ihr wollt also gegen \"TurnierGegn1TurnierGegn2\" kämpfen? Gut, dann mal rein mit euch.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Ihr wollt also gegen ",
-				"\"\\n[24]\\n[25]\" kämpfen?\\. ",
-				"Gut, dann mal rein mit euch."
+				"\\c[10]Guard\\c[0]: So you want to fight",
+				"\"\\n[24]\\n[25]\"?",
+				"Then get yourselves ready."
 			]
 		},
 		{
@@ -3640,8 +3628,7 @@
 			"original": "Cibon: Womit sollen wir überhaupt kämpfen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Womit sollen wir überhaupt ",
-				"kämpfen?"
+				"\\c[2]\\n[2]\\c[0]: What equipment should we use?"
 			]
 		},
 		{
@@ -3650,10 +3637,9 @@
 			"original": "Wächter: Nun, dafür haben wir unseren Rüstungsraum speziell für Turnierteilnehmer. Geht einfach voran, man wird euch schon erklären, wie das hier läuft.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Nun, dafür haben wir unseren Rüstungsraum ",
-				"speziell für Turnierteilnehmer.\\. Geht einfach ",
-				"voran, man wird euch schon erklären, wie das hier ",
-				"läuft."
+				"\\c[10]Guard\\c[0]: Well, we have our armory specifically for",
+				"those fighting in the tournament.\\. Just go ahead,",
+				"they'll explain how this works."
 			]
 		},
 		{
@@ -4967,7 +4953,8 @@
 	],
 	"replace":
 	{
-		"[12410,0,\"||------------ Hier: RANDOM KOMMENTARE ZUM ESSEN ------||\",[]]": "[12410,0,\"||------------ Hier: RANDOM KOMMENTARE ZUM ESSEN ------||\",[]],[12330,0,\"\",[0,119,0]],[10130,0,\"FACE-Kento\",[8,0,0]],[10110,0,\"\\\\c[1]\\\\n[1]\\\\c[0]: I'm still hungry...\",[]],[10130,0,\"FACE-Cibon\",[15,0,0]],[10110,0,\"\\\\c[2]\\\\n[2]\\\\c[0]: Kento, you're always hungry...\",[]],[10130,0,\"FACE-soko\",[15,0,0]],[10110,0,\"\\\\c[13]\\\\n[3]\\\\c[0]: I sometimes wonder how much you\",[]],[20110,0,\"normally eat.\",[]],[10130,0,\"FACE-Kento\",[11,0,0]],[10110,0,\"\\\\c[1]\\\\n[1]\\\\c[0]: ...\",[]],[12330,0,\"\",[0,119,0]]"
+		"[12410,0,\"||------------ Hier: RANDOM KOMMENTARE ZUM ESSEN ------||\",[]]": "[12410,0,\"||------------ Hier: RANDOM KOMMENTARE ZUM ESSEN ------||\",[]],[12330,0,\"\",[0,119,0]],[10130,0,\"FACE-Kento\",[8,0,0]],[10110,0,\"\\\\c[1]\\\\n[1]\\\\c[0]: I'm still hungry...\",[]],[10130,0,\"FACE-Cibon\",[15,0,0]],[10110,0,\"\\\\c[2]\\\\n[2]\\\\c[0]: Kento, you're always hungry...\",[]],[10130,0,\"FACE-soko\",[15,0,0]],[10110,0,\"\\\\c[13]\\\\n[3]\\\\c[0]: I sometimes wonder how much you\",[]],[20110,0,\"normally eat.\",[]],[10130,0,\"FACE-Kento\",[11,0,0]],[10110,0,\"\\\\c[1]\\\\n[1]\\\\c[0]: ...\",[]],[12330,0,\"\",[0,119,0]]",
+		"[10110,1,\"\\\\c[1]\\\\n[1]\\\\c[0]: Sunbread,\\\\. like the baked goods.\",[]]": "[10110,1,\"\\\\c[1]\\\\n[1]\\\\c[0]: Sunbread,\\\\. like the baked goods.\",[]],[10130,1,\"FACE-Kento\",[6,0,0]],[10110,1,\"\\\\c[1]\\\\n[1]\\\\c[0]:\\\\s[3] \\\"Meticulously baked to\",[]],[20110,1,\"perfection using sunflour!\\\"\",[]]"
 	},
 	"__comment__": "In the data file itself, there's some generic dialogue about eating which is supposed to play if today and yesterday both land in the same area (the amount of food you get). While there's a comment left in the data, the actual dialogue wasn't implemented."
 }
