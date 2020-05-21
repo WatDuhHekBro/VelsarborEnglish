@@ -4712,117 +4712,117 @@
 		{
 			"path": [45,1,252],
 			"original": "Nein, nocht nicht./Ja, wir wissen Bescheid.",
-			"patch": "Nein, nocht nicht./Ja, wir wissen Bescheid."
+			"patch": "No, not yet./Yep, we know about it."
 		},
 		{
 			"path": [45,1,253],
 			"original": "Nein, nocht nicht.",
-			"patch": "Nein, nocht nicht."
+			"patch": "No, not yet."
 		},
 		{
 			"path": [45,1,272],
 			"original": "Ja, wir wissen Bescheid.",
-			"patch": "Ja, wir wissen Bescheid."
+			"patch": "Yep, we know about it."
 		},
 		{
 			"path": [45,3,12],
 			"original": "Hab's mir anders überlegt.../Nein, ich will kämpfen!",
-			"patch": "Hab's mir anders überlegt.../Nein, ich will kämpfen!"
+			"patch": "Yeah, I've done for now.../No, I want to fight!"
 		},
 		{
 			"path": [45,3,13],
 			"original": "Hab's mir anders überlegt...",
-			"patch": "Hab's mir anders überlegt..."
+			"patch": "Yeah, I've done for now..."
 		},
 		{
 			"path": [45,3,22],
 			"original": "Nein, ich will kämpfen!",
-			"patch": "Nein, ich will kämpfen!"
+			"patch": "No, I want to fight!"
 		},
 		{
 			"path": [83,2,158],
 			"original": "\"Zinkar-Schlächter\"/\"Repsbrot-Truppe\"/\"Briganten-Stolz\"/\"Die Verräter\"",
-			"patch": "\"Zinkar-Schlächter\"/\"Repsbrot-Truppe\"/\"Briganten-Stolz\"/\"Die Verräter\""
+			"patch": "\"The Zinkar Butchers\"/\"The Sunbread Squad\"/\"The Brigantine Pride\"/\"The Traitors\""
 		},
 		{
 			"path": [83,2,159],
 			"original": "\"Zinkar-Schlächter\"",
-			"patch": "\"Zinkar-Schlächter\""
+			"patch": "\"The Zinkar Butchers\""
 		},
 		{
 			"path": [83,2,184],
 			"original": "\"Repsbrot-Truppe\"",
-			"patch": "\"Repsbrot-Truppe\""
+			"patch": "\"The Sunbread Squad\""
 		},
 		{
 			"path": [83,2,229],
 			"original": "\"Briganten-Stolz\"",
-			"patch": "\"Briganten-Stolz\""
+			"patch": "\"The Brigantine Pride\""
 		},
 		{
 			"path": [83,2,287],
 			"original": "\"Die Verräter\"",
-			"patch": "\"Die Verräter\""
+			"patch": "\"The Traitors\""
 		},
 		{
 			"path": [83,3,16],
 			"original": "Am Turnier teilnehmen/Wie läuft das Ganze genau ab?/Nichts Bestimmtes...",
-			"patch": "Am Turnier teilnehmen/Wie läuft das Ganze genau ab?/Nichts Bestimmtes..."
+			"patch": "Let's register for the tournament./How does this work exactly?/Nothing specific..."
 		},
 		{
 			"path": [83,3,17],
 			"original": "Am Turnier teilnehmen",
-			"patch": "Am Turnier teilnehmen"
+			"patch": "Let's register for the tournament."
 		},
 		{
 			"path": [83,3,21],
 			"original": "Wie läuft das Ganze genau ab?",
-			"patch": "Wie läuft das Ganze genau ab?"
+			"patch": "How does this work exactly?"
 		},
 		{
 			"path": [83,3,25],
 			"original": "Nichts Bestimmtes...",
-			"patch": "Nichts Bestimmtes..."
+			"patch": "Nothing specific..."
 		},
 		{
 			"path": [83,3,42],
 			"original": "Rangliste anschauen/Wie läuft das Ganze genau ab?/Nicht wirklich.",
-			"patch": "Rangliste anschauen/Wie läuft das Ganze genau ab?/Nicht wirklich."
+			"patch": "Let's look at the rankings./How does this work exactly?/Not really."
 		},
 		{
 			"path": [83,3,43],
 			"original": "Rangliste anschauen",
-			"patch": "Rangliste anschauen"
+			"patch": "Let's look at the rankings."
 		},
 		{
 			"path": [83,3,52],
 			"original": "Wie läuft das Ganze genau ab?",
-			"patch": "Wie läuft das Ganze genau ab?"
+			"patch": "How does this work exactly?"
 		},
 		{
 			"path": [83,3,56],
 			"original": "Nicht wirklich.",
-			"patch": "Nicht wirklich."
+			"patch": "Not really."
 		},
 		{
 			"path": [83,3,71],
 			"original": "Turnierkampf bestreiten/Wie läuft das Ganze genau ab?/Nicht wirklich.",
-			"patch": "Turnierkampf bestreiten/Wie läuft das Ganze genau ab?/Nicht wirklich."
+			"patch": "Let's enter the tournament./How does this work exactly?/Not really."
 		},
 		{
 			"path": [83,3,72],
 			"original": "Turnierkampf bestreiten",
-			"patch": "Turnierkampf bestreiten"
+			"patch": "Let's enter the tournament."
 		},
 		{
 			"path": [83,3,76],
 			"original": "Wie läuft das Ganze genau ab?",
-			"patch": "Wie läuft das Ganze genau ab?"
+			"patch": "How does this work exactly?"
 		},
 		{
 			"path": [83,3,80],
 			"original": "Nicht wirklich.",
-			"patch": "Nicht wirklich."
+			"patch": "Not really."
 		},
 		{
 			"path": [83,3,106],
@@ -4947,17 +4947,17 @@
 		{
 			"path": [109,1,4],
 			"original": "Ja, lasst uns loslegen./Nein, wir warten lieber noch.",
-			"patch": "Ja, lasst uns loslegen./Nein, wir warten lieber noch."
+			"patch": "Yes, let's get started./No, we should wait."
 		},
 		{
 			"path": [109,1,5],
 			"original": "Ja, lasst uns loslegen.",
-			"patch": "Ja, lasst uns loslegen."
+			"patch": "Yes, let's get started."
 		},
 		{
 			"path": [109,1,264],
 			"original": "Nein, wir warten lieber noch.",
-			"patch": "Nein, wir warten lieber noch."
+			"patch": "No, we should wait."
 		},
 		{
 			"path": [111,1,4],

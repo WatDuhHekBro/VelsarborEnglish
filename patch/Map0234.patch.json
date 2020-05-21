@@ -222,22 +222,22 @@
 		{
 			"path": [77,1,3],
 			"original": "Ja, bitte/Auswahl zurücksetzen/Nein, danke.",
-			"patch": "Ja, bitte/Auswahl zurücksetzen/Nein, danke."
+			"patch": "Yes please./(Reset Selection)/No thanks."
 		},
 		{
 			"path": [77,1,4],
 			"original": "Ja, bitte",
-			"patch": "Ja, bitte"
+			"patch": "Yes please."
 		},
 		{
 			"path": [77,1,20],
 			"original": "Auswahl zurücksetzen",
-			"patch": "Auswahl zurücksetzen"
+			"patch": "(Reset Selection)"
 		},
 		{
 			"path": [77,1,29],
 			"original": "Nein, danke.",
-			"patch": "Nein, danke."
+			"patch": "No thanks."
 		},
 		{
 			"path": [81,1,4],
@@ -247,17 +247,17 @@
 		{
 			"path": [84,1,5],
 			"original": "Auf in die Arena!/Moment, noch nicht!",
-			"patch": "Auf in die Arena!/Moment, noch nicht!"
+			"patch": "All set!/Wait, not yet!"
 		},
 		{
 			"path": [84,1,6],
 			"original": "Auf in die Arena!",
-			"patch": "Auf in die Arena!"
+			"patch": "All set!"
 		},
 		{
 			"path": [84,1,20],
 			"original": "Moment, noch nicht!",
-			"patch": "Moment, noch nicht!"
+			"patch": "Wait, not yet!"
 		}
 	]
 }
