@@ -7,9 +7,8 @@
 			"original": "Felcis: Kommt. Wir wollten dieser einen Person doch noch einen Besuch abstatten, oder?",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Kommt.\\. Wir wollten dieser ",
-				"einen Person doch noch einen Besuch ",
-				"abstatten, oder?"
+				"\\c[5]\\n[5]\\c[0]: Come on.\\. We wanted to pay a",
+				"visit to someone, right?"
 			]
 		},
 		{
@@ -18,9 +17,9 @@
 			"original": "Felcis: Wir müssen noch ein Stockwerk höher. Dort beim Durchgang zur Terrasse ist er.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Wir müssen noch ein ",
-				"Stockwerk höher.\\. Dort beim Durchgang ",
-				"zur Terrasse ist er."
+				"\\c[5]\\n[5]\\c[0]: We have to go up one more",
+				"floor.\\. He's there by the corridor",
+				"to the roof."
 			]
 		},
 		{
@@ -28,8 +27,8 @@
 			"original": "Wächter: Wollt ihr Zurück in eure Zellen? Noch habt ihr etwas Freigang.",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Wollt ihr Zurück in eure Zellen?\\. Noch ",
-				"habt ihr etwas Freigang."
+				"\\c[10]Guard\\c[0]: Do you want to go back to your cells?\\.",
+				"You still have some time left."
 			]
 		},
 		{
@@ -38,7 +37,7 @@
 			"original": "Wächter: Hey ihr da! Halt!",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Hey ihr da!\\. Halt!\\.\\.\\^"
+				"\\c[10]Guard\\c[0]: You there!\\. Halt!\\.\\.\\^"
 			]
 		},
 		{
@@ -47,7 +46,7 @@
 			"original": "Wächter: Ihr kommt jetzt mit uns!",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Ihr kommt jetzt mit uns!"
+				"\\c[10]Guard\\c[0]: You're coming with us!"
 			]
 		},
 		{
@@ -56,7 +55,7 @@
 			"original": "Soko: Wie? Was ist los?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wie?\\. Was ist los?"
+				"\\c[13]\\n[3]\\c[0]: Why?\\. What's happening?"
 			]
 		},
 		{
@@ -65,7 +64,7 @@
 			"original": "Wächter: KEINE FRAGEN! Mitkommen!",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: KEINE FRAGEN!\\. Mitkommen!"
+				"\\c[10]Guard\\c[0]: NO QUESTIONS!\\. Get over here!"
 			]
 		},
 		{
@@ -74,7 +73,7 @@
 			"original": "Wächter: Hey ihr da, stehen bleiben!",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Hey ihr da,\\.\\. stehen bleiben!\\.\\.\\^"
+				"\\c[10]Guard\\c[0]: Hey there,\\.\\. stop!\\.\\.\\^"
 			]
 		},
 		{
@@ -83,7 +82,8 @@
 			"original": "Wächter: Du da mit der Brille. Mitkommen.",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Du da mit der Brille.\\. Mitkommen."
+				"\\c[10]Guard\\c[0]: You there with the glasses.\\.",
+				"You're coming with us."
 			]
 		},
 		{
@@ -92,9 +92,8 @@
 			"original": "Felcis: Wie? Geht es um meine hervorragenden Leistungen in der Mine?",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Wie?\\. Geht es um meine ",
-				"hervorragenden Leistungen in der ",
-				"Mine? "
+				"\\c[5]\\n[5]\\c[0]: Why might that be?\\. Is it about",
+				"my excellent performance in the mine?"
 			]
 		},
 		{
@@ -103,7 +102,7 @@
 			"original": "Wächter: Nicht reden, mitkommen!",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Nicht reden,\\. mitkommen!"
+				"\\c[10]Guard\\c[0]: No talking,\\. come along!"
 			]
 		},
 		{
@@ -112,7 +111,7 @@
 			"original": "Felcis: Schon gut, schon gut.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Schon gut,\\. schon gut."
+				"\\c[5]\\n[5]\\c[0]: Okay, okay."
 			]
 		},
 		{
@@ -121,8 +120,8 @@
 			"original": "Kento: Wahrscheinlich wird er jetzt auch verhört...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wahrscheinlich wird er jetzt",
-				"auch verhört..."
+				"\\c[1]\\n[1]\\c[0]: He's probably going to get",
+				"interrogated..."
 			]
 		},
 		{
@@ -131,7 +130,7 @@
 			"original": "Cibon: Er hat mein Beileid.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Er hat mein Beileid."
+				"\\c[2]\\n[2]\\c[0]: He has my sympathy."
 			]
 		},
 		{
@@ -140,7 +139,7 @@
 			"original": "Wächter: Genießt dann noch eure freien Minuten.",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: Genießt dann noch eure freien Minuten."
+				"\\c[10]Guard\\c[0]: Enjoy your free time then."
 			]
 		},
 		{
@@ -434,8 +433,7 @@
 			"original": "Cibon: Kumpel! Was haben sie mit dir gemacht?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kumpel!\\. Was haben sie mit dir ",
-				"gemacht?"
+				"\\c[2]\\n[2]\\c[0]: Kento!\\. What did they do to you?"
 			]
 		},
 		{
@@ -443,8 +441,8 @@
 			"original": "Kento: Verhört. Sie wollten Informationen aus mir rauspressen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Verhört.\\. Sie wollten ",
-				"Informationen aus mir rauspressen."
+				"\\c[1]\\n[1]\\c[0]: Interrogated.\\. They wanted to",
+				"squeeze information out of me."
 			]
 		},
 		{
@@ -452,8 +450,7 @@
 			"original": "Cibon: Was hast du ihnen bitte erzählt?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Was hast du ihnen bitte ",
-				"erzählt?"
+				"\\c[2]\\n[2]\\c[0]: What did you tell them?"
 			]
 		},
 		{
@@ -461,10 +458,10 @@
 			"original": "Kento: Hauptsächlich erfundene Sachen. Ich werd euch morgen mehr davon erzählen. Es ist wichtig, dass unsere Aussagen identisch sind.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hauptsächlich erfundene ",
-				"Sachen.\\. Ich werd euch morgen mehr ",
-				"davon erzählen. \\.Es ist wichtig, dass ",
-				"unsere Aussagen identisch sind."
+				"\\c[1]\\n[1]\\c[0]: Mostly stuff I made up.\\. I'll",
+				"tell you more about it tomorrow.\\.",
+				"It's very important that what",
+				"we say is identical."
 			]
 		},
 		{
@@ -472,7 +469,7 @@
 			"original": "Kento: ... Wie geht es Soko?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ... Wie geht es Soko?"
+				"\\c[1]\\n[1]\\c[0]: How's Soko doing?"
 			]
 		},
 		{
@@ -480,8 +477,8 @@
 			"original": "Cibon: Ich glaube ihr geht es mittlerweile besser, oder?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich glaube ihr geht es ",
-				"mittlerweile besser, oder?"
+				"\\c[2]\\n[2]\\c[0]: I think she's feeling better",
+				"now, right?"
 			]
 		},
 		{
@@ -489,8 +486,7 @@
 			"original": "Soko: ... Ja... Es war nur ein Faustschlag.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...\\. Ja...\\. Es war nur ein ",
-				"Faustschlag."
+				"\\c[13]\\n[3]\\c[0]: ...\\.Yeah...\\. It was just a punch."
 			]
 		},
 		{
@@ -498,8 +494,8 @@
 			"original": "Cibon: Die Typen nehmen wirklich vor niemanden Rücksicht.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Die Typen nehmen wirklich vor ",
-				"niemanden Rücksicht."
+				"\\c[2]\\n[2]\\c[0]: Those guys really don't have",
+				"mercy on anyone."
 			]
 		},
 		{
@@ -507,9 +503,8 @@
 			"original": "Soko: Wieso sollten Sie auch? Ich bin genauso ein Spion wie ihr beide auch.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wieso sollten Sie auch? Ich ",
-				"bin genauso ein Spion wie ihr beide ",
-				"auch."
+				"\\c[13]\\n[3]\\c[0]: Why would they anyway? I'm as",
+				"much of a spy as you two are."
 			]
 		},
 		{
@@ -517,10 +512,8 @@
 			"original": "Soko: Im Übrigen, Kento... Bist du sicher, dass es eine gute Idee ist, ihnen irgendwelche Lügen zu erzählen?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Im Übrigen, Kento...\\. Bist du ",
-				"sicher, dass es eine gute Idee ist, ",
-				"ihnen irgendwelche Lügen zu ",
-				"erzählen?"
+				"\\c[13]\\n[3]\\c[0]: By the way, Kento...\\. Are you",
+				"sure lying to them is a good idea?"
 			]
 		},
 		{
@@ -528,9 +521,8 @@
 			"original": "Soko: Auf diesem Wege wird uns niemand mehr glauben, dass wir unschuldig sind...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Auf diesem Wege wird uns ",
-				"niemand mehr glauben, dass wir ",
-				"unschuldig sind..."
+				"\\c[13]\\n[3]\\c[0]: After this, nobody will believe",
+				"in our innocence anymore..."
 			]
 		},
 		{
@@ -538,8 +530,8 @@
 			"original": "Kento: Glaub mir, das werden sie hier so oder so nicht tun.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Glaub mir, das werden ",
-				"sie hier so oder so nicht tun."
+				"\\c[1]\\n[1]\\c[0]: Trust me, there's no other way",
+				"around it."
 			]
 		},
 		{
@@ -547,10 +539,10 @@
 			"original": "Kento: Das hier ist kein Gericht. Sie verwenden uns als Arbeitskräfte und Informationsquellen. Unsere Unschuld interessiert die nicht.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Das hier ist kein Gericht. ",
-				"Sie verwenden uns als Arbeitskräfte ",
-				"und Informationsquellen.\\. Unsere ",
-				"Unschuld interessiert die nicht."
+				"\\c[1]\\n[1]\\c[0]: This is a kangaroo court.\\. They",
+				"use us as laborers and sources of",
+				"information.\\. They aren't interested",
+				"in our innocence."
 			]
 		},
 		{
@@ -558,8 +550,8 @@
 			"original": "Wächter: SOFORT ALLE AUFWACHEN UND RAUS AUS DEN ZELLEN!",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0]\\s[4] SOFORT ALLE AUFWACHEN UND RAUS AUS DEN ",
-				"ZELLEN!\\.\\^"
+				"\\c[10]Guard\\c[0]:\\s[4] EVERYONE WAKE UP IMMEDIATELY AND GET OUT",
+				"OF YOUR CELLS!\\.\\^"
 			]
 		},
 		{
@@ -567,8 +559,8 @@
 			"original": "Cibon: Gähhhn! Und schon wieder ein neuer Arbeitstag...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: \\s[4]Gähhhn!\\.\\s[0] Und schon wieder ein ",
-				"neuer Arbeitstag..."
+				"\\c[2]\\n[2]\\c[0]: \\s[4]*yaaaawn*\\.\\s[0] Yet another tough day",
+				"of work ahead..."
 			]
 		},
 		{
@@ -576,8 +568,8 @@
 			"original": "Soko: ...Ohje... jetzt schon raus? ... Ist es schon so spät...?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...Ohje...\\. jetzt schon raus?\\.",
-				"... Ist es schon so spät...?"
+				"\\c[13]\\n[3]\\c[0]: ...Why...\\. already?\\. ...Is it",
+				"already time to get up...?"
 			]
 		},
 		{
@@ -585,9 +577,8 @@
 			"original": "Cibon: Hey, Kumpel! Aufwachen! Hier kannste nicht pennen, erinnerste dich?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hey, Kumpel!\\. Aufwachen!\\. Hier ",
-				"kannste nicht pennen, erinnerste ",
-				"dich?"
+				"\\c[2]\\n[2]\\c[0]: Hey Kento!\\. Wake up!\\. You can't",
+				"sleep here, remember?"
 			]
 		},
 		{
@@ -595,7 +586,7 @@
 			"original": "Kento: ... W... Was?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ... W...\\. Was?"
+				"\\c[1]\\n[1]\\c[0]: W...\\. What?"
 			]
 		},
 		{
@@ -603,7 +594,7 @@
 			"original": "Cibon: Gefängnis. Minenarbeit.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Gefängnis.\\. Minenarbeit."
+				"\\c[2]\\n[2]\\c[0]: Prison.\\. Mining."
 			]
 		},
 		{
@@ -611,7 +602,7 @@
 			"original": "Kento: Och nee...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: \\s[5]Och nee... "
+				"\\c[1]\\n[1]\\c[0]: \\s[5]Not again..."
 			]
 		},
 		{
@@ -879,8 +870,8 @@
 			"original": "Wächter: SOFORT ALLE RAUS DEN ZELLEN UND AUFWACHEN!  ...ehm, UMGEKEHRT!",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0]\\s[4] SOFORT ALLE RAUS DEN ZELLEN UND ",
-				"AUFWACHEN!\\s[0] \\. ...ehm,\\. UMGEKEHRT!\\.\\^"
+				"\\c[10]Guard\\c[0]:\\s[4] EVERYONE GET OUT OF YOUR CELLS AND WAKE UP",
+				"IMMEDIATELY!\\s[0] \\.No wait...\\. THE OTHER WAY AROUND!\\.\\^"
 			]
 		},
 		{
@@ -888,8 +879,8 @@
 			"original": "Soko: Aufstehen... Aufstehen... Okay. Aufstehen! Jetzt!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Aufstehen...\\. Aufstehen...\\. ",
-				"Okay.\\. Aufstehen!\\. Jetzt!"
+				"\\c[13]\\n[3]\\c[0]: Wake up...\\. Wake up...\\.",
+				"Okay.\\. Wake up!\\. Now!"
 			]
 		},
 		{
@@ -897,7 +888,7 @@
 			"original": "Soko: Geschafft...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Geschafft..."
+				"\\c[13]\\n[3]\\c[0]: I did it..."
 			]
 		},
 		{
@@ -905,8 +896,7 @@
 			"original": "Cibon: Morgen, Soko. Auch schon wach?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Morgen, Soko.\\. Auch schon ",
-				"wach?"
+				"\\c[2]\\n[2]\\c[0]: Mornin' Soko.\\. Already up?"
 			]
 		},
 		{
@@ -914,7 +904,7 @@
 			"original": "Cibon: Kumpel! Aufstehen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kumpel!\\. Aufstehen! "
+				"\\c[2]\\n[2]\\c[0]: Kento!\\. Wake up!"
 			]
 		},
 		{
@@ -922,7 +912,8 @@
 			"original": "Kento: Nein... will weiter schlafen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Nein...\\. will weiter schlafen."
+				"\\c[1]\\n[1]\\c[0]: No...\\.\\. Must...\\. have...\\. more...\\.",
+				"sleep..."
 			]
 		},
 		{
@@ -930,7 +921,7 @@
 			"original": "Cibon: Gefängnis. Minenarbeit.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Gefängnis.\\. Minenarbeit."
+				"\\c[2]\\n[2]\\c[0]: Prison.\\. Mining."
 			]
 		},
 		{
@@ -938,7 +929,7 @@
 			"original": "Kento: Och neee...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: \\s[5]Och neee... "
+				"\\c[1]\\n[1]\\c[0]: \\s[5]Not agaaaain..."
 			]
 		},
 		{
@@ -1546,8 +1537,8 @@
 			"original": "Wächter: SOFORT ALLE RAUS AUS DEN FEDERN! DIE ARBEIT BEGINNT!",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0]\\s[4] SOFORT ALLE RAUS AUS DEN FEDERN!\\. DIE ",
-				"ARBEIT BEGINNT!"
+				"\\c[10]Guard\\c[0]:\\s[4] EVERYONE GET OUT OF YOUR FEATHERED BEDS",
+				"IMMEDIATELY!\\. IT'S TIME TO WORK!"
 			]
 		},
 		{
@@ -1555,8 +1546,8 @@
 			"original": "Cibon: ... Ah... Verdammt! Schon wieder raus?`",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ... Ah...\\. Verdammt!\\. Schon ",
-				"wieder raus?`"
+				"\\c[2]\\n[2]\\c[0]: ...Ugh...\\. Damn!\\. We have to get",
+				"up again?"
 			]
 		},
 		{
@@ -1564,8 +1555,8 @@
 			"original": "Felcis: ...Von welchen \"Federn\" mag diese Wache bitte geredet haben?",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: ...Von welchen \"Federn\" mag ",
-				"diese Wache bitte geredet haben? "
+				"\\c[5]\\n[5]\\c[0]: What \"feathers\" is this guard",
+				"talking about?"
 			]
 		},
 		{
@@ -1573,9 +1564,8 @@
 			"original": "Felcis: Ich hab keine einzige Feder wahrgenommen... in diesem so genannten \"Bett\".",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich hab keine einzige Feder ",
-				"wahrgenommen...\\. in diesem so ",
-				"genannten \"Bett\"."
+				"\\c[5]\\n[5]\\c[0]: I didn't notice a single",
+				"feather...\\. in this so-called \"bed\"."
 			]
 		},
 		{
@@ -1583,8 +1573,8 @@
 			"original": "Soko: So... Aufstehen, jetzt, sofort. Und raus!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: So...\\. Aufstehen,\\. jetzt,\\. ",
-				"sofort.\\. Und raus!"
+				"\\c[13]\\n[3]\\c[0]: Okay...\\. Wake up,\\. now,\\.",
+				"immediately.\\. And get up!"
 			]
 		},
 		{
@@ -1592,7 +1582,7 @@
 			"original": "Soko: Ha, wieder geschafft.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ha,\\. wieder geschafft."
+				"\\c[13]\\n[3]\\c[0]: Ha,\\. I did it again."
 			]
 		},
 		{
@@ -1600,8 +1590,8 @@
 			"original": "Cibon: K...Kumpel. Wir müssen raus. Das gleiche wie vorher.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: K...\\.Kumpel.\\. Wir müssen raus.\\.",
-				"Das gleiche wie vorher."
+				"\\c[2]\\n[2]\\c[0]: K...\\. Kento.\\. We have to get up.\\.",
+				"Same as before."
 			]
 		},
 		{
@@ -1609,7 +1599,7 @@
 			"original": "Cibon: Gefängnis. Minenarbeit.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Gefängnis.\\. Minenarbeit."
+				"\\c[2]\\n[2]\\c[0]: Prison.\\. Mining."
 			]
 		},
 		{
@@ -1617,7 +1607,7 @@
 			"original": "Kento: Och nee...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: \\s[5]Och nee... "
+				"\\c[1]\\n[1]\\c[0]: \\s[5]Not again..."
 			]
 		},
 		{
@@ -1625,10 +1615,9 @@
 			"original": "Felcis: Würde es euch etwas ausmachen, wenn ich euch zur Mine begleite? Ich bin schließlich neu hier.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Würde es euch etwas ",
-				"ausmachen, wenn ich euch zur Mine ",
-				"begleite?\\. Ich bin schließlich neu ",
-				"hier."
+				"\\c[5]\\n[5]\\c[0]: Would it be alright if you",
+				"showed me the way to the mine?\\.",
+				"After all, I'm new here."
 			]
 		},
 		{
@@ -1636,9 +1625,9 @@
 			"original": "Soko: Sicher kannst du mit uns kommen. Wir gehen ja sowieso alle denselben Weg.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Sicher kannst du mit uns ",
-				"kommen.\\. Wir gehen ja sowieso alle ",
-				"denselben Weg."
+				"\\c[13]\\n[3]\\c[0]: Sure, you can come with us.\\.",
+				"We're all going the same way",
+				"regardless."
 			]
 		},
 		{
@@ -1646,7 +1635,7 @@
 			"original": "Cibon: Ja, meinetwegen...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja, meinetwegen..."
+				"\\c[2]\\n[2]\\c[0]: Yeah, for my own sake too..."
 			]
 		},
 		{
@@ -1654,7 +1643,7 @@
 			"original": "(Cibon: Wah, eine Brille.)",
 			"lines":
 			[
-				"(\\c[2]\\n[2]\\c[0]: Wah, eine Brille.)"
+				"(\\c[2]\\n[2]\\c[0]: Heh, glasses.)"
 			]
 		},
 		{
@@ -1662,8 +1651,7 @@
 			"original": "Felcis tritt als Gast deiner Party bei.",
 			"lines":
 			[
-				"",
-				"Felcis tritt als Gast deiner Party bei."
+				"[ADD]Felcis joins your party as a guest."
 			]
 		},
 		{
@@ -2040,7 +2028,8 @@
 			"original": "Wächter: SOFORT ALLE AUFWACHEN! DIE MINE WARTET!",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0]\\s[4] SOFORT ALLE AUFWACHEN!\\. DIE MINE WARTET!"
+				"\\c[10]Guard\\c[0]:\\s[4] EVERYONE WAKE UP IMMEDIATELY!\\. THE MINE IS",
+				"WAITING!"
 			]
 		},
 		{
@@ -2048,8 +2037,8 @@
 			"original": "Soko: So! Wach! Haha! So langsam hab ich mich dran gewöhnt.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: So!\\. Wach!\\. Haha!\\. So langsam hab ",
-				"ich mich dran gewöhnt."
+				"\\c[13]\\n[3]\\c[0]: Alright!\\. I'm up!\\. Haha!\\.",
+				"I'm getting used to it already."
 			]
 		},
 		{
@@ -2057,18 +2046,18 @@
 			"original": "Soko: Morgen Soko...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Morgen Soko..."
-			]
+				"\\c[2]\\n[2]\\c[0]: Mornin' Soko."
+			],
+			"__comment__": "Character Error"
 		},
 		{
 			"path": [122,16,52,4],
 			"original": "Felcis: Diese barbarische Uhrzeit... Wieso kann die gesamte Welt nicht einfach drei Stunden später aufstehen?",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Diese barbarische Uhrzeit...\\.",
-				"Wieso kann die gesamte Welt nicht ",
-				"einfach drei Stunden später ",
-				"aufstehen?"
+				"\\c[5]\\n[5]\\c[0]: This barbaric time...\\. Why",
+				"can't the entire world just get",
+				"up three hours later?"
 			]
 		},
 		{
@@ -2076,8 +2065,7 @@
 			"original": "Cibon: Kento. Aufstehen. Minenarbeit. Gefängnis.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kento.\\. Aufstehen.\\. ",
-				"Minenarbeit.\\. Gefängnis."
+				"\\c[2]\\n[2]\\c[0]: Kento.\\. Wake up.\\. Mining.\\. Prison."
 			]
 		},
 		{
@@ -2085,7 +2073,7 @@
 			"original": "Kento: Och nee...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: \\s[5]Och nee... "
+				"\\c[1]\\n[1]\\c[0]: \\s[5]Not again..."
 			]
 		},
 		{
@@ -2093,8 +2081,8 @@
 			"original": "Felcis: Nun? Wie sieht es aus? Werdet ihr mitmachen?",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Nun?\\. Wie sieht es aus?\\. ",
-				"Werdet ihr mitmachen? "
+				"\\c[5]\\n[5]\\c[0]: So?\\. What'll it be?\\. Are you",
+				"joining me?"
 			]
 		},
 		{
@@ -2102,7 +2090,7 @@
 			"original": "Kento: M...Mitmachen?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: M...\\.Mitmachen?"
+				"\\c[1]\\n[1]\\c[0]: J...\\. Join?"
 			]
 		},
 		{
@@ -2110,10 +2098,11 @@
 			"original": "Felcis: Frag ihn das besser noch mal unten vor der Mine. Da ist er in der Regel etwas wacher.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Frag ihn das besser noch mal ",
-				"unten vor der Mine.\\. Da ist er in der ",
-				"Regel etwas wacher."
-			]
+				"\\c[2]\\n[2]\\c[0]: Better to ask him again when",
+				"we're at the front of the mine.\\.",
+				"He's usually a bit more awake then."
+			],
+			"__comment__": "Character Error"
 		},
 		{
 			"path": [122,18,55,2],
@@ -2206,7 +2195,8 @@
 			"original": "Wächter: SOFORT ALLE AUFWACHEN! DIE MINE WARTET!",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0]\\s[4] SOFORT ALLE AUFWACHEN!\\. DIE MINE WARTET!"
+				"\\c[10]Guard\\c[0]:\\s[4] EVERYONE WAKE UP IMMEDIATELY!\\. THE MINE IS",
+				"WAITING!"
 			]
 		},
 		{
@@ -2214,8 +2204,7 @@
 			"original": "Cibon: Kento. Aufstehen. Minenarbeit. Gefängnis.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kento.\\. Aufstehen.\\. ",
-				"Minenarbeit.\\. Gefängnis."
+				"\\c[2]\\n[2]\\c[0]: Kento.\\. Wake up.\\. Mining.\\. Prison."
 			]
 		},
 		{
@@ -2223,7 +2212,7 @@
 			"original": "Kento: Och nee...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: \\s[5]Och nee... "
+				"\\c[1]\\n[1]\\c[0]: \\s[5]Not again..."
 			]
 		},
 		{

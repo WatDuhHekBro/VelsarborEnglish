@@ -1,15 +1,9 @@
 -= 224 =-
 ...
 
-Guard: Zur Kantine geht den Flur vom Erdgeschoss des Zellengebäudes ganz durch und dann nach rechts.
-
 Prisoner: Manchmal hab ich wirklich das Gefühl, dass eine bessere Ausrüstung im Turnier mehr bringt als Kampftalent.
 Prisoner: Wie sonst soll man mir erklären, dass diese Pauamainer Veteranen immer soweit oben sind? Natürlich weil sie verdammt viel Erz schürfen und deshalb viele Turnier-Münzen erhalten!
 Prisoner: Und viele Turnier-Münzen bedeuten bessere Ausrüstung, wie ihr ja wahrscheinlich schon wisst.
-
-Guard: Dieser Bereich darf nur von Turnierkampfteilnehmern betreten werden!
-
-Guard: Wenn ihr auf den Platz wollt, um zu kämpfen, müsst ihr euch anmelden. Die Anmeldung ist in der Kantine.
 
 ...
 
@@ -185,15 +179,6 @@ Announcer: Das war leider nichts! Die Verräter wurden geschlagen! Ja, so etwas 
 Felcis: Oh? Ihr seid auch mal hier oben? Es ist nett, dass die Wächter den Gefangenen hier soviel Freilauf lassen.
 Felcis: Auch das Turnier ist recht unterhaltsam, wenn auch etwas barbarisch für meinen Geschmack.
 
-Guard: ALLE GEFANGENEN SOFORT ZURÜCK IN DIE ZELLEN!
-Felcis: Cieoly, das war jetzt wirklich nicht nötig.
-Prisoner: Oha, was ist das denn? Ein schöner funkelnder Stein! Neues Diebesgut, har har!
-Felcis: Was zum...! Gleich zweimal Pech hintereinander. So war das sicher nicht geplant.
-
-Guard: ALLE GEFANGENEN SOFORT ZURÜCK IN DIE ZELLEN!
-Felcis: So, Cieoly. Du weißt, wo diese Nachricht hingeht, richtig? Verpatz das jetzt bloß nicht.
-Felcis: Drück mir die Daumen. Wenn alles gut geht, gebe ich dir morgen etwas Feines zum Naschen. Außerhalb dieser Mauern.
-
 
 
 -= 230 =-
@@ -296,75 +281,8 @@ Cibon: Morgen werden wir uns besonders ins Zeug legen, nicht wahr, Kumpel?
 Kento: Du sagst es! Die Portionen müssen größer werden.
 Soko: ... so erbärmlich...
 
-Cibon: ...Das war ja fast gar nichts zu Essen!
-Kento: ...Hunger...
-Soko: Was sagten sie? Wenn wir schlechte Arbeit in den Mine leisten, kriegen wir kein Essen... Sie meinten das ernst...
-Cibon: Wir müssen uns mehr reinhängen, Kumpel, sonst halten wir das nicht lange durch!
-Kento: ...Ja...
-Cibon: ...Ich bin zwar immer noch hungrig... aber naja, ich denke, ich werd's überleben.
-Kento: ...Ich nicht. Heute Abend werde ich verhungern.
-Cibon: Reiß dich zusammen, Kumpel! Wenn du unbedingt mehr Essen haben willst, müssen wir uns etwas mehr in der Mine anstrengen.
-Soko: Ich fand es war genug... wirklich...
-Cibon: He, das war mehr als ich erwartet habe. Also ich bin satt.
-Kento: Naja, es sollte reichen... Zum Überleben...
-Soko:...Ja, mehr als genug...
-Cibon: Woa! Ich bin voll! Hätte mir nie erträumen lassen, dass die uns soviel zu Essen geben!
-Cibon: Offensichtlich haben wir sehr gute Arbeit in der Mine geleistet... Ja, so geht das!
-Soko: Ohje, ich schaff das alles gar nicht... Das ist zuviel für mich...
-Kento: Kann ich den Rest haben?
-Soko: Was passiert nun eigentlich? Wir haben späten Nachmittag, werden wir gleich wieder in unsere Zellen eingesperrt und das war es?
-Cibon: Hm... ist dir nicht aufgefallen, wie viele Leute da draußen rum standen? Anscheinend ist noch irgendwas da draußen.
-????: Sieh mal einer an, wen wir da haben! Was für ein Zufall!
-Cibon: W... Was?! Ihr seid auch hier?
-Saion: Überrascht euch das? Welches Gefängnis kann uns, die Zinkar- Brüder, schon halten, wenn es nicht das von Helnovien ist?
-Saion: Jede andere Zelle würden wir brechen, alle anderen Wachen würden wir austricksen!
-Saion: Aber nicht in Helnovien! Dieses Gefängnis ist gerade sicher genug, um uns zu festhalten und nicht weniger!
-Jorn: Ihr merkt wahrscheinlich schon, wie verzweifelt er ist. Er ist stolz darauf hier EINGESPERRT zu sein.
-Saion: Ruhe, Jorn! Dich hat niemand gefragt!
-Saion: Aber ist es nicht ein wunderbarer Zufall, dass wir euch hier treffen? Das Schicksal scheint es gut mit uns zu meinen!
-Jorn: Ja genau, nachdem das Schicksal so gütig war, uns hier einzusperren.
-Jorn: Das würde ich zumindest sagen, wäre es nicht eher die Blödheit einer bestimmten Person, die dafür verantwortlich zu machen ist.
-Saion: Ich sagte du sollst leise sein, Jorn!
-Saion: Ihr habt doch sicher schon von dem Kampfturnier gehört, oder?
-Saion: Nein? Oh, so neu und grün hinter den Ohren seid ihr also noch?
-Saion: Das Kampfturnier ist für die harten Leute hier im Gefängnis! Jeden Feierabend kann jeder teilnehmen, wer will.
-Saion: Die Kämpfe werden immer in Gruppen ausgetragen. Am besten bildet ihr die 3er Gruppe, wie wir sie kennen!
-Saion: Jede Gruppe hat ihren Rang, Neulinge fangen immer ganz unten an. Ihr könnt dann andere Gruppen mit ähnlichem Rang herausfordern!
-Saion: Und das ist genau, worauf ich hinaus will!
-Saion: Ausgezeichnet!
-Saion: Wir fordern euch heraus! Das heißt, wir würden es gerne machen, allerdings ist euer Rang als Neueinsteiger viel zu niedrig dafür!
-Saion: Ihr werdet erstmal im Turnier euren Rang hoch kämpfen müssen, bevor ihr gegen uns antreten könnt!
-Saion: Also, ich zähl' auf euch.
-Saion: Andererseits kann man uns gleich als Gewinner betrachten, wenn ihr es nicht schafft, unseren Rang zu erreichen!
-Soko: Eine Frage... Was... habt ihr eigentlich von diesen Kämpfen?
-Soko: Wie... könnt ihr überhaupt Lust auf so ein Theater haben, bei all der Minenarbeit?
-Jorn: Glaub mir, ich frag ihn das auch immer wieder und trotzdem zerrt er mich jedes Mal mit in diese Pampe.
-Saion: Frauen wie du werden so etwas wahrscheinlich nicht verstehen! Es geht um Ehre und den Beweis von Stärke!
-Jorn: Es gibt auch noch einen echten Vorteil: Sie lassen einen sogar hin und wieder die Minenarbeit schwänzen, wenn man gut genug ist.
-Saion: ...Ja, aber das ist nebensächlich. Wie auch immer. Ich hoffe ich kann auf euch zählen
-Gurim: Eine Frage... wie kommt es eigentlich, dass ihr hier gelandet seit?
-Kento: Das ist eine etwas komplizierte Geschichte...
-Jorn: Ihr wart doch Soldaten, oder lieg ich falsch? Sagt bloß, ihr seid diese Verräter des Landes, von denen sie alle sprechen.
-Soko: Wir haben unser Land nicht verraten! Wir wurden zu unrecht hier eingesperrt...
-Cibon: Ein gewisser alter Sack glaubte, in uns bösartige Spione zu sehen, die für Korzojeno arbeiten.
-Kento: Und da dieser "alte Sack" ein Ratsmitglied ist, sind wir jetzt hier.
-Jorn: Heh. Das ist Schicksal. Ich denke, jeder erlebt mal so etwas. Ich habe dieses Unglück von Bruder und ihr euren alten Sack.
-Saion: Was trödelt ihr da unten so rum? Ihr habt nichts mit unseren Erzfeinden zu besprechen!
-Jorn: Nimmt diesen Verrückten bitte nicht ernst. Er ist der Einzige, der euch als Erzfeinde ansieht.
-Jorn: Ihr seid für ihn nichts weiter als die Entschuldigung für seine eigene Blödheit.
-Saion: Jorn!
-Jorn: Jaja!
-Jorn: Man sieht sich dann.
-Soko: Die beiden machen einen wirklich unerwartet anständigen Eindruck...
-Kento: Das Übel scheint von diesem Saion zu kommen...
-Cibon: Dann frag ich mich aber wirklich, wieso die beiden permanent mit ihm rumhängen.
-Kento: Wer weiß das schon, sie werden wohl ihre Gründe haben...
-Cibon: Hm, wir sollten uns mal dieses Turnier anschauen!
-Soko: Du willst wirklich darauf eingehen...?
-Cibon: Wir dürfen hier nicht unseren Kampfgeist verlieren - und das Turnier wird uns dabei helfen!
-Cibon: Außerdem hab ich das Verlangen, diesem Saion eines über zu ziehen...
-Cibon: Ich meine, komm. DIE und einen höheren Kampfrang als WIR? Das kann doch so nicht bleiben!
-Kento: Du lässt dich zu leicht provozieren, Cibon...
+...
+
 Kento: Da fällt mir ein, heute werden sie wahrscheinlich wieder jemanden von uns verhören.
 Soko: Stimmt ja...
 Kento: Ich hab denen zuletzt einige Geschichten erzählt...
@@ -749,45 +667,7 @@ Guard: Hey, was soll das? Wollt ihr jetzt etwa den Kürzeren ziehen? Einmal drin
 
 
 -= 240 =-
-Felcis: Kommt. Wir wollten dieser einen Person doch noch einen Besuch abstatten, oder?
-Felcis: Wir müssen noch ein Stockwerk höher. Dort beim Durchgang zur Terrasse ist er.
-Guard: Wollt ihr Zurück in eure Zellen? Noch habt ihr etwas Freigang.
-Guard: Hey ihr da! Halt!
-Guard: Ihr kommt jetzt mit uns!
-Soko: Wie? Was ist los?
-Guard: KEINE FRAGEN! Mitkommen!
-Guard: Hey ihr da, stehen bleiben!
-Guard: Du da mit der Brille. Mitkommen.
-Felcis: Wie? Geht es um meine hervorragenden Leistungen in der Mine?
-Guard: Nicht reden, mitkommen!
-Felcis: Schon gut, schon gut.
-Kento: Wahrscheinlich wird er jetzt auch verhört...
-Cibon: Er hat mein Beileid.
-Guard: Genießt dann noch eure freien Minuten.
-
 ...
-
-Cibon: Kumpel! Was haben sie mit dir gemacht?
-Kento: Verhört. Sie wollten Informationen aus mir rauspressen.
-Cibon: Was hast du ihnen bitte erzählt?
-Kento: Hauptsächlich erfundene Sachen. Ich werd euch morgen mehr davon erzählen. Es ist wichtig, dass unsere Aussagen identisch sind.
-Kento: ... Wie geht es Soko?
-Cibon: Ich glaube ihr geht es mittlerweile besser, oder?
-Soko: ... Ja... Es war nur ein Faustschlag.
-Cibon: Die Typen nehmen wirklich vor niemanden Rücksicht.
-Soko: Wieso sollten Sie auch? Ich bin genauso ein Spion wie ihr beide auch.
-Soko: Im Übrigen, Kento... Bist du sicher, dass es eine gute Idee ist, ihnen irgendwelche Lügen zu erzählen?
-Soko: Auf diesem Wege wird uns niemand mehr glauben, dass wir unschuldig sind...
-Kento: Glaub mir, das werden sie hier so oder so nicht tun.
-Kento: Das hier ist kein Gericht. Sie verwenden uns als Arbeitskräfte und Informationsquellen. Unsere Unschuld interessiert die nicht.
-
-Guard: SOFORT ALLE AUFWACHEN UND RAUS AUS DEN ZELLEN!
-Cibon: Gähhhn! Und schon wieder ein neuer Arbeitstag...
-Soko: ...Ohje... jetzt schon raus? ... Ist es schon so spät...?
-Cibon: Hey, Kumpel! Aufwachen! Hier kannste nicht pennen, erinnerste dich?
-Kento: ... W... Was?
-Cibon: Gefängnis. Minenarbeit.
-Kento: Och nee...
 
 Soko: Bisher haben sie uns noch nicht zum Verhör abgeholt.
 Cibon: Vielleicht lassen sie es ja heute ausfallen...
@@ -819,14 +699,7 @@ Kento: Na, wie war es?
 Cibon: S... Siehste das nicht?
 Cibon: Dieser ... Typ...ist wirklich ... schnell auf 180, sag ich dir...
 
-Guard: SOFORT ALLE RAUS DEN ZELLEN UND AUFWACHEN!  ...ehm, UMGEKEHRT!
-Soko: Aufstehen... Aufstehen... Okay. Aufstehen! Jetzt!
-Soko: Geschafft...
-Cibon: Morgen, Soko. Auch schon wach?
-Cibon: Kumpel! Aufstehen!
-Kento: Nein... will weiter schlafen.
-Cibon: Gefängnis. Minenarbeit.
-Kento: Och neee...
+...
 
 Guard: So, heute bist du dran. Mitkommen.
 Cibon: Es ist nicht zum Ausstehen, was wir hier durchstehen müssen, nur weil dieser alte Sack diesen Mist erzählt!
@@ -891,20 +764,7 @@ Felcis: Von welcher Sorte reden Sie?
 Cibon: Ja, von welcher Sorte? Und hey, was war das eben mit den Formalitäten, Felcis?
 Kento: Das kann ein langer Abend werden...
 
-Guard: SOFORT ALLE RAUS AUS DEN FEDERN! DIE ARBEIT BEGINNT!
-Cibon: ... Ah... Verdammt! Schon wieder raus?`
-Felcis: ...Von welchen "Federn" mag diese Wache bitte geredet haben?
-Felcis: Ich hab keine einzige Feder wahrgenommen... in diesem so genannten "Bett".
-Soko: So... Aufstehen, jetzt, sofort. Und raus!
-Soko: Ha, wieder geschafft.
-Cibon: K...Kumpel. Wir müssen raus. Das gleiche wie vorher.
-Cibon: Gefängnis. Minenarbeit.
-Kento: Och nee...
-Felcis: Würde es euch etwas ausmachen, wenn ich euch zur Mine begleite? Ich bin schließlich neu hier.
-Soko: Sicher kannst du mit uns kommen. Wir gehen ja sowieso alle denselben Weg.
-Cibon: Ja, meinetwegen...
-(Cibon: Wah, eine Brille.)
-Felcis tritt als Gast deiner Party bei.
+...
 
 Guard: Wag es nicht nochmal, so spät hier aufzukreuzen! Wenn wir sagen ihr sollt in die Zellen, dann tut ihr das auch und zwar sofort!
 Soko: Du kommst etwas spät.
@@ -945,15 +805,7 @@ Kento: Entweder das, oder dieser Sir Dolaros brauchte mal eine Pause.
 (Felcis: ... Sir Dolaros... )
 (Felcis: Sir Avarons Versuchs- kaninchen. Das hat mir jetzt noch gefehlt.)
 
-Guard: SOFORT ALLE AUFWACHEN! DIE MINE WARTET!
-Soko: So! Wach! Haha! So langsam hab ich mich dran gewöhnt.
-Soko: Morgen Soko...
-Felcis: Diese barbarische Uhrzeit... Wieso kann die gesamte Welt nicht einfach drei Stunden später aufstehen?
-Cibon: Kento. Aufstehen. Minenarbeit. Gefängnis.
-Kento: Och nee...
-Felcis: Nun? Wie sieht es aus? Werdet ihr mitmachen?
-Kento: M...Mitmachen?
-Felcis: Frag ihn das besser noch mal unten vor der Mine. Da ist er in der Regel etwas wacher.
+...
 
 Felcis: Endlich ist dieses sinnlose Theater zu Ende...
 Cibon: Und? Wie viele hat er dir reingedonnert?
@@ -965,57 +817,10 @@ Kento: Soll das heißen, dass man sich Farenia zum Feind macht, wenn man dich sc
 Felcis: So etwas in der Richtung. Das heißt, dass ist der allgemeine Glaube unter den Leuten.
 Felcis: Dummerweise spielt Farenia nicht für all seine Mitglieder diesen Schutzengel...
 
-Guard: SOFORT ALLE AUFWACHEN! DIE MINE WARTET!
-Cibon: Kento. Aufstehen. Minenarbeit. Gefängnis.
-Kento: Och nee...
-
 
 
 -= 242 =-
-Guard: Na? Ordentlich Erz abgebaut? Dann geht zurück zu euren Zellen.
-Guard: Was, wollt ihr hier durch? Ach ja, zur Mine ohne Ausrüstung, um eine Ausrede zu haben, nicht arbeiten zu müssen? Träumt weiter.
-
-Guard: Ich hoffe, ihr habt auch all eure Ausrüstung abgegeben.
-Guard: Sollten wir irgendetwas Anderes bemerken, dürft ihr euch an eine Felswand stellen und euch einmal genauso wohl fühlen wie das Erz - wenn ihr es von der Wand hackt.
-Guard: Ihr sollt durch das Haus links von hier. Dort bekommt ihr eure Ausrüstung.
-
-Guard: Wir versperren hier sicher nicht den Weg, damit wir Leute wie euch durchlassen.
-
 ...
-
-Cibon: Hey ho! Auf in die Mine! Auf zur Suche nach dem Erz!
-Soko: Sei ruhig!
-Cibon: Oha, da ist jemand schlecht gelaunt...
-Soko: Schlecht gelaunt? Oh ja, das bin ich!
-Soko: Ich habe eben eine fürchterliche Nacht auf einem Ding verbracht, dass man kaum als Bett bezeichnen kann!
-Soko: Dann diese unmögliche Uhrzeit und dann arbeiten in der Mine! Wer wäre da nicht schlecht gelaunt, verdammt!
-Soko: Also sei...
-Soko: ...gefälligst...
-Soko: ...RUHIG!
-Cibon: Kento, ich glaube, Soko wurde in ihrem Leben noch nie von jemanden geweckt, so früh wie die immer aufsteht, was meinst du?
-Cibon: Muss wohl ein ziemlicher Schock für sie sein!
-Soko: RU-HE!
-Kento: ...Ich hab immer noch Kopfschmerzen, bitte...
-Cibon: Oh Mann, was für ein Start in den Tag.
-
-Cibon: Wir sollten diesmal eine andere Route fahren als letztes mal, Kumpel! Immer am selben Ort arbeiten ist langweilig.
-Kento: Aha... Ist das so...?
-Soko: Diese Motivation ist einfach nur unnatürlich...
-Cibon: Schon wieder schlecht drauf?
-
-Cibon: So! Die Mine ist groß, wo fahren wir diesmal hin?
-Soko: Wahrscheinlich dahin wohin die Gleise führen.
-Soko: Kento sieht nicht so aus, als würde er irgendeine Spitzhacke entlang der Gleise schwingen, so müde wie er ist.
-Kento: W... Was? Gestern waren die Fronten hier noch etwas anders...
-Cibon: Ja! Soko ist wieder auf die Seite der Munteren gewechselt. Jetzt haben wir wieder alte Verhältnisse.
-Kento: Ganz toll...
-
-Cibon: ...Und wieder einen Arbeitstag in der Mine.
-Soko: Was ist los? Du scheinst weniger euphorisch bei der Sache zu sein als die letzten Tage.
-Felcis: Ich glaube, Cibon und ich haben gestern Nacht noch etwas zu lange "diskutiert", nicht wahr?
-Cibon: Ja ja, was auch immer. Ab in die Mine! Los, Kumpel!
-Kento: Njajummmnmnm....
-Felcis: Einen verschlafenen Freund habt ihr da.
 
 Felcis: Also, wie sieht es aus? Werdet ihr mitmachen?
 Kento: Wo mitmachen?
@@ -1068,19 +873,7 @@ Felcis: Bei der ersten Abbiegung rechts, bei der zweiten geradeaus nach oben.
 Felcis: Also diesmal nicht soviel pennen bei der Fahrt, okay Kento?
 Kento: Hey, es ist nicht so, dass ich schlafe...
 
-Kento: Feierabend... Gut, ich bin schon fast am Verhungern. Lasst uns schnell zu dieser Kantine gehen...
-
-Soko: Endlich... Fertig...
-Cibon: Dann mal wieder auf zur Kantine!
-Kento: Ohhh ja!
-
-Kento: Öffnet die Pforten der Kantine, wir kommen!
-Soko: Die Pforten sind wahrscheinlich schon lange geöffnet...
-
-Felcis: Das war jetzt in der Tat sehr anstrengend. Wo gibt es nun etwas zu essen?
-Cibon: Stell dich gefälligst nicht so an. Du hast sowieso von uns allen am wenigsten gemacht!
-Felcis: Die Anstrengung steht aber auch im Verhältnis zu meiner Bombenkondition.
-Kento: Kommt, ich denke, wir alle wollen etwas zu essen, oder? Lasst uns weiter gehen.
+...
 
 Felcis: Ah, da seid ihr ja endlich. Und wie lief der Tag?
 Cibon: So wie halt ein Minentag läuft, wenn man fleißig arbeitet. Aber so etwas kennst du wahrscheinlich gar nicht.

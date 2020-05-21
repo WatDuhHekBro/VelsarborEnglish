@@ -7,8 +7,8 @@
 			"original": "Wächter: Na? Ordentlich Erz abgebaut? Dann geht zurück zu euren Zellen.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Na? Ordentlich Erz abgebaut?\\. Dann geht ",
-				"zurück zu euren Zellen."
+				"\\c[10]Guard\\c[0]: Well?\\. Mining ore like you should?\\. Then get",
+				"back to your cells."
 			]
 		},
 		{
@@ -17,9 +17,10 @@
 			"original": "Wächter: Was, wollt ihr hier durch? Ach ja, zur Mine ohne Ausrüstung, um eine Ausrede zu haben, nicht arbeiten zu müssen? Träumt weiter.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Was, wollt ihr hier durch?\\. Ach ja, zur ",
-				"Mine ohne Ausrüstung, um eine Ausrede zu haben, ",
-				"nicht arbeiten zu müssen?\\. Träumt weiter."
+				"\\c[10]Guard\\c[0]: What?\\. You want to go through here?\\. Why of",
+				"course, to the mine without any equipment",
+				"whatsoever, so that you can have an excuse",
+				"to not have to work?\\. Keep dreaming."
 			]
 		},
 		{
@@ -28,8 +29,8 @@
 			"original": "Wächter: Ich hoffe, ihr habt auch all eure Ausrüstung abgegeben.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Ich hoffe, ihr habt auch all eure ",
-				"Ausrüstung abgegeben. "
+				"\\c[10]Guard\\c[0]: I hope you submitted all of your equipment",
+				"too."
 			]
 		},
 		{
@@ -38,10 +39,9 @@
 			"original": "Wächter: Sollten wir irgendetwas Anderes bemerken, dürft ihr euch an eine Felswand stellen und euch einmal genauso wohl fühlen wie das Erz - wenn ihr es von der Wand hackt.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Sollten wir irgendetwas Anderes bemerken, ",
-				"dürft ihr euch an eine Felswand stellen und euch ",
-				"einmal genauso wohl fühlen wie das Erz - wenn ihr ",
-				"es von der Wand hackt."
+				"\\c[10]Guard\\c[0]: If we notice that you still have something",
+				"else, be prepared to feel what a vein of ore feels",
+				"when you take a swing at it."
 			]
 		},
 		{
@@ -50,8 +50,8 @@
 			"original": "Wächter: Ihr sollt durch das Haus links von hier. Dort bekommt ihr eure Ausrüstung.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Ihr sollt durch das Haus links von hier. ",
-				"Dort bekommt ihr eure Ausrüstung."
+				"\\c[10]Guard\\c[0]: You should go to the building left of here.",
+				"You can get your equipment there."
 			]
 		},
 		{
@@ -59,8 +59,8 @@
 			"original": "Wächter: Wir versperren hier sicher nicht den Weg, damit wir Leute wie euch durchlassen.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wir versperren hier sicher nicht den Weg, ",
-				"damit wir Leute wie euch durchlassen."
+				"\\c[10]Guard\\c[0]: We're going to continue blocking the way",
+				"through here so that people like you don't pass."
 			]
 		},
 		{
@@ -144,8 +144,9 @@
 			"original": "Cibon: Hey ho! Auf in die Mine! Auf zur Suche nach dem Erz!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hey ho!\\. Auf in die Mine!\\. Auf ",
-				"zur Suche nach dem Erz!"
+				"\\c[2]\\n[2]\\c[0]: Here we go!\\. Off to the mine!\\.",
+				"As we embark on a mission to hunt",
+				"for ore that awaits us!"
 			]
 		},
 		{
@@ -153,7 +154,7 @@
 			"original": "Soko: Sei ruhig!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Sei ruhig!"
+				"\\c[13]\\n[3]\\c[0]: Just shut up already!"
 			]
 		},
 		{
@@ -161,8 +162,8 @@
 			"original": "Cibon: Oha, da ist jemand schlecht gelaunt...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Oha, da ist jemand schlecht ",
-				"gelaunt..."
+				"\\c[2]\\n[2]\\c[0]: Well now, someone isn't in a",
+				"good mood today..."
 			]
 		},
 		{
@@ -170,8 +171,8 @@
 			"original": "Soko: Schlecht gelaunt? Oh ja, das bin ich!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Schlecht gelaunt? Oh ja, das ",
-				"bin ich! "
+				"\\c[13]\\n[3]\\c[0]: Not in a good mood? Of course I",
+				"wouldn't be!"
 			]
 		},
 		{
@@ -179,10 +180,8 @@
 			"original": "Soko: Ich habe eben eine fürchterliche Nacht auf einem Ding verbracht, dass man kaum als Bett bezeichnen kann!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ich habe eben eine ",
-				"fürchterliche Nacht auf einem Ding ",
-				"verbracht, dass man kaum als Bett ",
-				"bezeichnen kann!"
+				"\\c[13]\\n[3]\\c[0]: I just spent a terrible night on",
+				"what can hardly be called a bed!"
 			]
 		},
 		{
@@ -190,10 +189,9 @@
 			"original": "Soko: Dann diese unmögliche Uhrzeit und dann arbeiten in der Mine! Wer wäre da nicht schlecht gelaunt, verdammt!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Dann diese unmögliche Uhrzeit ",
-				"und dann arbeiten in der Mine!\\. Wer ",
-				"wäre da nicht schlecht gelaunt, ",
-				"verdammt! "
+				"\\c[13]\\n[3]\\c[0]: And then this inhuman time as",
+				"well as having to work in the mine!\\.",
+				"Who wouldn't be in a bad mood, dammit!"
 			]
 		},
 		{
@@ -201,7 +199,7 @@
 			"original": "Soko: Also sei...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Also sei..."
+				"\\c[13]\\n[3]\\c[0]: So please..."
 			]
 		},
 		{
@@ -209,7 +207,7 @@
 			"original": "Soko: ...gefälligst...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...gefälligst..."
+				"\\c[13]\\n[3]\\c[0]: ...be..."
 			]
 		},
 		{
@@ -217,7 +215,7 @@
 			"original": "Soko: ...RUHIG!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...RUHIG!"
+				"\\c[13]\\n[3]\\c[0]: ...QUIET!"
 			]
 		},
 		{
@@ -225,10 +223,10 @@
 			"original": "Cibon: Kento, ich glaube, Soko wurde in ihrem Leben noch nie von jemanden geweckt, so früh wie die immer aufsteht, was meinst du?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kento, ich glaube, Soko wurde ",
-				"in ihrem Leben noch nie von jemanden ",
-				"geweckt, so früh wie die immer ",
-				"aufsteht, was meinst du?"
+				"\\c[2]\\n[2]\\c[0]: Kento, I don't think Soko has",
+				"ever been woken up by anyone before,",
+				"especially with how early she always",
+				"gets up. So what do you think?"
 			]
 		},
 		{
@@ -236,8 +234,7 @@
 			"original": "Cibon: Muss wohl ein ziemlicher Schock für sie sein!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Muss wohl ein ziemlicher ",
-				"Schock für sie sein!"
+				"\\c[2]\\n[2]\\c[0]: Must be quite the shock to her!"
 			]
 		},
 		{
@@ -245,7 +242,7 @@
 			"original": "Soko: RU-HE!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: RU-\\.HE!"
+				"\\c[13]\\n[3]\\c[0]: BE\\. QUIET!"
 			]
 		},
 		{
@@ -253,8 +250,8 @@
 			"original": "Kento: ...Ich hab immer noch Kopfschmerzen, bitte...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...Ich hab immer noch ",
-				"Kopfschmerzen,\\. bitte..."
+				"\\c[1]\\n[1]\\c[0]: ...I still have a headache.\\.",
+				"Please, not right now..."
 			]
 		},
 		{
@@ -262,8 +259,8 @@
 			"original": "Cibon: Oh Mann, was für ein Start in den Tag.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Oh Mann, was für ein Start in ",
-				"den Tag."
+				"\\c[2]\\n[2]\\c[0]: Oh man, what a way to start the",
+				"day off."
 			]
 		},
 		{
@@ -271,10 +268,9 @@
 			"original": "Cibon: Wir sollten diesmal eine andere Route fahren als letztes mal, Kumpel! Immer am selben Ort arbeiten ist langweilig.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wir sollten diesmal eine ",
-				"andere Route fahren als letztes mal, ",
-				"Kumpel!\\. Immer am selben Ort arbeiten ",
-				"ist langweilig."
+				"\\c[2]\\n[2]\\c[0]: We should go to a different",
+				"area this time, Kento!\\. Working in",
+				"the same place is boring."
 			]
 		},
 		{
@@ -282,7 +278,7 @@
 			"original": "Kento: Aha... Ist das so...?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Aha...\\. Ist das so...?"
+				"\\c[1]\\n[1]\\c[0]: Huh...\\. Is that so?"
 			]
 		},
 		{
@@ -290,8 +286,8 @@
 			"original": "Soko: Diese Motivation ist einfach nur unnatürlich...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Diese Motivation ist einfach ",
-				"nur unnatürlich..."
+				"\\c[13]\\n[3]\\c[0]: This motivation just defies all",
+				"logic..."
 			]
 		},
 		{
@@ -299,7 +295,7 @@
 			"original": "Cibon: Schon wieder schlecht drauf?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Schon wieder schlecht drauf?"
+				"\\c[2]\\n[2]\\c[0]: In a bad mood again?"
 			]
 		},
 		{
@@ -307,8 +303,9 @@
 			"original": "Cibon: So! Die Mine ist groß, wo fahren wir diesmal hin?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: So! Die Mine ist groß, wo ",
-				"fahren wir diesmal hin?"
+				"\\c[2]\\n[2]\\c[0]: Okay! The mine's quite the",
+				"place to explore, so where are we",
+				"headed this time?"
 			]
 		},
 		{
@@ -316,8 +313,8 @@
 			"original": "Soko: Wahrscheinlich dahin wohin die Gleise führen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wahrscheinlich dahin wohin die ",
-				"Gleise führen. "
+				"\\c[13]\\n[3]\\c[0]: Probably where the junctions",
+				"lead us to."
 			]
 		},
 		{
@@ -325,10 +322,10 @@
 			"original": "Soko: Kento sieht nicht so aus, als würde er irgendeine Spitzhacke entlang der Gleise schwingen, so müde wie er ist.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Kento sieht nicht so aus, als ",
-				"würde er irgendeine Spitzhacke ",
-				"entlang der Gleise schwingen, so ",
-				"müde wie er ist."
+				"\\c[13]\\n[3]\\c[0]: Kento doesn't look like he'll be",
+				"awake enough to swing at those",
+				"switches with his pickaxe",
+				"anytime soon."
 			]
 		},
 		{
@@ -336,8 +333,8 @@
 			"original": "Kento: W... Was? Gestern waren die Fronten hier noch etwas anders...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: W...\\. Was?\\. Gestern waren die ",
-				"Fronten hier noch etwas anders..."
+				"\\c[1]\\n[1]\\c[0]: W...\\. What?\\. Yesterday, the",
+				"switches led us to a different area..."
 			]
 		},
 		{
@@ -345,9 +342,9 @@
 			"original": "Cibon: Ja! Soko ist wieder auf die Seite der Munteren gewechselt. Jetzt haben wir wieder alte Verhältnisse.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja!\\. Soko ist wieder auf die ",
-				"Seite der Munteren gewechselt.\\. Jetzt ",
-				"haben wir wieder alte Verhältnisse."
+				"\\c[2]\\n[2]\\c[0]: Yes! Soko's back to being",
+				"cheerful again. Now it's all",
+				"back to normal."
 			]
 		},
 		{
@@ -355,7 +352,7 @@
 			"original": "Kento: Ganz toll...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ganz toll..."
+				"\\c[1]\\n[1]\\c[0]: Just great..."
 			]
 		},
 		{
@@ -363,8 +360,8 @@
 			"original": "Cibon: ...Und wieder einen Arbeitstag in der Mine.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...\\.Und wieder einen ",
-				"Arbeitstag in der Mine."
+				"\\c[2]\\n[2]\\c[0]: And another day of working in",
+				"the mine..."
 			]
 		},
 		{
@@ -372,9 +369,9 @@
 			"original": "Soko: Was ist los? Du scheinst weniger euphorisch bei der Sache zu sein als die letzten Tage.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Was ist los?\\. Du scheinst ",
-				"weniger euphorisch bei der Sache zu ",
-				"sein als die letzten Tage."
+				"\\c[13]\\n[3]\\c[0]: What's wrong?\\. You seem less",
+				"excited than you were in the past",
+				"few days."
 			]
 		},
 		{
@@ -382,9 +379,9 @@
 			"original": "Felcis: Ich glaube, Cibon und ich haben gestern Nacht noch etwas zu lange \"diskutiert\", nicht wahr?",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich glaube, Cibon und ich ",
-				"haben gestern Nacht noch etwas zu ",
-				"lange \"diskutiert\", nicht wahr?"
+				"\\c[5]\\n[5]\\c[0]: I think Cibon and I were up",
+				"\"discussing\" a little too late last",
+				"night, right?"
 			]
 		},
 		{
@@ -392,8 +389,8 @@
 			"original": "Cibon: Ja ja, was auch immer. Ab in die Mine! Los, Kumpel!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja ja,\\. was auch immer.\\. Ab in ",
-				"die Mine!\\. Los, Kumpel!"
+				"\\c[2]\\n[2]\\c[0]: Yeah yeah,\\. whatever.\\. Off to the",
+				"mine!\\. Let's go, Kento!"
 			]
 		},
 		{
@@ -401,7 +398,7 @@
 			"original": "Kento: Njajummmnmnm....",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: \\s[2]Njajummmnmnm...."
+				"\\c[1]\\n[1]\\c[0]: \\s[2]Okaaaay... \\.*yawn*"
 			]
 		},
 		{
@@ -409,8 +406,8 @@
 			"original": "Felcis: Einen verschlafenen Freund habt ihr da.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Einen verschlafenen Freund ",
-				"habt ihr da."
+				"\\c[5]\\n[5]\\c[0]: That's one sleepy friend you",
+				"have there."
 			]
 		},
 		{
@@ -897,9 +894,9 @@
 			"original": "Kento: Feierabend... Gut, ich bin schon fast am Verhungern. Lasst uns schnell zu dieser Kantine gehen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Feierabend... Gut, ich bin ",
-				"schon fast am Verhungern. Lasst uns ",
-				"schnell zu dieser Kantine gehen..."
+				"\\c[1]\\n[1]\\c[0]: Closing time... Good, I'm",
+				"almost starving. Let's get to",
+				"the cafe soon..."
 			]
 		},
 		{
@@ -907,7 +904,7 @@
 			"original": "Soko: Endlich... Fertig...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Endlich...\\. Fertig..."
+				"\\c[13]\\n[3]\\c[0]: Finally...\\. It's over..."
 			]
 		},
 		{
@@ -915,8 +912,7 @@
 			"original": "Cibon: Dann mal wieder auf zur Kantine!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Dann mal wieder auf zur ",
-				"Kantine! "
+				"\\c[2]\\n[2]\\c[0]: Then let's go to the canteen!"
 			]
 		},
 		{
@@ -924,7 +920,7 @@
 			"original": "Kento: Ohhh ja!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: \\s[4]Ohhh ja!"
+				"\\c[1]\\n[1]\\c[0]: \\s[4]Yaaaay!"
 			]
 		},
 		{
@@ -932,8 +928,8 @@
 			"original": "Kento: Öffnet die Pforten der Kantine, wir kommen!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Öffnet die Pforten der ",
-				"Kantine, wir kommen!"
+				"\\c[1]\\n[1]\\c[0]: Open the gates to the canteen,",
+				"here we come!"
 			]
 		},
 		{
@@ -941,9 +937,8 @@
 			"original": "Soko: Die Pforten sind wahrscheinlich schon lange geöffnet...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Die Pforten sind ",
-				"wahrscheinlich schon lange ",
-				"geöffnet..."
+				"\\c[13]\\n[3]\\c[0]: The gates have probably been",
+				"open for quite some time now..."
 			]
 		},
 		{
@@ -951,9 +946,8 @@
 			"original": "Felcis: Das war jetzt in der Tat sehr anstrengend. Wo gibt es nun etwas zu essen?",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Das war jetzt in der Tat ",
-				"sehr anstrengend.\\. Wo gibt es nun ",
-				"etwas zu essen?"
+				"\\c[5]\\n[5]\\c[0]: It was very exhausting indeed.\\.",
+				"So where do we eat?"
 			]
 		},
 		{
@@ -961,9 +955,8 @@
 			"original": "Cibon: Stell dich gefälligst nicht so an. Du hast sowieso von uns allen am wenigsten gemacht!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Stell dich gefälligst nicht ",
-				"so an.\\. Du hast sowieso von uns allen ",
-				"am wenigsten gemacht!"
+				"\\c[2]\\n[2]\\c[0]: Don't act like that.\\. You mined",
+				"the least amount out of all of us!"
 			]
 		},
 		{
@@ -971,9 +964,9 @@
 			"original": "Felcis: Die Anstrengung steht aber auch im Verhältnis zu meiner Bombenkondition.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Die Anstrengung steht aber ",
-				"auch im Verhältnis zu meiner ",
-				"Bombenkondition."
+				"\\c[5]\\n[5]\\c[0]: But the amount of effort I put",
+				"in probably also determines how much I",
+				"get to eat."
 			]
 		},
 		{
@@ -981,9 +974,9 @@
 			"original": "Kento: Kommt, ich denke, wir alle wollen etwas zu essen, oder? Lasst uns weiter gehen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Kommt, ich denke, wir alle ",
-				"wollen etwas zu essen, oder?\\. Lasst ",
-				"uns weiter gehen."
+				"\\c[1]\\n[1]\\c[0]: Come now, I think we all want",
+				"something to eat, right?\\. Let's get",
+				"going."
 			]
 		},
 		{

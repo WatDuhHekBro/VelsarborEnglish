@@ -99,9 +99,9 @@
 			"original": "Wächter: Zur Kantine geht den Flur vom Erdgeschoss des Zellengebäudes ganz durch und dann nach rechts.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Zur Kantine geht den Flur vom ",
-				"Erdgeschoss des Zellengebäudes ganz durch und dann ",
-				"nach rechts."
+				"\\c[10]Guard\\c[0]: To get to the canteen, go through this",
+				"corridor past all the cells while staying on",
+				"the ground floor, then turn right."
 			]
 		},
 		{
@@ -140,8 +140,8 @@
 			"original": "Wächter: Dieser Bereich darf nur von Turnierkampfteilnehmern betreten werden!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Dieser Bereich darf nur von ",
-				"Turnierkampfteilnehmern betreten werden!"
+				"\\c[10]Guard\\c[0]: This area is only to be entered by those",
+				"fighting in the tournament!"
 			]
 		},
 		{
@@ -149,9 +149,9 @@
 			"original": "Wächter: Wenn ihr auf den Platz wollt, um zu kämpfen, müsst ihr euch anmelden. Die Anmeldung ist in der Kantine.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wenn ihr auf den Platz wollt, um zu ",
-				"kämpfen, müsst ihr euch anmelden.\\. Die Anmeldung ",
-				"ist in der Kantine."
+				"\\c[10]Guard\\c[0]: If you want to get into the arena",
+				"and fight, you'll have to register first.\\.",
+				"Registration is in the cafe."
 			]
 		},
 		{
@@ -1745,8 +1745,8 @@
 			"original": "Wächter: ALLE GEFANGENEN SOFORT ZURÜCK IN DIE ZELLEN!",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] ALLE GEFANGENEN SOFORT ZURÜCK IN DIE ",
-				"ZELLEN!"
+				"\\c[10]Guard\\c[0]: ALL PRISONERS GET BACK INTO THEIR CELLS",
+				"IMMEDIATELY!"
 			]
 		},
 		{
@@ -1754,8 +1754,8 @@
 			"original": "Felcis: Cieoly, das war jetzt wirklich nicht nötig.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Cieoly,\\. das war jetzt ",
-				"wirklich nicht nötig."
+				"\\c[5]\\n[5]\\c[0]: Cieoly,\\. I really didn't need",
+				"that to happen just now."
 			]
 		},
 		{
@@ -1763,8 +1763,8 @@
 			"original": "Gefangener: Oha, was ist das denn? Ein schöner funkelnder Stein! Neues Diebesgut, har har!",
 			"lines":
 			[
-				"\\c[10]Gefangener:\\c[0] Oha, was ist das denn?\\. Ein schöner ",
-				"funkelnder Stein!\\. Neues Diebesgut, har har!"
+				"\\c[10]Prisoner\\c[0]: Ooo, what's this?\\. A beautiful sparkling",
+				"stone!\\. New stolen goods, har har har!"
 			]
 		},
 		{
@@ -1772,9 +1772,9 @@
 			"original": "Felcis: Was zum...! Gleich zweimal Pech hintereinander. So war das sicher nicht geplant.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Was zum...!\\. Gleich zweimal ",
-				"Pech hintereinander.\\. So war ",
-				"das sicher nicht geplant."
+				"\\c[5]\\n[5]\\c[0]: What the...\\. Bad luck twice in",
+				"a row.\\. I definitely didn't plan for",
+				"it to go this way."
 			]
 		},
 		{
@@ -1782,8 +1782,8 @@
 			"original": "Wächter: ALLE GEFANGENEN SOFORT ZURÜCK IN DIE ZELLEN!",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] ALLE GEFANGENEN SOFORT ZURÜCK IN DIE ",
-				"ZELLEN!"
+				"\\c[10]Guard\\c[0]: ALL PRISONERS GET BACK INTO THEIR CELLS",
+				"IMMEDIATELY!"
 			]
 		},
 		{
@@ -1791,9 +1791,9 @@
 			"original": "Felcis: So, Cieoly. Du weißt, wo diese Nachricht hingeht, richtig? Verpatz das jetzt bloß nicht.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: So, Cieoly.\\. Du weißt, wo diese",
-				"Nachricht hingeht, richtig?\\. Verpatz",
-				"das jetzt bloß nicht. "
+				"\\c[5]\\n[5]\\c[0]: So, Cieoly.\\. You know where",
+				"this message is supposed to go,",
+				"right?\\. Don't screw this up now."
 			]
 		},
 		{
@@ -1801,10 +1801,10 @@
 			"original": "Felcis: Drück mir die Daumen. Wenn alles gut geht, gebe ich dir morgen etwas Feines zum Naschen. Außerhalb dieser Mauern.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Drück mir die Daumen.\\. Wenn",
-				"alles gut geht, gebe ich dir morgen",
-				"etwas Feines zum Naschen.\\. ",
-				"Außerhalb dieser Mauern. "
+				"\\c[5]\\n[5]\\c[0]: I'll be keeping my fingers",
+				"crossed.\\. If everything goes well,",
+				"I'll give you something nice to snack",
+				"on tomorrow.\\. Outside these walls."
 			]
 		}
 	],
