@@ -18,6 +18,9 @@ Here are some references:
 
 And let's not forget the video that started it all: [The video by Hydlide S](https://www.youtube.com/watch?v=LNBnLKQmUmQ)
 
+# Regarding The French Version
+For many years now, there has been a [French version of Velsarbor](http://www.rpg-maker.fr/jeux-418-velsarbor-version-francaise.html) by Shanka. This page at least seems to be based on the first demo of Velsarbor, which you can tell by the number of maps. The first demo has 180 maps while the second/final demo has 296 maps. I'm not sure if saves transfer, though I can't see any reason why they wouldn't. There are a few maps I know of that have completely changed their dialogue, but it seems like they're far and few between.
+
 # Dev Section Below
 AFAIK, the people who previously worked on translations never published their progress, and it seems like they haven't worked on it since.
 
@@ -50,5 +53,5 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 - The Silvan Forest: 100%
 - The Mysterious Fortress: 100%
 - Gencorin Pt II: 100%
-- The Helnovien Prison: 65%
+- The Helnovien Prison: 70%
 - The Helnovien Mine: 98%

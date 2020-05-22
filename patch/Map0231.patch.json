@@ -1111,9 +1111,9 @@
 			"original": "Kento: Da fällt mir ein, heute werden sie wahrscheinlich wieder jemanden von uns verhören.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Da fällt mir ein, heute ",
-				"werden sie wahrscheinlich wieder ",
-				"jemanden von uns verhören."
+				"\\c[1]\\n[1]\\c[0]: I just realized that today,",
+				"they're likely going to interrogate",
+				"another one of us again."
 			]
 		},
 		{
@@ -1122,7 +1122,7 @@
 			"original": "Soko: Stimmt ja...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Stimmt ja..."
+				"\\c[13]\\n[3]\\c[0]: Right..."
 			]
 		},
 		{
@@ -1131,8 +1131,8 @@
 			"original": "Kento: Ich hab denen zuletzt einige Geschichten erzählt...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich hab denen zuletzt einige ",
-				"Geschichten erzählt... "
+				"\\c[1]\\n[1]\\c[0]: I told them some fictitious",
+				"tales while I was there..."
 			]
 		},
 		{
@@ -1141,10 +1141,10 @@
 			"original": "Kento: Ihr solltest darauf achten, dass ihr eure Aussagen darauf aufbauen. Sonst fliegen unsere Lügen auf.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ihr solltest darauf achten, ",
-				"dass ihr eure Aussagen darauf ",
-				"aufbauen.\\. Sonst fliegen unsere Lügen ",
-				"auf. "
+				"\\c[1]\\n[1]\\c[0]: You should make sure that",
+				"whatever you say is based on this.\\.",
+				"Otherwise, they'll figure out",
+				"we're lying."
 			]
 		},
 		{
@@ -1153,7 +1153,7 @@
 			"original": "Cibon: Und was dann?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Und was dann?"
+				"\\c[2]\\n[2]\\c[0]: And if we don't?"
 			]
 		},
 		{
@@ -1162,9 +1162,9 @@
 			"original": "Kento: Dann gibt es Prügel. Sogar während der Minenarbeit, haben sie mir gedroht.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Dann gibt es Prügel. \\.Sogar ",
-				"während der Minenarbeit, haben sie ",
-				"mir gedroht."
+				"\\c[1]\\n[1]\\c[0]: Then comes a beating.\\. They",
+				"threatened me that it'd happen",
+				"even when we're mining."
 			]
 		},
 		{
@@ -1173,8 +1173,7 @@
 			"original": "Cibon: Also, was hast du ihnen erzählt?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Also, was hast du ihnen ",
-				"erzählt?"
+				"\\c[2]\\n[2]\\c[0]: So what did you tell them?"
 			]
 		},
 		{
@@ -1183,10 +1182,10 @@
 			"original": "Soko: Kento, wenn sie unsere Lügen durchschauen, werden sie erst recht denken, dass wir Sachen wissen und verschweigen wollen, oder?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Kento, wenn sie unsere Lügen ",
-				"durchschauen, werden sie erst recht ",
-				"denken, dass wir Sachen wissen und ",
-				"verschweigen wollen, oder?"
+				"\\c[13]\\n[3]\\c[0]: Kento, if they see through our",
+				"lies, they'll think that we're still",
+				"hiding something and will want to",
+				"know about it, right?"
 			]
 		},
 		{
@@ -1195,8 +1194,7 @@
 			"original": "Kento: ... Da könntest du Recht haben...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...\\. Da könntest du Recht ",
-				"haben..."
+				"\\c[1]\\n[1]\\c[0]: You could be right..."
 			]
 		},
 		{
@@ -1205,10 +1203,10 @@
 			"original": "Soko: Lügen ist immer nur ein temporärer Ausweg. Und die können uns hier Monate lang verhören, wenn sie Lust dazu haben.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Lügen ist immer nur ein ",
-				"temporärer Ausweg.\\. Und die können ",
-				"uns hier Monate lang verhören, wenn ",
-				"sie Lust dazu haben."
+				"\\c[13]\\n[3]\\c[0]: Lying is always only a temporary",
+				"way out.\\. And they can interrogate us",
+				"here for months on end if they feel",
+				"like it."
 			]
 		},
 		{
@@ -1217,10 +1215,10 @@
 			"original": "Soko: Ihnen die Wahrheit zu sagen, ist vielleicht anfangs härter, aber auf Dauer der einzige Weg, die Verhörungen enden zu lassen.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ihnen die Wahrheit zu sagen, ",
-				"ist vielleicht anfangs härter, aber ",
-				"auf Dauer der einzige Weg, die ",
-				"Verhörungen enden zu lassen."
+				"\\c[13]\\n[3]\\c[0]: Telling them the truth may sting",
+				"more at first, but it's the only way",
+				"to end these interrogations in the",
+				"long run."
 			]
 		},
 		{
@@ -1229,9 +1227,8 @@
 			"original": "Cibon: Großartig, jetzt weiß ich ganz ehrlich nicht mehr, was ich machen soll.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Großartig,\\. jetzt weiß ich ",
-				"ganz ehrlich nicht mehr, was ich ",
-				"machen soll."
+				"\\c[2]\\n[2]\\c[0]: Great,\\. I honestly don't know",
+				"what to do now."
 			]
 		},
 		{
@@ -1240,10 +1237,9 @@
 			"original": "Kento: Vielleicht hat Soko recht, es könnte sinnvoller sein, einfach permanent auszusagen, dass man nichts weiß.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Vielleicht hat Soko recht, es ",
-				"könnte sinnvoller sein, einfach ",
-				"permanent auszusagen, dass man ",
-				"nichts weiß."
+				"\\c[1]\\n[1]\\c[0]: Maybe Soko is right, it might",
+				"make more sense to simply say we",
+				"don't know anything from now on."
 			]
 		},
 		{
@@ -1252,10 +1248,9 @@
 			"original": "Cibon: Ich denke ich werde das entscheiden, wenn es soweit ist. Erzähl einfach mal, was du ihnen gesagt hast.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich denke ich werde das ",
-				"entscheiden, wenn es soweit ist. \\.",
-				"Erzähl einfach mal, was du ihnen ",
-				"gesagt hast."
+				"\\c[2]\\n[2]\\c[0]: I think I'll decide when the",
+				"time comes.\\. Just tell me what you",
+				"told them."
 			]
 		},
 		{
@@ -1264,10 +1259,10 @@
 			"original": "Soko: Ich frag mich, was draußen so alles passiert. Ob Brigantia mittlerweile diese Truppe gefunden hat?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ich frag mich, was draußen so ",
-				"alles passiert.\\. Ob Brigantia ",
-				"mittlerweile diese Truppe gefunden ",
-				"hat?"
+				"\\c[13]\\n[3]\\c[0]: I wonder what's going on",
+				"outside.\\. Did Brigantia end up",
+				"finding this group in the",
+				"meantime?"
 			]
 		},
 		{
@@ -1276,9 +1271,9 @@
 			"original": "Kento: Solche Neuigkeiten sollten sich eigentlich schnell ausbreiten, sogar hier im Gefängnis...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Solche Neuigkeiten sollten ",
-				"sich eigentlich schnell ausbreiten, ",
-				"sogar hier im Gefängnis..."
+				"\\c[1]\\n[1]\\c[0]: That kind of news would quickly",
+				"spread, even down here in the",
+				"prison..."
 			]
 		},
 		{
@@ -1287,10 +1282,10 @@
 			"original": "Soko: Wenn sie die Truppe entdecken, klärt sich wahrscheinlich auf, dass wir keine Spione sind! Vielleicht kommen wir dann hier raus...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wenn sie die Truppe entdecken, ",
-				"klärt sich wahrscheinlich auf, dass ",
-				"wir keine Spione sind!\\. Vielleicht ",
-				"kommen wir dann hier raus..."
+				"\\c[13]\\n[3]\\c[0]: If they discovered the group,",
+				"it'll probably be clear to them that",
+				"we aren't spies!\\. Maybe we'll get out",
+				"of here then..."
 			]
 		},
 		{
@@ -1299,9 +1294,9 @@
 			"original": "Kento: Naja, wir haben doch gestern gehört, das Gefangene hier in der Regel nicht freigelassen werden.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Naja, wir haben doch gestern ",
-				"gehört, das Gefangene hier in der ",
-				"Regel nicht freigelassen werden. "
+				"\\c[1]\\n[1]\\c[0]: Well, we heard yesterday that",
+				"prisoners are usually never released",
+				"from here."
 			]
 		},
 		{
@@ -1310,8 +1305,8 @@
 			"original": "Kento: Da muss uns schon ein hohes Tier hier rausziehen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Da muss uns schon ein hohes ",
-				"Tier hier rausziehen."
+				"\\c[1]\\n[1]\\c[0]: Only some high-ranking official",
+				"can pull us out of here."
 			]
 		},
 		{
@@ -1329,9 +1324,9 @@
 			"original": "Cibon: Du könntest wirklich etwas optimistischer sein, Kumpel. Unsere Lage ist so schon verzweifelt genug.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Du könntest wirklich etwas ",
-				"optimistischer sein, Kumpel. \\.Unsere ",
-				"Lage ist so schon verzweifelt genug."
+				"\\c[2]\\n[2]\\c[0]: You could really use a little",
+				"more optimism, Kento.\\. Our situation",
+				"is desperate enough as it is."
 			]
 		},
 		{
@@ -1340,8 +1335,8 @@
 			"original": "Cibon: Wahrscheinlich werden sie heute dich verhören, Soko.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wahrscheinlich werden sie ",
-				"heute dich verhören, Soko."
+				"\\c[2]\\n[2]\\c[0]: They'll probably be",
+				"interrogating you today, Soko."
 			]
 		},
 		{
@@ -1350,7 +1345,7 @@
 			"original": "Soko: Ja...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ja..."
+				"\\c[13]\\n[3]\\c[0]: Yeah..."
 			]
 		},
 		{
@@ -1359,8 +1354,8 @@
 			"original": "Kento: Wie wirst du dich nun verhalten?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wie wirst du dich nun ",
-				"verhalten?"
+				"\\c[1]\\n[1]\\c[0]: So are you going to go along",
+				"with the plan?"
 			]
 		},
 		{
@@ -1369,9 +1364,9 @@
 			"original": "Soko: Ich weiß es nicht... Macht es wirklich Sinn, ihnen über die ganze Zeit Lügen zu erzählen?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ich weiß es nicht...\\. Macht es ",
-				"wirklich Sinn, ihnen über die ganze ",
-				"Zeit Lügen zu erzählen? "
+				"\\c[13]\\n[3]\\c[0]: I don't know...\\. Does it really",
+				"make sense to keep telling them lies",
+				"for however long we're in here?"
 			]
 		},
 		{
@@ -1380,9 +1375,8 @@
 			"original": "Soko: Wir werden das nicht durchhalten, also zumindest ich nicht...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wir werden das nicht ",
-				"durchhalten,\\. also zumindest ich ",
-				"nicht... "
+				"\\c[13]\\n[3]\\c[0]: We won't be able to keep this",
+				"up,\\. I mean,\\. at least I won't..."
 			]
 		},
 		{
@@ -1391,9 +1385,8 @@
 			"original": "Soko: Und so wie es aussieht, werden wir hier sobald auch nicht rauskommen...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Und so wie es aussieht, werden ",
-				"wir hier sobald auch nicht ",
-				"rauskommen... "
+				"\\c[13]\\n[3]\\c[0]: And it looks like we won't be",
+				"getting out of here anytime soon..."
 			]
 		},
 		{
@@ -1402,10 +1395,9 @@
 			"original": "Kento: Also willst du dich auf Unschuld berufen? Dir ist klar, dass unsere ganzen Lügen damit auffliegen werden.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Also willst du dich auf ",
-				"Unschuld berufen?\\. Dir ist klar, dass ",
-				"unsere ganzen Lügen damit auffliegen ",
-				"werden."
+				"\\c[1]\\n[1]\\c[0]: So you want to claim innocence?\\.",
+				"You know that all of our lies will be",
+				"exposed."
 			]
 		},
 		{
@@ -1414,8 +1406,8 @@
 			"original": "Kento: Cibon und ich werden dafür Konsequenzen tragen müssen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Cibon und ich werden dafür ",
-				"Konsequenzen tragen müssen..."
+				"\\c[1]\\n[1]\\c[0]: Cibon and I will have to face",
+				"the consequences..."
 			]
 		},
 		{
@@ -1424,8 +1416,7 @@
 			"original": "Soko: Ich... Das hab ich vergessen...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ich...\\. Das hab ich ",
-				"vergessen..."
+				"\\c[13]\\n[3]\\c[0]: Oh...\\. I forgot about that..."
 			]
 		},
 		{
@@ -1434,10 +1425,9 @@
 			"original": "Cibon: Nimm wegen mir keine Rücksicht, Soko. Die können mich nicht viel mehr verprügeln als letztes Mal.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Nimm wegen mir keine ",
-				"Rücksicht, Soko.\\. Die können mich ",
-				"nicht viel mehr verprügeln als ",
-				"letztes Mal."
+				"\\c[2]\\n[2]\\c[0]: Don't be considerate of me,",
+				"Soko.\\. They can't beat me up any",
+				"more than last time."
 			]
 		},
 		{
@@ -1446,9 +1436,9 @@
 			"original": "Kento: Naja, mach einfach, was du für richtig hältst. Wir werden das schon durchstehen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Naja, mach einfach, was du ",
-				"für richtig hältst. Wir werden ",
-				"das schon durchstehen."
+				"\\c[1]\\n[1]\\c[0]: Well, just do what you think is",
+				"right. We'll get through this one way",
+				"or another."
 			]
 		},
 		{
@@ -1457,9 +1447,9 @@
 			"original": "Kento: Ach ja, Felcis, eine Sache habe ich noch nicht so ganz verstanden.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ach ja, Felcis, eine Sache ",
-				"habe ich noch nicht so ganz ",
-				"verstanden."
+				"\\c[1]\\n[1]\\c[0]: By the way Felcis, there's",
+				"still one thing I haven't quite",
+				"understood yet."
 			]
 		},
 		{
@@ -1468,10 +1458,10 @@
 			"original": "Kento: Was hat jemand wie du hierzulande, jenseits der Grenze zu suchen? Du sagtest, du wärst ein Gesandter vom Adelsbund...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Was hat jemand wie du ",
-				"hierzulande, jenseits der Grenze zu ",
-				"suchen?\\. Du sagtest, du wärst ein ",
-				"Gesandter vom Adelsbund..."
+				"\\c[1]\\n[1]\\c[0]: What's someone like you doing",
+				"across the border into this country?\\.",
+				"You said you were an envoy from the",
+				"aristocracy..."
 			]
 		},
 		{
@@ -1480,8 +1470,8 @@
 			"original": "Felcis: Oh, nun ja, ich hatte einen Untersuchungsauftrag an der Grenze.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Oh,\\. nun ja,\\. ich hatte einen ",
-				"Untersuchungsauftrag an der Grenze. "
+				"\\c[5]\\n[5]\\c[0]: Oh,\\. well,\\. I had an order to",
+				"investigate the border."
 			]
 		},
 		{
@@ -1490,10 +1480,9 @@
 			"original": "Felcis: Es gab in letzter Zeit viele Gerüchte über eine Untergrund- passage, die unter die Grenze hindurch führt.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Es gab in letzter Zeit viele ",
-				"Gerüchte über eine Untergrund-",
-				"passage, die unter die Grenze ",
-				"hindurch führt."
+				"\\c[5]\\n[5]\\c[0]: There've been a lot of rumors",
+				"lately about an underground passage",
+				"under the border."
 			]
 		},
 		{
@@ -1502,10 +1491,10 @@
 			"original": "Felcis: Laut diesen Gerüchten ist diese Passage auf die hier herumstreunenden Räuberbanden zurückzuführen.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Laut diesen Gerüchten ist ",
-				"diese Passage auf die hier ",
-				"herumstreunenden Räuberbanden ",
-				"zurückzuführen."
+				"\\c[5]\\n[5]\\c[0]: According to these rumors,",
+				"this passage can be attributed to",
+				"the gangs of robbers roaming",
+				"around here."
 			]
 		},
 		{
@@ -1514,10 +1503,9 @@
 			"original": "Felcis: Ich denke, es ist selbstredend, dass so etwas weder im Interesse von Korzojeno noch von Brigantia ist.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich denke, es ist ",
-				"selbstredend, dass so etwas weder im ",
-				"Interesse von Korzojeno noch von ",
-				"Brigantia ist."
+				"\\c[5]\\n[5]\\c[0]: I think it goes without saying",
+				"that this is neither in the interests",
+				"of Korzojeno or Brigantia."
 			]
 		},
 		{
@@ -1526,9 +1514,9 @@
 			"original": "Felcis: Grenzen werden schließlich nicht gebaut, damit man frei drunter durch wandern kann.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Grenzen werden schließlich ",
-				"nicht gebaut, damit man frei drunter ",
-				"durch wandern kann."
+				"\\c[5]\\n[5]\\c[0]: After all, borders aren't",
+				"built so that you can freely walk",
+				"under them."
 			]
 		},
 		{
@@ -1537,10 +1525,9 @@
 			"original": "Felcis: Also wurde mir ein kleiner Trupp von Soldaten zugeteilt, mit dem ich der Sache auf den Grund gehen sollte.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Also wurde mir ein kleiner ",
-				"Trupp von Soldaten zugeteilt, mit ",
-				"dem ich der Sache auf den Grund ",
-				"gehen sollte."
+				"\\c[5]\\n[5]\\c[0]: So I was assigned a small",
+				"group of soldiers to get to the",
+				"bottom of it."
 			]
 		},
 		{
@@ -1549,10 +1536,9 @@
 			"original": "Felcis: Und in der Tat. Da war eine Passage. Und ihre Ausmaße überstiegen meine Erwartungen um Weiten.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Und in der Tat. Da war eine ",
-				"Passage.\\. Und ihre Ausmaße ",
-				"überstiegen meine Erwartungen um ",
-				"Weiten."
+				"\\c[5]\\n[5]\\c[0]: And there was a passage",
+				"indeed.\\. Their dimensions far",
+				"exceeded my expectations."
 			]
 		},
 		{
@@ -1561,10 +1547,10 @@
 			"original": "Felcis: Es ist mehr als nur ein kleiner Tunnel. Eher ist es ein großes Höhlensystem, das sich unter der Grenze durchzieht.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Es ist mehr als nur ein ",
-				"kleiner Tunnel. Eher ist es ein ",
-				"großes Höhlensystem, das sich unter ",
-				"der Grenze durchzieht."
+				"\\c[5]\\n[5]\\c[0]: It's more than just a small",
+				"tunnel. Rather, it's a large cave",
+				"system that runs through the",
+				"entire border."
 			]
 		},
 		{
@@ -1573,10 +1559,10 @@
 			"original": "Felcis: Groß genug, um dort seine Leute zu verlieren. Genau das passierte mir nämlich, als wir von einer Räuberbande verfolgt wurden.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Groß genug, um dort seine ",
-				"Leute zu verlieren. \\.Genau das ",
-				"passierte mir nämlich, als wir von ",
-				"einer Räuberbande verfolgt wurden."
+				"\\c[5]\\n[5]\\c[0]: Big enough to lose everyone",
+				"down there.\\. This is exactly what",
+				"happened to me when we were",
+				"chased by a gang of robbers."
 			]
 		},
 		{
@@ -1585,9 +1571,9 @@
 			"original": "Felcis: Ich hatte das Glück, am Ende wieder raus zu finden, bin dann allerdings in Brigantia gelandet.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich hatte das Glück, am Ende ",
-				"wieder raus zu finden, bin dann ",
-				"allerdings in Brigantia gelandet."
+				"\\c[5]\\n[5]\\c[0]: I was lucky enough to find my",
+				"way back in the end, but I ended up",
+				"in Brigantia."
 			]
 		},
 		{
@@ -1596,10 +1582,10 @@
 			"original": "Felcis: Meine Leute waren weiterhin verschollen und da ich nicht der Typ bin, der seine Leute im Stich lässt, wollte ich hier um Hilfe bitten.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Meine Leute waren weiterhin ",
-				"verschollen und da ich nicht der Typ ",
-				"bin, der seine Leute im Stich lässt, ",
-				"wollte ich hier um Hilfe bitten."
+				"\\c[5]\\n[5]\\c[0]: My people were still missing,",
+				"and since I'm not the type to let",
+				"their people down so easily, I",
+				"wanted to ask for help there."
 			]
 		},
 		{
@@ -1608,10 +1594,9 @@
 			"original": "Felcis: Und jetzt sitze ich hier. Und alles was ich tun kann, ist hoffen, dass meine Leute von selbst davon gekommen sind.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Und jetzt sitze ich hier.\\. ",
-				"Und alles was ich tun kann, ist ",
-				"hoffen, dass meine Leute von selbst ",
-				"davon gekommen sind."
+				"\\c[5]\\n[5]\\c[0]: And now I'm sitting here.\\.",
+				"All I can do now is hope that my",
+				"people got away on their own."
 			]
 		},
 		{
@@ -1620,8 +1605,7 @@
 			"original": "Cibon: Okay... Das ist ziemlich übel...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Okay...\\. Das ist ziemlich ",
-				"übel..."
+				"\\c[2]\\n[2]\\c[0]: Oh...\\. That's pretty bad..."
 			]
 		},
 		{
@@ -1630,10 +1614,10 @@
 			"original": "Soko: Was denken die sich hier eigentlich? Die können doch nicht jemanden vom Adelsbund einfach so hier einsperren!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Was denken die sich hier ",
-				"eigentlich?\\. Die können doch nicht ",
-				"jemanden vom Adelsbund einfach so ",
-				"hier einsperren!"
+				"\\c[13]\\n[3]\\c[0]: Seriously, what were they",
+				"thinking?\\. They can't just lock",
+				"someone up here with no trial",
+				"whatsoever!"
 			]
 		},
 		{
@@ -1642,10 +1626,10 @@
 			"original": "Soko: Dafür muss man doch eine Bestätigung von dem Rat bekommen, oder von einem höheren General im Westen, mindestens!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Dafür muss man doch eine ",
-				"Bestätigung von dem Rat bekommen, ",
-				"oder von einem höheren General im ",
-				"Westen, mindestens!"
+				"\\c[13]\\n[3]\\c[0]: They have to get confirmation",
+				"from the council, or from a higher",
+				"general in the west at the very",
+				"least!"
 			]
 		},
 		{
@@ -1654,7 +1638,7 @@
 			"original": "Soko: Das ist Wahnsinn!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Das ist Wahnsinn!"
+				"\\c[13]\\n[3]\\c[0]: This is absolute insanity!"
 			]
 		},
 		{
@@ -1663,8 +1647,9 @@
 			"original": "Felcis: Nun ja,",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Nun ja, \\^"
-			]
+				"\\c[5]\\n[5]\\c[0]: Well yes,\\^"
+			],
+			"__comment__": "Pseudo-scrolling"
 		},
 		{
 			"path": [45,1,771,1],
@@ -1672,7 +1657,7 @@
 			"original": "Felcis: Nun ja, DAS IST HELNOVIA!!!",
 			"lines":
 			[
-				"\\>\\c[5]\\n[5]\\c[0]: Nun ja,\\.\\. \\<DAS \\.\\.IST\\.\\. HELNOVIA!!!\\.\\.\\^"
+				"\\>\\c[5]\\n[5]\\c[0]: Well yes,\\.\\. \\<THIS\\.\\. IS\\.\\. HELNOVIEN!!!\\.\\.\\^"
 			]
 		},
 		{
@@ -1681,8 +1666,8 @@
 			"original": "Felcis: Nun ja, DAS IST HELNOVIEN, wie mir darüber erzählt wurde.",
 			"lines":
 			[
-				"\\>\\c[5]\\n[5]\\c[0]: Nun ja, DAS IST HELNOVIEN\\<,",
-				"wie mir darüber erzählt wurde. "
+				"\\>\\c[5]\\n[5]\\c[0]: Well yes, THIS IS HELNOVIEN!!!\\<",
+				"...as I've been told."
 			]
 		},
 		{
@@ -1691,9 +1676,10 @@
 			"original": "Felcis: Das Land von Brigantia mit Eigeninitiative! Hier sind die Leute noch voller frischer Ideen!",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Das Land von Brigantia mit ",
-				"Eigeninitiative!\\. Hier sind die Leute ",
-				"noch voller frischer Ideen!"
+				"\\c[5]\\n[5]\\c[0]: Now Brigantia's territory",
+				"acting on their own!\\. The land with",
+				"people full of ideas on how THEY",
+				"think things should be."
 			]
 		},
 		{
@@ -1702,10 +1688,10 @@
 			"original": "Felcis: Hier, wo dieser Spielverderber von Rat dank der Blockade des Torasgebirges nicht permanent rummeckern kann.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Hier, wo dieser ",
-				"Spielverderber von Rat dank der ",
-				"Blockade des Torasgebirges nicht ",
-				"permanent rummeckern kann."
+				"\\c[5]\\n[5]\\c[0]: Here, where its killjoy",
+				"council no longer has to complain to",
+				"get what they want, thanks to their",
+				"barrier that is Mount Toras."
 			]
 		},
 		{
@@ -1714,10 +1700,9 @@
 			"original": "Felcis: Hätte ich gewusst, dass Korzojeno im Moment so unter Verdacht steht, hätte ich mich keineswegs hier hingewagt.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Hätte ich gewusst, dass ",
-				"Korzojeno im Moment so unter ",
-				"Verdacht steht, hätte ich mich ",
-				"keineswegs hier hingewagt."
+				"\\c[5]\\n[5]\\c[0]: If I had known that Korzojeno",
+				"was currently under suspicion,",
+				"I wouldn't have dared to go here."
 			]
 		},
 		{
@@ -1726,10 +1711,9 @@
 			"original": "Felcis: Nun ja, so ist halt das Leben. Wenn ihr mich entschuldigt, ich werde mich hier mal etwas umsehen...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Nun ja, so ist halt das ",
-				"Leben.\\. Wenn ihr mich entschuldigt, ",
-				"ich werde mich hier mal etwas ",
-				"umsehen..."
+				"\\c[5]\\n[5]\\c[0]: Well, that's life.\\. Now if",
+				"you'll excuse me, I'll have a",
+				"look around here..."
 			]
 		},
 		{
@@ -1738,9 +1722,9 @@
 			"original": "Soko: Schon ein merkwürdiger Zufall, dass wir auf einmal so eine Person treffen...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Schon ein merkwürdiger Zufall, ",
-				"dass wir auf einmal so eine Person ",
-				"treffen..."
+				"\\c[13]\\n[3]\\c[0]: It's a rather strange",
+				"coincidence that we suddenly",
+				"met such a person..."
 			]
 		},
 		{
@@ -1749,10 +1733,10 @@
 			"original": "Cibon: Was meint ihr? Glaubt ihr ihm, dass Korzojeno nichts mit dieser Truppe zu tun hat, sondern Brigantia dahinter steckt?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Was meint ihr?\\. Glaubt ihr ",
-				"ihm, dass Korzojeno nichts mit ",
-				"dieser Truppe zu tun hat, sondern ",
-				"Brigantia dahinter steckt?"
+				"\\c[2]\\n[2]\\c[0]: What do you think of all this?\\.",
+				"Do you believe what he's saying, that",
+				"Korzojeno has nothing to do with this",
+				"group, that it's actually Brigantia?"
 			]
 		},
 		{
@@ -1761,9 +1745,9 @@
 			"original": "Soko: Ich kann mir nicht vorstellen, dass jemand im Rat so etwas planen würde...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ich kann mir nicht vorstellen, ",
-				"dass jemand im Rat so etwas planen ",
-				"würde..."
+				"\\c[13]\\n[3]\\c[0]: I can't imagine someone in the",
+				"council planning something like",
+				"this..."
 			]
 		},
 		{
@@ -1772,9 +1756,9 @@
 			"original": "Kento: Es ist natürlich im Sinne von diesem Felcis, den Adelsbund von dem Verdacht zu befreien...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es ist natürlich im Sinne von ",
-				"diesem Felcis, den Adelsbund von dem ",
-				"Verdacht zu befreien... "
+				"\\c[1]\\n[1]\\c[0]: It is, of course, in the best",
+				"interests of this Felcis guy to free",
+				"the aristocracy of suspicion..."
 			]
 		},
 		{
@@ -1783,9 +1767,9 @@
 			"original": "Kento: So gesehen ist es gut möglich, dass er uns falsche Tatsachen auftischt...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: So gesehen ist es gut ",
-				"möglich, dass er uns falsche ",
-				"Tatsachen auftischt..."
+				"\\c[1]\\n[1]\\c[0]: Speaking from this point of",
+				"view, it's quite possible that he",
+				"might be lying to us..."
 			]
 		},
 		{
@@ -1794,10 +1778,9 @@
 			"original": "Cibon: Naja, selbst wenn - macht das für uns einen Unterschied? Wir sitzen hier ja nicht im Rat, sondern in einem Gefängnis.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Naja, selbst wenn -\\. macht das ",
-				"für uns einen Unterschied?\\. Wir ",
-				"sitzen hier ja nicht im Rat, sondern ",
-				"in einem Gefängnis."
+				"\\c[2]\\n[2]\\c[0]: Well, even so,\\. does it make",
+				"a difference for us?\\. We're not in",
+				"the council, we're in a prison."
 			]
 		},
 		{
@@ -1806,7 +1789,7 @@
 			"original": "Soko: Wo du recht hast...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wo du recht hast..."
+				"\\c[13]\\n[3]\\c[0]: Well, you're right..."
 			]
 		},
 		{
