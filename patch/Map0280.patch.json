@@ -7,9 +7,9 @@
 			"original": "Pauamainer-Mitglied: Ah, ein neues Mitglied, wie ich sehe! Großartig! Wir freu'n uns über jeden begeisterten Minenarbeiter! Glück auf!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Ah, ein neues Mitglied, wie ",
-				"ich sehe!\\. Großartig!\\. Wir freu'n uns über jeden ",
-				"begeisterten Minenarbeiter!\\. Glück auf!"
+				"\\c[10]Pauamainer Member\\c[0]: Ah, some new members I see!\\.",
+				"Great!\\. We're happy for every enthusiastic miner!",
+				"Good luck!"
 			]
 		},
 		{
@@ -18,9 +18,9 @@
 			"original": "Pauamainer-Mitglied: Wart ihr schon bei meinem Kollegen drüben? Wenn ihr neu hier seid, bekommt ihr nen kleines Geschenk von uns.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Wart ihr schon bei meinem ",
-				"Kollegen drüben?\\. Wenn ihr neu hier seid, bekommt ",
-				"ihr nen kleines Geschenk von uns."
+				"\\c[10]Pauamainer Member\\c[0]: Have you been to my colleague",
+				"over there?\\. If you're new here, you'll receive a",
+				"small gift from us."
 			]
 		},
 		{
@@ -29,9 +29,8 @@
 			"original": "Pauamainer-Mitglied: Ist euch schon Mal aufgefallen, dass die Schienen in dem Endbereich mit den vielen Klippen eigentlich weiter gehen?",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Ist euch schon Mal ",
-				"aufgefallen, dass die Schienen in dem Endbereich ",
-				"mit den vielen Klippen eigentlich weiter gehen?"
+				"\\c[10]Pauamainer Member\\c[0]: Have you ever noticed that the",
+				"railways near the cliffs actually goes on?"
 			]
 		},
 		{
@@ -40,9 +39,9 @@
 			"original": "Pauamainer-Mitglied: Früher war dort ein großer Minenbereich, von dem wir wegen einem Erdbeben total abgetrennt wurden!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Früher war dort ein großer ",
-				"Minenbereich, von dem wir wegen einem Erdbeben ",
-				"total abgetrennt wurden!"
+				"\\c[10]Pauamainer Member\\c[0]: There used to be a large area",
+				"to mine in which got separated due to the",
+				"earthquake!"
 			]
 		},
 		{
@@ -51,8 +50,8 @@
 			"original": "Pauamainer-Mitglied: Was meint ihr, wie viel Erz es dort gab?! Eine Sauerei, wirklich.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Was meint ihr, wie viel Erz ",
-				"es dort gab?!\\. Eine Sauerei, wirklich."
+				"\\c[10]Pauamainer Member\\c[0]: What do you think, how much ore",
+				"might've been there?!\\. It's a shame, isn't it..."
 			]
 		},
 		{
@@ -60,8 +59,7 @@
 			"original": "Kento: Hmpf... Lässt sich nicht verschieben.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hmpf... Lässt sich nicht ",
-				"verschieben."
+				"\\c[1]\\n[1]\\c[0]: Hmph... It won't budge."
 			]
 		},
 		{
@@ -70,10 +68,10 @@
 			"original": "Pauamainer-Mitglied: Ah, ich sehe! Ihr habt also alle Orden gesammelt und konntet hier rein? Glückwunsch! Damit seid ihr offiziell nun Mitglied der Pauamainer-Untertage-Brüderschaft.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Ah, ich sehe!\\. Ihr habt also ",
-				"alle Orden gesammelt und konntet hier rein?\\. ",
-				"Glückwunsch!\\. Damit seid ihr offiziell nun Mitglied ",
-				"der Pauamainer-Untertage-Brüderschaft."
+				"\\c[10]Pauamainer Member\\c[0]: Ah, I see!\\. So you've collected",
+				"all the medallions and were able to get in here?\\.",
+				"Congratulations!\\. You're now officially a member",
+				"of the underground Pauamainer Brotherhood."
 			]
 		},
 		{
@@ -82,9 +80,8 @@
 			"original": "Pauamainer-Mitglied: Für Neulinge wie euch haben wir ein Geschenk. Los, geht durch und holt es euch.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Für Neulinge wie euch haben ",
-				"wir ein Geschenk.\\. Los, geht durch und holt es ",
-				"euch."
+				"\\c[10]Pauamainer Member\\c[0]: We have a gift for newcomers",
+				"like you.\\. Come, go through and get it."
 			]
 		},
 		{
@@ -93,9 +90,9 @@
 			"original": "Pauamainer-Mitglied: Ich hoffe ihr habt genug gute Arbeit geleistet, damit die Wächter euch diesen Fund beim Verlassen durchgehen lassen!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Ich hoffe ihr habt genug gute ",
-				"Arbeit geleistet, damit die Wächter euch diesen ",
-				"Fund beim Verlassen durchgehen lassen!"
+				"\\c[10]Pauamainer Member\\c[0]: I hope you've done enough good",
+				"work so that the guards look the other way when",
+				"you leave with this item!"
 			]
 		},
 		{
@@ -104,10 +101,10 @@
 			"original": "Pauamainer-Mitglied: Da wir hier Wächter sind, bleiben wir etwas länger in der Mine, bis wirklich alle Leute weg sind. Ja, wir dürfen das. Ihr solltet jetzt aber besser zurückgehen.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Da wir hier Wächter sind, ",
-				"bleiben wir etwas länger in der Mine, bis wirklich ",
-				"alle Leute weg sind.\\. Ja, wir dürfen das.\\. Ihr ",
-				"solltet jetzt aber besser zurückgehen."
+				"\\c[10]Pauamainer Member\\c[0]: Since we're keeping watch here,",
+				"we stay in the mine a little longer until all the",
+				"people are really gone.\\. Yep, we're allowed to do",
+				"so.\\. You should go back now."
 			]
 		},
 		{
@@ -115,8 +112,7 @@
 			"original": "Kento: Hmpf... Lässt sich nicht verschieben.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hmpf... Lässt sich nicht ",
-				"verschieben."
+				"\\c[1]\\n[1]\\c[0]: Hmph... It won't budge."
 			]
 		},
 		{
@@ -125,10 +121,10 @@
 			"original": "Pauamainer-Mitglied: Hier ist der Bereich der Pauamainer-Veteranen! Schon seid Jahren sind wir ganz oben in der Rangliste des Kampfturniers! Lediglich unser Chef kann uns noch übertrumpfen.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Hier ist der Bereich der ",
-				"Pauamainer-Veteranen!\\. Schon seid Jahren sind wir ",
-				"ganz oben in der Rangliste des Kampfturniers!\\. ",
-				"Lediglich unser Chef kann uns noch übertrumpfen."
+				"\\c[10]Pauamainer Member\\c[0]: This is the area of the",
+				"Pauamainer Veterans!\\. For years, we've been",
+				"at the top of the tournament!\\. Only our",
+				"boss can outdo us."
 			]
 		},
 		{
@@ -137,9 +133,9 @@
 			"original": "Pauamainer-Mitglied: Und daran sieht man mal wieder: Nur wer hart in der Mine arbeitet, kommt weit im Turnier!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Und daran sieht man mal ",
-				"wieder:\\. Nur wer hart in der Mine arbeitet, kommt ",
-				"weit im Turnier! "
+				"\\c[10]Pauamainer Member\\c[0]: And you can see it again.\\. Only",
+				"those who work hard in the mine can get far in",
+				"the tournament!"
 			]
 		},
 		{
@@ -148,9 +144,9 @@
 			"original": "Pauamainer-Mitglied: Wer hart in der Mine schuftet trainiert seinen Körper und Geist! Das ist besser als jedes Kampftraining!!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Wer hart in der Mine schuftet ",
-				"trainiert seinen Körper und Geist!\\. Das ist besser ",
-				"als jedes Kampftraining!!"
+				"\\c[10]Pauamainer Member\\c[0]: Those who work hard in the mine",
+				"train their body and mind!\\. This is better than any",
+				"typical combat training!!"
 			]
 		},
 		{
@@ -159,7 +155,7 @@
 			"original": "Kento: Ehm... ja... Klar...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ehm...\\. ja...\\. Klar..."
+				"\\c[1]\\n[1]\\c[0]: Um...\\. Yeah...\\. \\s[2]Suuure..."
 			]
 		},
 		{
@@ -168,10 +164,10 @@
 			"original": "Pauamainer-Mitglied: Hey, es ist Feierabend. Denkt nicht, dass wir hier wegen so etwas verschwinden. Wir gehen hier nicht eher als ihr, vergesst es. Also los, geht schon zurück.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Hey, es ist Feierabend.\\. Denkt ",
-				"nicht, dass wir hier wegen so etwas verschwinden. \\.",
-				"Wir gehen hier nicht eher als ihr, vergesst es.\\.",
-				"Also los, geht schon zurück."
+				"\\c[10]Pauamainer Member\\c[0]: Hey, it's closing time.\\. Don't",
+				"think we're getting out of here because of stuff",
+				"like that.\\. We don't leave before you do, don't",
+				"forget that.\\. So go ahead, go back."
 			]
 		},
 		{
@@ -180,9 +176,8 @@
 			"original": "Pauamainer-Mitglied: Oh! Ihr seid also die Kollegen die uns im Turnier geschlagen haben! Das war ein großartiger Kampf.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Oh! Ihr seid also die ",
-				"Kollegen die uns im Turnier geschlagen haben!\\. Das ",
-				"war ein großartiger Kampf. "
+				"\\c[10]Pauamainer Member\\c[0]: Oh!\\. So you're the ones who beat",
+				"us in the tournament!\\. That was a great fight."
 			]
 		},
 		{
@@ -191,9 +186,9 @@
 			"original": "Pauamainer-Mitglied: Auf diesem Wege waren wir in der Lage unsere Schwächen zu erkennen und können uns nun weiter verbessern!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Auf diesem Wege waren wir in ",
-				"der Lage unsere Schwächen zu erkennen und können ",
-				"uns nun weiter verbessern! "
+				"\\c[10]Pauamainer Member\\c[0]: In this way, we were able to",
+				"recognize our weaknesses and can now improve",
+				"further!"
 			]
 		},
 		{
@@ -202,8 +197,8 @@
 			"original": "Pauamainer-Mitglied: Da, nehmt euch den Gegenstand aus der Truhe als Zeichen unserer Dankbarkeit.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Da, nehmt euch den Gegenstand ",
-				"aus der Truhe als Zeichen unserer Dankbarkeit."
+				"\\c[10]Pauamainer Member\\c[0]: Here, take the item out of the",
+				"chest as a token of our gratitude."
 			]
 		},
 		{
@@ -212,8 +207,8 @@
 			"original": "Pauamainer-Mitglied: Irgendwann werden wir uns im Turnier schon wieder sehen!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Irgendwann werden wir uns im ",
-				"Turnier schon wieder sehen! "
+				"\\c[10]Pauamainer Member\\c[0]: At some point, we'll see each",
+				"other again in the tournament!"
 			]
 		},
 		{
@@ -221,9 +216,9 @@
 			"original": "Pauamainer-Mitglied: Das war wirklich ein guter Kampf! Das war fast noch besser als eine neue, unberührte Erzstelle zu finden!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Das war wirklich ein guter ",
-				"Kampf!\\. Das war fast noch besser als eine neue, ",
-				"unberührte Erzstelle zu finden!"
+				"\\c[10]Pauamainer Member\\c[0]: That was a really good fight!\\.",
+				"It was almost better than finding even a new and",
+				"untouched vein of ore!"
 			]
 		},
 		{
@@ -231,8 +226,7 @@
 			"original": "Pauamainer-Mitglied: Ganz große Leistung im Turnier.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Ganz große Leistung im ",
-				"Turnier."
+				"\\c[10]Pauamainer Member\\c[0]: Great work in the tournament."
 			]
 		},
 		{
@@ -240,8 +234,7 @@
 			"original": "Kento: Hmpf... Lässt sich nicht verschieben.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Hmpf... Lässt sich nicht ",
-				"verschieben."
+				"\\c[1]\\n[1]\\c[0]: Hmph... It won't budge."
 			]
 		},
 		{

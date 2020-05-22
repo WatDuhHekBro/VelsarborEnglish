@@ -6,10 +6,9 @@
 			"original": "Gefangener: Wenn man mal etwas zu wenig Erz schürft, kriegt man hier gleich weniger Essen. Denen ist komplett egal, wie die körperliche Verfassung von dir ist.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Wenn man mal etwas zu wenig Erz ",
-				"schürft, kriegt man hier gleich weniger Essen. \\.",
-				"Denen ist komplett egal, wie die körperliche ",
-				"Verfassung von dir ist."
+				"\\c[10]Prisoner\\c[0]: If you don't mine enough ore, you get",
+				"less and less food here.\\. They don't care what",
+				"your physical condition is."
 			]
 		},
 		{
@@ -17,8 +16,8 @@
 			"original": "Gefangener: Das heißt: wer alt und schwach ist, kriegt weniger zu essen und wird noch schwächer.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Das heißt: wer alt und schwach ist, ",
-				"kriegt weniger zu essen und wird noch schwächer."
+				"\\c[10]Prisoner\\c[0]: That means that those too old and weak",
+				"get less to eat and become even weaker."
 			]
 		},
 		{
@@ -26,8 +25,9 @@
 			"original": "Gefangener: Das Essen hier schmeckt wirklich grausam. Aber Hauptsache, man wird satt.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Das Essen hier schmeckt wirklich ",
-				"grausam.\\. Aber Hauptsache, man wird satt."
+				"\\c[10]Prisoner\\c[0]: The food here is horrendous.\\. But all",
+				"that matters is that you get something in your",
+				"stomach."
 			]
 		},
 		{
@@ -35,9 +35,9 @@
 			"original": "Gefangener: Dieses Leuchten der Wände irritiert mich... Ich dachte mit der Zeit würde ich mich dran gewöhnen, aber es lässt einfach nicht nach.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Dieses Leuchten der Wände irritiert ",
-				"mich...\\. Ich dachte mit der Zeit würde ich mich ",
-				"dran gewöhnen, aber es lässt einfach nicht nach."
+				"\\c[10]Prisoner\\c[0]: The glow of these walls irritates me...\\.",
+				"I thought I'd get used to it as time went on, but",
+				"it's as irritating as always."
 			]
 		},
 		{
@@ -45,10 +45,9 @@
 			"original": "Gefangener: Nachts kann ich deshalb kaum in meiner Zelle schlafen... Wenn ich doch nur etwas hätte, womit ich die Wände abdecken könnte - aber nein, Gefangene haben ja keinen Besitz.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Nachts kann ich deshalb kaum in meiner ",
-				"Zelle schlafen...\\. Wenn ich doch nur etwas hätte, ",
-				"womit ich die Wände abdecken könnte - aber nein, ",
-				"Gefangene haben ja keinen Besitz."
+				"\\c[10]Prisoner\\c[0]: That's why I can hardly sleep in my cell",
+				"at night...\\. If only I had something to cover the",
+				"walls with, but no, prisoners don't get anything."
 			]
 		},
 		{
@@ -56,19 +55,20 @@
 			"original": "Gefangene: Seid ihr eigentlich schon diesem blonden General über dem Weg gelaufen? Sir Dolaros ist sein Name. Was für ein Mann!",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Seid ihr eigentlich schon diesem ",
-				"blonden General über dem Weg gelaufen?\\. Sir Dolaros ",
-				"ist sein Name.\\. Was für ein Mann!"
-			]
+				"\\c[10]Prisoner\\c[0]: Did any of you happen to run into this",
+				"strapping blond general before?\\. Sir Dolaros is",
+				"his name.\\. What a man!"
+			],
+			"__comment__": "The original meaning is probably lost, but I'm going with the spin that this person is messed up in the head."
 		},
 		{
 			"path": [12,1,5,3],
 			"original": "Gefangene: Ich hab gehört, dass er ab und zu bestimmte Gefangene verhört und dabei wirklich hart ran geht...",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Ich hab gehört, dass er ab und zu ",
-				"bestimmte Gefangene verhört und dabei wirklich ",
-				"hart ran geht..."
+				"\\c[10]Prisoner\\c[0]: I heard he interrogates certain",
+				"prisoners every now and then and gets",
+				"really hard at it..."
 			]
 		},
 		{
@@ -76,8 +76,8 @@
 			"original": "Gefangene: Hach ja... Ich wünschte, ich wäre mal die Gefangene, die er verhören würde...",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Hach ja...\\. Ich wünschte, ich wäre mal ",
-				"die Gefangene, die er verhören würde..."
+				"\\c[10]Prisoner\\c[0]: Oh yeah...\\. I wish I were the prisoner",
+				"he'd interrogate..."
 			]
 		},
 		{
@@ -85,8 +85,7 @@
 			"original": "Kento: D... Das... Mir fehlen die Worte.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: D...\\. Das...\\. Mir fehlen die ",
-				"Worte."
+				"\\c[1]\\n[1]\\c[0]: T...\\. That...\\. I have no words."
 			]
 		},
 		{
@@ -95,8 +94,8 @@
 			"original": "Cibon: ... I... Ich weiß gar nicht wo ich anfangen soll....",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...\\. I...\\. Ich weiß gar nicht ",
-				"wo ich anfangen soll...."
+				"\\c[2]\\n[2]\\c[0]: I...\\. I don't even know where to",
+				"begin..."
 			]
 		},
 		{
@@ -105,8 +104,7 @@
 			"original": "Soko: So... So falsch, das ist so falsch!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: So...\\. So falsch,\\. das ist so ",
-				"falsch!"
+				"\\c[13]\\n[3]\\c[0]: So...\\. So wrong,\\. that's so wrong!"
 			]
 		},
 		{
@@ -115,9 +113,9 @@
 			"original": "Gefangener: Ah, die Ex-Soldaten vom Briganten- Orden. Mich wundert es recht wenig, dass bei euch auch noch eine Frau dabei ist.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Ah, die Ex-Soldaten vom Briganten-",
-				"Orden. Mich wundert es recht wenig, dass bei euch ",
-				"auch noch eine Frau dabei ist."
+				"\\c[10]Prisoner\\c[0]: Ah, the ex-soldiers of the Brigantine",
+				"Order. Hardly surprised that there's also a",
+				"woman with you."
 			]
 		},
 		{
@@ -126,10 +124,9 @@
 			"original": "Gefangener: Das kommt davon, wenn man Geschlechter in Rollen reinsetzt, wo sie einfach nicht reinpassen! Ich würde auch verrückt werden, wenn ich ständig vor dem Herd stehen würde!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Das kommt davon, wenn man Geschlechter ",
-				"in Rollen reinsetzt, wo sie einfach nicht ",
-				"reinpassen!\\. Ich würde auch verrückt werden, wenn ",
-				"ich ständig vor dem Herd stehen würde!"
+				"\\c[10]Prisoner\\c[0]: That's what happens when you put genders",
+				"into roles they don't belong!\\. I'd also go crazy if",
+				"I had to keep standing in front of the stove!"
 			]
 		},
 		{
@@ -138,10 +135,10 @@
 			"original": "Soko: Also... so eine unverschämte Frechheit! Das ich hier im Gefängnis bin, hat in absolut keiner Hinsicht auch nur entfernt mit meinem...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Also...\\. so eine unverschämte ",
-				"Frechheit!\\. Das ich hier im Gefängnis ",
-				"bin, hat in absolut keiner Hinsicht ",
-				"auch nur entfernt mit meinem...\\.\\.\\^"
+				"\\c[13]\\n[3]\\c[0]: You've got some nerve saying",
+				"stuff like that!\\. Me being here in",
+				"prison isn't even remotely related",
+				"to...\\.\\.\\^"
 			]
 		},
 		{
@@ -150,8 +147,8 @@
 			"original": "Kento: Ist gut, Soko. Einfach ignorieren, einfach ignorieren.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ist gut, Soko.\\. Einfach ",
-				"ignorieren, einfach ignorieren."
+				"\\c[1]\\n[1]\\c[0]: It's okay, Soko.\\. Ignore him,",
+				"ignore him."
 			]
 		},
 		{
@@ -160,7 +157,7 @@
 			"original": "Gefangener: Lasst mich in Frieden.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Lasst mich in Frieden."
+				"\\c[10]Prisoner\\c[0]: Leave me alone."
 			]
 		},
 		{
@@ -168,10 +165,10 @@
 			"original": "Gefangener: Hab ihr schon mitbekommen, dass sie sogar Monster in den Turnierkämpfen teilnehmen lassen? Das sind dann irgendwelche Pseudo-Teams, die von den Wächtern gehalten werden.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Hab ihr schon mitbekommen, dass sie ",
-				"sogar Monster in den Turnierkämpfen teilnehmen ",
-				"lassen?\\. Das sind dann irgendwelche Pseudo-Teams, ",
-				"die von den Wächtern gehalten werden."
+				"\\c[10]Prisoner\\c[0]: Did you notice that they're already",
+				"letting even monsters take part in the tournament?\\.",
+				"These are the guards' psuedo teams they keep",
+				"around."
 			]
 		},
 		{
@@ -179,9 +176,8 @@
 			"original": "Gefangener: Was ich mich allerdings frage... Wo sperren sie die Viecher ein, wenn sie nicht gerade in der Arena sind?",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Was ich mich allerdings frage...\\. Wo ",
-				"sperren sie die Viecher ein, wenn sie nicht gerade ",
-				"in der Arena sind?"
+				"\\c[10]Prisoner\\c[0]: Though I have to wonder...\\. Where do they",
+				"lock them up when they're not in the arena?"
 			]
 		},
 		{
@@ -189,10 +185,10 @@
 			"original": "Gefangene: Heute hab ich schon wieder einen dieser ekligen, zaubernden Würmer gesehen, da unten in der Mine. Bei diesem Anblick vergeht mir immer der Appetit für den Rest des Tages.",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Heute hab ich schon wieder einen dieser ",
-				"ekligen, zaubernden Würmer gesehen, da unten in ",
-				"der Mine.\\. Bei diesem Anblick vergeht mir immer der ",
-				"Appetit für den Rest des Tages."
+				"\\c[10]Prisoner\\c[0]: Today, I saw one of those nasty",
+				"magic-using worms down there in the mine.\\.",
+				"Every time I see them, I always lose my",
+				"appetite for the rest of the day."
 			]
 		},
 		{
@@ -201,8 +197,8 @@
 			"original": "Kento: Ist dann bei dir noch etwas übrig geblieben?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ist dann bei dir noch etwas ",
-				"übrig geblieben?"
+				"\\c[1]\\n[1]\\c[0]: You still have to have some",
+				"appetite left, right?"
 			]
 		},
 		{
@@ -211,8 +207,7 @@
 			"original": "Soko: Das lässt du schön bleiben, Kento!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Das lässt du schön bleiben, ",
-				"Kento!"
+				"\\c[13]\\n[3]\\c[0]: Oh no you don't, Kento!"
 			]
 		},
 		{
@@ -220,10 +215,10 @@
 			"original": "Gefangener: Ich war vorher mal in einem Gefängnis in Domarkor - Das waren harte Zeiten. Dort hatte man absolut gar keinen Freilauf und Essen gab es alle 2 bis 3 Tage.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Ich war vorher mal in einem Gefängnis ",
-				"in Domarkor -\\. Das waren harte Zeiten.\\. Dort hatte ",
-				"man absolut gar keinen Freilauf und Essen gab es ",
-				"alle 2 bis 3 Tage."
+				"\\c[10]Prisoner\\c[0]: I was in a prison in Domarkor before.\\.",
+				"Those were tough times.\\. There, you had absolutely",
+				"no freedom to move and there was only food every",
+				"2 to 3 days."
 			]
 		},
 		{
@@ -231,10 +226,10 @@
 			"original": "Gefangener: Das hier ist weniger ein Gefängnis als ein Arbeitslager, wenn du mich fragst. Brigantia scheint es wirklich vorrangig um das Eisen zu gehen.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Das hier ist weniger ein Gefängnis als ",
-				"ein Arbeitslager, wenn du mich fragst. \\.Brigantia ",
-				"scheint es wirklich vorrangig um das Eisen zu ",
-				"gehen."
+				"\\c[10]Prisoner\\c[0]: This is less of a prison and more like a",
+				"labor camp if you ask me.\\. Brigantia really seems",
+				"to be primarily concerned with iron rather than",
+				"torture."
 			]
 		},
 		{
@@ -242,10 +237,9 @@
 			"original": "Gefangener: Ich kann all diese Leute, die am Feierabend noch am Turnier teilnehmen oder da zuschauen, wirklich nicht verstehen. Alles was ich will, ist zurück in meine Zelle.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Ich kann all diese Leute, die am ",
-				"Feierabend noch am Turnier teilnehmen oder da ",
-				"zuschauen, wirklich nicht verstehen. \\.Alles was ich ",
-				"will, ist zurück in meine Zelle."
+				"\\c[10]Prisoner\\c[0]: I really don't get all of these people",
+				"who still play or watch the tournament after work.\\.",
+				"All I want to do is go back into my cell."
 			]
 		},
 		{
@@ -253,10 +247,9 @@
 			"original": "Gefangener: Falls ihr euch fragt, wozu dieses Podest da oben ist - ab und zu stellen sich Wächter dort hin und verkünden irgendwelche Sachen an alle Gefangenen in der Kantine.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Falls ihr euch fragt, wozu dieses ",
-				"Podest da oben ist - ab und zu stellen sich ",
-				"Wächter dort hin und verkünden irgendwelche Sachen ",
-				"an alle Gefangenen in der Kantine."
+				"\\c[10]Prisoner\\c[0]: If you wonder what that platform up",
+				"there is for. Guards sometimes stand there and",
+				"announce things to all the prisoners in the cafe."
 			]
 		},
 		{
@@ -264,9 +257,9 @@
 			"original": "Gefangener: Kommt besser nicht auf die Idee, euch selber dort hinzustellen und irgendwelchen Quatsch zu machen. Die Wächter sehen das äußerst ungern.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Kommt besser nicht auf die Idee, euch ",
-				"selber dort hinzustellen und irgendwelchen Quatsch ",
-				"zu machen.\\. Die Wächter sehen das äußerst ungern."
+				"\\c[10]Prisoner\\c[0]: You'd do well to not put yourself up",
+				"there and draw a bunch of attention.\\. The",
+				"guards really don't like seeing this."
 			]
 		},
 		{
@@ -274,10 +267,9 @@
 			"original": "Gefangener: Jetzt bin ich schon 3 Wochen hier... Ich hasse es, wie konnte ich nur hier landen? Alles was ich getan habe, war etwas Taschendiebstahl...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Jetzt bin ich schon 3 Wochen hier... \\.",
-				"Ich hasse es, wie konnte ich nur hier landen?\\. ",
-				"Alles was ich getan habe, war etwas ",
-				"Taschendiebstahl... "
+				"\\c[10]Prisoner\\c[0]: I've been here for three weeks now...\\.",
+				"I hate it, how did I end up here?\\. All I did was",
+				"pickpocket..."
 			]
 		},
 		{
@@ -285,8 +277,8 @@
 			"original": "Gefangener: Und nun bin ich hier und schufte mich zu Tode. Ich vermisse meine Familie...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Und nun bin ich hier und schufte mich ",
-				"zu Tode.\\. Ich vermisse meine Familie..."
+				"\\c[10]Prisoner\\c[0]: And now I'm here to work until my dying",
+				"breath.\\. I miss my family..."
 			]
 		},
 		{
@@ -295,8 +287,7 @@
 			"original": "Soko: Verbrechen müssen halt bestraft werden...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Verbrechen müssen halt ",
-				"bestraft werden..."
+				"\\c[13]\\n[3]\\c[0]: Crimes have to be punished..."
 			]
 		},
 		{
@@ -305,10 +296,10 @@
 			"original": "Cibon: Ja, aber so etwas wegen ein bisschen Taschendiebstahl? Findest du nicht, dass das etwas zu weit geht?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja, aber so etwas wegen ein ",
-				"bisschen Taschendiebstahl?\\. Findest ",
-				"du nicht, dass das etwas zu weit ",
-				"geht?"
+				"\\c[2]\\n[2]\\c[0]: Yeah, but all of this just",
+				"because of a little pickpocketing?\\.",
+				"Don't you think this went a little",
+				"too far?"
 			]
 		},
 		{
@@ -317,10 +308,9 @@
 			"original": "Kento: Ich denke, das Problem ist, dass hier alle Gefangenen das gleiche Schicksal erwartet, unabhängig davon, wieso.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ich denke, das Problem ist, ",
-				"dass hier alle Gefangenen das ",
-				"gleiche Schicksal erwartet, ",
-				"unabhängig davon, wieso."
+				"\\c[1]\\n[1]\\c[0]: I think the problem is that all",
+				"prisoners face the same fate here,",
+				"regardless of why."
 			]
 		},
 		{
@@ -328,19 +318,19 @@
 			"original": "Gefangene: Was ich mich allerdings frage... Wo sperren sie die Viecher ein, wenn sie nicht gerade in der Arena sind?",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Was ich mich allerdings frage...\\. Wo ",
-				"sperren sie die Viecher ein, wenn sie nicht gerade ",
-				"in der Arena sind?"
-			]
+				"\\c[10]Prisoner\\c[0]: There has to be a way out of here...\\.",
+				"I can't live the rest of my life like this..."
+			],
+			"__comment__": "Repeated & out of context line"
 		},
 		{
 			"path": [34,1,2,3],
 			"original": "Gefangener: Verdammt, ich hab noch Hunger, aber Nachschlag gibt es nicht! Ich muss härter arbeiten, damit meine Portion größer wird...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Verdammt, ich hab noch Hunger, aber ",
-				"Nachschlag gibt es nicht!\\. Ich muss härter ",
-				"arbeiten, damit meine Portion größer wird..."
+				"\\c[10]Prisoner\\c[0]: Damn, I'm still hungry, but there aren't",
+				"any second helpings!\\. I'll have to work harder to",
+				"make my portion bigger..."
 			]
 		},
 		{
@@ -349,10 +339,9 @@
 			"original": "Soko: Die Idee, die Gefangen durch die Essensrationen zu motivieren, scheint ja ausgezeichnet zu funktionieren...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Die Idee, die Gefangen durch ",
-				"die Essensrationen zu motivieren, ",
-				"scheint ja ausgezeichnet zu ",
-				"funktionieren... "
+				"\\c[13]\\n[3]\\c[0]: The idea of motivating prisoners",
+				"by controlling how much food they get",
+				"seems to work rather well..."
 			]
 		},
 		{
@@ -361,7 +350,7 @@
 			"original": "Soko: Wie erbärmlich.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wie erbärmlich."
+				"\\c[13]\\n[3]\\c[0]: Disgusting."
 			]
 		},
 		{
@@ -370,9 +359,8 @@
 			"original": "Cibon: Morgen werden wir uns besonders ins Zeug legen, nicht wahr, Kumpel?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Morgen werden wir uns ",
-				"besonders ins Zeug legen, ",
-				"nicht wahr, Kumpel?"
+				"\\c[2]\\n[2]\\c[0]: We're gonna do our best",
+				"tomorrow, aren't we, Kento?"
 			]
 		},
 		{
@@ -381,8 +369,8 @@
 			"original": "Kento: Du sagst es! Die Portionen müssen größer werden.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Du sagst es!\\. Die Portionen ",
-				"müssen größer werden."
+				"\\c[1]\\n[1]\\c[0]: You said it!\\. We have to make",
+				"our portions bigger."
 			]
 		},
 		{
@@ -391,7 +379,7 @@
 			"original": "Soko: ... so erbärmlich...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...\\. so erbärmlich..."
+				"\\c[13]\\n[3]\\c[0]: Absolutely reprehensible..."
 			]
 		},
 		{
@@ -3333,9 +3321,9 @@
 			"original": "Soko: Die Leute sollen wissen, dass wir uns so verhalten haben, wie es Soldaten des Briganten-Orden tun sollten!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Let the people know that we",
-				"behaved properly as soldiers of",
-				"the Brigantine Order do!"
+				"\\c[13]\\n[3]\\c[0]: Let the people know that we held",
+				"our honor high as soldiers of the",
+				"Brigantine Order do!"
 			]
 		},
 		{
@@ -3394,8 +3382,8 @@
 			"original": "Cibon: Tolle Wahl hast du da getroffen, Kumpel...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Isn't that just a great choice",
-				"you made there... *sigh*"
+				"\\c[2]\\n[2]\\c[0]: Well isn't that just a great",
+				"choice you made there..."
 			]
 		},
 		{
@@ -4257,8 +4245,8 @@
 			"original": "Mann an der Theke: Ihr habt für heute genug gegessen. Also steht hier nicht rum!",
 			"lines":
 			[
-				"\\c[10]Mann an der Theke\\c[0]: Ihr habt für heute genug ",
-				"gegessen.\\. Also steht hier nicht rum!"
+				"\\c[10]Man at the Counter\\c[0]: You've eaten enough for today.\\.",
+				"So don't stand around here!"
 			]
 		},
 		{
@@ -4266,8 +4254,8 @@
 			"original": "Frau an der Theke: Tut mir Leid, es gibt keinen Nachschlag mehr.",
 			"lines":
 			[
-				"\\c[10]Frau an der Theke\\c[0]: Tut mir Leid, es gibt keinen ",
-				"Nachschlag mehr."
+				"\\c[10]Woman at the Counter\\c[0]: I'm sorry, there aren't any",
+				"second servings."
 			]
 		},
 		{
@@ -4275,9 +4263,9 @@
 			"original": "Frau an der Theke: Hier ist kein Durchgang für euch! Treibt es nicht zu weit, oder wir rufen die Wächter!",
 			"lines":
 			[
-				"\\c[10]Frau an der Theke\\c[0]: Hier ist kein Durchgang für ",
-				"euch!\\. Treibt es nicht zu weit, oder wir rufen die ",
-				"Wächter!"
+				"\\c[10]Woman at the Counter\\c[0]: No prisoners are allowed",
+				"through here!\\. Don't go any further or we'll",
+				"call the guards!"
 			]
 		},
 		{
@@ -4285,9 +4273,9 @@
 			"original": "Frau an der Theke: Hier ist kein Durchgang für euch! Treibt es nicht zu weit, oder wir rufen die Wächter!",
 			"lines":
 			[
-				"\\c[10]Mann an der Theke\\c[0]: Hier ist kein Durchgang für ",
-				"euch!\\. Treibt es nicht zu weit, oder wir rufen die ",
-				"Wächter!"
+				"\\c[10]Man at the Counter\\c[0]: No prisoners are allowed",
+				"through here!\\. Don't go any further or we'll",
+				"call the guards!"
 			],
 			"__comment__": "Should be \"Mann an der Theke\"."
 		},
@@ -4813,17 +4801,17 @@
 		{
 			"path": [83,3,106],
 			"original": "Die Schleimi",
-			"patch": "Die Schleimi"
+			"patch": "The Slimealg"
 		},
 		{
 			"path": [83,3,107],
 			"original": "gen",
-			"patch": "gen"
+			"patch": "amation"
 		},
 		{
 			"path": [83,3,111],
 			"original": "Das Rudel",
-			"patch": "Das Rudel"
+			"patch": "The Pack"
 		},
 		{
 			"path": [83,3,112],
@@ -4833,47 +4821,47 @@
 		{
 			"path": [83,3,116],
 			"original": "Die Bärenbrü",
-			"patch": "Die Bärenbrü"
+			"patch": "The Bear Bro"
 		},
 		{
 			"path": [83,3,117],
 			"original": "der",
-			"patch": "der"
+			"patch": "thers"
 		},
 		{
 			"path": [83,3,121],
 			"original": "Die Feyarsch",
-			"patch": "Die Feyarsch"
+			"patch": "The Fejar Sl"
 		},
 		{
 			"path": [83,3,122],
 			"original": "litzer",
-			"patch": "litzer"
+			"patch": "itters"
 		},
 		{
 			"path": [83,3,126],
 			"original": "Der Untertag",
-			"patch": "Der Untertag"
+			"patch": "The Terror f"
 		},
 		{
 			"path": [83,3,127],
 			"original": "e-Schreck",
-			"patch": "e-Schreck"
+			"patch": "rom Below"
 		},
 		{
 			"path": [83,3,131],
 			"original": "Die Schatten",
-			"patch": "Die Schatten"
+			"patch": "The Shadow C"
 		},
 		{
 			"path": [83,3,132],
 			"original": "schleicher",
-			"patch": "schleicher"
+			"patch": "rawlers"
 		},
 		{
 			"path": [83,3,136],
 			"original": "Die Exoten",
-			"patch": "Die Exoten"
+			"patch": "The Exotics"
 		},
 		{
 			"path": [83,3,137],
@@ -4883,47 +4871,47 @@
 		{
 			"path": [83,3,141],
 			"original": "Die Ritter d",
-			"patch": "Die Ritter d"
+			"patch": "The Knights "
 		},
 		{
 			"path": [83,3,142],
 			"original": "er Nacht",
-			"patch": "er Nacht"
+			"patch": "of Night"
 		},
 		{
 			"path": [83,3,146],
 			"original": "Die Rächer d",
-			"patch": "Die Rächer d"
+			"patch": "The Avengers"
 		},
 		{
 			"path": [83,3,147],
 			"original": "er Gerechten",
-			"patch": "er Gerechten"
+			"patch": " of the Just"
 		},
 		{
 			"path": [83,3,151],
 			"original": "Die Zinkar B",
-			"patch": "Die Zinkar B"
+			"patch": "The Zinkar B"
 		},
 		{
 			"path": [83,3,152],
 			"original": "rueder",
-			"patch": "rueder"
+			"patch": "rothers"
 		},
 		{
 			"path": [83,3,156],
 			"original": "Die Pauamain",
-			"patch": "Die Pauamain"
+			"patch": "The Pauamain"
 		},
 		{
 			"path": [83,3,157],
 			"original": "er Veteranen",
-			"patch": "er Veteranen"
+			"patch": "er Veterans"
 		},
 		{
 			"path": [83,3,161],
 			"original": "Der Chef",
-			"patch": "Der Chef"
+			"patch": "The Boss"
 		},
 		{
 			"path": [83,3,162],

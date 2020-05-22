@@ -7,6 +7,10 @@ To install this patch, follow the instructions [here](GettingStarted.md).
 # Videos
 I have a playlist of update videos in case you want to watch it instead of playing it, [here](https://www.youtube.com/playlist?list=PLT800wgkhxolwCulnS8bWs9LVEPnssTgy). Keep in mind that I'm cutting out regular battles since they're boring to watch.
 
+These are the two trailers for the game:
+- [https://www.youtube.com/watch?v=ZuqRkeXgYHQ](https://www.youtube.com/watch?v=ZuqRkeXgYHQ)
+- [https://www.youtube.com/watch?v=YdjZXLk1sF8](https://www.youtube.com/watch?v=YdjZXLk1sF8)
+
 Here are some references:
 - [TrueMG](https://www.youtube.com/playlist?list=PLEED9E15CB6E0D597) (First Demo, up to the end of the Silvan Forest)
 - [TrueMG](https://www.youtube.com/playlist?list=PLSgi0v-Xd3aGWEzfvjlh2gbqLF_cllSq_) (Second/Final Demo, up to the end of Nomerea)
@@ -46,5 +50,5 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 - The Silvan Forest: 100%
 - The Mysterious Fortress: 100%
 - Gencorin Pt II: 100%
-- The Helnovien Prison: 60%
-- The Helnovien Mine: 95%
+- The Helnovien Prison: 65%
+- The Helnovien Mine: 98%
