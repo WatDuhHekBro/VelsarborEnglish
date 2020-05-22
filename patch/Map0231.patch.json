@@ -2805,8 +2805,8 @@
 			"original": "Cibon: Was für nen Dialekt. Woher der Typ wohl kommt?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Was für nen Dialekt.\\. Woher ",
-				"der Typ wohl kommt?"
+				"\\c[2]\\n[2]\\c[0]: What an accent.\\. Where's this",
+				"guy from?"
 			]
 		},
 		{
@@ -3618,7 +3618,7 @@
 			"lines":
 			[
 				"\\c[10]Guard\\c[0]: So you want to fight",
-				"\"\\n[24]\\n[25]\"?",
+				"\"\\n[24]\\n[25]\"?\\.",
 				"Then get yourselves ready."
 			]
 		},
