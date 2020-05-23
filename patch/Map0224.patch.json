@@ -99,7 +99,7 @@
 			"original": "Wächter: Zur Kantine geht den Flur vom Erdgeschoss des Zellengebäudes ganz durch und dann nach rechts.",
 			"lines":
 			[
-				"\\c[10]Guard\\c[0]: To get to the canteen, go through this",
+				"\\c[10]Guard\\c[0]: To get to the cafe, go through this",
 				"corridor past all the cells while staying on",
 				"the ground floor, then turn right."
 			]

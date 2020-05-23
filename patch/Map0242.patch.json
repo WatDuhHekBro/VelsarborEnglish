@@ -370,8 +370,8 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: What's wrong?\\. You seem less",
-				"excited than you were in the past",
-				"few days."
+				"enthusiastic than you were in the",
+				"past few days."
 			]
 		},
 		{
@@ -898,7 +898,7 @@
 			"original": "Cibon: Dann mal wieder auf zur Kantine!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Then let's go to the canteen!"
+				"\\c[2]\\n[2]\\c[0]: Then let's go to the cafe!"
 			]
 		},
 		{
@@ -914,7 +914,7 @@
 			"original": "Kento: Öffnet die Pforten der Kantine, wir kommen!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Open the gates to the canteen,",
+				"\\c[1]\\n[1]\\c[0]: Open the gates to the cafe,",
 				"here we come!"
 			]
 		},

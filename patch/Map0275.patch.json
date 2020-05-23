@@ -546,9 +546,10 @@
 			"original": "Felcis: Dieser Stein enthält besondere Signum-Kräfte. Keine Kräfte, mit denen die etwas anzufangen wüssten...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: This stone contains special",
-				"Signum powers.\\. Powers they wouldn't",
-				"even begin to know what to do with..."
+				"\\c[5]\\n[5]\\c[0]: This void stone contains",
+				"special Signum powers.\\. Powers",
+				"they wouldn't even begin to",
+				"know what to do with..."
 			]
 		},
 		{

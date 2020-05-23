@@ -119,24 +119,6 @@ Announcer: Das war leider nichts! Die Verräter wurden geschlagen! Ja, so etwas 
 -= 231 =-
 ...
 
-Cibon: Ich fass es nicht! Wie hast du bitte so eine Portion zusammen bekommen, ohne richtig Erz zu schürfen?
-Felcis: Och na ja. Ich hab etwas Erzträger gespielt.
-Felcis: Da ich eh hauptsächlich mit Leuten geredet habe, hab ich ihnen angeboten, das Erz für sie zur Sammelstelle zu bringen.
-Felcis: Für nur 10% Abzug, der an mich ging, mussten die Leute das Erz nicht selber schleppen.
-Felcis: Da sind schon erstaunlich viele darauf eingegangen. Vor allem diese Pauamainer-Kollegen, für die Erzhacken ja der Lebenssinn ist.
-Kento: Nicht schlecht.
-Cibon: Pah! So etwas nennt man Schnorren!
-Felcis: Aber zu etwas anderem. Ich bräuchte gleich mal eure Hilfe, wenn möglich.
-Kento: Worum geht es?
-Felcis: Für unseren "Plan" benötigen wir noch einen weiteren Gegenstand.
-Felcis: Ich hatte diesen Gegenstand noch bei mir, die Wachen hatten ihn glücklicherweise nicht entdeckt.
-Felcis: Nur musste ich mein Glück durch ein dummes Ungeschick verderben. Ich habe das Ding verloren.
-Cibon: Trottel.
-Felcis: Jetzt befindet sich dieser Gegenstand im Besitz von einem Gefangenen, der nicht bereit ist, ihn mir zurück zu geben...
-Cibon: Och, hast du nicht freundlich genug gefragt?
-Felcis: Ich hätte so freundlich fragen können, wie ich wollte, der Typ hat einfach etwas gegen mich oder eher gegen meine Herkunft.
-Soko: Wie bitte?
-Felcis: Wir sollten den Typen einfach mal nach dem Essen gemeinsam einen Besuch abstatten. Vielleicht erreichen wir so etwas mehr.
 Felcis: Okay, bis wir den Kram aus der Mine haben, wird es wahrscheinlich noch etwas dauern.
 Felcis: Na gut, das mit dem Sprengen war heute wohl nichts, aber morgen ist auch noch ein Arbeitstag.
 Felcis: Mittlerweile können wir ja versuchen, diesem Robin unser schönes Steinchen abzuknüpfen...
@@ -305,66 +287,7 @@ Felcis: In Ordnung, lasst euch aber nicht zuviel Zeit.
 -= 275 =-
 Prisoner: Wir starren hier gerade mit höchstem Interesse jene Wand an, die du gerade zu verdecken vermagst. Verschwinde.
 
-Felcis: Hallo ihr, ich bin noch mal da wegen des Steinchens...
-Prisoner: Ich hab dir doch bereits gesagt, dass du den nicht wieder bekommen wirst. Blaublütigem Pack wie dir geben wir mit Sicherheit nichts! Du kennst doch unser Motto!
-Felcis: Ja, wir alle kennen es. Wir alle wollen es nicht wieder hö...
-Prisoner: WIR STEHLEN VON DEN REICHEN UND GEBEN ES DEN ARMEN! Wir bringen Gerechtigkeit in diese verdorbene Welt, oh ja!
-Cibon: Was zum Henker?
-Felcis: Ich möchte euch daran erinnern, dass ihr hier in einem Gefängnis seid und herzlich wenig mit diesem Motto anfangen könnt.
-Prisoner: Wieso? Ich sehe hier doch gerade einen wunderbaren Anfang dafür! DU bist Adel, bist reich. WIR dagegen sind arm! Also behalten wir deinen Klunker, so einfach ist das!
-Soko: Ihr seid doch nicht ganz richtig am Kopf? Ihr haltet euren Diebstahl wegen so einer Statusfrage für gerecht? Das ich nicht lache!
-Prisoner: Aber hallo! Eine hübsche Dame haben wir hier. Darf ich mich vorstellen? Robin Llewlynus mein Name.
-Soko: Soko Filaja. Was auch immer. Was ist nun mit diesem Stein?
-Robin: Ich würde ihn euch herzlich gerne schenken, wenn ich nicht wüsste, dass Ihr mit diesem verkorksten Bonzen rumhängt!
-Felcis: Beim farbigen Pfau von Farenia - hier im Gefängnis gibt es keinen Besitz!
-Felcis: Ganz abgesehen davon ist euer Motto sowieso nur eine Farce, damit ihr nicht die Wut der Kleinbevölkerung auf euch lastet.
-Felcis: Denkt nicht, dass ich nicht schon von euch gehört habe. Ihr teilt das Besitztum auf? Mit Sicherheit.
-Felcis: Das erklärt vor allem auch all die Reichtümer, die in eurem Stützpunkt gefunden wurden, als ihr geschnappt wurdet.
-Felcis: Ihr gebt vielleicht eine Münze von der Schatzkiste an die ansässigen Bauern, die müssen ja nicht wissen, was ihr habt.
-Robin: Erzähl du ruhig deine Geschichten!
-Kento: Aber an sich keine schlechte Idee. So kriegt man Unterstützung von den dort ansässigen Leuten, wenn man sie braucht.
-Cibon: Haha, was für Schwächlinge! Wahrscheinlich haben sie die Bauern benutzt, um sich bei ihnen vor den Soldaten zu verstecken.
-Robin: Jetzt kommt nicht auf falsche Gedanken! Wenn ihr wüsstet, welche adeligen Truppen wir schon alle überfallen und ausgeraubt haben! Die hatten alle ihre Eskorte.
-Cibon: Ja ja, man kann ja viel erzählen. Ich wette, selbst wir drei Neuzugänge des Briganten-Orden könnten euch locker wegfegen!
-Cibon: In einem Turnierkampf zum Beispiel.
-Cibon: Ja ja, man kann ja viel erzählen. Ihr könnt es ja nicht mal mit uns drei Neuzugängen des Briganten-Orden aufnehmen!
-Cibon: Ihr erinnert euch noch an den Turnierkampf, oder?
-Robin: Ach ja? Versucht es doch! Ihr könnt ja schauen, wo wir im Turnier stehen, die "Rächer der Gerechten"! Ich wette, ihr werdet nicht einen einzigen von uns Dreien besiegen können!
-Robin: Ach ja? Bildet euch bloß nichts ein, nur weil ihr zuletzt Erfolg hattet! Wir haben uns lediglich zurückgehalten! Euch können wir jederzeit fertig machen, wetten wir?
-Felcis: Mit dem Stein, nehme ich an? Ihr hab ja sonst nicht viel.
-Robin: Wie? Stein? Moment!
-Felcis: Euer Einsatz. Wir wetten um den Stein. Sollten unsere 3 Ex-Soldaten hier gewinnen, kriegen wir ihn, sonst behaltet ihr ihn.
-Robin: Ha! Davon träumt ihr wohl! Auf so etwas lassen wir uns nicht ein.
-Cibon: Wie? Habt ihr etwa auf einmal Angst, dass ihr gegen uns verlieren könntet?
-Robin: Ha... Ha! Das hättet ihr wohl gerne! In Ordnung, auf die Wette gehen wir ein. Unter einer Bedingung!
-Robin: Sollten WIR - wie zu erwarten ist - gewinnen, dann behalten wir den Stein UND eure hübsche Freundin hier, wird uns abends nach der Arbeit "besuchen kommen".
-Soko: W..W..W..W..
-Soko: W..W..W..W..WIE BITTE?!
-Cibon: Ah... Ahahahahahahahahahahah! Seid ihr euch da GANZ sicher?
-Felcis: In Ordnung! Die Wette gilt!
-Soko: W...WAS?!?! Seid ihr noch ganz...
-Kento: Bitte, Soko... halte dich eben etwas zurück...
-Felcis: Damit wäre dann wohl alles geregelt. Wir sehen uns in der Arena!
-Robin: Haha, mit Freude!
-Soko: SAGT MAL, SEID IHR NOCH GANZ DICHT?!?!
-Felcis: Woha! Was für ein Temperament, unheimlich!
-Soko: Du hast auch allen Grund, dich zu fürchten.
-Felcis: Beruhig dich, Soko, beruhig dich! Es wird schon alles gut gehen! Vertrau mir...
-Soko: Wie soll hier bitte alles gut gehen? Was passiert, wenn wir verlieren?!
-Cibon: Komm Soko, gegen die werden wir nicht verlieren! Dafür wirst du ja wohl schon selber sorgen...
-Felcis: Tut mir Leid, aber ich habe in dieser Wette die einzige Möglichkeit gesehen, diesen Stein wieder zu bekommen...
-Felcis: Wer weiß, ob wir sie nochmal soweit bekommen hätten, wenn wir wegen dir abgelehnt hätten...
-Kento: G... Genau...  Außerdem... selbst wenn wir verlieren sollten, ist alles was die bekommen werden, eine große Menge an... Schmerzen...
-Cibon: Du sagst es, Kumpel!
-Soko: Wie? Ah...
-Soko: Entschuldigung Kento, aber ich konnte das gerade nicht zurückhalten...
-Soko: Na gut. Wir werden einfach nicht verlieren. Alles wird gut...
-Kento: Übrigens, Felcis, was für ein Stein ist das überhaupt?
-Felcis: Dieser Stein enthält besondere Signum-Kräfte. Keine Kräfte, mit denen die etwas anzufangen wüssten...
-Felcis: Aber für uns ist dieser Stein absolut notwendig. Ohne diesen werden wir die Barriere nicht brechen können.
-Felcis: Sagt aber bitte bloß niemanden etwas davon. Das Ding soll nichts weiter als ein schön funkelnder Stein bleiben.
-Cibon: Gebongt! Dann sollten wir zusehen, dass wir diese Eumel im Turnier zur Schnecke machen!
-Soko: Ja und wehe wenn nicht! Ich hoffe du erinnerst dich, mit wem du deine Zelle teilst, Felcis!
+...
 
 Robin: Wir sehen uns dann im Turnier, haha!
 

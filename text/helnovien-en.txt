@@ -121,56 +121,38 @@ Announcer: Unfortunately that was nothing! The traitors were beaten! Yes, we lik
 -= 231 =-
 ...
 
-Cibon: I can't believe it! How'd you get such a big portion without actually mining ore?
-Felcis: Oh, well... I became an ore carrier.
-Felcis: Since I was mainly talking to people anyway, I offered to take their ore to the railways for them.
-Felcis: For just 10% deduction that went to me, people didn't have to drag the ore themselves.
-Felcis: A surprising amount of them already accepted this deal. And above all, these Pauamainers were the most eager to accept, since ore mining is the meaning of life for them.
-Kento: Not bad.
-Cibon: Pah! Now that's what I call scavenging!
-Felcis: But onto another topic. I need your help as soon as possible if you're willing to help out.
-Kento: What's it about?
-Felcis: For our "plan", we need another item.
-Felcis: I still had this item with me, and fortunately, the guards didn't spot it.
-Felcis: But I just had to ruin my luck with silly clumsiness. I lost it.
-Cibon: Idiot.
-Felcis: Now this item is in the hands of a prisoner who's unwilling to give it back to me...
-Cibon: Oh, you didn't ask kindly enough?
-Felcis: I could've asked as kindly as I wanted, but the guy just has something against me or probably more about my background.
-Soko: Excuse me?
-Felcis: We should just pay the guys a visit after dinner. Maybe we can do something then.
----
-Felcis: Okay, it'll probably be a while before we get the stuff out of the mine.
-Felcis: Well, the blasting was probably nothing today, but tomorrow is still a working day.
-Felcis: In the meantime we can try to take our beautiful stone off this Robin ...
----
+--- no powder, no dynamite
+Felcis: Okay, it'll probably be a while before we get that stuff out of the mine.
+--- no powder, dynamite
+Felcis: Well, the detonation was probably not for today anyway, but there's still tomorrow.
+--- no powder, robin alive
+Felcis: In the meantime, we can try to get our beautiful stone back from Robin...
+--- powder, robin alive
 Felcis: Well, now that we have our powder, all we need is the stone.
-Felcis: Our proletariat-protecting Grünhut is still watching over this at the moment. Time to free him of this burden.
-Cibon: As soon as possible! I'm looking forward to it.
-Soko: We mustn't take this fight carelessly, understand?
-Kento: Yes, we should spare the Robin this extra pain.
-Soko: Him - and you too.
----
-Cibon: Right. I can well imagine how the guy interprets our hesitation ...
-Kento: Well, if he underestimates us, that can only be an advantage.
-Cibon: Our team name is Repsbrot troop. We are underestimated either way.
-Soko: Good bread takes time to rise properly. Robin should be able to imagine that.
-Felcis: You called yourself a Repsbrot troop? A truly delicious choice of names.
-Cibon: Stop that!
-Kento: Yes, as long as the stone is with Robin, anything can happen to it ...
-Kento: What if he lost it, someone stole it, or the guards discovered it?
-Felcis: I think this Robin knows how to protect his treasures. He has experience with it ...
-Felcis: It looks like we have everything together. That means we can get started as soon as you are ready.
-Felcis: We don't have to do it today, but we shouldn't wait too long either.
-Felcis: As of today, I'll hang out here in the canteen every evening. Let me know when you're ready.
-Kento: One more question, Felcis. We are now able to break the barrier, but what about the rest?
-Kento: Just because the barrier is broken does not mean that we can walk out comfortably.
-Felcis: You are absolutely right. However, I already have a plan for how to distract the guards.
-Felcis: I'll tell you when we start the operation.
-Felcis: Talk to me in the canteen when you're ready.
-Kento: This Felcis really has its way of enlightening us at the last possible moment ...
-Felcis: Well, we have everything together. Let me know when you're ready, I'm still waiting up here in the canteen.
-Felcis: Don't take too much time.
+--- robin alive
+Felcis: We still have to attend to our proletariat-defending green hat at the moment. Time to free him of this waiting.
+--- robin alive comment x1
+Cibon: As soon as we can! I'm looking forward to it.
+Soko: We can't be so careless about this fight, understand?
+Kento: Yeah, and we should spare Robin of any unnecessary pain.
+Soko: Him, but especially you.
+--- robin alive comment > x1
+Cibon: Right. I can clearly imagine how this guy might see us as hesitating...
+Kento: Well, if he underestimates us, that can only lead to an advantage.
+--- robin alive comment > x1 (sunbread squad)
+Cibon: Our team name is the Sunbread Squad. We're gonna be underestimated either way.
+Soko: Good bread takes time to rise properly. Robin should be able to see that.
+Felcis: You called yourselves the Sunbread Squad? A truly delicious choice of names.
+Cibon: Cut it out already!
+--- robin alive comment > x1 (everything else)
+Kento: But yeah, as long as the stone is with Robin, anything could happen to it...
+Kento: What if he ended up losing it, getting it stolen by someone else, or having it be discovered by the guards?
+Felcis: I think Robin knows how to guard his treasures. He's experienced with it after all...
+--- felcis ready x1
+... (repeat of 230)
+--- felcis ready > x1
+Felcis: Well, we have everything together. Let me know when you're ready, I'll still be waiting here in the cafe.
+Felcis: Don't take too long.
 
 ...
 
@@ -212,30 +194,30 @@ Pauamainer Member: Have a look at our base if you already belong to the Pauamain
 
 ...
 
-Kento: That ... was clever.
-Felcis: With the other sack we repeat the game to complete the trail to the cell.
-Felcis: Tonight we're going to trigger the effect and break the barrier. Then the escape starts!
-Kento: Okay ... and then what do we do? Just because the barrier is gone, we can't just walk out!
-Felcis: We won't either. At least not alone. We'll all walk out there together.
-Soko: How, together? Do you mean ... the other prisoners?
-Felcis: Exactly. Once the barrier is gone, we can easily break the cells. If we run away in masses, the guards are overwhelmed.
+Kento: That... was clever.
+Felcis: With the other sack, we repeat the same thing and complete the fuse all the way to our cells.
+Felcis: Tonight, we're going to trigger the effect and break the barrier. Then the escape starts!
+Kento: Okay... and then what do we do? Just because the barrier is gone, doesn't mean we can just carelessly walk outside!
+Felcis: We won't. At least, not alone. We'll all walk out there together.
+Soko: How, together? Do you mean... with the other prisoners?
+Felcis: Exactly. Once the barrier is gone, we can easily break everyone out of their cells. If we all run away at the same time, the guards will be overwhelmed.
 Felcis: This is the only way we can escape.
-Soko: But ... we can't just release all the prisoners!
-Felcis: I knew it was going to be complicated ... Look, Soko, there are times like this when you have to give your code of honor a vacation.
-Felcis: We were illegally locked up here, we will only get out illegally.
-Soko: You say that so nicely! We don't have the right to decide on something like that! Prisoners are prisoners!
-Felcis: If so, why did you agree to the escape plan in the first place? We are prisoners too, forget?
-Felcis: Anyway. There is no way back. We're escaping tonight. Until then, you should rest and prepare yourself internally.
-Felcis: I hope I can count on your support ...
-Kento: Wait! Is that really all? Do you think that's enough to get past the guards? I hope you are not serious!
-Felcis: There's more to come. Let yourself be surprised.
-Cibon: The guy really gets on my nerves! What is so difficult about speaking plain text ?!
-Kento: I can understand that he wanted to hide this one detail ...
+Soko: But... We can't just release all the prisoners!
+Felcis: I knew it was going to be complicated... Look Soko, there are times like this when you just have to give your code of honor a vacation.
+Felcis: We were illegally locked up here, and the only way we're getting out is illegally.
+Soko: You make that sound better than it is! We don't have the right to decide something like that! Prisoners are prisoners!
+Felcis: If so, why did you agree to the escape plan in the first place? We ARE prisoners too, did you forget that?
+Felcis: Anyways. There's no turning back now. We're escaping tonight. Until then, you should rest and prepare yourself mentally.
+Felcis: I hope I can count on you when the time comes...
+Kento: Wait! Is that really all? Do you think that that's all we need to get past the guards? I hope you aren't serious!
+Felcis: There's more to come. Let yourself enjoy the ride.
+Cibon: This guy really gets on my nerves! What's so difficult about speaking plain text?!
+Kento: I can understand that he wanted to hide this one detail...
 Soko: I knew something like this was coming.
-Kento: He's right ... Without the turmoil, it will be much harder to get out of here.
-Soko: I know ... But do we really have to go that far? How low do we want to sink?
-Cibon: Soko please, let's not drop at the last moment!
-Soko: Alright ... let's just get out of here ...
+Kento: He's right... Without a large-scale rebellion, it'll be much harder to get out of here.
+Soko: I know... But do we really have to go that far? How low do we want to sink?
+Cibon: Soko, please, let's not back out at the last moment!
+Soko: Alright... Let's just get out of here...
 
 <# ARE YOU OUT OF YOUR MIND?!
 Insane Girl: Ah! There you are again! What was going on?
@@ -274,38 +256,38 @@ Cibon: ... I want to have missed that ...
 ...
 
 Felcis: Well? Are you ready?
-Kento: Now we have your stone and the greyhound powder ... and still have no idea what your plan looks like. It's time for you to educate us.
-Felcis: Well ... As I said before, I have to break the magic barrier - and this is possible with this stone and the gray-powdered powder.
-Felcis: This protective barrier is maintained with a machine. It is near here, on the 1st floor of this building.
-Felcis: All we have to do is bring this stone close to the machine to trigger its effect.
-Soko: How do you trigger the effect? Through Signum?
-Felcis: Exactly. The right spell and the bomb detonates.
-Soko: But don't you have to be right next to the stone? How are we supposed to get so close to the machine with the stone?
-Felcis: Well, that's where the greyhawk powder comes in!
-Felcis: Greyhound powder enhances the effect of Signum sayings, but can also be used to extend the area of effect.
-Felcis: And we do exactly that. With the help of the gray-sparkling powder we make a fuse from our cell to the stone at the machine.
-Cibon: So so. Then how do you want to get the stone to the machine? Or pull the fuse? Really a great plan.
-Felcis: So, well! Don't doubt here!
-Felcis: In such situations, we at the nobility alliance always know how to help ourselves with the right trick!
-Felcis: Ladies and gentlemen, two bags! Both full of sparkling dust, but only one with a magical stone.
-Felcis: Dear lady, please hold this for a moment.
-Soko: Um ... okay?
-Felcis: We now provide the other sack, the one with the pebble inside, with a mystical aura ....
-Felcis: And now the grand finale! See and be amazed!
-Kento: Um ... Felcis? Where are you going?
-Guard: So ... what kind of rubbish is that? A sack ... full of powder? Whatever it is, it no longer belongs to you!
-Guard: Stop here, I'll just take it away.
-Cibon: What the hell was that. Did you just have this one sack ... all our hope ...
-Cibon: LOST TO THE GUARDIANS ?!
-Cibon: It looks like this. What a pitty.
-Cibon: Listen! You can not be serious?!
-Felcis: Calm down, calm down, Cibon! Everything is going according to plan. What do you think where this bag is going now?
-Soko: Probably in a camp ...
-Felcis: Exactly! Now I know from a reliable source where exactly this camp is and now guess what is directly below it?
-Cibon: ... The ... machine?
+Kento: So now we have your stone and the static powder... but we still have no idea what your plan looks like. It's time for you to spill the beans.
+Felcis: Well alright... As I've said before, I have to break the magic barrier. And now that's possible with this stone and the static powder.
+Felcis: This protective barrier is sustained using a power generation machine. It can be found around here, on the 1st floor of this complex.
+Felcis: All we have to do is bring this stone somewhere near the machine to trigger the effect we need.
+Soko: How do you trigger the effect? Through Signum magic?
+Felcis: Exactly. Use the right spell and the bomb detonates.
+Soko: But don't you have to be right next to the stone? How are we all supposed to get so close to the machine?
+Felcis: Well, that's where the static powder comes in!
+Felcis: Static powder enhances the potency of Signum magic, but it can also be used to extend the area of effect.
+Felcis: And that's exactly what we're going to do. With the help of this static powder, we'll make a fuse going from our cell to the stone at the machine.
+Cibon: Really? Then how do you plan on getting the stone to the machine? Or laying out the fuse? Great plan we've got.
+Felcis: Hey, hey! Don't be so skeptical yet!
+Felcis: In these types of situations, us aristocrats always know how to help ourselves with the right trick!
+Felcis: Ladies and gentlemen, two bags! Both full of glimmering powder, but only one with a magic stone.
+Felcis: Soko, please hold this one for a moment.
+Soko: Um... Okay?
+Felcis: We'll be using the other bag, the one with the stone hidden inside, having a mystical aura...
+Felcis: And now for the grand finale! Behold!
+Kento: Um... Felcis? Where are you going?
+Guard: Hey... What kind of garbage is that? A bag... full of powder? Whatever it is, it no longer belongs to you!
+Guard: Stay here, I'll be back in a bit.
+Cibon: What the hell just happened. Did you just take that one bag... our one chance of getting out of here...
+Cibon: AND THROW IT AWAY TO THE GUARDS?!
+Felcis: Looks like that's the case. Oops. <# character error <# Also, Felcis is being sarcastic here, which ends up provoking Cibon even more.
+Cibon: How dare you! Are you completely insane?!
+Felcis: Calm down, calm down, Cibon! Everything's going according to plan. Where do you think this bag is being taken to?
+Soko: Probably to some storeroom...
+Felcis: Exactly! And I know where exactly this storeroom is from a reliable source, so can you guess what's right below it?
+Cibon: The... machine?
 Felcis: Bingo!
 Kento: And what about the fuse to the stone?
-Felcis: Well, it's being laid right now.
+Felcis: Well, it's being laid out right now.
 Felcis: Alright, but don't take too much time.
 
 
@@ -313,65 +295,7 @@ Felcis: Alright, but don't take too much time.
 -= 275 =-
 Prisoner: We are staring with particular interest at the wall that you are currently able to cover. Get out of here.
 
-Felcis: Hello again, I'm back for the stone...
-Prisoner: I already told you that you won't get it back. We're definitely not handing anything back on a silver platter to someone who reeks of nobility like you! You know our motto!
-Felcis: Yes, yes, we all know about it. And we all don't want to hear it yet again...
-Prisoner: WE STEAL FROM THE RICH AND GIVE IT TO THE POOR! We bring justice to this corrupt world, oh yes we do!
-Cibon: What the hell?
-Felcis: I'd like to remind you that you're in a prison here where there's hardly anything you can do with this motto.
-Prisoner: Why? I see a wonderful start to something greater! YOU are from the nobility, you are rich. WE are poor! So we're keeping your stone, it's that simple!
-Soko: Are you even hearing yourself? You think that theft is fair as long as it's based on status? Don't make me laugh!
-Prisoner: Oh hello! We have quite the pretty lady here. May I introduce myself? Robin Llewlynus is the name.
-Soko: Soko Filaja. Whatever. Now how about the stone?
-Robin: I would've loved to give it to you if I didn't know you were hanging out with this pompous robber baron!
-Felcis: Oh for the last time already, there's no property here in prison!
-Felcis: And in any case, your motto is just a charade anyway, so free yourself from bearing the anger of the small population here.
-Felcis: Don't think I haven't already heard what you said. What property are you redistributing? Of course.
-Felcis: Above all else, that'd explain what's with all those riches that were discovered in your cell when you were caught.
-Felcis: You might give a coin or two from your treasure chest to the local farmers, but they have no idea what you have.
-Robin: Keep telling your made-up stories!
-Kento: But it's not a bad idea by itself. You get support from the people when you need it.
-Cibon: Haha, weaklings! You probably used those same peasants to hide from the soldiers.
-Robin: Now don't get any wrong ideas! If only you knew the kind of aristocrats we all attacked and robbed! They all even had their soldiers protecting them.
-Cibon: Yeah yeah, you're all talk. I bet even us three new soldiers of the Brigantine Order could easily knock you out!
-Cibon: In the tournament, for example.
-Cibon: Yeah yeah, you're all talk. You couldn't even take on three new soldiers of the Brigantine Order!
-Cibon: You do remember what happened after all, don't you?
-Robin: Oh yeah? Try us! You can see where we are in the tournament, the "Avengers of the Just"! I bet you won't be able to take down any of us at all!
-Robin: Oh yeah? Don't get cocky just because you won last time! We were holding back! We can obviously defeat you anytime we want!
-Felcis: So how about the stone? There isn't much else to talk about.
-Robin: What? Stone? Wait a minute!
-Felcis: The deal. We bet on the stone. If our three ex-soldiers here win, we'll get it back, otherwise, you can keep it.
-Robin: Ha! Keep dreaming! We're not going to play around with an idea like that.
-Cibon: Why? Too afraid all of a sudden to lose to us?
-Robin: Ha... Ha! You wish! Alright, we'll go over the deal. Under one condition!
-Robin: If WE win, as we expect to happen, we'll keep the stone AND your pretty friend here will "come and visit" us in the evening after work.
-Soko: W-W-W-W-WHAT DID YOU SAY?! <# pseudo-scrolling
-Cibon: Ah... Ahahahahahahahahahahah! Are you SURE about that?
-Felcis: Deal! It's on!
-Soko: W... WHAT?!?! Are you completely out of your...
-Kento: Please, Soko... just for this one time...
-Felcis: It's settled then. See you in the arena!
-Robin: Haha, with pleasure!
-Soko: ARE YOU COMPLETELY OUT OF YOUR MIND?!?!
-Felcis: Woah! What a temper, scary!
-Soko: YOU also have every reason to be terrified.
-Felcis: Calm down, Soko, calm down! Everything will be just fine! Trust me...
-Soko: How can we be so sure? What about if we lose?!
-Cibon: Come on Soko, we're not gonna lose against them! You'll probably take care of that yourself anyways...
-Felcis: I really am sorry, but this is the only opportunity we have to get that stone back and get ourselves out of here...
-Felcis: Who knows what would've happened if we refused this deal... how long we would've been stuck here...
-Kento: E... Exactly... Besides... even if we lose, all they're going to get from us is a lot of... pain...
-Cibon: You said it, Kento!
-Soko: How? Oh...
-Soko: Sorry Kento, I just couldn't hold back...
-Soko: Okay. We just won't lose then. Everything will be just fine...
-Kento: By the way Felcis, what kind of stone is that anyway?
-Felcis: This stone contains special Signum powers. Powers they wouldn't even begin to know what to do with...
-Felcis: But for us, this stone is absolutely critical. Without this, we won't be able to break the barrier.
-Felcis: But please don't tell anyone about it. To everyone else, it should remain nothing more than a beautiful sparkling stone.
-Cibon: Alrighty then! Then we should see to it that we turn those nitwits into mush in the tournament!
-Soko: Yes, and you don't want to know what's happening if you don't! I hope you remember who you're sharing your cell with, Felcis!
+...
 
 Robin: We'll see you in the tournament then, haha!
 
