@@ -76,7 +76,7 @@
 			"lines":
 			[
 				"\\c[10]Radio\\c[0]:\\s[2] VEL03!!\\. WHAT'S WRONG?!\\.",
-				"What is your status?!"
+				"What's your status?!"
 			]
 		},
 		{
@@ -92,7 +92,7 @@
 			"original": "Seldan: Statusbericht: Keine körperlichen Verletzungen, keine Beschädigung des Vel-Systems.",
 			"lines":
 			[
-				"\\c[1]Seldan\\c[0]:\\s[4] Status report:\\.",
+				"\\c[1]Seldan\\c[0]:\\s[4] Status report...\\.",
 				"No physical injuries,\\.",
 				"no damage to the Vel-System."
 			]
@@ -160,8 +160,8 @@
 			"original": "Seldan: ...Ich werde tiefer in die Basis eindringen.",
 			"lines":
 			[
-				"\\c[1]Seldan\\c[0]:\\s[2] \\.I'm going to move deeper",
-				"into the enemy base."
+				"\\c[1]Seldan\\c[0]:\\s[2] I'm going to move further into",
+				"the enemy base."
 			]
 		},
 		{

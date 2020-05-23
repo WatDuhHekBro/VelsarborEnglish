@@ -16,8 +16,8 @@
 			"original": "Felcis: Hallo ihr, ich bin noch mal da wegen des Steinchens...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Hallo ihr, ich bin noch mal ",
-				"da wegen des Steinchens..."
+				"\\c[5]\\n[5]\\c[0]: Hello again, I'm back for the",
+				"stone..."
 			]
 		},
 		{
@@ -25,10 +25,10 @@
 			"original": "Gefangener: Ich hab dir doch bereits gesagt, dass du den nicht wieder bekommen wirst. Blaublütigem Pack wie dir geben wir mit Sicherheit nichts! Du kennst doch unser Motto!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Ich hab dir doch bereits gesagt, ",
-				"dass du den nicht wieder bekommen wirst.\\.",
-				"Blaublütigem Pack wie dir geben wir mit Sicherheit ",
-				"nichts!\\. Du kennst doch unser Motto!"
+				"\\c[10]Prisoner\\c[0]: I already told you that you won't get it",
+				"back.\\. We're definitely not handing anything back",
+				"on a silver platter to someone who reeks of",
+				"nobility like you!\\. You know our motto!"
 			]
 		},
 		{
@@ -36,8 +36,9 @@
 			"original": "Felcis: Ja, wir alle kennen es. Wir alle wollen es nicht wieder hö...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ja, wir alle kennen es.\\. Wir ",
-				"alle wollen es nicht wieder hö...\\.\\.\\^"
+				"\\c[5]\\n[5]\\c[0]: Yes, yes, we all know about",
+				"it.\\. And we all don't want to hear",
+				"it yet again...\\.\\.\\^"
 			]
 		},
 		{
@@ -45,9 +46,9 @@
 			"original": "Gefangener: WIR STEHLEN VON DEN REICHEN UND GEBEN ES DEN ARMEN! Wir bringen Gerechtigkeit in diese verdorbene Welt, oh ja!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]:\\s[2] WIR STEHLEN VON DEN REICHEN UND ",
-				"GEBEN ES DEN ARMEN!\\. \\s[0]Wir bringen Gerechtigkeit in ",
-				"diese verdorbene Welt, oh ja!"
+				"\\c[10]Prisoner\\c[0]:\\s[2] WE STEAL FROM THE RICH AND GIVE IT TO",
+				"THE POOR!\\. \\s[0]We bring justice to this corrupt world,",
+				"oh yes we do!"
 			]
 		},
 		{
@@ -55,7 +56,7 @@
 			"original": "Cibon: Was zum Henker?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Was zum Henker?"
+				"\\c[2]\\n[2]\\c[0]: What the hell?"
 			]
 		},
 		{
@@ -63,10 +64,10 @@
 			"original": "Felcis: Ich möchte euch daran erinnern, dass ihr hier in einem Gefängnis seid und herzlich wenig mit diesem Motto anfangen könnt.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich möchte euch daran ",
-				"erinnern, dass ihr hier in einem ",
-				"Gefängnis seid und herzlich wenig ",
-				"mit diesem Motto anfangen könnt."
+				"\\c[5]\\n[5]\\c[0]: I'd like to remind you that",
+				"you're in a prison here where there's",
+				"hardly anything you can do with this",
+				"motto."
 			]
 		},
 		{
@@ -74,10 +75,10 @@
 			"original": "Gefangener: Wieso? Ich sehe hier doch gerade einen wunderbaren Anfang dafür! DU bist Adel, bist reich. WIR dagegen sind arm! Also behalten wir deinen Klunker, so einfach ist das!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Wieso?\\. Ich sehe hier doch gerade einen ",
-				"wunderbaren Anfang dafür!\\. DU bist Adel, bist ",
-				"reich.\\. WIR dagegen sind arm!\\. Also behalten wir ",
-				"deinen Klunker, so einfach ist das!"
+				"\\c[10]Prisoner\\c[0]: Why?\\. I see a wonderful start to",
+				"something greater!\\. YOU are from the nobility,",
+				"you are rich.\\. WE are poor!\\. So we're keeping",
+				"your stone, it's that simple!"
 			]
 		},
 		{
@@ -85,10 +86,10 @@
 			"original": "Soko: Ihr seid doch nicht ganz richtig am Kopf? Ihr haltet euren Diebstahl wegen so einer Statusfrage für gerecht? Das ich nicht lache!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ihr seid doch nicht ganz ",
-				"richtig am Kopf?\\. Ihr haltet euren ",
-				"Diebstahl wegen so einer Statusfrage ",
-				"für gerecht?\\. Das ich nicht lache! "
+				"\\c[13]\\n[3]\\c[0]: Are you even hearing yourself?\\.",
+				"You think that theft is fair as long",
+				"as it's based on status?\\. Don't make",
+				"me laugh!"
 			]
 		},
 		{
@@ -96,9 +97,9 @@
 			"original": "Gefangener: Aber hallo! Eine hübsche Dame haben wir hier. Darf ich mich vorstellen? Robin Llewlynus mein Name.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Aber hallo!\\. Eine hübsche Dame haben ",
-				"wir hier.\\. Darf ich mich vorstellen?\\. Robin ",
-				"Llewlynus mein Name."
+				"\\c[10]Prisoner\\c[0]: Oh hello!\\. We have quite the pretty lady",
+				"here.\\. May I introduce myself?\\. Robin Llewlynus is",
+				"the name."
 			]
 		},
 		{
@@ -106,8 +107,8 @@
 			"original": "Soko: Soko Filaja. Was auch immer. Was ist nun mit diesem Stein?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Soko Filaja.\\. Was auch immer.\\. ",
-				"Was ist nun mit diesem Stein?"
+				"\\c[13]\\n[3]\\c[0]: Soko Filaja.\\. Whatever.\\. Now how",
+				"about the stone?"
 			]
 		},
 		{
@@ -115,9 +116,9 @@
 			"original": "Robin: Ich würde ihn euch herzlich gerne schenken, wenn ich nicht wüsste, dass Ihr mit diesem verkorksten Bonzen rumhängt!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Ich würde ihn euch herzlich gerne schenken,",
-				"wenn ich nicht wüsste, dass Ihr mit diesem ",
-				"verkorksten Bonzen rumhängt!"
+				"\\c[10]Robin\\c[0]: I would've loved to give it to you if",
+				"I didn't know you were hanging out with this",
+				"pompous robber baron!"
 			]
 		},
 		{
@@ -125,9 +126,8 @@
 			"original": "Felcis: Beim farbigen Pfau von Farenia - hier im Gefängnis gibt es keinen Besitz!",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Beim farbigen Pfau von ",
-				"Farenia \\.- hier im Gefängnis gibt es ",
-				"keinen Besitz!"
+				"\\c[5]\\n[5]\\c[0]: Oh for the last time already,\\.",
+				"there's no property here in prison!"
 			]
 		},
 		{
@@ -135,10 +135,10 @@
 			"original": "Felcis: Ganz abgesehen davon ist euer Motto sowieso nur eine Farce, damit ihr nicht die Wut der Kleinbevölkerung auf euch lastet.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ganz abgesehen davon ist ",
-				"euer Motto sowieso nur eine Farce, ",
-				"damit ihr nicht die Wut der ",
-				"Kleinbevölkerung auf euch lastet."
+				"\\c[5]\\n[5]\\c[0]: And in any case, your motto",
+				"is just a charade anyway, so free",
+				"yourself from bearing the anger",
+				"of the small population here."
 			]
 		},
 		{
@@ -146,10 +146,9 @@
 			"original": "Felcis: Denkt nicht, dass ich nicht schon von euch gehört habe. Ihr teilt das Besitztum auf? Mit Sicherheit.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Denkt nicht, dass ich nicht ",
-				"schon von euch gehört habe.\\. Ihr ",
-				"teilt das Besitztum auf?\\. Mit ",
-				"Sicherheit."
+				"\\c[5]\\n[5]\\c[0]: Don't think I haven't already",
+				"heard what you said.\\. What property",
+				"are you redistributing?\\. Of course."
 			]
 		},
 		{
@@ -157,10 +156,10 @@
 			"original": "Felcis: Das erklärt vor allem auch all die Reichtümer, die in eurem Stützpunkt gefunden wurden, als ihr geschnappt wurdet.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Das erklärt vor allem auch ",
-				"all die Reichtümer, die in eurem ",
-				"Stützpunkt gefunden wurden, als ihr ",
-				"geschnappt wurdet."
+				"\\c[5]\\n[5]\\c[0]: Above all else, that'd explain",
+				"what's with all those riches that were",
+				"discovered in your cell when you were",
+				"caught."
 			]
 		},
 		{
@@ -168,10 +167,10 @@
 			"original": "Felcis: Ihr gebt vielleicht eine Münze von der Schatzkiste an die ansässigen Bauern, die müssen ja nicht wissen, was ihr habt.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ihr gebt vielleicht eine ",
-				"Münze von der Schatzkiste an die ",
-				"ansässigen Bauern, die müssen ja ",
-				"nicht wissen, was ihr habt."
+				"\\c[5]\\n[5]\\c[0]: You might give a coin or two",
+				"from your treasure chest to the local",
+				"farmers, but they have no idea what",
+				"you have."
 			]
 		},
 		{
@@ -179,7 +178,7 @@
 			"original": "Robin: Erzähl du ruhig deine Geschichten!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Erzähl du ruhig deine Geschichten!"
+				"\\c[10]Robin\\c[0]: Keep telling your made-up stories!"
 			]
 		},
 		{
@@ -187,10 +186,9 @@
 			"original": "Kento: Aber an sich keine schlechte Idee. So kriegt man Unterstützung von den dort ansässigen Leuten, wenn man sie braucht.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Aber an sich keine schlechte ",
-				"Idee. \\.So kriegt man Unterstützung ",
-				"von den dort ansässigen Leuten, wenn ",
-				"man sie braucht."
+				"\\c[1]\\n[1]\\c[0]: But it's not a bad idea by",
+				"itself.\\. You get support from the",
+				"people when you need it."
 			]
 		},
 		{
@@ -198,10 +196,9 @@
 			"original": "Cibon: Haha, was für Schwächlinge! Wahrscheinlich haben sie die Bauern benutzt, um sich bei ihnen vor den Soldaten zu verstecken.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Haha, was für Schwächlinge!\\.",
-				"Wahrscheinlich haben sie die Bauern ",
-				"benutzt, um sich bei ihnen vor den ",
-				"Soldaten zu verstecken."
+				"\\c[2]\\n[2]\\c[0]: Haha, weaklings!\\. You probably",
+				"used those same peasants to hide",
+				"from the soldiers."
 			]
 		},
 		{
@@ -209,10 +206,10 @@
 			"original": "Robin: Jetzt kommt nicht auf falsche Gedanken! Wenn ihr wüsstet, welche adeligen Truppen wir schon alle überfallen und ausgeraubt haben! Die hatten alle ihre Eskorte.",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Jetzt kommt nicht auf falsche Gedanken!\\.",
-				"Wenn ihr wüsstet, welche adeligen Truppen wir ",
-				"schon alle überfallen und ausgeraubt haben!\\. Die ",
-				"hatten alle ihre Eskorte. "
+				"\\c[10]Robin\\c[0]: Now don't get any wrong ideas!\\. If only you",
+				"knew the kind of aristocrats we all attacked and",
+				"robbed!\\. They all even had their soldiers",
+				"protecting them."
 			]
 		},
 		{
@@ -221,10 +218,10 @@
 			"original": "Cibon: Ja ja, man kann ja viel erzählen. Ich wette, selbst wir drei Neuzugänge des Briganten-Orden könnten euch locker wegfegen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja ja, man kann ja viel ",
-				"erzählen. Ich wette, selbst wir drei ",
-				"Neuzugänge des Briganten-Orden ",
-				"könnten euch locker wegfegen!"
+				"\\c[2]\\n[2]\\c[0]: Yeah yeah, you're all talk.",
+				"I bet even us three new soldiers of",
+				"the Brigantine Order could easily",
+				"knock you out!"
 			]
 		},
 		{
@@ -233,8 +230,7 @@
 			"original": "Cibon: In einem Turnierkampf zum Beispiel.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: In einem Turnierkampf zum ",
-				"Beispiel."
+				"\\c[2]\\n[2]\\c[0]: In the tournament, for example."
 			]
 		},
 		{
@@ -243,10 +239,9 @@
 			"original": "Cibon: Ja ja, man kann ja viel erzählen. Ihr könnt es ja nicht mal mit uns drei Neuzugängen des Briganten-Orden aufnehmen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ja ja, man kann ja viel ",
-				"erzählen.\\. Ihr könnt es ja nicht ",
-				"mal mit uns drei Neuzugängen des ",
-				"Briganten-Orden aufnehmen!"
+				"\\c[2]\\n[2]\\c[0]: Yeah yeah, you're all talk.\\.",
+				"You couldn't even take on three new",
+				"soldiers of the Brigantine Order!"
 			]
 		},
 		{
@@ -255,8 +250,8 @@
 			"original": "Cibon: Ihr erinnert euch noch an den Turnierkampf, oder?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ihr erinnert euch noch an den ",
-				"Turnierkampf, oder?"
+				"\\c[2]\\n[2]\\c[0]: You do remember what happened",
+				"after all, don't you?"
 			]
 		},
 		{
@@ -265,10 +260,10 @@
 			"original": "Robin: Ach ja? Versucht es doch! Ihr könnt ja schauen, wo wir im Turnier stehen, die \"Rächer der Gerechten\"! Ich wette, ihr werdet nicht einen einzigen von uns Dreien besiegen können!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Ach ja?\\. Versucht es doch!\\. Ihr könnt ja ",
-				"schauen, wo wir im Turnier stehen, die \"Rächer der ",
-				"Gerechten\"!\\. Ich wette, ihr werdet nicht einen ",
-				"einzigen von uns Dreien besiegen können!"
+				"\\c[10]Robin\\c[0]: Oh yeah?\\. Try us!\\. You can see where we are",
+				"in the tournament, the \"Avengers of the Just\"!\\.",
+				"I bet you won't be able to take down any of",
+				"us at all!"
 			]
 		},
 		{
@@ -277,10 +272,9 @@
 			"original": "Robin: Ach ja? Bildet euch bloß nichts ein, nur weil ihr zuletzt Erfolg hattet! Wir haben uns lediglich zurückgehalten! Euch können wir jederzeit fertig machen, wetten wir?",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Ach ja?\\. Bildet euch bloß nichts ein, nur ",
-				"weil ihr zuletzt Erfolg hattet!\\. Wir haben uns ",
-				"lediglich zurückgehalten!\\. Euch können wir ",
-				"jederzeit fertig machen,\\. wetten wir?"
+				"\\c[10]Robin\\c[0]: Oh yeah?\\. Don't get cocky just because",
+				"you won last time!\\. We were holding back!\\. We",
+				"can obviously defeat you anytime we want!"
 			]
 		},
 		{
@@ -288,8 +282,8 @@
 			"original": "Felcis: Mit dem Stein, nehme ich an? Ihr hab ja sonst nicht viel.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Mit dem Stein, nehme ich an?\\.",
-				"Ihr hab ja sonst nicht viel."
+				"\\c[5]\\n[5]\\c[0]: So how about the stone?\\. There",
+				"isn't much else to talk about."
 			]
 		},
 		{
@@ -297,7 +291,7 @@
 			"original": "Robin: Wie? Stein? Moment!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Wie?\\. Stein?\\. Moment!"
+				"\\c[10]Robin\\c[0]: What?\\. What stone?\\. Wait a minute!"
 			]
 		},
 		{
@@ -305,10 +299,10 @@
 			"original": "Felcis: Euer Einsatz. Wir wetten um den Stein. Sollten unsere 3 Ex-Soldaten hier gewinnen, kriegen wir ihn, sonst behaltet ihr ihn.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Euer Einsatz.\\. Wir wetten um ",
-				"den Stein.\\. Sollten unsere 3 ",
-				"Ex-Soldaten hier gewinnen, kriegen ",
-				"wir ihn, sonst behaltet ihr ihn."
+				"\\c[5]\\n[5]\\c[0]: The deal.\\. We bet on the stone.\\.",
+				"If our three ex-soldiers here win,",
+				"we'll get it back, otherwise, you",
+				"can keep it."
 			]
 		},
 		{
@@ -316,8 +310,8 @@
 			"original": "Robin: Ha! Davon träumt ihr wohl! Auf so etwas lassen wir uns nicht ein.",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Ha!\\. Davon träumt ihr wohl!\\. Auf so etwas ",
-				"lassen wir uns nicht ein."
+				"\\c[10]Robin\\c[0]: Ha!\\. Keep dreaming!\\. We're not going to play",
+				"around with an idea like that."
 			]
 		},
 		{
@@ -325,9 +319,8 @@
 			"original": "Cibon: Wie? Habt ihr etwa auf einmal Angst, dass ihr gegen uns verlieren könntet?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wie?\\. Habt ihr etwa auf einmal ",
-				"Angst, dass ihr gegen uns verlieren ",
-				"könntet?"
+				"\\c[2]\\n[2]\\c[0]: Why?\\. Too afraid all of a sudden",
+				"to lose to us?"
 			]
 		},
 		{
@@ -335,9 +328,8 @@
 			"original": "Robin: Ha... Ha! Das hättet ihr wohl gerne! In Ordnung, auf die Wette gehen wir ein. Unter einer Bedingung!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Ha...\\. Ha!\\. Das hättet ihr wohl gerne!\\. In ",
-				"Ordnung, auf die Wette gehen wir ein.\\. Unter einer ",
-				"Bedingung!"
+				"\\c[10]Robin\\c[0]: Ha...\\. Ha!\\. You wish!\\. Alright, we'll go over",
+				"the deal.\\. Under one condition!"
 			]
 		},
 		{
@@ -345,10 +337,9 @@
 			"original": "Robin: Sollten WIR - wie zu erwarten ist - gewinnen, dann behalten wir den Stein UND eure hübsche Freundin hier, wird uns abends nach der Arbeit \"besuchen kommen\".",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Sollten WIR \\.- wie zu erwarten ist -\\. ",
-				"gewinnen, dann behalten wir den Stein UND eure ",
-				"hübsche Freundin hier, wird uns abends nach der ",
-				"Arbeit \\s[3]\"besuchen kommen\". "
+				"\\c[10]Robin\\c[0]: If WE win,\\. as we expect to happen,\\. we'll",
+				"keep the stone AND your pretty friend here will",
+				"\\s[3]\"visit us\"\\s[0] in the evening after work."
 			]
 		},
 		{
@@ -356,15 +347,16 @@
 			"original": "Soko: W..W..W..W..",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: W..\\.W..\\.W..\\.W..\\.\\^"
-			]
+				"\\c[13]\\n[3]\\c[0]: W-\\.W-\\.W-\\.W-\\.\\^"
+			],
+			"__comment__": "Pseudo-scrolling"
 		},
 		{
 			"path": [58,2,219,1],
 			"original": "Soko: W..W..W..W..WIE BITTE?!",
 			"lines":
 			[
-				"\\>\\c[13]\\n[3]\\c[0]: W..W..W..W..\\<WIE BITTE?!"
+				"\\>\\c[13]\\n[3]\\c[0]: W-W-W-W-\\<WHAT DID YOU SAY?!"
 			]
 		},
 		{
@@ -373,7 +365,7 @@
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Ah...\\.\\s[3] Ahahahahahahahahahahah!\\.",
-				"Seid ihr euch da GANZ sicher?"
+				"Are you SURE about that?"
 			]
 		},
 		{
@@ -381,7 +373,7 @@
 			"original": "Felcis: In Ordnung! Die Wette gilt!",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: In Ordnung!\\. Die Wette gilt!"
+				"\\c[5]\\n[5]\\c[0]: Deal!\\. It's on!"
 			]
 		},
 		{
@@ -389,8 +381,8 @@
 			"original": "Soko: W...WAS?!?! Seid ihr noch ganz...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: W...\\.WAS?!?!\\. Seid ihr noch ",
-				"ganz...\\.\\^"
+				"\\c[13]\\n[3]\\c[0]: W...\\. WHAT?!?!\\. Are you completely",
+				"out of your...\\.\\^"
 			]
 		},
 		{
@@ -398,8 +390,8 @@
 			"original": "Kento: Bitte, Soko... halte dich eben etwas zurück...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Bitte, Soko...\\. halte dich ",
-				"eben etwas zurück..."
+				"\\c[1]\\n[1]\\c[0]: Please, Soko...\\. just this one",
+				"time..."
 			]
 		},
 		{
@@ -407,9 +399,8 @@
 			"original": "Felcis: Damit wäre dann wohl alles geregelt. Wir sehen uns in der Arena!",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Damit wäre dann wohl alles ",
-				"geregelt.\\. Wir sehen uns in der ",
-				"Arena!"
+				"\\c[5]\\n[5]\\c[0]: It's settled then.\\. See you in",
+				"the arena!"
 			]
 		},
 		{
@@ -417,7 +408,7 @@
 			"original": "Robin: Haha, mit Freude!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Haha,\\. mit Freude!"
+				"\\c[10]Robin\\c[0]: Haha,\\. with pleasure!"
 			]
 		},
 		{
@@ -425,8 +416,8 @@
 			"original": "Soko: SAGT MAL, SEID IHR NOCH GANZ DICHT?!?!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: SAGT MAL,\\. SEID IHR NOCH GANZ ",
-				"DICHT?!?!"
+				"\\c[13]\\n[3]\\c[0]: ARE YOU COMPLETELY OUT OF YOUR",
+				"MIND?!?!"
 			]
 		},
 		{
@@ -434,8 +425,7 @@
 			"original": "Felcis: Woha! Was für ein Temperament, unheimlich!",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Woha!\\. Was für ein ",
-				"Temperament,\\. unheimlich!"
+				"\\c[5]\\n[5]\\c[0]: Woah!\\. What a temper,\\. scary!"
 			]
 		},
 		{
@@ -443,8 +433,8 @@
 			"original": "Soko: Du hast auch allen Grund, dich zu fürchten.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Du hast auch allen Grund, dich ",
-				"zu fürchten. "
+				"\\c[13]\\n[3]\\c[0]: YOU also have every reason to be",
+				"terrified."
 			]
 		},
 		{
@@ -452,9 +442,9 @@
 			"original": "Felcis: Beruhig dich, Soko, beruhig dich! Es wird schon alles gut gehen! Vertrau mir...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Beruhig dich, Soko, beruhig ",
-				"dich!\\. Es wird schon alles gut gehen!\\. ",
-				"Vertrau mir...\\.\\."
+				"\\c[5]\\n[5]\\c[0]: Calm down, Soko, calm down!\\.",
+				"Everything will be just fine!\\.",
+				"Trust me..."
 			]
 		},
 		{
@@ -462,9 +452,8 @@
 			"original": "Soko: Wie soll hier bitte alles gut gehen? Was passiert, wenn wir verlieren?!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wie soll hier bitte alles gut ",
-				"gehen?\\. Was passiert, wenn wir ",
-				"verlieren?!"
+				"\\c[13]\\n[3]\\c[0]: How can we be so sure?\\.",
+				"What about if we lose?!"
 			]
 		},
 		{
@@ -472,9 +461,9 @@
 			"original": "Cibon: Komm Soko, gegen die werden wir nicht verlieren! Dafür wirst du ja wohl schon selber sorgen...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Komm Soko, gegen die werden ",
-				"wir nicht verlieren!\\. Dafür wirst du ",
-				"ja wohl schon selber sorgen..."
+				"\\c[2]\\n[2]\\c[0]: Come on Soko, we're not gonna",
+				"lose against them!\\. You'll probably",
+				"take care of that yourself anyways..."
 			]
 		},
 		{
@@ -482,10 +471,10 @@
 			"original": "Felcis: Tut mir Leid, aber ich habe in dieser Wette die einzige Möglichkeit gesehen, diesen Stein wieder zu bekommen...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Tut mir Leid, aber ich habe ",
-				"in dieser Wette die einzige ",
-				"Möglichkeit gesehen, diesen Stein ",
-				"wieder zu bekommen..."
+				"\\c[5]\\n[5]\\c[0]: I really am sorry, but this is",
+				"the only opportunity we have to get",
+				"that stone back and get ourselves",
+				"out of here..."
 			]
 		},
 		{
@@ -493,9 +482,10 @@
 			"original": "Felcis: Wer weiß, ob wir sie nochmal soweit bekommen hätten, wenn wir wegen dir abgelehnt hätten...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Wer weiß, ob wir sie nochmal ",
-				"soweit bekommen hätten, wenn wir ",
-				"wegen dir abgelehnt hätten..."
+				"\\c[5]\\n[5]\\c[0]: Who knows what would've",
+				"happened if we refused this deal...\\.",
+				"how long we would've been stuck",
+				"here..."
 			]
 		},
 		{
@@ -503,10 +493,9 @@
 			"original": "Kento: G... Genau...  Außerdem... selbst wenn wir verlieren sollten, ist alles was die bekommen werden, eine große Menge an... Schmerzen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]:\\s[2] G...\\. Genau...\\.  Außerdem...\\. ",
-				"selbst wenn wir verlieren sollten, ",
-				"ist alles was die bekommen werden, ",
-				"eine große Menge an...\\.\\s[4] Schmerzen..."
+				"\\c[1]\\n[1]\\c[0]: E...\\. Exactly...\\. Besides...\\. even",
+				"if we lose, all they're going to get",
+				"from us is a lot of...\\.\\s[4] pain..."
 			]
 		},
 		{
@@ -514,7 +503,7 @@
 			"original": "Cibon: Du sagst es, Kumpel!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Du sagst es, Kumpel!"
+				"\\c[2]\\n[2]\\c[0]: You said it, Kento!"
 			]
 		},
 		{
@@ -522,7 +511,7 @@
 			"original": "Soko: Wie? Ah...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wie?\\. Ah... "
+				"\\c[13]\\n[3]\\c[0]: How?\\. Oh..."
 			]
 		},
 		{
@@ -530,9 +519,8 @@
 			"original": "Soko: Entschuldigung Kento, aber ich konnte das gerade nicht zurückhalten...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Entschuldigung Kento, aber ich ",
-				"konnte das gerade nicht ",
-				"zurückhalten..."
+				"\\c[13]\\n[3]\\c[0]: Sorry Kento, I just couldn't",
+				"hold back..."
 			]
 		},
 		{
@@ -540,8 +528,8 @@
 			"original": "Soko: Na gut. Wir werden einfach nicht verlieren. Alles wird gut...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Na gut.\\. Wir werden einfach ",
-				"nicht verlieren.\\. Alles wird gut..."
+				"\\c[13]\\n[3]\\c[0]: Okay.\\. We just won't lose then.\\.",
+				"Everything will be just fine..."
 			]
 		},
 		{
@@ -549,8 +537,8 @@
 			"original": "Kento: Übrigens, Felcis, was für ein Stein ist das überhaupt?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Übrigens, Felcis, was für ein ",
-				"Stein ist das überhaupt?"
+				"\\c[1]\\n[1]\\c[0]: By the way Felcis, what kind of",
+				"stone is that anyway?"
 			]
 		},
 		{
@@ -558,10 +546,10 @@
 			"original": "Felcis: Dieser Stein enthält besondere Signum-Kräfte. Keine Kräfte, mit denen die etwas anzufangen wüssten...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Dieser Stein enthält ",
-				"besondere Signum-Kräfte.\\. Keine ",
-				"Kräfte, mit denen die etwas ",
-				"anzufangen wüssten..."
+				"\\c[5]\\n[5]\\c[0]: This void stone contains",
+				"special Signum powers.\\. Powers",
+				"they wouldn't even begin to",
+				"know what to do with..."
 			]
 		},
 		{
@@ -569,10 +557,9 @@
 			"original": "Felcis: Aber für uns ist dieser Stein absolut notwendig. Ohne diesen werden wir die Barriere nicht brechen können.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Aber für uns ist dieser ",
-				"Stein absolut notwendig.\\. Ohne diesen ",
-				"werden wir die Barriere nicht ",
-				"brechen können."
+				"\\c[5]\\n[5]\\c[0]: But for us, this stone is",
+				"absolutely critical.\\. Without this,",
+				"we won't be able to break the barrier."
 			]
 		},
 		{
@@ -580,10 +567,10 @@
 			"original": "Felcis: Sagt aber bitte bloß niemanden etwas davon. Das Ding soll nichts weiter als ein schön funkelnder Stein bleiben.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Sagt aber bitte bloß ",
-				"niemanden etwas davon.\\. Das Ding soll ",
-				"nichts weiter als ein schön ",
-				"funkelnder Stein bleiben."
+				"\\c[5]\\n[5]\\c[0]: But please don't tell anyone",
+				"about it.\\. To everyone else, it should",
+				"remain nothing more than a beautiful",
+				"sparkling stone."
 			]
 		},
 		{
@@ -591,9 +578,9 @@
 			"original": "Cibon: Gebongt! Dann sollten wir zusehen, dass wir diese Eumel im Turnier zur Schnecke machen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Gebongt!\\. Dann sollten wir ",
-				"zusehen, dass wir diese Eumel im ",
-				"Turnier zur Schnecke machen!"
+				"\\c[2]\\n[2]\\c[0]: Alrighty then!\\. Then we should",
+				"see to it that we turn those nitwits",
+				"into mush in the tournament!"
 			]
 		},
 		{
@@ -601,9 +588,10 @@
 			"original": "Soko: Ja und wehe wenn nicht! Ich hoffe du erinnerst dich, mit wem du deine Zelle teilst, Felcis!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ja und wehe wenn nicht!\\. Ich ",
-				"hoffe du erinnerst dich, mit wem du ",
-				"deine Zelle teilst, Felcis!"
+				"\\c[13]\\n[3]\\c[0]: Yes, and you don't want to know",
+				"what's happening if you don't!\\. I hope",
+				"you remember who you're sharing your",
+				"cell with, Felcis!"
 			]
 		},
 		{

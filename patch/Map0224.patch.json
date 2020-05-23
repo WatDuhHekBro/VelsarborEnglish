@@ -99,9 +99,9 @@
 			"original": "Wächter: Zur Kantine geht den Flur vom Erdgeschoss des Zellengebäudes ganz durch und dann nach rechts.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Zur Kantine geht den Flur vom ",
-				"Erdgeschoss des Zellengebäudes ganz durch und dann ",
-				"nach rechts."
+				"\\c[10]Guard\\c[0]: To get to the cafe, go through this",
+				"corridor past all the cells while staying on",
+				"the ground floor, then turn right."
 			]
 		},
 		{
@@ -109,9 +109,9 @@
 			"original": "Gefangener: Manchmal hab ich wirklich das Gefühl, dass eine bessere Ausrüstung im Turnier mehr bringt als Kampftalent.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Manchmal hab ich wirklich das Gefühl, ",
-				"dass eine bessere Ausrüstung im Turnier mehr ",
-				"bringt als Kampftalent. "
+				"\\c[10]Prisoner\\c[0]: Sometimes, I have this feeling that",
+				"better equipment in the tournament brings you",
+				"more than your ability to fight does."
 			]
 		},
 		{
@@ -119,10 +119,10 @@
 			"original": "Gefangener: Wie sonst soll man mir erklären, dass diese Pauamainer Veteranen immer soweit oben sind? Natürlich weil sie verdammt viel Erz schürfen und deshalb viele Turnier-Münzen erhalten!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Wie sonst soll man mir erklären, dass ",
-				"diese Pauamainer Veteranen immer soweit oben sind?\\.",
-				"Natürlich weil sie verdammt viel Erz schürfen und ",
-				"deshalb viele Turnier-Münzen erhalten!"
+				"\\c[10]Prisoner\\c[0]: How else can you explain to me that",
+				"these Pauamainer Veterans are always up there?\\.",
+				"Of course, it's because they dig up a lot of",
+				"ore and get a lot of tournament coins in turn!"
 			]
 		},
 		{
@@ -130,9 +130,8 @@
 			"original": "Gefangener: Und viele Turnier-Münzen bedeuten bessere Ausrüstung, wie ihr ja wahrscheinlich schon wisst.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Und viele Turnier-Münzen bedeuten ",
-				"bessere Ausrüstung, wie ihr ja wahrscheinlich ",
-				"schon wisst."
+				"\\c[10]Prisoner\\c[0]: And a lot of tournament coins mean",
+				"better equipment, as you probably already know."
 			]
 		},
 		{
@@ -140,8 +139,8 @@
 			"original": "Wächter: Dieser Bereich darf nur von Turnierkampfteilnehmern betreten werden!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Dieser Bereich darf nur von ",
-				"Turnierkampfteilnehmern betreten werden!"
+				"\\c[10]Guard\\c[0]: This area is only to be entered by those",
+				"fighting in the tournament!"
 			]
 		},
 		{
@@ -149,9 +148,9 @@
 			"original": "Wächter: Wenn ihr auf den Platz wollt, um zu kämpfen, müsst ihr euch anmelden. Die Anmeldung ist in der Kantine.",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Wenn ihr auf den Platz wollt, um zu ",
-				"kämpfen, müsst ihr euch anmelden.\\. Die Anmeldung ",
-				"ist in der Kantine."
+				"\\c[10]Guard\\c[0]: If you want to get into the arena",
+				"and fight, you'll have to register first.\\.",
+				"Registration is in the cafe."
 			]
 		},
 		{
@@ -167,9 +166,9 @@
 			"original": "Gefangene: Irgendwie hab ich Mitleid mit \"Den Schleimigen\". Ständig werden sie von x-beliebigen Neueinsteigern nieder geprügelt.",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Irgendwie hab ich Mitleid mit \"Den ",
-				"Schleimigen\".\\. Ständig werden sie von x-beliebigen ",
-				"Neueinsteigern nieder geprügelt."
+				"\\c[10]Prisoner\\c[0]: I feel sorry for \"The Slimealgamation\".\\.",
+				"They've got it rough, being constantly being",
+				"beaten up by newcomers."
 			]
 		},
 		{
@@ -177,10 +176,10 @@
 			"original": "Gefangene: Es gibt sogar einige untere Plätze, die so dreist sind, sie einfach so zu bekämpfen und zu schlagen, obwohl sie im Rang unter ihnen sind! Nur aus Frust, weil sie nicht weiter kommen!",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Es gibt sogar einige untere Plätze, die ",
-				"so dreist sind, sie einfach so zu bekämpfen und zu ",
-				"schlagen, obwohl sie im Rang unter ihnen sind!\\. Nur ",
-				"aus Frust, weil sie nicht weiter kommen!"
+				"\\c[10]Prisoner\\c[0]: There are even some low-ranking teams",
+				"that have the audacity to beat them up again and",
+				"again, despite being ranked above them!\\. Just out",
+				"of frustration that they can't get anywhere!"
 			]
 		},
 		{
@@ -188,9 +187,9 @@
 			"original": "Gefangene: Ich für meinen Teil freu mich über jeden Sieg der Schleimigen, selbst wenn es nur selten passiert!",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Ich für meinen Teil freu mich über ",
-				"jeden Sieg der Schleimigen, selbst wenn es nur ",
-				"selten passiert!"
+				"\\c[10]Prisoner\\c[0]: If you ask me, I'm happy every time \"The",
+				"Slimealgamation\" wins, even if it happens very",
+				"rarely!"
 			]
 		},
 		{
@@ -198,8 +197,8 @@
 			"original": "Gefangener: Ich bin ja mal gespannt, wer sich diesmal durchschlagen wird.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Ich bin ja mal gespannt, wer sich ",
-				"diesmal durchschlagen wird."
+				"\\c[10]Prisoner\\c[0]: I'm curious to see who'll make it",
+				"through this time."
 			]
 		},
 		{
@@ -207,10 +206,10 @@
 			"original": "Älterer Gefangener: Es ist immer wieder gut zu sehen, dass es Gefangene gibt, die gegen den Untertage-Schreck ankommen. Das sind nämlich genau die Biester, die auch unten in der Mine lauern.",
 			"lines":
 			[
-				"\\c[10]Älterer Gefangener\\c[0]: Es ist immer wieder gut zu ",
-				"sehen, dass es Gefangene gibt, die gegen den ",
-				"Untertage-Schreck ankommen.\\. Das sind nämlich genau ",
-				"die Biester, die auch unten in der Mine lauern."
+				"\\c[10]Old Prisoner\\c[0]: It's always good to see that there",
+				"are prisoners who are brave enough to stand up",
+				"against \"The Terror from Below\".\\. They're the",
+				"very monsters that haunt us down in the mine."
 			]
 		},
 		{
@@ -218,9 +217,9 @@
 			"original": "Älterer Gefangener: So kann man immer hoffen, da unten auch Hilfe zu bekommen, wenn man mal wirklich von so etwas verfolgt wird.",
 			"lines":
 			[
-				"\\c[10]Älterer Gefangener\\c[0]: So kann man immer hoffen, da ",
-				"unten auch Hilfe zu bekommen, wenn man mal ",
-				"wirklich von so etwas verfolgt wird."
+				"\\c[10]Old Prisoner\\c[0]: So you can always hope that you",
+				"might get help down there if you're really",
+				"being chased by something like that."
 			]
 		},
 		{
@@ -228,8 +227,8 @@
 			"original": "Älterer Gefangener: Am Tageslicht sehen diese Wesen so oder so gleich viel harmloser aus!",
 			"lines":
 			[
-				"\\c[10]Älterer Gefangener\\c[0]: Am Tageslicht sehen diese Wesen ",
-				"so oder so gleich viel harmloser aus!"
+				"\\c[10]Old Prisoner\\c[0]: In broad daylight, these beings look",
+				"much less dangerous anyway!"
 			]
 		},
 		{
@@ -237,9 +236,8 @@
 			"original": "Gefangener: Die Exoten sind mein persönliche Favorit hier! Die haben einen so toll überraschenden Kampfstil.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Die Exoten sind mein persönliche ",
-				"Favorit hier!\\. Die haben einen so toll ",
-				"überraschenden Kampfstil."
+				"\\c[10]Prisoner\\c[0]: The Exotics are my personal favorite",
+				"here!\\. They have such an intriguing fighting style."
 			]
 		},
 		{
@@ -247,10 +245,10 @@
 			"original": "Gefangener: Am Anfang macht es den Anschein, dass sie nichts drauf haben und der Gegner gewinnen wird, aber nach ein paar Runden legen sie dann richtig los!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Am Anfang macht es den Anschein, dass ",
-				"sie nichts drauf haben und der Gegner gewinnen ",
-				"wird, aber nach ein paar Runden legen sie dann ",
-				"richtig los!"
+				"\\c[10]Prisoner\\c[0]: In the beginning, it doesn't seem like",
+				"they're up to the task and that the opponent",
+				"will win, but after a few rounds, they",
+				"really get going!"
 			]
 		},
 		{
@@ -258,8 +256,8 @@
 			"original": "Gefangener: Viele Gegner sind schon auf diese Taktik reingefallen!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Viele Gegner sind schon auf diese ",
-				"Taktik reingefallen!"
+				"\\c[10]Prisoner\\c[0]: So many opponents have already fallen",
+				"for their tactic!"
 			]
 		},
 		{
@@ -267,10 +265,9 @@
 			"original": "Gefangener: Diese Rächer der Gerechten sind schon ein komischer Verein. Die reden permanent von irgendwelchen gerechten Umverteilungen von Besitztümern.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Diese Rächer der Gerechten sind schon ",
-				"ein komischer Verein.\\. Die reden permanent von ",
-				"irgendwelchen gerechten Umverteilungen von ",
-				"Besitztümern. "
+				"\\c[10]Prisoner\\c[0]: These Avengers of the Just are a strange",
+				"group.\\. They're constantly talking about their",
+				"\"righteous redistribution of property\"."
 			]
 		},
 		{
@@ -278,10 +275,10 @@
 			"original": "Gefangener: Diese Typen kamen hier aus Helnovien. Hier gibt es nicht viel umzuverteilen. Seit dem Krieg gibt es hier bis auf sehr wenige Ausnahmen nur arme Menschen.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Diese Typen kamen hier aus Helnovien.\\.",
-				"Hier gibt es nicht viel umzuverteilen.\\. Seit dem ",
-				"Krieg gibt es hier bis auf sehr wenige Ausnahmen ",
-				"nur arme Menschen."
+				"\\c[10]Prisoner\\c[0]: These guys are in Helnovien.\\. There isn't",
+				"much to redistribute.\\. Ever since the war, there've",
+				"only been a bunch of poor people with very few",
+				"exceptions."
 			]
 		},
 		{
@@ -289,9 +286,9 @@
 			"original": "Gefangener: Aber ihr Bogenschütze hat es drauf, das muss man ihnen lassen. Hab selten so viele Pfeile auf einmal fliegen sehen!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Aber ihr Bogenschütze hat es drauf,",
-				"das muss man ihnen lassen.\\. Hab selten so viele ",
-				"Pfeile auf einmal fliegen sehen!"
+				"\\c[10]Prisoner\\c[0]: But their archer has what it takes, you",
+				"have to give them that.\\. I've rarely seen so many",
+				"arrows fly at once!"
 			]
 		},
 		{
@@ -299,9 +296,9 @@
 			"original": "Gefangener: Es kommt nicht sonderlich oft vor, dass \"Der Chef\" herausgefordert wird, aber wenn es passiert, ist es immer wieder ein Spektakel.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Es kommt nicht sonderlich oft vor, ",
-				"dass \"Der Chef\" herausgefordert wird, aber wenn es ",
-				"passiert, ist es immer wieder ein Spektakel."
+				"\\c[10]Prisoner\\c[0]: It doesn't happen very often that \"The",
+				"Boss\" is challenged, but when he is, it's always",
+				"quite the battle to watch."
 			]
 		},
 		{
@@ -309,9 +306,9 @@
 			"original": "Gefangener: Der Chef kämpft alleine und hat es bisher mit jeder Gruppe locker aufgenommen, die ihn Platz runter bringen wollte.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Der Chef kämpft alleine und hat es ",
-				"bisher mit jeder Gruppe locker aufgenommen, die ",
-				"ihn Platz runter bringen wollte."
+				"\\c[10]Prisoner\\c[0]: The Boss fights alone, and so far, has",
+				"easily taken on any group that tried to bring",
+				"him down."
 			]
 		},
 		{
@@ -319,9 +316,9 @@
 			"original": "Gefangener: Zu schade, dass die Pauamainer Veteranen es mittlerweile aufgegeben haben, ihm vom 1. Platz zu jagen.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Zu schade, dass die Pauamainer ",
-				"Veteranen es mittlerweile aufgegeben haben, ihm ",
-				"vom 1. Platz zu jagen. "
+				"\\c[10]Prisoner\\c[0]: Too bad the Pauamainer Veterans have",
+				"since given up trying to dethrone him from 1st",
+				"place."
 			]
 		},
 		{
@@ -329,10 +326,10 @@
 			"original": "Gefangener: Aber diese Neuen da, diese Zinkar-Brüder, die versuchen es öfters in letzter Zeit. Die Neueinsteiger bringen wirklich frischen Wind in dieses Turnier!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Aber diese Neuen da, diese ",
-				"Zinkar-Brüder, die versuchen es öfters in letzter ",
-				"Zeit.\\. Die Neueinsteiger bringen wirklich ",
-				"frischen Wind in dieses Turnier!"
+				"\\c[10]Prisoner\\c[0]: But those newcomers, the Zinkar",
+				"Brothers, have been trying their hand at it",
+				"lately.\\. They're really bringing a breath of",
+				"fresh air to this tournament!"
 			]
 		},
 		{
@@ -340,10 +337,9 @@
 			"original": "Gefangener: Diese Schattenschleicher sind wirklich eine Gruppe, denen ich nachts nicht über den Weg laufen will. Die sind schon tagsüber unheimlich und grausam genug!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Diese Schattenschleicher sind wirklich ",
-				"eine Gruppe, denen ich nachts nicht über den Weg ",
-				"laufen will.\\. Die sind schon tagsüber unheimlich ",
-				"und grausam genug!"
+				"\\c[10]Prisoner\\c[0]: These Shadow Crawlers are a group that",
+				"I really don't want to run into late at night.\\.",
+				"They're scary and cruel enough during the day!"
 			]
 		},
 		{
@@ -351,9 +347,9 @@
 			"original": "Gefangener: Und wenn sie mal ihr Nebelgewand auf sich ausführen, sieht ihr Gegner sie so schlecht, als ob es tatsächlich Nacht wäre.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Und wenn sie mal ihr Nebelgewand auf ",
-				"sich ausführen, sieht ihr Gegner sie so schlecht, ",
-				"als ob es tatsächlich Nacht wäre."
+				"\\c[10]Prisoner\\c[0]: And if they do their foggy clothing on",
+				"themselves, their opponent sees them as badly as",
+				"if it were actually night."
 			]
 		},
 		{
@@ -362,9 +358,8 @@
 			"original": "Gefangener: Hehe! Die bisherigen Kämpfe waren ziemlich toll! Es lohnt sich doch immer wieder, dabei zu sein.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Hehe!\\. Die bisherigen Kämpfe waren ",
-				"ziemlich toll!\\. Es lohnt sich doch immer wieder, ",
-				"dabei zu sein."
+				"\\c[10]Prisoner\\c[0]: Hehe!\\. The fights so far have been pretty",
+				"great!\\. It's always worth being here."
 			]
 		},
 		{
@@ -373,8 +368,8 @@
 			"original": "Gefangener: Wann geht es endlich los? Ich will nicht noch länger warten...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Wann geht es endlich los? Ich will ",
-				"nicht noch länger warten..."
+				"\\c[10]Prisoner\\c[0]: When is it finally starting?",
+				"I don't want to wait any longer..."
 			]
 		},
 		{
@@ -383,9 +378,8 @@
 			"original": "Kento: Was ist das hier für ein offener Platz? Und was machen die ganzen Leute hier?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Was ist das hier für ein ",
-				"offener Platz?\\. Und was machen die ",
-				"ganzen Leute hier?"
+				"\\c[1]\\n[1]\\c[0]: What kind of area is this?\\. And",
+				"what are all these people doing here?"
 			]
 		},
 		{
@@ -394,10 +388,9 @@
 			"original": "Gefangener: Das wisst ihr nicht? Hier finden gleich einige Turnierkämpfe statt. Die gibt es fast täglich. Jeder Gefangene kann dran teilnehmen.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Das wisst ihr nicht?\\. Hier finden ",
-				"gleich einige Turnierkämpfe statt.\\. Die gibt es ",
-				"fast täglich.\\. Jeder Gefangene kann dran ",
-				"teilnehmen."
+				"\\c[10]Prisoner\\c[0]: You don't know?\\. Here is where the",
+				"tournament battles take place.\\. They happen",
+				"almost every day.\\. Any prisoner can participate."
 			]
 		},
 		{
@@ -406,8 +399,7 @@
 			"original": "Soko: Aber was soll man bitte davon haben?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Aber was soll man bitte davon ",
-				"haben?"
+				"\\c[13]\\n[3]\\c[0]: But what do you get from it?"
 			]
 		},
 		{
@@ -416,9 +408,9 @@
 			"original": "Gefangener: Einen Ruf hier im Gefängnis. Leute, die sich gut um Turnier schlagen, werden von den anderen Gefangenen mit höherem Respekt behandelt.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Einen Ruf hier im Gefängnis. Leute, ",
-				"die sich gut um Turnier schlagen, werden von den ",
-				"anderen Gefangenen mit höherem Respekt behandelt."
+				"\\c[10]Prisoner\\c[0]: Fame and recognition. People who do well",
+				"at the tournament are treated with more respect by",
+				"the other prisoners."
 			]
 		},
 		{
@@ -427,8 +419,9 @@
 			"original": "Gefangener: Gleichzeitig ist es eine Unterhaltung für die anderen Gefangenen, die zusehen.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Gleichzeitig ist es eine Unterhaltung ",
-				"für die anderen Gefangenen, die zusehen."
+				"\\c[10]Prisoner\\c[0]: At the same time, it brings",
+				"entertainment for all the other",
+				"prisoners watching."
 			]
 		},
 		{
@@ -437,10 +430,9 @@
 			"original": "Gefangener: Ich hab' gehört, bevor die Turnierkämpfe eingeführt worden sind, gab es deutlich mehr Aufstände und Probleme mit den Gefangenen.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Ich hab' gehört, bevor die ",
-				"Turnierkämpfe eingeführt worden sind, gab es ",
-				"deutlich mehr Aufstände und Probleme mit den ",
-				"Gefangenen."
+				"\\c[10]Prisoner\\c[0]: I heard that before the tournament was",
+				"introduced, there were significantly more",
+				"uprisings and problems with prisoners."
 			]
 		},
 		{
@@ -448,9 +440,9 @@
 			"original": "Gefangener: Diese Turnierkämpfe sind wirklich so ziemlich der einzige Spaß, der uns in diesem Gefängnis bleibt.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Diese Turnierkämpfe sind wirklich so ",
-				"ziemlich der einzige Spaß, der uns in diesem ",
-				"Gefängnis bleibt. "
+				"\\c[10]Prisoner\\c[0]: These tournament battles are really",
+				"pretty much the only fun thing we have left",
+				"in this prison."
 			]
 		},
 		{
@@ -458,9 +450,9 @@
 			"original": "Gefangener: Zum Glück gibt es genug Freiwillige, die tatsächlich Lust haben, sich am Feierabend die Köpfe einzuschlagen...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Zum Glück gibt es genug Freiwillige, ",
-				"die tatsächlich Lust haben, sich am Feierabend die ",
-				"Köpfe einzuschlagen..."
+				"\\c[10]Prisoner\\c[0]: Fortunately, there are enough volunteers",
+				"who actually want to knock themselves out at the",
+				"end of the day..."
 			]
 		},
 		{
@@ -468,7 +460,7 @@
 			"original": "Wächter: Gefangene haben hier nichts zu suchen!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Gefangene haben hier nichts zu suchen!"
+				"\\c[10]Guard\\c[0]: Prisoners have no business here!"
 			]
 		},
 		{
@@ -484,9 +476,8 @@
 			"original": "Gefangener: Wie man da drüben sieht, gibt es auch reichlich Wächter, die bei den Turnierkämpfen zusehen.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Wie man da drüben sieht, gibt es auch ",
-				"reichlich Wächter, die bei den Turnierkämpfen ",
-				"zusehen."
+				"\\c[10]Prisoner\\c[0]: As you can see over there, plenty of",
+				"guards also watch these tournament battles."
 			]
 		},
 		{
@@ -494,9 +485,9 @@
 			"original": "Gefangener: Einige von uns fragen sich wirklich, ob die das Turnier hauptsächlich für ihre eigene Unterhaltung eingeführt haben...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Einige von uns fragen sich wirklich, ",
-				"ob die das Turnier hauptsächlich für ihre eigene ",
-				"Unterhaltung eingeführt haben..."
+				"\\c[10]Prisoner\\c[0]: Some of us are really starting to wonder",
+				"if they introduced the tournament mainly for their",
+				"own entertainment..."
 			]
 		},
 		{
@@ -504,10 +495,9 @@
 			"original": "Gefangener: Ziemlich gute Aussicht von hier oder? Ich würde mich aber nicht zu nah an die Brüstung wagen. Wir hatten schon Fälle, wo Gefangene von hier runter gefallen sind...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Ziemlich gute Aussicht von hier oder?\\.",
-				"Ich würde mich aber nicht zu nah an die Brüstung ",
-				"wagen.\\. Wir hatten schon Fälle, wo Gefangene von ",
-				"hier runter gefallen sind..."
+				"\\c[10]Prisoner\\c[0]: Pretty good view from here, right?\\. But I",
+				"wouldn't dare to get too close to the rails.\\. We've",
+				"had cases where prisoners fell down from here..."
 			]
 		},
 		{
@@ -515,10 +505,10 @@
 			"original": "Gefangene: Wenn hier mal der Chef kämpft, müsst ihr unbedingt hier oben sein! Wenn der einmal seine Geheimattacke verwendet, spürt man den Wind sogar noch hier oben!",
 			"lines":
 			[
-				"\\c[10]Gefangene\\c[0]: Wenn hier mal der Chef kämpft, müsst ",
-				"ihr unbedingt hier oben sein!\\. Wenn der einmal ",
-				"seine Geheimattacke verwendet, spürt man den Wind ",
-				"sogar noch hier oben!"
+				"\\c[10]Prisoner\\c[0]: If the boss decides to fight, you have",
+				"to stay up here!\\. If he uses his secret attack,",
+				"you'll still be able to feel the wind even up",
+				"here!"
 			]
 		},
 		{
@@ -527,9 +517,9 @@
 			"original": "Gefangener: Der Typ da sieht ja sehr edel aus. Wie kommt so etwas hier bitte ins Gefängnis? Und wieso versperrt mir so etwas hier die Sicht?",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Der Typ da sieht ja sehr edel aus. \\.Wie ",
-				"kommt so etwas hier bitte ins Gefängnis?\\. Und wieso ",
-				"versperrt mir so etwas hier die Sicht?"
+				"\\c[10]Prisoner\\c[0]: This guy here looks like a noble.\\. How'd",
+				"someone like him end up in this prison?\\. And why",
+				"is he blocking my view?"
 			]
 		},
 		{
@@ -537,10 +527,9 @@
 			"original": "Gefangener: Wenn hier einmal die Kämpfe richtig losgehen, ist es hier oben oft stark überfüllt. Da bekommt man wirklich Angst, dass man runter fallen könnte...",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Wenn hier einmal die Kämpfe richtig ",
-				"losgehen, ist es hier oben oft stark überfüllt.\\. Da ",
-				"bekommt man wirklich Angst, dass man runter fallen ",
-				"könnte..."
+				"\\c[10]Prisoner\\c[0]: If it's the first match of the day, it's",
+				"often very crowded up here.\\. And you'd quickly be",
+				"afraid that you could fall down..."
 			]
 		},
 		{
@@ -548,8 +537,8 @@
 			"original": "Gefangener: Diese \"Ritter der Nacht\" sind ganz schön gerissen, sag ich dir.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Diese \"Ritter der Nacht\" sind ganz ",
-				"schön gerissen, sag ich dir. "
+				"\\c[10]Prisoner\\c[0]: These \"Knights of Night\" are pretty",
+				"smart, I tell you."
 			]
 		},
 		{
@@ -557,9 +546,9 @@
 			"original": "Gefangener: Als die meisten Kämpfer dahinter gekommen sind, dass sie sehr anfällig gegen Magie sind, haben sie ihre Taktik geändert.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Als die meisten Kämpfer dahinter ",
-				"gekommen sind, dass sie sehr anfällig gegen Magie ",
-				"sind, haben sie ihre Taktik geändert. "
+				"\\c[10]Prisoner\\c[0]: When most of the fighters figured out",
+				"that they were very vulnerable to magic, they",
+				"changed their tactics."
 			]
 		},
 		{
@@ -567,10 +556,10 @@
 			"original": "Gefangener: Jetzt zaubern sie \"Spiegelung\" auf sich selber! Es ist immer wieder toll anzusehen, wie verdutzt die Zauberer blicken, wenn die ihren Spruch zurückgeschleudert bekommen!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Jetzt zaubern sie \"Spiegelung\" auf ",
-				"sich selber!\\. Es ist immer wieder toll anzusehen, ",
-				"wie verdutzt die Zauberer blicken, wenn die ihren ",
-				"Spruch zurückgeschleudert bekommen!"
+				"\\c[10]Prisoner\\c[0]: Now they cast \"Reflect\" on themselves!\\.",
+				"It's always a joy to see how stunned aspiring",
+				"mages look when they get their spell thrown",
+				"right back!"
 			]
 		},
 		{
@@ -1724,10 +1713,9 @@
 			"original": "Felcis: Oh? Ihr seid auch mal hier oben? Es ist nett, dass die Wächter den Gefangenen hier soviel Freilauf lassen.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Oh?\\. Ihr seid auch mal hier ",
-				"oben?\\. Es ist nett, dass die Wächter ",
-				"den Gefangenen hier soviel Freilauf ",
-				"lassen."
+				"\\c[5]\\n[5]\\c[0]: Oh?\\. You're up here too?\\. It's",
+				"nice that the guards give the",
+				"prisoners here so much free rein."
 			]
 		},
 		{
@@ -1735,9 +1723,9 @@
 			"original": "Felcis: Auch das Turnier ist recht unterhaltsam, wenn auch etwas barbarisch für meinen Geschmack.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Auch das Turnier ist recht ",
-				"unterhaltsam, wenn auch etwas ",
-				"barbarisch für meinen Geschmack."
+				"\\c[5]\\n[5]\\c[0]: The tournament is also quite",
+				"entertaining, albeit a little",
+				"barbaric for my taste."
 			]
 		},
 		{
@@ -1745,8 +1733,8 @@
 			"original": "Wächter: ALLE GEFANGENEN SOFORT ZURÜCK IN DIE ZELLEN!",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] ALLE GEFANGENEN SOFORT ZURÜCK IN DIE ",
-				"ZELLEN!"
+				"\\c[10]Guard\\c[0]: ALL PRISONERS GET BACK INTO THEIR CELLS",
+				"IMMEDIATELY!"
 			]
 		},
 		{
@@ -1754,8 +1742,8 @@
 			"original": "Felcis: Cieoly, das war jetzt wirklich nicht nötig.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Cieoly,\\. das war jetzt ",
-				"wirklich nicht nötig."
+				"\\c[5]\\n[5]\\c[0]: Cieoly,\\. I really didn't need",
+				"that to happen just now."
 			]
 		},
 		{
@@ -1763,8 +1751,8 @@
 			"original": "Gefangener: Oha, was ist das denn? Ein schöner funkelnder Stein! Neues Diebesgut, har har!",
 			"lines":
 			[
-				"\\c[10]Gefangener:\\c[0] Oha, was ist das denn?\\. Ein schöner ",
-				"funkelnder Stein!\\. Neues Diebesgut, har har!"
+				"\\c[10]Prisoner\\c[0]: Ooo, what's this?\\. A beautiful sparkling",
+				"stone!\\. New stolen goods, har har har!"
 			]
 		},
 		{
@@ -1772,9 +1760,9 @@
 			"original": "Felcis: Was zum...! Gleich zweimal Pech hintereinander. So war das sicher nicht geplant.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Was zum...!\\. Gleich zweimal ",
-				"Pech hintereinander.\\. So war ",
-				"das sicher nicht geplant."
+				"\\c[5]\\n[5]\\c[0]: What the...\\. Bad luck twice in",
+				"a row.\\. I definitely didn't plan for",
+				"it to go this way."
 			]
 		},
 		{
@@ -1782,8 +1770,8 @@
 			"original": "Wächter: ALLE GEFANGENEN SOFORT ZURÜCK IN DIE ZELLEN!",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] ALLE GEFANGENEN SOFORT ZURÜCK IN DIE ",
-				"ZELLEN!"
+				"\\c[10]Guard\\c[0]: ALL PRISONERS GET BACK INTO THEIR CELLS",
+				"IMMEDIATELY!"
 			]
 		},
 		{
@@ -1791,9 +1779,9 @@
 			"original": "Felcis: So, Cieoly. Du weißt, wo diese Nachricht hingeht, richtig? Verpatz das jetzt bloß nicht.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: So, Cieoly.\\. Du weißt, wo diese",
-				"Nachricht hingeht, richtig?\\. Verpatz",
-				"das jetzt bloß nicht. "
+				"\\c[5]\\n[5]\\c[0]: So, Cieoly.\\. You know where",
+				"this message is supposed to go,",
+				"right?\\. Don't screw this up now."
 			]
 		},
 		{
@@ -1801,10 +1789,10 @@
 			"original": "Felcis: Drück mir die Daumen. Wenn alles gut geht, gebe ich dir morgen etwas Feines zum Naschen. Außerhalb dieser Mauern.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Drück mir die Daumen.\\. Wenn",
-				"alles gut geht, gebe ich dir morgen",
-				"etwas Feines zum Naschen.\\. ",
-				"Außerhalb dieser Mauern. "
+				"\\c[5]\\n[5]\\c[0]: I'll be keeping my fingers",
+				"crossed.\\. If everything goes well,",
+				"I'll give you something nice to snack",
+				"on tomorrow.\\. Outside these walls."
 			]
 		}
 	],

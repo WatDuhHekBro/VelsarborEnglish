@@ -377,8 +377,8 @@
 			"original": "Royko: Oh! Da seid ihr ja. Endlich treffe ich euch wieder.",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Oh!\\. Da seid ihr ja.\\. Endlich ",
-				"treffe ich euch wieder."
+				"\\c[10]Royko\\c[0]: Oh!\\. There you are.\\. We finally",
+				"meet again."
 			]
 		},
 		{
@@ -386,7 +386,7 @@
 			"original": "Kento: Ehm, hallo?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ehm, hallo?"
+				"\\c[1]\\n[1]\\c[0]: Oh, hello?"
 			]
 		},
 		{
@@ -394,8 +394,8 @@
 			"original": "Royko: Ich bin Royko! Der Typ von der Brücke. Vom Torasgebirge.",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Ich bin Royko!\\. Der Typ ",
-				"von der Brücke.\\. Vom Torasgebirge."
+				"\\c[10]Royko\\c[0]: I'm Royko!\\. The guy from the",
+				"bridge.\\. At Mount Toras."
 			]
 		},
 		{
@@ -403,9 +403,9 @@
 			"original": "Soko: Royko... Ach so, genau! Ich erinnere mich. Und du bist jetzt hier im Gefängnis?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Royko...\\. Ach so, genau!\\. Ich ",
-				"erinnere mich.\\. Und du bist jetzt ",
-				"hier im Gefängnis?"
+				"\\c[13]\\n[3]\\c[0]: Royko...\\. Oh, right!\\. I remember",
+				"you.\\. And you've now arrived at the",
+				"prison?"
 			]
 		},
 		{
@@ -413,10 +413,9 @@
 			"original": "Royko: Ja, wie ich euch erzählt habe... Aber... Wie seid ihr bitte hier gelandet? Was habt ihr angestellt?",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Ja, wie ich euch erzählt ",
-				"habe... \\.Aber...\\. Wie seid ihr bitte ",
-				"hier gelandet?\\. Was habt ihr ",
-				"angestellt?"
+				"\\c[10]Royko\\c[0]: Yep, just like I said...\\. But...\\.",
+				"How did you end up here?\\. What did you",
+				"do?"
 			]
 		},
 		{
@@ -424,9 +423,9 @@
 			"original": "Soko: Wir sind hier zu unrecht eingesperrt! Man hält uns für Landesverräter, aber wir sind keine!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wir sind hier zu unrecht ",
-				"eingesperrt!\\. Man hält uns für ",
-				"Landesverräter, aber wir sind keine!"
+				"\\c[13]\\n[3]\\c[0]: We were wrongly locked up here!\\.",
+				"We're thought to be these traitors,",
+				"but we aren't!"
 			]
 		},
 		{
@@ -434,10 +433,10 @@
 			"original": "Royko: Diese Spionage-Geschichte habe ich bereits gehört. Ich konnte mir auch nicht vorstellen, dass ihr so etwas machen würdet...",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Diese Spionage-Geschichte ",
-				"habe ich bereits gehört.\\. Ich konnte ",
-				"mir auch nicht vorstellen, dass ihr ",
-				"so etwas machen würdet..."
+				"\\c[10]Royko\\c[0]: I've already heard that",
+				"espionage story.\\. I also couldn't",
+				"imagine that you'd do anything",
+				"like this..."
 			]
 		},
 		{
@@ -445,9 +444,8 @@
 			"original": "Cibon: Hey, wärst du vielleicht in der Lage, uns irgendwie hier raus zu hohlen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hey, wärst du vielleicht in ",
-				"der Lage, uns irgendwie hier raus zu ",
-				"hohlen? "
+				"\\c[2]\\n[2]\\c[0]: Hey, would you be able to",
+				"somehow get us out of here?"
 			]
 		},
 		{
@@ -455,9 +453,9 @@
 			"original": "Royko: Ich euch hier? ... Nein, tut mir Leid. Aus Helnovien zu fliehen ist ziemlich unmöglich...",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Ich euch hier?\\. ...\\. Nein, tut ",
-				"mir Leid. \\.Aus Helnovien zu fliehen ",
-				"ist ziemlich unmöglich..."
+				"\\c[10]Royko\\c[0]: Get you out of here?\\. No, I'm",
+				"sorry.\\. Escaping Helnovien is pretty",
+				"much impossible..."
 			]
 		},
 		{
@@ -465,8 +463,8 @@
 			"original": "Royko: Da kann ich als einzelne Wache auch nichts dran ändern.",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Da kann ich als einzelne ",
-				"Wache auch nichts dran ändern."
+				"\\c[10]Royko\\c[0]: And as just one guard, there's",
+				"nothing I can do about it."
 			]
 		},
 		{
@@ -474,10 +472,9 @@
 			"original": "Kento: Es muss ja nicht gleich fliehen sein. Könntest du nicht ein gutes Wort für uns einlegen, damit man uns wieder freilässt?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es muss ja nicht gleich ",
-				"fliehen sein.\\. Könntest du nicht ein ",
-				"gutes Wort für uns einlegen, damit ",
-				"man uns wieder freilässt?"
+				"\\c[1]\\n[1]\\c[0]: We don't have to escape right",
+				"away.\\. Couldn't you leave us with a",
+				"positive referral to be released?"
 			]
 		},
 		{
@@ -485,9 +482,8 @@
 			"original": "Royko: Freilassen? Hier in Helnovien? Die lassen in der Regel keine Leute frei hier...",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Freilassen?\\. Hier in ",
-				"Helnovien?\\. Die lassen in der Regel ",
-				"keine Leute frei hier..."
+				"\\c[10]Royko\\c[0]: Released?\\. Here in Helnovien?\\.",
+				"They usually don't free people here..."
 			]
 		},
 		{
@@ -495,7 +491,7 @@
 			"original": "Soko: Wie bitte?!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wie bitte?!"
+				"\\c[13]\\n[3]\\c[0]: Excuse me?!"
 			]
 		},
 		{
@@ -503,10 +499,10 @@
 			"original": "Royko: Dass heißt, solange noch Platz im Gefängnis ist oder sie nicht strikt von der Regierung dazu beordert werden...",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Dass heißt, solange noch ",
-				"Platz im Gefängnis ist oder sie ",
-				"nicht strikt von der Regierung dazu ",
-				"beordert werden..."
+				"\\c[10]Royko\\c[0]: Meaning, for as long as there's",
+				"still room in this prison or they",
+				"aren't strictly ordered to be",
+				"released by the government..."
 			]
 		},
 		{
@@ -514,10 +510,10 @@
 			"original": "Royko: Ich als einsame Wache kann da leider nichts dran ändern... Erst recht nicht bei der Führung, die wir im Moment haben...",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Ich als einsame Wache kann da ",
-				"leider nichts dran ändern...\\. Erst ",
-				"recht nicht bei der Führung, die wir ",
-				"im Moment haben..."
+				"\\c[10]Royko\\c[0]: As just one guard, there's",
+				"nothing I can do about it...\\.",
+				"Especially not with our current",
+				"leadership at the moment..."
 			]
 		},
 		{
@@ -525,7 +521,7 @@
 			"original": "Kento: Oh, wer ist das denn im Moment?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Oh,\\. wer ist das denn im Moment?"
+				"\\c[1]\\n[1]\\c[0]: Oh,\\. who is that?"
 			]
 		},
 		{
@@ -533,7 +529,7 @@
 			"original": "Royko: ... Wer ist was?",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: ...\\. Wer ist was?"
+				"\\c[10]Royko\\c[0]: Who is what?"
 			]
 		},
 		{
@@ -541,7 +537,7 @@
 			"original": "Kento: ... Die Führung...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...\\. Die Führung..."
+				"\\c[1]\\n[1]\\c[0]: ...\\.The leadership..."
 			]
 		},
 		{
@@ -549,10 +545,9 @@
 			"original": "Royko: Ach so, das ist Sir Dolaros. Der ist noch nicht all zu lange hier, aber wir alle wissen bereits, wie starrköpfig er ist.",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Ach so,\\. das ist Sir Dolaros.\\. ",
-				"Der ist noch nicht all zu lange ",
-				"hier, aber wir alle wissen bereits, ",
-				"wie starrköpfig er ist."
+				"\\c[10]Royko\\c[0]: Oh,\\. that'd be Sir Dolaros.\\. He",
+				"hasn't been here for long, but we all",
+				"already know how stubborn he is."
 			]
 		},
 		{
@@ -560,9 +555,8 @@
 			"original": "Royko: Ihn mit Worten umzustimmen ist meistens ein Ding der Unmöglichkeit...",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Ihn mit Worten umzustimmen ",
-				"ist meistens ein Ding der ",
-				"Unmöglichkeit..."
+				"\\c[10]Royko\\c[0]: Changing his mind on anything",
+				"is near impossible..."
 			]
 		},
 		{
@@ -570,8 +564,8 @@
 			"original": "Kento: Ist das so eine stämmige Person, mit kurzen, blonden Haaren?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ist das so eine stämmige ",
-				"Person, mit kurzen, blonden Haaren?"
+				"\\c[1]\\n[1]\\c[0]: Is that the bulky guy with",
+				"short, blonde hair?"
 			]
 		},
 		{
@@ -579,7 +573,7 @@
 			"original": "Royko: Ja, genau so...",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Ja, genau so..."
+				"\\c[10]Royko\\c[0]: Yeah, that's him..."
 			]
 		},
 		{
@@ -587,8 +581,8 @@
 			"original": "Wächter: Hey, du da drüben! Was redest du mit den Gefangenen? Geh zurück an deinen Posten!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hey, du da drüben!\\. Was redest du mit den ",
-				"Gefangenen?\\. Geh zurück an deinen Posten!"
+				"\\c[10]Guard\\c[0]: Hey, you over there!\\. What are you doing",
+				"talking to the prisoners?\\. Get back to your post!"
 			]
 		},
 		{
@@ -596,7 +590,7 @@
 			"original": "Royko: Z... Zu Befehl!",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Z...\\. Zu Befehl!"
+				"\\c[10]Royko\\c[0]: At...\\. At your command!"
 			]
 		},
 		{
@@ -604,8 +598,7 @@
 			"original": "Royko: Tut mir Leid, ich muss weiter.",
 			"lines":
 			[
-				"\\c[10]Royko\\c[0]: Tut mir Leid, ich muss ",
-				"weiter."
+				"\\c[10]Royko\\c[0]: I'm sorry, I have to get going."
 			]
 		},
 		{
@@ -613,7 +606,7 @@
 			"original": "Cibon: Bis dann, Kollege...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Bis dann, Kollege..."
+				"\\c[2]\\n[2]\\c[0]: Until then, my friend..."
 			]
 		},
 		{
@@ -621,8 +614,8 @@
 			"original": "Cibon: ... Das sind ja wirklich herrliche Aussichten hier...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...\\. Das sind ja wirklich ",
-				"herrliche Aussichten hier..."
+				"\\c[2]\\n[2]\\c[0]: Just our luck to end up here of",
+				"all places..."
 			]
 		},
 		{
@@ -630,8 +623,7 @@
 			"original": "Soko: Womit haben wir all das verdient...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Womit haben wir all das ",
-				"verdient..."
+				"\\c[13]\\n[3]\\c[0]: How do we deserve all this..."
 			]
 		},
 		{
@@ -639,10 +631,9 @@
 			"original": "Kento: So wie es aussieht, werden wir hier von der Führung des Gefängnisses höchstpersönlich verhört.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: So wie es aussieht, werden ",
-				"wir hier von der Führung des ",
-				"Gefängnisses höchstpersönlich ",
-				"verhört. "
+				"\\c[1]\\n[1]\\c[0]: And it looks like we're being",
+				"interrogated here personally by the",
+				"leader of the prison himself."
 			]
 		},
 		{
@@ -650,9 +641,9 @@
 			"original": "Kento: Ziemlich merkwürdig eigentlich, dass das kein Untergeordneter macht.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ziemlich merkwürdig ",
-				"eigentlich, dass das kein ",
-				"Untergeordneter macht."
+				"\\c[1]\\n[1]\\c[0]: Quite strange if you think",
+				"about it actually, that it isn't",
+				"a subordinate who does that."
 			]
 		},
 		{
@@ -703,10 +694,10 @@
 			"original": "Felcis: So wie es aussieht, haben wir alles zusammen. Das heißt, wir können loslegen, sobald ihr bereit dazu seid.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: So wie es aussieht, haben ",
-				"wir alles zusammen.\\. Das heißt, wir ",
-				"können loslegen, sobald ihr bereit ",
-				"dazu seid."
+				"\\c[5]\\n[5]\\c[0]: It looks like we have",
+				"everything together.\\. That means",
+				"we can get started as soon as",
+				"you're ready."
 			]
 		},
 		{
@@ -714,9 +705,8 @@
 			"original": "Felcis: Wir müssen das Ganze nicht gleich heute durchziehen, aber zu lange warten dürfen wir auch nicht.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Wir müssen das Ganze nicht ",
-				"gleich heute durchziehen, aber zu ",
-				"lange warten dürfen wir auch nicht."
+				"\\c[5]\\n[5]\\c[0]: We don't have to do it today,",
+				"but we can't wait too long either."
 			]
 		},
 		{
@@ -724,10 +714,9 @@
 			"original": "Felcis: Ich werde ab heute jeden Feierabend hier in der Kantine rumhängen. Sagt mir Bescheid, wenn ihr soweit seid.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich werde ab heute jeden ",
-				"Feierabend hier in der Kantine ",
-				"rumhängen.\\. Sagt mir Bescheid, wenn ",
-				"ihr soweit seid."
+				"\\c[5]\\n[5]\\c[0]: I'll hang out around here in",
+				"the cafe every evening after work.\\.",
+				"Let me know when you're ready."
 			]
 		},
 		{
@@ -735,10 +724,9 @@
 			"original": "Kento: Eine Frage noch, Felcis. Wir sind jetzt in der Lage die Barriere zu brechen, aber was ist mit dem Rest?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Eine Frage noch, Felcis.\\. Wir ",
-				"sind jetzt in der Lage die Barriere ",
-				"zu brechen, aber was ist mit dem ",
-				"Rest?"
+				"\\c[1]\\n[1]\\c[0]: One more question, Felcis.\\. Now",
+				"that we're able to break the barrier,",
+				"what about the rest?"
 			]
 		},
 		{
@@ -746,9 +734,9 @@
 			"original": "Kento: Nur weil die Barriere gebrochen ist, heißt das nicht, dass wird gemütlich rausspazieren können.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Nur weil die Barriere ",
-				"gebrochen ist, heißt das nicht, dass ",
-				"wird gemütlich rausspazieren können."
+				"\\c[1]\\n[1]\\c[0]: Just because the barrier is",
+				"broken, doesn't mean that we can",
+				"just walk out without a care."
 			]
 		},
 		{
@@ -756,10 +744,9 @@
 			"original": "Felcis: Da hast du vollkommen Recht. Allerdings habe ich bereits einen Plan, wie wir die Wächter ablenken können.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Da hast du vollkommen Recht. ",
-				"Allerdings habe ich bereits einen ",
-				"Plan, wie wir die Wächter ablenken ",
-				"können."
+				"\\c[5]\\n[5]\\c[0]: You're absolutely right.",
+				"However, I already have a plan",
+				"for how to distract the guards."
 			]
 		},
 		{
@@ -767,9 +754,8 @@
 			"original": "Felcis: Ich werde euch darin einweisen, wenn wir die Operation starten.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich werde euch darin ",
-				"einweisen, wenn wir die Operation ",
-				"starten."
+				"\\c[5]\\n[5]\\c[0]: I'll tell you about it when we",
+				"start the operation."
 			]
 		},
 		{
@@ -777,8 +763,8 @@
 			"original": "Felcis: Sprecht mich dann in der Kantine an, wenn ihr soweit seid.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Sprecht mich dann in der ",
-				"Kantine an, wenn ihr soweit seid."
+				"\\c[5]\\n[5]\\c[0]: Talk to me in the cafe when",
+				"you're ready."
 			]
 		},
 		{
@@ -786,9 +772,9 @@
 			"original": "Kento: Dieser Felcis hat wirklich seine Art uns immer im letzt möglichen Moment aufzuklären...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Dieser Felcis hat wirklich ",
-				"seine Art uns immer im letzt ",
-				"möglichen Moment aufzuklären..."
+				"\\c[1]\\n[1]\\c[0]: This Felcis guy really has",
+				"a way of enlightening us only at",
+				"the last possible moment..."
 			]
 		}
 	],

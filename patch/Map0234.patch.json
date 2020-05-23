@@ -6,7 +6,8 @@
 			"original": "Wächter: Wollt ihr ne Erklärung zur Rüstungswahl?",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Wollt ihr ne Erklärung zur Rüstungswahl?"
+				"\\c[10]Guard\\c[0]: Do you want an explanation on choosing",
+				"equipment?"
 			]
 		},
 		{
@@ -15,8 +16,8 @@
 			"original": "Wächter: Wie ihr sicher schon bemerkt habt, bekommt ihr einige Turniermünzen von uns.",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Wie ihr sicher schon bemerkt habt, ",
-				"bekommt ihr einige Turniermünzen von uns. "
+				"\\c[10]Guard\\c[0]: As you've probably already noticed, you'll",
+				"get some tournament coins from us."
 			]
 		},
 		{
@@ -25,9 +26,9 @@
 			"original": "Wächter: Diese könnt ihr hier gegen Rüstungsteile und sonstige Gegenstände eintauschen, die ihr dann im Kampf verwenden könnt.",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Diese könnt ihr hier gegen Rüstungsteile ",
-				"und sonstige Gegenstände eintauschen, die ihr dann ",
-				"im Kampf verwenden könnt."
+				"\\c[10]Guard\\c[0]: You can then exchange them here for",
+				"equipment and other items that you can use",
+				"in combat."
 			]
 		},
 		{
@@ -36,10 +37,10 @@
 			"original": "Wächter: Ihr wählt eure Ausrüstung übrigens nur einmal pro Tag. Ihr könnt die Ausrüstung nicht zwischen den Kämpfen mal eben umändern. Also plant gut im Voraus, wenn ihr mehrmals kämpfen wollt.",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Ihr wählt eure Ausrüstung übrigens nur ",
-				"einmal pro Tag. Ihr könnt die Ausrüstung nicht ",
-				"zwischen den Kämpfen mal eben umändern. Also plant ",
-				"gut im Voraus, wenn ihr mehrmals kämpfen wollt."
+				"\\c[10]Guard\\c[0]: You can only choose your equipment once per",
+				"day. You cannot change your equipment in-between",
+				"fights. So plan accordingly if you plan on",
+				"fighting more than once."
 			]
 		},
 		{
@@ -48,9 +49,8 @@
 			"original": "Wächter: Natürlich werdet ihr weder die Rüstung, noch die Münzen behalten, wenn eure Kämpfe vorbei sind.",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Natürlich werdet ihr weder die Rüstung, ",
-				"noch die Münzen behalten, wenn eure Kämpfe ",
-				"vorbei sind."
+				"\\c[10]Guard\\c[0]: Of course, you won't keep your armor or",
+				"coins when these battles are over."
 			]
 		},
 		{
@@ -59,8 +59,9 @@
 			"original": "Wächter: Wie? Habt ihr euch anders entschieden? Dann halt noch mal von vorne. Beeilt euch!",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Wie? Habt ihr euch anders entschieden?\\.",
-				"Dann halt noch mal von vorne.\\. Beeilt euch!"
+				"\\c[10]Guard\\c[0]: Why?\\. Are you choosing something different?\\.",
+				"Then let's start again from the beginning.\\.",
+				"Hurry up already!"
 			]
 		},
 		{
@@ -69,8 +70,8 @@
 			"original": "Wächter: Dann redet mich nicht an, sondern wählt eure Rüstung und kämpft.",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Dann redet mich nicht an, sondern wählt ",
-				"eure Rüstung und kämpft."
+				"\\c[10]Guard\\c[0]: Then don't speak to me, choose your",
+				"equipment and fight."
 			]
 		},
 		{
@@ -79,8 +80,8 @@
 			"original": "Wächter: Oha, ein neuer Teilnehmer. Hier habt ihr eure Minen-Standardausrüstung und Turniermünzen.",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Oha, ein neuer Teilnehmer.\\. Hier habt ihr ",
-				"eure Minen-Standardausrüstung und Turniermünzen."
+				"\\c[10]Guard\\c[0]: Oh, a new participant.\\. Here's your standard",
+				"mining equipment and tournament coins."
 			]
 		},
 		{
@@ -89,7 +90,7 @@
 			"original": "Wächter: Hier eure Turniermünzen.",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Hier eure Turniermünzen."
+				"\\c[10]Guard\\c[0]: Here are your tournament coins."
 			]
 		},
 		{
@@ -98,9 +99,9 @@
 			"original": "Wächter: Die Anzahl eurer Turniermünzen hängt übrigens davon ab, wie viel Erz ihr heute gesammelt habt.",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Die Anzahl eurer Turniermünzen hängt ",
-				"übrigens davon ab, wie viel Erz ihr heute ",
-				"gesammelt habt."
+				"\\c[10]Guard\\c[0]: By the way, the amount of tournament coins",
+				"you get depends on how much ore you've collected",
+				"today."
 			]
 		},
 		{
@@ -109,10 +110,10 @@
 			"original": "Wächter: Ihr könnt hier nun eure Turniermünzen in bessere Ausrüstung umtauschen, falls ihr denkt, dass Spitzhacke und Arbeiterkleidung nicht gut genug für euch sind.",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Ihr könnt hier nun eure Turniermünzen in ",
-				"bessere Ausrüstung umtauschen, falls ihr denkt, ",
-				"dass Spitzhacke und Arbeiterkleidung nicht gut ",
-				"genug für euch sind."
+				"\\c[10]Guard\\c[0]: You can now exchange your tournament coins",
+				"for better equipment here if you think that those",
+				"pickaxes and work clothes aren't good enough for",
+				"you."
 			]
 		},
 		{
@@ -121,8 +122,8 @@
 			"original": "Wächter: Solltet ihr Fragen zur Rüstungswahl haben, stellt sie mir ruhig.",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Solltet ihr Fragen zur Rüstungswahl ",
-				"haben, stellt sie mir ruhig."
+				"\\c[10]Guard\\c[0]: If you have any questions about choosing",
+				"equipment, feel free to ask me."
 			]
 		},
 		{
@@ -131,8 +132,8 @@
 			"original": "Wächter: Macht schnell bei eurer Auswahl, lasst die Anderen nicht warten.",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Macht schnell bei eurer Auswahl, lasst ",
-				"die Anderen nicht warten."
+				"\\c[10]Guard\\c[0]: Hurry up and get your equipment, don't keep",
+				"the others waiting."
 			]
 		},
 		{
@@ -183,7 +184,7 @@
 			"original": "Wächter: Geht raus, wenn ihr soweit seid.",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Geht raus, wenn ihr soweit seid."
+				"\\c[10]Guard\\c[0]: Get out when you're ready."
 			]
 		},
 		{
@@ -191,10 +192,10 @@
 			"original": "Wächter: Eine ganz schöne Sammlung an Ausrüstungsgegenständen haben wir hier, nicht? Wäre ja auch langweilig, wenn ihr euch die ganze Zeit nur mit Spitzhacken bekämpfen würdet.",
 			"lines":
 			[
-				"\\c[10]Wächter:\\c[0] Eine ganz schöne Sammlung an ",
-				"Ausrüstungsgegenständen haben wir hier, nicht?\\.",
-				"Wäre ja auch langweilig, wenn ihr euch die ganze ",
-				"Zeit nur mit Spitzhacken bekämpfen würdet."
+				"\\c[10]Guard\\c[0]: We have a very nice collection of equipment",
+				"here, don't we?\\. Would also be quite boring if",
+				"prisoners could only fight with pickaxes all",
+				"the time."
 			]
 		},
 		{
@@ -202,7 +203,7 @@
 			"original": "Wächter: Seid ihr bereit für das Gefecht?",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Seid ihr bereit für das Gefecht?"
+				"\\c[10]Guard\\c[0]: Are you ready for the battle?"
 			]
 		},
 		{
@@ -210,10 +211,10 @@
 			"original": "Wächter: Hey, was soll das? Wollt ihr jetzt etwa den Kürzeren ziehen? Einmal drin gibt es kein Zurück. Ihr macht jetzt eurem Kampf, ob ihr wollt oder nicht!",
 			"lines":
 			[
-				"\\c[10]Wächter\\c[0]: Hey, was soll das?\\. Wollt ihr jetzt etwa",
-				"den Kürzeren ziehen?\\. Einmal drin gibt es kein ",
-				"Zurück.\\. Ihr macht jetzt eurem Kampf, ob ihr wollt ",
-				"oder nicht!"
+				"\\c[10]Guard\\c[0]: Hey, what's this all about?\\. Are you trying",
+				"to back out now?\\. Once you're in, there's no going",
+				"back.\\. You're going into the arena whether you",
+				"like it or not!"
 			]
 		}
 	],
@@ -222,22 +223,22 @@
 		{
 			"path": [77,1,3],
 			"original": "Ja, bitte/Auswahl zurücksetzen/Nein, danke.",
-			"patch": "Ja, bitte/Auswahl zurücksetzen/Nein, danke."
+			"patch": "Yes please./Can I reset my selection?/No thanks."
 		},
 		{
 			"path": [77,1,4],
 			"original": "Ja, bitte",
-			"patch": "Ja, bitte"
+			"patch": "Yes please."
 		},
 		{
 			"path": [77,1,20],
 			"original": "Auswahl zurücksetzen",
-			"patch": "Auswahl zurücksetzen"
+			"patch": "Can I reset my selection?"
 		},
 		{
 			"path": [77,1,29],
 			"original": "Nein, danke.",
-			"patch": "Nein, danke."
+			"patch": "No thanks."
 		},
 		{
 			"path": [81,1,4],
@@ -247,17 +248,17 @@
 		{
 			"path": [84,1,5],
 			"original": "Auf in die Arena!/Moment, noch nicht!",
-			"patch": "Auf in die Arena!/Moment, noch nicht!"
+			"patch": "All set!/Wait, not yet!"
 		},
 		{
 			"path": [84,1,6],
 			"original": "Auf in die Arena!",
-			"patch": "Auf in die Arena!"
+			"patch": "All set!"
 		},
 		{
 			"path": [84,1,20],
 			"original": "Moment, noch nicht!",
-			"patch": "Moment, noch nicht!"
+			"patch": "Wait, not yet!"
 		}
 	]
 }

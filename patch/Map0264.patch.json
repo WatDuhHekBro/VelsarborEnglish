@@ -117,8 +117,8 @@
 			"original": "Pauamainer-Miglied: Dies ist der Stützpunkt der Pauamainer-Untertage-Brüderschaft!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Dies ist der Stützpunkt der ",
-				"Pauamainer-Untertage-Brüderschaft!"
+				"\\c[10]Pauamainer Member\\c[0]: This is the base of the",
+				"underground Pauamainer Brotherhood!"
 			]
 		},
 		{
@@ -126,8 +126,7 @@
 			"original": "Pauamainer-Miglied: NUR MITGLIEDER HABEN ZUTRITT!!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: NUR MITGLIEDER HABEN ",
-				"ZUTRITT!!"
+				"\\c[10]Pauamainer Member\\c[0]: ONLY MEMBERS HAVE ACCESS!!"
 			]
 		},
 		{
@@ -136,9 +135,8 @@
 			"original": "Kento: Ja ja, schon verstanden. Hier, wir haben alle Minen-Orden. Können wir durch?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ja ja, schon verstanden.\\.",
-				"Hier, wir haben alle Minen-Orden. \\.",
-				"Können wir durch?"
+				"\\c[1]\\n[1]\\c[0]: Okay okay, I understand.\\. We have all miner",
+				"medallions here.\\. Can we pass now?"
 			]
 		},
 		{
@@ -147,9 +145,10 @@
 			"original": "Pauamainer-Miglied: IHR HABT ALLE 8 MINEN-ORDEN GESAMMELT!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: IHR HABT ALLE 8 MINEN-ORDEN ",
-				"GESAMMELT!\\.\\^"
-			]
+				"\\c[10]Pauamainer Member\\c[0]: YOU HAVE COLLECTED ALL EIGHT",
+				"MINER MEDALLIONS!\\.\\^"
+			],
+			"__comment__": "Pseudo-scrolling"
 		},
 		{
 			"path": [88,1,32,3],
@@ -157,9 +156,9 @@
 			"original": "Pauamainer-Miglied: IHR HABT ALLE 8 MINEN-ORDEN GESAMMELT! DAMIT SEID ICH NUN OFFIZIELL MITGLIEDER DER PAUAMAINER-UNTERTRAGE-BRÜDERSCHAFT!",
 			"lines":
 			[
-				"\\>\\c[10]Pauamainer-Miglied\\c[0]: IHR HABT ALLE 8 MINEN-ORDEN ",
-				"\\>GESAMMELT!\\< DAMIT SEID ICH NUN OFFIZIELL MITGLIEDER ",
-				"DER PAUAMAINER-UNTERTRAGE-BRÜDERSCHAFT!\\.\\^"
+				"\\>\\c[10]Pauamainer Member\\c[0]: YOU HAVE COLLECTED ALL EIGHT",
+				"\\>MINER MEDALLIONS!\\< SO NOW YOU THREE ARE OFFICIALLY",
+				"MEMBERS OF THE UNDERGROUND PAUAMAINER BROTHERHOOD!\\.\\^"
 			]
 		},
 		{
@@ -168,10 +167,10 @@
 			"original": "Pauamainer-Miglied: IHR HABT ALLE 8 MINEN-ORDEN GESAMMELT! DAMIT SEID ICH NUN OFFIZIELL MITGLIEDER DER PAUAMAINER-UNTERTRAGE-BRÜDERSCHAFT! HERZLICHEN WILLKOMMEN!",
 			"lines":
 			[
-				"\\>\\c[10]Pauamainer-Miglied\\c[0]: IHR HABT ALLE 8 MINEN-ORDEN ",
-				"\\>GESAMMELT! DAMIT SEID ICH NUN OFFIZIELL MITGLIEDER ",
-				"\\>DER PAUAMAINER-UNTERTRAGE-BRÜDERSCHAFT!\\< HERZLICHEN ",
-				"WILLKOMMEN!\\.\\^"
+				"\\>\\c[10]Pauamainer Member\\c[0]: YOU HAVE COLLECTED ALL EIGHT",
+				"\\>MINER MEDALLIONS! SO NOW YOU THREE ARE OFFICIALLY",
+				"\\>MEMBERS OF THE UNDERGROUND PAUAMAINER BROTHERHOOD!\\<",
+				"WELCOME!\\.\\^"
 			]
 		},
 		{
@@ -180,8 +179,8 @@
 			"original": "Cibon: Juhu, wir sind in der Brüderschaft! Sogar Soko!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Juhu, wir sind in der ",
-				"Brüderschaft!\\. Sogar Soko!"
+				"\\c[2]\\n[2]\\c[0]: Yay, we're in the brotherhood!\\.",
+				"Even Soko!"
 			]
 		},
 		{
@@ -199,7 +198,7 @@
 			"original": "Pauamainer-Miglied: IHR DÜRFT PASSIEREN!",
 			"lines":
 			[
-				"\\>\\c[10]Pauamainer-Miglied\\c[0]: IHR DÜRFT PASSIEREN!"
+				"\\c[10]Pauamainer Member\\c[0]: YOU MAY PASS!"
 			]
 		},
 		{
@@ -208,8 +207,8 @@
 			"original": "Pauamainer-Miglied: Wenn ihr Mitglieder werden wollt, BRINGT MIR 8 MINEN-ORDEN!!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: Wenn ihr Mitglieder werden ",
-				"wollt, BRINGT MIR 8 MINEN-ORDEN!!"
+				"\\c[10]Pauamainer Member\\c[0]: If you want to become a member,",
+				"BRING ME EIGHT MINER MEDALLIONS!!"
 			]
 		},
 		{
@@ -218,8 +217,8 @@
 			"original": "Kento: Minen-Orden? Ehm... Und wo bekommt man die her?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Minen-Orden?\\. Ehm...\\. ",
-				"Und wo bekommt man die her?"
+				"\\c[1]\\n[1]\\c[0]: Miner medallions?\\. Um...\\.",
+				"Where do we find these?"
 			]
 		},
 		{
@@ -228,10 +227,9 @@
 			"original": "Pauamainer-Miglied: 8 PAUAMAINER-MITGLIEDER, die in den hintersten Ecken der Mine arbeiten, werden euch die Orden überreichen, WENN IHR SIE ERREICHT!!!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: 8 PAUAMAINER-MITGLIEDER, die ",
-				"in den hintersten Ecken der Mine arbeiten, werden ",
-				"euch die Orden überreichen,\\. WENN IHR SIE ",
-				"ERREICHT!!!"
+				"\\c[10]Pauamainer Member\\c[0]: EIGHT PAUAMAINER MEMBERS\\. who",
+				"work in the far corners of the mine will award",
+				"you the medallions\\. WHEN YOU REACH THEM!!!"
 			]
 		},
 		{
@@ -240,8 +238,8 @@
 			"original": "Soko: Muss der Typ immer so laut schreien?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Muss der Typ immer so laut ",
-				"schreien?"
+				"\\c[13]\\n[3]\\c[0]: Does this guy always have to",
+				"scream so loud?"
 			]
 		},
 		{
@@ -250,8 +248,8 @@
 			"original": "Cibon: Glaubst du wirklich, der Typ kann normal reden?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Glaubst du wirklich, der Typ ",
-				"kann normal reden?"
+				"\\c[2]\\n[2]\\c[0]: Do you really think the guy can",
+				"speak normally?"
 			]
 		},
 		{
@@ -260,7 +258,7 @@
 			"original": "Pauamainer-Miglied: BESUCHT UNS BALD WIEDER!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: BESUCHT UNS BALD WIEDER!"
+				"\\c[10]Pauamainer Member\\c[0]: VISIT US SOON!"
 			]
 		},
 		{
@@ -269,8 +267,7 @@
 			"original": "Pauamainer-Miglied: HALLO BRÜDER! IHR DÜRFT PASSIEREN!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Miglied\\c[0]: HALLO BRÜDER!\\. IHR DÜRFT ",
-				"PASSIEREN!"
+				"\\c[10]Pauamainer Member\\c[0]: HELLO BROTHERS!\\. YOU MAY PASS!"
 			]
 		},
 		{

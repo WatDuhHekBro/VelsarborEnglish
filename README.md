@@ -7,12 +7,19 @@ To install this patch, follow the instructions [here](GettingStarted.md).
 # Videos
 I have a playlist of update videos in case you want to watch it instead of playing it, [here](https://www.youtube.com/playlist?list=PLT800wgkhxolwCulnS8bWs9LVEPnssTgy). Keep in mind that I'm cutting out regular battles since they're boring to watch.
 
+These are the two trailers for the game:
+- [https://www.youtube.com/watch?v=ZuqRkeXgYHQ](https://www.youtube.com/watch?v=ZuqRkeXgYHQ)
+- [https://www.youtube.com/watch?v=YdjZXLk1sF8](https://www.youtube.com/watch?v=YdjZXLk1sF8)
+
 Here are some references:
 - [TrueMG](https://www.youtube.com/playlist?list=PLEED9E15CB6E0D597) (First Demo, up to the end of the Silvan Forest)
 - [TrueMG](https://www.youtube.com/playlist?list=PLSgi0v-Xd3aGWEzfvjlh2gbqLF_cllSq_) (Second/Final Demo, up to the end of Nomerea)
 - [MajinSonicLP](https://www.youtube.com/playlist?list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN) (Second/Final Demo, the entire game)
 
 And let's not forget the video that started it all: [The video by Hydlide S](https://www.youtube.com/watch?v=LNBnLKQmUmQ)
+
+# Regarding The French Version
+For many years now, there has been a [French version of Velsarbor](http://www.rpg-maker.fr/jeux-418-velsarbor-version-francaise.html) by Shanka. This page at least seems to be based on the first demo of Velsarbor, which you can tell by the number of maps. The first demo has 180 maps while the second/final demo has 296 maps. I'm not sure if saves transfer, though I can't see any reason why they wouldn't. There are a few maps I know of that have completely changed their dialogue, but it seems like they're far and few between.
 
 # Dev Section Below
 AFAIK, the people who previously worked on translations never published their progress, and it seems like they haven't worked on it since.
@@ -31,7 +38,7 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 *Because every project needs a to-do list!*
 - Picture Text: 100%
 - Fancy Text: 100%
-- Database: 85%
+- Database: 86%
 - Special (#1/#10/#28): 100%
 ## Sections/Areas
 - Prologue: 100%
@@ -46,5 +53,5 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 - The Silvan Forest: 100%
 - The Mysterious Fortress: 100%
 - Gencorin Pt II: 100%
-- The Helnovien Prison: 17%
-- The Helnovien Mine: 82%
+- The Helnovien Prison: 85%
+- The Helnovien Mine: 98%
