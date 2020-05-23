@@ -2215,7 +2215,7 @@
 			"lines":
 			[
 				"\\s[5]They all died.\\.",
-				"THE END."
+				"THE END.\\|\\|\\|\\|\\,\\.\\^"
 			]
 		},
 		{
@@ -2457,5 +2457,10 @@
 			"original": "Nein, noch nicht.",
 			"patch": "No, not yet."
 		}
-	]
+	],
+	"replace":
+	{
+		"[10110,0,\"\\\\c[10]Sir Dolaros\\\\c[0]: I'm bored.\\\\.\",[]],[20110,0,\"I'm gonna kill you now.\",[]]": "[10110,0,\"\\\\c[10]Sir Dolaros\\\\c[0]: \\\\s[2]The prophecy draws ever\",[]],[20110,0,\"so near...\\\\. The stars aligned according\",[]],[20110,0,\"to my magnificence...\\\\. My utter\",[]],[20110,0,\"perfection!\",[]],[10110,0,\"\\\\c[10]Sir Dolaros\\\\c[0]: \\\\s[2]I shall kill you now\",[]],[20110,0,\"in order to fulfill that prophecy.\\\\.\",[]],[20110,0,\"So that I\\\\. too\\\\. may become immortal!\",[]],[10110,0,\"\\\\c[10]Sir Dolaros\\\\c[0]: \\\\s[2]It's such a shame that\",[]],[20110,0,\"your time has come to an end.\\\\. It was\",[]],[20110,0,\"nice knowing you,\\\\. but our fates must\",[]],[20110,0,\"collide now.\",[]],[10110,0,\"\\\\c[10]Sir Dolaros\\\\c[0]: \\\\s[2]Our destinies were bound\",[]],[20110,0,\"to impact,\\\\. long before either of us\",[]],[20110,0,\"were aware of it,\\\\. as the prophecy\",[]],[20110,0,\"foretold.\",[]],[10110,0,\"\\\\c[10]Sir Dolaros\\\\c[0]: \\\\s[2]And thus,\\\\. I part to you,\\\\.\",[]],[20110,0,\"a gift.\",[]],[10110,0,\"\\\\c[10]Sir Dolaros\\\\c[0]: \\\\s[2]What is that gift,\\\\. you\",[]],[20110,0,\"might ask?\",[]],[10110,0,\"\\\\c[10]Sir Dolaros\\\\c[0]: \\\\s[2]Why,\\\\. it is the gift of\",[]],[20110,0,\"experiencing not just any ordinary\",[]],[20110,0,\"death,\\\\. but a death full of spectacle\",[]],[20110,0,\"and splendor!\",[]],[10110,0,\"\\\\c[10]Sir Dolaros\\\\c[0]: \\\\s[2]The gift,\\\\. of experiencing\",[]],[20110,0,\"the ultimate death!!\",[]]"
+	},
+	"__comment__": "Special Edition(TM) Ending"
 }

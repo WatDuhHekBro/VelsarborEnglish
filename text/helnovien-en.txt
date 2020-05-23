@@ -121,41 +121,6 @@ Announcer: Unfortunately that was nothing! The traitors were beaten! Yes, we lik
 -= 231 =-
 ...
 
---- no powder, no dynamite
-Felcis: Okay, it'll probably be a while before we get that stuff out of the mine.
---- no powder, dynamite
-Felcis: Well, the detonation was probably not for today anyway, but there's still tomorrow.
---- no powder, robin alive
-Felcis: In the meantime, we can try to get our beautiful stone back from Robin...
---- powder, robin alive
-Felcis: Well, now that we have our powder, all we need is the stone.
---- robin alive
-Felcis: We still have to attend to our proletariat-defending green hat at the moment. Time to free him of this waiting.
---- robin alive comment x1
-Cibon: As soon as we can! I'm looking forward to it.
-Soko: We can't be so careless about this fight, understand?
-Kento: Yeah, and we should spare Robin of any unnecessary pain.
-Soko: Him, but especially you.
---- robin alive comment > x1
-Cibon: Right. I can clearly imagine how this guy might see us as hesitating...
-Kento: Well, if he underestimates us, that can only lead to an advantage.
---- robin alive comment > x1 (sunbread squad)
-Cibon: Our team name is the Sunbread Squad. We're gonna be underestimated either way.
-Soko: Good bread takes time to rise properly. Robin should be able to see that.
-Felcis: You called yourselves the Sunbread Squad? A truly delicious choice of names.
-Cibon: Cut it out already!
---- robin alive comment > x1 (everything else)
-Kento: But yeah, as long as the stone is with Robin, anything could happen to it...
-Kento: What if he ended up losing it, getting it stolen by someone else, or having it be discovered by the guards?
-Felcis: I think Robin knows how to guard his treasures. He's experienced with it after all...
---- felcis ready x1
-... (repeat of 230)
---- felcis ready > x1
-Felcis: Well, we have everything together. Let me know when you're ready, I'll still be waiting here in the cafe.
-Felcis: Don't take too long.
-
-...
-
 Saion: Hmpf! We'll win our tournament place back, just you wait!
 Jorn: I see many months of cruel battles coming on me. Someone get me out of here, please!
 Saion: Jorn, will you please stop complaining all the time?
@@ -194,31 +159,6 @@ Pauamainer Member: Have a look at our base if you already belong to the Pauamain
 
 ...
 
-Kento: That... was clever.
-Felcis: With the other sack, we repeat the same thing and complete the fuse all the way to our cells.
-Felcis: Tonight, we're going to trigger the effect and break the barrier. Then the escape starts!
-Kento: Okay... and then what do we do? Just because the barrier is gone, doesn't mean we can just carelessly walk outside!
-Felcis: We won't. At least, not alone. We'll all walk out there together.
-Soko: How, together? Do you mean... with the other prisoners?
-Felcis: Exactly. Once the barrier is gone, we can easily break everyone out of their cells. If we all run away at the same time, the guards will be overwhelmed.
-Felcis: This is the only way we can escape.
-Soko: But... We can't just release all the prisoners!
-Felcis: I knew it was going to be complicated... Look Soko, there are times like this when you just have to give your code of honor a vacation.
-Felcis: We were illegally locked up here, and the only way we're getting out is illegally.
-Soko: You make that sound better than it is! We don't have the right to decide something like that! Prisoners are prisoners!
-Felcis: If so, why did you agree to the escape plan in the first place? We ARE prisoners too, did you forget that?
-Felcis: Anyways. There's no turning back now. We're escaping tonight. Until then, you should rest and prepare yourself mentally.
-Felcis: I hope I can count on you when the time comes...
-Kento: Wait! Is that really all? Do you think that that's all we need to get past the guards? I hope you aren't serious!
-Felcis: There's more to come. Let yourself enjoy the ride.
-Cibon: This guy really gets on my nerves! What's so difficult about speaking plain text?!
-Kento: I can understand that he wanted to hide this one detail...
-Soko: I knew something like this was coming.
-Kento: He's right... Without a large-scale rebellion, it'll be much harder to get out of here.
-Soko: I know... But do we really have to go that far? How low do we want to sink?
-Cibon: Soko, please, let's not back out at the last moment!
-Soko: Alright... Let's just get out of here...
-
 <# ARE YOU OUT OF YOUR MIND?!
 Insane Girl: Ah! There you are again! What was going on?
 Insane Girl: Well, where did I stop ... Hmm ... Oh yeah!
@@ -252,43 +192,6 @@ Kento: ... insane. That you literally run away from a woman. What else I can exp
 Cibon: THERE ARE YOU WONDERFUL !? This brat would have cut my last nerves within the next 4 minutes!
 Kento: Well, you have to admit. It was quite "entertaining".
 Cibon: ... I want to have missed that ...
-
-...
-
-Felcis: Well? Are you ready?
-Kento: So now we have your stone and the static powder... but we still have no idea what your plan looks like. It's time for you to spill the beans.
-Felcis: Well alright... As I've said before, I have to break the magic barrier. And now that's possible with this stone and the static powder.
-Felcis: This protective barrier is sustained using a power generation machine. It can be found around here, on the 1st floor of this complex.
-Felcis: All we have to do is bring this stone somewhere near the machine to trigger the effect we need.
-Soko: How do you trigger the effect? Through Signum magic?
-Felcis: Exactly. Use the right spell and the bomb detonates.
-Soko: But don't you have to be right next to the stone? How are we all supposed to get so close to the machine?
-Felcis: Well, that's where the static powder comes in!
-Felcis: Static powder enhances the potency of Signum magic, but it can also be used to extend the area of effect.
-Felcis: And that's exactly what we're going to do. With the help of this static powder, we'll make a fuse going from our cell to the stone at the machine.
-Cibon: Really? Then how do you plan on getting the stone to the machine? Or laying out the fuse? Great plan we've got.
-Felcis: Hey, hey! Don't be so skeptical yet!
-Felcis: In these types of situations, us aristocrats always know how to help ourselves with the right trick!
-Felcis: Ladies and gentlemen, two bags! Both full of glimmering powder, but only one with a magic stone.
-Felcis: Soko, please hold this one for a moment.
-Soko: Um... Okay?
-Felcis: We'll be using the other bag, the one with the stone hidden inside, having a mystical aura...
-Felcis: And now for the grand finale! Behold!
-Kento: Um... Felcis? Where are you going?
-Guard: Hey... What kind of garbage is that? A bag... full of powder? Whatever it is, it no longer belongs to you!
-Guard: Stay here, I'll be back in a bit.
-Cibon: What the hell just happened. Did you just take that one bag... our one chance of getting out of here...
-Cibon: AND THROW IT AWAY TO THE GUARDS?!
-Felcis: Looks like that's the case. Oops. <# character error <# Also, Felcis is being sarcastic here, which ends up provoking Cibon even more.
-Cibon: How dare you! Are you completely insane?!
-Felcis: Calm down, calm down, Cibon! Everything's going according to plan. Where do you think this bag is being taken to?
-Soko: Probably to some storeroom...
-Felcis: Exactly! And I know where exactly this storeroom is from a reliable source, so can you guess what's right below it?
-Cibon: The... machine?
-Felcis: Bingo!
-Kento: And what about the fuse to the stone?
-Felcis: Well, it's being laid out right now.
-Felcis: Alright, but don't take too much time.
 
 
 
