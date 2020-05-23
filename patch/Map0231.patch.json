@@ -1798,10 +1798,9 @@
 			"original": "Cibon: Ich fass es nicht! Wie hast du bitte so eine Portion zusammen bekommen, ohne richtig Erz zu schürfen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich fass es nicht!\\. Wie hast ",
-				"du bitte so eine Portion zusammen ",
-				"bekommen, ohne richtig Erz zu ",
-				"schürfen?"
+				"\\c[2]\\n[2]\\c[0]: I can't believe it!\\. How'd you",
+				"get such a big portion without",
+				"actually mining ore?"
 			]
 		},
 		{
@@ -1810,8 +1809,8 @@
 			"original": "Felcis: Och na ja. Ich hab etwas Erzträger gespielt.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Och na ja.\\. Ich hab etwas ",
-				"Erzträger gespielt. "
+				"\\c[5]\\n[5]\\c[0]: Oh,\\. well...\\. I became an ore",
+				"carrier."
 			]
 		},
 		{
@@ -1820,10 +1819,9 @@
 			"original": "Felcis: Da ich eh hauptsächlich mit Leuten geredet habe, hab ich ihnen angeboten, das Erz für sie zur Sammelstelle zu bringen.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Da ich eh hauptsächlich mit ",
-				"Leuten geredet habe, hab ich ihnen ",
-				"angeboten, das Erz für sie zur ",
-				"Sammelstelle zu bringen."
+				"\\c[5]\\n[5]\\c[0]: Since I was mainly talking to",
+				"people anyway, I offered to take",
+				"their ore to the railways for them."
 			]
 		},
 		{
@@ -1832,9 +1830,9 @@
 			"original": "Felcis: Für nur 10% Abzug, der an mich ging, mussten die Leute das Erz nicht selber schleppen.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Für nur 10% Abzug, der an ",
-				"mich ging, mussten die Leute das Erz ",
-				"nicht selber schleppen. "
+				"\\c[5]\\n[5]\\c[0]: For just 10% deduction that",
+				"went to me, people didn't have to",
+				"drag the ore themselves."
 			]
 		},
 		{
@@ -1843,10 +1841,10 @@
 			"original": "Felcis: Da sind schon erstaunlich viele darauf eingegangen. Vor allem diese Pauamainer-Kollegen, für die Erzhacken ja der Lebenssinn ist.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Da sind schon erstaunlich ",
-				"viele darauf eingegangen.\\. Vor allem ",
-				"diese Pauamainer-Kollegen, für die ",
-				"Erzhacken ja der Lebenssinn ist."
+				"\\c[5]\\n[5]\\c[0]: A surprising amount of them",
+				"already accepted this deal.\\. Above all,",
+				"these Pauamainers were the most eager,",
+				"since ore mining is life for them."
 			]
 		},
 		{
@@ -1855,7 +1853,7 @@
 			"original": "Kento: Nicht schlecht.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Nicht schlecht."
+				"\\c[1]\\n[1]\\c[0]: Not bad."
 			]
 		},
 		{
@@ -1864,8 +1862,8 @@
 			"original": "Cibon: Pah! So etwas nennt man Schnorren!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Pah!\\. So etwas nennt man ",
-				"Schnorren!"
+				"\\c[2]\\n[2]\\c[0]: Pah!\\. Now that's what I call",
+				"scavenging!"
 			]
 		},
 		{
@@ -1874,9 +1872,9 @@
 			"original": "Felcis: Aber zu etwas anderem. Ich bräuchte gleich mal eure Hilfe, wenn möglich.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Aber zu etwas anderem.\\. Ich ",
-				"bräuchte gleich mal eure Hilfe, wenn ",
-				"möglich. "
+				"\\c[5]\\n[5]\\c[0]: But onto another topic.\\. I need",
+				"your help as soon as possible if",
+				"you're willing to help out."
 			]
 		},
 		{
@@ -1885,7 +1883,7 @@
 			"original": "Kento: Worum geht es?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Worum geht es?"
+				"\\c[1]\\n[1]\\c[0]: What's it about?"
 			]
 		},
 		{
@@ -1894,8 +1892,8 @@
 			"original": "Felcis: Für unseren \"Plan\" benötigen wir noch einen weiteren Gegenstand.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Für unseren \"Plan\" benötigen ",
-				"wir noch einen weiteren Gegenstand. "
+				"\\c[5]\\n[5]\\c[0]: For our \"plan\", we need",
+				"another item."
 			]
 		},
 		{
@@ -1904,9 +1902,9 @@
 			"original": "Felcis: Ich hatte diesen Gegenstand noch bei mir, die Wachen hatten ihn glücklicherweise nicht entdeckt.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich hatte diesen Gegenstand ",
-				"noch bei mir, die Wachen hatten ihn ",
-				"glücklicherweise nicht entdeckt. "
+				"\\c[5]\\n[5]\\c[0]: I still had this item with me,",
+				"and fortunately, the guards didn't",
+				"spot it."
 			]
 		},
 		{
@@ -1915,10 +1913,8 @@
 			"original": "Felcis: Nur musste ich mein Glück durch ein dummes Ungeschick verderben. Ich habe das Ding verloren.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Nur musste ich mein Glück ",
-				"durch ein dummes Ungeschick ",
-				"verderben.\\. Ich habe das Ding ",
-				"verloren."
+				"\\c[5]\\n[5]\\c[0]: But I just had to ruin my luck",
+				"with silly clumsiness.\\. I lost it."
 			]
 		},
 		{
@@ -1927,7 +1923,7 @@
 			"original": "Cibon: Trottel.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Trottel."
+				"\\c[2]\\n[2]\\c[0]: Idiot."
 			]
 		},
 		{
@@ -1936,10 +1932,9 @@
 			"original": "Felcis: Jetzt befindet sich dieser Gegenstand im Besitz von einem Gefangenen, der nicht bereit ist, ihn mir zurück zu geben...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Jetzt befindet sich dieser ",
-				"Gegenstand im Besitz von einem ",
-				"Gefangenen, der nicht bereit ist, ",
-				"ihn mir zurück zu geben..."
+				"\\c[5]\\n[5]\\c[0]: Now this item is in the hands",
+				"of a prisoner who's unwilling to give",
+				"it back to me..."
 			]
 		},
 		{
@@ -1948,8 +1943,8 @@
 			"original": "Cibon: Och, hast du nicht freundlich genug gefragt?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Och, hast du nicht freundlich ",
-				"genug gefragt?"
+				"\\c[2]\\n[2]\\c[0]: Oh, you didn't ask kindly",
+				"enough?"
 			]
 		},
 		{
@@ -1958,10 +1953,10 @@
 			"original": "Felcis: Ich hätte so freundlich fragen können, wie ich wollte, der Typ hat einfach etwas gegen mich oder eher gegen meine Herkunft.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ich hätte so freundlich ",
-				"fragen können, wie ich wollte, der ",
-				"Typ hat einfach etwas gegen mich ",
-				"oder eher gegen meine Herkunft."
+				"\\c[5]\\n[5]\\c[0]: I could've asked as kindly as",
+				"I wanted, but the guy just has",
+				"something against me or probably",
+				"more about my background."
 			]
 		},
 		{
@@ -1970,7 +1965,7 @@
 			"original": "Soko: Wie bitte?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wie bitte?"
+				"\\c[13]\\n[3]\\c[0]: Excuse me?"
 			]
 		},
 		{
@@ -1979,10 +1974,9 @@
 			"original": "Felcis: Wir sollten den Typen einfach mal nach dem Essen gemeinsam einen Besuch abstatten. Vielleicht erreichen wir so etwas mehr.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Wir sollten den Typen ",
-				"einfach mal nach dem Essen gemeinsam ",
-				"einen Besuch abstatten.\\. Vielleicht ",
-				"erreichen wir so etwas mehr."
+				"\\c[5]\\n[5]\\c[0]: We should just pay the guys",
+				"a visit after dinner.\\. Maybe we can",
+				"do something then."
 			]
 		},
 		{
