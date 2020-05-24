@@ -4032,7 +4032,7 @@
 				"den man alles erzählen kann, \\.",
 				"wirklich!\\.\\s[2] Weißte, was mir hier\\^ "
 			],
-			"__comment__": "Psuedo Scrolling Text"
+			"__comment__": "Pseudo-Scrolling Text"
 		},
 		{
 			"path": [103,1,114,4],
@@ -4688,22 +4688,26 @@
 		{
 			"path": [83,2,159],
 			"original": "\"Zinkar-Schlächter\"",
-			"patch": "\"The Zinkar Butchers\""
+			"patch": "\"The Zinkar Butchers\"",
+			"__comment__": "The route I think most people are going to be choosing, since it's the most normal."
 		},
 		{
 			"path": [83,2,184],
 			"original": "\"Repsbrot-Truppe\"",
-			"patch": "\"The Sunbread Squad\""
+			"patch": "\"The Sunbread Squad\"",
+			"__comment__": "The route of terrible puns."
 		},
 		{
 			"path": [83,2,229],
 			"original": "\"Briganten-Stolz\"",
-			"patch": "\"The Brigantine Pride\""
+			"patch": "\"The Brigantine Pride\"",
+			"__comment__": "The route of irony."
 		},
 		{
 			"path": [83,2,287],
 			"original": "\"Die Verräter\"",
-			"patch": "\"The Traitors\""
+			"patch": "\"The Traitors\"",
+			"__comment__": "The route for contrarians?"
 		},
 		{
 			"path": [83,3,16],
