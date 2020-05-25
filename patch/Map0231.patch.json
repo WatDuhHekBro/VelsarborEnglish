@@ -2520,8 +2520,8 @@
 			"original": "Jorn: Richtig! Ich bin das schwarze Schaf! ZUM GLÜCK!",
 			"lines":
 			[
-				"\\\\c[10]>Jorn\\c[0]: You're right! I'm the black",
-				"\\>sheep!\\< AND I'M LUCKY I AM!"
+				"\\>\\c[10]Jorn\\c[0]: You're right! I'm the black",
+				"\\>sheep!\\< AND I'M GLAD I AM!"
 			]
 		},
 		{
@@ -2540,7 +2540,7 @@
 			"original": "Jorn: Ansonsten hätte ich dieses IDIOTENBLUT in mir, das mir jeglichen",
 			"lines":
 			[
-				"\\\\c[10]>Jorn\\c[0]: Otherwise I'd have this\\< \\s[0]IDIOT",
+				"\\>\\c[10]Jorn\\c[0]: Otherwise I'd have this\\< \\s[0]IDIOT",
 				"BLOOD\\s[2] in me that'd take away my\\^"
 			]
 		},
@@ -2550,7 +2550,7 @@
 			"original": "Jorn: Ansonsten hätte ich dieses IDIOTENBLUT in mir, das mir jeglichen VERSTAND NIMMT und mir dafür einen",
 			"lines":
 			[
-				"\\\\c[10]>Jorn\\c[0]: Otherwise I'd have this IDIOT",
+				"\\>\\c[10]Jorn\\c[0]: Otherwise I'd have this IDIOT",
 				"\\>BLOOD in me that'd take away my",
 				"\\s[0]ABILITY TO THINK\\s[2] and turn me",
 				"into a\\^"
@@ -2562,7 +2562,7 @@
 			"original": "Jorn: Ansonsten hätte ich dieses IDIOTENBLUT in mir, das mir jeglichen VERSTAND NIMMT und mir dafür einen DICKSCHÄLDEL beschert!",
 			"lines":
 			[
-				"\\\\c[10]>Jorn\\c[0]: Otherwise I'd have this IDIOT",
+				"\\>\\c[10]Jorn\\c[0]: Otherwise I'd have this IDIOT",
 				"\\>BLOOD in me that'd take away my",
 				"\\>ABILITY TO THINK and turn me",
 				"\\>into a\\< \\s[0]COMPLETE MORON\\s[2]!"
@@ -3631,7 +3631,7 @@
 			"original": "Kento: Okay... und was machen wir dann? Nur weil die Barriere weg ist, können wir nicht einfach rausspazieren!",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Okay...\\. and then what do we do?\\.",
+				"\\c[1]\\n[1]\\c[0]: Okay...\\. And then what do we do?\\.",
 				"Just because the barrier is gone,",
 				"doesn't mean we can just carelessly",
 				"walk outside!"

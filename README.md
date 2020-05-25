@@ -39,7 +39,7 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 *Because every project needs a to-do list!*
 - Picture Text: 100%
 - Fancy Text: 100%
-- Database: 86%
+- Database: 96%
 - Special (#1/#10/#28): 100%
 ## Sections/Areas
 - Prologue: 100%
@@ -54,5 +54,5 @@ The `text` directory is meant to be temporary. You work with the extracted text,
 - The Silvan Forest: 100%
 - The Mysterious Fortress: 100%
 - Gencorin Pt II: 100%
-- The Helnovien Prison: 96%
+- The Helnovien Prison: 99%
 - The Helnovien Mine: 98%

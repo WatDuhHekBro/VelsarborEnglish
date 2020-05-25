@@ -2214,7 +2214,7 @@
 			"original": "Alle sind gestorben. THE END.",
 			"lines":
 			[
-				"\\s[5]They all died.\\.",
+				"\\s[5]They all died.\\.\\.",
 				"THE END.\\|\\|\\|\\|\\,\\.\\^"
 			]
 		},

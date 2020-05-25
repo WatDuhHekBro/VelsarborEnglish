@@ -646,9 +646,9 @@
 			"original": "Saion: Ihr schon wieder. Wir werden uns im Turnier noch wieder sehen, wartet nur ab!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Ihr schon wieder.\\. Wir werden ",
-				"uns im Turnier noch wieder sehen, ",
-				"wartet nur ab!"
+				"\\c[10]Saion\\c[0]: You again.\\. We'll see each",
+				"other again in the tournament,",
+				"just you wait!"
 			]
 		},
 		{
@@ -657,9 +657,9 @@
 			"original": "Soko: Was ist da zwischen euch los? Ihr solltet über eure Probleme reden anstatt...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Was ist da zwischen euch los?\\.",
-				"Ihr solltet über eure Probleme reden ",
-				"anstatt...\\.\\.\\^"
+				"\\c[13]\\n[3]\\c[0]: What's going on between you",
+				"three?\\. You should really talk about",
+				"your problems instead of...\\.\\.\\^"
 			]
 		},
 		{
@@ -668,9 +668,8 @@
 			"original": "Saion: Unsere Probleme? Was hat das euch zu interessieren? Kümmert euch um euren eigenen Kram!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Unsere Probleme?\\. Was hat das ",
-				"euch zu interessieren?\\. Kümmert euch ",
-				"um euren eigenen Kram!"
+				"\\c[10]Saion\\c[0]: Our problems?\\. Is it any of your",
+				"business?\\. Worry about your own stuff!"
 			]
 		},
 		{
@@ -679,7 +678,8 @@
 			"original": "Kento: Komm Soko, lass es besser...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Komm Soko, lass es besser..."
+				"\\c[1]\\n[1]\\c[0]: Come on Soko, better to just",
+				"leave them alone..."
 			]
 		},
 		{
@@ -688,9 +688,9 @@
 			"original": "Saion: Pah! Das ihr ums mal geschlagen habt, heißt gar nichts! Ich fordere Revanche!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Pah!\\. Das ihr ums mal ",
-				"geschlagen habt, heißt gar nichts!\\. ",
-				"Ich fordere Revanche!"
+				"\\c[10]Saion\\c[0]: Pah!\\. The fact that you beat",
+				"us again means nothing!\\. I demand a",
+				"rematch!"
 			]
 		},
 		{
@@ -699,9 +699,8 @@
 			"original": "Jorn: Regel Nummer Eins der Zinkar- Brüder: Wir lernen nie unsere Lektion!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Regel Nummer Eins der Zinkar-",
-				"Brüder:\\. Wir lernen nie unsere ",
-				"Lektion!"
+				"\\c[10]Jorn\\c[0]: Rule number one of the Zinkar",
+				"Brothers:\\. We never learn our lesson!"
 			]
 		},
 		{
@@ -710,8 +709,8 @@
 			"original": "Saion: Jorn, du hältst gefälligst dein vorlautes Mundwerk!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Jorn, du hältst gefälligst ",
-				"dein vorlautes Mundwerk!"
+				"\\c[10]Saion\\c[0]: Jorn, shut your cheeky mouth",
+				"already!"
 			]
 		},
 		{
@@ -720,10 +719,10 @@
 			"original": "Saion: Ha! Die Zinkar-Schlächer kommen voran, wie es scheint. Ihr werdet euch schon wundern, wer hier wen schlachtet!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Ha!\\. Die Zinkar-Schlächer ",
-				"kommen voran, wie es scheint.\\. Ihr ",
-				"werdet euch schon wundern, wer hier ",
-				"wen schlachtet!"
+				"\\c[10]Saion\\c[0]: Ha!\\. The Zinkar Butchers are",
+				"making their way through the ranks,",
+				"it seems.\\. You'll be surprised who",
+				"ends up getting slaughtered!"
 			]
 		},
 		{
@@ -732,7 +731,8 @@
 			"original": "Jorn: Ihr Name wird Programm!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Ihr Name wird Programm!"
+				"\\c[10]Jorn\\c[0]: Your name's on the chopping",
+				"block!"
 			]
 		},
 		{
@@ -741,7 +741,7 @@
 			"original": "Saion: Halt's Maul, Jorn!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Halt's Maul, Jorn!"
+				"\\c[10]Saion\\c[0]: Shut up, Jorn!"
 			]
 		},
 		{
@@ -750,10 +750,11 @@
 			"original": "Saion: Platz \\v[1886] seid ihr also schon? Nichtmehr lange und unser Kampf steht bevor! Oh ja!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Platz \\v[1886] seid ihr also ",
-				"schon?\\. Nichtmehr lange und unser ",
-				"Kampf steht bevor!\\. Oh ja!"
-			]
+				"\\c[10]Saion\\c[0]: Already rank \\v[1886], are you?\\. Not",
+				"long until our fated battle arrives!\\.",
+				"Oh yeah!"
+			],
+			"__comment__": "Maximum of 2 digits"
 		},
 		{
 			"path": [66,1,65,1],
@@ -761,7 +762,7 @@
 			"original": "Jorn: Oh Freude.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Oh Freude."
+				"\\c[10]Jorn\\c[0]: What a joy."
 			]
 		},
 		{
@@ -770,9 +771,9 @@
 			"original": "Saion: Seht ihr? Sogar dieser starrköpfiger Rotschopf von Bruder freut sich auf diesen Kampf!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Seht ihr?\\. Sogar dieser ",
-				"starrköpfiger Rotschopf von Bruder ",
-				"freut sich auf diesen Kampf!"
+				"\\c[10]Saion\\c[0]: You see that?\\. Even this",
+				"stubborn redhead of a brother is",
+				"looking forward to this battle!"
 			]
 		},
 		{
@@ -781,9 +782,9 @@
 			"original": "Jorn: Starrköpfiger Bruder? Jemand muss mir irgendwo einen Spiegel angeklebt haben.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Starrköpfiger Bruder?\\. Jemand ",
-				"muss mir irgendwo einen Spiegel ",
-				"angeklebt haben. "
+				"\\c[10]Jorn\\c[0]: Stubborn brother?\\. Someone",
+				"must've stuck a mirror to me",
+				"somewhere."
 			]
 		},
 		{
@@ -792,8 +793,8 @@
 			"original": "Saion: Was hat das jetzt wieder zu bedeuten?!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Was hat das jetzt wieder zu ",
-				"bedeuten?!"
+				"\\c[10]Saion\\c[0]: What are you trying to say",
+				"again?!"
 			]
 		},
 		{
@@ -802,10 +803,9 @@
 			"original": "Saion: Oh, hallo! Da sind ja die \"Zinkar Schlächter\"! Ganz schön selbstbewusst bei der Namenswahl, sag ich da nur!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Oh, hallo! Da sind ja die ",
-				"\"Zinkar Schlächter\"! Ganz schön ",
-				"selbstbewusst bei der Namenswahl, ",
-				"sag ich da nur!"
+				"\\c[10]Saion\\c[0]: Oh, hello! Here, we have the",
+				"\"Zinkar Butchers\"! Pretty bold when",
+				"choosing a name, I have to say!"
 			]
 		},
 		{
@@ -814,8 +814,8 @@
 			"original": "Jorn: Ich fühl mich bereits jetzt wie Frischfleisch.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Ich fühl mich bereits jetzt ",
-				"wie Frischfleisch."
+				"\\c[10]Jorn\\c[0]: I already feel like fresh meat",
+				"to be sliced."
 			]
 		},
 		{
@@ -824,8 +824,8 @@
 			"original": "Saion: Ruhe, Jorn! Du immer mit deiner pessimistischen Art.",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Ruhe, Jorn!\\. Du immer mit ",
-				"deiner pessimistischen Art."
+				"\\c[10]Saion\\c[0]: Quiet, Jorn!\\. It's always you",
+				"with your pessimistic mood."
 			]
 		},
 		{
@@ -834,10 +834,9 @@
 			"original": "Saion: Ha! Und? Welchen Rang habt ihre denn so mittlerweile? Wir warten schon alle ungeduldig auf eure Herausforderung!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Ha!\\. Und?\\. Welchen Rang habt ",
-				"ihre denn so mittlerweile?\\. Wir ",
-				"warten schon alle ungeduldig auf ",
-				"eure Herausforderung!"
+				"\\c[10]Saion\\c[0]: Ha!\\. So?\\. What's your rank",
+				"right now?\\. We're all waiting very",
+				"impatiently here for our duel!"
 			]
 		},
 		{
@@ -846,7 +845,7 @@
 			"original": "Jorn: Tun wir das?",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Tun wir das?"
+				"\\c[10]Jorn\\c[0]: Are we really doing this?"
 			]
 		},
 		{
@@ -855,9 +854,8 @@
 			"original": "Saion: Wir werden beweisen, dass wir es mit Soldaten des Briganten-Ordens aufnehmen können!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Wir werden beweisen, dass wir ",
-				"es mit Soldaten des Briganten-Ordens ",
-				"aufnehmen können!"
+				"\\c[10]Saion\\c[0]: We'll prove that we can take",
+				"on a couple of Brigantian soldiers!"
 			]
 		},
 		{
@@ -866,9 +864,8 @@
 			"original": "Jorn: Du kannst auch einfach ein paar Wachen angreifen, falls du das beweisen willst.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Du kannst auch einfach ein ",
-				"paar Wachen angreifen, falls du das ",
-				"beweisen willst."
+				"\\c[10]Jorn\\c[0]: Just attack some guards if you",
+				"want to prove it."
 			]
 		},
 		{
@@ -877,7 +874,7 @@
 			"original": "Saion: Sei gefälligst still, Jorn!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Sei gefälligst still, Jorn!"
+				"\\c[10]Saion\\c[0]: Be quiet, Jorn!"
 			]
 		},
 		{
@@ -886,8 +883,8 @@
 			"original": "Jorn: ...Lasst mich bitte in Frieden, ja?",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: ...\\.Lasst mich bitte in ",
-				"Frieden,\\. ja?"
+				"\\c[10]Jorn\\c[0]: Please just leave me alone,\\.",
+				"okay?"
 			]
 		},
 		{
@@ -896,10 +893,9 @@
 			"original": "Jorn: Ich hoffe ihr habt euren Spaß gehabt. Ihr könnt ja mal versuchen gegen diese Pauamainer anzukommen. Die sind wirklich heftig.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Ich hoffe ihr habt euren Spaß ",
-				"gehabt.\\. Ihr könnt ja mal versuchen ",
-				"gegen diese Pauamainer anzukommen.\\.",
-				"Die sind wirklich heftig."
+				"\\c[10]Jorn\\c[0]: I hope you had fun.\\. You can try",
+				"your hands at these Pauamainers.\\.",
+				"They're quite violent though."
 			]
 		},
 		{
@@ -908,10 +904,10 @@
 			"original": "Jorn: Ich muss es wissen, so oft wie Saion gegen die mit uns angegangen ist... Und deren Chef ist sowieso jenseits unserer Grenzen...",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Ich muss es wissen, so oft wie ",
-				"Saion gegen die mit uns angegangen ",
-				"ist...\\. Und deren Chef ist sowieso ",
-				"jenseits unserer Grenzen..."
+				"\\c[10]Jorn\\c[0]: I know that all too well,",
+				"as Saion often drags us along to",
+				"challenge them...\\. And their boss",
+				"is way beyond our strength anyway..."
 			]
 		},
 		{
@@ -920,9 +916,8 @@
 			"original": "Saion: Das ist wieder so typisch für dich! Immer nur am rumheulen und jammern!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Das ist wieder so typisch für ",
-				"dich!\\. Immer nur am rumheulen und ",
-				"jammern! "
+				"\\c[10]Saion\\c[0]: This is so typical of you!\\.",
+				"Always complaining and whining!"
 			]
 		},
 		{
@@ -931,9 +926,9 @@
 			"original": "Jorn: Nach einem halben Duzend Niederlagen gegen diesen Typen hab ich auch allen Grund dazu!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Nach einem halben Duzend ",
-				"Niederlagen gegen diesen Typen hab ",
-				"ich auch allen Grund dazu!"
+				"\\c[10]Jorn\\c[0]: After half a dozen defeats",
+				"against these guys, I have every",
+				"reason to do so!"
 			]
 		},
 		{
@@ -942,10 +937,10 @@
 			"original": "Jorn: So wie es aussieht, ist bald \"Schlachtfest\". Und ich dachte diese Ambition würde nur dieses blauhaarige Unheil von Bruder haben.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: So wie es aussieht, ist bald ",
-				"\"Schlachtfest\".\\. Und ich dachte diese ",
-				"Ambition würde nur dieses ",
-				"blauhaarige Unheil von Bruder haben."
+				"\\c[10]Jorn\\c[0]: Looks like it'll soon be a",
+				"\"slaughterfest\".\\. And here I thought",
+				"the only ambitious ones would be this",
+				"blue-haired disaster of a brother."
 			]
 		},
 		{
@@ -954,9 +949,9 @@
 			"original": "Jorn: Na wunderbar, ihr kommt unserem Platz immer näher. Ihr meint es wirklich ernst, oder?",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Na wunderbar, ihr kommt ",
-				"unserem Platz immer näher.\\. Ihr meint ",
-				"es wirklich ernst, oder?"
+				"\\c[10]Jorn\\c[0]: Just wonderful, you're getting",
+				"closer and closer to our rank.\\. You're",
+				"really serious about this, aren't you?"
 			]
 		},
 		{
@@ -965,9 +960,9 @@
 			"original": "Cibon: Na komm, es ist doch nur ein Turnierkampf. Und dein Bruder wollte es nicht anders.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Na komm, es ist doch nur ein ",
-				"Turnierkampf.\\. Und dein Bruder wollte ",
-				"es nicht anders."
+				"\\c[2]\\n[2]\\c[0]: Well, come on, it's just a",
+				"battle in the end.\\. And your brother",
+				"didn't want it any other way."
 			]
 		},
 		{
@@ -976,9 +971,8 @@
 			"original": "Jorn: Ja, aber ich werd ja in diesen Schlamassel mit rein gezogen. Mich fragt ja keiner!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Ja, aber ich werd ja in diesen ",
-				"Schlamassel mit rein gezogen. ",
-				"Mich fragt ja keiner!"
+				"\\c[10]Jorn\\c[0]: I know, but I'm getting dragged",
+				"into this mess. Nobody asks me!"
 			]
 		},
 		{
@@ -987,8 +981,8 @@
 			"original": "Soko: Glaub mir, auf unserer Seite ist das nicht unbedingt groß anders.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Glaub mir, auf unserer Seite ",
-				"ist das nicht unbedingt groß anders."
+				"\\c[13]\\n[3]\\c[0]: Trust me, it's not that",
+				"different on our side."
 			]
 		},
 		{
@@ -997,8 +991,8 @@
 			"original": "Cibon: Wie, wo, was? Du hast dich nie richtig beschwert, Soko!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wie, wo, was?\\. Du hast dich ",
-				"nie richtig beschwert, Soko!"
+				"\\c[2]\\n[2]\\c[0]: Why, where, what?\\. I never saw",
+				"you complaining, Soko!"
 			]
 		},
 		{
@@ -1007,8 +1001,8 @@
 			"original": "Soko: Na und? Das muss nicht heißen, dass mir der Kram gefällt.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Na und?\\. Das muss nicht heißen, ",
-				"dass mir der Kram gefällt."
+				"\\c[13]\\n[3]\\c[0]: So what?\\. That doesn't mean",
+				"I like it."
 			]
 		},
 		{
@@ -1017,8 +1011,8 @@
 			"original": "Jorn: He, ich denke dann verstehen wir uns ja.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: He, ich denke dann verstehen ",
-				"wir uns ja. "
+				"\\c[10]Jorn\\c[0]: Hey, I think we understand each",
+				"other then."
 			]
 		},
 		{
@@ -1027,10 +1021,9 @@
 			"original": "Jorn: Komm, Soko, wir machen einen Pakt! Wir beide werden während des Kampfes einfach streiken und nichts machen!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Komm, Soko, wir machen einen ",
-				"Pakt!\\. Wir beide werden während des ",
-				"Kampfes einfach streiken und nichts ",
-				"machen!"
+				"\\c[10]Jorn\\c[0]: Come on, Soko, let's make a",
+				"deal!\\. We'll both just go on strike",
+				"and do nothing during the battle!"
 			]
 		},
 		{
@@ -1039,7 +1032,7 @@
 			"original": "Soko: Klingt interessant.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Klingt interessant."
+				"\\c[13]\\n[3]\\c[0]: Sounds interesting."
 			]
 		},
 		{
@@ -1048,8 +1041,7 @@
 			"original": "Cibon: Jetzt kommt nicht auf dumme Gedanken!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Jetzt kommt nicht auf dumme ",
-				"Gedanken!"
+				"\\c[2]\\n[2]\\c[0]: Hey now, don't get any ideas!"
 			]
 		},
 		{
@@ -1058,10 +1050,9 @@
 			"original": "Jorn: Zinkar-Schlächter... Sehr tolle Namenswahl. Jetzt kann ich die Nacht über nicht mehr ruhig schlafen.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Zinkar-Schlächter...\\. Sehr ",
-				"tolle Namenswahl.\\. Jetzt kann ich die ",
-				"Nacht über nicht mehr ruhig ",
-				"schlafen."
+				"\\c[10]Jorn\\c[0]: The Zinkar Butchers...\\. What a",
+				"great name.\\. Now I won't be able to",
+				"sleep peacefully during the night."
 			]
 		},
 		{
@@ -1070,10 +1061,9 @@
 			"original": "Saion: Du bist so ein Angsthase! Was hat ein Name schon zu bedeuten? Du siehst doch, wie weit wir schon gekommen sind!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Du bist so ein Angsthase!\\. Was ",
-				"hat ein Name schon zu bedeuten?\\. Du ",
-				"siehst doch, wie weit wir schon ",
-				"gekommen sind!"
+				"\\c[10]Saion\\c[0]: You're such a scaredy cat!\\. What",
+				"do names mean anyway?\\. You can see just",
+				"how far we've come!"
 			]
 		},
 		{
@@ -1082,9 +1072,9 @@
 			"original": "Jorn: Was? Angst ist so etwas Wunderbares. Sie hält einem davon ab, blöde Sachen zu machen.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Was?\\. Angst ist so etwas ",
-				"Wunderbares.\\. Sie hält einem davon ",
-				"ab, blöde Sachen zu machen."
+				"\\c[10]Jorn\\c[0]: What?\\. Fear is such a wonderful",
+				"thing.\\. It keeps you from doing stupid",
+				"things."
 			]
 		},
 		{
@@ -1093,9 +1083,8 @@
 			"original": "Jorn: Und manche Leute hier könnten wirklich etwas mehr Angst gebrauchen...",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Und manche Leute hier könnten ",
-				"wirklich etwas mehr Angst ",
-				"gebrauchen..."
+				"\\c[10]Jorn\\c[0]: And SOME people around here",
+				"could really use a little more fear..."
 			]
 		},
 		{
@@ -1104,9 +1093,8 @@
 			"original": "Jorn: Ihr müsst euch mit dieser Turniergeschichte wirklich nicht beeilen.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Ihr müsst euch mit dieser ",
-				"Turniergeschichte wirklich nicht ",
-				"beeilen. "
+				"\\c[10]Jorn\\c[0]: You really don't have to hurry",
+				"with this whole tournament nonsense."
 			]
 		},
 		{
@@ -1115,9 +1103,9 @@
 			"original": "Jorn: Ich bin wirklich froh, wenn mein Bruder mal einen Tag keinen Gegner zum bekämpfen findet...",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Ich bin wirklich froh, wenn ",
-				"mein Bruder mal einen Tag keinen ",
-				"Gegner zum bekämpfen findet..."
+				"\\c[10]Jorn\\c[0]: I'd be really happy if my",
+				"brother couldn't find an opponent",
+				"to fight for a day..."
 			]
 		},
 		{
@@ -1126,9 +1114,9 @@
 			"original": "Soko: Dürfte ich mal fragen, wieso du überhaupt alles mitmachst, was dein Bruder dir auferlegt?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Dürfte ich mal fragen, wieso ",
-				"du überhaupt alles mitmachst, was ",
-				"dein Bruder dir auferlegt?"
+				"\\c[13]\\n[3]\\c[0]: Is it okay if I ask why you're",
+				"still doing everything your brother",
+				"forces you to do?"
 			]
 		},
 		{
@@ -1137,8 +1125,8 @@
 			"original": "Soko: Ihr scheint da ja nicht sonderlich oft einer Meinung...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Ihr scheint da ja nicht ",
-				"sonderlich oft einer Meinung..."
+				"\\c[13]\\n[3]\\c[0]: You two don't seem to agree very",
+				"often..."
 			]
 		},
 		{
@@ -1147,8 +1135,7 @@
 			"original": "Jorn: Nun ja... ehm... wir sind Brüder?",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Nun ja...\\. ehm...\\. wir sind ",
-				"Brüder?"
+				"\\c[10]Jorn\\c[0]: Well...\\. Um...\\. We're brothers?"
 			]
 		},
 		{
@@ -1157,9 +1144,9 @@
 			"original": "Jorn: Es ist nicht so, das ich Leute kenne, zu denen ich gehen könnte, wenn ich meine Brüder verlasse.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Es ist nicht so, das ich Leute ",
-				"kenne, zu denen ich gehen könnte, ",
-				"wenn ich meine Brüder verlasse."
+				"\\c[10]Jorn\\c[0]: And it's not like I have people",
+				"to go to or a place to stay if I were",
+				"to leave my brothers."
 			]
 		},
 		{
@@ -1168,9 +1155,9 @@
 			"original": "Jorn: Außerdem könnt ihr euch nicht vorstellen, was für ein Theater Saion in diesem Fall machen würde...",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Außerdem könnt ihr euch nicht ",
-				"vorstellen, was für ein Theater ",
-				"Saion in diesem Fall machen würde..."
+				"\\c[10]Jorn\\c[0]: Besides, you can't imagine what",
+				"kind of drama Saion would stir up if",
+				"that were to happen..."
 			]
 		},
 		{
@@ -1179,7 +1166,8 @@
 			"original": "Saion: Wovon redet ihr da drüben?",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Wovon redet ihr da drüben?"
+				"\\c[10]Saion\\c[0]: What are you talking about over",
+				"there?"
 			]
 		},
 		{
@@ -1188,10 +1176,10 @@
 			"original": "Jorn: Wir diskutieren gerade, ob dein Handeln auf mangelnde Intelligenz oder psychische Störung zurück zu führen ist.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Wir diskutieren gerade, ob ",
-				"dein Handeln auf mangelnde ",
-				"Intelligenz oder psychische Störung ",
-				"zurück zu führen ist."
+				"\\c[10]Jorn\\c[0]: We're currently discussing",
+				"whether your actions stem from a",
+				"lack of intelligence or a mental",
+				"disorder."
 			]
 		},
 		{
@@ -1200,9 +1188,8 @@
 			"original": "Saion: Was zum... Ich handle genauso so wie wir als Diebesbande zu handeln haben!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Was zum...\\. Ich handle genauso ",
-				"so wie wir als Diebesbande zu ",
-				"handeln haben!"
+				"\\c[10]Saion\\c[0]: What the...\\. I do everything we",
+				"have to do as a gang of thieves!"
 			]
 		},
 		{
@@ -1211,8 +1198,8 @@
 			"original": "Jorn: Ja, über das Thema könnte man wirklich lange diskutieren.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Ja, über das Thema könnte man ",
-				"wirklich lange diskutieren."
+				"\\c[10]Jorn\\c[0]: Yeah, I could really discuss",
+				"this topic for a long time."
 			]
 		},
 		{
@@ -1230,7 +1217,7 @@
 			"original": "Gurim: Glückwunsch zum Sieg.",
 			"lines":
 			[
-				"\\c[10]Gurim\\c[0]: Glückwunsch zum Sieg."
+				"\\c[10]Gurim\\c[0]: Congratulations on winning."
 			]
 		},
 		{
@@ -1239,8 +1226,7 @@
 			"original": "Cibon: Danke, ihr habt auch gut gekämpft.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Danke, ihr habt auch gut ",
-				"gekämpft."
+				"\\c[2]\\n[2]\\c[0]: Thanks, you fought well too."
 			]
 		},
 		{
@@ -1249,8 +1235,8 @@
 			"original": "Gurim: Wir sehen uns dann im Turnier...",
 			"lines":
 			[
-				"\\c[10]Gurim\\c[0]: Wir sehen uns dann im ",
-				"Turnier..."
+				"\\c[10]Gurim\\c[0]: We'll see each other in the",
+				"tournament soon..."
 			]
 		},
 		{
@@ -1259,9 +1245,9 @@
 			"original": "Cibon: Ich bin mal gespannt, ob sich dein Kampfstil mit dieser komischen Waffe verbessert hat.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Ich bin mal gespannt, ob sich ",
-				"dein Kampfstil mit dieser komischen ",
-				"Waffe verbessert hat."
+				"\\c[2]\\n[2]\\c[0]: I'm kinda curious to see if",
+				"your ability to fight with these",
+				"strange weapons has improved."
 			]
 		},
 		{
@@ -1270,9 +1256,9 @@
 			"original": "Kento: Apropos komische Waffen. Kämpfst du eigentlich immer noch mit diesem gefüllten Beutel, Jorn?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Apropos komische Waffen.\\.",
-				"Kämpfst du eigentlich immer noch mit ",
-				"diesem gefüllten Beutel, Jorn?"
+				"\\c[1]\\n[1]\\c[0]: Speaking of strange weapons,\\.",
+				"are you still struggling to use",
+				"that stuffed bag, Jorn?"
 			]
 		},
 		{
@@ -1281,10 +1267,10 @@
 			"original": "Jorn: Den? Niemals! Wir hätten bei weitem nicht genug Gegenstände, um den mit einem soliden Gewicht zu füllen.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Den?\\. Niemals!\\. Wir hätten bei ",
-				"weitem nicht genug Gegenstände, um ",
-				"den mit einem soliden Gewicht zu ",
-				"füllen."
+				"\\c[10]Jorn\\c[0]: That one?\\. Not anymore!\\.",
+				"We wouldn't have enough items",
+				"to fill it until it's strong",
+				"enough."
 			]
 		},
 		{
@@ -1293,7 +1279,8 @@
 			"original": "Kento: Womit kämpfst du dann?",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Womit kämpfst du dann?"
+				"\\c[1]\\n[1]\\c[0]: What are you fighting with",
+				"then?"
 			]
 		},
 		{
@@ -1302,8 +1289,7 @@
 			"original": "Jorn: Nunja... Das werdet ihr ja sehen...",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Nunja...\\. Das werdet ihr ja ",
-				"sehen..."
+				"\\c[10]Jorn\\c[0]: Well...\\. You'll see..."
 			]
 		},
 		{
@@ -1312,7 +1298,7 @@
 			"original": "Gurim: Hallo...",
 			"lines":
 			[
-				"\\c[10]Gurim\\c[0]: Hallo..."
+				"\\c[10]Gurim\\c[0]: Hello..."
 			]
 		},
 		{
@@ -1321,9 +1307,8 @@
 			"original": "Soko: Du bist wirklich eine willkommene Abwechslung im Vergleich zu deinen gesprächigen Brüdern.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Du bist wirklich eine ",
-				"willkommene Abwechslung im Vergleich ",
-				"zu deinen gesprächigen Brüdern."
+				"\\c[13]\\n[3]\\c[0]: You really are a welcome change",
+				"compared to your talkative brothers."
 			]
 		},
 		{
@@ -1332,7 +1317,7 @@
 			"original": "Gurim: D... Danke...",
 			"lines":
 			[
-				"\\c[10]Gurim\\c[0]: D...\\. Danke..."
+				"\\c[10]Gurim\\c[0]: T...\\. Thanks..."
 			]
 		},
 		{
