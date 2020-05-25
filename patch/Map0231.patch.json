@@ -2732,7 +2732,7 @@
 			"indent": 2,
 			"original": "Chef: Ei jòò, ihr habt mich wirglisch iwwerrascht! Starge Burschen seid ihr!",
 			"__comment__": "Ohje, ihr habt mich wirklich überrascht! Starke Brüden seid ihr!",
-			"__guesstimate__": "",
+			"__guesstimate__": "Oh wow, you really surprised me there! You're quite the strong brothers.",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Ei jòò, ihr habt mich ",
@@ -2745,7 +2745,7 @@
 			"indent": 2,
 			"original": "Chef: Besucht misch doch Mal in unsere Stidsepungd inner Grub! Dòò könnt ihr eisch ne dolle Sache holle!",
 			"__comment__": "Besucht mich doch Mal in unsere Siedepunkt immer Grube! Da könnt ihr euch nie dolle Sache hölle!",
-			"__guesstimate__": "",
+			"__guesstimate__": "Visit me at our base for a reward. You've definitely proven yourselves!",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Besucht misch doch Mal in ",
@@ -3779,7 +3779,7 @@
 			"lines":
 			[
 				"\\c[5]\\n[5]\\c[0]: There's more to come.\\.",
-				"Let yourself enjoy the ride."
+				"Sit back and enjoy the ride."
 			]
 		},
 		{
@@ -3807,7 +3807,7 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: I knew something like this was",
-				"coming."
+				"bound to happen."
 			]
 		},
 		{
@@ -3854,8 +3854,8 @@
 			"original": "Überdrehtes Mädchen: Ah! Da seid ihr ja wieder! Was war denn eben los?",
 			"lines":
 			[
-				"\\c[10]Überdrehtes Mädchen\\c[0]: Ah!\\. Da seid ihr ",
-				"ja wieder!\\. Was war denn eben los?"
+				"\\c[10]Insane Girl\\c[0]: Oh!\\. There you are again!\\.",
+				"What happened?"
 			]
 		},
 		{
@@ -3864,8 +3864,8 @@
 			"original": "Überdrehtes Mädchen: Naja, wo war ich stehen geblieben... Hm... Achja!",
 			"lines":
 			[
-				"\\c[10]Überdrehtes Mädchen\\c[0]: Naja, wo war ",
-				"ich stehen geblieben...\\. Hm...\\. Achja!"
+				"\\c[10]Insane Girl\\c[0]: Well,\\. where did I leave",
+				"off...\\. Hm...\\. Oh yeah!"
 			]
 		},
 		{
@@ -3874,9 +3874,9 @@
 			"original": "Überdrehtes Mädchen: Ich hab voll Lust drauf, euch in Zukunft zu begleiten. Das ist doch okay, oder?",
 			"lines":
 			[
-				"\\c[10]Überdrehtes Mädchen\\c[0]: Ich hab voll ",
-				"Lust drauf, euch in Zukunft zu ",
-				"begleiten.\\. Das ist doch okay, oder?"
+				"\\c[10]Insane Girl\\c[0]: I feel like coming along",
+				"with you in the future.\\. That's okay,",
+				"isn't it?"
 			]
 		},
 		{
@@ -3885,7 +3885,7 @@
 			"original": "Kento: Öhhhm... Nunja...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Öhhhm...\\. Nunja...\\.\\^"
+				"\\c[1]\\n[1]\\c[0]: Uhhhm...\\. Well...\\.\\^"
 			]
 		},
 		{
@@ -3894,7 +3894,7 @@
 			"original": "Cibon: Kumpel, RENN!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kumpel,\\. RENN!\\.\\.\\^"
+				"\\c[2]\\n[2]\\c[0]: Kento,\\. RUN!\\.\\.\\^"
 			]
 		},
 		{
@@ -3903,9 +3903,9 @@
 			"original": "Cibon: BIST DU DES WAHNSINNS?! Willst du, dass wir alle mit den Nerven zugrunde gehen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: BIST DU DES WAHNSINNS?!\\. ",
-				"Willst du, dass wir alle mit den ",
-				"Nerven zugrunde gehen?"
+				"\\c[2]\\n[2]\\c[0]: ARE YOU OUT OF YOUR MIND?!\\.",
+				"Are you trying to lose your sanity",
+				"as well?"
 			]
 		},
 		{
@@ -3914,9 +3914,9 @@
 			"original": "Kento: Die... Die Frage kam so plötzlich und unerwartet! Ich war nicht darauf vorbereitet...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Die...\\. Die Frage kam so ",
-				"plötzlich und unerwartet!\\. Ich war ",
-				"nicht darauf vorbereitet..."
+				"\\c[1]\\n[1]\\c[0]: Her...\\. Her question came",
+				"about so suddenly and unexpectedly!\\.",
+				"It really caught me off guard..."
 			]
 		},
 		{
@@ -3925,10 +3925,9 @@
 			"original": "Blondes Mädchen: Oh, hallo! Was macht ihr so hier? Hier ist irgendwie alles so düster und dunkel, nicht?",
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Oh, hallo!\\. Was ",
-				"macht ihr so hier?\\. Hier ist ",
-				"irgendwie alles so düster und ",
-				"dunkel, nicht? "
+				"\\c[10]Blonde Girl\\c[0]: Oh, hey there!\\. What are",
+				"you doing here?\\. Somehow, everything's",
+				"so gloomy and dark here, isn't it?"
 			]
 		},
 		{
@@ -3937,10 +3936,9 @@
 			"original": "Cibon: Egal wie düster und dunkel es hier auch sein mag, die Anwesenheit deiner Schönheit alleine lässt jegliche Trostlosigkeit verfliegen!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Egal wie düster und dunkel es ",
-				"hier auch sein mag, die Anwesenheit ",
-				"deiner Schönheit alleine lässt ",
-				"jegliche Trostlosigkeit verfliegen!"
+				"\\c[2]\\n[2]\\c[0]: No matter how gloomy and dark",
+				"it may be here, the light of your",
+				"beauty alone gets rid of any misery!"
 			]
 		},
 		{
@@ -3949,9 +3947,9 @@
 			"original": "Blondes Mädchen: Wow! Wie lange ist es her, dass ich so ein tolles Kompliment bekommen habe!",
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Wow!\\. Wie lange ",
-				"ist es her, dass ich so ein tolles ",
-				"Kompliment bekommen habe!"
+				"\\c[10]Blonde Girl\\c[0]: Wow!\\. How long has it",
+				"been since I last got such a nice",
+				"compliment!"
 			]
 		},
 		{
@@ -3960,10 +3958,10 @@
 			"original": "Blondes Mädchen: Die Leute sind hier sonst alle so grummelig und schlecht gelaunt, aber du bist total anders! Voll toll!",
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Die Leute sind hier ",
-				"sonst alle so grummelig und schlecht ",
-				"gelaunt, aber du bist total anders!\\.",
-				"Voll toll!"
+				"\\c[10]Blonde Girl\\c[0]: All the people here are",
+				"always so grumpy and in a bad mood,",
+				"but you're completely different!\\.",
+				"I'm so happy!"
 			]
 		},
 		{
@@ -3972,10 +3970,9 @@
 			"original": "Blondes Mädchen: Ich dachte, mit meinem Leben würde es nur noch bergab gehen, seit ich hier gelandet bin.",
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Ich dachte, mit ",
-				"meinem Leben würde es nur noch ",
-				"bergab gehen, seit ich hier gelandet ",
-				"bin."
+				"\\c[10]Blonde Girl\\c[0]: I thought my life was",
+				"only going downhill ever since I",
+				"ended up here."
 			]
 		},
 		{
@@ -3984,8 +3981,8 @@
 			"original": "Blondes Mädchen: Und das nur wegen einem bisschen Diebstahl!",
 			"lines":
 			[
-				"\\c[10]Blondes Mädchen\\c[0]: Und das nur wegen ",
-				"einem bisschen Diebstahl!"
+				"\\c[10]Blonde Girl\\c[0]: And all because I stole",
+				"something!"
 			]
 		},
 		{
@@ -3994,9 +3991,9 @@
 			"original": "Überdrehtes Mädchen: Dabei wollte ich damit nur zwei anderen Leuten helfen, die total verzweifelt waren.",
 			"lines":
 			[
-				"\\c[10]Überdrehtes Mädchen\\c[0]: Dabei wollte ",
-				"ich damit nur zwei anderen Leuten ",
-				"helfen, die total verzweifelt waren. "
+				"\\c[10]Insane Girl\\c[0]: I just wanted to help two",
+				"other people who barely had anything",
+				"else."
 			]
 		},
 		{
@@ -4005,10 +4002,9 @@
 			"original": "Überdrehtes Mädchen: Voll blöd! Und jetzt muss ich hier in dieser schrecklichen Mine arbeiten! Das ist voll anstrengend!",
 			"lines":
 			[
-				"\\c[10]Überdrehtes Mädchen\\c[0]: Voll blöd! Und ",
-				"jetzt muss ich hier in dieser ",
-				"schrecklichen Mine arbeiten!\\. Das ist ",
-				"voll anstrengend!"
+				"\\c[10]Insane Girl\\c[0]: It's completely stupid!\\.",
+				"And now I have to work here in this",
+				"terrible mine!\\. It's so exhausting!"
 			]
 		},
 		{
@@ -4017,8 +4013,8 @@
 			"original": "Cibon: J... Ja... Wirklich schwere Zeiten hier...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: J... \\.Ja...\\. Wirklich schwere ",
-				"Zeiten hier..."
+				"\\c[2]\\n[2]\\c[0]: Y...\\. Yeah...\\. Really tough luck",
+				"there..."
 			]
 		},
 		{
@@ -4027,10 +4023,10 @@
 			"original": "Überdrehtes Mädchen: Ja! Genau das! Das ist voll toll jemanden zu haben, den man alles erzählen kann, wirklich! Weißte, was mir hier",
 			"lines":
 			[
-				"\\c[10]Überdrehtes Mädchen\\c[0]: Ja!\\. Genau das!\\. ",
-				"Das ist voll toll jemanden zu haben, ",
-				"den man alles erzählen kann, \\.",
-				"wirklich!\\.\\s[2] Weißte, was mir hier\\^ "
+				"\\c[10]Insane Girl\\c[0]: Yeah!\\. Exactly!\\. It's so",
+				"great to have someone you can share",
+				"your feelings about,\\. really!\\.\\s[2] Do you",
+				"know what happened to me here\\^"
 			],
 			"__comment__": "Pseudo-Scrolling Text"
 		},
@@ -4040,10 +4036,10 @@
 			"original": "Das ist voll toll jemanden zu haben, den man alles erzählen kann, wirklich! Weißte, was mir hier gestern passiert ist? Ich saß an",
 			"lines":
 			[
-				"\\>Das ist voll toll jemanden zu haben, ",
-				"\\>den man alles erzählen kann, ",
-				"\\>wirklich! Weißte, was mir hier ",
-				"\\s[2]gestern passiert ist? Ich saß an \\^"
+				"\\>great to have someone you can share",
+				"\\>your feelings about, really! Do you",
+				"\\>know what happened to me here",
+				"\\s[2]yesterday? I was sitting at a table\\^"
 			]
 		},
 		{
@@ -4052,10 +4048,10 @@
 			"original": "den man alles erzählen kann, wirklich! Weißte, was mir hier gestern passiert ist? Ich saß an einem Tisch und da kamen auf einmal",
 			"lines":
 			[
-				"\\>den man alles erzählen kann, ",
-				"\\>wirklich! Weißte, was mir hier ",
-				"\\>gestern passiert ist? Ich saß an ",
-				"\\s[2]einem Tisch und da kamen auf einmal \\^"
+				"\\>your feelings about, really! Do you",
+				"\\>know what happened to me here",
+				"\\>yesterday? I was sitting at a table",
+				"\\s[2]and then all of a sudden, these\\^"
 			]
 		},
 		{
@@ -4064,10 +4060,10 @@
 			"original": "wirklich! Weißte, was mir hier gestern passiert ist? Ich saß an einem Tisch und da kamen auf einmal diese Gefangenen und machen sich",
 			"lines":
 			[
-				"\\>wirklich! Weißte, was mir hier ",
-				"\\>gestern passiert ist? Ich saß an ",
-				"\\>einem Tisch und da kamen auf einmal ",
-				"\\s[2]diese Gefangenen und machen sich \\^"
+				"\\>know what happened to me here",
+				"\\>yesterday? I was sitting at a table",
+				"\\>and then all of a sudden, these",
+				"\\s[2]prisoners came and started making\\^"
 			]
 		},
 		{
@@ -4076,10 +4072,10 @@
 			"original": "gestern passiert ist? Ich saß an einem Tisch und da kamen auf einmal diese Gefangenen und machen sich über meine Ohren lustig! Voll",
 			"lines":
 			[
-				"\\>gestern passiert ist? Ich saß an ",
-				"\\>einem Tisch und da kamen auf einmal ",
-				"\\>diese Gefangenen und machen sich ",
-				"\\s[2]über meine Ohren lustig! Voll\\^ "
+				"\\>yesterday? I was sitting at a table",
+				"\\>and then all of a sudden, these",
+				"\\>prisoners came and started making",
+				"\\s[2]fun of my ears! So mean, isn't it!\\^"
 			]
 		},
 		{
@@ -4088,10 +4084,10 @@
 			"original": "einem Tisch und da kamen auf einmal diese Gefangenen und machen sich über meine Ohren lustig! Voll gemein, nicht wahr? Ich war den",
 			"lines":
 			[
-				"\\>einem Tisch und da kamen auf einmal ",
-				"\\>diese Gefangenen und machen sich ",
-				"\\>über meine Ohren lustig! Voll ",
-				"\\s[2]gemein, nicht wahr? Ich war den \\^"
+				"\\>and then all of a sudden, these",
+				"\\>prisoners came and started making",
+				"\\>fun of my ears! So mean, isn't it!",
+				"\\s[2]I couldn't take it at all, and then,\\^"
 			]
 		},
 		{
@@ -4100,10 +4096,10 @@
 			"original": "diese Gefangenen und machen sich über meine Ohren lustig! Voll gemein, nicht wahr? Ich war den ganzen Abend lang deprimiert, ganz",
 			"lines":
 			[
-				"\\>diese Gefangenen und machen sich ",
-				"\\>über meine Ohren lustig! Voll ",
-				"\\>gemein, nicht wahr? Ich war den ",
-				"\\s[2]ganzen Abend lang deprimiert, ganz \\^"
+				"\\>prisoners came and started making",
+				"\\>fun of my ears! So mean, isn't it!",
+				"\\>I couldn't take it at all, and then,",
+				"\\s[2]and then, all these terrible memories\\^"
 			]
 		},
 		{
@@ -4112,10 +4108,10 @@
 			"original": "über meine Ohren lustig! Voll gemein, nicht wahr? Ich war den ganzen Abend lang deprimiert, ganz alleine in meiner Zelle...",
 			"lines":
 			[
-				"\\>über meine Ohren lustig! Voll ",
-				"\\>gemein, nicht wahr? Ich war den ",
-				"\\>ganzen Abend lang deprimiert, ganz ",
-				"\\s[2]alleine in meiner Zelle...\\^"
+				"\\>fun of my ears! So mean, isn't it!",
+				"\\>I couldn't take it at all, and then,",
+				"\\>and then, all these terrible memories",
+				"\\s[2]haunting me for so many years... I was\\^"
 			]
 		},
 		{
@@ -4124,10 +4120,10 @@
 			"original": "gemein, nicht wahr? Ich war den ganzen Abend lang deprimiert, ganz alleine in meiner Zelle... Dabei war meine Vergangenheit schon",
 			"lines":
 			[
-				"\\>gemein, nicht wahr? Ich war den ",
-				"\\>ganzen Abend lang deprimiert, ganz ",
-				"\\>alleine in meiner Zelle...",
-				"\\s[2]Dabei war meine Vergangenheit schon \\^"
+				"\\>I couldn't take it at all, and then,",
+				"\\>and then, all these terrible memories",
+				"\\>haunting me for so many years... I was",
+				"\\s[2]depressed all evening, all alone in my\\^"
 			]
 		},
 		{
@@ -4136,10 +4132,10 @@
 			"original": "ganzen Abend lang deprimiert, ganz alleine in meiner Zelle... Dabei war meine Vergangenheit schon schlimm genug. Meine Eltern kenne",
 			"lines":
 			[
-				"\\>ganzen Abend lang deprimiert, ganz ",
-				"\\>alleine in meiner Zelle...",
-				"\\>Dabei war meine Vergangenheit schon ",
-				"\\s[2]schlimm genug. Meine Eltern kenne \\^"
+				"\\>and then, all these terrible memories",
+				"\\>haunting me for so many years... I was",
+				"\\>depressed all evening, all alone in my",
+				"\\s[2]cell... And my past was bad enough.\\^"
 			]
 		},
 		{
@@ -4148,10 +4144,10 @@
 			"original": "alleine in meiner Zelle... Dabei war meine Vergangenheit schon schlimm genug. Meine Eltern kenne ich eigentlich...",
 			"lines":
 			[
-				"\\>alleine in meiner Zelle...",
-				"\\>Dabei war meine Vergangenheit schon ",
-				"\\>schlimm genug. Meine Eltern kenne ",
-				"\\s[2]ich eigentlich...\\^"
+				"\\>haunting me for so many years... I was",
+				"\\>depressed all evening, all alone in my",
+				"\\>cell... And my past was bad enough.",
+				"\\s[2]My parents knew that I was actually...\\^"
 			]
 		},
 		{
@@ -4160,8 +4156,7 @@
 			"original": "Cibon: Kumpel! Lass uns ja von hier verschwinden!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kumpel!\\. Lass uns ja von hier ",
-				"verschwinden!"
+				"\\c[2]\\n[2]\\c[0]: Kento!\\. Let's get out of here!"
 			]
 		},
 		{
@@ -4170,9 +4165,9 @@
 			"original": "Kento: ...Wahnsinn. Das DU von einer Frau förmlich weg rennst. Was ich noch alles erleben darf.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: ...Wahnsinn.\\. Das DU von einer ",
-				"Frau förmlich weg rennst.\\. Was ich ",
-				"noch alles erleben darf."
+				"\\c[1]\\n[1]\\c[0]: Crazy.\\. That YOU of all people",
+				"would actually run away from a girl.\\.",
+				"I never thought I'd see that happen."
 			]
 		},
 		{
@@ -4181,10 +4176,9 @@
 			"original": "Cibon: DA WUNDERST DU DICH!? Dieses Gör hätte innerhalb der nächsten 4 Minuten meine letzten Nerven durchtrennt!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: DA WUNDERST DU DICH!?\\. Dieses ",
-				"Gör hätte innerhalb der nächsten 4 ",
-				"Minuten meine letzten Nerven ",
-				"durchtrennt!"
+				"\\c[2]\\n[2]\\c[0]: ARE YOU THAT SURPRISED?!\\. She",
+				"would've been the death of me, and I",
+				"never would've heard the end of it!"
 			]
 		},
 		{
@@ -4193,8 +4187,8 @@
 			"original": "Kento: Naja, du musst zugeben. Sie WAR recht \"unterhaltsam\".",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Naja, du musst zugeben. \\.Sie ",
-				"WAR recht \\s[4]\"unterhaltsam\"."
+				"\\c[1]\\n[1]\\c[0]: Well, you have to admit.\\.",
+				"That WAS quite \\s[4]\"entertaining\"."
 			]
 		},
 		{
@@ -4203,8 +4197,8 @@
 			"original": "Cibon: ... das... will ich jetzt überhört haben.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ... das...\\. will ich ",
-				"jetzt überhört haben."
+				"\\c[2]\\n[2]\\c[0]: I'll...\\. just pretend I never",
+				"heard anything."
 			]
 		},
 		{

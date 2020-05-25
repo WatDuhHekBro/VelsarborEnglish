@@ -431,7 +431,7 @@
 			"original": "Gurim: Ach herrje...",
 			"lines":
 			[
-				"\\c[10]Gurim\\c[0]: Oh lord..."
+				"\\c[10]Gurim\\c[0]: Oh no..."
 			]
 		},
 		{
@@ -439,11 +439,12 @@
 			"indent": 2,
 			"original": "Chefv: Jetz' is... Zappe!",
 			"__comment__": "Jetzt ist... Sappe!",
-			"__guesstimate__": "",
+			"__guesstimate__": "Now I'm... done for!",
 			"lines":
 			[
 				"\\c[10]Chefv\\c[0]: Jetz' is...\\. Zappe!"
-			]
+			],
+			"__comment2__": "Victory"
 		},
 		{
 			"path": [94,6,3],
@@ -1507,12 +1508,13 @@
 			"indent": 1,
 			"original": "Chef: Ei, e neia Geschna! Dann zescht mòòl, wòòs ihr so dròòf hòòbt!",
 			"__comment__": "Oh, ein naja Geschnappt! Dann ziemlich mal, was ihr so darf habt!",
-			"__guesstimate__": "",
+			"__guesstimate__": "Oh, you're doing pretty well! Then try whatever you've got on me, I'm waiting!",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Ei, e neia Geschna!\\. Dann zescht mòòl, wòòs ",
 				"ihr so dròòf hòòbt!"
-			]
+			],
+			"__comment2__": " Battle Start"
 		},
 		{
 			"path": [94,469,1],
@@ -2919,36 +2921,39 @@
 			"indent": 3,
 			"original": "Chef: Jetz' zesch isch eisch mal, wie dòòs lewwen inna Grub is!",
 			"__comment__": "Jetzt ziemlich ich euch mal, wie das leben in das Grube ist!",
-			"__guesstimate__": "",
+			"__guesstimate__": "Now it's about time I show you what life's like in the pit!",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Jetz' zesch isch eisch mal, wie dòòs lewwen ",
 				"inna Grub is!"
-			]
+			],
+			"__comment2__": "Earthbending"
 		},
 		{
 			"path": [96,346,2],
 			"indent": 3,
 			"original": "Chef: So lòòngsòòm bin isch grimmelwiedisch! Jetz' kriehd ihr Fäng!",
 			"__comment__": "So langsam bin ich <???>! Jetzt kriegt ihr Fängt!",
-			"__guesstimate__": "",
+			"__guesstimate__": "I'm slowly having to use more of my strength! I've got you now!",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: So lòòngsòòm bin isch grimmelwiedisch!\\.",
 				"Jetz' kriehd ihr Fäng!"
-			]
+			],
+			"__comment2__": "Cyclones"
 		},
 		{
 			"path": [96,360,2],
 			"indent": 3,
 			"original": "Chef: Ei jòò, nesch schlescht! Da holl isch wohl bessa mei Schdärgedrong!",
 			"__comment__": "Ohje, nicht schlecht! Da hölle ich wohl besser mein Stärkedorn!",
-			"__guesstimate__": "",
+			"__guesstimate__": "Oh man, not bad! I better use a focus on my attack!",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Ei jòò, nesch schlescht!\\. Da holl isch wohl ",
 				"bessa mei Schdärgedrong!"
-			]
+			],
+			"__comment2__": "Damaged Halfway + Focus Attack"
 		},
 		{
 			"path": [97,8,2],

@@ -6,9 +6,9 @@
 			"original": "Gefangener: Wir starren hier gerade mit höchstem Interesse jene Wand an, die du gerade zu verdecken vermagst. Verschwinde.",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Wir starren hier gerade mit höchstem ",
-				"Interesse jene Wand an, die du gerade zu verdecken ",
-				"vermagst. \\.Verschwinde."
+				"\\c[10]Prisoner\\c[0]: We're staring at the wall that you're",
+				"currently blocking with particular interest.\\.",
+				"Get lost."
 			]
 		},
 		{
@@ -599,7 +599,7 @@
 			"original": "Robin: Wir sehen uns dann im Turnier, haha!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Wir sehen uns dann im Turnier, haha!"
+				"\\c[10]Robin\\c[0]: We'll see you in the tournament then, haha!"
 			]
 		},
 		{
@@ -607,10 +607,10 @@
 			"original": "Robin: Jetzt habt ihr euren Klunker wieder, ich hoffe ihr seid zufrieden! Aber wartet nur ab! Ihr reichen Säcke werdet schon euren Untergang erleben, früher oder später!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Jetzt habt ihr euren Klunker wieder, ich ",
-				"hoffe ihr seid zufrieden!\\. Aber wartet nur ab!\\. Ihr ",
-				"reichen Säcke werdet schon euren Untergang ",
-				"erleben, früher oder später!"
+				"\\c[10]Robin\\c[0]: Now that you have your stone back, I hope",
+				"you're satisfied!\\. But just you wait!\\. Rich filth",
+				"like you WILL meet your downfall sooner or later!\\.",
+				"They all do!"
 			]
 		},
 		{
@@ -619,8 +619,7 @@
 			"original": "Felcis: Ignorieren. Einfach ignorieren...",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Ignorieren.\\. Einfach ",
-				"ignorieren..."
+				"\\c[5]\\n[5]\\c[0]: Ignore it.\\. Just ignore it..."
 			]
 		},
 		{
@@ -628,8 +627,8 @@
 			"original": "Gefangener: Wir geben es den Armen, weil sie es wirklich brauchen, oh ja!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Wir geben es den Armen, weil sie es ",
-				"wirklich brauchen, oh ja!"
+				"\\c[10]Prisoner\\c[0]: We give to the poor because they're the",
+				"ones who really need it, oh yes we do!"
 			]
 		},
 		{
@@ -637,8 +636,8 @@
 			"original": "Gefangener: Wir stehlen von den Reichen, damit sie weniger reich werden, oh ja!",
 			"lines":
 			[
-				"\\c[10]Gefangener\\c[0]: Wir stehlen von den Reichen, damit sie ",
-				"weniger reich werden, oh ja!"
+				"\\c[10]Prisoner\\c[0]: We steal from the rich to make them less",
+				"rich, oh yes we do!"
 			]
 		},
 		{

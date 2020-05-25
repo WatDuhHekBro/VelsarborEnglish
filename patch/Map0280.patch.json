@@ -242,7 +242,7 @@
 			"indent": 1,
 			"original": "Chef: Isch bin hie de Schef. Freid misch, neie Gesischte hie in unsere Briderschafd zu sehe!",
 			"__comment__": "Ich bin hier die Chef. Freut mich, nie Geschichte hier in unsere Bruderschaft zu sehe!",
-			"__guesstimate__": "",
+			"__guesstimate__": "I'm the boss around here. Glad to see another face around to spice up our brotherhood!",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Isch bin hie de Schef.\\. Freid ",
@@ -255,7 +255,7 @@
 			"indent": 1,
 			"original": "Chef: Mir alle sind schon lòònge hie in Helnovie. Doch mir sehn uns nisch als Gefangne hie, sondern als harde Arweider!",
 			"__comment__": "Mir alle sind schon lange hier in Helnovien. Doch mir sehen uns nicht als Gefangner hier, sondern als harde Arbeiter!",
-			"__guesstimate__": "",
+			"__guesstimate__": "I've been here in Helnovien for a very long time. And I don't see ourselves as prisoners, but as hard workers instead!",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Mir alle sind schon lòònge hie ",
@@ -269,7 +269,7 @@
 			"indent": 1,
 			"original": "Chef: Ei, un mir mache diese Arweid fir unse Lewwen gern!",
 			"__comment__": "Oh, und mir machen diese Arbeit für unsere Leben gerne!",
-			"__guesstimate__": "",
+			"__guesstimate__": "Oh, and I've loved this work for all my life!",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Ei, un mir mache diese Arweid ",
@@ -290,7 +290,7 @@
 			"indent": 2,
 			"original": "Chef: Ah, ihr seid doch die Bruschen, die misch do dadsäschlisch inne Durnier besiegt habd.",
 			"__comment__": "Ah, ihr seid doch die Brüder, die mich du tatsächlich im Turnier besiegt habt.",
-			"__guesstimate__": "",
+			"__guesstimate__": "Oh, you're the brothers who defeated me in the tournament.",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Ah, ihr seid doch die ",
@@ -303,7 +303,7 @@
 			"indent": 2,
 			"original": "Chef: Un soga en Mäde had be eich mitgekämpft! Kòòm zu glòòwwen, dass isch misch von dem besiégn lass.",
 			"__comment__": "Und sogar eine Mädchen hat bei euch mitgekämpft! Komm zu glauben, dass ich mich von dem besiegn lass.",
-			"__guesstimate__": "",
+			"__guesstimate__": "And a girl even fought alongside you! Hard to believe that I let myself be defeated so easily.",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Un soga en Mäde had be eich ",
@@ -325,7 +325,7 @@
 			"indent": 2,
 			"original": "Chef: Ei jòò, vonna Weile hawwisch mòòl ene Belohnung aasgestelld fir denjenigen, der misch besiegt. Natirlisch nisch offisiell.",
 			"__comment__": "Ohje, von ner Weile mal eine Belohnung ausgestellt für denjenigen, der mich besiegt. Natürlich nicht offiziell.",
-			"__guesstimate__": "",
+			"__guesstimate__": "Oh yeah, the reward for those who manage to defeat me. Of course, not an official one.",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Ei jòò,\\. vonna Weile hawwisch ",
@@ -339,7 +339,7 @@
 			"indent": 2,
 			"original": "Chef: Isch dòòcht dadursch wirde Mòòl starge Gäschna komme, awwer gebròòcht hawwet damals nischt soviel. Awwer egal!",
 			"__comment__": "Ich dachte wurde Mal starke Geschnappt komme, aber gebracht habt damals nicht soviel. Aber egal!",
-			"__guesstimate__": "",
+			"__guesstimate__": "I think it's a good find, even if it didn't bring much back then. But never mind that!",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Isch dòòcht dadursch wirde ",
@@ -353,7 +353,7 @@
 			"indent": 2,
 			"original": "Chef: Nun habt ihr misch besiegt un ihr begommt den Pres. Dòò, holld ihn eich.",
 			"__comment__": "Nun habt ihr mich besiegt und ihr bekommt den Presse. Du, hollt ihn euch.",
-			"__guesstimate__": "",
+			"__guesstimate__": "Now that you've defeated me, it's yours now. The reward's this way.",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Nun habt ihr misch besiegt un ",
@@ -366,7 +366,7 @@
 			"indent": 2,
 			"original": "Chef: Isch hoffe mir sehe uns nochma im Durnier!",
 			"__comment__": "Ich hoffe mir sehe uns nochmal im Turnier!",
-			"__guesstimate__": "",
+			"__guesstimate__": "I hope we'll meet again in the tournament!",
 			"lines":
 			[
 				"\\c[10]Chef\\c[0]: Isch hoffe mir sehe uns nochma ",
