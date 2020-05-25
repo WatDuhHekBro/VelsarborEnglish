@@ -1813,11 +1813,13 @@
 	],
 	"replace":
 	{
+		"[10110,4,\"\\\\c[10]Announcer\\\\c[0]: They want to see Zinkar blood spilt!\\\\.\",[]],[20110,4,\"Those brothers better be careful!\\\\. Their\",[]],[20110,4,\"archenemies are on the way to challenge them\",[]],[20110,4,\"and they seem almost unstoppable at that!\",[]]": "[10110,4,\"\\\\c[10]Announcer\\\\c[0]: They want to see Zinkar blood spilt!\\\\.\",[]],[20110,4,\"Those brothers better be careful!\\\\. Their\",[]],[20110,4,\"archenemies are on the way to challenge them\",[]],[20110,4,\"and they seem almost unstoppable at that!\",[]],[12330,4,\"\",[0,118,0]]",
 		"[10110,5,\"\\\\c[2]\\\\n[2]\\\\c[0]: Ugh...\\\\. It's so terrible.\",[]]": "[10110,5,\"\\\\c[2]\\\\n[2]\\\\c[0]: Ugh...\\\\. It's so terrible.\",[]],[12330,5,\"\",[0,119,0]],[10110,5,\"\\\\c[10]Announcer\\\\c[0]: Seems like you have a crummy taste for\",[]],[20110,5,\"humor!\",[]]",
 		"[10110,5,\"\\\\c[2]\\\\n[2]\\\\c[0]: Can someone just tell this guy\",[]],[20110,5,\"that he's not even funny at all?\",[]]": "[10110,5,\"\\\\c[2]\\\\n[2]\\\\c[0]: Can someone just tell this guy\",[]],[20110,5,\"that he's not even funny at all?\",[]],[12330,5,\"\",[0,119,0]],[10110,5,\"\\\\c[10]Announcer\\\\c[0]: There's no escaping my punitentiary\",[]],[20110,5,\"now!\",[]]",
 		"[11550,2,\"Menge_applaus\",[100,100,50]]": "[11550,2,\"Menge_applaus\",[100,100,50]],[10110,2,\"\\\\c[10]Announcer\\\\c[0]: AND THE CROWD GOES WILD!!\",[]]",
 		"[11550,3,\"Menge_applaus\",[100,100,50]]": "[11550,3,\"Menge_applaus\",[100,100,50]],[10110,3,\"\\\\c[10]Announcer\\\\c[0]: AND THE CROWD GOES WILD!!\",[]]",
 		"[11550,4,\"Menge_applaus\",[100,100,50]]": "[11550,4,\"Menge_applaus\",[100,100,50]],[10110,4,\"\\\\c[10]Announcer\\\\c[0]: AND THE CROWD GOES WILD!!\",[]]",
 		"[11550,5,\"Menge_applaus\",[100,100,50]]": "[11550,5,\"Menge_applaus\",[100,100,50]],[10110,5,\"\\\\c[10]Announcer\\\\c[0]: AND THE CROWD GOES WILD!!\",[]]"
-	}
+	},
+	"__comment__": "For the first replacing, it fixes a bug where the dialogue box wouldn't show up after the Zinkar blood message."
 }

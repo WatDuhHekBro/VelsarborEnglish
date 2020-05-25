@@ -1756,9 +1756,8 @@
 			"original": "Kento: Es ist natürlich im Sinne von diesem Felcis, den Adelsbund von dem Verdacht zu befreien...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: It is, of course, in the best",
-				"interests of this Felcis guy to free",
-				"the aristocracy of suspicion..."
+				"\\c[1]\\n[1]\\c[0]: He has every reason to free the",
+				"aristocracy of suspicion..."
 			]
 		},
 		{
@@ -2368,9 +2367,8 @@
 			"original": "Saion: Hmpf! Wir werden unseren Turnierplatz schon wieder zurück gewinnen, wartet nur ab!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Hmpf!\\. Wir werden unseren ",
-				"Turnierplatz schon wieder zurück ",
-				"gewinnen, wartet nur ab!"
+				"\\c[10]Saion\\c[0]: Hmph!\\. We'll get back our spot",
+				"on the leaderboard, just you wait!"
 			]
 		},
 		{
@@ -2379,10 +2377,9 @@
 			"original": "Jorn: Ich sehe viele Monate voller grausamer Kämpfe auf mich zu kommen. Jemand hohl mich hier raus, bitte!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Ich sehe viele Monate voller ",
-				"grausamer Kämpfe auf mich zu ",
-				"kommen.\\. Jemand hohl mich hier ",
-				"raus, bitte!"
+				"\\c[10]Jorn\\c[0]: I see many months of cruel",
+				"battles coming my way.\\. Someone",
+				"get me out of here, please!"
 			]
 		},
 		{
@@ -2391,9 +2388,8 @@
 			"original": "Saion: Jorn, wirst du wohl gefälligst aufhören ständig hier rumzujammern?",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Jorn, wirst du wohl ",
-				"gefälligst aufhören ständig hier ",
-				"rumzujammern? "
+				"\\c[10]Saion\\c[0]: Jorn, will you please stop",
+				"whining all the time?"
 			]
 		},
 		{
@@ -2402,10 +2398,9 @@
 			"original": "Saion: Gurim und ich stehen das ganze hier auch durch ohne uns zu beschweren! Also reiß dich gefälligst zusammen!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Gurim und ich stehen das ",
-				"ganze hier auch durch ohne uns zu ",
-				"beschweren!\\. Also reiß dich ",
-				"gefälligst zusammen!"
+				"\\c[10]Saion\\c[0]: Gurim and I survived the whole",
+				"ordeal and we never once complained!\\.",
+				"So get yourself together!"
 			]
 		},
 		{
@@ -2414,10 +2409,9 @@
 			"original": "Jorn: Das du dich gerne zusammenschlagen lässt wissen wir mittlerweile ja alle, und dass Gurim sich nie beschwert ebenso!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Das du dich gerne ",
-				"zusammenschlagen lässt wissen wir ",
-				"mittlerweile ja alle, und dass Gurim ",
-				"sich nie beschwert ebenso!"
+				"\\c[10]Jorn\\c[0]: We all know by now that you like",
+				"getting beaten up and that Gurim never",
+				"complains at all!"
 			]
 		},
 		{
@@ -2426,9 +2420,8 @@
 			"original": "Jorn: Niemand zwingt uns dazu, all diese Kämpfe zu machen, hast du daran schon Mal gedacht?",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Niemand zwingt uns dazu, all ",
-				"diese Kämpfe zu machen, hast du ",
-				"daran schon Mal gedacht? "
+				"\\c[10]Jorn\\c[0]: Nobody's forcing us to go to all",
+				"these battles, ever thought of that?"
 			]
 		},
 		{
@@ -2437,10 +2430,10 @@
 			"original": "Jorn: Verdammt, mittlerweile würde ich sogar lieber regelmäßig in der Mine arbeiten, anstatt nochmal im Turnier aufzutreten!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Verdammt,\\. mittlerweile würde ",
-				"ich sogar lieber regelmäßig in der ",
-				"Mine arbeiten, anstatt nochmal im ",
-				"Turnier aufzutreten!"
+				"\\c[10]Jorn\\c[0]: Damn,\\. at this point, I'd take",
+				"working in the mine every day over",
+				"battling in the tournament even",
+				"for just one more time!"
 			]
 		},
 		{
@@ -2449,9 +2442,9 @@
 			"original": "Saion: Ich gebe hier mein Bestes, um uns hier einen guten Ruf zu schaffen und uns weiter zu bringen!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Ich gebe hier mein Bestes, ",
-				"um uns hier einen guten Ruf zu ",
-				"schaffen und uns weiter zu bringen! "
+				"\\c[10]Saion\\c[0]: I'm doing my best to create a",
+				"good reputation for us here and move",
+				"us forward!"
 			]
 		},
 		{
@@ -2460,10 +2453,9 @@
 			"original": "Saion: Und alles was du machst, ist meckern, meckern, meckern! Du solltest mir DANKBAR sein, dass ich dich überhaupt mitziehe!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Und alles was du machst, ist ",
-				"meckern,\\. meckern,\\. meckern!\\. Du ",
-				"solltest mir \\s[3]DANKBAR\\s[0] sein, dass ich ",
-				"dich überhaupt mitziehe!"
+				"\\c[10]Saion\\c[0]: And all you do is whine,\\. whine,\\.",
+				"whine!\\. You should be \\s[3]GRATEFUL\\s[0] to me",
+				"for even helping you out at all!"
 			]
 		},
 		{
@@ -2472,10 +2464,10 @@
 			"original": "Jorn: DANKBAR?! DU bist schuld, dass wir hier überhaupt erst gelandet sind! Nur weil du damals unbedingt deinen Kampf haben wolltest!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: DANKBAR?!\\. DU bist schuld, dass ",
-				"wir hier überhaupt erst gelandet ",
-				"sind!\\. Nur weil du damals unbedingt ",
-				"deinen Kampf haben wolltest!"
+				"\\c[10]Jorn\\c[0]: GRATEFUL?!\\. YOU'RE the reason we",
+				"ended up here in the first place!\\. Just",
+				"because you wanted to get your revenge",
+				"back then no matter what!"
 			]
 		},
 		{
@@ -2484,8 +2476,8 @@
 			"original": "Jorn: Und selbst hier ist Kämpfen das Einzige, woran du denken kannst!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Und selbst hier ist Kämpfen ",
-				"das Einzige, woran du denken kannst!"
+				"\\c[10]Jorn\\c[0]: And even here, fighting is still",
+				"the only thing you can think of!"
 			]
 		},
 		{
@@ -2494,10 +2486,10 @@
 			"original": "Saion: Ich habe es dir mehrmals gesagt! Dieses Leben liegt uns im Blut! Wir, mit den Nachnamen Zinkar, ziehen niemals den Kürzeren!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Ich habe es dir mehrmals ",
-				"gesagt!\\. Dieses Leben liegt uns im ",
-				"Blut!\\. Wir, mit den Nachnamen Zinkar, ",
-				"ziehen niemals den Kürzeren!"
+				"\\c[10]Saion\\c[0]: I've had to keep telling you",
+				"this so many times already!\\. This type",
+				"of life is ingrained in our blood!\\. Us",
+				"Zinkars never miss an opportunity!"
 			]
 		},
 		{
@@ -2506,10 +2498,9 @@
 			"original": "Saion: Aber was wunder ich mich überhaupt. Natürlich verstehst du das nicht! Du bist hier ja das SCHWARZE SCHAF von uns Dreien!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Aber was wunder ich mich ",
-				"überhaupt. Natürlich verstehst du ",
-				"das nicht!\\. Du bist hier ja das ",
-				"\\s[3]SCHWARZE SCHAF\\s[0] von uns Dreien!"
+				"\\c[10]Saion\\c[0]: But what am I saying?\\. Of course",
+				"you don't get any of that!\\. You're the",
+				"\\s[3]BLACK SHEEP\\s[0] of us three!"
 			]
 		},
 		{
@@ -2518,9 +2509,10 @@
 			"original": "Jorn: Richtig! Ich bin das schwarze Schaf!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Richtig!\\. Ich bin das schwarze ",
-				"Schaf!\\.\\^"
-			]
+				"\\c[10]Jorn\\c[0]: You're right!\\. I'm the black",
+				"sheep!\\.\\^"
+			],
+			"__comment__": "Pseudo-Scrolling"
 		},
 		{
 			"path": [45,6,119,2],
@@ -2528,8 +2520,8 @@
 			"original": "Jorn: Richtig! Ich bin das schwarze Schaf! ZUM GLÜCK!",
 			"lines":
 			[
-				"\\>\\c[10]Jorn\\c[0]: Richtig! Ich bin das schwarze ",
-				"\\>Schaf!\\< ZUM GLÜCK!"
+				"\\\\c[10]>Jorn\\c[0]: You're right! I'm the black",
+				"\\>sheep!\\< AND I'M LUCKY I AM!"
 			]
 		},
 		{
@@ -2538,8 +2530,9 @@
 			"original": "Jorn: Ansonsten hätte ich dieses",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: \\s[2]Ansonsten hätte ich dieses\\^"
-			]
+				"\\c[10]Jorn\\c[0]: \\s[2]Otherwise I'd have this\\^"
+			],
+			"__comment__": "Pseudo-Scrolling"
 		},
 		{
 			"path": [45,6,123,3],
@@ -2547,9 +2540,8 @@
 			"original": "Jorn: Ansonsten hätte ich dieses IDIOTENBLUT in mir, das mir jeglichen",
 			"lines":
 			[
-				"\\>\\c[10]Jorn\\c[0]: Ansonsten hätte ich dieses",
-				"\\s[0]IDIOTENBLUT\\s[2] in mir, das mir ",
-				"jeglichen\\^"
+				"\\\\c[10]>Jorn\\c[0]: Otherwise I'd have this\\< \\s[0]IDIOT",
+				"BLOOD\\s[2] in me that'd take away my\\^"
 			]
 		},
 		{
@@ -2558,10 +2550,10 @@
 			"original": "Jorn: Ansonsten hätte ich dieses IDIOTENBLUT in mir, das mir jeglichen VERSTAND NIMMT und mir dafür einen",
 			"lines":
 			[
-				"\\>\\c[10]Jorn\\c[0]: Ansonsten hätte ich dieses",
-				"\\>IDIOTENBLUT in mir, das mir ",
-				"\\>jeglichen \\<\\s[0]VERSTAND NIMMT\\s[2] und mir ",
-				"dafür einen\\^"
+				"\\\\c[10]>Jorn\\c[0]: Otherwise I'd have this IDIOT",
+				"\\>BLOOD in me that'd take away my",
+				"\\s[0]ABILITY TO THINK\\s[2] and turn me",
+				"into a\\^"
 			]
 		},
 		{
@@ -2570,10 +2562,10 @@
 			"original": "Jorn: Ansonsten hätte ich dieses IDIOTENBLUT in mir, das mir jeglichen VERSTAND NIMMT und mir dafür einen DICKSCHÄLDEL beschert!",
 			"lines":
 			[
-				"\\>\\c[10]Jorn\\c[0]: Ansonsten hätte ich dieses",
-				"\\>IDIOTENBLUT in mir, das mir ",
-				"\\>jeglichen VERSTAND NIMMT und mir ",
-				"\\>dafür einen\\< \\s[0]DICKSCHÄLDEL\\s[2] beschert!"
+				"\\\\c[10]>Jorn\\c[0]: Otherwise I'd have this IDIOT",
+				"\\>BLOOD in me that'd take away my",
+				"\\>ABILITY TO THINK and turn me",
+				"\\>into a\\< \\s[0]COMPLETE MORON\\s[2]!"
 			]
 		},
 		{
@@ -2582,8 +2574,8 @@
 			"original": "Saion: WAS SAGST DU DA?! KOMM SOFORT ZURÜCK!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: WAS SAGST DU DA?!\\. KOMM SOFORT ",
-				"ZURÜCK!"
+				"\\c[10]Saion\\c[0]: WHAT DID YOU JUST SAY?!\\.",
+				"GET BACK HERE RIGHT NOW!!"
 			]
 		},
 		{
@@ -2592,8 +2584,7 @@
 			"original": "Cibon: W... Was war das denn jetzt...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: W...\\. Was war das denn ",
-				"jetzt..."
+				"\\c[2]\\n[2]\\c[0]: W...\\. What was that just now..."
 			]
 		},
 		{
@@ -2602,8 +2593,8 @@
 			"original": "Soko: Gurim... Von was hat Jorn da eben gesprochen?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Gurim...\\. Von was hat Jorn da ",
-				"eben gesprochen?"
+				"\\c[13]\\n[3]\\c[0]: Gurim...\\. What was Jorn talking",
+				"about?"
 			]
 		},
 		{
@@ -2612,9 +2603,8 @@
 			"original": "Gurim: ... Ist schon etwas länger her, seit sie so einen Streit hatten...",
 			"lines":
 			[
-				"\\c[10]Gurim\\c[0]: ...\\. Ist schon etwas länger ",
-				"her, seit sie so einen Streit ",
-				"hatten..."
+				"\\c[10]Gurim\\c[0]: It's been a while since they",
+				"last had that bad of an argument..."
 			]
 		},
 		{
@@ -2623,9 +2613,8 @@
 			"original": "Gurim: Jorn... ist in Wirklichkeit nur ein Halbbruder von uns... Ist ein kompliziertes Thema...",
 			"lines":
 			[
-				"\\c[10]Gurim\\c[0]: Jorn...\\. ist in Wirklichkeit ",
-				"nur ein Halbbruder von uns...\\. Ist ",
-				"ein kompliziertes Thema..."
+				"\\c[10]Gurim\\c[0]: Jorn...\\. is actually just a half",
+				"brother to us...\\. It's complicated..."
 			]
 		},
 		{
@@ -2634,9 +2623,8 @@
 			"original": "Gurim: Saion schafft es jedenfalls nicht, über diese Sache hinweg zu sehen...",
 			"lines":
 			[
-				"\\c[10]Gurim\\c[0]: Saion schafft es jedenfalls ",
-				"nicht, über diese Sache hinweg zu ",
-				"sehen..."
+				"\\c[10]Gurim\\c[0]: And Saion's probably gonna keep",
+				"reminding him of that..."
 			]
 		},
 		{
@@ -2645,9 +2633,8 @@
 			"original": "Gurim: Entschuldigt mich, aber ich sollte wegen den Beiden nach dem Rechten sehen...",
 			"lines":
 			[
-				"\\c[10]Gurim\\c[0]: Entschuldigt mich, aber ich ",
-				"sollte wegen den Beiden nach dem ",
-				"Rechten sehen..."
+				"\\c[10]Gurim\\c[0]: Excuse me, but I have to go and",
+				"make sure the two are alright..."
 			]
 		},
 		{
@@ -2656,9 +2643,9 @@
 			"original": "Soko: ... Wie es scheint steckt hinter den ganzen Streitereien doch etwas mehr...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ...\\. Wie es scheint steckt ",
-				"hinter den ganzen Streitereien doch ",
-				"etwas mehr..."
+				"\\c[13]\\n[3]\\c[0]: It seems like there's some",
+				"underlying problem behind all",
+				"those arguments..."
 			]
 		},
 		{
@@ -2667,10 +2654,9 @@
 			"original": "Kento: Es ist nicht so, dass wir hier Psychiater spielen müssen. Das ist ihre Angelegenheit und wir sollten uns da nicht einmischen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Es ist nicht so, dass wir ",
-				"hier Psychiater spielen müssen.\\. Das ",
-				"ist ihre Angelegenheit und wir ",
-				"sollten uns da nicht einmischen."
+				"\\c[1]\\n[1]\\c[0]: It's not up to us to be the",
+				"psychiatrists here.\\. It's their",
+				"business and we shouldn't interfere."
 			]
 		},
 		{
@@ -2679,9 +2665,8 @@
 			"original": "Felcis: So mein Freund, wir haben gewonnen, ihr wisst, was das heißt? Her mit dem Klunker.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: So mein Freund, wir haben ",
-				"gewonnen, ihr wisst, was das heißt?\\.",
-				"Her mit dem Klunker."
+				"\\c[5]\\n[5]\\c[0]: So my friend, we won, and you",
+				"know what that means?\\. Hand it over."
 			]
 		},
 		{
@@ -2690,8 +2675,8 @@
 			"original": "Robin: Ja, ja. Schon gut. Ihr hattet diesmal Glück gehabt. Euren Stein könnt ihr haben.",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Ja, ja.\\. Schon gut.\\. Ihr hattet diesmal Glück ",
-				"gehabt.\\. Euren Stein könnt ihr haben. "
+				"\\c[10]Robin\\c[0]: Yeah yeah.\\. Alright.\\. You lucked out this",
+				"time.\\. So take your damn stone already."
 			]
 		},
 		{
@@ -2700,8 +2685,8 @@
 			"original": "Robin: Das nächste Mal, wenn wir uns im Turnier treffen, wird es nicht so einfach für euch!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Das nächste Mal, wenn wir uns im Turnier ",
-				"treffen, wird es nicht so einfach für euch!"
+				"\\c[10]Robin\\c[0]: Next time we meet in the arena, we won't",
+				"make it so easy for you, mark my words!"
 			]
 		},
 		{
@@ -2710,9 +2695,9 @@
 			"original": "Pauamainer-Mitglied: Das war eine Spitzenleistung von euch heute! Wir haben schon lange keine so guten Gegner mehr gehabt!",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Das war eine Spitzenleistung ",
-				"von euch heute!\\. Wir haben schon lange keine so ",
-				"guten Gegner mehr gehabt!"
+				"\\c[10]Pauamainer Member\\c[0]: Your performance was the best",
+				"we've seen today!\\. We haven't had such strong",
+				"opponents in a long time!"
 			]
 		},
 		{
@@ -2721,10 +2706,10 @@
 			"original": "Pauamainer-Mitglied: Schaut doch mal in unseren Stützpunkt vorbei, wenn ihr schon der Pauamainer- Untertage-Brüderschaft angehört! Wir hätten da vielleicht etwas für euch.",
 			"lines":
 			[
-				"\\c[10]Pauamainer-Mitglied\\c[0]: Schaut doch mal in unseren ",
-				"Stützpunkt vorbei, wenn ihr schon der Pauamainer-",
-				"Untertage-Brüderschaft angehört! Wir hätten da ",
-				"vielleicht etwas für euch."
+				"\\c[10]Pauamainer Member\\c[0]: Have a look at our base if",
+				"you've already made it into the underground",
+				"Pauamainer Brotherhood! We might have",
+				"something for you."
 			]
 		},
 		{

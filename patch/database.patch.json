@@ -1382,7 +1382,7 @@
 			"original": "Robin: Endlich ist es soweit!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Endlich ist es soweit! "
+				"\\c[10]Robin\\c[0]: It's finally happening!"
 			]
 		},
 		{
@@ -1391,8 +1391,8 @@
 			"original": "Robin: Kommt, Leute, wir zeigen diesem adligen Hornochsen, wer hier der Boss ist!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Kommt, Leute, wir zeigen diesem adligen ",
-				"Hornochsen, wer hier der Boss ist!"
+				"\\c[10]Robin\\c[0]: Alright everyone, let's show that",
+				"capitalistic pig who's boss here!"
 			]
 		},
 		{
@@ -1401,8 +1401,8 @@
 			"original": "Cibon: Zu schade, dass der adelige Hornochse nur seine Vertretung schickt.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Zu schade, dass der adelige Hornochse nur ",
-				"seine Vertretung schickt."
+				"\\c[2]\\n[2]\\c[0]: Too bad that capitalistic pig is only",
+				"sending his representatives."
 			]
 		},
 		{
@@ -1411,8 +1411,8 @@
 			"original": "Soko: Kämpft mit allem, was ihr habt, verstanden?! Eine Niederlage ist nicht drin!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Kämpft mit allem, was ihr habt, verstanden?!\\.",
-				"Eine Niederlage ist nicht drin!"
+				"\\c[13]\\n[3]\\c[0]: Fight with everything you've got, got it?!\\. I",
+				"don't want to think about what happens if we lose!"
 			]
 		},
 		{
@@ -1421,8 +1421,8 @@
 			"original": "Saion: Endlich ist es soweit! Ihr seid weit gekommen, doch hier ist Endstation!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Endlich ist es soweit!\\. Ihr seid weit ",
-				"gekommen, doch hier ist Endstation! "
+				"\\c[10]Saion\\c[0]: We finally duel again!\\. You've come a long",
+				"way, I'll give you that, but it's the end for you!"
 			]
 		},
 		{
@@ -1431,8 +1431,8 @@
 			"original": "Saion: Jetzt werden wir euch zeigen, wer hier im Turnier die Oberhand hat!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Jetzt werden wir euch zeigen, wer hier im ",
-				"Turnier die Oberhand hat! "
+				"\\c[10]Saion\\c[0]: Now we'll show you who has the upper hand",
+				"here in the tournament!"
 			]
 		},
 		{
@@ -1441,8 +1441,8 @@
 			"original": "Cibon: Apropos Hand... Was zum Henker sollen diese angebundenen Dolchwaffen?!",
 			"lines":
 			[
-				"\\c[10]Cibon\\c[0]: Apropos Hand...\\. Was zum Henker sollen diese ",
-				"angebundenen Dolchwaffen?!"
+				"\\c[10]Cibon\\c[0]: Speaking of hands...\\. What's with those",
+				"daggers tied up to your hands like that?!"
 			]
 		},
 		{
@@ -1451,8 +1451,8 @@
 			"original": "Jorn: Glaub mir, am liebsten würde ich diese Waffen zur Seite schmeißen und aufgeben.",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Glaub mir, am liebsten würde ich diese ",
-				"Waffen zur Seite schmeißen und aufgeben."
+				"\\c[10]Jorn\\c[0]: Trust me, I'd love to just throw these",
+				"weapons away and give up."
 			]
 		},
 		{
@@ -1461,7 +1461,7 @@
 			"original": "Jorn: Aber ich kann nicht!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Aber ich kann nicht!"
+				"\\c[10]Jorn\\c[0]: But I can't!"
 			]
 		},
 		{
@@ -1470,8 +1470,7 @@
 			"original": "Saion: Ruhe, Jorn! Du machst die ganze Stimmung kaputt!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Ruhe, Jorn!\\. Du machst die ganze Stimmung ",
-				"kaputt!"
+				"\\c[10]Saion\\c[0]: Quiet, Jorn!\\. You're ruining the atmosphere!"
 			]
 		},
 		{
@@ -1480,8 +1479,8 @@
 			"original": "Pauamainer Schütze: Los, Kumpels! Denen zeigen wir, was richtige Minenarbeiter so drauf haben!",
 			"lines":
 			[
-				"\\c[10]Pauamainer Schütze\\c[0]: Los, Kumpels!\\. Denen zeigen ",
-				"wir, was richtige Minenarbeiter so drauf haben!"
+				"\\c[10]Pauamainer Archer\\c[0]: Come on, everyone!\\.",
+				"We'll show them what real miners can do!"
 			]
 		},
 		{
@@ -1490,8 +1489,8 @@
 			"original": "Cibon: Los, Kumpel, die machen wir fertig, so wahr wir Soldaten des Briganten-Orden sind! Oder waren.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Los, Kumpel, die machen wir fertig, so wahr ",
-				"wir Soldaten des Briganten-Orden sind!\\. Oder waren."
+				"\\c[2]\\n[2]\\c[0]: Come on, Kento, we'll finish them off, as",
+				"we were soldiers of the Brigantine Order!\\. Or were."
 			]
 		},
 		{
@@ -1500,7 +1499,7 @@
 			"original": "Kento: Ehm... ja...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Ehm...\\. ja..."
+				"\\c[1]\\n[1]\\c[0]: Um...\\. Yeah..."
 			]
 		},
 		{
@@ -2452,8 +2451,8 @@
 			"original": "Cibon: Einen haben wir! Wie war das mit deiner Prognose, Robin?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Einen haben wir!\\, Wie war das mit deiner ",
-				"Prognose, Robin?"
+				"\\c[2]\\n[2]\\c[0]: That's one down!\\. How's it looking on your",
+				"side, Robin?"
 			]
 		},
 		{
@@ -2462,7 +2461,7 @@
 			"original": "Robin: Noch ist der Kampf nicht vorbei!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Noch ist der Kampf nicht vorbei!"
+				"\\c[10]Robin\\c[0]: This fight isn't over yet!"
 			]
 		},
 		{
@@ -2471,7 +2470,7 @@
 			"original": "Soko: So geht das, Männer!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: So geht das, Männer!"
+				"\\c[13]\\n[3]\\c[0]: That's how it's done, men!"
 			]
 		},
 		{
@@ -2480,8 +2479,8 @@
 			"original": "Jorn: Lass dir das bitte ENDLICH MAL eine Lektion sein, du Dickkopf!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Lass dir das bitte ENDLICH MAL eine Lektion ",
-				"sein, du Dickkopf!"
+				"\\c[10]Jorn\\c[0]: Please let this be THE FINAL TIME you need",
+				"to learn your lesson, you moron!"
 			]
 		},
 		{
@@ -2804,9 +2803,10 @@
 			"original": "Robin: So grün wie ihr noch seid habt ihr keine Chance gegen uns! Versucht es erst gar nicht!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: So grün wie ihr noch seid habt ihr keine ",
-				"Chance gegen uns!\\. Versucht es erst gar nicht! "
-			]
+				"\\c[10]Robin\\c[0]: You're still a bunch of rookies, you won't",
+				"stand any chance against us!\\. Don't even try it!"
+			],
+			"__comment__": "\"Green\" here probably refers to being \"green behind the ears\" or being a rookie. That pun is lost in English."
 		},
 		{
 			"path": [96,254,2],
@@ -2814,8 +2814,8 @@
 			"original": "Cibon: Aha? Frag mich nich' wieso, aber irgend wie seh' ich eindeutig mehr Grün auf eurer Seite.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Aha? Frag mich nich' wieso, aber irgend wie ",
-				"seh' ich eindeutig mehr Grün auf eurer Seite."
+				"\\c[2]\\n[2]\\c[0]: Huh? Don't ask me why, but somehow, I see",
+				"more inexperienced fighters on the other side."
 			]
 		},
 		{
@@ -2824,8 +2824,8 @@
 			"original": "Robin: Die dummen Sprüche werde ich euch schon ausschießen!",
 			"lines":
 			[
-				"\\c[10]Robin\\c[0]: Die dummen Sprüche werde ich euch schon ",
-				"ausschießen!"
+				"\\c[10]Robin\\c[0]: My arrows are going to knock that stupidity",
+				"right out of your mouth!"
 			]
 		},
 		{
@@ -2834,8 +2834,8 @@
 			"original": "Saion: SPÜRT DEN ZORN DER ZINKAR-BRÜRDER, GRAUSAMER DENN JE!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: SPÜRT DEN ZORN DER ZINKAR-BRÜRDER,\\.",
-				"GRAUSAMER DENN JE!"
+				"\\c[10]Saion\\c[0]: FEEL THE WRATH OF THE ZINKAR BROTHERS,\\.",
+				"CRUELER THAN EVER!"
 			]
 		},
 		{
@@ -2844,7 +2844,7 @@
 			"original": "Saion: ERSTE ZINKAR-RACHESCHLAG-TECHNIK!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: ERSTE ZINKAR-RACHESCHLAG-TECHNIK!"
+				"\\c[10]Saion\\c[0]: ZINKAR REVENGE ATTACK NUMBER ONE!"
 			]
 		},
 		{
@@ -2853,8 +2853,8 @@
 			"original": "Saion: Los Jorn! Mach sie fertig mit deiner neuen Spezialtechnik!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Los Jorn! Mach sie fertig mit deiner neuen ",
-				"Spezialtechnik!"
+				"\\c[10]Saion\\c[0]: Let's go, Jorn! Finish them off with your",
+				"new special technique!"
 			]
 		},
 		{
@@ -2863,8 +2863,8 @@
 			"original": "Jorn: Was? Diese ach so tolle Spezialtechnik ist mir bisher noch kein einziges Mal gelungen!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Was?\\. Diese ach so tolle Spezialtechnik ",
-				"ist mir bisher noch kein einziges Mal gelungen!"
+				"\\c[10]Jorn\\c[0]: What?\\. This oh so great special technique has",
+				"never worked before!"
 			]
 		},
 		{
@@ -2873,8 +2873,8 @@
 			"original": "Jorn: Vergiss es! Ich werde mich hier nicht blamieren!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Vergiss es!\\. Ich werde mich hier nicht ",
-				"blamieren!"
+				"\\c[10]Jorn\\c[0]: Forget it!\\. I will NOT make a fool of myself",
+				"here!"
 			]
 		},
 		{
@@ -2883,8 +2883,8 @@
 			"original": "Saion: Stell dich nicht so an oder willst du, dass die Dolche heute Abend wieder dran bleiben?",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Stell dich nicht so an oder willst du, dass ",
-				"die Dolche heute Abend wieder dran bleiben?"
+				"\\c[10]Saion\\c[0]: Quit whining, will you? Or do you want",
+				"those daggers to be stuck to your hands tonight?"
 			]
 		},
 		{
@@ -2893,8 +2893,7 @@
 			"original": "Jorn: Args! Diese verdammten Dolche... Was auch immer!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: Args! Diese verdammten Dolche... \\.",
-				"Was auch immer!"
+				"\\c[10]Jorn\\c[0]: Argh! These damn daggers...\\. Ok fine!"
 			]
 		},
 		{
@@ -2903,7 +2902,8 @@
 			"original": "Saion: Mit dem Spruch, und zwar aus vollem Herzen!",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: Mit dem Spruch, und zwar aus vollem Herzen!"
+				"\\c[10]Saion\\c[0]: With the battle cry, and put your heart",
+				"into it!"
 			]
 		},
 		{
@@ -2912,8 +2912,8 @@
 			"original": "Jorn: JAJA! DRITTE, VERDAMMTE ZINKAR-FÜR-WELCHE- RACHE-AUCH-IMMER-RACHESCHLAG-TECHNIK!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: JAJA!\\. DRITTE,\\. VERDAMMTE \\s[2]ZINKAR-FÜR-WELCHE-",
-				"RACHE-AUCH-IMMER-RACHESCHLAG-TECHNIK!"
+				"\\c[10]Jorn\\c[0]: OKAY OKAY!\\.\\s[2] ZINKAR REVENGE ATTACK OF",
+				"ABSOLUTELY UNMATCHED STUPIDITY NUMBER THREE!"
 			]
 		},
 		{
