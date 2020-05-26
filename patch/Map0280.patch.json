@@ -245,9 +245,9 @@
 			"__guesstimate__": "I'm the boss around here. Glad to see another face around to spice up our brotherhood!",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: Isch bin hie de Schef.\\. Freid ",
-				"misch, neie Gesischte hie in unsere ",
-				"Briderschafd zu sehe!"
+				"\\c[10]The Boss\\c[0]: Ahm th' boauhs' 'roun' heah.\\.",
+				"Glaed ter see 'nothah feys 'roun' ter",
+				"spahs eup oou brahth'houd!"
 			]
 		},
 		{
@@ -258,10 +258,10 @@
 			"__guesstimate__": "I've been here in Helnovien for a very long time. And I don't see ourselves as prisoners, but as hard workers instead!",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: Mir alle sind schon lòònge hie ",
-				"in Helnovie.\\. Doch mir sehn uns nisch ",
-				"als Gefangne hie, sondern als harde ",
-				"Arweider! "
+				"\\c[10]The Boss\\c[0]: Ahvah bin 'er 'n Helnouhvi'n",
+				"ferra verree lauhn' tahm.\\. An' ah don'",
+				"see urselv'z as pris'n'rs, baht aes",
+				"hahd workahz insted!"
 			]
 		},
 		{
@@ -272,8 +272,8 @@
 			"__guesstimate__": "Oh, and I've loved this work for all my life!",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: Ei, un mir mache diese Arweid ",
-				"fir unse Lewwen gern!"
+				"\\c[10]The Boss\\c[0]: Ouhw, 'nd ah looouv'd th's",
+				"work fer all mah lahf!"
 			]
 		},
 		{
@@ -293,9 +293,8 @@
 			"__guesstimate__": "Oh, you're the brothers who defeated me in the tournament.",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: Ah, ihr seid doch die ",
-				"Bruschen, die misch do dadsäschlisch ",
-				"inne Durnier besiegt habd."
+				"\\c[10]The Boss\\c[0]: Ouhw, yer th' brouhthers oou",
+				"Bdefeat'd meh 'n th' tern'men'."
 			]
 		},
 		{
@@ -306,9 +305,10 @@
 			"__guesstimate__": "And a girl even fought alongside you! Hard to believe that I let myself be defeated so easily.",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: Un soga en Mäde had be eich ",
-				"mitgekämpft!\\. Kòòm zu glòòwwen, dass ",
-				"isch misch von dem besiégn lass. "
+				"\\c[10]The Boss\\c[0]: 'Nd 'er girl ev'n foout",
+				"'longsahd ya!\\. Hahd ter believ th'",
+				"ah let mahself b' d'feated so",
+				"eas'ly."
 			]
 		},
 		{
@@ -328,10 +328,9 @@
 			"__guesstimate__": "Oh yeah, the reward for those who manage to defeat me. Of course, not an official one.",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: Ei jòò,\\. vonna Weile hawwisch ",
-				"mòòl ene Belohnung aasgestelld fir ",
-				"denjenigen, der misch besiegt. ",
-				"Natirlisch nisch offisiell. "
+				"\\c[10]The Boss\\c[0]: Ouhw ya,\\. th' rewar' fer",
+				"those oou maenaj ter defeat meh.",
+				"'Fcourse, naht 'n official one."
 			]
 		},
 		{
@@ -342,10 +341,9 @@
 			"__guesstimate__": "I think it's a good find, even if it didn't bring much back then. But never mind that!",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: Isch dòòcht dadursch wirde ",
-				"Mòòl starge Gäschna komme, awwer ",
-				"gebròòcht hawwet damals nischt ",
-				"soviel. \\.Awwer egal!"
+				"\\c[10]The Boss\\c[0]: Ah thin' i'sa good fahnd,",
+				"even if 't di'n brin' much baek",
+				"then.\\. Bah nevah mahn' tha'!"
 			]
 		},
 		{
@@ -356,9 +354,8 @@
 			"__guesstimate__": "Now that you've defeated me, it's yours now. The reward's this way.",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: Nun habt ihr misch besiegt un ",
-				"ihr begommt den Pres. Dòò, holld ihn ",
-				"eich."
+				"\\c[10]The Boss\\c[0]: Now th' yerv defeat'd meh,",
+				"i's yers now. The reward's this wehy."
 			]
 		},
 		{
@@ -369,8 +366,8 @@
 			"__guesstimate__": "I hope we'll meet again in the tournament!",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: Isch hoffe mir sehe uns nochma ",
-				"im Durnier!"
+				"\\c[10]The Boss\\c[0]: Ah hooup w'll meet agaen 'n",
+				"th' tern'men'!"
 			]
 		}
 	]

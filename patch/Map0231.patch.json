@@ -2509,7 +2509,7 @@
 			"original": "Jorn: Richtig! Ich bin das schwarze Schaf!",
 			"lines":
 			[
-				"\\c[10]Jorn\\c[0]: You're right!\\. I'm the black",
+				"\\c[10]Jorn\\c[0]: You're right!\\. I AM the black",
 				"sheep!\\.\\^"
 			],
 			"__comment__": "Pseudo-Scrolling"
@@ -2520,7 +2520,7 @@
 			"original": "Jorn: Richtig! Ich bin das schwarze Schaf! ZUM GLÜCK!",
 			"lines":
 			[
-				"\\>\\c[10]Jorn\\c[0]: You're right! I'm the black",
+				"\\>\\c[10]Jorn\\c[0]: You're right! I AM the black",
 				"\\>sheep!\\< AND I'M GLAD I AM!"
 			]
 		},
@@ -2720,9 +2720,9 @@
 			"__guesstimate__": "Oh wow, you really surprised me there! You're quite the strong brothers.",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: Ei jòò, ihr habt mich ",
-				"wirglisch iwwerrascht!\\. Starge ",
-				"Burschen seid ihr! "
+				"\\c[10]The Boss\\c[0]: Ouhw wauhw, yer reallah",
+				"sahprahz'd'm ther'!\\. Yer quaeht th'",
+				"strooun' broouth'rz."
 			]
 		},
 		{
@@ -2733,10 +2733,9 @@
 			"__guesstimate__": "Visit me at our base for a reward. You've definitely proven yourselves!",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: Besucht misch doch Mal in ",
-				"unsere Stidsepungd inner Grub!\\. Dòò ",
-				"könnt ihr eisch ne dolle Sache ",
-				"holle!"
+				"\\c[10]The Boss\\c[0]: Vis't'm a' oou beys ferra",
+				"rewoahd.\\. Yer'v def'n'ley proouv'n",
+				"yerselv'z!"
 			]
 		},
 		{

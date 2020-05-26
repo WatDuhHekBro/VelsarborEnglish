@@ -442,7 +442,7 @@
 			"__guesstimate__": "Now I'm... done for!",
 			"lines":
 			[
-				"\\c[10]Chefv\\c[0]: Jetz' is...\\. Zappe!"
+				"\\c[10]The Boss\\c[0]: Nah'm...\\. dunf'r!"
 			],
 			"__comment2__": "Victory"
 		},
@@ -1510,8 +1510,8 @@
 			"__guesstimate__": "Oh, you're doing pretty well! Then try whatever you've got on me, I'm waiting!",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: Ei, e neia Geschna!\\. Dann zescht mòòl, wòòs ",
-				"ihr so dròòf hòòbt!"
+				"\\c[10]The Boss\\c[0]: Ouhw, yer doahn' pre'ah well!\\. Then trah",
+				"wha'evah you gah on meh, ahm wait'n!"
 			],
 			"__comment2__": " Battle Start"
 		},
@@ -2924,8 +2924,8 @@
 			"__guesstimate__": "Now it's about time I show you what life's like in the pit!",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: Jetz' zesch isch eisch mal, wie dòòs lewwen ",
-				"inna Grub is!"
+				"\\c[10]The Boss\\c[0]: Nah is' 'bout tahm ah show ya wha'",
+				"lahf's lahk in th' pit!"
 			],
 			"__comment2__": "Earthbending"
 		},
@@ -2937,8 +2937,8 @@
 			"__guesstimate__": "I'm slowly having to use more of my strength! I've got you now!",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: So lòòngsòòm bin isch grimmelwiedisch!\\.",
-				"Jetz' kriehd ihr Fäng!"
+				"\\c[10]The Boss\\c[0]: Ahm slowl' havin' ter use moah of mah",
+				"strength!\\. Ahv gotch' now!"
 			],
 			"__comment2__": "Cyclones"
 		},
@@ -2950,8 +2950,8 @@
 			"__guesstimate__": "Oh man, not bad! I better use a focus on my attack!",
 			"lines":
 			[
-				"\\c[10]Chef\\c[0]: Ei jòò, nesch schlescht!\\. Da holl isch wohl ",
-				"bessa mei Schdärgedrong!"
+				"\\c[10]The Boss\\c[0]: Ouhw man, nah' bad!\\. I bettah use'r focus",
+				"ahn mah attack!"
 			],
 			"__comment2__": "Damaged Halfway + Focus Attack"
 		},
