@@ -226,148 +226,6 @@ Lachsen
 
 
 
-##################
-# Ending Credits #
-##################
-Big Text - 20px
-Small Text - 18px
-Non-Fancy Small Text - Arial 11px (-3 line spacing)
-Non-Fancy Medium Text - Arial 13px (-3 line spacing)
-
-[=======================================]
-
-Erstellt mit dem RPG-Maker 2000 von Enterbrain
-Geschichte
-Mit Unterstützung von
-Charakter-Design, ~Sprites, ~Facesets & ~Animationen
-Monster-Design, ~Sprites & ~Animationen
-Effekt-Graphiken von
-Map-Grafiken
-Map-Design
-Szenen-Gestaltung & Dialoge
-Kampfsystem, Menu und sonstige Technik
-Gameplay-Planung|Ausbalancierung
-Musik aus
-Beta Tester
-Besonderen Dank an
-
-... GFlügel aka Yamchu
-für sein anhaltendes Interesse an dem Projekt von Anfang bis Ende, für seine Tipps im Gameplay-Bereich, für seine Ideen hinsichtlich der Charaktere und dafür dass ich immer mit ihm über das Spiel reden kann.
-
-... Drake
-für sine Tipps und Vorschläge zur Geschichte und den Charakteren (ohne ihn wäre die Geschichte niemals zu dem geworden, was sie ist) dafür, dass er mir einiges in Sachen Colorieren beigebracht hat und weil er ebenfalls ein guter Ansprechspartner für alle Falle ist.
-
-... Chibi
-dafür, dass er mir gezeigt hat, dass Soko sehr wohl beliebt sein kann, für seine Hilfe beim Mapping und seinem ausgezeichneten Beta-Test mit ausführlicher Rechtschreib und Grammatikfehler-Korrektur.
-
-... Thornado,
-da ich mit ihm die ersten Sachen zum Spiel geplant habe und er mir einige lateinische Begriffe raus gesucht hat.
-
-... GSandSDS
-für den 1. Trailer des Spiels und der Präsentation im Forum.
-
-... TBR
-für seine Tipps zum Zeichnen (z.B. das Zeichnen korrekter Posen mit Stütz- und Spielbein).
-
-... Amrita aka Tequilla aka Collette aka Wasweißich
-für hilfreiche Tipps und einer englischen Übersetzung der Technik-Namen
-
-... Lelle
-für das modifizieren einiger Midi-Daten für korrektes Loopen
-
-... De'ak
-dafür, dass er besonders verheerende Fehler im Spiel gefunden hat.
-
-... WilderDudelsack
-für die Realitätsprüfung von geplanten Massenkampf-Strategien
-
-... Chuck
-weil.... VELSARBOR >> KOSTAKI!!!1
-
-... Wishmoo & GamingGroundZero
-für die fantastischen Sprite-Wettbewerbe, durch die ich meine Spritekünste verbessern konnte.
-
-... Talas
-für die tolle Idee, sich mit Pseudo-Wettbewerben zu motiviern.
-
-... die Leute der Nato,
-weil es immer eine tolle Zeit war mit euch.
-
-Vielen Dank für's spielen!
-
-Velsarbor ist gecancelt...
-Doch Neues wird folgen:
-
-www.radicalfishgames.com
-
-[=======================================]
-
-Made with RPG Maker 2000 from Enterbrain
-Story
-With the help of
-Character design, sprites, facesets, and animations
-Monster design, sprites, and animations
-Effect Graphics from
-Map Graphics
-Map Design
-Scene Design & Dialogue
-Combat system, menu, and other technical details
-Gameplay Planning / Balancing
-Music
-Beta Testers
-Special Thanks to
-
-GFlügel aka Yamchu
-for his continued interest in the project from start to finish, gameplay tips, ideas about the characters, and for always being able to talk to about the game.
-
-Drake
-for his tips and suggestions for the story and the characters (without him, the story would never have become what it is), the fact that he taught me a lot about coloring, and because he's also a good person to talk to regardless.
-
-Chibi
-for showing me that Soko can be very popular, his help with mapping, and his excellent beta test with extensive spelling and grammatical error correction.
-
-Thornado
-since I planned the first things about the game with him and he looked for some Latin terms.
-
-GSandSDS
-for the first trailer of the game and its presentation on the forums.
-
-TBR
-for his tips on drawing (e.g. drawing correct poses with proper legs).
-
-Amrita aka Tequilla aka Collette aka Wasweißich
-for helpful tips and an English version of the technology names. << Yeah, I don't know either. :/
-
-Lelle
-for modifying some midi data for correct looping.
-
-De'ak
-for finding particularly devastating bugs in the game.
-
-WilderDudelsack
-for the reality check of the planned massively strategic battles.
-
-Chuck
-because... VELSARBOR >> KOSTAKI!!!1
-
-Wishmoo & GamingGroundZero
-for the fantastic sprite competitions that enabled me to improve my sprite skills.
-
-Talas
-for the great idea to motivate yourself with pseudo-competitions.
-
-The people of Nato,
-because it was always a great time with you.
-
-Thanks for playing!
-
-Velsarbor is cancelled...
-But something new is coming:
-
-www.radicalfishgames.com
-
-
-
 ############
 # Overture #
 ############
@@ -896,6 +754,148 @@ STOP IT!!
 "Kento... it's okay..."
 
 Who...?
+
+
+
+##################
+# Ending Credits #
+##################
+Big Text - 20px
+Small Text - 18px
+Non-Fancy Small Text - Arial 11px (-3 line spacing)
+Non-Fancy Medium Text - Arial 13px (-3 line spacing)
+
+[=======================================]
+
+Erstellt mit dem RPG-Maker 2000 von Enterbrain
+Geschichte
+Mit Unterstützung von
+Charakter-Design, ~Sprites, ~Facesets & ~Animationen
+Monster-Design, ~Sprites & ~Animationen
+Effekt-Graphiken von
+Map-Grafiken
+Map-Design
+Szenen-Gestaltung & Dialoge
+Kampfsystem, Menu und sonstige Technik
+Gameplay-Planung|Ausbalancierung
+Musik aus
+Beta Tester
+Besonderen Dank an
+
+... GFlügel aka Yamchu
+für sein anhaltendes Interesse an dem Projekt von Anfang bis Ende, für seine Tipps im Gameplay-Bereich, für seine Ideen hinsichtlich der Charaktere und dafür dass ich immer mit ihm über das Spiel reden kann.
+
+... Drake
+für sine Tipps und Vorschläge zur Geschichte und den Charakteren (ohne ihn wäre die Geschichte niemals zu dem geworden, was sie ist) dafür, dass er mir einiges in Sachen Colorieren beigebracht hat und weil er ebenfalls ein guter Ansprechspartner für alle Falle ist.
+
+... Chibi
+dafür, dass er mir gezeigt hat, dass Soko sehr wohl beliebt sein kann, für seine Hilfe beim Mapping und seinem ausgezeichneten Beta-Test mit ausführlicher Rechtschreib und Grammatikfehler-Korrektur.
+
+... Thornado,
+da ich mit ihm die ersten Sachen zum Spiel geplant habe und er mir einige lateinische Begriffe raus gesucht hat.
+
+... GSandSDS
+für den 1. Trailer des Spiels und der Präsentation im Forum.
+
+... TBR
+für seine Tipps zum Zeichnen (z.B. das Zeichnen korrekter Posen mit Stütz- und Spielbein).
+
+... Amrita aka Tequilla aka Collette aka Wasweißich
+für hilfreiche Tipps und einer englischen Übersetzung der Technik-Namen
+
+... Lelle
+für das modifizieren einiger Midi-Daten für korrektes Loopen
+
+... De'ak
+dafür, dass er besonders verheerende Fehler im Spiel gefunden hat.
+
+... WilderDudelsack
+für die Realitätsprüfung von geplanten Massenkampf-Strategien
+
+... Chuck
+weil.... VELSARBOR >> KOSTAKI!!!1
+
+... Wishmoo & GamingGroundZero
+für die fantastischen Sprite-Wettbewerbe, durch die ich meine Spritekünste verbessern konnte.
+
+... Talas
+für die tolle Idee, sich mit Pseudo-Wettbewerben zu motiviern.
+
+... die Leute der Nato,
+weil es immer eine tolle Zeit war mit euch.
+
+Vielen Dank für's spielen!
+
+Velsarbor ist gecancelt...
+Doch Neues wird folgen:
+
+www.radicalfishgames.com
+
+[=======================================]
+
+Made with RPG Maker 2000 from Enterbrain
+Story
+With the help of
+Character design, sprites, facesets, and animations
+Monster design, sprites, and animations
+Effect Graphics from
+Map Graphics
+Map Design
+Scene Design & Dialogue
+Combat system, menu, and other technical details
+Gameplay Planning / Balancing
+Music
+Beta Testers
+Special Thanks to
+
+GFlügel aka Yamchu
+for his continued interest in the project from start to finish, gameplay tips, ideas about the characters, and for always being able to talk to about the game.
+
+Drake
+for his tips and suggestions for the story and the characters (without him, the story would never have become what it is), the fact that he taught me a lot about coloring, and because he's also a good person to talk to regardless.
+
+Chibi
+for showing me that Soko can be very popular, his help with mapping, and his excellent beta test with extensive spelling and grammatical error correction.
+
+Thornado
+since I planned the first things about the game with him and he looked for some Latin terms.
+
+GSandSDS
+for the first trailer of the game and its presentation on the forums.
+
+TBR
+for his tips on drawing (e.g. drawing correct poses with proper legs).
+
+Amrita aka Tequilla aka Collette aka Wasweißich
+for helpful tips and an English version of the technology names. << Yeah, I don't know either. :/
+
+Lelle
+for modifying some midi data for correct looping.
+
+De'ak
+for finding particularly devastating bugs in the game.
+
+WilderDudelsack
+for the reality check of the planned massively strategic battles.
+
+Chuck
+because... VELSARBOR >> KOSTAKI!!!1
+
+Wishmoo & GamingGroundZero
+for the fantastic sprite competitions that enabled me to improve my sprite skills.
+
+Talas
+for the great idea to motivate yourself with pseudo-competitions.
+
+The people of Nato,
+because it was always a great time with you.
+
+Thanks for playing!
+
+Velsarbor is cancelled...
+But something new is coming:
+
+www.radicalfishgames.com
 
 
 

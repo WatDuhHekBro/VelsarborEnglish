@@ -121,7 +121,7 @@
 			"original": "Nicht ganz eingelebter Gefangener: Nicht schon wieder... Minenarbeit... Ich hasse es...",
 			"lines":
 			[
-				"\\c[10]New Prisoner\\c[0]: Not again...\\. mine work...\\.",
+				"\\c[10]New Prisoner\\c[0]: Not again...\\. mining...\\.",
 				"I hate it..."
 			]
 		},
@@ -266,8 +266,8 @@
 			"original": "Soko: Du solltest besser nicht zuviel erwarten...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: I don't think there'll be too",
-				"much..."
+				"\\c[13]\\n[3]\\c[0]: I don't think there'll be",
+				"much to eat..."
 			]
 		},
 		{
@@ -623,7 +623,7 @@
 			"original": "Soko: Womit haben wir all das verdient...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: How do we deserve all this..."
+				"\\c[13]\\n[3]\\c[0]: How can we deserve all this..."
 			]
 		},
 		{
@@ -736,7 +736,7 @@
 			[
 				"\\c[1]\\n[1]\\c[0]: Just because the barrier is",
 				"broken, doesn't mean that we can",
-				"just walk out without a care."
+				"just walk out carelessly."
 			]
 		},
 		{

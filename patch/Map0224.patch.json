@@ -82,7 +82,7 @@
 			"original": "Nicht ganz eingelebter Gefangener: Nicht schon wieder... Minenarbeit... Ich hasse es...",
 			"lines":
 			[
-				"\\c[10]New Prisoner\\c[0]: Not again...\\. mine work...\\.",
+				"\\c[10]New Prisoner\\c[0]: Not again...\\. mining...\\.",
 				"I hate it..."
 			]
 		},
@@ -568,8 +568,8 @@
 			"original": "Ansager: Unser nächster Kampf steht kurz bevor! Der erste Teilnehmer betritt die Arena!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[5]Unser nächster Kampf steht kurz bevor!\\.",
-				"Der erste Teilnehmer betritt die Arena!\\.\\.\\^"
+				"\\c[10]Announcer\\c[0]: \\s[5]Our next battle is just around the",
+				"corner!\\. The first combatant enters the arena!\\.\\.\\^"
 			]
 		},
 		{
@@ -578,7 +578,7 @@
 			"original": "Ansager:  Die ZINKAR-SCHLÄCHTER!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[5] Die ZINKAR-SCHLÄCHTER!"
+				"\\c[10]Announcer\\c[0]: \\s[5]THE ZINKAR BUTCHERS!"
 			]
 		},
 		{
@@ -587,9 +587,10 @@
 			"original": "Ansager: Oha! Diese Truppe hat sich ein Ziel gesetzt! Doch dieses ist noch weit entfernt, ein langer Weg durch die Rangliste wartet auf sie!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Oha!\\. Diese Truppe hat sich ein Ziel ",
-				"gesetzt!\\. Doch dieses ist noch weit entfernt, ",
-				"ein langer Weg durch die Rangliste wartet auf sie!"
+				"\\c[10]Announcer\\c[0]: Oh!\\. This group set a goal for",
+				"themselves!\\. But this goal is still quite",
+				"a ways away, and thus, a long journey",
+				"through the ranks lies ahead of them!"
 			]
 		},
 		{
@@ -598,7 +599,7 @@
 			"original": "Ansager: Hoffen wir, dass ihr Name Programm ist!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Hoffen wir, dass ihr Name Programm ist!"
+				"\\c[10]Announcer\\c[0]: Let's hope that their name says it all!"
 			]
 		},
 		{
@@ -607,10 +608,10 @@
 			"original": "Ansager: Langsam aber sicher kommen sie ihrem Ziel näher! Werden sie bis zum bitteren Ende durchhalten? Und sind sie ihrem Erzfeind wirklich gewachsen, wenn es mal soweit ist?",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Langsam aber sicher kommen sie ihrem Ziel ",
-				"näher!\\. Werden sie bis zum bitteren Ende ",
-				"durchhalten?\\. Und sind sie ihrem Erzfeind wirklich ",
-				"gewachsen, wenn es mal soweit ist?"
+				"\\c[10]Announcer\\c[0]: Slowly but surely, they're getting",
+				"closer to their ultimate goal!\\. Will they hold out",
+				"until the bitter end?\\. Will they be up to the task",
+				"to face their archenemies when the time comes?"
 			]
 		},
 		{
@@ -619,7 +620,7 @@
 			"original": "Cibon: Und ob wir das sind!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Und ob wir das sind!"
+				"\\c[2]\\n[2]\\c[0]: Of course we'll be!"
 			]
 		},
 		{
@@ -628,10 +629,10 @@
 			"original": "Ansager: Sie wollen Zinkar-Blut sehen! Die Brüder sollten sich in Acht nehmen! Ihr Erzfeind ist auf dem Weg zu ihnen und erscheint schier unaufhaltsam!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Sie wollen Zinkar-Blut sehen!\\. Die Brüder ",
-				"sollten sich in Acht nehmen!\\. Ihr Erzfeind ist auf ",
-				"dem Weg zu ihnen und erscheint schier ",
-				"unaufhaltsam!"
+				"\\c[10]Announcer\\c[0]: They want to see Zinkar blood spilt!\\.",
+				"Those brothers better be careful!\\. Their",
+				"archenemies are on the way to challenge them",
+				"and they seem almost unstoppable at that!"
 			]
 		},
 		{
@@ -640,7 +641,7 @@
 			"original": "Ansager: ... Die REPSBROT-TRUPPE!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[5]... Die REPSBROT-TRUPPE!"
+				"\\c[10]Announcer\\c[0]: \\s[5]THE SUNBREAD SQUAD!"
 			]
 		},
 		{
@@ -649,10 +650,10 @@
 			"original": "Ansager: Diese wäre die erste Backwaren-Truppe, die diese Arena betreten hat! Lasst uns für sie hoffen, dass sie nur für das Brot kämpfen und nicht WIE das Brot!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Diese wäre die erste Backwaren-Truppe, ",
-				"die diese Arena betreten hat!\\. Lasst uns für sie ",
-				"hoffen, dass sie nur für das Brot kämpfen und ",
-				"nicht WIE das Brot!"
+				"\\c[10]Announcer\\c[0]: That'd make them the first group",
+				"fighting for baked goods to enter this arena!\\.",
+				"Let's just hope that they only fight FOR the",
+				"bread and not LIKE the bread!"
 			]
 		},
 		{
@@ -661,10 +662,10 @@
 			"original": "Ansager: Sie können kämpfen, besser als man von Brot erwarten würde! Doch lasst uns abwarten! Vielleicht findet sich der Gegner mit dem Brotmesser, der ihrem Weg ein Ende setzt!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Sie können kämpfen, besser als man von ",
-				"Brot erwarten würde!\\. Doch lasst uns abwarten!\\. ",
-				"Vielleicht findet sich der Gegner mit dem ",
-				"Brotmesser, der ihrem Weg ein Ende setzt!"
+				"\\c[10]Announcer\\c[0]: They can fight better than you'd expect",
+				"from bread!\\. And hey, maybe their vision isn't so",
+				"grainy after all.\\. We'll just have to wheat and",
+				"seed what happens!"
 			]
 		},
 		{
@@ -673,8 +674,7 @@
 			"original": "Cibon: Urgs... der war wirklich schlecht.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Urgs...\\. der war wirklich ",
-				"schlecht."
+				"\\c[2]\\n[2]\\c[0]: Ugh...\\. It's so terrible."
 			]
 		},
 		{
@@ -683,11 +683,12 @@
 			"original": "Ansager: Das Brot, das von allen gefürchtet wird! Ihre Kruste hart wie Stahl und scharf wie feinste Schmiedkunst. Einen Gegner nach dem anderen sind sie schon im Halse stecken geblieben!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Das Brot, das von allen gefürchtet wird!\\. ",
-				"Ihre Kruste hart wie Stahl und scharf wie feinste ",
-				"Schmiedkunst.\\. Einen Gegner nach dem anderen sind ",
-				"sie schon im Halse stecken geblieben!"
-			]
+				"\\c[10]Announcer\\c[0]: The bread that everyone loaves!\\. Their",
+				"crust as hard as steel and as sharp as the finest",
+				"smithing.\\. One enemy after another, their plans",
+				"have yet to go a-rye!"
+			],
+			"__comment__": "Can conveniently be interpreted as \"loves\" or \"loathes\", even though \"loathes\" is what I intended."
 		},
 		{
 			"path": [156,1,100,2],
@@ -695,8 +696,8 @@
 			"original": "Cibon: Kann jemand diesem Typen sagen, dass er nicht witzig ist?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Kann jemand diesem Typen ",
-				"sagen, dass er nicht witzig ist?"
+				"\\c[2]\\n[2]\\c[0]: Can someone just tell this guy",
+				"that he's not even funny at all?"
 			]
 		},
 		{
@@ -705,7 +706,7 @@
 			"original": "Ansager: Der BRIGANTEN-STOLZ!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[5]Der BRIGANTEN-STOLZ!"
+				"\\c[10]Announcer\\c[0]: \\s[5]THE BRIGANTINE PRIDE!"
 			]
 		},
 		{
@@ -714,7 +715,7 @@
 			"original": "Ansager: ... Briganten ... Stolz?",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] ... Briganten\\. ... Stolz? "
+				"\\c[10]Announcer\\c[0]: Brigantine...\\. Pride?"
 			]
 		},
 		{
@@ -723,10 +724,10 @@
 			"original": "Ansager: Natürlich! Der Stolz unserer Nation! Hier in unserem Gefängnis! Unsere Vorbildsgefangenen! Wenn doch nur jeder in Brigantia sich so verhalten würde wie unsere bescheidenen Freunde hier!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Natürlich!\\. Der Stolz unserer Nation!\\. Hier",
-				"in unserem Gefängnis!\\. Unsere Vorbildsgefangenen! \\.",
-				"Wenn doch nur jeder in Brigantia sich so verhalten ",
-				"würde wie unsere bescheidenen Freunde hier!"
+				"\\c[10]Announcer\\c[0]: Of course!\\. The pride of our nation!\\.",
+				"Here in our prison!\\. Our model prisoners!\\. If",
+				"only everyone in Brigantia behaved like our",
+				"humble friends here!"
 			]
 		},
 		{
@@ -735,10 +736,12 @@
 			"original": "Ansager: Ohja...WIR WÜRDEN DEN GESAMTEN BRIGANTEN-ORDEN ZU UNSEREN TEILNEHMERN ZÄHLEN! Wäre das nicht großartig?",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Ohja\\....\\.WIR WÜRDEN DEN GESAMTEN ",
-				"BRIGANTEN-ORDEN ZU UNSEREN TEILNEHMERN ZÄHLEN!\\. ",
-				"Wäre das nicht großartig?"
-			]
+				"\\c[10]Announcer\\c[0]: Oh yeah...\\. IF WE WERE TO PICK ANY",
+				"SOLDIER FROM THE BRIGANTINE ORDER, THE",
+				"RESEMBLANCE WOULD OBVIOUSLY BE DAY AND NIGHT!\\.",
+				"Wouldn't that be great?"
+			],
+			"__comment__": "\"We could attribute the honor of every Brigantian soldier to be exactly like these three!\""
 		},
 		{
 			"path": [156,1,131,2],
@@ -746,8 +749,7 @@
 			"original": "Cibon: Das war so klar, dass das so ausging...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Das war so klar, dass das so ",
-				"ausging..."
+				"\\c[2]\\n[2]\\c[0]: I saw this coming miles away..."
 			]
 		},
 		{
@@ -756,8 +758,8 @@
 			"original": "Soko: Wir werden sehen, wer hier am Ende lacht!",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wir werden sehen, wer hier am ",
-				"Ende lacht!"
+				"\\c[13]\\n[3]\\c[0]: We'll see who gets the last",
+				"laugh!"
 			]
 		},
 		{
@@ -766,10 +768,10 @@
 			"original": "Ansager: Ohja! Unsere Vorbildgefangenen wieder! Sicherlich können wir Stolz sein auf unsere Verräter. Wenn ich es mir recht überlege... sollte es nicht eher KORZOJENOS STOLZ heißen?!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Ohja!\\. Unsere Vorbildgefangenen wieder! \\.",
-				"Sicherlich können wir Stolz sein auf unsere ",
-				"Verräter.\\. Wenn ich es mir recht überlege...\\.",
-				"sollte es nicht eher KORZOJENOS STOLZ heißen?!"
+				"\\c[10]Announcer\\c[0]: Oh yeah!\\. Our model prisoners again!\\.",
+				"We can definitely be proud of our traitors.\\.",
+				"Now I think about it...\\. shouldn't it be",
+				"THE KORZOJENISH PRIDE instead?!"
 			]
 		},
 		{
@@ -778,7 +780,7 @@
 			"original": "Soko: ... Verdammt...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ... Verdammt..."
+				"\\c[13]\\n[3]\\c[0]: Damn..."
 			]
 		},
 		{
@@ -787,8 +789,7 @@
 			"original": "Cibon: Wirklich eine ausgezeichnete Namenswahl.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Wirklich eine ausgezeichnete ",
-				"Namenswahl."
+				"\\c[2]\\n[2]\\c[0]: Truly an amazing name."
 			]
 		},
 		{
@@ -797,10 +798,10 @@
 			"original": "Ansager: Sie mögen uns an Korzojeno verkauft haben und unter uns Gefangenen verweilen, aber sie haben uns bewiesen, dass ihre Kampfkunst in der Tat eine Sache ist, auf die man stolz sein kann!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Sie mögen uns an Korzojeno verkauft haben ",
-				"und unter uns Gefangenen verweilen, aber sie haben ",
-				"uns bewiesen, dass ihre Kampfkunst in der Tat eine ",
-				"Sache ist, auf die man stolz sein kann!"
+				"\\c[10]Announcer\\c[0]: They may have sold us to Korzojeno and",
+				"stayed with us as prisoners, but they've shown us",
+				"that their prowess is something to be proud of",
+				"indeed!"
 			]
 		},
 		{
@@ -809,7 +810,7 @@
 			"original": "Ansager: Ja, vielleicht sogar ganz Brigantia!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Ja,\\. vielleicht sogar ganz Brigantia!"
+				"\\c[10]Announcer\\c[0]: Yes,\\. maybe even to all of Brigantia!"
 			]
 		},
 		{
@@ -818,9 +819,9 @@
 			"original": "Soko: Wir haben nichts an Korzojeno verkauft, sie wollen es einfach nicht verstehen...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Wir haben nichts an ",
-				"Korzojeno verkauft, sie wollen es ",
-				"einfach nicht verstehen..."
+				"\\c[13]\\n[3]\\c[0]: We didn't sell anyone out to",
+				"Korzojeno, they just don't want to",
+				"understand..."
 			]
 		},
 		{
@@ -829,8 +830,8 @@
 			"original": "Kento: Wenigstens scheinen sie uns so langsam ernst zu nehmen.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Wenigstens scheinen sie uns ",
-				"so langsam ernst zu nehmen."
+				"\\c[1]\\n[1]\\c[0]: At least they're starting to",
+				"take us seriously."
 			]
 		},
 		{
@@ -839,7 +840,7 @@
 			"original": "Ansager: Die VERRÄTER!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[5]Die VERRÄTER!"
+				"\\c[10]Announcer\\c[0]: \\s[5]THE TRAITORS!"
 			]
 		},
 		{
@@ -848,9 +849,9 @@
 			"original": "Ansager: Wenn das nicht unsere Kollegen vom Briganten-Orden sind, die dann doch lieber für unser tückisches Nachbarland arbeiten wollten!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Wenn das nicht unsere Kollegen vom ",
-				"Briganten-Orden sind, die dann doch lieber für ",
-				"unser tückisches Nachbarland arbeiten wollten!"
+				"\\c[10]Announcer\\c[0]: Well,\\. well,\\. well,\\. if it isn't our",
+				"colleagues from the Brigantine Order who'd rather",
+				"work for our treacherous neighboring country!"
 			]
 		},
 		{
@@ -859,10 +860,10 @@
 			"original": "Ansager: Jetzt sind sie hier, in Brigantia, doch ihrem Auftraggeber werden sie nicht mehr helfen können! Das einzige was ihnen bleib, ist zu kämpfen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Jetzt sind sie hier, in Brigantia, doch ",
-				"ihrem Auftraggeber werden sie nicht mehr helfen ",
-				"können!\\. Das einzige was ihnen bleib, ist zu ",
-				"kämpfen!"
+				"\\c[10]Announcer\\c[0]: Now that they're stuck here in",
+				"Brigantia, they won't be able to help out",
+				"their client any longer!\\. The only thing",
+				"left for them do to is fight!"
 			]
 		},
 		{
@@ -871,9 +872,9 @@
 			"original": "Ansager: Und wieder sind sie hier, um zu kämpfen! Offensichtlich gibt es hier nichts interessantes, was es Korzojeno zu berichten gilt!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Und wieder sind sie hier, um zu kämpfen!\\.",
-				"Offensichtlich gibt es hier nichts interessantes, ",
-				"was es Korzojeno zu berichten gilt!"
+				"\\c[10]Announcer\\c[0]: And they're here to fight again!",
+				"Obviously, there's nothing interesting to",
+				"write to Korzojeno about here!"
 			]
 		},
 		{
@@ -882,8 +883,8 @@
 			"original": "Soko: ... wie oft wollen sie noch darauf rumhacken?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: ... wie oft wollen sie noch ",
-				"darauf rumhacken?"
+				"\\c[13]\\n[3]\\c[0]: How often are they going to keep",
+				"singling us out?"
 			]
 		},
 		{
@@ -892,10 +893,10 @@
 			"original": "Ansager: Sie kämpfen, oh ja und wie sie kämpfen! Wir können froh sein, dass sie es hier tun und nicht in einer Schlacht mit unserem Nachbarland unter der Führung Farenias!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Sie kämpfen, oh ja und wie sie kämpfen!\\.",
-				"Wir können froh sein, dass sie es hier tun und ",
-				"nicht in einer Schlacht mit unserem Nachbarland ",
-				"unter der Führung Farenias!"
+				"\\c[10]Announcer\\c[0]: They fight, oh how they keep fighting!\\.",
+				"We can be glad that they're doing it here and not",
+				"in a battle for our neighboring country under the",
+				"leadership of Farenia!"
 			]
 		},
 		{
@@ -904,9 +905,8 @@
 			"original": "Cibon: Der Typ kann auch mächtig froh sein, dass er nicht hier unten steht...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Der Typ kann auch mächtig ",
-				"froh sein, dass er nicht hier unten ",
-				"steht..."
+				"\\c[2]\\n[2]\\c[0]: The guy better be glad he's up",
+				"there and not down here..."
 			]
 		},
 		{
@@ -915,7 +915,7 @@
 			"original": "Ansager: Und hier kommt ihr Gegner!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Und hier kommt ihr Gegner!"
+				"\\c[10]Announcer\\c[0]: And here comes their opponent!"
 			]
 		},
 		{
@@ -924,7 +924,7 @@
 			"original": "Ansager: Und hier kommt der nächste Gegner!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Und hier kommt der nächste Gegner!"
+				"\\c[10]Announcer\\c[0]: And here comes their next opponent!"
 			]
 		},
 		{
@@ -933,7 +933,7 @@
 			"original": "Ansager: DIE SCHLEIMIGEN!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[3]DIE SCHLEIMIGEN!"
+				"\\c[10]Announcer\\c[0]: \\s[3]THE SLIMEALGAMATION!"
 			]
 		},
 		{
@@ -942,9 +942,9 @@
 			"original": "Ansager: Alle Anfänger in diesem Turnier müssen sich zuerst durch diese Vereinigung von Glibber kämpfen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Alle Anfänger in diesem Turnier müssen ",
-				"sich zuerst durch diese Vereinigung von Glibber ",
-				"kämpfen! "
+				"\\c[10]Announcer\\c[0]: All beginners in this tournament must",
+				"first battle their way through the guild of",
+				"slimes!"
 			]
 		},
 		{
@@ -953,10 +953,10 @@
 			"original": "Ansager: Zwar sind sie nur selten auf einem höheren Rang als den Letzten und dennoch gab es schon Leute, die unter ihren magischen Flammen und Wasserfontänen zugrunden gingen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Zwar sind sie nur selten auf einem ",
-				"höheren Rang als den Letzten und dennoch gab es ",
-				"schon Leute, die unter ihren magischen Flammen und ",
-				"Wasserfontänen zugrunden gingen!"
+				"\\c[10]Announcer\\c[0]: Although they rarely make it out of",
+				"last place, there are people nonetheless who",
+				"were taken down under their magical flames",
+				"and water torrents!"
 			]
 		},
 		{
@@ -965,8 +965,8 @@
 			"original": "Cibon: Hehe, was für Verlierer, NICHT WAHR Kumpel?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hehe,\\. was für Verlierer,\\. ",
-				"NICHT WAHR Kumpel?"
+				"\\c[2]\\n[2]\\c[0]: Hehe,\\. quite some losers,\\. AREN'T",
+				"THEY, Kento?"
 			]
 		},
 		{
@@ -975,7 +975,7 @@
 			"original": "Kento: Sei leise.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Sei leise."
+				"\\c[1]\\n[1]\\c[0]: Be quiet."
 			]
 		},
 		{
@@ -984,7 +984,7 @@
 			"original": "Soko: Hä?",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Hä?"
+				"\\c[13]\\n[3]\\c[0]: Huh?"
 			]
 		},
 		{
@@ -993,7 +993,7 @@
 			"original": "Ansager: DAS RUDEL!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[3]DAS RUDEL!"
+				"\\c[10]Announcer\\c[0]: \\s[3]THE PACK!"
 			]
 		},
 		{
@@ -1002,9 +1002,9 @@
 			"original": "Ansager: In der düstersten Region des Silvanwaldes haben wir sie gefunden und es war kein Leichtes, sie hier zur Arena zu bringen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] In der düstersten Region des Silvanwaldes ",
-				"haben wir sie gefunden und es war kein Leichtes, ",
-				"sie hier zur Arena zu bringen!"
+				"\\c[10]Announcer\\c[0]: We found them in the darkest stretches",
+				"of the Silvan Forest and it wasn't easy to bring",
+				"them here to the arena!"
 			]
 		},
 		{
@@ -1013,8 +1013,9 @@
 			"original": "Ansager: Doch nun sind sie hier und ihren Gegnern werden sie zeigen, wie die Regeln der Wildnis aussehen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Doch nun sind sie hier und ihren Gegnern ",
-				"werden sie zeigen, wie die Regeln der Wildnis aussehen!"
+				"\\c[10]Announcer\\c[0]: But now that they're here, they'll show",
+				"their opponents what the rules of the wild look",
+				"like!"
 			]
 		},
 		{
@@ -1023,8 +1024,7 @@
 			"original": "Cibon: Es sind verdammt noch mal nur ein paar Wölfe.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Es sind verdammt noch mal nur ",
-				"ein paar Wölfe."
+				"\\c[2]\\n[2]\\c[0]: Damn, just a few wolves."
 			]
 		},
 		{
@@ -1033,7 +1033,7 @@
 			"original": "Ansager: DIE BÄRENBRÜDER!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[3]DIE BÄRENBRÜDER!"
+				"\\c[10]Announcer\\c[0]: \\s[3]THE BEAR BROTHERS!"
 			]
 		},
 		{
@@ -1042,10 +1042,9 @@
 			"original": "Ansager: Sie sind groß, pelzig und kräftig! Schon viele Waffen sind an ihrem dichten Fell gescheitert. Und sie wissen, wie man zurück schlägt!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Sie sind groß, pelzig und kräftig!\\. Schon  ",
-				"viele Waffen sind an ihrem dichten Fell ",
-				"gescheitert.\\. Und sie wissen, wie man zurück ",
-				"schlägt!"
+				"\\c[10]Announcer\\c[0]: They're big, hairy, and strong!\\. Many",
+				"weapons have failed to do anything because of",
+				"their thick fur.\\. And they know how to hit back!"
 			]
 		},
 		{
@@ -1054,7 +1053,7 @@
 			"original": "Ansager: DIE FEJARSCHLITZER!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[3]DIE FEJARSCHLITZER!"
+				"\\c[10]Announcer\\c[0]: \\s[3]THE FEJAR SLITTERS!"
 			]
 		},
 		{
@@ -1063,10 +1062,9 @@
 			"original": "Ansager: Zu schade, dass die Teilnehmer hier keine Fejar haben, die sie ihnen abschlitzen könnten. Dennoch sind sie schnell, gewandt und wissen, wie man ihren Gegner einengen kann!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Zu schade, dass die Teilnehmer hier keine ",
-				"Fejar haben, die sie ihnen abschlitzen könnten.\\.",
-				"Dennoch sind sie schnell, gewandt und wissen, wie ",
-				"man ihren Gegner einengen kann!"
+				"\\c[10]Announcer\\c[0]: Too bad they don't have any Fejar to",
+				"slit.\\. Regardless, they're quick, agile, and",
+				"know how to whittle down their opponents!"
 			]
 		},
 		{
@@ -1075,7 +1073,7 @@
 			"original": "Ansager: DER UNTERTAGE-SCHRECK!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[3]DER UNTERTAGE-SCHRECK!"
+				"\\c[10]Announcer\\c[0]: \\s[3]THE TERROR FROM BELOW!"
 			]
 		},
 		{
@@ -1084,10 +1082,9 @@
 			"original": "Ansager: Richtig, es sind genau die Biester, die von allen Minenarbeitern hier gefürchtet werden! Nun gehen sie sogar so weit, die Turnierkämpfer zu bedrohen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Richtig, es sind genau die Biester, die ",
-				"von allen Minenarbeitern hier gefürchtet werden!\\.",
-				"Nun gehen sie sogar so weit, die Turnierkämpfer zu ",
-				"bedrohen!"
+				"\\c[10]Announcer\\c[0]: Yep, they're the very creatures that",
+				"haunt all the miners here!\\. Now they'd even go",
+				"so far as to intimidate these fighters!"
 			]
 		},
 		{
@@ -1096,7 +1093,7 @@
 			"original": "Ansager: DIE SCHATTENSCHLEICHER!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[3]DIE SCHATTENSCHLEICHER!"
+				"\\c[10]Announcer\\c[0]: \\s[3]THE SHADOW CRAWLERS!"
 			]
 		},
 		{
@@ -1105,9 +1102,9 @@
 			"original": "Ansager: Sie wissen, wie sie ihren Gegner in den Rücken fallen. Ihre tödliche Technik bringt das Opfer um, bevor dieses irgendetwas bemerkt!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Sie wissen, wie sie ihren Gegner in den ",
-				"Rücken fallen. Ihre tödliche Technik bringt das ",
-				"Opfer um, bevor dieses irgendetwas bemerkt!"
+				"\\c[10]Announcer\\c[0]: They know how to stab their opponents",
+				"in the back. Their deadly technique kills the",
+				"victim before they even notice anything!"
 			]
 		},
 		{
@@ -1116,9 +1113,9 @@
 			"original": "Ansager: Aber schätzt sie nicht falsch ein! Ihre Kampftechnik ist auf offenem Feld genauso tödlich wie in der dunklen Nacht!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Aber schätzt sie nicht falsch ein!\\. Ihre ",
-				"Kampftechnik ist auf offenem Feld genauso tödlich ",
-				"wie in der dunklen Nacht!"
+				"\\c[10]Announcer\\c[0]: But don't underestimate them now!\\. Their",
+				"technique is as deadly in the open air as it is in",
+				"a shrouded night!"
 			]
 		},
 		{
@@ -1127,7 +1124,7 @@
 			"original": "Ansager: DIE EXOTEN!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[3]DIE EXOTEN!"
+				"\\c[10]Announcer\\c[0]: \\s[3]THE EXOTICS!"
 			]
 		},
 		{
@@ -1136,10 +1133,10 @@
 			"original": "Ansager: Woher sie genau kommen, weiß niemand, aber ihre Kampftechnik sucht ihresgleichen auf dem Kontinent Toras! Ihr Gegner wird sich auf etwas ganz neues Einstellen müssen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Woher sie genau kommen, weiß niemand, ",
-				"aber ihre Kampftechnik sucht ihresgleichen auf ",
-				"dem Kontinent Toras!\\. Ihr Gegner wird sich auf ",
-				"etwas ganz neues Einstellen müssen!"
+				"\\c[10]Announcer\\c[0]: Nobody knows where exactly they came",
+				"from, but their combat techniques are second to",
+				"none on the continent of Tora!\\. Their opponent will",
+				"have to adjust to something completely different!"
 			]
 		},
 		{
@@ -1148,7 +1145,7 @@
 			"original": "Ansager: DIE RITTER DER NACHT!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[3]DIE RITTER DER NACHT!"
+				"\\c[10]Announcer\\c[0]: \\s[3]THE KNIGHTS OF NIGHT!"
 			]
 		},
 		{
@@ -1157,9 +1154,10 @@
 			"original": "Ansager: Ihr mächtiges Auftreten in dunkler Rüstung hat schon so manchen Gegner erzittern lassen! Doch ihre Erscheinung ist kein Schauspiel!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Ihr mächtiges Auftreten in dunkler ",
-				"Rüstung hat schon so manchen Gegner erzittern ",
-				"lassen!\\. Doch ihre Erscheinung ist kein Schauspiel!"
+				"\\c[10]Announcer\\c[0]: Their mighty appearance in dark armor",
+				"has made many opponents tremble at the sight of",
+				"them right before battle!\\. But their appearance",
+				"isn't merely for show!"
 			]
 		},
 		{
@@ -1168,8 +1166,8 @@
 			"original": "Ansager: Schon viele Gegner sind an ihrer Defensive gescheitert!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Schon viele Gegner sind an ihrer ",
-				"Defensive gescheitert!"
+				"\\c[10]Announcer\\c[0]: Many opponents have failed on their",
+				"defense!"
 			]
 		},
 		{
@@ -1178,7 +1176,7 @@
 			"original": "Ansager: DIE RÄCHER DER GERECHTEN!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[3]DIE RÄCHER DER GERECHTEN!"
+				"\\c[10]Announcer\\c[0]: \\s[3]THE AVENGERS OF THE JUST!"
 			]
 		},
 		{
@@ -1187,9 +1185,9 @@
 			"original": "Ansager: Sie stehlen von den Reichen und geben es den Armen, so sagen sie. Zu dumm, dass das es hier im Gefängnis für die Gefangenen kein Besitz gibt!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Sie stehlen von den Reichen und geben es ",
-				"den Armen, so sagen sie.\\. Zu dumm, dass das es hier ",
-				"im Gefängnis für die Gefangenen kein Besitz gibt!"
+				"\\c[10]Announcer\\c[0]: They steal from the rich and give it",
+				"to the poor, or so they say.\\. Too bad there's no",
+				"property for the prisoners of this prison!"
 			]
 		},
 		{
@@ -1198,9 +1196,8 @@
 			"original": "Ansager: Doch ihr Anführer weiß in der Tat, wie man mit den Bogen umzugehen hat! Ihr Gegner sollte sich in Acht nehmen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Doch ihr Anführer weiß in der Tat, wie ",
-				"man mit den Bogen umzugehen hat!\\. Ihr Gegner sollte ",
-				"sich in Acht nehmen!"
+				"\\c[10]Announcer\\c[0]: But their leader actually knows how to",
+				"handle bows!\\. Their opponent should be cautious!"
 			]
 		},
 		{
@@ -1209,7 +1206,7 @@
 			"original": "Ansager: DIE ZINKAR-BRÜDER!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[3]DIE ZINKAR-BRÜDER!"
+				"\\c[10]Announcer\\c[0]: \\s[3]THE ZINKAR BROTHERS!"
 			]
 		},
 		{
@@ -1218,9 +1215,9 @@
 			"original": "Ansager: Diese Truppe ist wahrhaftig schnell nach oben gekommen! Mit ihrer außergewöhnlichen Teamarbeit haben sie es weit gebracht!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Diese Truppe ist wahrhaftig schnell nach ",
-				"oben gekommen!\\. Mit ihrer außergewöhnlichen ",
-				"Teamarbeit haben sie es weit gebracht! "
+				"\\c[10]Announcer\\c[0]: This group really rose through the",
+				"ranks quickly!\\. With their extraordinary teamwork,",
+				"they were able to make it this far!"
 			]
 		},
 		{
@@ -1229,8 +1226,9 @@
 			"original": "Ansager: Mit Dolch, Klaue und Kampfstab haben sie schon vielen Gegnern eine Lektion erteilt!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Mit Dolch, Klaue und Kampfstab haben sie ",
-				"schon vielen Gegnern eine Lektion erteilt! "
+				"\\c[10]Announcer\\c[0]: With some daggers, a claw, and a",
+				"fighting stick, they've already taught many",
+				"opponents a lesson they won't forget!"
 			]
 		},
 		{
@@ -1239,7 +1237,7 @@
 			"original": "Ansager: DIE PAUAMAINER-VETERANEN!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[3]DIE PAUAMAINER-VETERANEN!"
+				"\\c[10]Announcer\\c[0]: \\s[3]THE PAUAMAINER VETERANS!"
 			]
 		},
 		{
@@ -1248,10 +1246,10 @@
 			"original": "Ansager: Schon viele Gegner sind an ihrer tödlichen Erzschürftechnik zu Grunde gegangen! Und wenn dann noch jemand stand, hat er das Feuer ihrer Dynamitpfeile schlucken müssen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Schon viele Gegner sind an ihrer ",
-				"tödlichen Erzschürftechnik zu Grunde gegangen!\\. Und ",
-				"wenn dann noch jemand stand, hat er das Feuer ",
-				"ihrer Dynamitpfeile schlucken müssen!"
+				"\\c[10]Announcer\\c[0]: Many opponents have fallen to their",
+				"deadly ore mining technique!\\. And when someone",
+				"still stood, they had the misfortune of being",
+				"barraged by the fire of their dynamite arrows!"
 			]
 		},
 		{
@@ -1260,7 +1258,7 @@
 			"original": "Ansager: DIE CHEF HÖCHSTPERSÖNLICH!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] \\s[3]DIE CHEF HÖCHSTPERSÖNLICH!"
+				"\\c[10]Announcer\\c[0]: \\s[3]THE BOSS HIMSELF!"
 			]
 		},
 		{
@@ -1269,9 +1267,10 @@
 			"original": "Ansager: Der Anführer der Pauamainer, schon seit Ewigkeiten besetzt er den ersten Rang und er hat nicht vor, ihn abzugeben!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Der Anführer der Pauamainer, schon seit ",
-				"Ewigkeiten besetzt er den ersten Rang und er hat ",
-				"nicht vor, ihn abzugeben! "
+				"\\c[10]Announcer\\c[0]: As the leader of the Pauamainer",
+				"Brotherhood, he has consistently held his",
+				"rank in 1st place for ages and he doesn't",
+				"intend to hand that over anytime soon!"
 			]
 		},
 		{
@@ -1280,10 +1279,10 @@
 			"original": "Ansager: Und alle, die ihm diesen Platz in Frage stellen, bekommt als Antwort Erdrutsche und Wirbelstürme entgegen gedonnert! Ein weiterer, epischer Kampf steht uns bevor!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Und alle, die ihm diesen Platz in Frage ",
-				"stellen, bekommt als Antwort Erdrutsche und ",
-				"Wirbelstürme entgegen gedonnert! Ein weiterer, ",
-				"epischer Kampf steht uns bevor!"
+				"\\c[10]Announcer\\c[0]: And anyone who challenges him gets",
+				"a barrage of thundering strikes and catastrophic",
+				"cyclones in response! Another battle of the ages",
+				"dawns upon us!"
 			]
 		},
 		{
@@ -1292,10 +1291,10 @@
 			"original": "Ansager: Der Anführer der Pauamainer und längster Ranglistenführer unserer Turniergeschichte. Nun wurde er geschlagen und hat seinen ersten Platz verloren.",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Der Anführer der Pauamainer und längster ",
-				"Ranglistenführer unserer Turniergeschichte.\\. Nun ",
-				"wurde er geschlagen und hat seinen ersten Platz ",
-				"verloren."
+				"\\c[10]Announcer\\c[0]: The leader of the Pauamainer",
+				"Brotherhood and the longest-standing",
+				"leader in the history of our tournament!\\.",
+				"He was dethroned from 1st place."
 			]
 		},
 		{
@@ -1304,9 +1303,8 @@
 			"original": "Ansager: Wird er ihn sich wieder zurück erkämpfen können? Ein weiterer, großer Kampf steht uns bevor!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Wird er ihn sich wieder zurück erkämpfen ",
-				"können?\\. Ein weiterer, großer Kampf steht uns ",
-				"bevor!"
+				"\\c[10]Announcer\\c[0]: Will he be able to reclaim his place at",
+				"the top?\\. Another epic battle lies ahead!"
 			]
 		},
 		{
@@ -1314,7 +1312,7 @@
 			"original": "Ansager: LASST DEN KAMPF BEGINNEN!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] LASST DEN KAMPF BEGINNEN!"
+				"\\c[10]Announcer\\c[0]: GET READY TO RUMBLE!!"
 			]
 		},
 		{
@@ -1323,9 +1321,9 @@
 			"original": "Ansager: Die Zinkar-Schlächter schlachten alle Gegner, um ihr finales Opfer zu erreichen! Ein weiterer Sieg für sie!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Die Zinkar-Schlächter schlachten alle ",
-				"Gegner, um ihr finales Opfer zu erreichen!\\. Ein ",
-				"weiterer Sieg für sie!"
+				"\\c[10]Announcer\\c[0]: The Zinkar Butchers shall slaughter all",
+				"opponents in order to reach their final target!\\.",
+				"Another victory for them!"
 			]
 		},
 		{
@@ -1334,9 +1332,9 @@
 			"original": "Ansager: Die Zinkar-Schlächter sind ihrem Ziel ein Schritt näher gekommen! Ein weiterer Sieg. Die Zinkar-Brüder sollten sich bereithalten!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Die Zinkar-Schlächter sind ihrem Ziel ein ",
-				"Schritt näher gekommen!\\. Ein weiterer Sieg.\\. Die ",
-				"Zinkar-Brüder sollten sich bereithalten!"
+				"\\c[10]Announcer\\c[0]: The Zinkar Butchers have come a",
+				"step closer to their goal!\\. Another victory.\\.",
+				"The Zinkar Brothers better be prepared!"
 			]
 		},
 		{
@@ -1345,9 +1343,10 @@
 			"original": "Ansager: Die Repsbrot-Truppe erweist sich halt als wirklich harter Brocken! An dieser Niederlage werden ihre Gegner noch lange zu kauen haben!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Die Repsbrot-Truppe erweist sich halt als ",
-				"wirklich harter Brocken!\\. An dieser Niederlage ",
-				"werden ihre Gegner noch lange zu kauen haben!"
+				"\\c[10]Announcer\\c[0]: As it turns out, the Sunbread Squad",
+				"is really tough!\\. This opponent will have to go",
+				"against the grain to get rid of the bitter",
+				"taste of defeat!"
 			]
 		},
 		{
@@ -1356,7 +1355,7 @@
 			"original": "Cibon: Oh GOTT...",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Oh GOTT..."
+				"\\c[2]\\n[2]\\c[0]: Oh GOD..."
 			]
 		},
 		{
@@ -1365,9 +1364,8 @@
 			"original": "Ansager: Die Repsbrot-Truppe gewinnt! Was für ein Kampf! Blut und Schweiß sind geflossen und Repskerne geflogen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Die Repsbrot-Truppe gewinnt!\\. Was für ein ",
-				"Kampf!\\. Blut und Schweiß sind geflossen und ",
-				"Repskerne geflogen!"
+				"\\c[10]Announcer\\c[0]: The Sunbread Squad wins!\\. What a battle!\\.",
+				"They're really making the dough with this one!"
 			]
 		},
 		{
@@ -1376,7 +1374,7 @@
 			"original": "Cibon: Was für eine Pfeife!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Was für eine Pfeife!"
+				"\\c[2]\\n[2]\\c[0]: What a loser!"
 			]
 		},
 		{
@@ -1385,8 +1383,8 @@
 			"original": "Ansager: Der Briganten-Stolz hat gewonnen, wie zu erwarten von unseren Vorbildsgefangenen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Der Briganten-Stolz hat gewonnen, wie zu ",
-				"erwarten von unseren Vorbildsgefangenen!"
+				"\\c[10]Announcer\\c[0]: The Brigantine Pride has won, as",
+				"expected from our model prisoners!"
 			]
 		},
 		{
@@ -1395,8 +1393,9 @@
 			"original": "Ansager: Der Briganten-Stolz hat gewonnen! Hab ihr toll gemacht! Wir sind alle ganz stolz auf euch.",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Der Briganten-Stolz hat gewonnen!\\. Hab ihr ",
-				"toll gemacht!\\. Wir sind alle ganz stolz auf euch."
+				"\\c[10]Announcer\\c[0]: The Brigantine Pride has won!\\. Showed",
+				"'em the Brigantian spirit!\\. We're all very proud",
+				"of you."
 			]
 		},
 		{
@@ -1405,7 +1404,7 @@
 			"original": "Cibon: Danke sehr.",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Danke sehr."
+				"\\c[2]\\n[2]\\c[0]: Thanks a lot."
 			]
 		},
 		{
@@ -1423,9 +1422,8 @@
 			"original": "Ansager: Die Verräter sind siegreich! Korzojeno muss es wirklich bereuen, diese fähigen Leute verloren zu haben!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Die Verräter sind siegreich! Korzojeno ",
-				"muss es wirklich bereuen, diese fähigen Leute",
-				"verloren zu haben!"
+				"\\c[10]Announcer\\c[0]: The Traitors are victorious!\\. Korzojeno",
+				"must really regret losing these capable people!"
 			]
 		},
 		{
@@ -1434,9 +1432,8 @@
 			"original": "Ansager: Die Verräter haben gewonnen! Korzojeno scheint ein gutes Gespür bei der Auswahl ihrer Spione zu haben!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Die Verräter haben gewonnen!\\.",
-				"Korzojeno scheint ein gutes Gespür bei der Auswahl",
-				"ihrer Spione zu haben!"
+				"\\c[10]Announcer\\c[0]: The Traitors have won! Korzojeno seems",
+				"to have a good grasp when choosing their spies!"
 			]
 		},
 		{
@@ -1445,7 +1442,7 @@
 			"original": "Ansager: Euer aktueller Rang ist \\v[1886]",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Euer aktueller Rang ist \\v[1886]"
+				"\\c[10]Announcer\\c[0]: Your current rank is \\v[1886]."
 			]
 		},
 		{
@@ -1454,8 +1451,8 @@
 			"original": "Ansager: Wie sieht es aus? Seid ihr bereit, es mit einem weiteren Gegner aufzunehmen?",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Wie sieht es aus?\\. Seid ihr bereit, es mit ",
-				"einem weiteren Gegner aufzunehmen?"
+				"\\c[10]Announcer\\c[0]: So how about it?\\. Are you ready to take",
+				"on another opponent?"
 			]
 		},
 		{
@@ -1464,10 +1461,10 @@
 			"original": "Ansager: Ein Hinweis, da ihr neu seid. Ihr habt keine Möglichkeit, eure Ausrüstung neu zusammen zu stellen oder aufzustocken und ihr werdet nicht geheilt.",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Ein Hinweis, da ihr neu seid.\\. Ihr habt ",
-				"keine Möglichkeit, eure Ausrüstung neu zusammen zu ",
-				"stellen oder aufzustocken und ihr werdet nicht ",
-				"geheilt."
+				"\\c[10]Announcer\\c[0]: Actually, here's something to note",
+				"since you're new.\\. You have no way to change what",
+				"equipment you have or gather any extra equipment",
+				"and we won't heal you up."
 			]
 		},
 		{
@@ -1476,9 +1473,9 @@
 			"original": "Ansager: Ihr könnt euch lediglich mit noch vorhandenen Gegenständen heilen und eure Rüstung wechseln, wenn ihr was zum Wechseln habt.",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Ihr könnt euch lediglich mit noch",
-				"vorhandenen Gegenständen heilen und eure Rüstung ",
-				"wechseln, wenn ihr was zum Wechseln habt."
+				"\\c[10]Announcer\\c[0]: You can only heal yourself with any",
+				"existing items and can only change your equipment",
+				"if you have extras."
 			]
 		},
 		{
@@ -1487,7 +1484,8 @@
 			"original": "Ansager: Also, wollt ihr noch mal kämpfen?",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Also, wollt ihr noch mal kämpfen?"
+				"\\c[10]Announcer\\c[0]: So, do you want to take on another",
+				"opponent?"
 			]
 		},
 		{
@@ -1496,7 +1494,7 @@
 			"original": "Nochmal kämpfen?",
 			"lines":
 			[
-				"Nochmal kämpfen?"
+				"Continue fighting?"
 			]
 		},
 		{
@@ -1505,9 +1503,9 @@
 			"original": "Ansager: Unser Sieger ist bereit, es gleich mit einem weiteren Gegner aufzunehmen! Applaus für diesen Teilnehmer!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Unser Sieger ist bereit, es gleich mit ",
-				"einem weiteren Gegner aufzunehmen!\\. Applaus für ",
-				"diesen Teilnehmer!"
+				"\\c[10]Announcer\\c[0]: Our winner is ready to take on another",
+				"opponent!\\. Let's have a round of applause for this",
+				"team!"
 			]
 		},
 		{
@@ -1516,9 +1514,9 @@
 			"original": "Ansager: Die Zinkar-Schlächter haben genug für heute. Morgen ist ein neuer Tag! Die Zinkar-Brüder werden schließlich nicht wegrennen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Die Zinkar-Schlächter haben genug für",
-				"heute.\\. Morgen ist ein neuer Tag!\\. Die Zinkar-Brüder ",
-				"werden schließlich nicht wegrennen!"
+				"\\c[10]Announcer\\c[0]: The Zinkar Butchers have had enough for",
+				"today.\\. Tomorrow's a new day!\\. The Zinkar Brothers",
+				"can't run forever!"
 			]
 		},
 		{
@@ -1527,8 +1525,9 @@
 			"original": "Ansager: Die Repsbrot-Truppe hat genug für heute. Los! Ihr könnt euch jetzt verkrümmeln!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Die Repsbrot-Truppe hat genug für heute.\\.",
-				"Los!\\. Ihr könnt euch jetzt \\c[11]verkrümmeln\\c[0]!"
+				"\\c[10]Announcer\\c[0]: The Sunbread Squad has had enough for",
+				"today.\\. Seems like they weren't completely baked",
+				"after all!"
 			]
 		},
 		{
@@ -1537,7 +1536,7 @@
 			"original": "Cibon: ARGS!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ARGS!"
+				"\\c[2]\\n[2]\\c[0]: ARGH!"
 			]
 		},
 		{
@@ -1546,10 +1545,10 @@
 			"original": "Ansager: Der Briganten-Stolz hat für heute genug geglänzt. Hoffentlich werden wir morgen erneut die Möglichkeit haben, unsere Vorbildgefangenen zu bestaunen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Der Briganten-Stolz hat für heute genug ",
-				"geglänzt.\\. Hoffentlich werden wir morgen erneut die ",
-				"Möglichkeit haben, unsere Vorbildgefangenen zu ",
-				"bestaunen!"
+				"\\c[10]Announcer\\c[0]: The Brigantine Pride is done flaunting",
+				"their honor for the day, or lack thereof.\\.",
+				"Hopefully, we'll have the opportunity to",
+				"behold our model prisoners again tomorrow!"
 			]
 		},
 		{
@@ -1558,9 +1557,9 @@
 			"original": "Ansager: Die Verräter haben für heute genug gekämpft. Nun können sie zurück in ihre Zellen, wo sie hingehören.",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Die Verräter haben für heute genug ",
-				"gekämpft.\\. Nun können sie zurück in ihre Zellen, wo ",
-				"sie hingehören."
+				"\\c[10]Announcer\\c[0]: The Traitors have fought enough for",
+				"today.\\. Now they'll go back to their cells where",
+				"they belong."
 			]
 		},
 		{
@@ -1569,7 +1568,7 @@
 			"original": "Soko: TÖTEN!!!!1",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: TÖTEN!!!!1"
+				"\\c[13]\\n[3]\\c[0]: KILL!!!!1"
 			]
 		},
 		{
@@ -1578,7 +1577,7 @@
 			"original": "Anmerkung: Dies waren Sokos Gedanken.",
 			"lines":
 			[
-				"Anmerkung: Dies waren Sokos Gedanken."
+				"Note: These were just Soko's thoughts."
 			]
 		},
 		{
@@ -1587,9 +1586,9 @@
 			"original": "Ansager: Dies war der letzte Kampf der Zinkar- Schlächter. Morgen ist ein neuer Tag! Die Zinkar- Brüder werden schließlich nicht wegrennen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Dies war der letzte Kampf der Zinkar-",
-				"Schlächter.\\. Morgen ist ein neuer Tag! \\.Die Zinkar-",
-				"Brüder werden schließlich nicht wegrennen!"
+				"\\c[10]Announcer\\c[0]: This is the last battle of the day for",
+				"the Zinkar Butchers.\\. Tomorrow's a new day!\\.",
+				"The Zinkar Brothers can't run forever!"
 			]
 		},
 		{
@@ -1598,9 +1597,9 @@
 			"original": "Ansager: Für heute war dies der letzte Kampf der Repsbrot-Truppe. Los! Ihr könnt euch jetzt verkrümmeln!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Für heute war dies der letzte Kampf der ",
-				"Repsbrot-Truppe.\\. Los!\\. Ihr könnt euch jetzt ",
-				"verkrümmeln!"
+				"\\c[10]Announcer\\c[0]: This is the last battle of the day for",
+				"the Sunbread Squad.\\. Seems like they weren't",
+				"completely baked after all!"
 			]
 		},
 		{
@@ -1609,7 +1608,7 @@
 			"original": "Cibon: ARGS!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ARGS!"
+				"\\c[2]\\n[2]\\c[0]: ARGH!"
 			]
 		},
 		{
@@ -1618,10 +1617,10 @@
 			"original": "Ansager: Dies war der letzte Kampf des Briganten- Stolz, für heute. Hoffentlich werden wir morgen erneut die Möglichkeit haben, unsere Vorbildgefangenen zu bestaunen!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Dies war der letzte Kampf des Briganten-",
-				"Stolz, für heute.\\. Hoffentlich werden wir morgen ",
-				"erneut die Möglichkeit haben, unsere ",
-				"Vorbildgefangenen zu bestaunen!"
+				"\\c[10]Announcer\\c[0]: This is the last time we have to see",
+				"the Brigantine Pride flaunt their honor, or lack",
+				"thereof.\\. Hopefully, we'll have the opportunity",
+				"to behold our model prisoners again tomorrow!"
 			]
 		},
 		{
@@ -1630,9 +1629,9 @@
 			"original": "Ansager: Das war der letzte Kampf der Verräter für heute! Nun können sie zurück in ihre Zellen, wo sie hingehören.",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Das war der letzte Kampf der Verräter für ",
-				"heute!\\. Nun können sie zurück in ihre Zellen, wo ",
-				"sie hingehören."
+				"\\c[10]Announcer\\c[0]: This is the last battle of the day for",
+				"the Traitors!\\. Now they'll go back to their cells",
+				"where they belong."
 			]
 		},
 		{
@@ -1641,7 +1640,7 @@
 			"original": "Soko: TÖTEN!!!!1",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: TÖTEN!!!!1"
+				"\\c[13]\\n[3]\\c[0]: KILL!!!!1"
 			]
 		},
 		{
@@ -1650,7 +1649,7 @@
 			"original": "Anmerkung: Dies waren Sokos Gedanken.",
 			"lines":
 			[
-				"Anmerkung: Dies waren Sokos Gedanken."
+				"Note: These were just Soko's thoughts."
 			]
 		},
 		{
@@ -1659,9 +1658,9 @@
 			"original": "Ansager: Die Zinkar-Schlächter haben verloren. Was für eine Schande! Ob sie so jemals ihren Erzfeind erreichen werden?",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Die Zinkar-Schlächter haben verloren.\\. Was ",
-				"für eine Schande!\\. Ob sie so jemals ihren Erzfeind ",
-				"erreichen werden?"
+				"\\c[10]Announcer\\c[0]: The Zinkar Butchers have lost.\\.",
+				"What a shame!\\. Will they ever reach their",
+				"archenemies like this?"
 			]
 		},
 		{
@@ -1670,9 +1669,8 @@
 			"original": "Ansager: Die Repsbrot-Truppe wurde geschlagen. Tja, Leute wie euch verspeist man hier zum Frühstück!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Die Repsbrot-Truppe wurde geschlagen. \\.",
-				"Tja, Leute wie euch verspeist man hier zum ",
-				"Frühstück!"
+				"\\c[10]Announcer\\c[0]: And just like that, the Sunbread Squad",
+				"is toast!\\. Were they just loafing around?"
 			]
 		},
 		{
@@ -1681,9 +1679,8 @@
 			"original": "Cibon: ...Autsch! Und das sag ich nicht wegen irgendwelchen Wunden!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: ...Autsch!\\.",
-				"Und das sag ich nicht wegen ",
-				"irgendwelchen Wunden!"
+				"\\c[2]\\n[2]\\c[0]: Ouch...\\. And I'm not saying that",
+				"just because of some wounds!"
 			]
 		},
 		{
@@ -1692,10 +1689,9 @@
 			"original": "Ansager: Unsere Vorbildsgefangenen wurden geschlagen! Also wie geht denn so etwas? Wie sollen wir auf so eine Truppe bitte stolz sein?",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Unsere Vorbildsgefangenen wurden ",
-				"geschlagen!\\. Also wie geht denn so etwas?\\.",
-				"Wie sollen wir auf so eine Truppe bitte stolz ",
-				"sein?"
+				"\\c[10]Announcer\\c[0]: Our model prisoners were beaten!\\.",
+				"So how about that?\\. How are we supposed to",
+				"be proud of such a group?"
 			]
 		},
 		{
@@ -1704,8 +1700,9 @@
 			"original": "Ansager: Das war leider nichts! Die Verräter wurden geschlagen! Ja, so etwas sehen wir gerne!",
 			"lines":
 			[
-				"\\c[10]Ansager:\\c[0] Das war leider nichts!\\. Die Verräter ",
-				"wurden geschlagen!\\. Ja, so etwas sehen wir gerne!"
+				"\\c[10]Announcer\\c[0]: Unfortunately, they were nothing!\\.",
+				"The traitors were beaten!\\. Yep, that's exactly",
+				"what we want to see!"
 			]
 		},
 		{
@@ -1813,5 +1810,16 @@
 			"original": "Für heute genug.",
 			"patch": "That's enough for today."
 		}
-	]
+	],
+	"replace":
+	{
+		"[10110,4,\"\\\\c[10]Announcer\\\\c[0]: They want to see Zinkar blood spilt!\\\\.\",[]],[20110,4,\"Those brothers better be careful!\\\\. Their\",[]],[20110,4,\"archenemies are on the way to challenge them\",[]],[20110,4,\"and they seem almost unstoppable at that!\",[]]": "[10110,4,\"\\\\c[10]Announcer\\\\c[0]: They want to see Zinkar blood spilt!\\\\.\",[]],[20110,4,\"Those brothers better be careful!\\\\. Their\",[]],[20110,4,\"archenemies are on the way to challenge them\",[]],[20110,4,\"and they seem almost unstoppable at that!\",[]],[12330,4,\"\",[0,118,0]]",
+		"[10110,5,\"\\\\c[2]\\\\n[2]\\\\c[0]: Ugh...\\\\. It's so terrible.\",[]]": "[10110,5,\"\\\\c[2]\\\\n[2]\\\\c[0]: Ugh...\\\\. It's so terrible.\",[]],[12330,5,\"\",[0,119,0]],[10110,5,\"\\\\c[10]Announcer\\\\c[0]: Seems like you have a crummy taste for\",[]],[20110,5,\"humor!\",[]]",
+		"[10110,5,\"\\\\c[2]\\\\n[2]\\\\c[0]: Can someone just tell this guy\",[]],[20110,5,\"that he's not even funny at all?\",[]]": "[10110,5,\"\\\\c[2]\\\\n[2]\\\\c[0]: Can someone just tell this guy\",[]],[20110,5,\"that he's not even funny at all?\",[]],[12330,5,\"\",[0,119,0]],[10110,5,\"\\\\c[10]Announcer\\\\c[0]: There's no escaping my punitentiary\",[]],[20110,5,\"now!\",[]]",
+		"[11550,2,\"Menge_applaus\",[100,100,50]]": "[11550,2,\"Menge_applaus\",[100,100,50]],[10110,2,\"\\\\c[10]Announcer\\\\c[0]: AND THE CROWD GOES WILD!!\",[]]",
+		"[11550,3,\"Menge_applaus\",[100,100,50]]": "[11550,3,\"Menge_applaus\",[100,100,50]],[10110,3,\"\\\\c[10]Announcer\\\\c[0]: AND THE CROWD GOES WILD!!\",[]]",
+		"[11550,4,\"Menge_applaus\",[100,100,50]]": "[11550,4,\"Menge_applaus\",[100,100,50]],[10110,4,\"\\\\c[10]Announcer\\\\c[0]: AND THE CROWD GOES WILD!!\",[]]",
+		"[11550,5,\"Menge_applaus\",[100,100,50]]": "[11550,5,\"Menge_applaus\",[100,100,50]],[10110,5,\"\\\\c[10]Announcer\\\\c[0]: AND THE CROWD GOES WILD!!\",[]]"
+	},
+	"__comment__": "For the first replacing, it fixes a bug where the dialogue box wouldn't show up after the Zinkar blood message."
 }

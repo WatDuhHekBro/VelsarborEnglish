@@ -264,7 +264,7 @@
 			"original": "Silkia: Hmpf... So ein Vogel kann einem eine Menge Arbeit bereiten.",
 			"lines":
 			[
-				"\\c[10]Silkia\\c[0]: Hmpf...\\. These kinds of birds",
+				"\\c[10]Silkia\\c[0]: Hmph...\\. These kinds of birds",
 				"can be a lot of work to take care of."
 			]
 		},
@@ -585,7 +585,7 @@
 			"original": "Cibon: Hmpf, okay, meinetwegen. Haste schon einen?",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: Hmpf,\\. okay,\\. alright.\\. Do you",
+				"\\c[2]\\n[2]\\c[0]: Hmph,\\. okay,\\. alright.\\. Do you",
 				"already have a name in mind?"
 			]
 		},
