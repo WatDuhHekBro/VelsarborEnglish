@@ -323,9 +323,8 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: Kento doesn't look like he'll be",
-				"awake enough to swing at those",
-				"switches with his pickaxe",
-				"anytime soon."
+				"awake enough to swing his pickaxe",
+				"at those switches anytime soon."
 			]
 		},
 		{
@@ -728,7 +727,8 @@
 			"original": "Felcis: Geht besser kein Risiko ein.",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Better not take any chances."
+				"\\c[5]\\n[5]\\c[0]: Better to not take any",
+				"chances."
 			]
 		},
 		{

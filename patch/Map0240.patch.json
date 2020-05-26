@@ -951,9 +951,9 @@
 			"original": "Cibon: Natürlich sind wir Spione! Spione die den Grenzleuten helfen wollten, diese Truppe zu finden!",
 			"lines":
 			[
-				"\\c[2]\\n[2]\\c[0]: We ARE spies!\\. But we're spies",
-				"against that group who wanted to",
-				"help the border guards find them!"
+				"\\c[2]\\n[2]\\c[0]: Of course we're spies!\\. But",
+				"we're spies who wanted to help the",
+				"border guards find that group!"
 			]
 		},
 		{
@@ -1650,7 +1650,7 @@
 			"original": "Soko: Du kommst etwas spät.",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: You're a little late."
+				"\\c[13]\\n[3]\\c[0]: You're a bit late."
 			]
 		},
 		{
@@ -1659,7 +1659,7 @@
 			"lines":
 			[
 				"\\c[5]\\n[5]\\c[0]: Yeah yeah.\\. This prison is so",
-				"vast, I can't tell one cell from",
+				"big, I can't tell one cell from",
 				"another.\\. I must've gotten lost",
 				"for a bit."
 			]
@@ -1991,8 +1991,7 @@
 			"lines":
 			[
 				"(\\c[5]\\n[5]\\c[0]: Sir Avaron's guinea pig.\\.",
-				"That's exactly what I was looking",
-				"forward to.)"
+				"Just my luck.)"
 			]
 		},
 		{
@@ -2299,7 +2298,7 @@
 			"original": "Nicht ganz eingelebter Gefangener: Nicht schon wieder... Minenarbeit... Ich hasse es...",
 			"lines":
 			[
-				"\\c[10]New Prisoner\\c[0]: Not again...\\. mine work...\\.",
+				"\\c[10]New Prisoner\\c[0]: Not again...\\. mining...\\.",
 				"I hate it..."
 			]
 		},

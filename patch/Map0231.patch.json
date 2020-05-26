@@ -379,7 +379,7 @@
 			"original": "Soko: ... so erbärmlich...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Absolutely reprehensible..."
+				"\\c[13]\\n[3]\\c[0]: Truly reprehensible..."
 			]
 		},
 		{
@@ -787,7 +787,7 @@
 			"original": "Saion: Also, ich zähl' auf euch.",
 			"lines":
 			[
-				"\\c[10]Saion\\c[0]: So I'm counting on you."
+				"\\c[10]Saion\\c[0]: So I'll be waiting for you."
 			]
 		},
 		{
@@ -819,7 +819,7 @@
 			[
 				"\\c[13]\\n[3]\\c[0]: How...\\. How do you still have",
 				"enough energy for this kind of",
-				"circus with all the mine work?"
+				"circus with all the mining?"
 			]
 		},
 		{
@@ -863,7 +863,7 @@
 			[
 				"\\c[10]Saion\\c[0]: Yes...\\. But that's irrelevant!\\.",
 				"In any case, I hope I can count on",
-				"you."
+				"you to show up."
 			]
 		},
 		{
@@ -1406,7 +1406,7 @@
 			"original": "Kento: Cibon und ich werden dafür Konsequenzen tragen müssen...",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: Cibon and I will have to face",
+				"\\c[1]\\n[1]\\c[0]: Cibon and I will have to bear",
 				"the consequences..."
 			]
 		},
@@ -1416,7 +1416,7 @@
 			"original": "Soko: Ich... Das hab ich vergessen...",
 			"lines":
 			[
-				"\\c[13]\\n[3]\\c[0]: Oh...\\. I forgot about that..."
+				"\\c[13]\\n[3]\\c[0]: Right...\\. I forgot about that..."
 			]
 		},
 		{
@@ -2220,7 +2220,7 @@
 			[
 				"\\c[1]\\n[1]\\c[0]: Just because the barrier is",
 				"broken, doesn't mean that we can",
-				"just walk out without a care."
+				"just walk out carelessly."
 			]
 		},
 		{

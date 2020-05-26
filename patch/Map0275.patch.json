@@ -75,7 +75,7 @@
 			"original": "Gefangener: Wieso? Ich sehe hier doch gerade einen wunderbaren Anfang dafür! DU bist Adel, bist reich. WIR dagegen sind arm! Also behalten wir deinen Klunker, so einfach ist das!",
 			"lines":
 			[
-				"\\c[10]Prisoner\\c[0]: Why?\\. I see a wonderful start to",
+				"\\c[10]Prisoner\\c[0]: Why?\\. I see it as a wonderful start to",
 				"something greater!\\. YOU are from the nobility,",
 				"you are rich.\\. WE are poor!\\. So we're keeping",
 				"your stone, it's that simple!"
@@ -97,9 +97,9 @@
 			"original": "Gefangener: Aber hallo! Eine hübsche Dame haben wir hier. Darf ich mich vorstellen? Robin Llewlynus mein Name.",
 			"lines":
 			[
-				"\\c[10]Prisoner\\c[0]: Oh hello!\\. We have quite the pretty lady",
-				"here.\\. May I introduce myself?\\. Robin Llewlynus is",
-				"the name."
+				"\\c[10]Prisoner\\c[0]: Oh hello!\\. We have quite the",
+				"pretty lady here.\\. May I introduce myself?\\.",
+				"Robin Llewlynus is the name."
 			]
 		},
 		{
@@ -118,7 +118,7 @@
 			[
 				"\\c[10]Robin\\c[0]: I would've loved to give it to you if",
 				"I didn't know you were hanging out with this",
-				"pompous robber baron!"
+				"capitalistic pig!"
 			]
 		},
 		{
@@ -137,7 +137,7 @@
 			[
 				"\\c[5]\\n[5]\\c[0]: And in any case, your motto",
 				"is just a charade anyway, so free",
-				"yourself from bearing the anger",
+				"yourself from bearing the weight",
 				"of the small population here."
 			]
 		},
@@ -148,7 +148,7 @@
 			[
 				"\\c[5]\\n[5]\\c[0]: Don't think I haven't already",
 				"heard what you said.\\. What property",
-				"are you redistributing?\\. Of course."
+				"are you redistributing?\\. I thought so."
 			]
 		},
 		{
@@ -157,9 +157,8 @@
 			"lines":
 			[
 				"\\c[5]\\n[5]\\c[0]: Above all else, that'd explain",
-				"what's with all those riches that were",
-				"discovered in your cell when you were",
-				"caught."
+				"what all those riches discovered in",
+				"your cell were doing there."
 			]
 		},
 		{
@@ -170,7 +169,7 @@
 				"\\c[5]\\n[5]\\c[0]: You might give a coin or two",
 				"from your treasure chest to the local",
 				"farmers, but they have no idea what",
-				"you have."
+				"else you have."
 			]
 		},
 		{
@@ -186,8 +185,8 @@
 			"original": "Kento: Aber an sich keine schlechte Idee. So kriegt man Unterstützung von den dort ansässigen Leuten, wenn man sie braucht.",
 			"lines":
 			[
-				"\\c[1]\\n[1]\\c[0]: But it's not a bad idea by",
-				"itself.\\. You get support from the",
+				"\\c[1]\\n[1]\\c[0]: But it's not a bad idea in and",
+				"of itself.\\. You get support from the",
 				"people when you need it."
 			]
 		},
@@ -356,7 +355,7 @@
 			"original": "Soko: W..W..W..W..WIE BITTE?!",
 			"lines":
 			[
-				"\\>\\c[13]\\n[3]\\c[0]: W-W-W-W-\\<WHAT DID YOU SAY?!"
+				"\\>\\c[13]\\n[3]\\c[0]: W-W-W-W-\\<WHAT DID YOU JUST SAY?!"
 			]
 		},
 		{
@@ -579,7 +578,7 @@
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Alrighty then!\\. Then we should",
-				"see to it that we turn those nitwits",
+				"see to it that we turn those dimwits",
 				"into mush in the tournament!"
 			]
 		},

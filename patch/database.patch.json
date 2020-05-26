@@ -163,7 +163,7 @@
 			"original": "Cibon: Hmpf... wenn's sein muss.",
 			"lines":
 			[
-				"\\c[2]\\n[2]:\\c[0] Hmpf...\\. If you say so."
+				"\\c[2]\\n[2]:\\c[0] Hmph...\\. If you say so."
 			]
 		},
 		{
@@ -172,8 +172,8 @@
 			"original": "Gegnerische Einheit: E...Eine einzige Person... W... Wie kann das sein?!",
 			"lines":
 			[
-				"\\c[10]Enemy Soldier:\\c[0] Only...\\. one person...\\.",
-				"How...\\. How is this possible?!"
+				"\\c[10]Enemy Soldier:\\c[0] Only...\\. one person...\\. How...\\. How is",
+				"this possible?!"
 			]
 		},
 		{
@@ -191,8 +191,8 @@
 			"original": "Seldan: Und der Säbel? Der Grund für eure maßlose Unterschätzung.",
 			"lines":
 			[
-				"\\c[1]Seldan\\c[0]: And this sword?\\. The reason for",
-				"your massive underestimation."
+				"\\c[1]Seldan\\c[0]: And this sword?\\. The reason for your",
+				"massive underestimation."
 			]
 		},
 		{
@@ -201,8 +201,8 @@
 			"original": "Seldan: I... Ich kann jetzt noch nicht... sterben... nicht jetzt!",
 			"lines":
 			[
-				"\\c[10]Seldan:\\c[0] I...\\. I won't die just yet...\\.",
-				"not like this!"
+				"\\c[10]Seldan:\\c[0] I...\\. I won't die just yet...\\. not like",
+				"this!"
 			]
 		},
 		{
@@ -220,8 +220,8 @@
 			"original": "Seldan: Und seht mich nur als ein Beispiel für viele, die kommen werden!",
 			"lines":
 			[
-				"\\c[1]Seldan:\\c[0] And just see me as an example for",
-				"those on their way!"
+				"\\c[1]Seldan:\\c[0] And just see me as an example for those on",
+				"their way!"
 			]
 		},
 		{
@@ -240,8 +240,8 @@
 			"original": "Seldan: Doch ich werde die Quelle allen Übels, die Quelle all dieser Macht, zerstören!",
 			"lines":
 			[
-				"\\c[1]Seldan:\\c[0] But I will destroy the source of all",
-				"this evil, the source of all this power!"
+				"\\c[1]Seldan:\\c[0] But I WILL destroy the source of all this",
+				"evil, the source of all this power!"
 			]
 		},
 		{
@@ -250,8 +250,8 @@
 			"original": "Seldan: Und diese lächerliche Maschine wird mich nicht daran hindern!",
 			"lines":
 			[
-				"\\c[1]Seldan:\\c[0] And this laughable machine isn't",
-				"going to stop me!"
+				"\\c[1]Seldan:\\c[0] And this laughable machine isn't going to",
+				"stop me!"
 			]
 		},
 		{
@@ -894,8 +894,8 @@
 			"original": "Gegnerische Einheit: Ist das die Spezialeinheit von Brigan?",
 			"lines":
 			[
-				"\\c[10]Enemy Soldier\\c[0]: Is that the Special-Ops",
-				"force of Brigantia?"
+				"\\c[10]Enemy Soldier\\c[0]: Is that the Special-Ops force of",
+				"Brigantia?"
 			]
 		},
 		{
@@ -904,8 +904,8 @@
 			"original": "Gegnerische Einheit: Ein NAHKÄMPFER mit einem Lasersäbel! Soll das ein Witz sein?!",
 			"lines":
 			[
-				"\\c[10]Enemy Soldier\\c[0]: A MELEE fighter with a",
-				"laser sword?!\\. Ha!\\. What a joke!"
+				"\\c[10]Enemy Soldier\\c[0]: A MELEE fighter with a laser",
+				"sword?!\\. Ha!\\. What a joke!"
 			]
 		},
 		{
@@ -914,8 +914,8 @@
 			"original": "Seldan: Ich werde euch zeigen, wie weit unser Wahn uns getrieben hat!",
 			"lines":
 			[
-				"\\c[1]Seldan\\c[0]: I'll show you how far this madness",
-				"has taken us!"
+				"\\c[1]Seldan\\c[0]: I'll show you how far this madness has",
+				"taken us!"
 			]
 		},
 		{
@@ -2498,8 +2498,8 @@
 			"original": "Seldan: Und seht mich nur als ein Beispiel für viele, die kommen werden!",
 			"lines":
 			[
-				"\\c[1]Seldan:\\c[0] And just see me as an example for",
-				"those on their way!"
+				"\\c[1]Seldan:\\c[0] And just see me as an example for those on",
+				"their way!"
 			]
 		},
 		{
@@ -2518,8 +2518,8 @@
 			"original": "Seldan: Doch ich werde die Quelle allen Übels, die Quelle all dieser Macht, zerstören!",
 			"lines":
 			[
-				"\\c[1]Seldan:\\c[0] But I will destroy the source of all",
-				"this evil, the source of all this power!"
+				"\\c[1]Seldan:\\c[0] But I WILL destroy the source of all this",
+				"evil, the source of all this power!"
 			]
 		},
 		{
@@ -2528,8 +2528,8 @@
 			"original": "Seldan: Und diese lächerliche Maschine wird mich nicht daran hindern!",
 			"lines":
 			[
-				"\\c[1]Seldan:\\c[0] And this laughable machine isn't",
-				"going to stop me!"
+				"\\c[1]Seldan:\\c[0] And this laughable machine isn't going to",
+				"stop me!"
 			]
 		},
 		{
@@ -2538,8 +2538,8 @@
 			"original": "Seldan: Zähl deine letzten Sekunden!!",
 			"lines":
 			[
-				"\\c[1]Seldan:\\c[0] It's time to finish this,\\.",
-				"once and for all!!"
+				"\\c[1]Seldan:\\c[0] It's time to finish this,\\. once and for",
+				"all!!"
 			]
 		},
 		{
@@ -2557,8 +2557,8 @@
 			"original": "Seldan: Und seht mich nur als ein Beispiel für viele, die kommen werden!",
 			"lines":
 			[
-				"\\c[1]Seldan:\\c[0] And just see me as an example for",
-				"those on their way!"
+				"\\c[1]Seldan:\\c[0] And just see me as an example for those on",
+				"their way!"
 			]
 		},
 		{

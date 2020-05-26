@@ -14,8 +14,9 @@
 			"original": "Felcis: Bitte achtet unbedingt darauf, dass wir das Pulver auch rausgeschmuggelt bekommen!",
 			"lines":
 			[
-				"\\c[5]\\n[5]\\c[0]: Please make sure that we get",
-				"the powder smuggled out of here!"
+				"\\c[5]\\n[5]\\c[0]: Please make sure that we",
+				"actually can get the powder",
+				"smuggled out of here!"
 			]
 		},
 		{
