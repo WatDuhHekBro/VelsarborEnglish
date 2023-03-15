@@ -1,3 +1,9 @@
+# Disclaimer
+
+This translation was made by proofreading machine translated lines, adding back any context that was left out. It is not an accurate translation at all.
+
+This notice is definitely way overdue, and I should've clarified this from the beginning. I should also note that I made some very questionable decisions on the dialogue, especially near the end of the game.
+
 # Velsarbor - English Version
 A battle has broken out. In the midst of a high-tech underground complex, the Brigantine Order has invaded in order to reach the machine core and tap into the power within. Blood is spilt on both sides, the chaos representing the pinnacle of both nations' immense power. Just when the battle seems to be at a permanent stalement, there's only one problem: The mission has been compromised.
 
