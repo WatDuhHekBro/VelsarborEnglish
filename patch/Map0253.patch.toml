@@ -1,0 +1,254 @@
+[[dialogue]]
+event = 46
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Ab und zu hört man ein verdächtig 
+lautes Geräusch...\. als ob sich irgendetwas 
+Riesiges gerade unter dir durchgräbt...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Every now and then, you'll hear a
+suspiciously loud sound...\. as if something
+huge is digging right under you...
+'''
+
+[[dialogue]]
+event = 46
+page = 1
+command = 5
+original = '''
+\c[10]Gefangener\c[0]: Ich weiß, hier gibt es diese Maulwürfe 
+und Würmer, aber die sind nicht SO groß, dass die 
+so ein Geräusch beim Graben machen... 
+'''
+patched = '''
+\c[10]Prisoner\c[0]: I know there are these moles and worms
+here, but they're not big to the point of making
+these kinds of noises when digging...
+'''
+
+[[dialogue]]
+event = 46
+page = 1
+command = 8
+original = '''
+\c[10]Gefangener\c[0]: Vielleicht ist hier noch etwas 
+Größeres...\. Ich find den Gedanken richtig 
+unheimlich...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Maybe there's something bigger here...\.
+I find the thought of that really scary...
+'''
+
+[[dialogue]]
+event = 48
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Glück auf!\. So sagt man doch, oder?\.
+Die Arbeit hier mag hart und anstrengend sein, 
+aber als Gefangener habe ich schon schlimmeres 
+erlebt.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Good luck!\. That's what they say, right?\.
+The work here may be hard and tiring, but as a
+prisoner elsewhere, I've seen worse.
+'''
+
+[[dialogue]]
+event = 49
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Du brauchst hier gar nicht erst weiter 
+gehen. Weiter links gibt es nichts Interessantes.\. 
+Das Wasser schneidet dir den Weg ab, leider.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: You don't have to go any further from
+here. There's nothing interesting further to the
+left. The water blocks the way unfortunately.
+'''
+
+[[dialogue]]
+event = 50
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Oh je...\. ich weiß nicht, wie lange ich 
+diese Qual noch mitmache. Irgendwann breche ich 
+komplett zusammen und hab für die kein Nutzen 
+mehr...\. Was wird dann wohl mit mir geschehen?
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Oh man...\. I don't know how much longer I
+can take going through this agony.\. At some point,
+I'll completely collapse and I won't be any more
+useful to them...\. What'll happen to me then?
+'''
+
+[[dialogue]]
+event = 51
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 53
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 54
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 56
+page = 2
+command = 2
+original = '''
+\c[10]Wache\c[0]: Wieso müssen wir die Gefangenen eigentlich 
+immer so streng und rücksichtslos behandeln? 
+'''
+patched = '''
+\c[10]Guard\c[0]: Why do we always have to treat prisoners so
+rigorously and ruthlessly?
+'''
+
+[[dialogue]]
+event = 56
+page = 2
+command = 4
+original = '''
+\c[10]Wache\c[0]: Ich meine, würde es nicht mal motivierend 
+wirken, wenn man sie ab und zu mal für ihre gute 
+Arbeit loben würde?
+'''
+patched = '''
+\c[10]Guard\c[0]: I mean, wouldn't it even be motivating to
+praise them for their efforts every now and then?
+'''
+
+[[dialogue]]
+event = 56
+page = 2
+command = 10
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Das hier IST ein Gefängnis, 
+oder?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: This IS a prison after all,
+isn't it?
+'''
+
+[[dialogue]]
+event = 56
+page = 2
+command = 13
+original = '''
+\c[10]Wache\c[0]: Ja... stimmt.
+'''
+patched = '''
+\c[10]Guard\c[0]: Well... yeah...
+'''
+
+[[dialogue]]
+event = 56
+page = 2
+command = 16
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Die Leute sollen für ihre 
+Taten bestraft werden.\. Also wieso 
+sollte man sie für irgend etwas 
+loben?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: And prisoners should be punished
+for their crimes.\. So why would you
+praise them for anything?
+'''
+
+[[dialogue]]
+event = 56
+page = 2
+command = 21
+original = '''
+\c[10]Wache\c[0]: Ja, eigentlich hast du Recht!\. In dem 
+Fall...\. Steht hier nicht wie angewurzelt da!\. Geht 
+sofort wieder an die Arbeit!
+'''
+patched = '''
+\c[10]Guard\c[0]: Yeah...\. Actually,\. you're right!\. In that
+case...\. Don't just stand there!\. Get back to
+work immediately!
+'''
+
+[[dialogue]]
+event = 56
+page = 2
+command = 26
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Schön gemacht, Soko.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Way to go, Soko.
+'''
+
+[[dialogue]]
+event = 56
+page = 2
+command = 28
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: ...
+'''

@@ -1,0 +1,15 @@
+[[dialogue]]
+event = 10
+page = 1
+command = 3
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Dies ist der Raum 
+der Waffenkenner.\. Wehe, jemand wagt es auch 
+nur eine kleine Blume hier reinzustellen!\.\s[5] Gegen 
+so was bin ich allergisch...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: This is the room of the weapon
+connoisseurs.\. Woe to those who dare to put even a
+tiny flower in here!\.\s[5] I'm allergic to that...
+'''

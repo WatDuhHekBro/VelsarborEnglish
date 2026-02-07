@@ -1,0 +1,626 @@
+[[dialogue]]
+event = 11
+page = 1
+command = 13
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: ...
+'''
+patched = '''
+\c[4]\n[4]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 7
+has_portrait = true
+character = '''Genyu'''
+original = '''
+(\c[4]\n[4]\c[0]: Kento... Wieso tust du mir 
+das an... Brachte mein scheinbarer 
+Tod soviel Trauer in dein Leben?)
+'''
+patched = '''
+(\c[4]\n[4]\c[0]: Kento...\. Why are you doing
+this to me...\. Did my apparent death
+bring so much grief into your life?)
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 10
+has_portrait = true
+character = '''Genyu'''
+original = '''
+(\c[4]\n[4]\c[0]: Und was genau ist mit ihr 
+geschehen?\. Dilea...\. 
+Wieso willst du mir nicht antworten 
+Kento?)
+'''
+patched = '''
+(\c[4]\n[4]\c[0]: And what exactly happened to
+her?\. Dilea...\. Why won't you answer
+me, Kento?)
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 22
+has_portrait = true
+original = '''
+\c[5]?????\c[0]: Sir Daikon, Ex-General und 
+Held des Briganten-Ordens,\. Anführer 
+der Nebelklingen und besorgter 
+Vater,\. dürfte ich Sie sprechen?
+'''
+patched = '''
+\c[5]?????\c[0]: Sir Daikon,\. ex-general and
+hero of the Brigantine Order,\. leader
+of the Mist Blades,\. and worried
+father,\. may I have a word with you?
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 31
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Behalt deine zynischen 
+Kommentare bitte für dich, Felcis.\.
+Ich bin nicht in der Stimmung dafür.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Spare me your cynical
+comments, Felcis.\. I'm not in
+the mood for it.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 36
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Verzeihung, aber du bist 
+leider nicht der einzige, der sich 
+hier Sorgen macht, Genyu.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: I'm sorry, but you're not the
+only one who's worried here, Genyu.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 40
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Durch diese Fang-den-
+Sohnemann-Geschichte sind uns 
+dummerweise einige Probleme mehr mit 
+ins Netz gegangen.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: This whole chase-the-son
+extravaganza unfortunately brought
+us some more problems along with it.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 48
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Ich rede dabei von Herrn 
+Uroto und mit ihm die Aufmerksamkeit 
+der alten Herren aus Buronia.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: I'm talking about Mr. Uroto
+and the attention from the old
+gentlemen of Buronia that came
+with capturing him.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 53
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Diese Sache kam nun mal 
+kurzfristig und unerwartet.\. Wie 
+hättest du den gehandelt?
+'''
+patched = '''
+\c[4]\n[4]\c[0]: This came about at short
+notice and unexpectedly.\. How
+would you have done it?
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 58
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Es war generell keine gute 
+Idee Kento zusammen mit der ganzen 
+Gruppe gefangen zu nehmen.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: It was generally not a good
+idea to capture Kento together with
+the whole group.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 62
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Hätten wir ihn von den 
+anderen getrennt und alleine 
+gefangen genommen, säße uns jetzt 
+nicht Brigantia im Rücken.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: If we had separated him from
+the others and captured him alone,
+the entirety of Brigantia wouldn't
+be standing at our doorstep right now.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 68
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Gut,\. vielleicht hast du 
+Recht,\. aber das tut jetzt auch 
+nichts mehr zur Sache.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Well,\. maybe you're right.\. But
+it's too late for that anymore.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 73
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Was passiert ist, ist 
+passiert.\. Jetzt müssen wir einen Weg 
+aus dieser ungünstigen Situation 
+finden.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: What happened happened.\. Now we
+have to find a way out of this
+unfavorable situation.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 79
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Das ist leichter gesagt als 
+getan.\. Es ist nicht mehr so, dass 
+wir uns hier ewig vor Brigantia 
+verstecken können.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: That's easier said than done.\.
+It's no longer the case that we can
+continue hiding from Brigantia
+forever.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 84
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Sobald die Neuigkeiten 
+Buronia erreichen, werden Suchtrupps 
+folgen und ganz Korzojeno wird 
+durchkämmt.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: As soon as the news reaches
+Buronia,\. search teams will follow
+and all of Korzojeno will be
+searched.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 93
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Wir können uns nicht ewig 
+verstecken,\. das ist richtig,\. aber 
+vielleicht lang genug um alle 
+Vorbereitungen abzuschließen.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: We can't hide forever, that's
+right,\. but maybe long enough to
+complete all the preparations.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 97
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Ich halte es jedenfalls für 
+keine gute Idee bereits jetzt in 
+Aktion zu treten,\. es wäre zu riskant 
+und nicht Erfolg versprechend
+'''
+patched = '''
+\c[4]\n[4]\c[0]: In any case, I think it isn't
+a good idea to take action now.\. It'd
+be too much risk with not enough
+reward.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 105
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Wenn wir uns weiter 
+verstecken wollen müssen wir 
+zumindest den Stützpunkt wechseln.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: If we want to hide further,
+we have to at least move bases.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 109
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Das wird uns wiederum in 
+unserem Zeitplan zurückwerfen,\. ich 
+hoffe das ist dir klar.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: That will in turn set us back
+in our schedule,\. I hope you realize
+that.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 112
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Bist du sicher, dass uns da 
+genug Zeit bleiben wird?
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Are you sure we'll have
+enough time to stay here?
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 121
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Wahrscheinlich denkst du, 
+dass ich diese Situation 
+unterschätze,\. oder Felcis?\. 
+Nun ich sage dir folgendes.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: You probably think I'm
+underestimating this situation,\.
+don't you, Felcis?\. Now let me
+tell you something.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 127
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Ich glaube, dass wir in 
+absehbarer Zeit Unterstützung 
+bekommen könnten,\. die uns aus dieser 
+Lage helfen kann.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: I think we could get support
+in the foreseeable future that could
+help us out of this situation.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 133
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Wovon redest du?
+'''
+patched = '''
+\c[5]\n[5]\c[0]: What are you talking about?
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 135
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Das Erscheinen von Kento ist 
+für mich mehr als nur eine 
+Gelegenheit gewesen, mich wieder mit 
+meinem Sohn zu vereinen.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: The appearance of Kento is
+more than just an opportunity for
+me to reunite with my son.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 139
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Dass er und sogar Ranarions 
+Sohn hier auftauchen ist für mich 
+ein Zeichen.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: The fact that he and even
+Ranarion's son show up here is
+a sign for me.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 142
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Ein Zeichen dafür, dass ich 
+noch auf die Hilfe eines alten 
+Freundes hoffen kann.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: A sign that I can still have
+hope for the help of an old friend.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 152
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Jener, der von Anfang an 
+hätte dabei sein können.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: The one who could've been
+there from the very beginning.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 172
+original = '''
+So Henne, jetzt kommt das Schleichskript.
+Mit Enter duckst du dich, um dich zu
+verstecken.
+'''
+patched = '''
+So Henne, jetzt kommt das Schleichskript.
+Mit Enter duckst du dich, um dich zu
+verstecken.
+'''
+
+[[dialogue]]
+event = 11
+page = 4
+command = 17
+original = '''
+\c[10]Soldat\c[0]: Sir Daikon,\. Sir Kiorta!\. 
+Kento ist geflohen!
+'''
+patched = '''
+\c[10]Soldier\c[0]: Sir Daikon,\. Sir Kiorta!\.
+Kento has escaped!
+'''
+
+[[dialogue]]
+event = 11
+page = 4
+command = 24
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Verdammt!
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Damn it!
+'''
+
+[[dialogue]]
+event = 11
+page = 4
+command = 27
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Wohin ist er geflohen?
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Where did he escape to?
+'''
+
+[[dialogue]]
+event = 11
+page = 4
+command = 29
+original = '''
+\c[10]Soldat\c[0]: Ein Seil hängt am Keller-Fenster!\. Er ist 
+draußen!
+'''
+patched = '''
+\c[10]Soldier\c[0]: There's a rope on the basement window!\.
+He's outside!
+'''
+
+[[dialogue]]
+event = 11
+page = 4
+command = 37
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Sofort alle verfügbaren 
+Einheiten ausschwärmen und draußen 
+nach ihm suchen!
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Send out all available units
+and search for him outside
+immediately!
+'''
+
+[[dialogue]]
+event = 11
+page = 4
+command = 42
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Reduziert die Wachposten auf 
+die Hälfte, vernachlässigt aber 
+nicht zu sehr die anderen 
+Gefangenen!\, Vor allem Herr Uroto!
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Reduce the guards by half,
+but don't neglect the other
+prisoners too much!\,
+Especially Mr. Uroto!
+'''
+
+[[dialogue]]
+event = 11
+page = 4
+command = 46
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Und achtet darauf,\. dass die 
+Gefangenen nichts von dieser 
+Situation merken!\. Sonst brechen sie 
+uns in der Hektik auch noch aus.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: And make sure that the
+prisoners don't notice this
+situation!\. Otherwise, they'll
+break out in the chaos.
+'''
+
+[[dialogue]]
+event = 11
+page = 4
+command = 52
+original = '''
+\c[10]Soldat\c[0]: Zu Befehl, Sir!
+'''
+patched = '''
+\c[10]Soldier\c[0]: At your command, sir!
+'''
+
+[[dialogue]]
+event = 11
+page = 4
+command = 61
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Ich sagte dir doch, dass es 
+keine gute Idee ist,\. deinen Sohn in 
+ein normales Zimmer einzusperren.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: I told you that locking your
+son in a normal room wouldn't be
+a good idea.
+'''
+
+[[dialogue]]
+event = 11
+page = 4
+command = 68
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Wir müssen jetzt handeln,\. 
+Felcis,\. Schuldzuweisungen bringen 
+uns jetzt nicht weiter!
+'''
+patched = '''
+\c[4]\n[4]\c[0]: We have to act now,\. Felcis,\.
+blaming me doesn't get us anywhere!
+'''

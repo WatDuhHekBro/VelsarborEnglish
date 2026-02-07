@@ -1,0 +1,525 @@
+[[dialogue]]
+event = 56
+page = 1
+command = 3
+original = '''
+\c[10]General\c[0]: Uuund...\. Schlag..\. Nein, gleichzeitig! 
+\....\. Hey ihr!\. Ihr sollt im selben Moment wie die 
+andern zuhauen!\. ... \.Verflucht!\. Konzentriert 
+euch doch mal...\. ...\. *seufz*
+'''
+patched = '''
+\c[10]General\c[0]: Aaand...\. Strike...\. No, at the same time!
+\....\. Hey you!\. You should strike at the same moment
+as the others!\. ... \.Damn!\. Just concentrate...\.
+...\. *sigh*
+'''
+
+[[dialogue]]
+event = 71
+page = 1
+command = 2
+original = '''
+\c[10]General\c[0]: \s[9]Uuund...\s[0] Schlag!\. 
+\s[9]Uuund...\s[0] Schlag!\. 
+Na bitte!\. Klappt doch prima!
+'''
+patched = '''
+\c[10]General\c[0]: \s[9]Aaand...\s[0] Strike!\.
+\s[9]Aaand...\s[0] Strike!\.
+There we go!\. Works just fine!
+'''
+
+[[dialogue]]
+event = 92
+page = 2
+command = 3
+original = '''
+\c[10]Gärtner\c[0]: Es ist hoffnungslos!\. Das ständige 
+Training der Soldaten auf dem Hof macht den 
+gesamten Rasen kaputt.\. Da gibt es nichts mehr, 
+was ich tun kann... 
+'''
+patched = '''
+\c[10]Gardener\c[0]: It's hopeless!\. The constant training
+of the soldiers in the yard destroys the entire
+garden.\. There's nothing I can do...
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 3
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Hat man die 
+Rüstung einmal an, ist alles okay.\. Das schlimme 
+ist das an- und ausziehen dieses Blechhaufens!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Once you have your armor,
+everything will be just fine.\. The tedious
+part is putting this hunk of metal on
+and taking it off!
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 13
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Oi, Cibon.\. Du 
+läufst immer noch in diesem Aufzug hier rum?\. 
+Bist du immer noch nicht fertig ausgebildet?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Oi, Cibon.\. Are you still
+walking around in that armor?\. You're still
+not done with training?
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 18
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Doch schon, aber es standen 
+komischerweise keine Rüstungen 
+bereit.\. Für Kento ebenfalls nicht.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: We're done, but strangely no
+armor was available.\. Neither for Kento.
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 22
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Man hat uns zwar ein paar 
+andere Rüstungsteile gegeben, aber 
+die waren wirklich mies...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: We were given a few other pieces
+of armor, but they were so bad...
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 26
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Ach, das 
+passiert immer wieder.\. Die Schmiede kommt einfach 
+nicht mit der wachsenden Anzahl von Soldaten mit. 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Oh, that's been happening
+again and again.\. The blacksmith simply can't
+keep up with the growing number of soldiers.
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 31
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Na ja, so schlimm is' es auch 
+nicht. So eine Rüstung ist doch 
+bestimmt sehr umständlich, oder?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Well, it's not that bad either.
+Your armor must be very cumbersome,
+right?
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 35
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Sagen wir, man 
+gewöhnt sich dran.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Let's say that you get
+used to it.
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 44
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wache halten ist 
+tot langweilig.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Keeping watch makes me bored
+to the death.
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 48
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Kann ich ein Lied von singen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I can sing a song about it
+if you want.
+'''
+
+[[dialogue]]
+event = 94
+page = 1
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Immer diese 
+monotonen Trainingseinheiten. Da wird man ja 
+verrückt, allein schon vom Zusehen.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Always with these
+monotonous training sessions. You'd go
+crazy just by watching them.
+'''
+
+[[dialogue]]
+event = 95
+page = 1
+command = 3
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Ah! Sag bitte 
+niemandem, dass ich mich hier verstecke!\. Ich 
+habe echt genug von diesem Training...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Ah! Please don't tell
+anyone that I'm hiding here!\. I've had
+enough of this training...
+'''
+
+[[dialogue]]
+event = 95
+page = 1
+command = 9
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich soll dir Bescheid sagen, 
+dass man in der Eingangshalle vom 
+Schloss auf dich wartet.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I should let you know that
+someone's waiting for you in the
+entrance hall of the castle.
+'''
+
+[[dialogue]]
+event = 95
+page = 1
+command = 13
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wie?\. Wer wartet 
+da\s[9]...\s[0] ARGS!\. Mann, das hab ich vollkommen 
+vergessen!\. Ich muss weg!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Why?\. Who's waiting
+there\s[9]...\s[0] ARGH!\. Man, I completely forgot!\.
+I have to go!
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Sag mal, wieso stehst du hier 
+so allein auf dem Hof herum?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Say... Why are you standing
+here alone in the yard?
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 6
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Öhm, ich schaue 
+den anderen beim Training zu um zu sehen, was 
+ich besser machen könnte.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Um, I watch the others
+training to see what I could do better.
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 11
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm, vom reinen Zusehen wird 
+man aber auch nicht besser.\. Man 
+muss das Ganze schon richtig 
+praktizieren.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hm, you don't get any better
+from just watching.\. You have to do
+the whole thing properly.
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 16
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Ja, schon klar, 
+aber mein Training ist erst in ein paar 
+Stunden...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Yes, of course,
+but my training is only in a few hours...
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 21
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Man kann doch auch neben 
+dem vorgeschriebenen Training 
+irgendwo in einer abgelegenen 
+Gegend üben.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: You can also practice somewhere
+in a remote area in addition
+to the required training.
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 26
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Ja? Na ja, dazu 
+hab ich mich noch nie überwunden, vielleicht ist 
+die Idee gar nicht so schlecht.\. Muss dann nur 
+einen geeigneten Ort finden. 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Yeah? Well, I've never gotten
+myself to do it, though maybe the idea isn't too
+bad.\. Then I just have to find a suitable place.
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 54
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Da muss ich jetzt mal gerade 
+daran denken, wo Kento früher 
+seine zusätzlichen 
+Trainingseinheiten hatte.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I just have to think about
+where Kento used to have his
+additional training sessions.
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 60
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: \s[9]Ähh...\.\.\.\^
+'''
+patched = '''
+\c[1]\n[1]\c[0]: \s[9]Uhh...\.\.\.\^
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 62
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wo denn?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Where?
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 65
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: \s[7]Mitten auf den Straßen von 
+Nomerea!\s[0]\. Die Leute haben ihn die 
+ganze Zeit angestarrt, als wär' es ein 
+Showkampf gewesen.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: \s[7]In the middle of the Nomerean
+streets!\s[0]\. People stared at him all
+the time like it was a show.
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 70
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Du wolltest, dass ich sogar 
+mitmache, stimmt's, Kumpel? 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: You wanted me to join in,
+right Kento?
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 74
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich sagte ja:\. Such dir eine 
+abgelegene Gegend.\. Am besten 
+irgendwo im Wald.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I'll say this:\. Find a remote
+area. Somewhere in the forest is
+better.
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 78
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Es sei denn du willst ein paar 
+extra \n[19] verdienen, dann ist das 
+üben unter den Menschen vielleicht 
+ganz sinnvoll..
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Unless you want to earn a few
+extra \n[19] and it'd make sense to
+practice near other people...
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 99
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir haben beim Training in 
+der Stadt Fejar verdient?!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We earned Fejar practicing
+in the city?!
+'''
+
+[[dialogue]]
+event = 96
+page = 1
+command = 103
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: \s[9]Ähhhh...\s[0]\. Ich hab nichts 
+gesagt!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: \s[9]Uhhhh...\s[0]\. I didn't say anything!
+'''
+
+[[dialogue]]
+event = 97
+page = 2
+command = 20
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Da seid ihr ja 
+endlich.\. Ich soll euch Bescheid geben, dass ihr im 
+1. Lehrraum erwartet werdet, von Sir Vorento.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: There you are at last.\.
+I am to let you know that you are expected
+in the 1st classroom, by Sir Vorento.
+'''
+
+[[dialogue]]
+event = 97
+page = 2
+command = 25
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Danke für die Information.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Thanks for letting us know.
+'''
+
+[[dialogue]]
+event = 97
+page = 2
+command = 31
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Args, ein Treffen im 
+Lehrraum.\. Bin mal gespannt, was 
+fürn langweiligen Stoff er uns 
+diesmal einhämmern will...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Argh, a meeting in the
+classroom.\. Gee, I wonder what
+kind of boring stuff he wants
+to hammer into us this time...
+'''

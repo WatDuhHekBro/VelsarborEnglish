@@ -1,0 +1,105 @@
+[[dialogue]]
+event = 9
+page = 2
+command = 20
+has_portrait = true
+character = '''Felcis'''
+original = '''
+(\c[5]\n[5]\c[0]: ...Merkwürdig ... aus dem 
+Fenster soll er also geflohen sein?)
+'''
+patched = '''
+(\c[5]\n[5]\c[0]: Something's not adding up...
+So he supposedly fled out of the
+window?)
+'''
+
+[[dialogue]]
+event = 9
+page = 2
+command = 27
+has_portrait = true
+character = '''Felcis'''
+original = '''
+(\c[5]\n[5]\c[0]: Von Fußabdrücken und sonst 
+nichts zu sehen... Und das trotz 
+weichem Boden. Kann es etwas sein... 
+Nein...)
+'''
+patched = '''
+(\c[5]\n[5]\c[0]: There's hardly anything to
+see, not even footprints... And
+that's despite the soft floor.
+Could it be... No...)
+'''
+
+[[dialogue]]
+event = 9
+page = 2
+command = 35
+original = '''
+\c[10]Soldat\c[0]: Sir Kiorta!!
+'''
+patched = '''
+\c[10]Soldier\c[0]: Sir Kiorta!!
+'''
+
+[[dialogue]]
+event = 9
+page = 2
+command = 47
+original = '''
+\c[10]Soldat\c[0]: Sir Kiorta!\. Wir haben Chuck bewusstlos in 
+der Küche gefunden!\. Der Flüchtling...
+'''
+patched = '''
+\c[10]Soldier\c[0]: Sir Kiorta!\. We found Chuck unconscious
+in the kitchen!\. The escapee...
+'''
+
+[[dialogue]]
+event = 9
+page = 2
+command = 54
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Er ist noch im Gebäude!
+\.Verdammt, es war eine Finte!\. Sofort 
+\.alle Einheiten zurück zum Stützpunkt!
+'''
+patched = '''
+\c[5]\n[5]\c[0]: He's still in the building!\.
+Damn, it was a ruse!\. Call all units
+back into the base immediately!
+'''
+
+[[dialogue]]
+event = 9
+page = 2
+command = 58
+original = '''
+\c[10]Soldat\c[0]: Zu Befehl!
+'''
+patched = '''
+\c[10]Soldier\c[0]: At your command!
+'''
+
+[[dialogue]]
+event = 9
+page = 2
+command = 69
+has_portrait = true
+character = '''Felcis'''
+original = '''
+(\c[5]\n[5]\c[0]: Verdammt, so ein gerissene 
+Tat...\. und das von Genyus Sohn!\.
+Die Natur hat sich da anscheinend 
+einen schlechten Scherz erlaubt...)
+'''
+patched = '''
+(\c[5]\n[5]\c[0]: Damn, such a clever act...\.
+and straight from Genyu's son at
+that!\. Nature is apparently playing
+some twisted joke now...)
+'''

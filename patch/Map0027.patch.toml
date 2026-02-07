@@ -1,0 +1,12 @@
+[[dialogue]]
+event = 9
+page = 2
+command = 3
+original = '''
+\c[10]Hausfrau\c[0]: Stört mich bitte nich'.
+Ich hab' zu tun...
+'''
+patched = '''
+\c[10]Housewife\c[0]: Please don't bother me.
+I have a lot to do...
+'''

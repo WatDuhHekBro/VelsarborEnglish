@@ -1,0 +1,198 @@
+[[dialogue]]
+event = 10
+page = 1
+command = 37
+original = '''
+\c[10]Wächter\c[0]: Hier sind die neuen Gefangenen, wie 
+geordert!
+'''
+patched = '''
+\c[10]Guard\c[0]: Here are the new prisoners, as instructed!
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 42
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Wurde aber auch Zeit.
+'''
+patched = '''
+\c[10]General\c[0]: 'Bout time.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 51
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Soso. \.So sehen heutzutage 
+also Spione aus, wie?\. Kollegen aus 
+der eigenen Kaserne. 
+'''
+patched = '''
+\c[10]General\c[0]: Well then.\. So that's what
+spies look like these days, hm?\.
+Colleagues from their own barracks.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 54
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Und dann auch noch 
+Prominenz wie unser junger Herr 
+Daikon hier!
+'''
+patched = '''
+\c[10]General\c[0]: And then we also have
+celebrities like our young Mr.
+Daikon here!
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 57
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Man würde ja glauben, dass 
+man bei all der Verehrung der 
+Mitmenschen genug Wohlgefallen an 
+seiner Nation hätte.
+'''
+patched = '''
+\c[10]General\c[0]: You'd think that with all
+the praise and worship one could
+get, you'd be content staying in
+your own nation.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 67
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Aber nein!\. Stattdessen seid 
+ihr jetzt hier!
+'''
+patched = '''
+\c[10]General\c[0]: But no!\. Instead, you ended up
+here!
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 73
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wir sind keine Spione\. und 
+keine Verräter!\. Das alles ist ein 
+Missverständnis...\.\.\^
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We aren't spies\. and we aren't
+traitors!\. All of this is one big
+misunderstanding...\.\.\^
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 101
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Solltet ihr nicht so 
+langsam begriffen haben, dass ihr 
+hier vor Wächtern keine Redefreiheit 
+habt? 
+'''
+patched = '''
+\c[10]General\c[0]: How are you that slow in the
+head to understand that you have no
+freedom of speech here in front of
+the guards?
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 115
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Tsk.\. Ich denke die Kleine 
+hat für heute schon genug.\. Ich fange 
+mal mit der Prominenz an.
+'''
+patched = '''
+\c[10]General\c[0]: Tsk.\. I think the little one
+has had enough for today.\. I'll start
+off with the celebrities.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 118
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Bringt die anderen Beiden 
+in ihre Zellen.
+'''
+patched = '''
+\c[10]General\c[0]: Bring the other two to their
+cells.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 121
+original = '''
+\c[10]Wächter\c[0]: Zu Befehl, Sir!
+'''
+patched = '''
+\c[10]Guard\c[0]: At your command, sir!
+'''
+
+[[dialogue]]
+event = 10
+page = 2
+command = 18
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: In dem Säckchen befindet sich
+ein winziges Loch und eine Windaura
+verteilt das Pulver gleichmäßig mit
+jedem Schritt. 
+'''
+patched = '''
+\c[5]\n[5]\c[0]: There's a tiny hole in the bag
+along with a wind aura that spreads
+the powder out evenly with every
+step he takes.
+'''
+
+[[dialogue]]
+event = 10
+page = 2
+command = 23
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Die Wache hat also soeben
+unsere Bombe samt Zündschnur
+vorbereitet! 
+'''
+patched = '''
+\c[5]\n[5]\c[0]: So that guard just prepared
+our bomb and fuse!
+'''

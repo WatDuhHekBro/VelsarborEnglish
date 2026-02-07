@@ -1,0 +1,66 @@
+[[dialogue]]
+event = 7
+page = 2
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Sagt mal...\. Wurde 
+euch schon das Erlernen von Signum-Techniken 
+erlaubt? 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Say...\. Have you already
+been allowed to learn Signum techniques?
+'''
+
+[[dialogue]]
+event = 7
+page = 2
+command = 11
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wahnsinn!\. Das 
+ist sicher äußerst effektiv, wenn man Element-
+Schläge ausführen kann oder gar ganze Zauber!\.
+Nicht wahr?\. Ich beneide euch...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: No way!\. It's extremely
+effective if you can perform elemental attacks
+or even whole spells!\. Right?\. I envy you...
+'''
+
+[[dialogue]]
+event = 7
+page = 2
+command = 18
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Ja, ich bin auch 
+noch nicht so weit, aber ich kann es kaum 
+erwarten!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Yeah, I'm not ready yet,
+but I can't wait!
+'''
+
+[[text]]
+event = 7
+page = 2
+command = 7
+has_portrait = true
+original = '''Ja./Nein, noch nicht...'''
+patched = '''Yes./No, not yet...'''
+
+[[text]]
+event = 7
+page = 2
+command = 8
+has_portrait = true
+original = '''Ja.'''
+patched = '''Yes.'''
+
+[[text]]
+event = 7
+page = 2
+command = 16
+original = '''Nein, noch nicht...'''
+patched = '''No, not yet...'''

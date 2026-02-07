@@ -1,0 +1,80 @@
+[[dialogue]]
+event = 6
+page = 1
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Hey!\. Ihr habt 
+ebenfalls noch keine Rüstung?\. Seid ihr mit der 
+Ausbildung noch nicht fertig?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Hey!\. You also don't have
+any armor yet?\. Are you finished with
+the training yet?
+'''
+
+[[dialogue]]
+event = 6
+page = 1
+command = 7
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Doch, wir sind gerade fertig, 
+aber es stehen keine Rüstungen 
+mehr zur Verfügung.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yes, we just finished, but
+they ran out of armor.
+'''
+
+[[dialogue]]
+event = 6
+page = 1
+command = 11
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Dann geht es euch 
+ja genauso wie mir.\. Tja, man sollte diesen 
+faulen Schmieden mal gehörig in den Hintern 
+treten.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Then you're just like me.\.
+Man, you ought to kick this lazy blacksmith in
+the ass.
+'''
+
+[[dialogue]]
+event = 6
+page = 1
+command = 18
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ach ja, ich soll dir Bescheid 
+sagen, dass du in der Eingangshalle 
+des Schlosses erwartet wirst.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Oh right, well I should let
+you know that you're expected in
+the entrance hall of the castle.
+'''
+
+[[dialogue]]
+event = 6
+page = 1
+command = 22
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wirklich?\. Öhm....\. 
+OHJE! Das Treffen!\. Das hab ich ja ganz 
+vergessen.\. Danke, dass du mich dran erinnert 
+hast.\. Ich geh dann schnell!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Really?\. Um...\. OH NO!\.
+The meeting!\. I completely forgot about that.\.
+Thanks for reminding me of it.\.
+I'll get to it then!
+'''

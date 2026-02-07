@@ -1,0 +1,27 @@
+[[dialogue]]
+event = 4
+page = 2
+command = 2
+original = '''
+\c[10]Köchin\c[0]: Bitte stören Sie mich nicht!\. Ich hab
+hier genug zu tun...
+'''
+patched = '''
+\c[10]Cook\c[0]: Please don't bother me!\. I have
+enough to do here already...
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 3
+original = '''
+\c[10]Köchin\c[0]: Seit wir Essenswünsche von den 
+Soldaten annehmen, haben wir so viel Arbeit in 
+der Küche.\. Ich halt das nicht aus.
+'''
+patched = '''
+\c[10]Cook\c[0]: Ever since we started accepting requests
+from the soldiers, we've had so much work in
+the kitchen.\. I can't take it anymore.
+'''

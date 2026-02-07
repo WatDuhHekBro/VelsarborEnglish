@@ -1,0 +1,226 @@
+[[dialogue]]
+event = 18
+page = 2
+command = 20
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Oha!\. Das hier sieht gut aus.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Oh!\. This looks like it.
+'''
+
+[[dialogue]]
+event = 18
+page = 2
+command = 22
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Bitte achtet unbedingt 
+darauf, dass wir das Pulver auch 
+rausgeschmuggelt bekommen!
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Please make sure that we
+actually can get the powder
+smuggled out of here!
+'''
+
+[[dialogue]]
+event = 18
+page = 2
+command = 35
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir warten besser noch etwas 
+damit.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We'd better wait a little
+longer.
+'''
+
+[[dialogue]]
+event = 18
+page = 2
+command = 47
+original = '''
+\^
+'''
+patched = '''
+\^
+'''
+
+[[dialogue]]
+event = 18
+page = 2
+command = 60
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Wunderbar, dann lasst uns 
+zurückgehen und noch soviel Erz 
+schürfen, wie wir können.\. Sonst 
+verhungern wir heute ja noch.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Wonderful, then let's go back
+and mine as much ore as we can.\.
+Otherwise, we're going to
+starve today.
+'''
+
+[[dialogue]]
+event = 18
+page = 2
+command = 65
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Eine gute Idee.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Good idea.
+'''
+
+[[dialogue]]
+event = 18
+page = 2
+command = 90
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: W...Was ist jetzt los?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: W... What's going on now?
+'''
+
+[[dialogue]]
+event = 18
+page = 2
+command = 93
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Achtung, hinter euch!
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Watch out, behind you!
+'''
+
+[[dialogue]]
+event = 18
+page = 3
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir brauchen kein weiteres 
+Pulver mehr.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We don't need any more powder.
+'''
+
+[[dialogue]]
+event = 22
+page = 1
+command = 4
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Oh je.\. Das kam jetzt wirklich 
+unerwartet.\. Was hatte ein so 
+riesiges Viech in so einem engen 
+Bereich verloren?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh man.\. That was really
+unexpected now.\. What was such a
+huge creature doing in such a
+small area?
+'''
+
+[[dialogue]]
+event = 22
+page = 1
+command = 9
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Vielleicht hat es hier unter 
+der Erde geschlagen?\. Wer weiß das 
+schon. \.Hauptsache wie haben die 
+Sache überlebt. 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Maybe it got lost underground
+here?\. Who knows.\. The important thing
+is that we survived.
+'''
+
+[[dialogue]]
+event = 22
+page = 1
+command = 22
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Ich muss schon sagen, ihr 
+seid ziemlich fähige Kämpfer, dass 
+ihr so ein Monster mit dieser 
+einfachen Ausrüstung bezwungen habt.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: I have to say, you three are
+quite the capable fighters, having
+defeated such a monster with this
+simple equipment.
+'''
+
+[[dialogue]]
+event = 22
+page = 1
+command = 27
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Sagen wir so, es ist nicht 
+das erste größere Monster, das wir 
+erlebt haben...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Let's just put it this way,
+this isn't the first giant monster
+we've seen...
+'''
+
+[[dialogue]]
+event = 22
+page = 1
+command = 34
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Nun gut, dann mal wieder 
+zurück zur nächsten Erzsammelstelle.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Well, back to the railways
+then.
+'''
+
+[[dialogue]]
+event = 22
+page = 1
+command = 60
+original = '''
+\^
+'''
+patched = '''
+\^
+'''

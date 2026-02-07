@@ -1,0 +1,54 @@
+[[dialogue]]
+event = 7
+page = 1
+command = 44
+original = '''
+\c[10]Zojenische Einheit\c[0]: Haltet ihn auf!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: Stop him!
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 9
+has_portrait = true
+original = '''
+(\c[1]Seldan\c[0]:\s[2] Verdammt. Wenn ich in zu 
+viele Gegner rein renne, werd ich am 
+Ende nicht genug Kraft haben...)
+'''
+patched = '''
+(\c[1]Seldan\c[0]:\s[2] Damn it.\. If I run into too
+many soldiers, I won't have enough
+strength to finish this...)
+'''
+
+[[dialogue]]
+event = 34
+page = 1
+command = 3
+has_portrait = true
+original = '''
+(\c[1]Seldan\c[0]: Nicht hier lang.\. Ich muss 
+noch eine Eben tiefer.)
+'''
+patched = '''
+(\c[1]Seldan\c[0]: Not here either.\. I have to
+go one level lower.)
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 3
+has_portrait = true
+original = '''
+(\c[1]Seldan\c[0]: Nicht hier lang.\. Ich muss 
+noch eine Eben tiefer.)
+'''
+patched = '''
+(\c[1]Seldan\c[0]: Not here either.\. I have to
+go one level lower.)
+'''

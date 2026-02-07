@@ -1,0 +1,190 @@
+[[dialogue]]
+event = 30
+page = 2
+command = 28
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Das scheint ein ziemlich 
+dichter Wald zu sein.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: This seems to be a pretty
+dense forest.
+'''
+
+[[dialogue]]
+event = 30
+page = 2
+command = 32
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]:\c[0] Ja.\. Soviel wie ich gehört 
+habe, soll der Silvanwald selbst 
+heute noch seine dunklen Stellen 
+haben...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Yeah.\. As far as I've heard, the
+Silvan Forest is said to have places
+which never see the light of day,
+even to this day...
+'''
+
+[[dialogue]]
+event = 30
+page = 2
+command = 37
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]:\c[0]\s[3]...wo sich kaum ein Mensch 
+hinwagt. 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: \s[3]...where hardly anyone dares
+to go.
+'''
+
+[[dialogue]]
+event = 30
+page = 2
+command = 41
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Heh...\. Soll das ein Versuch 
+sein uns Angst einzujagen?\. Schwache 
+Leistung.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Heh...\. Is that supposed to be
+an attempt to scare us?\. Nice try.
+'''
+
+[[dialogue]]
+event = 30
+page = 2
+command = 49
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]:\c[0] Idiot.\. Ich meine das ernst. \.
+Obwohl hier Forstwirtschaft 
+betrieben wird gibt es Stellen an 
+denen der Wald unberührt ist.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: You idiot.\. I'm serious about
+this.\. Although people sometimes go
+here, there are places where the
+forest remains untouched.
+'''
+
+[[dialogue]]
+event = 30
+page = 2
+command = 57
+has_portrait = true
+original = '''
+\c[10]Herr Uroto:\c[0] Das stimmt.\. Der Grund 
+dafür sind einige steile Abgründe 
+und Klippen, die sich durch den Wald 
+ziehen. 
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: That's right.\. The reason
+for this is because of some steep
+edges and cliffs that run through
+the forest.
+'''
+
+[[dialogue]]
+event = 30
+page = 2
+command = 61
+has_portrait = true
+original = '''
+\c[10]Herr Uroto:\c[0] Dort kann man schlecht 
+Bäume fällen.\. Aber das hat uns nicht 
+zu kümmern, unsere Reiseroute ist 
+eben. 
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: It's difficult to chop
+down trees there.\. But we don't
+have to worry, our path is flat.
+'''
+
+[[dialogue]]
+event = 30
+page = 2
+command = 65
+has_portrait = true
+original = '''
+\c[10]Herr Uroto:\c[0] Also kann es nun bitte 
+weiter gehen?
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: So can we continue now?
+'''
+
+[[dialogue]]
+event = 30
+page = 2
+command = 68
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]:\c[0] Jawohl.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: At once!
+'''
+
+[[dialogue]]
+event = 30
+page = 2
+command = 70
+has_portrait = true
+character = '''Cibon'''
+original = '''
+(\c[2]\n[2]:\c[0] Wahrscheinlich wird er nie 
+mit diesem lächerlichen Druck-
+machen/Pause-anfordern- Kreislauf 
+aufhören.)
+'''
+patched = '''
+(\c[2]\n[2]\c[0]: He'll probably never stop
+with this ridiculous "Hurry up
+already!" and "I need a break!"
+cycle.)
+'''
+
+[[dialogue]]
+event = 30
+page = 4
+command = 34
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Der Wald ist zu ende!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: We're at the end of the
+forest!
+'''
+
+[[dialogue]]
+event = 30
+page = 4
+command = 36
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Sofort zur Grenze!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: To the border!\. Immediately!
+'''

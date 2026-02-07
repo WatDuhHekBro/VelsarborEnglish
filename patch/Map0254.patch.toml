@@ -1,0 +1,450 @@
+[[dialogue]]
+event = 25
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Ich hab vorhin jemand drüben jenseits 
+des Wassers gesehen.\. Ich frag mich ernsthaft, 
+wie der dort hin kam...\. Und vor allem, wie der von 
+dort wieder zurückkommen will...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: I saw someone across the water earlier.\.
+I seriously wonder how he got there...\. and above
+all, how he's planning to get back here...
+'''
+
+[[dialogue]]
+event = 42
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Das Wasser da unten ist 
+seicht... Vielleicht kann man zur 
+südlichen Seite rüber springen, 
+wenn...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: The water down there is
+shallow... Maybe I can jump over
+to the south side if...)
+'''
+
+[[dialogue]]
+event = 43
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Das Wasser da unten ist 
+seicht... Vielleicht kann man zur 
+südlichen Seite rüber springen, 
+wenn...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: The water down there is
+shallow... Maybe I can jump over
+to the south side if...)
+'''
+
+[[dialogue]]
+event = 65
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Ich arbeite so schlecht, weil ich 
+hungrig bin...\. Ich bin hungrig, weil ich immer so 
+wenig Essen bekomme...\. und ich bekomme wenig 
+Essen, weil ich schlecht arbeite...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: I work poorly because I'm hungry...\.
+I'm hungry because I always get so little food...\.
+and I always get so little food because I work
+poorly...
+'''
+
+[[dialogue]]
+event = 65
+page = 1
+command = 7
+original = '''
+\c[10]Gefangener\c[0]: Ein Teufelskreis!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: It's a vicious cycle!
+'''
+
+[[dialogue]]
+event = 66
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Wer arbeitet, der kriegt Essen.\. 
+Also arbeiten wir. \.
+Wer nicht arbeitet, der verhungert.\. 
+So einfach ist das hier...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Those who work gets food.\. So we work.\.
+Those who don't work starve.\. It's that simple...
+'''
+
+[[dialogue]]
+event = 66
+page = 1
+command = 9
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wie poetisch...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: How poetic...
+'''
+
+[[dialogue]]
+event = 66
+page = 1
+command = 12
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Weniger Reimen, mehr Hacken!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Less rhyming, more swinging!
+'''
+
+[[dialogue]]
+event = 66
+page = 1
+command = 14
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Cibon, das kannst du den 
+Wachen überlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Cibon, just leave that to the
+guards.
+'''
+
+[[dialogue]]
+event = 67
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Ich arbeite lieber hier, wo etwas 
+Wasser ist.\. Da kann man sich wenigstens mal kurz 
+erfrischen, wenn man fix und fertig ist...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: I prefer to work here where the water
+is.\. You can at least freshen up here once
+you're done for...
+'''
+
+[[dialogue]]
+event = 67
+page = 1
+command = 5
+original = '''
+\c[10]Gefangener\c[0]: Wobei ich mich nicht trauen würde, das 
+zu trinken...\. Weiß der Teufel, was da alles drin 
+ist...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Though I wouldn't dare to drink this...\.
+Who knows what sorts of horrible stuff is in
+there...
+'''
+
+[[dialogue]]
+event = 68
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Keine Lust zu Reden, nerv jemand 
+anderen, ja?
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Don't feel like talking, go annoy
+someone else, okay?
+'''
+
+[[dialogue]]
+event = 69
+page = 1
+command = 11
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Hui!\. Du hast es über den See 
+geschafft, ohne Nass zu werden?\. Nicht schlecht!\. 
+Dafür willste nen Orden, nicht wahr Kumpel?\. 
+Kannste haben!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: Whoa!\. You made it across the
+lake without getting wet?\. Not bad!\. You want one
+of those medallions for that, don't you?\.
+You can have it!
+'''
+
+[[dialogue]]
+event = 69
+page = 1
+command = 26
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Ihr guckt so verdutzt.\. Wenn 
+ihr mehr über uns und die Minen-Orden 
+erfahren wollt, besucht einfach unseren 
+Stützpunkt.
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: You look so confused.\. If you
+want to learn more about us and the miner
+medallions, just visit our base.
+'''
+
+[[dialogue]]
+event = 69
+page = 1
+command = 30
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Dieser befindet sich im 
+mittleren Bereich der Mine.\. Fahrt beim nächsten 
+Mal mit der Lore einfach rechts und dann 
+geradeaus.
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: It's located at the center of
+the mine.\. Next time on the railways, just go
+right and then straight.
+'''
+
+[[dialogue]]
+event = 69
+page = 1
+command = 36
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Glück auf!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: Good luck!
+'''
+
+[[dialogue]]
+event = 69
+page = 1
+command = 43
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Ich hab diese Stelle hier am 
+liebsten.\. Man findet tolles Erz und wird nicht von 
+den Blicken der anderen Arbeiter durchbohrt, weil 
+sie einen nicht sehen.
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: I prefer the deposits here.\. You
+find great ore and aren't pierced by the eyes of
+the other workers because they can't see you here.
+'''
+
+[[dialogue]]
+event = 69
+page = 1
+command = 47
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Mein Kollege hier in diesem 
+Bereich schuftet nicht ganz so abgeschlossen.\. Der 
+hat kein Problem damit, wenn ihn Leute anstarren.
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: My colleague on the other hand
+doesn't mind that kind of attention.\. He has no
+problem with people staring at him.
+'''
+
+[[dialogue]]
+event = 70
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Ihr wisst ja wahrscheinlich...\. Wenn 
+Feierabend ist, sollen wir möglichst schnell zu 
+der Lore-Haltestelle zurück.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: You probably know...\. That at the end of
+the day, we should get back to the railways as
+soon as possible.
+'''
+
+[[dialogue]]
+event = 70
+page = 1
+command = 5
+original = '''
+\c[10]Gefangener\c[0]: Wisst ihr was mit denen passiert, die 
+zu spät kommen?\. Die werden einfach zurück 
+gelassen!\. Die können ganz alleine den ganzen Weg 
+entlang der Schienen zurück laufen.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Do you know what happens to people who
+are late?\. They're just left behind!\. They have to
+walk back the entirety of the railways all by
+themselves.
+'''
+
+[[dialogue]]
+event = 70
+page = 1
+command = 9
+original = '''
+\c[10]Gefangener\c[0]: Und dort lauern überall diese düsteren 
+Monster.\. Ich sag dir eines,\. ich möchte nie in 
+meinem Leben alleine zurück bleiben und diesen Weg 
+entlang laufen müssen...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: And there are these terrifying monsters
+lurking around everywhere.\. I'm tellin' ya,\. I never
+want to be abandoned down here to save my life
+having to walk the railways myself like that...
+'''
+
+[[dialogue]]
+event = 71
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 73
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 74
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 75
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 76
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 78
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 79
+page = 2
+command = 2
+original = '''
+\c[10]Wache\c[0]: Lauf hier nicht so untätig rum.\. Zurück an 
+die Arbeit, sofort!
+'''
+patched = '''
+\c[10]Guard\c[0]: Don't wander around so aimlessly here.\.
+Get back to work immediately!
+'''

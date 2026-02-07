@@ -1,0 +1,41 @@
+[[dialogue]]
+event = 9
+page = 1
+command = 3
+original = '''
+\c[10]Rika\c[0]: Hehe, ich frag mich, ob die anderen 
+dieses Versteck je finden werden.
+'''
+patched = '''
+\c[10]Rika\c[0]: Hehe, I wonder if the others will
+ever find this hiding spot.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 12
+original = '''
+\c[10]Rika\c[0]: Hey!\. Ihr habt tatsächlich dieses Versteck 
+gefunden...\. Bitte sagt es nicht weiter!\. Ich geb' 
+euch auch das hier dafür.
+'''
+patched = '''
+\c[10]Rika\c[0]: Hey!\. You actually found me...\.
+Please don't tell anyone else!\. I'll give
+you this if you keep it a secret.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 24
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Schon gut, wir werden nichts 
+verraten.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Alright, we won't say anything.
+'''

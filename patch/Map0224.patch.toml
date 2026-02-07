@@ -1,0 +1,2555 @@
+[[dialogue]]
+event = 107
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Zur Mine geht es in die andere Richtung.
+'''
+patched = '''
+\c[10]Guard\c[0]: The mine is that way.
+'''
+
+[[dialogue]]
+event = 108
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Ihr geht dorthin, wo alle anderen 
+hingehen.\. Mit anderen Worten: Genau in die 
+entgegengesetzte Richtung!\.
+Was ist daran so schwer zu verstehen?
+'''
+patched = '''
+\c[10]Guard\c[0]: Go where everyone else is headed.\. In other
+words, exactly in the opposite direction!\. What's
+so hard to understand about that?
+'''
+
+[[dialogue]]
+event = 109
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Ihr sollt zur Mine,\. nicht hier lang.
+'''
+patched = '''
+\c[10]Guard\c[0]: You should go to the mine,\. not here.
+'''
+
+[[dialogue]]
+event = 110
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Bitte habt etwas gnade und bereitet mir 
+am Morgen nicht unnötig Kopfschmerzen.\. In die 
+andere Richtung, verstanden?
+'''
+patched = '''
+\c[10]Guard\c[0]: Please have a little mercy and don't give
+me an unneeded headache in the morning.\. Just go
+in the other direction, okay?
+'''
+
+[[dialogue]]
+event = 111
+page = 1
+command = 21
+original = '''
+\c[10]Wächter\c[0]: Hier geht es nicht durch! 
+'''
+patched = '''
+\c[10]Guard\c[0]: You're not getting past me!
+'''
+
+[[dialogue]]
+event = 112
+page = 1
+command = 21
+original = '''
+\c[10]Wächter\c[0]: Hier geht es nicht durch! 
+'''
+patched = '''
+\c[10]Guard\c[0]: You're not getting past me!
+'''
+
+[[dialogue]]
+event = 113
+page = 1
+command = 21
+original = '''
+\c[10]Wächter\c[0]: Hier geht es nicht durch! 
+'''
+patched = '''
+\c[10]Guard\c[0]: You're not getting past me!
+'''
+
+[[dialogue]]
+event = 114
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener:\c[0] ...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: ...
+'''
+
+[[dialogue]]
+event = 115
+page = 3
+command = 6
+original = '''
+\c[10]Gefangene\c[0]: Nicht jetzt!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Not now!
+'''
+
+[[dialogue]]
+event = 116
+page = 3
+command = 6
+original = '''
+\c[10]Nicht ganz eingelebter Gefangener\c[0]: Nicht schon 
+wieder...\. Minenarbeit...\. Ich hasse es...
+'''
+patched = '''
+\c[10]New Prisoner\c[0]: Not again...\. mining...\.
+I hate it...
+'''
+
+[[dialogue]]
+event = 117
+page = 3
+command = 6
+original = '''
+\c[10]Gefangene\c[0]: Geht mir aus dem Weg.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Get out of my way.
+'''
+
+[[dialogue]]
+event = 120
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Zur Kantine geht den Flur vom 
+Erdgeschoss des Zellengebäudes ganz durch und dann 
+nach rechts.
+'''
+patched = '''
+\c[10]Guard\c[0]: To get to the cafe, go through this
+corridor past all the cells while staying on
+the ground floor, then turn right.
+'''
+
+[[dialogue]]
+event = 121
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Manchmal hab ich wirklich das Gefühl, 
+dass eine bessere Ausrüstung im Turnier mehr 
+bringt als Kampftalent. 
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Sometimes, I have this feeling that
+better equipment in the tournament brings you
+more than your ability to fight does.
+'''
+
+[[dialogue]]
+event = 121
+page = 1
+command = 5
+original = '''
+\c[10]Gefangener\c[0]: Wie sonst soll man mir erklären, dass 
+diese Pauamainer Veteranen immer soweit oben sind?\.
+Natürlich weil sie verdammt viel Erz schürfen und 
+deshalb viele Turnier-Münzen erhalten!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: How else can you explain to me that
+these Pauamainer Veterans are always up there?\.
+Of course, it's because they dig up a lot of
+ore and get a lot of tournament coins in turn!
+'''
+
+[[dialogue]]
+event = 121
+page = 1
+command = 9
+original = '''
+\c[10]Gefangener\c[0]: Und viele Turnier-Münzen bedeuten 
+bessere Ausrüstung, wie ihr ja wahrscheinlich 
+schon wisst.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: And a lot of tournament coins mean
+better equipment, as you probably already know.
+'''
+
+[[dialogue]]
+event = 122
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Dieser Bereich darf nur von 
+Turnierkampfteilnehmern betreten werden!
+'''
+patched = '''
+\c[10]Guard\c[0]: This area is only to be entered by those
+fighting in the tournament!
+'''
+
+[[dialogue]]
+event = 123
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Wenn ihr auf den Platz wollt, um zu 
+kämpfen, müsst ihr euch anmelden.\. Die Anmeldung 
+ist in der Kantine.
+'''
+patched = '''
+\c[10]Guard\c[0]: If you want to get into the arena
+and fight, you'll have to register first.\.
+Registration is in the cafe.
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 21
+original = '''
+\c[10]Wächter\c[0]: Zurück mit euch!
+'''
+patched = '''
+\c[10]Guard\c[0]: Back off!
+'''
+
+[[dialogue]]
+event = 125
+page = 1
+command = 2
+original = '''
+\c[10]Gefangene\c[0]: Irgendwie hab ich Mitleid mit "Den 
+Schleimigen".\. Ständig werden sie von x-beliebigen 
+Neueinsteigern nieder geprügelt.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: I feel sorry for "The Slimealgamation".\.
+They've got it rough, being constantly being
+beaten up by newcomers.
+'''
+
+[[dialogue]]
+event = 125
+page = 1
+command = 5
+original = '''
+\c[10]Gefangene\c[0]: Es gibt sogar einige untere Plätze, die 
+so dreist sind, sie einfach so zu bekämpfen und zu 
+schlagen, obwohl sie im Rang unter ihnen sind!\. Nur 
+aus Frust, weil sie nicht weiter kommen!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: There are even some low-ranking teams
+that have the audacity to beat them up again and
+again, despite being ranked above them!\. Just out
+of frustration that they can't get anywhere!
+'''
+
+[[dialogue]]
+event = 125
+page = 1
+command = 9
+original = '''
+\c[10]Gefangene\c[0]: Ich für meinen Teil freu mich über 
+jeden Sieg der Schleimigen, selbst wenn es nur 
+selten passiert!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: If you ask me, I'm happy every time "The
+Slimealgamation" wins, even if it happens very
+rarely!
+'''
+
+[[dialogue]]
+event = 126
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Ich bin ja mal gespannt, wer sich 
+diesmal durchschlagen wird.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: I'm curious to see who'll make it
+through this time.
+'''
+
+[[dialogue]]
+event = 127
+page = 1
+command = 2
+original = '''
+\c[10]Älterer Gefangener\c[0]: Es ist immer wieder gut zu 
+sehen, dass es Gefangene gibt, die gegen den 
+Untertage-Schreck ankommen.\. Das sind nämlich genau 
+die Biester, die auch unten in der Mine lauern.
+'''
+patched = '''
+\c[10]Old Prisoner\c[0]: It's always good to see that there
+are prisoners who are brave enough to stand up
+against "The Terror from Below".\. They're the
+very monsters that haunt us down in the mine.
+'''
+
+[[dialogue]]
+event = 127
+page = 1
+command = 6
+original = '''
+\c[10]Älterer Gefangener\c[0]: So kann man immer hoffen, da 
+unten auch Hilfe zu bekommen, wenn man mal 
+wirklich von so etwas verfolgt wird.
+'''
+patched = '''
+\c[10]Old Prisoner\c[0]: So you can always hope that you
+might get help down there if you're really
+being chased by something like that.
+'''
+
+[[dialogue]]
+event = 127
+page = 1
+command = 9
+original = '''
+\c[10]Älterer Gefangener\c[0]: Am Tageslicht sehen diese Wesen 
+so oder so gleich viel harmloser aus!
+'''
+patched = '''
+\c[10]Old Prisoner\c[0]: In broad daylight, these beings look
+much less dangerous anyway!
+'''
+
+[[dialogue]]
+event = 128
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Die Exoten sind mein persönliche 
+Favorit hier!\. Die haben einen so toll 
+überraschenden Kampfstil.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: The Exotics are my personal favorite
+here!\. They have such an intriguing fighting style.
+'''
+
+[[dialogue]]
+event = 128
+page = 1
+command = 5
+original = '''
+\c[10]Gefangener\c[0]: Am Anfang macht es den Anschein, dass 
+sie nichts drauf haben und der Gegner gewinnen 
+wird, aber nach ein paar Runden legen sie dann 
+richtig los!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: In the beginning, it doesn't seem like
+they're up to the task and that the opponent
+will win, but after a few rounds, they
+really get going!
+'''
+
+[[dialogue]]
+event = 128
+page = 1
+command = 9
+original = '''
+\c[10]Gefangener\c[0]: Viele Gegner sind schon auf diese 
+Taktik reingefallen!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: So many opponents have already fallen
+for their tactic!
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Diese Rächer der Gerechten sind schon 
+ein komischer Verein.\. Die reden permanent von 
+irgendwelchen gerechten Umverteilungen von 
+Besitztümern. 
+'''
+patched = '''
+\c[10]Prisoner\c[0]: These Avengers of the Just are a strange
+group.\. They're constantly talking about their
+"righteous redistribution of property".
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: Diese Typen kamen hier aus Helnovien.\.
+Hier gibt es nicht viel umzuverteilen.\. Seit dem 
+Krieg gibt es hier bis auf sehr wenige Ausnahmen 
+nur arme Menschen.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: These guys are in Helnovien.\. There isn't
+much to redistribute.\. Ever since the war, there've
+only been a bunch of poor people with very few
+exceptions.
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 10
+original = '''
+\c[10]Gefangener\c[0]: Aber ihr Bogenschütze hat es drauf,
+das muss man ihnen lassen.\. Hab selten so viele 
+Pfeile auf einmal fliegen sehen!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: But their archer has what it takes, you
+have to give them that.\. I've rarely seen so many
+arrows fly at once!
+'''
+
+[[dialogue]]
+event = 130
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Es kommt nicht sonderlich oft vor, 
+dass "Der Chef" herausgefordert wird, aber wenn es 
+passiert, ist es immer wieder ein Spektakel.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: It doesn't happen very often that "The
+Boss" is challenged, but when he is, it's always
+quite the battle to watch.
+'''
+
+[[dialogue]]
+event = 130
+page = 1
+command = 5
+original = '''
+\c[10]Gefangener\c[0]: Der Chef kämpft alleine und hat es 
+bisher mit jeder Gruppe locker aufgenommen, die 
+ihn Platz runter bringen wollte.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: The Boss fights alone, and so far, has
+easily taken on any group that tried to bring
+him down.
+'''
+
+[[dialogue]]
+event = 130
+page = 1
+command = 8
+original = '''
+\c[10]Gefangener\c[0]: Zu schade, dass die Pauamainer 
+Veteranen es mittlerweile aufgegeben haben, ihm 
+vom 1. Platz zu jagen. 
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Too bad the Pauamainer Veterans have
+since given up trying to dethrone him from 1st
+place.
+'''
+
+[[dialogue]]
+event = 130
+page = 1
+command = 11
+original = '''
+\c[10]Gefangener\c[0]: Aber diese Neuen da, diese 
+Zinkar-Brüder, die versuchen es öfters in letzter 
+Zeit.\. Die Neueinsteiger bringen wirklich 
+frischen Wind in dieses Turnier!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: But those newcomers, the Zinkar
+Brothers, have been trying their hand at it
+lately.\. They're really bringing a breath of
+fresh air to this tournament!
+'''
+
+[[dialogue]]
+event = 131
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Diese Schattenschleicher sind wirklich 
+eine Gruppe, denen ich nachts nicht über den Weg 
+laufen will.\. Die sind schon tagsüber unheimlich 
+und grausam genug!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: These Shadow Crawlers are a group that
+I really don't want to run into late at night.\.
+They're scary and cruel enough during the day!
+'''
+
+[[dialogue]]
+event = 131
+page = 1
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: Und wenn sie mal ihr Nebelgewand auf 
+sich ausführen, sieht ihr Gegner sie so schlecht, 
+als ob es tatsächlich Nacht wäre.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: And if they do their foggy clothing on
+themselves, their opponent sees them as badly as
+if it were actually night.
+'''
+
+[[dialogue]]
+event = 132
+page = 1
+command = 3
+original = '''
+\c[10]Gefangener\c[0]: Hehe!\. Die bisherigen Kämpfe waren 
+ziemlich toll!\. Es lohnt sich doch immer wieder, 
+dabei zu sein.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Hehe!\. The fights so far have been pretty
+great!\. It's always worth being here.
+'''
+
+[[dialogue]]
+event = 132
+page = 1
+command = 8
+original = '''
+\c[10]Gefangener\c[0]: Wann geht es endlich los? Ich will 
+nicht noch länger warten...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: When is it finally starting?
+I don't want to wait any longer...
+'''
+
+[[dialogue]]
+event = 132
+page = 1
+command = 12
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Was ist das hier für ein 
+offener Platz?\. Und was machen die 
+ganzen Leute hier?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: What kind of area is this?\. And
+what are all these people doing here?
+'''
+
+[[dialogue]]
+event = 132
+page = 1
+command = 16
+original = '''
+\c[10]Gefangener\c[0]: Das wisst ihr nicht?\. Hier finden 
+gleich einige Turnierkämpfe statt.\. Die gibt es 
+fast täglich.\. Jeder Gefangene kann dran 
+teilnehmen.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: You don't know?\. Here is where the
+tournament battles take place.\. They happen
+almost every day.\. Any prisoner can participate.
+'''
+
+[[dialogue]]
+event = 132
+page = 1
+command = 22
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber was soll man bitte davon 
+haben?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But what do you get from it?
+'''
+
+[[dialogue]]
+event = 132
+page = 1
+command = 25
+original = '''
+\c[10]Gefangener\c[0]: Einen Ruf hier im Gefängnis. Leute, 
+die sich gut um Turnier schlagen, werden von den 
+anderen Gefangenen mit höherem Respekt behandelt.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Fame and recognition. People who do well
+at the tournament are treated with more respect by
+the other prisoners.
+'''
+
+[[dialogue]]
+event = 132
+page = 1
+command = 28
+original = '''
+\c[10]Gefangener\c[0]: Gleichzeitig ist es eine Unterhaltung 
+für die anderen Gefangenen, die zusehen.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: At the same time, it brings
+entertainment for all the other
+prisoners watching.
+'''
+
+[[dialogue]]
+event = 132
+page = 1
+command = 30
+original = '''
+\c[10]Gefangener\c[0]: Ich hab' gehört, bevor die 
+Turnierkämpfe eingeführt worden sind, gab es 
+deutlich mehr Aufstände und Probleme mit den 
+Gefangenen.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: I heard that before the tournament was
+introduced, there were significantly more
+uprisings and problems with prisoners.
+'''
+
+[[dialogue]]
+event = 134
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Diese Turnierkämpfe sind wirklich so 
+ziemlich der einzige Spaß, der uns in diesem 
+Gefängnis bleibt. 
+'''
+patched = '''
+\c[10]Prisoner\c[0]: These tournament battles are really
+pretty much the only fun thing we have left
+in this prison.
+'''
+
+[[dialogue]]
+event = 134
+page = 1
+command = 5
+original = '''
+\c[10]Gefangener\c[0]: Zum Glück gibt es genug Freiwillige, 
+die tatsächlich Lust haben, sich am Feierabend die 
+Köpfe einzuschlagen...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Fortunately, there are enough volunteers
+who actually want to knock themselves out at the
+end of the day...
+'''
+
+[[dialogue]]
+event = 136
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Gefangene haben hier nichts zu suchen!
+'''
+patched = '''
+\c[10]Guard\c[0]: Prisoners have no business here!
+'''
+
+[[dialogue]]
+event = 137
+page = 1
+command = 21
+original = '''
+\c[10]Wächter\c[0]: Hier geht es nicht durch! 
+'''
+patched = '''
+\c[10]Guard\c[0]: You're not getting past me!
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Wie man da drüben sieht, gibt es auch 
+reichlich Wächter, die bei den Turnierkämpfen 
+zusehen.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: As you can see over there, plenty of
+guards also watch these tournament battles.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 14
+original = '''
+\c[10]Gefangener\c[0]: Einige von uns fragen sich wirklich, 
+ob die das Turnier hauptsächlich für ihre eigene 
+Unterhaltung eingeführt haben...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Some of us are really starting to wonder
+if they introduced the tournament mainly for their
+own entertainment...
+'''
+
+[[dialogue]]
+event = 141
+page = 2
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Ziemlich gute Aussicht von hier oder?\.
+Ich würde mich aber nicht zu nah an die Brüstung 
+wagen.\. Wir hatten schon Fälle, wo Gefangene von 
+hier runter gefallen sind...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Pretty good view from here, right?\. But I
+wouldn't dare to get too close to the rails.\. We've
+had cases where prisoners fell down from here...
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 2
+original = '''
+\c[10]Gefangene\c[0]: Wenn hier mal der Chef kämpft, müsst 
+ihr unbedingt hier oben sein!\. Wenn der einmal 
+seine Geheimattacke verwendet, spürt man den Wind 
+sogar noch hier oben!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: If the boss decides to fight, you have
+to stay up here!\. If he uses his secret attack,
+you'll still be able to feel the wind even up
+here!
+'''
+
+[[dialogue]]
+event = 143
+page = 2
+command = 4
+original = '''
+\c[10]Gefangener\c[0]: Der Typ da sieht ja sehr edel aus. \.Wie 
+kommt so etwas hier bitte ins Gefängnis?\. Und wieso 
+versperrt mir so etwas hier die Sicht?
+'''
+patched = '''
+\c[10]Prisoner\c[0]: This guy here looks like a noble.\. How'd
+someone like him end up in this prison?\. And why
+is he blocking my view?
+'''
+
+[[dialogue]]
+event = 143
+page = 2
+command = 12
+original = '''
+\c[10]Gefangener\c[0]: Wenn hier einmal die Kämpfe richtig 
+losgehen, ist es hier oben oft stark überfüllt.\. Da 
+bekommt man wirklich Angst, dass man runter fallen 
+könnte...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: If it's the first match of the day, it's
+often very crowded up here.\. And you'd quickly be
+afraid that you could fall down...
+'''
+
+[[dialogue]]
+event = 145
+page = 2
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Diese "Ritter der Nacht" sind ganz 
+schön gerissen, sag ich dir. 
+'''
+patched = '''
+\c[10]Prisoner\c[0]: These "Knights of Night" are pretty
+smart, I tell you.
+'''
+
+[[dialogue]]
+event = 145
+page = 2
+command = 4
+original = '''
+\c[10]Gefangener\c[0]: Als die meisten Kämpfer dahinter 
+gekommen sind, dass sie sehr anfällig gegen Magie 
+sind, haben sie ihre Taktik geändert. 
+'''
+patched = '''
+\c[10]Prisoner\c[0]: When most of the fighters figured out
+that they were very vulnerable to magic, they
+changed their tactics.
+'''
+
+[[dialogue]]
+event = 145
+page = 2
+command = 7
+original = '''
+\c[10]Gefangener\c[0]: Jetzt zaubern sie "Spiegelung" auf 
+sich selber!\. Es ist immer wieder toll anzusehen, 
+wie verdutzt die Zauberer blicken, wenn die ihren 
+Spruch zurückgeschleudert bekommen!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Now they cast "Reflect" on themselves!\.
+It's always a joy to see how stunned aspiring
+mages look when they get their spell thrown
+right back!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 27
+original = '''
+\c[10]Ansager:\c[0] \s[5]Unser nächster Kampf steht kurz bevor!\.
+Der erste Teilnehmer betritt die Arena!\.\.\^
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[5]Our next battle is just around the
+corner!\. The first combatant enters the arena!\.\.\^
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 33
+original = '''
+\c[10]Ansager:\c[0] \s[5] Die ZINKAR-SCHLÄCHTER!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[5]THE ZINKAR BUTCHERS!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 39
+original = '''
+\c[10]Ansager:\c[0] Oha!\. Diese Truppe hat sich ein Ziel 
+gesetzt!\. Doch dieses ist noch weit entfernt, 
+ein langer Weg durch die Rangliste wartet auf sie!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Oh!\. This group set a goal for
+themselves!\. But this goal is still quite
+a ways away, and thus, a long journey
+through the ranks lies ahead of them!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 42
+original = '''
+\c[10]Ansager:\c[0] Hoffen wir, dass ihr Name Programm ist!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Let's hope that their name says it all!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 47
+original = '''
+\c[10]Ansager:\c[0] Langsam aber sicher kommen sie ihrem Ziel 
+näher!\. Werden sie bis zum bitteren Ende 
+durchhalten?\. Und sind sie ihrem Erzfeind wirklich 
+gewachsen, wenn es mal soweit ist?
+'''
+patched = '''
+\c[10]Announcer\c[0]: Slowly but surely, they're getting
+closer to their ultimate goal!\. Will they hold out
+until the bitter end?\. Will they be up to the task
+to face their archenemies when the time comes?
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 53
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Und ob wir das sind!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Of course we'll be!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 57
+original = '''
+\c[10]Ansager:\c[0] Sie wollen Zinkar-Blut sehen!\. Die Brüder 
+sollten sich in Acht nehmen!\. Ihr Erzfeind ist auf 
+dem Weg zu ihnen und erscheint schier 
+unaufhaltsam!
+'''
+patched = '''
+\c[10]Announcer\c[0]: They want to see Zinkar blood spilt!\.
+Those brothers better be careful!\. Their
+archenemies are on the way to challenge them
+and they seem almost unstoppable at that!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 68
+original = '''
+\c[10]Ansager:\c[0] \s[5]... Die REPSBROT-TRUPPE!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[5]THE SUNBREAD SQUAD!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 74
+original = '''
+\c[10]Ansager:\c[0] Diese wäre die erste Backwaren-Truppe, 
+die diese Arena betreten hat!\. Lasst uns für sie 
+hoffen, dass sie nur für das Brot kämpfen und 
+nicht WIE das Brot!
+'''
+patched = '''
+\c[10]Announcer\c[0]: That'd make them the first group
+fighting for baked goods to enter this arena!\.
+Let's just hope that they only fight FOR the
+bread and not LIKE the bread!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 83
+original = '''
+\c[10]Ansager:\c[0] Sie können kämpfen, besser als man von 
+Brot erwarten würde!\. Doch lasst uns abwarten!\. 
+Vielleicht findet sich der Gegner mit dem 
+Brotmesser, der ihrem Weg ein Ende setzt!
+'''
+patched = '''
+\c[10]Announcer\c[0]: They can fight better than you'd expect
+from bread!\. And hey, maybe their vision isn't so
+grainy after all.\. We'll just have to wheat and
+seed what happens!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 89
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Urgs...\. der war wirklich 
+schlecht.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Ugh...\. It's so terrible.
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 94
+original = '''
+\c[10]Ansager:\c[0] Das Brot, das von allen gefürchtet wird!\. 
+Ihre Kruste hart wie Stahl und scharf wie feinste 
+Schmiedkunst.\. Einen Gegner nach dem anderen sind 
+sie schon im Halse stecken geblieben!
+'''
+patched = '''
+\c[10]Announcer\c[0]: The bread that everyone loaves!\. Their
+crust as hard as steel and as sharp as the finest
+smithing.\. One enemy after another, their plans
+have yet to go a-rye!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 100
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Kann jemand diesem Typen 
+sagen, dass er nicht witzig ist?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Can someone just tell this guy
+that he's not even funny at all?
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 110
+original = '''
+\c[10]Ansager:\c[0] \s[5]Der BRIGANTEN-STOLZ!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[5]THE BRIGANTINE PRIDE!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 116
+original = '''
+\c[10]Ansager:\c[0] ... Briganten\. ... Stolz? 
+'''
+patched = '''
+\c[10]Announcer\c[0]: Brigantine...\. Pride?
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 117
+original = '''
+\c[10]Ansager:\c[0] Natürlich!\. Der Stolz unserer Nation!\. Hier
+in unserem Gefängnis!\. Unsere Vorbildsgefangenen! \.
+Wenn doch nur jeder in Brigantia sich so verhalten 
+würde wie unsere bescheidenen Freunde hier!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Of course!\. The pride of our nation!\.
+Here in our prison!\. Our model prisoners!\. If
+only everyone in Brigantia behaved like our
+humble friends here!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 121
+original = '''
+\c[10]Ansager:\c[0] Ohja\....\.WIR WÜRDEN DEN GESAMTEN 
+BRIGANTEN-ORDEN ZU UNSEREN TEILNEHMERN ZÄHLEN!\. 
+Wäre das nicht großartig?
+'''
+patched = '''
+\c[10]Announcer\c[0]: Oh yeah...\. IF WE WERE TO PICK ANY
+SOLDIER FROM THE BRIGANTINE ORDER, THE
+RESEMBLANCE WOULD OBVIOUSLY BE DAY AND NIGHT!\.
+Wouldn't that be great?
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 131
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Das war so klar, dass das so 
+ausging...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I saw this coming miles away...
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 134
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wir werden sehen, wer hier am 
+Ende lacht!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We'll see who gets the last
+laugh!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 140
+original = '''
+\c[10]Ansager:\c[0] Ohja!\. Unsere Vorbildgefangenen wieder! \.
+Sicherlich können wir Stolz sein auf unsere 
+Verräter.\. Wenn ich es mir recht überlege...\.
+sollte es nicht eher KORZOJENOS STOLZ heißen?!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Oh yeah!\. Our model prisoners again!\.
+We can definitely be proud of our traitors.\.
+Now I think about it...\. shouldn't it be
+THE KORZOJENISH PRIDE instead?!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 146
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ... Verdammt...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Damn...
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 148
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wirklich eine ausgezeichnete 
+Namenswahl.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Truly an amazing name.
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 153
+original = '''
+\c[10]Ansager:\c[0] Sie mögen uns an Korzojeno verkauft haben 
+und unter uns Gefangenen verweilen, aber sie haben 
+uns bewiesen, dass ihre Kampfkunst in der Tat eine 
+Sache ist, auf die man stolz sein kann!
+'''
+patched = '''
+\c[10]Announcer\c[0]: They may have sold us to Korzojeno and
+stayed with us as prisoners, but they've shown us
+that their prowess is something to be proud of
+indeed!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 157
+original = '''
+\c[10]Ansager:\c[0] Ja,\. vielleicht sogar ganz Brigantia!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Yes,\. maybe even to all of Brigantia!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 160
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wir haben nichts an 
+Korzojeno verkauft, sie wollen es 
+einfach nicht verstehen...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We didn't sell anyone out to
+Korzojeno, they just don't want to
+understand...
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 164
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wenigstens scheinen sie uns 
+so langsam ernst zu nehmen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: At least they're starting to
+take us seriously.
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 174
+original = '''
+\c[10]Ansager:\c[0] \s[5]Die VERRÄTER!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[5]THE TRAITORS!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 180
+original = '''
+\c[10]Ansager:\c[0] Wenn das nicht unsere Kollegen vom 
+Briganten-Orden sind, die dann doch lieber für 
+unser tückisches Nachbarland arbeiten wollten!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Well,\. well,\. well,\. if it isn't our
+colleagues from the Brigantine Order who'd rather
+work for our treacherous neighboring country!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 183
+original = '''
+\c[10]Ansager:\c[0] Jetzt sind sie hier, in Brigantia, doch 
+ihrem Auftraggeber werden sie nicht mehr helfen 
+können!\. Das einzige was ihnen bleib, ist zu 
+kämpfen!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Now that they're stuck here in
+Brigantia, they won't be able to help out
+their client any longer!\. The only thing
+left for them do to is fight!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 192
+original = '''
+\c[10]Ansager:\c[0] Und wieder sind sie hier, um zu kämpfen!\.
+Offensichtlich gibt es hier nichts interessantes, 
+was es Korzojeno zu berichten gilt!
+'''
+patched = '''
+\c[10]Announcer\c[0]: And they're here to fight again!
+Obviously, there's nothing interesting to
+write to Korzojeno about here!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 197
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ... wie oft wollen sie noch 
+darauf rumhacken?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: How often are they going to keep
+singling us out?
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 202
+original = '''
+\c[10]Ansager:\c[0] Sie kämpfen, oh ja und wie sie kämpfen!\.
+Wir können froh sein, dass sie es hier tun und 
+nicht in einer Schlacht mit unserem Nachbarland 
+unter der Führung Farenias!
+'''
+patched = '''
+\c[10]Announcer\c[0]: They fight, oh how they keep fighting!\.
+We can be glad that they're doing it here and not
+in a battle for our neighboring country under the
+leadership of Farenia!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 208
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Der Typ kann auch mächtig 
+froh sein, dass er nicht hier unten 
+steht...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: The guy better be glad he's up
+there and not down here...
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 227
+original = '''
+\c[10]Ansager:\c[0] Und hier kommt ihr Gegner!
+'''
+patched = '''
+\c[10]Announcer\c[0]: And here comes their opponent!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 241
+original = '''
+\c[10]Ansager:\c[0] Und hier kommt der nächste Gegner!
+'''
+patched = '''
+\c[10]Announcer\c[0]: And here comes their next opponent!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 245
+original = '''
+\c[10]Ansager:\c[0] \s[3]DIE SCHLEIMIGEN!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[3]THE SLIMEALGAMATION!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 246
+original = '''
+\c[10]Ansager:\c[0] Alle Anfänger in diesem Turnier müssen 
+sich zuerst durch diese Vereinigung von Glibber 
+kämpfen! 
+'''
+patched = '''
+\c[10]Announcer\c[0]: All beginners in this tournament must
+first battle their way through the guild of
+slimes!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 249
+original = '''
+\c[10]Ansager:\c[0] Zwar sind sie nur selten auf einem 
+höheren Rang als den Letzten und dennoch gab es 
+schon Leute, die unter ihren magischen Flammen und 
+Wasserfontänen zugrunden gingen!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Although they rarely make it out of
+last place, there are people nonetheless who
+were taken down under their magical flames
+and water torrents!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 255
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hehe,\. was für Verlierer,\. 
+NICHT WAHR Kumpel?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hehe,\. quite some losers,\. AREN'T
+THEY, Kento?
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 258
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Sei leise.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Be quiet.
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 261
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Hä?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Huh?
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 268
+original = '''
+\c[10]Ansager:\c[0] \s[3]DAS RUDEL!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[3]THE PACK!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 269
+original = '''
+\c[10]Ansager:\c[0] In der düstersten Region des Silvanwaldes 
+haben wir sie gefunden und es war kein Leichtes, 
+sie hier zur Arena zu bringen!
+'''
+patched = '''
+\c[10]Announcer\c[0]: We found them in the darkest stretches
+of the Silvan Forest and it wasn't easy to bring
+them here to the arena!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 272
+original = '''
+\c[10]Ansager:\c[0] Doch nun sind sie hier und ihren Gegnern 
+werden sie zeigen, wie die Regeln der Wildnis aussehen!
+'''
+patched = '''
+\c[10]Announcer\c[0]: But now that they're here, they'll show
+their opponents what the rules of the wild look
+like!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 276
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Es sind verdammt noch mal nur 
+ein paar Wölfe.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Damn, just a few wolves.
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 284
+original = '''
+\c[10]Ansager:\c[0] \s[3]DIE BÄRENBRÜDER!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[3]THE BEAR BROTHERS!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 285
+original = '''
+\c[10]Ansager:\c[0] Sie sind groß, pelzig und kräftig!\. Schon  
+viele Waffen sind an ihrem dichten Fell 
+gescheitert.\. Und sie wissen, wie man zurück 
+schlägt!
+'''
+patched = '''
+\c[10]Announcer\c[0]: They're big, hairy, and strong!\. Many
+weapons have failed to do anything because of
+their thick fur.\. And they know how to hit back!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 294
+original = '''
+\c[10]Ansager:\c[0] \s[3]DIE FEJARSCHLITZER!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[3]THE FEJAR SLITTERS!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 295
+original = '''
+\c[10]Ansager:\c[0] Zu schade, dass die Teilnehmer hier keine 
+Fejar haben, die sie ihnen abschlitzen könnten.\.
+Dennoch sind sie schnell, gewandt und wissen, wie 
+man ihren Gegner einengen kann!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Too bad they don't have any Fejar to
+slit.\. Regardless, they're quick, agile, and
+know how to whittle down their opponents!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 304
+original = '''
+\c[10]Ansager:\c[0] \s[3]DER UNTERTAGE-SCHRECK!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[3]THE TERROR FROM BELOW!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 305
+original = '''
+\c[10]Ansager:\c[0] Richtig, es sind genau die Biester, die 
+von allen Minenarbeitern hier gefürchtet werden!\.
+Nun gehen sie sogar so weit, die Turnierkämpfer zu 
+bedrohen!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Yep, they're the very creatures that
+haunt all the miners here!\. Now they'd even go
+so far as to intimidate these fighters!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 314
+original = '''
+\c[10]Ansager:\c[0] \s[3]DIE SCHATTENSCHLEICHER!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[3]THE SHADOW CRAWLERS!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 315
+original = '''
+\c[10]Ansager:\c[0] Sie wissen, wie sie ihren Gegner in den 
+Rücken fallen. Ihre tödliche Technik bringt das 
+Opfer um, bevor dieses irgendetwas bemerkt!
+'''
+patched = '''
+\c[10]Announcer\c[0]: They know how to stab their opponents
+in the back. Their deadly technique kills the
+victim before they even notice anything!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 318
+original = '''
+\c[10]Ansager:\c[0] Aber schätzt sie nicht falsch ein!\. Ihre 
+Kampftechnik ist auf offenem Feld genauso tödlich 
+wie in der dunklen Nacht!
+'''
+patched = '''
+\c[10]Announcer\c[0]: But don't underestimate them now!\. Their
+technique is as deadly in the open air as it is in
+a shrouded night!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 326
+original = '''
+\c[10]Ansager:\c[0] \s[3]DIE EXOTEN!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[3]THE EXOTICS!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 327
+original = '''
+\c[10]Ansager:\c[0] Woher sie genau kommen, weiß niemand, 
+aber ihre Kampftechnik sucht ihresgleichen auf 
+dem Kontinent Toras!\. Ihr Gegner wird sich auf 
+etwas ganz neues Einstellen müssen!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Nobody knows where exactly they came
+from, but their combat techniques are second to
+none on the continent of Tora!\. Their opponent will
+have to adjust to something completely different!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 336
+original = '''
+\c[10]Ansager:\c[0] \s[3]DIE RITTER DER NACHT!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[3]THE KNIGHTS OF NIGHT!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 337
+original = '''
+\c[10]Ansager:\c[0] Ihr mächtiges Auftreten in dunkler 
+Rüstung hat schon so manchen Gegner erzittern 
+lassen!\. Doch ihre Erscheinung ist kein Schauspiel!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Their mighty appearance in dark armor
+has made many opponents tremble at the sight of
+them right before battle!\. But their appearance
+isn't merely for show!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 340
+original = '''
+\c[10]Ansager:\c[0] Schon viele Gegner sind an ihrer 
+Defensive gescheitert!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Many opponents have failed on their
+defense!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 347
+original = '''
+\c[10]Ansager:\c[0] \s[3]DIE RÄCHER DER GERECHTEN!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[3]THE AVENGERS OF THE JUST!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 348
+original = '''
+\c[10]Ansager:\c[0] Sie stehlen von den Reichen und geben es 
+den Armen, so sagen sie.\. Zu dumm, dass das es hier 
+im Gefängnis für die Gefangenen kein Besitz gibt!
+'''
+patched = '''
+\c[10]Announcer\c[0]: They steal from the rich and give it
+to the poor, or so they say.\. Too bad there's no
+property for the prisoners of this prison!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 351
+original = '''
+\c[10]Ansager:\c[0] Doch ihr Anführer weiß in der Tat, wie 
+man mit den Bogen umzugehen hat!\. Ihr Gegner sollte 
+sich in Acht nehmen!
+'''
+patched = '''
+\c[10]Announcer\c[0]: But their leader actually knows how to
+handle bows!\. Their opponent should be cautious!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 366
+original = '''
+\c[10]Ansager:\c[0] \s[3]DIE ZINKAR-BRÜDER!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[3]THE ZINKAR BROTHERS!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 367
+original = '''
+\c[10]Ansager:\c[0] Diese Truppe ist wahrhaftig schnell nach 
+oben gekommen!\. Mit ihrer außergewöhnlichen 
+Teamarbeit haben sie es weit gebracht! 
+'''
+patched = '''
+\c[10]Announcer\c[0]: This group really rose through the
+ranks quickly!\. With their extraordinary teamwork,
+they were able to make it this far!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 370
+original = '''
+\c[10]Ansager:\c[0] Mit Dolch, Klaue und Kampfstab haben sie 
+schon vielen Gegnern eine Lektion erteilt! 
+'''
+patched = '''
+\c[10]Announcer\c[0]: With some daggers, a claw, and a
+fighting stick, they've already taught many
+opponents a lesson they won't forget!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 382
+original = '''
+\c[10]Ansager:\c[0] \s[3]DIE PAUAMAINER-VETERANEN!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[3]THE PAUAMAINER VETERANS!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 383
+original = '''
+\c[10]Ansager:\c[0] Schon viele Gegner sind an ihrer 
+tödlichen Erzschürftechnik zu Grunde gegangen!\. Und 
+wenn dann noch jemand stand, hat er das Feuer 
+ihrer Dynamitpfeile schlucken müssen!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Many opponents have fallen to their
+deadly ore mining technique!\. And when someone
+still stood, they had the misfortune of being
+barraged by the fire of their dynamite arrows!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 397
+original = '''
+\c[10]Ansager:\c[0] \s[3]DIE CHEF HÖCHSTPERSÖNLICH!
+'''
+patched = '''
+\c[10]Announcer\c[0]: \s[3]THE BOSS HIMSELF!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 399
+original = '''
+\c[10]Ansager:\c[0] Der Anführer der Pauamainer, schon seit 
+Ewigkeiten besetzt er den ersten Rang und er hat 
+nicht vor, ihn abzugeben! 
+'''
+patched = '''
+\c[10]Announcer\c[0]: As the leader of the Pauamainer
+Brotherhood, he has consistently held his
+rank in 1st place for ages and he doesn't
+intend to hand that over anytime soon!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 402
+original = '''
+\c[10]Ansager:\c[0] Und alle, die ihm diesen Platz in Frage 
+stellen, bekommt als Antwort Erdrutsche und 
+Wirbelstürme entgegen gedonnert! Ein weiterer, 
+epischer Kampf steht uns bevor!
+'''
+patched = '''
+\c[10]Announcer\c[0]: And anyone who challenges him gets
+a barrage of thundering strikes and catastrophic
+cyclones in response! Another battle of the ages
+dawns upon us!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 408
+original = '''
+\c[10]Ansager:\c[0] Der Anführer der Pauamainer und längster 
+Ranglistenführer unserer Turniergeschichte.\. Nun 
+wurde er geschlagen und hat seinen ersten Platz 
+verloren.
+'''
+patched = '''
+\c[10]Announcer\c[0]: The leader of the Pauamainer
+Brotherhood and the longest-standing
+leader in the history of our tournament!\.
+He was dethroned from 1st place.
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 412
+original = '''
+\c[10]Ansager:\c[0] Wird er ihn sich wieder zurück erkämpfen 
+können?\. Ein weiterer, großer Kampf steht uns 
+bevor!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Will he be able to reclaim his place at
+the top?\. Another epic battle lies ahead!
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 450
+original = '''
+\c[10]Ansager:\c[0] LASST DEN KAMPF BEGINNEN!
+'''
+patched = '''
+\c[10]Announcer\c[0]: GET READY TO RUMBLE!!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 44
+original = '''
+\c[10]Ansager:\c[0] Die Zinkar-Schlächter schlachten alle 
+Gegner, um ihr finales Opfer zu erreichen!\. Ein 
+weiterer Sieg für sie!
+'''
+patched = '''
+\c[10]Announcer\c[0]: The Zinkar Butchers shall slaughter all
+opponents in order to reach their final target!\.
+Another victory for them!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 49
+original = '''
+\c[10]Ansager:\c[0] Die Zinkar-Schlächter sind ihrem Ziel ein 
+Schritt näher gekommen!\. Ein weiterer Sieg.\. Die 
+Zinkar-Brüder sollten sich bereithalten!
+'''
+patched = '''
+\c[10]Announcer\c[0]: The Zinkar Butchers have come a
+step closer to their goal!\. Another victory.\.
+The Zinkar Brothers better be prepared!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 60
+original = '''
+\c[10]Ansager:\c[0] Die Repsbrot-Truppe erweist sich halt als 
+wirklich harter Brocken!\. An dieser Niederlage 
+werden ihre Gegner noch lange zu kauen haben!
+'''
+patched = '''
+\c[10]Announcer\c[0]: As it turns out, the Sunbread Squad
+is really tough!\. This opponent will have to go
+against the grain to get rid of the bitter
+taste of defeat!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 65
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Oh GOTT...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh GOD...
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 69
+original = '''
+\c[10]Ansager:\c[0] Die Repsbrot-Truppe gewinnt!\. Was für ein 
+Kampf!\. Blut und Schweiß sind geflossen und 
+Repskerne geflogen!
+'''
+patched = '''
+\c[10]Announcer\c[0]: The Sunbread Squad wins!\. What a battle!\.
+They're really making the dough with this one!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 74
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Was für eine Pfeife!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What a loser!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 83
+original = '''
+\c[10]Ansager:\c[0] Der Briganten-Stolz hat gewonnen, wie zu 
+erwarten von unseren Vorbildsgefangenen!
+'''
+patched = '''
+\c[10]Announcer\c[0]: The Brigantine Pride has won, as
+expected from our model prisoners!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 88
+original = '''
+\c[10]Ansager:\c[0] Der Briganten-Stolz hat gewonnen!\. Hab ihr 
+toll gemacht!\. Wir sind alle ganz stolz auf euch.
+'''
+patched = '''
+\c[10]Announcer\c[0]: The Brigantine Pride has won!\. Showed
+'em the Brigantian spirit!\. We're all very proud
+of you.
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 92
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Danke sehr.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Thanks a lot.
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 97
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 104
+original = '''
+\c[10]Ansager:\c[0] Die Verräter sind siegreich! Korzojeno 
+muss es wirklich bereuen, diese fähigen Leute
+verloren zu haben!
+'''
+patched = '''
+\c[10]Announcer\c[0]: The Traitors are victorious!\. Korzojeno
+must really regret losing these capable people!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 109
+original = '''
+\c[10]Ansager:\c[0] Die Verräter haben gewonnen!\.
+Korzojeno scheint ein gutes Gespür bei der Auswahl
+ihrer Spione zu haben!
+'''
+patched = '''
+\c[10]Announcer\c[0]: The Traitors have won! Korzojeno seems
+to have a good grasp when choosing their spies!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 141
+original = '''
+\c[10]Ansager:\c[0] Euer aktueller Rang ist \v[1886]
+'''
+patched = '''
+\c[10]Announcer\c[0]: Your current rank is \v[1886].
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 143
+original = '''
+\c[10]Ansager:\c[0] Wie sieht es aus?\. Seid ihr bereit, es mit 
+einem weiteren Gegner aufzunehmen?
+'''
+patched = '''
+\c[10]Announcer\c[0]: So how about it?\. Are you ready to take
+on another opponent?
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 147
+original = '''
+\c[10]Ansager:\c[0] Ein Hinweis, da ihr neu seid.\. Ihr habt 
+keine Möglichkeit, eure Ausrüstung neu zusammen zu 
+stellen oder aufzustocken und ihr werdet nicht 
+geheilt.
+'''
+patched = '''
+\c[10]Announcer\c[0]: Actually, here's something to note
+since you're new.\. You have no way to change what
+equipment you have or gather any extra equipment
+and we won't heal you up.
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 151
+original = '''
+\c[10]Ansager:\c[0] Ihr könnt euch lediglich mit noch
+vorhandenen Gegenständen heilen und eure Rüstung 
+wechseln, wenn ihr was zum Wechseln habt.
+'''
+patched = '''
+\c[10]Announcer\c[0]: You can only heal yourself with any
+existing items and can only change your equipment
+if you have extras.
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 154
+original = '''
+\c[10]Ansager:\c[0] Also, wollt ihr noch mal kämpfen?
+'''
+patched = '''
+\c[10]Announcer\c[0]: So, do you want to take on another
+opponent?
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 159
+has_portrait = true
+original = '''
+Nochmal kämpfen?
+'''
+patched = '''
+Continue fighting?
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 166
+original = '''
+\c[10]Ansager:\c[0] Unser Sieger ist bereit, es gleich mit 
+einem weiteren Gegner aufzunehmen!\. Applaus für 
+diesen Teilnehmer!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Our winner is ready to take on another
+opponent!\. Let's have a round of applause for this
+team!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 179
+original = '''
+\c[10]Ansager:\c[0] Die Zinkar-Schlächter haben genug für
+heute.\. Morgen ist ein neuer Tag!\. Die Zinkar-Brüder 
+werden schließlich nicht wegrennen!
+'''
+patched = '''
+\c[10]Announcer\c[0]: The Zinkar Butchers have had enough for
+today.\. Tomorrow's a new day!\. The Zinkar Brothers
+can't run forever!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 186
+original = '''
+\c[10]Ansager:\c[0] Die Repsbrot-Truppe hat genug für heute.\.
+Los!\. Ihr könnt euch jetzt \c[11]verkrümmeln\c[0]!
+'''
+patched = '''
+\c[10]Announcer\c[0]: The Sunbread Squad has had enough for
+today.\. Seems like they weren't completely baked
+after all!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 190
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ARGS!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: ARGH!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 195
+original = '''
+\c[10]Ansager:\c[0] Der Briganten-Stolz hat für heute genug 
+geglänzt.\. Hoffentlich werden wir morgen erneut die 
+Möglichkeit haben, unsere Vorbildgefangenen zu 
+bestaunen!
+'''
+patched = '''
+\c[10]Announcer\c[0]: The Brigantine Pride is done flaunting
+their honor for the day, or lack thereof.\.
+Hopefully, we'll have the opportunity to
+behold our model prisoners again tomorrow!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 202
+original = '''
+\c[10]Ansager:\c[0] Die Verräter haben für heute genug 
+gekämpft.\. Nun können sie zurück in ihre Zellen, wo 
+sie hingehören.
+'''
+patched = '''
+\c[10]Announcer\c[0]: The Traitors have fought enough for
+today.\. Now they'll go back to their cells where
+they belong.
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 207
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: TÖTEN!!!!1
+'''
+patched = '''
+\c[13]\n[3]\c[0]: KILL!!!!1
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 226
+original = '''
+Anmerkung: Dies waren Sokos Gedanken.
+'''
+patched = '''
+Note: These were just Soko's thoughts.
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 247
+original = '''
+\c[10]Ansager:\c[0] Dies war der letzte Kampf der Zinkar-
+Schlächter.\. Morgen ist ein neuer Tag! \.Die Zinkar-
+Brüder werden schließlich nicht wegrennen!
+'''
+patched = '''
+\c[10]Announcer\c[0]: This is the last battle of the day for
+the Zinkar Butchers.\. Tomorrow's a new day!\.
+The Zinkar Brothers can't run forever!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 254
+original = '''
+\c[10]Ansager:\c[0] Für heute war dies der letzte Kampf der 
+Repsbrot-Truppe.\. Los!\. Ihr könnt euch jetzt 
+verkrümmeln!
+'''
+patched = '''
+\c[10]Announcer\c[0]: This is the last battle of the day for
+the Sunbread Squad.\. Seems like they weren't
+completely baked after all!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 259
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ARGS!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: ARGH!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 264
+original = '''
+\c[10]Ansager:\c[0] Dies war der letzte Kampf des Briganten-
+Stolz, für heute.\. Hoffentlich werden wir morgen 
+erneut die Möglichkeit haben, unsere 
+Vorbildgefangenen zu bestaunen!
+'''
+patched = '''
+\c[10]Announcer\c[0]: This is the last time we have to see
+the Brigantine Pride flaunt their honor, or lack
+thereof.\. Hopefully, we'll have the opportunity
+to behold our model prisoners again tomorrow!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 271
+original = '''
+\c[10]Ansager:\c[0] Das war der letzte Kampf der Verräter für 
+heute!\. Nun können sie zurück in ihre Zellen, wo 
+sie hingehören.
+'''
+patched = '''
+\c[10]Announcer\c[0]: This is the last battle of the day for
+the Traitors!\. Now they'll go back to their cells
+where they belong.
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 276
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: TÖTEN!!!!1
+'''
+patched = '''
+\c[13]\n[3]\c[0]: KILL!!!!1
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 295
+original = '''
+Anmerkung: Dies waren Sokos Gedanken.
+'''
+patched = '''
+Note: These were just Soko's thoughts.
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 320
+original = '''
+\c[10]Ansager:\c[0] Die Zinkar-Schlächter haben verloren.\. Was 
+für eine Schande!\. Ob sie so jemals ihren Erzfeind 
+erreichen werden?
+'''
+patched = '''
+\c[10]Announcer\c[0]: The Zinkar Butchers have lost.\.
+What a shame!\. Will they ever reach their
+archenemies like this?
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 327
+original = '''
+\c[10]Ansager:\c[0] Die Repsbrot-Truppe wurde geschlagen. \.
+Tja, Leute wie euch verspeist man hier zum 
+Frühstück!
+'''
+patched = '''
+\c[10]Announcer\c[0]: And just like that, the Sunbread Squad
+is toast!\. Were they just loafing around?
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 332
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ...Autsch!\.
+Und das sag ich nicht wegen 
+irgendwelchen Wunden!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Ouch...\. And I'm not saying that
+just because of some wounds!
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 339
+original = '''
+\c[10]Ansager:\c[0] Unsere Vorbildsgefangenen wurden 
+geschlagen!\. Also wie geht denn so etwas?\.
+Wie sollen wir auf so eine Truppe bitte stolz 
+sein?
+'''
+patched = '''
+\c[10]Announcer\c[0]: Our model prisoners were beaten!\.
+So how about that?\. How are we supposed to
+be proud of such a group?
+'''
+
+[[dialogue]]
+event = 156
+page = 3
+command = 346
+original = '''
+\c[10]Ansager:\c[0] Das war leider nichts!\. Die Verräter 
+wurden geschlagen!\. Ja, so etwas sehen wir gerne!
+'''
+patched = '''
+\c[10]Announcer\c[0]: Unfortunately, they were nothing!\.
+The traitors were beaten!\. Yep, that's exactly
+what we want to see!
+'''
+
+[[dialogue]]
+event = 191
+page = 2
+command = 3
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Oh?\. Ihr seid auch mal hier 
+oben?\. Es ist nett, dass die Wächter 
+den Gefangenen hier soviel Freilauf 
+lassen.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Oh?\. You're up here too?\. It's
+nice that the guards give the
+prisoners here so much free rein.
+'''
+
+[[dialogue]]
+event = 191
+page = 2
+command = 8
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Auch das Turnier ist recht 
+unterhaltsam, wenn auch etwas 
+barbarisch für meinen Geschmack.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: The tournament is also quite
+entertaining, albeit a little
+barbaric for my taste.
+'''
+
+[[dialogue]]
+event = 192
+page = 2
+command = 29
+original = '''
+\c[10]Wächter:\c[0] ALLE GEFANGENEN SOFORT ZURÜCK IN DIE 
+ZELLEN!
+'''
+patched = '''
+\c[10]Guard\c[0]: ALL PRISONERS GET BACK INTO THEIR CELLS
+IMMEDIATELY!
+'''
+
+[[dialogue]]
+event = 192
+page = 2
+command = 153
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Cieoly,\. das war jetzt 
+wirklich nicht nötig.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Cieoly,\. I really didn't need
+that to happen just now.
+'''
+
+[[dialogue]]
+event = 192
+page = 2
+command = 178
+original = '''
+\c[10]Gefangener:\c[0] Oha, was ist das denn?\. Ein schöner 
+funkelnder Stein!\. Neues Diebesgut, har har!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Ooo, what's this?\. A beautiful sparkling
+stone!\. New stolen goods, har har har!
+'''
+
+[[dialogue]]
+event = 192
+page = 2
+command = 200
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Was zum...!\. Gleich zweimal 
+Pech hintereinander.\. So war 
+das sicher nicht geplant.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: What the...\. Bad luck twice in
+a row.\. I definitely didn't plan for
+it to go this way.
+'''
+
+[[dialogue]]
+event = 192
+page = 4
+command = 31
+original = '''
+\c[10]Wächter:\c[0] ALLE GEFANGENEN SOFORT ZURÜCK IN DIE 
+ZELLEN!
+'''
+patched = '''
+\c[10]Guard\c[0]: ALL PRISONERS GET BACK INTO THEIR CELLS
+IMMEDIATELY!
+'''
+
+[[dialogue]]
+event = 192
+page = 4
+command = 72
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: So, Cieoly.\. Du weißt, wo diese
+Nachricht hingeht, richtig?\. Verpatz
+das jetzt bloß nicht. 
+'''
+patched = '''
+\c[5]\n[5]\c[0]: So, Cieoly.\. You know where
+this message is supposed to go,
+right?\. Don't screw this up now.
+'''
+
+[[dialogue]]
+event = 192
+page = 4
+command = 80
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Drück mir die Daumen.\. Wenn
+alles gut geht, gebe ich dir morgen
+etwas Feines zum Naschen.\. 
+Außerhalb dieser Mauern. 
+'''
+patched = '''
+\c[5]\n[5]\c[0]: I'll be keeping my fingers
+crossed.\. If everything goes well,
+I'll give you something nice to snack
+on tomorrow.\. Outside these walls.
+'''
+
+[[text]]
+event = 156
+page = 3
+command = 160
+has_portrait = true
+original = '''Aber immer doch!/Für heute genug.'''
+patched = '''Why of course!/That's enough for today.'''
+
+[[text]]
+event = 156
+page = 3
+command = 161
+has_portrait = true
+original = '''Aber immer doch!'''
+patched = '''Why of course!'''
+
+[[text]]
+event = 156
+page = 3
+command = 176
+original = '''Für heute genug.'''
+patched = '''That's enough for today.'''

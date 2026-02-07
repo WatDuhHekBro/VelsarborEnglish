@@ -1,0 +1,637 @@
+[[dialogue]]
+event = 12
+page = 2
+command = 3
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Mist,\. wo bleiben 
+die jetzt schon wieder...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Crap,\. where are they now...
+'''
+
+[[dialogue]]
+event = 12
+page = 2
+command = 5
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Hey ihr.\. 
+Wenn ihr etwas Zeit hättet, wäre es sehr nett, 
+wenn ihr ein paar bestimmten Leuten sagen 
+würdet, dass ich auf sie warte.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Hey you.\. If you have some
+time, it'd be nice if you told a few specific
+people that I was waiting for them.
+'''
+
+[[dialogue]]
+event = 12
+page = 2
+command = 9
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Würdet ihr das 
+tun?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Could you help me out here?
+'''
+
+[[dialogue]]
+event = 12
+page = 2
+command = 16
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Großartig!\. Also es 
+sind 3 Soldaten, die sich hier im Schloss oder 
+auf dem Hof aufhalten müssten. 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Great!\. So there are three
+soldiers who should be here in the castle or
+in the garden.
+'''
+
+[[dialogue]]
+event = 12
+page = 2
+command = 19
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Einer von ihnen 
+hat \c[11]blaue Haare\c[0],\. den anderen erkennt ihr 
+daran, dass er \c[11]keine anständige Rüstung nach 
+Vorschrift\c[0] trägt, also so wie ihr...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: One of them has \c[11]blue hair\c[0],\.
+another you can tell by the fact that he \c[11]doesn't
+wear the proper armor according to the
+regulations\c[0], like you...
+'''
+
+[[dialogue]]
+event = 12
+page = 2
+command = 23
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Und der 3. ...\. Na 
+ja...\. den werdet ihr sicher nicht so leicht 
+finden.\. \c[11]Er versteckt sich nämlich gerne, um 
+sich vor dem Training zu drücken.\c[0]
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: And the third...\. Well...\.
+You certainly won't find him that easily.\.
+\c[11]He likes to hide to avoid training.\c[0]
+'''
+
+[[dialogue]]
+event = 12
+page = 2
+command = 27
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Haltet also die 
+Augen offen.\. Ich würde das Ganze ja gerne selbst 
+machen, aber wenn jemand hier auftaucht, wie 
+abgesprochen, und ich wäre dann weg, na ja...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: So keep your eyes open.\.
+I'd like to do the whole thing myself, but
+if someone shows up here as agreed and I'm
+gone, well...
+'''
+
+[[dialogue]]
+event = 12
+page = 2
+command = 31
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Dadurch würde 
+alles nur durcheinander geraten...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: This would only
+lead to confusion...
+'''
+
+[[dialogue]]
+event = 12
+page = 2
+command = 33
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wenn ihr alle 
+gefunden habt, werdet ihr uns wahrscheinlich 
+unten im \c[11]Inn von Nomerea\c[0] finden. 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: If you've found them all,
+you'll probably find us down in the \c[11]inn of
+Nomerea\c[0].
+'''
+
+[[dialogue]]
+event = 12
+page = 2
+command = 36
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Jo,\. dann viel 
+Erfolg beim Suchen.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Alright then,\. good luck
+with your search.
+'''
+
+[[dialogue]]
+event = 12
+page = 2
+command = 42
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Hm, na ja auch 
+egal.\. Dann muss ich hier wohl weiter warten...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Hm, well, it doesn't matter.\.
+I just have to wait here...
+'''
+
+[[dialogue]]
+event = 12
+page = 3
+command = 3
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Bisher habt ihr 
+noch keinen gefunden?\. Irgendwo müssen sie 
+doch stecken.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: You haven't found any of
+them yet?\. They have to be somewhere.
+'''
+
+[[dialogue]]
+event = 12
+page = 3
+command = 9
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Gut.\.
+Nur zwei meiner Kollegen fehlen noch.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Good.\. Only two
+of my colleagues are still missing.
+'''
+
+[[dialogue]]
+event = 12
+page = 3
+command = 14
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Klasse, jetzt fehlt 
+nur noch einer.\. Aber langsam müssen wir auch 
+los.\. Beeilt euch also.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Nice, now only one is missing.\.
+But we have to go soon.\. So hurry up.
+'''
+
+[[dialogue]]
+event = 12
+page = 3
+command = 20
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Der Typ mit den 
+\c[11]blauen Haaren\c[0]...\. ich weiß nicht wo er hier im 
+Schloss sein könnte. Aber er ist der \c[11]einzige mit 
+blauen Haaren\c[0], soweit ich weiß.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: The guy with the \c[11]blue
+hair\c[0]...\. I don't know where he could be in
+the castle. But he's the \c[11]only one with
+blue hair\c[0], as far as I know.
+'''
+
+[[dialogue]]
+event = 12
+page = 3
+command = 27
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Der, der \c[11]keine 
+Rüstung nach Vorschrift hat\c[0], sollte ins Auge 
+fallen. Es gibt nur sehr wenige derzeit, die 
+noch keine richtige Rüstung bekommen haben.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: The one who \c[11]has no armor
+according to the regulations\c[0] should stand out.
+There are very few currently who haven't yet
+received proper armor.
+'''
+
+[[dialogue]]
+event = 12
+page = 3
+command = 34
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Unser Faulenzer, 
+\c[11]der sich immer versteckt\c[0]...\. hm... nun\., soweit 
+ich weiß, sollte er im Moment Training haben. Er 
+müsste sich \c[11]irgendwo auf dem Hof\c[0] verstecken.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: The loafer, \c[11]who is always
+hiding\c[0]...\. Hm... Well,\. as far as I know, he
+should be training at the moment. He should
+be hiding \c[11]somewhere in the garden\c[0].
+'''
+
+[[dialogue]]
+event = 12
+page = 3
+command = 40
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Und vergesst 
+nicht: Wenn ihr alle gefunden habt, werdet ihr 
+uns zusammen im \c[11]Inn dieser Stadt\c[0] finden.\.
+Eine kleine Belohnung wird es auch geben.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: And don't forget:
+If you've found all of them, you'll find
+us together in the \c[11]inn of this city\c[0].\.
+There'll also be a small reward.
+'''
+
+[[dialogue]]
+event = 13
+page = 3
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Hehe, ich freu 
+mich schon auf das Essen im Inn. Das ist 
+wirklich erstklassig, weißt du...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Heh, I'm looking forward
+to eating at the inn. This actually has the
+best food, you know...
+'''
+
+[[dialogue]]
+event = 14
+page = 3
+command = 3
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Mensch, macht mal 
+schnell und findet die anderen.\. Wenn ich hier 
+noch länger warte, sieht mein Vorgesetzter, dass 
+ich mein Training schwänze!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Sir, quickly go find the
+others.\. If I wait any longer here, my supervisor
+will see that I'm skipping my training!
+'''
+
+[[dialogue]]
+event = 15
+page = 3
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Kaum zu glauben, 
+dass alle bis auf einen das Treffen vergessen 
+haben!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: It's hard to believe that
+everyone except me forgot the meeting!
+'''
+
+[[dialogue]]
+event = 16
+page = 1
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Vor wenigen 
+Monaten war der Boden von dieser Eingangshalle 
+noch so gründlich geputzt, dass jeder 5. Soldat 
+auf ihm ausgerutscht ist.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: A few months ago, the floor
+of this entrance hall was cleaned so thoroughly
+that every fifth soldier slipped on it.
+'''
+
+[[dialogue]]
+event = 16
+page = 1
+command = 6
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Irgendwann 
+wurde dagegen was gemacht, als sogar die 
+obersten Herren des Schlosses sich hier 
+flach gelegt haben.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Something had to be done
+about it at some point when even the nobility
+of this castle fell down here.
+'''
+
+[[dialogue]]
+event = 16
+page = 1
+command = 13
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Na ja ich fand' es immer 
+klasse, den Weg hier entlang zu 
+schlittern. 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Well, I always thought it was
+great to slide down the path here.
+'''
+
+[[dialogue]]
+event = 17
+page = 1
+command = 16
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Alles okay, Kumpel?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Are you alright there?
+'''
+
+[[dialogue]]
+event = 17
+page = 1
+command = 18
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja, ja.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yeah yeah.
+'''
+
+[[dialogue]]
+event = 17
+page = 1
+command = 20
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Denk dran, sie wusste von 
+nichts.\. Sie ist halt neu hier.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Remember, she didn't know
+anything.\. She's new here.
+'''
+
+[[dialogue]]
+event = 17
+page = 1
+command = 23
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hm...
+'''
+
+[[dialogue]]
+event = 17
+page = 1
+command = 25
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Aber das is' echt unheimlich, 
+wie gut die aussieht.\. Ich hätte da 
+alles andere erwartet, NUR das nicht.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: But it's really strange how
+good she looks.\. I would've expected
+anyone else, EXCEPT for her.
+'''
+
+[[dialogue]]
+event = 17
+page = 1
+command = 29
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wie alt die wohl ist?\. Ich 
+meine, sie ist eine Signum-Expertin!\.
+Wie kann die so jung sein?\. Na ja...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: How old is she?\. I mean,
+she is a Signum expert after all!\.
+How can she be so young?\. Well...
+'''
+
+[[dialogue]]
+event = 17
+page = 1
+command = 33
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ich sollte mich auch etwas 
+mehr mit diesem Signum- und 
+Element-Kugel-Zeug beschäftigen.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I should also deal a little
+more with this Signum and element
+orb stuff.
+'''
+
+[[dialogue]]
+event = 17
+page = 1
+command = 38
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Vielleicht hab ich dann ne 
+Chance bei ihr. 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Maybe I'll have a chance
+with her then.
+'''
+
+[[dialogue]]
+event = 17
+page = 1
+command = 44
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hehe.\. Du denkst auch immer 
+nur an das gleiche, Cibon.\. 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Heh.\. You just have to think
+about the same thing, Cibon.\.
+'''
+
+[[dialogue]]
+event = 17
+page = 1
+command = 47
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Aber dass du dich mehr mit 
+dem "Signum-Zeug" beschäftigen 
+willst, ist eine sehr gute Idee.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: But wanting to deal more with
+the "Signum stuff" is a good idea.
+'''
+
+[[dialogue]]
+event = 17
+page = 1
+command = 51
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich denke für heute haben 
+wird genug getan, lass uns in unser 
+Quartier gehen und ne Runde 
+schlafen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I think enough has happened
+for today, let's go to our quarters
+and have a nap.
+'''
+
+[[dialogue]]
+event = 17
+page = 1
+command = 56
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Brauchste mal wieder dein 
+Nickerchen, Kumpel?\. Nicht, dass du 
+wieder bis in den Nachmittag hinein 
+pennst.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Need your beauty sleep again?\.
+Don't tell me you're gonna sleep
+again until the afternoon.
+'''
+
+[[dialogue]]
+event = 17
+page = 1
+command = 61
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich gebe da mal lieber keine 
+Garantie ab.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I prefer not to guarantee
+anything.
+'''
+
+[[dialogue]]
+event = 17
+page = 4
+command = 21
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hui, gleich heute geht's los. 
+Wir sollten nicht mehr soviel  
+rumtrödeln, Kumpel
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Phew, we're off today.
+We shouldn't sit around
+that much anymore.
+'''
+
+[[dialogue]]
+event = 17
+page = 4
+command = 25
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ganz langsam.\. Bevor ich 
+irgendetwas Anderes mache gehe ich 
+erstmal zur Kantine und esse mich 
+endlich satt.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Slow down now.\. Before I do
+anything else, I'm going to the
+canteen and finally eat my meal.
+'''
+
+[[dialogue]]
+event = 17
+page = 4
+command = 30
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Na gut, mach das.\. Aber lass 
+dir nicht zuviel Zeit.\. Ich warte 
+dann in unserem Schlafraum.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Alright, do that.\. But don't
+take too much time.\. I'll be
+waiting in our bedroom.
+'''
+
+[[text]]
+event = 12
+page = 2
+command = 13
+has_portrait = true
+original = '''Ja, wieso nicht/Nein, wir haben keine Zeit dafür'''
+patched = '''Sure, why not./No, we don't have any time for that.'''
+
+[[text]]
+event = 12
+page = 2
+command = 14
+has_portrait = true
+original = '''Ja, wieso nicht'''
+patched = '''Sure, why not.'''
+
+[[text]]
+event = 12
+page = 2
+command = 40
+original = '''Nein, wir haben keine Zeit dafür'''
+patched = '''No, we don't have any time for that.'''

@@ -1,0 +1,56 @@
+[[dialogue]]
+event = 43
+page = 2
+command = 3
+original = '''
+\c[10]Wache\c[0]: Ah, das Holz... das Holz...\. wie lange wird 
+es noch halten...\. Ehm...\. HEY!\. Ihr seid immer noch 
+hier?!\. Ihr solltet bereits längst wieder an der 
+Oberfläche sein. 
+'''
+patched = '''
+\c[10]Guard\c[0]: The wood...\. The wood...\. How long will it
+last...\. Um...\. HEY!\. Why are you still here?!\. You
+should've been back on the surface long ago.
+'''
+
+[[dialogue]]
+event = 43
+page = 2
+command = 7
+original = '''
+\c[10]Wache\c[0]: Wollt ihr hier unten bei den Monstern 
+verrotten?\. Geht von hier aus nach Süden, um wieder 
+ans Tageslicht zu kommen.
+'''
+patched = '''
+\c[10]Guard\c[0]: Do you want to rot down here with the
+monsters?\. Go south of here to get back to the sun.
+'''
+
+[[dialogue]]
+event = 43
+page = 2
+command = 12
+original = '''
+\c[10]Wache\c[0]: Hm...\. das Holzgerüst müsste hier mal wieder 
+erneuert werden...\. sieht schon ziemlich brüchig 
+aus.
+'''
+patched = '''
+\c[10]Guard\c[0]: Hm...\. The wooden scaffolding will have to
+be replaced here again...\. Looks pretty unstable.
+'''
+
+[[dialogue]]
+event = 43
+page = 2
+command = 16
+original = '''
+\c[10]Wache\c[0]: Hey!\. Was habt ihr hier eigentlich zu 
+suchen?\. Zurück mit euch zu den anderen Arbeitern!
+'''
+patched = '''
+\c[10]Guard\c[0]: Hey!\. What are you doing here?\.
+Get yourselves back to the other workers!
+'''

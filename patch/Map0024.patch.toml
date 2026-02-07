@@ -1,0 +1,52 @@
+[[dialogue]]
+event = 6
+page = 1
+command = 12
+original = '''
+\c[10]Mann\c[0]: Ohhh, Hallo! ... Was machen Sie denn 
+hier?
+'''
+patched = '''
+\c[10]Man\c[0]: Whoa, hey there! What are you doing here?
+'''
+
+[[dialogue]]
+event = 6
+page = 1
+command = 16
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wieso schauen Sie die ganze 
+Zeit aus dem Fenster?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Why are you looking out
+the window all the time?
+'''
+
+[[dialogue]]
+event = 6
+page = 1
+command = 19
+original = '''
+\c[10]Mann\c[0]: Wieso schon?\. Ich schaue mir die Stadt 
+an, weil ich sonst nichts zu tun habe...
+'''
+patched = '''
+\c[10]Man\c[0]: Why?\. I'm looking at the city
+because I have nothing else to do...
+'''
+
+[[dialogue]]
+event = 6
+page = 1
+command = 23
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Verstehe... ... 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I see...
+'''

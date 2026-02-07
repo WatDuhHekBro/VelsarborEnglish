@@ -1,0 +1,892 @@
+[[dialogue]]
+event = 37
+page = 1
+command = 2
+original = '''
+\c[10]Händler\c[0]: Holen Sie sich den Habilisring und jeder 
+Gegner wird es sich zweimal überlegen bevor er Sie 
+angreift! Wieso? Weil Sie mit Sicherheit zurück 
+schlagen werden!
+'''
+patched = '''
+\c[10]Trader\c[0]: Get this habilis ring and every opponent
+will think twice before attacking you! How, you
+might ask? Because you'll definitely strike back!
+'''
+
+[[dialogue]]
+event = 106
+page = 2
+command = 8
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Verschlossen.\. Kein Wunder, 
+bei der Uhrzeit.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Locked.\. No wonder, considering
+the time of day.
+'''
+
+[[dialogue]]
+event = 107
+page = 2
+command = 8
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Verschlossen.\. Kein Wunder, 
+bei der Uhrzeit.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Locked.\. No wonder, considering
+the time of day.
+'''
+
+[[dialogue]]
+event = 108
+page = 2
+command = 8
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Verschlossen.\. Kein Wunder, 
+bei der Uhrzeit.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Locked.\. No wonder, considering
+the time of day.
+'''
+
+[[dialogue]]
+event = 122
+page = 2
+command = 3
+original = '''
+\c[10]Frau\c[0]: Morgen werde ich noch mal Flajo-Früchte in 
+Nord-Gencorin kaufen, solange sie noch welche 
+haben.
+'''
+patched = '''
+\c[10]Woman\c[0]: Tomorrow, I'll buy some flajo fruits in
+North Gencorin again while they still have
+them in stock.
+'''
+
+[[dialogue]]
+event = 122
+page = 2
+command = 9
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Müssen eigentlich alle 
+Bewohner des Dorfes bei jeder 
+Überschreitung der Grenze sich diese 
+Regeln anhören und all den Kram?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Does everyone here have to
+listen to these rules and all the
+stuff every time they cross the
+border?
+'''
+
+[[dialogue]]
+event = 122
+page = 2
+command = 14
+original = '''
+\c[10]Frau\c[0]: Hehe, nein, jeder Bewohner von Gencorin hat 
+einen Pass mit dem er ohne große Kompromisse über 
+die Grenze hinaus kann, solange er Gencorin nicht 
+verlässt und vor Abenddämmerung wieder zurück ist.
+'''
+patched = '''
+\c[10]Woman\c[0]: Hehe, no, every Gencorin resident has a
+pass which lets them cross the border without the
+hassle, as long as that person doesn't leave the
+other side of Gencorin and is back before dusk.
+'''
+
+[[dialogue]]
+event = 122
+page = 2
+command = 20
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: So ist das also...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: So that's it then...
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 2
+original = '''
+\c[10]Rothaariges Mädchen\c[0]: Du wirst nicht glauben, wen 
+ich Gestern wieder gesehen habe! 
+'''
+patched = '''
+\c[10]Red-Haired Girl\c[0]: You won't believe who I saw
+again yesterday!
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 5
+original = '''
+\c[10]Blondes Mädchen\c[0]: Wen,\. wen,\. WEN?
+'''
+patched = '''
+\c[10]Blonde Girl\c[0]: Who,\. who,\. who?
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 6
+original = '''
+\c[10]Rothaariges Mädchen\c[0]: Ihn...\. du weißt schon,\. der 
+auch vorgestern hier war...!
+'''
+patched = '''
+\c[10]Red-Haired Girl\c[0]: Him...\. You know,\. the guy who was
+here the day before yesterday!
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 8
+original = '''
+\c[10]Blondes Mädchen\c[0]: Nein!\. Hast du ihn angesprochen?
+'''
+patched = '''
+\c[10]Blonde Girl\c[0]: No way!\. Did you talk to him?
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 10
+original = '''
+\c[10]Rothaariges Mädchen\c[0]: Nein...\. ich konnte keinen 
+Schritt machen,\. ich war wie erstarrt...\. aber...\. er 
+hat mich angeschaut!
+'''
+patched = '''
+\c[10]Red-Haired Girl\c[0]: No...\. I couldn't take a step,\.
+I was frozen...\. but...\. he looked at me!
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 13
+original = '''
+\c[10]Blondes Mädchen\c[0]: Wie?\. Wie hat er dich angeschaut?
+'''
+patched = '''
+\c[10]Blonde Girl\c[0]: How?\. How did he look at you?
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 14
+original = '''
+\c[10]Rothaariges Mädchen\c[0]: Angelächelt hat er mich!\. Ich 
+glaub ich bin richtig rot geworden...
+'''
+patched = '''
+\c[10]Red-Haired Girl\c[0]: He smiled at me!\.
+I think I blushed...
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 16
+original = '''
+\c[10]Blondes Mädchen\c[0]: Ohh...\. wie peinlich...\.
+Aber ich glaube mir wäre es nicht anders ergangen.\.
+Der Typ ist ja ein Traum.
+'''
+patched = '''
+\c[10]Blonde Girl\c[0]: Ohh...\. How embarrassing...\. But
+I don't think I would've been any different.\.
+The guy is so dreamy.
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 19
+original = '''
+\c[10]Rothaariges Mädchen\c[0]: Ja, da kann höchstens 
+Melanus Aureeus noch mithalten.
+'''
+patched = '''
+\c[10]Red-Haired Girl\c[0]: Yeah, at most we can only keep
+up with Melanus Aureeus.
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 21
+original = '''
+\c[10]Blondes Mädchen\c[0]: Hoffentlich wird er hier noch 
+öfter vorbeikommen...
+'''
+patched = '''
+\c[10]Blonde Girl\c[0]: Hopefully he'll come over here more
+often...
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 27
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Von wem reden die da?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Who are they talking about?
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 29
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Mit Sicherheit nicht von dir.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Certainly not about you.
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 31
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Oh... Melanus Aureeus... 
+Den Namen hab ich schon mal gehört, 
+glaube ich...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Oh... Melanus Aureeus... I've
+heard the name before somewhere,
+I think...
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 37
+original = '''
+\c[10]Rothaariges Mädchen\c[0]: WAS?!\. Ihr wisst nicht wer 
+Melanus Aureeus ist?!\. In welchem Loch habt 
+ihr bitte bis heute gelebt?
+'''
+patched = '''
+\c[10]Red-Haired Girl\c[0]: WHAT?!\. You don't know who
+Melanus Aureeus is?!\. What kind of rock have
+you been living under all these years?
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 40
+original = '''
+\c[10]Blondes Mädchen\c[0]: Melanus ist der Traummann 
+schlecht hin!\. Ein Mitglied des farenischen 
+Adelbundes!\. Ein richtiger Gentleman!\. Und glaube 
+mir: Jede Frau, die ihn kennt, denkt so!
+'''
+patched = '''
+\c[10]Blonde Girl\c[0]: Melanus is the dream man everyone's
+going crazy for!\. A member of the Farenian
+Aristocracy!\. A real gentleman!\. And trust me:
+Every woman who knows him thinks that way!
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 46
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Oho, ja, Wahnsinn.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Tsk,\. \s[5]sure...\s[0]\. Madness.
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 48
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Muss toll sein, wenn man so 
+von allen Frauen des Landes verehrt 
+wird, oder Cibon?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Would be nice if you were
+worshipped like this by all the
+women in the country, ain't
+that right, Cibon?
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 52
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Pah, keine Kunst, wenn man 
+das Geld hat.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Pfft, there's no art if it's
+all about the money.
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 55
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Da ist jemand neidisch...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Someone's jealous...
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 57
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ich?\. Wo denkste hin!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Me?\. Shut up already!
+'''
+
+[[dialogue]]
+event = 126
+page = 1
+command = 2
+original = '''
+\c[10]Händlerin\c[0]: Haben Sie es auch satt ständig vom 
+Gegner eingeschläfert zu werden?\. Dann ist das 
+Windsiegel genau das richtige für Sie!
+'''
+patched = '''
+\c[10]Trader\c[0]: Are you tired of constantly being put to
+sleep by your opponents?\. Heh.\. Then this wind seal
+is just for you!
+'''
+
+[[dialogue]]
+event = 127
+page = 1
+command = 2
+original = '''
+\c[10]Händlerin\c[0]: Kaufen Sie Pfeffer aus dem Süden um 
+ihrem Gerichten das gewisse Extra zu geben!
+'''
+patched = '''
+\c[10]Trader\c[0]: Buy southern pepper to give your dishes
+that extra something!
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 2
+original = '''
+\c[10]Mann\c[0]: In letzter Zeit wurden hier zunehmen 
+Soldaten in der Nähe der Grenze gesichtet.\. Ob die 
+vom farenischen Adelsbund geschickt wurden?
+'''
+patched = '''
+\c[10]Man\c[0]: Lately, soldiers have been spotted near the
+border.\. Did they come from the Farenian
+Aristocracy?
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 5
+original = '''
+\c[10]Mann\c[0]: Seit Ende des Krieges sieht man selten 
+Soldaten durchs Land streifen, angesehen von den 
+wenigen an der Grenze.
+'''
+patched = '''
+\c[10]Man\c[0]: Ever since the end of the war, soldiers have
+rarely been seen roaming the country and have
+mostly been seen by the few at the border.
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 8
+original = '''
+\c[10]Mann\c[0]: Hoffentlich macht der farenische Adelsbund 
+nichts Unüberlegtes.\. Es ist zwar schon schlimm, 
+was Brigantia angestellt hat, aber ich möchte 
+keinen zweiten Krieg erleben.\. Alles nur das nicht
+'''
+patched = '''
+\c[10]Man\c[0]: Hopefully, the Farenian Aristocratic League
+doesn't do anything impulsive.\. It's bad enough
+what Brigantia did to us, but I don't want to
+experience a second war.\. None of that stuff.
+'''
+
+[[dialogue]]
+event = 130
+page = 2
+command = 2
+original = '''
+\c[10]Mann\c[0]: Die verdammten Wölfe. Wart ihr schon mal im 
+Silvanwald?\. Seit auf jeden fall vorbereitet, denn 
+die Wölfe die dort rumwütend werden zunehmen 
+aggressiver.\. Und es werden immer mehr.
+'''
+patched = '''
+\c[10]Man\c[0]: Those damn wolves.\. Have you ever been to the
+Silvan Forest?\. Be prepared in any case, because
+the wolves that get angry there are becoming more
+aggressive.\. And there are more and more of them.
+'''
+
+[[dialogue]]
+event = 130
+page = 2
+command = 6
+original = '''
+\c[10]Mann\c[0]: Wenn man nicht bald was gegen diese Plage 
+tut gewinnt sie an Überhand.\. Dann kann man die 
+Forstwirtschaft in der Gegend vergessen.
+'''
+patched = '''
+\c[10]Man\c[0]: If we don't do something about these pests
+soon, they'll gain the upper hand.\. Then we can
+just forget about our lumber prospects in the
+area.
+'''
+
+[[dialogue]]
+event = 131
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten die Stadt jetzt 
+besser nicht verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We better not leave the city
+right now.
+'''
+
+[[dialogue]]
+event = 131
+page = 3
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es wäre zu unsicher, jetzt 
+die Stadt jenseits der Grenze zu 
+verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It'd be too dangerous to leave
+the city across the border now.
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten die Stadt jetzt 
+besser nicht verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We better not leave the city
+right now.
+'''
+
+[[dialogue]]
+event = 132
+page = 3
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es wäre zu unsicher, jetzt 
+die Stadt jenseits der Grenze zu 
+verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It'd be too dangerous to leave
+the city across the border now.
+'''
+
+[[dialogue]]
+event = 133
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten die Stadt jetzt 
+besser nicht verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We better not leave the city
+right now.
+'''
+
+[[dialogue]]
+event = 133
+page = 3
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es wäre zu unsicher, jetzt 
+die Stadt jenseits der Grenze zu 
+verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It'd be too dangerous to leave
+the city across the border now.
+'''
+
+[[dialogue]]
+event = 134
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten die Stadt jetzt 
+besser nicht verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We better not leave the city
+right now.
+'''
+
+[[dialogue]]
+event = 134
+page = 3
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es wäre zu unsicher, jetzt 
+die Stadt jenseits der Grenze zu 
+verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It'd be too dangerous to leave
+the city across the border now.
+'''
+
+[[dialogue]]
+event = 135
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten die Stadt jetzt 
+besser nicht verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We better not leave the city
+right now.
+'''
+
+[[dialogue]]
+event = 135
+page = 3
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es wäre zu unsicher, jetzt 
+die Stadt jenseits der Grenze zu 
+verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It'd be too dangerous to leave
+the city across the border now.
+'''
+
+[[dialogue]]
+event = 136
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten die Stadt jetzt 
+besser nicht verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We better not leave the city
+right now.
+'''
+
+[[dialogue]]
+event = 136
+page = 3
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es wäre zu unsicher, jetzt 
+die Stadt jenseits der Grenze zu 
+verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It'd be too dangerous to leave
+the city across the border now.
+'''
+
+[[dialogue]]
+event = 137
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten die Stadt jetzt 
+besser nicht verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We better not leave the city
+right now.
+'''
+
+[[dialogue]]
+event = 137
+page = 3
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es wäre zu unsicher, jetzt 
+die Stadt jenseits der Grenze zu 
+verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It'd be too dangerous to leave
+the city across the border now.
+'''
+
+[[dialogue]]
+event = 138
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten die Stadt jetzt 
+besser nicht verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We better not leave the city
+right now.
+'''
+
+[[dialogue]]
+event = 138
+page = 3
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es wäre zu unsicher, jetzt 
+die Stadt jenseits der Grenze zu 
+verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It'd be too dangerous to leave
+the city across the border now.
+'''
+
+[[dialogue]]
+event = 139
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten die Stadt jetzt 
+besser nicht verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We better not leave the city
+right now.
+'''
+
+[[dialogue]]
+event = 139
+page = 3
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es wäre zu unsicher, jetzt 
+die Stadt jenseits der Grenze zu 
+verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It'd be too dangerous to leave
+the city across the border now.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten die Stadt jetzt 
+besser nicht verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We better not leave the city
+right now.
+'''
+
+[[dialogue]]
+event = 140
+page = 3
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es wäre zu unsicher, jetzt 
+die Stadt jenseits der Grenze zu 
+verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It'd be too dangerous to leave
+the city across the border now.
+'''
+
+[[dialogue]]
+event = 155
+page = 1
+command = 26
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wir...\. wir haben es 
+geschafft...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We...\. We made it...
+'''
+
+[[dialogue]]
+event = 155
+page = 1
+command = 29
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Das war wirklich knapp.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: That was really close.
+'''
+
+[[dialogue]]
+event = 155
+page = 1
+command = 32
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir dürfen keine Zeit 
+verschwenden.\. Sofort zur Grenze!\. Wir 
+müssen den Wachleuten bescheid 
+geben.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We can't waste time.\. To the
+border,\. immediately!\. We have to let
+the guards know about what we found.
+'''
+
+[[dialogue]]
+event = 160
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten die Stadt jetzt 
+besser nicht verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We better not leave the city
+right now.
+'''
+
+[[dialogue]]
+event = 160
+page = 3
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es wäre zu unsicher, jetzt 
+die Stadt jenseits der Grenze zu 
+verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It'd be too dangerous to leave
+the city across the border now.
+'''

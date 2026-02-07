@@ -1,0 +1,696 @@
+[[dialogue]]
+event = 38
+page = 1
+command = 2
+original = '''
+\c[10]Händler\c[0]: Der Wasserring schützt Sie vor Wasser-
+Attacken aller Art.\. Sie sehen mir wie ein 
+Kämpfer aus.\. Sie könnten so etwas sicherlich 
+gut gebrauchen!
+'''
+patched = '''
+\c[10]Trader\c[0]: This water ring protects you from water
+attacks of all kinds.\. You look like a fighter
+to me.\. You could certainly use something
+like this!
+'''
+
+[[dialogue]]
+event = 122
+page = 1
+command = 2
+original = '''
+\c[10]Händlerin\c[0]: Ich habe hier Salz anzubieten. Salz 
+kann man immer gebrauchen. 
+'''
+patched = '''
+\c[10]Trader\c[0]: I have some salt to offer here.
+You can always use salt.
+'''
+
+[[dialogue]]
+event = 123
+page = 1
+command = 2
+original = '''
+\c[10]Händlerin\c[0]: Wollen Sie vielleicht einen edlen 
+Bronzetaler? Sie sind heiß begehrte Handels-
+Gegenstände!
+'''
+patched = '''
+\c[10]Trader\c[0]: Maybe you want a fine bronze ingot?
+They're highly sought-after tradables!
+'''
+
+[[dialogue]]
+event = 125
+page = 1
+command = 2
+original = '''
+\c[10]Händler\c[0]: Dieser Silkenreif wird Sie vor 
+Vergiftung schützen! Äußerst praktisch, etwa 
+gegen Grünschleim.
+'''
+patched = '''
+\c[10]Trader\c[0]: This silk wrap will protect you from
+getting poisoned! It's extremely practical
+against green slimes for example.
+'''
+
+[[dialogue]]
+event = 126
+page = 1
+command = 2
+original = '''
+\c[10]Händler\c[0]: Wenn Sie das Lichtsiegel tragen, wird 
+Sie so schnell keiner mehr verblenden. 
+'''
+patched = '''
+\c[10]Trader\c[0]: If you wear this light seal,
+no one can blind you anymore.
+'''
+
+[[dialogue]]
+event = 128
+page = 1
+command = 2
+original = '''
+\c[10]Mann\c[0]: Dieses Haus ist zurzeit leer.\. Die Besitzer 
+sind vor ein paar Wochen ausgezogen.\. Das Haus
+wurde aber schon verkauft, nur sind die neuen 
+Besitzer noch nicht angekommen.
+'''
+patched = '''
+\c[10]Man\c[0]: This house is currently empty.\. The owners
+moved out a few weeks ago.\. The house has
+already been sold, but the new owners haven't
+yet arrived.
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 2
+original = '''
+\c[10]Händlerin\c[0]: Schauen Sie sich diese großartigen
+Lokri-Knollen an!
+'''
+patched = '''
+\c[10]Trader\c[0]: Check out these great Lokri potatoes!
+'''
+
+[[dialogue]]
+event = 130
+page = 1
+command = 2
+original = '''
+\c[10]Händlerin\c[0]: Der Flügelhelm bietet nicht nur 
+einen höheren Schutz als der Bronzehelm, 
+sondern schützt auch vor Wind-Attacken!
+Na? Was meinen Sie? 
+'''
+patched = '''
+\c[10]Trader\c[0]: This winged helmet not only offers
+greater protection compared to a bronze helmet,
+but also protects against wind attacks!
+So? What will it be? 
+'''
+
+[[dialogue]]
+event = 131
+page = 1
+command = 2
+original = '''
+\c[10]Händler\c[0]: Ich biete hier bestes Salz an, das 
+wirklich jedes Gericht verfeinert!
+'''
+patched = '''
+\c[10]Trader\c[0]: I offer the best salt here that really
+refines every dish!
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 27
+original = '''
+\c[10]Frau Tirunel\c[0]: Cibon, mein Schatz, endlich seh' 
+ich dich wieder.\. Wie geht es dir?
+'''
+patched = '''
+\c[10]Mrs. Tirunel\c[0]: Cibon, honey, I can finally
+see you again.\. How are you?
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 31
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hallo Mama!\. Mir geht's gut.\. 
+Wir sind gerade von unserem 1. 
+Auftrag zurück.\. Es lief alles wie 
+geschmiert!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hi mom!\. I'm good.\. We just
+returned from our first order.\.
+Everything went like clockwork!
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 36
+original = '''
+\c[10]Frau Tirunel\c[0]: Sehr schön...\. Wie machst du dich 
+denn so als Soldat?
+'''
+patched = '''
+\c[10]Mrs. Tirunel\c[0]: Very good...\. How are you doing
+as a soldier?
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 40
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Es läuft sehr gut!\. Ich muss 
+zwar noch viel lernen, aber ich werde 
+mindestens so gut wie mein Vater 
+werden.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: It's going very well!\. I still
+have a lot to learn, but I'll at
+least be as good as my father.
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 45
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 47
+original = '''
+\c[10]Frau Tirunel\c[0]: Kento\., was meinst du denn?\.
+Wie macht sich mein Sohn als Soldat?
+'''
+patched = '''
+\c[10]Mrs. Tirunel\c[0]: Kento,\. what do you think?\.
+How is my son doing as a soldier?
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 52
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: War ja klar!\. Du glaubst mir 
+nicht und musst Kento fragen, ob ich 
+auch keinen Mist erzähle.\. Pah!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh come on!\. You don't believe
+me so you ask Kento if I'm telling
+the truth?\. Pfft!
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 56
+original = '''
+\c[10]Frau Tirunel\c[0]: Nana, Cibon.\. Du hast zu viele
+Lügen-Märchen erzählt als du noch klein warst,\. 
+also kann ich dir nicht einfach so trauen.
+'''
+patched = '''
+\c[10]Mrs. Tirunel\c[0]: Now now, Cibon.\. You've told too
+many tales of lies when you were little,\.
+so I just can't trust you.
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 61
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja, er macht sich wirklich 
+gut.\. Vor allem was das Kämpfen 
+angeht.\. Sein Können mit der Axt wird 
+von Mal zu Mal besser.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yes, he's doing really well.\.
+Especially when it comes to fighting.\.
+His skill with the axe is getting
+better every time.
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 66
+original = '''
+\c[10]Frau Tirunel\c[0]: Das freut mich zu hören.\. Ich bin 
+stolz auf dich, mein Schatz, und dein Vater wäre 
+es ganz sicher auch.
+'''
+patched = '''
+\c[10]Mrs. Tirunel\c[0]: I'm happy to hear that.\. I'm proud
+of you, honey, and your father would certainly
+be too.
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 71
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Danke sehr......
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Thank you very much......
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 74
+has_portrait = true
+character = '''Cibon'''
+original = '''
+(\c[2]\n[2]\c[0]: Pah, da hat sich nichts 
+geändert. Nach wie vor traut sie mir 
+kein Stück.)
+'''
+patched = '''
+(\c[2]\n[2]\c[0]: Pfft, nothing changed.
+She still doesn't trust me.)
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 78
+original = '''
+\c[10]Frau Tirunel\c[0]: Cibon,\. auch wenn du als Soldat 
+beschäftigt bist,\. schau doch bitte öfters bei uns
+zu Hause vorbei,\. wir würden uns wirklich 
+freuen. 
+'''
+patched = '''
+\c[10]Mrs. Tirunel\c[0]: Cibon,\. even though you're a soldier
+now,\. please visit us at home more often,\.
+we'd be really happy.
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 82
+original = '''
+\c[10]Frau Tirunel\c[0]: Und Kento ist als Gast natürlich 
+auch immer gerne gesehen.
+'''
+patched = '''
+\c[10]Mrs. Tirunel\c[0]: And of course,\. Kento is always
+welcome as a guest.
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 86
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Okay, Mama.\. Wir werden 
+euch besuchen kommen,\. versprochen.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Okay, mom.\. We'll come
+visit you,\. I promise.
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 89
+original = '''
+\c[10]Frau Tirunel\c[0]: Erinnere ihn bitte daran, 
+ja, Kento?
+'''
+patched = '''
+\c[10]Mrs. Tirunel\c[0]: Please remind him, okay, Kento?
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 93
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Okay...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Okay...
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 96
+has_portrait = true
+character = '''Cibon'''
+original = '''
+(\c[2]\n[2]\c[0]: Hmpf... Ich glaub's nicht.)
+'''
+patched = '''
+(\c[2]\n[2]\c[0]: Wow... I don't believe it.)
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 108
+original = '''
+\c[10]Frau Tirunel\c[0]: Hallo Kento.\. Schön dich zu sehen.
+\.Wo ist denn Cibon?
+'''
+patched = '''
+\c[10]Mrs. Tirunel\c[0]: Hello Kento.\. Nice to see you.\.
+Where's Cibon?
+'''
+
+[[dialogue]]
+event = 132
+page = 2
+command = 118
+original = '''
+\c[10]Frau Tirunel\c[0]: Denkt daran, dass ihr immer bei 
+uns Willkommen seid.\. Und bringt ruhig Gäste 
+mit, wenn sie gerade dabei sind.\. Bei uns 
+zu Hause ist es immer so leer...
+'''
+patched = '''
+\c[10]Mrs. Tirunel\c[0]: Well,\. remember that you're always
+welcome with us.\. And bring guests with you when
+you're there.\. It's always so empty at home...
+'''
+
+[[dialogue]]
+event = 137
+page = 2
+command = 2
+original = '''
+\c[10]Kleiner Junge\c[0]: So, die Blauperlen habe ich,\. 
+Wasser auch,\. jetzt brauch ich nur noch eine 
+Lokri-Knolle.
+'''
+patched = '''
+\c[10]Little Boy\c[0]: So, I have blue pearls,\. water
+too,\. now all I need is a Lokri potato.
+'''
+
+[[dialogue]]
+event = 137
+page = 2
+command = 7
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm?\. Wofür musst du denn 
+diese Sachen einkaufen?\. Zum 
+Kochen?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hm?\. What do you need to buy
+these things for?\. For cooking?
+'''
+
+[[dialogue]]
+event = 137
+page = 2
+command = 11
+original = '''
+\c[10]Kleiner Junge\c[0]: Kochen?\. Haha, nein, ich möchte 
+eine ultimative Lokri-Knollen-Stinkbombe 
+basteln!\. Das ist ganz einfach.\. Man kocht die 
+Lokri-Knolle mit den Blauperlen in heißem Wasser.
+'''
+patched = '''
+\c[10]Little Boy\c[0]: Cooking?\. Haha, no, I want to
+make the ultimate Lokri potato stink bomb!\.
+It's really easy.\. You cook the Lokri potato
+with the blue pearls in hot water.
+'''
+
+[[dialogue]]
+event = 137
+page = 2
+command = 15
+original = '''
+\c[10]Kleiner Junge\c[0]: Dann tut man das Ergebnis in 
+eine Schüssel mit kaltem Wasser und lässt es 
+ein paar Tage lang stehen.\. Dann beginnt der 
+Prozess der Verfaulung,\. \s[9]hehehehe...
+'''
+patched = '''
+\c[10]Little Boy\c[0]: Then put that in a bowl of cold
+water and let it sit there for a few days.\.
+Then the rotting begins,\. \s[9]hehehehe...
+'''
+
+[[dialogue]]
+event = 137
+page = 2
+command = 22
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ahhh...\. danke,\. ich hab genug 
+gehört.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Ahhh...\. thanks,\.
+I've heard enough.
+'''
+
+[[dialogue]]
+event = 137
+page = 2
+command = 26
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ach ja,\. die Lokri-Knollen-
+Stinkbombe.\. Ein Klassiker.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh yeah,\. the Lokri potato
+stink bomb.\. A classic.
+'''
+
+[[dialogue]]
+event = 138
+page = 2
+command = 2
+original = '''
+\c[10]Junge\c[0]: Hm, Mist.\. Zwei muss ich noch finden. 
+'''
+patched = '''
+\c[10]Boy\c[0]: Hm, crap.\. I still have to find the other two.
+'''
+
+[[dialogue]]
+event = 138
+page = 2
+command = 6
+original = '''
+\c[10]Junge\c[0]: Öhm...\.Guten Tag.\. Haben Sie vielleicht 
+jemanden...\. äh...\. NEIN.\.\s[3] Ich werde nicht 
+schummeln. 
+'''
+patched = '''
+\c[10]Boy\c[0]: Um...\. Good afternoon.\. Maybe you found
+someone...\. Uh...\. NO.\.\s[3] I won't cheat.
+'''
+
+[[dialogue]]
+event = 138
+page = 2
+command = 10
+original = '''
+\c[10]Junge\c[0]: Entschuldigen Sie,\. es ist nichts.
+'''
+patched = '''
+\c[10]Boy\c[0]: Excuse me,\. it's nothing.
+'''
+
+[[dialogue]]
+event = 139
+page = 1
+command = 2
+original = '''
+\c[10]Mädchen\c[0]: Wir spielen jetzt schon die 3. Runde 
+Verstecken und bisher konnte noch niemand 
+Rika finden.\. Sie muss irgendein ultimatives 
+Versteck haben, oder so.
+'''
+patched = '''
+\c[10]Girl\c[0]: We've been playing the third round of
+hide and seek and so far, nobody has been
+able to find Rika.\. She must have some
+ultimate hiding spot or something.
+'''
+
+[[dialogue]]
+event = 147
+page = 1
+command = 2
+original = '''
+\c[10]Junge\c[0]: Nomerea bietet wirklich viele gute 
+Verstecke...\.\s[2] und ich muss natürlich das 
+schlechteste von allen aussuchen.
+'''
+patched = '''
+\c[10]Boy\c[0]: Nomerea really has a lot of good hiding
+spots...\.\s[2] And of course I had to choose
+the worst one of 'em all.
+'''
+
+[[dialogue]]
+event = 148
+page = 1
+command = 3
+original = '''
+\c[10]Frau\c[0]: Wäre nett,\. wenn ihr das Paket recht bald 
+abgeben könntet.
+'''
+patched = '''
+\c[10]Woman\c[0]: Would be nice if you could drop off the
+package soon.
+'''
+
+[[dialogue]]
+event = 148
+page = 1
+command = 11
+original = '''
+\c[10]Frau\c[0]: Hey ihr.\. Würde es euch etwas ausmachen, 
+wenn ihr ein Paket für mich zur Post-Versand-
+Stelle hier in der Nähe bringt? 
+Das Ganze soll nach Buronia gehen.
+'''
+patched = '''
+\c[10]Woman\c[0]: Hey you.\. Would you mind if you brought
+a package to the post office nearby for me?
+The whole thing should go to Buronia.
+'''
+
+[[dialogue]]
+event = 148
+page = 1
+command = 20
+character = '''Fejar'''
+original = '''
+\c[10]Frau\c[0]: Danke! Ich weiß nicht, wie hoch die 
+Gebühren sind, aber 100 \n[19] sollten 
+ausreichen. Ihr dürft behalten, was übrig bleibt.
+'''
+patched = '''
+\c[10]Woman\c[0]: Thanks! I don't know what the fees are,
+but 100 \n[19] should be enough.
+You can keep what's left.
+'''
+
+[[dialogue]]
+event = 148
+page = 1
+command = 40
+original = '''
+\c[10]Frau\c[0]: Ach schade.\. Ich hab keine Lust dort 
+wieder selber hin zu gehen.
+'''
+patched = '''
+\c[10]Woman\c[0]: Oh, that's too bad.\. I have no desire to
+go there myself.
+'''
+
+[[dialogue]]
+event = 148
+page = 1
+command = 44
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Das nenn ich mal Faulheit)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Now that's what I call
+laziness.)
+'''
+
+[[dialogue]]
+event = 149
+page = 1
+command = 2
+original = '''
+\c[10]Mann\c[0]: Hier liegt die Burg von Nomerea.\. 
+Heutzutage dient sie als eine große Kaserne, wo  
+neuen Soldaten des Briganten-Ordens ausgebildet 
+werden.
+'''
+patched = '''
+\c[10]Man\c[0]: Here lies the castle of Nomerea.\. Nowadays,
+it serves as barracks where new soldiers
+of the Brigantine Order are trained.
+'''
+
+[[text]]
+event = 148
+page = 1
+command = 17
+has_portrait = true
+original = '''Das machen wir gerne/Wir haben leider keine Zeit...'''
+patched = '''We'll do that./We don't have the time...'''
+
+[[text]]
+event = 148
+page = 1
+command = 18
+has_portrait = true
+original = '''Das machen wir gerne'''
+patched = '''We'll do that.'''
+
+[[text]]
+event = 148
+page = 1
+command = 38
+original = '''Wir haben leider keine Zeit...'''
+patched = '''We don't have the time...'''

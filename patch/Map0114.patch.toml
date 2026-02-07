@@ -1,0 +1,136 @@
+[[dialogue]]
+event = 7
+page = 1
+command = 11
+original = '''
+
+Dies ist ein \c[11]Speicherpunkt\c[0].
+'''
+patched = '''
+
+This is a \c[11]save point\c[0].
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 13
+original = '''
+
+Wenn man auf solch einen steht, kann man \c[11]den
+Spielstand speichern\c[0].
+'''
+patched = '''
+
+When you stand on one of these, you can
+\c[11]save the game\c[0].
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 16
+original = '''
+
+Öffne dazu das \c[11]Menu\c[0] mit \c[11]Esc\c[0] und wähle
+dann \c[11]Speichern\c[0].
+'''
+patched = '''
+
+To do this, open the \c[11]menu\c[0] using \c[11]Esc\c[0] and
+then select \c[11]Save\c[0].
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 19
+original = '''
+
+Auf der \c[11]Weltkarte\c[0] kann man übigens
+immer speichern.
+'''
+patched = '''
+
+Additionally, you can always save on
+the \c[11]world map\c[0].
+'''
+
+[[dialogue]]
+event = 9
+page = 2
+command = 3
+original = '''
+\c[10]Frau\c[0]: Hier kommen immer recht viele Reisende 
+vorbei, es gibt immer genug zu tun.\. Es ist auch 
+immer interessant zu hören, was die Leute aus 
+all den Gegenden zu erzählen haben. 
+'''
+patched = '''
+\c[10]Woman\c[0]: Travellers from all walks of life pass
+by here, it never gets boring.\. It's always
+interesting to hear the stories people
+from all over have to tell.
+'''
+
+[[dialogue]]
+event = 9
+page = 2
+command = 13
+original = '''
+\c[10]Frau\c[0]: Herrje, ist der Gasthof Gestern voll 
+gewesen...\. Ich hab gehört  der Wanderweg war
+im Torasgebirge an einer Stelle behindert.
+'''
+patched = '''
+\c[10]Woman\c[0]: Jeez, the inn was full yesterday...\.
+I heard the hiking trail was blocked
+at one point in Mount Toras.
+'''
+
+[[dialogue]]
+event = 9
+page = 2
+command = 16
+original = '''
+\c[10]Frau\c[0]: Es kam wohl die geballte Wanderschaft 
+hier her, als das Problem gelöst wurde, nicht 
+wahr?
+'''
+patched = '''
+\c[10]Woman\c[0]: Some wandering travellers came here
+when the problem was solved, right?
+'''
+
+[[dialogue]]
+event = 9
+page = 2
+command = 21
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja, genau so war es.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yep, that's how it went.
+'''
+
+[[dialogue]]
+event = 9
+page = 2
+command = 23
+original = '''
+\c[10]Frau\c[0]: Hoffentlich kommt so was nicht noch 
+öfters vor.\. Es ist mit viel Stress verbunden...
+'''
+patched = '''
+\c[10]Woman\c[0]: Hopefully, something like that doesn't
+happen too often.\. It's rather stressful...
+'''
+
+[[text]]
+event = 7
+page = 1
+command = 4
+original = '''Gasth.Corine'''
+patched = '''Corine Inn'''

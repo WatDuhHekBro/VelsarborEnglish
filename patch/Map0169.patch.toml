@@ -1,0 +1,385 @@
+[[dialogue]]
+event = 24
+page = 2
+command = 24
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: Da seid ihr ja endlich!\. Wurde 
+auch Zeit!
+'''
+patched = '''
+\c[10]Saion\c[0]: There you are at last!\. It's
+about time!
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 27
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hallo ihr drei.\. Habt ihr eure 
+Lektion also noch nicht gelernt?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hello again.\. So you three
+still haven't learned your
+lesson yet?
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 36
+has_portrait = true
+original = '''
+\c[10]Jorn\c[0]: Er da!\. Er hat seine Lektion 
+nicht gelernt und leitet uns gerade 
+in die absolut sichere 
+Gefangenschaft!
+'''
+patched = '''
+\c[10]Jorn\c[0]: HE hasn't!\. He still hasn't
+learned his lesson and is leading
+us into our doom right now!
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 43
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: JORN!
+'''
+patched = '''
+\c[10]Saion\c[0]: JORN!
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 49
+has_portrait = true
+original = '''
+\c[10]Gurim\c[0]: Hey...\. wer ist das da hinten?
+'''
+patched = '''
+\c[10]Gurim\c[0]: Hey...\. Who's that back there?
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 55
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wie...? 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Why...
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 57
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Soko!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Soko!
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 60
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wieso bist du uns gefolgt?\.
+Gegen dich wollen sie gar nicht 
+kämpfen.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Why did you follow us?\. They
+don't want to fight you at all.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 66
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ihr seid witzig.\. Zuerst mir 
+sag'n wie wichtig Zusammenarbeit ist 
+un' dann mich einfach ausschließen?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Tha's funny.\. First, ya tell me
+how important teamwork is and now
+you're jus' excluding me?
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 69
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Und selbst wenn's eure 
+Angelegenheit ist, kann ich ja doch 
+wohl zusehen, oder?\. Ihr habt mich 
+neugierig gemacht.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: And even if it's your fight,
+I can still watch it, right?\.
+You've made me curious.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 74
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Na gut, wenn du nur zusehen 
+willst...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Well, if you just want to
+watch...
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 83
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hey, wenn ich es mir so 
+anschaue...\. Wir sind zu zweit, ihr 
+zu dritt.\. Sie sollte mitkämpfen, 
+sonst ist es unausgeglichen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hey, when I look at it like
+this...\. It's two versus three.\. You
+should come join us, otherwise
+it'd be unbalanced.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 90
+has_portrait = true
+original = '''
+\c[10]Jorn\c[0]: Nein das würde die Sache alles 
+andere als ausgleichen...!
+'''
+patched = '''
+\c[10]Jorn\c[0]: No, that still wouldn't be
+fair!
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 94
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: Ruhig Jorn!\. Natürlich darf 
+sie mitkämpfen.\. Was will schon so 
+ein Weib gegen uns anrichten!
+'''
+patched = '''
+\c[10]Saion\c[0]: Quiet Jorn!\. Of course she can
+fight.\. What is a woman gonna do
+against us anyway!
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 105
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Was sagt ihr da!? 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: What are you saying?!
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 106
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Euch werd ich zeigen, wohin 
+euch eure \.sachsist...\.\. sessist...\.\. 
+eure frauenfeindlichen Vorurteile  
+bringen!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: I'll show you how far that\.
+sehsiss...\.\. sekis...\.\. how far that
+bias will take you!
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 119
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Kumpel, biste sicher, dass 
+das eine gute Idee ist?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Kento, are you sure that's
+a good idea?
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 124
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: Genug geredet!\. Auf ins 
+Gefecht!
+'''
+patched = '''
+\c[10]Saion\c[0]: Enough talking already!\.
+En garde!
+'''
+
+[[dialogue]]
+event = 24
+page = 4
+command = 5
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: Schon wieder versagt, 
+verdammt!
+'''
+patched = '''
+\c[10]Saion\c[0]: Failed again, damn it!
+'''
+
+[[dialogue]]
+event = 24
+page = 4
+command = 11
+has_portrait = true
+original = '''
+\c[10]Jorn\c[0]: Hundert Mal ist uns so etwas 
+schon passiert, jedes Mal ist es auf 
+deinem Mist gewachsen und dennoch 
+machst du es IMMER wieder!
+'''
+patched = '''
+\c[10]Jorn\c[0]: This has been happening to us
+for hundreds of times, you keep
+making dumber decisions every single
+time, and yet you ALWAYS do it again!
+'''
+
+[[dialogue]]
+event = 24
+page = 4
+command = 15
+has_portrait = true
+original = '''
+\c[10]Jorn\c[0]: Wäre mein Beutel so hart wie 
+dein Dickkopf, könnte ich dich damit 
+6 Meter in den Boden rammen - wie 
+einen Nagel durch Butter!
+'''
+patched = '''
+\c[10]Jorn\c[0]: If my bag were as hard as your
+stubborn head, I could use it to ram
+you six meters into the ground,
+like a nail through butter!
+'''
+
+[[dialogue]]
+event = 24
+page = 4
+command = 19
+has_portrait = true
+original = '''
+\c[10]Jorn\c[0]: \s[3]Und ich schwöre, ich würde es 
+tun...!
+'''
+patched = '''
+\c[10]Jorn\c[0]: \s[3]And I swear I'd do it!
+'''
+
+[[dialogue]]
+event = 24
+page = 4
+command = 25
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: S...\.Sei einfach nur leise...
+'''
+patched = '''
+\c[10]Saion\c[0]: J...\. Just be quiet...
+'''
+
+[[dialogue]]
+event = 24
+page = 4
+command = 28
+has_portrait = true
+original = '''
+\c[10]Gurim\c[0]: ...
+'''
+patched = '''
+\c[10]Gurim\c[0]: ...
+'''
+
+[[dialogue]]
+event = 24
+page = 4
+command = 36
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ihr...\. seid wirklich schon 
+ein komischer Verein...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: You three...\. really are
+a weird bunch...
+'''
+
+[[dialogue]]
+event = 24
+page = 4
+command = 43
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...Mir ist schwindelig.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: I feel dizzy...
+'''

@@ -1,0 +1,210 @@
+[[dialogue]]
+event = 8
+page = 1
+command = 15
+original = '''
+\c[10]Wächter\c[0]: Sir Dolaros.\. Glauben Sie nicht, dass Sie 
+zu weit gehen?\. Sie haben den Befehl bekommen, 
+Gewaltakte im Verhör dieser Gefangenen zu 
+Unterlassen...
+'''
+patched = '''
+\c[10]Guard\c[0]: Sir Dolaros!\. Don't you think you're going a
+little bit too far with this?\. You've been ordered
+to refrain from interrogating these prisoners...
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 24
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Ach du meinst diesen 
+Brief? 
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: Oh,\. you mean this letter?
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 27
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Ich halte mich doch 
+zurück.\. Schau,\. wir haben jede Menge 
+Folterinstrumente hier.\. Hab ich 
+davon eines verwendet?
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: I AM holding back.\. Take
+a good look at all the torture devices
+we have here.\. Did I use even a single
+one?
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 33
+original = '''
+\c[10]Wächter\c[0]: Die Faustschläge...
+'''
+patched = '''
+\c[10]Guard\c[0]: But the punches...
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 54
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Meinst du so einen 
+Schlag? 
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: You mean THESE punches?
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 57
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Ich hab hier die 
+Aufgabe, Informationen aus Leuten zu 
+pressen.
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: My job here is to squeeze
+every last bit of information out of
+people.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 61
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Ich weiß nicht, wie 
+sich dieser Vorento das vorstellt, 
+aber ohne etwas Gewalt geht das 
+nicht!
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: I don't know what kind of
+show and tell fairy tale this Vorento
+guy has in mind, but nothing gets done
+without a little violence!
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 70
+original = '''
+\c[10]Wächter\c[0]: ...\. Ganz abgesehen davon...\. Glauben Sie 
+wirklich, dass dieser Kento die Wahrheit erzählt 
+hat?
+'''
+patched = '''
+\c[10]Guard\c[0]: Well,\. besides that...\. Do you really think
+that he told the truth?
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 76
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Sehe ich aus wie ein 
+Gedankenleser?\. Höchstwahrscheinlich 
+hat er vieles erfunden, damit er 
+überhaupt etwas sagen kann.
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: Do I look like a mind
+reader?\. He most likely made up a lot
+of stuff so he could say anything
+at all.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 80
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Der Typ kam mir sowieso 
+ziemlich gerissen vor. Aber wir 
+haben ja noch zwei weitere 
+Gefangene.
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: The guy seemed pretty
+smart anyway. But we still have
+two more prisoners.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 84
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Mit der Zeit werden die 
+Lügen schon auffliegen und wir 
+werden an die Wahrheit kommen.
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: Over time, their lies
+will be exposed and we WILL get
+the truth.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 91
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Gehe jetzt. \.
+Ich möchte meine Ruhe haben.
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: Go now.\. I want to be left
+alone.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 94
+original = '''
+\c[10]Wächter\c[0]: Zu Befehl, Sir.
+'''
+patched = '''
+\c[10]Guard\c[0]: At your command, sir.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 105
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Diese Verhöre werden 
+auch nicht spannender.\. Wie ich 
+dieses Drecksloch hasse. 
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: These interrogations
+aren't going to get any more exciting.\.
+Oh how I hate this dump of a place.
+'''

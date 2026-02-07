@@ -1,0 +1,110 @@
+[[dialogue]]
+event = 27
+page = 2
+command = 13
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Da fällt mir ein... Soko?\. Du 
+hast Kento vorhin mit Vornamen 
+angesprochen!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Come to think of it... Soko?\.
+You addressed Kento by his first name!
+'''
+
+[[dialogue]]
+event = 27
+page = 2
+command = 28
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wie bitte?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Excuse me?
+'''
+
+[[dialogue]]
+event = 27
+page = 2
+command = 30
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ja.\. In dem Moment, wo ein 
+Tentakel der Krake aufgetaucht ist. 
+Da hast du "Kento" gerufen um ihn 
+zu warnen und nicht "Herr Kento".
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Yeah.\. Right when the octopus'
+tentacle popped up. You said "Kento"
+to warn him and not "Mr. Kento".
+'''
+
+[[dialogue]]
+event = 27
+page = 2
+command = 38
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ah...\. nein, nicht wirklich.\. Ich 
+hab nur das "Herr" ausgelassen 
+damit es schneller ging.\. Es sollte nur 
+der Nachname ohne "Herr" sein.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Ah...\. No, not really.\. I just
+left out the "Mr." part because it
+was faster.\. It should've been just
+his last name without "Mr.".
+'''
+
+[[dialogue]]
+event = 27
+page = 2
+command = 43
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Sicher...\. Du kannst dich jetzt 
+rausreden, da du Kentos richtigen 
+Nachnamen nicht kennst.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: \s[7]Suuure...\s[0]\. You're just making
+excuses because you don't know
+Kento's actual last name.
+'''
+
+[[dialogue]]
+event = 27
+page = 2
+command = 47
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Das ist keine Ausrede!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: I'm not making excuses!
+'''
+
+[[dialogue]]
+event = 27
+page = 2
+command = 53
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Oh Mann, langsam wird das 
+albern...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Oh man, this is getting
+quite silly...)
+'''

@@ -1,0 +1,12 @@
+[[dialogue]]
+event = 19
+page = 2
+command = 19
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Schon wieder....
+'''
+patched = '''
+\c[1]\n[1]\c[0]: There it goes again...
+'''

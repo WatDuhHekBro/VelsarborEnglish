@@ -1,0 +1,1836 @@
+[[dialogue]]
+event = 4
+page = 1
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Ich hab gehört, 
+dass man irgendwann recht interessante 
+Haltungs-Signum erlernen können soll.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: I heard that one should
+be able to learn quite interesting Auxiliary
+Signums at some point.
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 5
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Es handelt sich 
+dabei um Zauber, die hauptsächlich einen 
+starken Schutz bieten, oder den Helden sonst 
+unterstützen.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: These are spells that mainly
+offer strong protection or otherwise support
+the party.
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 9
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Zum Beispiel 
+Ferresschild.\. Dieser Zauber soll einen für eine 
+Zeit vor physischen Attacken schützen. ... Wann 
+ich wohl diese Zauber erlernen werde?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: For example, Ferres Shield.\.
+This spell is supposed to protect you from
+physical attacks for a while. When will I
+learn these spells?
+'''
+
+[[dialogue]]
+event = 5
+page = 1
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Alle Signum-
+Techniken verbrauchen MP, Mentalskraft-
+Punkte. 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: All Signum techniques
+use MP, Magic Points.
+'''
+
+[[dialogue]]
+event = 5
+page = 1
+command = 5
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Sind alle MP 
+einmal verbraucht, sind wir nicht mehr fähig, 
+unsere mentalen Kräfte zu bündeln.\. Man kann
+sich halt nicht mehr konzentrieren.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Once all of your MP
+has been used up, you are no longer able
+to use your magic abilities.\. You can't
+channel your magic anymore.
+'''
+
+[[dialogue]]
+event = 5
+page = 1
+command = 9
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Gegenstände wie 
+Mentaltropfen regenerieren da zum Glück eine 
+bestimmte Anzahl von MP.\. Du solltest so was 
+unbedingt mit dir tragen.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Fortunately, items such as
+mana droplets regenerate a certain amount of MP.\.
+You should definitely carry some with you.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 17
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hmm...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hmm...
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 22
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ...Hui!\. Die da vorne sieht ja 
+wirklich scharf aus!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Ooo!\. The one in front looks
+really sharp!
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 26
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Cibon,\. bitte,\. komm nicht 
+wieder auf dumme Gedanken.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Cibon,\. please,\. don't come up
+with stupid thoughts again.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 34
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Guten Tag, verehrte Dame.\.
+Ich sehe Sie hier zum 1. Mal.\. Sind Sie 
+neu hier?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Good afternoon, m'lady.\. I see
+you're here for the first time.\. Are
+you new here?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 41
+has_portrait = true
+original = '''
+\c[6]Junge Dame\c[0]: ...Öh?\. Oh, hallo.\. Sie 
+haben Recht, ich bin neu hier.\. Dürfte 
+ich denn Ihren Namen erfahren?
+'''
+patched = '''
+\c[10]Young Lady\c[0]: Huh?\. Oh hello.\. You're
+right, I'm new here.\. May I get
+your name?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 45
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ich bin Cibon Tirunel und mit 
+wem habe ich das vergnügen?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: The name's Cibon Tirunel and
+who am I having fun with today?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 48
+has_portrait = true
+original = '''
+\c[6]Junge Dame\c[0]: Mein Name ist Ileya 
+Reisato.\. Eigentlich sollten die 
+Soldaten hier wissen, wer ich bin. 
+'''
+patched = '''
+\c[10]Young Lady\c[0]: My name is Ileya Reisato.\.
+The soldiers here should know who I
+am actually.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 55
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ileya...\. öhh...\. etwa...\. 
+Sind Sie die neue Signum-Expertin 
+hier?!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Ileya...\. Uhh...\. About...\. Are
+you the new Signum expert here?!
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 59
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: He he he\., ja\., genauso ist es.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: He he he,\. yeah,\. that's right.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 63
+has_portrait = true
+character = '''Cibon'''
+original = '''
+(\c[2]\n[2]\c[0]: Ach du Schreck!)
+'''
+patched = '''
+(\c[2]\n[2]\c[0]: Oh no!)
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 67
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Öhm...\. das trifft sich sehr gut.\. 
+Mein Freund wollte nämlich mit 
+ihnen sprechen. 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Um...\. Well that's actually
+convenient.\. My friend here wanted
+to talk to you.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 73
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hm?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 75
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Kumpel, diese Dame hier ist 
+Ileya, die Signum-Expertin.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Kento, this lady here is
+Ileya, the Signum expert.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 78
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wie, echt?\. Oha.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Wait, really?\. Alright then.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 85
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Nun, wieso wollten Sie denn 
+mit mir sprechen,\. Herr....
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Well, why did you want to
+speak to me,\. Mister...
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 88
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Kento...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Kento...
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 90
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Herr Kento ...?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Mr. Kento...?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 92
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich wollte Sie fragen, was es 
+mit der Nebenwirkung beim 
+Einkoppeln der Element-Kugeln auf 
+sich hat.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I wanted to ask you what the
+side effect of coupling these
+elemental orbs is.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 97
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Vorento hat die Neben-
+wirkung erwähnt, aber keine Zeit 
+mehr gehabt, es genauer zu erklären. 
+Ich sollte mich an Sie wenden.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Vorento mentioned that there
+was side effect, but didn't have any
+time to explain it in more detail.
+I was told to contact you.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 102
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Ach, wenn das so ist...
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Oh, if that's the case...
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 103
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Die Nebenwirkung ist wie 
+folgt: 
+'''
+patched = '''
+\c[6]\n[6]\c[0]: The side effect is as follows:
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 109
+original = '''
+Willst du die Erläuterung zu der Nebenwirkung 
+mitverfolgen?
+'''
+patched = '''
+Do you want to hear the explanation
+of the side effect?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 118
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Wenn man Elementkugeln 
+in die Waffe koppelt, bekommt 
+dann die Waffe einen Teil der 
+Element-Kraft von der Kugel. 
+'''
+patched = '''
+\c[6]\n[6]\c[0]: If you couple these orbs into
+a weapon, it gets part of the
+element's attribute from
+its orb.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 122
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Koppelt man zum Beispiel 
+nur Feuerkugeln in die Waffe, 
+bekommt die Waffe ein kleines 
+Feuer-Attribut.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: For example, if you only
+couple fire orbs into your weapon,
+it gets a small fire bonus.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 127
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: So bewirkt man bei 
+Feuerempfindlichen Gegnern mehr 
+Schaden, bei Feuer-Resistenten 
+Gegnern weniger Schaden.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: This is how you do more
+damage to fire-sensitive enemies
+and less damage to fire-resistant
+enemies.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 132
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Und wenn man die Kugeln ins 
+Armband koppelt?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: What if you put the orbs in a
+armband?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 135
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: ...In dem Fall wirkt sich das 
+Element auf den Schutz aus.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: In that case, the element
+affects protection.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 137
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Wenn man Wasserkugeln 
+in das Armband gekoppelt hat, bietet 
+das zum Beispiel einen leichten 
+Schutz gegen Wasser-Angriffe.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: For example, if you have water
+orbs coupled into your armband, this
+offers you slight protection against
+water attacks.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 142
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Natürlich steigt der Schutz 
+oder das Schadensattribut, je mehr 
+gleiche Kugeln man in die Waffe oder 
+in das Armband koppelt.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Of course, the protection or
+damage attribute increases the more
+of the same orbs you couple into a
+weapon or armband.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 146
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Man kann auch von jedem 
+Element ein bisschen was haben, 
+aber das ist dann wirklich kaum 
+bemerkbar.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: You can have a little bit of
+every element, but that's really
+hardly noticeable.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 151
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm..\. Das ist interessant.\. Also 
+haben diese Element-Kugeln auch 
+eine direkte Wirkung und dienen 
+nicht nur zum Signum lernen...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hm...\. That's interesting.\. So
+these elemental orbs also have a
+direct effect and are not only used
+to learn Signum techniques...
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 156
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Ja, aber es gibt noch einen 
+Nachteil bei der Schutzwirkung der 
+ins Armband gekoppelten Kugeln.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Yes, but there's another
+disadvantage to the protective effect
+of the orbs coupled into the armband.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 159
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Man wird nämlich gegen das 
+Gegen-Element von dem, was man 
+einkoppelt, empfindlicher.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: You become more sensitive to
+the counter element of what you
+couple in.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 162
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Hat man etwa nur Wasser- 
+kugeln ins Armband gekoppelt, dann  
+ziehen in diesem Fall Feuer- 
+Elementar-Angriffe mehr ab.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: If, for example, you only
+have water orbs coupled into your
+armband, then fire attacks are
+more effective against you.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 167
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Die Gegenelemente sind 
+übrigens Feuer - Wasser, Erde - Wind 
+und Licht - Schatten... Sollte nicht 
+so schwer zu merken sein.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: By the way, the counter
+elements are fire - water,
+earth - wind, and light - shadow...
+Shouldn't be so hard to remember.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 172
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Und zum Schluss noch 
+eine Sache.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: And one last thing.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 174
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Erhöhte Element Level
+führen auch zu erhöhten Statuswerten.
+Die Aufteilung ist dabei wie folgt:
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Increased element levels also
+lead to increased stats. The
+breakdown is as follows:
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 177
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Feuer erhöht Stärke,
+Wasser erhöht Mental,
+Erde erhöht Abwehr,
+Wind erhöht Agilität.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Fire increases strength, water
+increases wisdom, earth increases
+defense, wind increases agility.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 181
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Licht erhöht HP
+und Schatten erhöht MP.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Light increases HP, and shadow
+increases MP.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 193
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Ja\., mehr kann ich dazu nicht 
+sagen.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Yeah,\. that's about it.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 199
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Okay. Vielen Dank für die 
+Information.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Okay. Thanks for the
+information.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 202
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: *gäääähn* 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: *yaaaawn*
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 204
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Seid ihr beiden 
+endlich fertig?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Are you two finally done?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 207
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Herr Kento...\. Ich hätte da mal 
+eine Frage nebenbei.\.
+Ist Kento jetzt ihr Nachname?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Mr. Kento...\. I have a question
+by the way.\. Is Kento your last name?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 211
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Nein, mein Vorname.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: No, my first name.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 213
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Öhm...\. Sind Sie etwa...\.
+Kento Daikon?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Um...\. Do you happen to be...\.
+Kento Daikon?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 216
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...\.\.ja.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...\.yeah.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 218
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: SIE sind also der Sohn von 
+Genyu Daikon?!\. Wahnsinn.\. Ich hätte 
+Sie mir etwas anders vorgestellt.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: So YOU'RE Genyu Daikon's son?!\.
+No way!\. I would've imagined you to be
+someone else.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 221
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Man sagte mir, dass Sie hier 
+ein richtiges Talent sind, fast 
+schon wie der Vater!\. Was...
+'''
+patched = '''
+\c[6]\n[6]\c[0]: I was told that you're a real
+talent around here, almost like your
+father!\. What...
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 227
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: *seufz*
+'''
+patched = '''
+\c[1]\n[1]\c[0]: *sigh*
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 236
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Öh...\. Herr Daikon!\. Was ist los?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Oh...\. Mr. Daikon!\. What's
+happening?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 243
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Lassen Sie ihn!\. ...\. Man merkt 
+wirklich, dass Sie hier neu sind.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Let him be!\. You really don't
+get what's going on,\. do you...
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 248
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: W-Wieso,\. was ist los?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: W-\.Why,\. what's going on?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 250
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Es stimmt,\. dass er der Sohn 
+von Genyu Daikon ist.\.\. Aber er ist 
+alles andere als Stolz darauf.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: It's true that he's the son
+of Genyu Daikon.\.\. But he's anything
+but proud of it.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 255
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Wie bitte?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Excuse me?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 260
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Er hasst seinen Vater.\. Er 
+möchte nicht mit ihm in Verbindung 
+gebracht werden.\. Deswegen erwähnt 
+er auch nie seinen Nachnamen.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: He hates his father.\. He
+doesn't want to be associated
+with him.\. That's why he never
+mentions his last name.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 265
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Aber wieso tut er das?\. 
+Ich meine...\. sein Vater war ein 
+Held. Er war im ganzen Land berühmt.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: But why is he doing this?\.
+I mean...\. his father was a hero.
+He's famous across the country.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 269
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ich weiß es auch nicht genau. 
+Sie können sich ja denken, dass er 
+nicht sehr gerne darüber spricht.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I don't really know either.
+You can imagine that he doesn't like
+to talk about it very much.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 273
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Jedenfalls wissen fast alle 
+hier von seiner Einstellung.\. 
+Kento hat das gleich zu Anfang mehr 
+als deutlich klar gestellt.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Anyways, almost everyone here
+knows about his feelings toward him.\.
+Kento made this very clear from the
+start.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 278
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Das war zu dem Zeitpunkt, wo 
+wir die Ausbildung zum Soldaten 
+begannen. 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: That's when we started our
+training as soldiers.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 282
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Es war die erste Versammlung, 
+wo die Grundregeln der Ausbildung 
+geklärt wurden\....
+'''
+patched = '''
+\c[2]\n[2]\c[0]: It was the first meeting where
+the basic rules of training were
+clarified...
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 12
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: So wurde schnell überall von 
+Kentos Einstellung zu seinem Vater 
+bekannt.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: So Kento's feelings toward
+his father quickly became known
+everywhere.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 17
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Die meisten hielten sich 
+seitdem von Kento fern. Zumindest 
+die nächsten Monate. 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Most just stayed away from
+Kento ever since then. At least
+for the next few months.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 21
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ich glaube ich war einer der 
+Wenigen, die noch normal mit ihm 
+geredet haben.\. Deswegen haben wir 
+uns schnell angefreundet.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I think I was one of the few
+people who still talked to him
+normally.\. That's why we quickly
+became friends.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 26
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ansonsten ist Kento 
+eigentlich ein richtig netter Kerl, 
+nur manchmal ist er ein bisschen 
+komisch drauf.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Otherwise,\. Kento is actually
+a really nice guy, even if he's
+sometimes a little weird.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 34
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Hm...\. Ich verstehe. 
+Sagen sie ihm bitte, dass es mir 
+wirklich Leid tut.\. 
+Ich wusste von all dem nichts.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Hm...\. I see.\. Please tell him
+I'm really sorry.\. I didn't know any
+of this.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 39
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ach, machen sie sich da 
+keinen Kopf drum!\. Er wird ihnen 
+schon verzeihen.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh, don't worry!\.
+He'll forgive you.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 3
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Oh, hallo.\. Öhm...\.
+Haben Sie noch irgendwelche Fragen, 
+was Signum-Zauber angeht?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Oh hello.\. Um...\. Do you have
+any questions about Signum magic?
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 11
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Sie lernen Signum-Zauber, 
+indem Sie Element-Kugeln in die 
+Waffe oder in das Armband koppeln 
+und damit im Kampf Exp erhalten.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: You learn Signum magic by
+coupling elemental orbs into your
+weapon or armband and gaining EXP
+in combat.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 15
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Dadurch geht ein Teil der 
+Erfahrung auf die Level der Elemente 
+ein, zu denen man die passende 
+Kugeln gekoppelt hat.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: This means that part of the
+experience focuses on the level of
+the elements you've coupled to the
+orbs.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 19
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Das Angriff-Level des Elements 
+steigt, wenn man die Kugel in die 
+Waffe koppelt.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: The element's attack level
+increases when you couple the orb
+into a weapon.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 22
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Das Abwehr-Level des 
+Elements steigt, wenn man die Kugel 
+in das Armband koppelt.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: The element's defense level
+increases when you couple the orb
+into an armband.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 25
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Ein Beispiel: Koppeln sie eine 
+Feuerkugel in die Waffe und ein 
+Wasserkugel in das Armband,...
+'''
+patched = '''
+\c[6]\n[6]\c[0]: For example: Couple a fire
+orb into a weapon and a water orb
+into an armband...
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 28
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: ...dann steigt das Feuer-
+Angriff-Level und das Wasser-
+Abwehr-Level.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: ...then the fire attack level
+and the water defense level will
+rise.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 31
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Koppeln Sie mehrere gleiche 
+Kugeln in die Waffe oder in das 
+Armband, stiegt das jeweilige 
+Element-Level natürlich schneller.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: If you couple several orbs of
+the same type into a weapon or into
+an armband, the respective element
+level will of course rise faster.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 38
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Beachten Sie, dass die 
+Anzahl der Exp, die Sie für ein 
+Element-Level bekommen, nicht von 
+dem Element-Level selber abhängt.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Be aware that the amount of
+EXP you get for an element level
+doesn't depend on the element
+level itself.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 42
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Die Anzahl der Exp, die Sie 
+erhalten richten sich immer an das 
+Level des Charakters im Vergleich 
+zum Level der Gegner.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: The amount of EXP you receive
+is always based on the level of the
+character along with the level of
+the opponents.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 46
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Das heißt, mit steigendem 
+Charakter-Level bekommen Sie 
+immer weniger Exp.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: That means that as your
+character level increases, you
+gain less and less EXP.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 49
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Wenn Sie also ohne Element-
+Kugeln in der Ausrüstung kämpfen, 
+haben die EXP keine Wirkung auf die 
+Element-Level.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: So if you fight without
+elemental orbs in the equipment,
+the EXP has no effect on the
+element level.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 53
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Und trotzdem bekommen Sie 
+immer weniger Exp, wenn das 
+Charakter-Level steigt.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: And you still get less EXP
+when the character level increases.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 56
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Sie sollten also möglichst 
+immer so viele Element-Kugeln 
+eingekoppelt haben wie möglich.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: So you should always have as
+many elemental orbs coupled in as
+possible.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 59
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Achten Sie auch darauf, das ein 
+Element-Level nicht mehr steigt, 
+wenn es genauso hoch wie das 
+Charakter-Level ist. 
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Also, be aware that an element
+level no longer increases if it's
+as high as the character level.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 66
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Hat man Element-Kugeln in 
+der Ausrüstung, zeigen die Elemente 
+der Kugeln immer eine kleine Wirkung 
+beim Angriff oder bei der Abwehr.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: If you equip elemental orbs,
+those elements will always have a
+small effect on attack or defense.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 70
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Je mehr Kugeln eines 
+Elementes in Waffe oder Rüstung 
+eingekoppelt sind, desto größer ist 
+die Wirkung dieses Elements.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: The more orbs of an element
+are coupled into the weapon or armor,
+the greater the effect of this
+element.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 74
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Koppelt man in die Waffe, 
+zeigen die Elemente Wirkung auf den 
+Angriff. Der Angriff bekommt die 
+Elemente als "Attribut".
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Coupled into a weapon, the
+elements have an effect on the
+attack. The attack gets the effects
+of these elements as "attributes".
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 78
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Beispielweise hat eine Waffe  
+mit einigen Feuer-Kugeln, ein 
+leichtes Feuer-Attribut und zieht 
+bei Eis-Gegnern etwas mehr ab.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: For example, a weapon with
+some fire orbs equipped has a fire
+attribute and deals a little more
+damage on ice-based opponents.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 82
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Koppelt man in das Armband, 
+geben die Elemente einen kleinen 
+Schutz vor Angriffen ihres 
+Elementes.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Coupled into an armband, the
+elements give a little protection
+against attacks by that element.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 86
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Ein Armband mit einigen 
+Wasser-Kugeln schützt so zum 
+Beispiel vor Techniken wie Wasser-
+Elementaren Angriffen.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: For example, an armband with
+a few water orbs protects against
+techniques such as water elemental
+attacks.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 99
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Gibt es sonst noch Fragen?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Do you have any other
+questions?
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 106
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Am Anfang ist es immer 
+Ratsam, die ersten Signum-Techniken 
+eines jeden Elementes zu erlernen.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: In the beginning, it's always
+advisable to learn the first Signum
+techniques of each element.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 109
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Das bedeutet: Haben sie die 1. 
+Angriffs-Technik eines Elementes 
+erlernt, steigern Sie als nächstes 
+am besten ein anderes Angriffs-Level
+'''
+patched = '''
+\c[6]\n[6]\c[0]: That means: If you learned the
+first technique of an element, the
+next best thing to do is to raise
+that element to another level.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 113
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Wenn Sie immer die 1. 
+Techniken lernen habt ihr recht 
+schnell eine kleine Auswahl von 
+verschiedenen Signum-Techniken.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: If you always learn the first
+techniques, you'll quickly have a
+wide pool of different Signum
+techniques to choose from.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 117
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Ansonsten sollten Sie, wenn Sie 
+neuen Gegnern begegnen, die viel 
+Erfahrung geben, vorzugsweise die 
+Ausrüstung so wählen, ...
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Otherwise, if you're
+encountering new opponents that gives
+lots of experience, you should
+preferably choose the equipment...
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 121
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: ...dass sie so viele Element-
+Kugeln wie möglich einkoppeln 
+können. Gerade wenn man gut 
+aufstufen kann, ist das ratsam.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: ...that allows you to couple
+as many elemental orbs as possible.
+It's advisable if you can level up
+well.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 128
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Die Verwendung von Signum-
+Technken zerrt an ihren Mental-
+Punkte-Vorrat, der bei jedem 
+Charakter unterschiedlich groß ist.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: The use of Signum techniques
+uses up your magic points (MP), and
+the amount is different for each
+character.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 132
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Mental Punkte regenerieren 
+sich, wenn man schläft oder 
+Heilitems wie "Mentaltropfen" 
+verwendet.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Magic points regenerate when
+you sleep or use healing items like
+"mana droplets".
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 136
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Ansonsten heilt sich auch ein 
+kleiner Teil der Mental-Punkte, wenn 
+man am Ende des Kampfes noch ein 
+paar SP übrig hat.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Otherwise, a small part of
+your magic points heals if you have
+some SP left at the end of a battle.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 149
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Gibt es sonst noch Fragen?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Do you have any other
+questions?
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 153
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Ich hoffe, ich konnte 
+behilflich sein.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: I hope I helped.
+'''
+
+[[text]]
+event = 6
+page = 2
+command = 111
+original = '''Natürlich./Nein, ich weiß bereits alles.'''
+patched = '''Of course./No, I already know about it.'''
+
+[[text]]
+event = 6
+page = 2
+command = 112
+original = '''Natürlich.'''
+patched = '''Of course.'''
+
+[[text]]
+event = 6
+page = 2
+command = 184
+has_portrait = true
+original = '''Nein, ich weiß bereits alles.'''
+patched = '''No, I already know about it.'''
+
+[[text]]
+event = 7
+page = 1
+command = 8
+has_portrait = true
+original = '''Wie lerne ich Signum-Magie?/Worauf muss ich aufpassen?/Nebeneffekte?/Andere Fragen (Esc=Beenden)'''
+patched = '''How do I learn Signum magic?/What should I watch out for?/Any side effects?/Other Questions (Esc = Exit)'''
+
+[[text]]
+event = 7
+page = 1
+command = 9
+has_portrait = true
+original = '''Wie lerne ich Signum-Magie?'''
+patched = '''How do I learn Signum magic?'''
+
+[[text]]
+event = 7
+page = 1
+command = 36
+has_portrait = true
+original = '''Worauf muss ich aufpassen?'''
+patched = '''What should I watch out for?'''
+
+[[text]]
+event = 7
+page = 1
+command = 64
+has_portrait = true
+original = '''Nebeneffekte?'''
+patched = '''Any side effects?'''
+
+[[text]]
+event = 7
+page = 1
+command = 91
+has_portrait = true
+original = '''Andere Fragen (Esc=Beenden)'''
+patched = '''Other Questions (Esc = Exit)'''
+
+[[text]]
+event = 7
+page = 1
+command = 94
+has_portrait = true
+original = ''''''
+patched = ''''''
+
+[[text]]
+event = 7
+page = 1
+command = 103
+has_portrait = true
+original = '''Ein paar Tipps?/Bedeutung von Mental-Punkten(MP)/Andere Fragen (Esc=Beenden)'''
+patched = '''Any tips?/What are magic points (MP)?/Other Questions (Esc = Exit)'''
+
+[[text]]
+event = 7
+page = 1
+command = 104
+has_portrait = true
+original = '''Ein paar Tipps?'''
+patched = '''Any tips?'''
+
+[[text]]
+event = 7
+page = 1
+command = 126
+has_portrait = true
+original = '''Bedeutung von Mental-Punkten(MP)'''
+patched = '''What are magic points (MP)?'''
+
+[[text]]
+event = 7
+page = 1
+command = 141
+has_portrait = true
+original = '''Andere Fragen (Esc=Beenden)'''
+patched = '''Other Questions (Esc = Exit)'''
+
+[[text]]
+event = 7
+page = 1
+command = 144
+has_portrait = true
+original = ''''''
+patched = ''''''

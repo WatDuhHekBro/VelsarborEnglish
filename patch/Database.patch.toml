@@ -1,0 +1,5774 @@
+[[dialogue]]
+event = 51
+command = 1
+original = '''
+OMG!!!!!!!!111111
+'''
+patched = '''
+OMG!!!!!!!!111111
+'''
+
+[[dialogue]]
+event = 51
+command = 5
+original = '''
+OMG!!!!!!!!111111
+'''
+patched = '''
+OMG!!!!!!!!111111
+'''
+
+[[dialogue]]
+event = 75
+command = 0
+original = '''
+Common Event 75: 
+Spar-Maßnahme- TEST 
+wurde verwendet!
+'''
+patched = '''
+Common Event 75: 
+Spar-Maßnahme- TEST 
+wurde verwendet!
+'''
+
+[[dialogue]]
+event = 93
+command = 3
+original = '''
+\c[10]Saion:\c[0] Ver...\.Verdammt!\. 
+Ich bin...\. am Ende!
+'''
+patched = '''
+\c[10]Saion:\c[0] D...\. Dammit!\. This is...\. the end for me!
+'''
+
+[[dialogue]]
+event = 93
+command = 10
+original = '''
+\c[10]Jorn:\c[0] Args...\. Es war von Anfang an
+aussichtslos!
+'''
+patched = '''
+\c[10]Jorn:\c[0] Argh...\. It was hopeless from the start!
+'''
+
+[[dialogue]]
+event = 93
+command = 17
+original = '''
+\c[10]Gurim:\c[0] .....\. Saion,...\. du Trottel!
+'''
+patched = '''
+\c[10]Gurim:\c[0] Saion...\. you idiot!
+'''
+
+[[dialogue]]
+event = 93
+command = 64
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Verflixt und zugenäht!\. Das Ding will 
+nicht klein beigeben!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Dang it!\. The thing isn't letting up at all!
+'''
+
+[[dialogue]]
+event = 93
+command = 66
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Was sollen wir jetzt tun?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] What should we do now?
+'''
+
+[[dialogue]]
+event = 93
+command = 67
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Frag mich was Leichteres.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Ask me something easier.
+'''
+
+[[dialogue]]
+event = 93
+command = 68
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ich würde immer noch gerne wissen, 
+wieso uns eine Harpyie genau HIER angreift...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] I still want to know why a harpy attacks us
+HERE of all places...
+'''
+
+[[dialogue]]
+event = 93
+command = 70
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Irgendwas ist hier faul...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Something's wrong here...
+'''
+
+[[dialogue]]
+event = 93
+command = 71
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Was könnt' das denn sein?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] What could that be?
+'''
+
+[[dialogue]]
+event = 93
+command = 89
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Natürlich!\. Das ist es!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Of course!\. That's it!
+'''
+
+[[dialogue]]
+event = 93
+command = 90
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Was?!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] What?!
+'''
+
+[[dialogue]]
+event = 93
+command = 91
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Die Eier!\. Hol mal die Eier und leg sie vor 
+dich hin.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] The eggs!\. Get the eggs and put them out in
+front of you.
+'''
+
+[[dialogue]]
+event = 93
+command = 93
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Wie?\. Unsere schönen Eier für's Omlett?!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Why?\. The eggs for our omelette?!
+'''
+
+[[dialogue]]
+event = 93
+command = 94
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Jetzt sei nicht so zimperlich!\.
+Mach schon!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Now, this isn't the time to fuss!\. Come on!
+'''
+
+[[dialogue]]
+event = 93
+command = 96
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Hmpf...\. wenn's sein muss.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Hmph...\. If you say so.
+'''
+
+[[dialogue]]
+event = 93
+command = 219
+original = '''
+\c[10]Gegnerische Einheit:\c[0] E...\.Eine einzige Person... 
+\.W...\. Wie kann das sein?!
+'''
+patched = '''
+\c[10]Enemy Soldier:\c[0] Only...\. one person...\. How...\. How is
+this possible?!
+'''
+
+[[dialogue]]
+event = 93
+command = 222
+original = '''
+\c[1]Seldan\c[0]: Wie sagtet ihr?\. Ein Witz. 
+'''
+patched = '''
+\c[1]Seldan\c[0]: As you said,\. a joke.
+'''
+
+[[dialogue]]
+event = 93
+command = 223
+original = '''
+\c[1]Seldan\c[0]: Und der Säbel?\. Der Grund für eure 
+maßlose Unterschätzung.
+'''
+patched = '''
+\c[1]Seldan\c[0]: And this sword?\. The reason for your
+massive underestimation.
+'''
+
+[[dialogue]]
+event = 93
+command = 238
+original = '''
+\c[10]Seldan:\c[0] I...\. Ich kann jetzt noch nicht...\. 
+sterben...\. nicht jetzt!
+'''
+patched = '''
+\c[10]Seldan:\c[0] I...\. I won't die just yet...\. not like
+this!
+'''
+
+[[dialogue]]
+event = 93
+command = 250
+original = '''
+\c[1]Seldan:\c[0] Ich werde euch zeigen mit welchem Feuer  
+wir hier spielen!
+'''
+patched = '''
+\c[1]Seldan:\c[0] I'll show you the fire we're playing with!
+'''
+
+[[dialogue]]
+event = 93
+command = 255
+original = '''
+\c[1]Seldan:\c[0] Und seht mich nur als ein Beispiel für 
+viele, die kommen werden!
+'''
+patched = '''
+\c[1]Seldan:\c[0] And just see me as an example for those on
+their way!
+'''
+
+[[dialogue]]
+event = 93
+command = 260
+original = '''
+\c[1]Seldan:\c[0] Solange Leute wie ich existieren, kann 
+kein Frieden herrschen!
+'''
+patched = '''
+\c[1]Seldan:\c[0] As long as there are people like me,
+there'll never be peace!
+'''
+
+[[dialogue]]
+event = 93
+command = 264
+original = '''
+\c[1]Seldan:\c[0] Doch ich werde die Quelle allen Übels, die 
+Quelle all dieser Macht, zerstören!
+'''
+patched = '''
+\c[1]Seldan:\c[0] But I WILL destroy the source of all this
+evil, the source of all this power!
+'''
+
+[[dialogue]]
+event = 93
+command = 266
+original = '''
+\c[1]Seldan:\c[0] Und diese lächerliche Maschine wird mich 
+nicht daran hindern!
+'''
+patched = '''
+\c[1]Seldan:\c[0] And this laughable machine isn't going to
+stop me!
+'''
+
+[[dialogue]]
+event = 93
+command = 278
+original = '''
+\c[10]Guillian\c[0]: Ver...\.Verdammt!
+'''
+patched = '''
+\c[10]Guillian\c[0]: D...\. Dammit!
+'''
+
+[[dialogue]]
+event = 93
+command = 287
+original = '''
+\c[10]Saion:\c[0] NEIN!\. Wie kann das sein?!\. Nach all dem 
+Training!\. Alles umsonst...
+'''
+patched = '''
+\c[10]Saion:\c[0] NO!\. How did this happen?!\. After all
+that training!\. All for nothing...
+'''
+
+[[dialogue]]
+event = 93
+command = 294
+original = '''
+\c[10]Jorn:\c[0] Ah!\. Ich hätte mich GLEICH tot stellen 
+sollen!
+'''
+patched = '''
+\c[10]Jorn:\c[0] Argh!\. I should've just surrendered
+right away!
+'''
+
+[[dialogue]]
+event = 93
+command = 301
+original = '''
+\c[10]Gurim:\c[0] Saion...\. du konntest es nicht lassen...
+'''
+patched = '''
+\c[10]Gurim:\c[0] Saion...\. you just HAD to play
+around,\. didn't you...
+'''
+
+[[dialogue]]
+event = 93
+command = 315
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Die Tür ist offen!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: The door is open!
+'''
+
+[[dialogue]]
+event = 93
+command = 382
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Kento, wie hast du es bis hierher 
+geschafft?!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Kento, how did you make it this far?!
+'''
+
+[[dialogue]]
+event = 93
+command = 384
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Konzentrier dich auf den Kampf!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Focus on the battle!
+'''
+
+[[dialogue]]
+event = 93
+command = 385
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ah....
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Right...
+'''
+
+[[dialogue]]
+event = 93
+command = 398
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: JA!\. Sie geht auf!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: YES!\. It's open!
+'''
+
+[[dialogue]]
+event = 93
+command = 465
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Jetzt werdet ihr eure Rechnung zahlen! 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Now it's time for some payback!
+'''
+
+[[dialogue]]
+event = 93
+command = 466
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Dafür, dass ihr mich Stunden meines Lebens 
+hier eingesperrt und still gehalten zu habt!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: For locking me up and keeping me quiet
+for several hours of my life!
+'''
+
+[[dialogue]]
+event = 93
+command = 468
+original = '''
+\c[10]Soldat\c[0]: Verdammt, die Situation gerät außer 
+Kontrolle!
+'''
+patched = '''
+\c[10]Soldier\c[0]: Damn it, the situation is getting
+out of control!
+'''
+
+[[dialogue]]
+event = 93
+command = 480
+original = '''
+\c[10]Sedric\c[0]: Argh!\. Das ist einfach nur...\. verdammt!!
+'''
+patched = '''
+\c[10]Sedric\c[0]: Argh!\. This is just...\. damn it!!
+'''
+
+[[dialogue]]
+event = 93
+command = 490
+original = '''
+\c[10]Soldat\c[0]: ...\.Sedric,\. du HAST den Gegner 
+unterschätzt!
+'''
+patched = '''
+\c[10]Soldier\c[0]: Sedric,\. you really have underestimated
+your opponent!
+'''
+
+[[dialogue]]
+event = 93
+command = 508
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: N...\.Nein!\. Das kann ich nicht zulassen!\. 
+NICHT HIER! 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: N...\. No!\. I can't allow this to happen.\.
+NOT LIKE THIS!
+'''
+
+[[dialogue]]
+event = 93
+command = 515
+original = '''
+\c[10]Robin\c[0]: Nein...\. diese Schande! 
+'''
+patched = '''
+\c[10]Robin\c[0]: No...\. How embarrassing!
+'''
+
+[[dialogue]]
+event = 93
+command = 524
+original = '''
+\c[10]Saion\c[0]: Nein!\. Das kann doch...\. nicht sein!\. Wir sind 
+schon so weit oben gewesen...\. und jetzt das!
+'''
+patched = '''
+\c[10]Saion\c[0]: No!\. This...\. can't be!\. We were so close to
+our revenge...\. and now this!
+'''
+
+[[dialogue]]
+event = 93
+command = 531
+original = '''
+\c[10]Jorn\c[0]: Args...\. Nicht ...\. auf die Hände ...\. 
+fallen...!
+'''
+patched = '''
+\c[10]Jorn\c[0]: Argh...\. Don't think...\. I'll continue to...\.
+fall because of you!
+'''
+
+[[dialogue]]
+event = 93
+command = 538
+original = '''
+\c[10]Gurim\c[0]: Ach herrje...
+'''
+patched = '''
+\c[10]Gurim\c[0]: Oh no...
+'''
+
+[[dialogue]]
+event = 93
+command = 547
+original = '''
+\c[10]Chefv\c[0]: Jetz' is...\. Zappe!
+'''
+patched = '''
+\c[10]The Boss\c[0]: Nah'm...\. dunf'r!
+'''
+
+[[dialogue]]
+event = 94
+command = 6
+original = '''
+\>
+\>INFO: Soko ist in der Lage Signum-Zauber 
+\>anzuwenden.
+'''
+patched = '''
+\>
+\>INFO: Soko is able to use Signum spells.
+'''
+
+[[dialogue]]
+event = 94
+command = 9
+original = '''
+\>
+\>Signum-Zauber richten magischen Elementar-
+\>Schaden an.
+'''
+patched = '''
+\>
+\>Signum spells do magical elemental damage.
+'''
+
+[[dialogue]]
+event = 94
+command = 12
+original = '''
+\>
+\>Die Höhe dieses Schadens wird durch die 
+\>Mentale Kraft des Anwenders... 
+'''
+patched = '''
+\>
+\>The amount of this damage is determined
+\>by the wisdom stat of the user...
+'''
+
+[[dialogue]]
+event = 94
+command = 15
+original = '''
+\>
+\>...und der Stufe des Zaubers bestimmt, von 
+\>denen es drei Stück gibt.
+'''
+patched = '''
+\>
+\>...as well as the level of the spell, of
+\>which there are three.
+'''
+
+[[dialogue]]
+event = 94
+command = 18
+original = '''
+\>
+\>Am Beispiel Feuer: "Feuer" ist 1. Stufe, "Feures" 
+\>ist 2. Stufe und "Feuentus" ist 3. Stufe.
+'''
+patched = '''
+\>
+\>Using the fire spell for example, the order is as
+\>follows: "Fire", "Great Fire", and "Grand Fire".
+'''
+
+[[dialogue]]
+event = 94
+command = 21
+original = '''
+\>
+\>Magischer Schaden wird nicht mit "Schutz" 
+\>abgewehrt, sondern mit Mentaler Kraft.
+'''
+patched = '''
+\>
+\>Magic damage is not protected against with
+\>"defense", but with wisdom.
+'''
+
+[[dialogue]]
+event = 94
+command = 24
+original = '''
+\>
+\>Deswegen können solche Zauber wirkungsvoll 
+\>gegen abwehrstarke Gegner sein.
+'''
+patched = '''
+\>
+\>Therefore, such spells can be effective against
+\>opponents with high defense.
+'''
+
+[[dialogue]]
+event = 94
+command = 27
+original = '''
+\>
+\>Du findest die Signum-Zauber unter dem 1. 
+\>Symbol im Technik-Auswahl-Menu.
+'''
+patched = '''
+\>
+\>You can find the Signum spells under the
+\>1st symbol in the techs menu.
+'''
+
+[[dialogue]]
+event = 94
+command = 42
+original = '''
+\>
+\>INFO: Kento ist nun in der Lage Element-Sare- 
+\>Techniken anzuwenden
+'''
+patched = '''
+\>
+\>INFO: Kento is now able to imbue elements.
+'''
+
+[[dialogue]]
+event = 94
+command = 45
+original = '''
+\>
+\>Element-Sare-Techniken sind physische Schläge 
+\>deren Schaden mit einem Element geprägt ist.
+'''
+patched = '''
+\>
+\>Imbue element techniques are physical strikes,
+\>the damage of which is shaped by an element.
+'''
+
+[[dialogue]]
+event = 94
+command = 48
+original = '''
+\>
+\>Wirkungsvoll sind diese Schläge gegen Monster 
+\>mit geringem Schutz gegen physische Angriffe
+'''
+patched = '''
+\>
+\>These strikes are effective against monsters
+\>with little protection against physical attacks.
+'''
+
+[[dialogue]]
+event = 94
+command = 51
+original = '''
+\>
+\>Hat der Gegner eine Schwäche gegen das 
+\>Element der Technik, ist sie besonders effektiv.
+'''
+patched = '''
+\>
+\>If the opponent has a weakness against the
+\>imbued element, it is particularly effective.
+'''
+
+[[dialogue]]
+event = 94
+command = 54
+original = '''
+\>
+\>Du findest die Element-Sare-Techniken unter 
+\>dem 2. Symbol im Technik-Auswahl-Menu.
+'''
+patched = '''
+\>
+\>You can find the imbue element techniques
+\>under the 2nd symbol in the techs menu.
+'''
+
+[[dialogue]]
+event = 94
+command = 70
+original = '''
+\>
+\>INFO: Cibon ist nun in der Lage Zustand-Sare-
+\>Techniken anzuwenden.
+'''
+patched = '''
+\>
+\>INFO: Cibon is now able to imbue status effects.
+'''
+
+[[dialogue]]
+event = 94
+command = 73
+original = '''
+\>
+\>Zustand-Sare-Techniken sind physische Schläge,
+\>die zudem einen bestimmten Zustand bewirken.
+'''
+patched = '''
+\>
+\>Imbue status techniques are physical strikes
+\>that also inflict a certain state.
+'''
+
+[[dialogue]]
+event = 94
+command = 76
+original = '''
+\>
+\>Die Wahrscheinlichkeit, dass das Ziel von dem 
+\>Zustand befallen wird, hängt vom Gegner ab.
+'''
+patched = '''
+\>
+\>The likelihood that the target will be affected
+\>by the condition depends on the opponent.
+'''
+
+[[dialogue]]
+event = 94
+command = 79
+original = '''
+\>
+\>Der Gegner kann anfällig bis immun 
+\>gegenüber dem Zustand sein.
+'''
+patched = '''
+\>
+\>The enemy can be range from being vulnerable
+\>to being immune to the condition.
+'''
+
+[[dialogue]]
+event = 94
+command = 82
+original = '''
+\>
+\>Kämpfer auf eigenen Seite können sich mit 
+\>bestimmter Ausrüstung vor Zuständen schützten.
+'''
+patched = '''
+\>
+\>Combatants on the same side can protect each other
+\>from these conditions with certain equipment.
+'''
+
+[[dialogue]]
+event = 94
+command = 85
+original = '''
+\>
+\>Du findest die Zustand-Sare-Techniken unter 
+\>dem 2. Symbol im Technik-Auswahl-Menu.
+'''
+patched = '''
+\>
+\>You can find the imbue status techniques
+\>under the 2nd symbol in the techs menu.
+'''
+
+[[dialogue]]
+event = 94
+command = 102
+original = '''
+\c[10]Saion:\c[0] Jetzt werdet ihr den Zorn der
+Zinkar-Brüder zu spüren bekommen!
+'''
+patched = '''
+\c[10]Saion:\c[0] Now you shall face the
+wrath of the Zinkar Brothers!
+'''
+
+[[dialogue]]
+event = 94
+command = 104
+original = '''
+\c[10]Saion:\c[0] Macht euch auf etwas gefasst!
+'''
+patched = '''
+\c[10]Saion:\c[0] Get ready for it!
+'''
+
+[[dialogue]]
+event = 94
+command = 105
+original = '''
+\c[10]Gurim:\c[0]\s[8] Saion...?
+'''
+patched = '''
+\c[10]Gurim:\c[0]\s[8] Saion...?
+'''
+
+[[dialogue]]
+event = 94
+command = 106
+original = '''
+\c[10]Jorn:\c[0] Halt einfach deine Klappe!
+'''
+patched = '''
+\c[10]Jorn:\c[0] Shut up already!
+'''
+
+[[dialogue]]
+event = 94
+command = 111
+original = '''
+\>
+INFO: Die Leiste unten zeigt die \c[11]Aktions-
+Reihenfolge der Kampfteilnehmer\c[0] an.\<\.
+'''
+patched = '''
+\>
+INFO: The bar at the bottom shows \c[11]the order
+in which each combatant attacks\c[0].\<\.
+'''
+
+[[dialogue]]
+event = 94
+command = 114
+original = '''
+\>
+Der Kampfteilnehmer, der ganz links bei \c[11]Aktion\c[0] 
+zu sehen ist, kann seinen Zug durchführen.\<\.
+'''
+patched = '''
+\>
+The combatant, which can be seen at the
+\c[11]leftmost index\c[0], can make their move.\<\.
+'''
+
+[[dialogue]]
+event = 94
+command = 117
+original = '''
+\>
+Der Kampfteilnehmer \c[11]rechts davon\c[0] wird 
+wahrscheinlich \c[11]als nächstes\c[0] dran kommen..\<\.
+'''
+patched = '''
+\>
+The combatant \c[11]to the right\c[0] of that
+will be the \c[11]next one\c[0] to attack...\<\.
+'''
+
+[[dialogue]]
+event = 94
+command = 120
+original = '''
+\>
+Allerdings sei gesagt, dass es Aktionen gibt, die
+die Reihenfolge beeinflussen können.\<\.
+'''
+patched = '''
+\>
+However, it should be said that there are
+actions which can disrupt this order.\<\.
+'''
+
+[[dialogue]]
+event = 94
+command = 129
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Wie kann es sein, dass sich eine Harpyie 
+in dieser Gegend aufhält?!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Why is it that a harpy is in this
+area of all places?!
+'''
+
+[[dialogue]]
+event = 94
+command = 131
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Harpyien leben normalerweise in 
+Gebirgen und bleiben dort auch in der Regel!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Harpies live in mountains and
+usually stay there!
+'''
+
+[[dialogue]]
+event = 94
+command = 133
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Schön und gut, Kumpel.\. Aber sich 
+darüber zu wundern bringt jetzt auch nichts.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Alright, Kento.\. But wondering
+about it now does nothing.
+'''
+
+[[dialogue]]
+event = 94
+command = 135
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Sehen wir lieber zu, dass wir den Vogel 
+beseitigt bekommen!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Let's see that we get the bird out
+of the way first!
+'''
+
+[[dialogue]]
+event = 94
+command = 137
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Da sagst du was...\. Wir müssen 
+aufpassen!\. Harpyien sind hartnäckige Gegner!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] No kidding...\. We have to
+be careful!\. Harpies are stubborn enemies!
+'''
+
+[[dialogue]]
+event = 94
+command = 144
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Erst eine Harpyie auf einer Brücke und 
+jetzt eine Krake in einer Höhle...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] First, a harpy on a bridge, and
+now an octopus in a cave...
+'''
+
+[[dialogue]]
+event = 94
+command = 146
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Unglaublich auf was für Gegner wir 
+treffen...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Unbelievable what kind of enemies
+we encounter...
+'''
+
+[[dialogue]]
+event = 94
+command = 148
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Okay...\. Wer von euch weiß, wie man eine 
+überdimensionale Krake beseitigt?!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Okay...\. Who here knows how to get rid
+of an oversized octopus?!
+'''
+
+[[dialogue]]
+event = 94
+command = 150
+character = '''Soko'''
+original = '''
+\c[13]\n[3]:\c[0] Feuer...\. Ich habe gehört, viele solcher 
+Wasserwesen sollen dagegen empfindlich sein!
+'''
+patched = '''
+\c[13]\n[3]:\c[0] Fire.\. I heard that many aquatic
+creatures are sensitive to it!
+'''
+
+[[dialogue]]
+event = 94
+command = 152
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Wir haben noch ein Problem...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] We still have a problem...
+'''
+
+[[dialogue]]
+event = 94
+command = 153
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Wir können den Kopf der Krake nicht mit 
+Nahkampf-Attacken erreichen.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] We can't reach its head with melee attacks.
+'''
+
+[[dialogue]]
+event = 94
+command = 155
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Cibon!\. Du und ich, wir sollten uns auf die 
+Tentakel konzentrieren.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Cibon!\. You and I should focus on the
+tentacles.
+'''
+
+[[dialogue]]
+event = 94
+command = 157
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Soko!\. Du kannst zaubern.\. Nutze deine 
+Fähigkeiten um den Kopf damit anzugreifen.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Soko!\. You can use magic.\. Use that
+to attack the head with it.
+'''
+
+[[dialogue]]
+event = 94
+command = 159
+character = '''Soko'''
+original = '''
+\c[13]\n[3]:\c[0] Ah...\. in Ordnung...
+'''
+patched = '''
+\c[13]\n[3]:\c[0] Ah...\. okay...
+'''
+
+[[dialogue]]
+event = 94
+command = 160
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Cibon,\. noch was,\. versuch auch du den 
+Kopf mit deiner Flugbeil Attacke zu treffen!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Cibon,\. one more thing,\. try to hit its
+head with your flying axe too!
+'''
+
+[[dialogue]]
+event = 94
+command = 162
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Geht klar!\. Auf ins Gefecht!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Got it!\. Time to do this!
+'''
+
+[[dialogue]]
+event = 94
+command = 168
+original = '''
+\c[10]Gegnerische Einheit\c[0]: Ist das die Spezialeinheit 
+von Brigan?
+'''
+patched = '''
+\c[10]Enemy Soldier\c[0]: Is that the Special-Ops force of
+Brigantia?
+'''
+
+[[dialogue]]
+event = 94
+command = 170
+original = '''
+\c[10]Gegnerische Einheit\c[0]: Ein NAHKÄMPFER mit einem 
+Lasersäbel!\. Soll das ein Witz sein?!
+'''
+patched = '''
+\c[10]Enemy Soldier\c[0]: A MELEE fighter with a laser
+sword?!\. Ha!\. What a joke!
+'''
+
+[[dialogue]]
+event = 94
+command = 178
+original = '''
+\c[1]Seldan\c[0]: Ich werde euch zeigen, wie weit unser Wahn 
+uns getrieben hat! 
+'''
+patched = '''
+\c[1]Seldan\c[0]: I'll show you how far this madness has
+taken us!
+'''
+
+[[dialogue]]
+event = 94
+command = 186
+original = '''
+\c[13]Soko\c[0]: Cibon, was fällt dir ein einfach so los zu 
+stürmen?!
+'''
+patched = '''
+\c[13]Soko\c[0]: Cibon, what was going on in your head when
+you decided to storm them?!
+'''
+
+[[dialogue]]
+event = 94
+command = 188
+original = '''
+\c[2]Cibon\c[0]: Sag bloß, du hättest dem Spektakel nur 
+zugesehen!
+'''
+patched = '''
+\c[2]Cibon\c[0]: Just say you wanted to see what was
+happening!
+'''
+
+[[dialogue]]
+event = 94
+command = 190
+original = '''
+\c[13]Soko\c[0]: Nein...\. aber...
+'''
+patched = '''
+\c[13]Soko\c[0]: No...\. But...
+'''
+
+[[dialogue]]
+event = 94
+command = 191
+original = '''
+\c[2]Cibon\c[0]: Nichts aber,\. jetzt wird gekämpft!
+'''
+patched = '''
+\c[2]Cibon\c[0]: Forget it,\. there's a battle to attend to!
+'''
+
+[[dialogue]]
+event = 94
+command = 197
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wovon redet ihr?
+Worauf wollt ihr mich vorbereiten?!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: What are you talking about?
+What do you want to prepare me for?!
+'''
+
+[[dialogue]]
+event = 94
+command = 203
+original = '''
+\c[10]????\c[0]: Noch kannst du nichts wissen. 
+Noch DARFST du nichts wissen!
+'''
+patched = '''
+\c[10]????\c[0]: You do not know anything yet.\.\.
+You CANNOT know anything yet!
+'''
+
+[[dialogue]]
+event = 94
+command = 219
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Was zum... Was soll ich jetzt machen?!)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: What the... What should I do now?!)
+'''
+
+[[dialogue]]
+event = 94
+command = 220
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Bei der Geschwindigkeit, mit der sie 
+gekommen sind... Fliehen steht außer Frage!)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: At the speed they came...
+running is out of the question!)
+'''
+
+[[dialogue]]
+event = 94
+command = 222
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Ich muss mich wehren...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: I have to fight back...)
+'''
+
+[[dialogue]]
+event = 94
+command = 223
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Die hintere Person mit Nahkampfwaffen 
+anzugreifen ist sinnlos, sie wird geschützt...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Attacking the person at the back with
+melee weapons is pointless, they're protected...)
+'''
+
+[[dialogue]]
+event = 94
+command = 230
+original = '''
+\c[1]Kento\c[0]: Wie kommt es eigentlich, dass die starken 
+Gegner uns immer von oben überraschen?
+'''
+patched = '''
+\c[1]Kento\c[0]: How is it that strong opponents always
+surprise us from above?
+'''
+
+[[dialogue]]
+event = 94
+command = 232
+original = '''
+\c[2]Cibon\c[0]: Joa, wir sollten in Zukunft mehr 
+unterirdisch reisen,\. nicht wahr Kumpel?
+'''
+patched = '''
+\c[2]Cibon\c[0]: Yeah, we should start travelling
+underground more in the future,\. shouldn't we?
+'''
+
+[[dialogue]]
+event = 94
+command = 234
+original = '''
+\c[13]Soko\c[0]: Hey!\. Wie sollen wir gegen diesen Gegner 
+vorgehen?
+'''
+patched = '''
+\c[13]Soko\c[0]: Hey!\. What should we do against this
+opponent?
+'''
+
+[[dialogue]]
+event = 94
+command = 236
+original = '''
+\c[1]Kento\c[0]: Er reitet einen fliegenden Hornkäfer...
+'''
+patched = '''
+\c[1]Kento\c[0]: He rides a flying horned beetle...
+'''
+
+[[dialogue]]
+event = 94
+command = 237
+original = '''
+\c[1]Kento\c[0]: Er könnte also ähnliche Schwächen haben wie 
+die Hornkäfer,\. gegen die wir gekämpft haben!
+'''
+patched = '''
+\c[1]Kento\c[0]: It could have weaknesses similar to the
+horned beetles we fought against!
+'''
+
+[[dialogue]]
+event = 94
+command = 242
+original = '''
+\c[10]Guillian\c[0]: Freut euch nicht zu früh!\. Rekreto ist 
+kein normaler Hornkäfer,\. wartet nur ab!
+'''
+patched = '''
+\c[10]Guillian\c[0]: Don't rejoice too soon!\. Rekreto isn't
+just any ordinary horned beetle,\. just you wait!
+'''
+
+[[dialogue]]
+event = 94
+command = 249
+original = '''
+\c[10]Saion\c[0]: Ihr macht es so, wie wir besprochen haben, 
+verstanden?
+'''
+patched = '''
+\c[10]Saion\c[0]: You'll do it as we discussed, understand?
+'''
+
+[[dialogue]]
+event = 94
+command = 251
+original = '''
+\c[10]Jorn\c[0]: Diese dritte Person da war aber in deiner so 
+genannten "Taktik" nicht mit einbezogen...
+'''
+patched = '''
+\c[10]Jorn\c[0]: This third person wasn't included in your
+so-called "tactics",\. if they can be so-called...
+'''
+
+[[dialogue]]
+event = 94
+command = 253
+original = '''
+\c[10]Jorn\c[0]: Sei's drum.\. Sie wird keinen großen Einfluss 
+haben.
+'''
+patched = '''
+\c[10]Jorn\c[0]: So be it.\. It won't matter much anyways.
+'''
+
+[[dialogue]]
+event = 94
+command = 271
+original = '''
+\c[13]Soko\c[0]: Na wartet...
+'''
+patched = '''
+\c[13]Soko\c[0]: Wait...
+'''
+
+[[dialogue]]
+event = 94
+command = 280
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Was geht hier ab?!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What's going on here?!
+'''
+
+[[dialogue]]
+event = 94
+command = 281
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wir müssen Herr Uroto beschützen!\.
+Das ist alles was zählt!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We have to protect Mr. Uroto at all costs!\.
+That's all that matters!
+'''
+
+[[dialogue]]
+event = 94
+command = 289
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Verschwinde!!\. VERSCHWINDE AUS 
+MEINEN AUGEN!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: GET OUT!\. GET OUT OF MY SIGHT!!
+'''
+
+[[dialogue]]
+event = 94
+command = 291
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: K...\.Kento? 
+'''
+patched = '''
+\c[4]\n[4]\c[0]: K...\. Kento?
+'''
+
+[[dialogue]]
+event = 94
+command = 297
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Verdammt!\. Ich sollte besser eine 
+Schlafbombe verwendenden und fliehen...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Damn!\. I better use a sleep
+bomb and run away...)
+'''
+
+[[dialogue]]
+event = 94
+command = 299
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Kämpfen ist zu riskant!)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Fighting is too risky!)
+'''
+
+[[dialogue]]
+event = 94
+command = 305
+original = '''
+\c[10]Soldat\c[0]: Das ist der Flüchtling!\. Er ist doch im 
+Gebäude! 
+'''
+patched = '''
+\c[10]Soldier\c[0]: There's the escapee!\. He's in this
+building!
+'''
+
+[[dialogue]]
+event = 94
+command = 307
+original = '''
+\c[10]Soldat\c[0]: Sofort die Waffe fallen lassen!
+'''
+patched = '''
+\c[10]Soldier\c[0]: Drop your weapon immediately!
+'''
+
+[[dialogue]]
+event = 94
+command = 308
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Soko,\. Cibon,\. hört zu!\. Ich werde versuchen 
+die Gittertür aufzuschlagen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Soko,\. Cibon,\. listen!\. I'll try to
+open those gates.
+'''
+
+[[dialogue]]
+event = 94
+command = 310
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Beeil dich, Kumpel!\. Zusammen werden wir die 
+2 zusammenschlagen!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hurry up!\. Together we'll beat up
+those two!
+'''
+
+[[dialogue]]
+event = 94
+command = 312
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Kento!\. Greife die Gitter mit Feuer-Angriffen
+an, das sollte am besten funktionieren!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Kento!\. Attack the gates with fire attacks,
+that should work best!
+'''
+
+[[dialogue]]
+event = 94
+command = 319
+original = '''
+\c[10]Sedric\c[0]: Du verstärkst und heilst mich, ich kümmere 
+mich um den Schaden!
+'''
+patched = '''
+\c[10]Sedric\c[0]: You,\. strengthen and heal me,\.
+I'll take care of the damage!
+'''
+
+[[dialogue]]
+event = 94
+command = 321
+original = '''
+\c[10]Soldat\c[0]: ...
+'''
+patched = '''
+\c[10]Soldier\c[0]: ...
+'''
+
+[[dialogue]]
+event = 94
+command = 322
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Dieser Sedric scheint mir mehr Ausdauer zu 
+haben...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: This Sedric guy seems to have more strength
+than the others...
+'''
+
+[[dialogue]]
+event = 94
+command = 324
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Aber sein Gehilfe steht direkt hinter ihm, 
+er kann nicht im Nahkampf angegriffen werden.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: But his partner is right behind him,
+and he can't be attacked in close combat.
+'''
+
+[[dialogue]]
+event = 94
+command = 326
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten im Verlauf des Kampfes 
+erfahren, welcher zuerst besiegt werden muss.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We'll find out in the course of the
+battle which one has to be taken down first.
+'''
+
+[[dialogue]]
+event = 94
+command = 334
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir dürfen uns nicht zu lange aufhalten 
+lassen! 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We can't get caught up in these battles!
+'''
+
+[[dialogue]]
+event = 94
+command = 336
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Die Gegner so schnell wie möglich 
+überrennen! Alles klar, Kumpel!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Got it! Let's take them out as
+soon as possible!
+'''
+
+[[dialogue]]
+event = 94
+command = 338
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Oder einschläfern bzw. paralysieren und 
+dann fliehen. 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Or put them to sleep or paralyse them
+and then go.
+'''
+
+[[dialogue]]
+event = 94
+command = 345
+original = '''
+\>
+\>INFO: Die Zeit, die dir in den Kämpfen noch 
+\>bleibt, wird in \c[11]Zügen\c[0] dargestellt.
+'''
+patched = '''
+\>
+\>INFO: The time you have left in these
+\>battles is shown in \c[11]turns\c[0].
+'''
+
+[[dialogue]]
+event = 94
+command = 348
+original = '''
+\>
+\>Ein Zug wird verbraucht, wann immer ein beliebiger 
+\>Kampfteilnehmer angreift.
+'''
+patched = '''
+\>
+\>A turn is consumed whenever ANY combatant attacks.
+'''
+
+[[dialogue]]
+event = 94
+command = 351
+original = '''
+\>
+\>Wenn alle Züge verbraucht sind, bist du
+\>komplett eingeholt und \c[11]das Spiel ist verloren\c[0].
+'''
+patched = '''
+\>
+\>When all turns have been used up, you are
+\>completely overtaken and \c[11]the game is lost\c[0].
+'''
+
+[[dialogue]]
+event = 94
+command = 354
+original = '''
+\>
+\>Die Anzahl der Züge wird nach diesem Kampf \c[11]NICHT
+\>zurückgesetzt\c[0] - sie gilt für ALLE Kämpfe.
+'''
+patched = '''
+\>
+\>The number of turns is \c[11]NOT reset\c[0] after this fight.
+\>It applies to ALL battles.
+'''
+
+[[dialogue]]
+event = 94
+command = 364
+original = '''
+\>- Du hast noch \c[11]\v[1863]\c[0] Züge zur Verfügung -
+'''
+patched = '''
+\>- You have \c[11]\v[1863]\c[0] turns left -
+'''
+
+[[dialogue]]
+event = 94
+command = 370
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Es ist ein Wurm und er ist RIESIG!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: It's a worm and it's HUGE!
+'''
+
+[[dialogue]]
+event = 94
+command = 371
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wenn sich das Vieh so ähnlich wie 
+seine kleinen Artgenossen verhält...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: If this creature is like the others of its
+kind...
+'''
+
+[[dialogue]]
+event = 94
+command = 373
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...dann sollten wir uns auf viele Zauber 
+gefasst machen!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...then we should be prepared for a lot of
+spells coming our way!
+'''
+
+[[dialogue]]
+event = 94
+command = 380
+original = '''
+\c[10]Robin\c[0]: Endlich ist es soweit! 
+'''
+patched = '''
+\c[10]Robin\c[0]: It's finally happening!
+'''
+
+[[dialogue]]
+event = 94
+command = 381
+original = '''
+\c[10]Robin\c[0]: Kommt, Leute, wir zeigen diesem adligen 
+Hornochsen, wer hier der Boss ist!
+'''
+patched = '''
+\c[10]Robin\c[0]: Alright everyone, let's show that
+capitalistic pig who's boss here!
+'''
+
+[[dialogue]]
+event = 94
+command = 388
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Zu schade, dass der adelige Hornochse nur 
+seine Vertretung schickt.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Too bad that capitalistic pig is only
+sending his representatives.
+'''
+
+[[dialogue]]
+event = 94
+command = 390
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Kämpft mit allem, was ihr habt, verstanden?!\.
+Eine Niederlage ist nicht drin!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Fight with everything you've got, got it?!\. I
+don't want to think about what happens if we lose!
+'''
+
+[[dialogue]]
+event = 94
+command = 411
+original = '''
+\c[10]Saion\c[0]: Endlich ist es soweit!\. Ihr seid weit 
+gekommen, doch hier ist Endstation! 
+'''
+patched = '''
+\c[10]Saion\c[0]: We finally duel again!\. You've come a long
+way, I'll give you that, but it's the end for you!
+'''
+
+[[dialogue]]
+event = 94
+command = 413
+original = '''
+\c[10]Saion\c[0]: Jetzt werden wir euch zeigen, wer hier im 
+Turnier die Oberhand hat! 
+'''
+patched = '''
+\c[10]Saion\c[0]: Now we'll show you who has the upper hand
+here in the tournament!
+'''
+
+[[dialogue]]
+event = 94
+command = 423
+original = '''
+\c[10]Cibon\c[0]: Apropos Hand...\. Was zum Henker sollen diese 
+angebundenen Dolchwaffen?!
+'''
+patched = '''
+\c[10]Cibon\c[0]: Speaking of hands...\. What's with those
+daggers tied up to your hands like that?!
+'''
+
+[[dialogue]]
+event = 94
+command = 431
+original = '''
+\c[10]Jorn\c[0]: Glaub mir, am liebsten würde ich diese 
+Waffen zur Seite schmeißen und aufgeben.
+'''
+patched = '''
+\c[10]Jorn\c[0]: Trust me, I'd love to just throw these
+weapons away and give up.
+'''
+
+[[dialogue]]
+event = 94
+command = 433
+original = '''
+\c[10]Jorn\c[0]: Aber ich kann nicht!
+'''
+patched = '''
+\c[10]Jorn\c[0]: But I can't!
+'''
+
+[[dialogue]]
+event = 94
+command = 435
+original = '''
+\c[10]Saion\c[0]: Ruhe, Jorn!\. Du machst die ganze Stimmung 
+kaputt!
+'''
+patched = '''
+\c[10]Saion\c[0]: Quiet, Jorn!\. You're ruining the atmosphere!
+'''
+
+[[dialogue]]
+event = 94
+command = 446
+original = '''
+\c[10]Pauamainer Schütze\c[0]: Los, Kumpels!\. Denen zeigen 
+wir, was richtige Minenarbeiter so drauf haben!
+'''
+patched = '''
+\c[10]Pauamainer Archer\c[0]: Come on, everyone!\.
+We'll show them what real miners can do!
+'''
+
+[[dialogue]]
+event = 94
+command = 451
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Los, Kumpel, die machen wir fertig, so wahr 
+wir Soldaten des Briganten-Orden sind!\. Oder waren.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Come on, Kento, we'll finish them off, as
+we were soldiers of the Brigantine Order!\. Or were.
+'''
+
+[[dialogue]]
+event = 94
+command = 458
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ehm...\. ja...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Um...\. Yeah...
+'''
+
+[[dialogue]]
+event = 94
+command = 464
+original = '''
+\c[10]Chef\c[0]: Ei, e neia Geschna!\. Dann zescht mòòl, wòòs 
+ihr so dròòf hòòbt!
+'''
+patched = '''
+\c[10]The Boss\c[0]: Ouhw, yer doahn' pre'ah well!\. Then trah
+wha'evah you gah on meh, ahm wait'n!
+'''
+
+[[dialogue]]
+event = 94
+command = 469
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Bitte was?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: What?
+'''
+
+[[dialogue]]
+event = 95
+command = 18
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Hey!\. Der Kleine kann sich und
+seine Kameraden heilen!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Hey!\. The little one can heal
+himself and the others!
+'''
+
+[[dialogue]]
+event = 95
+command = 22
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Soso..\. Der Kleine kann also
+Heilitems verwenden!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Well then...\. The little one
+can use healing items!
+'''
+
+[[dialogue]]
+event = 95
+command = 29
+original = '''
+\c[10]Jorn:\c[0] Nicht, dass ich es freiwillig tue....
+'''
+patched = '''
+\c[10]Jorn:\c[0] Not that I do it willingly...
+'''
+
+[[dialogue]]
+event = 95
+command = 34
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ich denke, es wäre am besten, 
+wenn er als erstes beseitig wird!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] I think it'd be best if we
+targeted that one first!
+'''
+
+[[dialogue]]
+event = 95
+command = 38
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Ich denk' dann mal er sollte zuerst
+beseitigt werden.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] We should focus on that
+one first.
+'''
+
+[[dialogue]]
+event = 95
+command = 45
+original = '''
+\c[10]Jorn:\c[0] Wie?\. VERDAMMT!\. 
+Wieso immer ich...
+'''
+patched = '''
+\c[10]Jorn:\c[0] What?\. COME ON!\. 
+Why is it always me...
+'''
+
+[[dialogue]]
+event = 95
+command = 62
+original = '''
+\c[10]Jorn:\c[0] Das hast du nun davon, Bruder!
+'''
+patched = '''
+\c[10]Jorn:\c[0] You got what was coming, bro!
+'''
+
+[[dialogue]]
+event = 95
+command = 70
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Jetzt nur noch einer!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Now only one more!
+'''
+
+[[dialogue]]
+event = 95
+command = 73
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Jetzt nur noch einer!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Now only one more!
+'''
+
+[[dialogue]]
+event = 95
+command = 93
+original = '''
+\c[10]Saion:\c[0] Verdammt! 
+Ab jetzt wird es hart!
+'''
+patched = '''
+\c[10]Saion:\c[0] Damn it!
+It's gonna be tough now!
+'''
+
+[[dialogue]]
+event = 95
+command = 102
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Jetzt nur noch einer!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Now only one more!
+'''
+
+[[dialogue]]
+event = 95
+command = 105
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Jetzt nur noch einer!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Now only one more!
+'''
+
+[[dialogue]]
+event = 95
+command = 125
+original = '''
+\c[10]Jorn:\c[0] Gurim!
+'''
+patched = '''
+\c[10]Jorn:\c[0] Gurim!
+'''
+
+[[dialogue]]
+event = 95
+command = 133
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Jetzt nur noch einer!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Now only one more!
+'''
+
+[[dialogue]]
+event = 95
+command = 136
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Jetzt nur noch einer!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Now only one more!
+'''
+
+[[dialogue]]
+event = 95
+command = 156
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Kento!\. ...\. Ich muss schnell
+nen \c[11]Lichtschlag\c[0] verwenden!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Kento!\. ...\.I have to use some
+\c[11]divine light\c[0] quickly!
+'''
+
+[[dialogue]]
+event = 95
+command = 162
+original = '''
+
+Kento ist kampfunfähig! Er kann keine weiteren
+Aktionen ausführen.\.
+'''
+patched = '''
+
+Kento is unable to fight! He cannot take any
+further action.\.
+'''
+
+[[dialogue]]
+event = 95
+command = 165
+original = '''
+
+Ein \c[11]Lichtschlag\c[0] kann ihn wieder
+kampffähig machen!\.
+'''
+patched = '''
+
+Some \c[11]divine light\c[0] can make him
+fight again!\.
+'''
+
+[[dialogue]]
+event = 95
+command = 168
+original = '''
+\>
+Du findest den \c[11]Lichtschlag\c[0] genau wie den
+Heilsirub bei \c[11]Gegenstände\c[0]\<\.
+'''
+patched = '''
+\>
+You can find the \c[11]divine light\c[0] just like the
+heal syrup in \c[11]items\c[0]\<\.
+'''
+
+[[dialogue]]
+event = 95
+command = 182
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Warte Cibon! Ich werfe einen
+\c[11]Lichtschlag"\c[0]
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Hold on Cibon! I'm throwing some
+\c[11]divine light\c[0] your way!
+'''
+
+[[dialogue]]
+event = 95
+command = 188
+original = '''
+\>
+Cibon ist kampfunfähig! Er kann keine weiteren
+Aktionen ausführen.\<\.
+'''
+patched = '''
+\>
+Cibon is unable to fight! He cannot take any
+further action.\>\.
+'''
+
+[[dialogue]]
+event = 95
+command = 191
+original = '''
+\>
+Ein \c[11]Lichtschlag\c[0] kann ihn wieder
+kampffähig machen!\<\.
+'''
+patched = '''
+\>
+Some \c[11]divine light\c[0] can make him
+fight again!\>\.
+'''
+
+[[dialogue]]
+event = 95
+command = 194
+original = '''
+\>
+Du findest den \c[11]Lichtschlag\c[0] genau wie den
+Heilsirub bei \c[11]Gegenstände\c[0]\<\.
+'''
+patched = '''
+\>
+You can find the \c[11]divine light\c[0] just like the
+heal syrup in \c[11]items\c[0]\<\.
+'''
+
+[[dialogue]]
+event = 95
+command = 217
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Sieht so aus, als könnte ich einen
+Heilsirup gut vertragen!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Looks like I could use some
+heal syrup about now!
+'''
+
+[[dialogue]]
+event = 95
+command = 223
+original = '''
+\>
+Verwende einen \c[11]Heilsirub\c[0] um deine Kämpfer zu
+heilen.\<\.
+'''
+patched = '''
+\>
+Use some \c[11]heal syrup\c[0] to heal your characters.\<\.
+'''
+
+[[dialogue]]
+event = 95
+command = 226
+original = '''
+\>
+Wähle \c[11]Gegenstand\c[0] und dann den Heilsirub,
+um diese Aktion auszuführen.\<\.
+'''
+patched = '''
+\>
+Select \c[11]Items\c[0] and then heal syrup
+to perform this action.\<\.
+'''
+
+[[dialogue]]
+event = 95
+command = 240
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Das hat ziemlich reingehauen..
+Ich brauch' nen Heilsirub!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] That hurt quite a bit...
+I need some heal syrup!
+'''
+
+[[dialogue]]
+event = 95
+command = 246
+original = '''
+\>
+Verwende einen \c[11]Heilsirub\c[0] um deine Kämpfer zu
+heilen.\<\.
+'''
+patched = '''
+\>
+Use some \c[11]heal syrup\c[0] to heal your characters.\<\.
+'''
+
+[[dialogue]]
+event = 95
+command = 249
+original = '''
+\>
+Wähle \c[11]Gegenstand\c[0] und dann den Heilsirub,
+um diese Aktion auszuführen.\<\.
+'''
+patched = '''
+\>
+Select \c[11]Items\c[0] and then heal syrup
+to perform this action.\<\.
+'''
+
+[[dialogue]]
+event = 95
+command = 310
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Ohoh...\. Was auch immer dieses Ding 
+vorhat, ich sollte vorbereitet sein!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Ohoh...\. Whatever this thing is up to,
+I should be prepared!
+'''
+
+[[dialogue]]
+event = 95
+command = 316
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] ACHTUNG!\. Die Harpyie scheint einen 
+besonders starken Angriff vorzubereiten!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Hold on!\. The harpy seems to be
+charging an especially powerful attack!
+'''
+
+[[dialogue]]
+event = 95
+command = 318
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Wir sollten uns darauf gefasst machen!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] We should prepare for this!
+'''
+
+[[dialogue]]
+event = 95
+command = 324
+original = '''
+
+Bereite dich auf einen starken Gegenangriff vor!
+Heile deine Charaktere oder lass sie verteidigen.
+'''
+patched = '''
+
+Prepare for a strong counterattack!
+Heal your characters or have them defend.
+'''
+
+[[dialogue]]
+event = 95
+command = 327
+original = '''
+\>
+Um zu verteidigen drücke in der Auswahl \c[11]Esc\c[0] 
+und wähle dann \c[11]Abwehr\c[0].\<\.
+'''
+patched = '''
+\>
+To defend, press \c[11]Esc\c[0] while in the menu
+and then select \c[11]Defend\c[0].\<\.
+'''
+
+[[dialogue]]
+event = 95
+command = 330
+original = '''
+
+Verteidigt ein Charakter, erleidet er nur die 
+Hälfte des eigentlichen Schadens.
+'''
+patched = '''
+
+If a character defends, they halve the damage
+they would normally take.
+'''
+
+[[dialogue]]
+event = 95
+command = 333
+original = '''
+
+Die Verteidigung hält nur einen halben Zug lang.
+Danach kann gleich weiter agiert werden.
+'''
+patched = '''
+
+The defense only lasts half a turn.
+Then you can continue to act afterwards.
+'''
+
+[[dialogue]]
+event = 95
+command = 355
+original = '''
+\c[10]Gegnerische Einheit:\c[0] W...\. Wie geht das?!\. 
+Er ist einem Laser-Schuss ausgewichen!
+'''
+patched = '''
+\c[10]Enemy Soldier:\c[0] H...\. How is this possible?!\.
+He dodged our lasers!
+'''
+
+[[dialogue]]
+event = 95
+command = 369
+original = '''
+\c[10]Gegnerische Einheit:\c[0] Was für ein Schutzschild ist 
+das?!\. Unsere Schüsse zeigen kaum eine Wirkung!
+'''
+patched = '''
+\c[10]Enemy Soldier:\c[0] What kind of shield is that?!\.
+Our rifles didn't even dent the thing!
+'''
+
+[[dialogue]]
+event = 95
+command = 406
+original = '''
+\>
+\>INFO: Ein Kampfteilnehmer ist von dem Zustand 
+\>"Verwirrung" befallen.
+'''
+patched = '''
+\>
+\>INFO: A combatant has been inflicted with the
+\>"confusion" status effect.
+'''
+
+[[dialogue]]
+event = 95
+command = 409
+original = '''
+\>
+\>Verwirrung bewirkt, dass das Opfer bei seiner 
+\>Aktion unkontrolliert ein zufälliges Ziel angreift.
+'''
+patched = '''
+\>
+\>Confusion causes the victim to uncontrollably
+\>attack a random target.
+'''
+
+[[dialogue]]
+event = 95
+command = 412
+original = '''
+\>
+\>Wobei die Wahrscheinlichkeit, dass sich das Ziel 
+\>auf der eigenen Seite befindet, höher ist.
+'''
+patched = '''
+\>
+\>The likelihood that the target attacks their
+\>own side is higher.
+'''
+
+[[dialogue]]
+event = 95
+command = 415
+original = '''
+\>
+\>Verwirrung vergeht nach einer bestimmten 
+\>Anzahl von Zügen des Opfers.
+'''
+patched = '''
+\>
+\>Confusion passes after a certain number
+\>of moves by the victim.
+'''
+
+[[dialogue]]
+event = 95
+command = 418
+original = '''
+\>
+\>Ansonsten kann sie mit Zauber, Items oder 
+\>einem physischen Treffer "geheilt" werden.
+'''
+patched = '''
+\>
+\>Otherwise, it can be cured with spells,
+\>items, or a physical hit.
+'''
+
+[[dialogue]]
+event = 95
+command = 430
+original = '''
+\>
+\>INFO: Ein Kampfteilnehmer ist von dem Zustand 
+\>"Stummheit" befallen.
+'''
+patched = '''
+\>
+\>INFO: A combatant has been inflicted with the
+\>"silence" status effect.
+'''
+
+[[dialogue]]
+event = 95
+command = 433
+original = '''
+\>
+\>Stummheit hindert das Opfer daran, jegliche 
+\>Signum-Technik anzuwenden.
+'''
+patched = '''
+\>
+\>Silence prevents the victim from using
+\>any Signum technique.
+'''
+
+[[dialogue]]
+event = 95
+command = 436
+original = '''
+\>
+\>Das Anwenden von Spezial-Techniken ist aber 
+\>nach wie vor möglich.
+'''
+patched = '''
+\>
+\>However, the use of special techniques
+\>is still possible.
+'''
+
+[[dialogue]]
+event = 95
+command = 439
+original = '''
+\>
+\>Stummheit vergeht mit der Zeit oder lässt sich 
+\>mit bestimmten Zaubern und Items heilen
+'''
+patched = '''
+\>
+\>Silence fades over time, but can be cured
+\>with certain spells and items.
+'''
+
+[[dialogue]]
+event = 95
+command = 451
+original = '''
+\>
+\>INFO: Ein Kampfteilnehmer ist von dem Zustand 
+\>"Vergiftung" befallen.
+'''
+patched = '''
+\>
+\>INFO: A combatant has been inflicted with the
+\>"poison" status effect.
+'''
+
+[[dialogue]]
+event = 95
+command = 454
+original = '''
+\>
+\>Vergiftung bewirkt jedes Mal, wenn das Opfer
+\>eine Aktion ausführt, etwas Schaden.
+'''
+patched = '''
+\>
+\>Poison does some damage every time the
+\>victim performs an action.
+'''
+
+[[dialogue]]
+event = 95
+command = 457
+original = '''
+\>
+\>Die Höhe des Schadens richtet sich nach den 
+\>maximalen HP des Opfers.
+'''
+patched = '''
+\>
+\>The amount of damage depends on the
+\>victim's maximum HP.
+'''
+
+[[dialogue]]
+event = 95
+command = 460
+original = '''
+\>
+\>Dieser Schaden kann das Opfer kampfunfähig 
+\>machen, wenn die HP auf 0 sinken.
+'''
+patched = '''
+\>
+\>This damage can kill the victim if their
+\>HP drops to 0.
+'''
+
+[[dialogue]]
+event = 95
+command = 463
+original = '''
+\>
+\>Vergiftung vergeht mit der Zeit oder lässt sich 
+\>mit bestimmten Zaubern und Items heilen.
+'''
+patched = '''
+\>
+\>Poison passes over time, but can be cured with
+\>certain spells and items.
+'''
+
+[[dialogue]]
+event = 95
+command = 475
+original = '''
+\>
+\>INFO: Ein Kampfteilnehmer ist von dem Zustand 
+\>"Schlaf" befallen.
+'''
+patched = '''
+\>
+\>INFO: A combatant has been inflicted with the
+\>"sleep" status effect.
+'''
+
+[[dialogue]]
+event = 95
+command = 478
+original = '''
+\>
+\>Schlaf bewirkt, dass das Opfer keine Aktionen 
+\>mehr ausführen kann.
+'''
+patched = '''
+\>
+\>Sleep causes the victim to be unable to
+\>take any action.
+'''
+
+[[dialogue]]
+event = 95
+command = 481
+original = '''
+\>
+\>Wird das Opfer physisch getroffen, besteht eine 
+\>hohe Chance, dass der Zustand verschwindet.
+'''
+patched = '''
+\>
+\>If the victim is physically hit, there is a high
+\>chance that the condition will disappear.
+'''
+
+[[dialogue]]
+event = 95
+command = 484
+original = '''
+\>
+\>Ansonsten vergeht er mit der Zeit oder lässt sich 
+\>mit bestimmten Zaubern und Items heilen.
+'''
+patched = '''
+\>
+\>Otherwise, it passes over time, but can be cured
+\>with certain spells and items.
+'''
+
+[[dialogue]]
+event = 95
+command = 496
+original = '''
+\>
+\>INFO: Ein Kampfteilnehmer ist von dem Zustand 
+\>"Blendung" befallen.
+'''
+patched = '''
+\>
+\>INFO: A combatant has been inflicted with the
+\>"glare" status effect.
+'''
+
+[[dialogue]]
+event = 95
+command = 499
+original = '''
+\>
+\>Blendung senkt die Trefferquote des Opfers 
+\>radikal.
+'''
+patched = '''
+\>
+\>Glare drastically lowers the victim's accuracy.
+'''
+
+[[dialogue]]
+event = 95
+command = 502
+original = '''
+\>
+\>Aber Achtung: Nicht alle Techniken stehen unter 
+\>dem Einfluss dieses Zustandes.
+'''
+patched = '''
+\>
+\>But be careful: Not all techniques are affected
+\>by this condition.
+'''
+
+[[dialogue]]
+event = 95
+command = 505
+original = '''
+\>
+\>Signum-Zauber und manche Spezial-Techniken treffen 
+\>trotz Blendung mit gleicher Wahrscheinlichkeit.
+'''
+patched = '''
+\>
+\>Signum spells and some special techniques hit with
+\>the same accuracy despite the glare status effect.
+'''
+
+[[dialogue]]
+event = 95
+command = 508
+original = '''
+\>
+\>Blendung vergeht mit der Zeit oder lässt sich 
+\>mit bestimmten Zaubern und Items heilen.
+'''
+patched = '''
+\>
+\>Glare passes over time, but can be cured with
+\>certain spells and items.
+'''
+
+[[dialogue]]
+event = 95
+command = 520
+original = '''
+\>
+\>INFO: Ein Kampfteilnehmer ist von dem Zustand 
+\>"Paralyse" befallen.
+'''
+patched = '''
+\>
+\>INFO: A combatant has been inflicted with the
+\>"paralysis" status effect.
+'''
+
+[[dialogue]]
+event = 95
+command = 523
+original = '''
+\>
+\>Paralyse lässt die Aktionen des Opfers mit einer 
+\>bestimmten Wahrscheinlichkeit ausfallen.
+'''
+patched = '''
+\>
+\>Paralysis makes the victim's actions unlikely
+\>to happen.
+'''
+
+[[dialogue]]
+event = 95
+command = 526
+original = '''
+\>
+\>Man kann zwar die Aktion auswählen, ob sie 
+\>aber auch ausgeführt wird, hängt vom Zufall ab.
+'''
+patched = '''
+\>
+\>You can choose the action, but whether or
+\>not it is carried out depends on chance.
+'''
+
+[[dialogue]]
+event = 95
+command = 529
+original = '''
+\>
+\>Wird das Opfer physisch getroffen, besteht eine 
+\>geringe Chance, dass der Zustand verschwindet.
+'''
+patched = '''
+\>
+\>If the victim is physically hit, there is little
+\>chance that the condition will disappear.
+'''
+
+[[dialogue]]
+event = 95
+command = 532
+original = '''
+\>
+\>Paralyse vergeht mit der Zeit oder lässt sich 
+\>mit bestimmten Zaubern und Items heilen.
+'''
+patched = '''
+\>
+\>Paralysis passes over time, but can be cured with
+\>certain spells and items.
+'''
+
+[[dialogue]]
+event = 95
+command = 544
+original = '''
+\>
+\>INFO: Achtung! Dieser Gegner besitzt einen
+\>Schutzschild.
+'''
+patched = '''
+\>
+\>INFO: Attention! This enemy has a magic
+\>shield.
+'''
+
+[[dialogue]]
+event = 95
+command = 547
+original = '''
+\>
+\>Schutzschilder können physischen und/oder 
+\>magischen Schaden stark reduzieren.
+'''
+patched = '''
+\>
+\>Shields can greatly reduce physical and/or
+\>magical damage.
+'''
+
+[[dialogue]]
+event = 95
+command = 550
+original = '''
+\>
+\>Allerdings kann jeder Schutzschild durch einen 
+\>oder mehrere passende Treffer gebrochen werden.
+'''
+patched = '''
+\>
+\>However, each magic shield can be broken
+\>by one or more matching hits.
+'''
+
+[[dialogue]]
+event = 95
+command = 553
+original = '''
+\>
+\>Welche Art von Treffer den Schild brechen lässt, 
+\>muss hierbei herausgefunden werden.
+'''
+patched = '''
+\>
+\>The type of attack that breaks the shield must
+\>be found.
+'''
+
+[[dialogue]]
+event = 95
+command = 556
+original = '''
+\>
+\>Eine magische Lupe kann hierbei helfen!
+'''
+patched = '''
+\>
+\>Some magic lens can help!
+'''
+
+[[dialogue]]
+event = 95
+command = 569
+original = '''
+\c[10]????:\c[0] Gleich ist's vorüber... 
+'''
+patched = '''
+\c[10]????:\c[0] It shall be over soon... 
+'''
+
+[[dialogue]]
+event = 95
+command = 590
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Kumpel!\. Pass auf, dass du dich nicht 
+überanstrengst!\. Du weißt ja...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Kento!\. Careful not to overwork yourself
+you know...
+'''
+
+[[dialogue]]
+event = 95
+command = 592
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Laber keinen Mist!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: No kidding!
+'''
+
+[[dialogue]]
+event = 95
+command = 609
+original = '''
+\c[10]Saion\c[0]: Ha, da schaut ihr,\. nicht wahr,\. NICHT WAHR?!
+'''
+patched = '''
+\c[10]Saion\c[0]: Ha, look at that,\. I told you it'd work,\.
+DIDN'T I?!
+'''
+
+[[dialogue]]
+event = 95
+command = 614
+original = '''
+\c[10]Saion\c[0]: Beim nächsten Mal bist du weg von der 
+Bildfläche, wart's nur ab!
+'''
+patched = '''
+\c[10]Saion\c[0]: Next time you're on the scene, just you
+wait and see!
+'''
+
+[[dialogue]]
+event = 95
+command = 632
+original = '''
+\c[10]Jorn\c[0]: Du meine Güte!\. Es hat gewirkt.
+'''
+patched = '''
+\c[10]Jorn\c[0]: Good grief!\. It actually worked.
+'''
+
+[[dialogue]]
+event = 95
+command = 633
+original = '''
+\c[10]Saion\c[0]: Was hab ich gesagt?
+'''
+patched = '''
+\c[10]Saion\c[0]: What did I tell you?
+'''
+
+[[dialogue]]
+event = 95
+command = 638
+original = '''
+\c[10]Jorn\c[0]: Da,\. siehst du wie wenig es bringt?!
+'''
+patched = '''
+\c[10]Jorn\c[0]: There,\. you see how little it does?!
+'''
+
+[[dialogue]]
+event = 95
+command = 656
+original = '''
+\c[13]Soko\c[0]: Jahaa~! Seht ihr wie unbedeutend mein 
+Einfluss ist!?\. Na?!
+'''
+patched = '''
+\c[13]Soko\c[0]: Yeah! See how little I can do over here?\.
+Right?!
+'''
+
+[[dialogue]]
+event = 95
+command = 662
+original = '''
+\c[10]Jorn\c[0]: ... \.Die macht mir Angst.
+'''
+patched = '''
+\c[10]Jorn\c[0]: It scares me how stupid Saion can be.
+'''
+
+[[dialogue]]
+event = 95
+command = 695
+original = '''
+\c[1]Kento\c[0]: Es sind so viele!\. Macht es überhaupt Sinn 
+zu kämpfen?!
+'''
+patched = '''
+\c[1]Kento\c[0]: We're outnumbered!\. Does it make any sense
+to keep fighting them?!
+'''
+
+[[dialogue]]
+event = 95
+command = 714
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Nichts wie weg hier!)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Let's just get out of here!)
+'''
+
+[[dialogue]]
+event = 95
+command = 747
+original = '''
+\c[10]Soldat\c[0]: Genau diese Situation hab ich kommen 
+sehen, heilige Scheiße!
+'''
+patched = '''
+\c[10]Soldier\c[0]: That's exactly what I saw coming,\.
+holy shit!
+'''
+
+[[dialogue]]
+event = 95
+command = 758
+original = '''
+\c[10]Sedric\c[0]: Tsk,\. der Kampf ist noch nicht entschieden!
+'''
+patched = '''
+\c[10]Sedric\c[0]: Tsk,\. the battle isn't over yet!
+'''
+
+[[dialogue]]
+event = 95
+command = 779
+original = '''
+Verstärkung ist eingetroffen. 
+Ihr seid umzingelt.
+'''
+patched = '''
+Reinforcements have arrived.\.
+You are surrounded.
+'''
+
+[[dialogue]]
+event = 95
+command = 790
+original = '''
+\>- Du hast noch \c[11]\v[1863]\c[0] Züge zur Verfügung -
+'''
+patched = '''
+\>- You have \c[11]\v[1863]\c[0] turns left -
+'''
+
+[[dialogue]]
+event = 95
+command = 835
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Nichts wie weg hier!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Let's get outta here!
+'''
+
+[[dialogue]]
+event = 95
+command = 839
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Fliehen, sofort!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Run for it!
+'''
+
+[[dialogue]]
+event = 95
+command = 842
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Jetzt können wir fliehen!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We can escape!\. Now!
+'''
+
+[[dialogue]]
+event = 95
+command = 908
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Einen haben wir!\, Wie war das mit deiner 
+Prognose, Robin?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: That's one down!\. How's it looking on your
+side, Robin?
+'''
+
+[[dialogue]]
+event = 95
+command = 913
+original = '''
+\c[10]Robin\c[0]: Noch ist der Kampf nicht vorbei!
+'''
+patched = '''
+\c[10]Robin\c[0]: This fight isn't over yet!
+'''
+
+[[dialogue]]
+event = 95
+command = 935
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: So geht das, Männer!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: That's how it's done, men!
+'''
+
+[[dialogue]]
+event = 95
+command = 976
+original = '''
+\c[10]Jorn\c[0]: Lass dir das bitte ENDLICH MAL eine Lektion 
+sein, du Dickkopf!
+'''
+patched = '''
+\c[10]Jorn\c[0]: Please let this be THE FINAL TIME you need
+to learn your lesson, you moron!
+'''
+
+[[dialogue]]
+event = 96
+command = 5
+original = '''
+\c[1]Seldan:\c[0] Ich werde euch zeigen mit welchem Feuer  
+wir hier spielen!
+'''
+patched = '''
+\c[1]Seldan:\c[0] I'll show you the fire we're playing with!
+'''
+
+[[dialogue]]
+event = 96
+command = 10
+original = '''
+\c[1]Seldan:\c[0] Und seht mich nur als ein Beispiel für 
+viele, die kommen werden!
+'''
+patched = '''
+\c[1]Seldan:\c[0] And just see me as an example for those on
+their way!
+'''
+
+[[dialogue]]
+event = 96
+command = 15
+original = '''
+\c[1]Seldan:\c[0] Solange Leute wie ich existieren, kann 
+kein Frieden herrschen!
+'''
+patched = '''
+\c[1]Seldan:\c[0] As long as there are people like me,
+there'll never be peace!
+'''
+
+[[dialogue]]
+event = 96
+command = 20
+original = '''
+\c[1]Seldan:\c[0] Doch ich werde die Quelle allen Übels, die 
+Quelle all dieser Macht, zerstören!
+'''
+patched = '''
+\c[1]Seldan:\c[0] But I WILL destroy the source of all this
+evil, the source of all this power!
+'''
+
+[[dialogue]]
+event = 96
+command = 22
+original = '''
+\c[1]Seldan:\c[0] Und diese lächerliche Maschine wird mich 
+nicht daran hindern!
+'''
+patched = '''
+\c[1]Seldan:\c[0] And this laughable machine isn't going to
+stop me!
+'''
+
+[[dialogue]]
+event = 96
+command = 24
+original = '''
+\c[1]Seldan:\c[0] Zähl deine letzten Sekunden!!
+'''
+patched = '''
+\c[1]Seldan:\c[0] It's time to finish this,\. once and for
+all!!
+'''
+
+[[dialogue]]
+event = 96
+command = 36
+original = '''
+\c[1]Seldan:\c[0] Ich werde euch zeigen, mit welchem Feuer  
+wir hier spielen!
+'''
+patched = '''
+\c[1]Seldan:\c[0] I'll show you the fire we're playing with!
+'''
+
+[[dialogue]]
+event = 96
+command = 45
+original = '''
+\c[1]Seldan:\c[0] Und seht mich nur als ein Beispiel für 
+viele, die kommen werden!
+'''
+patched = '''
+\c[1]Seldan:\c[0] And just see me as an example for those on
+their way!
+'''
+
+[[dialogue]]
+event = 96
+command = 54
+original = '''
+\c[1]Seldan:\c[0] So lange Leute wie ich existieren, kann 
+kein Frieden herrschen!
+'''
+patched = '''
+\c[1]Seldan:\c[0] As long as there are people like me,
+there'll never be peace!
+'''
+
+[[dialogue]]
+event = 96
+command = 76
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Redet! Wer seid ihr!? Was wollt ihr!?
+Und wieso greift ihr mich an?!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Answer me! Who are you people?! What do
+you want with me?! Why are you attacking me?!
+'''
+
+[[dialogue]]
+event = 96
+command = 78
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Verdammt, wo bleiben die anderen?!)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Damn it, where are the others?!)
+'''
+
+[[dialogue]]
+event = 96
+command = 89
+original = '''
+\c[10]????\c[0]: \s[3]Licht in weiter Dunkelheit,\. erhelle den Weg,\. 
+leite die Kraft\.\s[5] und führe sie her!
+'''
+patched = '''
+\c[10]????\c[0]: \s[3]From the darkest shrouds,\. the way shall be
+illuminated.\.\s[5] Bring that light and strike fiercely!
+'''
+
+[[dialogue]]
+event = 96
+command = 105
+original = '''
+\c[10]Saion\c[0]: Jetzt werdet ihr den Preis dafür zahlen, 
+dass ihr euch mit uns angelegt habt!
+'''
+patched = '''
+\c[10]Saion\c[0]: Now you're gonna pay the price for messing
+with us in the first place!
+'''
+
+[[dialogue]]
+event = 96
+command = 107
+original = '''
+\c[10]Saion\c[0]: \s[3]ERSTE ZINKAR-RACHESCHLAG-TECHNIK!
+'''
+patched = '''
+\c[10]Saion\c[0]: \s[3]ZINKAR REVENGE ATTACK NUMBER ONE!
+'''
+
+[[dialogue]]
+event = 96
+command = 121
+original = '''
+\c[10]Saion\c[0]: Los Jorn, jetzt bist du dran!\. Zeig's ihnen!
+'''
+patched = '''
+\c[10]Saion\c[0]: Alright Jorn, now it's your turn!\.
+Show it to them!
+'''
+
+[[dialogue]]
+event = 96
+command = 122
+original = '''
+\c[10]Jorn\c[0]: NEIN!\. Ich werde NICHT diese schwachsinnige 
+Technik ausführen!
+'''
+patched = '''
+\c[10]Jorn\c[0]: NO!\. I will NOT do this idiotic technique!
+'''
+
+[[dialogue]]
+event = 96
+command = 124
+original = '''
+\c[10]Saion\c[0]: Jorn?!\. Wenn du dich jetzt stur stellst, ...
+'''
+patched = '''
+\c[10]Saion\c[0]: Jorn?!\. If you choose to be stubborn now...
+'''
+
+[[dialogue]]
+event = 96
+command = 125
+original = '''
+\c[10]Saion\c[0]: ... dann bist DU derjenige der die 
+Schuld trägt, sollten wir verlieren!
+'''
+patched = '''
+\c[10]Saion\c[0]: ...then YOU are the one to blame if we
+lose!
+'''
+
+[[dialogue]]
+event = 96
+command = 127
+original = '''
+\c[10]Jorn\c[0]: Wir verlieren so oder so, egal ob es mache 
+oder nicht!
+'''
+patched = '''
+\c[10]Jorn\c[0]: We'll lose one way or the other, no matter
+whether it works or not!
+'''
+
+[[dialogue]]
+event = 96
+command = 129
+original = '''
+\c[10]Saion\c[0]: Dann beweise mir das!
+'''
+patched = '''
+\c[10]Saion\c[0]: Then prove it to me!
+'''
+
+[[dialogue]]
+event = 96
+command = 130
+original = '''
+\c[10]Jorn\c[0]: ...\.Wie du meinst,\. also dann...\^
+'''
+patched = '''
+\c[10]Jorn\c[0]: As you wish,\. okay then...\^
+'''
+
+[[dialogue]]
+event = 96
+command = 131
+original = '''
+\c[10]Saion\c[0]: MIT DEM SPRUCH!
+'''
+patched = '''
+\c[10]Saion\c[0]: WITH THE BATTLE CRY!
+'''
+
+[[dialogue]]
+event = 96
+command = 132
+original = '''
+\c[10]Jorn\c[0]: Gaa...\. \s[2]zweite Zink...\^
+'''
+patched = '''
+\c[10]Jorn\c[0]: Gah... \s[2]zinkar rev...\^
+'''
+
+[[dialogue]]
+event = 96
+command = 133
+original = '''
+\c[10]Saion\c[0]: LAUTER!
+'''
+patched = '''
+\c[10]Saion\c[0]: LOUDER!
+'''
+
+[[dialogue]]
+event = 96
+command = 134
+original = '''
+\c[10]Jorn\c[0]: \s[3]ZWEITE ZINKAR-RACHESCHLAG-TECHNIK!
+'''
+patched = '''
+\c[10]Jorn\c[0]: \s[3]ZINKAR REVENGE ATTACK NUMBER TWO!
+'''
+
+[[dialogue]]
+event = 96
+command = 150
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Jetzt ist Schluss!\. Ich hab genug gehört!\.
+Ich weiß nicht was mit dir geschehen ist...
+'''
+patched = '''
+\c[4]\n[4]\c[0]: It's over now!\. I've heard enough!\.
+I don't know what happened to you...
+'''
+
+[[dialogue]]
+event = 96
+command = 152
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Aber jetzt ist nicht der Zeitpunkt um das 
+zu klären!
+'''
+patched = '''
+\c[4]\n[4]\c[0]: But now's not the time to figure it out!
+'''
+
+[[dialogue]]
+event = 96
+command = 154
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Wir werden noch reden, mein Junge!
+'''
+patched = '''
+\c[4]\n[4]\c[0]: We shall meet again, my son!
+'''
+
+[[dialogue]]
+event = 96
+command = 162
+original = '''
+\c[1]Kento\c[0]: DU BIST AN ALLEM SCHULD!\. DU ALLEINE! 
+'''
+patched = '''
+\c[1]Kento\c[0]: YOU'RE THE REASON WHY EVERYONE'S SUFFERING!\.
+YOU ALONE!
+'''
+
+[[dialogue]]
+event = 96
+command = 164
+original = '''
+\c[1]Kento\c[0]: DU WIRST MICH NICHT UNTERKRIEGEN!\. NIEMALS!
+'''
+patched = '''
+\c[1]Kento\c[0]: YOU'LL NEVER GET ME TO SURRENDER TO YOU!\.
+EVER!
+'''
+
+[[dialogue]]
+event = 96
+command = 182
+original = '''
+\c[1]Kento\c[0]: DU HAST KEIN RECHT HIER ZU 
+STEHEN!\. STIRB!\. VERRECKE!!
+'''
+patched = '''
+\c[1]Kento\c[0]: YOU HAVE NO RIGHT TO LIVE!\. DIE!\.
+DIE DAMN YOU!!
+'''
+
+[[dialogue]]
+event = 96
+command = 214
+character = '''Genyu'''
+original = '''
+(\c[4]\n[4]\c[0]: Was...\. was ist das für eine Wut in ihm?!) 
+'''
+patched = '''
+(\c[4]\n[4]\c[0]: This anger...\. What's gotten into him?!)
+'''
+
+[[dialogue]]
+event = 96
+command = 232
+original = '''
+\c[10]Sedric\c[0]: Spürt meinen Zorn!
+'''
+patched = '''
+\c[10]Sedric\c[0]: Feel my wrath!
+'''
+
+[[dialogue]]
+event = 96
+command = 248
+original = '''
+\c[10]Robin\c[0]: So grün wie ihr noch seid habt ihr keine 
+Chance gegen uns!\. Versucht es erst gar nicht! 
+'''
+patched = '''
+\c[10]Robin\c[0]: You're still a bunch of rookies, you won't
+stand any chance against us!\. Don't even try it!
+'''
+
+[[dialogue]]
+event = 96
+command = 254
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Aha? Frag mich nich' wieso, aber irgend wie 
+seh' ich eindeutig mehr Grün auf eurer Seite.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Huh? Don't ask me why, but somehow, I see
+more inexperienced fighters on the other side.
+'''
+
+[[dialogue]]
+event = 96
+command = 259
+original = '''
+\c[10]Robin\c[0]: Die dummen Sprüche werde ich euch schon 
+ausschießen!
+'''
+patched = '''
+\c[10]Robin\c[0]: My arrows are going to knock that stupidity
+right out of your mouth!
+'''
+
+[[dialogue]]
+event = 96
+command = 279
+original = '''
+\c[10]Saion\c[0]: SPÜRT DEN ZORN DER ZINKAR-BRÜRDER,\.
+GRAUSAMER DENN JE!
+'''
+patched = '''
+\c[10]Saion\c[0]: FEEL THE WRATH OF THE ZINKAR BROTHERS,\.
+CRUELER THAN EVER!
+'''
+
+[[dialogue]]
+event = 96
+command = 281
+original = '''
+\c[10]Saion\c[0]: ERSTE ZINKAR-RACHESCHLAG-TECHNIK!
+'''
+patched = '''
+\c[10]Saion\c[0]: ZINKAR REVENGE ATTACK NUMBER ONE!
+'''
+
+[[dialogue]]
+event = 96
+command = 298
+original = '''
+\c[10]Saion\c[0]: Los Jorn! Mach sie fertig mit deiner neuen 
+Spezialtechnik!
+'''
+patched = '''
+\c[10]Saion\c[0]: Let's go, Jorn! Finish them off with your
+new special technique!
+'''
+
+[[dialogue]]
+event = 96
+command = 300
+original = '''
+\c[10]Jorn\c[0]: Was?\. Diese ach so tolle Spezialtechnik 
+ist mir bisher noch kein einziges Mal gelungen!
+'''
+patched = '''
+\c[10]Jorn\c[0]: What?\. This oh so great special technique has
+never worked before!
+'''
+
+[[dialogue]]
+event = 96
+command = 303
+original = '''
+\c[10]Jorn\c[0]: Vergiss es!\. Ich werde mich hier nicht 
+blamieren!
+'''
+patched = '''
+\c[10]Jorn\c[0]: Forget it!\. I will NOT make a fool of myself
+here!
+'''
+
+[[dialogue]]
+event = 96
+command = 305
+original = '''
+\c[10]Saion\c[0]: Stell dich nicht so an oder willst du, dass 
+die Dolche heute Abend wieder dran bleiben?
+'''
+patched = '''
+\c[10]Saion\c[0]: Quit whining, will you? Or do you want
+those daggers to be stuck to your hands tonight?
+'''
+
+[[dialogue]]
+event = 96
+command = 308
+original = '''
+\c[10]Jorn\c[0]: Args! Diese verdammten Dolche... \.
+Was auch immer!
+'''
+patched = '''
+\c[10]Jorn\c[0]: Argh! These damn daggers...\. Ok fine!
+'''
+
+[[dialogue]]
+event = 96
+command = 310
+original = '''
+\c[10]Saion\c[0]: Mit dem Spruch, und zwar aus vollem Herzen!
+'''
+patched = '''
+\c[10]Saion\c[0]: With the battle cry, and put your heart
+into it!
+'''
+
+[[dialogue]]
+event = 96
+command = 313
+original = '''
+\c[10]Jorn\c[0]: JAJA!\. DRITTE,\. VERDAMMTE \s[2]ZINKAR-FÜR-WELCHE-
+RACHE-AUCH-IMMER-RACHESCHLAG-TECHNIK!
+'''
+patched = '''
+\c[10]Jorn\c[0]: OKAY OKAY!\.\s[2] ZINKAR REVENGE ATTACK OF
+ABSOLUTELY UNMATCHED STUPIDITY NUMBER THREE!
+'''
+
+[[dialogue]]
+event = 96
+command = 332
+original = '''
+\c[10]Chef\c[0]: Jetz' zesch isch eisch mal, wie dòòs lewwen 
+inna Grub is!
+'''
+patched = '''
+\c[10]The Boss\c[0]: Nah is' 'bout tahm ah show ya wha'
+lahf's lahk in th' pit!
+'''
+
+[[dialogue]]
+event = 96
+command = 346
+original = '''
+\c[10]Chef\c[0]: So lòòngsòòm bin isch grimmelwiedisch!\.
+Jetz' kriehd ihr Fäng!
+'''
+patched = '''
+\c[10]The Boss\c[0]: Ahm slowl' havin' ter use moah of mah
+strength!\. Ahv gotch' now!
+'''
+
+[[dialogue]]
+event = 96
+command = 360
+original = '''
+\c[10]Chef\c[0]: Ei jòò, nesch schlescht!\. Da holl isch wohl 
+bessa mei Schdärgedrong!
+'''
+patched = '''
+\c[10]The Boss\c[0]: Ouhw man, nah' bad!\. I bettah use'r focus
+ahn mah attack!
+'''
+
+[[dialogue]]
+event = 97
+command = 8
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] So!\. 
+Jetzt kommt die 3er-Combo!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Alright!\.
+Here comes the 3-Point Combo!
+'''
+
+[[dialogue]]
+event = 97
+command = 14
+original = '''
+\>
+Da Kento nun \c[11]2 SP\c[0] hat (Punkte unter dem Namen),
+kann er eine \c[11]Spezialattacke\c[0] ausführen.\<\.
+'''
+patched = '''
+\>
+Since Kento now has \c[11]2 SP\c[0] (the points under his
+name), he can use a \c[11]special ability\c[0].\<\.
+'''
+
+[[dialogue]]
+event = 97
+command = 17
+original = '''
+\>
+Du findest sie hier unter \c[11]Speerkunst\c[0]\<\.
+'''
+patched = '''
+\>
+You can find them under \c[11]Spear Arts\c[0].\<\.
+'''
+
+[[dialogue]]
+event = 97
+command = 19
+original = '''
+\>
+SP bekommt man jedesmal, wenn man mit einer
+\c[11]offensiven Aktion\c[0] einen Treffer landet.
+'''
+patched = '''
+\>
+You get SP every time you land a \c[11]hit\c[0]
+with an offensive action.
+'''
+
+[[dialogue]]
+event = 97
+command = 32
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Jetzt fliegt die Axt, Freundchen!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Now the axe is ready for a spin!
+'''
+
+[[dialogue]]
+event = 97
+command = 37
+original = '''
+\>
+Da Cibon nun \c[11]2 SP\c[0] hat (Punkte unter dem Namen),
+kann er eine \c[11]Spezialattacke\c[0] ausführen.\<\.
+'''
+patched = '''
+\>
+Since Cibon now has \c[11]2 SP\c[0] (the points under his
+name), he can use a \c[11]special ability\c[0].\<\.
+'''
+
+[[dialogue]]
+event = 97
+command = 40
+original = '''
+\>
+Du findest sie hier unter \c[11]Axt-Technik\c[0]\<\.
+'''
+patched = '''
+\>
+You can find them under \c[11]Axe Arts\c[0].\<\.
+'''
+
+[[dialogue]]
+event = 97
+command = 42
+original = '''
+\>
+SP bekommt man jedesmal, wenn man mit einer
+\c[11]offensiven Aktion\c[0] einen Treffer landet.
+'''
+patched = '''
+\>
+You get SP every time you land a \c[11]hit\c[0]
+with an offensive action.
+'''
+
+[[dialogue]]
+event = 97
+command = 70
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] 3 gegen 2\., aber sie
+scheinen unerfahren im Kampf.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Three on two,\. but they
+seem inexperienced with combat.
+'''
+
+[[dialogue]]
+event = 97
+command = 72
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Wir konzentrieren uns auf einen
+Gegner und attackieren bis er fällt.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Let's focus on one of them and
+attack that one until he falls.
+'''
+
+[[dialogue]]
+event = 97
+command = 74
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Also einen nach dem anderen 
+ausschalten!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] So take them down one
+at a time!
+'''
+
+[[dialogue]]
+event = 97
+command = 76
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Okay. Verstanden, Kumpel.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Okay. Understood.
+'''
+
+[[dialogue]]
+event = 97
+command = 81
+original = '''
+\>
+Wähle \c[11]Angriff\c[0], um eine Attacke mit der Waffe 
+auszuführen.\<\.
+'''
+patched = '''
+\>
+Choose \c[11]Attack\c[0] to attack an enemy.\<\.
+'''
+
+[[dialogue]]
+event = 98
+command = 5
+character = '''Genyu'''
+original = '''
+\c[1]\n[4]:\c[0] Einen nach den anderen beseitigen!
+'''
+patched = '''
+\c[1]\n[4]:\c[0] Eliminate them one by one!
+'''
+
+[[dialogue]]
+event = 98
+command = 6
+character = '''Genyu'''
+original = '''
+\c[1]\n[4]:\c[0] Konzentriert euch auf ein Ziel 
+und zieht die Sache durch!
+'''
+patched = '''
+\c[1]\n[4]:\c[0] Concentrate on one target
+at a time!
+'''
+
+[[dialogue]]
+event = 98
+command = 8
+original = '''
+\c[1]Soldaten:\c[0] Jawohl, Sir!
+'''
+patched = '''
+\c[1]Soldiers:\c[0] Yes, sir!
+'''
+
+[[dialogue]]
+event = 98
+command = 85
+character = '''Genyu'''
+original = '''
+\c[1]\n[4]:\c[0] Genug jetzt!
+Bereitet euch auf euer Ende vor!
+'''
+patched = '''
+\c[1]\n[4]:\c[0] Enough now!
+Prepare to meet your end!
+'''
+
+[[dialogue]]
+event = 98
+command = 100
+character = '''Genyu'''
+original = '''
+\c[1]\n[4]:\c[0] War das etwa schon alles? \|
+Lachhaft! 
+'''
+patched = '''
+\c[1]\n[4]:\c[0] Was that all?\|
+Ridiculous!
+'''
+
+[[dialogue]]
+event = 98
+command = 102
+character = '''Genyu'''
+original = '''
+\c[1]\n[4]:\c[0] Wenn ich daran denke,\. wie wir 
+uns Monate auf diese Schlacht vorbereitet haben!
+'''
+patched = '''
+\c[1]\n[4]:\c[0] And to think that we've been
+preparing this battle for months!
+'''
+
+[[dialogue]]
+event = 116
+command = 41
+original = '''
+\>                 ...Was ist das?\<
+'''
+patched = '''
+\>                   What's this?\<
+'''
+
+[[dialogue]]
+event = 116
+command = 58
+original = '''
+\>                 Nichts zu finden.\<
+'''
+patched = '''
+\>               Didn't find anything.\<
+'''
+
+[[dialogue]]
+event = 118
+command = 42
+original = '''
+\^
+'''
+patched = '''
+\^
+'''
+
+[[dialogue]]
+event = 119
+command = 24
+original = '''
+\^
+'''
+patched = '''
+\^
+'''
+
+[[dialogue]]
+event = 145
+command = 5
+character = '''Fejar'''
+original = '''
+\>\$Wollen Sie für \v[328] \n[19] übernachten?
+'''
+patched = '''
+\>\$Do you want to stay for \v[328] \n[19]?
+'''
+
+[[dialogue]]
+event = 145
+command = 19
+character = '''Fejar'''
+original = '''
+\>\$Wollen Sie für \v[328] \n[19] übernachten?
+'''
+patched = '''
+\>\$Do you want to stay for \v[328] \n[19]?
+'''
+
+[[dialogue]]
+event = 152
+command = 100
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Du willst also handeln, 
+Kumpel?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: So you want to trade, Kento?
+'''
+
+[[dialogue]]
+event = 152
+command = 103
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Brauchste eine Erklärung, 
+oder weißt du schon Bescheit?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Do you need an explanation,
+or do you already know what to do?
+'''
+
+[[dialogue]]
+event = 152
+command = 108
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Okay!\.
+Also was du hier siehst, ist das 
+Handel-Menu.\. So komplex ist's nicht. 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Okay!\.
+So what you see here is the trading
+menu.\. It's not that complicated.
+'''
+
+[[dialogue]]
+event = 152
+command = 111
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ganz oben sieht man das 
+Item, das man hier erhalten kann.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: At the top you can see
+the item that you can get here.
+'''
+
+[[dialogue]]
+event = 152
+command = 113
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Darunter sind die Items 
+aufgelistet, die du für das obere Item 
+eintauschen musst. 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Below that are the items
+that you have to exchange for the
+item at the top.
+'''
+
+[[dialogue]]
+event = 152
+command = 116
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Daneben siehste noch wie oft 
+du das jeweilige Item benötigst. Bis 
+zu drei verschiedene Items können 
+verlangt werden.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: You can also see how
+much you need of each item. Up to
+three different items can be
+requested.
+'''
+
+[[dialogue]]
+event = 152
+command = 120
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Sollteste von einem Item nicht 
+genug haben, um's hier 
+einzutauschen, wird es grau 
+angezeigt.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: If you don't have enough
+of an item to trade it here,
+it will be displayed in gray.
+'''
+
+[[dialogue]]
+event = 152
+command = 124
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Außerdem kannste mit dem 
+Cursor über jedes angezeigte Item 
+gehen und nachsehen, wie oft du's im 
+Inventar hast.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: You can also move the
+cursor over each item displayed
+and see how much of each you
+have in your inventory.
+'''
+
+[[dialogue]]
+event = 152
+command = 128
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Der Tausch kann NUR DANN 
+vollzogen werden, wenn du von 
+jedem Item genug Exemplare bei dir 
+trägst. 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: The trade can only be carried
+out if you have the right amount
+of each item with you.
+'''
+
+[[dialogue]]
+event = 152
+command = 132
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Um nun zu tauschen musste 
+"Kaufen" wählen. Dann ändert sich 
+die Anzeige wie folgt:
+'''
+patched = '''
+\c[2]\n[2]\c[0]: In order to trade, you
+have to select "Trade". Then the
+display changes as follows:
+'''
+
+[[dialogue]]
+event = 152
+command = 141
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: JEDESMAL wenn du jetzt 
+Enter drückst, wird der Tausch 
+einmal vollzogen. Drücke Esc wenn 
+du genug getauscht hast.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Every time you press
+Enter, the trade will be made
+once. Press Esc when you've
+traded enough.
+'''
+
+[[dialogue]]
+event = 152
+command = 145
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Nach jedem vollzogenen 
+Tausch wird zudem die Anzeige 
+aktualisiert.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: The display is also
+updated after each trade.
+'''
+
+[[dialogue]]
+event = 152
+command = 148
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: So kannste sehen, ob du 
+genug Items für einen weiteren 
+Tausch hast.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: So you can see if you
+have enough items for another
+exchange.
+'''
+
+[[dialogue]]
+event = 152
+command = 151
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Mehr gibt's dann hierzu nicht 
+zu sagen...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: There's nothing more to say...
+'''
+
+[[dialogue]]
+event = 152
+command = 159
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Aber achte bitte darauf, dass 
+du unsere Handelsgegenstände nicht 
+für irgend nen Mist vertauschst.
+Vergleiche am besten alle Angebote!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: But please make sure that
+you don't trade our items for some
+crap. Compare all offers for
+the best!
+'''
+
+[[dialogue]]
+event = 152
+command = 163
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Viel Spass beim Tauschen!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Have fun trading!
+'''
+
+[[dialogue]]
+event = 152
+command = 166
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Tja, dann...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Well,\. suit yourself...
+'''
+
+[[dialogue]]
+event = 180
+command = 52
+original = '''
+ANZIEH SKRIPT INVALIDE!
+Kann nur auf leere Element-Ausrüstung umändern
+'''
+patched = '''
+ANZIEH SKRIPT INVALIDE!
+Kann nur auf leere Element-Ausrüstung umändern
+'''
+
+[[dialogue]]
+event = 183
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Es macht nicht sonderlich 
+viel Sinn, jetzt noch Erz abzubauen. 
+Wir werden es eh nicht mehr abgeben 
+können.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: It doesn't make much sense
+to mine ore now. We won't be able
+to deliver it anyway.)
+'''
+
+[[dialogue]]
+event = 183
+command = 22
+original = '''
+FEHLER
+'''
+patched = '''
+FEHLER
+'''
+
+[[dialogue]]
+event = 185
+command = 4
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Da sind wir...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Here we are...
+'''
+
+[[dialogue]]
+event = 185
+command = 6
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...und was jetzt?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: What now?
+'''
+
+[[dialogue]]
+event = 185
+command = 8
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten uns besser nicht 
+querstellen, sonst bekommen wir 
+noch Ärger. 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We'd better not draw
+unnecessary attention, otherwise
+we'll run into trouble.
+'''
+
+[[dialogue]]
+event = 185
+command = 12
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir werden hier schließlich 
+auch beaufsichtigt, wie es scheint.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Seems like we're being watched
+here.
+'''
+
+[[dialogue]]
+event = 185
+command = 15
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Okay, dann mal schauen, wo 
+man hier Erz findet.
+
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Okay, let's see where all the
+ore is.
+'''
+
+[[dialogue]]
+event = 185
+command = 22
+original = '''
+
+Anmerkung: Die Element-Kugeln befinden sich noch 
+in deinem Besitz.
+'''
+patched = '''
+
+Note: Your elemental orbs are still in your
+possession.
+'''
+
+[[dialogue]]
+event = 185
+command = 25
+original = '''
+
+\c[10]Elementlevel Steigerung ist also noch möglich.
+'''
+patched = '''
+
+\c[10]It's still possible to increase your element
+levels.
+'''
+
+[[dialogue]]
+event = 185
+command = 35
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: So und was für eine Leistung 
+erwartet man jetzt hier unten von 
+einem schwächlichen Adelsmann wie 
+mir?
+'''
+patched = '''
+\c[5]\n[5]\c[0]: So what kind of performance
+are they expecting from a weak
+nobleman like me down here?
+'''
+
+[[dialogue]]
+event = 185
+command = 40
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hartes,\. anstrengendes,\. 
+schweiß-auftreibendes\. Erzhacken.\.
+So etwas macht man halt in der Mine. 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hard,\. exhausting,\. and
+sweat-inducing\. ore mining.\.
+It's just what you have to
+do down here in the mine.
+'''
+
+[[dialogue]]
+event = 185
+command = 44
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Ahh...\. Fabelhaft.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Well,\. isn't that just
+wonderful...
+'''
+
+[[dialogue]]
+event = 185
+command = 46
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich würde die Sache nicht auf 
+die leichte Schulter nehmen. \.Wenn 
+du hier nicht arbeitest, geben sie 
+dir kaum etwas zu essen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I wouldn't take it lightly.\.
+If you don't work here, they
+hardly give you anything to eat.
+'''
+
+[[dialogue]]
+event = 185
+command = 51
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Wäre eine gute Gelegenheit, 
+mit einer Diät anzufangen.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Would be a good opportunity
+to go on a diet.
+'''
+
+[[dialogue]]
+event = 185
+command = 63
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Seid ihr euch wirklich Sicher 
+mit dieser Fluchtsache?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Are you two really sure about
+the whole escape thing?
+'''
+
+[[dialogue]]
+event = 185
+command = 66
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Was sollen wir denn bitte 
+sonst machen?\. Auf anderem Wege 
+werden wir hier wohl kaum raus 
+kommen...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What else can we do?\. We're
+hardly getting out of here any
+other way...
+'''
+
+[[dialogue]]
+event = 185
+command = 71
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Das sehe ich genauso.\. Ich 
+hoffe nur dieser Felcis weiß auch, 
+was er tut.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I agree with Cibon.\. I just
+hope this Felcis guy knows what
+he's doing.
+'''
+
+[[dialogue]]
+event = 185
+command = 75
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 185
+command = 88
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Gut gefahren, Kento!\. Wir 
+sind richtig angekommen.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Good steering, Kento!\.
+We've arrived at the right location.
+'''
+
+[[dialogue]]
+event = 185
+command = 91
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Jetzt gehen wir die Gleise 
+zurück - bis zu der Stelle, wo die 
+2. Weiche war.\. Irgendwo dort müssen 
+wir uns durchsprengen.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Now we have to go back the
+railways, more specifically, around
+the second junction.\. We have to use
+that dynamite somewhere around here.
+'''
+
+[[dialogue]]
+event = 185
+command = 101
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Hm, die letzte Weiche bist 
+du falsch abgebogen, Kento.\. Aber 
+egal.\. Wir sind noch nah genug dran.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Hm, you made a wrong turn at
+the last fork there, Kento.\. But never
+mind that.\. We're still close enough.
+'''
+
+[[dialogue]]
+event = 185
+command = 105
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Jetzt gehen wir die Gleise 
+zurück - bis zu der Stelle, wo die 
+2. Weiche war.\. Irgendwo dort müssen 
+wir uns durchsprengen.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Now we have to go back the
+railways, more specifically, around
+the second junction.\. We have to use
+that dynamite somewhere around here.
+'''
+
+[[dialogue]]
+event = 185
+command = 114
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Nein, nein... so geht das 
+nicht, Kento...\. Du hättest bei der 
+ersten Weiche rechts abbiegen 
+müssen.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: No no no...\. That's not the
+right way, Kento...\. You should've
+turned right at the first junction.
+'''
+
+[[dialogue]]
+event = 185
+command = 119
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Naja. Also entweder gehen 
+wir jetzt zu Fuß die ganzen Gleise 
+zurück\. - oder wir versuchen es 
+morgen nochmal.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Oh well.\. We can either go all
+the way back through the railways on
+foot,\. or we can try again tomorrow.
+'''
+
+[[dialogue]]
+event = 186
+command = 11
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Sieh mal einer an, was hier 
+alles so rumliegt.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Take a look at what's lying
+around here.
+'''
+
+[[dialogue]]
+event = 186
+command = 14
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Sollen wir das wirklich 
+einstecken?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Should we really take that?
+'''
+
+[[dialogue]]
+event = 186
+command = 17
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Naja, wieso nicht?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Well, why not?
+'''
+
+[[dialogue]]
+event = 186
+command = 19
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich bin mir ziemlich sicher, 
+dass die Wachen uns keine 
+Gegenstände mit in unsere Zellen 
+nehmen lassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I'm pretty sure the guards
+won't let us take any items into
+our cells.
+'''
+
+[[dialogue]]
+event = 186
+command = 24
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ja...\. das heißt, falls sie 
+mitbekommen, dass wir Gegenstände 
+bei uns haben.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: True...\. That is,\. if they
+notice we actually have any
+items to begin with.
+'''
+
+[[dialogue]]
+event = 186
+command = 28
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Du willst doch nicht etwa...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: You wouldn't dare!
+'''
+
+[[dialogue]]
+event = 186
+command = 30
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Also ich weiß ja nich', wie 
+das bei euch ist,\. aber ich will 
+nicht ewig hier gefangen bleiben.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I don't know about you two,\.
+but I don't want to stay trapped
+here forever.
+'''
+
+[[dialogue]]
+event = 186
+command = 34
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Und sollten wir irgendwann 
+mal vorhaben zu fliehen, könnte 
+jeder Gegenstand nützlich sein.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: And if we ever want to escape,
+anything we can get will help.
+'''
+
+[[dialogue]]
+event = 186
+command = 38
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja, da hast du Recht.\. Dann 
+sollten wir aber darauf achten, dass 
+wir nicht zuviel einstecken, sonst 
+fällt das zu sehr auf.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yeah, you're right.\. In that
+case, we should make sure we don't
+take too much at once, otherwise,
+there goes all of our items.
+'''
+
+[[dialogue]]
+event = 186
+command = 43
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Von Soldaten des Briganten-
+Orden zu Schwerverbrechern und 
+Schmugglern, ganz große Klasse...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: From soldiers of the Brigantine
+Order to criminals and now smugglers,
+isn't it just wonderful what we've
+become...
+'''
+
+[[dialogue]]
+event = 186
+command = 52
+original = '''
+
+Info: Da du Gefangener bist, kannst du \c[11]nicht 
+beliebig Gegenstände\c[0] aus der Mine mitnehmen.
+'''
+patched = '''
+
+Info: Since you're a prisoner, you \c[11]aren't allowed
+to take items\c[0] from the mine with you.
+'''
+
+[[dialogue]]
+event = 186
+command = 55
+original = '''
+
+Du musst darauf achten, dass die \c[11]Wächter deine 
+Gegenstände nicht bemerken\c[0].
+'''
+patched = '''
+
+You have to make sure that the \c[11]guards don't
+notice your items\c[0].
+'''
+
+[[dialogue]]
+event = 186
+command = 58
+original = '''
+
+Dies ist der Fall, wenn sich ihr \c[11]Verdachts-
+Balken\c[0]...
+'''
+patched = '''
+
+This'll be the case if your \c[11]suspicion meter\c[0]...
+'''
+
+[[dialogue]]
+event = 186
+command = 80
+original = '''
+
+...nicht mit deinen \c[11]Auffälligkeits-Balken 
+schneidet.\c[0]
+'''
+patched = '''
+
+...doesn't cross with your \c[11]attention meter\c[0].
+'''
+
+[[dialogue]]
+event = 186
+command = 97
+original = '''
+
+Sind die Balken etwa \c[11]wie oben\c[0] angezeigt, werden 
+deine Gegenstände \c[11]nicht entdeckt\c[0].
+'''
+patched = '''
+
+If the two bars are roughly \c[11]as shown above\c[0], your
+items \c[11]will not be discovered\c[0].
+'''
+
+[[dialogue]]
+event = 186
+command = 108
+original = '''
+
+Jetzt \c[11]überschneiden\c[0] sich die Balken und dein Fund 
+wird höchstwahrscheinlich \c[11]auffliegen\c[0].
+'''
+patched = '''
+
+Now the bars are \c[11]overlapping\c[0] and whatever you
+found will most likely be \c[11]noticed\c[0].
+'''
+
+[[dialogue]]
+event = 186
+command = 111
+original = '''
+
+Dein Auffälligkeits-Balken \c[11]erhöht sich mit jedem 
+Gegenstand\c[0], den du aufnimmst.
+'''
+patched = '''
+
+Your attention meter \c[11]increases with every item\c[0]
+you pick up.
+'''
+
+[[dialogue]]
+event = 186
+command = 114
+original = '''
+
+Je auffälliger der Gegenstand, desto mehr steigt 
+der Auffälligkeits-Balken.
+'''
+patched = '''
+
+The more noticeable the item, the more your
+attention meter increases.
+'''
+
+[[dialogue]]
+event = 186
+command = 117
+original = '''
+
+Der Verdachts-Balken der Wächter \c[11]sinkt und steigt 
+mit deinem Ruf in dieser Mine\c[0].
+'''
+patched = '''
+
+Your suspicion meter \c[11]follows your reputation by
+the guards in the mine\c[0].
+'''
+
+[[dialogue]]
+event = 186
+command = 120
+original = '''
+
+Je \c[11]besser\c[0] du deine \c[11]Arbeit\c[0] machst, desto \c[11]weniger\c[0] 
+werden die \c[11]Wachen auf dich achten\c[0].
+'''
+patched = '''
+
+The \c[11]better\c[0] you do your \c[11]job\c[0], the \c[11]less\c[0] the \c[11]guards
+will keep an eye on you\c[0].
+'''
+
+[[dialogue]]
+event = 186
+command = 123
+original = '''
+
+Es gibt allerdings auch andere Ereignisse, die den 
+Verdachts-Balken beeinflussen können.
+'''
+patched = '''
+
+However, there are other events that can affect
+your suspicion meter.
+'''
+
+[[dialogue]]
+event = 186
+command = 126
+original = '''
+
+Sollte dein Fund entdeckt werden, verlierst du 
+\c[11]alle an diesem Tag gefundenen Gegenstände\c[0].
+'''
+patched = '''
+
+If your items are discovered, you'll lose \c[11]all of
+the ones you found that day\c[0].
+'''
+
+[[dialogue]]
+event = 186
+command = 129
+original = '''
+
+\c[0]Aufgenommenes kann nicht mehr abgelegt werden\c[0]. 
+Also überlege gut, was du mitnimmst. 
+'''
+patched = '''
+
+\c[11]Whatever you picked up will no longer be there.\c[0]
+So think carefully about what you take with you.
+'''
+
+[[dialogue]]
+event = 188
+command = 20
+original = '''
+
+Feierabend - Zurück zur Loren-Haltestelle!
+'''
+patched = '''
+
+Closing Time - Back to the railways!
+'''
+
+[[dialogue]]
+event = 188
+command = 29
+original = '''
+
+Info: Wartest du zu lange mit der Rückkehr, fahren 
+die Minen-Arbeiter ohne dich zurück.
+'''
+patched = '''
+
+Info: If you wait too long to return, the other
+miners will go back without you.
+'''
+
+[[dialogue]]
+event = 188
+command = 32
+original = '''
+
+Dies bedeutet:
+'''
+patched = '''
+
+This means:
+'''
+
+[[dialogue]]
+event = 188
+command = 34
+original = '''
+
+Deine letzte \c[11]Erz-Sammlung verfällt\c[0] und du musst 
+die gesamte Lorenstrecke \c[11]selber zurücklaufen\c[0].
+'''
+patched = '''
+
+The \c[11]last batch of ore you mined won't count\c[0] and
+you'll have to \c[11]go through the railways yourself\c[0].
+'''
+
+[[dialogue]]
+event = 188
+command = 37
+original = '''
+
+Des Weiteren stehst du unter \c[11]größerem Verdacht\c[0], da 
+du zu spät oben ankommst.
+'''
+patched = '''
+
+Furthermore, you'll be under \c[11]greater suspicion\c[0]
+because you'll have arrived late.
+'''
+
+[[dialogue]]
+event = 189
+command = 24
+original = '''
+
+Der letzte Loren-Zug ist nach oben gefahren. 
+Du musst den Weg alleine zurückgehen!
+'''
+patched = '''
+
+The last group of miners left. You have to go
+back all the way alone!
+'''
+
+[[dialogue]]
+event = 189
+command = 27
+original = '''
+
+Der Verdacht der Wächter dir gegenüber steigt.
+'''
+patched = '''
+
+The guards' suspicions about you increase.
+'''
+
+[[dialogue]]
+event = 190
+command = 21
+original = '''
+\c[10]Wächter\c[0]: Wenn ihr etwas Erz gesammelt habt, bringt 
+es zu mir. 
+'''
+patched = '''
+\c[10]Guard\c[0]: If you have some ore, bring it to me.
+'''
+
+[[dialogue]]
+event = 190
+command = 23
+original = '''
+\c[10]Wächter\c[0]: Ich notiere mir, wie viel Erz hier 
+jeder Gefangene gesammelt hat.\. Also kommt ja nicht 
+auf die Idee, euch vor der Arbeit zu drücken.\. Wir 
+merken das.
+'''
+patched = '''
+\c[10]Guard\c[0]: I keep track of how much ore each prisoner
+has mined.\. So don't even think of giving up
+before we say you're done!\. We're keeping
+track of that too.
+'''
+
+[[dialogue]]
+event = 190
+command = 29
+original = '''
+\c[10]Wächter\c[0]: Neues Erz?
+'''
+patched = '''
+\c[10]Guard\c[0]: Any new ore?
+'''
+
+[[dialogue]]
+event = 190
+command = 39
+original = '''
+\c[10]Wächter\c[0]: \v[1] Erz, damit hast du insgesamt schon 
+\v[1883] Erz gesammelt.
+'''
+patched = '''
+\c[10]Guard\c[0]: That's \v[1] new ore, so the total amount
+of ore you've mined is \v[1883].
+'''
+
+[[dialogue]]
+event = 190
+command = 47
+original = '''
+\c[10]Wächter\c[0]: \v[1883] Erz?\. Soll das ein Scherz sein?!\. Sofort 
+wieder an die Arbeit!\. Denkt ja nicht, dass ihr 
+heute irgendwas in den Magen bekommt, mit so einer 
+schwachen Leistung!
+'''
+patched = '''
+\c[10]Guard\c[0]: Only \v[1883] ore?!\. Are you kidding me?!\.
+Get back to work immediately!\. Don't think you're
+getting anything in your stomach today with such
+horrendous performance!
+'''
+
+[[dialogue]]
+event = 190
+command = 54
+original = '''
+\c[10]Wächter\c[0]: Das ist ziemlich mäßig.\. Sofort weiter!\.
+Ihr seid noch nicht fertig, hoffe ich?
+'''
+patched = '''
+\c[10]Guard\c[0]: Well that's rather unimpressive.\. Get back
+to work immediately!\. You aren't finished yet,
+I assume?
+'''
+
+[[dialogue]]
+event = 190
+command = 59
+original = '''
+\c[10]Wächter\c[0]: In Ordnung. Weiter so.
+'''
+patched = '''
+\c[10]Guard\c[0]: Alright.\. Keep it up.
+'''
+
+[[dialogue]]
+event = 190
+command = 65
+original = '''
+\c[10]Wächter\c[0]: Schön.\. Aber denkt nicht, dass ihr 
+dafür den nächsten Tag frei bekommt. 
+'''
+patched = '''
+\c[10]Guard\c[0]: Nice!\. But don't think you're getting the
+next day off.
+'''
+
+[[dialogue]]
+event = 190
+command = 69
+original = '''
+\c[10]Wächter\c[0]: Gut, gut.\. Das ist aber kein Grund jetzt 
+langsamer zu machen. 
+'''
+patched = '''
+\c[10]Guard\c[0]: Excellent!\. But why stop now?
+'''
+
+[[dialogue]]
+event = 190
+command = 75
+original = '''
+\c[10]Wächter\c[0]: Ihr hängt euch ja ziemlich rein!\. Man 
+könnte fast denken, die Arbeit würde euch Spaß 
+machen.\. Offensichtlich müssen wir euch noch etwas 
+härter fordern!
+'''
+patched = '''
+\c[10]Guard\c[0]: You're fitting in like a natural around
+here!\. One could almost think that you're enjoying
+the work.\. Obviously, we'll have challenge you
+a little harder!
+'''
+
+[[dialogue]]
+event = 190
+command = 91
+original = '''
+\c[10]Wächter\c[0]: Hier etwas zur Auffrischung.
+'''
+patched = '''
+\c[10]Guard\c[0]: Here's something to get refreshed.
+'''
+
+[[dialogue]]
+event = 190
+command = 130
+original = '''
+\c[10]Wächter\c[0]: Und jetzt weiter!
+'''
+patched = '''
+\c[10]Guard\c[0]: Now get back in there!
+'''
+
+[[dialogue]]
+event = 196
+command = 5
+original = '''
+\<SZENE-EVENT# NICHT ZURÜCKGESETZT!!!1
+'''
+patched = '''
+\<SZENE-EVENT# NICHT ZURÜCKGESETZT!!!1
+'''
+
+[[dialogue]]
+event = 196
+command = 13
+original = '''
+\<SYSTEM-GRAFIK-POSITION NICHT ZURÜCKGESETZT!!!!1
+'''
+patched = '''
+\<SYSTEM-GRAFIK-POSITION NICHT ZURÜCKGESETZT!!!!1
+'''
+
+[[dialogue]]
+event = 211
+command = 317
+character = '''TOKEN0'''
+original = '''
+\>\c[\v[81]]\n[30]\v[95]  \c[\v[82]]\n[31]\v[102]  \c[\v[83]]\n[32]\v[109]  \c[\v[84]]\n[33]\v[116]
+\>\c[0]\n[34]\n[35]
+\>\c[3](\n[36]\c[3]\n[37]\c[3]\n[38]\c[3]\n[39]\c[3]\n[40]\c[3]\n[41]\c[3]\n[42])
+'''
+patched = '''
+\>\c[\v[81]]\n[30]\v[95]  \c[\v[82]]\n[31]\v[102]  \c[\v[83]]\n[32]\v[109]  \c[\v[84]]\n[33]\v[116]
+\>\c[0]\n[34]\n[35]
+\>\c[3](\n[36]\c[3]\n[37]\c[3]\n[38]\c[3]\n[39]\c[3]\n[40]\c[3]\n[41]\c[3]\n[42])
+'''
+
+[[dialogue]]
+event = 211
+command = 322
+original = '''
+
+\>         - Keine weiteren Informationen -
+'''
+patched = '''
+
+\>            - No further information -
+'''
+
+[[text]]
+event = 145
+command = 6
+original = '''\>\c[3]Ja, gerne\c[0]/\>Nein, danke'''
+patched = '''\>\c[3]Yes please\c[0]/\>No thanks'''
+
+[[text]]
+event = 145
+command = 7
+original = '''\>\c[3]Ja, gerne\c[0]'''
+patched = '''\>\c[3]Yes please\c[0]'''
+
+[[text]]
+event = 145
+command = 11
+original = '''\>Nein, danke'''
+patched = '''\>No thanks'''
+
+[[text]]
+event = 145
+command = 14
+original = ''''''
+patched = ''''''
+
+[[text]]
+event = 145
+command = 20
+original = '''\>Ja, gerne/\>Nein, danke'''
+patched = '''\>Yes please/\>No thanks'''
+
+[[text]]
+event = 145
+command = 21
+original = '''\>Ja, gerne'''
+patched = '''\>Yes please'''
+
+[[text]]
+event = 145
+command = 25
+original = '''\>Nein, danke'''
+patched = '''\>No thanks'''
+
+[[text]]
+event = 145
+command = 28
+original = ''''''
+patched = ''''''
+
+[[text]]
+event = 152
+command = 105
+has_portrait = true
+original = '''Sag mir, wie es geht!/Nein, ich weiß schon Bescheid.'''
+patched = '''Tell me how to do it!/No, I already know how.'''
+
+[[text]]
+event = 152
+command = 106
+has_portrait = true
+original = '''Sag mir, wie es geht!'''
+patched = '''Tell me how to do it!'''
+
+[[text]]
+event = 152
+command = 165
+has_portrait = true
+original = '''Nein, ich weiß schon Bescheid.'''
+patched = '''No, I already know how.'''
+
+[[text]]
+event = 177
+command = 33
+original = '''Agor'''
+patched = '''Agor'''
+
+[[text]]
+event = 177
+command = 37
+original = '''Buronia'''
+patched = '''Buronia'''
+
+[[text]]
+event = 177
+command = 41
+original = '''Domarkor'''
+patched = '''Domarkor'''
+
+[[text]]
+event = 177
+command = 45
+original = '''Fergeris'''
+patched = '''Fergeris'''
+
+[[text]]
+event = 177
+command = 49
+original = '''Ferrolholm'''
+patched = '''Ferrolholm'''
+
+[[text]]
+event = 177
+command = 53
+original = '''Fulika'''
+patched = '''Fulika'''
+
+[[text]]
+event = 177
+command = 57
+original = '''Gencorin'''
+patched = '''Gencorin'''
+
+[[text]]
+event = 177
+command = 61
+original = '''Hamsol'''
+patched = '''Hamsol'''
+
+[[text]]
+event = 177
+command = 81
+original = '''Helsoven'''
+patched = '''Helsoven'''
+
+[[text]]
+event = 177
+command = 85
+original = '''Nomerea'''
+patched = '''Nomerea'''
+
+[[text]]
+event = 177
+command = 89
+original = '''Pakonia'''
+patched = '''Pakonia'''
+
+[[text]]
+event = 177
+command = 93
+original = '''Port Retisa'''
+patched = '''Port Retisa'''
+
+[[text]]
+event = 177
+command = 97
+original = '''Silvio'''
+patched = '''Silvio'''
+
+[[text]]
+event = 177
+command = 101
+original = '''Sinkholm'''
+patched = '''Sinkholm'''
+
+[[text]]
+event = 177
+command = 105
+original = '''Sinun'''
+patched = '''Sinun'''
+
+[[text]]
+event = 177
+command = 109
+original = '''Undel'''
+patched = '''Undel'''
+
+[[text]]
+event = 211
+command = 4
+original = '''Starke '''
+patched = '''ATK '''
+
+[[text]]
+event = 211
+command = 5
+original = '''Schutz '''
+patched = '''DEF '''
+
+[[text]]
+event = 211
+command = 6
+original = '''Mental '''
+patched = '''WIS '''
+
+[[text]]
+event = 211
+command = 7
+original = '''Agilität '''
+patched = '''AGL '''
+
+[[text]]
+event = 211
+command = 9
+original = '''Starke +'''
+patched = '''ATK +'''
+
+[[text]]
+event = 211
+command = 13
+original = '''Schutz +'''
+patched = '''DEF +'''
+
+[[text]]
+event = 211
+command = 17
+original = '''Mental +'''
+patched = '''WIS +'''
+
+[[text]]
+event = 211
+command = 21
+original = '''Agilität +'''
+patched = '''AGL +'''
+
+[[text]]
+event = 211
+command = 46
+original = '''Slots: $A'''
+patched = '''Slots: $A'''
+
+[[text]]
+event = 211
+command = 51
+original = '''Slots: $B'''
+patched = '''Slots: $B'''
+
+[[text]]
+event = 211
+command = 55
+original = ''''''
+patched = ''''''
+
+[[text]]
+event = 211
+command = 61
+original = ''''''
+patched = ''''''
+
+[[text]]
+event = 211
+command = 63
+original = '''$h'''
+patched = '''$h'''
+
+[[text]]
+event = 211
+command = 67
+original = '''$h$h'''
+patched = '''$h$h'''
+
+[[text]]
+event = 211
+command = 71
+original = '''$h$h$h'''
+patched = '''$h$h$h'''
+
+[[text]]
+event = 211
+command = 75
+original = '''$h$h$h$h'''
+patched = '''$h$h$h$h'''
+
+[[text]]
+event = 211
+command = 79
+original = '''$h$h$h$h$h'''
+patched = '''$h$h$h$h$h'''
+
+[[text]]
+event = 211
+command = 83
+original = '''$h$h$h$h$h$h'''
+patched = '''$h$h$h$h$h$h'''
+
+[[text]]
+event = 211
+command = 99
+original = ''''''
+patched = ''''''
+
+[[text]]
+event = 211
+command = 100
+original = ''''''
+patched = ''''''
+
+[[text]]
+event = 211
+command = 101
+original = ''''''
+patched = ''''''
+
+[[text]]
+event = 211
+command = 102
+original = ''''''
+patched = ''''''
+
+[[text]]
+event = 211
+command = 103
+original = ''''''
+patched = ''''''
+
+[[text]]
+event = 211
+command = 104
+original = ''''''
+patched = ''''''
+
+[[text]]
+event = 211
+command = 105
+original = ''''''
+patched = ''''''
+
+[[text]]
+event = 211
+command = 110
+original = '''\c[3]Kent$r'''
+patched = '''\c[3]Kent$r'''
+
+[[text]]
+event = 211
+command = 114
+original = '''\c[8]Kent$u'''
+patched = '''\c[8]Kent$u'''
+
+[[text]]
+event = 211
+command = 118
+original = '''\c[0]Kent$t'''
+patched = '''\c[0]Kent$t'''
+
+[[text]]
+event = 211
+command = 122
+original = '''\c[9]Kent$s'''
+patched = '''\c[9]Kent$s'''
+
+[[text]]
+event = 211
+command = 125
+original = '''\c[0]Kent$B'''
+patched = '''\c[0]Kent$B'''
+
+[[text]]
+event = 211
+command = 140
+original = '''|\c[3]Cibo$r'''
+patched = '''|\c[3]Cibo$r'''
+
+[[text]]
+event = 211
+command = 144
+original = '''|\c[8]Cibo$u'''
+patched = '''|\c[8]Cibo$u'''
+
+[[text]]
+event = 211
+command = 148
+original = '''|\c[0]Cibo$t'''
+patched = '''|\c[0]Cibo$t'''
+
+[[text]]
+event = 211
+command = 152
+original = '''|\c[9]Cibo$s'''
+patched = '''|\c[9]Cibo$s'''
+
+[[text]]
+event = 211
+command = 155
+original = '''|\c[0]Cibo$B'''
+patched = '''|\c[0]Cibo$B'''
+
+[[text]]
+event = 211
+command = 170
+original = '''|\c[3]Soko$r'''
+patched = '''|\c[3]Soko$r'''
+
+[[text]]
+event = 211
+command = 174
+original = '''|\c[8]Soko$u'''
+patched = '''|\c[8]Soko$u'''
+
+[[text]]
+event = 211
+command = 178
+original = '''|\c[0]Soko$t'''
+patched = '''|\c[0]Soko$t'''
+
+[[text]]
+event = 211
+command = 182
+original = '''|\c[9]Soko$s'''
+patched = '''|\c[9]Soko$s'''
+
+[[text]]
+event = 211
+command = 185
+original = '''|\c[0]Soko$B'''
+patched = '''|\c[0]Soko$B'''
+
+[[text]]
+event = 211
+command = 200
+original = '''|\c[3]Geny$r'''
+patched = '''|\c[3]Geny$r'''
+
+[[text]]
+event = 211
+command = 204
+original = '''|\c[8]Geny$u'''
+patched = '''|\c[8]Geny$u'''
+
+[[text]]
+event = 211
+command = 208
+original = '''|\c[0]Geny$t'''
+patched = '''|\c[0]Geny$t'''
+
+[[text]]
+event = 211
+command = 212
+original = '''|\c[9]Geny$s'''
+patched = '''|\c[9]Geny$s'''
+
+[[text]]
+event = 211
+command = 215
+original = '''|\c[0]Geny$B'''
+patched = '''|\c[0]Geny$B'''
+
+[[text]]
+event = 211
+command = 230
+original = '''|\c[3]Felc$r'''
+patched = '''|\c[3]Felc$r'''
+
+[[text]]
+event = 211
+command = 234
+original = '''|\c[8]Felc$u'''
+patched = '''|\c[8]Felc$u'''
+
+[[text]]
+event = 211
+command = 238
+original = '''|\c[0]Felc$t'''
+patched = '''|\c[0]Felc$t'''
+
+[[text]]
+event = 211
+command = 242
+original = '''|\c[9]Felc$s'''
+patched = '''|\c[9]Felc$s'''
+
+[[text]]
+event = 211
+command = 245
+original = '''|\c[0]Felc$B'''
+patched = '''|\c[0]Felc$B'''
+
+[[text]]
+event = 211
+command = 260
+original = '''|\c[3]Ille$r'''
+patched = '''|\c[3]Ille$r'''
+
+[[text]]
+event = 211
+command = 264
+original = '''|\c[8]Ille$u'''
+patched = '''|\c[8]Ille$u'''
+
+[[text]]
+event = 211
+command = 268
+original = '''|\c[0]Ille$t'''
+patched = '''|\c[0]Ille$t'''
+
+[[text]]
+event = 211
+command = 272
+original = '''|\c[9]Ille$s'''
+patched = '''|\c[9]Ille$s'''
+
+[[text]]
+event = 211
+command = 275
+original = '''|\c[0]Ille$B'''
+patched = '''|\c[0]Ille$B'''
+
+[[text]]
+event = 211
+command = 290
+original = '''|\c[3]Jorn$r'''
+patched = '''|\c[3]Jorn$r'''
+
+[[text]]
+event = 211
+command = 294
+original = '''|\c[8]Jorn$u'''
+patched = '''|\c[8]Jorn$u'''
+
+[[text]]
+event = 211
+command = 298
+original = '''|\c[0]Jorn$t'''
+patched = '''|\c[0]Jorn$t'''
+
+[[text]]
+event = 211
+command = 302
+original = '''|\c[9]Jorn$s'''
+patched = '''|\c[9]Jorn$s'''
+
+[[text]]
+event = 211
+command = 305
+original = '''|\c[0]Jorn$B'''
+patched = '''|\c[0]Jorn$B'''
+
+[[database-vocabulary]]
+id = 114
+original = '''Start'''
+patched = '''Start'''
+
+[[database-vocabulary]]
+id = 115
+original = '''Laden'''
+patched = '''Load'''
+
+[[database-vocabulary]]
+id = 117
+original = '''Ende'''
+patched = '''End'''
+
+[[database-vocabulary]]
+id = 123
+original = '''Kapitel'''
+patched = '''Chapter'''
+
+[[database-vocabulary]]
+id = 133
+original = '''Defence'''
+patched = '''Defense'''
+
+[[database-vocabulary]]
+id = 134
+original = '''Mental'''
+patched = '''Wisdom'''
+
+[[database-vocabulary]]
+id = 136
+original = '''Waffe'''
+patched = '''Weapon'''
+
+[[database-vocabulary]]
+id = 137
+original = '''Armband'''
+patched = '''Armband'''
+
+[[database-vocabulary]]
+id = 138
+original = '''Rüstung'''
+patched = '''Armor'''
+
+[[database-vocabulary]]
+id = 139
+original = '''Helm'''
+patched = '''Helm'''
+
+[[database-vocabulary]]
+id = 140
+original = '''Zusatz'''
+patched = '''Misc'''
+
+[[database-vocabulary]]
+id = 146
+original = '''Wo soll gespeichert werden?'''
+patched = '''Which file do you want to save to?'''
+
+[[database-vocabulary]]
+id = 147
+original = '''Welcher Spielstand soll geladen werden?'''
+patched = '''Which save file do you want to load?'''
+
+[[database-vocabulary]]
+id = 148
+original = '''Spielstand'''
+patched = '''Save'''
+
+[[database-vocabulary]]
+id = 151
+original = '''Wollen Sie das Spiel beenden?'''
+patched = '''Do you want to quit the game?'''
+
+[[database-vocabulary]]
+id = 152
+original = '''Ja'''
+patched = '''Yes'''
+
+[[database-vocabulary]]
+id = 153
+original = '''Nein'''
+patched = '''No'''

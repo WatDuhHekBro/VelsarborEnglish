@@ -1,0 +1,1887 @@
+[[dialogue]]
+event = 23
+page = 1
+command = 22
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: W...\.Wo bin ich?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: W...\. Where am I?
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 28
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Cibon...\. Bist du endlich wach?
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] Cibon...\. Are you finally awake?
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 35
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Soko!\. Wo sind wir?\. Was ist 
+passiert?!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Soko!\. Where are we?\. What
+happened?!
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 47
+original = '''
+\c[10]Wachmann\c[0]: Ruhe da!\. Schreit hier nicht so rum!
+'''
+patched = '''
+\c[10]Guard\c[0]: Keep it down!\. Don't shout around here!
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 58
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Wir müssen leise reden, Cibon...
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] We have to talk quietly,
+Cibon...
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 66
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Wo steckt Kento?\. Wurde er 
+auch hier eingesperrt?
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] Where's Kento?\. Was he locked
+up here too?
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 69
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Ich weiß es nicht...\. Sehen 
+kann ich nichts und die Wachen 
+beantworten keine Fragen.
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] I don't know...\. I can't see
+anything and the guards aren't
+answering any questions.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 73
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Gehört hab ich ihn bis jetzt 
+noch nicht. 
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] I haven't heard him yet.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 80
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Wenn das so ist...
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] If so...
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 88
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: KUMPEL!\. MELDE DICH BITTE MAL, 
+WENN DU WACH BIST!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: KENTO!\. PLEASE LET ME KNOW WHEN
+YOU'RE AWAKE!
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 100
+original = '''
+\c[10]Wachmann\c[0]: Hör auf der Stelle auf hier so rum zu 
+schreien, es sei denn du willst die Peitsche zu 
+spüren bekommen!
+'''
+patched = '''
+\c[10]Guard\c[0]: Stop shouting around here at once, unless
+you want to be whipped!
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 107
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ...Ich verzichte...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I give up...
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 116
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Nichts...\ er scheint nicht 
+hier zu sein.
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] Nothing...\. He doesn't seem to
+be here.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 119
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Entweder das oder er schläft.
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] Either that or he's sleeping.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 122
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] ...\. Richtig.
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] Right.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 128
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Haste eine Ahnung, wieso wir 
+von dieser Gruppe angegriffen 
+wurden?
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] Got any idea why we were
+attacked by this group?
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 132
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Das Ziel war wahrscheinlich 
+Herrn Uroto gefangen zu nehmen. 
+Zumindest fällt mir kein anderer 
+sinnvoller Grund ein.
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] The goal was probably to
+capture Mr. Uroto. At least, I
+can't think of any other
+reason why.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 138
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Als Eskorte haben wir 
+jedenfalls auf ganzer Linie 
+versagt...
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] As escorts, we failed across
+the board...
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 146
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] ...Nimm's dir nicht so zu 
+Herzen, Soko.
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] Don't take it to heart, Soko.
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 20
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Was hab ich mir bloß dabei 
+gedacht...\. In Gencorin hab ich 
+Bier getrunken und bin Möchtegern-
+Dieben hinterher gejagt...
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] What was I thinking...\. I drank
+beer in Gencorin and chased wannabe
+thieves...
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 24
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Ich habe mich immer mehr vom 
+Auftrag ablenken lassen.\. Ich...\. ich 
+war nicht genug darauf fokussiert.\.
+Wie konnte ich nur...
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] I got more and more distracted
+from the job.\. I...\. I wasn't focused
+on it enough.\. How could I...
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 30
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] ...Soko?\. Glaub' mir, du 
+hättest noch so fokussiert sein 
+können,\. du hättest nichts 
+verhindert.
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] Soko?\. Trust me, no matter how
+focused you could've been,\. you still
+couldn't have prevented anything.
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 35
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Diese Truppe war uns einfach 
+überlegen.\. Niemand hat damit 
+gerechnet, dass uns so was begegnet.
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] This group was simply stronger
+than us.\. Nobody expected us to
+encounter something like this.
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 43
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] ... Vielleicht wären wir 
+diesem Hinterhalt entkommen, wenn 
+wir ihn frühzeitig bemerkt hätten...
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] Maybe we would have escaped
+this ambush if we had just
+noticed it earlier...
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 48
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Wir hätten uns genauer 
+informieren können, bestimmt hätten 
+Gerüchte herum kursiert... wir 
+hätten...
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] We could've gotten more
+information, there would've
+been rumors... We would've...
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 54
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Soko! Hör endlich auf.\s[2]\. Schieb 
+dir nicht die ganze Last zu.\. Niemand 
+würden von einer Eskorte so einen 
+Einsatz erwarten.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Soko! Stop it.\s[2]\. Don't put all
+the burden on yourself.\. Nobody would
+expect such a thing from an escort
+mission.
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 59
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Man hat die Gefahr dieses 
+Auftrages falsch eingeschätzt. 
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] The risk of this order was
+underestimated.
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 61
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Hätte man so einen Angriff
+erwartet, hätte man mehr als nur 3 
+Leute für die Eskorte ausgesucht und 
+erst Recht keine Neulinge.
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] If they expected such an
+attack, they would've chosen more
+than 3 people for the escort mission
+and certainly not choose any rookies.
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 70
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] ...Neulinge? 
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] Rookies?
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 72
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Meine Ausbildung 
+hab ich seit 2 Jahren fertig. \.
+Ähnlich war es mit meinen 
+Begleitern...
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] I've had my apprenticeship for
+two years.\. Similarly to my
+teammates...
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 82
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] 2...\. 2 Jahre?\. Wieso das?\. Du 
+bist doch nicht älter als wir...
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] T...\. Two years?\. How?\. You're
+not any older than us...
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 86
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Ich hab früh angefangen und 
+den theoretischen Teil schneller als 
+üblich beendet...\. deshalb...
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] I started early and finished
+the theoretical part faster than
+usual...\. so...
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 92
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Ohje, jetzt wird mir auch 
+klar,\. wieso du über so viele Sachen 
+bescheid weißt...
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] Oh wow,\. now I know why you
+know so many things...
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 96
+has_portrait = true
+character = '''Cibon'''
+original = '''
+(\c[2]\n[2]\c[0]: Streberin!)
+'''
+patched = '''
+(\c[2]\n[2]\c[0]:\s[9] Neeeeerd!)
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 99
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Aber was hat sich der alte 
+Vorento dabei gedacht, uns als 
+Neulingen diesen Auftrag 
+anzuvertrauen?
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] But what did the old man think
+about trusting us with this sort of
+mission as rookies?
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 104
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Er muss von euren Leistungen 
+wohl sehr überzeugt sein. 
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] He must've been very convinced
+of your performance.
+'''
+
+[[dialogue]]
+event = 23
+page = 2
+command = 111
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Hm...\. merkwürdig nur, dass er 
+uns das nie so direkt gesagt hat.
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] Hm...\. It's just strange since
+he never told us that directly.
+'''
+
+[[dialogue]]
+event = 23
+page = 3
+command = 22
+original = '''
+\c[10]Soldat\c[0]: Du...\. geh nach oben,\. es gibt Probleme...\. 
+schnell.
+'''
+patched = '''
+\c[10]Soldier\c[0]: You...\. Go upstairs,\. there are
+some problems...\. Quickly!
+'''
+
+[[dialogue]]
+event = 23
+page = 3
+command = 35
+original = '''
+\c[10]Soldat\c[0]: Ihr beide solltet genügen.\. Ihr müsst jetzt 
+besonders aufmerksam sein,\. verstanden?
+'''
+patched = '''
+\c[10]Soldier\c[0]: You two should be enough.\. You have to be
+extra careful now,\. understand?
+'''
+
+[[dialogue]]
+event = 23
+page = 3
+command = 37
+original = '''
+\c[10]Wachmänner\c[0]: Jawohl!
+'''
+patched = '''
+\c[10]Guard\c[0]: Got it!
+'''
+
+[[dialogue]]
+event = 23
+page = 3
+command = 47
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Was ist los? 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What's happening?
+'''
+
+[[dialogue]]
+event = 23
+page = 3
+command = 52
+original = '''
+\c[10]Wachmann\c[0]:  Das geht euch gar nichts an!\.
+Also Ruhe!
+'''
+patched = '''
+\c[10]Guard\c[0]: It's none of your business!\.
+Be quiet already!
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 23
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Hier scheint eines der 
+Gefängnisse zu sein...\. Mal 
+schauen...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: One of the cells seems to be
+here...\. Let's see...)
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 29
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Hier müssen Cibon und Soko 
+sein...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Cibon and Soko must be
+here...)
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 39
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Zwei Wachen...\. die werde ich 
+ohne anständige Ausrüstung nicht 
+überwinden können...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Two guards...\. I won't be able
+to overcome them without decent
+equipment...)
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 48
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Hier kann ich noch nichts 
+machen...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: I can't do anything here
+yet...)
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 53
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Tut mir Leid,\. ihr beide 
+müsst noch etwas warten...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: I'm sorry,\. but you two will
+have to wait a little longer...)
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 58
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Hm,\. jetzt weiß ich es wieder.
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] Hm,\. now that I think of it...
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 60
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Huh?
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] Huh?
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 68
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Es waren 300 Gramm Zucker und
+ein halbes Pfund Repskornmehl.\. Dazu 
+halt Milch, Butter und sonstiger 
+Kleinkram.
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] It was 300 grams of sugar and
+half a pound of sunflour.\. There was
+also milk, butter, and other small
+items.
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 73
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Soviel Zucker?
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] So much sugar?
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 75
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Jupp,\. das Ganze soll ja 
+schließlich zum Naschen sein.
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] Yep,\. the whole thing was
+supposed to be a snack.
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 78
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Ist aber lange her,\. seit 
+meine Mutter es das letzte Mal 
+gebacken hat.
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] It's been a long time since my
+mom last baked it.
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 82
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Zum Leiden von Kento.\. Für ihn 
+war es damals der Hauptgrund 
+zusammen mit mir meine Familie zu 
+besuchen,\. während der Ausbildung.
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] Mainly because of the Kento's
+suffering.\. For him, it was the main
+reason to visit my family with me
+during our apprenticeship.
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 87
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Um genau zu sein, hab ich ihn 
+erst damit dazu bewegen können...\.
+Er mochte das Zeug wirklich gerne
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] To be precise, I was able to
+get him to eat it...\. He really
+liked the stuff.
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 91
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]:\s[2] Hehe...\. Aber...\. Wieso backt 
+deine Mutter es denn nicht mehr?
+'''
+patched = '''
+\c[13]\n[3]\c[0]:\s[2] Hehe...\. But...\. Why doesn't your
+mother bake it anymore?
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 94
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[2] Naja, zuviel arbeit, denke 
+ich.\. Sie ist über die letzten Jahre 
+irgendwie sehr bequem geworden,\. oh 
+ja.
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[2] Well, too much work, I think.\.
+He somehow become very comfortable
+with it over the past few years,\.
+yeah.
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 103
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Cibon...\. Soko...\.
+Wie kommen die beiden bitte auf
+dieses Gesprächthema?\. ...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Cibon...\. Soko...\. How did the
+two come up with such a topic?)
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 107
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Ich darf nicht rumtrödeln!\.
+Ich muss immer noch herausfinden,\. wo 
+sich unsere Ausrüstung befindet.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: I can't waste time!\. I still
+have to find out where our equipment
+is.)
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 111
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Also muss ich diese eine 
+Person finden...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: So I have to find that person
+from earlier...)
+'''
+
+[[dialogue]]
+event = 34
+page = 2
+command = 116
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: ...\.Wie kommen die beiden 
+bitte auf dieses Thema?\. ...\.
+Ich darf nicht rumtrödeln!)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: How do the two come up with
+such a topic?\. I can't waste time!)
+'''
+
+[[dialogue]]
+event = 34
+page = 3
+command = 20
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: ...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: ...)
+'''
+
+[[dialogue]]
+event = 34
+page = 6
+command = 22
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Ich habe zwar nun meine 
+Ausrüstung wieder, dennoch wäre es 
+riskant alleine gegen die zwei 
+Soldaten zu kämpfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: I have my equipment now, but
+it'd be risky to fight the two
+soldiers alone.)
+'''
+
+[[dialogue]]
+event = 34
+page = 6
+command = 27
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Ich muss versuchen Cibon und 
+Soko während des Gefechtes zu 
+befreien.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: I have to try to free Cibon
+and Soko during the battle.)
+'''
+
+[[dialogue]]
+event = 34
+page = 6
+command = 30
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Sollten sie einmal draußen 
+sein, haben die Soldaten schweres 
+Spiel...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Once I do so, the soldiers
+will have a hard time with us...)
+'''
+
+[[dialogue]]
+event = 34
+page = 6
+command = 35
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Okay...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Alright...)
+'''
+
+[[dialogue]]
+event = 34
+page = 6
+command = 36
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Jetzt geht's um alles oder 
+nichts!\. Los!)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Now it's all or nothing!)
+'''
+
+[[dialogue]]
+event = 34
+page = 6
+command = 59
+original = '''
+\c[10]Soldat\c[0]: Eindringling!
+'''
+patched = '''
+\c[10]Soldier\c[0]: Intruder!
+'''
+
+[[dialogue]]
+event = 34
+page = 6
+command = 62
+original = '''
+\c[10]Soldat\c[0]: Sofort stehen bleiben!
+'''
+patched = '''
+\c[10]Soldier\c[0]: Don't move any further!
+'''
+
+[[dialogue]]
+event = 34
+page = 6
+command = 66
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: K...Kento!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: K...\. Kento!
+'''
+
+[[dialogue]]
+event = 34
+page = 6
+command = 68
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: KUMPEL!\. Wie zum...!\.\^
+'''
+patched = '''
+\c[2]\n[2]\c[0]: KENTO!\. How the...\.\^
+'''
+
+[[dialogue]]
+event = 34
+page = 6
+command = 70
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Soko,\. Cibon,\. ich habe unserer 
+Ausrüstung!\. Haltet euch bereit, ich 
+hol euch da raus!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Soko,\. Cibon,\. I have our
+equipment!\. Get ready, I'll get
+you out of there in a moment!
+'''
+
+[[dialogue]]
+event = 34
+page = 8
+command = 10
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Kento, wie hast du es bitte 
+geschafft dich zu befreien und bis 
+hierhin zu kommen? 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Kento, how'd you manage to free
+yourself and get this far?
+'''
+
+[[dialogue]]
+event = 34
+page = 8
+command = 17
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Man hat mich nicht in eine 
+richtige Zelle gesteckt, sondern nur 
+in einen Raum eingesperrt.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I wasn't put in a real cell
+and was only locked in a room.
+'''
+
+[[dialogue]]
+event = 34
+page = 8
+command = 21
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich konnte mich aus den 
+Fesseln befreien,\. habe ein Fenster 
+aufgebrochen,\. ein Seil rausgehängt 
+und mich in den Schrank versteckt.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I was able to free myself from
+my cuffs,\. break a window,\. hang a
+rope,\. and hide in the closet.
+'''
+
+[[dialogue]]
+event = 34
+page = 8
+command = 26
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Die meisten Soldaten hier 
+dürften noch glauben, dass ich nach 
+draußen geflohen bin und suchen mich 
+deshalb dort.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Most of the soldiers here may
+still believe that I fled outside
+and are looking for me there.
+'''
+
+[[dialogue]]
+event = 34
+page = 8
+command = 31
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: He, solche Ideen können aber 
+auch nur dir kommen, Kumpel.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Heh, ideas like that can only
+come from you.
+'''
+
+[[dialogue]]
+event = 34
+page = 8
+command = 34
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber wie kommt es, dass sie 
+dich nicht in eine richtige 
+Gefängniszelle gesteckt haben?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But how come they didn't put
+you in a real prison cell?
+'''
+
+[[dialogue]]
+event = 34
+page = 8
+command = 41
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich weiß es nicht. 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I don't know.
+'''
+
+[[dialogue]]
+event = 34
+page = 8
+command = 43
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir müssen schnell weiter. 
+Sehr lange werden sie mich nicht 
+mehr draußen suchen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We have to quickly move on.
+They won't be searching out there
+for a very long time.
+'''
+
+[[dialogue]]
+event = 34
+page = 8
+command = 50
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wir müssen Herrn Uroto 
+befreien!\. Weißt du wo er sich 
+befindet?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We have to free Mr. Uroto!\.
+Do you know where he is?
+'''
+
+[[dialogue]]
+event = 34
+page = 8
+command = 54
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja, er ist praktisch am 
+anderem Ende des Untergeschosses. \.
+Es wird nicht leicht werden, mit ihm 
+zu fliehen...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yes, it's practically at the
+other end of the basement.\. It won't
+be easy to escape with him...
+'''
+
+[[dialogue]]
+event = 34
+page = 8
+command = 59
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber wir müssen es 
+versuchen...\. Kento,\. sonst haben wir 
+als Eskorte komplett versagt.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But we have to try Kento...\.
+otherwise we will have completely
+failed the escort mission!
+'''
+
+[[dialogue]]
+event = 34
+page = 8
+command = 63
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Lasst uns erstmal 
+nachschauen, wie die Lage unter den 
+Soldaten ist. 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: First of all, let's see what
+the situation is among the soldiers.
+'''
+
+[[dialogue]]
+event = 34
+page = 8
+command = 67
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Alles klar,\. Kumpel!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Got it!
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 7
+original = '''
+\c[10]?????\c[0]: Hier ist Endstation!
+'''
+patched = '''
+\c[10]?????\c[0]: Playtime's over, prisoners!
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 61
+has_portrait = true
+original = '''
+\c[10]Rothaariger Soldat\c[0]: Ihr drei werdet 
+alle schön wieder ins Kittchen 
+wandern!
+'''
+patched = '''
+\c[10]Red-Haired Soldier\c[0]: You three will
+all go back to your cells!
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 68
+original = '''
+\c[10]Soldat\c[0]: D...\.Die Gefangenen?!\. Sedric!\. Seit wann 
+genau weißt du,\. dass sich der Flüchtling hier 
+im Gebäude befindet?!
+'''
+patched = '''
+\c[10]Soldier\c[0]: T...\. The prisoners?!\. Sedric!\. How long
+have you known that the escapee was here in
+the building?!
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 74
+has_portrait = true
+original = '''
+\c[10]Sedric\c[0]: Schon seit einer Weile, aber 
+du denkst doch nicht wirklich, dass 
+ich mir den Spaß verderbe, indem ich 
+ihn sofort bloßstelle und einbuchte.
+'''
+patched = '''
+\c[10]Sedric\c[0]: For a while now, but don't
+think I was just going to spoil
+the fun by immediately exposing
+and locking them up.
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 78
+has_portrait = true
+original = '''
+\c[10]Sedric\c[0]: Das wäre in etwa so spaßig 
+wie eine kleine Ratte platt zu 
+treten.
+'''
+patched = '''
+\c[10]Sedric\c[0]: That'd be about as fun as
+kicking a little rat.
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 82
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ...\.Was?!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What?!
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 86
+has_portrait = true
+original = '''
+\c[10]Sedric\c[0]: Ihr hört richtig!\. Der 
+Flüchtling, dieser Kento alleine 
+wäre für mich keine Herausforderung 
+gewesen, erst recht ohne Ausrüstung
+'''
+patched = '''
+\c[10]Sedric\c[0]: You heard that right!\. This
+escapee, this Kento, wouldn't have
+been much of a challenge for me
+alone, especially without equipment.
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 91
+has_portrait = true
+original = '''
+\c[10]Sedric\c[0]: Ihr 3 zusammen dagegen seid 
+genug, um vielleicht ein bisschen 
+Spaß zu haben!
+'''
+patched = '''
+\c[10]Sedric\c[0]: Now, the three of you
+together are enough to have a
+little bit of fun!
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 98
+original = '''
+\c[10]Soldat\c[0]: Bist du total verrückt?!\. Das sind 3 Leute!\. 
+3 Soldaten!\. 3 ausgebildete Soldaten!
+'''
+patched = '''
+\c[10]Soldier\c[0]: Are you out of your mind?!\. You're
+talking about three people!\. Three soldiers!\.
+Three trained soldiers!
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 103
+has_portrait = true
+original = '''
+\c[10]Sedric\c[0]: Na und?\. Wir beide werden das 
+schon schaffen! \.
+Ich werde dieser Brillenschlange 
+zeigen, zu was ich fähig bin...
+'''
+patched = '''
+\c[10]Sedric\c[0]: So what?\. We'll both show 'em
+how it's done!\. I'll show these rats
+what I'm capable of...
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 109
+original = '''
+\c[10]Soldat\c[0]: \s[1]Sedric,\. ich glaube du siehst die ganze 
+Sache etwas....\. \s[0]Moment mal! 
+'''
+patched = '''
+\c[10]Soldier\c[0]: \s[1]Sedric,\. I think the whole thing a
+little...\. \s[0]Wait a minute!
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 113
+original = '''
+\c[10]Soldat\c[0]: Sagtest du da eben "WIR"?!
+'''
+patched = '''
+\c[10]Soldier\c[0]: Did you just say "WE"?!
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 117
+has_portrait = true
+original = '''
+\c[10]Sedric\c[0]: Richtig, ich könnte hier 
+ein bisschen magische 
+Unterstützung gebrauchen, also 
+darfst du mir helfen.
+'''
+patched = '''
+\c[10]Sedric\c[0]: Right, I could use some
+magical support here, so you
+help me out here.
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 122
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hey Mister Ich-markier-heut-
+mal-die-ein-Mann-Armee! 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hey "mister one man army"!
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 130
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Siehste deine beiden 
+Kollegen da hinten?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: You see your fellow soldiers
+back there?
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 139
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wenn du ebenfalls Teil dieser  
+Bodenpflasterung werden willst,\. komm 
+nur runter und stell dich,\. anstatt 
+uns zu Tode zu labern!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: If you want to join them too,\.
+then just come down here and fight
+us instead of droning on and on!
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 146
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Cibon...!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Cibon!
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 149
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Lass ihn,\. je schneller die 
+beiden erledigt sind, desto besser 
+für uns.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Let him,\. the faster the two
+are done with, the better for us.
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 159
+has_portrait = true
+original = '''
+\c[10]Sedric\c[0]: Setz mich mit diesen 
+Schwächlingen da unten gleich und du 
+hast bereits verloren!
+'''
+patched = '''
+\c[10]Sedric\c[0]: Get down there with me and
+show these weaklings that they've
+already lost!
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 164
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Du redest ja immer noch!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: You're still talking!
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 168
+has_portrait = true
+original = '''
+\c[10]Sedric\c[0]: Args!\. Komm jetzt, setzten 
+wir der Sache ein Ende.
+'''
+patched = '''
+\c[10]Sedric\c[0]: Argh!\. Come on now, let's put
+an end to this.
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 174
+original = '''
+\c[10]Soldat\c[0]: A...\.Aber...\.\^
+'''
+patched = '''
+\c[10]Soldier\c[0]: A...\. But...\.\^
+'''
+
+[[dialogue]]
+event = 34
+page = 10
+command = 177
+has_portrait = true
+original = '''
+\c[10]Sedric\c[0]: Kein aber!\. Du wirst jetzt 
+Teil dieser Meisterleistung!
+'''
+patched = '''
+\c[10]Sedric\c[0]: No ifs, ands, or buts!\. You'll
+now be a part of this grand
+masterpiece!
+'''
+
+[[dialogue]]
+event = 34
+page = 12
+command = 6
+has_portrait = true
+original = '''
+\c[10]Sedric\c[0]: ...\. D...\. Das werdet ihr noch 
+bereuen!
+'''
+patched = '''
+\c[10]Sedric\c[0]: Y...\. You'll regret this!
+'''
+
+[[dialogue]]
+event = 34
+page = 12
+command = 21
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: W...\. Was war das jetzt genau?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: W...\. What was that just now?
+'''
+
+[[dialogue]]
+event = 34
+page = 12
+command = 25
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ich hab ihn ja gewarnt, dass 
+er Bodenbelag wird,\. aber er wollt's 
+mir ja nicht glauben.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I told him he was in for
+a beating,\. but \s[1]nooo\s[0], he didn't
+want to believe me.
+'''
+
+[[dialogue]]
+event = 34
+page = 12
+command = 33
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich bin froh, dass nur er 
+mich gesehen hat und sonst niemand. 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I'm just glad that it was him
+who saw me rather than some other
+soldier.
+'''
+
+[[dialogue]]
+event = 34
+page = 12
+command = 36
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Besser so einen Dickkopf als 
+Gegner als alle restlichen Soldaten 
+im Gebäude.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Better that stubborn soldier
+than all of the other soldiers in
+the building.
+'''
+
+[[dialogue]]
+event = 34
+page = 12
+command = 45
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ja, wenn es allen Soldaten 
+hier so an Disziplin mangeln würde 
+wie diesem hier, müsste sich 
+Brigantia keine Sorgen machen.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Yes, if all soldiers here lack
+discipline like this one, Brigantia
+shouldn't have to worry.
+'''
+
+[[dialogue]]
+event = 34
+page = 12
+command = 50
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wirklich?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Really?
+'''
+
+[[dialogue]]
+event = 34
+page = 12
+command = 52
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir müssen weiter, los.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We have to keep going.
+'''
+
+[[dialogue]]
+event = 41
+page = 1
+command = 11
+original = '''
+
+Dies ist ein \c[11]Speicherpunkt\c[0].
+'''
+patched = '''
+
+This is a \c[11]save point\c[0].
+'''
+
+[[dialogue]]
+event = 41
+page = 1
+command = 13
+original = '''
+
+Wenn man auf solch einen steht, kann man \c[11]den
+Spielstand speichern\c[0].
+'''
+patched = '''
+
+When you stand on one of these, you can
+\c[11]save the game\c[0].
+'''
+
+[[dialogue]]
+event = 41
+page = 1
+command = 16
+original = '''
+
+Öffne dazu das \c[11]Menu\c[0] mit \c[11]Esc\c[0] und wähle
+dann \c[11]Speichern\c[0].
+'''
+patched = '''
+
+To do this, open the \c[11]menu\c[0] using \c[11]Esc\c[0] and
+then select \c[11]Save\c[0].
+'''
+
+[[dialogue]]
+event = 41
+page = 1
+command = 19
+original = '''
+
+Auf der \c[11]Weltkarte\c[0] kann man übigens
+immer speichern.
+'''
+patched = '''
+
+Additionally, you can always save on
+the \c[11]world map\c[0].
+'''
+
+[[dialogue]]
+event = 46
+page = 1
+command = 11
+original = '''
+
+Dies ist ein \c[11]Speicherpunkt\c[0].
+'''
+patched = '''
+
+This is a \c[11]save point\c[0].
+'''
+
+[[dialogue]]
+event = 46
+page = 1
+command = 13
+original = '''
+
+Wenn man auf solch einen steht, kann man \c[11]den
+Spielstand speichern\c[0].
+'''
+patched = '''
+
+When you stand on one of these, you can
+\c[11]save the game\c[0].
+'''
+
+[[dialogue]]
+event = 46
+page = 1
+command = 16
+original = '''
+
+Öffne dazu das \c[11]Menu\c[0] mit \c[11]Esc\c[0] und wähle
+dann \c[11]Speichern\c[0].
+'''
+patched = '''
+
+To do this, open the \c[11]menu\c[0] using \c[11]Esc\c[0] and
+then select \c[11]Save\c[0].
+'''
+
+[[dialogue]]
+event = 46
+page = 1
+command = 19
+original = '''
+
+Auf der \c[11]Weltkarte\c[0] kann man übigens
+immer speichern.
+'''
+patched = '''
+
+Additionally, you can always save on
+the \c[11]world map\c[0].
+'''
+
+[[text]]
+event = 41
+page = 1
+command = 4
+original = '''Stützpunkt4'''
+patched = '''Fortress?'''
+
+[[text]]
+event = 46
+page = 1
+command = 4
+original = '''Stützpunkt4'''
+patched = '''Fortress?'''

@@ -1,0 +1,175 @@
+[[dialogue]]
+event = 10
+page = 1
+command = 3
+original = '''
+\c[10]Ladenbesitzerin\c[0]: Hallo...\. Ah,
+wenn das nicht unsere beiden Wachleute sind,
+die uns von dieser Räuberbande befreit haben!
+'''
+patched = '''
+\c[10]Shopkeeper\c[0]: Hello...\. Ah,
+now if it isn't the two guards who
+freed us from this gang of thieves!
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 8
+original = '''
+\c[10]Ladenbesitzerin\c[0]: Hallo...\. Ah,
+Sie sind doch einer der beiden Wachleute,
+die hier die Räuberbande geschnappt haben, oder?
+'''
+patched = '''
+\c[10]Shopkeeper\c[0]: Hello...\. Ah,
+you're one of the guards who caught
+the gang of thieves, right?
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 16
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Öhm... ja.\. Worum geht es denn?
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Oh... yeah.\. What's this about?
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 18
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Wurde Ihnen auch alles
+zurückgegeben?\. Also das, was die 
+Diebe gestohlen haben...
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Was everything returned
+to you?\. Like what the thieves stole...
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 24
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Genauso ist es.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Yep.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 26
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Haben Sie auch alles 
+zurück bekommen, was ihnen gestohlen 
+wurde?
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Did you get everything
+that was stolen from you back?
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 32
+original = '''
+\c[10]Ladenbesitzerin\c[0]: Mir wurde glücklicherweise
+alles wieder zurückgegeben.\. 
+Es war nicht das erste Mal, wo sie etwas aus 
+meinem Laden gestohlen hatten.\.
+'''
+patched = '''
+\c[10]Shopkeeper\c[0]: Fortunately, everything
+was returned to me.\. It wasn't the
+first time they stole something
+from my shop.\.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 36
+original = '''
+\c[10]Ladenbesitzerin\c[0]: Ich bin heilfroh,
+dass diese Typen endlich geschnappt worden sind.
+Vielen Dank!
+...\. Hier, das ist für euch.
+'''
+patched = '''
+\c[10]Shopkeeper\c[0]: I'm glad that these
+guys have finally been caught.
+Thanks a lot!\.
+Here, this is for you.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 56
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Oh..\. Vielen Dank.
+Sowas kann man immer gut gebrauchen.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Oh...\. Thank you very much.
+I can always use something like this.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 59
+original = '''
+\c[10]Ladenbesitzerin\c[0]: Keine Ursache.
+Ich habe noch mehr solcher Sachen im Sortiment.
+'''
+patched = '''
+\c[10]Shopkeeper\c[0]: Don't mention it.
+I have much more in stock.
+'''
+
+[[dialogue]]
+event = 10
+page = 2
+command = 2
+original = '''
+\c[10]Ladenbesitzerin\c[0]: Guten Tag.\.
+Brauchen Sie ein paar Heilmittel?
+'''
+patched = '''
+\c[10]Shopkeeper\c[0]: Hello.\.
+Do you need some supplies?
+'''
+
+[[dialogue]]
+event = 10
+page = 3
+command = 2
+original = '''
+\c[10]Ladenbesitzerin\c[0]: Guten Tag.\.
+Brauchen Sie ein paar Heilmittel?
+'''
+patched = '''
+\c[10]Shopkeeper\c[0]: Hello.\.
+Do you need some supplies?
+'''

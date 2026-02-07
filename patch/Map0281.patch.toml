@@ -1,0 +1,334 @@
+[[dialogue]]
+event = 6
+page = 2
+command = 35
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Okay, hier sind wir! 
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Okay, here we are!
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 37
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Also, was für ein Pulver 
+suchen wir jetzt genau?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: So what kind of powder are we
+looking for?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 40
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Graufunkenpulver.\. Ist euch 
+das ein Begriff?
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Static powder.\. Do you know
+what it is?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 46
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Hm...\. ich denke, ich hab mal 
+davon gehört.\. Wird das nicht 
+verwendet, um die Wirkung von 
+Signumsprüchen zu verstärken?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Hm...\. I think I've heard about
+it.\. Isn't it used to enhance the
+potency of Signums?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 51
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Exakt.\. Man streue 
+Graufunkenpulver an eine Felswand 
+und zaubere Feuer oder Feures drauf 
+und \s[2]WUMM \s[0]\.- ein Loch wurde gesprengt.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Exactly.\. You sprinkle some
+static powder on the wall of a cave
+then use a fire or great fire spell
+on it, and \s[2]BOOM,\s[0]\. a hole is opened up.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 55
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Das ist auch der Grund, 
+wieso dieses Pulver in der Mine 
+verwendet wird \.- oder eher verwendet 
+wurde.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: That's also the reason why
+this powder is used in the mine,\.
+or rather,\. was used.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 60
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Mittlerweile scheint man ja 
+nur noch mit Dynamit zu sprengen, 
+wahrscheinlich weil man dafür keine 
+Signumkundigen mehr braucht.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Meanwhile, they only seem to
+be blowing up walls with dynamite,
+probably because they no longer need
+anyone who's familiar with Signums.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 65
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Ich hab ehrlich gesagt nicht
+erwartet, dass man schon heute den 
+gesamten Graupulverkonsum aufgelöst 
+bekommen hat.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: To be honest, I didn't expect
+that all of the static powder's usage
+would be cut.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 70
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Aber hier sollten wir noch 
+einige letzte Reserven finden\. - 
+hoffentlich.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: But we should still be able to
+find some of the last reserves here,\.
+hopefully.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 77
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm,\. wie es aussieht, geht es 
+hier im Gang noch weiter.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hm,\. it looks like this place
+continues over there.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 81
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Sehr groß kann der 
+Lagerbereich nicht sein, wir werden 
+den Kram schon finden.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: This storeroom can't be very
+big, we'll find the stuff eventually.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 86
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wie sieht dieses 
+Graufunkenpulver denn aus?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What does this static powder
+look like?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 90
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Nun, es ist grau,\. funkelt\. 
+und sieht abgesehen davon aus wie 
+Pulver.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Well,\. it's gray,\. sparkles,\. and
+looks powdery apart from that.
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 95
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 108
+original = '''
+\^
+'''
+patched = '''
+\^
+'''
+
+[[dialogue]]
+event = 12
+page = 1
+command = 18
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[12]\n[2]\c[0]: Sollen wir das einfach so 
+einstecken, Kumpel?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Shouldn't we just leave it
+there, Kento?
+'''
+
+[[dialogue]]
+event = 12
+page = 1
+command = 21
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wieso nicht?\. Die Wächter 
+geben uns so oder so Magische Lupen, 
+von daher wird es nicht auffallen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Why not?\. The guards give us
+magic lens, so either way, it
+won't be noticed.
+'''
+
+[[dialogue]]
+event = 13
+page = 1
+command = 11
+original = '''
+
+Dies ist ein \c[11]Speicherpunkt\c[0].
+'''
+patched = '''
+
+This is a \c[11]save point\c[0].
+'''
+
+[[dialogue]]
+event = 13
+page = 1
+command = 13
+original = '''
+
+Wenn man auf solch einen steht, kann man \c[11]den
+Spielstand speichern\c[0].
+'''
+patched = '''
+
+When you stand on one of these, you can
+\c[11]save the game\c[0].
+'''
+
+[[dialogue]]
+event = 13
+page = 1
+command = 16
+original = '''
+
+Öffne dazu das \c[11]Menu\c[0] mit \c[11]Esc\c[0] und wähle
+dann \c[11]Speichern\c[0].
+'''
+patched = '''
+
+To do this, open the \c[11]menu\c[0] using \c[11]Esc\c[0] and
+then select \c[11]Save\c[0].
+'''
+
+[[dialogue]]
+event = 13
+page = 1
+command = 19
+original = '''
+
+Auf der \c[11]Weltkarte\c[0] kann man übigens
+immer speichern.
+'''
+patched = '''
+
+Additionally, you can always save on
+the \c[11]world map\c[0].
+'''
+
+[[text]]
+event = 13
+page = 1
+command = 4
+original = '''Mine Lager'''
+patched = '''Storeroom'''

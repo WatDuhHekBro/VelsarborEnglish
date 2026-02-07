@@ -1,0 +1,118 @@
+[[dialogue]]
+event = 6
+page = 1
+command = 3
+has_portrait = true
+original = '''
+\c[10]Blonder Typ\c[0]: Nana, gehandelt wird 
+hier über der Theke. 
+'''
+patched = '''
+\c[10]Blond Guy\c[0]: Hey, we're only trading
+over the counter here.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 3
+has_portrait = true
+original = '''
+\c[10]Blonder Typ\c[0]: Oh, ein Kunde! Ha! Wie 
+kann ich behilflich sein?
+'''
+patched = '''
+\c[10]Blond Guy\c[0]: Oh, a customer! Ha! How
+can I help you?
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 4
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Was sind das denn bitte für 
+Preise?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: What's with these prices?!
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 7
+has_portrait = true
+original = '''
+\c[10]Blonder Typ\c[0]: Das ist meine 
+Erfolgsstrategie!
+'''
+patched = '''
+\c[10]Blond Guy\c[0]: Now that there is my
+strategy for success!
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 9
+has_portrait = true
+original = '''
+\c[10]Blonder Typ\c[0]: Wenn ich die Waren zu 
+einem höheren Preis verkaufe, wird 
+der Erlös automatisch steigen!
+'''
+patched = '''
+\c[10]Blond Guy\c[0]: If I sell my wares at
+a higher price,\. my profits will
+automatically increase!
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 12
+has_portrait = true
+original = '''
+\c[10]Blonder Typ\c[0]: Selbst wenn ich weniger 
+verkaufen sollte, verdiene ich im 
+Endeffekt mehr als andere 
+Mischwaren-Läden.
+'''
+patched = '''
+\c[10]Blond Guy\c[0]: Even if I end up selling
+less,\. I'll still ultimately earn
+more than any other store out
+there!
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 17
+has_portrait = true
+original = '''
+\c[10]Blonder Typ\c[0]: Ziemlich gerissen, 
+nicht wahr?
+'''
+patched = '''
+\c[10]Blond Guy\c[0]: Pretty smart of me,\.
+isn't that right?
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 21
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ... Ich bin mir nicht so 
+sicher, ob das funktioniert.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I'm not sure that's how it
+works...
+'''

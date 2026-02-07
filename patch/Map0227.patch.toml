@@ -1,0 +1,102 @@
+[[dialogue]]
+event = 19
+page = 2
+command = 17
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Mobilisieren Sie die 
+Leute, damit wir losziehen können, 
+sobald die Bestätigung vom Rat 
+kommt.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Mobilize the people so
+that we can move out as soon as
+confirmation comes from the council.
+'''
+
+[[dialogue]]
+event = 19
+page = 2
+command = 21
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Schreiben Sie zudem 
+eine Nachricht nach Buronia, dass 
+die Einheiten aus Nomerea alleine 
+nicht ausreichen werden.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Also, write a message to
+Buronia that the units from Nomerea
+alone will not be enough.
+'''
+
+[[dialogue]]
+event = 19
+page = 2
+command = 36
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Sir Vorento, es gibt 
+eine neue Nachricht aus Gencorin!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Sir Vorento,
+there's a new message from Gencorin!
+'''
+
+[[dialogue]]
+event = 19
+page = 2
+command = 46
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Zeigen Sie her.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Show me.
+'''
+
+[[dialogue]]
+event = 19
+page = 2
+command = 58
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Was...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: What...
+'''
+
+[[dialogue]]
+event = 19
+page = 2
+command = 59
+has_portrait = true
+original = '''
+(\c[10]Sir Vorento\c[0]: Was geht hier vor 
+sich?\. Kento und Cibon wegen Spionage 
+gefangen genommen?\. Herr Uroto jetzt 
+doch nicht mehr in Gefangenschaft?)
+'''
+patched = '''
+(\c[10]Sir Vorento\c[0]: What's going on here?\.
+Kento and Cibon captured for
+espionage?\. Mr. Uroto no
+longer in captivity?)
+'''
+
+[[dialogue]]
+event = 19
+page = 2
+command = 69
+has_portrait = true
+original = '''
+(\c[10]Sir Vorento\c[0]: ...Und sein Name ist 
+kein einziges Mal gefallen...)
+'''
+patched = '''
+(\c[10]Sir Vorento\c[0]: ...and her name isn't
+mentioned here...)
+'''

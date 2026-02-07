@@ -1,0 +1,107 @@
+[[dialogue]]
+event = 5
+page = 2
+command = 2
+original = '''
+\c[10]Junge Frau\c[0]: Habt ihr schon mal das Corine-
+Plateau durchquert?
+'''
+patched = '''
+\c[10]Young Woman\c[0]: Have you ever crossed
+the Corine Plateau?
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 4
+original = '''
+\c[10]Junge Frau\c[0]: Es ist etwas ironisch, aber trotz der 
+kompletten Zerstörung des ehemaligen Waldes 
+vor 9 Jahren oder gerade deswegen hat sich eine 
+ganz außergewöhnliche Landschaft gebildet.
+'''
+patched = '''
+\c[10]Young Woman\c[0]: It's a little ironic, but despite
+the complete destruction of the former forest
+nine years ago or because of it, a very
+unusual landscape has formed.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 8
+original = '''
+\c[10]Junge Frau\c[0]: Es gibt wenig große Pflanzen und 
+Bäume, aber überall wächst meterhohes Grass.\.
+Außerdem sind die vielen flachen Klippen und 
+Hänge interessant anzusehen.
+'''
+patched = '''
+\c[10]Young Woman\c[0]: There aren't that many large plants
+and trees left, but the grass is several meters
+high and grows everywhere.\. In addition, the many
+flat cliffs and slopes are interesting to see.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 12
+original = '''
+\c[10]Junge Frau\c[0]: Ihr solltet euch das mal ansehen, es 
+ist wirklich ein Blick wert, nicht zuletzt auch 
+wegen dem Denkmal auf halben Wege, das
+all die Opfer von Septoccasus gedient.
+'''
+patched = '''
+\c[10]Young Woman\c[0]: You should take a look at it
+sometime, it's really worth a look, not
+just because of the memorial for all
+of the victims of Septoccasus.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 19
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ja, viele tapfere Soldaten 
+haben damals im Corine Plateau ihr 
+Leben gelassen.\. Man sollte sie nicht 
+vergessen.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Yes, many brave soldiers lost
+their lives in the Corine Plateau.\.
+They shouldn't be forgetten.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 25
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Genau...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Yeah...
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 27
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...
+'''

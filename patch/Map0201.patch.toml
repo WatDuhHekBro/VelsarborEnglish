@@ -1,0 +1,141 @@
+[[dialogue]]
+event = 43
+page = 3
+command = 7
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Da ist sie ja!\. Scheint sogar 
+noch alles dabei zu sein.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: There it is!\. Everything seems
+to be here.)
+'''
+
+[[dialogue]]
+event = 43
+page = 3
+command = 22
+original = '''
+
+Info: Deine ehemalige Ausrüstung befindet sich 
+wieder in deinem Besitz.
+'''
+patched = '''
+
+Info: Your former equipment is in your possession
+again.
+'''
+
+[[dialogue]]
+event = 43
+page = 3
+command = 31
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Wo ich schon hier bin, 
+sollte ich mich auch gleich nach 
+weiteren nützlichen Items 
+umschauen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: While I'm here, I should also
+look around for other useful items.)
+'''
+
+[[dialogue]]
+event = 43
+page = 3
+command = 36
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Für die nächste Aktion 
+könnte jeder Heiltrank entscheidend 
+sein.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: The difference of just one
+more potion could make or break
+the next battle.)
+'''
+
+[[dialogue]]
+event = 43
+page = 3
+command = 44
+original = '''
+
+Hinweis: Nicht das Ausrüsten vergessen!
+'''
+patched = '''
+
+Note: Don't forget to equip your items!
+'''
+
+[[dialogue]]
+event = 52
+page = 1
+command = 11
+original = '''
+
+Dies ist ein \c[11]Speicherpunkt\c[0].
+'''
+patched = '''
+
+This is a \c[11]save point\c[0].
+'''
+
+[[dialogue]]
+event = 52
+page = 1
+command = 13
+original = '''
+
+Wenn man auf solch einen steht, kann man \c[11]den
+Spielstand speichern\c[0].
+'''
+patched = '''
+
+When you stand on one of these, you can
+\c[11]save the game\c[0].
+'''
+
+[[dialogue]]
+event = 52
+page = 1
+command = 16
+original = '''
+
+Öffne dazu das \c[11]Menu\c[0] mit \c[11]Esc\c[0] und wähle
+dann \c[11]Speichern\c[0].
+'''
+patched = '''
+
+To do this, open the \c[11]menu\c[0] using \c[11]Esc\c[0] and
+then select \c[11]Save\c[0].
+'''
+
+[[dialogue]]
+event = 52
+page = 1
+command = 19
+original = '''
+
+Auf der \c[11]Weltkarte\c[0] kann man übigens
+immer speichern.
+'''
+patched = '''
+
+Additionally, you can always save on
+the \c[11]world map\c[0].
+'''
+
+[[text]]
+event = 52
+page = 1
+command = 4
+original = '''Stützpunkt3'''
+patched = '''Fortress?'''

@@ -1,0 +1,398 @@
+[[dialogue]]
+event = 17
+page = 2
+command = 19
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Hier scheint eines der 
+Gefängnisse zu sein...\. Mal 
+schauen...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: One of the cells seems to be
+here...\. Let's see...)
+'''
+
+[[dialogue]]
+event = 17
+page = 2
+command = 25
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Hier müsste Herr Uroto 
+gefangen sein...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Mr. Uroto must be trapped
+here...)
+'''
+
+[[dialogue]]
+event = 17
+page = 2
+command = 36
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Zwei Wachen...\.
+Ohne Ausrüstung werde ich da nicht 
+sehr weit kommen...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Two guards...\. I won't get
+very far without equipment...)
+'''
+
+[[dialogue]]
+event = 17
+page = 2
+command = 41
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Zwei Wachen...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Two guards...)
+'''
+
+[[dialogue]]
+event = 17
+page = 2
+command = 50
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Hier kann ich noch nichts 
+machen...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: I can't do anything here
+yet...)
+'''
+
+[[dialogue]]
+event = 17
+page = 2
+command = 55
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Es wäre keine gute Idee, 
+Herrn Uroto zuerst zu befreien.\. Mit 
+ihm an der Seite wird es schwerer 
+sich durch den Komplex zu bewegen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: It wouldn't be a good idea to
+free Mr. Uroto first.\. With him by
+my side, it'd be harder to move
+through the complex.)
+'''
+
+[[dialogue]]
+event = 17
+page = 2
+command = 60
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Ich sollte zuerst Cibon und 
+Soko befreien...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: I should free Cibon and Soko
+first...)
+'''
+
+[[dialogue]]
+event = 17
+page = 3
+command = 16
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: ...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: ...)
+'''
+
+[[dialogue]]
+event = 17
+page = 4
+command = 15
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Ich wusste nicht genau 
+wo ich war oder wieso man uns 
+gefangen genommen hat...
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: I didn't know exactly
+where I was or why we were
+captured...
+'''
+
+[[dialogue]]
+event = 17
+page = 4
+command = 18
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Aber als ich in meiner 
+Zelle saß,\. habe ich einige 
+Unterhaltungen der Wachleute 
+mitlauschen können...
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: But when I was sitting in
+my cell,\. I could hear some of the
+guards' conversations...
+'''
+
+[[dialogue]]
+event = 17
+page = 4
+command = 31
+original = '''
+\c[10]Untere Wache\c[0]: Hey, kommt mal kurz rüber.
+'''
+patched = '''
+\c[10]Guard\c[0]: Hm...\. This prisoner is still here,\.
+but what happened to the other three?
+'''
+
+[[dialogue]]
+event = 17
+page = 4
+command = 44
+original = '''
+\c[10]Linke Wache\c[0]: Sag mal...\. was haben sie nun mit 
+den anderen Gefangenen gemacht?\. Ich seh' sie nicht 
+mehr in ihren Zellen.
+'''
+patched = '''
+\c[10]Right Guard\c[0]: Tell me...\. What have they done with
+the others?\. I can't seem to find them in their
+cells.
+'''
+
+[[dialogue]]
+event = 17
+page = 4
+command = 47
+original = '''
+\c[10]Rechte Wache\c[0]: So wie ich gehört habe, haben sich 
+die 3 bereit erklärt, für uns jenseits der Grenze 
+aktiv zu sein.
+'''
+patched = '''
+\c[10]Left Guard\c[0]: From what I heard, the three agreed
+to be active for us across the border.
+'''
+
+[[dialogue]]
+event = 17
+page = 4
+command = 51
+original = '''
+\c[10]LinkeWache\c[0]: Ah...\. also 3 weitere Spione auf 
+unserer Seite.
+'''
+patched = '''
+\c[10]Right Guard\c[0]: Ah...\. So three more spies on our
+side.
+'''
+
+[[dialogue]]
+event = 17
+page = 4
+command = 53
+original = '''
+\c[10]Rechte Wache\c[0]: Ja, sie sollen die ganzen Gerüchte 
+über uns aus der Welt schaffen.
+'''
+patched = '''
+\c[10]Left Guard\c[0]: Yep, they're supposed to get rid of
+all the rumors about us.
+'''
+
+[[dialogue]]
+event = 17
+page = 4
+command = 56
+original = '''
+\c[10]Linke Wache\c[0]: Wie wollen sie das den schaffen.
+'''
+patched = '''
+\c[10]Right Guard\c[0]: How are they going to do that?
+'''
+
+[[dialogue]]
+event = 17
+page = 4
+command = 57
+original = '''
+\c[10]Rechte Wache\c[0]: Der Plan ist eigentlich ganz 
+interessant...
+'''
+patched = '''
+\c[10]Left Guard\c[0]: The plan is actually quite
+interesting...
+'''
+
+[[dialogue]]
+event = 17
+page = 5
+command = 13
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Ich saß in meiner Zelle, 
+als plötzlich irgendwas außerhalb 
+geschah. 
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: I was sitting in my cell
+when something suddenly happened
+outside.
+'''
+
+[[dialogue]]
+event = 17
+page = 5
+command = 44
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Dann flog irgendetwas 
+ins Gefängnis.\. Es wurde Hell und ich 
+verlor mein Bewusstsein.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: Then, something was thrown
+near my cell.\. It got very bright and
+I lost consciousness.
+'''
+
+[[dialogue]]
+event = 17
+page = 5
+command = 48
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Als ich wieder 
+aufwachte, befand ich mich in einer 
+Hütte im Wald.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: The next thing I knew,\.
+I was in a hut in the forest.
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 14
+has_portrait = true
+original = '''
+(\c[10]Herr Uroto\c[0]: Verdammt...)
+'''
+patched = '''
+(\c[10]Mr. Uroto\c[0]: Damn...)
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 15
+has_portrait = true
+original = '''
+(\c[10]Herr Uroto\c[0]: Wer hätte Gedacht, dass 
+die Lage bereits jetzt schon so 
+ernst ist.)
+'''
+patched = '''
+(\c[10]Mr. Uroto\c[0]: Who would've thought that
+the situation was already so
+serious.)
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 18
+has_portrait = true
+original = '''
+(\c[10]Herr Uroto\c[0]: Hätte man diese ganzen 
+Gerüchte doch bloß ernster 
+genommen...) 
+'''
+patched = '''
+(\c[10]Mr. Uroto\c[0]: If only all these rumors
+had been taken more seriously...)
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 26
+has_portrait = true
+original = '''
+(\c[10]Herr Uroto\c[0]: Wenn sich diese Gruppe 
+bereits zutraut einen politischen 
+Gesandten gefangen zu nehmen...)
+'''
+patched = '''
+(\c[10]Mr. Uroto\c[0]: If this group already
+dares to capture a political
+envoy...)
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 29
+has_portrait = true
+original = '''
+(\c[10]Herr Uroto\c[0]: Heißt das, dass sie der 
+darauf folgenden Reaktion von 
+Brigantia bereits gewachsen sind?)
+'''
+patched = '''
+(\c[10]Mr. Uroto\c[0]: Does that mean that after
+Brigantia's following reaction, they
+were already growing?)
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 32
+has_portrait = true
+original = '''
+(\c[10]Herr Uroto\c[0]: Kann das wirklich sein?\. 
+Hat sich eine so mächtige 
+militärische Einheit komplett im 
+Untergrund gebildet?)
+'''
+patched = '''
+(\c[10]Mr. Uroto\c[0]: Could it really be?\.
+Has such a powerful military unit
+formed entirely underground?)
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 40
+has_portrait = true
+original = '''
+(\c[10]Herr Uroto\c[0]: Was...\. Was wird jetzt 
+mit mir geschehen...)
+'''
+patched = '''
+(\c[10]Mr. Uroto\c[0]: What...\. What'll happen to
+me now...)
+'''

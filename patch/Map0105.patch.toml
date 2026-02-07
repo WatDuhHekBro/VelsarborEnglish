@@ -1,0 +1,778 @@
+[[dialogue]]
+event = 26
+page = 3
+command = 28
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Fr...\. Frau Filaja!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: M...\. Ms. Filaja!
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 30
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Oh....
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Oh...
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 40
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wie?\. Biste uns jetzt doch 
+gefolgt?\. Wieso denn das auf 
+einmal?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What?\. You're following us now?\.
+Why is that all of a sudden?
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 44
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Und was ist mit Herrn Uroto?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: And what about Mr. Uroto?
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 46
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ähh...\. Der eine Soldat aus 
+Buronia hat sich bereit erklärt, auf 
+ihn aufzupassen...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Um...\. One of the soldiers from
+Buronia agreed to take care of him...
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 50
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Und wieso bist du jetzt doch 
+hier?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: And why are you here now?
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 57
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Na, was ist nun?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What is it this time?
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 59
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Die Beben da oben haben 
+weiterhin die Bauarbeiten 
+aufgehalten... 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: The tremors up there continued
+to mess with construction...
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 62
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ein paar Seile der Brücke, 
+die neu gespannt wurden, sind 
+erneut gerissen.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: A couple of ropes on the bridge
+that were re-tensioned broke again.
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 66
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Sie hatten Recht, diese Beben 
+halten uns zu viel auf.\. Wir sollten 
+die Ursache finden und versuchen 
+sie zu beseitigen...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: You were right, this earthquake
+is holding us up too much.\. We should
+find the cause and try to eliminate
+it...
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 72
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ...Aber du glaubst nicht, dass 
+Kento und ich fähig sind, das hier 
+alleine zu regeln?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: But you don't think Kento and
+I are capable of doing this alone?
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 80
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Cibon,\. du musst nicht gleich 
+in diese Richtung denken.\. Vielleicht 
+hat sie sich einfach nur Sorgen 
+gemacht...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Cibon,\. try not to think in
+that direction.\. Maybe she was
+just worried...
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 86
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Nachdem, wie sie sich da oben 
+angestellt hat?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: After how she spoke to us back
+there?!
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 92
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ah...\. Das verstehen Sie falsch.\. 
+...\. Wir sind ein Team\. und als dieses 
+müssen wir so gut wie möglich 
+zusammen arbeiten.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Ah...\. You misunderstand.\. We're
+a team,\. and as a team,\. we have to
+work together as best as possible.
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 97
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Es war falsch von mir gewesen, 
+Sie alleine in die Höhle ziehen zu 
+lassen,\. das geb ich zu....
+'''
+patched = '''
+\c[13]\n[3]\c[0]: It was wrong of me to let you
+go into the cave alone,\. I'll admit
+that...
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 103
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Sie hat sich tatsächlich Sorgen 
+gemacht, Kumpel.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I guess she was actually
+worried then.
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 109
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: D...\. Das hab ich nicht gesagt!\. 
+Es ging mir nicht um das 
+Wohlbefinden von ihnen, sondern um 
+das Prinzip von Teamarbeit! 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: I...\. I didn't say that!\. It was
+not about the well-being of you two,
+but about the principle of teamwork!
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 115
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ja ja,\. schon klar...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Yeah yeah,\. of course...
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 122
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm...\. Cibon, wir sind hier 
+bereits gewesen...\. Anscheinend 
+laufen wir im Kreis...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hm...\. Cibon, we've already
+been here...\. Seems like we're
+walking in circles...
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 127
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Öh?\. ...\. Du hast Recht,\. hier 
+waren wir schon!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Huh?\. Oh, you're right,\. we have
+been here before!
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 130
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Heißt das, es gibt nichts 
+weiter zu durchsuchen in der Höhle?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Does that mean there's nothing
+else to look for in the cave?
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 134
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich glaube schon,\. es sei denn 
+wir haben irgendwo einen Bereich 
+übersehen...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I think so,\. unless we missed an
+area somewhere...
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 139
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Gut möglich, bei der 
+Dunkelheit hier.\. Wir sollten weiter 
+suchen.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Quite possible in the darkness
+here.\. We should keep looking.
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 144
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Das denke ich auch. Die Beben 
+sind hier eindeutig stärker.\. Die 
+Ursache muss hier in der Höhle 
+liegen. 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: I think so too. These tremors
+are clearly stronger here.\. The
+cause must be in the cave here.
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 153
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Da fällt mir auf...\. Eine Sache 
+ist merkwürdig...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: You know...\. Something's off...
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 158
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Was denn, Kumpel?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What is it?
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 161
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ist euch aufgefallen, dass das 
+letzte Beben schon eine ganze Zeit 
+zurück liegt?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Did you notice that the last
+tremor was quite a while ago?
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 165
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Sie meinen...\. es kommen keine 
+Beben mehr?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: You mean...\. there aren't any
+more tremors?
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 168
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja, ich frag mich wieso...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yeah, I don't know why...
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 197
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Kento!!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Kento!!
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 253
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wa... Was war das?!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Wh...\. What was that?!
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 255
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Irre ich mich, oder war das 
+ein...\. Tentakel?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Is it just me, or was that
+a...\. tentacle?
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 258
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Da ist etwas im Wasser! Passen 
+sie auf!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: There's something in the water!
+Watch out!
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 320
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Eine...\.\. riesige...\.\. Krake?!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: A...\.\. giant...\.\. octopus?!
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 322
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Eine Krake?\. Hier?\.
+Wie kann das sein...?!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: An octopus?\. Here?\. How can that
+be?!
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 325
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wie kommt so ein Vieh in ein 
+so kleines Gewässer wie in dieser 
+Höhle?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: How does such a creature get
+into such a small body of water
+like this cave?
+'''
+
+[[dialogue]]
+event = 26
+page = 3
+command = 329
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Frag nicht!\. Das Ding muss 
+weg!\. ES macht die Erdbeben, da bin 
+ich mir sicher!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Don't ask me!\. That thing has
+to go!\. THAT'S the cause of this
+earthquake, I'm sure of that!
+'''
+
+[[dialogue]]
+event = 26
+page = 5
+command = 6
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: W...\. War es das? 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: W...\. Was that it?
+'''
+
+[[dialogue]]
+event = 26
+page = 5
+command = 9
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: JA! Wir haben das Vieh 
+besiegt!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: YES!\. We defeated it!
+'''
+
+[[dialogue]]
+event = 26
+page = 5
+command = 13
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja,\. es scheint so...\. Die 
+Erdbeben kommen auch nicht mehr...\. 
+Das Problem ist gelöst.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yeah,\. it seems so...\. The
+earthquakes seem to be gone...\.
+The problem is solved.
+'''
+
+[[dialogue]]
+event = 26
+page = 5
+command = 18
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber...\. wie konnte das 
+passieren?\. Wie kommt so ein 
+Monster hier unten in die Höhle?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But...\. How could that've
+happened?\. How does such a creature
+get down here in the cave?
+'''
+
+[[dialogue]]
+event = 26
+page = 5
+command = 22
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich bin mir nicht sicher...\. 
+Vielleicht ist die Krake als Ei an 
+diesen Ort geraten und geschlüpft...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I'm not sure...\. Maybe the
+octopus came to this place as an
+egg and hatched...
+'''
+
+[[dialogue]]
+event = 26
+page = 5
+command = 28
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Und dann hier aufgewachsen?\.
+...und dann bekam sie Platzmangel 
+und hat deswegen das Theater 
+angerichtet.\. Das könnte sein...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: And then grew up here?\. Then it
+got a lack of space which is why it
+started up this whole drama.\.
+That could be...
+'''
+
+[[dialogue]]
+event = 26
+page = 5
+command = 32
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Die Beben kamen also davon, 
+dass sie sich ständig gegen die 
+Felswände gerammt hat...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: So the earthquake came from the
+fact that it rammed into the rock
+walls all the time...
+'''
+
+[[dialogue]]
+event = 26
+page = 5
+command = 37
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ist das denn wirklich wichtig?\.
+Hauptsache wir haben das Problem 
+mit den Beben gelöst.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Is that really important?\. The
+main thing is that we solved this
+earthquake problem.
+'''
+
+[[dialogue]]
+event = 26
+page = 5
+command = 43
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ja...\. Sie haben Recht.\.
+Wir sollten schnellst möglich
+zurückkehren.\. Hoffentlich 
+geht es Herrn Uroto gut...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Yeah...\. you're right.\. We should
+go back as soon as possible.\.
+Hopefully Mr. Uroto is fine...
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 11
+original = '''
+
+Dies ist ein \c[11]Speicherpunkt\c[0].
+'''
+patched = '''
+
+This is a \c[11]save point\c[0].
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 13
+original = '''
+
+Wenn man auf solch einen steht, kann man \c[11]den
+Spielstand speichern\c[0].
+'''
+patched = '''
+
+When you stand on one of these, you can
+\c[11]save the game\c[0].
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 16
+original = '''
+
+Öffne dazu das \c[11]Menu\c[0] mit \c[11]Esc\c[0] und wähle
+dann \c[11]Speichern\c[0].
+'''
+patched = '''
+
+To do this, open the \c[11]menu\c[0] using \c[11]Esc\c[0] and
+then select \c[11]Save\c[0].
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 19
+original = '''
+
+Auf der \c[11]Weltkarte\c[0] kann man übigens
+immer speichern.
+'''
+patched = '''
+
+Additionally, you can always save on
+the \c[11]world map\c[0].
+'''
+
+[[text]]
+event = 35
+page = 1
+command = 4
+original = '''Toras|Hoehle'''
+patched = '''Mt Toras Cave'''

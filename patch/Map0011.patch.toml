@@ -1,0 +1,12 @@
+[[dialogue]]
+event = 1
+page = 3
+command = 1
+original = '''
+So...........kommts?^^
+Joa....
+'''
+patched = '''
+So...........kommts?^^
+Joa....
+'''

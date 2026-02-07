@@ -1,0 +1,29 @@
+[[dialogue]]
+event = 3
+page = 3
+command = 14
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Da ist er ja.\. Jetzt schnell 
+zur Lagerhalle!)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: There it is.\. Now quickly to
+the storeroom!)
+'''
+
+[[dialogue]]
+event = 4
+page = 3
+command = 14
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Da ist er ja.\. Jetzt schnell 
+zur Lagerhalle!)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: There it is.\. Now quickly to
+the storeroom!)
+'''

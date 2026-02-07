@@ -1,0 +1,118 @@
+[[dialogue]]
+event = 1
+page = 3
+command = 4
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Moment...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Wait...)
+'''
+
+[[dialogue]]
+event = 11
+page = 3
+command = 4
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Hm...\. von dem Zeug könnte 
+ich einiges gebrauchen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Hm...\. I could use some of
+this stuff.)
+'''
+
+[[dialogue]]
+event = 11
+page = 3
+command = 21
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Mit den Schlafbomben kann 
+ich ein paar Wachen zumindest 
+kurzzeitig außer Gefecht setzten,\. 
+wenn ich entdeckt werden sollte.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: With these sleep bombs, I can
+get away from a few guards,\. at least
+for some time if I'm discovered.)
+'''
+
+[[dialogue]]
+event = 19
+page = 2
+command = 15
+original = '''
+\c[10]Soldat\c[0]: Was steht ihr hier so rum?\. Der Gefangene 
+ist nach draußen geflohen.\. Hier werdet ihr ihn 
+sicher nicht mehr finden.
+'''
+patched = '''
+\c[10]Soldier\c[0]: What are you guys doing around here?\. The
+prisoner escaped outside.\. You won't find him
+here.
+'''
+
+[[dialogue]]
+event = 19
+page = 2
+command = 19
+original = '''
+\c[10]Soldat\c[0]: Schon gut, schon gut...
+'''
+patched = '''
+\c[10]Soldier\c[0]: Alright alright...
+'''
+
+[[dialogue]]
+event = 19
+page = 2
+command = 26
+original = '''
+\c[10]Soldat\c[0]: Draußen einen Geflohenen suchen, bei 
+diesem Sauwetter,\. na Klasse.\. Ich habe gehofft, 
+dass nach dem Hinterhalt erstmal wieder etwas Ruhe 
+einkehren würde,\. aber nein...
+'''
+patched = '''
+\c[10]Soldier\c[0]: Looking for an escapee outside in this
+dreary weather,\. just great.\. I was hoping that
+after the ambush, some peace and quiet would
+return,\. but \s[5]nooo...
+'''
+
+[[dialogue]]
+event = 19
+page = 2
+command = 31
+original = '''
+\c[10]Soldat\c[0]: Beschwer dich nicht,\. komm.
+'''
+patched = '''
+\c[10]Soldier\c[0]: Don't complain,\. let's go.
+'''
+
+[[dialogue]]
+event = 19
+page = 2
+command = 37
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Wunderbar...\. 
+Wenn sie draußen nach mir suchen, 
+sollten weniger Wachen im Inneren 
+des Komplexes sein...\. Hoffe ich.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Nice...\. If they're looking
+for me outside, there should be
+fewer guards around inside the
+complex...\. I hope.)
+'''

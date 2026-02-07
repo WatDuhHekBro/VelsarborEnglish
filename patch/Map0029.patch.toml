@@ -1,0 +1,722 @@
+[[dialogue]]
+event = 35
+page = 1
+command = 25
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Siehste? Grünperlen!
+Das is' doch was.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] See? Green pearls!
+That's something.
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 28
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Was sollen uns diese Perlen 
+bitte bringen?
+'''
+patched = '''
+\c[1]\n[1]:\c[0] What do these pearls bring us?
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 34
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Was die bringen?\. Das is' eine 
+Handelsware, Kumpel.\. Warst du in 
+Nomerea etwa noch nie auf dem 
+Handelsmarkt?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] What do they bring?\. It's a
+commodity.\. Have you never been to the
+trading market in Nomerea?
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 39
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Öh?\. Nein, nicht wirklich.\.
+Das hat mich bisher nicht 
+interessiert...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Oh?\. I have.\. It's just
+that up until now, I wasn't
+interested...
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 43
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Tja, das sieht dir ähnlich.\.
+Ich sag dir:\. Ohne mich wärste 
+finanziell schon längst am Abgrund.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Man, this is just like you.\.
+I tell you,\. without me, you would've
+been financially struggling a long
+time ago.
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 47
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Wie bitte?\. Du leihst dir doch 
+immer Geld von mir aus!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Excuse me?\. You always borrow
+money from me!
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 50
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Args!\. Ja ja, schon gut.\.
+Zurück zum Thema.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Gah!\. Yeah alright.\.
+Back to the topic at hand.
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 53
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Solch Handelsgegenstände 
+bekommste ziemlich selten von 
+manchen Gegnern, wenn man sie 
+besiegt hat.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Such items are fairly rare
+to get from some enemies once
+you've defeated them.
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 57
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Auf dem Handelsmarkt 
+kannste diese Gegenstände dann 
+gegen recht praktische Dinge 
+eintauschen.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] At the trader's market,
+you could exchange these items
+for very practical things.
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 62
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Oder du verkaufst sie einfach.\.
+Manche dieser Handelswaren sind 
+verdammt wertvoll. 
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Or you just sell them.\.
+Some of these things are damn
+valuable.
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 66
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Okay..\. Grünperlen sind zwar 
+nicht so etwas Besonderes,\. aber so 
+was lässte doch trotzdem  nicht 
+einfach  liegen.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Okay...\. Green pearls aren't
+that special,\. but you don't just
+throw them out like that.
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 71
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Gut, jetzt bin ich ein ganzes 
+Stückchen schlauer.\. Lass uns endlich 
+weitergehen.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Well, now that I'm
+a bit wiser,\. let's go.\.
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 75
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Geht klar.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Ok.
+'''
+
+[[dialogue]]
+event = 40
+page = 1
+command = 5
+original = '''
+
+Es kann passieren, dass dir bestimmte \c[11]Pflanzen\c[0]  
+im Weg stehen.
+'''
+patched = '''
+
+Certain \c[11]plants\c[0] can get in your way.
+'''
+
+[[dialogue]]
+event = 40
+page = 1
+command = 8
+original = '''
+
+In diesem Fall sollte man wissen, dass der Held 
+so manches Gewächs...
+'''
+patched = '''
+
+In order to get past these plants...
+'''
+
+[[dialogue]]
+event = 40
+page = 1
+command = 11
+original = '''
+
+...mit einem Speerschlag beseitigen kann.
+'''
+patched = '''
+
+...the hero can cut these down with his spear.
+'''
+
+[[dialogue]]
+event = 40
+page = 1
+command = 13
+original = '''
+
+Stell dich einfach \c[11]neben die Pflanze\c[0] und drücke 
+\c[11]Enter\c[0].
+'''
+patched = '''
+
+Just stand \c[11]next to the plant\c[0] and press
+\c[11]Enter\c[0].
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 12
+original = '''
+
+Du bewegst dich nun in \c[11]wilden Gebieten!\c[0]
+'''
+patched = '''
+
+You're now moving into \c[11]the wilderness\c[0]!
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 14
+original = '''
+
+Hier kann es passieren, dass du mit \c[11]Gegnern 
+konfrontierst\c[0] und dich zur Wehr setzten musst.
+'''
+patched = '''
+
+This is where \c[11]random battles\c[0] will
+happen where you'll have to fight opponents.
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 17
+original = '''
+
+Solche Konfrontationen kommen nach einer 
+zufälligen Anzahl von Schritten.
+'''
+patched = '''
+
+Such battles come after
+a random number of steps.
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 20
+original = '''
+
+Allerdings besteht die Möglichkeit diesen 
+Auseinandersetzungen zu \c[11]entgehen\c[0].
+'''
+patched = '''
+
+However, it's possible to \c[11]avoid\c[0] these battles.
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 23
+original = '''
+
+Kurz bevor der Kampf startet, erscheint ein 
+\c[11]blinkendes Ausrufezeichen\c[0] über den Helden.
+'''
+patched = '''
+
+Shortly before a fight starts, a \c[11]flashing
+exclamation point\c[0] appears over the hero.
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 26
+original = '''
+
+Wenn du es schaffst, in diesem Moment 
+rechtzeitig \c[11]stehen zu bleiben\c[0] und zu warten...
+'''
+patched = '''
+
+If you manage to \c[11]stop and wait\c[0] in place
+until the exclamation point disappears...
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 29
+original = '''
+
+... bis das Ausrufezeichen verschwindet, bist du 
+dieser Auseinandersetzung ausgewichen.
+'''
+patched = '''
+
+...you will have avoided that encounter.
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 32
+original = '''
+
+Wenn man geht, kann man Kämpfe übrigens 
+leichter vermeiden, als wenn man rennt.
+'''
+patched = '''
+
+By the way, it's easier to avoid fights
+when you walk rather than when you run.
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 35
+original = '''
+
+Nichtsdestotrotz sollte man \c[11]nicht allen Kämpfen 
+ausweichen.\c[0]
+'''
+patched = '''
+
+Nevertheless, \c[11]you shouldn't
+avoid all fights\c[0].
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 38
+original = '''
+
+Wenn die Charaktere nicht kämpfen, werden sie 
+nicht stärker...
+'''
+patched = '''
+
+If the characters don't fight,
+they won't get stronger...
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 41
+original = '''
+
+Sind die Charaktere untrainiert, werden dir
+spätere Kämpfe schwerer fallen.
+'''
+patched = '''
+
+If the characters don't train, you will
+find it more difficult to fight later.
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 44
+original = '''
+
+Deswegen ist es zu empfehlen immer wieder 
+etwas Zeit ins Aufstufen zu investieren.
+'''
+patched = '''
+
+That is why it's always recommended to spend
+some time leveling up your characters.
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 57
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Hey! Was seh'  ich denn da?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Hey! Are you seeing
+what I'm seeing?
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 67
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Ein Säckchen!\. Was da wohl 
+drin sein könnte...
+'''
+patched = '''
+\c[2]\n[2]:\c[0] A sack!\. I wonder what
+could be in there...
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 76
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Wahrscheinlich irgendein 
+Mist, den jemand nicht mehr 
+gebrauchen konnte und ihn 
+deswegen da oben hin schmiss...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Probably some crap
+that someone couldn't use anymore
+and tossed it up there...
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 82
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Nana, Kumpel.\. Genauso gut 
+könnte jemand das Säckchen einfach 
+nur verloren haben. 
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Now hold on there.\. Anyone
+could've just as easily lost that bag.
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 87
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Da oben auf dem Hügel?\. Ja 
+klar...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Up there on the hill?\. Sure...
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 91
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Verdammt, jetzt lass uns 
+einfach nachsehn' ob es was 
+Brauchbares ist!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Dammit, let's just see
+if it's something useful!
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 95
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Na gut...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Alright...
+'''
+
+[[dialogue]]
+event = 41
+page = 4
+command = 12
+original = '''
+
+Diese orangenen Pfeile markieren einen 
+\c[11]Sprungpunkt\c[0].
+'''
+patched = '''
+
+These orange arrows mark a \c[11]jump point\c[0].
+'''
+
+[[dialogue]]
+event = 41
+page = 4
+command = 15
+original = '''
+
+Diese Markierungen erscheinen erst, wenn sich 
+der Held in ihrer Nähe befindet.
+'''
+patched = '''
+
+These markings only appear when
+the hero is close to them.
+'''
+
+[[dialogue]]
+event = 41
+page = 4
+command = 18
+original = '''
+
+Es gibt zwei verschiedene Sprungpunkte. 
+\c[11]Orange und blaue.\c[0]
+'''
+patched = '''
+
+There are two different jump points.
+\c[11]Orange and blue.\c[0]
+'''
+
+[[dialogue]]
+event = 41
+page = 4
+command = 21
+original = '''
+
+Bei orangen Sprungpunkten muss man sich 
+auf die Markierung stellen und \c[11]Enter drücken\c[0].
+'''
+patched = '''
+
+With orange jump points you have to
+stand on the marking and \c[11]press Enter\c[0].
+'''
+
+[[dialogue]]
+event = 41
+page = 4
+command = 24
+original = '''
+
+Bei blauen Sprungpunkten muss man mit einem 
+geringen Anlauf auf die Markierung \c[11]rennen\c[0].
+'''
+patched = '''
+
+At blue jump points, you have to \c[11]run\c[0]
+towards the mark with some momentum.
+'''
+
+[[dialogue]]
+event = 41
+page = 4
+command = 27
+original = '''
+
+Bei beidem geschieht so das gleiche: \c[11]Schaut der 
+Held in die richtige Richtung, springt er\c[0].
+'''
+patched = '''
+
+The same thing happens with both: \c[11]If the hero
+looks in the right direction, he jumps\c[0].
+'''
+
+[[dialogue]]
+event = 42
+page = 1
+command = 5
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Kento...\.
+Das Säckchen...
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Kento,\.
+the sack...
+'''
+
+[[dialogue]]
+event = 42
+page = 1
+command = 9
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Jajaja....
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Yeah yeah...
+'''
+
+[[dialogue]]
+event = 43
+page = 1
+command = 5
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Kento...\.
+Das Säckchen...
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Kento,\.
+the sack...
+'''
+
+[[dialogue]]
+event = 43
+page = 1
+command = 9
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Jajaja....
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Yeah yeah...
+'''
+
+[[dialogue]]
+event = 44
+page = 1
+command = 5
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Kento...\.
+Das Säckchen...
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Kento,\.
+the sack...
+'''
+
+[[dialogue]]
+event = 44
+page = 1
+command = 9
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Jajaja....
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Yeah yeah...
+'''

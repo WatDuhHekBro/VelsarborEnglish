@@ -1,0 +1,131 @@
+[[dialogue]]
+event = 32
+page = 3
+command = 21
+has_portrait = true
+original = '''
+\c[13]Rothaarige Frau\c[0]:\s[6] S...\.Seldan...\.
+Glaube mir,\....es ist besser so 
+für mich...\.\.\^
+'''
+patched = '''
+\c[13]Red-Haired Woman\c[0]:\s[6] S...\. Seldan...\.
+It's...\. better this way...\.\.\^
+'''
+
+[[dialogue]]
+event = 32
+page = 3
+command = 24
+has_portrait = true
+original = '''
+\c[13]Rothaarige Frau\c[0]:\s[6] Diese ewigen 
+Kriege,\.... ich kann sie nicht mehr 
+sehen...\. Das...\. ständige Kämpfen...\.\.\^
+'''
+patched = '''
+\c[13]Red-Haired Woman\c[0]:\s[6] This eternal war...\.
+I can't bear to see it any longer...\.
+These...\. endless battles...\.\.\^
+'''
+
+[[dialogue]]
+event = 32
+page = 3
+command = 27
+has_portrait = true
+original = '''
+\c[13]Rothaarige Frau\c[0]:\s[6] Seldan...\.
+Denkst du wirklich...\. 
+wir werden so...\. jemals wieder...\. 
+in Frieden leben können?\.\.\^
+'''
+patched = '''
+\c[13]Red-Haired Woman\c[0]:\s[6] Seldan...\. Do you
+believe...\. we will ever...\. ever
+again...\. see peace in the world?\.\.\^
+'''
+
+[[dialogue]]
+event = 32
+page = 4
+command = 5
+has_portrait = true
+original = '''
+\c[13]Rothaarige Frau\c[0]:\s[6] Seldan...\. merkst du 
+nicht,\. wie wir uns im Kreis drehen?\.
+... merkst du nicht,\. wie jeder Sieg 
+uns nur mehr Leid erbringt?\.\.\^
+'''
+patched = '''
+\c[13]Red-Haired Woman\c[0]:\s[6] Seldan...\. Don't you
+notice...\. how we're walking in a
+circle?\. Don't you see...\. how each
+victory only brings more suffering?\.\.\^
+'''
+
+[[dialogue]]
+event = 32
+page = 4
+command = 9
+has_portrait = true
+original = '''
+\c[13]Rothaarige Frau\c[0]:\s[6] Du weißt genau was 
+es ist...\. was uns...\. in dieser Lage 
+hält.. \.\.\^
+'''
+patched = '''
+\c[13]Red-Haired Woman\c[0]:\s[6] You know exactly
+what it is...\. that's...\. keeping us
+trapped in this endless cycle...\.\.\^
+'''
+
+[[dialogue]]
+event = 32
+page = 4
+command = 12
+has_portrait = true
+original = '''
+\c[13]Rothaarige Frau\c[0]:\s[6] Hör nicht auf das,\. 
+...was sie dir sagen...\. hör auf dich 
+selbst, Seldan...\.\.\^
+'''
+patched = '''
+\c[13]Red-Haired Woman\c[0]:\s[6] Don't listen to...\.
+what they tell you...\. listen to
+your heart, Seldan...\.\.\^
+'''
+
+[[dialogue]]
+event = 32
+page = 4
+command = 15
+has_portrait = true
+original = '''
+\c[13]Rothaarige Frau\c[0]:\s[6] Du hast die Kraft 
+dazu...\. Handel nach deinem eigenen 
+Gewissen!\. ...\. Tu es für mich...\.\.\^
+'''
+patched = '''
+\c[13]Red-Haired Woman\c[0]:\s[6] You have the
+strength to do it...\. Do it for your
+conscience!\. Do it...\. for me...\.\.\^
+'''
+
+[[dialogue]]
+event = 32
+page = 4
+command = 18
+has_portrait = true
+original = '''
+\c[13]Rothaarige Frau\c[0]:\s[6] Es ist mein...\. 
+letzter Wunsch an dich...\. Seldan...\. 
+ich...\. ich liebe dich...\. Vergiss 
+mich...\. bitte...\. nicht...\.\.\^
+'''
+patched = '''
+\c[13]Red-Haired Woman\c[0]:\s[6] It's my...\.
+last wish for you...\. Seldan...\.
+I...\. I love you...\. Please...\.
+don't...\. forget...\. me...\.\.\^
+'''

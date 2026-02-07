@@ -1,0 +1,172 @@
+[[dialogue]]
+event = 49
+page = 2
+command = 18
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: So, dies müsste der Gasthof 
+sein, wo man uns erwartet.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: So, this should be the inn
+we're supposed to be looking for.
+'''
+
+[[dialogue]]
+event = 49
+page = 2
+command = 21
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Na dann nichts wie rein in die 
+gute Stube!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Alright, let's go then!
+'''
+
+[[dialogue]]
+event = 68
+page = 1
+command = 2
+original = '''
+\c[10]Händler\c[0]: Hey Sie!\: Sie können doch sicher ein 
+paar magische Lupen gebrauchen, oder?
+'''
+patched = '''
+\c[10]Merchant\c[0]: Hey you!\: Surely you could use some
+magic lens, right?
+'''
+
+[[dialogue]]
+event = 68
+page = 1
+command = 29
+original = '''
+\c[10]Händler\c[0]: Magische Lupen sind äußerst 
+praktisch!\. Verwenden Sie eine im Kampf, 
+bekommen Sie alle Informationen über einen 
+ihrer Gegner.
+'''
+patched = '''
+\c[10]Merchant\c[0]: Magic lens are extremely
+practical!\. If you use one in combat, you
+get all sorts of information about an
+opponent of your choosing.
+'''
+
+[[dialogue]]
+event = 68
+page = 1
+command = 33
+original = '''
+\c[10]Händler\c[0]: So wissen Sie, wie viele HP der Gegner 
+noch hat, gegen was für Elemente er schwach ist, 
+gegen welche Zustände er empfindlich ist und 
+viel mehr!
+'''
+patched = '''
+\c[10]Merchant\c[0]: So that you'll know how much HP the
+opponent still has, what elements they're weak
+against, what conditions they're sensitive to,
+and much more!
+'''
+
+[[dialogue]]
+event = 68
+page = 1
+command = 37
+original = '''
+\c[10]Händler\c[0]: Ein taktisch orientierter Kämpfer sollte 
+immer ein paar magische Lupen bei sich tragen.\.
+Denn, wie sagt man?\. Kenne deinen Gegner und der 
+Kampf ist so gut wie gewonnen.
+'''
+patched = '''
+\c[10]Merchant\c[0]: A tactical fighter should always have\.
+one because,\. well what's the saying?\. Know your
+enemy and you've already won the battle.
+'''
+
+[[dialogue]]
+event = 68
+page = 1
+command = 41
+original = '''
+\c[10]Händler\c[0]: Nun,\. was ist?\. Wollen Sie ein paar 
+kaufen?
+'''
+patched = '''
+\c[10]Merchant\c[0]: Now,\. how about it?\. Do you want to
+buy some?
+'''
+
+[[dialogue]]
+event = 68
+page = 1
+command = 57
+original = '''
+\c[10]Händler\c[0]: Glauben Sie mir, magische Lupen kann 
+man nie genug haben.
+'''
+patched = '''
+\c[10]Merchant\c[0]: Trust me, you can never have enough
+magic lens.
+'''
+
+[[text]]
+event = 68
+page = 1
+command = 6
+has_portrait = true
+original = '''Zeigen Sie mir ihr Angebot./Was sind magische Lupen?/Nein, danke...'''
+patched = '''Let's see what you've got./What are magic lens?/No thanks...'''
+
+[[text]]
+event = 68
+page = 1
+command = 7
+has_portrait = true
+original = '''Zeigen Sie mir ihr Angebot.'''
+patched = '''Let's see what you've got.'''
+
+[[text]]
+event = 68
+page = 1
+command = 27
+original = '''Was sind magische Lupen?'''
+patched = '''What are magic lens?'''
+
+[[text]]
+event = 68
+page = 1
+command = 45
+has_portrait = true
+original = '''Ja, das hört sich gut an./Nein, danke...'''
+patched = '''Yes, that sounds good./No thanks...'''
+
+[[text]]
+event = 68
+page = 1
+command = 46
+has_portrait = true
+original = '''Ja, das hört sich gut an.'''
+patched = '''Yes, that sounds good.'''
+
+[[text]]
+event = 68
+page = 1
+command = 49
+has_portrait = true
+original = '''Nein, danke...'''
+patched = '''No thanks...'''
+
+[[text]]
+event = 68
+page = 1
+command = 54
+has_portrait = true
+original = '''Nein, danke...'''
+patched = '''No thanks...'''

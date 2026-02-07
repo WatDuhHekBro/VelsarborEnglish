@@ -1,0 +1,838 @@
+[[dialogue]]
+event = 3
+page = 1
+command = 3
+original = '''
+\c[10]Braunhaariger Soldat\c[0]: Bereitet euch gut vor, heute 
+Nacht geht es los.
+'''
+patched = '''
+\c[10]Brown-Haired Soldier\c[0]: Be prepared, we're starting
+tonight.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 31
+original = '''
+\c[10]Braunhaariger Soldat\c[0]: Oh, hallo.
+'''
+patched = '''
+\c[10]Brown-Haired Soldier\c[0]: Oh, hello.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 34
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hallo, ich wollte nur mal 
+fragen wie es mit der Verstärkung 
+aussieht.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hello, I just wanted to ask
+how progress is going with the
+reinforcements.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 40
+original = '''
+\c[10]Braunhaariger Soldat\c[0]: Was erwartest du?\. Wir 
+haben den Brief vor vielleicht 8 Stunden 
+abgeschickt.\. Eine Antwort kommt frühestens morgen, 
+wenn wir Glück haben.
+'''
+patched = '''
+\c[10]Brown-Haired Soldier\c[0]: What do you expect?\. We sent
+the letter maybe eight hours ago.\. An answer will
+come tomorrow at the earliest if we're lucky.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 46
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Na gut.\. Wie wird eigentlich 
+vorgegangen, wenn die Verstärkung 
+eingetroffen ist?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Alright.\. What happens when the
+reinforcement arrives?
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 50
+original = '''
+\c[10]Braunhaariger Soldat\c[0]: Ich denke wir sollten 
+die Truppe schnellstmöglich im Wald aufsuchen, 
+damit sie sich nicht lange auf uns vorbereiten 
+können.\. Ihr müsst uns dann zu ihr leiten.
+'''
+patched = '''
+\c[10]Brown-Haired Soldier\c[0]: I think we should find the
+troops in the forest as soon as possible, we
+can't let them prepare any longer than
+necessary.\. You must then lead us to them.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 54
+original = '''
+\c[10]Braunhaariger Soldat\c[0]: Ihr erinnert euch doch 
+noch an den Standort des Stützpunktes, oder?
+'''
+patched = '''
+\c[10]Brown-Haired Soldier\c[0]: You do remember the
+location of the fortress, don't you?
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 58
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja, das sollte klappen. \.
+Allerdings wird es nicht leicht 
+diesen Ort zu erreichen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yeah, it should work.\. However,
+it won't be easy to reach that place.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 62
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Bei der Flucht mussten wir 
+eine relativ steile Klippe runter 
+springen...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: When we escaped, we had to
+jump down a relatively steep cliff...
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 66
+original = '''
+\c[10]Braunhaariger Soldat\c[0]: Das wird schon 
+klappen, notfalls müssen wir uns nach einem 
+bessern Weg umschauen.
+'''
+patched = '''
+\c[10]Brown-Haired Soldier\c[0]: It'll work out, and we'll
+look around for a better way if necessary.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 73
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wäre es nicht sinnvoll 
+generell in kleinen Trupps die 
+Umgebung zu erkundschaften um sich 
+vorzubereiten?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Wouldn't it make more sense to
+get a general sense of the area in
+small groups to prepare for it?
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 77
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Man könnte auch kleine Späher 
+Trupps bilden, um den Stützpunkt zu 
+finden und zu beobachten.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: You could also form small
+scout groups to find and observe
+the fortress.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 81
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: So etwas würde doch nicht als 
+große militärische Aktion gelten, 
+oder?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: That wouldn't count as a major
+military operation, would it?
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 89
+original = '''
+\c[10]Braunhaariger Soldat\c[0]: Hm...\. jetzt wo du es 
+sagst...\. Das wäre tatsächlich eine Idee.\.
+Wir sind hier zwar knapp bei Männern,\. aber ein 
+paar Leute können wir trotzdem entbehren. 
+'''
+patched = '''
+\c[10]Brown-Haired Soldier\c[0]: Hm...\. Now that you mention
+it...\. That would actually be a good idea.\. We're
+short on soldiers here,\. but we can still make
+do with a few people.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 93
+original = '''
+\c[10]Braunhaariger Soldat\c[0]: Wärt ihr denn bereit 
+uns dabei zu unterstützen?
+'''
+patched = '''
+\c[10]Brown-Haired Soldier\c[0]: Would you be willing to
+support us?
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 97
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Oh, ich denke das sollte kein 
+Problem sein.\. Manch einer unter uns 
+brennt geradezu darauf, endlich 
+irgendetwas machen zu können.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Oh, that shouldn't be a
+problem.\. Some of us would be
+excited about finally being
+able to do something.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 103
+original = '''
+\c[10]Braunhaariger Soldat\c[0]: Ja, ja,\. ich kann mir 
+schon denken, wer das ist~ \.
+In Ordnung.\. Dann sollten wir das ganze möglichst 
+bald starten, am besten noch diese Nacht. 
+'''
+patched = '''
+\c[10]Brown-Haired Soldier\c[0]: Well,\. I can guess who that
+is.\. Alright.\. So we should start the whole thing
+as soon as possible, preferably tonight.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 107
+original = '''
+\c[10]Braunhaariger Soldat\c[0]: Sag deinen Kameraden 
+bescheid, ihr solltet euch gut vorbereiten.
+'''
+patched = '''
+\c[10]Brown-Haired Soldier\c[0]: Let your teammates know
+that you should get prepared.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 111
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: In Ordnung.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Alright.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 120
+original = '''
+\c[10]Braunhaariger Soldat\c[0]: Wir bereiten die Eilmeldung 
+vor.\. Ihr solltet euch besser ausruhen.
+'''
+patched = '''
+\c[10]Brown-Haired Soldier\c[0]: We're preparing this sudden
+turn of events.\. You should probably rest.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 16
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Eine Armee im 
+Silvanwald?!\. Das ist lächerlich! Wie sollen wir so 
+etwas die ganze Zeit übersehen haben?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: An army in the Silvan
+Forest?!\. That's ridiculous!\. How could we
+have overlooked something like that all
+this time?
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 24
+original = '''
+\c[10]Blonder Soldat\c[0]: Der Silvan-Wald birgt mehr 
+Verstecke, als man glauben mag, bei all den 
+Klippen und Unebenheiten. Es ist durchaus möglich!
+'''
+patched = '''
+\c[10]Blond Soldier\c[0]: The Silvan Forest has more places
+to hide than you might think, with all the cliffs
+and edges. It's certainly within the realm of
+possibility!
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 34
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wieso in drei Teufels Namen 
+sollten wir euch irgendein Märchen 
+erzählen?! 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Why the hell would we be
+telling you some fairy tales?!
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 39
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Die Lage ist ernst, verdammt 
+noch mal!\. Hier bleibt keine Zeit zum 
+Zweifeln!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: This situation is serious,
+damn it!\. There isn't any time to
+think about whether it exists or
+not right now!
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 44
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Herr Uroto ist immer noch in 
+Gefangenschaft und wir wissen nicht, 
+was sie mit ihm vorhaben...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Mr. Uroto is still in captivity
+and we don't know what they're going
+to do with him...
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 50
+original = '''
+\c[10]Schwarzhaariger Soldat\c[0]: Was wisst ihr alles über 
+diese Gruppe?\. Hängt sie mit Korzojeno zusammen? \.
+Gab es bekannte Personen unter ihnen?\. Anführer?\. 
+Kennt ihr ihre Motive?
+'''
+patched = '''
+\c[10]Black-Haired Soldier\c[0]: What do you know about this
+group?\. Is it related to Korzojeno?\. Were there any
+known people among them?\. Any leaders?\. Do you know
+their motives?
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 59
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Nichts, leider...\. Nichts 
+dergleichen.\. Wir können nur 
+spekulieren.\. Wir wurden gefangen 
+genommen und direkt eingesperrt.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We know nothing,
+unfortunately...\. Nothing of the sort.\.
+We can only speculate.\. We were
+captured and imprisoned directly.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 64
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Genau, das einzige was wir zu 
+sehen bekamen, waren die Wachleute 
+und die Verfolger bei der Flucht...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Exactly, the only thing we saw
+were the guards chasing us while
+escaping...
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 70
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wie war es bei dir, Kumpel?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: How was it with you, Kento?
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 75
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ... Ich weiß leider auch 
+nicht mehr als ihr...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Unfortunately, I don't know
+more than you...
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 81
+original = '''
+\c[10]Blonder Soldat\c[0]: Das ist schlecht...\. Solange soviel 
+über die Truppe unbekannt ist, wird es schwer 
+sein, die Regierung dazu zu überzeugen, genug 
+Verstärkung zu senden.
+'''
+patched = '''
+\c[10]Blond Soldier\c[0]: This is bad...\. As long as there's
+this much unknown about that group, it'll be
+difficult to convince the government to send
+enough reinforcements.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 89
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Überzeugen?!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Convince?!
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 93
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wenn die Regierung das hier 
+für unwichtig hält, werden die sich 
+ganz schön wundern, was hier bald so 
+über die Grenze wandern wird!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: If the government thinks this
+isn't important, they're in for a
+very nasty surprise at what's
+coming to their doorstep!
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 98
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir kamen im direkten Auftrag 
+von Sir Vorento hierher.\. Senden sie 
+ihm bitte direkt eine Nachricht, er 
+wird die Lage ernst nehmen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We came here on behalf of Sir
+Vorento.\. Please send him a message
+directly, he'll take this
+situation seriously.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 106
+original = '''
+\c[10]Braunhaariger Soldat\c[0]: ... Sir Vorento?
+'''
+patched = '''
+\c[10]Brown-Haired Soldier\c[0]: Sir Vorento?
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 112
+original = '''
+\c[10]Braunhaariger Soldat\c[0]: In Ordnung, in Ordnung.\. Wir 
+werden eine Eilmeldung für die Regierung 
+vorbereiten und so schnell wie möglich versenden.
+'''
+patched = '''
+\c[10]Brown-Haired Soldier\c[0]: Alright, alright.\. We'll
+prepare an emergency report for the government
+and send it as soon as possible.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 115
+original = '''
+\c[10]Braunhaariger Soldat\c[0]: Sofern die Regierung die 
+Gefahr erkennt, können wir in 3-4 Tagen mit 
+Verstärkung rechnen.
+'''
+patched = '''
+\c[10]Brown-Haired Soldier\c[0]: If the government
+recognizes the danger, we can expect
+reinforcements in 3-4 days.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 120
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...3-4 Tage...\. Das ist zu 
+lang.\. Was wird aus Herrn Uroto? 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: 3-4 days...\. That's too long.\.
+What'll happen to Mr. Uroto?
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 123
+original = '''
+\c[10]Schwarzhaariger Soldat\c[0]: Sollte die Gruppe so groß 
+sein, wie ihr berichtet, würde es keinen Sinn 
+machen, einen Angriff gegen sie zu starten, bei 
+unserer Anzahl hier.
+'''
+patched = '''
+\c[10]Black-Haired Soldier\c[0]: If the group is as large as
+you report, there'd be no point in attacking
+them, given our size here.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 127
+original = '''
+\c[10]Schwarzhaariger Soldat\c[0]: Des Weiteren gibt es das 
+Problem, dass jegliche offensive, militärische 
+Aktion jenseits der Grenze ihre Genehmigung von 
+der Regierung benötigt. 
+'''
+patched = '''
+\c[10]Black-Haired Soldier\c[0]: There's also the problem
+that any offensive military action across the
+border requires government approval.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 131
+original = '''
+\c[10]Schwarzhaariger Soldat\c[0]: Bis diese ankommt, wird 
+die Verstärkung bereits fast hier sein.\. Es lohnt 
+sich nicht. \.Wir können nur warten und 
+müssen die Grenze verteidigen.
+'''
+patched = '''
+\c[10]Black-Haired Soldier\c[0]: By the time that group
+comes here, reinforcements will almost be here.\.
+It isn't worth it.\. We can only wait, plus we
+have a border to defend.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 141
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Genehmigung der Regierung?\.
+Wer hat sich bitte diesen Mist 
+einfallen lassen?!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Government approval?\. Who came
+up with this crap?!
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 152
+original = '''
+\c[10]Schwarzhaariger Soldat\c[0]: Die Regierung hat es so 
+festgelegt,\. wir können nichts daran ändern.
+'''
+patched = '''
+\c[10]Black-Haired Soldier\c[0]: That's how the government
+set it up,\. we can't do anything about it.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 154
+original = '''
+\c[10]Schwarzhaariger Soldat\c[0]: Nur in extremen Notfällen 
+dürfen wir sofort handeln, aber dafür brauchen wir 
+schon mehr als eine Aussage von 3 Soldaten
+'''
+patched = '''
+\c[10]Black-Haired Soldier\c[0]: We can only act hastily in
+extreme emergencies, but we need more than
+a statement from three soldiers.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 163
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Was für ein Schwachsinn!\.\. Und 
+ob das ein Notfall ist!!\.\. Als ob so 
+ein Haufen von...\.\.\.\.\^
+'''
+patched = '''
+\c[2]\n[2]\c[0]: This is total bullshit!\.\. And
+like this isn't a damn emergency!!\.\.
+Those sons of...\.\.\.\.\^
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 168
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Cibon!\. Beruhig dich.\.
+Jetzt überstürzt zu handeln kann die 
+Situation schlimmer machen als sie 
+es bereits ist.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Cibon!\. Calm down.\. Acting too
+quickly can make the situation
+worse than it already is.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 174
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ... Kento hat recht... \.
+Wir können so oder so nicht viel 
+machen. 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Kento is right...\. Either way,
+we can't do much.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 177
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Das einzige, was uns bleibt, 
+ist zu hoffen, dass die Verstärkung 
+rechtzeitig eintrifft.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: The only thing left to do is
+hope that reinforcements arrive on
+time.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 183
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 189
+original = '''
+\c[10]Blonder Soldat\c[0]: Ihr solltet euch besser ausruhen, 
+die letzten Stunden müssen recht hart für euch 
+gewesen sein.\. Im Gasthof soll noch ein Zimmer frei 
+sein. Wir spendieren euch die Nacht.
+'''
+patched = '''
+\c[10]Blond Soldier\c[0]: You should probably rest, the last
+few hours must've been tough on you. There should
+still be a room available in the inn. We've got
+the costs for the night covered for you.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 195
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Vielen Dank...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Thank you very much...
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 202
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Los, lass uns gehen, Cibon.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Let's go, Cibon.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 6
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten die Leute nicht 
+bei ihrer Arbeit stören...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We shouldn't disturb people at
+work...
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 6
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten die Leute nicht 
+bei ihrer Arbeit stören...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We shouldn't disturb people at
+work...
+'''

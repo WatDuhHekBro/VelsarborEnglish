@@ -1,0 +1,471 @@
+[[dialogue]]
+event = 6
+page = 3
+command = 3
+original = '''
+\c[10]Frau\c[0]: Guten Tag, wie kann ich Ihnen helfen?
+'''
+patched = '''
+\c[10]Woman\c[0]: Hello, how may I help you?
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 6
+original = '''
+\c[10]Frau\c[0]: Ah, okay, lassen Sie mich sehen...
+'''
+patched = '''
+\c[10]Woman\c[0]: Ah, okay, let me see...
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 13
+original = '''
+\c[10]Frau\c[0]: Als nächstes...
+'''
+patched = '''
+\c[10]Woman\c[0]: Moving on...
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 20
+character = '''[Post-Ziel]'''
+original = '''
+\c[10]Frau\c[0]: Ah, ein Paket nach \n[21]. 
+Dafür verlangen wir eine Gebühr von \v[1838] \n[19].
+'''
+patched = '''
+\c[10]Woman\c[0]: Okay, a package from \n[21].
+For this, we charge a fee of \v[1838] \n[19].
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 22
+character = '''Fejar'''
+original = '''
+\c[10]Frau\c[0]: Gehen \v[1838] \n[19] in Ordnung?\$
+'''
+patched = '''
+\c[10]Woman\c[0]: Is \v[1838] \n[19] alright?\$
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 31
+original = '''
+\c[10]Frau\c[0]: In Ordnung, das Paket wird sobald wie 
+möglich abgeschickt.
+'''
+patched = '''
+\c[10]Woman\c[0]: Alright, the package will be sent as
+soon as possible.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 34
+original = '''
+\c[10]Frau\c[0]: Hm, Sie scheinen noch keine Stempelkarte 
+zu haben, oder?
+'''
+patched = '''
+\c[10]Woman\c[0]: Hm, you don't seem to have a stamp card
+yet, do you?
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 38
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Eine Stempelkarte?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: A stamp card?
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 40
+original = '''
+\c[10]Frau\c[0]: Ja, Sie bekommen für jedes Paket, das Sie 
+von einer Post-Versand-Stelle  abschicken, einen 
+Stempel. 
+'''
+patched = '''
+\c[10]Woman\c[0]: Yes, you get a stamp for every package
+you send something from a post office.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 43
+original = '''
+\c[10]Frau\c[0]: Wenn Sie dann 20 Stempel gesammelt 
+haben, bekommen Sie ein extra Geschenk von uns.
+'''
+patched = '''
+\c[10]Woman\c[0]: When you have collected 20 stamps,
+you will receive an extra gift from us.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 45
+original = '''
+\c[10]Frau\c[0]: Hier, ich gebe Ihnen eine...
+'''
+patched = '''
+\c[10]Woman\c[0]: Here, I'll give you one...
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 49
+original = '''
+\c[10]Frau\c[0]: Und hier ist Ihr Stempel.
+'''
+patched = '''
+\c[10]Woman\c[0]: And here is your stamp.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 59
+original = '''
+\c[10]Frau\c[0]: Sie bekommen noch einen neuen Stempel 
+auf ihre Karte.\. Dürfte ich Sie bitte kurz haben?
+'''
+patched = '''
+\c[10]Woman\c[0]: You will get a new stamp on your
+card.\. May I see it for a moment please?
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 70
+original = '''
+\c[10]Frau\c[0]: Bitte sehr.
+'''
+patched = '''
+\c[10]Woman\c[0]: Here you go.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 75
+original = '''
+\c[10]Frau\c[0]: Sie haben das Geld doch gar nicht.
+Tut mir Leid, aber da lässt sich nichts machen.
+'''
+patched = '''
+\c[10]Woman\c[0]: Seems you can't pay for it then.
+I'm sorry, but there's nothing I can do about it.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 81
+character = '''[Post-Ziel]'''
+original = '''
+\c[10]Frau\c[0]: Wenn das Ihnen zu teuer ist, gehen Sie in 
+eine Stadt, die näher an \n[21] liegt.
+Dort wird die Gebühr dann auch niedriger 
+ausfallen. 
+'''
+patched = '''
+\c[10]Woman\c[0]: If that's too expensive for you, go to a
+city closer to \n[21].
+The fee will be lower there.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 92
+original = '''
+\c[10]Frau\c[0]: Oh.\. Sie haben ein Paket, wissen aber nicht 
+wo es hin muss?\. Na so etwas...\. Solange Sie nicht 
+wissen, wohin wir es senden müssen, können wir 
+leider nichts für Sie tun.
+'''
+patched = '''
+\c[10]Woman\c[0]: Oh.\. You have a package but you don't know
+where to send it to?\. Well in that case...\. As long
+as you don't know where to send it, there is
+nothing we can do for you.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 100
+original = '''
+\c[10]Frau\c[0]: Als nächstes...
+'''
+patched = '''
+\c[10]Woman\c[0]: Moving on...
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 101
+original = '''
+\c[10]Frau\c[0]: Oh.\. Sie haben ein Paket, wissen aber nicht 
+wo es hin muss?\. Na so etwas...\. Solange Sie nicht 
+wissen, wohin wir es senden müssen, können wir 
+leider nichts für Sie tun.
+'''
+patched = '''
+\c[10]Woman\c[0]: Oh.\. You have a package but you don't know
+where to send it to?\. Well in that case...\. As long
+as you don't know where to send it, there is
+nothing we can do for you.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 107
+original = '''
+\c[10]Frau\c[0]: Beehren Sie uns bald wieder.
+'''
+patched = '''
+\c[10]Woman\c[0]: Hope to see you again.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 115
+original = '''
+\c[10]Frau\c[0]: Ah...\. In Ordnung.\. 
+Sie können jederzeit vorbeikommen, 
+wenn Sie ein Paket zu verschicken 
+haben.
+'''
+patched = '''
+\c[10]Woman\c[0]: Oh...\. Alright.\.
+You can stop by at any time if you
+have a package to deliver.
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 123
+original = '''
+\c[10]Frau\c[0]: Guten Tag, wie kann ich ihnen helfen?
+'''
+patched = '''
+\c[10]Woman\c[0]: Hello, how may I help you?
+'''
+
+[[dialogue]]
+event = 6
+page = 3
+command = 126
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Öhm, weiß nicht.\. Eigentlich 
+gibt es hier nichts zu tun für mich.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Oh, I don't know.\. Actually,
+there is nothing for me to do here.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 6
+original = '''
+\c[10]Frau\c[0]: Hey!\. Zutritt nur für Befugte.
+'''
+patched = '''
+\c[10]Woman\c[0]: Hey!\. Authorized personnel only.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 6
+original = '''
+\c[10]Frau\c[0]: Hey!\. Zutritt nur für Befugte.
+'''
+patched = '''
+\c[10]Woman\c[0]: Hey!\. Authorized personnel only.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 2
+original = '''
+\c[10]Mann\c[0]: Wisst ihr genau über die Bedeutung der 
+Post-Versand-Stelle Bescheid?
+'''
+patched = '''
+\c[10]Man\c[0]: Do you know what a FALCON post is?
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 6
+original = '''
+\c[10]Mann\c[0]: Die Post-Versand-Stellen sind ein 
+internationaler Verein, der unabhängig vom 
+Staat Pakete und Briefe zu jedem Ort auf diesem 
+Kontinent bringt. 
+'''
+patched = '''
+\c[10]Man\c[0]: It is an international association
+that delivers packages and letters to any
+location on this continent, regardless
+of the territory.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 10
+original = '''
+\c[10]Mann\c[0]: Die Post-Versand-Stellen werden zwar 
+von den Staaten unterstützt, aber trotzdem sind 
+sie ungebunden.
+'''
+patched = '''
+\c[10]Man\c[0]: The FALCON posts are supported by
+both nations, but they are still independent.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 13
+original = '''
+\c[10]Mann\c[0]: So umgeht man die Gefahr, dass ein Teil 
+des Kontinentes beim Post-Verkehr bevorzugt 
+oder benachteiligt wird. 
+'''
+patched = '''
+\c[10]Man\c[0]: This avoids the danger of having part of
+the continent being preferred or discriminated
+against in postal traffic.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 18
+original = '''
+\c[10]Mann\c[0]: Als nächstes will man versuchen, den Post-
+Verkehr bis zum Südlichen Kontinent zu 
+erweitern.
+'''
+patched = '''
+\c[10]Man\c[0]: The next step is to try to expand the
+postal traffic to the southern continent.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 21
+original = '''
+\c[10]Mann\c[0]: Dies bedeutet, dass man sich mit der 
+Seefahrt auseinandersetzen muss, da man die 
+Briefe wahrscheinlich über das südliche Meer 
+verfrachten wird.
+'''
+patched = '''
+\c[10]Man\c[0]: This means that we'll have to deal
+with seafaring since we'll probably be shipping
+the letters across the southern sea.
+'''
+
+[[text]]
+event = 6
+page = 3
+command = 4
+original = '''Ich habe hier ein Paket.../Eigentlich nichts...'''
+patched = '''I have a package here.../Nothing really...'''
+
+[[text]]
+event = 6
+page = 3
+command = 5
+original = '''Ich habe hier ein Paket...'''
+patched = '''I have a package here...'''
+
+[[text]]
+event = 6
+page = 3
+command = 23
+original = '''Ja, ich zahle./Nein, besser doch nicht.'''
+patched = '''Yes, I'll pay./No, it's not.'''
+
+[[text]]
+event = 6
+page = 3
+command = 24
+original = '''Ja, ich zahle.'''
+patched = '''Yes, I'll pay.'''
+
+[[text]]
+event = 6
+page = 3
+command = 80
+original = '''Nein, besser doch nicht.'''
+patched = '''No, it's not.'''
+
+[[text]]
+event = 6
+page = 3
+command = 113
+original = '''Eigentlich nichts...'''
+patched = '''Nothing really...'''
+
+[[text]]
+event = 11
+page = 2
+command = 4
+original = '''Nein, die wäre...?/Ja, weiß ich schon.'''
+patched = '''No, that would be?/Yes, I know.'''
+
+[[text]]
+event = 11
+page = 2
+command = 5
+original = '''Nein, die wäre...?'''
+patched = '''No, that would be?'''
+
+[[text]]
+event = 11
+page = 2
+command = 17
+original = '''Ja, weiß ich schon.'''
+patched = '''Yes, I know.'''

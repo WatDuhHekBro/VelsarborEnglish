@@ -1,0 +1,636 @@
+[[dialogue]]
+event = 153
+page = 2
+command = 24
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Oh je,\. die Schicht um 
+diese Zeit kommt mir immer ewig vor.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Oh man,\. the shift around this
+time always seems to last forever to me.
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 31
+original = '''
+\c[10]Royko\c[0]: Ähm... Ich glaube, wir müssen 
+hier noch eine Stunde stehen, oder?
+'''
+patched = '''
+\c[10]Royko\c[0]: Um... I think we have to stand
+here for an hour, don't we?
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 37
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Ja, Royko,\.. ich weiß,\..
+eine Stunde noch...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Yes, Royko...\. I know...\.
+One more hour...
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 48
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Ah...\. Übrigens,\. ich hör' die 
+Anderen in letzter Zeit öfters über 
+Korzojeno reden.\. Weißt du, was da 
+genau los ist?
+'''
+patched = '''
+\c[10]Royko\c[0]: Oh...\. By the way,\. I've heard
+the others talk about Korzojeno a lot
+lately.\. Do you know what's going on
+there?
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 54
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wie?\. Du hast das noch 
+nicht mitbekommen?\. Du bist wirklich in jeder 
+Hinsicht langsam, kann das sein?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: What?\. You haven't noticed
+that yet?\. You're really slow in every way,
+how'd that happen?
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 58
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: In Korzojeno soll sich 
+eine Armee im Untergrund bilden, sagt man\. - direkt 
+an der Grenze.\. Ich weiß nicht, wie viel da genau 
+dran ist, die Geschichte ist recht neu.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: In Korzojeno, an army
+supposedly formed underground,\. right on the
+border.\. I don't know how many there are,
+the story is quite new.
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 64
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Eine Armee in Korzojeno?\. ...\. 
+Was hat das zu bedeuten?
+'''
+patched = '''
+\c[10]Royko\c[0]: An army in Korzojeno?\.\.
+What does that mean?
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 70
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Ja, was will Korzojeno 
+bloß mit einer Armee anfangen?\. Ich kann es mir 
+nicht vorstellen.\. Vielleicht eine Parade für 
+den Farenischen Adelsbund?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Yeah, what DOES Korzojeno
+need with an army like that for?\. I can't imagine
+why.\. Perhaps a parade for the Farenian
+Aristocracy?
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 77
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Bilden die etwa extra für so 
+etwas eine Armee?!
+'''
+patched = '''
+\c[10]Royko\c[0]: Did they form an army just for
+something like that?!
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 83
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: ... Nein, du Trottel.\.
+Korzojeno will uns wahrscheinlich angreifen, was 
+denn bitte sonst?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: No, you idiot.\. Korzojeno
+probably wants to attack us, why else?
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 88
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Aber der Krieg ist doch 
+gerade erst 10 Jahre her.\. Wie kann 
+Korzojeno schon jetzt wieder bereit 
+für eine Schlacht sein?
+'''
+patched = '''
+\c[10]Royko\c[0]: But the war was only 10 years
+ago.\. How can Korzojeno be ready for
+a war again?
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 94
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Das frag ich mich 
+auch.\. Aber wer weiß schon, wie viel an der 
+Geschichte überhaupt dran ist...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: I sometimes ask myself that
+too.\. But who knows how much of the story is
+true...
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 105
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Oh, schau mal da 
+vorne.\. Wir haben ein paar neue Gäste.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Oh, look over there.\. We have
+some new guests here.
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 109
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Hö?
+'''
+patched = '''
+\c[10]Royko\c[0]: Huh?
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 117
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Das ist merkwürdig. \.
+Die sehen nicht wie das gewöhnliche Pack aus, das 
+sie hier anschleppen.\. Das scheinen richtige 
+Soldaten zu sein, na so etwas.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: It's strange.\. They don't look
+like the ordinary gang they usually drag here.\.
+They seem to be real soldiers, or something
+like that.
+'''
+
+[[dialogue]]
+event = 153
+page = 2
+command = 125
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Moment...\. Die...\. die kenne 
+ich doch!
+'''
+patched = '''
+\c[10]Royko\c[0]: Wait...\. I...\. I know them!
+'''
+
+[[dialogue]]
+event = 168
+page = 2
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Macht hier ja keinen Ärger, verstanden?
+'''
+patched = '''
+\c[10]Guard\c[0]: Don't cause trouble here, understand?
+'''
+
+[[dialogue]]
+event = 171
+page = 2
+command = 3
+original = '''
+\c[10]Wächter\c[0]: Oh?\. Was lauft ihr hier noch rum?\.
+Normalerweise stürmt ihr Gefangenen nach so einem 
+Arbeitstag doch immer geradezu in die Kantine. 
+'''
+patched = '''
+\c[10]Guard\c[0]: Oh?\. What are you still wandering around
+here for?\. Usually, after a good day of work like
+this, you prisoners always storm into the cafe.
+'''
+
+[[dialogue]]
+event = 171
+page = 2
+command = 8
+original = '''
+\c[10]Wächter\c[0]: Was trödelt ihr hier rum? Die Arbeit 
+wartet. Wer nicht arbeitet, kriegt nichts zu 
+Essen, und wer sich länger Stur stellt erlebt noch 
+viel Schlimmeres.
+'''
+patched = '''
+\c[10]Guard\c[0]: What are you doing loitering around here?
+The mine is waiting. Those who don't work don't
+get anything to eat, and those who continue to
+be stubborn experience something far worse.
+'''
+
+[[dialogue]]
+event = 174
+page = 2
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Seht ihr nicht, dass ich beschäftigt 
+bin? Und nein, ihr arbeitet nicht hier, ihr sollt 
+zur Mine.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Can't you see I'm busy? And no, you
+don't work over here, you go to the mine.
+'''
+
+[[dialogue]]
+event = 175
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Gefangene haben hier nichts zu suchen!
+'''
+patched = '''
+\c[10]Guard\c[0]: Prisoners have no business here!
+'''
+
+[[dialogue]]
+event = 176
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Hier ist die Lagerhalle, ihr habt hier 
+nichts verloren!
+'''
+patched = '''
+\c[10]Guard\c[0]: This is the warehouse, and you definitely
+didn't lose anything in here!
+'''
+
+[[dialogue]]
+event = 178
+page = 1
+command = 21
+original = '''
+\c[10]Wächter\c[0]: Zurück mit euch!
+'''
+patched = '''
+\c[10]Guard\c[0]: Back off!
+'''
+
+[[dialogue]]
+event = 181
+page = 2
+command = 2
+original = '''
+\c[10]Ater Gefangener\c[0]: Stört mich bitte nicht...
+'''
+patched = '''
+\c[10]Old Prisoner\c[0]: Please don't bother me...
+'''
+
+[[dialogue]]
+event = 182
+page = 1
+command = 3
+original = '''
+\c[10]Wächter\c[0]: Spätestens wenn die Händler hier 
+eintreffen, habt ihr hier nichts mehr zu suchen.\.
+Also ab mit euch zum östlichen Bereich!
+'''
+patched = '''
+\c[10]Guard\c[0]: The merchants might arrive later, you have
+no business here.\. So off with you to the east
+side!
+'''
+
+[[dialogue]]
+event = 182
+page = 1
+command = 8
+original = '''
+\c[10]Wächter\c[0]: Na los, auf zur Arbeit! Zur Mine den 
+Ausgang im Norden verwenden,\. einfach da, wo die 
+Schienen hin führen,\. klar?
+'''
+patched = '''
+\c[10]Guard\c[0]: Come on now, get to work!\. Use the exit to
+the north in the mine,\. just where the rails lead,\.
+alright?
+'''
+
+[[dialogue]]
+event = 183
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Es ist sehr ungewöhnlich, ehemalige 
+Kollegen hier als Gefangene zu haben,\. aber das 
+heißt nicht, dass ihr anders behandelt werdet.
+'''
+patched = '''
+\c[10]Guard\c[0]: It's very unusual to have former colleagues
+here as prisoners,\. but that doesn't mean that
+you'll be treated differently.
+'''
+
+[[dialogue]]
+event = 184
+page = 2
+command = 3
+original = '''
+\c[10]Wächter\c[0]: Redet mich nicht an, ich hab' zu tun.\. Ihr 
+habt hier sowieso nichts zu suchen, oder?
+'''
+patched = '''
+\c[10]Guard\c[0]: Don't talk to me, I'm busy.\. You don't have
+any business here anyways, do you?
+'''
+
+[[dialogue]]
+event = 184
+page = 2
+command = 7
+original = '''
+\c[10]Wächter\c[0]: Mit euch hab ich nichts zu besprechen. \.
+Geht zur Arbeit.
+'''
+patched = '''
+\c[10]Guard\c[0]: I have nothing to talk to you about.\. Get to
+work.
+'''
+
+[[dialogue]]
+event = 185
+page = 1
+command = 3
+original = '''
+\c[10]Wächter\c[0]: Oh, ich würde mich zu dieser Zeit nicht 
+so nah an die Hunde trauen, als Gefangener - Im 
+Moment sind sie besonders hungrig.
+'''
+patched = '''
+\c[10]Guard\c[0]: Oh, I wouldn't dare to get that close to
+the dogs at this time of day, especially as a
+prisoner. They're quite hungry right now.
+'''
+
+[[dialogue]]
+event = 185
+page = 1
+command = 8
+original = '''
+\c[10]Wächter\c[0]: Habt ihr schon Bekanntschaft mit unseren 
+Wachhunden hier gemacht?\. Die laufen ein gutes 
+Stück schneller als ihr, also denkt erst gar nicht 
+daran, davon zu laufen.
+'''
+patched = '''
+\c[10]Guard\c[0]: Have you met our guard dogs here yet?\. They
+run a good deal faster than you, so don't even
+think about running away.
+'''
+
+[[dialogue]]
+event = 191
+page = 2
+command = 3
+original = '''
+\c[10]Wächter\c[0]: Mist...\. Meine Schicht endet erst in 2 
+Stunden, aber die Kämpfe beginnen schon gleich. \.
+Ich werde wieder mal das Beste verpassen...
+'''
+patched = '''
+\c[10]Guard\c[0]: Crap...\. My shift ends in 2 hours, but the
+tournament starts now.\. I'm gonna miss the best
+moments again...
+'''
+
+[[dialogue]]
+event = 191
+page = 2
+command = 8
+original = '''
+\c[10]Wächter\c[0]: Folgt einfach den Schienen, okay?
+'''
+patched = '''
+\c[10]Guard\c[0]: Just follow the rails, okay?
+'''
+
+[[dialogue]]
+event = 192
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: ...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: ...
+'''
+
+[[dialogue]]
+event = 193
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]:...Was ist?
+'''
+patched = '''
+\c[10]Prisoner\c[0]: What is it?!
+'''
+
+[[dialogue]]
+event = 194
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: Geht mir aus dem Weg.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Get out of my way.
+'''
+
+[[dialogue]]
+event = 195
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: Du has' die Wachen gehört, oder?\. 
+Wir soll'n zur Mine.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: You heard the guards, right?\.
+We should go to the mine.
+'''
+
+[[dialogue]]
+event = 196
+page = 3
+command = 6
+original = '''
+\c[10]Gefangene\c[0]: Was sprichst du mich an?\. Geh mir aus 
+dem Weg.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: What are you talking to me for?\.
+Get out of my way.
+'''
+
+[[dialogue]]
+event = 197
+page = 3
+command = 6
+original = '''
+\c[10]Gefangene\c[0]: Ihr seht hier ziemlich neu aus.\.
+In dem Fall merkt euch folgendes:\.
+kein \.- gerede \.- am \.- morgen!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: You look pretty new here.\. In that case,
+remember this.\. No\. talking\. in\. the\. morning!
+'''
+
+[[dialogue]]
+event = 198
+page = 3
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Der...\. Der Typ schläft noch!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Th...\. The guy's still sleeping!
+'''
+
+[[dialogue]]
+event = 198
+page = 3
+command = 7
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Und er findet dennoch den 
+richtigen Weg...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: And he somehow always finds
+a way...
+'''
+
+[[dialogue]]
+event = 199
+page = 3
+command = 6
+original = '''
+\c[10]Gefangene\c[0]: Geht mir aus dem Weg.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Get out of my way.
+'''
+
+[[dialogue]]
+event = 200
+page = 3
+command = 6
+original = '''
+\c[10]Nicht ganz eingelebter Gefangener\c[0]: Nicht schon 
+wieder...\. Minenarbeit...\. Ich hasse es...
+'''
+patched = '''
+\c[10]New Prisoner\c[0]: Not again...\. mining...\.
+I hate it...
+'''
+
+[[dialogue]]
+event = 201
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: Hach!\. Was für ein herrlicher Morgen, 
+oder?\. ...\. Verzieh dich.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Ah!\. Such a beautiful morning, isn't it?\.\.
+Get lost.
+'''
+
+[[dialogue]]
+event = 202
+page = 3
+command = 6
+original = '''
+\c[10]Alter Gefangener\c[0]: ...Oh...\. Mein Kreuz...
+'''
+patched = '''
+\c[10]Old Prisoner\c[0]: Oh...\. my back...
+'''
+
+[[dialogue]]
+event = 203
+page = 3
+command = 6
+original = '''
+\c[10]Gefangene\c[0]: Nicht jetzt!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Not now!
+'''
+
+[[dialogue]]
+event = 204
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener:\c[0] ...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: ...
+'''

@@ -1,0 +1,29 @@
+[[dialogue]]
+event = 1
+page = 3
+command = 11
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Hm...\. wieso stecke ich so 
+etwas eigentlich ein?)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Hm...\. What am I actually
+going to do with this?)
+'''
+
+[[dialogue]]
+event = 3
+page = 3
+command = 11
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Hm...\. wieso stecke ich so 
+etwas eigentlich ein?)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Hm...\. What am I actually
+going to do with this?)
+'''

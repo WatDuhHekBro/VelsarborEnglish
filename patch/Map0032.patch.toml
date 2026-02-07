@@ -1,0 +1,371 @@
+[[dialogue]]
+event = 8
+page = 1
+command = 2
+original = '''
+\c[10]Junge\c[0]: Psst!\. Bitte leise sein!\. 
+Sonst beißt kein Fisch an!
+'''
+patched = '''
+\c[10]Boy\c[0]: Psst!\. Please be quiet!\.
+Otherwise, no fish will bite!
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 3
+original = '''
+\c[10]Junge\c[0]: Hallo...\. Haben Sie ein paar Würmer 
+gefunden?
+'''
+patched = '''
+\c[10]Boy\c[0]: Hey...\. did you find some worms?
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 9
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Joa.\. Da etwas weiter unten 
+treibt sich ein ganzer Haufen rum!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Yeah.\. There's a whole bunch
+crawling around a little further down!
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 12
+original = '''
+\c[10]Junge:\c[0] Tatsächlich?\. Spitze!\. Moment! Ich werde 
+gleich nachsehen!
+'''
+patched = '''
+\c[10]Boy:\c[0] Really?\. Super!\. Hold on! I'll check
+it out soon!
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 23
+original = '''
+\c[10]Junge\c[0]: Sie hatten Recht!\. Verdammt, wie konnte 
+ich diese Stelle bloß übersehen?\. Egal.\. Vielen 
+Dank für den Tipp. Jetzt kann ich endlich mit 
+dem Angeln beginnen.
+'''
+patched = '''
+\c[10]Boy\c[0]: You were right!\. Darn, how could I
+have missed this spot?\. Oh well.\. Thanks for
+the tip. Now I can finally start fishing.
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 29
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Ach... So was machen wir doch 
+immer gern, stimmt's, Kumpel?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Well... We always like to do
+something like that, right, Kento?
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 32
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ja...\. Mehr oder weniger...\.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Yeah...\. More or less...\.
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 34
+original = '''
+\c[10]Junge\c[0]: Ich hab für Sie sogar etwas zum Dank...\. 
+Na ja..\. Ist zwar nichts Besonderes, aber 
+vielleicht können Sie es gebrauchen.
+'''
+patched = '''
+\c[10]Boy\c[0]: I even have something to thank you for...\.
+Well,\. it's nothing special, but
+maybe you can use it.
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 45
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Hui! Noch'n 
+Handelsgegenstand.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Nice! Another
+item to trade!
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 48
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Wie? Damit kann man auch 
+handeln?\. Kaum zu glauben.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] What? You can trade in that
+thing?\. I find that hard to believe.
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 51
+original = '''
+\c[10]Junge\c[0]: Gut!\. Dann fang ich jetzt mal wieder an.
+'''
+patched = '''
+\c[10]Boy\c[0]: Alright!\. Now back to fishing again.
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 71
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Nope... Hab' keine gesehen.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Nope... Didn't see any.
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 73
+original = '''
+\c[10]Junge\c[0]: Ich finde ebenfalls immer noch keine...\. 
+Merkwürdig.\. Sonst gibt es die hier zu Haufen!
+'''
+patched = '''
+\c[10]Boy\c[0]: I still don't find any...\. strange.\.
+Usually there are plenty of them here!
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 84
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Öhm..\. Hallo Kleiner..\. Ist es 
+nicht vielleicht etwas gefährlich in 
+dieser Gegend so rum zu spazieren?
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Um...\. hey there kid.\.
+Isn't it a little dangerous to walk
+around in this area?
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 88
+original = '''
+\c[10]Junge\c[0]: Ja,\. ich weiß, aber hier kann man nun 
+mal am besten angeln...\. Naja...\.In der Sinke 
+schwimmt so gut wie gar nichts, was sich zum 
+Angeln lohnt... 
+'''
+patched = '''
+\c[10]Boy\c[0]: Yeah,\. I know, but this is the best
+place to go fishing...\. Well...\. There's hardly
+anything swimming around that's worth fishing...
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 92
+original = '''
+\c[10]Junge\c[0]: ...Und die Lohne ist mir zu weit weg...\.
+Dieser kleine See ist einfach am besten!
+'''
+patched = '''
+\c[10]Boy\c[0]: And the Lohne is too far away for me...\.
+This little lake is simply the best!
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 96
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Du solltest trotzdem 
+aufpassen...\. Hier treiben sich einige 
+gefährliche Wesen rum.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] You should be careful
+anyway...\. There are some dangerous
+monsters hanging around here.
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 100
+original = '''
+\c[10]Junge\c[0]: Das ist mir schon klar. Aber machen Sie 
+sich da keine Sorgen.\. Ich kann schnell rennen.
+'''
+patched = '''
+\c[10]Boy\c[0]: I know. But don't worry about that.\.
+I can run fast.
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 105
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Was haste denn bisher 
+schon so alles gefangen?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] What have you caught
+so far?
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 108
+original = '''
+\c[10]Junge\c[0]: Bisher noch nichts.\. Ich bin auf der 
+Suche nach Würmern, aber heute finde ich 
+irgendwie keine...\. Sonst waren hier immer 
+welche.
+'''
+patched = '''
+\c[10]Boy\c[0]: Nothing yet.\. I'm looking for some
+worms, but today I somehow found none...\.
+Usually there are always some around here.
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 112
+original = '''
+\c[10]Junge\c[0]: Öhm...\. Wenn Sie ein paar Regenwürmer 
+sehen sollten, könnten Sie mir dann Bescheid 
+sagen?
+'''
+patched = '''
+\c[10]Boy\c[0]: Um...\. If you see any worms,
+could you let me know?
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 117
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Gut, wieso nicht?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Well, why not?
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 119
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]:\c[0] Ohje. Wir sind auf dem Weg  
+nach Nomerea und graben nebenbei 
+nach Würmern...\. Na toll...)
+'''
+patched = '''
+(\c[1]\n[1]:\c[0] Oh man. We're on the way to
+Nomerea and now we're digging for
+worms along the way...\. Just my
+luck...)
+'''
+
+[[dialogue]]
+event = 54
+page = 1
+command = 8
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Na... da sind ja Regenwürmer.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Well... the worms are here.
+'''
+
+[[dialogue]]
+event = 54
+page = 1
+command = 10
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Klasse. Das müssn wir 
+unbedingt dem Jungen sagen!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Great. We have to
+tell the kid!
+'''
+
+[[dialogue]]
+event = 55
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Eine ziemlich lange Angelrute.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] A fairly long fishing rod.
+'''

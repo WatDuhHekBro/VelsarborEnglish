@@ -1,0 +1,412 @@
+[[dialogue]]
+event = 20
+page = 2
+command = 18
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: ...\. Gah, ich verhungere.\. Wird 
+dringend Zeit, dass ich meine 
+inneren Ressourcen mal auffrische!
+'''
+patched = '''
+\c[10]?????\c[0]: Gah, I'm starving.\. Time to
+refuel my inner resources!
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 26
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: ...\.Was für ein Kerl ist das 
+denn...?)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: What kind of person is
+that?)
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 34
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Los!)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Now!)
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 55
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: \s[3]AHH....\^
+'''
+patched = '''
+\c[10]?????\c[0]: \s[3]AHH...\^
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 57
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ruhe!\. Schrei nicht rum, 
+sofern du weiterhin atmen 
+möchtest...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Quiet!\. Don't scream if you
+want to keep breathing...
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 63
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Sag mir wo sie die Ausrüstung 
+der Gefangenen versteckt haben...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Tell me where you hid the
+prisoners' gear...
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 71
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: ...\.I-\.I-\.Ich weiß n-\.nicht 
+genau!\. W-\.Wirklich...!
+'''
+patched = '''
+\c[10]?????\c[0]: I-\.I-\.I don't k-\.know exactly!
+R-\.Really!
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 74
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Dann gib mir eine Vermutung!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Then give me a guess!
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 76
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: E-\.Eine Annahme...\. Womöglich 
+im Lagerraum...
+'''
+patched = '''
+\c[10]?????\c[0]: A-\.An estimate...\. Maybe in the
+storeroom...
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 79
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wo ist der Lagerraum?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Where's the storeroom?
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 81
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: I-\.Im Esssaal die nördliche 
+Tür,\. im Gang nach r-\.rechts ganz 
+durch,\. danach nach unten...\. D-\.Da ist 
+er!
+'''
+patched = '''
+\c[10]?????\c[0]: I-\.In the dining room,\. the door
+at the north,\. in the corridor to the
+r-\.right,\. then down...\. T-\.There it is!
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 86
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Letzte Frage.\. Wo sind die 
+Gefangenen?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Last question.\. Where are the
+prisoners?
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 89
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: G-\.Getrennt...\. Zwei sind in 
+der Zelle westlich von hier,\. so ein 
+Alter in der östlichen Zelle, in der 
+Nähe vom Lagerraum...
+'''
+patched = '''
+\c[10]?????\c[0]: S-\.Separated...\. Two are in the
+cell west of here,\. and an old man in
+the eastern cell, near the
+storeroom...
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 94
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Ein weiterer...\.\^
+'''
+patched = '''
+\c[10]?????\c[0]: Another one is...\.\^
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 96
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Mehr muss ich nicht wissen.\. 
+Gute Nacht!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I don't need to know more.\.
+Good night!
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 121
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: \s[2]Auauauauaauauauauaaaaa!\.\s[0] 
+Verdammt das tut weh!
+'''
+patched = '''
+\c[10]?????\c[0]: \s[2]Auauauauaauauauauaaaaa!\.\s[0]
+Damn that hurts!
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 124
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Dieser Besen ist zu wirklich 
+gar nichts zu gebrauchen...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: This broom really is
+useless...)
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 127
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Dann halt nochmal!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Another time!
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 140
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: NEIN!\. M-\.Mein armer Kopf!\. 
+Nicht hauen!\. HILFE!
+'''
+patched = '''
+\c[10]?????\c[0]: NO!\. M-\.My poor head!\.
+Don't hit me!\. HELP!
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 143
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Bleib stehen! 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Stay still!
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 160
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ... Auch gut.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: That works too.
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 178
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Zum Glück hat niemand das 
+Geschreie mitbekommen...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Luckily, nobody heard those
+screams...)
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 181
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Okay, hoffentlich ist die 
+Rüstung auch wirklich im Lagerraum.\.
+Wie war das...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Okay, hopefully our equipment
+is actually in the storeroom.\. After
+all that, it better be...)
+'''
+
+[[dialogue]]
+event = 20
+page = 2
+command = 185
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Ich muss \c[11]zwei Räume zurück\c[0] 
+zum Gang,\. dann nach \c[11]rechts\c[0] und 
+danach nach \c[11]unten\c[0].)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: I have to go \c[11]two rooms back\c[0]
+to the corridor,\. then \c[11]to the right\c[0]
+and then \c[11]down\c[0].)
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 11
+original = '''
+
+Dies ist ein \c[11]Speicherpunkt\c[0].
+'''
+patched = '''
+
+This is a \c[11]save point\c[0].
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 13
+original = '''
+
+Wenn man auf solch einen steht, kann man \c[11]den
+Spielstand speichern\c[0].
+'''
+patched = '''
+
+When you stand on one of these, you can
+\c[11]save the game\c[0].
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 16
+original = '''
+
+Öffne dazu das \c[11]Menu\c[0] mit \c[11]Esc\c[0] und wähle
+dann \c[11]Speichern\c[0].
+'''
+patched = '''
+
+To do this, open the \c[11]menu\c[0] using \c[11]Esc\c[0] and
+then select \c[11]Save\c[0].
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 19
+original = '''
+
+Auf der \c[11]Weltkarte\c[0] kann man übigens
+immer speichern.
+'''
+patched = '''
+
+Additionally, you can always save on
+the \c[11]world map\c[0].
+'''
+
+[[text]]
+event = 24
+page = 1
+command = 4
+original = '''Stützpunkt2'''
+patched = '''Fortress?'''

@@ -1,0 +1,864 @@
+[[dialogue]]
+event = 98
+page = 2
+command = 46
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Können wir eine kurze 
+Pause machen?\. Das Wandern ist 
+ja doch ziemlich anstrengend...
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: Can we take a short break?\.
+Walking is pretty exhausting...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 50
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Natürlich.\. Eine Pause von 5 
+Minuten kann nicht schaden...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Of course.\. A five minute break
+can't hurt...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 60
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Komm mal kurz mit, Kumpel.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Come on, Kento.
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 68
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Willst du jetzt weiter reden?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Do you want to continue
+talking about it?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 70
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Sag mal,\. geht dir das nicht 
+auch auf den Senkel?\. Die Art wie Soko 
+mit uns redet? 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Tell me,\. don't you find it
+annoying too?\. The way Soko talks
+to us?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 74
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Na ja, es ist ungewöhnlich,\. 
+aber  wenn sie unbedingt darauf 
+besteht,\. lass sie doch...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Well, it's unusual,\. but if she
+insists,\. let her...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 79
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hmpf, wenn Sie meinen "Herr 
+Kento"
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hmph, what about the "Mr.
+Kento" part?\. Doesn't that get to you?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 83
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 90
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ich frag mich ob alle 
+weiblichen Soldaten so sind...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I wonder if all female
+soldiers are like this...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 94
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hm?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 97
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ich mein', ich hab vorher 
+noch nie ne Soldatin genauer 
+gekannt.\. In Nomerea gibt es so gut 
+wie keine.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I mean, I've never met one
+before.\. There are practically none in
+Nomerea.
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 102
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Das stimmt.\. Ich bezweifle 
+aber, dass es in Buronia viel mehr 
+weibliche Soldaten gibt....
+'''
+patched = '''
+\c[1]\n[1]\c[0]: That's right.\. But I doubt that
+there are a whole lot more female
+soldiers in Buronia...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 106
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Soko is' jedenfalls völlig 
+anders als alle Soldaten die ich sonst 
+kenne.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Soko is completely different
+from any other soldier I know.
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 110
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Sie nimmt die ganze Sache so 
+verdammt ernst,\. sie kennt den 
+ganzen langweiligen Stoff über 
+Signum und so...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: She takes the whole thing so
+damn seriously,\. she knows all about
+the boring stuff and about Signums
+and so on...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 115
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Meinst du das ist üblich für 
+Frauen?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Do you think that's common for
+women?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 119
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich weiß es wirklich nicht...\.
+Aber schau,\. wir männlichen Soldaten 
+sind auch nicht alle gleich, oder?\.
+Wieso sollten es dann weibliche sein?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I really don't know...\. But
+look,\. we male soldiers aren't all
+the same, are we?\. Then why should
+it be so for female soldiers?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 124
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ja, du hast recht....
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Yeah, you're right...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 132
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Öhm, was bereden Sie da 
+eigentlich die ganze Zeit?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Um, what have you been talking
+about this whole time?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 135
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Nichts, nichts, Soko...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Nothing, nothing, Soko...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 137
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Könnten Sie sich nicht 
+angewöhnen, mich mit "Frau Filaja" 
+anzusprechen...?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Couldn't you get used to saying
+"Ms. Filaja"?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 142
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Nö... 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Nope...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 145
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...\. Sehr freundlich.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: How friendly.
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 148
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Vielleicht würde ich's mir 
+anders überlegen, wenn du mir nen 
+anständigen Grund nennst,\. wieso ich 
+dich mit Nachnamen anreden sollte.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Maybe I'd change my mind if
+you gave me a good reason why I
+should address you by your
+last name.
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 153
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Es gibt keinen besonderen 
+Grund...\. Aber es gibt auch keinen 
+Grund, wegen dem wir uns duzen 
+sollten, oder?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: No particular reason...\. But
+there's no good reason for us to
+say goodbye, is there?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 159
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Doch, natürlich gibt es den:
+Wir werden mehrere Tage lang 
+zusammen arbeiten. Wir sind 
+Kollegen.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Of course there is! We'll be
+working together for several days.
+We're teammates after all.
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 164
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Und Kollegen duzen sich nun 
+mal. 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: And teammates are just out to
+have a good time.
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 168
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wir führen nur gemeinsam 
+einen Auftrag durch, mehr nicht.\.
+Deswegen sind wir nicht gleich 
+Kollegen, wie Sie sie sich vorstellen...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We're only together to carry
+out an assignment,\. nothing more.
+That is why we're not these
+teammates as you may imagine...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 174
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ohje....
+'''
+patched = '''
+\c[1]\n[1]\c[0]: You gotta be kidding me...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 177
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hmpf,\. du hast was gegen uns, 
+kann das sein? 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hmph,\. you got something
+against us, now what could
+that be?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 184
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Nein, das ist es nicht... Ich 
+sehe das halt einfach so.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: No, I don't... I just see it
+for what it ultimately is.
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 188
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Gibt es überhaupt jemanden 
+mit dem du normal sprichst in 
+deinem Leben?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Is there anyone you talk to
+normally in your life?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 192
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Also...\. natürlich...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Well...\. Of course...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 195
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ach wirklich?\. Zum Beispiel?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Really?\. For example?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 198
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Familie und...\. ach was rede ich 
+überhaupt!\. Das geht Sie überhaupt 
+nichts an!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: My family and...\. Oh what am I
+talking about!\. It's none of your
+business!
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 202
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Achja?!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Seriously?!
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 204
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Cibon, beruhig dich mal.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Cibon, calm down.
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 208
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Jetzt hören Sie mal zu!\. Wir 
+haben keine Zeit für solche 
+dämlichen Debatten.\. So verlieren wir 
+nur unnötige Zeit!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Now listen!\. We don't have time
+for such stupid arguments.\. We're
+wasting unnecessary time!
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 217
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ... Ja ja, alles klar, eure 
+Durchlaucht.\. Würden Sie zumindest 
+noch die Gnädigkeit besitzen uns die 
+letzten Minuten alleine zu lassen?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Yeah yeah, fine, Your Majesty.\.
+Now can you at least have the grace
+to leave us alone for these last
+few minutes?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 223
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Tsk.....
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Tsk.....
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 230
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Frau Filaja...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Ms. Filaja...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 232
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...\.Ja, Herr Kento?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Yes,\. Mr. Kento?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 234
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ist Ihnen aufgefallen, dass 
+man beim Siezen in der Regel mehr 
+Silben spricht, als beim Duzen?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Notice how people usually use
+more syllables when speaking
+formally rather than informally?
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 238
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ja,\. das ist klar...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Yes,\. that makes sense...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 240
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Sie sollten wissen, dass man 
+den Mitkämpfern bei ernsten 
+Gefechten oft schnelle Warnungen 
+zurufen muss.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Remember that you often have
+to call out quick warnings to
+others during serious battles.
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 246
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Die paar Silben extra können 
+dabei einen entscheide Last 
+darstellen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Those few extra syllables can
+can cost us the battle.
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 250
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Öhm...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Um...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 253
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wenn Sie also beabsichtigen 
+in den Kämpfen optimale Team-
+Arbeit zu leisten, sollten Sie sich das 
+mit dem Siezen überlegen....
+'''
+patched = '''
+\c[1]\n[1]\c[0]: So if you intend to have
+optimal teamwork in battle, you
+should think about your
+formality...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 261
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wie wir in Gefechten 
+kommunizieren ist ein ganz anderes 
+Thema...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: How we communicate in battle
+is a completely different topic...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 265
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wie sie meinen, ich wollte das 
+nur einmal anmerken...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: As you say, I just wanted to
+get this out of the way...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 271
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber ich bin überrascht, dass 
+Sie auf so einen Aspekt kommen...\.
+Eine interessante Denkensweise.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But I'm surprised that you came
+up with such an aspect...\. An
+interesting way of thinking.
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 276
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Öhm,\. danke...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Um, thanks...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 281
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Nun gut.\. Es ist Zeit weiter zu 
+gehen.\. Ich werde Herrn Uroto 
+Bescheid geben...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Alright.\. It's time to move on.\.
+I will let Mr. Uroto know...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 291
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ohje, ich glaub's nicht. Du 
+scheinst dich auch noch mit ihr zu 
+verstehen, Kumpel.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh, I don't think so. Seems
+like you're getting along with
+her too.
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 296
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich hab nur versucht sie auf 
+eine andere Art und Weise zu 
+überzeugen...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I was just trying to convince
+her to think in a different way...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 300
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ich glaub es ist hoffnungslos.\. 
+Lass uns diesen Auftrag einfach so 
+schnell wie möglich beenden, damit 
+wir sie wieder los sind...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: It was hopeless from the
+start.\. Let's just finish this
+task as soon as possible so
+we can get rid of her...
+'''
+
+[[dialogue]]
+event = 98
+page = 2
+command = 313
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: So,\. dann weiter.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: So,\. let's move on.
+'''

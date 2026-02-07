@@ -1,0 +1,62 @@
+[[dialogue]]
+event = 19
+page = 2
+command = 14
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hier versperren die ganzen 
+Steine den Weg... Aber einige von 
+ihnen scheinen nicht fest im Boden 
+zu sitzen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: All of these rocks are
+blocking the way... But some of
+them seem to be loose enough
+to move around.
+'''
+
+[[dialogue]]
+event = 19
+page = 2
+command = 23
+original = '''
+
+\c[14]Verschiebe oder ziehe Objekte\c[0], indem du dich 
+neben das Objekt stellst und \c[14]Enter\c[0] drückst.
+'''
+patched = '''
+
+\c[14]Move or drag objects\c[0] by standing next
+to the object and pressing \c[14]Enter\c[0].
+'''
+
+[[dialogue]]
+event = 19
+page = 2
+command = 26
+original = '''
+
+\c[14]Halte Enter gedrückt und drücke die Pfeiltasten\c[0], 
+um das Objekt zu schieben oder zu ziehen.
+'''
+patched = '''
+
+\c[14]Hold Enter and press the arrow keys\c[0]
+to move or drag an object.
+'''
+
+[[dialogue]]
+event = 19
+page = 2
+command = 29
+original = '''
+
+\c[14]Lass Enter los\c[0] um das Verschieben 
+abzuschließen.
+'''
+patched = '''
+
+\c[14]Release Enter\c[0] to finish moving an object.
+'''

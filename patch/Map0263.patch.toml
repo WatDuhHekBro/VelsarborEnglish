@@ -1,0 +1,357 @@
+[[dialogue]]
+event = 68
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Ich bin schon zu Tode erschöpft...\. Wie 
+lange wollen sie uns noch arbeiten lassen?
+'''
+patched = '''
+\c[10]Prisoner\c[0]: I'm exhausted to death...\. How long are
+they going to make us work?
+'''
+
+[[dialogue]]
+event = 69
+page = 1
+command = 2
+original = '''
+\c[10]Gefangene\c[0]: Du solltest dich vor diesen bläulichen 
+Fledermäusen in Acht geben. Die sehen zwar fast so 
+aus wie gewöhnliche Fledermäuse, aber ihr Biss 
+kann dich vergiften und einschläfern.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: You should watch out for these bluish
+bats. They look almost like ordinary bats, but
+their bite can poison and put you to sleep.
+'''
+
+[[dialogue]]
+event = 69
+page = 1
+command = 6
+original = '''
+\c[10]Gefangene\c[0]: Auf diese Weise können sie ganz 
+schnell dein Ende bedeuten, wenn du ihnen alleine 
+über den Weg läufst...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: This means that if you run into one of
+them on your own, they can very quickly end your
+life...
+'''
+
+[[dialogue]]
+event = 70
+page = 1
+command = 3
+original = '''
+\c[10]Gefangener\c[0]: Das ist mein Erz!\. MEIN Erz!\. Mein Erz 
+ganz alleine!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: This is my ore!\. MY ore!\. My ore all
+alone!
+'''
+
+[[dialogue]]
+event = 70
+page = 1
+command = 7
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Schon gut, schon gut...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Okay, okay...
+'''
+
+[[dialogue]]
+event = 70
+page = 1
+command = 9
+original = '''
+\c[10]Gefangener\c[0]: Mein Erz!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: My ore!
+'''
+
+[[dialogue]]
+event = 71
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Ehrlich, ich frag mich, wohin das Loch 
+da oben führt?\. Ich glaube, früher war das wohl 
+noch erreichbar von hier unten, aber mittlerweile 
+ist irgendwie dieser Felsvorsprung entstanden...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: I honestly wonder, where does the hole
+lead to up there?\. I think it was probably still
+accessible in the past from down here, but now
+this rocky cliff somehow rose...
+'''
+
+[[dialogue]]
+event = 71
+page = 1
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: Vielleicht durch einen Erdrutsch, oder 
+wie man das nennt?
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Maybe through a landslide or whatever
+you call those things.
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 11
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Oha!\. Da ist doch tatsächlich 
+jemand auf meine Insel gekommen!\. Passiert hier 
+auch nicht alle Tage.\. Zu dem Anlass überreich' ich dir diesen Orden!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: Oh!\. Somebody actually got to my
+island!\. Doesn't happen here every day either.\. I'll
+hand you this medallion for your efforts!
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 25
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Ihr guckt so verdutzt.\. Wenn 
+ihr mehr über uns und die Minen-Orden 
+erfahren wollt, besucht einfach unseren 
+Stützpunkt.
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: You look so confused.\. If you
+want to learn more about us and the miner
+medallions, just visit our base.
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 29
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Dieser befindet sich im 
+mittleren Bereich der Mine.\. Fahrt beim nächsten 
+Mal mit der Lore einfach rechts und dann 
+geradeaus.
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: It's located at the center of
+the mine.\. Next time on the railways, just go
+right and then straight.
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 35
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Glück auf!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: Good luck!
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 42
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Diese Insel hier hat übriges 
+zwei Seiten.\. Auf der anderen solltest du noch 
+einiges an Erz finden, Kumpel!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: This island has two sides.\. On
+the other, you should find some ore to mine!
+'''
+
+[[dialogue]]
+event = 73
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 74
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 75
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 76
+page = 1
+command = 3
+original = '''
+\c[10]Gefangener\c[0]: MEIN ERZ!!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: MY ORE!!
+'''
+
+[[dialogue]]
+event = 77
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 79
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Hab ihr schon von dieser Pauamainer-
+Untertage-Brüderschaft gehört?\. Das sind ganz 
+gewöhnliche Gefangene, so wie ich und du!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Have you heard of this underground
+Pauamainer Brotherhood?\. They're ordinary
+prisoners just like me and you!
+'''
+
+[[dialogue]]
+event = 79
+page = 1
+command = 5
+original = '''
+\c[10]Gefangener\c[0]: Die Leute halten sich nur für etwas 
+Besonderes, weil'se immer in den hintersten Ecken 
+und dunkelsten Löschern nach Erz suchen, um eine 
+möglichst große Menge zu schürfen.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: They only think they're special because
+they always look for ore in the farthest corners
+and darkest patches in order to mine as much as
+possible.
+'''
+
+[[dialogue]]
+event = 79
+page = 1
+command = 9
+original = '''
+\c[10]Gefangener\c[0]: Mit anderen Worten:\. Sie verhalten sich 
+genauso, wie die Wachenhunde es wollen.\. Tsk.\. Als 
+ob ich denen so'nen Gefallen tun würde.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: In other words,\. they're doing exactly
+what these guards want them to do.\. Tsk.\. As if
+I'd do them a favor.
+'''
+
+[[dialogue]]
+event = 80
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 81
+page = 2
+command = 2
+original = '''
+\c[10]Wache\c[0]: Ab und zu findet man hier das ein oder 
+andere Rüstungsteil oder andere brauchbare 
+Gegenstände.\. In dem Fall informiert ihr uns 
+darüber, verstanden? 
+'''
+patched = '''
+\c[10]Guard\c[0]: Every now and then, you might find one or
+two pieces of armor or other usable items.\. In that
+case, make sure to let us know, you understand
+that?!
+'''
+
+[[dialogue]]
+event = 81
+page = 2
+command = 6
+original = '''
+\c[10]Wache\c[0]: Kommt ja nicht auf die Idee, das Ganze für 
+euch zu behalten.\. Wir merken das, wenn ihr die 
+Mine verlässt.
+'''
+patched = '''
+\c[10]Guard\c[0]: And don't you even dare think of keeping
+any of it for yourself!\. We notice that kind of
+stuff when you leave the mine.
+'''

@@ -1,0 +1,296 @@
+[[dialogue]]
+event = 32
+page = 2
+command = 40
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Das is' also das Corine 
+Plateau...\. 'nen komischer Ort...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: So this is the Corine
+Plateau...\. A strange place...
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 43
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]:\c[0] So sieht es halt aus, wenn eine 
+Landschaft komplett zerstört wurde 
+und sie sich daraufhin wieder 
+erholt.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: This is what happens when a
+landscape has been completely
+destroyed and then recovers.
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 48
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]:\c[0] Und das alles nur weil 
+vor 9 Jahren...\|\^
+'''
+patched = '''
+\c[13]\n[3]\c[0]: And all because of what
+happened nine years ago...\|\^
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 52
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Wir alle kennen doch die 
+Geschichte vom türkisen Inferno...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We all know the story of the
+turquoise inferno...
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 57
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Wo genau liegt hier eigentlich 
+das Grabdenkmal? 
+Ich hab versprochen dort einmal kurz 
+vorbei zu schauen...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Where exactly is the
+gravestone here? I promised
+to have a look...
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 64
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]:\c[0] Ich glaube etwa in der Mitte 
+des Plateaus.\. Wir sollten am besten 
+bei jemanden auf dem Weg nachfragen.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: I think about halfway across
+the plateau.\. The best thing to do
+is to ask someone along the way.
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 71
+has_portrait = true
+original = '''
+\c[10]Herr Uroto:\c[0] Wir sollten uns nicht 
+zuviel damit beschäftigen.\. Vergessen 
+Sie bitte nicht, dass Sie einen 
+Auftrag zu erfüllen haben.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: We shouldn't spend too
+much time on that.\. Please don't
+forget that you have an order
+to fulfill.
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 75
+has_portrait = true
+original = '''
+\c[10]Herr Uroto:\c[0] Wenn wir weiter so 
+rumtrödeln werden wir es nicht 
+mehr rechtzeitig schaffen.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: If we continue to dawdle
+like this, we won't make it in time.
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 79
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Ach kommen sie, Herr Uroto!\.
+Das ganze wird höchstens 5 bis 10 
+Minuten dauern.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh come on, Mr. Uroto!\. This'll
+take 5 to 10 minutes at most.
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 84
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]:\c[0] Wieso willst du eigentlich das 
+Denkmal besuchen,\. Cibon?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Why do you want to visit the
+memorial so badly,\. Cibon?
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 89
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Naja, mein Vater ist hier im 
+Krieg gestorben.\. Er ist eines der 
+vielen Opfer, für die das Denkmal 
+gebaut wurde.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Well, my father died here in
+the war.\. He's one of the many victims
+which the memorial was built for.
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 98
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]:\c[0] Achso, das tut mir Leid.\.
+Das muss ein schwerer Verlust 
+gewesen sein.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Oh, I'm sorry for your loss.\.
+That must've been devestating to
+bear.
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 103
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Nun ja, ich bin froh, dass er 
+wenigstens mutig in der Schlacht 
+gestorben ist.\. So kann ich immerhin 
+auf ihn stolz sein.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Well, I'm glad that at least
+his death was a brave one.\. So I can
+be proud of him.
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 114
+has_portrait = true
+original = '''
+\c[10]Herr Uroto:\c[0] Könnten wir diese 
+Konversation bitte auf später 
+verschieben? 
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: Could we please postpone
+this conversation until later?
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 117
+has_portrait = true
+original = '''
+\c[10]Herr Uroto:\c[0] Wie oft muss ich 
+eigentlich noch daran erinnern, dass 
+wir unter Zeitdruck stehen?
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: How often do I have to
+remind everything that we don't
+have a lot of time left?
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 121
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]:\c[0] Sie haben Recht, Herr Uroto.\. 
+Verzeihen Sie uns bitte, wir ziehen 
+sofort weiter...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: You're right, Mr. Uroto.\. Please
+forgive us, we'll move on
+immediately...
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 128
+has_portrait = true
+character = '''Cibon'''
+original = '''
+(\c[2]\n[2]:\c[0] Pah, letztendlich  
+verschwenden wir ja doch nur die 
+meiste Zeit, weil Herr Uroto sich 
+ständig ausruhen muss.)
+'''
+patched = '''
+(\c[2]\n[2]\c[0]: Pah, when it comes down to
+it, we only wasted so much time
+because Mr. Uroto has to keep
+resting all the time.)
+'''
+
+[[dialogue]]
+event = 32
+page = 2
+command = 133
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Komm Cibon, wir müssen uns 
+wirklich etwas beeilen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Come on Cibon, we really ought
+to hurry up some.
+'''

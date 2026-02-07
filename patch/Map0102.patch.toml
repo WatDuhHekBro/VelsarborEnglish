@@ -1,0 +1,42 @@
+[[dialogue]]
+event = 14
+page = 2
+command = 19
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ziemlich düster hier...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: It's pretty dark here...
+'''
+
+[[dialogue]]
+event = 14
+page = 2
+command = 21
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Mal sehen wie weit wir hier 
+kommen.\. Auf geht's!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Let's see how far we can
+get down here.\. Here goes!
+'''
+
+[[dialogue]]
+event = 14
+page = 2
+command = 24
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Pass auf, dass du über keine 
+Steine stolperst, Kumpel.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Careful not to trip over
+any rocks here.
+'''

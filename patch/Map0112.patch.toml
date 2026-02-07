@@ -1,0 +1,1514 @@
+[[dialogue]]
+event = 68
+page = 2
+command = 25
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Endlich sind wir da...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We're finally here...
+'''
+
+[[dialogue]]
+event = 68
+page = 2
+command = 27
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Ohje...\. ich...\. will nur noch 
+schlafen...
+'''
+patched = '''
+\c[10]Royko\c[0]: Oh man...\. I...\. just want to
+sleep...
+'''
+
+[[dialogue]]
+event = 68
+page = 2
+command = 30
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Ich bin auch am Ende 
+meiner Kräfte.\. Schleunigst in den 
+Gasthof!
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: I've also used almost all
+my strength for the day.\. Let's go
+to the inn!
+'''
+
+[[dialogue]]
+event = 68
+page = 2
+command = 34
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Das war wirklich ein harter 
+Tag. Ich hab mich noch nie so sehr 
+aufs Bett gefreut!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: It was a really hard day. I've
+never looked forward to bed so much!
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 12
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: ...das Corine Plateau... Ich 
+wollte diesen Ort immer meiden...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: The Corine Plateau... I've
+always wanted to avoid this place...)
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 25
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Herr Kento.\. Was haben Sie?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Mr. Kento.\. Is something wrong?
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 31
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: S..\. Soko?\. Sie sind auch wach?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: S...\. Soko?\. Are you awake too?
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 34
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...\. So...\. ist es bei Ihnen 
+jetzt auch "Soko"....\. ?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: So...\. is it "Soko" you're
+calling me by now?
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 39
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: .... 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 44
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Es hat ja keinen Sinn, Sie 
+werden ja sowieso nicht auf mich 
+hören und mich nennen wie Sie 
+wollen.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Oh well. You won't listen to
+me anyway and you'll just call me
+whatever you want.
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 50
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...\. Es ist auch ungewöhnlich.\. 
+Vor allem für Cibon.\. Er hielt noch 
+nie besonders viel von hoher 
+Ausdrucksweise...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It's also unusual.\. Especially
+for Cibon.\. He never thought highly
+of formality...
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 59
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Du weißt, wegen deiner 
+Ausdrucksweise bekommen wir 
+ständig das Gefühl, dass du nicht zu 
+uns gehörst...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: You know, because of your way
+of expression, we always get the
+feeling that you're not truly
+one of us...
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 64
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wie Cibon immer sagt: du 
+verhältst dich uns gegenüber wie ein 
+Ausbilder einer Kaserne.  
+'''
+patched = '''
+\c[1]\n[1]\c[0]: As Cibon puts it, you
+treat us like an instructor from
+the barracks.
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 68
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Jedenfalls verhinderst du 
+damit, dass wir dich als richtige
+Kameradin ansehen. 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: In any case, you prevent us
+from seeing you as a real member
+of the team.
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 73
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich kenne nicht deine Gründe 
+für dieses Verhalten,\. aber auf diese 
+Art würde unsere Zusammenarbeit 
+schwerer fallen,\. verstehst du?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I don't know your reasons for
+this behavior,\. but that makes
+teamwork more difficult,\. you know?
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 79
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Gute Zusammenarbeit ist ein 
+wichtiger Faktor,\. um erfolgreich zu 
+sein,\. in Schlachten und allen 
+anderen Dingen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Good cooperation is an
+important factor for being
+successful,\. in battles and
+everything else.
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 84
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...Ja,\. das stimmt.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Yeah,\. I guess you're right.
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 86
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wie gesagt,\. ich kenn deine 
+Gründe nicht.\. Du musst sie mir auch 
+nicht sagen,\. wenn es dir 
+unangenehm ist.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: As I said,\. I don't know your
+reasons.\. You don't have to tell me
+if you're uncomfortable.
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 92
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Aber ich würde dich trotzdem 
+bitten,\. dieses Verhalten abzulegen...\.
+So würde der Auftrag sicher weitaus 
+leichter fallen,\. uns allen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: But I would still like to ask
+you to end this behavior...\. It'd
+make the job much easier for us all.
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 103
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...\.In Ordnung,\. ...\. Kento.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Alright...\. Kento.
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 105
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Du wirst sehen,\. Cibon wird 
+seine Einstellung dir gegenüber sehr
+schnell ändern...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: You'll see that Cibon will
+change his attitude towards you
+very quickly...
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 112
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wo wir schon bei 
+Kameradschaft und Vertrauen sind,\. 
+Kento,\. deinen Nachnamen kenne ich 
+immer noch nicht...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Speaking of camaraderie and
+trust Kento,\. I still don't know
+your last name...
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 118
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Oh...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Oh...
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 120
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Irgendwas muss mit deinem 
+Namen nicht stimmen,\. wenn du ihn 
+nicht verraten willst...\. Hast du Dreck 
+am Stecken,\. oder wie?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Something isn't right if you
+don't want to give out your name...\.
+Is there any dirt on your name or
+something?
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 125
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja,\. das kann man so sagen...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yeah,\. you could say that...
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 128
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Also...?\. Du kannst ihn mir 
+sagen.\. Mir ist egal, wie schlimm 
+deine Verwandtschaft ist oder war.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: So?\. You can tell me.\. I don't
+care how bad your relatives are or
+were.
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 135
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...\. Es tut mir Leid,\. 
+ich kann es nicht. 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Sorry,\. I can't.
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 142
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Achso...\. Ich soll mit meiner 
+Redensart aufhören,\. aber du kannst 
+munter weiter den Geheimnisvollen 
+spielen,\. oder wie?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Oh...\. So I'm supposed to stop
+talking while you continue to play
+the mysterious,\. am I right?
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 151
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: So ist das also,\.\. ...\. nun dann\.\^
+'''
+patched = '''
+\c[13]\n[3]\c[0]: So that's how it is...\.\.
+Well then...\.\^
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 153
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Daikon.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Daikon.
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 163
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Öh...\. Dai...\.\^
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Wait...\. Dai...\.\^
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 167
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Daikon!\. \s[4]Und wag es nicht,\. 
+mich mit diesen Namen 
+anzusprechen oder mir deshalb 
+Fragen zu stellen!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Daikon!\. \s[4]And don't you dare
+speak to me by this name or ask
+me any questions about it!
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 177
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Daikon...?\.\. Der eine...\.\^
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Daikon?\.\. The one and only...\.\^
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 182
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich sagte \s[5]KEINE Fragen\s[0],\. ist 
+das klar?!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I said \s[5]NO questions\s[0],\. is that
+clear?!
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 189
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ....\. S..\.Schon gut...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: A...\. Alright...
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 196
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Am besten vergisst du,\. dass 
+ich so heiße...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: The best thing would be to
+just forget my last name...
+'''
+
+[[dialogue]]
+event = 68
+page = 4
+command = 202
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...\. Ich verstehe es zwar nicht,\. 
+aber wie du willst...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: I don't understand it,\. but as
+you like...
+'''
+
+[[dialogue]]
+event = 68
+page = 5
+command = 8
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Oh!\. Der Post-Versand Zug 
+aus West-Brigantia kommt gerade 
+vorbei! 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Oh!\. The FALCON riders from West
+Brigantia are coming over now!
+'''
+
+[[dialogue]]
+event = 68
+page = 5
+command = 105
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wahnsinn! Wie viele Reiter...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Amazing! How many riders there
+are...
+'''
+
+[[dialogue]]
+event = 68
+page = 5
+command = 119
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Oh, das sehe ich zum ersten 
+Mal.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Oh, this is the first time I'm
+seeing it.
+'''
+
+[[dialogue]]
+event = 68
+page = 5
+command = 124
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ja,\. ich auch...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Yeah,\. me too...
+'''
+
+[[dialogue]]
+event = 68
+page = 5
+command = 130
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...\. Ich geh ins Bett,\. ich muss 
+noch etwas mehr schlafen,\. der 
+morgige Tag wird lang.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I'm going back to bed,\. I have
+to sleep a little more,\. tomorrow
+will be another long day.
+'''
+
+[[dialogue]]
+event = 68
+page = 5
+command = 134
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ja,\. ich werde gleich auch 
+wieder ins Bett gehen.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Yeah,\. I'll go back to bed in a
+minute.
+'''
+
+[[dialogue]]
+event = 87
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ich sollte den Gasthof besser
+nicht alleine verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I better not leave the inn
+without the others.
+'''
+
+[[dialogue]]
+event = 88
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ich sollte den Gasthof besser
+nicht alleine verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I better not leave the inn
+without the others.
+'''
+
+[[dialogue]]
+event = 89
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ich sollte den Gasthof besser
+nicht alleine verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I better not leave the inn
+without the others.
+'''
+
+[[dialogue]]
+event = 90
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ich sollte den Gasthof besser
+nicht alleine verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I better not leave the inn
+without the others.
+'''
+
+[[dialogue]]
+event = 91
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ich sollte den Gasthof besser
+nicht alleine verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I better not leave the inn
+without the others.
+'''
+
+[[dialogue]]
+event = 92
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ich sollte den Gasthof besser
+nicht alleine verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I better not leave the inn
+without the others.
+'''
+
+[[dialogue]]
+event = 93
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ich sollte den Gasthof besser
+nicht alleine verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I better not leave the inn
+without the others.
+'''
+
+[[dialogue]]
+event = 94
+page = 2
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ich sollte den Gasthof besser
+nicht alleine verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I better not leave the inn
+without the others.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 35
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Da seid ihr ja!\. Nun, was 
+ist?\. Werdet ihr gegen mich kämpfen?
+'''
+patched = '''
+\c[10]Yahenru\c[0]: There you are!\. Now what will
+it be?\. Shall we battle?
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 41
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Gut!\. Dann auf in den 
+Kampf!
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Good!\. Then we shall begin
+the battle!\. En garde!
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 62
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Ach, das wollt ihr?\.
+Nun, wenn das so ist....
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Oh, that's what you want?\.
+Well, if so...
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 64
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Waffen zeichnen sich
+nicht nur durch ihre Angriffsstärke 
+aus.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Weapons are not only
+characterized by their attack.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 67
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Einige Waffen haben auch 
+Einfluss auf Abwehr, mentale Kraft 
+und Agilität. Aber nicht nur das.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Some weapons also have an
+impact on defense, wisdom, and
+agility. But not only that.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 70
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Es gibt auch Waffen die 
+ganz besondere Eigenschaften 
+haben. Ich werde dir mal ein paar 
+Beispiele geben.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: There are also weapons that
+have very special properties.
+I'll give you a few examples.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 74
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Einige Waffen machen 
+\c[11]Element-Schaden\c[0] und sind damit 
+gegen bestimmte Gegner besonders 
+wirkungsvoll.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Some weapons do \c[11]element
+damage\c[0] and are particularly
+effective against certain
+enemies.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 80
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Solche Waffen haben 
+diese Symbole in ihrer Beschreibung.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Such weapons have these
+symbols in their description.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 83
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Andere Waffen wiederum 
+können \c[11]Zustände verursachen\c[0], wenn 
+man mit ihnen angreift.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Other weapons may \c[11]inflict
+status effects\c[0] if you attack with
+them.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 88
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Du erkennst sie an diesen 
+Symbolen.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: You can recognize them by
+these symbols.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 90
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: So ein Schwert, dass Schlaf 
+verursacht ist schon was Feines, 
+glaub' mir. 
+'''
+patched = '''
+\c[10]Yahenru\c[0]: A sword that inflicts sleep
+is an excellent thing, believe me.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 94
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Ich hab auch schon Waffen 
+gesehen, die den Träger die Fähigkeit 
+geben sollen, \c[11]einige Zauber gegen 
+alle Ziele aussprechen zu können\c[0].
+'''
+patched = '''
+\c[10]Yahenru\c[0]: I've also seen weapons that
+should give the user \c[11]the ability to
+cast some spells against all targets\c[0].
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 100
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Das ganze nennt sich 
+\c[11]Zauber-Streuer\c[0] und ist durch solch 
+ein Symbol gekennzeichnet.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: The whole thing is called
+\c[11]Signum Scatter\c[0] and is marked by such
+a symbol.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 104
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Eine meiner Lieblings- 
+Eigenschaften von Waffen ist 
+zweifellos der \c[11]Konter\c[0]!
+'''
+patched = '''
+\c[10]Yahenru\c[0]: One of my favorite features
+of weapons is undoubtedly the
+\c[11]counterattack\c[0]!
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 109
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: An diesem Symbolen 
+erkennst du Konter-Waffen. 
+Dabei gibt es 2 verschiedene Arten 
+von Konterangriffen.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: You can recognize
+counterattacking weapons by this
+symbol. There are two different
+types of counterattacks.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 113
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Beim \c[11]Angriff-Konter\c[0] wird 
+nach einem physischen Treffer 
+gekontert, bei \c[11]Signum-Konter\c[0] nach 
+einem magischen Treffer.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: The \c[11]Attack Counter\c[0]
+counterattacks after a physical hit
+while the \c[11]Signum Counter\c[0]
+counterattacks after a magic hit.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 117
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Das Level (lv) gibt übrigens 
+an, mit welcher Wahrscheinlichkeit 
+der Konterangriff eintritt.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Furthermore, the level (lv)
+indicates the probability of the
+counterattack occurring.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 121
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Schließlich können Waffen 
+noch bestimmte \c[11]Verzauberungen\c[0] mit 
+sich ziehen.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Finally, weapons can still
+have certain \c[11]enchantments\c[0].
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 126
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Das ganze wird mit diesen 
+Symbolen verdeutlicht.\. Eine Waffe 
+mit Auto-Sprint oder Auto-Ferres 
+kann äußerst praktisch sein.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: They're illustrated by these
+symbols.\. A weapon with Auto Sprint or
+Auto Ferres can be extremely
+practical.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 131
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Das sind ein paar der 
+Eigenschaften, die Waffen haben 
+können. 
+'''
+patched = '''
+\c[10]Yahenru\c[0]: These are just a few of the
+qualities that weapons can have.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 134
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Natürlich haben nur 
+besondere Waffen solche 
+Eigenschaften. 
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Of course, only special
+weapons have such properties.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 137
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Im Waffenladen von 
+Nebenan findest du so was sicherlich 
+nicht.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: You won't find anything like
+that in the weapons shop next door.
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 140
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Das war's auch schon.
+Und nun nehmt die Herausforderung 
+an und kämpft!
+'''
+patched = '''
+\c[10]Yahenru\c[0]: That's it.\. Now take on the
+challenge and let's battle!
+'''
+
+[[dialogue]]
+event = 130
+page = 3
+command = 156
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Seid keine Feiglinge und 
+zeigt mir, dass ihr es drauf habt!\. 
+Ich warte meinetwegen auch noch 
+etwas...
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Don't be cowards and show me
+you have what it takes!\. I'm waiting
+a little for my own sake...
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 5
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Na, das war wirklich
+enttäuschend.\. Ihr solltet euch nach 
+besseren Waffen umsehen, sonst 
+werdet ihr mich nie schlagen...
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Well, that was rather
+disappointing.\. You should look
+for better weapons, otherwise
+you'll never defeat me...
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 9
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Nun gut... Ich werde dann 
+weiter ziehen.\. Vielleicht sehen wir 
+uns irgendwann wieder. 
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Alright... I'll be moving on
+then.\. Maybe we'll see each other
+again eventually.
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 12
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Ich hoffe bis dahin habt ihr 
+euch zu ebenbürtigen Gegner 
+aufgerüstet!
+'''
+patched = '''
+\c[10]Yahenru\c[0]: I hope that by then you will
+have upgraded yourself to match my
+strength!
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 15
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Also, bis dann!
+'''
+patched = '''
+\c[10]Yahenru\c[0]: See you then!
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 21
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Sehr schön!\. Ihr scheint 
+wirklich das richtige Maß an Stärke 
+zu besitzen um die Ehre zu haben, 
+einer meiner Waffen zu bekommen.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Very nice!\. You really seem
+to have the right amount of strength
+to have the honor of getting one of
+my weapons.
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 25
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Ich gebe euch diese Lanze 
+hier - \c[11]die Ultioslanze\c[0]!
+Ein sehr schönes Teil.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: I'm giving you this lance
+here - \c[11]the ultimate lance\c[0]! A
+beautiful thing.
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 39
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Zwar ist ihre Angriffskraft 
+nicht die Allerbeste, aber für eure 
+Verhältnisse müsste es mehr als 
+genug sein.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Although its attack power
+isn't the best, it should be more
+than enough for you.
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 43
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Das besondere an dieser 
+Waffe ist aber, dass sie eine 
+Konter-Eigenschaft hat.\. 
+Und zwar"Lv.1-Angriff-Konter"
+'''
+patched = '''
+\c[10]Yahenru\c[0]: The special thing about this
+weapon is that it has a
+counterattack. Namely, the
+"Lv.1 Attack Counter".
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 47
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Vor allem in Verbindung 
+mit einem erhöhten Reflex-Wert, 
+kann diese Waffe sehr wirkungsvoll 
+sein.
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Combined with a high evasion
+stat, this weapon can become an
+unstoppable force.
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 51
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Denn wenn man
+einem Angriff ausweicht, wird die 
+Konter-Wahrscheinlichkeit 
+verdoppelt!
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Because if you dodge an
+attack, the counterattack's
+probability is doubled!
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 56
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Oh...\. Das ist in der Tat eine 
+interessante Waffe...\. Vielen Dank!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Ooo...\. This is quite the
+interesting weapon...\.
+Thank you very much!
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 59
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Keine Ursache, Kämpfer 
+wie ihr habt es verdient solche 
+Waffen zu führen!\. 
+Gut,\. ich muss dann weiter!
+'''
+patched = '''
+\c[10]Yahenru\c[0]: No need,\. fighters like you
+deserve to use such weapons!\. Well,\.
+I have to go then!
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 63
+has_portrait = true
+original = '''
+\c[10]Yahenru\c[0]: Viele starke Waffen in 
+dieser Welt warten auf mich.\.
+Man sieht sich!
+'''
+patched = '''
+\c[10]Yahenru\c[0]: Many powerful weapons in
+this world are waiting for me.\.
+See you!
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 88
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Ein wirklich komischer Kerl, 
+aber er ist unheimlich stark....)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: A really weird guy, but he's
+incredibly strong...)
+'''
+
+[[dialogue]]
+event = 130
+page = 4
+command = 93
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Ein komischer Kerl... 
+Schenkt uns eine Waffe, nur weil wir 
+ihn in einem Kampf besiegt haben...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: A weird guy... gives us a
+weapon just because we beat him
+in a fight...)
+'''
+
+[[dialogue]]
+event = 134
+page = 1
+command = 2
+original = '''
+\c[10]Händler\c[0]: Diese Gegend wird zunehmend 
+von Händler und Reisenden durchquert, es ist 
+nur eine Frage der Zeit, bis sich hier eine kleine 
+Siedlung bilden wird.
+'''
+patched = '''
+\c[10]Merchant\c[0]: This area is increasingly being crossed
+by traders and travellers alike, so it's only a
+matter of time before a small settlement will
+be built here.
+'''
+
+[[dialogue]]
+event = 134
+page = 1
+command = 6
+original = '''
+\c[10]Händler\c[0]: Im Moment ist es einfach der 
+perfekte Ort um mit Reisenden ein Geschäft zu 
+machen.\. Wie sieht's aus?\. Braucht ihr ein paar 
+Heilutensilien?
+'''
+patched = '''
+\c[10]Merchant\c[0]: Right now, it's just the perfect place
+to do business with travellers.\. How are you
+doing?\. Do you need some supplies?
+'''
+
+[[dialogue]]
+event = 147
+page = 1
+command = 2
+original = '''
+\c[10]Händler\c[0]: Ich habe hier Heilessenz im Angebot.\.
+Sie heilt doppelt so stark wie Heilsirub und ist 
+im Moment ziemlich knapp!
+'''
+patched = '''
+\c[10]Trader\c[0]: I have some heal essence on offer here.\.
+It heals twice as much as some heal syrup and
+is pretty scarce at the moment!
+'''
+
+[[dialogue]]
+event = 150
+page = 1
+command = 2
+original = '''
+\c[10]Händler\c[0]: Ich habe hier einen wertvolle 
+Flügelhelm im Sonderangebot. So günstig werdet 
+ihr ihn sonst nirgends ertauschen können!
+'''
+patched = '''
+\c[10]Trader\c[0]: I have a valuable winged helmet on sale
+here. Nowhere else will you be able to get it
+so cheaply!
+'''
+
+[[dialogue]]
+event = 154
+page = 1
+command = 2
+original = '''
+\c[10]Händlerin\c[0]: Ich habe hier kostbaren Pfeffer im 
+Angebot. Interessiert?
+
+'''
+patched = '''
+\c[10]Trader\c[0]: I have some precious pepper on offer
+here. Interested?
+'''
+
+[[text]]
+event = 130
+page = 3
+command = 38
+has_portrait = true
+original = '''Ich nehme die Herausforderung an/Erzähl uns was über Waffen./Nein, jetzt noch nicht...'''
+patched = '''I accept your challenge./Tell us about weapons./No, not yet...'''
+
+[[text]]
+event = 130
+page = 3
+command = 39
+has_portrait = true
+original = '''Ich nehme die Herausforderung an'''
+patched = '''I accept your challenge.'''
+
+[[text]]
+event = 130
+page = 3
+command = 60
+original = '''Erzähl uns was über Waffen.'''
+patched = '''Tell us about weapons.'''
+
+[[text]]
+event = 130
+page = 3
+command = 154
+original = '''Nein, jetzt noch nicht...'''
+patched = '''No, not yet...'''

@@ -1,0 +1,121 @@
+[[dialogue]]
+event = 8
+page = 1
+command = 11
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Es sieht so aus, als haben 
+die Zwillingsseelen schließlich 
+einander berührt.
+'''
+patched = '''
+\c[10]?????\c[0]: It looks like the twin souls
+have finally touched each other.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 15
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Nun ist es nur noch eine 
+Frage der Zeit, bis er im Zenit des 
+Konflikts das Schicksal dieser Welt 
+wandeln wird.
+'''
+patched = '''
+\c[10]?????\c[0]: Now it's only a matter of time
+before he will save the world from
+its doom in the zenith of the
+conflict.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 23
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Ein unbeherrschtes Bündel 
+aus Wut wie dieses soll unsere Welt 
+ändern? 
+'''
+patched = '''
+\c[10]?????\c[0]: An uncontrollable bundle of
+anger like this is supposed to
+save our world?
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 31
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Vergiss bitte nicht, dass es 
+diese Wut ist, die ihn bis heute 
+unter uns weilen lässt.
+'''
+patched = '''
+\c[10]?????\c[0]: Please don't forget that it is
+this very anger that keeps him on the
+path to this day.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 34
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Jetzt wo er mit seinem 
+Problem konfrontiert wird, ist es an 
+ihm selbst, diese Hürde zu 
+überkommen. 
+'''
+patched = '''
+\c[10]?????\c[0]: Now that he has been faced
+with this problem, it is up to him
+alone to overcome this obstacle.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 43
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Möge der Segen Heimdalls bei 
+ihm sein.
+'''
+patched = '''
+\c[10]?????\c[0]: May Heimdall's blessings be
+with him.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 49
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Hoffentlich zerbricht er 
+nicht an der ganzen Sache... 
+'''
+patched = '''
+\c[10]?????\c[0]: Hopefully, he makes it through
+the whole ordeal...
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 59
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Halte durch...\. Kento...
+'''
+patched = '''
+\c[10]?????\c[0]: Hang in there...\. Kento...
+'''

@@ -1,0 +1,1853 @@
+[[dialogue]]
+event = 62
+page = 1
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wollen Sie die Grenze 
+überschreiten?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Do you want to cross the
+border?
+'''
+
+[[dialogue]]
+event = 62
+page = 1
+command = 7
+has_portrait = true
+original = '''
+\c[10]Soko\c[0]: Nein, dafür ist es heute zu 
+Spät.\. Für heute werden wir hier 
+bleiben.
+'''
+patched = '''
+\c[10]Soko\c[0]: No, it's too late for that
+today.\. We'll stay here for now.
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 49
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wollen Sie die Grenze 
+überschreiten?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Do you want to cross the
+border?
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 53
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja, wir sind auf einer Reise 
+nach Domarkor. 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yes, we're on a trip to
+Domarkor.
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 56
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wie lange wird der 
+Aufenthalt in Korzojeno in etwa andauern?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: How long will the stay in
+Korzojeno last?
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 60
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Wir werden 
+allerhöchstens zwei Wochen 
+benötigen.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: We'll need two weeks at
+most.
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 63
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Wir sind im Auftrag des 
+Regierung Brigantias unterwegs.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: We're traveling on behalf
+of the Brigantian government.
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 66
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Verstehe. Durchtritt 
+ist gestattet.\. Versuchen Sie bitte innerhalb der 
+nächsten zwei Wochen wieder zurück zukehren.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: I see. Passage is permitted.\.
+Please try to return within the next two weeks.
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 69
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Sollte dies nicht 
+klappen,\. senden Sie uns bitte eine Nachricht um 
+die Dauer des Aufenthaltes zu verlängern.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: If this doesn't work,\. please
+send us a message to extend the length of your
+stay.
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 72
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Sollten Sie die 
+Frist überschreiten ohne uns zu benachrichtigen, 
+haben die Streitkräfte Korzojenos das Recht Sie 
+bei Sichtung festzunehmen.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: If you exceed the deadline
+without notifying us, the Korzojeno Armed Forces
+have the right to arrest you on sight.
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 76
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Sie werden dann 
+zurück über die Grenze gebracht.\. Bei übermäßig 
+langer Überschreitung der Frist folgt eine 
+Gefängnis-Strafe von bis zu 3 Jahren.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: You will then be brought back
+across the border.\. If the time limit is exceeded
+for an excessively long period, the prison
+sentence could be up to three years.
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 82
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Alles klar.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Alright.
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 84
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Die Regelung ist aber 
+ziemlich streng, oder
+'''
+patched = '''
+\c[2]\n[2]\c[0]: The rules are pretty strict,
+huh...
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 87
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Ich habe die Pflicht 
+diese Regelungen jeder passierenden Person zu 
+nennen.\. Aber unter uns...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: It's my duty to name these
+regulations for every passing person.\.
+But between us...
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 90
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Sollten Sie die 
+Frist ein paar Tage überschreiten wird Sie keiner 
+dafür hart ran nehmen. 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: If you exceed the deadline by
+a few days, nobody will be hard on you for it.
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 93
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Gerade bei
+politischen Gesandten wird oft ein Auge 
+zugedrückt.\. Trotzdem, übertreiben Sie es nicht.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Especially with political
+envoys, people will often just look the other
+way.\. Still, don't overdo it.
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 97
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Öffnet das Tor!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Open the gate!
+'''
+
+[[dialogue]]
+event = 62
+page = 2
+command = 132
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Sie können passieren.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: You may pass.
+'''
+
+[[dialogue]]
+event = 62
+page = 3
+command = 3
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Sie können passieren.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: You may pass.
+'''
+
+[[dialogue]]
+event = 62
+page = 3
+command = 10
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wollen Sie die Grenze 
+überschreiten?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Do you want to cross the
+border?
+'''
+
+[[dialogue]]
+event = 62
+page = 3
+command = 18
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Öffnet das Tor!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Open the gate!
+'''
+
+[[dialogue]]
+event = 66
+page = 1
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wollen sie die Grenze 
+überschreiten?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Do you want to cross the
+border?
+'''
+
+[[dialogue]]
+event = 66
+page = 1
+command = 7
+has_portrait = true
+original = '''
+\c[10]Soko\c[0]: Nein, dafür ist es heute zu 
+Spät.\. Für heute werden wir hier 
+bleiben.
+'''
+patched = '''
+\c[10]Soko\c[0]: No, it's too late for that
+today.\. We'll stay here for now.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wir hatten hier an der 
+Grenze schon seit einigen Jahren keine großen 
+Konflikte mehr gehabt. 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: We hadn't had any major
+conflicts here on the border for several
+years now.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 5
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Ich hoffe wirklich, 
+dass es nicht so schlimm ist, wie ihr berichtet.\.
+Ein plötzlicher Großangriff wäre verheerend für 
+uns zu diesem Zeitpunkt...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: I really hope it isn't as bad
+as you report.\. A major attack all of a sudden
+would be devastating for us at this point...
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 12
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Was bringt es euch, die 
+Gefahr einfach weg zu wünschen?\.
+Dadurch wird es euch am Ende nur 
+noch härter treffen.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What good does it do for you
+to just wish this danger away?\. It'll
+only hit you harder in the end.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 17
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: ...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: ...
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 25
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Soso, ihr habt also 
+diese Gruppe bereits in Sinkholm festgenommen?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: So, you already arrested this
+group in Sinkholm before?
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 29
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Genauso ist es. Irgendwie 
+scheinen sie sich wieder befreit zu 
+haben, also passt auf, wenn ihr sie 
+zum Gefängnis bringt.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: The exact same one. They seem
+to have freed themselves somehow, so
+be careful if you take them to
+prison.
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 34
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wir haben hier häufig 
+genug Verbrecher und Erfahrung mit so etwas.\. Macht 
+euch also keine Sorgen!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: We often have enough
+experience with criminals and the like
+around here.\. So don't worry!
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 39
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: Hehe, ja das sagen sie alle, 
+bevor sie uns hatten...!
+'''
+patched = '''
+\c[10]Saion\c[0]: Hehe, yes they've all said
+that before they got us!
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 42
+has_portrait = true
+original = '''
+\c[10]Jorn\c[0]: Ich hoffe im Gefängnis haben 
+sie getrennte Zellen.
+'''
+patched = '''
+\c[10]Jorn\c[0]: I really hope they have
+separate cells in prison.
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 47
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: JORN!
+'''
+patched = '''
+\c[10]Saion\c[0]: JORN!
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 55
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: RUHE DA!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: SILENCE!
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 61
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Nun, auf Wiedersehen, 
+falls man sich wieder sehen sollte.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Well, goodbye unless we see
+each other again.
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 65
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Und eine entspannende Reise 
+wünsch ich.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: And I wish you a relaxing
+journey.
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 68
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Ein dumpfes Gefühl 
+sagt mir, dass wir die nicht haben werden.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: A grim feeling tells me that
+we won't have it.
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 88
+has_portrait = true
+original = '''
+\c[10]Jorn\c[0]: Und so wandern die Zinkar 
+Brüder zu ihrem prädestinierten 
+Wohnsitz hinter Gittern.
+'''
+patched = '''
+\c[10]Jorn\c[0]: And so the Zinkar Brothers
+began their journey to get behind
+the bars to their fated location.
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 92
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: Jorn!\. Soll ich mal versuchen 
+DICH mit meinem Dickschädel 6 Meter 
+in die Erde zu rammen?!
+'''
+patched = '''
+\c[10]Saion\c[0]: Jorn!\. Should I try to ram YOU
+six meters into the ground with your
+thick skull?!
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 96
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: RUHE IHR BEIDEN!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: SILENCE YOU TWO!
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 101
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hehehehe...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hehehehe...
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 104
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Solche Diebe sind mir beim 
+besten Willen noch nicht über den 
+Weg gelaufen... 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: I've never met such thieves
+with such a strong determination
+before...
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 108
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Die 3 waren diesmal eindeutig 
+hartnäckiger als das letzte Mal...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: The three were clearly more
+persistent than last time...
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 112
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Oh ja, sie müssen viel 
+trainiert haben...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Yeah, they must've trained
+a lot...
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 118
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Oh...\. und ich hab mich schon 
+gewundert, wo ihr doch erzählt habt, 
+dass die 3 so lächerlich wären.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Oh...\. And here I was wondering
+what you mean when you said that the
+three were so ridiculous.
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 121
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wie das wohl ausgegangen wäre, 
+wenn ich mich nicht mit eingemischt 
+hätte...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: How would it have ended if
+I hadn't intervened...
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 125
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 127
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Geht es dir schon besser, 
+Soko?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Are you feeling better now,
+Soko?
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 130
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ja...\. Oh je, ich sollte in 
+nächster Zeit lieber kein Bier 
+anfassen...\. Nicht während des 
+Auftrages...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Yes...\. Oh my, I shouldn't touch
+beer in the near future...\. Not during
+the order...
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 135
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: \s[2]Ganz schlechte Ein...\^
+'''
+patched = '''
+\c[2]\n[2]\c[0]: \s[2]Very bad idea yeah...\^
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 141
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Bevor das jetzt in die 
+altbekannte Diskussion über Hopfen 
+und Malz ausartet, will ich daran 
+erinnern, wie spät es ist.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Before this spirals down into
+that discussion about hops and malt,
+I want to remind you what time it is.
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 146
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten schnellstens ins 
+Bett gehen.\. Wir wollen morgen ja 
+schließlich nicht zu spät aufstehen, 
+oder?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We should go to bed as soon as
+possible. After all, we don't want to
+get up late tomorrow, do we?
+'''
+
+[[dialogue]]
+event = 72
+page = 1
+command = 155
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...\.Was schaut ihr mich so an?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: \.What are you looking at me
+like that for?
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 19
+original = '''
+\c[10]Korzojenischer Soldat\c[0]: Halt!\. Was machen sie hier 
+um die Uhrzeit?
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: Halt!\. What are you doing
+here at this time?
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 24
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wir müssen auf der Stelle mit 
+Soldaten des Briganten-Orden 
+sprechen, wir wollen passieren!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We have to talk to soldiers of
+the Brigantine Order immediately,
+we want to pass!
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 29
+original = '''
+\c[10]Korzojenischer Soldat\c[0]: N...\.Nicht so schnell... 
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: N...\. Not so fast...
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 35
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wir haben keine Zeit für so 
+etwas!\. Es ist dringend!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: We don't have time for that!\.
+It's urgent!
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 40
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sind von der Truppe die 
+bereits vor ein paar Tagen die 
+Grenze passiert hat.\. Erinnern Sie 
+sich nicht?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We're the group that crossed
+the border a few days ago.\. Remember
+us?
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 47
+original = '''
+\c[10]Korzojenischer Soldat\c[0]: Schon gut, schon gut, ihr 
+dürft passieren.
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: Alright, alright, you may
+pass.
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 101
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Ihr...?\. Was macht ihr 
+hier um die Uhrzeit?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: You three?\. What are you doing
+here at this time?
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 106
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Alarmieren Sie bitte sofort 
+die anderen Soldaten!\. Es ist ein 
+Notfall! 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Please alert the other soldiers
+immediately!\. It's an emergency!
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 110
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wieso?\. Was ist 
+passiert? 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Why?\. What happened?
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 115
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wir wurden im Silvanwald 
+angegriffen und gefangen genommen!\.
+Keine Räuberbande,\. Soldaten!\. Eine 
+organisierte Armee!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We were ambushed and captured
+in the Silvan Forest!\. Not a gang of
+robbers,\. but soldiers!\. An organized
+army!
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 120
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wir haben es gerade so 
+geschafft selber zu fliehen...\.
+aber...\. aber...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We barely managed to escape
+ourselves...\. but...\. but...
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 125
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir waren nicht in der Lage 
+Herrn Uroto zu befreien.\. Wir bitten 
+schnellstens um Unterstützung!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We were unable to free Mr.
+Uroto.\. We ask for your support as
+soon as possible!
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 130
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Eine organisierte 
+Armee...\. Soldaten...\. im Silvanwald?!\. Was zum...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: An organized army...\.
+Soldiers...\. in the Silvan Forest?!\. What the...
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 136
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Es IST so, verdammt!\. Wir sind 
+gerade durch den ganzen Silvan Wald 
+gerannt, um ihnen zu entkommen! 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: We're NOT kidding around this
+time dammit!\. We just ran through the
+entire Silvan Forest to escape them!
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 141
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Es sind viele...\. Genug um eine 
+Stadt wie diese einzunehmen,\. mit 
+Sicherheit...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: There are a lot...\. Enough to
+take a city like this,\. for sure...
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 147
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Ganz ruhig, ganz 
+ruhig.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Calm down, calm down.
+'''
+
+[[dialogue]]
+event = 72
+page = 4
+command = 157
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Eine Armee im 
+Silvanwald...\. Nein...\. Wer hätte gedacht, dass an 
+all den Gerüchten etwas wahr sein könnte.\. In 
+Ordnung, ich werde die Anderen wecken.\. Folgt mir.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: An army in the Silvan
+Forest...\. No...\. Who would've thought that
+all these rumors could end up being true.\.
+Alright, I'll wake the others up.\. Follow me.
+'''
+
+[[dialogue]]
+event = 72
+page = 5
+command = 8
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Auf zum Gasthof, wir brauchen 
+die Pause...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Off to the inn,
+we need a break...
+'''
+
+[[dialogue]]
+event = 72
+page = 7
+command = 4
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Gut, so passiert wenigstens 
+etwas. Ich sollte den anderen 
+bescheid sagen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Well, at least something
+happened. I should let the
+others know.)
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 31
+original = '''
+\c[10]Soldat des Briganten-Orden\c[0]: Da seid ihr ja 
+endlich.\. Ich hoffe ihr seid fit genug.\. Bei dem 
+Wetter wird die Sache sicher ziemlich anstrengend 
+werden.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: There you are at last.\. I hope
+you're prepared.\. With the weather, things are
+clearly going to be tough.
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 35
+original = '''
+\c[10]Soldat des Briganten-Orden\c[0]: Dafür hilft euch der 
+Regen bei der Tarnung. Ganz zum Nachteil ist es 
+also nicht.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: However, the rain will help
+you blend into the background. It's not at all
+that bad.
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 53
+original = '''
+\c[10]Soldat des Briganten-Orden\c[0]: Also um es noch mal 
+klar auszudrücken:\. Eure Aufgabe ist es, diese 2 
+Soldaten hier zum Stützpunkt dieser Gruppe zu 
+leiten.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: So to put it simply again,\.
+your job is to lead these two soldiers to the
+base of this group.
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 57
+original = '''
+\c[10]Soldat des Briganten-Orden\c[0]: Ihr werdet dann dort 
+eine Weile die Stellung halten und die Lage 
+beobachten, damit wir den Gegner besser 
+einschätzen können.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: You'll then hold your
+positions there for a while and observe
+the situation so that we can better
+assess the enemy.
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 61
+original = '''
+\c[10]Soldat des Briganten-Orden\c[0]: Achtet darauf, dass 
+ihr nicht entdeckt werdet.\. Sollte dies dennoch 
+passieren versucht so schnell wie möglich zur 
+Grenze zu fliehen.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Be careful not to be
+discovered.\. If this happens, try to run
+to the border as soon as possible.
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 68
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Danke, aber mit so einer 
+Situation haben wir mittlerweile 
+etwas Erfahrung.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Thanks, but we already have
+some experience with something
+like that.
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 74
+original = '''
+\c[10]Soldat des Briganten-Orden\c[0]: Wie auch immer...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Anyways...
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 75
+original = '''
+\c[10]Soldat des Briganten-Orden\c[0]: Gibt es noch 
+irgendwelche Sachen die geklärt...\.\.\^
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Is there anything else that
+needs clarification...\.\.\^
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 77
+original = '''
+\c[10]Korzojenischer Soldat\c[0]: Halt!\. Was machen Sie hier 
+um diese Uhrzeit!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: Halt!\. What are you doing
+here at this time!
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 96
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Herr Uroto!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Mr. Uroto!
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 98
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wie kommt der denn bitte hier 
+hin!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: How'd he get here!
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 116
+original = '''
+\c[10]Soldat des Briganten-Orden\c[0]: Moment!\. Ist das etwa 
+diese Person die von der Gruppe gefangen gehalten 
+werden sollte?\. Was geht hier vor?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Wait!\. Is this the person the
+group is tasked with protecting?\. What's going on
+here?
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 125
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Lassen Sie diese Person durch!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Let this person through!
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 131
+original = '''
+\c[10]Soldat des Briganten-Orden\c[0]: Öffnet das Tor!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Open the gate!
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 186
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Herr Uroto!\. Geht es Ihnen gut?\. 
+Was ist passiert?\. Was haben sie mit 
+Ihnen gemacht?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Mr. Uroto!\. Are you okay?\. What
+happened? What did they do to you?
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 202
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Wachen!\.
+Nehmen sie auf der Stelle, diese 
+drei Personen fest!
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: Guards!\. Arrest these three
+people immediately!
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 216
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: W...Was?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: W... What?
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 218
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wie bitte?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Excuse me?
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 222
+original = '''
+\c[10]Soldat des Briganten-Orden\c[0]: Ich verstehe nicht...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: I don't understand...
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 226
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Nehmen sie diese 3 
+Personen fest!\. Im Namen der 
+Regierung!\. Sie sind Spione unseres 
+Feindes!
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: Arrest these three people!\.
+On behalf of the government!\. They're
+spies for our enemy!
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 235
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[10]\n[2]\c[0]: ...Einen Moment!\. Wie kommen 
+Sie auf...\.\.\^
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Wait a minute!\. How did you
+come up with such...\.\.\^
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 240
+original = '''
+\c[10]Soldat des Briganten-Orden\c[0]: Männer,\. nehmt sie 
+fest!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Men,\. arrest them!
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 272
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Was geht hier vor?\. Wir sind 
+keine Spione,\. das ist totaler...\.\^
+'''
+patched = '''
+\c[1]\n[1]\c[0]: What's going on here?\.
+We aren't spies,\. this is total...\.\^
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 278
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Es hat keinen Sinn sich 
+rauszureden!\. Ich hab alles gehört, 
+was ich hören musste! 
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: There's no use trying to
+talk yourself out of this!\. I've
+heard everything I need to hear!
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 281
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Ich bin in Begleitung 
+mit diesen 3 Personen in den 
+Hinterhalt einer militärischen 
+Gruppe geraten.\. Im Silvanwald.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: I was ambushed by a
+military group with these three
+people.\. In the Silvan Forest.
+'''
+
+[[dialogue]]
+event = 72
+page = 10
+command = 286
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Daraufhin wurde ich 
+irgendwo in ihrem Stützpunkt 
+eingesperrt.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: I was then locked up
+somewhere in their base.
+'''
+
+[[dialogue]]
+event = 72
+page = 11
+command = 25
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Der Plan war, dass diese 
+3 Leute euch zu einer falschen 
+Gruppe leiten!
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: The plan was for these
+three people to lead you to the
+wrong group!
+'''
+
+[[dialogue]]
+event = 72
+page = 11
+command = 28
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Eine kleine, gestellte 
+Räubergruppe, zufälligerweise mit 
+militärischer Ausrüstung.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: A small, questionable
+group of robbers, accidentally
+with military equipment.
+'''
+
+[[dialogue]]
+event = 72
+page = 11
+command = 31
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Keine große Sache und 
+demnach kein Grund für Brigantia, 
+das Problem weiter zu untersuchen!
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: No big deal and therefore
+no reason for Brigantia to
+investigate any further!
+'''
+
+[[dialogue]]
+event = 72
+page = 11
+command = 34
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Das perfekte Alibi.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: The perfect alibi.
+'''
+
+[[dialogue]]
+event = 72
+page = 11
+command = 42
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Das ist totaler Schwachsinn!\.
+Wir sind von diesen Bastarden 
+geflohen!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: This is total bullshit!\.
+We escaped these bastards!
+'''
+
+[[dialogue]]
+event = 72
+page = 11
+command = 46
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wir sind durch den ganzen 
+Wald gerannt! Wir hätten sie 
+ebenfalls befreit, wenn es nicht so 
+knapp gewesen wäre!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: We ran through the entire damn
+forest! We would've also freed you if
+we weren't so cornered like that!
+'''
+
+[[dialogue]]
+event = 72
+page = 11
+command = 51
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ich...\. ich glaub das nicht!\.
+Das kann doch nicht Ihr ernst 
+sein, dass Sie so etwas glauben!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: I...\. I can't believe this!\. You
+can't be serious that you'd actually
+believe something like that!
+'''
+
+[[dialogue]]
+event = 72
+page = 11
+command = 57
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Geflohen sagt ihr?\. Das 
+ich nicht lache! 
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: You say you escaped?\.
+Don't make me laugh!
+'''
+
+[[dialogue]]
+event = 72
+page = 11
+command = 60
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Wie sollt ihr es bitte 
+geschafft haben, dicht eingesperrt 
+so wie ich es war, aus diesem 
+Stützpunkt zu fliehen?
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: How is it even possible to
+escape this place, being that you
+were supposedly locked up tight
+like I was?
+'''
+
+[[dialogue]]
+event = 72
+page = 11
+command = 67
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich wurde in keine richtige 
+Zelle eingesperrt!\. So hatte ich die 
+Möglichkeit zu fliehen und die 
+anderen zu befreien.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I wasn't locked in a real
+cell!\. So I had the opportunity
+to escape and free the others.
+'''
+
+[[dialogue]]
+event = 72
+page = 11
+command = 73
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Keine richtige Zelle?\.
+Und das sollen wir glauben?\. Was für 
+einen Sinn sollte das haben?!
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: Not locked in a real cell?\.
+And why should I believe that?\.
+What sense does that make?!
+'''
+
+[[dialogue]]
+event = 72
+page = 11
+command = 77
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 72
+page = 11
+command = 83
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wie sind Sie dann bitte davon 
+gekommen, Herr Uroto?\. Wie haben Sie 
+es geschafft zu fliehen?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Then how did YOU get away, Mr.
+Uroto?\. How did you manage to escape?
+'''
+
+[[dialogue]]
+event = 72
+page = 11
+command = 91
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Das ist eine Sache, an 
+die ich mich nicht richtig erinnern 
+kann...
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: That's the one thing
+I can't really remember...
+'''
+
+[[dialogue]]
+event = 72
+page = 12
+command = 25
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Ich weiß nicht was 
+passiert ist, irgendjemand muss die 
+Gruppe angegriffen und mich 
+befreit haben...
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: I don't know what
+happened, someone must've
+attacked the group and
+freed me...
+'''
+
+[[dialogue]]
+event = 72
+page = 12
+command = 29
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Aber das ist jetzt
+nebensächlich!\. Wichtig ist, dass wir 
+diesen Plan durchkreuzen!
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: But that's beside the
+point now!\. It's important that
+we thwart this plan!
+'''
+
+[[dialogue]]
+event = 72
+page = 12
+command = 32
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Ich hoffe sie haben 
+genug gehört!\. Nehmen sie sofort 
+diese Leute gefangen!
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: I hope you've heard
+enough!\. Imprison these people
+immediately!
+'''
+
+[[dialogue]]
+event = 72
+page = 12
+command = 40
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: D...\.Das kann doch nicht sein!\.
+Das ist alles eine Verschwörung!!\. 
+Was soll das?!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Th...\. This can't be happening!\.
+This is all a conspiracy against us!!\.
+What's all this supposed to mean?!
+'''
+
+[[dialogue]]
+event = 72
+page = 12
+command = 44
+original = '''
+\c[10]Soldat des Briganten-Orden\c[0]: Tut mir Leid.\. Dem Wort 
+eines Abgesandten der Regierung ist zu folgen.\. Da 
+gibt es für uns keine Kompromisse.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Sorry,\. but the word of a
+government official is absolute.\. There are
+no compromises for us.
+'''
+
+[[dialogue]]
+event = 72
+page = 12
+command = 63
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Nein...\. NEIN...\. Ich glaub das 
+nicht!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: No...\. NO...\. I don't believe
+what I'm seeing!
+'''
+
+[[dialogue]]
+event = 72
+page = 12
+command = 66
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 72
+page = 12
+command = 127
+has_portrait = true
+character = '''Felcis'''
+original = '''
+(\c[5]\n[5]\c[0]: Und damit sitzt der 
+Sohnemann im Kittchen.\. Hoffentlich 
+sei der Vater damit vorerst 
+zufrieden gestellt.)
+'''
+patched = '''
+(\c[5]\n[5]\c[0]: And just like that, the son
+is captured once more.\. Hopefully,
+this'll be enough to keep the
+father's anger at bay for now.)
+'''
+
+[[dialogue]]
+event = 77
+page = 1
+command = 3
+original = '''
+\c[10]Korzojenischer Soldat\c[0]: Sie können passieren.
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: You may pass.
+'''
+
+[[dialogue]]
+event = 77
+page = 1
+command = 10
+original = '''
+\c[10]Korzojenischer Soldat\c[0]: Wollen sie die Grenze 
+passieren?
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: Do you want to cross the
+border?
+'''
+
+[[dialogue]]
+event = 77
+page = 1
+command = 18
+original = '''
+\c[10]Korzojenischer Soldat\c[0]: Öffnet das Tor!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: Open the gate!
+'''
+
+[[text]]
+event = 62
+page = 3
+command = 14
+has_portrait = true
+original = '''Ja/Nein'''
+patched = '''Yes/No'''
+
+[[text]]
+event = 62
+page = 3
+command = 15
+has_portrait = true
+original = '''Ja'''
+patched = '''Yes'''
+
+[[text]]
+event = 62
+page = 3
+command = 52
+original = '''Nein'''
+patched = '''No'''
+
+[[text]]
+event = 77
+page = 1
+command = 14
+has_portrait = true
+original = '''Ja/Nein'''
+patched = '''Yes/No'''
+
+[[text]]
+event = 77
+page = 1
+command = 15
+has_portrait = true
+original = '''Ja'''
+patched = '''Yes'''
+
+[[text]]
+event = 77
+page = 1
+command = 53
+original = '''Nein'''
+patched = '''No'''

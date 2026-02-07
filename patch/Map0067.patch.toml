@@ -1,0 +1,205 @@
+[[dialogue]]
+event = 9
+page = 1
+command = 18
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Ich sollte mir wirklich 
+abgewöhnen, so lange zu schlafen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: I should really get used to
+practically hibernating like that...)
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 30
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Meine Güte, bin ich hungrig.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Gosh, I'm hungry.)
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 32
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Bei dem ganzen Theater 
+gestern hab ich meinen leeren Magen 
+ganz vergessen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: In the whole drama yesterday,
+I completely forgot about my empty
+stomach.)
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 36
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Dann mal auf zur Kantine.\. 
+Vielleicht hält sich Cibon dort ja 
+auch auf.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Let's go to the canteen.\.
+Maybe Cibon is there too.)
+'''
+
+[[dialogue]]
+event = 9
+page = 3
+command = 9
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Okay, gehen wir dann? 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Okay, are we going then?
+'''
+
+[[dialogue]]
+event = 9
+page = 3
+command = 11
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten uns noch 
+Heilmittel und bessere Ausrüstung 
+kaufen, bevor wir die Stadt 
+verlassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We should buy supplies
+and better equipment before we
+leave Nomerea.
+'''
+
+[[dialogue]]
+event = 9
+page = 3
+command = 16
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wir könnten uns auch noch 
+etwas auf dem Handelsmarkt 
+umsehen.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: We could also have a look
+around the traders' market.
+'''
+
+[[dialogue]]
+event = 9
+page = 3
+command = 20
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sollten uns sowieso noch 
+einmal gut die Stadt anschauen und 
+uns verabschieden.\. Wir werden 
+immerhin eine lange Zeit weg sein.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We should take a good look at
+the city anyway and say goodbye.\. We'll
+be away for a long time after all.
+'''
+
+[[dialogue]]
+event = 9
+page = 3
+command = 25
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Genauso ist es.\. 
+Also dann mal los!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: The city is exactly
+the same.\. So let's go!
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 11
+original = '''
+
+Dies ist ein \c[11]Speicherpunkt\c[0].
+'''
+patched = '''
+
+This is a \c[11]save point\c[0].
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 13
+original = '''
+
+Wenn man auf solch einen steht, kann man \c[11]den
+Spielstand speichern\c[0].
+'''
+patched = '''
+
+When you stand on one of these, you can
+\c[11]save the game\c[0].
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 16
+original = '''
+
+Öffne dazu das \c[11]Menu\c[0] mit \c[11]Esc\c[0] und wähle
+dann \c[11]Speichern\c[0].
+'''
+patched = '''
+
+To do this, open the \c[11]menu\c[0] using \c[11]Esc\c[0] and
+then select \c[11]Save\c[0].
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 19
+original = '''
+
+Auf der \c[11]Weltkarte\c[0] kann man übigens
+immer speichern.
+'''
+patched = '''
+
+Additionally, you can always save on
+the \c[11]world map\c[0].
+'''
+
+[[text]]
+event = 15
+page = 1
+command = 4
+original = '''Burg Nomerea'''
+patched = '''Nomerea Castle'''

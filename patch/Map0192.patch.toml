@@ -1,0 +1,250 @@
+[[dialogue]]
+event = 19
+page = 3
+command = 6
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich sollte besser hier unten 
+bleiben, oben dürften mehr 
+Patrouillen sein.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I better stay down here, there
+could be more guards up ahead.
+'''
+
+[[dialogue]]
+event = 20
+page = 3
+command = 6
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich sollte besser hier unten 
+bleiben, oben dürften mehr 
+Patrouillen sein.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I better stay down here, there
+could be more guards up ahead.
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 12
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Was ist hier los?\. Wieso 
+rennen hier so viele Soldaten rum, 
+um die Uhrzeit?
+'''
+patched = '''
+\c[10]?????\c[0]: What's going on here?\. Why are
+so many soldiers running around here
+at the same time?
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 16
+original = '''
+\c[10]Soldat\c[0]: Ein Gefangener ist geflohen, er befindet 
+sich wahrscheinlich irgendwo außerhalb,\. aber man 
+kann nie wissen.
+'''
+patched = '''
+\c[10]Soldier\c[0]: A prisoner has escaped and he's probably
+outside somewhere,\. but you never know.
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 19
+original = '''
+\c[10]Soldat\c[0]: Pass lieber auf, dass er dir nicht über 
+den Weg läuft.\. Auch wenn er nicht bewaffnet ist...
+'''
+patched = '''
+\c[10]Soldier\c[0]: Careful that he doesn't run into you.\.
+Even if he isn't armed...
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 29
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Oh...\. Danke für die 
+Warnung...
+'''
+patched = '''
+\c[10]?????\c[0]: Oh...\. Thanks for the
+warning...
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 38
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Verdammt,\. ich sollte 
+besser nicht alleine im Flur 
+rumstehen...!
+'''
+patched = '''
+\c[10]?????\c[0]: Damn,\. I better not be standing
+alone in a hallway!
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 50
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Na bitte.\. So eine Person hab 
+ich gesucht.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: There we go!\. I was looking
+for someone like you.)
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 53
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Jetzt muss ich sie nur noch 
+irgendwo alleine treffen...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Now I just need to find him
+somewhere alone...)
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 60
+original = '''
+
+Info: Von jetzt an bewegst du dich in 
+\c[11]nicht sicheren Räumen\c[0]! 
+'''
+patched = '''
+
+Info: From now on you're moving into \c[11]unsafe
+rooms\c[0]!
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 63
+original = '''
+
+Jeder der patrouillierenden Soldaten besitzt einen 
+\c[11]Sichtkegel\c[0].
+'''
+patched = '''
+
+Each of the patrolling soldiers has a \c[11]cone of
+vision\c[0].
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 66
+original = '''
+
+Sollte Kento im Sichtkegel eines Soldaten stehen 
+und \c[11]kein Objekte die Sicht versperren\c[0]...
+'''
+patched = '''
+
+If Kento is in the sight of a soldier and \c[11]no
+objects are blocking the view\c[0]...
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 69
+original = '''
+
+...so wird Kento entdeckt und es kommt zum \c[11]Kampf\c[0].
+'''
+patched = '''
+
+...that's how Kento is discovered and a \c[11]battle
+begins\c[0].
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 71
+original = '''
+
+Natürlichen können die Soldaten 
+\c[11]nicht durch Wände sehen\c[0].
+'''
+patched = '''
+
+Of course, the soldiers \c[11]can't see through walls\c[0].
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 74
+original = '''
+
+Sofern sich Kento \c[11]duckt\c[0], wird er auch \c[11]nicht direkt 
+hinter Fässern, Schränken und Tischen\c[c] entdeckt.
+'''
+patched = '''
+
+As long as Kento is \c[11]crouching\c[0], he won't be
+\c[11]discovered behind barrels, cupboards, and tables\c[0].
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 77
+original = '''
+
+Zum \c[11]Ducken drücke die 
+Entertaste und halte sie gedrückt\c[0].
+'''
+patched = '''
+
+To crouch, \c[11]press and hold the enter key\c[0].
+'''
+
+[[dialogue]]
+event = 41
+page = 2
+command = 80
+original = '''
+
+\c[11]Achtung\c[0]: Nicht alle Objekte sind zum verstecken 
+geeignet! Dazu gehören z.B. \c[11]Stühle und Rüstungen\c[0].
+'''
+patched = '''
+
+\c[11]Attention\c[0]: Not all objects are suitable to hide
+behind! These include \c[11]chairs and armor stands\c[0].
+'''

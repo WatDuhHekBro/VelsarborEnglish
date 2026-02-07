@@ -1,0 +1,86 @@
+[[dialogue]]
+event = 10
+page = 1
+command = 11
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Oh!\. Ihr seid tatsächlich bis 
+hierhin vorgedrungen!\. Reife Leistung!\. Dafür habt 
+ihr euch einen Minen-Orden verdient.
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: Oh!\. You actually got this far!\.
+Good job!\. You earned a medallion for this.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 25
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Ihr guckt so verdutzt.\. Wenn 
+ihr mehr über uns und die Minen-Orden 
+erfahren wollt, besucht einfach unseren 
+Stützpunkt.
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: You look so confused.\. If you
+want to learn more about us and the miner
+medallions, just visit our base.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 29
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Dieser befindet sich im 
+mittleren Bereich der Mine.\. Fahrt beim nächsten 
+Mal mit der Lore einfach rechts und dann 
+geradeaus.
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: It's located at the center of
+the mine.\. Next time on the railways, just go
+right and then straight.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 35
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Glück auf!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: Good luck!
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 42
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Hier gibt es jede Menge Erz. \.
+Ist genug für uns beide da!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: There's a lot of ore here.\.
+Enough for both of us!
+'''
+
+[[dialogue]]
+event = 26
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''

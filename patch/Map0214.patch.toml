@@ -1,0 +1,16 @@
+[[dialogue]]
+event = 63
+page = 1
+command = 9
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir müssen so schnell wie 
+möglich nach Gencorin,\. zur Grenze!\.
+Dort sind wir sicher!\.\.\^
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We have to get to the border
+at Gencorin as soon as possible!\.
+We'll be safe there!\.\.\^
+'''

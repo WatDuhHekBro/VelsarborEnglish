@@ -1,0 +1,1239 @@
+[[dialogue]]
+event = 2
+page = 1
+command = 18
+original = '''
+\c[10]Wächter\c[0]: Was wollt ihr wieder zurückgehen?\.
+Ab zur Mine, aber flott!
+'''
+patched = '''
+\c[10]Guard\c[0]: Where do you think you're going?\.
+Off to the mine, and quickly!
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Der Ausgang ist weiter unten. Weiter 
+Rechts habt ihr jetzt nichts zu suchen.
+'''
+patched = '''
+\c[10]Guard\c[0]: The exit is up ahead. Right now, you have
+no business here.
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 18
+original = '''
+\c[10]Wächter\c[0]: Was wollt ihr wieder zurückgehen?\.
+Ab zur Mine, aber flott!
+'''
+patched = '''
+\c[10]Guard\c[0]: Where do you think you're going?\.
+Off to the mine, and quickly!
+'''
+
+[[dialogue]]
+event = 5
+page = 1
+command = 18
+original = '''
+\c[10]Wächter\c[0]: Was wollt ihr wieder zurückgehen?\.
+Ab zur Mine, aber flott!
+'''
+patched = '''
+\c[10]Guard\c[0]: Where do you think you're going?\.
+Off to the mine, and quickly!
+'''
+
+[[dialogue]]
+event = 86
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: ...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: ...
+'''
+
+[[dialogue]]
+event = 87
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]:...Was ist?
+'''
+patched = '''
+\c[10]Prisoner\c[0]: What is it?!
+'''
+
+[[dialogue]]
+event = 88
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: Geht mir aus dem Weg.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Get out of my way.
+'''
+
+[[dialogue]]
+event = 89
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: Du has' die Wachen gehört, oder?\. 
+Wir soll'n zur Mine.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: You heard the guards, right?\.
+We should go to the mine.
+'''
+
+[[dialogue]]
+event = 90
+page = 3
+command = 6
+original = '''
+\c[10]Gefangene\c[0]: Was sprichst du mich an?\. Geh mir aus 
+dem Weg.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: What are you talking to me for?\.
+Get out of my way.
+'''
+
+[[dialogue]]
+event = 91
+page = 3
+command = 6
+original = '''
+\c[10]Gefangene\c[0]: Ihr seht hier ziemlich neu aus.\.
+In dem Fall merkt euch folgendes:\.
+kein \.- gerede \.- am \.- morgen!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: You look pretty new here.\. In that case,
+remember this.\. No\. talking\. in\. the\. morning!
+'''
+
+[[dialogue]]
+event = 92
+page = 3
+command = 5
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Der...\. Der Typ schläft noch!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Th...\. The guy's still sleeping!
+'''
+
+[[dialogue]]
+event = 92
+page = 3
+command = 7
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Und er findet dennoch den 
+richtigen Weg...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: And he somehow always finds
+a way...
+'''
+
+[[dialogue]]
+event = 93
+page = 3
+command = 6
+original = '''
+\c[10]Gefangene\c[0]: Geht mir aus dem Weg.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Get out of my way.
+'''
+
+[[dialogue]]
+event = 94
+page = 3
+command = 6
+original = '''
+\c[10]Nicht ganz eingelebter Gefangener\c[0]: Nicht schon 
+wieder...\. Minenarbeit...\. Ich hasse es...
+'''
+patched = '''
+\c[10]New Prisoner\c[0]: Not again...\. mining...\.
+I hate it...
+'''
+
+[[dialogue]]
+event = 95
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: Hach!\. Was für ein herrlicher Morgen, 
+oder?\. ...\. Verzieh dich.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Ah!\. Such a beautiful morning, isn't it?\.\.
+Get lost.
+'''
+
+[[dialogue]]
+event = 96
+page = 3
+command = 6
+original = '''
+\c[10]Alter Gefangener\c[0]: ...Oh...\. Mein Kreuz...
+'''
+patched = '''
+\c[10]Old Prisoner\c[0]: Oh...\. my back...
+'''
+
+[[dialogue]]
+event = 97
+page = 3
+command = 6
+original = '''
+\c[10]Gefangene\c[0]: Nicht jetzt!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Not now!
+'''
+
+[[dialogue]]
+event = 98
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener:\c[0] ...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: ...
+'''
+
+[[dialogue]]
+event = 117
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Was steht ihr hier noch rum?\. Los! \.Runter 
+und ab zur Mine!
+'''
+patched = '''
+\c[10]Guard\c[0]: What are you guys doing around here?\.
+Come on!\. Get down to the mine!
+'''
+
+[[dialogue]]
+event = 118
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Runter mit euch! Kein Rumgetrödel!
+'''
+patched = '''
+\c[10]Guard\c[0]: Get yourselves down there!\. No lounging
+around!
+'''
+
+[[dialogue]]
+event = 118
+page = 2
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Geht nach oben und dann nach rechts, um 
+zur Kantine zu kommen.
+'''
+patched = '''
+\c[10]Guard\c[0]: Go up and then take a right to get to the
+cafe.
+'''
+
+[[dialogue]]
+event = 119
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Gähn...\. Wieso muss das ganze immer so 
+früh sein...\. Ehm...\. Oh!\. Ihr da!\. Weiter gehen!
+'''
+patched = '''
+\c[10]Guard\c[0]: *yawn*\. Why does it always have to be so
+early...\. Um...\. Oh!\. You there!\. Get moving!
+'''
+
+[[dialogue]]
+event = 119
+page = 2
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Ihr wollt zur Kantine, stimmt's?\.
+Geht den Gang nach oben und biegt dann nach rechts 
+ab.
+'''
+patched = '''
+\c[10]Guard\c[0]: You want to go to the cafe, right?\.
+Go to where the stairs are and then turn right.
+'''
+
+[[dialogue]]
+event = 124
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Zur Kantine geht es erst NACH der 
+Arbeit!
+'''
+patched = '''
+\c[10]Guard\c[0]: The cafe is for AFTER work only!
+'''
+
+[[dialogue]]
+event = 125
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Hier geht's nicht durch.
+'''
+patched = '''
+\c[10]Guard\c[0]: You're not getting past me!
+'''
+
+[[dialogue]]
+event = 126
+page = 1
+command = 21
+original = '''
+\c[10]Wächter\c[0]: Hier geht es jetzt noch nicht durch!\.
+Zurück mit euch!
+'''
+patched = '''
+\c[10]Guard\c[0]: You can't go through here yet!\. Back off!
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 37
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ah, schaut euch mal diese 
+Schlange an!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh, look at this line!
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 44
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Offensichtlich geht es hier 
+zum Essen.\. Dann stellen wir uns mal 
+an.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Obviously, it's the cafe they
+were talking about.\. So let's line up.
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 59
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich verhungere...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I'm starving...
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 61
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ich hoffe nur die Portionen 
+sind nicht zu klein...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I just hope the portions aren't
+too small...
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 64
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Du solltest besser nicht 
+zuviel erwarten...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: I don't think there'll be
+much to eat...
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 93
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm...\. diese Wände sind 
+merkwürdig.\. Seht ihr auch dieses 
+Leuchten?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hm...\. These walls are strange.\.
+Are you two seeing this glow too?
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 102
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Stimmt...\. da ist doch 
+etwas...\. Sag bloß, die Wände sind 
+verzaubert?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: You're right...\. That's
+something...\. Just say the
+walls are enchanted?
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 130
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ja, die Wände von diesem 
+Gefängnis sind mit einem magischen 
+Schutzwall versehen, soweit ich 
+weiß.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Yeah, the walls of this prison
+have a wall protected against magic
+from what I can tell.
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 135
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Im Prinzip negiert dieser 
+Schutzwall jegliche Signum-Wirkung 
+an den Wänden. 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Basically, this wall's barrier
+negates any Signum effect on it.
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 139
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Das heißt, Signum kann diese 
+Wände nicht zu Bruch bringen.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Meaning that Signum spells can't
+break these walls.
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 145
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Oh Mann, wo zur Hölle sind 
+wir hier bloß gelandet?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh man, how the hell did we end
+up here of all places?
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 164
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Das Gefängnis von Helnovien 
+ist dafür bekannt, dass es äußerst 
+wenig erfolgreiche Fluchtfälle 
+verzeichnet hat.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: The Helnovien Prison is
+notorious for having very few
+successful escape attempts.
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 169
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Genau der richtige Ort für 
+Verräter des Landes...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Exactly the kind of place where
+traitors of the country would be
+sent...
+'''
+
+[[dialogue]]
+event = 142
+page = 4
+command = 50
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Entschuldigt mich mal kurz, 
+ich muss da oben eine Kleinigkeit 
+erledigen.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Excuse me, I have something
+that I need to attend to.
+'''
+
+[[dialogue]]
+event = 142
+page = 4
+command = 58
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Was ist denn jetzt schon 
+wieder?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: What happened this time?
+'''
+
+[[dialogue]]
+event = 142
+page = 4
+command = 61
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Egal, das Essen wartet!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Whatever, there's food to be
+eaten!
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 20
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Oh!\. Da seid ihr ja.\. Endlich 
+treffe ich euch wieder.
+'''
+patched = '''
+\c[10]Royko\c[0]: Oh!\. There you are.\. We finally
+meet again.
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 35
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ehm, hallo?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Oh, hello?
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 40
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Ich bin Royko!\. Der Typ 
+von der Brücke.\. Vom Torasgebirge.
+'''
+patched = '''
+\c[10]Royko\c[0]: I'm Royko!\. The guy from the
+bridge.\. At Mount Toras.
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 44
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Royko...\. Ach so, genau!\. Ich 
+erinnere mich.\. Und du bist jetzt 
+hier im Gefängnis?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Royko...\. Oh, right!\. I remember
+you.\. And you've now arrived at the
+prison?
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 48
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Ja, wie ich euch erzählt 
+habe... \.Aber...\. Wie seid ihr bitte 
+hier gelandet?\. Was habt ihr 
+angestellt?
+'''
+patched = '''
+\c[10]Royko\c[0]: Yep, just like I said...\. But...\.
+How did you end up here?\. What did you
+do?
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 55
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wir sind hier zu unrecht 
+eingesperrt!\. Man hält uns für 
+Landesverräter, aber wir sind keine!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We were wrongly locked up here!\.
+We're thought to be these traitors,
+but we aren't!
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 59
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Diese Spionage-Geschichte 
+habe ich bereits gehört.\. Ich konnte 
+mir auch nicht vorstellen, dass ihr 
+so etwas machen würdet...
+'''
+patched = '''
+\c[10]Royko\c[0]: I've already heard that
+espionage story.\. I also couldn't
+imagine that you'd do anything
+like this...
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 68
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hey, wärst du vielleicht in 
+der Lage, uns irgendwie hier raus zu 
+hohlen? 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hey, would you be able to
+somehow get us out of here?
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 76
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Ich euch hier?\. ...\. Nein, tut 
+mir Leid. \.Aus Helnovien zu fliehen 
+ist ziemlich unmöglich...
+'''
+patched = '''
+\c[10]Royko\c[0]: Get you out of here?\. No, I'm
+sorry.\. Escaping Helnovien is pretty
+much impossible...
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 79
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Da kann ich als einzelne 
+Wache auch nichts dran ändern.
+'''
+patched = '''
+\c[10]Royko\c[0]: And as just one guard, there's
+nothing I can do about it.
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 82
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es muss ja nicht gleich 
+fliehen sein.\. Könntest du nicht ein 
+gutes Wort für uns einlegen, damit 
+man uns wieder freilässt?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We don't have to escape right
+away.\. Couldn't you leave us with a
+positive referral to be released?
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 88
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Freilassen?\. Hier in 
+Helnovien?\. Die lassen in der Regel 
+keine Leute frei hier...
+'''
+patched = '''
+\c[10]Royko\c[0]: Released?\. Here in Helnovien?\.
+They usually don't free people here...
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 99
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wie bitte?!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Excuse me?!
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 101
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Dass heißt, solange noch 
+Platz im Gefängnis ist oder sie 
+nicht strikt von der Regierung dazu 
+beordert werden...
+'''
+patched = '''
+\c[10]Royko\c[0]: Meaning, for as long as there's
+still room in this prison or they
+aren't strictly ordered to be
+released by the government...
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 106
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Ich als einsame Wache kann da 
+leider nichts dran ändern...\. Erst 
+recht nicht bei der Führung, die wir 
+im Moment haben...
+'''
+patched = '''
+\c[10]Royko\c[0]: As just one guard, there's
+nothing I can do about it...\.
+Especially not with our current
+leadership at the moment...
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 113
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Oh,\. wer ist das denn im Moment?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Oh,\. who is that?
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 118
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: ...\. Wer ist was?
+'''
+patched = '''
+\c[10]Royko\c[0]: Who is what?
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 120
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...\. Die Führung...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...\.The leadership...
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 122
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Ach so,\. das ist Sir Dolaros.\. 
+Der ist noch nicht all zu lange 
+hier, aber wir alle wissen bereits, 
+wie starrköpfig er ist.
+'''
+patched = '''
+\c[10]Royko\c[0]: Oh,\. that'd be Sir Dolaros.\. He
+hasn't been here for long, but we all
+already know how stubborn he is.
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 126
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Ihn mit Worten umzustimmen 
+ist meistens ein Ding der 
+Unmöglichkeit...
+'''
+patched = '''
+\c[10]Royko\c[0]: Changing his mind on anything
+is near impossible...
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 130
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ist das so eine stämmige 
+Person, mit kurzen, blonden Haaren?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Is that the bulky guy with
+short, blonde hair?
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 133
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Ja, genau so...
+'''
+patched = '''
+\c[10]Royko\c[0]: Yeah, that's him...
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 144
+original = '''
+\c[10]Wächter\c[0]: Hey, du da drüben!\. Was redest du mit den 
+Gefangenen?\. Geh zurück an deinen Posten!
+'''
+patched = '''
+\c[10]Guard\c[0]: Hey, you over there!\. What are you doing
+talking to the prisoners?\. Get back to your post!
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 149
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Z...\. Zu Befehl!
+'''
+patched = '''
+\c[10]Royko\c[0]: At...\. At your command!
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 157
+has_portrait = true
+original = '''
+\c[10]Royko\c[0]: Tut mir Leid, ich muss 
+weiter.
+'''
+patched = '''
+\c[10]Royko\c[0]: I'm sorry, I have to get going.
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 172
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Bis dann, Kollege...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Until then, my friend...
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 179
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ...\. Das sind ja wirklich 
+herrliche Aussichten hier...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Just our luck to end up here of
+all places...
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 182
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Womit haben wir all das 
+verdient...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: How can we deserve all this...
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 189
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: So wie es aussieht, werden 
+wir hier von der Führung des 
+Gefängnisses höchstpersönlich 
+verhört. 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: And it looks like we're being
+interrogated here personally by the
+leader of the prison himself.
+'''
+
+[[dialogue]]
+event = 142
+page = 8
+command = 194
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ziemlich merkwürdig 
+eigentlich, dass das kein 
+Untergeordneter macht.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Quite strange if you think
+about it actually, that it isn't
+a subordinate who does that.
+'''
+
+[[dialogue]]
+event = 145
+page = 1
+command = 11
+original = '''
+
+Dies ist ein \c[11]Speicherpunkt\c[0].
+'''
+patched = '''
+
+This is a \c[11]save point\c[0].
+'''
+
+[[dialogue]]
+event = 145
+page = 1
+command = 13
+original = '''
+
+Wenn man auf solch einen steht, kann man \c[11]den
+Spielstand speichern\c[0].
+'''
+patched = '''
+
+When you stand on one of these, you can
+\c[11]save the game\c[0].
+'''
+
+[[dialogue]]
+event = 145
+page = 1
+command = 16
+original = '''
+
+Öffne dazu das \c[11]Menu\c[0] mit \c[11]Esc\c[0] und wähle
+dann \c[11]Speichern\c[0].
+'''
+patched = '''
+
+To do this, open the \c[11]menu\c[0] using \c[11]Esc\c[0] and
+then select \c[11]Save\c[0].
+'''
+
+[[dialogue]]
+event = 145
+page = 1
+command = 19
+original = '''
+
+Auf der \c[11]Weltkarte\c[0] kann man übigens
+immer speichern.
+'''
+patched = '''
+
+Additionally, you can always save on
+the \c[11]world map\c[0].
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 25
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: So wie es aussieht, haben 
+wir alles zusammen.\. Das heißt, wir 
+können loslegen, sobald ihr bereit 
+dazu seid.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: It looks like we have
+everything together.\. That means
+we can get started as soon as
+you're ready.
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 30
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Wir müssen das Ganze nicht 
+gleich heute durchziehen, aber zu 
+lange warten dürfen wir auch nicht.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: We don't have to do it today,
+but we can't wait too long either.
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 34
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Ich werde ab heute jeden 
+Feierabend hier in der Kantine 
+rumhängen.\. Sagt mir Bescheid, wenn 
+ihr soweit seid.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: I'll hang out around here in
+the cafe every evening after work.\.
+Let me know when you're ready.
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 42
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Eine Frage noch, Felcis.\. Wir 
+sind jetzt in der Lage die Barriere 
+zu brechen, aber was ist mit dem 
+Rest?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: One more question, Felcis.\. Now
+that we're able to break the barrier,
+what about the rest?
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 47
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Nur weil die Barriere 
+gebrochen ist, heißt das nicht, dass 
+wird gemütlich rausspazieren können.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Just because the barrier is
+broken, doesn't mean that we can
+just walk out carelessly.
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 51
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Da hast du vollkommen Recht. 
+Allerdings habe ich bereits einen 
+Plan, wie wir die Wächter ablenken 
+können.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: You're absolutely right.
+However, I already have a plan
+for how to distract the guards.
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 56
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Ich werde euch darin 
+einweisen, wenn wir die Operation 
+starten.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: I'll tell you about it when we
+start the operation.
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 60
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Sprecht mich dann in der 
+Kantine an, wenn ihr soweit seid.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Talk to me in the cafe when
+you're ready.
+'''
+
+[[dialogue]]
+event = 156
+page = 1
+command = 74
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Dieser Felcis hat wirklich 
+seine Art uns immer im letzt 
+möglichen Moment aufzuklären...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: This Felcis guy really has
+a way of enlightening us only at
+the last possible moment...
+'''
+
+[[text]]
+event = 145
+page = 1
+command = 4
+original = '''HelnovZellen'''
+patched = '''Helnov Cells'''

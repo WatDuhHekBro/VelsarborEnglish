@@ -1,0 +1,2305 @@
+[[dialogue]]
+event = 3
+page = 2
+command = 3
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Was haben Sie hier zu 
+suchen?\. Sie haben einen Auftrag und 
+sollten keine Zeit verschwenden.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: What are you doing here?\.
+You have an order and shouldn't
+waste time.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 16
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Öhm...\. Guten Tag, Sir.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Um...\. Good afternoon, sir.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 22
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Kento Daikon und 
+Cibon Tirunel.\. Ich grüße Sie.\.
+Ich hätte Ihre Rückkehr ein paar 
+Tage früher eingeschätzt...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Kento Daikon and Cibon
+Tirunel.\. Welcome back.\. I would've
+estimated your return a few days
+earlier...
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 26
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Berichten Sie bitte von 
+Ihrem Auftrag in Sinkholm.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Please report on your
+assignment in Sinkholm.\.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 30
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Nun gut...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Alright...
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 35
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir kamen ungefähr 4 
+Stunden nach Abreise in Sinkholm 
+an.\. Wir hatten kleinere Probleme 
+mit feindlichen Begegnungen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We arrived in Sinkholm about
+four hours after departure.\. We had
+few problems with enemy encounters
+along the way.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 40
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Nachdem wir in Sinkholm 
+den Bürgermeister über unsere 
+Ankunft und Aufgabe informiert 
+hatten, ...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: After we informed the mayor of
+our arrival and task in Sinkholm...
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 44
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...bekamen wir die Aufgabe, 
+am Stadttor von Sinkholm Wache zu 
+halten. 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...we were given the task of
+keeping watch at the city gate of
+Sinkholm.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 53
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Nachdem die Räuberbande
+gefasst wurde,\. schickte man eine 
+Nachricht nach Nomerea, um einen 
+Trupp Soldaten vorbeizuschicken,...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: After the gang of robbers was
+caught, a message was sent to Nomerea
+to send a group of soldiers over...
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 57
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...der die Räuberbande ins 
+nächste Gefängnis bringen sollte.
+Die Ankunft des Trupps geschah 
+innerhalb weniger Stunden.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...who should be taking the
+gang of robbers to the next prison
+as we speak. The troop's arrival
+happened within a few hours.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 62
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Da wir zu diesem Zeitpunkt 
+bereits einen ganzen Tag keinen 
+Schlaf mehr hatten, gönnten wir uns 
+noch eine Übernachtung im Inn.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Since we hadn't had a full
+day's sleep at the time, we treated
+ourselves to an overnight stay at
+the inn.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 66
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Am Tag darauf traten wir 
+zur Rückkehr an.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: The next day we started to
+return.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 69
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Feindliche Begegnungen auf 
+dem Rückweg haben\s[12]...\s[0] uns weniger 
+Probleme bereitet als auf dem 
+Hinweg.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hostile encounters on the way
+back\s[12]...\s[0] caused us less problems
+than on the way there.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 75
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ... Das war alles.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: That's all.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 80
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Also war die Ursache für
+Ihre lange Abwesenheit das späte 
+Auftauchen der Räuberbande?\.\. 
+Nun gut.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: So the reason for your
+long absence was the late
+appearance of the gang of robbers?\.\.
+Well then.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 84
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Sie haben gute Arbeit 
+geleistet,\. fürs erste. 
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: You two did a good job,\.
+at least for now.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 86
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Ich denke Sie sind nun 
+soweit, in die Lehren des Signums 
+eingeführt zu werden.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: I think you are now
+ready to be introduced to the
+teachings of the Signum.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 90
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Sauber! ...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Sweet!
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 92
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ähh...\. ich meine\. 
+'In Ordnung' ...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Uh...\. I mean\. 'okay'...
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 95
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: ...\. Wie dem auch sei.\.
+Als erstes werden Sie ihre 
+Elementkugeln bekommen.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Moving on.\. The first
+thing you will get is your elemental
+orbs.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 125
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Diese Kugeln dürfen Sie
+weder verschenken,\. noch verkaufen,\.
+noch tauschen.\. Sie sind Eigentum 
+des Briganten-Ordens.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: You may not give away,\.
+sell,\. or exchange these orbs.\. They
+are property of the Brigantine
+Order.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 129
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Sehen Sie es also nicht
+als geschenkt, sondern als geliehen. 
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: So don't see it as a
+gift, but as a loan.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 131
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Nun...\. Die Kugeln
+ermöglichen es Ihnen, verschiedene
+Signum-Techniken zu erlernen.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: So...\. The orbs allow
+you to learn different Signum
+techniques.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 134
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Ich erkläre Ihnen jetzt
+wie man sie genau verwendet und 
+erläutere die genaue Wirkung...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: I will now explain
+exactly how to use them and
+explain the exact effect...
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 137
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Es sei denn Sie haben
+sich schon vorher über Element-
+Kugeln informiert und besitzen 
+bereits das nötige Wissen dazu.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Unless you have
+previously informed yourself
+about elemental orbs and already
+have the necessary knowledge.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 141
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Ist dem so?
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Is that so?
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 144
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: So, dann hören Sie jetzt
+gut zu.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: So listen carefully now.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 189
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Oh, wer hätte das 
+gedacht.\. Ich habe Sie von ihrer 
+Arbeitshaltung  wohl doch 
+unterschätzt.\. Nun gut...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Oh, who would've
+thought.\. I must have underestimated
+your attitude towards your duties.\.
+Well then...
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 13
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Dies war nur das 
+Grundwissen über den Umgang mit 
+Element-Kugeln. 
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: This was just the basic
+knowledge of dealing with elemental
+orbs.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 16
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Ansonsten gibt es 
+noch einen Nebeneffekt beim 
+Koppeln dieser Kugeln. Die 
+Wenigsten wissen darüber...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: However, there's a side
+effect of coupling these orbs. Few
+people know about it...
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 24
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Es gibt übrigens noch 
+einen Nebeneffekt beim Koppeln 
+dieser Kugeln. Wissen Sie schon 
+davon?
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: There is also a side
+effect of coupling these orbs. Do
+you already know about it?
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 29
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Öhm... nein?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Well... no?
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 33
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Na ja. Das erkläre ich 
+Ihnen ein anderes Mal.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Well, I'll explain that
+to you another time.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 39
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Nun denn.\. Sie dürfen 
+abtreten, aber bleiben Sie die 
+nächsten Tage bitte hier in Nomerea.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: In any case,\. you two
+are dismissed, but please stay here
+in Nomerea for the next few days.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 42
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Es sieht so aus, als ob 
+Sie schon bald einen neuen Auftrag 
+erhalten werden.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: It looks like you'll
+soon get a new assignment.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 46
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Schon wieder was Neues?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Something new this time?
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 48
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wird es schon wieder so 
+etwas Stinklangweiliges, wie dieser 
+Job als Wachposten?\. Äh...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Is it gonna be boring again
+like that guard assignment?\. Uh...
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 55
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Herr Tirunel und seine 
+Ausdrucksweise...\. Ich muss gestehen 
+- das hab ich die letzten 5 Tage 
+doch ein bisschen vermisst.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Mr. Tirunel and his way
+of expressing things...\. I have to
+confess - I've missed that for the
+last five days.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 59
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Zu Ihrer Frage: Diese 
+Aufgabe wäre weitaus fordernder  
+als die letzte.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: About your question:
+This task will be far more
+demanding than the last one.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 62
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Genaueres dazu steht 
+noch nicht fest.\. Jedenfalls sehe ich 
+Sie als geeignet für diesen Auftrag.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: More details have not
+yet been decided.\. In any case, I see
+you two as suitable for this task.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 66
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wirklich?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Really?
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 68
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Ich würde Ihnen gerne 
+noch mehr dazu sagen, doch habe ich 
+jetzt leider keine Zeit mehr.\. Eine 
+wichtige Besprechung erwartet mich.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: I'd like to tell you
+more about it, but unfortunately I
+don't have any time right now.\. I have
+an important meeting to attend to.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 73
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Was ist denn nun mit dem 
+Neben-Effekt beim Koppeln der 
+Element-Kugeln, den Sie erwähnt 
+haben?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: What about the side effect
+when coupling these elemental orbs
+that you mentioned earlier?
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 77
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich würde sehr gerne wissen, 
+was es damit auf sich hat.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I'd very much like to know
+what this is about.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 81
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Kumpel, sag nicht, dass du
+die ganze Zeit über nichts Anderes 
+nachgedacht hast!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Don't tell me you didn't think
+about anything else this whole time!
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 86
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Wenn es so dringend ist, 
+sprechen Sie doch mit unserer neuen 
+Signum-Expertin Ileya.\. Sie ist im 
+Besprechungsraum gegenüber.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: If it's so urgent, talk
+to our new Signum expert Ileya.\.
+She is across the hall.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 90
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Ich verabschiede mich 
+dann.\. Ich denke morgen werden wir 
+uns wieder hier treffen.\. Ich werde Sie 
+informieren, wenn es soweit ist.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: It's time for me to go.\.
+I think tomorrow, we'll meet here
+again.\. I will inform you when the
+time comes.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 94
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Schönen Tag noch!
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Have a nice day!
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 108
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Haste das gehört?\.
+Anscheinend hält der alte Vorento ja 
+doch etwas von uns.\. ...\. Was das 
+wohl für ein Auftrag sein wird...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Did you hear that?\. Apparently,
+the old man thinks something of us.\.\.
+What an adventure that'll be...
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 113
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Was meinste, Kumpel?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What do you think?
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 118
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: \s[4]Hm... was könnte das bloß 
+für ein Nebeneffekt sein? Ich habe 
+noch nie davon gehört... Ob es etwas
+Positives oder Negatives ist?)\.\^
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: \s[4]Hm... What could that side
+effect be? I've never heard of it...
+Is it something positive or
+negative?)\.\^
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 126
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: KENTO!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: KENTO!
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 128
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ÖH.. was?\. Äh... lass uns 
+schnell diese Ileya aufsuchen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Huh... What?\. Uh... Let's go
+find this Ileya person quickly.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 131
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Du denkst immer noch an 
+diesen Nebeneffekt? Na gut! Dann 
+suchen wir halt Frau Signum-Expertin.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Are you still thinking about
+this side effect? Alright! Then
+let's look for Ms. Signum expert.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 135
+has_portrait = true
+character = '''Cibon'''
+original = '''
+(\c[2]\n[2]\c[0]: Bin mal gespannt was für'n
+alter Bücherwurm das wieder sein 
+wird)
+'''
+patched = '''
+(\c[2]\n[2]\c[0]: Gee, I wonder what an old
+bookworm we'll be meeting again.)
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 17
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Ah, da sind Sie ja 
+endlich.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Ah, there you are at
+last.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 20
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Guten Tag, Sir.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Good afternoon, sir.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 22
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Weswegen haben Sie nach uns 
+rufen lassen?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Why did you call us here?
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 26
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Es geht um den Auftrag, 
+den ich schon gestern erwähnt habe.\.
+Sie werden ihn übernehmen.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: It's about the
+assignment that I mentioned
+yesterday.\. You will take on
+the mission.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 30
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Klasse!\. ...\.
+Was müssen wir tun?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Great!\. ...\. What do we have
+to do?
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 33
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Nun\., Sie werden 
+einer Eskorte beitreten, deren 
+Aufgabe es ist, eine Person auf dem 
+Weg nach Korzojeno zu beschützen.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Well,\. you'll be joining
+a soldier whose job it is to protect
+a person on the way to Korzojeno.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 37
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Bei der zu 
+beschützende Person handelt es sich  
+um einen Botschafter der Regierung 
+Brigantias.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: The person you'll be
+protecting is an ambassador from
+the Brigantine government.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 42
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Die Eskorte ist bereits 
+von Buronia abgereist.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: The soldier has already
+left Buronia.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 44
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: In dem Gasthof vor dem 
+Torasgebirge werden sie der Eskorte 
+beitreten und den Botschafter bis 
+zum Zielort begleiten.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: In the inn near Mount
+Toras, you will join the soldier
+and accompany the ambassador to
+the destination.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 48
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Der Zielort ist 
+Domarkor, die Hauptstadt 
+Korzojenos.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: The destination is
+Domarkor, the capital of Korzojeno.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 52
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: In Domarkor wird der 
+Botschafter an wichtigen 
+Besprechungen teilzunehmen haben.\.
+Sie werden solange warten müssen.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: In Domarkor, the
+ambassador will have to take part
+in important meetings.\. You will
+have to wait long hours.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 56
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Auf dem Rückweg 
+werden Sie dann ebenfalls als 
+Eskorte dienen.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: On the way back, you
+will also protect this person.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 64
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Die Sicherheit des 
+Botschafters hat \s[6]äußerste Priorität\s[0],
+also beschützen Sie ihn mit ihrem 
+Leben, wenn notwendig.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: The ambassador's
+security is a \s[6]top priority\s[0], so
+protect him with your life if
+necessary.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 70
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Oha...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh...
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 72
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Soweit zum Inhalt des 
+Auftrages.\.
+Gibt es irgendwelche Fragen?
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: As for the content of
+the order,\. are there any questions?
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 79
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wie lang' wird dieser Auftrag 
+ungefähr dauern?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: How long is this task
+gonna take?
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 82
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Das hängt davon ab, wie 
+schnell die Reise voran geht, also 
+ganz von Ihnen. 
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: It depends on how fast
+the journey is going, so it's
+entirely up to you.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 85
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Wenn wir aber nicht 
+innerhalb von drei Wochen eine 
+Benachrichtigung aus Domarkor 
+bekommen, ...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: If we don't get a
+notification from Domarkor
+within three weeks...
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 89
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: ...werden wir einen 
+weiteren Trupp nachschicken, um zu 
+überprüfen, was geschehen ist.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: ...we'll send another
+group to check what happened.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 92
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Nun, die gesamte Dauer 
+des Auftrages würde ich auf 
+mindestens 3 Wochen abschätzen.\.
+Es wird also eine lange Reise.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Well, I would estimate
+the total duration of the assignment
+to be at least three weeks.\. So it'll
+be a long journey.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 98
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Mindestens 3 Wochen? \....\. Wie 
+sieht es dann mit Reisevorräten aus?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: At least three weeks?
+What about travel supplies then?
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 101
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Die Eskorte, der Sie im 
+Gasthof beitreten werden, wird die 
+nötigen Vorräte dabei haben.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: The soldier you will be
+joining at the inn will have the
+necessary supplies with them.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 108
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Eine Sache finde ich 
+merkwürdig...\. Wieso müssen 
+Soldaten aus Nomerea einer Eskorte 
+von Buronia beitreten?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: One thing I find strange...\.
+Why do soldiers from Nomerea have
+to join a soldier from Buronia?
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 112
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Warum machen nicht 
+ausschließlich Soldaten aus Buronia 
+diese Arbeit?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Why don't soldiers from
+Buronia just do this job?
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 120
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Wie Sie wissen hat 
+Brigantia zwei Kasernen, in denen 
+der größte Teil aller Soldaten des 
+Briganten-Ordens rekrutiert werden
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: As you know, Brigantia
+has two barracks in which the
+majority of all soldiers in the
+Brigantine Order are recruited to.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 124
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Die Kaserne in Nomerea 
+und in Buronia.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: The barracks in Nomerea
+and Buronia.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 126
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Dabei sind hauptsächlich 
+die Soldaten aus Nomerea für 
+militärische Missionen im Osten 
+zuständig.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Nomerea's soldiers are
+mainly responsible for military
+missions in the east.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 130
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Soldaten Buronias sind 
+nur für die Bewachung des Landes und 
+für Missionen im Süden zuständig.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Buronia's soldiers are
+only responsible for guarding the
+country and for missions in
+the south.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 133
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Leichte Missionen,
+wie Ihre letzte, stellen eine 
+Ausnahme dar, da Sie nur zur Übung
+da sind.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Small missions, like
+your last one, are an exception
+because you are only there
+to practice.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 137
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Gilt es, eine Eskorte für 
+eine Reise von Buronia Richtung 
+Osten zu bilden, wurde das immer 
+auf diese Art geregelt.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: When it comes to
+escorting someone from Buronia
+to the east, it was always done
+this way.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 142
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Verstehe...\. Wie groß ist dann 
+die Eskorte, die wir im Gasthof 
+antreffen werden?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I see...\. How big is the
+group we'll find in the inn?
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 146
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Sie besteht aus 3 
+Soldaten, wobei 2 Soldaten vom 
+Treffpunkt aus wieder den Rückweg 
+nach Buronia angehen werden.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: It consists of three
+soldiers, with two soldiers going
+back to Buronia after the you
+join forces with them.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 150
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Ein Soldat ist dafür 
+zuständig, nach der Rückkehr in 
+Buronia von dem gesamten Auftrag zu 
+berichten.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: One soldier is
+responsible for reporting the
+entire assignment after
+returning to Buronia.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 158
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: So, jetzt aber mal zur 
+wichtigsten Frage:\.
+Wann geht's los?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: So now for the most important
+question:\. When does it start?
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 162
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Die Eskorte dürfte noch 
+heute im Gasthof ankommen.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: The soldier should still
+arrive at the inn today.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 166
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Was?!\. Gleich heute?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What?!\. Today already?
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 168
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Ja, Sie sollten sich 
+sobald wie möglich auf den Weg 
+machen.\. Treffen Sie am besten gleich
+alle Vorbereitungen.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Yes, you should get
+going as soon as possible. It's
+best to make all the preparations
+immediately.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 173
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Das kommt aber alles 
+ziemlich plötzlich.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: This is all pretty sudden.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 176
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Wir haben derzeit leider 
+keine Zeit für Debatten.\. Also, gibt 
+es noch irgendwelche Fragen?
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Unfortunately, we don't
+have time for debates at the moment.\.
+So, are there any questions left?
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 183
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Gut, Sie dürfen abtreten.\.
+Gehen Sie sobald wie möglich zum 
+besagten Gasthof, um die Eskorte zu 
+treffen.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: In any case, you're
+dismissed.\. Go to the said inn as
+soon as possible to meet
+the soldier.
+'''
+
+[[dialogue]]
+event = 5
+page = 5
+command = 188
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Jawohl, Sir.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yes, sir.
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 18
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Sir Vorento?\. Ich hab gehört, 
+dass Sie Cibon Tirunel und Kento 
+Daikon als Eskorte für die Reise des 
+Ratmitgliedes gewählt haben...
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Sir Vorento?\. I heard you chose
+Cibon Tirunel and Kento Daikon to
+escort the council member's trip...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 23
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Ja, dem ist so...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Yes, that's right...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 25
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Meinen Sie nicht, dass es den 
+beiden noch etwas an Erfahrung 
+fehlt, um ihnen so einen Auftrag zu 
+geben?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Don't you think the two of
+them still lack enough experience
+for you to give them a job like
+that?
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 30
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: ...\. Vielleicht...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Maybe...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 32
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Wie bitte?!
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Excuse me?!
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 34
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Vielleicht könnte es 
+etwas gefährlich für die beiden sein, 
+aber ich bezweifle, dass Sie es nicht 
+schaffen werden.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Maybe it'd be a little
+dangerous for them, but I'm sure
+they'll make it.
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 38
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Herr Tirunel und Herr 
+Daikon gehören zu den Besten der
+Neulinge hier.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Mr. Tirunel and Mr.
+Daikon are among the best of
+the newcomers here.
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 41
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Sie werden der Aufgabe 
+schon gewachsen sein...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: They'll be up to the
+task...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 44
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Ja, aber wieso haben Sie 
+ausgerechnet diese beiden 
+losgeschickt? 
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Yeah, but why did you send off
+these two of all people?
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 47
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Wir haben hier genug andere 
+Soldaten, die mehr Erfahrung haben 
+und eher für diesen Auftrag geeignet 
+sind...
+'''
+patched = '''
+\c[6]\n[6]\c[0]: We have enough other soldiers
+here who have more experience and
+are more suitable for this
+assignment...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 56
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Es gibt doch sicher einen 
+speziellen Grund dafür, oder?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Surely there's a special
+reason for this, isn't there?
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 61
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: So was in der Art...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Something like that...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 64
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Es ist aus militärischer 
+Sicht sicherlich kein Grund,\. es ist 
+was Persönliches...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: From a military point of
+view,\. it's certainly not a reason,\.
+it's something personal...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 67
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Sie wissen, was gegen 
+Ende des Krieges gegen Korzojeno 
+geschehen ist, oder? 
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: You know what happened
+with Korzojeno towards the end of
+the war, don't you?
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 71
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Was meinen Sie genau?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: What do you mean exactly?
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 74
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Der letzte verheerende 
+Schlag Korzojenos...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Korzojeno's last
+devastating blow...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 77
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Das türkise Inferno...\.
+Sie meinen Septoccasus?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: The turquoise inferno...\. you
+mean Septoccasus?
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 81
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Bis zu diesem Zeitpunkt 
+hatte Brigantia alle Schlachten gegen 
+Korzojeno gewonnen.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: By that time, Brigantia
+had won all the battles against
+Korzojeno.
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 85
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Der Gegner war bereits 
+am Ende,\. hoffte aber mit dieser 
+Attacke noch mal das Blatt wenden 
+zu können...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: The war was already
+over,\. but they hoped to turn the
+tide of war with this attack...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 89
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Man weiß nicht genau, 
+wie man diesen "Zauber" zustande 
+bekam. Man ist sich nicht mal sicher, 
+ob es eine Signum-Technik war...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: We don't know exactly
+how they got this "magic". We're
+not even sure if it was a
+Signum technique...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 93
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Einige vermuten ein 7. 
+Element hinter dieser Technik, aber 
+einen eindeutigen Beweiß gibt es 
+dafür nicht.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Some suspect a 7th
+element behind this technique,
+but there's no clear evidence
+for that.
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 97
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Jedenfalls gelang 
+Korzojeno diese Katastrophe....
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Anyways, Korzojeno
+succeeded in this catastrophe...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 99
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: ...genau zu dem 
+Zeitpunkt, als die letzten großen 
+Reserven der Streitkräfte von 
+Korzojeno und Brigantia...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: ...at the very moment
+when the last large reserves of
+the Korzojenish and Brigantian
+armed forces...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 103
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: ... im Corine-Wald ihre 
+letzte große Schlacht ausgetragen 
+haben...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: ...fought their last
+great battle in the Corine Forest...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 113
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]:\s[5] Dieser Zauber war 
+Septoccasus,\. das türkise Inferno...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]:\s[5] This magic was
+Septoccasus,\. the turquoise
+inferno...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 117
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]:\s[5] Er hat nicht nur 
+tausende brigantische,\. sondern auch 
+korzojenische Soldaten getötet.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]:\s[5] Not only were thousands
+of Brigantian soldiers killed by it,\.
+but thousands of Korzojenish
+soldiers as well.
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 121
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]:\s[5] Nein...\. sie wurden nicht 
+nur getötet...\. Sie wurden komplett 
+vernichtet.\. Nichts als Staub blieb 
+von ihnen übrig...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]:\s[5] No...\. They weren't just
+killed...\. They were completely
+disintegrated.\. Nothing but
+dust was left of them...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 126
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]:\s[5] Die gesamte Vegetation 
+im Corine-Wald wurde vernichtet...\.
+Heute ist dieser Wald nur noch eine 
+weite Wiesenlandschaft...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]:\s[5] All the vegetation in
+the Corine Forest is gone now...\.
+Today, this former forest is only
+a wide meadow landscape...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 131
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Zu diesem Zeitpunkt 
+haben wir viele, wichtige Männer 
+verloren...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: At that point, we lost
+a lot of important men...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 136
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Genyu Daikon...
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Genyu Daikon...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 138
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Unter anderem, ja...\.
+Ich habe Kento und Cibon diesen 
+Auftrag gegeben, damit sie das 
+Corine-Plateau durchqueren.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Among other things,
+yes...\. I gave Kento and Cibon this
+task for them to cross the Corine
+Plateau.
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 142
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Sie sollen die Gräber 
+ihrer Väter sehen...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: They should see their
+father's graves...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 145
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Wie bitte..?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: Excuse me?
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 148
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Sie beide verloren ihre 
+Väter im Krieg, an diesem Ort.\. Vor 
+allem für Kento muss es sehr 
+schmerzvoll gewesen sein...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: They both lost their
+fathers in the war in this place.\.
+It must've been very painful,
+especially for Kento...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 153
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Aber Kento...\. Er hasst seinen 
+Vater...\. wussten Sie das nicht?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: But Kento...\. He hates his
+father...\. Don't you know?
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 156
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Doch natürlich...\. Der 
+Hass entstand wohl aus der Trauer...\.
+Im Gegensatz zu Cibon, hatte Kento 
+eine Berühmtheit als Vater...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Of course...\. The hatred
+arose out of grief...\. Unlike Cibon,
+Kento was famous because of his
+father...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 160
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Die Leute reden 
+dauernd von ihm und erinnern 
+Kento jedes Mal aufs neue an den 
+Verlust seines Vaters...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: People keep talking
+about him and reminding Kento of
+the loss of his father every time...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 164
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Ich weiß nicht, ob das 
+wirklich der Grund ist,\. wieso Kento 
+seinen Nachnamen verflucht...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: I don't know if that's
+really why Kento curses his last
+name...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 167
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Aber ich weiß,\. dass er 
+früher seinen Vater geliebt hat...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: But I do know that he
+used to love his father...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 171
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Ich finde es traurig,\. 
+dass er im Moment so zu seinem Vater 
+steht...\. Genyu hat das nicht verdient, 
+er war ein guter Mann...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: I find it sad the way he
+currently is with his father...\. Genyu
+didn't deserve this, he was a great
+man...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 175
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Ich hoffe dass Kento 
+seine Einstellung ändert, wenn er 
+den Ort sieht, wo sein Vater 
+gestorben ist...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: I hope Kento changes his
+mind when he sees the place where his
+father died...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 179
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Wenn er vor Augen 
+bekommt,\. wie sein Vater gestorben 
+ist...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: When he sees how his
+father died...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 186
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Das ist es also...\. Meinen 
+Sie diese Sache ist das Risiko wert, 
+dass Sie zwei unerfahrene Soldaten 
+auf so eine Mission schicken?
+'''
+patched = '''
+\c[6]\n[6]\c[0]: So that's it...\. Do you think
+this is worth the risk of sending
+two inexperienced soldiers on a
+mission like this?
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 192
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Das Risiko ist vielleicht 
+weitaus geringer als Sie glauben, 
+Frau Reisato.\. Ich kenne die beiden 
+wirklich sehr gut...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: The risk may be far less
+than you think,\. Ms. Reisato.\. I know
+them very well...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 197
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Wie Sie meinen, Sir...\.
+Ich werde dann wieder gehen.
+'''
+patched = '''
+\c[6]\n[6]\c[0]: As you say, sir...\. I'll be
+going then.
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 205
+has_portrait = true
+original = '''
+\c[10]Sir Vorento\c[0]: Frau Reisato?\. Es wäre 
+mir lieb, wenn Sie die Sache für sich 
+behalten würden,\. in Ordnung?
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Ms. Reisato?\. I'd like
+you to keep this to yourself,\.
+alright?
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 210
+has_portrait = true
+character = '''Ileya'''
+original = '''
+\c[6]\n[6]\c[0]: Ich werde schweigen wie ein 
+Grab...
+'''
+patched = '''
+\c[6]\n[6]\c[0]: I'll keep my mouth shut
+then...
+'''
+
+[[dialogue]]
+event = 5
+page = 7
+command = 219
+has_portrait = true
+original = '''
+(\c[10]Sir Vorento\c[0]: Kento...\. Hoffentlich 
+wirst du mir die Antwort bringen...)
+'''
+patched = '''
+(\c[10]Sir Vorento\c[0]: Kento...\. Hopefully
+you'll start to understand what
+I'm saying...)
+'''
+
+[[text]]
+event = 5
+page = 2
+command = 142
+has_portrait = true
+original = '''Nein, erklären Sie es bitte. /Ja, ich weiß bereits Bescheid.'''
+patched = '''No, please explain./Yes, I already know.'''
+
+[[text]]
+event = 5
+page = 2
+command = 143
+has_portrait = true
+original = '''Nein, erklären Sie es bitte. '''
+patched = '''No, please explain.'''
+
+[[text]]
+event = 5
+page = 2
+command = 187
+original = '''Ja, ich weiß bereits Bescheid.'''
+patched = '''Yes, I already know.'''

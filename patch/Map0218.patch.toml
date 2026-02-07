@@ -1,0 +1,45 @@
+[[dialogue]]
+event = 35
+page = 1
+command = 3
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ...\.Kumpel, wir sollten jetzt
+echt schnellstens über die Grenze!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hey, we should be crossing the
+border quickly now!
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 6
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Glaubst du wirklich,
+dass sie uns hier drinnen nicht als 
+erstes suchen würden?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Do you seriously think they
+wouldn't think to look for us in
+here?
+'''
+
+[[dialogue]]
+event = 35
+page = 1
+command = 10
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Das war doch nur so eine
+Idee...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It was just an idea...
+'''

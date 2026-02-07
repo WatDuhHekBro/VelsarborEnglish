@@ -1,0 +1,516 @@
+[[dialogue]]
+event = 25
+page = 2
+command = 48
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: War da eben was?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: What was that?
+'''
+
+[[dialogue]]
+event = 25
+page = 2
+command = 51
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Was meinst du, Kumpel?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What do you mean?
+'''
+
+[[dialogue]]
+event = 25
+page = 2
+command = 58
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Irgendetwas ist hier 
+merkwürdig...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Something's off here...
+'''
+
+[[dialogue]]
+event = 25
+page = 2
+command = 67
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es ist so...\. still...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It's so...\. quiet...
+'''
+
+[[dialogue]]
+event = 25
+page = 2
+command = 73
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: \s[2]Stimmt eigent...\^
+'''
+patched = '''
+\c[2]\n[2]\c[0]: \s[2]You're right...\^
+'''
+
+[[dialogue]]
+event = 25
+page = 2
+command = 86
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: DA Kommt etwas!!\. 
+LAUFT!\.\^
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Something's coming!!\. RUN!\.\^
+'''
+
+[[dialogue]]
+event = 25
+page = 2
+command = 109
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Was...\. Was zum....\^
+'''
+patched = '''
+\c[1]\n[1]\c[0]: What...\. What just...\^
+'''
+
+[[dialogue]]
+event = 25
+page = 2
+command = 113
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ein Hinterhalt!\.\^
+'''
+patched = '''
+\c[13]\n[3]\c[0]: An ambush!\.\^
+'''
+
+[[dialogue]]
+event = 25
+page = 2
+command = 151
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wer seid ihr Typen?!\. 
+Was wollt ihr?!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Who are you people?!\.
+What do you want from us?!
+'''
+
+[[dialogue]]
+event = 25
+page = 2
+command = 154
+original = '''
+\c[10]Soldat\c[0]: Haltet sie in Schach!
+'''
+patched = '''
+\c[10]Soldier\c[0]: Keep them at bay!
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 39
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Es... es ist zwecklos...
+Diese Mission... ist gescheitert.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: It...\. It's useless...\.\.
+This mission...\. has failed.
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 43
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ver...\. Verdammter Mist!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: D...\. Damn it all!
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 45
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wieso...\. wieso dieser 
+Angriff...\. Wieso so viele...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Why...\. Why this attack...\.
+Why so many...
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 53
+has_portrait = true
+original = '''
+(\c[10]Herr Uroto\c[0]: N...\. Nein!\. Was in aller 
+Welt hat das hier zu bedeuten?!\.
+Es kann doch nicht sein...\. Kommen 
+wir bereits zu spät?!)
+'''
+patched = '''
+(\c[10]Mr. Uroto\c[0]: N...\. No!\. What in the
+world does this mean?!\. It can't be...\.
+Are we already too late to stop it?!)
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 178
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Ich...\. ich bin raus 
+gekommen...\. Ich stehe!\. Wie..)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: I...\. I got out of there...\.
+I'm alive!\. How...)
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 188
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Cibon!\. Soko!\. Herr Uroto!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Cibon!\. Soko!\. Mr. Uroto!
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 195
+has_portrait = true
+original = '''
+\c[4]?????\c[0]: Hehehe,\. überraschend gute 
+Leistung,\. ich bin stolz auf dich. 
+'''
+patched = '''
+\c[4]?????\c[0]: Hehehe,\. surprisingly good
+performance,\. I'm proud of you.
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 203
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Diese Stimme...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: This voice...)
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 209
+has_portrait = true
+original = '''
+\c[4]?????\c[0]:\s[2] Du scheinst dich hervorragend 
+zu machen, aber ich hätte auch 
+nichts Anderes erwartet. \.\^
+'''
+patched = '''
+\c[4]?????\c[0]:\s[2] You seem to be doing great,
+but I wouldn't have expected
+anything less of you.\.\^
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 235
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]:\s[2] Wahrhaftig!\.
+Das ist mein Sohn!\.
+Das ist mein Kento!\.\^
+'''
+patched = '''
+\c[4]\n[4]\c[0]:\s[2] Truly!\.
+This is my son!\.
+This is my Kento!\.\^
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 285
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Entschuldige diese raue 
+Begrüßung,\. aber die Umstände 
+erlauben es nicht anders.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Pardon me for this harsh
+greeting,\. but the circumstances
+don't allow it otherwise.
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 289
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Mach dir keine Sorgen um 
+deine Kameraden,\. sie sind nur 
+bewusstlos.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Don't worry about your friends,\.
+they've only been knocked out.
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 298
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]:\s[2] Männer?\. Ich werde mich um ihn 
+kümmern!
+'''
+patched = '''
+\c[4]\n[4]\c[0]:\s[2] Men?\. I'll take care of him!
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 301
+original = '''
+\c[10]Soldaten\c[0]:\s[2] Jawohl Sir!
+'''
+patched = '''
+\c[10]Soldiers\c[0]:\s[2] Yes sir!
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 321
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]:\s[2] Mal sehen zu was du so alles 
+fähig bist!\. Kümmere dich nicht um 
+die Fragen, die wirst du schon 
+beantwortet bekommen.
+'''
+patched = '''
+\c[4]\n[4]\c[0]:\s[2] Don't worry about your
+questions, you'll soon get answers.\.
+I've been waiting to see what
+you're capable of!
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 325
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]:\s[2] Für diesen Moment. \.
+Kämpfe\. oder Falle.
+'''
+patched = '''
+\c[4]\n[4]\c[0]:\s[2] For this moment.\.
+Fight or perish!
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 334
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]:\s[2] Du...
+'''
+patched = '''
+\c[1]\n[1]\c[0]:\s[2] You...
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 344
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wieso bist du hier?!\. Du...\. DU 
+GEHÖRST HIER NICHT HIN!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Why are you here?!\.
+You...\. YOU DON'T BELONG HERE!
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 352
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]:\s[2] Wir haben keine Zeit zum 
+reden, Kento.\. Wehr dich oder ich 
+mache kurzen Prozess.
+'''
+patched = '''
+\c[4]\n[4]\c[0]:\s[2] We don't have time to talk,
+Kento.\. Defend yourself or I'll
+make quick work of you.
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 363
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: DU SOLLTEST TOT SEIN!!\. 
+ZERSCHMETTERT!\. VERGESSEN!\. 
+UND NUN LEBST DU DOCH?!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: YOU SHOULD BE DEAD!!\.
+FORGOTTEN!\. LEFT TO ROT!\.
+AND NOW YOU DARE TO LIVE?!
+'''
+
+[[dialogue]]
+event = 25
+page = 4
+command = 380
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ICH WERDE DAS RICHTIG 
+STELLEN!\. DU WIRST MEINE LANZE ZU 
+SPÜREN BEKOMMEN!!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: IT'S TIME I MAKE THINGS RIGHT!\.
+I'LL MAKE YOU FEEL THE BITE OF MY
+LANCE!!
+'''
+
+[[dialogue]]
+event = 25
+page = 6
+command = 16
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: ...\. Ich fasse es nicht.\. 
+Wie ist es dazu gekommen?\.
+Diese Wut...
+'''
+patched = '''
+\c[4]\n[4]\c[0]: I can't believe it.\.
+How did this happen?\.
+This anger...
+'''
+
+[[dialogue]]
+event = 25
+page = 6
+command = 25
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Das war keine 
+Selbstverteidigung...\. Er...\. 
+Mein Sohn...\. 
+wollte mich umbringen...
+'''
+patched = '''
+\c[4]\n[4]\c[0]: That wasn't just out of
+self-defense...\. He...\. My son...\.
+wanted to murder me...
+'''
+
+[[dialogue]]
+event = 25
+page = 6
+command = 40
+has_portrait = true
+original = '''
+(\c[10]?????\c[0]: Autsch.\. Wer hätte gedacht, 
+dass der Kleine so energisch auf die 
+Situation reagieren würde...)
+'''
+patched = '''
+(\c[10]?????\c[0]: Ouch.\. Who would've thought
+the little one would react so
+energetically to the situation...)
+'''
+
+[[dialogue]]
+event = 25
+page = 6
+command = 48
+has_portrait = true
+original = '''
+(\c[10]?????\c[0]: Der Herr und seine 
+Wünsche...\. Er macht mir das Leben 
+schwer.)
+'''
+patched = '''
+(\c[10]?????\c[0]: The Lord and his wishes...\.
+He makes my life difficult.)
+'''

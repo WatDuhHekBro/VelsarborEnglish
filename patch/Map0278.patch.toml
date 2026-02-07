@@ -1,0 +1,148 @@
+[[dialogue]]
+event = 4
+page = 1
+command = 22
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Herein.
+'''
+patched = '''
+\c[10]General\c[0]: Come in.
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 34
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Sir Famares?\. Haben Sie etwas 
+Zeit für mich?
+'''
+patched = '''
+\c[10]?????\c[0]: Sir Famares?\. Do you have some
+time for me?
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 37
+has_portrait = true
+original = '''
+\c[10]Sir Famares\c[0]: Was ist ihr Anliegen,\.
+Sir Avaron?
+'''
+patched = '''
+\c[10]Sir Famares\c[0]: What is your concern,\. Sir
+Avaron?
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 47
+has_portrait = true
+original = '''
+\c[10]Sir Avaron\c[0]: So wie ich mitbekommen 
+habe, gibt es Neuigkeiten von der 
+Grenze.\. Man sage, Korzojeno plane 
+Aktivitäten im Untergrund?
+'''
+patched = '''
+\c[10]Sir Avaron\c[0]: As I've heard, there's
+news from the border.\. They say that
+Korzojeno is planning underground
+activities?
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 52
+has_portrait = true
+original = '''
+\c[10]Sir Famares\c[0]: Die Gerüchte dazu gibt 
+es schon lange, jetzt haben wir aber 
+die Bestätigung von einem Gesandten 
+des Rates bekommen.
+'''
+patched = '''
+\c[10]Sir Famares\c[0]: The rumors have been
+around for a long time, but we've
+just now received confirmation
+from an envoy of the council.
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 60
+has_portrait = true
+original = '''
+\c[10]Sir Avaron\c[0]: Ich halte das für 
+äußerst besorgniserregend.\. Ich 
+hoffe, Sie erinnern sich, was sich 
+hier vor 10 Jahren abgespielt hat?
+'''
+patched = '''
+\c[10]Sir Avaron\c[0]: I think that's extremely
+worrying.\. I hope you still remember
+what happened here 10 years ago?
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 64
+has_portrait = true
+original = '''
+\c[10]Sir Avaron\c[0]: Ich habe die Bitte, die 
+Sicherheitsmaßnahmen für den 
+Forschungsbereich zu erhöhen.
+'''
+patched = '''
+\c[10]Sir Avaron\c[0]: I'd like to request that
+security measures for our research
+facility increase.
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 67
+has_portrait = true
+original = '''
+\c[10]Sir Avaron\c[0]: So lange, bis sich die 
+Lage in Korzojeno geklärt hat.
+'''
+patched = '''
+\c[10]Sir Avaron\c[0]: Until the situation with
+Korzojeno has been resolved.
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 74
+has_portrait = true
+original = '''
+\c[10]Sir Famares\c[0]: Ich werde zusehen, was 
+sich einrichten lässt.
+'''
+patched = '''
+\c[10]Sir Famares\c[0]: I'll see what can be
+done.
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 82
+has_portrait = true
+original = '''
+\c[10]Sir Avaron\c[0]: Ich danke Ihnen.
+'''
+patched = '''
+\c[10]Sir Avaron\c[0]: Thank you.
+'''

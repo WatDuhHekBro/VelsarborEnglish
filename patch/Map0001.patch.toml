@@ -1,0 +1,1618 @@
+[[dialogue]]
+event = 181
+page = 8
+command = 28
+original = '''
+FALSCHE AKTION-SEITE bei 
+Nachträglich/Zusatz Seite 8
+'''
+patched = '''
+FALSCHE AKTION-SEITE bei 
+Nachträglich/Zusatz Seite 8
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 5
+original = '''
+\>INFO: Dies ist die Status-Übersicht der magischen 
+\>Lupe zum anvisierten Gegner.
+'''
+patched = '''
+\>INFO: This is the status overview of the magic
+\>lens for the targeted opponent.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 7
+original = '''
+\>Ein paar Hinweise zu den Anzeigen rechts:
+'''
+patched = '''
+\>A few notes about the displays on the right:
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 8
+original = '''
+\>In jedem Fall gilt: Je höher der Balken geht, 
+\>desto größer ist der Schutz.
+'''
+patched = '''
+\>Regardless, the higher the bar, the greater the
+\>protection.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 10
+original = '''
+\>Sollte der Balken sich unterhalb vom einem Symbol 
+\>füllen, hat der Gegner hier eine Schwäche
+'''
+patched = '''
+\>If the bar is below the symbol, the opponent has
+\>a weakness there.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 12
+original = '''
+\>Erläuterung der Symbole:
+'''
+patched = '''
+\>Explanation of the symbols:
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 20
+original = '''
+\>Unter dem Punkt "Verzauberungen" werden momentan 
+\>bestehende Verzauberungen des Gegners angezeigt.
+'''
+patched = '''
+\>Current enchantments of the opponent are shown
+\>under the section "Enchantments".
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 42
+original = '''
+Ein schwaches Schleimwesen, das gerne 
+hinterlistig mit Feuer-Zaubern angreift.
+'''
+patched = '''
+A weak slime that likes to sneakily attack with
+fire magic.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 48
+original = '''
+Ein großer Bär, der sich auf physische Attacken 
+konzentriert. 
+'''
+patched = '''
+A big bear that focuses on physical attacks.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 50
+original = '''
+Zudem blendet er seine Gegner mit gezielten 
+Schlägen...
+'''
+patched = '''
+It also blinds its opponents with targeted
+strikes...
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 56
+original = '''
+Ein flinker Gegner, der gerne mit seiner 
+Blutsauger Attacke den Gegnern die HP entzieht.
+'''
+patched = '''
+A nimble enemy which likes to take HP from its
+opponents using its bloodsucker attack.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 62
+original = '''
+Saion, der Anführer des Diebestrios, der seine 
+ganz eigenen Vorstellungen vom Diebesdasein hat.
+'''
+patched = '''
+Saion, the leader of the thief trio, has his own
+ideas about being a thief.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 64
+original = '''
+Man sollte ihn nicht unterschätzen, seit dem 
+letzten Mal hat er viel trainiert.
+'''
+patched = '''
+Don't underestimate him, he's been training a lot
+since last time.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 66
+original = '''
+Seine Aufgabe ist der offensive Angriff.
+'''
+patched = '''
+His job is to attack.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 67
+original = '''
+Und Vorsicht: Für diesen Kampf hält Saion eine 
+exklusive Technik bereit!
+'''
+patched = '''
+And be careful: Saion has an exclusive technique
+for this fight!
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 73
+original = '''
+Gurim, der ruhigste von den Dreien, soll in diesem 
+Kampf seine Kameraden unterstützen.
+'''
+patched = '''
+Gurim, the calmest of the three, is supporting
+his comrades in this fight.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 75
+original = '''
+Vorsicht, ein Stärke-Fokus beim Gegner kann mehr 
+ausmachen als man denken würde.
+'''
+patched = '''
+Be careful, focusing strength for an opponent can
+do a lot more damage than you'd think.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 77
+original = '''
+Auch von seiner offensiven Seite sollte man Gurim 
+nicht unterschätzen.
+'''
+patched = '''
+Gurim should not be underestimated from his
+offensive side either.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 83
+original = '''
+Jorn, der kleinste unter den Zinkar-Brüdern, der 
+jedoch die größte Last tragen muss. Wörtlich.
+'''
+patched = '''
+Jorn, the smallest of the Zinkar brothers, but
+who has to bear the greatest burden. Literally.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 85
+original = '''
+Seine Aufgabe ist es, seine Kameraden im Notfall 
+zu heilen und das nicht nur bei HP-Mangel.
+'''
+patched = '''
+His job is to heal his comrades in an emergency,
+and not just when there's a shortage of HP.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 87
+original = '''
+Auch sollte man ihn wegen seiner Waffe von seiner 
+offensiven Seite nicht als harmlos abstempeln
+'''
+patched = '''
+Also, just because of his weapon, one shouldn't
+label his offensive side as harmless.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 89
+original = '''
+Außerdem hält er, genauso wie Saion, eine kleine 
+Überraschung bereit.
+'''
+patched = '''
+Like Saion, he also has a little surprise in
+store.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 95
+original = '''
+Ein aggressiver Vierbeiner, der oft in Rudeln 
+anzutreffen ist.
+'''
+patched = '''
+An aggressive four-legged creature that can often
+be found in packs.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 97
+original = '''
+Seine Reißzahn-Attacke kann den Schutz des 
+Opfers verringern.
+'''
+patched = '''
+Its fang attack can reduce the victim's defense.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 103
+original = '''
+Eine starkes Flugwesen aus dem hohen Gebirge 
+des Nordens. 
+'''
+patched = '''
+A strong bird of prey from the high mountains up
+north.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 105
+original = '''
+Greift mit Wind-Zauber und der gefährlichen 
+Harpyienblitz-Attacke an.
+'''
+patched = '''
+Attacks using wind magic and the dangerous harpy
+thunder attack.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 107
+original = '''
+Für den Harpyienblitz muss die Harpyie sich 
+eine Runde lang vorbereiten. 
+'''
+patched = '''
+For the harpy thunder, the harpy must prepare for
+a round.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 113
+original = '''
+Die Steinkrabbe scheint harmlos und hat auch 
+wenig Durchhaltevermögen.
+'''
+patched = '''
+The stone crab seems harmless and has little
+stamina.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 115
+original = '''
+Aber man sollte ihre Angriffskraft nicht 
+unterschätzen.
+'''
+patched = '''
+But don't underestimate its attack power.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 121
+original = '''
+Dieser Schleim hat im Gegensatz zum 
+Grünschleim eine sehr hohe physische Abwehr.
+'''
+patched = '''
+In contrast to green slime, this one has a very
+high physical defense.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 123
+original = '''
+Er greift mit wasser-elementaren Attacken an 
+und ist leicht mit Zaubern zu besiegen.
+'''
+patched = '''
+It attacks with elemental water attacks and is
+easy to defeat with magic.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 129
+original = '''
+Ein sehr flinker Gegner, der allerdings kein 
+großes Durchhaltevermögen besitzt.
+'''
+patched = '''
+A very agile opponent, but not very persistent.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 131
+original = '''
+Greift öfters mit wind-elementaren Attacken an.
+'''
+patched = '''
+Attacks often with elemental wind attacks.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 136
+original = '''
+Eine seltsame Pflanze, welche die Fähigkeit hat, 
+sich durch die Erde zu bewegen.
+'''
+patched = '''
+A strange plant that has the ability to move
+through the ground.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 138
+original = '''
+Sie hat ein hohes Durchhaltevermögen, ist aber 
+schwach gegen physische Attacken.
+'''
+patched = '''
+It has a lot of stamina, but is weak against
+physical attacks.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 140
+original = '''
+Sie greift oft mit Erdzaubern an, was bei ihrer 
+Magiestärke verheerend sein kann.
+'''
+patched = '''
+It often attacks with earth magic, which can be
+devastating with its magic strength.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 146
+original = '''
+Eine riesige Krake, die hauptsächlich in den 
+Tiefen des weiten Ozeans vorzufinden ist.
+'''
+patched = '''
+A giant octopus found mainly in the deep ocean.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 148
+original = '''
+Sie greift mit Wasser-Zaubern an, saugt aber 
+meistens Luft ein und erhitzt ihren Körper.
+'''
+patched = '''
+It attacks with water magic, but mostly sucks in
+air and heats its body.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 150
+original = '''
+Mit dieser Aktion bereitet sie eine Spezialattacke 
+vor, die von ihren Tentakeln ausgeführt wird.
+'''
+patched = '''
+With this action, it is preparing a special
+attack that will be carried out by its tentacles.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 156
+original = '''
+Die Tentakeln der Krake greifen physisch an und 
+blenden ihre Gegner.
+'''
+patched = '''
+The octopus' tentacles attack physically and
+blind their opponents.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 158
+original = '''
+Wenn die Krake Luft eingesaugt hat, führen sie
+ihre mächtige Dampfwolken-Attacke aus.
+'''
+patched = '''
+When the octopus has sucked in air, they perform
+their powerful steam cloud attack.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 160
+original = '''
+Diese ist besonders mächtig, also ist Vorsicht 
+angesagt.
+'''
+patched = '''
+This is particularly powerful, so caution is
+advised.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 166
+original = '''
+Ein Waffen-Fanatiker, der voll auf 
+den magielosen Kampf setzt
+'''
+patched = '''
+A weapon fanatic who fully relies on magic-free
+combat.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 168
+original = '''
+Seine offensive Stärke ist schwer zu brechen.
+Seine Defensive lässt sich jedoch schwächen.
+'''
+patched = '''
+His offensive strength is difficult to decrease.
+However, his defense can be decreased.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 170
+original = '''
+Ein guter Schutz ist in diesem Kampf sehr ratsam.
+'''
+patched = '''
+Good defense is highly advisable in this fight.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 175
+original = '''
+Ein großer Käfer, der stark angreift und aufgrund 
+seiner Größe meistens auch trifft.
+'''
+patched = '''
+A large beetle that attacks strongly and usually
+doesn't miss because of its size.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 177
+original = '''
+Sein Wuchtsare macht besonders viel Schaden, 
+jedoch kommt seine nächste Aktion dadurch später
+'''
+patched = '''
+Its imbued force does a lot of damage, but its
+next action is delayed.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 179
+original = '''
+Achtung: Dieser Gegner besitzt ein Schutzschild.
+'''
+patched = '''
+Warning: This enemy has a protective shield.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 180
+original = '''
+Solange dieses Schild nicht gebrochen wurde, wird 
+physischer Schaden größtenteils abgeblockt.
+'''
+patched = '''
+As long as this shield has not been broken,
+physical damage is largely blocked.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 186
+original = '''
+Ein riesiges Fluginsekt, das in Gruppen 
+auftretend bereits vielen Reisenden zur Last fiel.
+'''
+patched = '''
+A huge flying insect, which appeared in groups
+already burdened many travelers.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 188
+original = '''
+Seine Angriffe sind nicht immer ganz treffsicher, 
+es sei denn er verwendet Zielsare.
+'''
+patched = '''
+Its attacks are not always accurate unless it
+imbues itself with clarity.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 190
+original = '''
+Sollte das Wesen einmal "Chargen", kann man davon 
+ausgehen, dass eine Paralysare darauf folgen wird.
+'''
+patched = '''
+Should the being "batch together", one can assume
+that an imbued paralysis will follow.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 192
+original = '''
+Zauber zeigen KEINE große Wirkung gegen diesen 
+Gegner.
+'''
+patched = '''
+Spells do NOT have much effect against this
+enemy.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 198
+original = '''
+Einer der vielen Räuber, die sich im Corine-
+Plateau herumtreiben um Reisende zu überfallen.
+'''
+patched = '''
+One of the many robbers who hangs around the
+Corine Plateau to raid travellers.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 200
+original = '''
+Abgesehen davon, dass er sein Opfer gerne um ein 
+paar Fejar erleichtert...
+'''
+patched = '''
+Apart from the fact that he likes to relieve his
+victim of a few Fejar...
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 202
+original = '''
+...kann er auch ziemlich viel Schaden anrichten, 
+sofern sein "Listsare" treffen sollte.
+'''
+patched = '''
+...he can also do a lot of damage if his "imbued
+overdrive" hits.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 208
+original = '''
+Ein Dieb der einen fliegenden Hornkäfer als 
+Reittier verwendet.
+'''
+patched = '''
+A thief using a horny beetle as a mount.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 210
+original = '''
+Seine Taktik beginnt damit, seine Gegner zu 
+vergiften....
+'''
+patched = '''
+His tactic starts with poisoning his opponents...
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 212
+original = '''
+...und endet mit einem verheerenden 
+Spezialangriff.
+'''
+patched = '''
+...and ends with a devastating special attack.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 214
+original = '''
+Guillian vertraut bei seiner Taktik auf seine 
+reine Kraft.
+'''
+patched = '''
+Guillian trusts his pure power in his tactics.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 216
+original = '''
+Jedoch ist es möglich den meisten seiner Attacken 
+auszuweichen.
+'''
+patched = '''
+However, it is possible to avoid most of his
+attacks.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 222
+original = '''
+Eine Wolfart die immer häufiger im und um den 
+Silvanwald gesichtet wird.
+'''
+patched = '''
+A type of wolf that is increasingly seen in and
+around the Silvan Forest.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 224
+original = '''
+Dieser Gegner versucht mit allen Mitteln beim 
+Gegner Schaden anzurichten.
+'''
+patched = '''
+This opponent tries to cause damage to the
+opponent no matter what.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 226
+original = '''
+Wenn er Blutsare anwendet, schadet er sich sogar 
+selber, um den Gegner besonders hart zu treffen.
+'''
+patched = '''
+If it imbues itself with blood, it damages itself
+to hit the enemy particularly hard.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 232
+original = '''
+Diese Art von Bär hat ein unglaublich dickes Fell, 
+was sie sehr widerstandsfähig gegen Waffen macht.
+'''
+patched = '''
+This type of bear has an incredibly thick fur,
+which makes it very resistant to weapons.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 234
+original = '''
+Zauber wiederum können diesem Gegner das Fürchten 
+lehren.
+'''
+patched = '''
+Spells, in turn, can make this enemy fear.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 236
+original = '''
+Vorsicht vor der Furorsare Attacke: 
+'''
+patched = '''
+Beware that it can imbue itself with frenzy:
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 237
+original = '''
+Je stärker der Schwarzbär angeschlagen ist, desto 
+mehr zieht diese Attacke ab.
+'''
+patched = '''
+The stronger the bear is hit, the more damage
+this attack gains.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 243
+original = '''
+Ein großer Raubvogel, dessen Stärke im magischen 
+Bereich liegen.
+'''
+patched = '''
+A large bird of prey whose strength lies in the
+magical area.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 245
+original = '''
+Magische Angriffe zeigen wenig Wirkung, physische 
+Angriffe werden dafür öfters ausgewichen.
+'''
+patched = '''
+Magic attacks have little effect, physical
+attacks are often avoided.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 247
+original = '''
+Wer ein Mittel gegen den hohen Reflexwert der 
+Grauschweif-Eule findet, hat leichtes Spiel.
+'''
+patched = '''
+If you find a tactic for the high evasion value
+of the owl, it is easy.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 249
+original = '''
+Vorsicht: Sollte der Gegner Magie-Fokus auf sich 
+sprechen, sind seine Zauber besonders verheerend.
+'''
+patched = '''
+Caution: If the opponent focuses wisdom, its
+spells are particularly devastating.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 255
+original = '''
+Ein Soldat einer unbekannten Armee. 
+'''
+patched = '''
+A soldier from an unknown army.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 256
+original = '''
+Auch wenn sie alle identisch aussehen, so hat doch 
+jeder Soldat seine eigenen Stärken und Schwächen.
+'''
+patched = '''
+Even if they all look identical, every soldier
+has their own strengths and weaknesses.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 259
+original = '''
+Dieser Soldat ist auf Zauber spezialisiert und der 
+Abwehrschwächste unter den Soldaten.
+'''
+patched = '''
+This soldier specializes in magic and has the
+weakest defense of the three types.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 261
+original = '''
+Außerdem kann er seine Kameraden vor Zuständen 
+heilen, indem er Heilgegenstände verwendet.
+'''
+patched = '''
+He can also heal his comrades from status effects
+by using healing items.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 266
+original = '''
+Dieser Soldat hat die Aufgabe seine Kameraden zu 
+unterstützen.
+'''
+patched = '''
+This soldier has the task of supporting his
+comrades.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 268
+original = '''
+Er spricht Fokus-Zauber, um seine Kameraden zu 
+stärken.
+'''
+patched = '''
+He uses focus spells to strengthen his comrades.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 270
+original = '''
+Außerdem wirft er Heilessenzen und kann Zustände 
+mit Heilgegenständen behandeln.
+'''
+patched = '''
+He also throws healing essences and can treat
+conditions with healing items.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 274
+original = '''
+Dieser Soldat ist für den offensiven Kampf 
+zuständig, er richtet den meisten Schaden an.
+'''
+patched = '''
+This soldier is responsible for the offensive
+front, he does the most damage.
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 276
+original = '''
+Vorsicht vor der Zustand-Sare, die er oft 
+anwendet!
+'''
+patched = '''
+Beware of the imbued status effect that he often
+uses!
+'''
+
+[[dialogue]]
+event = 188
+page = 3
+command = 285
+original = '''
+Keine weiteren Informationen....
+'''
+patched = '''
+No further information....
+'''
+
+[[dialogue]]
+event = 191
+page = 2
+command = 4
+original = '''
+ALARMA
+'''
+patched = '''
+ALARMA
+'''
+
+[[dialogue]]
+event = 191
+page = 2
+command = 8
+original = '''
+ALARMA
+'''
+patched = '''
+ALARMA
+'''
+
+[[dialogue]]
+event = 191
+page = 2
+command = 12
+original = '''
+ALARMA
+'''
+patched = '''
+ALARMA
+'''
+
+[[dialogue]]
+event = 191
+page = 2
+command = 16
+original = '''
+ALARMA
+'''
+patched = '''
+ALARMA
+'''
+
+[[dialogue]]
+event = 191
+page = 2
+command = 20
+original = '''
+ALARMA
+'''
+patched = '''
+ALARMA
+'''
+
+[[dialogue]]
+event = 191
+page = 2
+command = 24
+original = '''
+ALARMA
+'''
+patched = '''
+ALARMA
+'''
+
+[[dialogue]]
+event = 191
+page = 2
+command = 28
+original = '''
+ALARMA
+'''
+patched = '''
+ALARMA
+'''
+
+[[dialogue]]
+event = 191
+page = 14
+command = 7
+original = '''
+ADDIERE!
+'''
+patched = '''
+ADDIERE!
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 59
+character = '''Kento'''
+original = '''
+\s[1]\c[1]\n[1]\c[0]: War das alles? 
+Ich hab wirklich mehr erwartet!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[1]\n[1]\c[0]: Was that all? I really expected more!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 64
+character = '''Kento'''
+original = '''
+\s[1]\c[1]\n[1]\c[0]: Siegreich!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[1]\n[1]\c[0]: Victory!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 67
+character = '''Kento'''
+original = '''
+\s[1]\c[1]\n[1]\c[0]: Das wäre geschafft!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[1]\n[1]\c[0]: And that's that!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 76
+character = '''Kento'''
+original = '''
+\s[1]\c[1]\n[1]\c[0]: Tsk...\. Ein Kinderspiel!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[1]\n[1]\c[0]: Tsk...\. child's play!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 80
+character = '''Kento'''
+original = '''
+\s[1]\c[1]\n[1]\c[0]: Das ging ja schnell...\|\.\.\^
+'''
+patched = '''
+\s[1]\c[1]\n[1]\c[0]: That was rather quick...\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 83
+character = '''Kento'''
+original = '''
+\s[1]\c[1]\n[1]\c[0]: Ohje! Zum Glück war der Kampf 
+schnell vorbei!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[1]\n[1]\c[0]: Oh man!\. Luckily that fight was over
+quickly!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 93
+character = '''Kento'''
+original = '''
+\s[1]\c[1]\n[1]\c[0]: Keine Herausforderung...\|\.\.\^
+'''
+patched = '''
+\s[1]\c[1]\n[1]\c[0]: No challenge...\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 97
+character = '''Kento'''
+original = '''
+\s[1]\c[1]\n[1]\c[0]: Und weg waren sie...\|\.\.\^
+'''
+patched = '''
+\s[1]\c[1]\n[1]\c[0]: And like that,\. they're gone...\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 100
+character = '''Kento'''
+original = '''
+\s[1]\c[1]\n[1]\c[0]: Ohje.... 
+Wir müssen stärker werden.\|\.\.\^
+'''
+patched = '''
+\s[1]\c[1]\n[1]\c[0]: Oh man... We have to get stronger.\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 109
+character = '''Kento'''
+original = '''
+\s[1]\c[1]\n[1]\c[0]: Das hat aber lange gedauert...\|\.\.\^
+'''
+patched = '''
+\s[1]\c[1]\n[1]\c[0]: That took a while...\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 113
+original = '''
+\s[1]\c[1]Kento:\c[0] Nun gut... Das wäre 
+überstanden...\|\.\.\^
+'''
+patched = '''
+\s[1]\c[1]Kento:\c[0] Well then... We still got through
+that one...\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 117
+original = '''
+\s[1]\c[1]Kento:\c[0] Beim nächsten mal müssen wir 
+unbedingt besser aufpassen!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[1]Kento:\c[0] We have to be more careful next time!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 134
+character = '''Cibon'''
+original = '''
+\s[1]\c[2]\n[2]\c[0]: LÄCHERLICH! Und ich hab mich schon 
+auf ne Herausforderung gefreut!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[2]\n[2]\c[0]: RIDICULOUS! And here I was looking forward
+to a challenge!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 139
+character = '''Cibon'''
+original = '''
+\s[1]\c[2]\n[2]\c[0]: SO wird gekämpft!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[2]\n[2]\c[0]: THAT'S the way to fight!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 142
+character = '''Cibon'''
+original = '''
+\s[1]\c[2]\n[2]\c[0]: Da haben wir's!! Gewonnen!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[2]\n[2]\c[0]: There we go! We win!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 151
+character = '''Cibon'''
+original = '''
+\s[1]\c[2]\n[2]\c[0]: Haha! War das etwa schon alles?\|\.\.\^
+'''
+patched = '''
+\s[1]\c[2]\n[2]\c[0]: Haha! Was that all?\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 155
+character = '''Cibon'''
+original = '''
+\s[1]\c[2]\n[2]\c[0]: Was für'n Witz von Ausdauer! \|\.\.\^
+'''
+patched = '''
+\s[1]\c[2]\n[2]\c[0]: What a joke of endurance!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 158
+character = '''Cibon'''
+original = '''
+\s[1]\c[2]\n[2]\c[0]: Wie können Gegner so stark sein und 
+gleichzeitig so schnell fallen?\|\.\.\^
+'''
+patched = '''
+\s[1]\c[2]\n[2]\c[0]: How can enemies be so strong yet fall so
+quickly at the same time?\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 168
+character = '''Cibon'''
+original = '''
+\s[1]\c[2]\n[2]\c[0]: Keine Chance, hehe!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[2]\n[2]\c[0]: Not a chance, hehe!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 172
+character = '''Cibon'''
+original = '''
+\s[1]\c[2]\n[2]\c[0]: Das kommt davon, wenn man sich 
+uns in den Weg stellt!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[2]\n[2]\c[0]: That's for getting in our way!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 176
+character = '''Cibon'''
+original = '''
+\s[1]\c[2]\n[2]\c[0]: Uff, das war ziemlich 
+anstrengend!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[2]\n[2]\c[0]: Phew, that was pretty exhausting!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 185
+character = '''Cibon'''
+original = '''
+\s[1]\c[2]\n[2]\c[0]: Solche Gegner nerven mich!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[2]\n[2]\c[0]: Enemies like that annoy me!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 189
+character = '''Cibon'''
+original = '''
+\s[1]\c[2]\n[2]\c[0]: Na endlich! Das hättn wir hinter 
+uns.\|\.\.\^
+'''
+patched = '''
+\s[1]\c[2]\n[2]\c[0]: Finally! That's behind us now.\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 193
+character = '''Cibon'''
+original = '''
+\s[1]\c[2]\n[2]\c[0]: D...Das war jetzt wirklich ein 
+harter Kampf...\|\.\.\^
+'''
+patched = '''
+\s[1]\c[2]\n[2]\c[0]: T... That was a really tough fight now...\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 210
+character = '''Soko'''
+original = '''
+\s[1]\c[13]\n[3]\c[0]: Lachhaft! Das Resultat eurer 
+Unterschätzung!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[13]\n[3]\c[0]: Laughable! The result of your
+underestimation!\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 215
+character = '''Soko'''
+original = '''
+\s[1]\c[13]\n[3]\c[0]: Ein glorreicher Sieg!\|\.\.\^
+'''
+patched = '''
+\s[1]\c[13]\n[3]\c[0]: A glorious victory!
+\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 218
+character = '''Soko'''
+original = '''
+\s[1]\c[13]\n[3]\c[0]: Am Ende standen wir als Sieger da! 
+\|\.\.\^
+'''
+patched = '''
+\s[1]\c[13]\n[3]\c[0]: In the end, we came out on top!
+\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 228
+character = '''Soko'''
+original = '''
+\s[1]\c[13]\n[3]\c[0]: Und für so etwas ziehen wir unsere 
+Waffen...\|\.\.\^
+'''
+patched = '''
+\s[1]\c[13]\n[3]\c[0]: And to think we drew our weapons for this...
+\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 233
+character = '''Soko'''
+original = '''
+\s[1]\c[13]\n[3]\c[0]: Kurze Kämpfe sind erfolgreiche Kämpfe! 
+\|\.\.\^
+'''
+patched = '''
+\s[1]\c[13]\n[3]\c[0]: Short fights are successful fights!
+\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 237
+character = '''Soko'''
+original = '''
+\s[1]\c[13]\n[3]\c[0]: Wir dürfen unsere Deckung nicht 
+vernachlässigen...
+ \|\.\.\^
+'''
+patched = '''
+\s[1]\c[13]\n[3]\c[0]: We must not neglect our defense...
+\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 248
+character = '''Soko'''
+original = '''
+\s[1]\c[13]\n[3]\c[0]: Schwächlinge... Uns herauszufordern 
+war euer Untergang!
+\|\.\.\^
+'''
+patched = '''
+\s[1]\c[13]\n[3]\c[0]: Weaklings... Challenging us was your
+downfall!
+\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 254
+character = '''Soko'''
+original = '''
+\s[1]\c[13]\n[3]\c[0]: Und ein weiterer Sieg für uns!
+\|\.\.\^
+'''
+patched = '''
+\s[1]\c[13]\n[3]\c[0]: And another win for us!
+\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 258
+character = '''Soko'''
+original = '''
+\s[1]\c[13]\n[3]\c[0]: Puh... Hoffentlich haben wir genug 
+Heil-Utensilien dabei...
+\|\.\.\^
+'''
+patched = '''
+\s[1]\c[13]\n[3]\c[0]: Phew... Hopefully we have enough healing
+items with us...
+\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 268
+character = '''Soko'''
+original = '''
+\s[1]\c[13]\n[3]\c[0]: Lästiges Gesindel...
+\|\.\.\^
+'''
+patched = '''
+\s[1]\c[13]\n[3]\c[0]: Annoying vermin...
+\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 273
+character = '''Soko'''
+original = '''
+\s[1]\c[13]\n[3]\c[0]: Wir müssen die Schwachstellen dieser 
+Gegner herausfinden!
+\|\.\.\^
+'''
+patched = '''
+\s[1]\c[13]\n[3]\c[0]: We have to find out the weaknesses of these
+opponents!
+\|\.\.\^
+'''
+
+[[dialogue]]
+event = 196
+page = 11
+command = 278
+character = '''Soko'''
+original = '''
+\s[1]\c[13]\n[3]\c[0]: Wir müssen stärker werden, sonst 
+können wir diese Kämpfe nicht länger überstehen!
+\|\.\.\^
+'''
+patched = '''
+\s[1]\c[13]\n[3]\c[0]: We have to get stronger, otherwise we won't
+survive these battles!
+\|\.\.\^
+'''
+
+[[dialogue]]
+event = 197
+page = 3
+command = 53
+original = '''
+ALARRRRM!
+Theo Var-Pointer hat nen anderen Wert als 
+Prak Var-Pointer!
+Theo: \v[2014]    Prak: \v[2015]
+'''
+patched = '''
+ALARRRRM!
+Theo Var-Pointer hat nen anderen Wert als 
+Prak Var-Pointer!
+Theo: \v[2014]    Prak: \v[2015]
+'''

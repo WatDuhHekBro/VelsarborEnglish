@@ -1,0 +1,863 @@
+[[dialogue]]
+event = 3
+page = 3
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Tatsächlich,\. sie haben die 
+Tür offen gelassen!)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: They actually left the door
+open!)
+'''
+
+[[dialogue]]
+event = 3
+page = 3
+command = 6
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Besser vorsichtig nachsehen,\. 
+ob sich jemand im nächsten Raum 
+befindet...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: It's better to carefully
+check if someone's in the next
+room or not...)
+'''
+
+[[dialogue]]
+event = 3
+page = 3
+command = 14
+original = '''
+
+Info: Man hat die Möglichkeit zuerst durch einen 
+\c[11]Türschlitz zu schauen\c[0], bevor man den Raum betritt. 
+'''
+patched = '''
+
+Info: You have the ability to \c[11]peek into the next
+room\c[0] before entering it.
+'''
+
+[[dialogue]]
+event = 3
+page = 3
+command = 17
+original = '''
+
+So vermeidet man, dass man den Soldaten direkt in 
+die Arme läuft.
+'''
+patched = '''
+
+This way, you can avoid running into the
+soldiers.
+'''
+
+[[dialogue]]
+event = 3
+page = 3
+command = 20
+original = '''
+
+Dies funktioniert jedoch nur, wenn man sich in 
+einem \c[11]sicheren Raum\c[0] befindet.
+'''
+patched = '''
+
+However, this only works if you're in a \c[11]safe
+room\c[0].
+'''
+
+[[dialogue]]
+event = 20
+page = 1
+command = 12
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: VERSCHWINDE!!\. ICH WILL DICH 
+NICHT SEHEN!!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: GO AWAY!!\. I DON'T WANT TO SEE
+YOU AT ALL!!
+'''
+
+[[dialogue]]
+event = 20
+page = 1
+command = 22
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Kento!\. Was ist los mir dir?!\.
+Warum schreist du mich so an?\.
+Was hab ich getan?!
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Kento!\. What's wrong with you?!\.
+Why are you shouting at me like that?\.
+What have I done?!
+'''
+
+[[dialogue]]
+event = 20
+page = 1
+command = 29
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Das weißt du GENAU!!\. Du hast 
+sie...\. du...\. hast mich... 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: You know EXACTLY what you've
+done!!\. You took her...\. you're...\.
+taking me...
+'''
+
+[[dialogue]]
+event = 20
+page = 1
+command = 37
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: DU HAST NUR UNGLÜCK 
+HINTERLASSEN!\.
+DU HAST KEIN RECHT ZU LEBEN!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ALL YOU DO IS LEAVE MISERY
+EVERYWHERE!\. YOU HAVE NO RIGHT TO
+LIVE!
+'''
+
+[[dialogue]]
+event = 20
+page = 1
+command = 49
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Es tut mir Leid Kento...\. Es 
+tut mir Leid, dass ich dich alleine 
+ließ...\. Ich konnte doch nicht...
+'''
+patched = '''
+\c[4]\n[4]\c[0]: I'm sorry Kento...\. I'm so
+sorry I left you alone all those
+years...\. I just couldn't...
+'''
+
+[[dialogue]]
+event = 20
+page = 1
+command = 59
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: SPAR DIR DEINE AUSREDEN!\. Lass 
+mich einfach nur ALLEINE!\. 
+VERSCHWINDE!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: SAVE YOUR PATHETIC EXCUSES
+ALREADY!\. Just leave me \s[9]ALONE\s[0]!\.
+GO AWAY!
+'''
+
+[[dialogue]]
+event = 20
+page = 1
+command = 64
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Kento!\. Wir sollten über diese 
+Probleme rede...\.\^
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Kento!\. We should talk about
+these problems...\.\^
+'''
+
+[[dialogue]]
+event = 20
+page = 1
+command = 72
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: MIT DIR BEREDE ICH GAR NICHTS 
+MEHR!\. Lass mich in frieden!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I DON'T EVEN WANT ANYTHING TO
+DO WITH YOU!\. Let me be at peace!
+'''
+
+[[dialogue]]
+event = 20
+page = 1
+command = 79
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: KENTO!\. Hör gefälligst auf so 
+zu schrei...\.\^
+'''
+patched = '''
+\c[4]\n[4]\c[0]: KENTO!\. Stop yelling like
+that...\.\^
+'''
+
+[[dialogue]]
+event = 20
+page = 1
+command = 87
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: VERSCHWINDE!!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: GET OUT OF MY SIGHT!!
+'''
+
+[[dialogue]]
+event = 20
+page = 1
+command = 92
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: KOMM ENDLICH...\.\^
+'''
+patched = '''
+\c[4]\n[4]\c[0]: LISTEN TO ME HERE...\.\^
+'''
+
+[[dialogue]]
+event = 20
+page = 1
+command = 99
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: VERSCHWINDE ENDLICH!!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: GET OUT OF MY SIGHT NOW!!
+'''
+
+[[dialogue]]
+event = 20
+page = 4
+command = 12
+original = '''
+\c[10]Soldat\c[0]: So, jetzt gibt's was zu Essen,\. 
+Daikon Junior\s[8]...\^
+'''
+patched = '''
+\c[10]Soldier\c[0]: Alright,\. here's something to eat,\.
+Daikon Junior\s[8]...\^
+'''
+
+[[dialogue]]
+event = 20
+page = 4
+command = 27
+original = '''
+\c[10]Soldat\c[0]: ...\.N...\.Nein!
+'''
+patched = '''
+\c[10]Soldier\c[0]: N...\. No!
+'''
+
+[[dialogue]]
+event = 20
+page = 4
+command = 33
+original = '''
+\c[10]Soldat\c[0]: \s[2]KENTO DAIKON IST GEFLOHEN!
+'''
+patched = '''
+\c[10]Soldier\c[0]: \s[2]KENTO DAIKON HAS ESCAPED!
+'''
+
+[[dialogue]]
+event = 20
+page = 5
+command = 62
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: ...\. Anscheinend sind sie 
+drauf reingefallen...\. Dann mal los!)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Seems like they fell right
+for it...\. Let's go!)
+'''
+
+[[dialogue]]
+event = 20
+page = 5
+command = 65
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Zuerst muss ich meine 
+Ausrüstung finden.) 
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: I need to find my equipment
+first.)
+'''
+
+[[dialogue]]
+event = 20
+page = 5
+command = 68
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Am besten Suche ich eine 
+Person, von der ich erfahren kann, 
+wo sich die Ausrüstung befindet...\.
+indem ich es aus ihr rauspresse.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: The best thing I can do is
+find a person who can tell me where
+my equipment is...\. while getting
+myself out of here.)
+'''
+
+[[dialogue]]
+event = 20
+page = 5
+command = 73
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Das sollte allerdings besser 
+kein Soldat sein...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: It shouldn't be a soldier
+though...)
+'''
+
+[[dialogue]]
+event = 20
+page = 5
+command = 95
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Der Besen hier muss erstmal 
+als Waffe genügen...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: I'll have to make do with
+this broom as a weapon for now...)
+'''
+
+[[dialogue]]
+event = 20
+page = 5
+command = 128
+original = '''
+
+Info: Achtung! Du befindest dich ab jetzt im 
+\c[11]Schleich-Modus\c[0].
+'''
+patched = '''
+
+Info: Attention! From now on, you are in
+\c[11]stealth mode\c[0].
+'''
+
+[[dialogue]]
+event = 20
+page = 5
+command = 131
+original = '''
+
+Da Kento alleine und ohne Ausrüstung ist, sollte 
+man \c[11]Kämpfen wenn Möglich aus dem Weg gehen\c[0].
+'''
+patched = '''
+
+Since Kento is alone and without equipment, you
+should \c[11]avoid fighting as much as possible\c[0].
+'''
+
+[[dialogue]]
+event = 20
+page = 5
+command = 134
+original = '''
+
+Zu Kämpfen kommt es deshalb nur, wenn du von einem 
+Soldaten entdeckt wirst.
+'''
+patched = '''
+
+Fights only occur when you are discovered by a
+soldier.
+'''
+
+[[dialogue]]
+event = 20
+page = 5
+command = 137
+original = '''
+
+Sollte sich kein Soldat im Raum befinden, wird die 
+Nachricht \c[11]"Raum ist Sicher"\c[0] eingeblendet.
+'''
+patched = '''
+
+If there is no soldier in the room, the message,
+\c[11]"The room is safe."\c[0] is displayed.
+'''
+
+[[dialogue]]
+event = 20
+page = 5
+command = 140
+original = '''
+
+Anmerkung: Im Schleich-Modus ist immer 
+\c[11]"Automatisch Rennen"\c[0] aktiviert.
+'''
+patched = '''
+
+Note: \c[11]"Automatic Running"\c[0] is always activated in
+stealth mode.
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 15
+has_portrait = true
+character = '''Genyu'''
+original = '''
+(\c[4]\n[4]\c[0]: Entkommen... Er ist uns 
+entkommen.)
+'''
+patched = '''
+(\c[4]\n[4]\c[0]: Escaped...\. He escaped us.)
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 23
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: VERDAMMT!
+'''
+patched = '''
+\c[4]\n[4]\c[0]: GODDAMNIT!
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 34
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Genyu, hier bist du!
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Genyu, there you are!
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 36
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Dein Austicker kam genau 
+richtig, ich dachte schon ich würde 
+dich gar nicht mehr finden...
+'''
+patched = '''
+\c[5]\n[5]\c[0]: I knew you'd lose your temper
+right about now, I already thought
+I wouldn't find you anymore...
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 45
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Felcis...\. Was soll ich jetzt 
+machen?\. Er ist davon, wir können ihn 
+nicht mehr zurückholen...\. Jenseits 
+der Grenze...
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Felcis...\. What should I do
+now?\. He's gone, beyond the border...\.
+We can't get him back...
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 50
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Wir können uns einen 
+Großangriff nicht erlauben...
+'''
+patched = '''
+\c[4]\n[4]\c[0]: And we can't afford a major
+attack...
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 53
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Es ist schön zu hören, dass 
+du wenigstens das einsieht. 
+'''
+patched = '''
+\c[5]\n[5]\c[0]: It's good to hear that you at
+least see that.
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 55
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Ernsthaft, ich hab mir 
+Sorgen gemacht, du würdest jetzt 
+ganz Gencorin einnehmen, nur um 
+deinen Sohn wieder zu bekommen.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Seriously, I was worried that
+you'd take all of Gencorin just to
+get your son back.
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 64
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Ja Felcis, ich kenne mein 
+Problem selber gut genug.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Yes Felcis, I know my own
+problem well enough now.
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 66
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Ich weiß wie man Leute 
+antreibt und wie man inmitten einer 
+Schlacht vorzugehen hat.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: I know how to encourage people
+and how to move forward in the middle
+of a battle.
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 70
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Aber ich bin kein Taktiker, 
+der stets den effizientesten Weg 
+verfolgt, um sein Ziel zu erreichen, 
+und nichts anderes vor Augen hat.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: But I'm not some tactician who
+can focus on the most efficient route
+to achieving a goal and nothing else.
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 78
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Du solltest versuchen dich 
+zusammen zu reisen.\. Wenn du nicht 
+aufpasst verlierst du nicht nur 
+deinen Sohn, sondern alles.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: We should try to stick
+together.\. If you're not careful,
+everything you've been fighting for.
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 87
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Du meinst also ich soll ihn 
+aufgeben?\. ...\. Wahrscheinlich hast du 
+Recht.  
+'''
+patched = '''
+\c[4]\n[4]\c[0]: So you mean that I should give
+up on him?\.\. Maybe you're right.
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 91
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Ich bin mir allerdings nicht 
+sicher, ob es mir das Wert ist.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Admittedly, I'm not sure
+whether it was even worth it.
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 99
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Wenn ich mir meinen Sohn 
+wegen diesem Ziel zum Gegner mache, 
+ihn dafür opfern muss...
+'''
+patched = '''
+\c[4]\n[4]\c[0]: If I make my son an enemy just
+because of this goal, I'll have to
+sacrifice him for it...
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 103
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Was unterscheidet mich dann 
+noch von meinem Gegner?\. Ich würde 
+den Prinzipien folgen, gegen die 
+ich ankämpfen will.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Then what'd the difference
+between me and my enemy?\. I'd become
+the very thing I swore to fight
+against.
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 115
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Wenn es nur das ist, was du 
+vermeiden willst...
+'''
+patched = '''
+\c[5]\n[5]\c[0]: If that's the only thing you
+wish to avoid...
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 117
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Dann lässt sich da 
+vielleicht noch etwas biegen.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Then maybe we could pull some
+strings.
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 126
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: ...Du meinst es gibt einen 
+Weg?
+'''
+patched = '''
+\c[4]\n[4]\c[0]: You mean there's a way?
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 131
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Wenn du vermeiden willst, 
+dass dein Sohn uns in einer Schlacht 
+gegenüber steht,\. dann ja.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: If you want to avoid your son
+facing us in battle,\. then yes.
+'''
+
+[[dialogue]]
+event = 20
+page = 7
+command = 135
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Vorausgesetzt eine bestimmte 
+Person unter uns ist unserer 
+momentanen Lage unbewusst.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Assuming a certain person
+among us is still unaware of our
+current situation.
+'''
+
+[[dialogue]]
+event = 21
+page = 1
+command = 11
+original = '''
+
+Dies ist ein \c[11]Speicherpunkt\c[0].
+'''
+patched = '''
+
+This is a \c[11]save point\c[0].
+'''
+
+[[dialogue]]
+event = 21
+page = 1
+command = 13
+original = '''
+
+Wenn man auf solch einen steht, kann man \c[11]den
+Spielstand speichern\c[0].
+'''
+patched = '''
+
+When you stand on one of these, you can
+\c[11]save the game\c[0].
+'''
+
+[[dialogue]]
+event = 21
+page = 1
+command = 16
+original = '''
+
+Öffne dazu das \c[11]Menu\c[0] mit \c[11]Esc\c[0] und wähle
+dann \c[11]Speichern\c[0].
+'''
+patched = '''
+
+To do this, open the \c[11]menu\c[0] using \c[11]Esc\c[0] and
+then select \c[11]Save\c[0].
+'''
+
+[[dialogue]]
+event = 21
+page = 1
+command = 19
+original = '''
+
+Auf der \c[11]Weltkarte\c[0] kann man übigens
+immer speichern.
+'''
+patched = '''
+
+Additionally, you can always save on
+the \c[11]world map\c[0].
+'''
+
+[[dialogue]]
+event = 26
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Die Täuschung hat allen 
+Anschein nach funktioniert.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: This deception seems to have
+worked.)
+'''
+
+[[text]]
+event = 21
+page = 1
+command = 4
+original = '''Stützpunkt1'''
+patched = '''Fortress?'''

@@ -1,0 +1,190 @@
+[[dialogue]]
+event = 5
+page = 2
+command = 4
+original = '''
+\c[10]Mann\c[0]: Verdammt, mein Paket!\. Wo ist es?\. Ich hätte 
+schwören können, ich hätte es mitgenommen, aber 
+als ich vorhin im Laden gegenüber war, fiel mir 
+plötzlich auf, das es weg war!
+'''
+patched = '''
+\c[10]Man\c[0]: Dammit, my package!\. Where is it?\. I could've
+sworn I took it with me, but when I was in the
+store earlier, I suddenly realized that it was
+gone!
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 13
+original = '''
+\c[10]Mann\c[0]: Oh...!\. Mein Paket!\.
+Ihr habt es gefunden!\. Wunderbar!\. 
+Sagt, wo war es denn?
+'''
+patched = '''
+\c[10]Man\c[0]: Oh!\. My package!\. There it is!\. Wonderful!\.
+Say, where was it?
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 18
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Im Hinterhof vom Waffenladen. 
+Dort lag es in einer Ecke. 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: In the backyard of the weapon
+shop. It was in a corner there.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 21
+original = '''
+\c[10]Mann\c[0]: Ah...\. Wie konnte ich Trottel es nur dort 
+liegen lassen.\. Wie auch immer, viele Dank.
+'''
+patched = '''
+\c[10]Man\c[0]: Ah...\. How could I just leave it there?\.
+Anyways, thanks a lot.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 23
+original = '''
+\c[10]Mann\c[0]: Hey,\. währet ihr auch so nett mir das Paket 
+noch zur nächsten Post-Versand-Stelle zu bringen?
+'''
+patched = '''
+\c[10]Man\c[0]: Hey,\. would you be so kind as to bring the
+package to the nearest post office?
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 31
+original = '''
+\c[10]Mann\c[0]: Vielen Dank.\. Das Paket geht nach Pakonia.\. 
+Die Versandkosten werden wohl nicht ganz ohne 
+sein.\. Nehmt das Geld hier.
+'''
+patched = '''
+\c[10]Man\c[0]: Thank you very much.\. The package should be
+sent to Pakonia.\. There'll probably be quite
+some shipping costs.\. Use this money here.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 41
+original = '''
+\c[10]Mann\c[0]: Und das hier noch extra für all eure Mühen.
+'''
+patched = '''
+\c[10]Man\c[0]: And here, especially for all your efforts.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 49
+original = '''
+\c[10]Mann\c[0]: Vielen Dank für alles im Voraus.
+'''
+patched = '''
+\c[10]Man\c[0]: Thanks in advance for everything.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 55
+original = '''
+\c[10]Mann\c[0]: Ah, na ja das kann ich verstehen.\.
+Trotzdem vielen Dank.\. Hier, das gebe ich euch.
+'''
+patched = '''
+\c[10]Man\c[0]: Ah, well I can understand that.\. Regardless,
+thanks a lot.\. Here, I'll give you this.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 3
+original = '''
+\c[10]Mann\c[0]: Wart ihr schon mal in Pakonia?\. Es ist ganz 
+witzig mal dort zu sein. \.Gerade wegen der Uchiko- 
+Zucht dort. \.Ihr werdet nirgendwo sonst so viele 
+von den Viechern auf einmal zu sehen bekommen.
+'''
+patched = '''
+\c[10]Man\c[0]: Have you ever been to Pakonia?\. It's a very
+entertaining place.\. Especially because of the
+uchiko breeding scene there.\. Nowhere else will
+you see so many of those things at once.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 9
+original = '''
+\c[10]Mann\c[0]: Das Paket enthält nichts weiter als ein 
+paar Zutaten die sich ein paar Bekannte von mir 
+gewünscht haben. 
+'''
+patched = '''
+\c[10]Man\c[0]: The package contains nothing more than a few
+ingredients that some friends of mine would've
+liked.
+'''
+
+[[dialogue]]
+event = 5
+page = 3
+command = 12
+original = '''
+\c[10]Mann\c[0]: Ich glaube sie wollen damit wieder 
+irgendetwas für ihre Uchikos machen, die sie in 
+Pakonia züchten.
+'''
+patched = '''
+\c[10]Man\c[0]: I think they wanted to do something for the
+uchikos they breed in Pakonia.
+'''
+
+[[text]]
+event = 5
+page = 2
+command = 27
+has_portrait = true
+original = '''Gerne doch./Dafür haben wir keine Zeit.'''
+patched = '''Gladly./We don't have time for that.'''
+
+[[text]]
+event = 5
+page = 2
+command = 28
+has_portrait = true
+original = '''Gerne doch.'''
+patched = '''Gladly.'''
+
+[[text]]
+event = 5
+page = 2
+command = 53
+original = '''Dafür haben wir keine Zeit.'''
+patched = '''We don't have time for that.'''

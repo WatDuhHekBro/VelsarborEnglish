@@ -1,0 +1,434 @@
+[[dialogue]]
+event = 84
+page = 1
+command = 2
+original = '''
+\c[10]Wache\c[0]: Da drüben, jenseits des Wassers, ist der 
+"Stützpunkt der Pauamainer-Brüderschaft". \.Den 
+haben sie wirklich gut gewählt, da werden sie 
+nicht von uns Wachen gestört.
+'''
+patched = '''
+\c[10]Guard\c[0]: Over there, beyond the water, is the "base
+of the Pauamainer Brotherhood".\. They chose the
+location very well, because us guards won't
+disturb them.
+'''
+
+[[dialogue]]
+event = 84
+page = 1
+command = 6
+original = '''
+\c[10]Wache\c[0]: Also zumindest hätte ich keine Lust, diese 
+Sprungpassage über das Wasser auf mich zu nehmen.
+'''
+patched = '''
+\c[10]Guard\c[0]: At least I wouldn't feel like making a leap
+of faith across the water.
+'''
+
+[[dialogue]]
+event = 84
+page = 1
+command = 8
+original = '''
+\c[10]Wache\c[0]: Aber wir gönnen es ihnen, schließlich 
+leisten sie die beste Arbeit von allen hier.
+'''
+patched = '''
+\c[10]Guard\c[0]: But we do treat them well. After all,
+they're doing the best work out of all the
+prisoners.
+'''
+
+[[dialogue]]
+event = 85
+page = 1
+command = 2
+original = '''
+\c[10]Gefangene\c[0]: Ah... Ich mach immer zu schnell am 
+Anfang, verlier dann Kondition und lass dann 
+schnell nach...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Ah... I always put too much effort at
+the beginning, then quickly lose all my energy
+and can't do anything anymore...
+'''
+
+[[dialogue]]
+event = 85
+page = 1
+command = 5
+original = '''
+\c[10]Gefangene\c[0]: So werd ich nie ne anständige 
+Essensportion erhalten...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: I'll never get a decent meal...
+'''
+
+[[dialogue]]
+event = 86
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Würdet ihr es schaffen über das Wasser 
+hier zu kommen?\. Es gibt ne Reihe von Leuten hier, 
+die das fast täglich machen. Die springen von 
+Stein zu Stein, bis sie drüben sind.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Do you think you have what it takes to
+be able to cross the water here?\. There are quite
+a few people who do this almost every single day.
+'''
+
+[[dialogue]]
+event = 87
+page = 1
+command = 11
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Hey, du bist direkt bei 
+unserem Stützpunkt.\. Allein schon für die Tatsache, 
+dass du bis hierhin gekommen bist, haste nen Orden 
+verdient!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: Hey, you're right at our base.\.
+Just for the fact that you came this far, you
+deserve a medallion!
+'''
+
+[[dialogue]]
+event = 87
+page = 1
+command = 26
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Ihr guckt so verdutzt.\. Wenn 
+ihr mehr über uns und die Minen-Orden 
+erfahren wollt, besucht einfach unseren 
+Stützpunkt.
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: You look so confused.\. If you
+want to learn more about us and the miner
+medallions, just visit our base.
+'''
+
+[[dialogue]]
+event = 87
+page = 1
+command = 30
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Dieser befindet sich im 
+mittleren Bereich der Mine.\. Fahrt beim nächsten 
+Mal mit der Lore einfach rechts und dann 
+geradeaus.
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: It's located at the center of
+the mine.\. Next time on the railways, just go
+right and then straight.
+'''
+
+[[dialogue]]
+event = 87
+page = 1
+command = 36
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Glück auf!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: Good luck!
+'''
+
+[[dialogue]]
+event = 87
+page = 1
+command = 43
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Wenn du genug Orden gesammelt 
+hast, kommste in unseren Stützpunkt rein!\. Dann 
+sind wir eine Gemeinschaft, wie eine Familie, 
+Kumpel!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: If you've collected enough
+medallions, come to our base!\. We're a
+community, like a family!
+'''
+
+[[dialogue]]
+event = 88
+page = 1
+command = 12
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Dies ist der Stützpunkt der 
+Pauamainer-Untertage-Brüderschaft!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: This is the base of the
+underground Pauamainer Brotherhood!
+'''
+
+[[dialogue]]
+event = 88
+page = 1
+command = 15
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: NUR MITGLIEDER HABEN 
+ZUTRITT!!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: ONLY MEMBERS HAVE ACCESS!!
+'''
+
+[[dialogue]]
+event = 88
+page = 1
+command = 21
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja ja, schon verstanden.\.
+Hier, wir haben alle Minen-Orden. \.
+Können wir durch?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Okay okay, I understand.\. We have all miner
+medallions here.\. Can we pass now?
+'''
+
+[[dialogue]]
+event = 88
+page = 1
+command = 29
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: IHR HABT ALLE 8 MINEN-ORDEN 
+GESAMMELT!\.\^
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: YOU HAVE COLLECTED ALL EIGHT
+MINER MEDALLIONS!\.\^
+'''
+
+[[dialogue]]
+event = 88
+page = 1
+command = 32
+original = '''
+\>\c[10]Pauamainer-Miglied\c[0]: IHR HABT ALLE 8 MINEN-ORDEN 
+\>GESAMMELT!\< DAMIT SEID ICH NUN OFFIZIELL MITGLIEDER 
+DER PAUAMAINER-UNTERTRAGE-BRÜDERSCHAFT!\.\^
+'''
+patched = '''
+\>\c[10]Pauamainer Member\c[0]: YOU HAVE COLLECTED ALL EIGHT
+\>MINER MEDALLIONS!\< SO NOW YOU THREE ARE OFFICIALLY
+MEMBERS OF THE UNDERGROUND PAUAMAINER BROTHERHOOD!\.\^
+'''
+
+[[dialogue]]
+event = 88
+page = 1
+command = 36
+original = '''
+\>\c[10]Pauamainer-Miglied\c[0]: IHR HABT ALLE 8 MINEN-ORDEN 
+\>GESAMMELT! DAMIT SEID ICH NUN OFFIZIELL MITGLIEDER 
+\>DER PAUAMAINER-UNTERTRAGE-BRÜDERSCHAFT!\< HERZLICHEN 
+WILLKOMMEN!\.\^
+'''
+patched = '''
+\>\c[10]Pauamainer Member\c[0]: YOU HAVE COLLECTED ALL EIGHT
+\>MINER MEDALLIONS! SO NOW YOU THREE ARE OFFICIALLY
+\>MEMBERS OF THE UNDERGROUND PAUAMAINER BROTHERHOOD!\<
+WELCOME!\.\^
+'''
+
+[[dialogue]]
+event = 88
+page = 1
+command = 46
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Juhu, wir sind in der 
+Brüderschaft!\. Sogar Soko!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Yay, we're in the brotherhood!\.
+Even Soko!
+'''
+
+[[dialogue]]
+event = 88
+page = 1
+command = 49
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 88
+page = 1
+command = 56
+original = '''
+\>\c[10]Pauamainer-Miglied\c[0]: IHR DÜRFT PASSIEREN!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: YOU MAY PASS!
+'''
+
+[[dialogue]]
+event = 88
+page = 1
+command = 83
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: Wenn ihr Mitglieder werden 
+wollt, BRINGT MIR 8 MINEN-ORDEN!!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: If you want to become a member,
+BRING ME EIGHT MINER MEDALLIONS!!
+'''
+
+[[dialogue]]
+event = 88
+page = 1
+command = 88
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Minen-Orden?\. Ehm...\. 
+Und wo bekommt man die her?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Miner medallions?\. Um...\.
+Where do we find these?
+'''
+
+[[dialogue]]
+event = 88
+page = 1
+command = 92
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: 8 PAUAMAINER-MITGLIEDER, die 
+in den hintersten Ecken der Mine arbeiten, werden 
+euch die Orden überreichen,\. WENN IHR SIE 
+ERREICHT!!!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: EIGHT PAUAMAINER MEMBERS\. who
+work in the far corners of the mine will award
+you the medallions\. WHEN YOU REACH THEM!!!
+'''
+
+[[dialogue]]
+event = 88
+page = 1
+command = 99
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Muss der Typ immer so laut 
+schreien?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Does this guy always have to
+scream so loud?
+'''
+
+[[dialogue]]
+event = 88
+page = 1
+command = 103
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Glaubst du wirklich, der Typ 
+kann normal reden?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Do you really think the guy can
+speak normally?
+'''
+
+[[dialogue]]
+event = 88
+page = 2
+command = 10
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: BESUCHT UNS BALD WIEDER!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: VISIT US SOON!
+'''
+
+[[dialogue]]
+event = 88
+page = 2
+command = 30
+original = '''
+\c[10]Pauamainer-Miglied\c[0]: HALLO BRÜDER!\. IHR DÜRFT 
+PASSIEREN!
+'''
+patched = '''
+\c[10]Pauamainer Member\c[0]: HELLO BROTHERS!\. YOU MAY PASS!
+'''
+
+[[dialogue]]
+event = 89
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 90
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''
+
+[[dialogue]]
+event = 91
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: An der Stelle arbeitet 
+bereits jemand. Es würde nur stören, 
+wenn wir hier mithelfen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Looks like someone's already
+working here. We'd only be disturbing
+them if we tried to help out.)
+'''

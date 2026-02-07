@@ -1,0 +1,76 @@
+[[dialogue]]
+event = 3
+page = 1
+command = 7
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ...War ja klar.\. Natürlich 
+bekam Uroto ein Bett und weil wir 
+einen auf Gentleman machen 
+mussten, bekam Soko das zweite.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Just my luck.\. Of course Uroto
+got a bed, and because we had to be
+gentlemen, Soko got the second.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 12
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Aber dann gewinnt auch noch 
+dieser Glückspilz Royko das dritte 
+Bett für sich, bei der Auslosung... 
+Das Leben ist nicht fair.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: But then that lucky Royko guy
+also wins the third bed in the
+draw...\. Life isn't fair.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 17
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]:  Komm,\. es ist ja nur für diese 
+Nacht...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Now now,\. it's only for this
+night...
+'''
+
+[[dialogue]]
+event = 3
+page = 2
+command = 13
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: ... )
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: ...)
+'''
+
+[[dialogue]]
+event = 3
+page = 3
+command = 28
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: ....Und wieder verschlafen...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: ...and I overslept again...)
+'''

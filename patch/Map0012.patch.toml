@@ -1,0 +1,220 @@
+[[dialogue]]
+event = 1
+page = 1
+command = 42
+has_portrait = true
+original = '''
+Stillgestanden!
+'''
+patched = '''
+Stillgestanden!
+'''
+
+[[dialogue]]
+event = 1
+page = 1
+command = 47
+original = '''
+\c[4]?????:\c[0] In Kürze soll ein 
+kleiner Trupp von Kelzuhr
+hier vorbei kommen. 
+'''
+patched = '''
+\c[4]?????:\c[0] In Kürze soll ein 
+kleiner Trupp von Kelzuhr
+hier vorbei kommen. 
+'''
+
+[[dialogue]]
+event = 1
+page = 1
+command = 50
+original = '''
+\c[4]?????:\c[0] Unserer Aufgabe ist es,
+ihn zu stoppen, also haltet euch 
+bereit.\. Der Kampf wird nicht 
+unbedingt einfach.
+'''
+patched = '''
+\c[4]?????:\c[0] Unserer Aufgabe ist es,
+ihn zu stoppen, also haltet euch 
+bereit.\. Der Kampf wird nicht 
+unbedingt einfach.
+'''
+
+[[dialogue]]
+event = 1
+page = 1
+command = 54
+original = '''
+\c[4]?????:\c[0] Da der Trupp wahrscheinlich 
+vom Gebirge hinab kommen wird,\. wenn 
+wir aufeinander treffen,\. werden sie 
+uns schon vorher bemerken.
+'''
+patched = '''
+\c[4]?????:\c[0] Da der Trupp wahrscheinlich 
+vom Gebirge hinab kommen wird,\. wenn 
+wir aufeinander treffen,\. werden sie 
+uns schon vorher bemerken.
+'''
+
+[[dialogue]]
+event = 1
+page = 1
+command = 60
+original = '''
+\c[4]Soldat:\c[0] General Daikon,
+sollten wir einen Hinterhalt planen?
+'''
+patched = '''
+\c[4]Soldat:\c[0] General Daikon,
+sollten wir einen Hinterhalt planen?
+'''
+
+[[dialogue]]
+event = 1
+page = 1
+command = 65
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]:\c[0] Genau das hatte ich vor.
+Hier im Gebirge kann man auch viele 
+geeignete Verstecke finden.
+'''
+patched = '''
+\c[4]\n[4]:\c[0] Genau das hatte ich vor.
+Hier im Gebirge kann man auch viele 
+geeignete Verstecke finden.
+'''
+
+[[dialogue]]
+event = 1
+page = 1
+command = 69
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]:\c[0] Also los!\.
+Seht zu, dass man euch von der Höhe 
+aus nicht sehen kann!\s[9].......\.\s[0] 
+Was ist da hinten los?
+'''
+patched = '''
+\c[4]\n[4]:\c[0] Also los!\.
+Seht zu, dass man euch von der Höhe 
+aus nicht sehen kann!\s[9].......\.\s[0] 
+Was ist da hinten los?
+'''
+
+[[dialogue]]
+event = 1
+page = 1
+command = 74
+original = '''
+\c[4]Soldat:\c[0] Der Trupp scheint
+schon zu kommen! Schauen sie
+da oben!
+'''
+patched = '''
+\c[4]Soldat:\c[0] Der Trupp scheint
+schon zu kommen! Schauen sie
+da oben!
+'''
+
+[[dialogue]]
+event = 1
+page = 1
+command = 122
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]:\c[0] Sie kommen weitausfrüher 
+als ich gedacht habe....\.
+'''
+patched = '''
+\c[4]\n[4]:\c[0] Sie kommen weitausfrüher 
+als ich gedacht habe....\.
+'''
+
+[[dialogue]]
+event = 1
+page = 1
+command = 128
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]:\c[0] Jetzt müssen wir schnell 
+handeln...
+'''
+patched = '''
+\c[4]\n[4]:\c[0] Jetzt müssen wir schnell 
+handeln...
+'''
+
+[[dialogue]]
+event = 1
+page = 1
+command = 134
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]:\c[0] Wir teilen uns in 2 Gruppen 
+auf.\. Einmal ich mit zwei weiteren 
+Männer und der Rest ist die zweite 
+Gruppe.\. Verstanden?
+'''
+patched = '''
+\c[4]\n[4]:\c[0] Wir teilen uns in 2 Gruppen 
+auf.\. Einmal ich mit zwei weiteren 
+Männer und der Rest ist die zweite 
+Gruppe.\. Verstanden?
+'''
+
+[[dialogue]]
+event = 1
+page = 1
+command = 139
+original = '''
+\c[4]Soldat:\c[0] Jawohl Sir.
+'''
+patched = '''
+\c[4]Soldat:\c[0] Jawohl Sir.
+'''
+
+[[dialogue]]
+event = 1
+page = 1
+command = 142
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]:\c[0] Jede Gruppe nimmt
+sich 4 Soldaten vor!\. So müssten 
+wir es schaffen...
+'''
+patched = '''
+\c[4]\n[4]:\c[0] Jede Gruppe nimmt
+sich 4 Soldaten vor!\. So müssten 
+wir es schaffen...
+'''
+
+[[dialogue]]
+event = 1
+page = 1
+command = 151
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]:\c[0] Ihr beiden kommt mit mir!
+\. ...\. Los gehts!
+'''
+patched = '''
+\c[4]\n[4]:\c[0] Ihr beiden kommt mit mir!
+\. ...\. Los gehts!
+'''
+
+[[text]]
+event = 1
+page = 1
+command = 63
+original = '''Daikon'''
+patched = '''Daikon'''

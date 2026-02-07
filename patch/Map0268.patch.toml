@@ -1,0 +1,230 @@
+[[dialogue]]
+event = 18
+page = 1
+command = 45
+has_portrait = true
+original = '''
+\c[10]Belias\c[0]: Die Schallhaube kann jetzt 
+aufgehoben werden!
+'''
+patched = '''
+\c[10]Belias\c[0]: The sound inhibitor can now be
+lifted!
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 112
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Vielen Dank für die schnelle 
+Unterstützung.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Thank you very much for the
+quick support.
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 116
+has_portrait = true
+original = '''
+\c[10]Belias\c[0]: Wir stecken hier in den 
+selben Schwierigkeiten, wir müssen 
+gemeinsam raus finden.
+'''
+patched = '''
+\c[10]Belias\c[0]: We have the same predicament
+here, so we're in this together.
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 121
+has_portrait = true
+original = '''
+\c[10]Belias\c[0]: Beeilt euch mit der 
+Evakuierung der Truppen, die Boote 
+warten nordöstlich am Waldrand.
+'''
+patched = '''
+\c[10]Belias\c[0]: Hurry up with the evacuation
+of the soldiers, the ships are waiting
+northeast at the edge of the forest.
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 126
+has_portrait = true
+original = '''
+\c[10]Belias\c[0]: Ihr fahrt den Fluss gen 
+Norden, bis ihr von den Aquilwäldern 
+umrundet seid.\. Dort wird der neue 
+Stützpunkt vorbereitet.
+'''
+patched = '''
+\c[10]Belias\c[0]: You'll move north through the
+river until you're surrounded by the
+Aquil Forests.\. The new base is being
+prepared there.
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 131
+has_portrait = true
+original = '''
+\c[10]Belias\c[0]: Die Magier werden euch 
+helfen, bei der Fahrt unbeobachtet zu 
+bleiben.
+'''
+patched = '''
+\c[10]Belias\c[0]: These mages will help you to
+go unnoticed while you're moving.
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 135
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Ausgezeichnet.\. Ich werde 
+zusehen, dass die Truppen zusammen 
+bleiben.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Excellent.\. I'll see to it that
+the soldiers stay together.
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 145
+has_portrait = true
+original = '''
+\c[10]Belias\c[0]: Übrigens, wo ist Herr 
+Kiorta?
+'''
+patched = '''
+\c[10]Belias\c[0]: By the way, where's Mr.
+Kiorta?
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 148
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Felcis ist auf den Weg nach 
+Helnovien.\. Er hat einen Plan, wie 
+man Brigantia von den Untersuchungen 
+kurzfristig ablenken kann.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Felcis is on his way to
+Helnovien.\. He has a plan on how to
+distract Brigantia from investigating
+in the short term.
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 156
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Er sollte Sie darüber 
+informiert haben.
+'''
+patched = '''
+\c[4]\n[4]\c[0]: He should've informed you of
+this.
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 159
+has_portrait = true
+original = '''
+\c[10]Belias\c[0]: Der Brief wird wohl erst 
+nach meiner Abreise angekommen sein.
+'''
+patched = '''
+\c[10]Belias\c[0]: The letter will probably on be
+there after I get back.
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 161
+has_portrait = true
+original = '''
+\c[10]Belias\c[0]: Naja, wenn Herr Kiorta etwas 
+plant, hat das in der Regel Hand und 
+Fuß.\. Vertrauen wir einfach mal 
+darauf.
+'''
+patched = '''
+\c[10]Belias\c[0]: Well, if Mr. Kiorta makes a
+plan, it's usually in the right hands.\.
+Let's just trust him on this.
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 172
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: Nun gut.\. Fangen wir dann mit 
+der Evakurierung an!
+'''
+patched = '''
+\c[4]\n[4]\c[0]: Alright.\. Let's begin with the
+evacuation!
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 192
+has_portrait = true
+character = '''Genyu'''
+original = '''
+\c[4]\n[4]\c[0]: MÄNNER!\. VERSAMMELT EUCH!
+'''
+patched = '''
+\c[4]\n[4]\c[0]: MEN!\. GATHER AROUND!
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 225
+has_portrait = true
+original = '''
+\c[10]Belias\c[0]: Oh, oh.\. Ich hätte die 
+Schallhaube besser nicht 
+aufheben lassen sollen...
+'''
+patched = '''
+\c[10]Belias\c[0]: Oh no.\. I shouldn't have had
+the sound inhibitor lifted...
+'''

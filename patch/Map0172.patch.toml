@@ -1,0 +1,86 @@
+[[dialogue]]
+event = 32
+page = 1
+command = 2
+original = '''
+\c[10]Postbote\c[0]: Unsere nächste Tour führt Richtung 
+Sinun, eigentlich eine recht einfache Strecke, 
+schließlich müssen wir nicht das Torasgebirge 
+passieren.
+'''
+patched = '''
+\c[10]Postman\c[0]: Our next journey leads to Sinun,
+actually a fairly easy route, after all
+we don't have to pass Mount Toras.
+'''
+
+[[dialogue]]
+event = 33
+page = 1
+command = 2
+original = '''
+\c[10]Postbote\c[0]: Sinun,\. och nee.\. Ich hasse diese Gegend.\. 
+Auf der Ebene südlich dieser Stadt weht manchmal 
+so ein dermaßen starker Wind, dass es dich fast 
+vom Uchiko reißt. 
+'''
+patched = '''
+\c[10]Postman\c[0]: Oh no,\. Sinun.\. I hate this place.\. On the
+plains south of this city, the wind is so strong
+that it almost tears you off your uchiko.
+'''
+
+[[dialogue]]
+event = 33
+page = 1
+command = 6
+original = '''
+\c[10]Postbote\c[0]: Glaub mir, es ist anstrengend, da 
+entlang zu reiten.
+'''
+patched = '''
+\c[10]Postman\c[0]: Trust me, it's tiring to ride there.
+'''
+
+[[dialogue]]
+event = 34
+page = 1
+command = 2
+original = '''
+\c[10]Postbote\c[0]: Hehe, meine Route geht diesmal nur bis 
+Domarkor.\. Meine Glücksträhne bei der Routen-
+Zuweisung hält an!
+'''
+patched = '''
+\c[10]Postman\c[0]: Hehe, this time my route only goes to
+Domarkor.\. My lucky streak of where I go to
+continues!
+'''
+
+[[dialogue]]
+event = 34
+page = 1
+command = 9
+original = '''
+\c[10]Postbote gegenüber\c[0]: Freu dich nicht zu früh.\. Die 
+meisten die in Domarkor landen, kriegen daraufhin 
+eine Route zugewiesen die über das Torasgebirge 
+führt.
+'''
+patched = '''
+\c[10]Other Postman\c[0]: Don't rejoice too soon.\. Most of
+those who land in Domarkor are then assigned
+a route that leads over Mount Toras.
+'''
+
+[[dialogue]]
+event = 34
+page = 1
+command = 13
+original = '''
+\c[10]Postbote\c[0]: Wir werden ja sehen, ob mich dort mein 
+Glück verlassen wird.
+'''
+patched = '''
+\c[10]Postman\c[0]: We'll see if my luck will leave me then.
+'''

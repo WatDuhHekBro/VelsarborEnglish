@@ -1,0 +1,117 @@
+[[dialogue]]
+event = 37
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Veraltete Schwert-Waffen 
+zum Trainieren...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Outdated swords for
+training...)
+'''
+
+[[dialogue]]
+event = 38
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Veraltete Lanzen-Waffen 
+zum Trainieren...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Outdated lances for
+training...)
+'''
+
+[[dialogue]]
+event = 39
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Veraltete Schwert-Waffen 
+zum Trainieren...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Outdated swords for
+training...)
+'''
+
+[[dialogue]]
+event = 40
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Veraltete Lanzen-Waffen 
+zum Trainieren...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Outdated lances for
+training...)
+'''
+
+[[dialogue]]
+event = 41
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Veraltete Schwert-Waffen 
+zum Trainieren...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Outdated swords for
+training...)
+'''
+
+[[dialogue]]
+event = 42
+page = 1
+command = 3
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Veraltete Lanzen-Waffen 
+zum Trainieren...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Outdated lances for
+training...)
+'''
+
+[[dialogue]]
+event = 45
+page = 2
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Diese billigen 
+Trainings-Fässer halten höchstens ein paar 
+Wochen aus, dann sind sie zerschrottet. 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: These cheap training dummies
+last a few weeks at most, then they're scrapped.
+'''
+
+[[dialogue]]
+event = 45
+page = 2
+command = 5
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Man sollte lieber 
+mal ein paar anständige Trainings-Geräte 
+erstellen, als immer nur neue Trainings-Fässer.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: It's better to create a
+few decent ones than to always get new ones.
+'''

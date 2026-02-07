@@ -1,0 +1,79 @@
+[[dialogue]]
+event = 6
+page = 2
+command = 3
+original = '''
+\c[10]Putzfrau\c[0]: Die Leute schmeißen dauernd 
+irgendwelchem Mist in die Blumentöpfe...\. Das ist 
+nicht gut für die Pflanzen! 
+'''
+patched = '''
+\c[10]Maid\c[0]: People constantly throw some crap
+into the flower pots...\. It's not good
+for the plants!
+'''
+
+[[dialogue]]
+event = 12
+page = 1
+command = 11
+original = '''
+
+Dies ist ein \c[11]Speicherpunkt\c[0].
+'''
+patched = '''
+
+This is a \c[11]save point\c[0].
+'''
+
+[[dialogue]]
+event = 12
+page = 1
+command = 13
+original = '''
+
+Wenn man auf solch einen steht, kann man \c[11]den
+Spielstand speichern\c[0].
+'''
+patched = '''
+
+When you stand on one of these, you can
+\c[11]save the game\c[0].
+'''
+
+[[dialogue]]
+event = 12
+page = 1
+command = 16
+original = '''
+
+Öffne dazu das \c[11]Menu\c[0] mit \c[11]Esc\c[0] und wähle
+dann \c[11]Speichern\c[0].
+'''
+patched = '''
+
+To do this, open the \c[11]menu\c[0] using \c[11]Esc\c[0] and
+then select \c[11]Save\c[0].
+'''
+
+[[dialogue]]
+event = 12
+page = 1
+command = 19
+original = '''
+
+Auf der \c[11]Weltkarte\c[0] kann man übigens
+immer speichern.
+'''
+patched = '''
+
+Additionally, you can always save on
+the \c[11]world map\c[0].
+'''
+
+[[text]]
+event = 12
+page = 1
+command = 4
+original = '''GasthofToras'''
+patched = '''Mt Toras Inn'''

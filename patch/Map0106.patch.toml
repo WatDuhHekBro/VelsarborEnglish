@@ -1,0 +1,30 @@
+[[dialogue]]
+event = 1
+page = 2
+command = 4
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Der Abstand ist hier zu groß, 
+um rüber zu springen...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: The distance here is
+too large to jump over...)
+'''
+
+[[dialogue]]
+event = 1
+page = 2
+command = 8
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Hm...\. hier unten ist das 
+Wasser seicht...\. Vielleicht kann man 
+ja...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Hm...\. The water here
+is shallow...\. Maybe I can...)
+'''

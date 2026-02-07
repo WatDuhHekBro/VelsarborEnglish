@@ -1,0 +1,23 @@
+[[dialogue]]
+event = 127
+page = 1
+command = 34
+original = '''
+\c[10]????\c[0]: Sir?\. Es gibt Neuigkeiten aus 
+Nomerea.
+'''
+patched = '''
+\c[10]????\c[0]: Sir?\. There's news from Nomerea.
+'''
+
+[[dialogue]]
+event = 127
+page = 1
+command = 38
+has_portrait = true
+original = '''
+\c[10]????\c[0]: Nomerea?\. Sieh' an, sieh' an...
+'''
+patched = '''
+\c[10]????\c[0]: Nomerea?\. Well well...
+'''

@@ -1,0 +1,181 @@
+[[dialogue]]
+event = 21
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Das schlimme ist nicht die 
+Minenarbeit, sondern diese Lorenfahrt zu Beginn. 
+'''
+patched = '''
+\c[10]Prisoner\c[0]: The bad thing is not the mining, but
+travelling through the railways at the beginning.
+'''
+
+[[dialogue]]
+event = 21
+page = 1
+command = 4
+original = '''
+\c[10]Gefangener\c[0]: Man nimmt da so riesige 
+Geschwindigkeiten an, ich will gar nicht daran 
+denken was passiert, wenn man da aus den Schienen 
+fliegt.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: You get to such high speeds, I don't
+even want to think about what happens if you
+fly off the rails.
+'''
+
+[[dialogue]]
+event = 22
+page = 1
+command = 2
+original = '''
+\c[10]Gefangener\c[0]: Euch sind doch sicher auch diese 
+tiefen Abgründe dort bei den Schienen aufgefallen, 
+oder?\. Niemand weiß, wie tief diese Schluchten sind 
+und wohin sie führen!
+'''
+patched = '''
+\c[10]Prisoner\c[0]: You must've noticed these deep chasms
+there by the rails, right?\. Nobody knows how
+deep these chasms are and where they lead to!
+'''
+
+[[dialogue]]
+event = 22
+page = 1
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: Ich möcht's auch ehrlich gesagt 
+lieber nich' raus finden.\. Wer da reinfällt hat eh 
+mit seinem Leben abgeschlossen.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: I honestly don't want to find out.\.
+Whoever falls into it is already done for.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 2
+original = '''
+\c[10]Wache\c[0]: Soso, ihr seid also diese Verräter des 
+Landes, ehemalige Soldaten des Briganten-Orden. 
+'''
+patched = '''
+\c[10]Guard\c[0]: So you're the traitors to the country,
+former soldiers of the Brigantine Order.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 4
+original = '''
+\c[10]Wache\c[0]: Wenn es nach mir ginge, könntet ihr in den 
+tiefen Erdlöchern Erz schürfen, bis ihr dort
+verreckt.\. Für Leute wie euch ist harte Minenarbeit 
+eine Gnade.
+'''
+patched = '''
+\c[10]Guard\c[0]: If it were up to me, I'd throw you into
+the depths and make you mine ore until your
+dying breaths.\. For people like you, being
+given hard work is extremely merciful.
+'''
+
+[[dialogue]]
+event = 26
+page = 1
+command = 2
+original = '''
+\c[10]Wache\c[0]: Früher ging die Schienenstrecke hier noch 
+weiter, aber seit wir hier ein stärkeres Erdbeben 
+hatten, ist alles zugeschüttet. 
+'''
+patched = '''
+\c[10]Guard\c[0]: The railways used to go further from here,
+but ever since we had that strong earthquake,
+that area has been blocked off.
+'''
+
+[[dialogue]]
+event = 26
+page = 1
+command = 5
+original = '''
+\c[10]Wache\c[0]: Von dem Bereich, zu dem diese Schienen 
+führen, sind wir komplett abgetrennt.
+'''
+patched = '''
+\c[10]Guard\c[0]: We're completely separated from the area
+these rails used to lead to.
+'''
+
+[[dialogue]]
+event = 48
+page = 1
+command = 11
+original = '''
+
+Dies ist ein \c[11]Speicherpunkt\c[0].
+'''
+patched = '''
+
+This is a \c[11]save point\c[0].
+'''
+
+[[dialogue]]
+event = 48
+page = 1
+command = 13
+original = '''
+
+Wenn man auf solch einen steht, kann man \c[11]den
+Spielstand speichern\c[0].
+'''
+patched = '''
+
+When you stand on one of these, you can
+\c[11]save the game\c[0].
+'''
+
+[[dialogue]]
+event = 48
+page = 1
+command = 16
+original = '''
+
+Öffne dazu das \c[11]Menu\c[0] mit \c[11]Esc\c[0] und wähle
+dann \c[11]Speichern\c[0].
+'''
+patched = '''
+
+To do this, open the \c[11]menu\c[0] using \c[11]Esc\c[0] and
+then select \c[11]Save\c[0].
+'''
+
+[[dialogue]]
+event = 48
+page = 1
+command = 19
+original = '''
+
+Auf der \c[11]Weltkarte\c[0] kann man übigens
+immer speichern.
+'''
+patched = '''
+
+Additionally, you can always save on
+the \c[11]world map\c[0].
+'''
+
+[[text]]
+event = 48
+page = 1
+command = 4
+original = '''Helnov Mine4'''
+patched = '''Mine (Cliffs)'''

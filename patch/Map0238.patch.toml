@@ -1,0 +1,965 @@
+[[dialogue]]
+event = 3
+page = 1
+command = 27
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Soso.\. Herr Daikon.\. Kento! \.
+Wie hat dir die Minenarbeit 
+gefallen?
+'''
+patched = '''
+\c[10]General\c[0]: Well,\. well,\. well.\. Mr. Daikon.\.
+Kento!\. How's working in the mine for
+you?
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 32
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 35
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Rede!\. Wie hat sie dir 
+gefallen?
+'''
+patched = '''
+\c[10]General\c[0]: Speak!\. How do you feel about
+it?
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 38
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...\.Es war anstrengend...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It was exhausting...
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 40
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Das glaube ich.\. Doch es ist 
+nicht viel mehr als ein 
+gewöhnlicher, harter Arbeitstag, 
+nicht wahr?
+'''
+patched = '''
+\c[10]General\c[0]: I thought so too.\. But it's
+not any harder than an ordinary,
+hardworking day, isn't it?
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 45
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Nun laufen da unten aber 
+auch mehr als genug Soldaten rum, 
+die unter meinem Befehl stehen.
+'''
+patched = '''
+\c[10]General\c[0]: Now, there are more than
+enough soldiers under my command.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 49
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Ich bin also in der Lage, 
+dir das Leben da unten erst so 
+richtig zur Hölle zu machen.\. Ist dir 
+das klar?
+'''
+patched = '''
+\c[10]General\c[0]: So I can truly make your life
+down there a living hell.\. Do you even
+realize that?
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 53
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Wenn du und deine Kollegen 
+also einen Arbeitstag ohne Tracht 
+Prügel bevorzugt, solltest du mir 
+besser sagen, was ich hören will!
+'''
+patched = '''
+\c[10]General\c[0]: So if you and your friends
+prefer working here without a beating,
+you'd better tell me what I want to
+hear!
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 57
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Verstanden?
+'''
+patched = '''
+\c[10]General\c[0]: You understand that?
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 63
+has_portrait = true
+original = '''
+\c[10]General\c[0]: VERSTANDEN?
+'''
+patched = '''
+\c[10]General\c[0]: \s[2]DO YOU OR DO YOU NOT
+UNDERSTAND THAT?!
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 65
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yes.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 73
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Also fangen wir an. \.
+Was ist das für eine Truppe, für die 
+ihr spioniert habt?
+'''
+patched = '''
+\c[10]General\c[0]: So let's get started.\. What
+kind of troops are you spying for?
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 77
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Eine Truppe, die im 
+Untergrund ein Heer gebildet hat, 
+von dem Brigantia nichts wusste.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: A group that's been forming an
+army underground which Brigantian
+didn't know about.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 82
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Sehr schön Kento, aber das 
+wissen wir bereits!\. Steht diese 
+Truppe in Verbindung mit den 
+Farenischen Adelsbund?
+'''
+patched = '''
+\c[10]General\c[0]: Nice try Kento, but we
+already know that!\. Is this group
+connected to the Farenian Aristocracy?
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 88
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Das weiß ich nicht.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I don't know.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 110
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Falsche Antwort.\. Erzähl mir 
+nicht, dass du als Spion dieser 
+Truppe nicht über so eine 
+grundlegende Sache Bescheid weißt!
+'''
+patched = '''
+\c[10]General\c[0]: Wrong answer.\. Don't tell me
+that as a spy for this group, you
+don't know the first thing about
+them!
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 115
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...\. Ja, sie stehen in 
+Verbindung mit dem farenischen 
+Adelsbund.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...\.Yes, they're connected to
+the Farenian Aristocracy.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 119
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Gut.\. Was ist das Ziel 
+dieser Truppe?
+'''
+patched = '''
+\c[10]General\c[0]: Good.\. What's the goal of this
+group?
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 126
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Sie wollen Brigantia 
+einengen und die Landesteile, die 
+Korzojeno im Krieg verloren hat 
+wieder gewinnen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: They want to whittle down
+Brigantia's forces and regain the
+parts of the country that Korzojeno
+lost during the war.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 146
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Erzähl mir keine 
+Lügengeschichten! 
+'''
+patched = '''
+\c[10]General\c[0]: Quit lying to me!
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 148
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Wie will ein Heer, das so 
+klein ist, dass man es im Untergrund 
+ansammeln kann, gegen die Armee des 
+Briganten-Orden bestehen?!
+'''
+patched = '''
+\c[10]General\c[0]: How does an army so small
+think that it can build itself up
+and stand against the Brigantine
+Order?!
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 153
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Eine Geheimwaffe...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: A secret weapon...
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 159
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Was war das?
+'''
+patched = '''
+\c[10]General\c[0]: What did you say?
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 162
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es gibt eine Geheimwaffe, mit 
+der sie Brigantia ebenbürtig wären.\.
+Allerdings weiß ich nichts Genaueres 
+darüber... 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: There's a secret weapon, the
+likes of which would rival Brigantia's
+strength.\. However, I don't know
+anything more about it...
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 167
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Die Informationen sind streng 
+gehei...\.\^
+'''
+patched = '''
+\c[1]\n[1]\c[0]: That information is strictly
+confidential...\.\^
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 186
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Du weißt mit Sicherheit 
+mehr! ALSO REDE!
+'''
+patched = '''
+\c[10]General\c[0]: You definitely know more!
+SO TELL ME!
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 192
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es ist ein Zauber...\. Ähnlich 
+wie Septoccasus. 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It's some type of magic...\.
+similar to Septoccasus.
+'''
+
+[[dialogue]]
+event = 3
+page = 1
+command = 198
+has_portrait = true
+original = '''
+\c[10]General\c[0]: Nun, das hört sich 
+Interessant an.\. Ich warne dich, wehe 
+du erzählst mir etwas Falsches!
+'''
+patched = '''
+\c[10]General\c[0]: Well now, that sounds
+interesting.\. I'm warning you, if what
+you told me is wrong, that living hell
+I talked about isn't too far away!
+'''
+
+[[dialogue]]
+event = 3
+page = 2
+command = 27
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Soso, du bist also 
+Cibon Tirunel.\. Hat dir dein Kollege 
+schon erzählt, wie das hier mit dem 
+Verhör abläuft?
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: Well,\. well,\. well.\. So
+you're Cibon Tirunel.\. Has your
+friend already told you how
+these interrogations work?
+'''
+
+[[dialogue]]
+event = 3
+page = 2
+command = 32
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Du sagst was oder du wirst 
+geschlagen, oder?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I say what you want or I get
+hit, right?
+'''
+
+[[dialogue]]
+event = 3
+page = 2
+command = 36
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Fast!\. Die Wahrheit 
+wollen wir hören und nichts weiter! 
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: Almost!\. We just want to
+hear the truth and nothing more!
+'''
+
+[[dialogue]]
+event = 3
+page = 2
+command = 38
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Sollten sich deine 
+Aussagen als falsch herausstellen, 
+werden wir uns wieder treffen, das 
+garantier ich dir.
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: If your stories don't
+line up, we WILL meet again, mark
+my words.
+'''
+
+[[dialogue]]
+event = 3
+page = 2
+command = 43
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Bla,\. bla,\. bla.\. Haben wir 
+jetzt genug gelabert und können 
+endlich mit den Fragen beginnen?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Blah,\. blah,\. blah.\. Are we done
+talking now and can we finally get
+around to the questions already?
+'''
+
+[[dialogue]]
+event = 3
+page = 3
+command = 27
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Soso. \.Soko Filaja.\. Ein 
+weiblicher Soldat des Briganten-
+Orden.\. Was heute so alles ins Heer 
+reinkommt, kaum zu glauben.
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: Well,\. well,\. well.\. Soko
+Filaja.\. A female soldier of the
+Brigantine Order.\. Hard to believe what
+kind of people they're letting in now.
+'''
+
+[[dialogue]]
+event = 3
+page = 3
+command = 35
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Ich denke mal, ihr drei 
+wisst mittlerweile, wie das hier 
+läuft.\. Also gehen wir gleich zu den 
+Fragen.
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: I think you three know
+how this works by now.\. So let's go
+straight to the questions.
+'''
+
+[[dialogue]]
+event = 3
+page = 3
+command = 40
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Dieses Verhör ist sinnlos.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: This interrogation is pointless.
+'''
+
+[[dialogue]]
+event = 3
+page = 3
+command = 46
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Was war das?
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: What's that?
+'''
+
+[[dialogue]]
+event = 3
+page = 3
+command = 48
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Dieses Verhör ist sinnlos.\. Sie 
+können keine Informationen aus uns 
+rauspressen, weil wir nichts wissen!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: This interrogation is pointless.\.
+You can't squeeze information out of
+us because we don't know anything!
+'''
+
+[[dialogue]]
+event = 3
+page = 3
+command = 54
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Nun, bei deinen beiden 
+Kollegen klang das aber ganz anders!
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: Well then, that sounds
+rather different compared to your
+two friends!
+'''
+
+[[dialogue]]
+event = 3
+page = 3
+command = 60
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Natürlich klang das anders!\.
+Sie wurden ja dazu gezwungen etwas 
+zu sagen, irgendetwas!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Of course it sounded different!\.
+They were forced to say something,
+anything even!
+'''
+
+[[dialogue]]
+event = 3
+page = 3
+command = 82
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Richtig!\. Und bei dir 
+wird das nicht anders sein, mein 
+Fräulein.
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: That's right!\. And it
+won't be any different with you,
+young lady.
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 27
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Soso...\. Sir Kiorta.\. Sie 
+kommen also als Bote vom Adelsbund 
+höchstpersönlich, behaupten Sie.
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: Well,\. well,\. well...\. Sir
+Kiorta.\. So you've personally come as
+a messenger from the aristocracy,
+you say.
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 31
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Wenn Ihr mir nicht glaubt, 
+holt euch einfach eine Bestätigung 
+von Farenia selber.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: If you don't believe me, just
+get confirmation from Farenia
+yourself.
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 35
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Das ist nicht 
+notwendig.\. Wir glauben Ihnen.\. Wieso 
+sonst, denken Sie, hätten wir Sie 
+hier eingesperrt?
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: That won't be necessary.\.
+We believe you.\. Why else do you think
+we would've locked you up here?
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 39
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Also kommen wir zum 
+Punkt!\. Was hat Farenia vor?\. Was 
+plant ihr da im Hintergrund, ohne 
+Brigantia davon wissen zu lassen?
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: So let's get to the
+point!\. What's Farenia up to?\. What
+are they planning in the shadows
+and hiding from Brigantia?
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 47
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Nun gut, ich will ehrlich 
+sein.\. Wir planen im Moment, unser 
+Wappen etwas umzufärben. 
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Well, I want to be completely
+honest with you.\. We're currently
+planning to change the color of
+our coat of arms.
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 51
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Diese bunten Farben sind uns 
+viel zu optimistisch angesichts 
+unseres momentan doch sehr 
+armseligen Daseins.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: These bright colors are far
+too optimistic for us due to our
+currently oh so poor existence.
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 56
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Es tut uns aufrichtig Leid, 
+dass wir Brigantia davon nicht 
+unterrichtet haben.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Our sincerest condolences that
+we haven't informed Brigantia of this.
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 65
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Stellen Sie sich nicht 
+dumm!\. Sie wissen genau wovon ich 
+rede! 
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: Quit messing around!\. You
+know exactly what I'm talking about!
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 68
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Wieso wurde jene 
+geheime Kampftruppe gebildet, die im 
+Silvanwald entdeckt wurde?
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: Why was that secret army
+discovered in the Silvan Forest formed
+in the first place?
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 75
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Von welcher Truppe redet 
+Ihr?\. Ich weiß nichts von einer 
+solchen. 
+'''
+patched = '''
+\c[5]\n[5]\c[0]: What army are you talking
+about?\. I don't know anything
+about it.
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 79
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Dann wiederum weiß ich auch 
+nicht, was sich alles in unserem 
+Adelsbund abspielt.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Then again, I don't know much
+of what's going on with our
+aristocracy.
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 83
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Doch seid euch gewiss - 
+unser momentaner Prinz würde nicht 
+im Traum daran denken, sich nochmal 
+gegen Brigantia zu erheben.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: But for the record, our
+current prince would never dream
+of standing up to Brigantia ever
+again.
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 92
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Das zu glauben fällt 
+mir sehr schwer, angesichts dem, was 
+sich an der Grenze abgespielt habt!
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: It's very difficult for
+me to believe this, given what
+happened at the border!
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 95
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Es ist äußerst 
+merkwürdig, dass Sie bis heute 
+nichts davon mitbekommen haben - 
+geradezu verdächtig!
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: It's also extremely
+strange that you haven't heard of it
+until now... almost suspicious even!
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 103
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Wo wir schon bei 
+merkwürdigen Tatsachen sind...
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Speaking of strange things...
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 106
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Wie kommt es, dass ein Mann 
+euresgleichen hier in Helnovien 
+stationiert ist?
+'''
+patched = '''
+\c[5]\n[5]\c[0]: How is it that someone like
+you is stationed here in Helnovien?
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 110
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Ich dachte Ihr wäret auf dem 
+südlichen Kontinent aktiv, die 
+Truppen gegen die Aufstände zu 
+führen...
+'''
+patched = '''
+\c[5]\n[5]\c[0]: I thought you were active on
+the southern continent in leading the
+troops against the uprisings...
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 120
+has_portrait = true
+original = '''
+\c[10]Sir Dolaros\c[0]: Das hat Sie nicht zu 
+interessieren!\. Wir reden hier über 
+den Adelsbund!\. Und ICH Stelle hier 
+die Fragen!!\. Verstanden?! 
+'''
+patched = '''
+\c[10]Sir Dolaros\c[0]: That's none of your damn
+business!\. We're talking about the
+aristocracy!\. And I'M the one asking
+the questions around here!!\. Got it?!
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 128
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Verzeiht mein dreistes 
+Eingreifen...
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Forgive my brazen inquiry...
+'''
+
+[[dialogue]]
+event = 3
+page = 4
+command = 136
+has_portrait = true
+character = '''Felcis'''
+original = '''
+(\c[5]\n[5]\c[0]: Na sowas...\. da habe ich 
+einen ziemlich wunden Punkt 
+getroffen...)
+'''
+patched = '''
+(\c[5]\n[5]\c[0]: Well then...\. I must've hit
+a very sore spot...)
+'''

@@ -1,0 +1,572 @@
+[[dialogue]]
+event = 11
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: Auf zur Arbeit...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Off to work...
+'''
+
+[[dialogue]]
+event = 12
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: ...
+'''
+patched = '''
+\c[10]Prisoner\c[0]: ...
+'''
+
+[[dialogue]]
+event = 13
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: Hoffentlich bekomme ich nicht schon 
+wieder so eine stumpfe Hacke.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: Hopefully I won't get such a blunt
+pickaxe again.
+'''
+
+[[dialogue]]
+event = 14
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: Früher haben sie mehr Heilmittel 
+ausgeteilt...\. Dabei ist es nicht so, dass die 
+Monster nachlassen.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: They used to give out more provisions...\.
+And the monsters just don't go away.
+'''
+
+[[dialogue]]
+event = 15
+page = 3
+command = 6
+original = '''
+\c[10]Gefangener\c[0]: Die schicken uns mit einem lausigem 
+Stück Brot zur Mine.\. Die sollen sich nicht 
+wundern, wenn wir schlechte Arbeit leisten.
+'''
+patched = '''
+\c[10]Prisoner\c[0]: They send us to the mine with a lousy
+piece of bread.\. So why are they surprised to
+see lousy results?
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 2
+original = '''
+\c[10]Wächter\c[0]: Ihr sollt durch das Haus links von hier. 
+Dort bekommt ihr eure Ausrüstung.
+'''
+patched = '''
+\c[10]Guard\c[0]: You used to be a soldier like me,\.
+then you took an arrow to your loyalty.
+'''
+
+[[dialogue]]
+event = 22
+page = 2
+command = 14
+original = '''
+\c[10]Wächter\c[0]: Hey, ihr seid doch diejenigen, die 
+gestern dazu kamen, richtig?
+'''
+patched = '''
+\c[10]Guard\c[0]: Hey, you're the ones who came in yesterday,
+right?
+'''
+
+[[dialogue]]
+event = 22
+page = 2
+command = 30
+original = '''
+\c[10]Wächter\c[0]: Hey, ihr seid doch diejenigen, die 
+gestern dazu kamen, richtig?\. Kommt mal hier rüber.
+'''
+patched = '''
+\c[10]Guard\c[0]: Hey, you're the ones who came in yesterday,
+right?\. Come over here.
+'''
+
+[[dialogue]]
+event = 22
+page = 4
+command = 24
+original = '''
+\c[10]Wächter\c[0]: Oh. Zu viert diesmal?\. Nun, soll mir recht 
+sein.
+'''
+patched = '''
+\c[10]Guard\c[0]: Oh. Four this time?\. Well, that should be
+fine.
+'''
+
+[[dialogue]]
+event = 22
+page = 4
+command = 30
+original = '''
+\c[10]Wächter\c[0]: Hier eure Ausrüstung.
+'''
+patched = '''
+\c[10]Guard\c[0]: Here's your equipment.
+'''
+
+[[dialogue]]
+event = 22
+page = 4
+command = 41
+original = '''
+\c[10]Wächter\c[0]: Und hier eure Heilmittel.\. Geht Sparsam 
+damit um, wir sind hier keine Heilsarmee, 
+verstanden?
+'''
+patched = '''
+\c[10]Guard\c[0]: And here are your provisions.\. Use it
+sparingly, we aren't a charity, you hear me?
+'''
+
+[[dialogue]]
+event = 22
+page = 4
+command = 70
+original = '''
+\c[10]Wächter\c[0]: Hm, in letzter Zeit habt ihr eigentlich 
+wirklich gute Arbeit geleistet.\. Ich denke, euch 
+kann man dann auch eine Stange Dynamit 
+anvertrauen.
+'''
+patched = '''
+\c[10]Guard\c[0]: Hm, you've been doing a really good job
+lately.\. I think you can be trusted with a stick
+of dynamite.
+'''
+
+[[dialogue]]
+event = 22
+page = 4
+command = 82
+original = '''
+\c[10]Wächter\c[0]: Ihr verwendet das NUR, um euch zu neuen 
+Bereichen in der Mine vorzusprengen, verstanden?\.
+\c[11]Haltet Ausschau nach brüchigen Stellen an den 
+Felswänden.
+'''
+patched = '''
+\c[10]Guard\c[0]: You use this ONLY to explore new areas in
+the mine, understand?\. Look out for crumbling
+spots on the walls.
+'''
+
+[[dialogue]]
+event = 22
+page = 4
+command = 86
+original = '''
+\c[10]Wächter\c[0]: Und kommt ja nicht auf die Idee, unser 
+Vertrauen auszunutzen.\. Wenn ihr irgendeinen Mist 
+mit dem Dynamit anstellt, wird das harte 
+Konsequenzen haben!
+'''
+patched = '''
+\c[10]Guard\c[0]: And don't even think of taking advantage of
+our trust.\. If you mess with the dynamite, there'll
+be severe consequences!
+'''
+
+[[dialogue]]
+event = 22
+page = 4
+command = 94
+original = '''
+\c[10]Wächter\c[0]: So...\. heute bekommt ihr wieder eine 
+Stange Dynamit für Sprengungen.\. Geht vorsichtig 
+damit um und baut ja keinen Mist!
+'''
+patched = '''
+\c[10]Guard\c[0]: Today you'll get another stick of dynamite
+for exploration purposes only.\. Be careful with it
+and don't mess around!
+'''
+
+[[dialogue]]
+event = 22
+page = 4
+command = 109
+original = '''
+\c[10]Wächter\c[0]: Dann raus mit euch.\. Schnappt euch ne 
+Lore und bringt ja genug Erz zurück!
+'''
+patched = '''
+\c[10]Guard\c[0]: Now get out of here.\. Take a cart and bring
+back enough ore!
+'''
+
+[[dialogue]]
+event = 22
+page = 5
+command = 39
+original = '''
+\c[10]Wächter\c[0]: Eure Ausrüstung und übrigen Heilmittel, 
+bitte.
+'''
+patched = '''
+\c[10]Guard\c[0]: Your equipment and other provisions.
+'''
+
+[[dialogue]]
+event = 22
+page = 5
+command = 153
+original = '''
+\c[10]Wächter\c[0]: Das war euer erster Tag, oder?\. Ihr 
+bekommt jetzt etwas zu essen.\. Geht den Weg zurück 
+zu euren Zellen.\. Ihr werden dann schon merken, wo 
+der Esssaal ist.
+'''
+patched = '''
+\c[10]Guard\c[0]: Today's your first day, isn't it?\. Now it's
+time to get something to eat.\. Go back all the way
+to the cells.\. You'll then notice where the cafe
+is.
+'''
+
+[[dialogue]]
+event = 22
+page = 5
+command = 194
+original = '''
+\c[10]Wächter\c[0]: Hey, wartet mal eben!
+'''
+patched = '''
+\c[10]Guard\c[0]: Hey, wait a minute!
+'''
+
+[[dialogue]]
+event = 22
+page = 5
+command = 199
+original = '''
+\c[10]Wächter\c[0]: Kommt noch mal hierher!
+'''
+patched = '''
+\c[10]Guard\c[0]: Get back here!
+'''
+
+[[dialogue]]
+event = 22
+page = 5
+command = 205
+original = '''
+\c[10]Wächter\c[0]: Ihr hab da noch etwas bei euch, stimmts?\.
+Ihr glaub doch nicht wirklich, dass wir euch damit 
+durch lassen!
+'''
+patched = '''
+\c[10]Guard\c[0]: You've still got something, don't you?\.
+Don't think we'll let you get away with it!
+'''
+
+[[dialogue]]
+event = 22
+page = 5
+command = 243
+original = '''
+\c[10]Wächter\c[0]: Lasst euch das eine Lehre sein. Wagt es 
+nicht uns übers Kreuz zu legen.
+'''
+patched = '''
+\c[10]Guard\c[0]: Let that be a lesson. Don't you dare try
+anything behind our backs.
+'''
+
+[[dialogue]]
+event = 22
+page = 5
+command = 276
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Das war jetzt ein ziemlicher 
+Reinfall...\. Naja, versuchen wir es 
+die nächsten Tage nochmal.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: That was a bit of a disappointment...\.
+Well, let's try again in the next few days.
+'''
+
+[[dialogue]]
+event = 22
+page = 5
+command = 280
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: In dem Lagerbereich sollte 
+ja noch etwas Pulver sein. 
+'''
+patched = '''
+\c[5]\n[5]\c[0]: There should still be some of that powder
+in the storage area.
+'''
+
+[[dialogue]]
+event = 22
+page = 5
+command = 331
+original = '''
+
+Ihr leistet gute Arbeit.\. Das Vertrauen der Wachen 
+zu euch hat sich verbessert!
+'''
+patched = '''
+
+You're doing a good job.\. The guards' trust in you
+has improved!
+'''
+
+[[dialogue]]
+event = 22
+page = 5
+command = 336
+original = '''
+
+Ihr müsst härter arbeiten.\. Das Vertrauen der 
+Wachen zu euch hat sich verschlechtert.
+'''
+patched = '''
+
+You have to work harder.\. The guards' trust in you
+has deteriorated.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 8
+original = '''
+\c[10]Wächter\c[0]: Soll ich euch die Regeln hier 
+verklickern?
+'''
+patched = '''
+\c[10]Guard\c[0]: Do I need to clear up the rules here for
+you?
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 15
+original = '''
+\c[10]Wächter\c[0]: Okay, ich nehm' mal an, dass ihr in einer 
+Gruppe arbeiten werdet.\. Das Werkzeug für die 
+Minenarbeit bekommt ihr hier und gebt ihr hier 
+auch wieder ab, verstanden?
+'''
+patched = '''
+\c[10]Guard\c[0]: Okay, I'll assume you three are working in
+a group.\. Get your mining equipment here and hand
+them back when you're done, understand?
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 19
+original = '''
+\c[10]Wächter\c[0]: Wenn ihr die Mine betretet bekommt ihr 
+eine Lore, mit der ihr die Mine runter fährt. \.
+Dabei gibt es mehrere Abschnitte, zu denen ihr 
+fährt.
+'''
+patched = '''
+\c[10]Guard\c[0]: When you enter the mine, you'll get a
+minecart which'll help you move down into the
+mine.\. There are several sections that you can
+go to.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 23
+original = '''
+\c[10]Wächter\c[0]: In welchem ihr landet hängt davon ab, 
+welche Richtung ihr bei den Weichen einschlägt. \.
+Welche Richtung das ist, könnt ihr übrigens 
+während der Fahrt selber entscheiden.
+'''
+patched = '''
+\c[10]Guard\c[0]: Where you end up depends on which
+directions you take at the junctions.\. You
+can decide which directions to take while
+driving by the way.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 27
+original = '''
+\c[10]Wächter\c[0]: Seid ihr einmal unten angekommen, heißt 
+es:\. Erz abbauen. 
+'''
+patched = '''
+\c[10]Guard\c[0]: Once you've reached the bottom, it all
+boils down to one thing.\. Mining ore.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 29
+original = '''
+\c[10]Wächter\c[0]: Erz erkennt ihr an den leicht bläulich 
+leuchten Stellen an den Felswänden.\. Geht zu diesen 
+Stellen und verwendet eure Spitzhacken,\. um das Erz 
+abzubauen.
+'''
+patched = '''
+\c[10]Guard\c[0]: You can recognize ore by the slightly
+bluish spots on the rock walls.\. Go to these
+spots and use your pickaxes to mine the ore.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 33
+original = '''
+\c[10]Wächter\c[0]: Wenn ihr gute Arbeit leisten wollt, 
+solltet ihr allerdings nicht zu lange an einer 
+Stelle bleiben.\. Das Erz wird nachlassen und immer 
+schwerer abzubauen sein.
+'''
+patched = '''
+\c[10]Guard\c[0]: If you want to do a good job, you shouldn't
+stay in one place for too long.\. The amount of ore
+will diminish and become increasingly difficult
+to mine.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 37
+original = '''
+\c[10]Wächter\c[0]: Sucht euch also ständig neue Stellen, um 
+mehr Erz abbauen zu können.
+'''
+patched = '''
+\c[10]Guard\c[0]: So keep looking out for new spots to mine
+more ore.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 39
+original = '''
+\c[10]Wächter\c[0]: Solltet ihr kein Erz mehr tragen können, 
+geht zu dem Haltepunkt eurer Lore, um dort das Erz 
+abzugeben. 
+'''
+patched = '''
+\c[10]Guard\c[0]: If you can't carry any more ore, go to the
+stop at the railways and drop off the ore.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 42
+original = '''
+\c[10]Wächter\c[0]: Ach ja, noch ein Wort der Warnung:\. Ihr 
+Minenarbeiter seid nicht ganz alleine da unten.\. 
+Dort treibt sich leider noch so einiges an 
+Ungetier rum, das wir einfach nicht loswerden.
+'''
+patched = '''
+\c[10]Guard\c[0]: Oh, one more word of warning.\. You miners
+aren't all alone down there.\. Unfortunately, there
+are still a lot of monsters hanging around there
+that we simply can't get rid of.
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 46
+original = '''
+\c[10]Wächter\c[0]: Ihr bekommt deshalb von uns ein paar 
+Heilmittel spendiert, falls es zu Angriffen kommen 
+sollte.\. Nach Feierabend werden aber auch diese 
+hier abgegeben!
+'''
+patched = '''
+\c[10]Guard\c[0]: You'll therefore receive some provisions
+from us if you get attacked.\. After work, these
+will also be handed back!
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 50
+original = '''
+\c[10]Wächter\c[0]: Also dann macht mal eure Arbeit, los!
+'''
+patched = '''
+\c[10]Guard\c[0]: So get to it then!
+'''
+
+[[dialogue]]
+event = 23
+page = 1
+command = 54
+original = '''
+\c[10]Wächter\c[0]: In Ordnung, aber kommt nachher nicht zu 
+mir, wenn es Probleme gibt oder ihr etwas nicht 
+versteht!
+'''
+patched = '''
+\c[10]Guard\c[0]: Alright, but don't come to me later if you
+have problems or you don't understand something!
+'''
+
+[[text]]
+event = 23
+page = 1
+command = 12
+has_portrait = true
+original = '''Ja, bitte.../Lass uns einfach nur arbeiten...'''
+patched = '''Yes please.../Let's just get to work...'''
+
+[[text]]
+event = 23
+page = 1
+command = 13
+has_portrait = true
+original = '''Ja, bitte...'''
+patched = '''Yes please...'''
+
+[[text]]
+event = 23
+page = 1
+command = 52
+original = '''Lass uns einfach nur arbeiten...'''
+patched = '''Let's just get to work...'''

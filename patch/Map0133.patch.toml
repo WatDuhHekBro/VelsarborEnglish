@@ -1,0 +1,471 @@
+[[dialogue]]
+event = 45
+page = 1
+command = 21
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[4] An alle Einheiten der Birkon,
+die Mission ist fehlgeschlagen!\.\.\^
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[4] Attention all Brigantian troops,
+the mission has been compromised!\.\.\^
+'''
+
+[[dialogue]]
+event = 45
+page = 1
+command = 31
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[4] Sofortiger Rückzug!\. 
+An alle Einheiten der Birkon,\.
+umgehend den Rückzug antreten!\.\.\^
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[4] Retreat immediately!\.
+Attention all Brigantian troops,\.
+I repeat,\. retreat immediately!\.\.\^
+'''
+
+[[dialogue]]
+event = 45
+page = 1
+command = 42
+has_portrait = true
+original = '''
+\c[1]?????\c[0]:\s[9] .......\.\.\^
+'''
+patched = '''
+\c[1]?????\c[0]:\s[9] .......\.\.\^
+'''
+
+[[dialogue]]
+event = 45
+page = 2
+command = 9
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[4] Spezialeinheit Vel03!\. 
+Treten Sie umgehend Ihren Rückzug an!\.
+Ihre Rückkehr ist von äußerster Priorität!\.\.\^
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[4] Special-Ops Vel03!\. Begin your retreat
+immediately!\. Your safe return is top priority!\.\.\^
+'''
+
+[[dialogue]]
+event = 45
+page = 2
+command = 17
+has_portrait = true
+original = '''
+\c[1]Vel03\c[0]:\s[9] .......\.\.\^
+'''
+patched = '''
+\c[1]Vel03\c[0]:\s[9] .......\.\.\^
+'''
+
+[[dialogue]]
+event = 45
+page = 3
+command = 9
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[2] Vel03!\. Antworten Sie!\.
+Vel03!\. Ziehen Sie sich zurück!\. SOFORT!!\.
+Antworten Sie!\. Geben Sie uns ein 
+Zeichen!!\.\.\.\^
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[2] Vel03!\. Answer!\. Vel03!\. Withdraw yourself!\.
+IMMEDIATELY!!\. Answer us!\. Give us confirmation!!\.\.\.\^
+'''
+
+[[dialogue]]
+event = 45
+page = 3
+command = 18
+has_portrait = true
+original = '''
+\c[1]Vel03\c[0]:\s[9] .......\.\.\^
+'''
+patched = '''
+\c[1]Vel03\c[0]:\s[9] .......\.\.\^
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 18
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[7]AHHHHHHHHHHHHHHHHHHHHHHHH!!!
+\.\.\.\.\.\^
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[7] AHHHHHHHHHHHHHHHHHHHHHHHH!!!\.\.\.\.\.\^
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 27
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[2] VEL03!!\. WAS IST LOS?!\.
+Wie lautet Ihr Status?!
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[2] VEL03!!\. WHAT'S WRONG?!\.
+What's your status?!
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 31
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[5] .......
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[5] .......
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 32
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[4] Statusbericht:\. Keine 
+körperlichen Verletzungen,\.
+keine Beschädigung des Vel-Systems.
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[4] Status report...\.
+No physical injuries,\.
+no damage to the Vel-System.
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 38
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[3] ...Gut...\. 
+Treten Sie umgehend Ihren Rückzug an!
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[3] Good...\. Now get out of there immediately!
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 45
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[5] .......
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[5] .......
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 51
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[3] Vel03?\.
+Geben Sie eine Bestätigung!
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[3] Vel03?\. Please send us confirmation!
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 57
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[5] Nein.
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[5] No.
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 61
+original = '''
+\c[10]Funkdurchsage\c[0]: ...W\. ...WAS?!\. 
+Dies ist ein BEFEHL!\. 
+Er lautet sofortiger Rückzug aus der
+gegnerischen Basis!
+'''
+patched = '''
+\c[10]Radio\c[0]: W...\. WHAT?!\. That is an ORDER!\.
+Retreat from the enemy's base immediately!
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 67
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[2] Nein,\. ich werde nicht 
+fliehen.
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[2] No,\. I won't run any longer.
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 72
+original = '''
+\c[10]Funkdurchsage\c[0]: Sie wissen, was für Konsequenzen 
+Befehlsverweigerungen haben können!\.
+Was fällt Ihnen ein?!
+'''
+patched = '''
+\c[10]Radio\c[0]: You know what the consequences for
+disobeying orders are!\. What are you doing?!
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 77
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[2] ...\.Ich werde tiefer in die 
+Basis eindringen.
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[2] I'm going to move further into
+the enemy base.
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 82
+original = '''
+\c[10]Funkdurchsage\c[0]: Ist Ihnen bewusst, was Sie da 
+machen?!\. Das ist blanker SELBSTMORD!\. Selbst mit 
+dem Vel-System werden Sie nicht im Alleingang 
+gegen eine ganze Armee bestehen können!
+'''
+patched = '''
+\c[10]Radio\c[0]: They know you're here, are you trying
+to get yourself killed?!\. This is SUICIDE!\.
+Even with the Vel-System, you won't stand
+a chance against an entire army!
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 89
+original = '''
+\c[10]Gegnerische Einheit\c[0]: Da ist er!\. Los!
+'''
+patched = '''
+\c[10]Enemy Soldier\c[0]: There he is!\. Get him!
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 104
+original = '''
+\c[10]Gegnerische Einheit\c[0]: Ergeben Sie sich auf der 
+Stelle!\. Jeglicher Widerstand wird mit sofortiger 
+Auslöschung entgegnet!
+'''
+patched = '''
+\c[10]Enemy Soldier\c[0]: Stop right there!\. Any resistance
+and we WILL fire!
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 111
+has_portrait = true
+original = '''
+(\c[1]Seldan\c[0]:\s[2] Jetzt gibt es kein Zurück 
+mehr...)
+'''
+patched = '''
+(\c[1]Seldan\c[0]:\s[2] This ends now...)
+'''
+
+[[dialogue]]
+event = 45
+page = 4
+command = 162
+original = '''
+\c[10]Gegnerische Einheit\c[0]: W...Was zum...?!
+'''
+patched = '''
+\c[10]Enemy Soldier\c[0]: W...\. What the...?!
+'''
+
+[[dialogue]]
+event = 45
+page = 6
+command = 7
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[2] Vel03!\. Derartige Erhöhung 
+des Wirkungsgrades des Vel-Systems führt 
+zur Überstrapazierung Ihres Körpers!\. 
+Sie gefährden Ihr Leben!
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[2] Vel03!\. Such an increase in the power of
+the Vel-System will only put strain on your
+body!\. It could kill you!
+'''
+
+[[dialogue]]
+event = 45
+page = 6
+command = 13
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[2] ...Hören Sie mir zu.\. Ich 
+habe meine eigene Ansicht der Dinge 
+bekommen.\. Ich werde ihrem Befehl 
+nicht mehr gehorchen.
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[2] Listen to me.\. There's still
+something I have to do.\. I will no
+longer obey your command.
+'''
+
+[[dialogue]]
+event = 45
+page = 6
+command = 18
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[2] ...Diese Aktion hier wird 
+vielleicht meine letzte sein, ...
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[2] This may just be my last
+battle...
+'''
+
+[[dialogue]]
+event = 45
+page = 6
+command = 21
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[2] ...aber ich sehe es als die 
+einzige Möglichkeit diesem Chaos 
+ENDLICH ein Ende zu setzen.
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[2] ...but this is the only way
+that this chaos WILL end.\.
+This war must end.
+'''
+
+[[dialogue]]
+event = 45
+page = 6
+command = 27
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[2] W..\.Was reden Sie da?!
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[2] W...\. What are you talking about?!
+'''
+
+[[dialogue]]
+event = 45
+page = 6
+command = 30
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[2] Ich habe jetzt keine Zeit 
+für Diskussionen!
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[2] I don't have time for this!
+'''
+
+[[dialogue]]
+event = 45
+page = 6
+command = 38
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[2] Beenden Sie diesen Wahnsinn!\. 
+UNVERZÜGLICH!\. Vel03!!
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[2] Stop this madness!\. IMMEDIATELY!\. Vel03!!
+'''
+
+[[dialogue]]
+event = 58
+page = 1
+command = 3
+has_portrait = true
+original = '''
+(\c[1]Seldan\c[0]: Nein,\. für mich gibt es 
+kein zurück mehr.)
+'''
+patched = '''
+(\c[1]Seldan\c[0]: No,\. there's no turning back
+for me.)
+'''
+
+[[dialogue]]
+event = 59
+page = 1
+command = 3
+has_portrait = true
+original = '''
+(\c[1]Seldan\c[0]: Nein,\. für mich gibt es 
+kein zurück mehr.)
+'''
+patched = '''
+(\c[1]Seldan\c[0]: No,\. there's no turning back
+for me.)
+'''
+
+[[dialogue]]
+event = 60
+page = 1
+command = 3
+has_portrait = true
+original = '''
+(\c[1]Seldan\c[0]: Nein,\. für mich gibt es 
+kein zurück mehr.)
+'''
+patched = '''
+(\c[1]Seldan\c[0]: No,\. there's no turning back
+for me.)
+'''
+
+[[dialogue]]
+event = 61
+page = 1
+command = 3
+has_portrait = true
+original = '''
+(\c[1]Seldan\c[0]: Nein,\. für mich gibt es 
+kein zurück mehr.)
+'''
+patched = '''
+(\c[1]Seldan\c[0]: No,\. there's no turning back
+for me.)
+'''

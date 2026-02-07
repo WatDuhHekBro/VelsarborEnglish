@@ -1,0 +1,26 @@
+[[dialogue]]
+event = 50
+page = 1
+command = 34
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Der Wald ist zu ende!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: We're at the end of the
+forest!
+'''
+
+[[dialogue]]
+event = 50
+page = 1
+command = 36
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Sofort zur Grenze!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: To the border!\. Immediately!
+'''

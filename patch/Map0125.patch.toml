@@ -1,0 +1,803 @@
+[[dialogue]]
+event = 71
+page = 2
+command = 33
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm? Was machen diese 
+Personen da oben?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hm? What are these people
+doing up there?
+'''
+
+[[dialogue]]
+event = 71
+page = 2
+command = 36
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Muss uns das interessieren?\.
+Wir sollten uns von sowas nicht 
+ablenken lassen...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Does that matter?\. We shouldn't
+let anything distract us...
+'''
+
+[[dialogue]]
+event = 71
+page = 2
+command = 111
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hey!\. Das ist ein Hinterhalt!\. 
+Da müssen wir eingreifen!\. Kommt, 
+schnell!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hey!\. This is an ambush! We
+have to intervene!\. Come on, quickly!
+'''
+
+[[dialogue]]
+event = 71
+page = 2
+command = 121
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ohje....\.\^
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Oh boy...\.\^
+'''
+
+[[dialogue]]
+event = 71
+page = 2
+command = 161
+has_portrait = true
+character = '''Cibon'''
+original = '''
+(\c[2]\n[2]\c[0]: OHO, wen haben wir denn da!)
+'''
+patched = '''
+(\c[2]\n[2]\c[0]: My my, who do we have here!)
+'''
+
+[[dialogue]]
+event = 71
+page = 2
+command = 174
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Keine Sorge, schönes 
+Mädchen! Die Rettung naht!!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Don't worry, beautiful girl!
+Rescue is on the way!!
+'''
+
+[[dialogue]]
+event = 71
+page = 2
+command = 181
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Was zum...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: What the...
+'''
+
+[[dialogue]]
+event = 71
+page = 2
+command = 189
+original = '''
+\c[10]Räuber\c[0]: Verdammt! Brigantische Soldaten! 
+'''
+patched = '''
+\c[10]Robber\c[0]: Damn it! Brigantian soldiers!
+'''
+
+[[dialogue]]
+event = 71
+page = 2
+command = 190
+original = '''
+\c[10]Anderer Räuber\c[0]: Kämpft!\. Wir sind zu Viert.\.
+Wir werden sie schon packen!
+'''
+patched = '''
+\c[10]Other Robber\c[0]: Get 'em!\. It's four on three.\.
+We've already got what we need!
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 4
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hehe,\. ein Kinderspiel!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hehe,\. child's play!
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 15
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Junge Frau, ist alles in 
+Ordnung?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hey there, you alright?
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 18
+has_portrait = true
+original = '''
+\c[10]Junge Frau\c[0]: Öhm...\. ja?
+'''
+patched = '''
+\c[10]Young Woman\c[0]: Um...\. yeah?
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 24
+has_portrait = true
+original = '''
+\c[10]Junge Frau\c[0]: Danke für die Rettung!\.
+Huch,\. ich will nicht daran denken, 
+was mit uns passiert wäre,\. wenn ihr 
+nicht rechtzeitig gekommen wärt!
+'''
+patched = '''
+\c[10]Young Woman\c[0]: Thanks for the rescue!\.
+Yikes,\. I don't want to think about
+what would've happened to us if
+you hadn't come in time!
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 29
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Keine Ursache.\. Wie hätte man 
+sich denn auch anders verhalten 
+sollen, wenn solch eine Schönheit in 
+Gefahr ist?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: No need.\. How could one have
+acted differently when such a
+beauty is in danger?
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 35
+has_portrait = true
+original = '''
+\c[10]Junge Frau\c[0]: Hehe, ihr schmeichelt 
+mir...
+'''
+patched = '''
+\c[10]Young Woman\c[0]: Hehe, you flatter me...
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 38
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Er tut es...\. schon wieder...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: There he goes...\. again...
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 41
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Cibon...?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Cibon?
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 43
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ich bin Cibon Tirunel und mit 
+wem habe ich die Ehre?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: The name's Cibon Tirunel and
+who do I have the honor of being
+with today?
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 49
+has_portrait = true
+original = '''
+\c[10]Junge Frau\c[0]: Ich heiße Anelia 
+Saltatio!
+'''
+patched = '''
+\c[10]Young Woman\c[0]: My name is Anelia
+Saltatio!
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 53
+has_portrait = true
+original = '''
+\c[10]Kleiner Junge\c[0]: Ja,\. mir geht's auch 
+gut,\.\s[5] danke der Nachfrage.
+'''
+patched = '''
+\c[10]Little Boy\c[0]: Yeah,\. I'm fine too,\.
+\s[5]thanks for asking.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 60
+has_portrait = true
+original = '''
+\c[10]Anelia\c[0]: Oh,\. Koge,\. tut mir Leid.\. Ich 
+bin noch ganz durcheinander...
+'''
+patched = '''
+\c[10]Anelia\c[0]: Oh,\. Koge,\. I'm sorry.\. I'm
+still in a mess...
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 63
+has_portrait = true
+original = '''
+\c[10]Anelia\c[0]: Großvater, ist alles in 
+Ordnung?
+'''
+patched = '''
+\c[10]Anelia\c[0]: Grandpa, are you alright?
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 70
+has_portrait = true
+original = '''
+\c[10]Großvater\c[0]: Ja, mach dir keine Sorgen 
+um mich, mein Spatz...
+'''
+patched = '''
+\c[10]Grandfather\c[0]: Yes, don't worry about
+me, my dove...
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 78
+has_portrait = true
+original = '''
+\c[10]Anelia\c[0]: Das hier sind mein kleiner 
+Bruder Koge und mein Großvater.
+'''
+patched = '''
+\c[10]Anelia\c[0]: This is my little brother
+Koge and my grandfather.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 81
+has_portrait = true
+original = '''
+\c[10]Lesario\c[0]: Nennt mich Lesario.\. 
+Vielen Dank für die Rettung...
+'''
+patched = '''
+\c[10]Lesario\c[0]: Call me Lesario.\. Thank you
+for the rescue...
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 84
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Keine Ursache.\. Schön euch 
+kennen zu lernen.\. Was macht ihr 
+eigentlich hier im Corine Plateau?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: No need.\. Nice to meet you.\.
+What are you doing here in the
+Corine Plateau?
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 88
+has_portrait = true
+original = '''
+\c[10]Anelia\c[0]: Wir sind auf der Reise nach 
+West-Brigantia.\. Wir wollen dort die 
+großen Städte besuchen.\. Zuerst Nomerea...
+'''
+patched = '''
+\c[10]Anelia\c[0]: We're on our way to West
+Brigantia.\. We want to visit the
+big cities there.\. First comes
+Nomerea...
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 96
+has_portrait = true
+original = '''
+\c[10]Anelia\c[0]: Dort werden wir dann 
+musizieren und tanzen!
+'''
+patched = '''
+\c[10]Anelia\c[0]: We'll play music and dance
+there!
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 103
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Musizieren und tanzen?\. In 
+Nomerea? 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Playing music and dancing?\.
+In Nomerea?
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 106
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ach verdammt!\. Wieso muss 
+ich ausgerechnet jetzt diesen 
+Auftrag haben?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh dammit!\. Why do I have to
+have this order right now?
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 110
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]:\s[3] Es ist als würde man mir 
+einen Teil meines Herzens entreißen 
+und....\.\.\^
+'''
+patched = '''
+\c[2]\n[2]\c[0]:\s[3] It's like we were made for
+each other...\.\.\^
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 115
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Es ist wie es ist, Cibon.\. Und 
+jetzt müssen wir weiter.\. Wir stehen 
+immer noch unter Zeitdruck.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: It is what it is, Cibon.\. And
+right now, we have to keep going.\.
+We're still rushed for time.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 120
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wa..?!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What?!
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 124
+has_portrait = true
+original = '''
+\c[10]Anelia\c[0]: Müsst ihr schon weiter?\. Das 
+ist schade.
+'''
+patched = '''
+\c[10]Anelia\c[0]: Do you have to leave so soon?\.
+That's a pity.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 127
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ja, wir haben einen wichtigen 
+Auftrag, den "Herr Tirunel" leider 
+sehr leicht zu vergessen scheint. 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Yes, we have an important order
+that "Mr. Tirunel" unfortunately
+seems to be forgetting about
+very easily.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 132
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Mensch,\. das ist doch nicht 
+dein Ernst!\. Die paar Minuten!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh you can't be serious!\.
+Just a few minutes!
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 136
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wer weiß, welche Ausmaße diese 
+Konversation nehmen kann, Cibon. 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Who knows how long this
+conversation will drag on, Cibon.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 139
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Nachher wechselst du von einem 
+Thema zum nächsten und ihr kommt nie 
+zum Ende...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Afterwards, you'll switch from
+one topic to another and it'll never
+come to an end...
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 146
+has_portrait = true
+original = '''
+\c[10]Anelia\c[0]: Oh...\. Wenn ihr es so eilig 
+habt,\. wollen wir euch auch nicht 
+länger aufhalten.
+'''
+patched = '''
+\c[10]Anelia\c[0]: Oh...\. If you're in such a
+hurry,\. we don't want to hold you
+up any longer.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 154
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Anelia...\. Ich hoffe 
+wir sehen uns bald wieder.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Anelia...\. I hope to see you
+again soon.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 157
+has_portrait = true
+original = '''
+\c[10]Anelia\c[0]: Hihi,\. das hoffe ich auch,\. 
+\s[3]mein Retter.
+'''
+patched = '''
+\c[10]Anelia\c[0]: Hehe,\. I hope so too,\.
+\s[3]my savior.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 170
+has_portrait = true
+original = '''
+\c[10]Anelia\c[0]: Bis dann und danke nochmals.\. 
+Vor allem dir,\. liebster Retter.
+'''
+patched = '''
+\c[10]Anelia\c[0]: See you then and thanks
+again.\. Especially you, my
+dearest savior.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 190
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Öhm... bild ich mir das ein, 
+oder hat Cibon diesmal mit seiner 
+Anmache tatsächlich Erfolg gehabt?!)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Huh... Is it just me, or did
+Cibon actually just have success a
+girl this time?!)
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 202
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Jaja, erst Druck machen und 
+jetzt rum stehen.\. Los,\. wir müssen 
+weiter,\.\s[3] ODER?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Yeah, put the pressure on me
+and loiter around now.\. Come on
+already,\. we have an order to
+fulfill,\.\s[3] DON'T WE?
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 221
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Meine Güte, war das peinlich!\. 
+Ich hab noch nie so eine dick 
+aufgetragene Anmache erlebt.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Gosh, that was embarrassing!\.
+I've never seen such a tryhard at
+picking up.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 225
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wem erzählst du das.\. Und es 
+kommt noch besser:\. Er macht das bei 
+fast jeder Frau ähnlichen Alters, 
+die ihm über dem Weg läuft.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: You're telling me.\. And it gets
+better:\. He does this for almost every
+woman around his age who he runs
+into.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 230
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ist nicht wahr!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: You're joking!
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 232
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Komm,\. lass uns weiter gehen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Come,\. let's move on.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 241
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Eine Frage, Kento...\. Wieso...\. 
+hat Cibon das bitte nicht bei mir 
+gemacht?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: One question, Kento...\. Why...\.
+didn't Cibon try that on me?
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 245
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Öh?\. Weil er Angst vor dir 
+hat.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Oh?\. Because he's afraid of
+you.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 248
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ANGST?\. Vor mir?\. 
+Wieso denn das?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: AFRAID?\. Of me?\. Why is that?
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 251
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hehe.\. Erinnere dich mal 
+daran, was in dem Gasthof passiert 
+ist,\. als wir dich getroffen haben.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Heh.\. Remember what happened
+in the inn when we first met you?
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 254
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Und dann schließe mal daraus,\. 
+wie wohl Cibons erster Eindruck von 
+dir gewesen ist.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: And then you can guess how
+well Cibon's first impression of
+you was.
+'''
+
+[[dialogue]]
+event = 71
+page = 4
+command = 263
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...\.oh.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Oh...
+'''

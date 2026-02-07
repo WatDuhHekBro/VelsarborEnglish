@@ -1,0 +1,275 @@
+[[dialogue]]
+event = 10
+page = 1
+command = 8
+original = '''
+\c[10]Soldat\c[0]: DER FLÜCHTLING BEFINDET SICH IM GEBÄUDE!\. 
+AN ALLE!\. ER IST NICHT DRAUSEN!\. ER IST IM GEBÄUDE!
+'''
+patched = '''
+\c[10]Soldier\c[0]: THE ESCAPEE IS IN THE BUILDING!\.
+EVERYONE!\. HE ISN'T OUTSIDE!\. HE'S IN THE
+BUILDING!
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 16
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Verdammt!\. Sie haben es 
+bemerkt...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Damn it!\. They noticed...
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 19
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Was soll's!\. Den restlichen 
+Weg werden wir uns einfach 
+durchschlagen!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What the hell!\. Okay we'll
+just make our way through the
+rest of it ourselves!
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 23
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Das ist hirnrissig,\. Cibon!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: That's impulsive,\. Cibon!
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 25
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Unter diesen Umständen ist es 
+fast unmöglich Herrn Uroto zu 
+befreien...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: In these circumstances, it's
+almost impossible to free Mr.
+Uroto...
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 29
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 31
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir haben keine andere Wahl.\. 
+Wir müssen versuchen zu fliehen.\. 
+Undzwar SOFORT, solange hier noch 
+Panik und Chaos herrscht!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: We don't have a choice.\. We
+have to try to escape.\. IMMEDIATELY
+in fact, while there's still panic
+and chaos here!
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 36
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ...Wir werden wieder 
+zurückkommen,\. Soko,\. mit Verstärkung!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Soko,\. we'll be back with
+reinforcements!
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 39
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Gut, uns bleibt wohl nichts 
+anderes übrig.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Well, we probably don't have
+any other choice.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 43
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Los!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Come on!
+'''
+
+[[dialogue]]
+event = 10
+page = 3
+command = 32
+original = '''
+
+Info: Du befindest dich jetzt im \c[11]Fluchtmodus\c[0].
+Hier geht es nur um eines: \c[11]WEG RENNEN\c[0].
+'''
+patched = '''
+
+Info: You are now in \c[11]escape mode\c[0]. This is about
+one thing only: \c[11]RUN AWAY\c[0]!
+'''
+
+[[dialogue]]
+event = 10
+page = 3
+command = 48
+original = '''
+
+Oben rechts erscheint eine Zeitanzeige, die angibt, 
+wann dich deine \c[11]Verfolger einholen werden\c[0].
+'''
+patched = '''
+
+A timer appears at the top right of the screen,
+indicating when your \c[11]pursuers will reach you\c[0].
+'''
+
+[[dialogue]]
+event = 10
+page = 3
+command = 51
+original = '''
+
+Diese Zeit sink permanent, wird aber an \c[11]festen 
+Punkten\c[0] deiner Fluchtroute wieder \c[11]hoch gesetzt.\c[0] 
+'''
+patched = '''
+
+This time will always be decreasing, but will be
+increased again at \c[11]fixed points\c[0] while you escape.
+'''
+
+[[dialogue]]
+event = 10
+page = 3
+command = 77
+original = '''
+
+Bist du jedoch zu langsam, sinkt die Zeit auf 0 
+und ein \c[11]Kampf mit den Verfolgern\c[0] beginnt.
+'''
+patched = '''
+
+However, if you're too slow, the time drops to
+zero and \c[11]a battle with the pursuers\c[0] begins.
+'''
+
+[[dialogue]]
+event = 10
+page = 3
+command = 80
+original = '''
+
+Solltest du in \c[11]zu vielen\c[0] Kämpfen hineinverstrickt 
+werden, ist die Flucht \c[11]misslungen\c[0].
+'''
+patched = '''
+
+If you get involved in \c[11]too many\c[0] fights, the
+escape will have \c[11]failed\c[0].
+'''
+
+[[dialogue]]
+event = 10
+page = 3
+command = 95
+original = '''
+
+Bei deiner Flucht zeigen dir Pfeile \c[11]mögliche 
+Fluchtwege\c[0] an.
+'''
+patched = '''
+
+Arrows show you \c[11]possible escape routes\c[0] while
+you're running.
+'''
+
+[[dialogue]]
+event = 10
+page = 3
+command = 98
+original = '''
+
+Halte Ausschau nach Abkürzungen!
+'''
+patched = '''
+
+Look for shortcuts!
+'''
+
+[[dialogue]]
+event = 31
+page = 3
+command = 6
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich sollte besser hier unten 
+bleiben, oben dürften mehr 
+Patrouillen sein.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I better stay down here, there
+could be more guards up ahead.
+'''
+
+[[text]]
+event = 10
+page = 3
+command = 105
+original = '''AufderFlucht'''
+patched = '''The Escape'''

@@ -1,0 +1,10 @@
+[[dialogue]]
+event = 11
+page = 1
+command = 3
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Langweilig....
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Too boring...
+'''

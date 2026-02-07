@@ -1,0 +1,207 @@
+[[dialogue]]
+event = 4
+page = 3
+command = 9
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[1] WAS genau haben Sie vor?!\.
+Wollen Sie Zojeno das Zielobjekt entnehmen?!\.
+Im Alleingang?!
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[1] WHAT are you trying to do?!\. Are you trying
+to take the objective from Korzojeno?!\.
+Single-handedly?!
+'''
+
+[[dialogue]]
+event = 4
+page = 3
+command = 14
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[2] Nein....\.
+Ich werde es nicht übernehmen oder 
+erobern.
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[2] No...\. I'm not going to
+take it or capture it.
+'''
+
+[[dialogue]]
+event = 4
+page = 3
+command = 18
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[1] Ich werde es ZERSTÖREN!
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[1] I will DESTROY it!
+'''
+
+[[dialogue]]
+event = 4
+page = 3
+command = 22
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[1] ... DAS IST NICHT IHR ERNST!
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[1] You...\. YOU'RE INSANE!
+'''
+
+[[dialogue]]
+event = 4
+page = 3
+command = 25
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[1] Ich sehe keine andere 
+Möglichkeit.
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[1] I don't see any other way.
+'''
+
+[[dialogue]]
+event = 4
+page = 3
+command = 30
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[1] Sie...SIE... 
+SIE KÖNNEN DOCH NICHT...!
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[1] You...\. YOU...\. YOU CAN'T DO THAT!!\.
+STOP THIS NOW!!\. VEL03!!
+'''
+
+[[dialogue]]
+event = 4
+page = 3
+command = 35
+has_portrait = true
+original = '''
+(\c[1]Seldan\c[0]:\s[2] Ich verstehe nicht, wieso 
+ich mich überhaupt auf diese 
+Funkgespräche einlasse....)
+'''
+patched = '''
+(\c[1]Seldan\c[0]:\s[2] Why do I even bother trying
+to talk to you...)
+'''
+
+[[dialogue]]
+event = 4
+page = 3
+command = 43
+has_portrait = true
+original = '''
+(\c[1]Seldan\c[0]:\s[1] Und jetzt los!\.
+Laut den Informationen muss ich 
+jetzt links den Gang hinunter gehen, 
+um zum Zielobjekt zu kommen...)
+'''
+patched = '''
+(\c[1]Seldan\c[0]:\s[1] Now!\. According to the
+information, I have to take a
+left and go down the hall to
+get to the objective...)
+'''
+
+[[dialogue]]
+event = 39
+page = 1
+command = 15
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[2] Sollte Zojeno von dem Vel-
+System erfahren, ist das das Ende Brigans!
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[2] If Korzojeno gets a hold of the
+Vel-System, it's the end for Brigantia!
+'''
+
+[[dialogue]]
+event = 39
+page = 1
+command = 19
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[2] Ich hab nicht vor mein Land 
+zu hintergehen,\. machen Sie sich 
+keine Sorgen...
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[2] I have no intention of
+backstabbing my country,\. don't worry.\.
+I will never let this technology fall
+into their blood-stained hands!
+'''
+
+[[dialogue]]
+event = 39
+page = 1
+command = 25
+original = '''
+\c[10]Funkdurchsage\c[0]:\s[2] Wie können Sie es dann bitte 
+wagen so ein Risiko einzugehen?!
+'''
+patched = '''
+\c[10]Radio\c[0]:\s[2] How can you say that?!\.
+Look at what you're doing!
+'''
+
+[[dialogue]]
+event = 39
+page = 1
+command = 30
+original = '''
+\c[10]Zojenische Einheit\c[0]:\s[2] Da ist er! Auf ihn!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]:\s[2] There he is!\. Get him!
+'''
+
+[[dialogue]]
+event = 53
+page = 1
+command = 3
+has_portrait = true
+original = '''
+(\c[1]Seldan\c[0]: Ich muss den anderen Gang 
+entlang gehen...)
+'''
+patched = '''
+(\c[1]Seldan\c[0]: I have to go down the other
+hallway...)
+'''
+
+[[dialogue]]
+event = 54
+page = 1
+command = 3
+has_portrait = true
+original = '''
+(\c[1]Seldan\c[0]: Ich muss den anderen Gang 
+entlang gehen...)
+'''
+patched = '''
+(\c[1]Seldan\c[0]: I have to go down the other
+hallway...)
+'''
+
+[[dialogue]]
+event = 55
+page = 1
+command = 3
+has_portrait = true
+original = '''
+(\c[1]Seldan\c[0]: Ich muss den anderen Gang 
+entlang gehen...)
+'''
+patched = '''
+(\c[1]Seldan\c[0]: I have to go down the other
+hallway...)
+'''

@@ -1,0 +1,794 @@
+[[dialogue]]
+event = 24
+page = 1
+command = 13
+original = '''
+\c[10]Mitglied des Rates\c[0]:\s[4] Der Trupp ist nun auf dem 
+Weg nach Domarkor.\. Er wird den "Farenischen 
+Adelsbund" zum Thema befragen.
+'''
+patched = '''
+\c[10]Council Member\c[0]:\s[4] The troop is now on the way to
+Domarkor.\. He will question the "Farenian
+Aristocracy" on the subject.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 16
+original = '''
+\c[10]Mitglied des Rates\c[0]:\s[4] Wir können dann in ein 
+bis drei Wochen Rückmeldungen erwarten.
+'''
+patched = '''
+\c[10]Council Member\c[0]:\s[4] We can then expect feedback in
+one to three weeks.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 23
+original = '''
+\c[10]Mitglied des Rates\c[0]: Meinen sie nicht, dass diese 
+Aktion etwas übertrieben ist?\. Wir wissen nicht, 
+wie viel an den Gerüchten dran ist.
+'''
+patched = '''
+\c[10]Council Member\c[0]: Do you not think that this action
+is a bit exaggerated?\. We don't know how much of
+the rumors are true.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 32
+original = '''
+\c[10]Mitglied des Rates\c[0]: Es gab mehrere Meldungen 
+über eine Gruppe, die an der Grenze von 
+Korzojeno gesehen wurde.
+'''
+patched = '''
+\c[10]Council Member\c[0]: There have been several reports
+of a group seen on the Korzojenish side of the
+border.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 35
+original = '''
+\c[10]Mitglied des Rates\c[0]: Sie soll angeblich über 
+hundert Mann umfassen und gut ausgerüstet sein.\. 
+Zudem sollen einige Rüstungsteile das Wappen  
+der korzojenischen Streitkraft tragen.
+'''
+patched = '''
+\c[10]Council Member\c[0]: It is said to have over a hundred
+men and be well-equipped.\. In addition, some parts
+of their armor are said to bear the coat of arms
+of the Korzojenish armed forces.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 39
+original = '''
+\c[10]Mitglied des Rates\c[0]: Die Gruppe hält sich zwar im 
+Hintergrund,\. wurde aber auch schon in der Nähe 
+und teilweise sogar in Städten und Dörfern 
+Korzojenos erspäht.
+'''
+patched = '''
+\c[10]Council Member\c[0]: The group remains in the shadows,\.
+but has also been spotted nearby and sometimes
+even in the towns and villages of Korzojeno.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 50
+original = '''
+\c[10]Mitglied des Rates\c[0]: Hier handelt es sich definitiv 
+um keine größere Diebesbande oder ähnlichem.
+'''
+patched = '''
+\c[10]Council Member\c[0]: This is definitely not a major
+gang of thieves or the like.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 57
+original = '''
+\c[10]Mitglied des Rates\c[0]: In der Tat.\. es wurde nie 
+berichtet,\. dass diese Gruppe die Zivilbevölkerung 
+von Korzojeno belästigt oder gar angegriffen hat.
+'''
+patched = '''
+\c[10]Council Member\c[0]: Indeed.\. This group has never been
+reported to have harassed or even attacked
+Korzojeno's civilians.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 65
+original = '''
+\c[10]Mitglied des Rates\c[0]: Ich bin dennoch der Meinung, 
+dass wir erstmal warten sollten, bis uns genauere 
+Informationen erreichen, bevor wir gleich beim 
+Adelsbund anklopfen, \.wegen ein paar Gerüchten
+'''
+patched = '''
+\c[10]Council Member\c[0]: I still believe that we should
+wait until we get more detailed information
+before knocking on the nobility's door just
+because of a few rumors.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 70
+original = '''
+\c[10]Mitglied des Rates\c[0]: Momentan gibt es einfach 
+wichtigeres zu tun. Unsere Truppen auf dem 
+südlichen Kontinent haben derzeit Probleme, ihr 
+Land vor dem Gegner zu verteidigen. 
+'''
+patched = '''
+\c[10]Council Member\c[0]: There are simply more important
+things to do at the moment.\. Our troops on the
+southern continent are currently struggling to
+defend their country from the enemy.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 74
+original = '''
+\c[10]Mitglied des Rates\c[0]: Während wir hier uns über das 
+Sorgen machen was sich Waschweiber an der Grenze 
+erzählen, sterben unsere Männer jenseits der See, 
+Stund' um Stund'.
+'''
+patched = '''
+\c[10]Council Member\c[0]: While we are worried about what
+rumors are spread around at the border, our men
+are dying on the other side of the sea, hour
+after hour.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 84
+original = '''
+\c[10]Mitglied des Rates\c[0]: Wir dürfen nicht vergessen, 
+dass diese Angelegenheit im Südlichen Kontinent 
+nur der Landerweiterung dient.
+'''
+patched = '''
+\c[10]Council Member\c[0]: We must not forget that this
+matter in the southern continent is only for
+expansion.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 87
+original = '''
+\c[10]Mitglied des Rates\c[0]: Was sich da wiederum im Osten 
+abspielt könnte sich zu einer Gefahr für das ganze 
+Land entwickeln. 
+'''
+patched = '''
+\c[10]Council Member\c[0]: What's happening in the east
+could easily turn into a threat for the whole
+country.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 90
+original = '''
+\c[10]Mitglied des Rates\c[0]: Sollte Korzojeno es wagen, die 
+Friedensverträge zu brechen und sein Heer wieder 
+vergrößern, ist ein weiterer Krieg nicht fern.
+'''
+patched = '''
+\c[10]Council Member\c[0]: If Korzojeno dares to break
+the peace treaties and enlarge their army
+again, another war is not too far off.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 93
+original = '''
+\c[10]Mitglied des Rates\c[0]: Wir müssen dieses Feuer 
+ersticken, bevor es entfacht.
+'''
+patched = '''
+\c[10]Council Member\c[0]: We must put out this fire
+before it starts.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 95
+original = '''
+\c[10]Mitglied des Rates\c[0]: Die Ureinwohner vom Süden 
+stellen für das Land selber momentan keine direkte 
+Gefahr dar.
+'''
+patched = '''
+\c[10]Council Member\c[0]: The indigenous people from the
+south currently pose no direct danger to the
+country itself.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 106
+original = '''
+\c[10]Mitglied des Rates\c[0]: Wie bitte!?\. Verstehe ich sie 
+richtig?\. Sagen sie, es ist egal, ob da Leute im 
+Süden sterben oder nicht, solange wir hier oben 
+sicher sind?
+'''
+patched = '''
+\c[10]Council Member\c[0]: I beg your pardon?!\. Did I hear
+you correctly?\. You say it doesn't matter if people
+die in the south as long as we're safe up here?
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 110
+original = '''
+\c[10]Mitglied des Rates\c[0]: Das ist doch unerhört...
+'''
+patched = '''
+\c[10]Council Member\c[0]: This is outrageous...
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 118
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: Ruhe!
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: Silence!
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 123
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: Es ist schon 
+klar, dass wir uns auch auf das 
+konzentrieren müssen, was im Süden 
+passiert.
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: It is already
+clear that we must also focus on
+what's happening in the south.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 127
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: Aber ein 
+Untersuchungsauftrag, meine 
+Herren...
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: But an inquiry,
+gentlemen...
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 130
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: ...ist 
+keineswegs eine militärische Aktion 
+die die gesamten Streitkräfte des 
+Briganten-Ordens in Anspruch nimmt.
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: ...is by no
+means a military action that takes
+up the entire armed forces of the
+Brigantine Order.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 134
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: Wir werden 
+das Mysterium um diese Gruppe 
+untersuchen, diese Sache ist bereits 
+beschlossen.
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: We will
+investigate the mystery surrounding
+this group,\. this matter has already
+been resolved.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 138
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: Die Konflikte 
+im Süden werden deshalb nicht 
+vernachlässigt,\. machen sie sich 
+diesbezüglich also keine Sorgen.
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: The conflicts in
+the south are therefore not
+neglected,\. so do not worry
+about them.
+'''
+
+[[dialogue]]
+event = 24
+page = 1
+command = 147
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: Ich erkläre 
+die Sitzung hiermit für beendet.
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: I hereby declare
+this meeting closed.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 12
+original = '''
+\c[10]Mitglied des Rates\c[0]:...kurze Zeit später erhielten 
+wir einen weiteren Brief von Herrn Uroto selber. \.
+Er fordert ebenfalls Verstärkung und 
+bestätigte die Existenz der Gruppe.
+'''
+patched = '''
+\c[10]Council Member\c[0]: A short while later, we received
+another letter from Mr. Uroto himself.\. He also
+called for reinforcements and confirmed the
+existence of the group.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 16
+original = '''
+\c[10]Mitglied des Rates\c[0]: Gleichzeitig aber berichtet er 
+uns von der Gefangennahme seiner Eskorte. 
+'''
+patched = '''
+\c[10]Council Member\c[0]: At the same time, however, he
+tells us about the capture of his escort team.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 22
+original = '''
+\c[10]Mitglied des Rates\c[0]: Laut seiner Aussage haben sie 
+die Seiten gewechselt und waren als Spione für 
+jene Gruppe aus dem Silvanwald tätig.
+'''
+patched = '''
+\c[10]Council Member\c[0]: According to him, they changed
+sides and acted as spies for that group from
+the Silvan Forest.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 25
+original = '''
+\c[10]Mitglied des Rates\c[0]: Ihre eigentliche Aufgabe soll 
+gewesen sein, weiteren Verdacht über die Gruppe zu 
+beseitigen. 
+'''
+patched = '''
+\c[10]Council Member\c[0]: Their real task should've been to
+remove any further suspicions about the group.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 28
+original = '''
+\c[10]Mitglied des Rates\c[0]: Die Eskorte befindet sich im 
+Moment auf dem Weg zum Gefängnis von Helnovien.
+'''
+patched = '''
+\c[10]Council Member\c[0]: The group of escorts is currently
+on their way to the Helnovien Prison.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 35
+original = '''
+\c[10]Mitglied des Rates\c[0]: Heißt das etwa die Gerüchte 
+über diese Gruppe entsprachen der Wahrheit?\. Wie 
+kann so etwas sein!
+'''
+patched = '''
+\c[10]Council Member\c[0]: Does that mean the rumors about
+this group were true?\. How can that be!
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 45
+original = '''
+\c[10]Mitglied des Rates\c[0]: Entschuldigen Sie bitte, 
+verstehe ich das richtig? 
+'''
+patched = '''
+\c[10]Council Member\c[0]: Excuse me, do I understand you
+correctly?
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 47
+original = '''
+\c[10]Mitglied des Rates\c[0]: Jene Eskorte hat uns von der 
+Existenz einer Gruppe im Silvanwald berichtet, 
+sollte aber in Wirklichkeit Gerüchte über diese 
+Gruppe beseitigen?
+'''
+patched = '''
+\c[10]Council Member\c[0]: That the escort group told us
+about the existence of a group in the Silvan
+Forest, but was supposed to eliminate the
+rumors about this group?
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 56
+original = '''
+\c[10]Mitglied des Rates\c[0]: Herr Uroto beschreibt in 
+seinen Brief einen recht obskuren Plan, der 
+dies bewirken sollte. 
+'''
+patched = '''
+\c[10]Council Member\c[0]: Mr. Uroto describes in his letter
+a rather obscure plan that should do just that.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 59
+original = '''
+\c[10]Mitglied des Rates\c[0]: Diese Sache ist allerdings 
+vorerst nebensächlich. Fest steht: Von jeder Seite 
+wurde uns die Existenz der vermuteten Gruppe 
+bestätigt.
+'''
+patched = '''
+\c[10]Council Member\c[0]: However, this matter is of
+secondary importance for now. One thing is
+certain: The existence of the suspected
+group was confirmed to us from every side.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 65
+original = '''
+\c[10]Mitglied des Rates\c[0]: Ich rate zur sofortigen 
+Verstärkung der Streitkräfte an der Grenze, sowie 
+das Senden von Durchsuchungstrupps, um weitere 
+Informationen über die Gruppe zu erlangen.
+'''
+patched = '''
+\c[10]Council Member\c[0]: I recommend immediate
+reinforcement of the border patrol,
+as well as sending search teams to
+get more information about the group.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 75
+original = '''
+\c[10]Mitglied des Rates\c[0]: Was gibt es da noch zu 
+durchsuchen? Ich sage wir umzingeln den Wald und 
+ersticken das Feuer, bevor es entfacht! 
+'''
+patched = '''
+\c[10]Council Member\c[0]: What else is there to search?
+I say we surround the forest and put out the
+fire before it starts!
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 78
+original = '''
+\c[10]Mitglied des Rates\c[0]: Wir haben genug Belege, um 
+einen militärischen Eingriff zu rechtfertigen!
+'''
+patched = '''
+\c[10]Council Member\c[0]: We have enough evidence to
+justify military intervention!
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 86
+original = '''
+\c[10]Mitglied des Rates\c[0]: Was ist mit dem farenischen 
+Adelsbund?\. Wurde eine Verbindung bestätigt?\. Gibt 
+es irgendwelche weiteren Informationen über diese 
+Gruppe?
+'''
+patched = '''
+\c[10]Council Member\c[0]: What about the Farenian
+Aristocracy?\. Has a connection between
+the two been confirmed?\. Is there any
+other information about this group?
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 92
+original = '''
+\c[10]Mitglied des Rates\c[0]: Die Gruppe soll professionell 
+ausgerüstet sein und einen befestigten Stützpunkt 
+im Silvanwald haben.\. Eine direkte Verbindung zum 
+Adelsbund konnte nicht nachgewiesen werden.
+'''
+patched = '''
+\c[10]Council Member\c[0]: The group should be
+professionally equipped and have a fortified base
+in the Silvan Forest.\. A direct connection to the
+aristocratic league could not be proven.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 104
+original = '''
+\c[10]Mitglied des Rates\c[0]: Aber woher sollen sie sonst 
+ihre Ausrüstung haben? 
+'''
+patched = '''
+\c[10]Council Member\c[0]: But where else would they get
+their equipment from?
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 112
+original = '''
+\c[10]Mitglied des Rates\c[0]: Sollte der Adelsbund 
+tatsächlich hinter dieser Gruppe stecken, sollten 
+wir ihm eine gehörige Lektion erteilen.
+'''
+patched = '''
+\c[10]Council Member\c[0]: If the nobility association is
+actually behind this group, we should teach
+them a proper lesson.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 115
+original = '''
+\c[10]Mitglied des Rates\c[0]: Solch eine Unverfrorenheit!
+'''
+patched = '''
+\c[10]Council Member\c[0]: The audacity!
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 122
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: Wir sollten 
+vermeiden in dieser Situation 
+überstürzt zu handeln.
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: We should avoid
+acting hastily in this situation.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 125
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: Ein 
+unangebracht, aggressives Verhalten 
+würde jegliche diplomatische 
+Beziehung zum Adelsbund zerstören.
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: Inappropriate,
+aggressive behavior would destroy
+any diplomatic relationship with
+the nobility.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 134
+original = '''
+\c[10]Mitglied des Rates\c[0]: Was bringen uns diplomatische 
+Beziehungen zu einem Land, das uns angreifen will?
+'''
+patched = '''
+\c[10]Council Member\c[0]: What do we get from diplomatic
+relations with a country that wants to attack us?
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 140
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: Ich will Sie 
+daran erinnern, dass es keinen Beleg 
+für die Verbindung zum Adelsbund 
+gibt!
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: I want to remind
+you that there is still no evidence
+of connection with the aristocracy!
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 144
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: Wir werden 
+einen weiteren Botschafter zum 
+farenischen Adelsbund senden, um 
+weiteres dazu herauszufinden. 
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: We will send
+another ambassador to the Farenian
+Aristocracy to find out more.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 148
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: Ansonsten 
+halte ich eine Verstärkung der 
+Grenzbewachung ebenfalls für 
+sinnvoll. 
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: Otherwise, I
+think it would also make sense to
+strengthen the border patrol.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 152
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: Vorerst 
+werden wir nur das Gebiet um den 
+Silvanwald genauer durchsuchen.
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: For the time
+being, we will search the area
+around the Silvan Forest more
+closely and nothing else.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 155
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: Offensive 
+Maßnahmen bleiben aus, bis wir 
+genaueres wissen.
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: Offensive
+measures are not to be taken
+until we know more.
+'''
+
+[[dialogue]]
+event = 24
+page = 2
+command = 158
+has_portrait = true
+original = '''
+\c[10]Oberstes Ratmitglied\c[0]: Wir werden 
+die Streitkräfte bereithalten, um 
+sofort eingreifen zu können, sollte 
+die Situation es verlangen.
+'''
+patched = '''
+\c[10]Head Council Member\c[0]: We will have the
+armed forces ready to intervene
+immediately if the situation
+requires it.
+'''

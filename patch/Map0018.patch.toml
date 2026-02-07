@@ -1,0 +1,267 @@
+[[dialogue]]
+event = 7
+page = 1
+command = 4
+original = '''
+\c[10]Kellnerin\c[0]: Hm?\. Sagen Sie bloß, Sie
+wollen JETZT noch frühstücken?
+'''
+patched = '''
+\c[10]Waitress\c[0]: Hm?\. Did you just say
+you want to have breakfast NOW?
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 8
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Öhm...\. Wie spät ist es 
+denn ungefähr?
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Um...\. About what time is it?
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 11
+original = '''
+\c[10]Kellnerin\c[0]: Gleich haben wir
+16 Uhr.
+'''
+patched = '''
+\c[10]Waitress\c[0]: It's around four
+in the afternoon.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 15
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Oh je...\. Da hab ich 
+wirklich viel vom Tag verschlafen.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Oh my...\. I already
+I already slept through most of
+the day.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 23
+original = '''
+\c[10]Kellnerin\c[0]: Falls Sie solchen Hunger 
+haben...\. In einer halben Stunde könnte ich etwas
+zubereiten.
+'''
+patched = '''
+\c[10]Waitress\c[0]: If you're that hungry...\.
+I could prepare something in half an hour.
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 28
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Nein, nein.\. 
+Das ist nicht nötig!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] No,\. it's fine.
+'''
+
+[[dialogue]]
+event = 7
+page = 2
+command = 2
+original = '''
+\c[10]Kellnerin\c[0]: Es ist wirklich langweilig
+hier.\. Irgendwie war es auch eine Schnaps-Idee,
+ausgerechnet hier so einen Gasthof zu bauen,
+wo hier doch eh kaum eine Sau sich blicken lässt.
+'''
+patched = '''
+\c[10]Waitress\c[0]: It's rather boring around here.\.
+Somehow, he got the idea to open up an inn
+here of all places. Even the ground can
+hardly be sowed.
+'''
+
+[[dialogue]]
+event = 7
+page = 2
+command = 9
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ja, stimmt.\. Nur der 
+Beruf kann einen natürlich wieder 
+hier hin verschleppen.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Agreed.\. The job is probably
+the only thing keeping you here.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 4
+original = '''
+\c[10]Gasthof-Besitzer\c[0]: Guten Morgen, mein Herr.\.
+Haben Sie gut geschlafen?
+'''
+patched = '''
+\c[10]Inn Owner\c[0]: Good morning, sir.\.
+Did you sleep well?
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 8
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Hab ich.\. Die Betten waren
+wirklich gemütlich.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] I have.\. The beds were
+really comfortable.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 11
+original = '''
+\c[10]Gasthof-Besitzer\c[0]: Freut mich, das
+zu hören.
+'''
+patched = '''
+\c[10]Inn Owner\c[0]: Glad to hear that.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 15
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Wissen Sie vielleicht, wo
+sich mein Kollege aufhält?
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Do you know where
+my colleague is?
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 18
+original = '''
+\c[10]Gasthof-Besitzer\c[0]: Etwa der eine mit
+dem blauen Stirnband?\. Ich weiß es nicht, aber es
+wird schon nicht so schwer sein, 
+ihn hier zu finden.
+'''
+patched = '''
+\c[10]Inn Owner\c[0]: The one with the
+blue headband?\. I don't know, but it won't
+be that hard to find him here.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 24
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ja, da haben Sie Recht.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Yeah, you're right.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 31
+original = '''
+\c[10]Gasthof-Besitzer\c[0]: Wir haben hier
+ziemlich selten Gäste.\. Aber wen wundert es,
+bei so einem Ort.
+'''
+patched = '''
+\c[10]Inn Owner\c[0]: We rarely have
+guests here.\. But it isn't that
+surprising in such a place.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 36
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Es soll Leute geben, die 
+so eine friedliche und ruhige 
+Ortschaft zu schätzen wissen.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] There should be people
+who appreciate such a peaceful
+and quiet place.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 40
+original = '''
+\c[10]Gasthof-Besitzer\c[0]: Jaja...\. Das tu ich ja auch.
+Aber sehr viel Profit bringt es mir nicht gerade.
+'''
+patched = '''
+\c[10]Inn Owner\c[0]: Yeah...\. I think so too. But it
+doesn't exactly bring in a lot of profit.
+'''
+
+[[dialogue]]
+event = 8
+page = 2
+command = 3
+original = '''
+Guten Tag. Brauchen Sie eine Rast?
+'''
+patched = '''
+Good day. Do you need a rest?
+'''
+
+[[dialogue]]
+event = 8
+page = 2
+command = 7
+original = '''
+Eine gute Nacht wünsche ich dann mal.
+'''
+patched = '''
+Have a good night!
+'''

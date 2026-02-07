@@ -1,0 +1,767 @@
+[[dialogue]]
+event = 73
+page = 2
+command = 41
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Schaut,\. da oben ist das 
+Grabdenkmal.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Look,\. there's the memorial
+up ahead.
+'''
+
+[[dialogue]]
+event = 73
+page = 2
+command = 49
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 73
+page = 2
+command = 51
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Kommt, gebt mir 5 Minuten. 
+Ich hab versprochen, dass ich es 
+besuche.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Come on, just five minutes.
+I promised to visit it.
+'''
+
+[[dialogue]]
+event = 73
+page = 2
+command = 59
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Herr Uroto...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Mr. Uroto...
+'''
+
+[[dialogue]]
+event = 73
+page = 2
+command = 62
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Meinetwegen, solange es 
+nicht zulange dauert.\. Und gegen eine 
+kleine Pause hab ich selber auch 
+nichts.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: Alright, as long as it
+doesn't take too long.\. And I don't
+have anything against a little
+break myself.
+'''
+
+[[dialogue]]
+event = 73
+page = 2
+command = 67
+has_portrait = true
+character = '''Cibon'''
+original = '''
+(\c[2]\n[2]\c[0]: War ja klar...)
+'''
+patched = '''
+(\c[2]\n[2]\c[0]: Go figure...)
+'''
+
+[[dialogue]]
+event = 73
+page = 2
+command = 89
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Kento...?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Kento?
+'''
+
+[[dialogue]]
+event = 73
+page = 2
+command = 91
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich warte hier auf euch...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I'll be waiting for you
+here...
+'''
+
+[[dialogue]]
+event = 73
+page = 2
+command = 93
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 73
+page = 2
+command = 95
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Okay, wir kommen gleich 
+wieder, Kumpel.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Okay, we'll be right back.
+'''
+
+[[dialogue]]
+event = 73
+page = 3
+command = 19
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: ...\.Das dauert...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: So much for being quick...)
+'''
+
+[[dialogue]]
+event = 73
+page = 3
+command = 24
+original = '''
+\c[10]????\c[0]: Okay,\.\. jetzt!
+'''
+patched = '''
+\c[10]????\c[0]: Okay,\.\. now!
+'''
+
+[[dialogue]]
+event = 73
+page = 3
+command = 34
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: W... Was ist hier los?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: W... What's going on here?
+'''
+
+[[dialogue]]
+event = 73
+page = 3
+command = 151
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: W...\. Wer seid ihr?!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: W...\. Who are you?!
+'''
+
+[[dialogue]]
+event = 73
+page = 3
+command = 159
+has_portrait = true
+original = '''
+\c[10]????\c[0]: Wir sind diejenigen, die dich 
+vorbereiten!
+'''
+patched = '''
+\c[10]????\c[0]: We are the ones who shall
+prepare you!
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 7
+has_portrait = true
+original = '''
+\c[10]????\c[0]: Gut, das war alles.\. Lass uns
+verschwinden!
+'''
+patched = '''
+\c[10]????\c[0]: Well, that's all.\. Let's get out
+of here!
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 10
+has_portrait = true
+original = '''
+\c[10]????\c[0]: Warte...
+'''
+patched = '''
+\c[10]????\c[0]: Wait...
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 24
+has_portrait = true
+original = '''
+\c[10]????\c[0]: Nur um sicher zu gehen.
+'''
+patched = '''
+\c[10]????\c[0]: Just for good measure.
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 39
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: HEY!\. Wer seid ihr!\. Was war 
+das eben!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: HEY!\. Who are you people!\.
+What was that!
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 42
+has_portrait = true
+original = '''
+\c[10]????\c[0]: KENTO!
+'''
+patched = '''
+\c[10]????\c[0]: KENTO!
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 54
+has_portrait = true
+original = '''
+\c[10]????\c[0]: Schnell!\.\.\^
+'''
+patched = '''
+\c[10]????\c[0]: Quickly!\.\.\^
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 143
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: BLEIBT IHR WOHL HIER!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: GET DOWN HERE YOU BASTARDS!
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 151
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Kento...!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Kento!
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 159
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ...Er is nur bewusstlos... 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: He only passed out...
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 161
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Und das nach diesem Spektakel. \.
+Du hast doch auch diese Lichtsäule 
+gesehen, oder?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: After all this?\. You saw that
+pillar of light too, right?
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 165
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: W...\.Was waren das für 
+Leute?
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: W...\. What kind of people
+were they?
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 173
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hey, zuallererst sollt'n wir 
+uns um Kento kümmern, oder?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hey, first of all we should
+take care of Kento, right?
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 178
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Richtig!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Right!
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 189
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Oh...\. was is das hier?\.
+Ein....\. Lichtschlag?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh...\. What's this?\. Some...\.
+divine light?
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 196
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...?\. Wieso liegt das hier?\. 
+Die beiden haben doch nicht etwa...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: ...?\. Why is that here?\. The two
+were about to...
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 205
+original = '''
+\>                    \<\s[2]...\...?\^
+'''
+patched = '''
+\>                    \<\s[2]...\...?\^
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 226
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hah!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Gah!
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 228
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Kento...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Kento...
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 230
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Kumpel,\. ist noch alles dran?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Is everything alright?
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 236
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...mehr\....\. oder weniger
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...more\....\. or less...
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 242
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Kento,\. was ist hier 
+passiert?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Kento,\. what happened here?
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 248
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...\. Ich...\. Ich weiß es 
+nicht...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I...\. I don't know...
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 251
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wie..?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Why?
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 254
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Diese Leute kamen aus 
+heiterem Himmel...\. sprichwörtlich...\.
+und griffen mich an, ohne einen 
+Grund zu nennen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: These people came out of the
+blue...\. literally...\. and attacked
+me without giving any reason.
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 260
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Sie wollten ganz gezielt dich 
+angreifen?\. Wieso ausgerechnet dich?\. 
+Ich hätte Leute erwartet, die hinter 
+Herrn Uroto her sind,\.\. aber das...?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: They wanted to attack you
+specifically?\. Why you of all people?\.
+I would've expected people to go
+after Mr. Uroto,\.\. but who...
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 265
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Sie sagten, sie wollten mich 
+vorbereiten,\. aber das war es auch 
+schon...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: They said they wanted to
+prepare me,\. but that's about it...
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 272
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: "Vorbereiten"?\. Indem sie dich 
+bewusstlos schlagen?\. Was für Vögel 
+sind das denn?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: "Prepare"?\. By knocking you
+senseless?\. What kind of maniacs
+are they?
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 276
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Sie konnten fliegen...\. Sie 
+sind vor unseren Augen davon 
+geflogen!\.
+Und dann dieser Zauber...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: They could fly...\. They flew
+away before our very eyes!\. And
+then this magic...
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 283
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Was ist dieses Licht überhaupt 
+gewesen?\. Ich hab noch nie von so 
+einer Signum-Technik gehört oder 
+gelesen.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: What was that light all about?\.
+I've never heard or read of such
+a Signum technique.
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 288
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Es war auch anders...\. es hat 
+nicht gebrannt wie Feuer oder Licht,\. 
+war nicht kalt wie Eis oder 
+Schatten...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It was different too...\. It
+didn't burn like fire or light,\.
+wasn't cold like ice or shadow...
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 293
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Zu Beginn war es sogar 
+angenehm,\. ein leichtes Kribbeln, das 
+dann aber so stark wurde,\. dass es 
+wie ein Schock gewirkt haben muss...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: In the beginning it was even
+pleasant,\. a slight tingling
+sensation.\. It then became so strong
+that it must've looked shocking...
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 302
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wie bitte?\. Die haben dich 
+doch nicht etwa verzaubert, oder so 
+was?\. Bist du sicher, dass alles okay 
+ist?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Excuse me?\. They didn't enchant
+you with something, did they?\. You
+sure everything's okay?
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 312
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Abgesehen von leichten 
+Schmerzen am Kopf,\. die wohl vom 
+Sturz kommen,\. fühl ich mich 
+eigentlich...\. in Ordnung...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Apart from a slight headache,\.
+which probably came from my fall,\.
+I actually feel...\. okay...
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 321
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Du solltest dennoch aufpassen, 
+Kento...\. Wir beeilen uns besser, 
+damit wir schnell zum nächsten 
+Gasthof kommen.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: You should still be careful,
+Kento...\. We better hurry up so that
+we can quickly get to the next inn.
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 329
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Beeilen müssen wir uns 
+sowieso.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: We have to hurry up
+anyways.
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 332
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Jaja...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Yeah yeah...
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 334
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Im Gasthof ruhst du dich dann 
+aus und wir reden weiter über das 
+Thema...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Then let's get you to an inn
+and we'll continue to talk about
+it afterwards...
+'''
+
+[[dialogue]]
+event = 73
+page = 5
+command = 343
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Gut...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Alright...
+'''

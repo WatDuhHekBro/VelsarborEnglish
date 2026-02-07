@@ -1,0 +1,422 @@
+[[dialogue]]
+event = 11
+page = 1
+command = 19
+original = '''
+\c[10]Zojenische Einheit\c[0]:\s[1] Frau Mensesso, bitte 
+verlassen Sie die Forschungsbasis!\. Hier sind Sie 
+nicht sicher.
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]:\s[1] Lady Mensesso, please leave
+this research station!\. You aren't safe here.
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 26
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]:\s[1] Wieso?\. Ich dachte, 
+wir wären auf diese Invasion 
+vorbereitet.\. Sollten unsere Soldaten 
+nicht mit dem Gegner fertig werden?
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]:\s[1] How come?\. I thought we
+were prepared for this invasion.\.
+Shouldn't our soldiers be dispatching
+the enemy right now?
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 32
+original = '''
+\c[10]Zojenische Einheit\c[0]:\s[1] So sollte es sein, wäre 
+da nur nicht diese Spezialeinheit...
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]:\s[1] That's what we would've
+expected,\. if it weren't for this Special-Ops
+soldier...
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 37
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]:\s[1] Brigans 
+Spezialeinheit?\. Also wird 
+sie nun endlich eingesetzt...
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]:\s[1] Brigantia's
+Special-Ops?\. So it has finally
+come down to this then...
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 42
+original = '''
+\c[10]Zojenische Einheit\c[0]: Es ist unglaublich!\. 
+Eine einzelne Person stürmt durch den Komplex wie 
+ein Berserker und lässt sich durch nichts 
+aufhalten!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: It's unbelievable!\. A single
+person, storming through the complex like a
+berserker and can't be stopped by anything!
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 47
+original = '''
+\c[10]Zojenische Einheit\c[0]: Dutzend von Soldaten hat 
+sie schon besiegt! Im Alleingang!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: He already defeated a dozen
+soldiers!\. Single-handedly!
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 53
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]: Wie bitte?!\. Das kann 
+doch nicht sein!\. Was für eine 
+Spezialeinheit ist das?!
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]: I beg your pardon?!\.
+This can't be happening!\. What kind
+of soldier takes on an entire army
+alone?!
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 57
+original = '''
+\c[10]Zojenische Einheit\c[0]:\s[1] So unglaublich es 
+klingen mag,\. es ist so!\.
+Ich habe es mit eigenen Augen gesehen. 
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]:\s[1] As outlandish as it may
+sound,\. it's true!\. I saw it with my own eyes.
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 61
+original = '''
+\c[10]Zojenische Einheit\c[0]:\s[1] Verlassen Sie diese Basis 
+sofort!\. Wir können nicht mehr für Ihre Sicherheit 
+garantieren.
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]:\s[1] Leave this base immediately!\.
+We can no longer guarantee your safety.
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 66
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]:\s[2] Ich verstehe...
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]:\s[2] I see...
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 69
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]:\s[1] Gehen Sie vor.\. Ich 
+werde diesen Ort schon alleine 
+sicher verlassen können.
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]:\s[1] Go on ahead.\. I'll be
+able to leave this place safely on
+my own.
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 74
+original = '''
+\c[10]Zojenische Einheit\c[0]:\s[1] Mein Befehl war, Sie 
+sicher hier raus zu begleiten.\. Ich kann nicht 
+so einfach gehen!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]:\s[1] My order was to escort you
+safely out of here.\. I can't go that easy!
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 80
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]:\s[1] Hmpf...\. Dann erlauben 
+Sie mir einen letzten Blick durch 
+die Überwachungskameras.\. Ich möchte 
+diese Sache mit eigenen Augen sehen. 
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]:\s[1] Hmph...\. Then at least
+let me get one last look through the
+surveillance cameras.\. I want to see
+this for myself.
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 85
+original = '''
+\c[10]Zojenische Einheit\c[0]:\s[1] ...\. Gut,\. aber beeilen 
+Sie sich!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]:\s[1] \.Fine,\. but hurry up!
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 101
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]:\s[0] D...\. Das ist 
+unglaublich!\. Wie kann ein Mensch so 
+eine physische Kraft erlangen?!\. 
+Dieser Anzug...
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]:\s[0] Th...\. This is
+outrageous!\. How can someone
+gain such physical strength?!\.
+That suit...
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 106
+original = '''
+\c[10]Zojenische Einheit\c[0]:\s[1] Er bewegt sich in 
+Richtung des Kerns der Basis...
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]:\s[1] He's headed towards the core
+of the base...
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 110
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]:\s[0]  Zum Maschinen-Kern\..\..\..
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]:\s[0] Towards the machine
+core\..\..\..
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 112
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]:\s[0] Das war 
+vorauszusehen, was sollte Brigan 
+sonst als Ziel haben?\. Aber was will 
+diese Einheit denn bitte machen? 
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]:\s[0] It's to be expected,\.
+what else would Brigantia aim for?\.
+But what is this soldier trying to
+achieve?
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 116
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]:\s[0] Spätestens wenn er 
+den Kern aus der Basis 
+transportieren will, wird er 
+scheitern. 
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]:\s[0] Well, if he wasn't
+stopped before, transporting the
+core out of this base will.
+'''
+
+[[dialogue]]
+event = 11
+page = 1
+command = 120
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]:\s[0] Superkräfte hin oder 
+her.\. Er wird ein Objekt dieser Größe 
+nicht so schnell hier raus befördern 
+können...
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]:\s[0] Superpowers or not,\. he
+won't be able to get an object of this
+size out of here so quickly...
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 12
+original = '''
+\c[10]Zojenische Einheit\c[0]: D...\. Das gibt es nicht...\. 
+FPM05!\. Von einem Menschen besiegt!\.
+Nein...\. D...\. Das ist kein Mensch mehr!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: G...\. Gone...\. The FPM05 is
+gone!\. Destroyed by a single person!\. No...\. Th...\.
+That thing,\. whatever it is,\. it's not even human
+anymore!
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 18
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]:\s[1] Haben Sie gehört, was 
+er gesagt hat?\. Er will die "Quelle 
+all dieser Macht" zerstören!
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]:\s[1] He wants to destroy
+"the source of all this power".\.
+You heard that,\. right?
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 23
+original = '''
+\c[10]Zojenische Einheit\c[0]: Die Quelle all dieser Macht?\. 
+Auch die seiner?!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: The source of all this power?\.
+His power too?!
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 31
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]: Ich muss etwas 
+nachsehen!
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]: I have to check
+something for a moment!
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 53
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]: N...Nein!\. Wieso bin 
+ich nicht gleich drauf gekommen?!
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]: N...\. No!\. Why didn't
+I get that that's what he meant?!
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 55
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]: Der Maschinenkern
+verzeichnet leichte Energieverluste!\.
+Er ist seine Energiequelle!
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]: The machine core has
+been experiencing some energy losses!\.
+So that's the source of his power!
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 60
+original = '''
+\c[10]Zojenische Einheit\c[0]: Das heißt...\.
+Er will den Kern zerstören?!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: That means...\.
+He wants to destroy the core?!
+'''
+
+[[dialogue]]
+event = 11
+page = 3
+command = 11
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]:\s[1] Der...der 
+Kern ist verschwunden!\. 
+Die Spezialeinheit ebenfalls!\. 
+Was ist hier geschehen?!
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]:\s[1] The...\. The core
+vanished!\. The Special-Ops soldier too!\.
+What in the world happened here?!
+'''

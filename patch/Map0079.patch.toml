@@ -1,0 +1,765 @@
+[[dialogue]]
+event = 33
+page = 1
+command = 10
+original = '''
+\c[10]Reiter\c[0]: Was ich hier mache?\. Ich warte, bis mein 
+Kollege endlich mit den Vorbereitungen fertig 
+wird.\. Wir beide müssen Pakete nach Buronia 
+bringen. Wird ein recht langer Weg...
+'''
+patched = '''
+\c[10]Rider\c[0]: What am I doing here?\. I'm waiting for
+my colleague to finishes his preparations.\.
+We both have to bring packages to Buronia.\.
+Now that'll take a while...
+'''
+
+[[dialogue]]
+event = 46
+page = 1
+command = 4
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ein Uchiko...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: An uchiko...
+'''
+
+[[dialogue]]
+event = 46
+page = 1
+command = 8
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Sind Sie schon mal auf einem 
+geritten, Herr Kento?\. Es ist anfangs 
+etwas gewöhnungsbedürftig. 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Have you ever ridden one,
+Mr. Kento?\. It takes some getting
+used to at first.
+'''
+
+[[dialogue]]
+event = 46
+page = 1
+command = 12
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber man gewöhnt sich recht 
+schnell daran.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But you get used to it
+pretty quickly.
+'''
+
+[[dialogue]]
+event = 46
+page = 1
+command = 17
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Bist du schon mal auf einem 
+geritten, Kento?\. Es ist anfangs etwas 
+merkwürdig...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Have you ever ridden one, Kento?\.
+It's a little strange at first...
+'''
+
+[[dialogue]]
+event = 46
+page = 1
+command = 21
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber hat man sich einmal dran 
+gewöhnt, macht es wirklich spaß.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But once you get used to it,
+it's really fun.
+'''
+
+[[dialogue]]
+event = 46
+page = 1
+command = 26
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Na ja, ich möchte es erstmal 
+lieber nicht ausprobieren...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Well, I'd rather not try it out
+right now...
+'''
+
+[[dialogue]]
+event = 46
+page = 1
+command = 30
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hehe, hast du Angst vor den 
+Viechern, Kento?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hehe, are you afraid of them,
+Kento?
+'''
+
+[[dialogue]]
+event = 46
+page = 1
+command = 33
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Das hab ich nicht gesagt!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I didn't say that!
+'''
+
+[[dialogue]]
+event = 47
+page = 3
+command = 20
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm... die Post-Versand-Stelle.\. 
+Was haben wir hier zu suchen?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hm... the post office.\.
+What are we doing here?
+'''
+
+[[dialogue]]
+event = 47
+page = 3
+command = 25
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Soweit ich mich erinnere, 
+sollten wir doch ein Paket hier 
+abgeben,\. richtig?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: If I recall correctly, we
+should be leaving a package here,\.
+right?
+'''
+
+[[dialogue]]
+event = 47
+page = 3
+command = 32
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Seit wann biste denn so 
+vergesslich, Kumpel?\. Wir sollten 
+doch ein Paket hier abgeben.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Since when have you been
+so forgetful, Kento?\. We have to
+drop off a package here.
+'''
+
+[[dialogue]]
+event = 47
+page = 3
+command = 43
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ach so, stimmt ja.\. Hab ich es 
+doch gleich wieder vergessen...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Oh, right.\. I forgot
+rather quickly...
+'''
+
+[[dialogue]]
+event = 47
+page = 3
+command = 50
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ich weiß nicht, du führst uns 
+hier doch an, Kento.\. Schauen wir 
+uns einfach etwas um.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: I don't know, you're leading
+us here, Kento.\. Let's just have a
+look around.
+'''
+
+[[dialogue]]
+event = 47
+page = 3
+command = 55
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Ich weiß nicht, sie führen 
+uns hier doch an, Herr Kento.\. 
+Schauen wir uns einfach etwas um.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: I don't know, you're leading
+us here, Mr. Kento.\. Let's just
+have a look around.
+'''
+
+[[dialogue]]
+event = 47
+page = 3
+command = 64
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Keinen blassen Schimmer, 
+aber es kann nie schaden, sich hier 
+mal umzusehen.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Not exactly the most
+beautiful place, but it couldn't hurt
+to check this place out.
+'''
+
+[[dialogue]]
+event = 47
+page = 3
+command = 75
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Na gut, wieso nicht...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Well, why not...
+'''
+
+[[dialogue]]
+event = 49
+page = 1
+command = 4
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ein Uchiko...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: An uchiko...
+'''
+
+[[dialogue]]
+event = 49
+page = 1
+command = 8
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Sind Sie schon mal auf einem 
+geritten, Herr Kento?\. Es ist anfangs 
+etwas gewöhnungsbedürftig. 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Have you ever ridden one,
+Mr. Kento?\. It takes some getting
+used to at first.
+'''
+
+[[dialogue]]
+event = 49
+page = 1
+command = 12
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber man gewöhnt sich recht 
+schnell daran.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But you get used to it
+pretty quickly.
+'''
+
+[[dialogue]]
+event = 49
+page = 1
+command = 17
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Bist du schon mal auf einem 
+geritten, Kento?\. Es ist anfangs etwas 
+merkwürdig...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Have you ever ridden one, Kento?\.
+It's a little strange at first...
+'''
+
+[[dialogue]]
+event = 49
+page = 1
+command = 21
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber hat man sich einmal dran 
+gewöhnt, macht es wirklich spaß.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But once you get used to it,
+it's really fun.
+'''
+
+[[dialogue]]
+event = 49
+page = 1
+command = 26
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Na ja, ich möchte es erstmal 
+lieber nicht ausprobieren...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Well, I'd rather not try it out
+right now...
+'''
+
+[[dialogue]]
+event = 49
+page = 1
+command = 30
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hehe, hast du Angst vor den 
+Viechern, Kento?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hehe, are you afraid of them,
+Kento?
+'''
+
+[[dialogue]]
+event = 49
+page = 1
+command = 33
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Das hab ich nicht gesagt!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I didn't say that!
+'''
+
+[[dialogue]]
+event = 50
+page = 1
+command = 4
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ein Uchiko...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: An uchiko...
+'''
+
+[[dialogue]]
+event = 50
+page = 1
+command = 8
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Sind Sie schon mal auf einem 
+geritten, Herr Kento?\. Es ist anfangs 
+etwas gewöhnungsbedürftig. 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Have you ever ridden one,
+Mr. Kento?\. It takes some getting
+used to at first.
+'''
+
+[[dialogue]]
+event = 50
+page = 1
+command = 12
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber man gewöhnt sich recht 
+schnell daran.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But you get used to it
+pretty quickly.
+'''
+
+[[dialogue]]
+event = 50
+page = 1
+command = 17
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Bist du schon mal auf einem 
+geritten, Kento?\. Es ist anfangs etwas 
+merkwürdig...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Have you ever ridden one, Kento?\.
+It's a little strange at first...
+'''
+
+[[dialogue]]
+event = 50
+page = 1
+command = 21
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber hat man sich einmal dran 
+gewöhnt, macht es wirklich spaß.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But once you get used to it,
+it's really fun.
+'''
+
+[[dialogue]]
+event = 50
+page = 1
+command = 26
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Na ja, ich möchte es erstmal 
+lieber nicht ausprobieren...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Well, I'd rather not try it out
+right now...
+'''
+
+[[dialogue]]
+event = 50
+page = 1
+command = 30
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hehe, hast du Angst vor den 
+Viechern, Kento?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hehe, are you afraid of them,
+Kento?
+'''
+
+[[dialogue]]
+event = 50
+page = 1
+command = 33
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Das hab ich nicht gesagt!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I didn't say that!
+'''
+
+[[dialogue]]
+event = 51
+page = 1
+command = 4
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ein Uchiko...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: An uchiko...
+'''
+
+[[dialogue]]
+event = 51
+page = 1
+command = 8
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Sind Sie schon mal auf einem 
+geritten, Herr Kento?\. Es ist anfangs 
+etwas gewöhnungsbedürftig. 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Have you ever ridden one,
+Mr. Kento?\. It takes some getting
+used to at first.
+'''
+
+[[dialogue]]
+event = 51
+page = 1
+command = 12
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber man gewöhnt sich recht 
+schnell daran.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But you get used to it
+pretty quickly.
+'''
+
+[[dialogue]]
+event = 51
+page = 1
+command = 17
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Bist du schon mal auf einem 
+geritten, Kento?\. Es ist anfangs etwas 
+merkwürdig...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Have you ever ridden one, Kento?\.
+It's a little strange at first...
+'''
+
+[[dialogue]]
+event = 51
+page = 1
+command = 21
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber hat man sich einmal dran 
+gewöhnt, macht es wirklich spaß.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But once you get used to it,
+it's really fun.
+'''
+
+[[dialogue]]
+event = 51
+page = 1
+command = 26
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Na ja, ich möchte es erstmal 
+lieber nicht ausprobieren...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Well, I'd rather not try it out
+right now...
+'''
+
+[[dialogue]]
+event = 51
+page = 1
+command = 30
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hehe, hast du Angst vor den 
+Viechern, Kento?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hehe, are you afraid of them,
+Kento?
+'''
+
+[[dialogue]]
+event = 51
+page = 1
+command = 33
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Das hab ich nicht gesagt!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I didn't say that!
+'''
+
+[[dialogue]]
+event = 52
+page = 1
+command = 4
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ein Uchiko...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: An uchiko...
+'''
+
+[[dialogue]]
+event = 52
+page = 1
+command = 8
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Sind Sie schon mal auf einem 
+geritten, Herr Kento?\. Es ist anfangs 
+etwas gewöhnungsbedürftig. 
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Have you ever ridden one,
+Mr. Kento?\. It takes some getting
+used to at first.
+'''
+
+[[dialogue]]
+event = 52
+page = 1
+command = 12
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber man gewöhnt sich recht 
+schnell daran.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But you get used to it
+pretty quickly.
+'''
+
+[[dialogue]]
+event = 52
+page = 1
+command = 17
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Bist du schon mal auf einem 
+geritten, Kento?\. Es ist anfangs etwas 
+merkwürdig...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Have you ever ridden one, Kento?\.
+It's a little strange at first...
+'''
+
+[[dialogue]]
+event = 52
+page = 1
+command = 21
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aber hat man sich einmal dran 
+gewöhnt, macht es wirklich spaß.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: But once you get used to it,
+it's really fun.
+'''
+
+[[dialogue]]
+event = 52
+page = 1
+command = 26
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Na ja, ich möchte es erstmal 
+lieber nicht ausprobieren...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Well, I'd rather not try it out
+right now...
+'''
+
+[[dialogue]]
+event = 52
+page = 1
+command = 30
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hehe, hast du Angst vor den 
+Viechern, Kento?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hehe, are you afraid of them,
+Kento?
+'''
+
+[[dialogue]]
+event = 52
+page = 1
+command = 33
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Das hab ich nicht gesagt!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I didn't say that!
+'''
+
+[[dialogue]]
+event = 53
+page = 1
+command = 8
+original = '''
+\c[10]Postbote\c[0]: Entschuldigen Sie, ich bin in Eile. 
+Dürfte ich kurz durch?
+'''
+patched = '''
+\c[10]Postman\c[0]: Excuse me, I'm in a hurry.
+Can you move for a bit?
+'''
+
+[[dialogue]]
+event = 55
+page = 1
+command = 3
+original = '''
+$v Empfangsraum
+$t Lagerraum
+'''
+patched = '''
+$v Receptionist
+$t Storage Room
+'''

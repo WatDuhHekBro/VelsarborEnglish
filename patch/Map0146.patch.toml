@@ -1,0 +1,125 @@
+[[dialogue]]
+event = 78
+page = 1
+command = 8
+original = '''
+\c[10]?????:\c[0] Tatsächlich...
+'''
+patched = '''
+\c[10]?????:\c[0] Indeed...
+'''
+
+[[dialogue]]
+event = 78
+page = 1
+command = 27
+has_portrait = true
+original = '''
+\c[10]?????:\c[0] Wer hätte je gedacht, dass 
+der begehrte Junge ganz von selbst 
+zu uns kommt?
+'''
+patched = '''
+\c[10]?????:\c[0] Who would have ever thought
+that the boy we've been looking
+for would come to us on his own?
+'''
+
+[[dialogue]]
+event = 78
+page = 1
+command = 41
+has_portrait = true
+original = '''
+\c[10]?????:\c[0] Hach ja...\. So wie es 
+aussieht, wird der Stress nun bald 
+beginnen. 
+'''
+patched = '''
+\c[10]?????:\c[0] Oh right...\. It seems like
+it'll be stressful once more.
+'''
+
+[[dialogue]]
+event = 78
+page = 1
+command = 66
+has_portrait = true
+original = '''
+\c[10]?????:\c[0] Tut mir schrecklich Leid, 
+Cieoly, aber du wirst erneut 
+die unendliche Last eines Briefes 
+mit dir schleppen müssen.
+'''
+patched = '''
+\c[10]?????:\c[0] I'm terribly sorry, Cieoly,
+but you'll have to carry the
+infinite burden of a letter
+with you again.
+'''
+
+[[dialogue]]
+event = 78
+page = 1
+command = 75
+has_portrait = true
+original = '''
+\c[10]?????:\c[0] Ja,\. ich weiß, dass es unfair 
+ist.\. Ich kann gemütlich durchs Leben 
+gehen, während du von einem Punkt 
+zum nächsten saust, nicht wahr?
+'''
+patched = '''
+\c[10]?????:\c[0] Yes,\. I know it's unfair.\. I can
+go through life comfortably as you
+whiz from one point to the next,
+can't I?
+'''
+
+[[dialogue]]
+event = 78
+page = 1
+command = 80
+has_portrait = true
+original = '''
+\c[10]?????:\c[0] Komm schon, diese Nachricht 
+ist wichtig,\. stell dich nicht so 
+stur, ja?
+'''
+patched = '''
+\c[10]?????:\c[0] Come on, this message is
+important,\. don't be so stubborn,
+okay?
+'''
+
+[[dialogue]]
+event = 78
+page = 1
+command = 92
+has_portrait = true
+original = '''
+\c[10]?????:\c[0] Das ist meine Kleine, wie ich 
+sie kenne.\.
+Enttäusch mich bitte nicht.
+'''
+patched = '''
+\c[10]?????:\c[0] There we go.\. Please don't
+disappoint me.
+'''
+
+[[dialogue]]
+event = 78
+page = 1
+command = 108
+has_portrait = true
+original = '''
+\c[10]?????:\c[0] Ich würde ja zu gerne 
+nachschauen, was es mit diesem Licht 
+von vorhin auf sich hatte, aber die 
+Zeit rennt mir davon...
+'''
+patched = '''
+\c[10]?????:\c[0] I would love to see what this
+light was like,\. but time is running
+out...
+'''

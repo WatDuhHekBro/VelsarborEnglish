@@ -1,0 +1,284 @@
+[[dialogue]]
+event = 7
+page = 1
+command = 3
+original = '''
+\c[10]Gasthofbesitzerin\c[0]: Guten Tag. Von Ihren 
+anstrengenden Aufgaben als Soldat müssen Sie doch 
+sicherlich ganz erschöpft sein. 
+Brauchen Sie vielleicht eine Rast?
+'''
+patched = '''
+\c[10]Inn Owner\c[0]: Good afternoon. You must certainly
+be exhausted from your strenuous tasks as a
+soldier. Do you need a rest?
+'''
+
+[[dialogue]]
+event = 7
+page = 1
+command = 10
+original = '''
+\c[10]Gasthofbesitzerin\c[0]: Ihnen gehört das linke Zimmer.
+Wünsche Ihnen einen erholsamen Schlaf.
+'''
+patched = '''
+\c[10]Inn Owner\c[0]: Your room is on the left.
+Sleep well!
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 2
+original = '''
+\c[10]Gast\c[0]: Seit dem Sieg über die Korzojaner lebt 
+es sich immer besser hier in Brigantia!
+Wenn ich daran denke, wie groß unsere 
+Geldsorgen früher immer gewesen sind.
+'''
+patched = '''
+\c[10]Guest\c[0]: Ever since the victory over Korzojeno,
+life in Brigantia has been getting better!
+I remember how big our economic worries
+used to be.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 6
+original = '''
+\c[10]Gast\c[0]: Heute geht es uns viel besser, da bin ich 
+mir sicher.\. Ein Hoch auf Brigantia!
+'''
+patched = '''
+\c[10]Guest\c[0]: We are much better nowadays, I'm
+sure of that.\. Cheers to Brigantia!
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 2
+original = '''
+\c[10]Gast\c[0]: Ich habe mal gehört, dass man in Korzojeno 
+ab einem bestimmten Alter der Armee beitreten 
+muss. Man muss zwar nicht bleiben, aber ein paar 
+Jahre ist ein Dasein als Soldat Pflicht...
+'''
+patched = '''
+\c[10]Guest\c[0]: I once heard that in Korzojeno, you have
+to join the army at a certain age. You don't
+have to stay, but being a soldier is
+mandatory for a few years...
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 8
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Stimmt das wirklich? Dass 
+Korzojeno so militärisch eingestellt 
+war, ist mir neu.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Is that really true? Well it's
+news to me that Korzojeno is so
+militarily focused.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 12
+original = '''
+\c[10]Gast\c[0]: Ich denke schon...
+Als wir gegen Korzojeno gekämpft haben, 
+war das Heer des Gegners auch größer als 
+unseres.
+'''
+patched = '''
+\c[10]Guest\c[0]: I think so at least... When
+we fought Korzojeno, the opponent's
+army was also larger than ours.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 16
+original = '''
+\c[10]Gast\c[0]: Aber unsere Soldaten müssen wohl 
+intensiver gekämpft haben.\. Klar.\. Da bei uns nur 
+die Soldaten wurden, die es so wollten, war ihre 
+Motivation wohl höher.
+'''
+patched = '''
+\c[10]Guest\c[0]: But our soldiers must have fought more
+intensely.\. Clearly.\. Since we were only the
+soldiers who wanted it that way, our
+motivation was probably higher.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 20
+original = '''
+\c[10]Gast\c[0]: Wegen der Pflicht, der Armee beizutreten, 
+gab es wahrscheinlich auf der Gegenseite viele 
+unmotivierte Soldaten. Und das hat die 
+Stärke Korzojenos ziemlich beeinträchtigt.
+'''
+patched = '''
+\c[10]Guest\c[0]: Because of the obligation to join the army,
+there were probably many unmotivated soldiers
+on the other side. And that pretty much
+affected Korzojeno's strength.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 26
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja, kann sein.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yeah, I could see that
+happening.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 3
+original = '''
+\c[10]Kellnerin\c[0]: Guten Tag. Wenn Sie etwas bestellen 
+wollen, setzen Sie sich bitte an einen Tisch oder 
+an die Theke.
+'''
+patched = '''
+\c[10]Waitress\c[0]: Good afternoon. If you want to order
+something, please sit down at a table or at the
+counter.
+'''
+
+[[dialogue]]
+event = 11
+page = 2
+command = 8
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]:\c[0] Letztendlich will ich sowieso 
+nichts bestellen.)
+'''
+patched = '''
+(\c[1]\n[1]:\c[0] Ultimately, I didn't want to
+order anything anyway.)
+'''
+
+[[dialogue]]
+event = 13
+page = 1
+command = 3
+original = '''
+\c[10]Gast\c[0]: Kellnerin!\. Noch ein Bier bitte!
+'''
+patched = '''
+\c[10]Guest\c[0]: Waitress!\. Another beer please!
+'''
+
+[[dialogue]]
+event = 14
+page = 1
+command = 3
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wir 3 haben hier 
+schon unseren 5. Stammtisch.\.
+Manchmal brauchen wir halt etwas Abstand von 
+dem ganzen Training.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: The three of us already have
+our fifth regulars' table.\. Sometimes we need a
+little distance from training.
+'''
+
+[[dialogue]]
+event = 14
+page = 1
+command = 11
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Oh, ihr seid das!\. 
+Vielen Dank, dass ihr den anderen Bescheid gesagt 
+habt.\. Hier, das ist für euch...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Oh, it's you!\.
+Thanks for letting the others know.\.
+Here, this is for you...
+'''
+
+[[dialogue]]
+event = 14
+page = 1
+command = 22
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Es sieht zwar 
+kitschig aus, aber wenn ihr es tragt, gelingen 
+euch in der Regel mehr Volltreffer.\.
+Äußerst praktisch, das Teil.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: It seems cheesy, but if
+you wear it, you can usually deal more damage.\.
+It's extremely practical.
+'''
+
+[[dialogue]]
+event = 14
+page = 1
+command = 26
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Na ja\., ich hab 
+viele davon, deswegen kann ich auch mal eines
+verschenken.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Well,\. I have a lot
+of them, so I can give one away.
+'''
+
+[[dialogue]]
+event = 16
+page = 1
+command = 3
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Hey mein Freund, 
+überfriss dich lieber nicht.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Hey my friend,
+you shouldn't overeat.
+'''
+
+[[dialogue]]
+event = 17
+page = 1
+command = 3
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Juhu!\. Rumpsteak 
+mit Pfeffersoße!\. Köstlich!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Yeah!\. Rump steak with
+pepper sauce!\. Delicious!
+'''

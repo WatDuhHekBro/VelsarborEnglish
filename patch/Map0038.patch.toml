@@ -1,0 +1,526 @@
+[[dialogue]]
+event = 53
+page = 2
+command = 19
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Na endlich!\. Die Lohne.\. Ab hier 
+wird der Rest der Reise nur noch'n 
+Spaziergang sein.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Finally!\. The Lohne.\. From
+here on, the rest of the trip will be
+a breeze.
+'''
+
+[[dialogue]]
+event = 53
+page = 2
+command = 23
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0]  Gut...\. Dann lass uns schnell 
+weitergehen und keine Zeit 
+verschwenden. Ich hab wirklich 
+Hunger.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Good...\. Then let's move on
+quickly and don't waste any time.
+I'm really hungry.
+'''
+
+[[dialogue]]
+event = 53
+page = 2
+command = 28
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Jaja... schon gut.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Yeah... alright.
+'''
+
+[[dialogue]]
+event = 53
+page = 2
+command = 65
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0]  W...Was hat eine Harpyie 
+hier zu suchen?!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] W... What is a harpy
+doing here?!
+'''
+
+[[dialogue]]
+event = 53
+page = 2
+command = 68
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Das Ding will uns angreifen!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] That thing wants to attack us!
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 7
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] ...\. Was war das jetzt genau?\.
+Hat uns die \....\. Harpyie etwa nur 
+wegen dieser Eier angegriffen?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] What happened there exactly?\.
+Did the\....\. harpy only attack us
+because of these eggs?
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 11
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Scheint so, oder?
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Seems so, doesn't it?
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 13
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Wieso das?!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Why is that?!
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 15
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Denk doch mal nach.\.
+Wahrscheinlich waren es ihre Eier.\.
+Und sie wollte sie nur zurück haben.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Think about it.\.
+Those were probably her eggs.\.
+And she just wanted them back.
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 21
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Ihre Eier?\. ...\. Du meinst doch 
+nicht etwa...\. das waren....
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Her eggs?\. You don't mean...\.
+they were...
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 24
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] HARPYIENEIER?!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] HARPY EGGS?!
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 26
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Genauso ist es.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] It's exactly so.
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 30
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Wah!\. Wenn ich daran denke, 
+dass wir uns daraus ein Omelett 
+machen wollten...\.
+Mir wird schlecht!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Gah!\. When I think that
+we wanted to turn it into an omelet...\.
+That makes me sick!
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 36
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] \s[6]Hahahahahahahaha...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] \s[6]Hahahahahahahaha...
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 39
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Jetzt lach nicht so!\. Ich mein's 
+ernst.\. Args...\. wenn ich diesen 
+Händler in die Finger bekomme!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Don't you laugh like that!\. I'm
+serious.\. Argh...\. if I can get
+my hands on that merchant!
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 44
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ganz ruhig bleiben, Cibon.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Stay calm, Cibon.
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 47
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Schau mal dort.\. Die Harpyie 
+hat ein Ei liegen lassen.\. Wieso das 
+wohl?
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Look over there.\. The harpy
+left an egg.\. Why is that?
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 52
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Wahrscheinlich 'n weiteres 
+Harpyienei!\. Bloß weg damit!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Probably another harpy egg!\.
+Let's just get rid of it!
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 56
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Nein, warte!\. Wenn es wirklich 
+ein Harpyienei ist, hätte die Mutter 
+es sicherlich nicht so einfach liegen 
+gelassen...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] No, wait!\. If it really was
+a harpy egg, the mother would surely
+not have left it so easily...
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 61
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Äh...Sicher, Kumpel?\. Was is' 
+es dann?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] ...You sure about that?\.
+Then what is that?
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 64
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ich hab keine Ahnung.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Beats me.
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 66
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Is' mir jetzt letztendlich auch 
+egal.\. Nach dieser Sache hier werde 
+ich die nächsten Monate keine Eier 
+mehr sehen können!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] I don't really care now
+either.\. After this thing here, I
+won't be able to see any eggs for
+the next few months!
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 71
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Na dann...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Well then...
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 79
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] W...\.Was war das?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] W...\. What was that?
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 81
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Das Ei hat sich bewegt!\. 
+Schau doch!
+'''
+patched = '''
+\c[1]\n[1]:\c[0] The egg just moved!\. Look!
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 90
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] ...Tatsächlich!
+'''
+patched = '''
+\c[2]\n[2]:\c[0] You're right!
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 97
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Verdammt!\. Wieso muss das 
+Ding ausgerechnet jetzt schlüpfen?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Dammit!\. Why does the
+thing have to hatch now?
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 100
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Na siehst du!\. Das ist doch 
+schon mal eindeutig keine Harpyie, 
+oder?
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Look!\. It's definitely
+not a harpy, is it?
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 104
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Na ja.. gut... Wie soll's jetzt 
+weitergehen?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Well... okay... what do we
+do now?
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 112
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ich denke, wir sollten es 
+hier nicht einfach so liegen lassen, 
+oder?
+'''
+patched = '''
+\c[1]\n[1]:\c[0] I think we shouldn't
+just leave it here, should we?
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 116
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Ja, hast Recht.\. Aber was sollen 
+wir mit dem Küken anfangen?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Yeah, you're right.\. But what
+should we do with the chick?
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 119
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Wir sollten es erstmal 
+mit nach Nomerea nehmen.\. Vielleicht 
+kann sich dort jemand darum 
+kümmern.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] We should take it to
+Nomerea first.\. Maybe someone can
+take care of it there.
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 124
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Was anderes bleibt uns ja 
+erstmal nicht übrig, nicht wahr?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] We don't have anything
+else to do, right?
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 127
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Dann lass uns beeilen! Das 
+Ding hat sicherlich Hunger und weiß 
+der Teufel, was es zu Essen will.
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Then let's hurry up! The
+thing is certainly hungry and who
+knows what it wants to eat?
+'''
+
+[[dialogue]]
+event = 53
+page = 4
+command = 131
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Nichts wie los.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Go on ahead.
+'''

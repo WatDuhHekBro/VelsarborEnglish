@@ -1,0 +1,298 @@
+[[dialogue]]
+event = 5
+page = 1
+command = 2
+original = '''
+Guten Tag, der Herr.\.
+Ich habe hier einiges an Ausrüstung im Angebot.
+Interessiert?
+'''
+patched = '''
+Good day, sir.\.
+I have some equipment to offer here.
+Interested?
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 18
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ach, da bist du ja, Cibon.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Ah, there you are, Cibon.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 24
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Oha! Sind wir auch schon wach,
+"Herr Frühaufsteher"? 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh! Are we finally awake,
+"mister early bird"?
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 27
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ist es gleich ein Verbrechen, 
+wenn man mal etwas länger schläft?\.
+Wir waren Gestern auch viel zu lange 
+auf.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Is it a crime to sleep
+a little longer?\. We were up so late
+yesterday too.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 32
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Is' ja schon gut, ich mach' 
+ja nur Spass.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: It's alright, I'm just kidding.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 39
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ich denk', wir sollten uns 
+hier noch nach etwas besserer 
+Ausrüstung umsehen.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I think we should look
+for some better equipment here.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 43
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Genügt dir die 
+Standardausrüstung, die uns die 
+Armee gegeben hat, etwa nicht?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Aren't you satisfied
+with the standard equipment that
+the army gave us?
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 50
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Also wirklich!\.
+Ne Waffe und ne Lederweste.\.
+Das is' fast unterste Klasse.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh come on!\.
+A weapon and a leather vest.\.
+It's almost the lowest quality
+there is.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 53
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Und an ne anständige
+Kopfbedeckung und Armbänder denkt 
+man erst gar nicht.\.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: And you don't even
+think of decent headgear and
+bracelets.\.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 57
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ausserdem hatten wir schon
+auf'n Weg hier hin einige Probleme
+mit Gegnern gehabt, nich' war Kento?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: We also had some problems
+with enemies on the way here,
+right Kento?
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 65
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Jaja...\. Woher hätte ich
+auch wissen sollen, dass so ein grüner
+Haufen von Schleim einen Feuerzauber
+beherrscht?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yeah...\. How should I have
+known that such a green pile of slime
+could create fire from magic?
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 71
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Gut du hast Recht.\.
+Wir sollten uns etwas bessere 
+Ausrüstung besorgen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Well you're right.\.
+We should get some better equipment.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 83
+original = '''
+
+Kaufe bessere \c[11]Rüstungen und Waffen\c[0] für deine
+Charaktere.
+'''
+patched = '''
+
+Buy better \c[11]armor and weapons\c[0] for your
+characters.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 86
+original = '''
+
+Rede dazu in einem Waffenladen mit der Person 
+hinter der Theke, um in das Handel-Menu zu kommen.
+'''
+patched = '''
+
+Talk to the person behind the counter in an
+equipment shop to get into the trade menu.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 89
+original = '''
+
+Wenn du neue Rüstungsteile kaufst, achte immer 
+darauf, ob der Kauf sich auch lohnt.
+'''
+patched = '''
+
+When buying new equipment, always make sure
+that the purchase is worthwhile.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 92
+original = '''
+
+Unten sieht man zu jeder Rüstung die 
+Wertesteigerungen und -senkungen, die sie bewirkt.
+'''
+patched = '''
+
+Below, you can see the differences in
+value that each piece causes.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 95
+original = '''
+
+Ausserdem sieht man oben rechts das Verhältnis
+zur alten Rüstung der jeweiligen Charaktere.
+'''
+patched = '''
+
+In addition, you can see the relationship to the
+current equipment in the top right.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 98
+original = '''
+
+Gesagt sei noch, dass die Preise der Waren
+von Laden zu Laden variieren können.
+'''
+patched = '''
+
+It should also be noted that the prices of
+goods can vary from shop to shop.
+'''
+
+[[dialogue]]
+event = 9
+page = 1
+command = 101
+original = '''
+
+Sind die Rüstungsteile gekauft, kannst du sie
+im Menu unter "Ausrüstung" anlegen.
+'''
+patched = '''
+
+Once you buy the equipment you want, you can
+use them in the menu under "Equipment".
+'''

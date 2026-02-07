@@ -1,0 +1,817 @@
+[[dialogue]]
+event = 117
+page = 1
+command = 1
+original = '''
+\c[10]Händler\c[0]: Wenn Sie handeln möchten, sprechen Sie 
+mich bitte über den Handelstand an.
+'''
+patched = '''
+\c[10]Trader\c[0]: If you want to trade,
+please talk to me across the stall.
+'''
+
+[[dialogue]]
+event = 128
+page = 1
+command = 2
+original = '''
+\c[10]Händler\c[0]: Guten Tag, der Herr!\.
+Sind Sie auf der Suche nach edlen Blauperlen, 
+sind Sie hier richtig!
+'''
+patched = '''
+\c[10]Trader\c[0]: Good day, sir!\. If you're
+looking for some fine blue pearls,
+then this is the place for you!
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 15
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Nun,\. da sind wir.\. Was jetzt?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Well,\. here we are.\. What now?
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 17
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Hey!\.
+Ich hab da so ne Idee.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hey!\. I have an idea.
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 20
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Und die wäre?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: And what might that be?
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 22
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Mein Schwesterchen!
+Ich bin mir sicher, dass 'se sich um 
+den Piepmatz kümmern würde...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: My sister! I'm sure she'd
+take care of the bird...
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 26
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ... Deine große Schwester?\. 
+Sicher?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Your sister?\. Are
+you sure about that?
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 29
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ja, das passt schon.\. Sie weiß 
+ne Menge über Tiere, glaub' mir.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Don't worry about it.\. She knows
+a lot about animals, trust me.
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 32
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wieso denn das?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: How do you know?
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 34
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ach...\. Sie hält sich immer 
+in den Wäldern rund um Nomerea auf.\. 
+Sie beobachtet Tiere.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Well...\. She's always out and
+about in the woods around Nomerea.\.
+She watches animals.
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 38
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Zuhause hat' se uns dann 
+immer mit ihren Erlebnissen 
+zugelabert.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: At home, she always tells
+us about her observations.
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 42
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Du kannst dir gar nicht 
+vorstellen, wie sie immer über die 
+Jäger herzieht.\. Das sind für sie die 
+reinsten Barbaren.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Don't even get me started on
+how she feels about actual hunters.\.
+To her,\. they're the most vile
+barbarians.
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 47
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Und jedes mal wenn 'se 
+erfährt, dass ich gegen nen Wolf oder 
+Bären gekämpft habe, schimpf ' se 
+immer auf mich ein...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: And every time she finds out
+that I've fought a wolf or bear,
+she always scolds me...
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 52
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Oha....
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Uh huh...
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 54
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Also pass auf, was du in ihrer 
+Nähe sagst!\. Wir haben \s[20]NIE\s[0] 
+irgendwelche Wölfe oder Bären 
+getötet, is' das klar?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: So be extra careful what you
+say around her!\. We \s[20]NEVER\s[0] killed
+any wolves or bears,\. got it?
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 59
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja... ich werde aufpassen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yeah... I'll be careful.
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 61
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Jedenfalls wird der Vogel bei 
+ihr in guten Händen sein,\. da bin ich 
+mir sicher.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Anyways, the bird will be in
+good hands with her,\. I'm sure of that.
+'''
+
+[[dialogue]]
+event = 129
+page = 1
+command = 65
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Na gut, dann lass uns mal zu 
+ihr gehen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Well then, let's visit her.
+'''
+
+[[dialogue]]
+event = 129
+page = 2
+command = 13
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Phew!
+Das ging ja noch mal gut.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Phew!\.\. That went
+surprisingly well again.
+'''
+
+[[dialogue]]
+event = 129
+page = 2
+command = 16
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]:  Eines wundert mich jetzt, 
+Cibon...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: One thing surprises me now,
+Cibon...
+'''
+
+[[dialogue]]
+event = 129
+page = 2
+command = 19
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Was denn, Kumpel?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What?
+'''
+
+[[dialogue]]
+event = 129
+page = 2
+command = 21
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wie schaffst du es trotz 
+deines Wissens über Handeln, 
+Tauschen und Geldverdienen immer 
+wieder knapp bei Kasse zu sein?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: How do you manage to run
+short of money every single time
+despite your knowledge of trading,
+bartering, and money making?
+'''
+
+[[dialogue]]
+event = 129
+page = 2
+command = 29
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ach was weiß ich!\.
+Ich geb' nun mal gern' mein Geld aus.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Oh what do I know!\.
+I like to spend my money.
+'''
+
+[[dialogue]]
+event = 129
+page = 2
+command = 32
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Na ja, egal.\. Dann lass 
+uns mal zur Kaserne gehen...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Well, not that it really
+matters.\. Let's just head back
+to the barracks...
+'''
+
+[[dialogue]]
+event = 129
+page = 2
+command = 35
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Sollten wir nicht erstmal 
+schauen, was wir für unsere 
+Handelsgegenstände hier so 
+eintauschen können?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Shouldn't we first take a look
+at what we can exchange for our items
+here?
+'''
+
+[[dialogue]]
+event = 129
+page = 2
+command = 40
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm?\. Meinst du etwas für die 
+Grünperlen?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Hm?\. You mean our green pearls?
+'''
+
+[[dialogue]]
+event = 129
+page = 2
+command = 43
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Genau.\. Du kennst doch die 
+ganzen Tausch-Stände hier in der 
+Stadt, oder? 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Exactly.\. You see all the
+stalls here in the city?
+'''
+
+[[dialogue]]
+event = 129
+page = 2
+command = 47
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Meistens wird dir dort ein 
+Gegenstand angeboten, den du für
+verschiedenen Handelswaren 
+bekommen kannst.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: For the most part, you'll be
+offered an item that you can get in
+exchange for various tradables.
+'''
+
+[[dialogue]]
+event = 129
+page = 2
+command = 52
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Schau dich einfach etwas um.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Just look around.
+'''
+
+[[dialogue]]
+event = 137
+page = 2
+command = 5
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Kento...\. Ich würde gern noch 
+mal zuhause vorbei schauen, bevor 
+wir abreisen, okay?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Kento...\. I'd like to visit
+home before we leave, okay?
+'''
+
+[[dialogue]]
+event = 137
+page = 2
+command = 9
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Meinetwegen...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Alright...
+'''
+
+[[dialogue]]
+event = 138
+page = 2
+command = 5
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Kento...\. Ich würde gern noch 
+mal zuhause vorbei schauen, bevor 
+wir abreisen, okay?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Kento...\. I'd like to visit
+home before we leave, okay?
+'''
+
+[[dialogue]]
+event = 138
+page = 2
+command = 9
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Meinetwegen...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Alright...
+'''
+
+[[dialogue]]
+event = 139
+page = 2
+command = 5
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Kento...\. Ich würde gern noch 
+mal zuhause vorbei schauen, bevor 
+wir abreisen, okay?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Kento...\. I'd like to visit
+home before we leave, okay?
+'''
+
+[[dialogue]]
+event = 139
+page = 2
+command = 9
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Meinetwegen...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Alright...
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 5
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Kento...\. Ich würde gern noch 
+mal zuhause vorbei schauen, bevor 
+wir abreisen, okay?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Kento...\. I'd like to visit
+home before we leave, okay?
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 9
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Meinetwegen...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Alright...
+'''
+
+[[dialogue]]
+event = 141
+page = 2
+command = 5
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Kento...\. Ich würde gern noch 
+mal zuhause vorbei schauen, bevor 
+wir abreisen, okay?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Kento...\. I'd like to visit
+home before we leave, okay?
+'''
+
+[[dialogue]]
+event = 141
+page = 2
+command = 9
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Meinetwegen...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Alright...
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 5
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Kento...\. Ich würde gern noch 
+mal zuhause vorbei schauen, bevor 
+wir abreisen, okay?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Kento...\. I'd like to visit
+home before we leave, okay?
+'''
+
+[[dialogue]]
+event = 142
+page = 2
+command = 9
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Meinetwegen...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Alright...
+'''
+
+[[dialogue]]
+event = 143
+page = 2
+command = 5
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Kento...\. Ich würde gern noch 
+mal zuhause vorbei schauen, bevor 
+wir abreisen, okay?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] Kento...\. I'd like to visit
+home before we leave, okay?
+'''
+
+[[dialogue]]
+event = 143
+page = 2
+command = 9
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Meinetwegen...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Alright...
+'''
+
+[[dialogue]]
+event = 149
+page = 1
+command = 1
+original = '''
+\c[10]Händler\c[0]: Hallo!\. 
+Was halten sie hiervon?
+'''
+patched = '''
+\c[10]Trader\c[0]: Hello!\. What do
+you think of this?
+'''
+
+[[dialogue]]
+event = 157
+page = 1
+command = 2
+original = '''
+\c[10]Händler\c[0]: Guten Tag der Herr!\.
+Sind sie auf der Suche nach edlen Blauperlen, 
+sind sie hier richtig!
+'''
+patched = '''
+\c[10]Trader\c[0]: Good day, sir!\. If you're
+looking for some fine blue pearls,
+then this is the place for you!
+'''
+
+[[dialogue]]
+event = 158
+page = 1
+command = 2
+original = '''
+\c[10]Händler\c[0]: Schauen Sie sich dieses 
+Prachtexemplar von Silberring an!\.
+Dieses Angebot dürfen Sie sich nicht entgehen 
+lassen!
+'''
+patched = '''
+\c[10]Trader\c[0]: Feast your eyes on these
+magnificent silver rings!\. Don't
+miss out on this offer!
+'''
+
+[[dialogue]]
+event = 159
+page = 1
+command = 2
+original = '''
+\c[10]Händlerin\c[0]: Diese Lokri-Knollen machen jedes 
+Gericht zu einem Genuss.
+'''
+patched = '''
+\c[10]Trader\c[0]: These Lokri potatoes make
+every meal a delicious one.
+'''
+
+[[dialogue]]
+event = 160
+page = 2
+command = 2
+original = '''
+\c[10]Mann\c[0]: Seid ihr schon in der Post-Versand-Stelle 
+hier in der Nähe gewesen? 
+'''
+patched = '''
+\c[10]Man\c[0]: Have you been to the post office around here?
+'''
+
+[[dialogue]]
+event = 160
+page = 2
+command = 4
+original = '''
+\c[10]Mann\c[0]: Möchte man Briefe oder dergleichen 
+versenden, genügt es, wenn man sie in die 
+grünen Briefkästen am Eingang der Stadt 
+steckt.
+'''
+patched = '''
+\c[10]Man\c[0]: If you want to send letters, you just have
+to put them in the green mailboxes at the
+entrance to this city.
+'''
+
+[[dialogue]]
+event = 160
+page = 2
+command = 8
+original = '''
+\c[10]Mann\c[0]: Aber wenn es um ein Paket geht, dann 
+muss man zur Post-Versand-Stelle, um es dort 
+abzugeben.\. Außerdem sind dann recht hohe 
+Gebühren fällig.
+'''
+patched = '''
+\c[10]Man\c[0]: But if you want to send a package instead,
+you have to go to the post office and drop it
+off there.\. In addition, the fees are quite high.
+'''
+
+[[dialogue]]
+event = 160
+page = 2
+command = 12
+original = '''
+\c[10]Mann\c[0]: Nun ja, die Arbeit, die die Post-Versender 
+täglich leisten, ist ja auch ziemlich hart.\. So was 
+muss auch entlohnt werden.
+'''
+patched = '''
+\c[10]Man\c[0]: Well, the work that the couriers do every day
+is also pretty hard.\. Something like that has to be
+paid for.
+'''
+
+[[dialogue]]
+event = 165
+page = 2
+command = 3
+original = '''
+\c[10]Alter Mann\c[0]: Dieser Teil der Stadt\. ist ja noch 
+relativ ruhig. Aber im nördlichen Teil,\. da halte 
+ich mich bei meinem Alter nicht mehr auf.\. Da ist 
+mir viel zu viel los.\. Viel zu laut ist es dort...
+'''
+patched = '''
+\c[10]Old Man\c[0]: This part of the city\. is still
+pretty quiet. But in the northern area,\.
+I can't keep up at my age.\. There is far too much\.
+going on for me.\. It's too loud there...
+'''
+
+[[dialogue]]
+event = 167
+page = 1
+command = 2
+original = '''
+\c[10]Frau\c[0]: Diese Silberringe sehen wirklich toll aus...
+'''
+patched = '''
+\c[10]Woman\c[0]: These silver rings look really pretty...
+'''
+
+[[dialogue]]
+event = 168
+page = 1
+command = 2
+original = '''
+\c[10]Junge\c[0]: Psst...\. bitte sagt niemanden, dass ich 
+mich hier verstecke, ja? 
+'''
+patched = '''
+\c[10]Boy\c[0]: Psst...\. please don't tell anyone I'm
+hiding here, okay?
+'''
+
+[[dialogue]]
+event = 169
+page = 2
+command = 2
+original = '''
+\c[10]Junges Mädchen\c[0]: Uchikos sind so~ süß!\. Habt 
+ihr sie auch schon bei der Post-Stelle gesehen?\. 
+Ich wünschte, ich hätte selber eines.
+'''
+patched = '''
+\c[10]Girl\c[0]: Uchikos are sooo cute!\. Have you
+seen them at the post office?\.
+I wish I had one myself.
+'''

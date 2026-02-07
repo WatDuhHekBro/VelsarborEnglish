@@ -1,0 +1,171 @@
+[[dialogue]]
+event = 44
+page = 1
+command = 16
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Die Felswand scheint hier 
+brüchig zu sein.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: This part of the wall looks
+like it's crumbling.)
+'''
+
+[[dialogue]]
+event = 44
+page = 1
+command = 20
+has_portrait = true
+original = '''
+Dynamit verwenden?
+'''
+patched = '''
+Use your dynamite here?
+'''
+
+[[dialogue]]
+event = 44
+page = 1
+command = 93
+original = '''
+\^
+'''
+patched = '''
+\^
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 28
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Hier ist es!\. Irgendwo hier 
+in diesem Bereich soll ein 
+zugeschütteter Eingang sein.\. Haltet 
+die Augen offen.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: Here it is!\. Somewhere in this
+area, there's supposed to be a
+filled-in entrance.\. Keep your
+eyes open.
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 34
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Felcis, willst du uns so 
+langsam nicht mal aufklären, wonach 
+wir überhaupt suchen?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Felcis, are you going to start
+telling us what we're looking for?
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 41
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Es geht um eine bestimmte 
+Art von Pulver. 
+'''
+patched = '''
+\c[5]\n[5]\c[0]: It's about a certain type of
+powder.
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 44
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Was wir hier suchen, ist der 
+Eingang zu einem ehemaligen 
+Lagerbereich, der nicht mehr 
+verwendet wird.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: What we're looking for here is
+the entrance to a former storeroom
+that's no longer in use.
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 49
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Sobald wir in dem 
+Lagerbereich sind, werd ich euch 
+alles erklären. 
+'''
+patched = '''
+\c[5]\n[5]\c[0]: As soon as we're in the
+storeroom, I'll explain
+everything to you.
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 53
+has_portrait = true
+character = '''Felcis'''
+original = '''
+\c[5]\n[5]\c[0]: Hier auf den Schienen ist
+mir nicht ganz geheuer.
+'''
+patched = '''
+\c[5]\n[5]\c[0]: I'm not quite comfortable
+sharing it here on the railways.
+'''
+
+[[dialogue]]
+event = 46
+page = 2
+command = 65
+original = '''
+\^
+'''
+patched = '''
+\^
+'''
+
+[[text]]
+event = 44
+page = 1
+command = 21
+has_portrait = true
+original = '''Ja/Nein'''
+patched = '''Yes/No'''
+
+[[text]]
+event = 44
+page = 1
+command = 22
+has_portrait = true
+original = '''Ja'''
+patched = '''Yes'''
+
+[[text]]
+event = 44
+page = 1
+command = 75
+original = '''Nein'''
+patched = '''No'''

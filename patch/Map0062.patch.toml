@@ -1,0 +1,131 @@
+[[dialogue]]
+event = 127
+page = 1
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Hey ihr.\. Schaut 
+euch mal an, was ich hier gefunden habe.\. Nimmt es 
+ruhig.\. Ich kann damit eh nichts anfangen.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Hey you.\. Look at what I
+found here.\. Take it quietly.\. I can't do
+anything with it anyway.
+'''
+
+[[dialogue]]
+event = 127
+page = 2
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Man würde von 
+hier sicherlich eine gute Aussicht haben, wenn 
+die Mauer nicht so hoch wäre...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: You'd certainly have a good
+view from here if the wall weren't so high...
+'''
+
+[[dialogue]]
+event = 131
+page = 2
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Hier oben weht 
+ein recht angenehmer Wind. Den kann man in 
+den heißen Sommertagen hier gut gebrauchen, 
+wenn die Sonne überall draufprallt.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: A very pleasant wind is
+blowing up here. You can use it well in the
+hot summer days when the sun's everywhere.
+'''
+
+[[dialogue]]
+event = 131
+page = 2
+command = 9
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Sag das nicht.\. Ich hab mir 
+hier letzten Sommer einen starken 
+Sonnenbrand geholt. 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Don't say that.\. I got a bad
+sunburn here last summer.
+'''
+
+[[dialogue]]
+event = 131
+page = 2
+command = 13
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Du denkst zwar es ist kühl, 
+aber die Sonne strahlt trotzdem 
+volle Kanne!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: You think it'd be cool, but
+the sun is still shining strong!
+'''
+
+[[dialogue]]
+event = 131
+page = 2
+command = 17
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Tja\., dann muss 
+man sich halt einen Platz im Schatten suchen.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Well,\. then you have to
+look for a place in the shade.
+'''
+
+[[dialogue]]
+event = 132
+page = 1
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Diese Räume sind 
+für die Ausbilder gedacht und dürfen von 
+normalen Soldaten nicht betreten werden.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: These rooms are intended for
+trainers and may not be entered by normal
+soldiers.
+'''
+
+[[dialogue]]
+event = 133
+page = 1
+command = 24
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Hier dürfen keine 
+Soldaten durch und das wisst ihr. 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: No soldiers are allowed
+through here and you know that.
+'''
+
+[[dialogue]]
+event = 134
+page = 1
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Hm...\. dieser Ort 
+ist am besten zum Entspannen,\. hier im 
+Schatten. 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Hm...\. this place is best
+for relaxing,\. right here in the shade.
+'''

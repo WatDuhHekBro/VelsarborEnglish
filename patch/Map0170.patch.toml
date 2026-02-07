@@ -1,0 +1,302 @@
+[[dialogue]]
+event = 5
+page = 1
+command = 6
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]:\c[0] Hier geht es zu den 
+Holzfällern. Ich denke wir würden 
+dort nur bei der Arbeit stören.
+Wir haben dort eh nichts zu suchen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Here's where lumberjacks
+would go. I think we'd only be
+disturbing their work. We have
+no business here anyway.)
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 17
+has_portrait = true
+original = '''
+\c[10]Gurim\c[0]: Wo bleibt Saion nun schon 
+wieder? 
+'''
+patched = '''
+\c[10]Gurim\c[0]: So where's Saion again?
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 26
+has_portrait = true
+original = '''
+\c[10]Jorn\c[0]: Ich weiß es nicht, aber wenn 
+er solange fort ist, kann das nichts 
+gutes heißen...
+'''
+patched = '''
+\c[10]Jorn\c[0]: I don't know, but if he's gone
+for that long, it can't be a good
+sign...
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 30
+has_portrait = true
+original = '''
+\c[10]Gurim\c[0]: Du meinst er wurde gefangen?
+'''
+patched = '''
+\c[10]Gurim\c[0]: You mean he was caught?
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 32
+has_portrait = true
+original = '''
+\c[10]Jorn\c[0]: Nein, er könnte etwas entdeckt 
+haben und einen neuen Diebstahl 
+planen.\.\. Gleichbedeutend damit, dass 
+wir bald alle gefangen sein werden.
+'''
+patched = '''
+\c[10]Jorn\c[0]: No, he might've discovered
+something and started planning a
+new heist.\.\. Meaning we'll all be
+back in binds soon.
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 47
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: Hey!\. Ihr werdet nicht 
+glauben, wen ich gesehen habe!
+'''
+patched = '''
+\c[10]Saion\c[0]: Hey!\. You won't believe who
+I saw!
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 49
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: Sie sind hier!\. Die Leute, 
+denen wir zu verdanken haben, dass 
+wir fast eingekerkert wurden und uns 
+nun hier in diesem Kaff verstecken!
+'''
+patched = '''
+\c[10]Saion\c[0]: They're here!\. The people we
+owe it to for almost getting us
+locked up, and now they're
+hiding in this place!
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 57
+has_portrait = true
+original = '''
+\c[10]Jorn\c[0]: Den Verantwortlichen DAFÜR
+sehe ich tagtäglich und er steht 
+gerade vor mir.
+'''
+patched = '''
+\c[10]Jorn\c[0]: I see the person responsible
+for that every day and he's standing
+right in front of me.
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 67
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: Was zum...\. Hör auf mit diesen 
+Unterstellungen oder du kriegst ein 
+paar hinter die Löffel!
+'''
+patched = '''
+\c[10]Saion\c[0]: What the...\. Stop it with these
+insinuations or your ear is gonna get
+it this time!
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 74
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: Wie auch immer...\. Sie sind 
+hier!\. Die Soldaten die uns in 
+Sinkholm ertappt haben.
+'''
+patched = '''
+\c[10]Saion\c[0]: Anyways...\. They're here!\. The
+soldiers who caught us in Sinkholm.
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 78
+has_portrait = true
+original = '''
+\c[10]Jorn\c[0]: Joa,\. schön zu wissen,\. und?
+'''
+patched = '''
+\c[10]Jorn\c[0]: Yeah,\. nice to know,\. isn't it?
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 80
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: Wie und?\. Wir werden endlich 
+unsere lang ersehnte Rache bekommen!
+'''
+patched = '''
+\c[10]Saion\c[0]: And so?\. We'll finally get our
+long-awaited revenge!
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 84
+has_portrait = true
+original = '''
+\c[10]Jorn\c[0]: Das ist nicht dein Ernst, 
+oder?
+'''
+patched = '''
+\c[10]Jorn\c[0]: You can't be serious, can you?
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 87
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: Jorn, wir müssen den Leuten 
+zeigen, dass sie es bereuen werden, 
+wenn sie sich mit uns anlegen!
+'''
+patched = '''
+\c[10]Saion\c[0]: Jorn, we have to show people
+that they'll regret it if they dare
+to mess with us!
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 92
+has_portrait = true
+original = '''
+\c[10]Jorn\c[0]: Saion, das ist Wahnsinn!\. Wir 
+sollten froh sein, das wir gerade 
+auf freiem Fuß sind!
+'''
+patched = '''
+\c[10]Jorn\c[0]: Saion, that's insane!\. We should
+be glad that we're free at the
+moment!
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 96
+has_portrait = true
+original = '''
+\c[10]Gurim\c[0]: Das stimmt Saion.\. Der 
+Racheakt würde nur dazu führen, dass 
+wir wieder eingesperrt werden...
+'''
+patched = '''
+\c[10]Gurim\c[0]: That's right Saion.\. This petty
+revenge is only gonna get us locked
+up again...
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 101
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: Ich kann nicht glauben, was 
+ich da höre!\. Wozu haben wir bitte 
+die letzten Tage durchgehend 
+trainiert?\. Um davon zu laufen?
+'''
+patched = '''
+\c[10]Saion\c[0]: I can't believe what I'm
+hearing!\. What were we training
+for in the past few days then?\.
+Just to run away?
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 106
+has_portrait = true
+original = '''
+\c[10]Jorn\c[0]: Um uns im Notfall zu 
+verteidigen...
+'''
+patched = '''
+\c[10]Jorn\c[0]: To defend us in an emergency...
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 109
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: NEIN, um es den Leuten 
+heimzuzahlen, die sich mit uns 
+angelegt haben!
+'''
+patched = '''
+\c[10]Saion\c[0]: NO, to get payback to the
+people who messed with us!
+'''
+
+[[dialogue]]
+event = 15
+page = 1
+command = 113
+has_portrait = true
+original = '''
+\c[10]Saion\c[0]: Und jetzt hört euch meinen 
+Plan an...
+'''
+patched = '''
+\c[10]Saion\c[0]: Now listen to my plan...
+'''

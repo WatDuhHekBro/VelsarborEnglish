@@ -1,0 +1,69 @@
+[[dialogue]]
+event = 10
+page = 1
+command = 3
+original = '''
+\c[10]Frau\c[0]: Gäste sind bei uns immer willkommen, 
+solange Sie nichts dreckig oder kaputt machen.
+'''
+patched = '''
+\c[10]Woman\c[0]: Guests are always welcome with us
+as long as they don't dirty or break anything.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 7
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Öh....\. in\. Ordnung.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Oh....\. alright.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 14
+original = '''
+\c[10]Frau\c[0]: Oh, die Stadtwache.... Was wollen Sie 
+denn bitte in unserem Haus?
+'''
+patched = '''
+\c[10]Woman\c[0]: Oh, the city guard... What would you like?
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 18
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Na ja...\. Ich und mein Kollege 
+ziehen heute wahrscheinlich wieder 
+ab und wollten uns einfach noch mal 
+etwas die Stadt anschauen.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Well...\. me and my colleague
+are probably leaving today and just
+wanted to take another look at the
+city.
+'''
+
+[[dialogue]]
+event = 10
+page = 1
+command = 23
+original = '''
+\c[10]Frau\c[0]: Verstehe....\. Nun gut, passen Sie bitte 
+auf, dass Sie hier nichts dreckig machen!
+'''
+patched = '''
+\c[10]Woman\c[0]: I see...\. Well, please be
+careful not to dirty anything here!
+'''

@@ -1,0 +1,10 @@
+[[dialogue]]
+event = 28
+page = 1
+command = 53
+original = '''
+GNOOOOOOOOOO!!!!!!!!!!!!!!!!!111111111111111111111111111111
+'''
+patched = '''
+GNOOOOOOOOOO!!!!!!!!!!!!!!!!!111111111111111111111111111111
+'''

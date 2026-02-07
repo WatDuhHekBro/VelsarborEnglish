@@ -1,0 +1,744 @@
+[[dialogue]]
+event = 65
+page = 1
+command = 11
+original = '''
+
+Dies ist ein \c[11]Speicherpunkt\c[0].
+'''
+patched = '''
+
+This is a \c[11]save point\c[0].
+'''
+
+[[dialogue]]
+event = 65
+page = 1
+command = 13
+original = '''
+
+Wenn man auf solch einen steht, kann man \c[11]den
+Spielstand speichern\c[0].
+'''
+patched = '''
+
+When you stand on one of these, you can
+\c[11]save the game\c[0].
+'''
+
+[[dialogue]]
+event = 65
+page = 1
+command = 16
+original = '''
+
+Öffne dazu das \c[11]Menu\c[0] mit \c[11]Esc\c[0] und wähle
+dann \c[11]Speichern\c[0].
+'''
+patched = '''
+
+To do this, open the \c[11]menu\c[0] using \c[11]Esc\c[0] and
+then select \c[11]Save\c[0].
+'''
+
+[[dialogue]]
+event = 65
+page = 1
+command = 19
+original = '''
+
+Auf der \c[11]Weltkarte\c[0] kann man übigens
+immer speichern.
+'''
+patched = '''
+
+Additionally, you can always save on
+the \c[11]world map\c[0].
+'''
+
+[[dialogue]]
+event = 66
+page = 2
+command = 53
+original = '''
+\c[10]?????\c[0]:\s[3] Hab ich euch!
+'''
+patched = '''
+\c[10]?????\c[0]:\s[3] I have you now!
+'''
+
+[[dialogue]]
+event = 66
+page = 2
+command = 66
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Was denn jetzt schon 
+wieder...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: What is it this time...
+'''
+
+[[dialogue]]
+event = 66
+page = 2
+command = 126
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: W...\.Wer seid ihr?!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: W...\. Who are you?!
+'''
+
+[[dialogue]]
+event = 66
+page = 2
+command = 128
+has_portrait = true
+original = '''
+\c[10]Guillian\c[0]: Mein Name ist Guillian der 
+Fliegende.\. Ich bin gekommen um euch 
+eins auszuwischen und um euch um 
+eure Besitztümer zu erleichtern!
+'''
+patched = '''
+\c[10]Guillian\c[0]: My name is Guillian, the
+one who flies.\. I've come to wipe
+you out and relieve you of your
+possessions!
+'''
+
+[[dialogue]]
+event = 66
+page = 2
+command = 136
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: \s[8]...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: \s[8]...
+'''
+
+[[dialogue]]
+event = 66
+page = 2
+command = 138
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Verstehe,\. also nur ein 
+weiterer Dieb...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: I see,\. just another thief...
+'''
+
+[[dialogue]]
+event = 66
+page = 2
+command = 141
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Und ein ziemlich gesprächiger 
+noch dazu...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: And a pretty talkative one at
+that...
+'''
+
+[[dialogue]]
+event = 66
+page = 2
+command = 147
+has_portrait = true
+original = '''
+\c[10]Guillian\c[0]: Genau,\. macht euch nur 
+lustig.\. Umso schmerzvoller wird euer 
+Fall sein!
+'''
+patched = '''
+\c[10]Guillian\c[0]: Keep making fun of
+yourselves.\. Your fall will
+be all the more painful!
+'''
+
+[[dialogue]]
+event = 66
+page = 2
+command = 150
+has_portrait = true
+original = '''
+\c[10]Guillian\c[0]: \v[1848] meiner Kameraden habt 
+ihr bereits auf dem Gewissen!\. Glaubt 
+nicht, dass ihr damit davon kommt.
+'''
+patched = '''
+\c[10]Guillian\c[0]: You already have the blood
+of \v[1848] of my comrades!\. Don't
+think you can get away with it!
+'''
+
+[[dialogue]]
+event = 66
+page = 2
+command = 153
+has_portrait = true
+original = '''
+\c[10]Guillian\c[0]: Los Rekreto!\.
+Auf zum Angriff!
+'''
+patched = '''
+\c[10]Guillian\c[0]: Let's go, Rekreto!\. Off to
+battle!
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 4
+has_portrait = true
+original = '''
+\c[10]Guillian\c[0]: Gut, ich hab euch 
+unterschätz.\. Wer hätte auch gedacht, 
+dass 3 junge Soldaten zu soviel 
+fähig sind!
+'''
+patched = '''
+\c[10]Guillian\c[0]: Well, looks like I
+underestimated you.\. Who would've
+thought that three young soldiers
+would be capable of so much!
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 8
+has_portrait = true
+original = '''
+\c[10]Guillian\c[0]: Aber wartet ab.\. Das 
+nächste Mal wenn ihr hier aufkreuzt 
+werd ich euch kriegen! 
+'''
+patched = '''
+\c[10]Guillian\c[0]: But just you wait.\. The next
+time you show up here I'll get you
+for sure!
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 11
+has_portrait = true
+original = '''
+\c[10]Guillian\c[0]: Meine Kameraden werden 
+ihre Rache bekommen!
+'''
+patched = '''
+\c[10]Guillian\c[0]: I will avenge my comrades!
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 15
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Du sprichst von uns als ob wir 
+wahllos deinen "Kameraden" ins Kreuz
+gefallen sind, dabei waren sie 
+es, die uns angriffen.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: You speak to us as if we
+randomly put the crosshair onto
+your "comrades", and it was
+they who attacked us.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 20
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Also was soll diese Rede von 
+Rache?\. Wenn ihr Leute angreift müsst 
+ihr die Konsequenzen dazu tragen!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: So what's all this talk about
+revenge?\. If you attack people, you
+have to bear the consequences!
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 28
+has_portrait = true
+original = '''
+\c[10]Guillian\c[0]: \s[5]Hahahahaha,\.\s[0] weißt du was?\.
+DU sprichst von uns als ob wir 
+wahllos aus Boshaftigkeit Leute 
+umnieten und ihnen Geld stehlen.
+'''
+patched = '''
+\c[10]Guillian\c[0]: \s[5]Hahahahaha,\.\s[0] you know what?\.
+YOU speak of us as if we were
+randomly targeting people and
+stealing money from them.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 32
+has_portrait = true
+original = '''
+\c[10]Guillian\c[0]: Wir Diebe sind kein 
+Verderben, das aus der Unterwelt ans 
+Tageslicht gekrochen ist,\. wusstest 
+du das?
+'''
+patched = '''
+\c[10]Guillian\c[0]: We thieves don't just come
+out of nowhere,\. you know that?
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 36
+has_portrait = true
+original = '''
+\c[10]Guillian\c[0]: Wir haben hier gelebt,\. ihr 
+aus Brigantia habt uns unsere
+Heimat weggenommen,\. habt uns von
+hier vertrieben.
+'''
+patched = '''
+\c[10]Guillian\c[0]: We lived here for
+generations,\. then you Brigantians
+took our home away from us,\.
+drove us out of here.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 42
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Eure Heimat?\. Das Corine 
+Plateau?\. Aber es war doch 
+Korzojenos Zug, der diese 
+Landschaft hier verwüsten ließ!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Your home?\. The Corine Plateau?\.
+But it was Korzojeno's fault that
+this landscape was devastated!
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 47
+has_portrait = true
+original = '''
+\c[10]Guillian\c[0]: Ich rede von der 
+Grenzenverschiebung. Von den Leuten 
+oben aus Helnovien und Gencorin im 
+Osten. 
+'''
+patched = '''
+\c[10]Guillian\c[0]: I'm talking about the
+shifting borders. From the people
+up at Helnovien and Gencorin in
+the east.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 51
+has_portrait = true
+original = '''
+\c[10]Guillian\c[0]: So zerstört unsere Heimat 
+vom Krieg auch gewesen sein mag,\. wir 
+verbrachten hier unser Leben...\.
+und dann nahmt ihr sie uns weg!
+'''
+patched = '''
+\c[10]Guillian\c[0]: As destroyed as our
+homeland from the war may have
+been,\. we spent our lives here...\.
+Then you took it away from us!
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 55
+has_portrait = true
+original = '''
+\c[10]Guillian\c[0]: Ihr seid hier die Diebe!\. 
+Wir kämpfen nur um das,\. was ihr uns 
+bereits gestohlen habt!
+'''
+patched = '''
+\c[10]Guillian\c[0]: YOU are the true thieves
+here!\. We're only fighting for
+what's rightfully ours!
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 58
+has_portrait = true
+original = '''
+\c[10]Guillian\c[0]: Wir werden uns wieder 
+sehen!
+'''
+patched = '''
+\c[10]Guillian\c[0]: We'll see each other again!
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 101
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: ...
+'''
+patched = '''
+\c[13]\n[3]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 111
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Die Dinge sind meistens 
+nicht immer so einfach wie sie 
+scheinen.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: Usually, things aren't
+always as simple as they may seem.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 115
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Huh?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Huh?
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 117
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Der farenische Adelsbund 
+hat vor 9 Jahren die Niederlage im 
+Krieg und deren Konsequenzen 
+akzeptiert. 
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: The Farenian Aristocracy
+accepted defeat in the war and its
+consequences nine years ago.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 121
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Aber Teile des 
+korzojenischen Volkes tun dies 
+selbst heute noch nicht.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: But lots of Korzojens
+don't share this sentiment even
+to this day.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 126
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wo liegt das Problem?\. Sie 
+haben den Krieg verloren,\. also 
+sollen sie still sein!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What's the big deal?\. They lost
+the war,\. so they should just accept
+it already!
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 130
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Herr Tirunel, würden Sie 
+eine Niederlage akzeptieren,\. wenn 
+Sie im Glauben sind,\. das Sie Opfer 
+eines Angriffes waren?
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: Mr. Tirunel,\. would you
+just accept defeat if you believed
+you were the victim of an attack?
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 135
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wie... nunja...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Why...\. Well...
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 137
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: In Korzojeno ist die 
+Auffassung verbreitet,\. dass 
+Brigantia den Krieg angefangen hat.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: There's a widespread
+opinion in Korzojeno that it was
+Brigantia that started the war.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 141
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Moment,\. das stimmt nicht.\. 
+Korzojeno hat doch den ersten Schlag 
+gemacht, in Buronia.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Wait,\. that's not true.\.
+Korzojeno made the first
+attack in Buronia.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 145
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Dieser Schlag war ein 
+geheimer Kleinangriff von etwa 12 
+bis 20 Soldaten,\. der gescheitert 
+ist. 
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: This attack was a covert
+operation by about 12 to 20 soldiers
+that ended up failing.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 149
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Bis heute weiß man 
+nicht, was das Ziel dieses 
+Anschlages war,\. vermutlich ein 
+Attentat auf jemand Bestimmten.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: To this day,\. we don't know
+what the aim of that attack was,
+probably an assassination attempt
+on someone specific.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 153
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Jedenfalls weiß die 
+Mehrheit des korzojenischen Volkes 
+nichts von diesem Angriff. 
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: Anyways,\. the majority of
+the Korzojenish people don't know
+about this attack.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 156
+has_portrait = true
+original = '''
+\c[10]Herr Uroto\c[0]: Sie erinnern sich nur an 
+den Konterschlag von Brigantia, der 
+darauf kam. \.Von daher halten sie uns 
+für die Unfriedenstifter.
+'''
+patched = '''
+\c[10]Mr. Uroto\c[0]: They only remember
+Brigantia's counterattack, which came
+as a result.\. So they think we are
+the ones who started it.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 168
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Können wir langsam weiter 
+gehen?\. Wir waren doch in Eile.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Can we go in a bit?\.
+We're in a hurry.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 174
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Stimmt!\. Wir dürfen nicht 
+vergessen, was unserem Kento 
+passiert ist!\. Wer weiß, er könnte 
+jeden Moment umfallen!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: That's right!\. Let's not forget
+what happened to our Kento!\. Who
+knows, he could fall over any
+moment!
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 179
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wir müssen schnell zum 
+nächsten Gasthof...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: We have to get to the next inn
+quickly...
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 182
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Cibon, du übertreibst...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Cibon, you're exaggerating...
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 184
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Naja, Kento,\. wir wissen immer 
+noch nicht, was es mit diesem Zauber 
+auf sich hatte.\. Wir wollen lieber 
+vorsichtig sein.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Well, Kento,\. we still don't
+know what that magic was about.\.
+We'd rather be careful.
+'''
+
+[[dialogue]]
+event = 66
+page = 4
+command = 193
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: .\..\..\. Lasst uns einfach weiter 
+gehen,\. dann sehen wir weiter.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Let's just go ahead and we'll
+see what happens.
+'''
+
+[[text]]
+event = 65
+page = 1
+command = 4
+original = '''CorinePlat3'''
+patched = '''Corine Plateau'''

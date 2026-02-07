@@ -1,0 +1,125 @@
+[[dialogue]]
+event = 2
+page = 1
+command = 11
+original = '''
+
+Dies ist ein \c[11]Speicherpunkt\c[0].
+'''
+patched = '''
+
+This is a \c[11]save point\c[0].
+'''
+
+[[dialogue]]
+event = 2
+page = 1
+command = 13
+original = '''
+
+Wenn man auf solch einem steht, kann man \c[11]den
+Spielstand speichern\c[0].
+'''
+patched = '''
+
+When you stand on one of these, you can
+\c[11]save the game\c[0].
+'''
+
+[[dialogue]]
+event = 2
+page = 1
+command = 16
+original = '''
+
+Öffne dazu das \c[11]Menu\c[0] mit \c[11]Esc\c[0] und wähle
+dann \c[11]Speichern\c[0].
+'''
+patched = '''
+
+To do this, open the \c[11]menu\c[0] using \c[11]Esc\c[0] and
+then select \c[11]Save\c[0].
+'''
+
+[[dialogue]]
+event = 2
+page = 1
+command = 19
+original = '''
+
+Auf der \c[11]Weltkarte\c[0] kann man übrigens
+immer speichern.
+'''
+patched = '''
+
+Additionally, you can always save on
+the \c[11]world map\c[0].
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 17
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]:\c[0] Hm?\. Oh! Wie spät ist 
+es denn schon?)
+'''
+patched = '''
+(\c[1]\n[1]:\c[0] Hm?\. Oh! How late is it?)
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 26
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]:\c[0] Cibon scheint schon 
+lange auf zu sein. Mal sehen, wo er
+sich so rum treibt.
+'''
+patched = '''
+(\c[1]\n[1]:\c[0] Cibon seems to have been
+up for quite a while now. Time to
+see where he's hanging out.)
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 34
+original = '''
+
+Drücke die \c[11]Pfeiltasten\c[0], um dich zu bewegen.
+\c[11]Halte Enter gedrückt\c[0], um zu rennen.
+'''
+patched = '''
+
+Press the \c[11]arrow keys\c[0] to move.
+Hold \c[11]Enter\c[0] to run.
+'''
+
+[[dialogue]]
+event = 4
+page = 1
+command = 37
+original = '''
+
+Schau im Menu unter \c[11]Optionen\c[0] nach, wenn du
+lieber automatisch rennen willst.
+'''
+patched = '''
+
+Check the menu under \c[11]Options\c[0] if you
+prefer to run automatically.
+'''
+
+[[text]]
+event = 2
+page = 1
+command = 4
+original = '''Sinkholm'''
+patched = '''Sinkholm'''

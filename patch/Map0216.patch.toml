@@ -1,0 +1,83 @@
+[[dialogue]]
+event = 107
+page = 3
+command = 7
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Kumpel!!            \^
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Kento!!            \^
+'''
+
+[[dialogue]]
+event = 107
+page = 3
+command = 9
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Kento!          \^
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Kento!          \^
+'''
+
+[[dialogue]]
+event = 107
+page = 3
+command = 11
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Wo rennst du hin,\. verdammt!\.\^
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Where are you going,\. dammit!\.\^
+'''
+
+[[dialogue]]
+event = 107
+page = 3
+command = 13
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Wir müssen zur Grenze,\. wir 
+werden verfolgt,\. meine Güte!\.\^
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We have to get to the border,\.
+we're being chased you know!\.\^
+'''
+
+[[dialogue]]
+event = 107
+page = 3
+command = 17
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Jaja,\. ist ja schon gut!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yeah yeah,\. I got this!
+'''
+
+[[dialogue]]
+event = 107
+page = 3
+command = 19
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Manchmal kann ich meine 
+eigenen Handlungen wirklich nicht 
+ganz nachvollziehen.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Sometimes it feels like I'm
+being controlled by something or
+someone...)
+'''

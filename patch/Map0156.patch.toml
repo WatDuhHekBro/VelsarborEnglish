@@ -1,0 +1,363 @@
+[[dialogue]]
+event = 8
+page = 1
+command = 23
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: ... )
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: ...)
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 58
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Aufwachen, Kento!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Wake up, Kento!
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 64
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Mhm...
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 66
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Du solltest dir unbedingt 
+abgewöhnen so lange auszuschlafen.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: You should definitely stop
+yourself from sleeping in for
+so long.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 72
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Na komm, du meintest Gestern 
+Abend doch selber, das wir früher 
+aufstehen sollten, oder?
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Come on, you said it yourself
+last night that we should get up
+earlier, right?
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 76
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Mhm...
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 79
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Den größten Teil der Hinreise 
+haben wir ja schon,\. also los.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: We already got through the
+tough parts of the journey,\. so
+let's go.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 87
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Mhm...
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 96
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: KENTO!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: KENTO!
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 101
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: EH?!\. Ähm, was?\. Oh...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: EH?!\. Um, what?\. Oh...
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 104
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: Auf...\. stehen.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: Get.\. Up.
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 108
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Hm...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Mhm...
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 118
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]\c[0]: WIRD'S BALD?!
+'''
+patched = '''
+\c[13]\n[3]\c[0]: ARE YOU GETTING UP ANYTIME
+SOON?!
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 121
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Jajaja...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yeah yeah yeah...
+'''
+
+[[dialogue]]
+event = 8
+page = 1
+command = 124
+has_portrait = true
+character = '''Soko'''
+original = '''
+(\c[13]\n[3]\c[0]: Cibon hat recht, ihn 
+vorzeitig aus dem Bett zu kriegen 
+ist wirklich keine leichte 
+Angelegenheit.)
+'''
+patched = '''
+(\c[13]\n[3]\c[0]: Cibon was right, getting him
+out of bed early is quite the
+monumental task.)
+'''
+
+[[dialogue]]
+event = 8
+page = 3
+command = 29
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Hm...\. ich wurde nicht 
+geweckt, anscheinend hat sich nichts 
+getan.)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Hm...\. I wasn't woken up, and
+apparently nothing changed this
+time.)
+'''
+
+[[dialogue]]
+event = 8
+page = 3
+command = 39
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Am besten schau ich mal, was 
+die anderen machen...)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: The best thing to do is just
+see what the others are up to...)
+'''
+
+[[dialogue]]
+event = 8
+page = 5
+command = 12
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]\c[0]: Genug für heute Nacht 
+vorbereitet?)
+'''
+patched = '''
+(\c[1]\n[1]\c[0]: Are we prepared enough for
+tonight?)
+'''
+
+[[dialogue]]
+event = 8
+page = 5
+command = 38
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Kumpel,\. wach auf, Kumpel!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Kento,\. wake up Kento!
+'''
+
+[[dialogue]]
+event = 8
+page = 5
+command = 40
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: W...\.Was?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: W...\. What?
+'''
+
+[[dialogue]]
+event = 8
+page = 5
+command = 43
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Es wird Zeit!\. Die Leute 
+warten schon auf uns.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: It's time!\. People are waiting
+for us.
+'''
+
+[[dialogue]]
+event = 8
+page = 5
+command = 46
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Oh... ist es schon so spät?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Oh... Is it time already?
+'''
+
+[[dialogue]]
+event = 8
+page = 5
+command = 49
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Diesmal bleibt wirklich keine 
+Zeit zum Schlafen,\. also raus!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: This time there really is no
+time to sleep,\. so get up!
+'''
+
+[[dialogue]]
+event = 8
+page = 5
+command = 52
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ja,\. ich steh ja schon auf...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Yeah yeah,\. I'm getting up
+already...
+'''
+
+[[text]]
+event = 8
+page = 5
+command = 14
+has_portrait = true
+original = '''Ja/Nein'''
+patched = '''Yes/No'''
+
+[[text]]
+event = 8
+page = 5
+command = 15
+has_portrait = true
+original = '''Ja'''
+patched = '''Yes'''
+
+[[text]]
+event = 8
+page = 5
+command = 72
+original = '''Nein'''
+patched = '''No'''

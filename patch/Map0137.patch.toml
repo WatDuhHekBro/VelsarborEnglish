@@ -1,0 +1,89 @@
+[[dialogue]]
+event = 17
+page = 3
+command = 9
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]: Und weiter geht's...
+'''
+patched = '''
+\c[1]Seldan\c[0]: Just a little further...
+'''
+
+[[dialogue]]
+event = 17
+page = 3
+command = 16
+original = '''
+\c[10]Zojenische Einheit\c[0]: Er...\. er hat es besiegt!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: He...\. He destroyed it!
+'''
+
+[[dialogue]]
+event = 17
+page = 3
+command = 17
+original = '''
+\c[10]Zojenische Einheit\c[0]: ...Nein!\. Was können 
+wir jetzt noch machen?!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: No!\. What do we do now?!
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 24
+original = '''
+\c[10]Zojenische Einheit\c[0]: Da kommt er!\. 
+Startet die FPM05!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: Here he comes!\.
+Start the FPM05!
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 166
+original = '''
+\c[10]Zojenische Einheit\c[0]: Hier wird Ihr Vorgehen ein 
+Ende finden!
+'''
+patched = '''
+\c[10]Korzojenish Soldier\c[0]: Your little journey
+ends right here!
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 175
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]:\s[6] .......
+'''
+patched = '''
+\c[1]Seldan\c[0]:\s[6] .......
+'''
+
+[[dialogue]]
+event = 18
+page = 1
+command = 178
+has_portrait = true
+original = '''
+\c[1]Seldan\c[0]: Nein...\| NICHTS wird mich 
+jetzt noch stoppen!\. Und wenn ich 
+eine ganze Kriegsmaschine zerstören 
+muss!
+'''
+patched = '''
+\c[1]Seldan\c[0]: No...\| NOTHING will stop me
+now!\. Even if I have to take on an
+entire war machine!
+'''

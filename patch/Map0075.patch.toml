@@ -1,0 +1,646 @@
+[[dialogue]]
+event = 93
+page = 1
+command = 3
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Hat man die 
+Rüstung einmal an, ist alles okay.\. Das schlimme 
+ist das an- und ausziehen dieses Blechhaufens!
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Once you have your armor,
+everything will be just fine.\. The tedious
+part is putting this hunk of metal on
+and taking it off!
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 13
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Oi, Cibon.\. Du 
+läufst immer noch in diesem Aufzug hier rum?\. 
+Bist du immer noch nicht fertig ausgebildet?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Oi, Cibon.\. Are you still
+walking around in that armor?\. You're still
+not done with training?
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 18
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Doch schon, aber es standen 
+komischer Weise keine Rüstungen 
+bereit.\. Für Kento ebenfalls nicht.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: We're done, but strangely no
+armor was available.\. Neither for Kento.
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 22
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Man hat uns zwar ein paar 
+andere Rüstungsteile gegeben, aber 
+die waren wirklich mies...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: We were given a few other pieces
+of armor, but they were so bad...
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 26
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Ach, das 
+passiert immer wieder.\. Die Schmiede kommt einfach 
+nicht mit der wachsenden Anzahl von Soldaten mit. 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Oh, that's been happening
+again and again.\. The blacksmith simply can't
+keep up with the growing number of soldiers.
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 31
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Na ja, so schlimm is' es auch 
+nicht. So eine Rüstung ist doch 
+bestimmt sehr umständlich, oder?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Well, it's not that bad either.
+Your armor must be very cumbersome,
+right?
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 35
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Sagen wir, man 
+gewöhnt sich dran.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Let's say that you get
+used to it.
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 44
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wache halten ist 
+tot langweilig.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Keeping watch makes me bored
+to the death.
+'''
+
+[[dialogue]]
+event = 93
+page = 1
+command = 48
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Kann ich ein Lied von singen.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I can sing a song about it
+if you want.
+'''
+
+[[dialogue]]
+event = 94
+page = 1
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Immer diese 
+monotonen Trainingseinheiten. Da wird man ja 
+verrückt, allein schon vom zusehen.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Always with these
+monotonous training sessions. You'd go
+crazy just by watching them.
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 7
+original = '''
+\c[10]Ausbilder\c[0]: Es ist sehr erfreulich, dass Sie alle 
+so zahlreich erschienen sind. 
+'''
+patched = '''
+\c[10]Instructor\c[0]: It is very delightful that you have
+all appeared in such large numbers.
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 9
+original = '''
+\c[10]Ausbilder\c[0]: Ab nächster Woche beginnt Ihre 
+Ausbildung zum Soldaten des Briganten Ordens.
+'''
+patched = '''
+\c[10]Instructor\c[0]: Your training as a soldier in
+the Brigantine Order will begin next week.
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 11
+original = '''
+\c[10]Ausbilder\c[0]: Wie üblich muss hierzu vorher eine 
+Wahl getroffen werden.\.\. Es geht um die Wahl der 
+Waffe, auf der Sie sich während der 
+Ausbildung spezialisieren wollen.
+'''
+patched = '''
+\c[10]Instructor\c[0]: As usual, a choice must be made
+beforehand.\.\. It is about choosing the weapon
+you want to specialize in during your training.
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 15
+original = '''
+\c[10]Ausbilder\c[0]: Denn wir brauchen in unserer Armee 
+keine Allround-Talente. Wir brauchen Spezialisten. 
+'''
+patched = '''
+\c[10]Instructor\c[0]: Because we don't need jacks of all
+trades in our army. We need masters of one,
+specialists!
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 17
+original = '''
+\c[10]Ausbilder\c[0]: Jede Waffe bringt eine spezielle 
+Ausbildung und eine andere Rolle in der 
+Schlacht mit sich.
+'''
+patched = '''
+\c[10]Instructor\c[0]: Each weapon has their own
+special training and a different role
+in battle.
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 20
+original = '''
+\c[10]Ausbilder\c[0]: Sie hatten schon vorher Zeit über 
+diese Entscheidung nachzudenken.
+Also wählen Sie jetzt.
+'''
+patched = '''
+\c[10]Instructor\c[0]: You've had time to think
+about this decision before.
+So choose wisely now.
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 23
+original = '''
+\c[10]Ausbilder\c[0]: Zur Wahl stehen...\. 
+Schwert\.\., Axt\.\. und Lanze.
+'''
+patched = '''
+\c[10]Instructor\c[0]: You may choose one
+of the following...\. the sword,\.\.
+the axe,\.\. or the lance.
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 33
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Jau, ich werde ganz klar die 
+Axt nehmen.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Yeah, I'm definitely gonna
+take the axe.
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 36
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Die Axt?\. Ich hab gehört, das 
+sei die Unbeliebteste unter den 
+drei Waffe.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: The axe?\. I heard it was the
+least popular of the three.
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 41
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Ja, aber ich kann mit ihr nun 
+mal am besten umgehen.\. Ich hab 
+schon vorher alle drei Waffen 
+ausprobiert.
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Yeah, but I can wield it the
+best.\. I've tried all three weapons
+before.
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 51
+original = '''
+\c[10]Ausbilder\c[0]: Ich werde jetzt ihre Namen 
+durchgehen.\. Sagen Sie mir nach Aufrufen ihres 
+Namens ihre Entscheidung.
+'''
+patched = '''
+\c[10]Instructor\c[0]: I'll go through your names
+now.\. Tell me your decision after I call
+your name.
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 55
+original = '''
+\c[10]Ausbilder\c[0]: \s[12]...\s[3]Erim Akiro!
+'''
+patched = '''
+\c[10]Instructor\c[0]: \s[12]...\s[3]Erim Akiro!
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 61
+original = '''
+\c[10]Erim Akiro\c[0]: Ich nehme das Schwert!
+'''
+patched = '''
+\c[10]Erim Akiro\c[0]: I'll take the sword!
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 69
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Was für eine Waffe wirst du 
+nehmen? 
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What weapon are you going
+to use?
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 72
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich bin mir noch nicht sicher.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I haven't decided yet.
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 74
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Langsam solltest du dich aber 
+wirklich entscheiden.\. Sie rufen die 
+Namen nach alphabetischer 
+Reihenfolge der Nachnamen ab.\. Öh...
+'''
+patched = '''
+\c[2]\n[2]\c[0]: You should really make a
+decision soon.\. We're called in
+alphabetical order of our
+last names.\. Wait...
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 78
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: ...Wie lautet eigentlich dein 
+Nachname?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: What's your last name?
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 81
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: \s[12].....
+'''
+patched = '''
+\c[1]\n[1]\c[0]: \s[12].....
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 86
+original = '''
+\c[10]Percil Cotiah\c[0]: \s[4]Ich nehme...\s[0] die Lanze!
+'''
+patched = '''
+\c[10]Percil Cotiah\c[0]: \s[4]I will take...\s[0] the lance!
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 92
+original = '''
+\c[10]Ausbilder\c[0]: Als nächstes\.\....\.\. Kento Daikon!
+'''
+patched = '''
+\c[10]Instructor\c[0]: Next...\.\.\.\. Kento Daikon!
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 121
+original = '''
+\c[10]Massen\c[0]: Daikon?!
+'''
+patched = '''
+\c[10]Crowd\c[0]: Daikon?!
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 126
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ....\.\.Ja?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...\.\.Yes?
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 158
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]\c[0]: Bi...\. Biste etwa...\. etwa der 
+Sohn von DEM Genyu Daikon?!
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Y...\. You don't mean to say...\.
+the son of THE Genyu Daikon?!
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 161
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: ...
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 166
+original = '''
+\c[10]Angehender Soldat\c[0]: Wahnsinn!\. Der Sohn des 
+legendären Helden, der die Truppen von 
+Brigantia erfolgreich durch die Schlacht führte 
+ist hier?
+'''
+patched = '''
+\c[10]Aspiring Soldier\c[0]: No way!\. The son of the
+legendary hero who successfully led
+Brigantia's troops through the
+great battle is here?
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 173
+original = '''
+\c[10]Angehender Soldat\c[0]: Ich kann's kaum glauben!
+'''
+patched = '''
+\c[10]Aspiring Soldier\c[0]: I can hardly believe it!
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 193
+original = '''
+\c[10]Ausbilder\c[0]: RUHE bitte!\. ...\. Ja, es stimmt, der 
+Sohn von Genyu Daikon tritt dieses Jahr die 
+Ausbildung zum Soldaten des Briganten Ordens 
+an.
+'''
+patched = '''
+\c[10]Instructor\c[0]: Calm down, please!\. Yes, it is true,
+the son of Genyu Daikon is starting his training
+as a soldier of the Brigantine Order this year.
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 197
+original = '''
+\c[10]Ausbilder\c[0]: Darf ich davon ausgehen, dass Sie
+wie der Vater das Schwert wählen werden?
+'''
+patched = '''
+\c[10]Instructor\c[0]: Now,\. may I assume that you will
+choose the sword like your father?
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 220
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: ... Nein!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: No!
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 223
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Nein\.\., nein\.\. und 
+nochmals Nein!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: No,\.\. no,\.\. and again,\.\. NO!
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 225
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich bin nicht \s[4]"Herr Daikon"\s[0] 
+oder \s[4]"Der Sohn von Genyu"\s[0] ...
+Mein Name ist \s[7]KENTO!\s[0] 
+ALLES KLAR?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I'm not \s[4]"Mr. Daikon"\s[0]
+or \s[4]"The Son of Genyu"\s[0]...
+My name is \s[7]KENTO\s[0]!
+IS THAT CLEAR?
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 230
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Er mag mein Vater sein,\. aber 
+nicht mein Ebenbild!\.\. Es ist mir 
+\s[6]EGAL\s[0], wie berühmt er war! 
+'''
+patched = '''
+\c[1]\n[1]\c[0]: He may be my father,\. but he
+couldn't be further from me at all!\.\.
+I don't care \s[6]HOW\s[0] famous he was!
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 234
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich \s[4]BIN NICHT\s[0] wie er,\.\.
+noch möchte ich sein wie er...
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I \s[4]AM NOT\s[0] like him,\.\. nor
+do I ever want to be like him...
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 240
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Ich nehme NICHT das 
+Schwert!\.\.\s[5] ICH NEHME DIE LANZE!
+'''
+patched = '''
+\c[1]\n[1]\c[0]: I will NOT take the sword!\.\.
+\s[5]I WILL TAKE THE LANCE!
+'''
+
+[[dialogue]]
+event = 101
+page = 1
+command = 250
+original = '''
+\c[10]Ausbilder\c[0]: \s[4]In Ordnung...\.\.
+Kento nimmt die Lanze.
+'''
+patched = '''
+\c[10]Instructor\c[0]: \s[4]Alright then...\.\.
+Kento shall take the lance.
+'''

@@ -1,0 +1,48 @@
+[[dialogue]]
+event = 68
+page = 1
+command = 7
+has_portrait = true
+character = '''Soko'''
+original = '''
+\c[13]\n[3]:\c[0] Hier lang geht es nach 
+Helnovien, Kento.\. Wir müssen nach 
+Osten,\. nicht hier lang.
+'''
+patched = '''
+\c[13]\n[3]\c[0]: This is the way to Helnovien,
+Kento.\. We have to continue going
+east,\. not this way.
+'''
+
+[[dialogue]]
+event = 68
+page = 1
+command = 11
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Kumpel, kann's sein, \.dass 
+dir die Attacke von eben etwas den 
+Orientierungssinn genommen hat?
+'''
+patched = '''
+\c[2]\n[2]\c[0]: Hey,\. could it be that that
+attack just took away your sense
+of direction?
+'''
+
+[[dialogue]]
+event = 68
+page = 1
+command = 16
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] ...\. Blödsinn,\. wie kommst du 
+jetzt darauf?
+'''
+patched = '''
+\c[1]\n[1]\c[0]: Nonsense,\. how'd you get that
+idea?
+'''

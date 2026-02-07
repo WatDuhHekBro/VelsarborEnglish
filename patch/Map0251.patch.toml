@@ -1,0 +1,41 @@
+[[dialogue]]
+event = 33
+page = 2
+command = 3
+original = '''
+\c[10]Wache\c[0]: Hey! Ihr seid aber ganz schön spät dran, 
+oder?\. Ihr solltet schnell die Schienen entlang 
+zurückgehen, bis ihr wieder an der Oberfläche 
+seid.
+'''
+patched = '''
+\c[10]Guard\c[0]: Hey!\. You're pretty late, right?\. You should
+quickly walk back along the railways until you're
+back on the surface.
+'''
+
+[[dialogue]]
+event = 33
+page = 2
+command = 7
+original = '''
+\c[10]Wache\c[0]: Von hier aus nach unten...
+'''
+patched = '''
+\c[10]Guard\c[0]: You have to go down from here...
+'''
+
+[[dialogue]]
+event = 33
+page = 2
+command = 10
+original = '''
+\c[10]Wache\c[0]:  Hey, ihr sollt hier nicht rumlungern. Hier 
+werdet ihr kein Erz finden, das ist schon seit 
+Langem abgebaut. 
+'''
+patched = '''
+\c[10]Guard\c[0]: Hey, you shouldn't be hanging around here.
+You won't find any ore here, this area has been
+mined out for a long time.
+'''

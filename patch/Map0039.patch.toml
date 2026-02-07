@@ -1,0 +1,138 @@
+[[dialogue]]
+event = 20
+page = 1
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Normalerweise 
+halten wir hier ja keine Passanten auf, aber da 
+ihr hier so angerannt kamt, hat das einen etwas 
+verdächtigen Eindruck erweckt.
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Usually, we don't stop
+people passing through, but since you came
+running here, it gave us a somewhat
+suspicious impression.
+'''
+
+[[dialogue]]
+event = 21
+page = 1
+command = 2
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Wisst ihr, wofür 
+diese grünen Briefkästen da sind?
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Do you know what
+these green mailboxes are for?
+'''
+
+[[dialogue]]
+event = 21
+page = 1
+command = 6
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Nun,\. hier wird die 
+Post von den Bürgern von Nomerea eingeworfen, 
+die dann jeden Morgen von den Post-Versendern 
+abgeholt wird. 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Well,\. here the mail
+is sent in by the citizens of Nomerea,
+which is then picked up by the post
+office every morning
+'''
+
+[[dialogue]]
+event = 21
+page = 1
+command = 10
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Diese bringen 
+dann die Post an aller Ort von diesem Kontinent,\. 
+so hab ich gehört. 
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: They'll bring the mail
+anywhere on this continent,\. I've heard.
+'''
+
+[[dialogue]]
+event = 21
+page = 1
+command = 15
+original = '''
+\c[10]Soldat vom Briganten-Orden\c[0]: Vielleicht werde 
+ich mal bald einen Brief an einen Bekannten im 
+Osten schicken.\. Bin gespannt, ob der Brief 
+ankommt.\. Ist ein ziemlich weites Stück...
+'''
+patched = '''
+\c[10]Brigantian Soldier\c[0]: Maybe I'll send a
+letter to a friend in the east soon.\. I
+wonder if the letter will arrive.\. It's
+quite a long way...
+'''
+
+[[dialogue]]
+event = 25
+page = 2
+command = 21
+original = '''
+\c[10]Wache\c[0]: Halt!\.
+Weisen Sie sich aus.
+'''
+patched = '''
+\c[10]Guard\c[0]: Halt!\. Identify yourselves.
+'''
+
+[[dialogue]]
+event = 25
+page = 2
+command = 25
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]\c[0]: Wir sind es,\. Kento und 
+Cibon.\. Wir hatten einen Auftrag in 
+Sinkholm als Wachposten.
+'''
+patched = '''
+\c[1]\n[1]\c[0]: It's us,\. Kento and
+Cibon.\. We had an order in Sinkholm
+as guardsmen.
+'''
+
+[[dialogue]]
+event = 25
+page = 2
+command = 29
+original = '''
+\c[10]Wache\c[0]: Ach ja.\. In Ordnung.\. Ihr dürft passieren.
+'''
+patched = '''
+\c[10]Guard\c[0]: Oh,\. alright.\. You two may pass.
+'''
+
+[[text]]
+event = 21
+page = 1
+command = 4
+original = '''Nein, wofür denn?/Ja klar, wer weiß das nicht?'''
+patched = '''No, what are they for?/Yes of course, who wouldn't know?'''
+
+[[text]]
+event = 21
+page = 1
+command = 5
+original = '''Nein, wofür denn?'''
+patched = '''No, what are they for?'''
+
+[[text]]
+event = 21
+page = 1
+command = 14
+original = '''Ja klar, wer weiß das nicht?'''
+patched = '''Yes of course, who wouldn't know?'''

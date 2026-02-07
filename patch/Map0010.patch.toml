@@ -1,0 +1,617 @@
+[[dialogue]]
+event = 13
+page = 24
+command = 24
+original = '''
+meep
+'''
+patched = '''
+meep
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 6
+original = '''
+\c[10]Sir Vorento\c[0]: Wenn Sie etwas an ihrer Element-
+Kopplung ändern wollen, müssen Sie zum 
+Menu-Punkt \c[11]Elemente\c[0] wechseln.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: If you want to change something
+in your element couplings, you have to
+switch to the menu option: \c[11]Elements\c[0].
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 39
+original = '''
+\c[10]Sir Vorento\c[0]: Nun eine Erklärung 
+der \c[11]Element-Level\c[0].
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Now for an explanation
+of \c[11]element levels\c[0].
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 41
+original = '''
+\c[13]Punkt 1: Was sind Element-Level?
+'''
+patched = '''
+\c[13]Point #1: What are element levels?
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 42
+original = '''
+\c[10]Sir Vorento\c[0]: Es gibt Elemente 
+\c[11]Feuer, Wasser, Erde, Wind, Licht und Schatten.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: There are six elements:
+\c[11]fire, water, earth, wind, light, and shadow.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 44
+original = '''
+\c[10]Sir Vorento\c[0]: Jedes dieser Elemente hat 
+\c[11]2 Element-Level\c[0], welche für die Fähigkeiten 
+mit den Umgang dieser Elemente stehen.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Each of these elements has
+\c[11]two levels\c[0], which stand for the skills
+from handling these elements.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 58
+original = '''
+\c[10]Sir Vorento\c[0]: 
+Das \c[11]offensive\c[0] Element-Level...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: The \c[11]offensive\c[0] level...
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 70
+original = '''
+\c[10]Sir Vorento\c[0]: 
+...und das \c[11]defensive\c[0] Element-Level.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: ...and the \c[11]defensive\c[0] level.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 83
+original = '''
+\c[13]Punkt 2: Was bewirkt das Steigern 
+dieser Element-Level?
+'''
+patched = '''
+\c[13]Point #2: What is the effect of
+increasing these levels?
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 85
+original = '''
+\c[10]Sir Vorento\c[0]: Durch das Steigern dieser Element-
+Level lernt man \c[11]Signum-Techniken\c[0] und 
+\c[11]verbessert den Umgang\c[0] mit diesen Techniken.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: By increasing these levels, you
+learn \c[11]Signum techniques\c[0] and \c[11]improve
+the handling\c[0] of these techniques.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 88
+original = '''
+\c[10]Sir Vorento\c[0]: Das Steigern der offensiven Element-
+Level führt zur Meisterung von \c[11]"Gefechts-Signum"\c[0] - 
+offensiven Signum-Techniken.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Increasing the offensive levels
+leads to mastery of the \c[11]"Battle Signums"\c[0] - 
+offensive Signum techniques.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 91
+original = '''
+\c[10]Sir Vorento\c[0]: Das Steigern der defensiven Element-
+Level führt zur Meisterung von \c[11]"Haltungs-Signum"\c[0] -
+defensiven Signum-Techniken.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Increasing the defensive levels
+leads to mastery of the \c[11]"Auxiliary Signums"\c[0] - 
+defensive Signum techniques.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 94
+original = '''
+\c[13]Punkt 3: Wie werden Element-Level gesteigert?
+'''
+patched = '''
+\c[13]Point #3: How are element levels increased?
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 95
+original = '''
+\c[10]Sir Vorento\c[0]: Durch das Einkoppeln von 
+Element-Kugeln ...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: By coupling elemental orbs...
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 111
+original = '''
+\c[10]Sir Vorento\c[0]: ...in die \c[11]Wölbungen der 
+Waffe\c[0]...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: ...into the \c[11]hinges of a
+weapon\c[0]...
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 135
+original = '''
+\c[10]Sir Vorento\c[0]: ... oder in die \c[11]Wölbungen des 
+Armbandes\c[0].
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: ...or into the \c[11]arches of an
+armband\c[0].
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 146
+original = '''
+\c[10]Sir Vorento\c[0]: Sind Element-Kugeln eingekoppelt, 
+wird ein \c[11]Teil der Erfahrung\c[0], die man am Ende des 
+Kampfes erlangt, auf die \c[11]Element-Level übertragen\c[0].
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: If these orbs are coupled in, \c[11]part
+of the experience\c[0] gained at the end of a battle
+is \c[11]transferred to the element levels\c[0].
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 149
+original = '''
+\c[10]Sir Vorento\c[0]: Auf welches Element-Level die 
+Erfahrung wirkt, hängt einerseits von der Element-
+Kugel ab und davon, wo sie eingekoppelt ist.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Which element level the
+experience affects depends on the orb and
+where it is coupled.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 152
+original = '''
+\c[10]Sir Vorento\c[0]: Jede Element-Kugel ist einem Element 
+zugewiesen und \c[11]vermag auch dieses Element zu 
+steigern\c[0]. Feuerkugeln steigern Feuerelemente, 
+Erdkugeln steigern Erdelemente.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Each orb is assigned to an element
+and \c[11]can also increase that element's level\c[0].
+Fire orbs increase fire levels, earth orbs
+increase earth levels.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 156
+original = '''
+\c[10]Sir Vorento\c[0]: Koppelt man die Kugel 
+in die \c[11]Waffe\c[0], 
+steigert sie das \c[11]Offensiv-Level\c[0] ihres Elementes.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Coupling the orb into
+a \c[11]weapon\c[0], increases the \c[11]offensive
+level\c[0] of its element.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 159
+original = '''
+\c[10]Sir Vorento\c[0]: Koppelt man die Kugel 
+in das \c[11]Armband\c[0], 
+steigert sie das \c[11]Defensiv-Level\c[0] ihres Elementes.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Coupling the orb into
+an \c[11]armband\c[0], increases the \c[11]defensive
+level\c[0] of its element.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 162
+original = '''
+\c[10]Sir Vorento\c[0]: Koppelt man mehrere Element-Kugeln 
+einer Sorte in die Waffe oder in das Armband, 
+steigt das Element-Level natürlich schneller.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: If you couple several orbs of the
+same type into your weapon or armband, the
+element level naturally increases faster.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 165
+original = '''
+\c[10]Sir Vorento\c[0]: Trotzdem sollte man dies nie mit 
+\c[11]mehr als 3 gleichen Element-Kugeln\c[0] machen, da der 
+Wirkungsgrad darüber hinaus nicht mehr 
+proportional mit der Anzahl wächst.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Nevertheless, you should never do
+this with \c[11]more than three identical orbs\c[0],
+because the efficiency no longer increases
+proportionally with the amount.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 169
+original = '''
+\c[10]Sir Vorento\c[0]: Beachten Sie auch, dass 
+\c[11]ein Element-Level nicht über das 
+Charakter-Level steigen kann.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Also note that \c[11]an element
+level cannot go above the character level\c[0].
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 172
+original = '''
+\c[13]Punkt 4: Welche Signum-Techniken 
+lernt man nun genau?
+'''
+patched = '''
+\c[13]Point #4: Which Signum techniques
+do you learn exactly?
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 174
+original = '''
+\c[10]Sir Vorento\c[0]: Welche Signum-Techniken gelernt 
+werden und mit welcher Geschwindigkeit,\c[11] ist von 
+Person zu Person unterschiedlich.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Which Signum techniques are
+learned and at what speed \c[11]varies from
+person to person\c[0].
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 177
+original = '''
+\c[10]Sir Vorento\c[0]: Damit Sie die Element-Kugeln nicht 
+auf gut Glück setzen, bietet das Element-Menu 
+\c[11]eine Vorschau, welche Signum-Techniken der 
+Charakter als nächstes meistern könnte.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: To make sure you don't bank on
+good luck with these orbs, the element menu
+\c[11]offers a preview of which Signum techniques
+the character could master next\c[0].
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 198
+original = '''
+\c[10]Sir Vorento\c[0]: Diese beiden Symbole zeigen einem 
+diese Liste an. 
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: These two symbols show you
+this list.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 208
+original = '''
+\c[10]Sir Vorento\c[0]: Das Obere \c[11]die Liste für 
+"Gefechts-Signum"\c[0]...
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: At the top is \c[11]the list for
+"Battle Signums"\c[0]...
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 226
+original = '''
+\c[10]Sir Vorento\c[0]: ...das Untere \c[11]die Liste
+für "Haltungs-Signum"\c[0].
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: ...and at the bottom is \c[11]the
+list for "Auxiliary Signums"\c[0].
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 228
+original = '''
+\c[10]Sir Vorento\c[0]: Beachten Sie, dass in dieser Liste 
+nur dann Techniknamen angezeigt werden, wenn die 
+jeweilige Technik höchstens 9 Element-Level von 
+der Meisterung entfernt ist.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Please note that techniques are
+only shown in this list if they are at most
+nine element levels from mastery.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 232
+original = '''
+\c[10]Sir Vorento\c[0]: Andernfalls erscheint ein 
+Fragezeichen-Schriftzug. \c[11]Sie können trotzdem das 
+Element der Technik sehen, indem Sie die Technik 
+mit dem Cursor auswählen.\c[0]
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Otherwise, a question mark
+will appear. \c[11]You can see the element of
+the technique by selecting the technique
+with the cursor.\c[0]
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 277
+original = '''
+\c[10]Sir Vorento\c[0]: Und zum Schluss ein paar Tipps.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: And finally, a few tips.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 278
+original = '''
+\c[10]Sir Vorento\c[0]: Haben Sie ihre Ausrüstung immer 
+komplett mit Element-Kugeln zugekoppelt. 
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Always have your equipment
+completely coupled with elemental orbs.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 280
+original = '''
+\c[10]Sir Vorento\c[0]: Denken Sie daran: Bekommen Sie kaum 
+Erfahrung von den Gegnern, steigen auch die 
+Element-Level sehr langsam, EGAL, wie 
+tief sie sind.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: Remember: If you hardly get any
+experience from enemies, the element levels
+will also rise very slowly, no matter
+how many you equip.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 284
+original = '''
+\c[10]Sir Vorento\c[0]: Eine gute Methode ist immer 
+zielstrebig die Element-Level so zu erhöhen, dass 
+man möglichst bald an eine neue Technik ran kommt.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: A good method is to always
+increase the element level so that you can get
+to a new technique as soon as possible.
+'''
+
+[[dialogue]]
+event = 140
+page = 2
+command = 287
+original = '''
+\c[10]Sir Vorento\c[0]: Damit ist die Erklärung zu Ende.
+'''
+patched = '''
+\c[10]Sir Vorento\c[0]: That concludes the explanation.
+'''
+
+[[dialogue]]
+event = 144
+page = 1
+command = 3
+original = '''
+---- KONSTANTEN FESTLEGEN -----
+'''
+patched = '''
+---- KONSTANTEN FESTLEGEN -----
+'''
+
+[[dialogue]]
+event = 144
+page = 1
+command = 7
+original = '''
+----ELEMENTKUGEL SYSTEM ÄNDERUNG ANPASSEN ----
+'''
+patched = '''
+----ELEMENTKUGEL SYSTEM ÄNDERUNG ANPASSEN ----
+'''
+
+[[dialogue]]
+event = 144
+page = 1
+command = 49
+original = '''
+Helden Status Entwicklung wurde verändert!
+
+Helden Werte werden aktualisiert, 
+bitte einen Moment warten...
+'''
+patched = '''
+The hero's stats have changed!
+
+The hero's stats are being updated,
+please wait a moment...
+'''
+
+[[dialogue]]
+event = 144
+page = 1
+command = 196
+original = '''
++\v[628]  | +\v[629]  | +\v[630]  | +\v[631]  | +\v[632]  | +\v[633]  | +\v[634] 
+'''
+patched = '''
++\v[628]  | +\v[629]  | +\v[630]  | +\v[631]  | +\v[632]  | +\v[633]  | +\v[634] 
+'''
+
+[[dialogue]]
+event = 144
+page = 1
+command = 215
+original = '''
+Kento: HP +(\v[81])   MP +(\v[82])
+ATK +(\v[83])    ABW +(\v[84])
+MTL +(\v[85])    AGI+(\v[86])
+'''
+patched = '''
+Kento: HP +(\v[81])   MP +(\v[82])
+ATK +(\v[83])    DEF +(\v[84])
+WIS +(\v[85])    AGL+(\v[86])
+'''
+
+[[dialogue]]
+event = 144
+page = 1
+command = 380
+original = '''
+Cibon: HP +(\v[81])   MP +(\v[82])
+ATK +(\v[83])    ABW +(\v[84])
+MTL +(\v[85])    AGI+(\v[86])
+'''
+patched = '''
+Cibon: HP +(\v[81])   MP +(\v[82])
+ATK +(\v[83])    DEF +(\v[84])
+WIS +(\v[85])    AGL+(\v[86])
+'''
+
+[[dialogue]]
+event = 144
+page = 1
+command = 545
+original = '''
+Soko: HP +(\v[81])   MP +(\v[82])
+ATK +(\v[83])    ABW +(\v[84])
+MTL +(\v[85])    AGI+(\v[86])
+'''
+patched = '''
+Soko: HP +(\v[81])   MP +(\v[82])
+ATK +(\v[83])    DEF +(\v[84])
+WIS +(\v[85])    AGL+(\v[86])
+'''
+
+[[text]]
+event = 13
+page = 17
+command = 54
+original = '''Weltkarte'''
+patched = '''The Overworld'''

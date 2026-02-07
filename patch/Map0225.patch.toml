@@ -1,0 +1,340 @@
+[[dialogue]]
+event = 19
+page = 1
+command = 20
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Eure Hoheit,\. bitte erlaubt 
+mir eure Zeit für einen Moment in 
+Anspruch zu nehmen. 
+'''
+patched = '''
+\c[10]?????\c[0]: Your Highness,\. please allow me
+to take your time for a moment.
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 23
+has_portrait = true
+original = '''
+\c[10]?????\c[0]: Es gibt Neuigkeiten bezüglich 
+den Nebelklingen.
+'''
+patched = '''
+\c[10]?????\c[0]: There is news regarding the
+Mist Blades.
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 30
+has_portrait = true
+original = '''
+\c[10]Prinz Rhedoran\c[0]: Meine Aufmerksamkeit 
+sei Euch gegeben, Sir Vintal.\. Erhebt 
+Euch.\. Welche Neuigkeiten bringt Ihr 
+mir?
+'''
+patched = '''
+\c[10]Prince Rhedoran\c[0]: My attention is to
+you, Sir Vintal.\. Rise.\. What news do
+you bring me?
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 36
+has_portrait = true
+original = '''
+\c[10]Sir Vintal\c[0]: Bittet geduldet euch 
+noch einen kleinen Moment.\. Die 
+Patricia des Signums sollte an 
+dieser Unterhaltung teilhaben.
+'''
+patched = '''
+\c[10]Sir Vintal\c[0]: Please be patient for
+a moment.\. The Patrician of Signums
+should be a part of this
+conversation.
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 58
+has_portrait = true
+original = '''
+\c[10]Patricia des Signums\c[0]: Eure 
+Hoheit... 
+'''
+patched = '''
+\c[10]Patrician of Signums\c[0]: Your
+Highness...
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 66
+has_portrait = true
+original = '''
+\c[10]Patricia des Signums\c[0]: Ihr habt nach 
+mir verlangt, Sir Vintal.\. Was ist 
+euer Anliegen?
+'''
+patched = '''
+\c[10]Patrician of Signums\c[0]: You requested
+me, Sir Vintal.\. What is your concern?
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 77
+has_portrait = true
+original = '''
+\c[10]Sir Vintal\c[0]: Wir haben eine Nachricht 
+bekommen,\. das Versteck der 
+Nebelklingen wurde entdeckt.
+'''
+patched = '''
+\c[10]Sir Vintal\c[0]: We received a message
+that the Mist Blades' hiding spot
+was discovered.
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 80
+has_portrait = true
+original = '''
+\c[10]Sir Vintal\c[0]: Soldaten des Briganten-
+Ordens sollen das Versteck gesichtet 
+haben. 
+'''
+patched = '''
+\c[10]Sir Vintal\c[0]: Soldiers from the
+Brigantine Order are said to
+have spotted the hiding spot.
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 88
+has_portrait = true
+original = '''
+\c[10]Prinz Rhedoran\c[0]: Vermaledeit!\. Sind 
+sie damit komplett aufgeflogen?
+'''
+patched = '''
+\c[10]Prince Rhedoran\c[0]: Damn it!\. Were they
+completely exposed?
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 91
+has_portrait = true
+original = '''
+\c[10]Sir Vintal\c[0]: Nein, noch ist nicht 
+jedwede Hoffnung verloren.\. Bisher 
+gibt es nur wenige Zeugen.\. Man frägt 
+um Unterstützung an.
+'''
+patched = '''
+\c[10]Sir Vintal\c[0]: No, not all hope is lost
+yet.\. So far, there are only a few
+witnesses.\. They've asked for support.
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 95
+has_portrait = true
+original = '''
+\c[10]Sir Vintal\c[0]: Der Stützpunkt muss 
+rechtzeitig verschwinden, damit 
+weitere Zeugen ausbleiben.
+'''
+patched = '''
+\c[10]Sir Vintal\c[0]: The fortress must
+disappear in time so that they
+can't gather any more witnesses.
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 98
+has_portrait = true
+original = '''
+\c[10]Sir Vintal\c[0]: Den Verdacht werden wir 
+damit nicht los, aber den Beweis 
+wird Brigantia so nicht bekommen. 
+Das sollte uns genug Zeit geben.
+'''
+patched = '''
+\c[10]Sir Vintal\c[0]: We won't get rid of the
+suspicions, but Brigantia won't get
+their evidence that way. That
+should give us enough time.
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 106
+has_portrait = true
+original = '''
+\c[10]Prinz Rhedoran\c[0]: Den Stützpunkt 
+verschwinden lassen?
+'''
+patched = '''
+\c[10]Prince Rhedoran\c[0]: Make the fortress
+disappear?
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 110
+has_portrait = true
+original = '''
+\c[10]Patricia des Signums\c[0]: Mit 
+Unterstützung meint Ihr also auch 
+die nötigen Signum-Experten, nehme 
+ich an?
+'''
+patched = '''
+\c[10]Patrician of Signums\c[0]: And by support,\.
+you mean the necessary Signum experts,
+I assume?
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 115
+has_portrait = true
+original = '''
+\c[10]Patricia des Signums\c[0]: Diese 
+Situation kommt sehr unerwartet...
+'''
+patched = '''
+\c[10]Patrician of Signums\c[0]: This situation
+came about very unexpectedly...
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 118
+has_portrait = true
+original = '''
+\c[10]Sir Vintal\c[0]: Diese Situation darf 
+nicht unterschätzt werden,\. Frau 
+Mensesso. 
+'''
+patched = '''
+\c[10]Sir Vintal\c[0]: This situation is not to
+be underestimated,\. Lady Mensesso.
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 121
+has_portrait = true
+original = '''
+\c[10]Sir Vintal\c[0]: Ich bitte Euch, sendet 
+alle fähigen Leute,\. die Euch zur 
+Verfügung stehen. 
+'''
+patched = '''
+\c[10]Sir Vintal\c[0]: I ask you to send all
+capable people who are available
+to you.
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 128
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]: Mir ist die Bedeutung 
+dieser Gefahr durchaus bewusst, Sir 
+Vintal.\. Ich werde tun, was ich kann.
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]: I am well aware of the
+importance of this danger, Sir
+Vintal.\. I will do what I can.
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 137
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]: Eure Hoheit, ich 
+bitte um euer kaiserliches 
+Einverständnis.
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]: Your Highness, I ask
+for your sacred permission.
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 141
+has_portrait = true
+original = '''
+\c[10]Prinz Rhedoran\c[0]: Es sei Euch gegeben. \.
+Tut was möglich ist, um das 
+Geheimnis zu bewahren.
+'''
+patched = '''
+\c[10]Prince Rhedoran\c[0]: It shall be granted
+to you.\. Do whatever is possible to
+keep this secret.
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 150
+has_portrait = true
+original = '''
+\c[10]Frau Mensesso\c[0]: Belias,\. bitte sieh 
+zu, dass sich alle Erzmagier in der 
+großen Halle sammeln.
+'''
+patched = '''
+\c[10]Lady Mensesso\c[0]: Belias,\. please make
+sure that all archmages gather in
+the great hall.
+'''
+
+[[dialogue]]
+event = 19
+page = 1
+command = 154
+has_portrait = true
+original = '''
+\c[10]Belias\c[0]: Zu Befehl, meine Herrin.
+'''
+patched = '''
+\c[10]Belias\c[0]: At your command, my lady.
+'''

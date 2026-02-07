@@ -1,0 +1,160 @@
+[[dialogue]]
+event = 5
+page = 2
+command = 2
+original = '''
+\c[10]Bürgermeister\c[0]: Oh, hallo! Wie geht es 
+Ihnen? Wann wollen Sie denn wieder nach Nomerea 
+zurückkehren?
+'''
+patched = '''
+\c[10]Mayor\c[0]: Oh, hello! How are you? When
+do you want to go back to Nomerea?
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 8
+has_portrait = true
+character = '''Cibon'''
+original = '''
+\c[2]\n[2]:\c[0] Ich denk', wir werden gleich
+abreisen, nicht wahr Kumpel?
+'''
+patched = '''
+\c[2]\n[2]:\c[0] I think we'll leave soon,
+right Kento?
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 11
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ja.\. Ich denke, wir haben hier
+nichts mehr zu tun.
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Yeah.\. I don't think we have
+anything else to do here.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 14
+original = '''
+\c[10]Bürgermeister\c[0]: Okay. Ich wünsch euch dann 
+ne gute Reise!\. Auf Wiedersehen.
+'''
+patched = '''
+\c[10]Mayor\c[0]: Okay. I wish you a good
+journey!\. Goodbye.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 22
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Sicherlich noch heute. 
+Ich suche nur noch meinen Kollegen.
+Wissen Sie vielleicht, 
+wo er sein könnte?
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Definitely still today.
+I'm just looking for my colleague.
+Do you know where he could be?
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 27
+original = '''
+\c[10]Bürgermeister\c[0]: Nein, tut mir Leid. 
+Zurzeit komme ich selten aus dem Haus. Ich muss 
+noch einiges mit dem Bezirksposten klären, 
+was finanzielle Angelegenheiten angeht.. 
+'''
+patched = '''
+\c[10]Mayor\c[0]: Sorry, I don't.
+I rarely come out of the house now. I
+still have a few things to do with the
+district post about financial matters...
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 31
+original = '''
+\c[10]Bürgermeister\c[0]: Das bedeutet viel 
+Schreibarbeit und...
+'''
+patched = '''
+\c[10]Mayor\c[0]: That means a lot
+of paperwork and...
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 35
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ja...\.
+hab' schon verstanden..
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Yes...\.
+I understand...
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 38
+original = '''
+\c[10]Bürgermeister\c[0]: Na ja, wird sicherlich nicht
+schwer ihn hier zu finden.
+'''
+patched = '''
+\c[10]Mayor\c[0]: Well, it won't be difficult
+to find him here.
+'''
+
+[[dialogue]]
+event = 5
+page = 2
+command = 42
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ja.....
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Ok.
+'''
+
+[[dialogue]]
+event = 13
+page = 1
+command = 2
+original = '''
+\c[10]Bürgermeister\c[0]: Tut mir Leid, aber ich bin 
+derzeit sehr beschäftigt... Es gibt wichtige 
+Sachen, die ich noch erledigen muss.
+'''
+patched = '''
+\c[10]Mayor\c[0]: I'm sorry, but I'm very
+busy right now... There are many important
+things I still have to attend to.
+'''

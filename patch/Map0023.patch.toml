@@ -1,0 +1,81 @@
+[[dialogue]]
+event = 6
+page = 2
+command = 2
+original = '''
+\c[10]Junge\c[0]: Ich habe Stubenarrest und das nur,
+weil ich mit nem Freund gekämpft habe...
+'''
+patched = '''
+\c[10]Boy\c[0]: I'm grounded because I fought
+with a friend...
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 6
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Ihr habt gekämpft?
+'''
+patched = '''
+\c[1]\n[1]:\c[0] You fought?
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 8
+original = '''
+\c[10]Junge\c[0]: Ja....\. Mit Holzschwertern!\. 
+Das war klasse!
+'''
+patched = '''
+\c[10]Boy\c[0]: Yep...\. with wooden swords!\.
+That was great!
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 12
+has_portrait = true
+character = '''Kento'''
+original = '''
+\c[1]\n[1]:\c[0] Na ja\., ich bevorzuge da eher 
+Speer und Lanzenwaffen...
+'''
+patched = '''
+\c[1]\n[1]:\c[0] Well,\. I prefer
+spears and lances...
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 15
+original = '''
+\c[10]Junge\c[0]: Ach,\. Lanzen sind was für Verlierer!\.
+Mit denen kann man ja nur dämlich rumpieksen!
+'''
+patched = '''
+\c[10]Boy\c[0]: Oh,\. lances are for losers!\.
+You can only fool around with them!
+'''
+
+[[dialogue]]
+event = 6
+page = 2
+command = 21
+has_portrait = true
+character = '''Kento'''
+original = '''
+(\c[1]\n[1]:\c[0] Tsk...\. So was glaubt auch nur 
+der Laie...)
+'''
+patched = '''
+(\c[1]\n[1]:\c[0] Tsk...\. Something even
+ordinary people believe...)
+'''
