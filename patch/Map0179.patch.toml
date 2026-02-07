@@ -173,6 +173,7 @@ patched = '''
 Why so many...
 '''
 
+# Too late being too late to stop the upcoming war, as that's why they sent Mr. Uroto for diplomacy.
 [[dialogue]]
 event = 25
 page = 4
@@ -260,6 +261,8 @@ patched = '''
 but I wouldn't have expected
 anything less of you.\.\^
 '''
+
+# The version of "Schock" in the first demo is much better. The version in this demo is way too quiet, especially for such a pivotal scene.
 
 [[dialogue]]
 event = 25

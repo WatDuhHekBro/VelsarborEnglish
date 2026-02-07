@@ -116,8 +116,7 @@
 				"(\\c[10]Mr. Uroto\\c[0]: N...\\. No!\\. What in the",
 				"world does this mean?!\\. It can't be...\\.",
 				"Are we already too late to stop it?!)"
-			],
-			"__comment__": "Too late being too late to stop the upcoming war, as that's why they sent Mr. Uroto for diplomacy."
+			]
 		},
 		{
 			"path": [25,4,178,2],
@@ -314,6 +313,5 @@
 				"He makes my life difficult.)"
 			]
 		}
-	],
-	"__comment__": "The version of \"Schock\" in the first demo is much better. The version in this demo is way too quiet, especially for such a pivotal scene."
+	]
 }

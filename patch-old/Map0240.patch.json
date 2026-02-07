@@ -2018,8 +2018,7 @@
 			"lines":
 			[
 				"\\c[2]\\n[2]\\c[0]: Mornin' Soko."
-			],
-			"__comment__": "Character Error"
+			]
 		},
 		{
 			"path": [122,16,52,4],
@@ -2072,8 +2071,7 @@
 				"\\c[2]\\n[2]\\c[0]: Better to ask him again when",
 				"we're at the front of the mine.\\.",
 				"He's usually a bit more awake then."
-			],
-			"__comment__": "Character Error"
+			]
 		},
 		{
 			"path": [122,18,55,2],

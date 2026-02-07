@@ -201,6 +201,7 @@ patched = '''
 medallions here.\. Can we pass now?
 '''
 
+# Pseudo-scrolling
 [[dialogue]]
 event = 88
 page = 1

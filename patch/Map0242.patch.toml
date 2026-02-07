@@ -1246,6 +1246,7 @@ patched = '''
 sounded selfless.
 '''
 
+# The guard on the right of the mine entrance.
 [[dialogue]]
 event = 53
 page = 1
@@ -1259,6 +1260,7 @@ patched = '''
 then you took an arrow to your loyalty.
 '''
 
+# The guard on the left of the mine entrance.
 [[dialogue]]
 event = 60
 page = 1

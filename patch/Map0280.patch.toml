@@ -339,11 +339,13 @@ event = 17
 page = 2
 command = 4
 has_portrait = true
+# Ich bin hier die Chef. Freut mich, nie Geschichte hier in unsere Bruderschaft zu sehe!
 original = '''
 \c[10]Chef\c[0]: Isch bin hie de Schef.\. Freid 
 misch, neie Gesischte hie in unsere 
 Briderschafd zu sehe!
 '''
+# I'm the boss around here. Glad to see another face around to spice up our brotherhood!
 patched = '''
 \c[10]The Boss\c[0]: Ahm th' boauhs' 'roun' heah.\.
 Glaed ter see 'nothah feys 'roun' ter
@@ -355,12 +357,14 @@ event = 17
 page = 2
 command = 7
 has_portrait = true
+# Mir alle sind schon lange hier in Helnovien. Doch mir sehen uns nicht als Gefangner hier, sondern als harde Arbeiter!
 original = '''
 \c[10]Chef\c[0]: Mir alle sind schon lòònge hie 
 in Helnovie.\. Doch mir sehn uns nisch 
 als Gefangne hie, sondern als harde 
 Arweider! 
 '''
+# I've been here in Helnovien for a very long time. And I don't see ourselves as prisoners, but as hard workers instead!
 patched = '''
 \c[10]The Boss\c[0]: Ahvah bin 'er 'n Helnouhvi'n
 ferra verree lauhn' tahm.\. An' ah don'
@@ -373,10 +377,12 @@ event = 17
 page = 2
 command = 11
 has_portrait = true
+# Oh, und mir machen diese Arbeit für unsere Leben gerne!
 original = '''
 \c[10]Chef\c[0]: Ei, un mir mache diese Arweid 
 fir unse Lewwen gern!
 '''
+# Oh, and I've loved this work for all my life!
 patched = '''
 \c[10]The Boss\c[0]: Ouhw, 'nd ah looouv'd th's
 work fer all mah lahf!
@@ -400,11 +406,13 @@ event = 17
 page = 2
 command = 21
 has_portrait = true
+# Ah, ihr seid doch die Brüder, die mich du tatsächlich im Turnier besiegt habt.
 original = '''
 \c[10]Chef\c[0]: Ah, ihr seid doch die 
 Bruschen, die misch do dadsäschlisch 
 inne Durnier besiegt habd.
 '''
+# Oh, you're the brothers who defeated me in the tournament.
 patched = '''
 \c[10]The Boss\c[0]: Ouhw, yer th' brouhthers oou
 Bdefeat'd meh 'n th' tern'men'.
@@ -415,11 +423,13 @@ event = 17
 page = 2
 command = 24
 has_portrait = true
+# Und sogar eine Mädchen hat bei euch mitgekämpft! Komm zu glauben, dass ich mich von dem besiegn lass.
 original = '''
 \c[10]Chef\c[0]: Un soga en Mäde had be eich 
 mitgekämpft!\. Kòòm zu glòòwwen, dass 
 isch misch von dem besiégn lass. 
 '''
+# And a girl even fought alongside you! Hard to believe that I let myself be defeated so easily.
 patched = '''
 \c[10]The Boss\c[0]: 'Nd 'er girl ev'n foout
 'longsahd ya!\. Hahd ter believ th'
@@ -445,12 +455,14 @@ event = 17
 page = 2
 command = 30
 has_portrait = true
+# Ohje, von ner Weile mal eine Belohnung ausgestellt für denjenigen, der mich besiegt. Natürlich nicht offiziell.
 original = '''
 \c[10]Chef\c[0]: Ei jòò,\. vonna Weile hawwisch 
 mòòl ene Belohnung aasgestelld fir 
 denjenigen, der misch besiegt. 
 Natirlisch nisch offisiell. 
 '''
+# Oh yeah, the reward for those who manage to defeat me. Of course, not an official one.
 patched = '''
 \c[10]The Boss\c[0]: Ouhw ya,\. th' rewar' fer
 those oou maenaj ter defeat meh.
@@ -462,12 +474,14 @@ event = 17
 page = 2
 command = 34
 has_portrait = true
+# Ich dachte wurde Mal starke Geschnappt komme, aber gebracht habt damals nicht soviel. Aber egal!
 original = '''
 \c[10]Chef\c[0]: Isch dòòcht dadursch wirde 
 Mòòl starge Gäschna komme, awwer 
 gebròòcht hawwet damals nischt 
 soviel. \.Awwer egal!
 '''
+# I think it's a good find, even if it didn't bring much back then. But never mind that!
 patched = '''
 \c[10]The Boss\c[0]: Ah thin' i'sa good fahnd,
 even if 't di'n brin' much baek
@@ -479,11 +493,13 @@ event = 17
 page = 2
 command = 38
 has_portrait = true
+# Nun habt ihr mich besiegt und ihr bekommt den Presse. Du, hollt ihn euch.
 original = '''
 \c[10]Chef\c[0]: Nun habt ihr misch besiegt un 
 ihr begommt den Pres. Dòò, holld ihn 
 eich.
 '''
+# Now that you've defeated me, it's yours now. The reward's this way.
 patched = '''
 \c[10]The Boss\c[0]: Now th' yerv defeat'd meh,
 i's yers now. The reward's this wehy.
@@ -494,10 +510,12 @@ event = 17
 page = 2
 command = 48
 has_portrait = true
+# Ich hoffe mir sehe uns nochmal im Turnier!
 original = '''
 \c[10]Chef\c[0]: Isch hoffe mir sehe uns nochma 
 im Durnier!
 '''
+# I hope we'll meet again in the tournament!
 patched = '''
 \c[10]The Boss\c[0]: Ah hooup w'll meet agaen 'n
 th' tern'men'!

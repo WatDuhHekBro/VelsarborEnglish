@@ -639,8 +639,7 @@
 			[
 				"\\c[13]\\n[3]\\c[0]: Intoxication?\\. What're you",
 				"talkin' about?"
-			],
-			"__comment__": "Funnily enough, this line shows Soko's portrait but includes Cibon's header by accident."
+			]
 		},
 		{
 			"path": [8,7,21,4],

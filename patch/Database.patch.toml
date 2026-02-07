@@ -523,12 +523,15 @@ patched = '''
 \c[10]Gurim\c[0]: Oh no...
 '''
 
+# Victory
 [[dialogue]]
 event = 93
 command = 547
+# Jetzt ist... Sappe!
 original = '''
 \c[10]Chefv\c[0]: Jetz' is...\. Zappe!
 '''
+# Now I'm... done for!
 patched = '''
 \c[10]The Boss\c[0]: Nah'm...\. dunf'r!
 '''
@@ -1595,6 +1598,7 @@ and then go.
 [[dialogue]]
 event = 94
 command = 345
+# Zügen seems to be a grammatical error judging by the context and MajinSonicLP's reaction in his Let's Play.
 original = '''
 \>
 \>INFO: Die Zeit, die dir in den Kämpfen noch 
@@ -1614,6 +1618,7 @@ original = '''
 \>Ein Zug wird verbraucht, wann immer ein beliebiger 
 \>Kampfteilnehmer angreift.
 '''
+# While "any" isn't emphasized in the original, I still think it's worth emphasizing.
 patched = '''
 \>
 \>A turn is consumed whenever ANY combatant attacks.
@@ -1847,13 +1852,16 @@ patched = '''
 \c[1]\n[1]\c[0]: Um...\. Yeah...
 '''
 
+# Battle Start
 [[dialogue]]
 event = 94
 command = 464
+# Oh, ein naja Geschnappt! Dann ziemlich mal, was ihr so darf habt!
 original = '''
 \c[10]Chef\c[0]: Ei, e neia Geschna!\. Dann zescht mòòl, wòòs 
 ihr so dròòf hòòbt!
 '''
+# Oh, you're doing pretty well! Then try whatever you've got on me, I'm waiting!
 patched = '''
 \c[10]The Boss\c[0]: Ouhw, yer doahn' pre'ah well!\. Then trah
 wha'evah you gah on meh, ahm wait'n!
@@ -3436,6 +3444,7 @@ patched = '''
 [[dialogue]]
 event = 96
 command = 248
+# "Green" here probably refers to being "green behind the ears" or being a rookie. That pun is lost in English.
 original = '''
 \c[10]Robin\c[0]: So grün wie ihr noch seid habt ihr keine 
 Chance gegen uns!\. Versucht es erst gar nicht! 
@@ -3574,37 +3583,46 @@ patched = '''
 ABSOLUTELY UNMATCHED STUPIDITY NUMBER THREE!
 '''
 
+# Earthbending
 [[dialogue]]
 event = 96
 command = 332
+# Jetzt ziemlich ich euch mal, wie das leben in das Grube ist!
 original = '''
 \c[10]Chef\c[0]: Jetz' zesch isch eisch mal, wie dòòs lewwen 
 inna Grub is!
 '''
+# Now it's about time I show you what life's like in the pit!
 patched = '''
 \c[10]The Boss\c[0]: Nah is' 'bout tahm ah show ya wha'
 lahf's lahk in th' pit!
 '''
 
+# Cyclones
 [[dialogue]]
 event = 96
 command = 346
+# So langsam bin ich <???>! Jetzt kriegt ihr Fängt!
 original = '''
 \c[10]Chef\c[0]: So lòòngsòòm bin isch grimmelwiedisch!\.
 Jetz' kriehd ihr Fäng!
 '''
+# I'm slowly having to use more of my strength! I've got you now!
 patched = '''
 \c[10]The Boss\c[0]: Ahm slowl' havin' ter use moah of mah
 strength!\. Ahv gotch' now!
 '''
 
+# Damaged Halfway + Focus Attack
 [[dialogue]]
 event = 96
 command = 360
+# Ohje, nicht schlecht! Da hölle ich wohl besser mein Stärkedorn!
 original = '''
 \c[10]Chef\c[0]: Ei jòò, nesch schlescht!\. Da holl isch wohl 
 bessa mei Schdärgedrong!
 '''
+# Oh man, not bad! I better use a focus on my attack!
 patched = '''
 \c[10]The Boss\c[0]: Ouhw man, nah' bad!\. I bettah use'r focus
 ahn mah attack!
@@ -3850,6 +3868,7 @@ patched = '''
 preparing this battle for months!
 '''
 
+# The original line had an indent of 17 spaces. Overall, you want to center the text within a box of 50 chars.
 [[dialogue]]
 event = 116
 command = 41
@@ -3860,6 +3879,7 @@ patched = '''
 \>                   What's this?\<
 '''
 
+# Same as the above comment.
 [[dialogue]]
 event = 116
 command = 58
@@ -5006,6 +5026,7 @@ patched = '''
 \c[10]Guard\c[0]: Any new ore?
 '''
 
+# I'm assuming the amount of ore you can mine won't break into the 4 digits.
 [[dialogue]]
 event = 190
 command = 39
@@ -5018,6 +5039,7 @@ patched = '''
 of ore you've mined is \v[1883].
 '''
 
+# Yeah, it's funny to imagine the guard saying "Only 999 ore?!"...
 [[dialogue]]
 event = 190
 command = 47
@@ -5136,6 +5158,7 @@ patched = '''
 \<SYSTEM-GRAFIK-POSITION NICHT ZURÜCKGESETZT!!!!1
 '''
 
+# Appears in the magic lens?
 [[dialogue]]
 event = 211
 command = 317
@@ -5151,6 +5174,7 @@ patched = '''
 \>\c[3](\n[36]\c[3]\n[37]\c[3]\n[38]\c[3]\n[39]\c[3]\n[40]\c[3]\n[41]\c[3]\n[42])
 '''
 
+# Appears when you inspect an item in the trading menu and there's nothing special about it.
 [[dialogue]]
 event = 211
 command = 322

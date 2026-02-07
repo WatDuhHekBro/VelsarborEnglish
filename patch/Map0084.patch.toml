@@ -648,6 +648,7 @@ original = '''
 \c[1]\n[1]\c[0]: Cibon bitte, nicht vor all den 
 Leuten hier.
 '''
+# "Cibon, please, not in front of the children."
 patched = '''
 \c[1]\n[1]\c[0]: Cibon please, not in front
 of all the people here.
@@ -917,6 +918,7 @@ page = 1
 command = 167
 has_portrait = true
 character = '''Cibon'''
+# "lebensmüde"... Yeah, no clue either. :/
 original = '''
 \c[2]\n[2]\c[0]: Was?\. Hältste mich für 
 lebensmüde? 
@@ -1145,6 +1147,7 @@ in nature.\. It's very risky to travel in small
 groups...
 '''
 
+# If I'm not wrong, it's the same exact person, only with a different title.
 [[dialogue]]
 event = 25
 page = 1
@@ -1306,6 +1309,7 @@ at the border, then sell it here in the west...\.
 It's always a good way to make money.
 '''
 
+# Redundant name? - port town of Port Retisa
 [[dialogue]]
 event = 30
 page = 1
@@ -1421,6 +1425,7 @@ patched = '''
 Have a good night.
 '''
 
+# Same reason as above.
 [[dialogue]]
 event = 32
 page = 2

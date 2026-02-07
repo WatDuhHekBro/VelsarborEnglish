@@ -80,6 +80,7 @@ patched = '''
 with Korzojeno.
 '''
 
+# Show choice.
 [[dialogue]]
 event = 35
 page = 2
@@ -540,6 +541,7 @@ patched = '''
 case.
 '''
 
+# Skip to here.
 [[dialogue]]
 event = 35
 page = 2

@@ -81,6 +81,7 @@ original = '''
 blonden General über dem Weg gelaufen?\. Sir Dolaros 
 ist sein Name.\. Was für ein Mann!
 '''
+# The original meaning is probably lost, but I'm going with the spin that this person is messed up in the head.
 patched = '''
 \c[10]Prisoner\c[0]: Did any of you happen to run into this
 strapping blond general before?\. Sir Dolaros is
@@ -472,6 +473,7 @@ prisoners face the same fate here,
 regardless of why.
 '''
 
+# Repeated & out of context line
 [[dialogue]]
 event = 28
 page = 1
@@ -2497,6 +2499,7 @@ patched = '''
 \c[13]\n[3]\c[0]: This is absolute insanity!
 '''
 
+# Pseudo-scrolling
 [[dialogue]]
 event = 45
 page = 1
@@ -3820,6 +3823,7 @@ you don't get any of that!\. You're the
 \s[3]BLACK SHEEP\s[0] of us three!
 '''
 
+# Pseudo-Scrolling
 [[dialogue]]
 event = 45
 page = 6
@@ -3848,6 +3852,7 @@ patched = '''
 \>sheep!\< AND I'M GLAD I AM!
 '''
 
+# Pseudo-Scrolling
 [[dialogue]]
 event = 45
 page = 6
@@ -4128,11 +4133,13 @@ event = 45
 page = 6
 command = 351
 has_portrait = true
+# Ohje, ihr habt mich wirklich überrascht! Starke Brüden seid ihr!
 original = '''
 \c[10]Chef\c[0]: Ei jòò, ihr habt mich 
 wirglisch iwwerrascht!\. Starge 
 Burschen seid ihr! 
 '''
+# Oh wow, you really surprised me there! You're quite the strong brothers.
 patched = '''
 \c[10]The Boss\c[0]: Ouhw wauhw, yer reallah
 sahprahz'd'm ther'!\. Yer quaeht th'
@@ -4144,12 +4151,14 @@ event = 45
 page = 6
 command = 354
 has_portrait = true
+# Besucht mich doch Mal in unsere Siedepunkt immer Grube! Da könnt ihr euch nie dolle Sache hölle!
 original = '''
 \c[10]Chef\c[0]: Besucht misch doch Mal in 
 unsere Stidsepungd inner Grub!\. Dòò 
 könnt ihr eisch ne dolle Sache 
 holle!
 '''
+# Visit me at our base for a reward. You've definitely proven yourselves!
 patched = '''
 \c[10]The Boss\c[0]: Vis't'm a' oou beys ferra
 rewoahd.\. Yer'v def'n'ley proouv'n
@@ -4343,6 +4352,7 @@ patched = '''
 think that people would want to remember your
 weird names.\. So come up with something.
 '''
+# Okay Lachsen. :P
 
 [[dialogue]]
 event = 83
@@ -6094,6 +6104,7 @@ patched = '''
 there...
 '''
 
+# Pseudo-Scrolling Text
 [[dialogue]]
 event = 103
 page = 1
@@ -6412,6 +6423,7 @@ through here!\. Don't go any further or we'll
 call the guards!
 '''
 
+# Should be "Mann an der Theke".
 [[dialogue]]
 event = 108
 page = 1
@@ -6820,6 +6832,7 @@ patched = '''
 GUARDS?!
 '''
 
+# Character error. Also, Felcis is being sarcastic here, which ends up provoking Cibon even more.
 [[dialogue]]
 event = 109
 page = 1
@@ -7081,6 +7094,7 @@ has_portrait = true
 original = '''"Zinkar-Schlächter"/"Repsbrot-Truppe"/"Briganten-Stolz"/"Die Verräter"'''
 patched = '''"The Zinkar Butchers"/"The Sunbread Squad"/"The Brigantine Pride"/"The Traitors"'''
 
+# The route I think most people are going to be choosing, since it's the most normal.
 [[text]]
 event = 83
 page = 2
@@ -7089,6 +7103,7 @@ has_portrait = true
 original = '''"Zinkar-Schlächter"'''
 patched = '''"The Zinkar Butchers"'''
 
+# The route of terrible puns.
 [[text]]
 event = 83
 page = 2
@@ -7096,6 +7111,7 @@ command = 184
 original = '''"Repsbrot-Truppe"'''
 patched = '''"The Sunbread Squad"'''
 
+# The route of irony.
 [[text]]
 event = 83
 page = 2
@@ -7103,6 +7119,7 @@ command = 229
 original = '''"Briganten-Stolz"'''
 patched = '''"The Brigantine Pride"'''
 
+# The route for contrarians?
 [[text]]
 event = 83
 page = 2

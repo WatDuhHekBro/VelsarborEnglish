@@ -150,8 +150,7 @@
 				"\\c[10]Brigantian Soldier\\c[0]: Oh, it's you!\\.",
 				"Thanks for letting the others know.\\.",
 				"Here, this is for you..."
-			],
-			"__comment__": "Item Get: Glücksbringer"
+			]
 		},
 		{
 			"path": [14,1,22,4],

@@ -85,6 +85,7 @@ patched = '''
 \>under the section "Enchantments".
 '''
 
+# Grünschleim / Green Slime
 [[dialogue]]
 event = 188
 page = 3
@@ -98,6 +99,7 @@ A weak slime that likes to sneakily attack with
 fire magic.
 '''
 
+# Wilder Bär / Wild Bear
 [[dialogue]]
 event = 188
 page = 3
@@ -123,6 +125,7 @@ It also blinds its opponents with targeted
 strikes...
 '''
 
+# Fledermaus / Bat
 [[dialogue]]
 event = 188
 page = 3
@@ -136,6 +139,7 @@ A nimble enemy which likes to take HP from its
 opponents using its bloodsucker attack.
 '''
 
+# Saion
 [[dialogue]]
 event = 188
 page = 3
@@ -186,6 +190,7 @@ And be careful: Saion has an exclusive technique
 for this fight!
 '''
 
+# Gurim
 [[dialogue]]
 event = 188
 page = 3
@@ -225,6 +230,7 @@ Gurim should not be underestimated from his
 offensive side either.
 '''
 
+# Jorn
 [[dialogue]]
 event = 188
 page = 3
@@ -277,6 +283,7 @@ Like Saion, he also has a little surprise in
 store.
 '''
 
+# Wolf
 [[dialogue]]
 event = 188
 page = 3
@@ -302,6 +309,7 @@ patched = '''
 Its fang attack can reduce the victim's defense.
 '''
 
+# Harpyie / Harpy
 [[dialogue]]
 event = 188
 page = 3
@@ -341,6 +349,7 @@ For the harpy thunder, the harpy must prepare for
 a round.
 '''
 
+# Steinkrabbe / Stone Crab
 [[dialogue]]
 event = 188
 page = 3
@@ -366,6 +375,7 @@ patched = '''
 But don't underestimate its attack power.
 '''
 
+# Blauschleim / Blue Slime
 [[dialogue]]
 event = 188
 page = 3
@@ -392,6 +402,7 @@ It attacks with elemental water attacks and is
 easy to defeat with magic.
 '''
 
+# Bergfalke / Mountain Falcon
 [[dialogue]]
 event = 188
 page = 3
@@ -415,6 +426,7 @@ patched = '''
 Attacks often with elemental wind attacks.
 '''
 
+# Plotio-Strauch / Plotio Shrub
 [[dialogue]]
 event = 188
 page = 3
@@ -454,6 +466,7 @@ It often attacks with earth magic, which can be
 devastating with its magic strength.
 '''
 
+# Lagunoris
 [[dialogue]]
 event = 188
 page = 3
@@ -492,6 +505,7 @@ With this action, it is preparing a special
 attack that will be carried out by its tentacles.
 '''
 
+# Tentakel / Tentacle
 [[dialogue]]
 event = 188
 page = 3
@@ -531,6 +545,7 @@ This is particularly powerful, so caution is
 advised.
 '''
 
+# Yahenru
 [[dialogue]]
 event = 188
 page = 3
@@ -568,6 +583,7 @@ patched = '''
 Good defense is highly advisable in this fight.
 '''
 
+# Hornkäfer / Horny Beetle
 [[dialogue]]
 event = 188
 page = 3
@@ -618,6 +634,7 @@ As long as this shield has not been broken,
 physical damage is largely blocked.
 '''
 
+# Moskito / Mosquito
 [[dialogue]]
 event = 188
 page = 3
@@ -670,6 +687,7 @@ Spells do NOT have much effect against this
 enemy.
 '''
 
+# Räuber / Thief
 [[dialogue]]
 event = 188
 page = 3
@@ -709,6 +727,7 @@ patched = '''
 overdrive" hits.
 '''
 
+# Guillian
 [[dialogue]]
 event = 188
 page = 3
@@ -770,6 +789,7 @@ However, it is possible to avoid most of his
 attacks.
 '''
 
+# Silvanischer Wolf / Silvan Wolf
 [[dialogue]]
 event = 188
 page = 3
@@ -809,6 +829,7 @@ If it imbues itself with blood, it damages itself
 to hit the enemy particularly hard.
 '''
 
+# Schwarzbär / Black Bear
 [[dialogue]]
 event = 188
 page = 3
@@ -858,6 +879,7 @@ The stronger the bear is hit, the more damage
 this attack gains.
 '''
 
+# Grauschweif-Eule / Gray-Tailed Owl
 [[dialogue]]
 event = 188
 page = 3
@@ -910,6 +932,7 @@ Caution: If the opponent focuses wisdom, its
 spells are particularly devastating.
 '''
 
+# ???? Soldat / ???? Soldier
 [[dialogue]]
 event = 188
 page = 3
@@ -934,6 +957,7 @@ Even if they all look identical, every soldier
 has their own strengths and weaknesses.
 '''
 
+# ???? Soldier Type 1
 [[dialogue]]
 event = 188
 page = 3
@@ -960,6 +984,7 @@ He can also heal his comrades from status effects
 by using healing items.
 '''
 
+# ???? Soldier Type 2
 [[dialogue]]
 event = 188
 page = 3
@@ -998,6 +1023,7 @@ He also throws healing essences and can treat
 conditions with healing items.
 '''
 
+# ???? Soldier Type 3
 [[dialogue]]
 event = 188
 page = 3
@@ -1024,6 +1050,7 @@ Beware of the imbued status effect that he often
 uses!
 '''
 
+# The catch-all case.
 [[dialogue]]
 event = 188
 page = 3

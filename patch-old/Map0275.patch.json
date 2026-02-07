@@ -347,8 +347,7 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: W-\\.W-\\.W-\\.W-\\.\\^"
-			],
-			"__comment__": "Pseudo-scrolling"
+			]
 		},
 		{
 			"path": [58,2,219,1],
@@ -752,8 +751,7 @@
 				"\\c[10]Saion\\c[0]: Already rank \\v[1886], are you?\\. Not",
 				"long until our fated battle arrives!\\.",
 				"Oh yeah!"
-			],
-			"__comment__": "Maximum of 2 digits"
+			]
 		},
 		{
 			"path": [66,1,65,1],

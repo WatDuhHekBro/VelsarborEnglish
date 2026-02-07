@@ -7,8 +7,7 @@
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] They signed the peace treaty."
-			],
-			"__comment__": "Genji"
+			]
 		},
 		{
 			"path": [6,1,57,4],
@@ -19,8 +18,7 @@
 				"an end to this dispute among the",
 				"power-hungry.\\. Let's just hope",
 				"we have enough time..."
-			],
-			"__comment__": "Prophet"
+			]
 		},
 		{
 			"path": [6,1,62,4],
@@ -30,8 +28,7 @@
 				"\\c[10]????\\c[0]:\\s[1] Right now, all of our hope is",
 				"in a child, a fragile figure who's",
 				"still suffering from his misery."
-			],
-			"__comment__": "Prophet"
+			]
 		},
 		{
 			"path": [6,1,67,4],
@@ -41,8 +38,7 @@
 				"\\c[10]????\\c[0]:\\s[1] We can only hope that this time",
 				"of peace and Heimdall's blessings",
 				"will free him from his grief."
-			],
-			"__comment__": "Prophet"
+			]
 		},
 		{
 			"path": [6,1,76,3],
@@ -51,8 +47,7 @@
 			[
 				"\\c[10]????\\c[0]:\\s[1] Why can't we just stay by his",
 				"side and help him out directly?"
-			],
-			"__comment__": "Kumiko"
+			]
 		},
 		{
 			"path": [6,1,85,2],
@@ -60,8 +55,7 @@
 			"lines":
 			[
 				"\\c[10]????\\c[0]:\\s[1] We cannot control fate."
-			],
-			"__comment__": "Prophet"
+			]
 		},
 		{
 			"path": [6,1,89,4],
@@ -71,8 +65,7 @@
 				"\\c[10]????\\c[0]:\\s[1] Try to control it and it",
 				"swallows you,\\. makes you its own,\\.",
 				"and finally takes control of you."
-			],
-			"__comment__": "Prophet"
+			]
 		},
 		{
 			"path": [6,1,93,4],
@@ -83,8 +76,7 @@
 				"Only under his leadership can we",
 				"prevent the gloomy fate that",
 				"awaits this world."
-			],
-			"__comment__": "Prophet"
+			]
 		},
 		{
 			"path": [6,1,104,2],
@@ -93,8 +85,7 @@
 			[
 				"\\c[10]????\\c[0]:\\s[1] Then what should we do?\\.",
 				"Watch and wait?"
-			],
-			"__comment__": "Genji"
+			]
 		},
 		{
 			"path": [6,1,110,2],
@@ -103,8 +94,7 @@
 			[
 				"\\c[10]????\\c[0]:\\s[1] Watch and wait.\\.",
 				"Wait for the moment to come..."
-			],
-			"__comment__": "Prophet"
+			]
 		},
 		{
 			"path": [6,1,124,3],
@@ -114,8 +104,7 @@
 				"\\c[10]????\\c[0]:\\s[1] The moment when the",
 				"twin souls reunite and give the",
 				"world their liberator."
-			],
-			"__comment__": "Prophet"
+			]
 		}
 	]
 }

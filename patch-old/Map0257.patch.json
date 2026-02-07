@@ -52,8 +52,7 @@
 			[
 				"\\c[10]Guard\\c[0]: You used to be a soldier like me,\\.",
 				"then you took an arrow to your loyalty."
-			],
-			"__comment__": "This message only appears when you talk to the guard that gives out equipment after work."
+			]
 		},
 		{
 			"path": [22,2,14,2],
@@ -350,8 +349,7 @@
 			[
 				"\\c[10]Guard\\c[0]: If you can't carry any more ore, go to the",
 				"stop at the railways and drop off the ore."
-			],
-			"__comment__": "99 is the limit."
+			]
 		},
 		{
 			"path": [23,1,42,4],

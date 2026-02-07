@@ -58,8 +58,7 @@
 				"\\c[10]Prisoner\\c[0]: Did any of you happen to run into this",
 				"strapping blond general before?\\. Sir Dolaros is",
 				"his name.\\. What a man!"
-			],
-			"__comment__": "The original meaning is probably lost, but I'm going with the spin that this person is messed up in the head."
+			]
 		},
 		{
 			"path": [12,1,5,3],
@@ -320,8 +319,7 @@
 			[
 				"\\c[10]Prisoner\\c[0]: There has to be a way out of here...\\.",
 				"I can't live the rest of my life like this..."
-			],
-			"__comment__": "Repeated & out of context line"
+			]
 		},
 		{
 			"path": [34,1,2,3],
@@ -1648,8 +1646,7 @@
 			"lines":
 			[
 				"\\c[5]\\n[5]\\c[0]: Well yes,\\^"
-			],
-			"__comment__": "Pseudo-scrolling"
+			]
 		},
 		{
 			"path": [45,1,771,1],
@@ -2511,8 +2508,7 @@
 			[
 				"\\c[10]Jorn\\c[0]: You're right!\\. I AM the black",
 				"sheep!\\.\\^"
-			],
-			"__comment__": "Pseudo-Scrolling"
+			]
 		},
 		{
 			"path": [45,6,119,2],
@@ -2531,8 +2527,7 @@
 			"lines":
 			[
 				"\\c[10]Jorn\\c[0]: \\s[2]Otherwise I'd have this\\^"
-			],
-			"__comment__": "Pseudo-Scrolling"
+			]
 		},
 		{
 			"path": [45,6,123,3],
@@ -2716,8 +2711,6 @@
 			"path": [45,6,351,3],
 			"indent": 2,
 			"original": "Chef: Ei jòò, ihr habt mich wirglisch iwwerrascht! Starge Burschen seid ihr!",
-			"__comment__": "Ohje, ihr habt mich wirklich überrascht! Starke Brüden seid ihr!",
-			"__guesstimate__": "Oh wow, you really surprised me there! You're quite the strong brothers.",
 			"lines":
 			[
 				"\\c[10]The Boss\\c[0]: Ouhw wauhw, yer reallah",
@@ -2729,8 +2722,6 @@
 			"path": [45,6,354,4],
 			"indent": 2,
 			"original": "Chef: Besucht misch doch Mal in unsere Stidsepungd inner Grub! Dòò könnt ihr eisch ne dolle Sache holle!",
-			"__comment__": "Besucht mich doch Mal in unsere Siedepunkt immer Grube! Da könnt ihr euch nie dolle Sache hölle!",
-			"__guesstimate__": "Visit me at our base for a reward. You've definitely proven yourselves!",
 			"lines":
 			[
 				"\\c[10]The Boss\\c[0]: Vis't'm a' oou beys ferra",
@@ -2861,8 +2852,7 @@
 				"\\c[10]Guard\\c[0]: It's pretty common around here.\\. Don't even",
 				"think that people would want to remember your",
 				"weird names.\\. So come up with something."
-			],
-			"__comment__": "Okay Lachsen. :P"
+			]
 		},
 		{
 			"path": [83,2,31,3],
@@ -4011,8 +4001,7 @@
 				"great to have someone you can share",
 				"your feelings about,\\. really!\\.\\s[2] Do you",
 				"know what happened to me here\\^"
-			],
-			"__comment__": "Pseudo-Scrolling Text"
+			]
 		},
 		{
 			"path": [103,1,114,4],
@@ -4221,8 +4210,7 @@
 				"\\c[10]Man at the Counter\\c[0]: No prisoners are allowed",
 				"through here!\\. Don't go any further or we'll",
 				"call the guards!"
-			],
-			"__comment__": "Should be \"Mann an der Theke\"."
+			]
 		},
 		{
 			"path": [109,1,3,1],
@@ -4488,8 +4476,7 @@
 			"lines":
 			[
 				"\\c[5]\\n[5]\\c[0]: Seems like it.\\. Oops."
-			],
-			"__comment__": "Character error. Also, Felcis is being sarcastic here, which ends up provoking Cibon even more."
+			]
 		},
 		{
 			"path": [109,1,221,1],
@@ -4666,26 +4653,22 @@
 		{
 			"path": [83,2,159],
 			"original": "\"Zinkar-Schlächter\"",
-			"patch": "\"The Zinkar Butchers\"",
-			"__comment__": "The route I think most people are going to be choosing, since it's the most normal."
+			"patch": "\"The Zinkar Butchers\""
 		},
 		{
 			"path": [83,2,184],
 			"original": "\"Repsbrot-Truppe\"",
-			"patch": "\"The Sunbread Squad\"",
-			"__comment__": "The route of terrible puns."
+			"patch": "\"The Sunbread Squad\""
 		},
 		{
 			"path": [83,2,229],
 			"original": "\"Briganten-Stolz\"",
-			"patch": "\"The Brigantine Pride\"",
-			"__comment__": "The route of irony."
+			"patch": "\"The Brigantine Pride\""
 		},
 		{
 			"path": [83,2,287],
 			"original": "\"Die Verräter\"",
-			"patch": "\"The Traitors\"",
-			"__comment__": "The route for contrarians?"
+			"patch": "\"The Traitors\""
 		},
 		{
 			"path": [83,3,16],

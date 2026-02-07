@@ -1068,6 +1068,7 @@ character = '''Cibon'''
 original = '''
 \c[2]\n[2]\c[0]: Rausch?\. Wovon redeste?
 '''
+# Funnily enough, this line shows Soko's portrait but includes Cibon's header by accident.
 patched = '''
 \c[13]\n[3]\c[0]: Intoxication?\. What're you
 talkin' about?

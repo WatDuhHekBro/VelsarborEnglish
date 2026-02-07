@@ -631,6 +631,7 @@ page = 2
 command = 234
 has_portrait = true
 character = '''Kento'''
+# Siezen and Duzen means speaking formally/informally, which comes from Sie and Du respectively.
 original = '''
 \c[1]\n[1]\c[0]: Ist Ihnen aufgefallen, dass 
 man beim Siezen in der Regel mehr 

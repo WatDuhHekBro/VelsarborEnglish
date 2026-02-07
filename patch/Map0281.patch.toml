@@ -202,6 +202,7 @@ page = 2
 command = 90
 has_portrait = true
 character = '''Felcis'''
+# Unfortunately, this just doesn't translate well because of the size limit of item names.
 original = '''
 \c[5]\n[5]\c[0]: Nun, es ist grau,\. funkelt\. 
 und sieht abgesehen davon aus wie 

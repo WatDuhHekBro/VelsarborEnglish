@@ -1173,6 +1173,8 @@ patched = '''
 any questions about Signum magic?
 '''
 
+# How do I learn Signum magic?
+
 [[dialogue]]
 event = 7
 page = 1
@@ -1297,6 +1299,8 @@ the same type into a weapon or into
 an armband, the respective element
 level will of course rise faster.
 '''
+
+# What should I watch out for?
 
 [[dialogue]]
 event = 7
@@ -1423,6 +1427,8 @@ level no longer increases if it's
 as high as the character level.
 '''
 
+# Any side effects?
+
 [[dialogue]]
 event = 7
 page = 1
@@ -1535,6 +1541,8 @@ techniques such as water elemental
 attacks.
 '''
 
+# Other Questions
+
 [[dialogue]]
 event = 7
 page = 1
@@ -1548,6 +1556,8 @@ patched = '''
 \c[6]\n[6]\c[0]: Do you have any other
 questions?
 '''
+
+# Any tips?
 
 [[dialogue]]
 event = 7
@@ -1642,6 +1652,8 @@ It's advisable if you can level up
 well.
 '''
 
+# What are magic points (MP)?
+
 [[dialogue]]
 event = 7
 page = 1
@@ -1697,6 +1709,8 @@ your magic points heals if you have
 some SP left at the end of a battle.
 '''
 
+# Other Questions
+
 [[dialogue]]
 event = 7
 page = 1
@@ -1710,6 +1724,8 @@ patched = '''
 \c[6]\n[6]\c[0]: Do you have any other
 questions?
 '''
+
+# Exit
 
 [[dialogue]]
 event = 7

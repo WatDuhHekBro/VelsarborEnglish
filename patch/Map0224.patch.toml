@@ -1016,6 +1016,7 @@ Ihre Kruste hart wie Stahl und scharf wie feinste
 Schmiedkunst.\. Einen Gegner nach dem anderen sind 
 sie schon im Halse stecken geblieben!
 '''
+# Can conveniently be interpreted as "loves" or "loathes", even though "loathes" is what I intended.
 patched = '''
 \c[10]Announcer\c[0]: The bread that everyone loaves!\. Their
 crust as hard as steel and as sharp as the finest
@@ -1097,6 +1098,7 @@ original = '''
 BRIGANTEN-ORDEN ZU UNSEREN TEILNEHMERN ZÄHLEN!\. 
 Wäre das nicht großartig?
 '''
+# "We could attribute the honor of every Brigantian soldier to be exactly like these three!"
 patched = '''
 \c[10]Announcer\c[0]: Oh yeah...\. IF WE WERE TO PICK ANY
 SOLDIER FROM THE BRIGANTINE ORDER, THE

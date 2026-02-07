@@ -438,13 +438,10 @@
 			"path": [93,547,1],
 			"indent": 2,
 			"original": "Chefv: Jetz' is... Zappe!",
-			"__comment__": "Jetzt ist... Sappe!",
-			"__guesstimate__": "Now I'm... done for!",
 			"lines":
 			[
 				"\\c[10]The Boss\\c[0]: Nah'm...\\. dunf'r!"
-			],
-			"__comment2__": "Victory"
+			]
 		},
 		{
 			"path": [94,6,3],
@@ -1302,8 +1299,7 @@
 				"\\>",
 				"\\>INFO: The time you have left in these",
 				"\\>battles is shown in \\c[11]turns\\c[0]."
-			],
-			"__comment__": "Zügen seems to be a grammatical error judging by the context and MajinSonicLP's reaction in his Let's Play."
+			]
 		},
 		{
 			"path": [94,348,3],
@@ -1313,8 +1309,7 @@
 			[
 				"\\>",
 				"\\>A turn is consumed whenever ANY combatant attacks."
-			],
-			"__comment__": "While \"any\" isn't emphasized in the original, I still think it's worth emphasizing."
+			]
 		},
 		{
 			"path": [94,351,3],
@@ -1506,14 +1501,11 @@
 			"path": [94,464,2],
 			"indent": 1,
 			"original": "Chef: Ei, e neia Geschna! Dann zescht mòòl, wòòs ihr so dròòf hòòbt!",
-			"__comment__": "Oh, ein naja Geschnappt! Dann ziemlich mal, was ihr so darf habt!",
-			"__guesstimate__": "Oh, you're doing pretty well! Then try whatever you've got on me, I'm waiting!",
 			"lines":
 			[
 				"\\c[10]The Boss\\c[0]: Ouhw, yer doahn' pre'ah well!\\. Then trah",
 				"wha'evah you gah on meh, ahm wait'n!"
-			],
-			"__comment2__": " Battle Start"
+			]
 		},
 		{
 			"path": [94,469,1],
@@ -2805,8 +2797,7 @@
 			[
 				"\\c[10]Robin\\c[0]: You're still a bunch of rookies, you won't",
 				"stand any chance against us!\\. Don't even try it!"
-			],
-			"__comment__": "\"Green\" here probably refers to being \"green behind the ears\" or being a rookie. That pun is lost in English."
+			]
 		},
 		{
 			"path": [96,254,2],
@@ -2920,40 +2911,31 @@
 			"path": [96,332,2],
 			"indent": 3,
 			"original": "Chef: Jetz' zesch isch eisch mal, wie dòòs lewwen inna Grub is!",
-			"__comment__": "Jetzt ziemlich ich euch mal, wie das leben in das Grube ist!",
-			"__guesstimate__": "Now it's about time I show you what life's like in the pit!",
 			"lines":
 			[
 				"\\c[10]The Boss\\c[0]: Nah is' 'bout tahm ah show ya wha'",
 				"lahf's lahk in th' pit!"
-			],
-			"__comment2__": "Earthbending"
+			]
 		},
 		{
 			"path": [96,346,2],
 			"indent": 3,
 			"original": "Chef: So lòòngsòòm bin isch grimmelwiedisch! Jetz' kriehd ihr Fäng!",
-			"__comment__": "So langsam bin ich <???>! Jetzt kriegt ihr Fängt!",
-			"__guesstimate__": "I'm slowly having to use more of my strength! I've got you now!",
 			"lines":
 			[
 				"\\c[10]The Boss\\c[0]: Ahm slowl' havin' ter use moah of mah",
 				"strength!\\. Ahv gotch' now!"
-			],
-			"__comment2__": "Cyclones"
+			]
 		},
 		{
 			"path": [96,360,2],
 			"indent": 3,
 			"original": "Chef: Ei jòò, nesch schlescht! Da holl isch wohl bessa mei Schdärgedrong!",
-			"__comment__": "Ohje, nicht schlecht! Da hölle ich wohl besser mein Stärkedorn!",
-			"__guesstimate__": "Oh man, not bad! I better use a focus on my attack!",
 			"lines":
 			[
 				"\\c[10]The Boss\\c[0]: Ouhw man, nah' bad!\\. I bettah use'r focus",
 				"ahn mah attack!"
-			],
-			"__comment2__": "Damaged Halfway + Focus Attack"
+			]
 		},
 		{
 			"path": [97,8,2],
@@ -3152,8 +3134,7 @@
 			"lines":
 			[
 				"\\>                   What's this?\\<"
-			],
-			"__comment__": "The original line had an indent of 17 spaces. Overall, you want to center the text within a box of 50 chars."
+			]
 		},
 		{
 			"path": [116,58,1],
@@ -3162,8 +3143,7 @@
 			"lines":
 			[
 				"\\>               Didn't find anything.\\<"
-			],
-			"__comment__": "Same as the above comment."
+			]
 		},
 		{
 			"path": [118,42,1],
@@ -3998,8 +3978,7 @@
 			[
 				"\\c[10]Guard\\c[0]: That's \\v[1] new ore, so the total amount",
 				"of ore you've mined is \\v[1883]."
-			],
-			"__comment__": "I'm assuming the amount of ore you can mine won't break into the 4 digits."
+			]
 		},
 		{
 			"path": [190,47,4],
@@ -4011,8 +3990,7 @@
 				"Get back to work immediately!\\. Don't think you're",
 				"getting anything in your stomach today with such",
 				"horrendous performance!"
-			],
-			"__comment__": "Yeah, it's funny to imagine the guard saying \"Only 999 ore?!\"..."
+			]
 		},
 		{
 			"path": [190,54,2],
@@ -4110,8 +4088,7 @@
 				"\\>\\c[\\v[81]]\\n[30]\\v[95]  \\c[\\v[82]]\\n[31]\\v[102]  \\c[\\v[83]]\\n[32]\\v[109]  \\c[\\v[84]]\\n[33]\\v[116]",
 				"\\>\\c[0]\\n[34]\\n[35]",
 				"\\>\\c[3](\\n[36]\\c[3]\\n[37]\\c[3]\\n[38]\\c[3]\\n[39]\\c[3]\\n[40]\\c[3]\\n[41]\\c[3]\\n[42])"
-			],
-			"__comment__": "Appears in the magic lens?"
+			]
 		},
 		{
 			"path": [211,322,2],
@@ -4121,8 +4098,7 @@
 			[
 				"",
 				"\\>            - No further information -"
-			],
-			"__comment__": "Appears when you inspect an item in the trading menu and there's nothing special about it."
+			]
 		}
 	],
 	"other":

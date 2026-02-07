@@ -10,8 +10,7 @@
 				"someone else.\\. That's him over there!\\.",
 				"Do you really think I'd ever forget",
 				"that face?"
-			],
-			"__comment__": "Genji"
+			]
 		},
 		{
 			"path": [6,1,17,2],
@@ -21,8 +20,7 @@
 				"\\c[10]?????\\c[0]: It's the exact same general who",
 				"took everything away from us back",
 				"then."
-			],
-			"__comment__": "Genji"
+			]
 		},
 		{
 			"path": [6,1,25,1],
@@ -30,8 +28,7 @@
 			"lines":
 			[
 				"\\c[10]?????\\c[0]: N-\\.No...\\. Not like this..."
-			],
-			"__comment__": "Kumiko"
+			]
 		},
 		{
 			"path": [6,1,31,3],
@@ -41,8 +38,7 @@
 				"\\c[10]?????\\c[0]: Genji...\\. None of us have",
 				"forgotten this person, nor will",
 				"we ever forget what he did to us."
-			],
-			"__comment__": "Prophet"
+			]
 		},
 		{
 			"path": [6,1,34,4],
@@ -53,8 +49,7 @@
 				"let ourselves be guided by thoughts of",
 				"revenge, understand?\\. We have a",
 				"mission..."
-			],
-			"__comment__": "Prophet"
+			]
 		},
 		{
 			"path": [6,1,41,3],
@@ -103,8 +98,7 @@
 				"\\c[10]?????\\c[0]: He warned me.\\. Nevertheless, it",
 				"isn't a situation we should intervene",
 				"in prematurely."
-			],
-			"__comment__": "Prophet"
+			]
 		},
 		{
 			"path": [6,1,68,4],
@@ -143,8 +137,7 @@
 			[
 				"\\c[10]?????\\c[0]: You're right.\\. I probably did",
 				"underestimate this fact..."
-			],
-			"__comment__": "Prophet"
+			]
 		},
 		{
 			"path": [6,1,99,4],
@@ -154,8 +147,7 @@
 				"\\c[10]?????\\c[0]: Kumiko?\\. Please survey the area",
 				"and get familiar with it.\\. We may need",
 				"your skills after all."
-			],
-			"__comment__": "Prophet"
+			]
 		},
 		{
 			"path": [6,1,104,1],

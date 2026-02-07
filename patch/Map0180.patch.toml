@@ -3,6 +3,7 @@ event = 8
 page = 1
 command = 11
 has_portrait = true
+# Prophet
 original = '''
 \c[10]?????\c[0]: Es sieht so aus, als haben 
 die Zwillingsseelen schließlich 
@@ -18,6 +19,7 @@ event = 8
 page = 1
 command = 15
 has_portrait = true
+# Prophet
 original = '''
 \c[10]?????\c[0]: Nun ist es nur noch eine 
 Frage der Zeit, bis er im Zenit des 
@@ -36,6 +38,7 @@ event = 8
 page = 1
 command = 23
 has_portrait = true
+# Genji
 original = '''
 \c[10]?????\c[0]: Ein unbeherrschtes Bündel 
 aus Wut wie dieses soll unsere Welt 
@@ -52,6 +55,7 @@ event = 8
 page = 1
 command = 31
 has_portrait = true
+# Prophet
 original = '''
 \c[10]?????\c[0]: Vergiss bitte nicht, dass es 
 diese Wut ist, die ihn bis heute 
@@ -68,6 +72,7 @@ event = 8
 page = 1
 command = 34
 has_portrait = true
+# Prophet
 original = '''
 \c[10]?????\c[0]: Jetzt wo er mit seinem 
 Problem konfrontiert wird, ist es an 
@@ -85,6 +90,7 @@ event = 8
 page = 1
 command = 43
 has_portrait = true
+# Prophet
 original = '''
 \c[10]?????\c[0]: Möge der Segen Heimdalls bei 
 ihm sein.
@@ -99,6 +105,7 @@ event = 8
 page = 1
 command = 49
 has_portrait = true
+# Kumiko
 original = '''
 \c[10]?????\c[0]: Hoffentlich zerbricht er 
 nicht an der ganzen Sache... 
@@ -113,6 +120,7 @@ event = 8
 page = 1
 command = 59
 has_portrait = true
+# Kumiko
 original = '''
 \c[10]?????\c[0]: Halte durch...\. Kento...
 '''

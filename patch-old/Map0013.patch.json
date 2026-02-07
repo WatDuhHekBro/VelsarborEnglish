@@ -9,8 +9,7 @@
 				"\\c[2]\\n[2]:\\c[0] Nun...\\. ich geh dann mal",
 				"wieder hoch und seh mir weiterhin",
 				"die leere Landschaft an..."
-			],
-			"__comment__": "Deprecated beginning it seems."
+			]
 		},
 		{
 			"path": [104,1,6,1],
@@ -128,8 +127,7 @@
 			[
 				"\\c[2]????:\\c[0] Hey Kento,\\. you sleepyhead!\\.",
 				"Rise and shine!"
-			],
-			"__comment__": "The actual beginning."
+			]
 		},
 		{
 			"path": [104,2,62,2],
@@ -483,7 +481,6 @@
 		{
 			"path": [104,2,367,3],
 			"original": "Cibon: Ich krieg die Krise! Dieser Gasthof is' echt das Letzte... Allein schon wegen dem Bier!",
-			"__comment__": "Cibon: Les nerfs! Cette taverne est vraiment une honte... Par la bière, entre autres!",
 			"lines":
 			[
 				"\\c[2]Cibon:\\c[0] What a disgrace!\\. This is",
@@ -661,8 +658,7 @@
 				"\\c[10]Jorn:\\c[0] Thanks to you, we'll soon only",
 				"be known as the \"captive Zinkar",
 				"Brothers\", you IDIOT!"
-			],
-			"__comment__": "**Note** It seems that there was a pun here, gefürchteten (dreaded) and gefangenen (captured), but I give up trying to make a similar pun."
+			]
 		},
 		{
 			"path": [104,2,476,3],

@@ -107,8 +107,7 @@
 			[
 				"\\c[10]Guard\\c[0]: Hm...\\. This prisoner is still here,\\.",
 				"but what happened to the other three?"
-			],
-			"__comment__": "Revised to be way less confusing, since the original line coupled with what's on screen makes it look like they're trying to get Mr. Uroto's attention which would defeat the whole purpose of avoiding making it look staged."
+			]
 		},
 		{
 			"path": [17,4,44,3],
@@ -118,8 +117,7 @@
 				"\\c[10]Right Guard\\c[0]: Tell me...\\. What have they done with",
 				"the others?\\. I can't seem to find them in their",
 				"cells."
-			],
-			"__comment__": "The guard on the left (the one at the table) is the one who supposedly knows about what's going on, updating the guard on the right who's confused about the situation."
+			]
 		},
 		{
 			"path": [17,4,47,3],

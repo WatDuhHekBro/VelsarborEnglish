@@ -153,6 +153,7 @@ my cell,\. I could hear some of the
 guards' conversations...
 '''
 
+# Revised to be way less confusing, since the original line coupled with what's on screen makes it look like they're trying to get Mr. Uroto's attention which would defeat the whole purpose of avoiding making it look staged.
 [[dialogue]]
 event = 17
 page = 4
@@ -165,6 +166,7 @@ patched = '''
 but what happened to the other three?
 '''
 
+# The guard on the left (the one at the table) is the one who supposedly knows about what's going on, updating the guard on the right who's confused about the situation.
 [[dialogue]]
 event = 17
 page = 4

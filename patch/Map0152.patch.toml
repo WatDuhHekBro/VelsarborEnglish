@@ -92,6 +92,7 @@ command = 41
 original = '''
 \c[10]Mann\c[0]: Und das hier noch extra für all eure Mühen.
 '''
+# And here's for your troubles.
 patched = '''
 \c[10]Man\c[0]: And here, especially for all your efforts.
 '''

@@ -58,8 +58,7 @@
 				"Mr. Tirunel,\\. I hope you're already",
 				"familiar with the use of Signum",
 				"techniques."
-			],
-			"__comment__": "Show choice."
+			]
 		},
 		{
 			"path": [35,2,49,4],
@@ -349,8 +348,7 @@
 			"lines":
 			[
 				"\\c[13]\\n[3]\\c[0]: Alright."
-			],
-			"__comment__": "Skip to here."
+			]
 		},
 		{
 			"path": [35,2,154,3],

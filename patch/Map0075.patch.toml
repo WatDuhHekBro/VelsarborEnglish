@@ -1,3 +1,5 @@
+# This section is a repeat of Map0061.
+
 [[dialogue]]
 event = 93
 page = 1
@@ -147,6 +149,8 @@ patched = '''
 monotonous training sessions. You'd go
 crazy just by watching them.
 '''
+
+# End of section.
 
 [[dialogue]]
 event = 101

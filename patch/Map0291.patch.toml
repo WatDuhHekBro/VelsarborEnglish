@@ -3,6 +3,7 @@ event = 6
 page = 1
 command = 13
 has_portrait = true
+# Genji
 original = '''
 \c[10]?????\c[0]: Nein, ich hab mich nicht 
 verschaut.\. Er ist es.\. Glaubst du 
@@ -21,6 +22,7 @@ event = 6
 page = 1
 command = 17
 has_portrait = true
+# Genji
 original = '''
 \c[10]?????\c[0]: Es ist der selbe General, der 
 uns damals alles genommen hat.
@@ -36,6 +38,7 @@ event = 6
 page = 1
 command = 25
 has_portrait = true
+# Kumiko
 original = '''
 \c[10]?????\c[0]: N-\.Nein...\. Bitte nicht hier...
 '''
@@ -48,6 +51,7 @@ event = 6
 page = 1
 command = 31
 has_portrait = true
+# Prophet
 original = '''
 \c[10]?????\c[0]: Genji...\. Niemand von uns hat 
 diese Person vergessen, noch werden 
@@ -64,6 +68,7 @@ event = 6
 page = 1
 command = 34
 has_portrait = true
+# Prophet
 original = '''
 \c[10]?????\c[0]: Wir dürfen uns aber in dieser 
 Situation nicht von Rachegedanken 
@@ -147,6 +152,7 @@ event = 6
 page = 1
 command = 61
 has_portrait = true
+# Prophet
 original = '''
 \c[10]?????\c[0]: ...er hat mich gewarnt.  \.
 Dennoch, ist es keine Situation in 
@@ -214,6 +220,7 @@ event = 6
 page = 1
 command = 91
 has_portrait = true
+# Prophet
 original = '''
 \c[10]?????\c[0]: Du hast recht.\. Ich habe diese 
 Tatsache wohl unterschätzt...
@@ -228,6 +235,7 @@ event = 6
 page = 1
 command = 99
 has_portrait = true
+# Prophet
 original = '''
 \c[10]?????\c[0]: Kumiko?\. Macht dich bitte mit 
 der Gegend vertraut.\. Wir werden 

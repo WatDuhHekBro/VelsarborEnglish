@@ -1,3 +1,5 @@
+# Deprecated beginning it seems.
+
 [[dialogue]]
 event = 104
 page = 1
@@ -179,6 +181,8 @@ original = '''
 patched = '''
 \s[8]Er war alles andere als ein Held.\|\^
 '''
+
+# The actual beginning.
 
 [[dialogue]]
 event = 104
@@ -781,6 +785,7 @@ original = '''
 Gasthof is' echt das Letzte...\.
 Allein schon wegen dem Bier!
 '''
+# Cibon: Les nerfs! Cette taverne est vraiment une honte... Par la bière, entre autres!
 patched = '''
 \c[2]Cibon:\c[0] What a disgrace!\. This is
 definitely the worst inn I've been
@@ -1051,6 +1056,7 @@ event = 104
 page = 2
 command = 470
 has_portrait = true
+# **Note** It seems that there was a pun here, gefürchteten (dreaded) and gefangenen (captured), but I give up trying to make a similar pun.
 original = '''
 \c[10]Jorn:\c[0] ...Dank dir bald nur noch
 die "gefangenen Zinkar-Brüder", du

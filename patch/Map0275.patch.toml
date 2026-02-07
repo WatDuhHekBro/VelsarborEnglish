@@ -545,6 +545,7 @@ keep the stone AND your pretty friend here will
 \s[3]"visit us"\s[0] in the evening after work.
 '''
 
+# Pseudo-scrolling
 [[dialogue]]
 event = 58
 page = 2
@@ -1186,6 +1187,7 @@ patched = '''
 \c[10]Saion\c[0]: Shut up, Jorn!
 '''
 
+# Maximum of 2 digits
 [[dialogue]]
 event = 66
 page = 1

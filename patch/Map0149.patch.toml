@@ -1764,6 +1764,7 @@ Sohnemann im Kittchen.\. Hoffentlich
 sei der Vater damit vorerst 
 zufrieden gestellt.)
 '''
+# And just like that, the son is <captured/in our hands> once more.
 patched = '''
 (\c[5]\n[5]\c[0]: And just like that, the son
 is captured once more.\. Hopefully,

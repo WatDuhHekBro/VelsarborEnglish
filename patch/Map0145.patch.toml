@@ -3,6 +3,7 @@ event = 6
 page = 1
 command = 49
 has_portrait = true
+# Genji
 original = '''
 \c[10]????\c[0]:\s[1] Sie haben den Friedensvertrag 
 unterzeichnet.
@@ -16,6 +17,7 @@ event = 6
 page = 1
 command = 57
 has_portrait = true
+# Prophet
 original = '''
 \c[10]????\c[0]:\s[1] Gut, \.damit sollte sich dieser 
 Streit unter den Machthungrigen 
@@ -34,6 +36,7 @@ event = 6
 page = 1
 command = 62
 has_portrait = true
+# Prophet
 original = '''
 \c[10]????\c[0]:\s[1] Momentan liegt all unsere 
 Hoffnung in einem Kind, einer 
@@ -51,6 +54,7 @@ event = 6
 page = 1
 command = 67
 has_portrait = true
+# Prophet
 original = '''
 \c[10]????\c[0]:\s[1] Wir können nur Hoffen, dass 
 die Zeiten des Friedens und der 
@@ -68,6 +72,7 @@ event = 6
 page = 1
 command = 76
 has_portrait = true
+# Kumiko
 original = '''
 \c[10]????\c[0]:\s[1] Wieso können wir ihn nicht 
 zur Seite stehen,\. uns direkt um ihn 
@@ -83,6 +88,7 @@ event = 6
 page = 1
 command = 85
 has_portrait = true
+# Prophet
 original = '''
 \c[10]????\c[0]:\s[1] Wir können das Schicksal 
 nicht lenken.
@@ -96,6 +102,7 @@ event = 6
 page = 1
 command = 89
 has_portrait = true
+# Prophet
 original = '''
 \c[10]????\c[0]:\s[1] Versuch es zu kontrollieren 
 und es verschluckt dich,\. macht dich 
@@ -113,6 +120,7 @@ event = 6
 page = 1
 command = 93
 has_portrait = true
+# Prophet
 original = '''
 \c[10]????\c[0]:\s[1] Heimdall aber steht über all 
 dem.\. Nur unter seiner Führung können 
@@ -131,6 +139,7 @@ event = 6
 page = 1
 command = 104
 has_portrait = true
+# Genji
 original = '''
 \c[10]????\c[0]:\s[1] Und was sollen wir dann tun? \.
 Beobachten und Warten?
@@ -145,6 +154,7 @@ event = 6
 page = 1
 command = 110
 has_portrait = true
+# Prophet
 original = '''
 \c[10]????\c[0]:\s[1] Beobachten und Warten.\. Warten 
 bis der Moment gekommen ist...
@@ -159,6 +169,7 @@ event = 6
 page = 1
 command = 124
 has_portrait = true
+# Prophet
 original = '''
 \c[10]????\c[0]:\s[1] Der Moment an dem wir die 
 Zwillingsseelen zusammenführen und 

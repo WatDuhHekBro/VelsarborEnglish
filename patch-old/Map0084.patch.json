@@ -396,8 +396,7 @@
 			[
 				"\\c[1]\\n[1]\\c[0]: Cibon please, not in front",
 				"of all the people here."
-			],
-			"__comment__": "\"Cibon, please, not in front of the children.\""
+			]
 		},
 		{
 			"path": [15,1,41,1],
@@ -566,8 +565,7 @@
 			[
 				"\\c[2]\\n[2]\\c[0]: What?\\. Think I can't",
 				"handle a challenge?"
-			],
-			"__comment__": "\"lebensmüde\"... Yeah, no clue either. :/"
+			]
 		},
 		{
 			"path": [15,1,170,2],
@@ -714,8 +712,7 @@
 			[
 				"\\c[10]Boy\\c[0]: Ugh...\\. I don't wanna go back",
 				"to Sinkholm.\\. It's always so boring."
-			],
-			"__comment__": "If I'm not wrong, it's the same exact person, only with a different title."
+			]
 		},
 		{
 			"path": [25,2,2,2],
@@ -822,8 +819,7 @@
 				"\\c[10]Merchant\\c[0]: In the west you can make a small detour",
 				"to the port town of \\n[22] to buy precious,",
 				"preserved saltwater fish for a fairly low price."
-			],
-			"__comment__": "Redundant name? - port town of Port Retisa"
+			]
 		},
 		{
 			"path": [30,1,11,4],
@@ -900,8 +896,7 @@
 				"\\c[10]Inn Owner\\c[0]: Finally, this idiot is finally out",
 				"of my shop.\\. I saw how he drove out the first",
 				"customers.\\. It wasn't good for business."
-			],
-			"__comment__": "Same reason as above."
+			]
 		}
 	]
 }
