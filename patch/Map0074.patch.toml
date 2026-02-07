@@ -1790,14 +1790,6 @@ patched = '''Other Questions (Esc = Exit)'''
 [[text]]
 event = 7
 page = 1
-command = 94
-has_portrait = true
-original = ''''''
-patched = ''''''
-
-[[text]]
-event = 7
-page = 1
 command = 103
 has_portrait = true
 original = '''Ein paar Tipps?/Bedeutung von Mental-Punkten(MP)/Andere Fragen (Esc=Beenden)'''
@@ -1826,11 +1818,3 @@ command = 141
 has_portrait = true
 original = '''Andere Fragen (Esc=Beenden)'''
 patched = '''Other Questions (Esc = Exit)'''
-
-[[text]]
-event = 7
-page = 1
-command = 144
-has_portrait = true
-original = ''''''
-patched = ''''''

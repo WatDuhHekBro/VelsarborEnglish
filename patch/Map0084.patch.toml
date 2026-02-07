@@ -1436,25 +1436,3 @@ patched = '''
 of my shop.\. I saw how he drove out the first
 customers.\. It wasn't good for business.
 '''
-
-[[text]]
-event = 12
-page = 1
-command = 24
-has_portrait = true
-original = '''Soko'''
-patched = '''Soko'''
-
-[[text]]
-event = 15
-page = 1
-command = 9
-original = '''????'''
-patched = '''????'''
-
-[[text]]
-event = 15
-page = 1
-command = 54
-original = '''????'''
-patched = '''????'''
