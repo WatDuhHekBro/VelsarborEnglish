@@ -1,0 +1,52 @@
+html, body
+{
+	height: 100%;
+	margin: 0;
+	text-align: center;
+}
+
+.dialogue
+{
+	margin: 15px auto;
+}
+
+.lines
+{
+	background-color: #00539c;
+	max-width: fit-content;
+	margin: auto;
+}
+
+.lines code
+{
+	color: white;
+	display: block;
+	text-align: left;
+}
+
+.check
+{
+	margin: auto;
+	display: block;
+	max-width: fit-content;
+	background-color: green;
+}
+
+.overflow
+{
+	color: white;
+	display: block;
+	background-color: red;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button
+{
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+input[type=number]
+{
+	-moz-appearance:textfield;
+}
