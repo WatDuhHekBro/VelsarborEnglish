@@ -17,18 +17,6 @@ Map0245
 Map0250 (Added)
 ```
 
-```
-Delete?
-Map0006
-Map0007
-Map0011
-Map0012
-Map0014
-Map0143
-Map0144
-Map0213
-```
-
 # Dump
 
 ```
