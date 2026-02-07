@@ -926,6 +926,16 @@ archenemies are on the way to challenge them
 and they seem almost unstoppable at that!
 '''
 
+# For the first replacing, it fixes a bug where the dialogue box wouldn't show up after the Zinkar blood message.
+[[splice-commands]]
+event = 156
+page = 1
+replace_commands_from = 61
+replace_commands_to = 61
+commands = [
+	[12330, 4, '''''', [0, 118, 0]],
+]
+
 [[dialogue]]
 event = 156
 page = 1
@@ -985,6 +995,17 @@ patched = '''
 \c[2]\n[2]\c[0]: Ugh...\. It's so terrible.
 '''
 
+[[splice-commands]]
+event = 156
+page = 1
+replace_commands_from = 91
+replace_commands_to = 91
+commands = [
+	[12330, 5, '''''', [0, 119, 0]],
+	[10110, 5, '''\c[10]Announcer\c[0]: Seems like you have a crummy taste for''', []],
+	[20110, 5, '''humor!''', []],
+]
+
 [[dialogue]]
 event = 156
 page = 1
@@ -1016,6 +1037,17 @@ patched = '''
 \c[2]\n[2]\c[0]: Can someone just tell this guy
 that he's not even funny at all?
 '''
+
+[[splice-commands]]
+event = 156
+page = 1
+replace_commands_from = 102
+replace_commands_to = 102
+commands = [
+	[12330, 5, '''''', [0, 119, 0]],
+	[10110, 5, '''\c[10]Announcer\c[0]: There's no escaping my punitentiary''', []],
+	[20110, 5, '''now!''', []]
+]
 
 [[dialogue]]
 event = 156
@@ -1855,6 +1887,15 @@ patched = '''
 \c[10]Announcer\c[0]: GET READY TO RUMBLE!!
 '''
 
+[[splice-commands]]
+event = 156
+page = 3
+replace_commands_from = 39
+replace_commands_to = 39
+commands = [
+	[10110, 2, '''\c[10]Announcer\c[0]: AND THE CROWD GOES WILD!!''', []],
+]
+
 [[dialogue]]
 event = 156
 page = 3
@@ -1884,6 +1925,15 @@ patched = '''
 step closer to their goal!\. Another victory.\.
 The Zinkar Brothers better be prepared!
 '''
+
+[[splice-commands]]
+event = 156
+page = 3
+replace_commands_from = 59
+replace_commands_to = 59
+commands = [
+	[10110, 3, '''\c[10]Announcer\c[0]: AND THE CROWD GOES WILD!!''', []],
+]
 
 [[dialogue]]
 event = 156
@@ -1941,6 +1991,15 @@ patched = '''
 \c[2]\n[2]\c[0]: What a loser!
 '''
 
+[[splice-commands]]
+event = 156
+page = 3
+replace_commands_from = 82
+replace_commands_to = 82
+commands = [
+	[10110, 4, '''\c[10]Announcer\c[0]: AND THE CROWD GOES WILD!!''', []],
+]
+
 [[dialogue]]
 event = 156
 page = 3
@@ -1993,6 +2052,15 @@ original = '''
 patched = '''
 \c[13]\n[3]\c[0]: ...
 '''
+
+[[splice-commands]]
+event = 156
+page = 3
+replace_commands_from = 103
+replace_commands_to = 103
+commands = [
+	[10110, 5, '''\c[10]Announcer\c[0]: AND THE CROWD GOES WILD!!''', []],
+]
 
 [[dialogue]]
 event = 156

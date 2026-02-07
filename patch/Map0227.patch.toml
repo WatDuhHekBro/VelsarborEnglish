@@ -100,3 +100,13 @@ patched = '''
 (\c[10]Sir Vorento\c[0]: ...and her name isn't
 mentioned here...)
 '''
+
+# It also seems like this scene was supposed to have music. There's a play BGM command here unlike with the Buronia scene, "DasLandEntscheidet", but the midi itself doesn't play. Passing it through MuseScore3 seems to work. There isn't a fade out event though, making the transition awkward.
+[[splice-commands]]
+event = 19
+page = 2
+replace_commands_from = 72
+replace_commands_to = 72
+commands = [
+	[11520, 0, '''''', [2000]],
+]

@@ -5,16 +5,7 @@ The next release will only have the pre-patched release, no dev stuff or separat
 
 ```
 Manual Patches
-Map0081
-Map0093
-Map0179
-Map0208
-Map0224
-Map0227
-Map0240
-Map0242
-Map0245
-Map0250 (Added)
+Map0242 (page splicing required)
 ```
 
 # Dump
@@ -96,9 +87,4 @@ WARNING: [map.Map0074.event.7.page.1.command.144] found no equivalent dialogue i
 WARNING: [map.Map0084.event.12.page.1.command.24] found no equivalent dialogue in its legacy patch!
 WARNING: [map.Map0084.event.15.page.1.command.9] found no equivalent dialogue in its legacy patch!
 WARNING: [map.Map0084.event.15.page.1.command.54] found no equivalent dialogue in its legacy patch!
-WARNING: Some legacy entries weren't used in the conversion process for Map0179!
-{(25, 2, 157): "Bedrohung_von_oben"}
-WARNING: Some legacy entries weren't used in the conversion process for Map0208!
-{(34, 10, 187): "2003MaximumBattle"}
-ERROR: Error on reading TOML patch file for Map0250!
 ```

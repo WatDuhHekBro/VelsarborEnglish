@@ -792,3 +792,13 @@ armed forces ready to intervene
 immediately if the situation
 requires it.
 '''
+
+# It seems like there was supposed to be music here but was forgotten, because there's a fade out BGM command at the end of the second visit.
+[[splice-commands]]
+event = 24
+page = 2
+replace_commands_from = 6
+replace_commands_to = 6
+commands = [
+	[11510, 0, '''AmLaengerenHebel''', [5000, 100, 100, 50]],
+]

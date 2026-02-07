@@ -261,3 +261,14 @@ forward to seeing how they'd react
 to us just leaving the mine like
 that.
 '''
+
+# There's an issue where having a battle in this map will display the Corine Plateau as the backdrop instead of the mine. That's because variable 16 (KS-BACKGROUND) is set to 9 instead of 17.
+[[splice-commands]]
+event = 21
+page = 1
+replace_commands_from = 34
+replace_commands_to = 35
+commands = [
+	#[10220, 1, '''''', [0, 16, 16, 0, 0, 9, 0]], (original)
+	[10220, 1, '''''', [0, 16, 16, 0, 0, 17, 0]],
+]

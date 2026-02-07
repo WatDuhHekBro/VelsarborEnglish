@@ -1,0 +1,31 @@
+# There's an error when going to map 251 at events 30-32. It's a buggy door, teleporting you right back. Changes (0,42) to (1,42).
+
+[[splice-commands]]
+event = 30
+page = 1
+replace_commands_from = 4
+replace_commands_to = 5
+commands = [
+	#[10810, 0, '''''', [251, 0, 42]], (original)
+	[10810, 0, '''''', [251, 1, 42]],
+]
+
+[[splice-commands]]
+event = 31
+page = 1
+replace_commands_from = 4
+replace_commands_to = 5
+commands = [
+	#[10810, 0, '''''', [251, 0, 42]], (original)
+	[10810, 0, '''''', [251, 1, 42]],
+]
+
+[[splice-commands]]
+event = 32
+page = 1
+replace_commands_from = 4
+replace_commands_to = 5
+commands = [
+	#[10810, 0, '''''', [251, 0, 42]], (original)
+	[10810, 0, '''''', [251, 1, 42]],
+]

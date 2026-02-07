@@ -331,6 +331,16 @@ patched = '''
 \c[10]Man\c[0]: Do you know what a FALCON post is?
 '''
 
+[[splice-commands]]
+event = 11
+page = 2
+replace_commands_from = 6
+replace_commands_to = 6
+commands = [
+	[10110, 1, '''\c[10]Man\c[0]: FALCON stands for the Free Associative''', []],
+	[20110, 1, '''Legion of Couriers Obligated to Neutrality.''', []],
+]
+
 [[dialogue]]
 event = 11
 page = 2

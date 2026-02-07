@@ -315,13 +315,5 @@
 			]
 		}
 	],
-	"other":
-	[
-		{
-			"path": [25,2,157],
-			"original": "Ernstes-Gefecht2",
-			"patch": "Bedrohung_von_oben"
-		}
-	],
 	"__comment__": "The version of \"Schock\" in the first demo is much better. The version in this demo is way too quiet, especially for such a pivotal scene."
 }

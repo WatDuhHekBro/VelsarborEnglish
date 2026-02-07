@@ -514,3 +514,10 @@ patched = '''
 (\c[10]?????\c[0]: The Lord and his wishes...\.
 He makes my life difficult.)
 '''
+
+[[text]]
+event = 25
+page = 2
+command = 157
+original = '''Ernstes-Gefecht2'''
+patched = '''Bedrohung_von_oben'''

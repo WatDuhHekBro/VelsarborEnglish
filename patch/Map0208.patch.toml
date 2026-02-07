@@ -1873,6 +1873,13 @@ the \c[11]world map\c[0].
 '''
 
 [[text]]
+event = 34
+page = 10
+command = 187
+original = '''Ernstes-Gefecht2'''
+patched = '''2003MaximumBattle'''
+
+[[text]]
 event = 41
 page = 1
 command = 4
