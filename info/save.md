@@ -1,0 +1,40 @@
+# Info
+
+- Despite what you may initially think, the map tree has nothing to do with the names of maps shown when you save.
+- Instead, it's determined by the name given by each save point's code (meaning it's in the map data).
+- For example, "Sink-Lohn-P." is not found anywhere in the map tree, only in Map0037.
+- Seems like most of the original text was made to cap out at around 12 characters.
+- After some tests, it seems like while 50 characters is the absolute limit, 14 is the safe limit (in bounds) while the 15th character, if present, is cut off a bit. So the limit is ultimately 14 characters.
+- I decided to keep the save points in the Corine Plateau, Silvan Forest, and the mysterious fortress ambiguous because it doesn't matter too much which save point you saved at. However, with the Helnovien Mine, knowing which part you're at is important. Also, "Mine (Lake)" looks better than "Mine: Lake".
+
+# List
+
+- **Map0010:** `Weltkarte` / `The Overworld` (13)
+- **Map0019:** `Sinkholm` / `Sinkholm` (8)
+- **Map0037:** `Sink-Lohn-P.` / `Sink-Lohn Pass` (14)
+- **Map0044:** `Nomerea` / `Nomerea Inn` (11)
+- **Map0067:** `Burg Nomerea` / `Nomerea Castle` (14)
+- **Map0085:** `GasthofToras` / `Mt Toras Inn` (11)
+- **Map0099:** `TorasGipfel` / `Mt Toras Summit` (14)
+- **Map0105:** `Toras|Hoehle` / `Mt Toras Cave` (12)
+- **Map0114:** `Gasth.Corine` / `Corine Inn` (10)
+- **Map0126:** `CorinePlat1` / `Corine Plateau` (14)
+- **Map0140:** `CorinePlat2` / `Corine Plateau` (14)
+- **Map0147:** `CorinePlat3` / `Corine Plateau` (14)
+- **Map0148:** `Gencorin1` / `Gencorin` (14)
+- **Map0155:** `Gencorin1` / `Gencorin Inn` (12)
+- **Map0178:** `Silvanwald1` / `Silvan Forest` (13)
+- **Map0188:** `AufderFlucht` / `The Escape` (10)
+- **Map0195:** `Stützpunkt1` / `Fortress?` (9)
+- **Map0200:** `Stützpunkt2` / `Fortress?` (9)
+- **Map0201:** `Stützpunkt3` / `Fortress?` (9)
+- **Map0208:** `Stützpunkt4` / `Fortress?` (9)
+- **Map0230:** `HelnovZellen` / `Helnov Cells` (12)
+- **Map0231:** `HelnovZellen` / `Helnov Cafe` (11)
+- **Map0234:** `TurnierLager` / `Tournament` (10)
+- **Map0242:** `Vor der Mine` / `Mine Entrance` (13)
+- **Map0244:** `Helnov Mine3` / `Mine (Lake)` (11)
+- **Map0256:** `Helnov Mine4` / `Mine (Cliffs)` (13)
+- **Map0258:** `Helnov Mine2` / `Mine (Center)` (13)
+- **Map0259:** `Helnov Mine1` / `Mine (Tunnels)` (14)
+- **Map0281:** `Mine Lager` / `Storeroom` (9)

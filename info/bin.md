@@ -1,32 +1,42 @@
-Font: Brock Script
-Author: Typographer Mediengestaltung
-License: Free for personal and commercial use.
-Link: https://www.1001fonts.com/brock-script-font.html
+# Font
 
-[Font Settings (GIMP)]
-Font Size: 24px
-Hinting: None
-Justify: Center
-Line Spacing: 13px
+- **Font Name:** Brock Script
+- **Author:** Typographer Mediengestaltung
+- **License:** Free for personal and commercial use.
+- **Link:** https://www.1001fonts.com/brock-script-font.html
 
-[Locations]
+## Font Settings (GIMP)
+
+- **Font Size:** 24px
+- **Hinting:** None
+- **Justify:** Center
+- **Line Spacing:** 13px
+
+## Locations
+
 CharSet/...
-- ctb-Bildchen
-- pos-zustand-Bildchen
-- pos-zustand-Bildchen2
-- zahlen
+- `ctb-Bildchen`
+- `pos-zustand-Bildchen`
+- `pos-zustand-Bildchen2`
+- `zahlen`
+
 ChipSet/...
-- KS-Chipset
-- KS-Chipset2
+- `KS-Chipset`
+- `KS-Chipset2`
+
 FaceSet/Save_Kapitel
+
 Panorama/...
+
 Picture/...
 
 
 
-###############
-# Intro Scene #
-###############
+# Intro Scene
+
+## German
+
+```
 So stand das Ende erneut bevor,
 so tat es ein weiterer Anfang.
 
@@ -47,9 +57,11 @@ aus seinen Fugen geraten.
 
 Soll der Lauf hiermit den Anfang
 von seinem Ende gefunden haben?
+```
 
-[=======================================]
+## English
 
+```
 As the end reared its unsightly head,
 the birth of another beginning was here.
 
@@ -70,12 +82,15 @@ effortless stride in the eyes of God.
 
 But was our long journey just
 the beginning of a new end?
+```
 
 
 
-###########################
-# Mysterious Citadel Core #
-###########################
+# Mysterious Citadel Core
+
+## German
+
+```
 Ich tue, wie du es mir sagtest...
 
 ...und werde ein letztes Mal
@@ -110,9 +125,11 @@ Wieso existiert diese Maschine?!
 
 Ich wünschte,
 wir hätten sie nie entdeckt!
+```
 
-[=======================================]
+## English
 
+```
 I'll do as you said...
 
 ...and fight for this world
@@ -147,12 +164,15 @@ Why does this machine exist?!
 
 I wish,
 we would've never discovered it!
+```
 
 
 
-###################
-# Opening Credits #
-###################
+# Opening Credits
+
+## German
+
+```
 Lachsen presentiert
 Lachsen präsentiert
 
@@ -186,9 +206,11 @@ Chibi
 
 Technik:
 Lachsen
+```
 
-[=======================================]
+## English
 
+```
 Offset: (58,11)
 Lachsen prezents
 Lachsen presents
@@ -223,12 +245,15 @@ Chibi
 
 Technical:
 Lachsen
+```
 
 
 
-############
-# Overture #
-############
+# Overture
+
+## German
+
+```
 Es herrscht Krieg
 auf dem Kontinent Tora
 
@@ -270,9 +295,11 @@ Korzojeno unterdrückt.
 
 Und so hoffte man der
 Kampf wäre beendet...
+```
 
-[=======================================]
+## English
 
+```
 War broke out
 on the continent of Tora.
 
@@ -314,12 +341,15 @@ Korzojeno suppressed.
 
 And so they hoped that
 the fighting would cease...
+```
 
 
 
-###############
-# Nightmare I #
-###############
+# Nightmare I
+
+## German
+
+```
 "In dir fließt das Blut der
 Daikons. Trage es mit Würde."
 
@@ -354,9 +384,11 @@ affeine zu sein? Ganz ohne sie?"
 ausgezeichneter Kämpfer werden!"
 
 Wieso hast du das getan?!
+```
 
-[==================================]
+## English
 
+```
 "The blood of the Daikons flows
 through you. Be proud of it."
 
@@ -391,12 +423,15 @@ kinship? Without her?"
 an excellent fighter!"
 
 What have you done?!
+```
 
 
 
-################
-# Nightmare II #
-################
+# Nightmare II
+
+## German
+
+```
 "Es ist hart, ich weiß, aber du
 musst stark sein, mein Schatz."
 
@@ -432,9 +467,11 @@ mach dir keine Sorgen..."
 
 "Nur um dich unglücklich
 zu machen!"
+```
 
-[==================================]
+## English
 
+```
 "It's tough, I know, but you
 have to be strong, honey."
 
@@ -470,12 +507,15 @@ don't worry..."
 
 "All in order to
 bring you misery!"
+```
 
 
 
-#################
-# Nightmare III #
-#################
+# Nightmare III
+
+## German
+
+```
 "Armer Junge, zuerst hat er
 seinen Vater verloren und dann..."
 
@@ -527,9 +567,11 @@ und ziehe euch beide mit!"
 
 Ich werde dich nicht
 gewinnen lassen! Niemals!
+```
 
-[==================================]
+## English
 
+```
 "Poor boy, first he lost
 his father and then..."
 
@@ -581,12 +623,15 @@ taking you both with me!"
 
 I won't let you win!
 Ever!
+```
 
 
 
-################
-# Nightmare IV #
-################
+# Nightmare IV
+
+## German
+
+```
 "Wahrhaftig!
 Das ist mein Sohn!
 Das ist mein Kento!"
@@ -629,9 +674,11 @@ und ziehe euch beide mit!")
 
 "Wofür?! Antworte!
 Antworte gefälligst!"
+```
 
-[==================================]
+## English
 
+```
 "Truly!
 This is my son!
 This is my Kento!"
@@ -674,12 +721,13 @@ taking you both with me!")
 
 Why?! Answer me!
 Please answer me!
+```
 
 
 
-###############
-# Nightmare V #
-###############
+# Nightmare V
+
+```
 ("Ich nehme dir alles, alles was
 dich glücklich macht, mein Sohn!")
 
@@ -715,9 +763,11 @@ gar nichts mehr!"
 "Kento... es ist gut..."
 
 Wer...?
+```
 
-[==================================]
+## English
 
+```
 ("I'll take away everything,
 everything that makes you happy, my son!")
 
@@ -754,19 +804,22 @@ STOP IT!!
 "Kento... it's okay..."
 
 Who...?
+```
 
 
 
-##################
-# Ending Credits #
-##################
-Big Text - 20px
-Small Text - 18px
-Non-Fancy Small Text - Arial 11px (-3 line spacing)
-Non-Fancy Medium Text - Arial 13px (-3 line spacing)
+# Ending Credits
 
-[=======================================]
+## Font
 
+- **Big Text:** 20px
+- **Small Text:** 18px
+- **Non-Fancy Small Text:** Arial 11px (-3 line spacing)
+- **Non-Fancy Medium Text:** Arial 13px (-3 line spacing)
+
+## German
+
+```
 Erstellt mit dem RPG-Maker 2000 von Enterbrain
 Geschichte
 Mit Unterstützung von
@@ -830,9 +883,11 @@ Velsarbor ist gecancelt...
 Doch Neues wird folgen:
 
 www.radicalfishgames.com
+```
 
-[=======================================]
+## English
 
+```
 Made with RPG Maker 2000 from Enterbrain
 Story
 With the help of
@@ -896,23 +951,25 @@ Velsarbor is cancelled...
 But something new is coming:
 
 www.radicalfishgames.com
+```
 
 
 
-#################
-# Miscellaneous #
-#################
+# Miscellaneous
+
+## Picture/Spiel-Start-ID
+
 Geben sie ihrem Spiel eine ID!
 
 Give your game an ID!
 
-[=======================================]
+## SZENE-ZurgleichenZeit
 
 Zur gleichen Zeit...
 
 Meanwhile...
 
-[=======================================]
+## SZENE-Text-2 / SZENE-Text-3
 
 9 Jahre später...
 
@@ -925,43 +982,43 @@ Kleinstadt Sinkholm
 Sinkholm, Western Brigantia
 A peaceful little village...
 
-[=======================================]
+## SZENE-Text-1
 
 Am nächsten Morgen...
 
 The next morning...
 
-[=======================================]
+## SZENE3-Text-1
 
 Zur gleichen Zeit in Buronia
 
 Meanwhile in Buronia...
 
-[=======================================]
+## SZENE4-Text-1
 
 Zur gleichen Zeit in Nomerea...
 
 Meanwhile in Nomerea...
 
-[=======================================]
+## SZENE6-Text-1
 
 Einige Stunden später...
 
 A few hours later...
 
-[=======================================]
+## SZENE7-Text-1
 
 Zur gleichen Zeit in der Nähe...
 
 At the same time nearby...
 
-[=======================================]
+## SZENE10-Text-1
 
 Zur gleichen Zeit im Silvanwald
 
 Meanwhile in the Silvan Forest...
 
-[=======================================]
+## SZENE11-Text-1
 
 Einige Zeit später im
 Schloss von Domarkor
@@ -969,7 +1026,7 @@ Schloss von Domarkor
 Some time later in
 Domarkor Palace...
 
-[=======================================]
+## SZENE12-Text-1
 
 Das Gefängnis von Helnovien
 
@@ -977,25 +1034,28 @@ The Helnovien Prison
 
 
 
-############
-# worldmap #
-############
-**Font Size: 19**
-Corine-Plateau: The Corine Plateau
-Gasthof: Inn
-Gencorin: Gencorin
-Nomerea: Nomerea
-Post-Versand-Stelle: FALCON Post (It's actually the name of an association. "___ Express") - Free Associative Legion of Couriers Obligated to Neutrality
-Silvanwald: The Silvan Forest
-Sinke-Lohne-Pass: The Sink-Lohne Pass
-Sinkholm: Sinkholm
-Torasgebirge: Mount Toras
+# worldmap
+
+- **Font Size: 19**
+- **Corine-Plateau:** The Corine Plateau
+- **Gasthof:** Inn
+- **Gencorin:** Gencorin
+- **Nomerea:** Nomerea
+- **Post-Versand-Stelle:** FALCON Post
+	- It's actually the name of an association. "___ Express"
+	- Free Associative Legion of Couriers Obligated to Neutrality
+- **Silvanwald:** The Silvan Forest
+- **Sinke-Lohne-Pass:** The Sink-Lohne Pass
+- **Sinkholm:** Sinkholm
+- **Torasgebirge:** Mount Toras
 
 
 
-#################
-# Unused Intro? #
-#################
+# Unused Intro?
+
+## German
+
+```
 Schon Jahrzehnte lang ...
 
 ...lassen wir unsere Klingen
@@ -1022,3 +1082,4 @@ Wieso muss diese Klinge existieren?
 
 Ich wünschte,
 es hätte sie niemals gegeben...
+```

@@ -1,0 +1,218 @@
+# Amazing Names
+
+- Anelia Saltatio
+- Belias
+- Chuck
+- Cibon Tirunel
+- Cieoly
+- Dilea Daikon
+- Erim Akiro
+- Felcis Kiorta
+- Frau Mensesso (Lady Mensesso)
+- Frau Tirunel (Mrs. Tirunel)
+- Genji
+- Genyu Daikon
+- Guillian
+- Gurim Zinkar
+- Heimdall
+- Herr Dorim (Mr. Dorim)
+- Herr Qurenporelis/Kuränporäli/Kuhrehpolarkreis/Kurenporalis (Mr. Qurenporelis/Kurenporeli/Kuhrehpolarkreis/Kurenporalis)
+- Herr Uroto (Mr. Uroto)
+- Ileya Reisato
+- Jorn Zinkar
+- Kento Daikon
+- Koge Saltatio
+- Kumiko
+- Lesario Saltatio
+- Melanus Aureeus
+- Percil Cotiah
+- Prinz Rhedoran (Prince Rhedoran)
+- Ranarion Tirunel
+- Rekreto
+- Rika
+- Robin Llewlynus
+- Royko
+- Saion Zinkar
+- Sedric
+- Seldan
+- Silkia Tirunel
+- Sir Avaron
+- Sir Dolaros
+- Sir Famares
+- Sir Vintal
+- Sir Vorento
+- Soko Filaja
+- Vel03
+- Yahenru Hartenso
+
+
+
+# Generic NPCs
+
+- **Adelsfrau:** Noblewoman
+- **Adelsmann:** Nobleman
+- **Alte Frau:** Old Woman
+- **Ater Gefangener:** Old Prisoner (must be a misspelling of "Alter")
+- **Alter Gefangener:** Old Prisoner
+- **Alter Herr:** Old Man
+- **Alter Mann:** Old Man
+- **Älterer Gefangener:** Old Prisoner
+- **Anderer Räuber:** Other Robber
+- **Anderer Soldat:** Other Soldier
+- **Angehender Soldat:** Aspiring Soldier
+- **Ansager:** Announcer
+- **Ausbilder:** Instructor
+- **Betrunkener Mann:** Drunk Man
+- **Blauhaarige Frau:** Blue-Haired Woman
+- **Blonde Frau:** Blonde Woman
+- **Blonder Soldat:** Blond Soldier
+- **Blonder Typ:** Blond Guy
+- **Blondes Mädchen:** Blonde Girl
+- **Braunhaarige Frau:** Brown-Haired Woman
+- **Braunhaariger Soldat:** Brown-Haired Soldier
+- **Burg Nomerea:** Nomerea Castle
+- **Bürgermeister:** Mayor
+- **Chef:** Da Boss (Chefv is probably a typo)
+- **Frau:** Woman
+- **Frau an der Theke:** Woman at the Counter
+- **Funkdurchsage:** Radio
+- **Gärtner:** Gardener
+- **Gast:** Guest
+- **Gasthofbesitzer:** Inn Owner
+- **Gasthofbesitzerin:** Inn Owner
+- **Gasthof-Besitzer:** Inn Owner
+- **Gefangene:** Prisoner
+- **Gefangener:** Prisoner
+- **Gegnerische Einheit:** Enemy Soldier
+- **General**
+- **Glatzköpfiger Händler:** Bald Merchant
+- **Großvater:** Grandfather
+- **Grünhaarige Frau:** Green-Haired Woman
+- **Händler:** Merchant/Trader (depending on context)
+- **Händlerin:** Merchant/Trader (depending on context)
+- **Hausfrau:** Housewife
+- **Herr in blauem Anzug:** Gentleman in a Blue Suit
+- **Hotelbesitzer:** Hotel Owner
+- **Ingenieur:** Engineer
+- **Junge:** Boy
+- **Junge Dame:** Young Lady
+- **Junge Frau:** Young Woman
+- **Junger Mann:** Young Man
+- **Junges Mädchen:** Young Girl
+- **Kellnerin:** Waitress
+- **Kleiner Junge:** Little Boy
+- **Kleines Mädchen:** Little Girl
+- **Köchin:** Cook
+- **Korzojenischer Soldat:** Korzojenish Soldier
+- **Kurzhaariges Mädchen:** Short-Haired Girl
+- **Ladenbesitzer:** Shopkeeper
+- **Ladenbesitzerin:** Shopkeeper
+- **Lilahaarige Frau:** Purple-Haired Woman
+- **Linke Wache:** Left Guard
+- **Mädchen:** Girl
+- **Mann:** Man
+- **Mann an der Theke:** Man at the Counter
+- **Massen:** Crowd
+- **Mitglied des Rates:** Council Member
+- **Nebelklingen:** Mist Blades
+- **Nicht ganz eingelebter Gefangener:** New Prisoner
+- **Oberstes Ratmitglied:** Head Council Member
+- **Patricia des Signums:** Patrician of Signums
+- **Pauamainer-Miglied:** Pauamainer Member (must be a misspelling of "Mitglied")
+- **Pauamainer-Mitglied:** Pauamainer Member (of the Pauamainer Brotherhood)
+- **Pauamainer Schütze:** Pauamainer Archer
+- **Postbote:** Postman
+- **Postbote gegenüber:** Other Postman
+- **Postboten-Neuling:** Rookie Postman
+- **Putzfrau:** Maid
+- **Räuber:** Robber
+- **Rechte Wache:** Right Guard
+- **Reisende:** Traveller
+- **Reisender:** Traveller
+- **Reiter:** Rider
+- **Rothaarige Frau:** Red-Haired Woman
+- **Rothaariger Soldat:** Red-Haired Soldier
+- **Rothaariges Mädchen:** Red-Haired Girl
+- **Schmied:** Blacksmith
+- **Schwarzhaariger Soldat:** Black-Haired Soldier
+- **Sekretärin:** Secretary
+- **Soldat:** Soldier
+- **Soldaten:** Soldiers
+- **Soldat der Briganten Orden:** Brigantian Soldier
+- **Soldat des Briganten-Orden:** Brigantian Soldier
+- **Soldat des Briganten-Ordens:** Brigantian Soldier
+- **Soldat vom Briganten-Orden:** Brigantian Soldier
+- **Türsteher:** Bouncer
+- **Überdrehtes Mädchen:** Insane Girl
+- **Untere Wache:** Lower Guard
+- **Vater:** Father
+- **Verkäufer:** Salesman
+- **Verkäuferin:** Saleswoman
+- **Wache:** Guard
+- **Wachmann:** Guard
+- **Wachmänner:** Guard
+- **Wächter:** Guard
+- **Zojenische Einheit:** Korzojenish Soldier
+
+
+
+# Places
+
+**Note:** It seems that the game's pretty inconsistent about Birkon/Brigantia and Zojeno/Korzojeno. The beginning of the game and the later parts of the game aren't consistent, even though it's clear that they're the same from context.
+
+## Brigantia
+
+*(Brigantian refers to the people, Brigantine refers to everything else.)*
+
+- The Nation of Brigantia
+- The Brigantine Order
+- Brigantian Soldiers
+- Brigantians live in the world.
+
+## Korzojeno
+
+*(Zojeno is the shortened form in case you hit the limit.)*
+
+- The Nation of Korzojeno
+- Korzojenish Soldiers
+- Korzojens live in the world.
+
+## Farenia
+
+- The Region of Farenia
+- The Farenian Aristocracy
+- Farenian Soldiers
+- Farenians live in the world.
+
+## Tora
+
+- The Continent of Tora
+- The Great Toran Pass
+
+
+
+# Honorifics Used
+
+## Formal Male
+
+- **German:** Sir
+- **French:** Sir
+- **English:** Sir
+
+## Formal Female
+
+- **German:** Frau
+- **French:** Madame
+- **English:** Lady
+
+## Semi-Formal Male
+
+- **German:** Herr
+- **French:** Monsieur
+- **English:** Mr.
+
+## Semi-Formal Female
+
+- **German:** Frau/Fräulein
+- **French:** Mademoiselle
+- **English:** Ms.

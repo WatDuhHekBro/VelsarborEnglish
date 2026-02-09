@@ -1,0 +1,45 @@
+Some pictures have a gradient background behind the text which makes it inconvenient to replace said text without messing up the overall look. This file serves to document where each gradient background can be quilted together.
+
+
+
+# Perfect Quilting
+
+`analyse_fenster`
+- `menu_spielbeenden`
+- `Sieg-Menu-Techfeld1`
+- `System-Minen-ItemGet`
+- `ObjektHandel-BG**`
+
+`auswahl-animation`
+- `auswahl-animation3`
+
+`auswahl-animation6`
+- `lvlup_stat_***+`
+
+`auswahl-animation8`
+- `wahl_abwehr`
+
+`menu_ani-schalter`
+- `Sieg-Menu-Level-Up`
+- `**Panorama**`
+
+`menu_feld-nextlearn1`
+- `ObjektHandel-BG**`
+
+`ObjektHandel-BG**`
+- `ObjektHandel-BG**`
+
+`panorama-only` (in addition to others)
+- `menu_ani-felt`
+- `Sieg-Menu_ani_feld1`
+
+
+
+# Hopefully you won't notice
+
+- `KS-Chipset` <-- `menu_ani-felt2`
+- `menu_feld-nextlearn1` <-- *(itself, duplicated)*
+- `tutorial_pic6` <-- `panorama-VERKAUFEN` *(duplicated)*
+- `nachricht_Element-weg` <-- `panorama-KAUFEN` *(duplicated)*
+- `Spiel-Start-ID_info` <-- `panorama-KAUFEN` *(duplicated)*
+- `**Panorama**` <-- *(various, duplicated)*

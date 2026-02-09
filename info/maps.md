@@ -1,0 +1,65 @@
+# Listed Maps
+
+- **001:** Battle Screen
+- **010:** Main Menu
+- **013:** Sinkholm Exterior
+- **018-027:** Sinkholm (Interior)
+- **028:** World Map
+- **029-038:** Sink-Lohne Pass
+- **039-041:** Nomerea (Exterior)
+- **042-048, 050-059:** Nomerea (Interior)
+- **060-062:** Castle Nomerea (Exterior)
+- **063-074:** Castle Nomerea (Interior)
+- **075:** Flashback
+- **076-078:** Castle Nomerea (Interior)
+- **079-081:** Nomerea Post Office
+- **082:** Rika's Hiding Spot
+- **083-088:** Inn (before Mount Toras)
+- **089-092:** Mount Toras Rise
+- **093:** Buronia Scene
+- **094-099:** Mount Toras Rise
+- **102-107:** Mount Toras Caves
+- **108-111:** Mount Toras Fall
+- **112-117:** Inn (after Mount Toras)
+- **120-121:** Mysterious Messenger Scene
+- **122-127:** Corine Plateau
+- **128:** Game Over
+- **129-130:** Corine Plateau
+- **131-134, 136-138:** Mysterious Citadel
+- **140-142:** Corine Plateau
+- **145:** Prophet Scene I
+- **146-147:** Corine Plateau
+- **148-157:** Brigantine Gencorin
+- **158-168:** Korzojenish Gencorin
+- **169-170:** Gencorin Outskirts
+- **172-174:** Gencorin Post Office
+- **175-176:** Silvan Forest
+- **178-179:** Silvan Forest
+- **180:** Prophet Scene II
+- **181-209:** Hazy Fortress
+- **211-220:** Silvan Forest Escape
+- **221:** Inside the Gencorin Border
+- **222-224:** Helnovien Prison (Exterior)
+- **225-226:** Farenia Scene
+- **227:** Nomerea Scene
+- **228-241:** Helnovien Prison
+- **242:** Helnovien Mine Entrance
+- **243-256:** Helnovien Mine
+- **257:** Helnovien Mine Register
+- **258-267:** Helnovien Mine
+- **268:** Ominous Scene
+- **269-277:** Helnovien Prison
+- **278:** Scene
+- **280-283, 290:** Helnovien Mine
+- **291:** Prophet Scene III
+- **295-296:** Future/Incomplete
+
+# Other Maps
+
+These maps don't seem to have any function, but weren't empty:
+- 006
+- 011
+- 012
+- 014
+- 143
+- 144

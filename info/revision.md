@@ -1,0 +1,1 @@
+The major steps of revision (if I ever get to it) are to standardize style (ie punctuation, capitalization, etc.), add personality to each character, and possibly get other people to proofread it or check if any meaning got lost in translation.
