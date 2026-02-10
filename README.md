@@ -1,3 +1,23 @@
+# TMP: Clipboard
+
+***🚧 TODO: Under Construction 🚧***
+
+Dump
+```
+- [ ] Update readme
+    - [ ] Readme
+    - [ ] GettingStarted
+- [ ] Evidence.png
+```
+
+***Then create a git tag `v24-toml`, then you can start working on stuff***
+
+-----
+
+**Note:** `PatchSetup.md` and `Develop.md` are complete (except for transporting existing text from readme/getting started).
+
+
+
 # Disclaimer
 
 This translation was made by proofreading machine translated lines, adding back any context that was left out. It is not an accurate translation at all.
@@ -40,25 +60,3 @@ If you want to develop a workspace, use my [RPGMaker2kPatcher](https://github.co
 The `master` branch will correlate with each release, double-checked for line endings and line spacing. These release versions can be either a major release or a minor release (pre-release). The other main branch will be the `dev` branch, where dialogue is being added but isn't yet double-checked for differences (also differences in the picture text).
 
 The `text` directory is meant to be temporary. You work with the extracted text, then once you move it to the according patch, you delete the text file. From there, you're likely to only need to make small adjustments to the patch, so it becomes a nuisance to update the text file as well.
-
-# TO-DO List (If you don't want to see any potential spoilers, stop reading.)
-*Because every project needs a to-do list!*
-- Picture Text: 100%
-- Fancy Text: 100%
-- Database: 100%
-- Special (#1/#10/#28): 100%
-## Sections/Areas
-- Prologue: 100%
-- Sinkholm: 100%
-- The Sink-Lohne Pass: 100%
-- Nomerea: 100%
-- The Lohne: 100%
-- Mount Toras: 100%
-- Wayfarer's Inn: 100%
-- The Corine Plateau: 100%
-- Gencorin Pt I: 100%
-- The Silvan Forest: 100%
-- The Mysterious Fortress: 100%
-- Gencorin Pt II: 100%
-- The Helnovien Prison: 100%
-- The Helnovien Mine: 100%
