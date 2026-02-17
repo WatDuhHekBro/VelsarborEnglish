@@ -13,19 +13,16 @@
 # Tools & Workflow
 
 Tools
-- [RPGMaker2kPatcher](https://github.com/WatDuhHekBro/RPGMaker2kPatcher): Compiles all the `*.patch.toml` files in the `<git repo>/patch` folder to patched binary files
+- [RPGMaker2kPatcher](https://github.com/WatDuhHekBro/RPGMaker2kPatcher)
 - `<git repo>/canvas/index.html`: A browser tool to help generate text for manual asset PNGs
 
 Workflow
 - `<git repo>/assets`: A folder containing all manually-edited asset files (like pictures)
 - `<git repo>/info`: A folder containing info files about those manually-edited asset files
 - `<git repo>/patch`: A folder containing all of the dialogue/text patches for the game
-- `<git repo>/build`: A folder containing various auto-generated files
-	- `<git repo>/build/bin` (via `rpgmaker2kpatcher applyPatches`): The location of patched binary files. Drag this into a copy of the game to apply your patches to the game.
-	- `<git repo>/build/decompiled` (via `rpgmaker2kpatcher decompile`): A nice text representation of database/map files for easier debugging & manual patching.
-	- `<git repo>/build/extracted-text` (via `rpgmaker2kpatcher extractText`): A convenient method for looking at all the dialogue/text in a patch without the metadata.
+- `<git repo>/build`: A folder containing various auto-generated files from RPGMaker2kPatcher
 - `<git repo>/Velsarbor`: You must have this folder inside the git repository (such that `<git repo>/Velsarbor/RPG_RT.exe` is the executable path), so you can read the original binary files and then patch them.
-	- **Warning:** If you want to `applyPatches` multiple times (for development), do NOT patch any files in this folder! Apply the patches in a separate folder!
+	- **Warning:** If you want to `apply` patches multiple times (for development), do NOT patch any files in this folder! Apply the patches in a separate folder!
 
 
 

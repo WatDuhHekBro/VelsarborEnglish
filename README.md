@@ -1,62 +1,36 @@
-# TMP: Clipboard
+# Velsarbor (English)
 
-***🚧 TODO: Under Construction 🚧***
-
-Dump
-```
-- [ ] Update readme
-    - [ ] Readme
-    - [ ] GettingStarted
-- [ ] Evidence.png
-```
-
-***Then create a git tag `v24-toml`, then you can start working on stuff***
-
------
-
-**Note:** `PatchSetup.md` and `Develop.md` are complete (except for transporting existing text from readme/getting started).
-
-
-
-# Disclaimer
-
-This translation was made by proofreading machine translated lines, adding back any context that was left out. It is not an accurate translation at all.
-
-This notice is definitely way overdue, and I should've clarified this from the beginning. I should also note that I made some very questionable decisions on the dialogue, especially near the end of the game.
-
-# Velsarbor - English Version
 A battle has broken out. In the midst of a high-tech underground complex, the Brigantine Order has invaded in order to reach the machine core and tap into the power within. Blood is spilt on both sides, the chaos representing the pinnacle of both nations' immense power. Just when the battle seems to be at a permanent stalement, there's only one problem: The mission has been compromised.
 
+## Disclaimer
+
+This translation was made by proofreading and adding back any context that was left out from Google Translate output.
+
+
+
 # Getting Started
-To install this patch, follow the instructions [here](GettingStarted.md).
 
-# Videos
-I have a playlist of update videos in case you want to watch it instead of playing it, [here](https://www.youtube.com/playlist?list=PLT800wgkhxolwCulnS8bWs9LVEPnssTgy). Keep in mind that I'm cutting out regular battles since they're boring to watch.
+You have two options on how to install this patch.
 
-These are the two trailers for the game:
-- [https://www.youtube.com/watch?v=ZuqRkeXgYHQ](https://www.youtube.com/watch?v=ZuqRkeXgYHQ)
-- [https://www.youtube.com/watch?v=YdjZXLk1sF8](https://www.youtube.com/watch?v=YdjZXLk1sF8)
+## Installation #1: The Easy Way
 
-Here are some references:
-- [TrueMG](https://www.youtube.com/playlist?list=PLEED9E15CB6E0D597) (First Demo, up to the end of the Silvan Forest)
-- [TrueMG](https://www.youtube.com/playlist?list=PLSgi0v-Xd3aGWEzfvjlh2gbqLF_cllSq_) (Second/Final Demo, up to the end of Nomerea)
-- [MajinSonicLP](https://www.youtube.com/playlist?list=PLxdruDpgzoSHWmU5xxbEkfbF5dtemyDeN) (Second/Final Demo, the entire game)
-- [Tsuyoshi](https://www.youtube.com/playlist?list=PLMP3JOKdupbZ-erFuW239eLVM5TasXRMi) (Second/Final Demo, the entire game & he seems to have 100%'d it too)
+Download `pre-patched.zip` from the latest version in [this repository's releases](https://github.com/WatDuhHekBro/VelsarborEnglish/releases).
 
-And let's not forget the video that started it all: [The video by Hydlide S](https://www.youtube.com/watch?v=LNBnLKQmUmQ)
+*Note: As of right now, you still need to install the unofficial German RTP under the "Installation: Patching It Yourself" section.*
 
-# Regarding The French Version
-For many years now, there has been a [French version of Velsarbor](http://www.rpg-maker.fr/jeux-418-velsarbor-version-francaise.html) by Shanka. This page at least seems to be based on the first demo of Velsarbor, which you can tell by the number of maps. The first demo has 180 maps while the second/final demo has 296 maps. I'm not sure if saves transfer, though I can't see any reason why they wouldn't. There are a few maps I know of that have completely changed their dialogue, but it seems like they're far and few between.
+## Installation #2: Patching It Yourself
 
-# Dev Section Below
-AFAIK, the people who previously worked on translations never published their progress, and it seems like they haven't worked on it since.
+To generate your own patched binary files from this git repository, follow the instructions [here](PatchSetup.md).
 
-For now, parsed map files are not included, but may be in the future.
-Images can be found along with patched map files in the `Releases` section.
+Then, you need to download the [unofficial German RTP](http://rpg2000.4players.de/index.php?inhalt=rpgmaker). Look for where it says `Runtimepackage 1.0 (12.5 MB)`, which should be the first section at the top-right. The file you download should be named `RTPE.exe`.
 
-If you want to develop a workspace, use my [RPGMaker2kPatcher](https://github.com/WatDuhHekBro/RPGMaker2kPatcher) and then compile the JSON data files yourself. The work is all in `patch/`, so those will compile the patched binary files for use with the game.
+## Installation: Issues/Troubleshooting
 
-# Workflow
-The `master` branch will correlate with each release, double-checked for line endings and line spacing. These release versions can be either a major release or a minor release (pre-release). The other main branch will be the `dev` branch, where dialogue is being added but isn't yet double-checked for differences (also differences in the picture text).
+- If you get the error `DirectDraw Error(DDERR_UNSUPPORTED)` when starting the game, then set `RPG_RT.exe` to Windows 7 compatibility mode.
+- If you open up the game and the font looks unusually thick, you can download a [font patch](https://www.moddb.com/downloads/rpg-maker-2000-font-patch) to fix the font.
 
-The `text` directory is meant to be temporary. You work with the extracted text, then once you move it to the according patch, you delete the text file. From there, you're likely to only need to make small adjustments to the patch, so it becomes a nuisance to update the text file as well.
+## Extra Information
+
+Once you've finished installing the game, that's it!
+
+However, if you'd like to read more information about the game (such as unintuitive mechanics), you can go to [this document](Extra.md).
